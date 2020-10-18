@@ -1,0 +1,3051 @@
+Region,Constellation,System,Name,Item,Rate,Output
+Pure Blind,MDM8-J,KQK1-2,KQK1-2 I,Lustering Alloy,Medium,22.81
+Pure Blind,MDM8-J,KQK1-2,KQK1-2 I,Toxic Metals,Medium,6.43
+Pure Blind,MDM8-J,KQK1-2,KQK1-2 I,Supertensile Plastics,Medium,15.61
+Pure Blind,MDM8-J,KQK1-2,KQK1-2 I,Construction Blocks,Medium,25.45
+Pure Blind,MDM8-J,KQK1-2,KQK1-2 II,Gleaming Alloy,Perfect,35.13
+Pure Blind,MDM8-J,KQK1-2,KQK1-2 II,Heavy Metals,Rich,29.76
+Pure Blind,MDM8-J,KQK1-2,KQK1-2 II,Noble Metals,Rich,32.66
+Pure Blind,MDM8-J,KQK1-2,KQK1-2 III,Condensed Alloy,Rich,27.26
+Pure Blind,MDM8-J,KQK1-2,KQK1-2 III,Opulent Compound,Rich,27.51
+Pure Blind,MDM8-J,KQK1-2,KQK1-2 III,Toxic Metals,Rich,8.44
+Pure Blind,MDM8-J,KQK1-2,KQK1-2 III,Heavy Water,Rich,302.82
+Pure Blind,MDM8-J,KQK1-2,KQK1-2 III,Liquid Ozone,Rich,37.75
+Pure Blind,MDM8-J,KQK1-2,KQK1-2 IV,Crystal Compound,Medium,24.74
+Pure Blind,MDM8-J,KQK1-2,KQK1-2 IV,Reactive Metals,Rich,7.18
+Pure Blind,MDM8-J,KQK1-2,KQK1-2 IV,Supertensile Plastics,Medium,13.52
+Pure Blind,MDM8-J,KQK1-2,KQK1-2 IV,Nanites,Poor,4.45
+Pure Blind,MDM8-J,KQK1-2,KQK1-2 V,Heavy Metals,Medium,21.88
+Pure Blind,MDM8-J,KQK1-2,KQK1-2 V,Reactive Metals,Perfect,9.11
+Pure Blind,MDM8-J,KQK1-2,KQK1-2 V,Condensates,Poor,12.82
+Pure Blind,MDM8-J,KQK1-2,KQK1-2 V,Nanites,Perfect,9.05
+Pure Blind,MDM8-J,KQK1-2,KQK1-2 V,Suspended Plasma,Medium,77.72
+Pure Blind,MDM8-J,KQK1-2,KQK1-2 VI,Lustering Alloy,Rich,32.28
+Pure Blind,MDM8-J,KQK1-2,KQK1-2 VI,Fiber Composite,Rich,30.37
+Pure Blind,MDM8-J,KQK1-2,KQK1-2 VI,Glossy Compound,Medium,22.79
+Pure Blind,MDM8-J,KQK1-2,KQK1-2 VI,Reactive Gas,Rich,30.77
+Pure Blind,MDM8-J,KQK1-2,KQK1-2 VI,Noble Gas,Medium,25.18
+Pure Blind,MDM8-J,KQK1-2,KQK1-2 VII,Glossy Compound,Medium,26.21
+Pure Blind,MDM8-J,KQK1-2,KQK1-2 VII,Reactive Gas,Medium,24.32
+Pure Blind,MDM8-J,KQK1-2,KQK1-2 VII,Reactive Metals,Poor,4.53
+Pure Blind,MDM8-J,KQK1-2,KQK1-2 VII,Coolant,Rich,19.24
+Pure Blind,MDM8-J,KQK1-2,KQK1-2 VII,Ionic Solutions,Medium,8.82
+Pure Blind,MDM8-J,KQK1-2,KQK1-2 VIII,Lustering Alloy,Poor,17.87
+Pure Blind,MDM8-J,KQK1-2,KQK1-2 VIII,Dark Compound,Medium,23.73
+Pure Blind,MDM8-J,KQK1-2,KQK1-2 VIII,Supertensile Plastics,Poor,11.47
+Pure Blind,MDM8-J,KQK1-2,KQK1-2 VIII,Construction Blocks,Poor,15.06
+Pure Blind,MDM8-J,KQK1-2,KQK1-2 IX,Base Metals,Rich,7.92
+Pure Blind,MDM8-J,KQK1-2,KQK1-2 IX,Industrial Fibers,Medium,6.00
+Pure Blind,MDM8-J,KQK1-2,KQK1-2 IX,Condensates,Medium,14.71
+Pure Blind,MDM8-J,KQK1-2,KQK1-2 IX,Liquid Ozone,Medium,30.19
+Pure Blind,MDM8-J,O-BY0Y,O-BY0Y I,Toxic Metals,Poor,3.51
+Pure Blind,MDM8-J,O-BY0Y,O-BY0Y I,Supertensile Plastics,Medium,16.35
+Pure Blind,MDM8-J,O-BY0Y,O-BY0Y I,Construction Blocks,Poor,18.38
+Pure Blind,MDM8-J,O-BY0Y,O-BY0Y I,Oxygen Isotopes,Poor,2.42
+Pure Blind,MDM8-J,O-BY0Y,O-BY0Y II,Condensed Alloy,Medium,20.94
+Pure Blind,MDM8-J,O-BY0Y,O-BY0Y II,Reactive Gas,Medium,25.26
+Pure Blind,MDM8-J,O-BY0Y,O-BY0Y II,Industrial Fibers,Perfect,10.43
+Pure Blind,MDM8-J,O-BY0Y,O-BY0Y II,Smartfab Units,Rich,18.45
+Pure Blind,MDM8-J,O-BY0Y,O-BY0Y II,Liquid Ozone,Medium,29.16
+Pure Blind,MDM8-J,O-BY0Y,O-BY0Y III,Gleaming Alloy,Medium,23.86
+Pure Blind,MDM8-J,O-BY0Y,O-BY0Y III,Oxygen Isotopes,Poor,2.87
+Pure Blind,MDM8-J,O-BY0Y,O-BY0Y III,Plasmoids,Medium,1.34
+Pure Blind,MDM8-J,O-BY0Y,O-BY0Y IV,Noble Metals,Perfect,35.66
+Pure Blind,MDM8-J,O-BY0Y,O-BY0Y IV,Coolant,Perfect,23.32
+Pure Blind,MDM8-J,O-BY0Y,O-BY0Y IV,Heavy Water,Medium,218.61
+Pure Blind,MDM8-J,O-BY0Y,O-BY0Y IV,Liquid Ozone,Perfect,43.60
+Pure Blind,MDM8-J,O-BY0Y,O-BY0Y IV,Ionic Solutions,Poor,7.47
+Pure Blind,MDM8-J,O-BY0Y,O-BY0Y V,Sheen Compound,Medium,25.05
+Pure Blind,MDM8-J,O-BY0Y,O-BY0Y V,Fiber Composite,Medium,20.98
+Pure Blind,MDM8-J,O-BY0Y,O-BY0Y V,Reactive Gas,Poor,18.00
+Pure Blind,MDM8-J,O-BY0Y,O-BY0Y V,Reactive Metals,Medium,5.66
+Pure Blind,MDM8-J,O-BY0Y,O-BY0Y V,Ionic Solutions,Poor,7.09
+Pure Blind,MDM8-J,O-BY0Y,O-BY0Y VI,Fiber Composite,Medium,21.17
+Pure Blind,MDM8-J,O-BY0Y,O-BY0Y VI,Reactive Gas,Rich,27.43
+Pure Blind,MDM8-J,O-BY0Y,O-BY0Y VI,Base Metals,Medium,6.86
+Pure Blind,MDM8-J,O-BY0Y,O-BY0Y VI,Polyaramids,Rich,20.09
+Pure Blind,MDM8-J,O-BY0Y,O-BY0Y VI,Coolant,Medium,17.32
+Pure Blind,MDM8-J,2D-0SO,2D-0SO I,Lustering Alloy,Poor,18.56
+Pure Blind,MDM8-J,2D-0SO,2D-0SO I,Dark Compound,Medium,23.44
+Pure Blind,MDM8-J,2D-0SO,2D-0SO I,Supertensile Plastics,Poor,8.85
+Pure Blind,MDM8-J,2D-0SO,2D-0SO I,Silicate Glass,Medium,12.12
+Pure Blind,MDM8-J,2D-0SO,2D-0SO II,Precious Alloy,Poor,16.88
+Pure Blind,MDM8-J,2D-0SO,2D-0SO II,Dark Compound,Poor,15.29
+Pure Blind,MDM8-J,2D-0SO,2D-0SO II,Supertensile Plastics,Poor,8.99
+Pure Blind,MDM8-J,2D-0SO,2D-0SO II,Construction Blocks,Poor,14.89
+Pure Blind,MDM8-J,2D-0SO,2D-0SO III,Base Metals,Medium,6.73
+Pure Blind,MDM8-J,2D-0SO,2D-0SO III,Supertensile Plastics,Medium,14.18
+Pure Blind,MDM8-J,2D-0SO,2D-0SO III,Construction Blocks,Medium,24.57
+Pure Blind,MDM8-J,2D-0SO,2D-0SO III,Silicate Glass,Medium,10.83
+Pure Blind,MDM8-J,2D-0SO,2D-0SO IV,Gleaming Alloy,Perfect,34.46
+Pure Blind,MDM8-J,2D-0SO,2D-0SO IV,Heavy Metals,Rich,27.74
+Pure Blind,MDM8-J,2D-0SO,2D-0SO IV,Construction Blocks,Medium,20.20
+Pure Blind,MDM8-J,2D-0SO,2D-0SO V,Condensed Alloy,Medium,20.83
+Pure Blind,MDM8-J,2D-0SO,2D-0SO V,Opulent Compound,Rich,31.63
+Pure Blind,MDM8-J,2D-0SO,2D-0SO V,Noble Metals,Poor,19.40
+Pure Blind,MDM8-J,2D-0SO,2D-0SO V,Smartfab Units,Perfect,26.47
+Pure Blind,MDM8-J,2D-0SO,2D-0SO V,Liquid Ozone,Medium,29.85
+Pure Blind,MDM8-J,2D-0SO,2D-0SO VI,Base Metals,Medium,5.52
+Pure Blind,MDM8-J,2D-0SO,2D-0SO VI,Industrial Fibers,Poor,5.00
+Pure Blind,MDM8-J,2D-0SO,2D-0SO VI,Supertensile Plastics,Poor,11.37
+Pure Blind,MDM8-J,2D-0SO,2D-0SO VI,Construction Blocks,Medium,21.97
+Pure Blind,MDM8-J,2D-0SO,2D-0SO VII,Precious Alloy,Medium,23.75
+Pure Blind,MDM8-J,2D-0SO,2D-0SO VII,Toxic Metals,Medium,6.27
+Pure Blind,MDM8-J,2D-0SO,2D-0SO VII,Supertensile Plastics,Medium,15.15
+Pure Blind,MDM8-J,2D-0SO,2D-0SO VII,Construction Blocks,Medium,21.44
+Pure Blind,MDM8-J,2D-0SO,2D-0SO VIII,Gleaming Alloy,Medium,26.21
+Pure Blind,MDM8-J,2D-0SO,2D-0SO VIII,Motley Compound,Medium,24.07
+Pure Blind,MDM8-J,2D-0SO,2D-0SO VIII,Oxygen Isotopes,Rich,4.83
+Pure Blind,MDM8-J,2D-0SO,2D-0SO IX,Fiber Composite,Medium,25.49
+Pure Blind,MDM8-J,2D-0SO,2D-0SO IX,Reactive Gas,Medium,26.31
+Pure Blind,MDM8-J,2D-0SO,2D-0SO IX,Noble Gas,Poor,18.77
+Pure Blind,MDM8-J,2D-0SO,2D-0SO IX,Polyaramids,Medium,17.56
+Pure Blind,MDM8-J,2D-0SO,2D-0SO IX,Coolant,Rich,18.24
+Pure Blind,MDM8-J,2D-0SO,2D-0SO X,Sheen Compound,Poor,18.92
+Pure Blind,MDM8-J,2D-0SO,2D-0SO X,Reactive Gas,Medium,24.19
+Pure Blind,MDM8-J,2D-0SO,2D-0SO X,Base Metals,Medium,6.54
+Pure Blind,MDM8-J,2D-0SO,2D-0SO X,Reactive Metals,Perfect,8.84
+Pure Blind,MDM8-J,2D-0SO,2D-0SO X,Ionic Solutions,Medium,9.69
+Pure Blind,MDM8-J,2D-0SO,2D-0SO XI,Fiber Composite,Perfect,33.85
+Pure Blind,MDM8-J,2D-0SO,2D-0SO XI,Reactive Gas,Rich,28.43
+Pure Blind,MDM8-J,2D-0SO,2D-0SO XI,Reactive Metals,Rich,8.51
+Pure Blind,MDM8-J,2D-0SO,2D-0SO XI,Coolant,Rich,21.76
+Pure Blind,MDM8-J,2D-0SO,2D-0SO XI,Ionic Solutions,Rich,13.21
+Pure Blind,MDM8-J,2D-0SO,2D-0SO XII,Motley Compound,Medium,24.09
+Pure Blind,MDM8-J,2D-0SO,2D-0SO XII,Condensates,Medium,15.34
+Pure Blind,MDM8-J,2D-0SO,2D-0SO XII,Suspended Plasma,Poor,56.62
+Pure Blind,MDM8-J,2D-0SO,2D-0SO XII,Liquid Ozone,Poor,20.53
+Pure Blind,MDM8-J,UR-E6D,UR-E6D I,Gleaming Alloy,Medium,25.68
+Pure Blind,MDM8-J,UR-E6D,UR-E6D I,Motley Compound,Medium,23.90
+Pure Blind,MDM8-J,UR-E6D,UR-E6D I,Oxygen Isotopes,Rich,4.51
+Pure Blind,MDM8-J,UR-E6D,UR-E6D II,Opulent Compound,Perfect,38.35
+Pure Blind,MDM8-J,UR-E6D,UR-E6D II,Base Metals,Medium,5.84
+Pure Blind,MDM8-J,UR-E6D,UR-E6D II,Industrial Fibers,Rich,8.38
+Pure Blind,MDM8-J,UR-E6D,UR-E6D II,Smartfab Units,Perfect,24.00
+Pure Blind,MDM8-J,UR-E6D,UR-E6D II,Liquid Ozone,Medium,30.90
+Pure Blind,MDM8-J,UR-E6D,UR-E6D III,Condensed Alloy,Perfect,33.45
+Pure Blind,MDM8-J,UR-E6D,UR-E6D III,Base Metals,Medium,6.81
+Pure Blind,MDM8-J,UR-E6D,UR-E6D III,Noble Metals,Medium,22.16
+Pure Blind,MDM8-J,UR-E6D,UR-E6D III,Heavy Water,Medium,215.04
+Pure Blind,MDM8-J,UR-E6D,UR-E6D III,Liquid Ozone,Medium,30.16
+Pure Blind,MDM8-J,UR-E6D,UR-E6D IV,Opulent Compound,Rich,30.74
+Pure Blind,MDM8-J,UR-E6D,UR-E6D IV,Noble Metals,Perfect,35.97
+Pure Blind,MDM8-J,UR-E6D,UR-E6D IV,Industrial Fibers,Rich,8.78
+Pure Blind,MDM8-J,UR-E6D,UR-E6D IV,Condensates,Rich,21.36
+Pure Blind,MDM8-J,UR-E6D,UR-E6D IV,Liquid Ozone,Medium,32.73
+Pure Blind,MDM8-J,UR-E6D,UR-E6D V,Sheen Compound,Medium,24.25
+Pure Blind,MDM8-J,UR-E6D,UR-E6D V,Fiber Composite,Rich,32.09
+Pure Blind,MDM8-J,UR-E6D,UR-E6D V,Glossy Compound,Medium,26.19
+Pure Blind,MDM8-J,UR-E6D,UR-E6D V,Reactive Gas,Medium,26.17
+Pure Blind,MDM8-J,UR-E6D,UR-E6D V,Noble Gas,Rich,28.33
+Pure Blind,MDM8-J,UR-E6D,UR-E6D VI,Condensed Alloy,Medium,25.83
+Pure Blind,MDM8-J,UR-E6D,UR-E6D VI,Base Metals,Medium,6.27
+Pure Blind,MDM8-J,UR-E6D,UR-E6D VI,Noble Metals,Rich,31.02
+Pure Blind,MDM8-J,UR-E6D,UR-E6D VI,Smartfab Units,Medium,17.61
+Pure Blind,MDM8-J,UR-E6D,UR-E6D VI,Liquid Ozone,Perfect,49.35
+Pure Blind,MDM8-J,UR-E6D,UR-E6D VII,Lustering Alloy,Medium,24.97
+Pure Blind,MDM8-J,UR-E6D,UR-E6D VII,Reactive Gas,Rich,31.77
+Pure Blind,MDM8-J,UR-E6D,UR-E6D VII,Reactive Metals,Perfect,8.78
+Pure Blind,MDM8-J,UR-E6D,UR-E6D VII,Polyaramids,Medium,13.52
+Pure Blind,MDM8-J,UR-E6D,UR-E6D VII,Ionic Solutions,Rich,11.52
+Pure Blind,MDM8-J,X47L-Q,X47L-Q I,Sheen Compound,Rich,29.00
+Pure Blind,MDM8-J,X47L-Q,X47L-Q I,Lucent Compound,Perfect,38.96
+Pure Blind,MDM8-J,X47L-Q,X47L-Q I,Condensates,Rich,22.34
+Pure Blind,MDM8-J,X47L-Q,X47L-Q I,Suspended Plasma,Rich,125.37
+Pure Blind,MDM8-J,X47L-Q,X47L-Q I,Plasmoids,Perfect,2.24
+Pure Blind,MDM8-J,X47L-Q,X47L-Q II,Toxic Metals,Poor,4.12
+Pure Blind,MDM8-J,X47L-Q,X47L-Q II,Supertensile Plastics,Medium,16.90
+Pure Blind,MDM8-J,X47L-Q,X47L-Q II,Silicate Glass,Medium,12.44
+Pure Blind,MDM8-J,X47L-Q,X47L-Q II,Plasmoids,Poor,1.03
+Pure Blind,MDM8-J,X47L-Q,X47L-Q III,Crystal Compound,Rich,31.68
+Pure Blind,MDM8-J,X47L-Q,X47L-Q III,Reactive Metals,Medium,5.75
+Pure Blind,MDM8-J,X47L-Q,X47L-Q III,Construction Blocks,Poor,18.08
+Pure Blind,MDM8-J,X47L-Q,X47L-Q III,Oxygen Isotopes,Rich,4.94
+Pure Blind,MDM8-J,X47L-Q,X47L-Q IV,Opulent Compound,Poor,20.55
+Pure Blind,MDM8-J,X47L-Q,X47L-Q IV,Crystal Compound,Rich,29.50
+Pure Blind,MDM8-J,X47L-Q,X47L-Q IV,Noble Metals,Rich,29.83
+Pure Blind,MDM8-J,X47L-Q,X47L-Q IV,Polyaramids,Poor,13.43
+Pure Blind,MDM8-J,X47L-Q,X47L-Q IV,Liquid Ozone,Poor,24.94
+Pure Blind,MDM8-J,X47L-Q,X47L-Q V,Lustering Alloy,Poor,19.67
+Pure Blind,MDM8-J,X47L-Q,X47L-Q V,Fiber Composite,Poor,20.46
+Pure Blind,MDM8-J,X47L-Q,X47L-Q V,Reactive Gas,Rich,34.12
+Pure Blind,MDM8-J,X47L-Q,X47L-Q V,Reactive Metals,Medium,6.67
+Pure Blind,MDM8-J,X47L-Q,X47L-Q V,Coolant,Medium,17.26
+Pure Blind,MDM8-J,X47L-Q,X47L-Q VI,Lustering Alloy,Medium,22.37
+Pure Blind,MDM8-J,X47L-Q,X47L-Q VI,Glossy Compound,Medium,22.86
+Pure Blind,MDM8-J,X47L-Q,X47L-Q VI,Reactive Gas,Medium,26.29
+Pure Blind,MDM8-J,X47L-Q,X47L-Q VI,Coolant,Rich,22.41
+Pure Blind,MDM8-J,X47L-Q,X47L-Q VI,Ionic Solutions,Poor,7.45
+Pure Blind,MDM8-J,X47L-Q,X47L-Q VII,Toxic Metals,Poor,4.15
+Pure Blind,MDM8-J,X47L-Q,X47L-Q VII,Supertensile Plastics,Poor,9.58
+Pure Blind,MDM8-J,X47L-Q,X47L-Q VII,Construction Blocks,Medium,26.69
+Pure Blind,MDM8-J,X47L-Q,X47L-Q VII,Silicate Glass,Medium,10.90
+Pure Blind,MDM8-J,X47L-Q,X47L-Q VIII,Sheen Compound,Medium,27.10
+Pure Blind,MDM8-J,X47L-Q,X47L-Q VIII,Fiber Composite,Poor,20.61
+Pure Blind,MDM8-J,X47L-Q,X47L-Q VIII,Glossy Compound,Rich,28.07
+Pure Blind,MDM8-J,X47L-Q,X47L-Q VIII,Reactive Gas,Poor,18.85
+Pure Blind,MDM8-J,X47L-Q,X47L-Q VIII,Noble Gas,Medium,26.42
+Pure Blind,MDM8-J,D7T-C0,D7T-C0 I,Lustering Alloy,Medium,20.89
+Pure Blind,MDM8-J,D7T-C0,D7T-C0 I,Supertensile Plastics,Medium,16.07
+Pure Blind,MDM8-J,D7T-C0,D7T-C0 I,Silicate Glass,Medium,9.91
+Pure Blind,MDM8-J,D7T-C0,D7T-C0 I,Oxygen Isotopes,Poor,2.42
+Pure Blind,MDM8-J,D7T-C0,D7T-C0 II,Lustering Alloy,Medium,25.45
+Pure Blind,MDM8-J,D7T-C0,D7T-C0 II,Dark Compound,Medium,23.27
+Pure Blind,MDM8-J,D7T-C0,D7T-C0 II,Industrial Fibers,Poor,4.92
+Pure Blind,MDM8-J,D7T-C0,D7T-C0 II,Supertensile Plastics,Poor,8.89
+Pure Blind,MDM8-J,D7T-C0,D7T-C0 III,Opulent Compound,Perfect,38.93
+Pure Blind,MDM8-J,D7T-C0,D7T-C0 III,Industrial Fibers,Perfect,9.92
+Pure Blind,MDM8-J,D7T-C0,D7T-C0 III,Smartfab Units,Rich,19.18
+Pure Blind,MDM8-J,D7T-C0,D7T-C0 III,Heavy Water,Medium,254.73
+Pure Blind,MDM8-J,D7T-C0,D7T-C0 III,Liquid Ozone,Rich,39.90
+Pure Blind,MDM8-J,D7T-C0,D7T-C0 IV,Condensed Alloy,Perfect,35.49
+Pure Blind,MDM8-J,D7T-C0,D7T-C0 IV,Base Metals,Perfect,9.91
+Pure Blind,MDM8-J,D7T-C0,D7T-C0 IV,Noble Metals,Medium,24.19
+Pure Blind,MDM8-J,D7T-C0,D7T-C0 IV,Heavy Water,Perfect,368.13
+Pure Blind,MDM8-J,D7T-C0,D7T-C0 IV,Liquid Ozone,Medium,30.34
+Pure Blind,MDM8-J,D7T-C0,D7T-C0 V,Condensed Alloy,Medium,20.71
+Pure Blind,MDM8-J,D7T-C0,D7T-C0 V,Opulent Compound,Medium,20.94
+Pure Blind,MDM8-J,D7T-C0,D7T-C0 V,Crystal Compound,Rich,33.28
+Pure Blind,MDM8-J,D7T-C0,D7T-C0 V,Toxic Metals,Medium,6.94
+Pure Blind,MDM8-J,D7T-C0,D7T-C0 V,Liquid Ozone,Rich,35.83
+Pure Blind,MDM8-J,D7T-C0,D7T-C0 VI,Fiber Composite,Rich,26.71
+Pure Blind,MDM8-J,D7T-C0,D7T-C0 VI,Opulent Compound,Perfect,36.10
+Pure Blind,MDM8-J,D7T-C0,D7T-C0 VI,Smartfab Units,Rich,18.35
+Pure Blind,MDM8-J,D7T-C0,D7T-C0 VI,Heavy Water,Perfect,355.11
+Pure Blind,MDM8-J,D7T-C0,D7T-C0 VI,Liquid Ozone,Perfect,44.44
+Pure Blind,MDM8-J,D7T-C0,D7T-C0 VII,Gleaming Alloy,Medium,22.53
+Pure Blind,MDM8-J,D7T-C0,D7T-C0 VII,Polyaramids,Medium,16.17
+Pure Blind,MDM8-J,D7T-C0,D7T-C0 VII,Smartfab Units,Rich,19.74
+Pure Blind,MDM8-J,D7T-C0,D7T-C0 VIII,Reactive Gas,Rich,26.82
+Pure Blind,MDM8-J,D7T-C0,D7T-C0 VIII,Base Metals,Medium,5.24
+Pure Blind,MDM8-J,D7T-C0,D7T-C0 VIII,Smartfab Units,Medium,17.15
+Pure Blind,MDM8-J,D7T-C0,D7T-C0 VIII,Heavy Water,Rich,266.07
+Pure Blind,MDM8-J,D7T-C0,D7T-C0 VIII,Liquid Ozone,Medium,30.45
+Pure Blind,U8-CWA,KI-TL0,KI-TL0 I,Gleaming Alloy,Poor,18.10
+Pure Blind,U8-CWA,KI-TL0,KI-TL0 I,Motley Compound,Perfect,34.76
+Pure Blind,U8-CWA,KI-TL0,KI-TL0 I,Polyaramids,Medium,15.01
+Pure Blind,U8-CWA,KI-TL0,KI-TL0 II,Base Metals,Poor,3.84
+Pure Blind,U8-CWA,KI-TL0,KI-TL0 II,Supertensile Plastics,Poor,12.05
+Pure Blind,U8-CWA,KI-TL0,KI-TL0 II,Construction Blocks,Poor,14.03
+Pure Blind,U8-CWA,KI-TL0,KI-TL0 II,Oxygen Isotopes,Medium,3.34
+Pure Blind,U8-CWA,KI-TL0,KI-TL0 III,Precious Alloy,Medium,21.11
+Pure Blind,U8-CWA,KI-TL0,KI-TL0 III,Base Metals,Poor,5.01
+Pure Blind,U8-CWA,KI-TL0,KI-TL0 III,Supertensile Plastics,Poor,9.94
+Pure Blind,U8-CWA,KI-TL0,KI-TL0 III,Plasmoids,Medium,1.31
+Pure Blind,U8-CWA,KI-TL0,KI-TL0 IV,Precious Alloy,Medium,22.49
+Pure Blind,U8-CWA,KI-TL0,KI-TL0 IV,Base Metals,Medium,5.80
+Pure Blind,U8-CWA,KI-TL0,KI-TL0 IV,Industrial Fibers,Poor,3.85
+Pure Blind,U8-CWA,KI-TL0,KI-TL0 IV,Supertensile Plastics,Medium,15.41
+Pure Blind,U8-CWA,KI-TL0,KI-TL0 V,Precious Alloy,Poor,19.61
+Pure Blind,U8-CWA,KI-TL0,KI-TL0 V,Toxic Metals,Poor,4.63
+Pure Blind,U8-CWA,KI-TL0,KI-TL0 V,Supertensile Plastics,Medium,15.51
+Pure Blind,U8-CWA,KI-TL0,KI-TL0 V,Silicate Glass,Medium,12.51
+Pure Blind,U8-CWA,KI-TL0,KI-TL0 VI,Precious Alloy,Poor,15.12
+Pure Blind,U8-CWA,KI-TL0,KI-TL0 VI,Toxic Metals,Medium,6.38
+Pure Blind,U8-CWA,KI-TL0,KI-TL0 VI,Industrial Fibers,Medium,6.55
+Pure Blind,U8-CWA,KI-TL0,KI-TL0 VI,Supertensile Plastics,Medium,13.85
+Pure Blind,U8-CWA,KI-TL0,KI-TL0 VII,Condensed Alloy,Poor,19.70
+Pure Blind,U8-CWA,KI-TL0,KI-TL0 VII,Reactive Gas,Medium,20.39
+Pure Blind,U8-CWA,KI-TL0,KI-TL0 VII,Industrial Fibers,Medium,6.33
+Pure Blind,U8-CWA,KI-TL0,KI-TL0 VII,Condensates,Rich,20.62
+Pure Blind,U8-CWA,KI-TL0,KI-TL0 VII,Liquid Ozone,Rich,40.90
+Pure Blind,U8-CWA,KI-TL0,KI-TL0 VIII,Lustering Alloy,Poor,13.76
+Pure Blind,U8-CWA,KI-TL0,KI-TL0 VIII,Precious Alloy,Medium,20.87
+Pure Blind,U8-CWA,KI-TL0,KI-TL0 VIII,Base Metals,Medium,6.44
+Pure Blind,U8-CWA,KI-TL0,KI-TL0 VIII,Supertensile Plastics,Medium,17.07
+Pure Blind,U8-CWA,KI-TL0,KI-TL0 IX,Lustering Alloy,Medium,23.12
+Pure Blind,U8-CWA,KI-TL0,KI-TL0 IX,Sheen Compound,Poor,19.49
+Pure Blind,U8-CWA,KI-TL0,KI-TL0 IX,Fiber Composite,Rich,27.99
+Pure Blind,U8-CWA,KI-TL0,KI-TL0 IX,Reactive Gas,Rich,27.76
+Pure Blind,U8-CWA,KI-TL0,KI-TL0 IX,Noble Gas,Medium,23.81
+Pure Blind,U8-CWA,KI-TL0,KI-TL0 X,Base Metals,Poor,4.03
+Pure Blind,U8-CWA,KI-TL0,KI-TL0 X,Industrial Fibers,Poor,5.13
+Pure Blind,U8-CWA,KI-TL0,KI-TL0 X,Supertensile Plastics,Medium,16.00
+Pure Blind,U8-CWA,KI-TL0,KI-TL0 X,Plasmoids,Medium,1.22
+Pure Blind,U8-CWA,KI-TL0,KI-TL0 XI,Condensed Alloy,Medium,23.56
+Pure Blind,U8-CWA,KI-TL0,KI-TL0 XI,Toxic Metals,Medium,6.33
+Pure Blind,U8-CWA,KI-TL0,KI-TL0 XI,Coolant,Medium,15.44
+Pure Blind,U8-CWA,KI-TL0,KI-TL0 XI,Heavy Water,Medium,226.38
+Pure Blind,U8-CWA,KI-TL0,KI-TL0 XI,Liquid Ozone,Medium,25.04
+Pure Blind,U8-CWA,KI-TL0,KI-TL0 XII,Base Metals,Medium,6.10
+Pure Blind,U8-CWA,KI-TL0,KI-TL0 XII,Toxic Metals,Poor,4.68
+Pure Blind,U8-CWA,KI-TL0,KI-TL0 XII,Industrial Fibers,Medium,5.22
+Pure Blind,U8-CWA,KI-TL0,KI-TL0 XII,Supertensile Plastics,Poor,12.71
+Pure Blind,U8-CWA,KI-TL0,KI-TL0 XIII,Motley Compound,Poor,16.07
+Pure Blind,U8-CWA,KI-TL0,KI-TL0 XIII,Supertensile Plastics,Medium,13.78
+Pure Blind,U8-CWA,KI-TL0,KI-TL0 XIII,Condensates,Rich,20.22
+Pure Blind,U8-CWA,KI-TL0,KI-TL0 XIII,Liquid Ozone,Rich,34.28
+Pure Blind,U8-CWA,EL8-4Q,EL8-4Q I,Precious Alloy,Medium,24.59
+Pure Blind,U8-CWA,EL8-4Q,EL8-4Q I,Base Metals,Poor,4.55
+Pure Blind,U8-CWA,EL8-4Q,EL8-4Q I,Supertensile Plastics,Medium,15.51
+Pure Blind,U8-CWA,EL8-4Q,EL8-4Q I,Plasmoids,Poor,1.10
+Pure Blind,U8-CWA,EL8-4Q,EL8-4Q II,Gleaming Alloy,Poor,18.84
+Pure Blind,U8-CWA,EL8-4Q,EL8-4Q II,Smartfab Units,Medium,14.21
+Pure Blind,U8-CWA,EL8-4Q,EL8-4Q II,Oxygen Isotopes,Rich,4.73
+Pure Blind,U8-CWA,EL8-4Q,EL8-4Q III,Condensed Alloy,Rich,32.55
+Pure Blind,U8-CWA,EL8-4Q,EL8-4Q III,Noble Metals,Medium,21.61
+Pure Blind,U8-CWA,EL8-4Q,EL8-4Q III,Toxic Metals,Rich,7.84
+Pure Blind,U8-CWA,EL8-4Q,EL8-4Q III,Polyaramids,Poor,13.01
+Pure Blind,U8-CWA,EL8-4Q,EL8-4Q III,Liquid Ozone,Medium,28.67
+Pure Blind,U8-CWA,EL8-4Q,EL8-4Q IV,Condensed Alloy,Rich,32.99
+Pure Blind,U8-CWA,EL8-4Q,EL8-4Q IV,Opulent Compound,Rich,27.87
+Pure Blind,U8-CWA,EL8-4Q,EL8-4Q IV,Reactive Gas,Rich,31.16
+Pure Blind,U8-CWA,EL8-4Q,EL8-4Q IV,Industrial Fibers,Medium,6.55
+Pure Blind,U8-CWA,EL8-4Q,EL8-4Q IV,Liquid Ozone,Poor,24.73
+Pure Blind,U8-CWA,EL8-4Q,EL8-4Q V,Lucent Compound,Medium,21.00
+Pure Blind,U8-CWA,EL8-4Q,EL8-4Q V,Reactive Metals,Rich,8.03
+Pure Blind,U8-CWA,EL8-4Q,EL8-4Q V,Supertensile Plastics,Medium,13.50
+Pure Blind,U8-CWA,EL8-4Q,EL8-4Q V,Oxygen Isotopes,Rich,4.43
+Pure Blind,U8-CWA,EL8-4Q,EL8-4Q VI,Fiber Composite,Medium,23.39
+Pure Blind,U8-CWA,EL8-4Q,EL8-4Q VI,Reactive Gas,Medium,21.61
+Pure Blind,U8-CWA,EL8-4Q,EL8-4Q VI,Noble Gas,Rich,29.80
+Pure Blind,U8-CWA,EL8-4Q,EL8-4Q VI,Reactive Metals,Rich,7.02
+Pure Blind,U8-CWA,EL8-4Q,EL8-4Q VI,Polyaramids,Rich,20.71
+Pure Blind,U8-CWA,EL8-4Q,EL8-4Q VII,Sheen Compound,Perfect,34.02
+Pure Blind,U8-CWA,EL8-4Q,EL8-4Q VII,Fiber Composite,Medium,24.76
+Pure Blind,U8-CWA,EL8-4Q,EL8-4Q VII,Glossy Compound,Medium,24.68
+Pure Blind,U8-CWA,EL8-4Q,EL8-4Q VII,Reactive Gas,Poor,18.00
+Pure Blind,U8-CWA,EL8-4Q,EL8-4Q VII,Base Metals,Medium,5.50
+Pure Blind,U8-CWA,EL8-4Q,EL8-4Q VIII,Sheen Compound,Medium,20.35
+Pure Blind,U8-CWA,EL8-4Q,EL8-4Q VIII,Reactive Gas,Perfect,34.42
+Pure Blind,U8-CWA,EL8-4Q,EL8-4Q VIII,Polyaramids,Medium,15.25
+Pure Blind,U8-CWA,EL8-4Q,EL8-4Q VIII,Coolant,Poor,12.84
+Pure Blind,U8-CWA,EL8-4Q,EL8-4Q VIII,Ionic Solutions,Perfect,13.66
+Pure Blind,U8-CWA,EL8-4Q,EL8-4Q IX,Base Metals,Poor,5.21
+Pure Blind,U8-CWA,EL8-4Q,EL8-4Q IX,Coolant,Medium,14.84
+Pure Blind,U8-CWA,EL8-4Q,EL8-4Q IX,Condensates,Rich,19.40
+Pure Blind,U8-CWA,EL8-4Q,EL8-4Q IX,Suspended Plasma,Rich,108.79
+Pure Blind,U8-CWA,EL8-4Q,EL8-4Q X,Gleaming Alloy,Perfect,34.17
+Pure Blind,U8-CWA,EL8-4Q,EL8-4Q X,Motley Compound,Poor,19.11
+Pure Blind,U8-CWA,EL8-4Q,EL8-4Q X,Noble Metals,Perfect,33.68
+Pure Blind,U8-CWA,EL8-4Q,EL8-4Q XI,Precious Alloy,Poor,13.46
+Pure Blind,U8-CWA,EL8-4Q,EL8-4Q XI,Toxic Metals,Medium,5.31
+Pure Blind,U8-CWA,EL8-4Q,EL8-4Q XI,Supertensile Plastics,Medium,13.59
+Pure Blind,U8-CWA,EL8-4Q,EL8-4Q XI,Construction Blocks,Medium,24.86
+Pure Blind,U8-CWA,JC-YX8,JC-YX8 I,Gleaming Alloy,Rich,29.71
+Pure Blind,U8-CWA,JC-YX8,JC-YX8 I,Noble Gas,Rich,28.14
+Pure Blind,U8-CWA,JC-YX8,JC-YX8 I,Noble Metals,Poor,19.59
+Pure Blind,U8-CWA,JC-YX8,JC-YX8 II,Crystal Compound,Rich,30.79
+Pure Blind,U8-CWA,JC-YX8,JC-YX8 II,Reactive Metals,Medium,5.53
+Pure Blind,U8-CWA,JC-YX8,JC-YX8 II,Supertensile Plastics,Medium,13.23
+Pure Blind,U8-CWA,JC-YX8,JC-YX8 II,Construction Blocks,Rich,28.45
+Pure Blind,U8-CWA,JC-YX8,JC-YX8 III,Condensed Alloy,Rich,29.82
+Pure Blind,U8-CWA,JC-YX8,JC-YX8 III,Reactive Gas,Perfect,34.36
+Pure Blind,U8-CWA,JC-YX8,JC-YX8 III,Noble Metals,Medium,25.30
+Pure Blind,U8-CWA,JC-YX8,JC-YX8 III,Smartfab Units,Medium,13.68
+Pure Blind,U8-CWA,JC-YX8,JC-YX8 III,Liquid Ozone,Perfect,48.43
+Pure Blind,U8-CWA,JC-YX8,JC-YX8 IV,Gleaming Alloy,Medium,24.68
+Pure Blind,U8-CWA,JC-YX8,JC-YX8 IV,Reactive Gas,Poor,16.97
+Pure Blind,U8-CWA,JC-YX8,JC-YX8 IV,Reactive Metals,Medium,5.42
+Pure Blind,U8-CWA,JC-YX8,JC-YX8 IV,Suspended Plasma,Medium,88.75
+Pure Blind,U8-CWA,JC-YX8,JC-YX8 V,Lustering Alloy,Medium,20.20
+Pure Blind,U8-CWA,JC-YX8,JC-YX8 V,Industrial Fibers,Poor,3.95
+Pure Blind,U8-CWA,JC-YX8,JC-YX8 V,Supertensile Plastics,Medium,16.31
+Pure Blind,U8-CWA,JC-YX8,JC-YX8 V,Plasmoids,Medium,1.26
+Pure Blind,U8-CWA,JC-YX8,JC-YX8 VI,Reactive Gas,Rich,31.31
+Pure Blind,U8-CWA,JC-YX8,JC-YX8 VI,Noble Gas,Medium,23.14
+Pure Blind,U8-CWA,JC-YX8,JC-YX8 VI,Reactive Metals,Medium,5.25
+Pure Blind,U8-CWA,JC-YX8,JC-YX8 VI,Polyaramids,Poor,12.24
+Pure Blind,U8-CWA,JC-YX8,JC-YX8 VI,Coolant,Medium,16.86
+Pure Blind,U8-CWA,JC-YX8,JC-YX8 VII,Lustering Alloy,Poor,16.30
+Pure Blind,U8-CWA,JC-YX8,JC-YX8 VII,Base Metals,Poor,4.49
+Pure Blind,U8-CWA,JC-YX8,JC-YX8 VII,Toxic Metals,Medium,5.75
+Pure Blind,U8-CWA,JC-YX8,JC-YX8 VII,Supertensile Plastics,Medium,13.37
+Pure Blind,U8-CWA,JC-YX8,JC-YX8 VIII,Condensed Alloy,Rich,27.78
+Pure Blind,U8-CWA,JC-YX8,JC-YX8 VIII,Toxic Metals,Medium,6.13
+Pure Blind,U8-CWA,JC-YX8,JC-YX8 VIII,Polyaramids,Medium,15.27
+Pure Blind,U8-CWA,JC-YX8,JC-YX8 VIII,Coolant,Medium,17.54
+Pure Blind,U8-CWA,JC-YX8,JC-YX8 VIII,Liquid Ozone,Medium,28.40
+Pure Blind,U8-CWA,JC-YX8,JC-YX8 IX,Supertensile Plastics,Poor,10.26
+Pure Blind,U8-CWA,JC-YX8,JC-YX8 IX,Coolant,Rich,18.45
+Pure Blind,U8-CWA,JC-YX8,JC-YX8 IX,Condensates,Medium,15.51
+Pure Blind,U8-CWA,JC-YX8,JC-YX8 IX,Suspended Plasma,Poor,68.64
+Pure Blind,U8-CWA,5-9WNU,5-9WNU I,Gleaming Alloy,Medium,19.99
+Pure Blind,U8-CWA,5-9WNU,5-9WNU I,Noble Gas,Rich,26.65
+Pure Blind,U8-CWA,5-9WNU,5-9WNU I,Oxygen Isotopes,Medium,3.12
+Pure Blind,U8-CWA,5-9WNU,5-9WNU II,Supertensile Plastics,Medium,13.48
+Pure Blind,U8-CWA,5-9WNU,5-9WNU II,Construction Blocks,Poor,16.82
+Pure Blind,U8-CWA,5-9WNU,5-9WNU II,Silicate Glass,Poor,6.94
+Pure Blind,U8-CWA,5-9WNU,5-9WNU II,Oxygen Isotopes,Medium,3.52
+Pure Blind,U8-CWA,5-9WNU,5-9WNU III,Precious Alloy,Medium,24.51
+Pure Blind,U8-CWA,5-9WNU,5-9WNU III,Dark Compound,Poor,15.92
+Pure Blind,U8-CWA,5-9WNU,5-9WNU III,Base Metals,Poor,4.64
+Pure Blind,U8-CWA,5-9WNU,5-9WNU III,Supertensile Plastics,Poor,9.62
+Pure Blind,U8-CWA,5-9WNU,5-9WNU IV,Gleaming Alloy,Rich,27.85
+Pure Blind,U8-CWA,5-9WNU,5-9WNU IV,Construction Blocks,Medium,22.39
+Pure Blind,U8-CWA,5-9WNU,5-9WNU IV,Smartfab Units,Medium,17.18
+Pure Blind,U8-CWA,5-9WNU,5-9WNU V,Toxic Metals,Poor,3.94
+Pure Blind,U8-CWA,5-9WNU,5-9WNU V,Industrial Fibers,Poor,4.13
+Pure Blind,U8-CWA,5-9WNU,5-9WNU V,Supertensile Plastics,Medium,15.76
+Pure Blind,U8-CWA,5-9WNU,5-9WNU V,Construction Blocks,Poor,13.59
+Pure Blind,U8-CWA,5-9WNU,5-9WNU VI,Condensed Alloy,Perfect,39.48
+Pure Blind,U8-CWA,5-9WNU,5-9WNU VI,Fiber Composite,Rich,29.90
+Pure Blind,U8-CWA,5-9WNU,5-9WNU VI,Reactive Gas,Rich,30.41
+Pure Blind,U8-CWA,5-9WNU,5-9WNU VI,Noble Metals,Rich,30.03
+Pure Blind,U8-CWA,5-9WNU,5-9WNU VI,Liquid Ozone,Medium,29.85
+Pure Blind,U8-CWA,5-9WNU,5-9WNU VII,Condensed Alloy,Perfect,35.05
+Pure Blind,U8-CWA,5-9WNU,5-9WNU VII,Opulent Compound,Rich,31.31
+Pure Blind,U8-CWA,5-9WNU,5-9WNU VII,Crystal Compound,Rich,29.53
+Pure Blind,U8-CWA,5-9WNU,5-9WNU VII,Toxic Metals,Perfect,9.01
+Pure Blind,U8-CWA,5-9WNU,5-9WNU VII,Liquid Ozone,Rich,39.11
+Pure Blind,U8-CWA,5-9WNU,5-9WNU VIII,Sheen Compound,Rich,30.47
+Pure Blind,U8-CWA,5-9WNU,5-9WNU VIII,Glossy Compound,Medium,20.33
+Pure Blind,U8-CWA,5-9WNU,5-9WNU VIII,Reactive Gas,Medium,20.94
+Pure Blind,U8-CWA,5-9WNU,5-9WNU VIII,Noble Gas,Rich,28.10
+Pure Blind,U8-CWA,5-9WNU,5-9WNU VIII,Base Metals,Medium,6.54
+Pure Blind,U8-CWA,5-9WNU,5-9WNU IX,Sheen Compound,Poor,17.60
+Pure Blind,U8-CWA,5-9WNU,5-9WNU IX,Reactive Gas,Medium,22.72
+Pure Blind,U8-CWA,5-9WNU,5-9WNU IX,Base Metals,Rich,7.92
+Pure Blind,U8-CWA,5-9WNU,5-9WNU IX,Polyaramids,Medium,16.18
+Pure Blind,U8-CWA,5-9WNU,5-9WNU IX,Ionic Solutions,Rich,11.44
+Pure Blind,U8-CWA,5-9WNU,5-9WNU X,Lustering Alloy,Poor,18.54
+Pure Blind,U8-CWA,5-9WNU,5-9WNU X,Supertensile Plastics,Medium,16.21
+Pure Blind,U8-CWA,5-9WNU,5-9WNU X,Oxygen Isotopes,Poor,2.15
+Pure Blind,U8-CWA,5-9WNU,5-9WNU X,Plasmoids,Medium,1.37
+Pure Blind,U8-CWA,5-9WNU,5-9WNU XI,Precious Alloy,Medium,20.08
+Pure Blind,U8-CWA,5-9WNU,5-9WNU XI,Industrial Fibers,Rich,7.52
+Pure Blind,U8-CWA,5-9WNU,5-9WNU XI,Condensates,Medium,14.66
+Pure Blind,U8-CWA,5-9WNU,5-9WNU XI,Liquid Ozone,Rich,36.12
+Pure Blind,U8-CWA,XI-VUF,XI-VUF I,Lustering Alloy,Medium,21.27
+Pure Blind,U8-CWA,XI-VUF,XI-VUF I,Precious Alloy,Poor,15.56
+Pure Blind,U8-CWA,XI-VUF,XI-VUF I,Supertensile Plastics,Medium,14.92
+Pure Blind,U8-CWA,XI-VUF,XI-VUF I,Silicate Glass,Medium,11.52
+Pure Blind,U8-CWA,XI-VUF,XI-VUF II,Lustering Alloy,Poor,14.05
+Pure Blind,U8-CWA,XI-VUF,XI-VUF II,Supertensile Plastics,Poor,12.45
+Pure Blind,U8-CWA,XI-VUF,XI-VUF II,Oxygen Isotopes,Poor,2.89
+Pure Blind,U8-CWA,XI-VUF,XI-VUF II,Plasmoids,Poor,1.18
+Pure Blind,U8-CWA,XI-VUF,XI-VUF III,Lucent Compound,Medium,26.02
+Pure Blind,U8-CWA,XI-VUF,XI-VUF III,Reactive Gas,Medium,26.44
+Pure Blind,U8-CWA,XI-VUF,XI-VUF III,Reactive Metals,Rich,7.16
+Pure Blind,U8-CWA,XI-VUF,XI-VUF III,Construction Blocks,Poor,18.42
+Pure Blind,U8-CWA,XI-VUF,XI-VUF IV,Condensed Alloy,Medium,22.36
+Pure Blind,U8-CWA,XI-VUF,XI-VUF IV,Noble Metals,Perfect,36.79
+Pure Blind,U8-CWA,XI-VUF,XI-VUF IV,Condensates,Perfect,22.26
+Pure Blind,U8-CWA,XI-VUF,XI-VUF IV,Smartfab Units,Rich,18.02
+Pure Blind,U8-CWA,XI-VUF,XI-VUF IV,Liquid Ozone,Perfect,42.24
+Pure Blind,U8-CWA,XI-VUF,XI-VUF V,Condensed Alloy,Rich,32.45
+Pure Blind,U8-CWA,XI-VUF,XI-VUF V,Reactive Gas,Rich,27.99
+Pure Blind,U8-CWA,XI-VUF,XI-VUF V,Noble Metals,Rich,27.85
+Pure Blind,U8-CWA,XI-VUF,XI-VUF V,Heavy Water,Perfect,373.59
+Pure Blind,U8-CWA,XI-VUF,XI-VUF V,Liquid Ozone,Medium,31.68
+Pure Blind,U8-CWA,XI-VUF,XI-VUF VI,Reactive Gas,Rich,32.80
+Pure Blind,U8-CWA,XI-VUF,XI-VUF VI,Noble Metals,Rich,30.72
+Pure Blind,U8-CWA,XI-VUF,XI-VUF VI,Smartfab Units,Perfect,25.33
+Pure Blind,U8-CWA,XI-VUF,XI-VUF VI,Heavy Water,Medium,260.82
+Pure Blind,U8-CWA,XI-VUF,XI-VUF VI,Liquid Ozone,Perfect,48.90
+Pure Blind,U8-CWA,XI-VUF,XI-VUF VII,Lustering Alloy,Medium,22.39
+Pure Blind,U8-CWA,XI-VUF,XI-VUF VII,Fiber Composite,Rich,31.18
+Pure Blind,U8-CWA,XI-VUF,XI-VUF VII,Glossy Compound,Medium,22.18
+Pure Blind,U8-CWA,XI-VUF,XI-VUF VII,Reactive Gas,Rich,30.95
+Pure Blind,U8-CWA,XI-VUF,XI-VUF VII,Coolant,Medium,15.36
+Pure Blind,U8-CWA,XI-VUF,XI-VUF VIII,Glossy Compound,Medium,25.22
+Pure Blind,U8-CWA,XI-VUF,XI-VUF VIII,Reactive Gas,Rich,32.45
+Pure Blind,U8-CWA,XI-VUF,XI-VUF VIII,Noble Gas,Medium,22.93
+Pure Blind,U8-CWA,XI-VUF,XI-VUF VIII,Base Metals,Rich,7.31
+Pure Blind,U8-CWA,XI-VUF,XI-VUF VIII,Reactive Metals,Medium,5.56
+Pure Blind,U8-CWA,XI-VUF,XI-VUF IX,Sheen Compound,Rich,30.64
+Pure Blind,U8-CWA,XI-VUF,XI-VUF IX,Fiber Composite,Medium,21.97
+Pure Blind,U8-CWA,XI-VUF,XI-VUF IX,Glossy Compound,Medium,25.09
+Pure Blind,U8-CWA,XI-VUF,XI-VUF IX,Reactive Gas,Rich,27.70
+Pure Blind,U8-CWA,XI-VUF,XI-VUF IX,Reactive Metals,Rich,7.74
+Pure Blind,U8-CWA,XI-VUF,XI-VUF X,Lustering Alloy,Rich,29.04
+Pure Blind,U8-CWA,XI-VUF,XI-VUF X,Supertensile Plastics,Rich,19.32
+Pure Blind,U8-CWA,XI-VUF,XI-VUF X,Condensates,Medium,15.78
+Pure Blind,U8-CWA,XI-VUF,XI-VUF X,Suspended Plasma,Poor,60.10
+Pure Blind,U8-CWA,XI-VUF,XI-VUF XI,Crystal Compound,Medium,22.34
+Pure Blind,U8-CWA,XI-VUF,XI-VUF XI,Toxic Metals,Perfect,9.04
+Pure Blind,U8-CWA,XI-VUF,XI-VUF XI,Silicate Glass,Medium,10.20
+Pure Blind,U8-CWA,XI-VUF,XI-VUF XI,Liquid Ozone,Medium,30.34
+Pure Blind,U8-CWA,XI-VUF,XI-VUF XI,Ionic Solutions,Perfect,13.98
+Pure Blind,U8-CWA,N-H32Y,N-H32Y I,Precious Alloy,Medium,21.08
+Pure Blind,U8-CWA,N-H32Y,N-H32Y I,Supertensile Plastics,Medium,16.38
+Pure Blind,U8-CWA,N-H32Y,N-H32Y I,Construction Blocks,Poor,18.77
+Pure Blind,U8-CWA,N-H32Y,N-H32Y I,Silicate Glass,Poor,9.89
+Pure Blind,U8-CWA,N-H32Y,N-H32Y II,Supertensile Plastics,Medium,14.83
+Pure Blind,U8-CWA,N-H32Y,N-H32Y II,Construction Blocks,Poor,16.67
+Pure Blind,U8-CWA,N-H32Y,N-H32Y II,Silicate Glass,Medium,9.96
+Pure Blind,U8-CWA,N-H32Y,N-H32Y II,Plasmoids,Poor,0.87
+Pure Blind,U8-CWA,N-H32Y,N-H32Y III,Dark Compound,Poor,16.63
+Pure Blind,U8-CWA,N-H32Y,N-H32Y III,Supertensile Plastics,Medium,16.62
+Pure Blind,U8-CWA,N-H32Y,N-H32Y III,Silicate Glass,Medium,10.61
+Pure Blind,U8-CWA,N-H32Y,N-H32Y III,Plasmoids,Poor,0.87
+Pure Blind,U8-CWA,N-H32Y,N-H32Y IV,Lustering Alloy,Rich,32.59
+Pure Blind,U8-CWA,N-H32Y,N-H32Y IV,Reactive Gas,Medium,25.56
+Pure Blind,U8-CWA,N-H32Y,N-H32Y IV,Noble Gas,Poor,19.57
+Pure Blind,U8-CWA,N-H32Y,N-H32Y IV,Base Metals,Poor,4.90
+Pure Blind,U8-CWA,N-H32Y,N-H32Y IV,Ionic Solutions,Rich,12.03
+Pure Blind,U8-CWA,N-H32Y,N-H32Y V,Fiber Composite,Rich,27.41
+Pure Blind,U8-CWA,N-H32Y,N-H32Y V,Glossy Compound,Perfect,33.81
+Pure Blind,U8-CWA,N-H32Y,N-H32Y V,Reactive Gas,Poor,17.32
+Pure Blind,U8-CWA,N-H32Y,N-H32Y V,Polyaramids,Rich,18.19
+Pure Blind,U8-CWA,N-H32Y,N-H32Y V,Coolant,Rich,18.84
+Pure Blind,U8-CWA,N-H32Y,N-H32Y VI,Motley Compound,Rich,27.64
+Pure Blind,U8-CWA,N-H32Y,N-H32Y VI,Coolant,Medium,16.81
+Pure Blind,U8-CWA,N-H32Y,N-H32Y VI,Condensates,Medium,15.34
+Pure Blind,U8-CWA,N-H32Y,N-H32Y VI,Suspended Plasma,Rich,97.45
+Pure Blind,U8-CWA,N-H32Y,N-H32Y VII,Lustering Alloy,Poor,14.83
+Pure Blind,U8-CWA,N-H32Y,N-H32Y VII,Dark Compound,Medium,22.53
+Pure Blind,U8-CWA,N-H32Y,N-H32Y VII,Supertensile Plastics,Medium,14.97
+Pure Blind,U8-CWA,N-H32Y,N-H32Y VII,Construction Blocks,Poor,16.25
+Pure Blind,U8-CWA,N-H32Y,N-H32Y VIII,Precious Alloy,Poor,14.09
+Pure Blind,U8-CWA,N-H32Y,N-H32Y VIII,Industrial Fibers,Poor,5.21
+Pure Blind,U8-CWA,N-H32Y,N-H32Y VIII,Supertensile Plastics,Poor,10.36
+Pure Blind,U8-CWA,N-H32Y,N-H32Y VIII,Construction Blocks,Medium,23.14
+Pure Blind,U8-CWA,N-H32Y,N-H32Y IX,Precious Alloy,Medium,20.10
+Pure Blind,U8-CWA,N-H32Y,N-H32Y IX,Toxic Metals,Poor,4.55
+Pure Blind,U8-CWA,N-H32Y,N-H32Y IX,Supertensile Plastics,Medium,14.90
+Pure Blind,U8-CWA,N-H32Y,N-H32Y IX,Plasmoids,Poor,0.99
+Pure Blind,U8-CWA,12YA-2,12YA-2 I,Dark Compound,Medium,24.76
+Pure Blind,U8-CWA,12YA-2,12YA-2 I,Supertensile Plastics,Medium,14.10
+Pure Blind,U8-CWA,12YA-2,12YA-2 I,Silicate Glass,Poor,8.76
+Pure Blind,U8-CWA,12YA-2,12YA-2 I,Oxygen Isotopes,Poor,2.10
+Pure Blind,U8-CWA,12YA-2,12YA-2 II,Lustering Alloy,Medium,22.11
+Pure Blind,U8-CWA,12YA-2,12YA-2 II,Base Metals,Medium,6.39
+Pure Blind,U8-CWA,12YA-2,12YA-2 II,Supertensile Plastics,Poor,12.75
+Pure Blind,U8-CWA,12YA-2,12YA-2 II,Plasmoids,Poor,1.19
+Pure Blind,U8-CWA,12YA-2,12YA-2 III,Lustering Alloy,Poor,13.82
+Pure Blind,U8-CWA,12YA-2,12YA-2 III,Precious Alloy,Poor,15.29
+Pure Blind,U8-CWA,12YA-2,12YA-2 III,Supertensile Plastics,Medium,13.71
+Pure Blind,U8-CWA,12YA-2,12YA-2 III,Construction Blocks,Poor,13.29
+Pure Blind,U8-CWA,12YA-2,12YA-2 IV,Condensed Alloy,Rich,31.04
+Pure Blind,U8-CWA,12YA-2,12YA-2 IV,Fiber Composite,Rich,31.42
+Pure Blind,U8-CWA,12YA-2,12YA-2 IV,Condensates,Rich,18.28
+Pure Blind,U8-CWA,12YA-2,12YA-2 IV,Heavy Water,Medium,228.06
+Pure Blind,U8-CWA,12YA-2,12YA-2 IV,Liquid Ozone,Medium,32.16
+Pure Blind,U8-CWA,12YA-2,12YA-2 V,Dark Compound,Medium,23.92
+Pure Blind,U8-CWA,12YA-2,12YA-2 V,Supertensile Plastics,Poor,10.26
+Pure Blind,U8-CWA,12YA-2,12YA-2 V,Silicate Glass,Poor,9.31
+Pure Blind,U8-CWA,12YA-2,12YA-2 V,Oxygen Isotopes,Medium,3.82
+Pure Blind,U8-CWA,12YA-2,12YA-2 VI,Lustering Alloy,Medium,21.71
+Pure Blind,U8-CWA,12YA-2,12YA-2 VI,Glossy Compound,Rich,30.07
+Pure Blind,U8-CWA,12YA-2,12YA-2 VI,Reactive Gas,Rich,29.55
+Pure Blind,U8-CWA,12YA-2,12YA-2 VI,Base Metals,Perfect,9.11
+Pure Blind,U8-CWA,12YA-2,12YA-2 VI,Reactive Metals,Medium,6.32
+Pure Blind,U8-CWA,12YA-2,12YA-2 VII,Gleaming Alloy,Rich,27.64
+Pure Blind,U8-CWA,12YA-2,12YA-2 VII,Noble Metals,Rich,27.36
+Pure Blind,U8-CWA,12YA-2,12YA-2 VII,Construction Blocks,Rich,31.21
+Pure Blind,U8-CWA,12YA-2,12YA-2 VIII,Lustering Alloy,Medium,20.05
+Pure Blind,U8-CWA,12YA-2,12YA-2 VIII,Reactive Gas,Perfect,33.66
+Pure Blind,U8-CWA,12YA-2,12YA-2 VIII,Base Metals,Rich,7.24
+Pure Blind,U8-CWA,12YA-2,12YA-2 VIII,Coolant,Medium,15.78
+Pure Blind,U8-CWA,12YA-2,12YA-2 VIII,Ionic Solutions,Medium,9.17
+Pure Blind,U8-CWA,12YA-2,12YA-2 IX,Sheen Compound,Perfect,34.08
+Pure Blind,U8-CWA,12YA-2,12YA-2 IX,Reactive Gas,Medium,23.84
+Pure Blind,U8-CWA,12YA-2,12YA-2 IX,Base Metals,Medium,6.73
+Pure Blind,U8-CWA,12YA-2,12YA-2 IX,Reactive Metals,Perfect,9.06
+Pure Blind,U8-CWA,12YA-2,12YA-2 IX,Coolant,Rich,21.21
+Pure Blind,U8-CWA,12YA-2,12YA-2 X,Lustering Alloy,Poor,17.56
+Pure Blind,U8-CWA,12YA-2,12YA-2 X,Precious Alloy,Medium,24.28
+Pure Blind,U8-CWA,12YA-2,12YA-2 X,Base Metals,Rich,7.79
+Pure Blind,U8-CWA,12YA-2,12YA-2 X,Condensates,Medium,13.38
+Pure Blind,U8-CWA,BDV3-T,BDV3-T I,Gleaming Alloy,Medium,23.50
+Pure Blind,U8-CWA,BDV3-T,BDV3-T I,Oxygen Isotopes,Rich,4.10
+Pure Blind,U8-CWA,BDV3-T,BDV3-T I,Plasmoids,Medium,1.48
+Pure Blind,U8-CWA,BDV3-T,BDV3-T II,Gleaming Alloy,Rich,32.80
+Pure Blind,U8-CWA,BDV3-T,BDV3-T II,Motley Compound,Medium,23.58
+Pure Blind,U8-CWA,BDV3-T,BDV3-T II,Smartfab Units,Poor,11.73
+Pure Blind,U8-CWA,BDV3-T,BDV3-T III,Opulent Compound,Poor,19.55
+Pure Blind,U8-CWA,BDV3-T,BDV3-T III,Noble Metals,Medium,22.18
+Pure Blind,U8-CWA,BDV3-T,BDV3-T III,Coolant,Rich,20.05
+Pure Blind,U8-CWA,BDV3-T,BDV3-T III,Liquid Ozone,Rich,34.18
+Pure Blind,U8-CWA,BDV3-T,BDV3-T III,Ionic Solutions,Medium,10.58
+Pure Blind,U8-CWA,BDV3-T,BDV3-T IV,Fiber Composite,Perfect,35.59
+Pure Blind,U8-CWA,BDV3-T,BDV3-T IV,Opulent Compound,Perfect,35.17
+Pure Blind,U8-CWA,BDV3-T,BDV3-T IV,Noble Metals,Medium,24.36
+Pure Blind,U8-CWA,BDV3-T,BDV3-T IV,Condensates,Perfect,23.30
+Pure Blind,U8-CWA,BDV3-T,BDV3-T IV,Liquid Ozone,Medium,30.48
+Pure Blind,U8-CWA,BDV3-T,BDV3-T V,Condensed Alloy,Rich,27.57
+Pure Blind,U8-CWA,BDV3-T,BDV3-T V,Opulent Compound,Medium,20.85
+Pure Blind,U8-CWA,BDV3-T,BDV3-T V,Reactive Gas,Rich,27.11
+Pure Blind,U8-CWA,BDV3-T,BDV3-T V,Industrial Fibers,Rich,8.09
+Pure Blind,U8-CWA,BDV3-T,BDV3-T V,Liquid Ozone,Perfect,45.49
+Pure Blind,U8-CWA,BDV3-T,BDV3-T VI,Opulent Compound,Poor,19.30
+Pure Blind,U8-CWA,BDV3-T,BDV3-T VI,Reactive Gas,Perfect,37.76
+Pure Blind,U8-CWA,BDV3-T,BDV3-T VI,Industrial Fibers,Medium,6.33
+Pure Blind,U8-CWA,BDV3-T,BDV3-T VI,Condensates,Perfect,22.58
+Pure Blind,U8-CWA,BDV3-T,BDV3-T VI,Liquid Ozone,Rich,39.56
+Pure Blind,U8-CWA,BDV3-T,BDV3-T VII,Fiber Composite,Medium,26.38
+Pure Blind,U8-CWA,BDV3-T,BDV3-T VII,Glossy Compound,Rich,30.24
+Pure Blind,U8-CWA,BDV3-T,BDV3-T VII,Reactive Gas,Medium,23.58
+Pure Blind,U8-CWA,BDV3-T,BDV3-T VII,Polyaramids,Rich,19.03
+Pure Blind,U8-CWA,BDV3-T,BDV3-T VII,Coolant,Poor,11.56
+Pure Blind,U8-CWA,BDV3-T,BDV3-T VIII,Condensed Alloy,Rich,29.38
+Pure Blind,U8-CWA,BDV3-T,BDV3-T VIII,Noble Metals,Rich,27.38
+Pure Blind,U8-CWA,BDV3-T,BDV3-T VIII,Toxic Metals,Perfect,9.72
+Pure Blind,U8-CWA,BDV3-T,BDV3-T VIII,Coolant,Rich,19.36
+Pure Blind,U8-CWA,BDV3-T,BDV3-T VIII,Liquid Ozone,Rich,37.98
+Pure Blind,U8-CWA,BDV3-T,BDV3-T IX,Precious Alloy,Poor,15.77
+Pure Blind,U8-CWA,BDV3-T,BDV3-T IX,Toxic Metals,Poor,3.91
+Pure Blind,U8-CWA,BDV3-T,BDV3-T IX,Supertensile Plastics,Poor,12.26
+Pure Blind,U8-CWA,BDV3-T,BDV3-T IX,Silicate Glass,Medium,9.93
+Pure Blind,38G6-L,J-CIJV,J-CIJV I,Gleaming Alloy,Perfect,35.42
+Pure Blind,38G6-L,J-CIJV,J-CIJV I,Polyaramids,Medium,18.03
+Pure Blind,38G6-L,J-CIJV,J-CIJV I,Oxygen Isotopes,Poor,2.64
+Pure Blind,38G6-L,J-CIJV,J-CIJV II,Base Metals,Poor,4.63
+Pure Blind,38G6-L,J-CIJV,J-CIJV II,Industrial Fibers,Medium,6.61
+Pure Blind,38G6-L,J-CIJV,J-CIJV II,Supertensile Plastics,Medium,14.61
+Pure Blind,38G6-L,J-CIJV,J-CIJV II,Silicate Glass,Medium,11.71
+Pure Blind,38G6-L,J-CIJV,J-CIJV III,Toxic Metals,Poor,5.01
+Pure Blind,38G6-L,J-CIJV,J-CIJV III,Supertensile Plastics,Medium,17.78
+Pure Blind,38G6-L,J-CIJV,J-CIJV III,Construction Blocks,Medium,26.33
+Pure Blind,38G6-L,J-CIJV,J-CIJV III,Oxygen Isotopes,Poor,3.05
+Pure Blind,38G6-L,J-CIJV,J-CIJV IV,Crystal Compound,Medium,25.01
+Pure Blind,38G6-L,J-CIJV,J-CIJV IV,Polyaramids,Rich,20.83
+Pure Blind,38G6-L,J-CIJV,J-CIJV IV,Coolant,Medium,14.74
+Pure Blind,38G6-L,J-CIJV,J-CIJV IV,Heavy Water,Medium,243.98
+Pure Blind,38G6-L,J-CIJV,J-CIJV IV,Liquid Ozone,Perfect,45.46
+Pure Blind,38G6-L,J-CIJV,J-CIJV V,Fiber Composite,Medium,27.52
+Pure Blind,38G6-L,J-CIJV,J-CIJV V,Opulent Compound,Rich,29.33
+Pure Blind,38G6-L,J-CIJV,J-CIJV V,Reactive Gas,Medium,21.63
+Pure Blind,38G6-L,J-CIJV,J-CIJV V,Industrial Fibers,Medium,6.50
+Pure Blind,38G6-L,J-CIJV,J-CIJV V,Liquid Ozone,Medium,29.73
+Pure Blind,38G6-L,J-CIJV,J-CIJV VI,Opulent Compound,Rich,29.08
+Pure Blind,38G6-L,J-CIJV,J-CIJV VI,Noble Metals,Medium,27.81
+Pure Blind,38G6-L,J-CIJV,J-CIJV VI,Silicate Glass,Medium,12.97
+Pure Blind,38G6-L,J-CIJV,J-CIJV VI,Heavy Water,Medium,211.20
+Pure Blind,38G6-L,J-CIJV,J-CIJV VI,Liquid Ozone,Perfect,43.97
+Pure Blind,38G6-L,J-CIJV,J-CIJV VII,Lustering Alloy,Rich,28.09
+Pure Blind,38G6-L,J-CIJV,J-CIJV VII,Reactive Gas,Medium,27.32
+Pure Blind,38G6-L,J-CIJV,J-CIJV VII,Polyaramids,Medium,18.10
+Pure Blind,38G6-L,J-CIJV,J-CIJV VII,Coolant,Rich,20.89
+Pure Blind,38G6-L,J-CIJV,J-CIJV VII,Ionic Solutions,Perfect,14.18
+Pure Blind,38G6-L,J-CIJV,J-CIJV VIII,Crystal Compound,Rich,34.47
+Pure Blind,38G6-L,J-CIJV,J-CIJV VIII,Reactive Gas,Poor,20.04
+Pure Blind,38G6-L,J-CIJV,J-CIJV VIII,Reactive Metals,Medium,6.09
+Pure Blind,38G6-L,J-CIJV,J-CIJV VIII,Toxic Metals,Medium,6.20
+Pure Blind,38G6-L,J-CIJV,J-CIJV IX,Crystal Compound,Medium,20.83
+Pure Blind,38G6-L,J-CIJV,J-CIJV IX,Reactive Metals,Rich,7.60
+Pure Blind,38G6-L,J-CIJV,J-CIJV IX,Nanites,Rich,7.94
+Pure Blind,38G6-L,J-CIJV,J-CIJV IX,Suspended Plasma,Perfect,127.91
+Pure Blind,38G6-L,X-7OMU,X-7OMU I,Lustering Alloy,Rich,33.33
+Pure Blind,38G6-L,X-7OMU,X-7OMU I,Reactive Gas,Poor,17.77
+Pure Blind,38G6-L,X-7OMU,X-7OMU I,Noble Gas,Medium,24.72
+Pure Blind,38G6-L,X-7OMU,X-7OMU I,Base Metals,Medium,5.95
+Pure Blind,38G6-L,X-7OMU,X-7OMU I,Reactive Metals,Poor,5.06
+Pure Blind,38G6-L,X-7OMU,X-7OMU II,Condensed Alloy,Perfect,34.19
+Pure Blind,38G6-L,X-7OMU,X-7OMU II,Reactive Gas,Perfect,34.38
+Pure Blind,38G6-L,X-7OMU,X-7OMU II,Base Metals,Medium,6.20
+Pure Blind,38G6-L,X-7OMU,X-7OMU II,Noble Metals,Medium,22.22
+Pure Blind,38G6-L,X-7OMU,X-7OMU II,Liquid Ozone,Perfect,47.09
+Pure Blind,38G6-L,X-7OMU,X-7OMU III,Lustering Alloy,Rich,27.47
+Pure Blind,38G6-L,X-7OMU,X-7OMU III,Precious Alloy,Rich,29.57
+Pure Blind,38G6-L,X-7OMU,X-7OMU III,Condensates,Poor,12.04
+Pure Blind,38G6-L,X-7OMU,X-7OMU III,Liquid Ozone,Medium,31.39
+Pure Blind,38G6-L,X-7OMU,X-7OMU IV,Lustering Alloy,Rich,29.30
+Pure Blind,38G6-L,X-7OMU,X-7OMU IV,Precious Alloy,Medium,20.87
+Pure Blind,38G6-L,X-7OMU,X-7OMU IV,Motley Compound,Rich,28.69
+Pure Blind,38G6-L,X-7OMU,X-7OMU IV,Condensates,Poor,12.12
+Pure Blind,38G6-L,X-7OMU,X-7OMU V,Precious Alloy,Medium,23.86
+Pure Blind,38G6-L,X-7OMU,X-7OMU V,Motley Compound,Rich,30.24
+Pure Blind,38G6-L,X-7OMU,X-7OMU V,Coolant,Rich,19.56
+Pure Blind,38G6-L,X-7OMU,X-7OMU V,Condensates,Rich,18.98
+Pure Blind,38G6-L,X-7OMU,X-7OMU VI,Lustering Alloy,Poor,16.36
+Pure Blind,38G6-L,X-7OMU,X-7OMU VI,Toxic Metals,Medium,5.26
+Pure Blind,38G6-L,X-7OMU,X-7OMU VI,Supertensile Plastics,Medium,16.73
+Pure Blind,38G6-L,X-7OMU,X-7OMU VI,Construction Blocks,Poor,17.01
+Pure Blind,38G6-L,CXN1-Z,CXN1-Z I,Gleaming Alloy,Rich,28.69
+Pure Blind,38G6-L,CXN1-Z,CXN1-Z I,Lucent Compound,Perfect,33.87
+Pure Blind,38G6-L,CXN1-Z,CXN1-Z I,Reactive Metals,Rich,7.96
+Pure Blind,38G6-L,CXN1-Z,CXN1-Z I,Construction Blocks,Rich,28.22
+Pure Blind,38G6-L,CXN1-Z,CXN1-Z II,Precious Alloy,Poor,13.48
+Pure Blind,38G6-L,CXN1-Z,CXN1-Z II,Supertensile Plastics,Medium,16.48
+Pure Blind,38G6-L,CXN1-Z,CXN1-Z II,Oxygen Isotopes,Medium,3.87
+Pure Blind,38G6-L,CXN1-Z,CXN1-Z II,Plasmoids,Medium,1.51
+Pure Blind,38G6-L,CXN1-Z,CXN1-Z III,Lustering Alloy,Medium,24.82
+Pure Blind,38G6-L,CXN1-Z,CXN1-Z III,Industrial Fibers,Poor,4.20
+Pure Blind,38G6-L,CXN1-Z,CXN1-Z III,Supertensile Plastics,Medium,15.15
+Pure Blind,38G6-L,CXN1-Z,CXN1-Z III,Silicate Glass,Poor,9.42
+Pure Blind,38G6-L,CXN1-Z,CXN1-Z IV,Sheen Compound,Medium,21.67
+Pure Blind,38G6-L,CXN1-Z,CXN1-Z IV,Fiber Composite,Rich,33.05
+Pure Blind,38G6-L,CXN1-Z,CXN1-Z IV,Reactive Gas,Medium,22.47
+Pure Blind,38G6-L,CXN1-Z,CXN1-Z IV,Reactive Metals,Poor,4.54
+Pure Blind,38G6-L,CXN1-Z,CXN1-Z IV,Coolant,Medium,17.28
+Pure Blind,38G6-L,CXN1-Z,CXN1-Z V,Condensed Alloy,Medium,22.64
+Pure Blind,38G6-L,CXN1-Z,CXN1-Z V,Noble Metals,Perfect,34.15
+Pure Blind,38G6-L,CXN1-Z,CXN1-Z V,Industrial Fibers,Perfect,10.01
+Pure Blind,38G6-L,CXN1-Z,CXN1-Z V,Heavy Water,Perfect,383.25
+Pure Blind,38G6-L,CXN1-Z,CXN1-Z V,Liquid Ozone,Medium,25.99
+Pure Blind,38G6-L,CXN1-Z,CXN1-Z VI,Sheen Compound,Rich,27.93
+Pure Blind,38G6-L,CXN1-Z,CXN1-Z VI,Glossy Compound,Rich,32.99
+Pure Blind,38G6-L,CXN1-Z,CXN1-Z VI,Reactive Gas,Poor,19.28
+Pure Blind,38G6-L,CXN1-Z,CXN1-Z VI,Polyaramids,Medium,17.70
+Pure Blind,38G6-L,CXN1-Z,CXN1-Z VI,Ionic Solutions,Medium,10.16
+Pure Blind,38G6-L,CXN1-Z,CXN1-Z VII,Reactive Gas,Poor,19.78
+Pure Blind,38G6-L,CXN1-Z,CXN1-Z VII,Noble Gas,Medium,21.82
+Pure Blind,38G6-L,CXN1-Z,CXN1-Z VII,Base Metals,Rich,8.00
+Pure Blind,38G6-L,CXN1-Z,CXN1-Z VII,Polyaramids,Rich,18.89
+Pure Blind,38G6-L,CXN1-Z,CXN1-Z VII,Ionic Solutions,Rich,13.11
+Pure Blind,38G6-L,CXN1-Z,CXN1-Z VIII,Precious Alloy,Medium,25.33
+Pure Blind,38G6-L,CXN1-Z,CXN1-Z VIII,Toxic Metals,Medium,6.17
+Pure Blind,38G6-L,CXN1-Z,CXN1-Z VIII,Supertensile Plastics,Poor,10.81
+Pure Blind,38G6-L,CXN1-Z,CXN1-Z VIII,Silicate Glass,Medium,12.26
+Pure Blind,38G6-L,KLY-C0,KLY-C0 I,Gleaming Alloy,Medium,20.08
+Pure Blind,38G6-L,KLY-C0,KLY-C0 I,Noble Gas,Rich,25.68
+Pure Blind,38G6-L,KLY-C0,KLY-C0 I,Smartfab Units,Rich,17.84
+Pure Blind,38G6-L,KLY-C0,KLY-C0 II,Opulent Compound,Medium,21.18
+Pure Blind,38G6-L,KLY-C0,KLY-C0 II,Reactive Gas,Perfect,31.94
+Pure Blind,38G6-L,KLY-C0,KLY-C0 II,Industrial Fibers,Medium,6.07
+Pure Blind,38G6-L,KLY-C0,KLY-C0 II,Smartfab Units,Rich,20.13
+Pure Blind,38G6-L,KLY-C0,KLY-C0 II,Liquid Ozone,Perfect,45.70
+Pure Blind,38G6-L,KLY-C0,KLY-C0 III,Reactive Gas,Rich,30.64
+Pure Blind,38G6-L,KLY-C0,KLY-C0 III,Industrial Fibers,Poor,4.93
+Pure Blind,38G6-L,KLY-C0,KLY-C0 III,Condensates,Medium,13.76
+Pure Blind,38G6-L,KLY-C0,KLY-C0 III,Heavy Water,Rich,281.00
+Pure Blind,38G6-L,KLY-C0,KLY-C0 III,Liquid Ozone,Rich,39.08
+Pure Blind,38G6-L,KLY-C0,KLY-C0 IV,Toxic Metals,Medium,5.12
+Pure Blind,38G6-L,KLY-C0,KLY-C0 IV,Industrial Fibers,Medium,5.34
+Pure Blind,38G6-L,KLY-C0,KLY-C0 IV,Supertensile Plastics,Poor,8.47
+Pure Blind,38G6-L,KLY-C0,KLY-C0 IV,Oxygen Isotopes,Poor,2.41
+Pure Blind,38G6-L,KLY-C0,KLY-C0 V,Lustering Alloy,Perfect,32.50
+Pure Blind,38G6-L,KLY-C0,KLY-C0 V,Sheen Compound,Rich,26.94
+Pure Blind,38G6-L,KLY-C0,KLY-C0 V,Fiber Composite,Rich,31.18
+Pure Blind,38G6-L,KLY-C0,KLY-C0 V,Glossy Compound,Rich,29.44
+Pure Blind,38G6-L,KLY-C0,KLY-C0 V,Reactive Gas,Medium,23.72
+Pure Blind,38G6-L,KLY-C0,KLY-C0 VI,Reactive Gas,Perfect,32.82
+Pure Blind,38G6-L,KLY-C0,KLY-C0 VI,Reactive Metals,Medium,5.98
+Pure Blind,38G6-L,KLY-C0,KLY-C0 VI,Polyaramids,Rich,20.17
+Pure Blind,38G6-L,KLY-C0,KLY-C0 VI,Coolant,Poor,12.39
+Pure Blind,38G6-L,KLY-C0,KLY-C0 VI,Ionic Solutions,Rich,10.31
+Pure Blind,38G6-L,KLY-C0,KLY-C0 VII,Reactive Gas,Rich,28.64
+Pure Blind,38G6-L,KLY-C0,KLY-C0 VII,Noble Gas,Rich,29.34
+Pure Blind,38G6-L,KLY-C0,KLY-C0 VII,Base Metals,Rich,7.94
+Pure Blind,38G6-L,KLY-C0,KLY-C0 VII,Reactive Metals,Rich,8.35
+Pure Blind,38G6-L,KLY-C0,KLY-C0 VII,Coolant,Rich,18.93
+Pure Blind,38G6-L,KLY-C0,KLY-C0 VIII,Lustering Alloy,Medium,19.38
+Pure Blind,38G6-L,KLY-C0,KLY-C0 VIII,Supertensile Plastics,Poor,8.51
+Pure Blind,38G6-L,KLY-C0,KLY-C0 VIII,Silicate Glass,Poor,6.91
+Pure Blind,38G6-L,KLY-C0,KLY-C0 VIII,Oxygen Isotopes,Poor,2.82
+Pure Blind,38G6-L,CL6-ZG,CL6-ZG I,Lucent Compound,Medium,23.29
+Pure Blind,38G6-L,CL6-ZG,CL6-ZG I,Noble Gas,Medium,23.12
+Pure Blind,38G6-L,CL6-ZG,CL6-ZG I,Condensates,Perfect,24.70
+Pure Blind,38G6-L,CL6-ZG,CL6-ZG I,Nanites,Rich,7.02
+Pure Blind,38G6-L,CL6-ZG,CL6-ZG I,Suspended Plasma,Medium,74.77
+Pure Blind,38G6-L,CL6-ZG,CL6-ZG II,Industrial Fibers,Medium,6.78
+Pure Blind,38G6-L,CL6-ZG,CL6-ZG II,Supertensile Plastics,Poor,8.74
+Pure Blind,38G6-L,CL6-ZG,CL6-ZG II,Construction Blocks,Poor,15.14
+Pure Blind,38G6-L,CL6-ZG,CL6-ZG II,Plasmoids,Poor,1.18
+Pure Blind,38G6-L,CL6-ZG,CL6-ZG III,Base Metals,Medium,5.38
+Pure Blind,38G6-L,CL6-ZG,CL6-ZG III,Supertensile Plastics,Poor,12.05
+Pure Blind,38G6-L,CL6-ZG,CL6-ZG III,Construction Blocks,Poor,15.69
+Pure Blind,38G6-L,CL6-ZG,CL6-ZG III,Silicate Glass,Poor,9.49
+Pure Blind,38G6-L,CL6-ZG,CL6-ZG IV,Fiber Composite,Medium,20.48
+Pure Blind,38G6-L,CL6-ZG,CL6-ZG IV,Opulent Compound,Perfect,37.19
+Pure Blind,38G6-L,CL6-ZG,CL6-ZG IV,Base Metals,Rich,7.16
+Pure Blind,38G6-L,CL6-ZG,CL6-ZG IV,Smartfab Units,Rich,21.06
+Pure Blind,38G6-L,CL6-ZG,CL6-ZG IV,Liquid Ozone,Rich,35.04
+Pure Blind,38G6-L,CL6-ZG,CL6-ZG V,Lustering Alloy,Poor,17.14
+Pure Blind,38G6-L,CL6-ZG,CL6-ZG V,Dark Compound,Poor,18.96
+Pure Blind,38G6-L,CL6-ZG,CL6-ZG V,Industrial Fibers,Medium,5.79
+Pure Blind,38G6-L,CL6-ZG,CL6-ZG V,Supertensile Plastics,Poor,9.17
+Pure Blind,38G6-L,CL6-ZG,CL6-ZG VI,Fiber Composite,Medium,26.27
+Pure Blind,38G6-L,CL6-ZG,CL6-ZG VI,Reactive Gas,Rich,30.07
+Pure Blind,38G6-L,CL6-ZG,CL6-ZG VI,Noble Gas,Rich,28.88
+Pure Blind,38G6-L,CL6-ZG,CL6-ZG VI,Reactive Metals,Rich,7.30
+Pure Blind,38G6-L,CL6-ZG,CL6-ZG VI,Coolant,Rich,19.19
+Pure Blind,38G6-L,CL6-ZG,CL6-ZG VII,Glossy Compound,Rich,32.80
+Pure Blind,38G6-L,CL6-ZG,CL6-ZG VII,Reactive Gas,Medium,20.03
+Pure Blind,38G6-L,CL6-ZG,CL6-ZG VII,Base Metals,Medium,6.08
+Pure Blind,38G6-L,CL6-ZG,CL6-ZG VII,Coolant,Medium,14.67
+Pure Blind,38G6-L,CL6-ZG,CL6-ZG VII,Ionic Solutions,Rich,11.73
+Pure Blind,38G6-L,CL6-ZG,CL6-ZG VIII,Lustering Alloy,Medium,23.12
+Pure Blind,38G6-L,CL6-ZG,CL6-ZG VIII,Fiber Composite,Rich,28.41
+Pure Blind,38G6-L,CL6-ZG,CL6-ZG VIII,Glossy Compound,Medium,24.68
+Pure Blind,38G6-L,CL6-ZG,CL6-ZG VIII,Reactive Gas,Medium,25.18
+Pure Blind,38G6-L,CL6-ZG,CL6-ZG VIII,Ionic Solutions,Medium,8.26
+Pure Blind,38G6-L,CL6-ZG,CL6-ZG IX,Lustering Alloy,Rich,32.99
+Pure Blind,38G6-L,CL6-ZG,CL6-ZG IX,Reactive Gas,Rich,32.76
+Pure Blind,38G6-L,CL6-ZG,CL6-ZG IX,Reactive Metals,Rich,8.54
+Pure Blind,38G6-L,CL6-ZG,CL6-ZG IX,Polyaramids,Rich,21.01
+Pure Blind,38G6-L,CL6-ZG,CL6-ZG IX,Coolant,Medium,16.30
+Pure Blind,38G6-L,G95-VZ,G95-VZ I,Gleaming Alloy,Poor,20.57
+Pure Blind,38G6-L,G95-VZ,G95-VZ I,Noble Gas,Rich,31.42
+Pure Blind,38G6-L,G95-VZ,G95-VZ I,Construction Blocks,Rich,27.94
+Pure Blind,38G6-L,G95-VZ,G95-VZ II,Dark Compound,Poor,16.59
+Pure Blind,38G6-L,G95-VZ,G95-VZ II,Supertensile Plastics,Medium,15.03
+Pure Blind,38G6-L,G95-VZ,G95-VZ II,Construction Blocks,Medium,24.99
+Pure Blind,38G6-L,G95-VZ,G95-VZ II,Plasmoids,Medium,1.50
+Pure Blind,38G6-L,G95-VZ,G95-VZ III,Gleaming Alloy,Rich,33.90
+Pure Blind,38G6-L,G95-VZ,G95-VZ III,Construction Blocks,Rich,34.65
+Pure Blind,38G6-L,G95-VZ,G95-VZ III,Plasmoids,Medium,1.45
+Pure Blind,38G6-L,G95-VZ,G95-VZ IV,Toxic Metals,Medium,6.14
+Pure Blind,38G6-L,G95-VZ,G95-VZ IV,Industrial Fibers,Poor,4.69
+Pure Blind,38G6-L,G95-VZ,G95-VZ IV,Supertensile Plastics,Medium,14.45
+Pure Blind,38G6-L,G95-VZ,G95-VZ IV,Construction Blocks,Medium,25.45
+Pure Blind,38G6-L,G95-VZ,G95-VZ V,Lustering Alloy,Medium,25.34
+Pure Blind,38G6-L,G95-VZ,G95-VZ V,Glossy Compound,Poor,18.55
+Pure Blind,38G6-L,G95-VZ,G95-VZ V,Reactive Gas,Rich,28.95
+Pure Blind,38G6-L,G95-VZ,G95-VZ V,Reactive Metals,Medium,6.85
+Pure Blind,38G6-L,G95-VZ,G95-VZ V,Polyaramids,Medium,15.94
+Pure Blind,38G6-L,G95-VZ,G95-VZ VI,Lustering Alloy,Medium,26.27
+Pure Blind,38G6-L,G95-VZ,G95-VZ VI,Sheen Compound,Perfect,35.53
+Pure Blind,38G6-L,G95-VZ,G95-VZ VI,Fiber Composite,Rich,34.34
+Pure Blind,38G6-L,G95-VZ,G95-VZ VI,Reactive Gas,Perfect,35.57
+Pure Blind,38G6-L,G95-VZ,G95-VZ VI,Noble Gas,Medium,27.83
+Pure Blind,38G6-L,G95-VZ,G95-VZ VII,Base Metals,Medium,6.20
+Pure Blind,38G6-L,G95-VZ,G95-VZ VII,Toxic Metals,Poor,5.02
+Pure Blind,38G6-L,G95-VZ,G95-VZ VII,Supertensile Plastics,Poor,13.63
+Pure Blind,38G6-L,G95-VZ,G95-VZ VII,Plasmoids,Medium,1.49
+Pure Blind,38G6-L,G95-VZ,G95-VZ VIII,Glossy Compound,Medium,26.00
+Pure Blind,38G6-L,G95-VZ,G95-VZ VIII,Reactive Gas,Perfect,35.40
+Pure Blind,38G6-L,G95-VZ,G95-VZ VIII,Base Metals,Rich,8.75
+Pure Blind,38G6-L,G95-VZ,G95-VZ VIII,Reactive Metals,Medium,6.41
+Pure Blind,38G6-L,G95-VZ,G95-VZ VIII,Ionic Solutions,Rich,12.19
+Pure Blind,38G6-L,ROIR-Y,ROIR-Y I,Sheen Compound,Rich,30.16
+Pure Blind,38G6-L,ROIR-Y,ROIR-Y I,Reactive Gas,Rich,28.75
+Pure Blind,38G6-L,ROIR-Y,ROIR-Y I,Base Metals,Medium,6.58
+Pure Blind,38G6-L,ROIR-Y,ROIR-Y I,Reactive Metals,Medium,6.40
+Pure Blind,38G6-L,ROIR-Y,ROIR-Y I,Ionic Solutions,Medium,9.50
+Pure Blind,38G6-L,ROIR-Y,ROIR-Y II,Lustering Alloy,Medium,27.81
+Pure Blind,38G6-L,ROIR-Y,ROIR-Y II,Industrial Fibers,Poor,5.03
+Pure Blind,38G6-L,ROIR-Y,ROIR-Y II,Coolant,Medium,15.11
+Pure Blind,38G6-L,ROIR-Y,ROIR-Y II,Condensates,Poor,12.06
+Pure Blind,38G6-L,ROIR-Y,ROIR-Y III,Precious Alloy,Poor,19.01
+Pure Blind,38G6-L,ROIR-Y,ROIR-Y III,Heavy Metals,Medium,23.78
+Pure Blind,38G6-L,ROIR-Y,ROIR-Y III,Coolant,Poor,11.59
+Pure Blind,38G6-L,ROIR-Y,ROIR-Y III,Condensates,Rich,19.68
+Pure Blind,YS-GOP,EC-P8R,EC-P8R I,Lustering Alloy,Medium,25.68
+Pure Blind,YS-GOP,EC-P8R,EC-P8R I,Precious Alloy,Poor,21.62
+Pure Blind,YS-GOP,EC-P8R,EC-P8R I,Dark Compound,Medium,28.39
+Pure Blind,YS-GOP,EC-P8R,EC-P8R I,Supertensile Plastics,Poor,10.42
+Pure Blind,YS-GOP,EC-P8R,EC-P8R II,Dark Compound,Poor,16.22
+Pure Blind,YS-GOP,EC-P8R,EC-P8R II,Supertensile Plastics,Poor,10.24
+Pure Blind,YS-GOP,EC-P8R,EC-P8R II,Silicate Glass,Poor,8.42
+Pure Blind,YS-GOP,EC-P8R,EC-P8R II,Plasmoids,Poor,1.19
+Pure Blind,YS-GOP,EC-P8R,EC-P8R III,Precious Alloy,Medium,28.85
+Pure Blind,YS-GOP,EC-P8R,EC-P8R III,Base Metals,Poor,5.34
+Pure Blind,YS-GOP,EC-P8R,EC-P8R III,Toxic Metals,Poor,5.80
+Pure Blind,YS-GOP,EC-P8R,EC-P8R III,Supertensile Plastics,Poor,12.26
+Pure Blind,YS-GOP,EC-P8R,EC-P8R IV,Lustering Alloy,Poor,16.20
+Pure Blind,YS-GOP,EC-P8R,EC-P8R IV,Dark Compound,Medium,26.59
+Pure Blind,YS-GOP,EC-P8R,EC-P8R IV,Base Metals,Medium,7.24
+Pure Blind,YS-GOP,EC-P8R,EC-P8R IV,Supertensile Plastics,Medium,17.22
+Pure Blind,YS-GOP,EC-P8R,EC-P8R V,Industrial Fibers,Medium,6.07
+Pure Blind,YS-GOP,EC-P8R,EC-P8R V,Supertensile Plastics,Poor,14.11
+Pure Blind,YS-GOP,EC-P8R,EC-P8R V,Construction Blocks,Medium,22.63
+Pure Blind,YS-GOP,EC-P8R,EC-P8R V,Oxygen Isotopes,Medium,4.28
+Pure Blind,YS-GOP,EC-P8R,EC-P8R VI,Fiber Composite,Perfect,39.55
+Pure Blind,YS-GOP,EC-P8R,EC-P8R VI,Reactive Gas,Perfect,38.93
+Pure Blind,YS-GOP,EC-P8R,EC-P8R VI,Noble Gas,Poor,21.77
+Pure Blind,YS-GOP,EC-P8R,EC-P8R VI,Coolant,Rich,21.23
+Pure Blind,YS-GOP,EC-P8R,EC-P8R VI,Ionic Solutions,Rich,12.98
+Pure Blind,YS-GOP,EC-P8R,EC-P8R VII,Glossy Compound,Medium,29.66
+Pure Blind,YS-GOP,EC-P8R,EC-P8R VII,Reactive Gas,Rich,32.40
+Pure Blind,YS-GOP,EC-P8R,EC-P8R VII,Noble Gas,Poor,19.90
+Pure Blind,YS-GOP,EC-P8R,EC-P8R VII,Coolant,Rich,22.59
+Pure Blind,YS-GOP,EC-P8R,EC-P8R VII,Ionic Solutions,Rich,13.84
+Pure Blind,YS-GOP,EC-P8R,EC-P8R VIII,Lustering Alloy,Medium,26.35
+Pure Blind,YS-GOP,EC-P8R,EC-P8R VIII,Glossy Compound,Rich,33.31
+Pure Blind,YS-GOP,EC-P8R,EC-P8R VIII,Reactive Gas,Medium,22.87
+Pure Blind,YS-GOP,EC-P8R,EC-P8R VIII,Base Metals,Rich,9.13
+Pure Blind,YS-GOP,EC-P8R,EC-P8R VIII,Reactive Metals,Rich,8.39
+Pure Blind,YS-GOP,EC-P8R,EC-P8R IX,Lustering Alloy,Medium,30.12
+Pure Blind,YS-GOP,EC-P8R,EC-P8R IX,Glossy Compound,Medium,24.60
+Pure Blind,YS-GOP,EC-P8R,EC-P8R IX,Reactive Gas,Medium,27.22
+Pure Blind,YS-GOP,EC-P8R,EC-P8R IX,Reactive Metals,Rich,9.16
+Pure Blind,YS-GOP,EC-P8R,EC-P8R IX,Coolant,Medium,15.23
+Pure Blind,YS-GOP,EC-P8R,EC-P8R X,Condensed Alloy,Medium,28.20
+Pure Blind,YS-GOP,EC-P8R,EC-P8R X,Crystal Compound,Rich,33.65
+Pure Blind,YS-GOP,EC-P8R,EC-P8R X,Silicate Glass,Rich,18.37
+Pure Blind,YS-GOP,EC-P8R,EC-P8R X,Liquid Ozone,Medium,36.21
+Pure Blind,YS-GOP,EC-P8R,EC-P8R X,Ionic Solutions,Poor,8.96
+Pure Blind,YS-GOP,EC-P8R,EC-P8R XI,Precious Alloy,Poor,17.59
+Pure Blind,YS-GOP,EC-P8R,EC-P8R XI,Base Metals,Poor,5.50
+Pure Blind,YS-GOP,EC-P8R,EC-P8R XI,Coolant,Medium,16.67
+Pure Blind,YS-GOP,EC-P8R,EC-P8R XI,Condensates,Medium,17.66
+Pure Blind,YS-GOP,EWOK-K,EWOK-K I,Precious Alloy,Medium,22.59
+Pure Blind,YS-GOP,EWOK-K,EWOK-K I,Supertensile Plastics,Medium,15.36
+Pure Blind,YS-GOP,EWOK-K,EWOK-K I,Silicate Glass,Medium,13.40
+Pure Blind,YS-GOP,EWOK-K,EWOK-K I,Plasmoids,Medium,1.30
+Pure Blind,YS-GOP,EWOK-K,EWOK-K II,Base Metals,Poor,4.45
+Pure Blind,YS-GOP,EWOK-K,EWOK-K II,Toxic Metals,Medium,7.26
+Pure Blind,YS-GOP,EWOK-K,EWOK-K II,Supertensile Plastics,Poor,14.17
+Pure Blind,YS-GOP,EWOK-K,EWOK-K II,Oxygen Isotopes,Poor,2.15
+Pure Blind,YS-GOP,EWOK-K,EWOK-K III,Dark Compound,Medium,23.34
+Pure Blind,YS-GOP,EWOK-K,EWOK-K III,Supertensile Plastics,Poor,13.75
+Pure Blind,YS-GOP,EWOK-K,EWOK-K III,Construction Blocks,Medium,26.54
+Pure Blind,YS-GOP,EWOK-K,EWOK-K III,Plasmoids,Poor,1.00
+Pure Blind,YS-GOP,EWOK-K,EWOK-K IV,Industrial Fibers,Poor,4.62
+Pure Blind,YS-GOP,EWOK-K,EWOK-K IV,Supertensile Plastics,Medium,14.60
+Pure Blind,YS-GOP,EWOK-K,EWOK-K IV,Construction Blocks,Poor,20.68
+Pure Blind,YS-GOP,EWOK-K,EWOK-K IV,Oxygen Isotopes,Poor,3.03
+Pure Blind,YS-GOP,EWOK-K,EWOK-K V,Condensed Alloy,Poor,21.50
+Pure Blind,YS-GOP,EWOK-K,EWOK-K V,Noble Metals,Medium,24.31
+Pure Blind,YS-GOP,EWOK-K,EWOK-K V,Toxic Metals,Rich,8.91
+Pure Blind,YS-GOP,EWOK-K,EWOK-K V,Silicate Glass,Medium,13.27
+Pure Blind,YS-GOP,EWOK-K,EWOK-K V,Liquid Ozone,Poor,26.36
+Pure Blind,YS-GOP,EWOK-K,EWOK-K VI,Lustering Alloy,Poor,20.24
+Pure Blind,YS-GOP,EWOK-K,EWOK-K VI,Precious Alloy,Medium,22.75
+Pure Blind,YS-GOP,EWOK-K,EWOK-K VI,Supertensile Plastics,Medium,17.99
+Pure Blind,YS-GOP,EWOK-K,EWOK-K VI,Construction Blocks,Poor,18.72
+Pure Blind,YS-GOP,EWOK-K,EWOK-K VII,Glossy Compound,Rich,33.30
+Pure Blind,YS-GOP,EWOK-K,EWOK-K VII,Reactive Gas,Medium,23.05
+Pure Blind,YS-GOP,EWOK-K,EWOK-K VII,Noble Gas,Rich,30.20
+Pure Blind,YS-GOP,EWOK-K,EWOK-K VII,Base Metals,Rich,8.20
+Pure Blind,YS-GOP,EWOK-K,EWOK-K VII,Coolant,Rich,21.04
+Pure Blind,YS-GOP,EWOK-K,EWOK-K VIII,Lustering Alloy,Poor,19.02
+Pure Blind,YS-GOP,EWOK-K,EWOK-K VIII,Glossy Compound,Rich,31.33
+Pure Blind,YS-GOP,EWOK-K,EWOK-K VIII,Reactive Gas,Medium,28.41
+Pure Blind,YS-GOP,EWOK-K,EWOK-K VIII,Base Metals,Poor,5.70
+Pure Blind,YS-GOP,EWOK-K,EWOK-K VIII,Polyaramids,Rich,20.98
+Pure Blind,YS-GOP,EWOK-K,EWOK-K IX,Precious Alloy,Poor,19.87
+Pure Blind,YS-GOP,EWOK-K,EWOK-K IX,Base Metals,Poor,5.27
+Pure Blind,YS-GOP,EWOK-K,EWOK-K IX,Condensates,Poor,12.63
+Pure Blind,YS-GOP,EWOK-K,EWOK-K IX,Liquid Ozone,Rich,39.13
+Pure Blind,YS-GOP,O-N8XZ,O-N8XZ I,Sheen Compound,Rich,30.20
+Pure Blind,YS-GOP,O-N8XZ,O-N8XZ I,Lucent Compound,Rich,32.09
+Pure Blind,YS-GOP,O-N8XZ,O-N8XZ I,Noble Gas,Medium,22.93
+Pure Blind,YS-GOP,O-N8XZ,O-N8XZ I,Condensates,Rich,19.15
+Pure Blind,YS-GOP,O-N8XZ,O-N8XZ I,Suspended Plasma,Rich,116.20
+Pure Blind,YS-GOP,O-N8XZ,O-N8XZ II,Noble Gas,Medium,23.16
+Pure Blind,YS-GOP,O-N8XZ,O-N8XZ II,Heavy Metals,Rich,31.23
+Pure Blind,YS-GOP,O-N8XZ,O-N8XZ II,Reactive Metals,Perfect,9.46
+Pure Blind,YS-GOP,O-N8XZ,O-N8XZ II,Condensates,Rich,18.44
+Pure Blind,YS-GOP,O-N8XZ,O-N8XZ II,Plasmoids,Rich,1.91
+Pure Blind,YS-GOP,O-N8XZ,O-N8XZ III,Precious Alloy,Poor,14.80
+Pure Blind,YS-GOP,O-N8XZ,O-N8XZ III,Dark Compound,Poor,17.83
+Pure Blind,YS-GOP,O-N8XZ,O-N8XZ III,Industrial Fibers,Medium,6.55
+Pure Blind,YS-GOP,O-N8XZ,O-N8XZ III,Supertensile Plastics,Medium,14.97
+Pure Blind,YS-GOP,O-N8XZ,O-N8XZ IV,Polyaramids,Rich,21.10
+Pure Blind,YS-GOP,O-N8XZ,O-N8XZ IV,Silicate Glass,Medium,11.46
+Pure Blind,YS-GOP,O-N8XZ,O-N8XZ IV,Heavy Water,Rich,299.67
+Pure Blind,YS-GOP,O-N8XZ,O-N8XZ IV,Liquid Ozone,Rich,35.46
+Pure Blind,YS-GOP,O-N8XZ,O-N8XZ IV,Ionic Solutions,Medium,10.25
+Pure Blind,YS-GOP,O-N8XZ,O-N8XZ V,Condensed Alloy,Rich,27.09
+Pure Blind,YS-GOP,O-N8XZ,O-N8XZ V,Fiber Composite,Perfect,34.46
+Pure Blind,YS-GOP,O-N8XZ,O-N8XZ V,Noble Metals,Rich,28.22
+Pure Blind,YS-GOP,O-N8XZ,O-N8XZ V,Industrial Fibers,Rich,8.29
+Pure Blind,YS-GOP,O-N8XZ,O-N8XZ V,Liquid Ozone,Medium,27.59
+Pure Blind,YS-GOP,G-M4I8,G-M4I8 I,Precious Alloy,Poor,20.57
+Pure Blind,YS-GOP,G-M4I8,G-M4I8 I,Toxic Metals,Medium,6.66
+Pure Blind,YS-GOP,G-M4I8,G-M4I8 I,Supertensile Plastics,Poor,12.64
+Pure Blind,YS-GOP,G-M4I8,G-M4I8 I,Oxygen Isotopes,Poor,2.65
+Pure Blind,YS-GOP,G-M4I8,G-M4I8 II,Gleaming Alloy,Medium,24.13
+Pure Blind,YS-GOP,G-M4I8,G-M4I8 II,Noble Gas,Medium,21.27
+Pure Blind,YS-GOP,G-M4I8,G-M4I8 II,Oxygen Isotopes,Perfect,5.33
+Pure Blind,YS-GOP,G-M4I8,G-M4I8 III,Toxic Metals,Medium,5.62
+Pure Blind,YS-GOP,G-M4I8,G-M4I8 III,Industrial Fibers,Medium,6.01
+Pure Blind,YS-GOP,G-M4I8,G-M4I8 III,Supertensile Plastics,Medium,17.22
+Pure Blind,YS-GOP,G-M4I8,G-M4I8 III,Construction Blocks,Medium,26.07
+Pure Blind,YS-GOP,G-M4I8,G-M4I8 IV,Gleaming Alloy,Medium,22.42
+Pure Blind,YS-GOP,G-M4I8,G-M4I8 IV,Glossy Compound,Poor,19.45
+Pure Blind,YS-GOP,G-M4I8,G-M4I8 IV,Smartfab Units,Medium,16.22
+Pure Blind,YS-GOP,G-M4I8,G-M4I8 V,Crystal Compound,Rich,34.34
+Pure Blind,YS-GOP,G-M4I8,G-M4I8 V,Noble Metals,Medium,27.24
+Pure Blind,YS-GOP,G-M4I8,G-M4I8 V,Silicate Glass,Medium,10.58
+Pure Blind,YS-GOP,G-M4I8,G-M4I8 V,Heavy Water,Poor,196.68
+Pure Blind,YS-GOP,G-M4I8,G-M4I8 V,Liquid Ozone,Rich,40.67
+Pure Blind,YS-GOP,G-M4I8,G-M4I8 VI,Lustering Alloy,Rich,32.36
+Pure Blind,YS-GOP,G-M4I8,G-M4I8 VI,Glossy Compound,Medium,22.81
+Pure Blind,YS-GOP,G-M4I8,G-M4I8 VI,Reactive Gas,Rich,32.85
+Pure Blind,YS-GOP,G-M4I8,G-M4I8 VI,Noble Gas,Rich,31.33
+Pure Blind,YS-GOP,G-M4I8,G-M4I8 VI,Base Metals,Medium,5.88
+Pure Blind,YS-GOP,G-M4I8,G-M4I8 VII,Lustering Alloy,Medium,26.73
+Pure Blind,YS-GOP,G-M4I8,G-M4I8 VII,Reactive Gas,Rich,32.05
+Pure Blind,YS-GOP,G-M4I8,G-M4I8 VII,Base Metals,Medium,5.84
+Pure Blind,YS-GOP,G-M4I8,G-M4I8 VII,Reactive Metals,Perfect,9.32
+Pure Blind,YS-GOP,G-M4I8,G-M4I8 VII,Polyaramids,Medium,17.50
+Pure Blind,YS-GOP,G-M4I8,G-M4I8 VIII,Lustering Alloy,Rich,30.60
+Pure Blind,YS-GOP,G-M4I8,G-M4I8 VIII,Fiber Composite,Rich,34.23
+Pure Blind,YS-GOP,G-M4I8,G-M4I8 VIII,Reactive Gas,Medium,23.23
+Pure Blind,YS-GOP,G-M4I8,G-M4I8 VIII,Reactive Metals,Rich,8.00
+Pure Blind,YS-GOP,G-M4I8,G-M4I8 VIII,Coolant,Medium,16.38
+Pure Blind,YS-GOP,G-M4I8,G-M4I8 IX,Lustering Alloy,Poor,18.30
+Pure Blind,YS-GOP,G-M4I8,G-M4I8 IX,Sheen Compound,Medium,23.94
+Pure Blind,YS-GOP,G-M4I8,G-M4I8 IX,Glossy Compound,Rich,30.65
+Pure Blind,YS-GOP,G-M4I8,G-M4I8 IX,Reactive Gas,Rich,30.71
+Pure Blind,YS-GOP,G-M4I8,G-M4I8 IX,Base Metals,Perfect,9.21
+Pure Blind,YS-GOP,G-M4I8,G-M4I8 X,Lustering Alloy,Rich,32.03
+Pure Blind,YS-GOP,G-M4I8,G-M4I8 X,Glossy Compound,Rich,29.92
+Pure Blind,YS-GOP,G-M4I8,G-M4I8 X,Reactive Gas,Rich,29.70
+Pure Blind,YS-GOP,G-M4I8,G-M4I8 X,Noble Gas,Rich,31.97
+Pure Blind,YS-GOP,G-M4I8,G-M4I8 X,Base Metals,Poor,5.03
+Pure Blind,YS-GOP,G-M4I8,G-M4I8 XI,Noble Metals,Perfect,36.94
+Pure Blind,YS-GOP,G-M4I8,G-M4I8 XI,Polyaramids,Rich,18.70
+Pure Blind,YS-GOP,G-M4I8,G-M4I8 XI,Coolant,Rich,21.77
+Pure Blind,YS-GOP,G-M4I8,G-M4I8 XI,Silicate Glass,Medium,11.36
+Pure Blind,YS-GOP,G-M4I8,G-M4I8 XI,Liquid Ozone,Medium,27.58
+Pure Blind,YS-GOP,G-M4I8,G-M4I8 XII,Supertensile Plastics,Poor,13.70
+Pure Blind,YS-GOP,G-M4I8,G-M4I8 XII,Condensates,Poor,11.22
+Pure Blind,YS-GOP,G-M4I8,G-M4I8 XII,Suspended Plasma,Medium,77.30
+Pure Blind,YS-GOP,G-M4I8,G-M4I8 XII,Liquid Ozone,Poor,25.08
+Pure Blind,YS-GOP,MI6O-6,MI6O-6 I,Toxic Metals,Poor,4.89
+Pure Blind,YS-GOP,MI6O-6,MI6O-6 I,Supertensile Plastics,Poor,11.13
+Pure Blind,YS-GOP,MI6O-6,MI6O-6 I,Construction Blocks,Medium,22.36
+Pure Blind,YS-GOP,MI6O-6,MI6O-6 I,Silicate Glass,Poor,9.31
+Pure Blind,YS-GOP,MI6O-6,MI6O-6 II,Gleaming Alloy,Medium,20.43
+Pure Blind,YS-GOP,MI6O-6,MI6O-6 II,Heavy Metals,Rich,30.89
+Pure Blind,YS-GOP,MI6O-6,MI6O-6 II,Plasmoids,Medium,1.57
+Pure Blind,YS-GOP,MI6O-6,MI6O-6 III,Lustering Alloy,Poor,16.36
+Pure Blind,YS-GOP,MI6O-6,MI6O-6 III,Toxic Metals,Poor,4.71
+Pure Blind,YS-GOP,MI6O-6,MI6O-6 III,Supertensile Plastics,Medium,14.10
+Pure Blind,YS-GOP,MI6O-6,MI6O-6 III,Silicate Glass,Medium,12.46
+Pure Blind,YS-GOP,MI6O-6,MI6O-6 IV,Gleaming Alloy,Perfect,33.91
+Pure Blind,YS-GOP,MI6O-6,MI6O-6 IV,Construction Blocks,Medium,24.25
+Pure Blind,YS-GOP,MI6O-6,MI6O-6 IV,Smartfab Units,Rich,22.18
+Pure Blind,YS-GOP,MI6O-6,MI6O-6 V,Base Metals,Poor,4.66
+Pure Blind,YS-GOP,MI6O-6,MI6O-6 V,Supertensile Plastics,Medium,15.69
+Pure Blind,YS-GOP,MI6O-6,MI6O-6 V,Construction Blocks,Medium,21.76
+Pure Blind,YS-GOP,MI6O-6,MI6O-6 V,Plasmoids,Medium,1.52
+Pure Blind,YS-GOP,MI6O-6,MI6O-6 VI,Lustering Alloy,Medium,22.70
+Pure Blind,YS-GOP,MI6O-6,MI6O-6 VI,Industrial Fibers,Poor,5.18
+Pure Blind,YS-GOP,MI6O-6,MI6O-6 VI,Supertensile Plastics,Medium,13.68
+Pure Blind,YS-GOP,MI6O-6,MI6O-6 VI,Construction Blocks,Medium,23.88
+Pure Blind,YS-GOP,MI6O-6,MI6O-6 VII,Lustering Alloy,Medium,24.61
+Pure Blind,YS-GOP,MI6O-6,MI6O-6 VII,Sheen Compound,Rich,31.44
+Pure Blind,YS-GOP,MI6O-6,MI6O-6 VII,Fiber Composite,Medium,21.71
+Pure Blind,YS-GOP,MI6O-6,MI6O-6 VII,Reactive Gas,Rich,27.91
+Pure Blind,YS-GOP,MI6O-6,MI6O-6 VII,Reactive Metals,Rich,8.59
+Pure Blind,YS-GOP,MI6O-6,MI6O-6 VIII,Lustering Alloy,Poor,18.16
+Pure Blind,YS-GOP,MI6O-6,MI6O-6 VIII,Reactive Gas,Rich,30.51
+Pure Blind,YS-GOP,MI6O-6,MI6O-6 VIII,Base Metals,Medium,5.59
+Pure Blind,YS-GOP,MI6O-6,MI6O-6 VIII,Coolant,Rich,19.77
+Pure Blind,YS-GOP,MI6O-6,MI6O-6 VIII,Ionic Solutions,Rich,13.14
+Pure Blind,YS-GOP,MI6O-6,MI6O-6 IX,Sheen Compound,Rich,32.51
+Pure Blind,YS-GOP,MI6O-6,MI6O-6 IX,Fiber Composite,Rich,33.28
+Pure Blind,YS-GOP,MI6O-6,MI6O-6 IX,Reactive Gas,Medium,21.08
+Pure Blind,YS-GOP,MI6O-6,MI6O-6 IX,Reactive Metals,Rich,7.96
+Pure Blind,YS-GOP,MI6O-6,MI6O-6 IX,Ionic Solutions,Rich,12.49
+Pure Blind,YS-GOP,MI6O-6,MI6O-6 X,Fiber Composite,Rich,32.97
+Pure Blind,YS-GOP,MI6O-6,MI6O-6 X,Reactive Gas,Medium,25.68
+Pure Blind,YS-GOP,MI6O-6,MI6O-6 X,Base Metals,Rich,7.93
+Pure Blind,YS-GOP,MI6O-6,MI6O-6 X,Reactive Metals,Medium,5.74
+Pure Blind,YS-GOP,MI6O-6,MI6O-6 X,Coolant,Rich,18.14
+Pure Blind,YS-GOP,MI6O-6,MI6O-6 XI,Sheen Compound,Medium,25.60
+Pure Blind,YS-GOP,MI6O-6,MI6O-6 XI,Reactive Gas,Poor,18.25
+Pure Blind,YS-GOP,MI6O-6,MI6O-6 XI,Noble Gas,Medium,23.67
+Pure Blind,YS-GOP,MI6O-6,MI6O-6 XI,Reactive Metals,Rich,7.12
+Pure Blind,YS-GOP,MI6O-6,MI6O-6 XI,Polyaramids,Poor,12.53
+Pure Blind,YS-GOP,L-TS8S,L-TS8S I,Precious Alloy,Poor,18.55
+Pure Blind,YS-GOP,L-TS8S,L-TS8S I,Dark Compound,Medium,21.19
+Pure Blind,YS-GOP,L-TS8S,L-TS8S I,Toxic Metals,Medium,6.00
+Pure Blind,YS-GOP,L-TS8S,L-TS8S I,Supertensile Plastics,Medium,14.01
+Pure Blind,YS-GOP,L-TS8S,L-TS8S II,Lustering Alloy,Poor,20.59
+Pure Blind,YS-GOP,L-TS8S,L-TS8S II,Dark Compound,Medium,26.60
+Pure Blind,YS-GOP,L-TS8S,L-TS8S II,Supertensile Plastics,Medium,17.94
+Pure Blind,YS-GOP,L-TS8S,L-TS8S II,Construction Blocks,Medium,22.81
+Pure Blind,YS-GOP,L-TS8S,L-TS8S III,Condensed Alloy,Medium,21.16
+Pure Blind,YS-GOP,L-TS8S,L-TS8S III,Opulent Compound,Rich,33.11
+Pure Blind,YS-GOP,L-TS8S,L-TS8S III,Noble Metals,Medium,27.59
+Pure Blind,YS-GOP,L-TS8S,L-TS8S III,Silicate Glass,Medium,12.00
+Pure Blind,YS-GOP,L-TS8S,L-TS8S III,Liquid Ozone,Medium,26.76
+Pure Blind,YS-GOP,L-TS8S,L-TS8S IV,Gleaming Alloy,Rich,28.93
+Pure Blind,YS-GOP,L-TS8S,L-TS8S IV,Motley Compound,Poor,18.33
+Pure Blind,YS-GOP,L-TS8S,L-TS8S IV,Construction Blocks,Medium,22.24
+Pure Blind,YS-GOP,L-TS8S,L-TS8S V,Lustering Alloy,Poor,15.31
+Pure Blind,YS-GOP,L-TS8S,L-TS8S V,Base Metals,Poor,4.66
+Pure Blind,YS-GOP,L-TS8S,L-TS8S V,Supertensile Plastics,Poor,11.82
+Pure Blind,YS-GOP,L-TS8S,L-TS8S V,Silicate Glass,Poor,8.99
+Pure Blind,YS-GOP,L-TS8S,L-TS8S VI,Fiber Composite,Rich,32.56
+Pure Blind,YS-GOP,L-TS8S,L-TS8S VI,Reactive Gas,Medium,24.22
+Pure Blind,YS-GOP,L-TS8S,L-TS8S VI,Noble Metals,Medium,24.86
+Pure Blind,YS-GOP,L-TS8S,L-TS8S VI,Condensates,Perfect,25.34
+Pure Blind,YS-GOP,L-TS8S,L-TS8S VI,Liquid Ozone,Perfect,47.93
+Pure Blind,YS-GOP,L-TS8S,L-TS8S VII,Condensed Alloy,Medium,24.00
+Pure Blind,YS-GOP,L-TS8S,L-TS8S VII,Opulent Compound,Medium,23.47
+Pure Blind,YS-GOP,L-TS8S,L-TS8S VII,Noble Metals,Poor,20.57
+Pure Blind,YS-GOP,L-TS8S,L-TS8S VII,Industrial Fibers,Medium,6.50
+Pure Blind,YS-GOP,L-TS8S,L-TS8S VII,Liquid Ozone,Rich,43.01
+Pure Blind,YS-GOP,93PI-4,93PI-4 I,Gleaming Alloy,Medium,26.12
+Pure Blind,YS-GOP,93PI-4,93PI-4 I,Construction Blocks,Rich,28.94
+Pure Blind,YS-GOP,93PI-4,93PI-4 I,Oxygen Isotopes,Poor,2.78
+Pure Blind,YS-GOP,93PI-4,93PI-4 II,Lustering Alloy,Poor,16.91
+Pure Blind,YS-GOP,93PI-4,93PI-4 II,Precious Alloy,Medium,24.97
+Pure Blind,YS-GOP,93PI-4,93PI-4 II,Toxic Metals,Medium,5.47
+Pure Blind,YS-GOP,93PI-4,93PI-4 II,Supertensile Plastics,Poor,9.73
+Pure Blind,YS-GOP,93PI-4,93PI-4 III,Gleaming Alloy,Medium,23.33
+Pure Blind,YS-GOP,93PI-4,93PI-4 III,Noble Metals,Medium,21.21
+Pure Blind,YS-GOP,93PI-4,93PI-4 III,Polyaramids,Medium,13.41
+Pure Blind,YS-GOP,93PI-4,93PI-4 IV,Sheen Compound,Rich,32.68
+Pure Blind,YS-GOP,93PI-4,93PI-4 IV,Glossy Compound,Medium,22.28
+Pure Blind,YS-GOP,93PI-4,93PI-4 IV,Reactive Gas,Rich,30.64
+Pure Blind,YS-GOP,93PI-4,93PI-4 IV,Noble Gas,Medium,21.34
+Pure Blind,YS-GOP,93PI-4,93PI-4 IV,Coolant,Medium,15.51
+Pure Blind,YS-GOP,93PI-4,93PI-4 V,Fiber Composite,Rich,28.31
+Pure Blind,YS-GOP,93PI-4,93PI-4 V,Reactive Gas,Rich,26.90
+Pure Blind,YS-GOP,93PI-4,93PI-4 V,Base Metals,Rich,8.47
+Pure Blind,YS-GOP,93PI-4,93PI-4 V,Coolant,Poor,12.60
+Pure Blind,YS-GOP,93PI-4,93PI-4 V,Ionic Solutions,Poor,7.90
+Pure Blind,YS-GOP,93PI-4,93PI-4 VI,Noble Metals,Rich,29.84
+Pure Blind,YS-GOP,93PI-4,93PI-4 VI,Toxic Metals,Medium,6.00
+Pure Blind,YS-GOP,93PI-4,93PI-4 VI,Coolant,Rich,21.06
+Pure Blind,YS-GOP,93PI-4,93PI-4 VI,Heavy Water,Medium,198.66
+Pure Blind,YS-GOP,93PI-4,93PI-4 VI,Liquid Ozone,Perfect,41.97
+Pure Blind,WMP-OF,ION-FG,ION-FG I,Base Metals,Medium,6.67
+Pure Blind,WMP-OF,ION-FG,ION-FG I,Toxic Metals,Poor,4.54
+Pure Blind,WMP-OF,ION-FG,ION-FG I,Industrial Fibers,Poor,4.72
+Pure Blind,WMP-OF,ION-FG,ION-FG I,Supertensile Plastics,Medium,16.49
+Pure Blind,WMP-OF,ION-FG,ION-FG II,Crystal Compound,Rich,29.53
+Pure Blind,WMP-OF,ION-FG,ION-FG II,Reactive Metals,Medium,6.13
+Pure Blind,WMP-OF,ION-FG,ION-FG II,Supertensile Plastics,Medium,15.36
+Pure Blind,WMP-OF,ION-FG,ION-FG II,Construction Blocks,Rich,31.56
+Pure Blind,WMP-OF,ION-FG,ION-FG III,Lucent Compound,Rich,29.86
+Pure Blind,WMP-OF,ION-FG,ION-FG III,Noble Gas,Medium,25.77
+Pure Blind,WMP-OF,ION-FG,ION-FG III,Heavy Metals,Rich,30.24
+Pure Blind,WMP-OF,ION-FG,ION-FG III,Reactive Metals,Perfect,9.72
+Pure Blind,WMP-OF,ION-FG,ION-FG III,Condensates,Perfect,24.57
+Pure Blind,WMP-OF,ION-FG,ION-FG IV,Condensed Alloy,Medium,24.55
+Pure Blind,WMP-OF,ION-FG,ION-FG IV,Fiber Composite,Rich,27.57
+Pure Blind,WMP-OF,ION-FG,ION-FG IV,Opulent Compound,Medium,25.93
+Pure Blind,WMP-OF,ION-FG,ION-FG IV,Condensates,Medium,13.48
+Pure Blind,WMP-OF,ION-FG,ION-FG IV,Liquid Ozone,Rich,33.97
+Pure Blind,WMP-OF,ION-FG,ION-FG V,Sheen Compound,Rich,31.52
+Pure Blind,WMP-OF,ION-FG,ION-FG V,Reactive Gas,Rich,28.39
+Pure Blind,WMP-OF,ION-FG,ION-FG V,Base Metals,Medium,6.05
+Pure Blind,WMP-OF,ION-FG,ION-FG V,Polyaramids,Poor,11.87
+Pure Blind,WMP-OF,ION-FG,ION-FG V,Ionic Solutions,Perfect,13.68
+Pure Blind,WMP-OF,ION-FG,ION-FG VI,Lustering Alloy,Poor,18.75
+Pure Blind,WMP-OF,ION-FG,ION-FG VI,Fiber Composite,Medium,23.23
+Pure Blind,WMP-OF,ION-FG,ION-FG VI,Reactive Gas,Poor,17.41
+Pure Blind,WMP-OF,ION-FG,ION-FG VI,Noble Gas,Perfect,34.34
+Pure Blind,WMP-OF,ION-FG,ION-FG VI,Coolant,Rich,19.12
+Pure Blind,WMP-OF,ION-FG,ION-FG VII,Crystal Compound,Rich,29.78
+Pure Blind,WMP-OF,ION-FG,ION-FG VII,Coolant,Perfect,22.55
+Pure Blind,WMP-OF,ION-FG,ION-FG VII,Silicate Glass,Rich,15.56
+Pure Blind,WMP-OF,ION-FG,ION-FG VII,Heavy Water,Rich,317.31
+Pure Blind,WMP-OF,ION-FG,ION-FG VII,Liquid Ozone,Medium,30.53
+Pure Blind,WMP-OF,C-H9X7,C-H9X7 I,Precious Alloy,Poor,15.44
+Pure Blind,WMP-OF,C-H9X7,C-H9X7 I,Supertensile Plastics,Medium,15.76
+Pure Blind,WMP-OF,C-H9X7,C-H9X7 I,Construction Blocks,Medium,21.97
+Pure Blind,WMP-OF,C-H9X7,C-H9X7 I,Plasmoids,Medium,1.36
+Pure Blind,WMP-OF,C-H9X7,C-H9X7 II,Gleaming Alloy,Medium,20.22
+Pure Blind,WMP-OF,C-H9X7,C-H9X7 II,Smartfab Units,Medium,14.60
+Pure Blind,WMP-OF,C-H9X7,C-H9X7 II,Plasmoids,Rich,1.64
+Pure Blind,WMP-OF,C-H9X7,C-H9X7 III,Lustering Alloy,Poor,16.82
+Pure Blind,WMP-OF,C-H9X7,C-H9X7 III,Supertensile Plastics,Poor,10.37
+Pure Blind,WMP-OF,C-H9X7,C-H9X7 III,Oxygen Isotopes,Poor,2.38
+Pure Blind,WMP-OF,C-H9X7,C-H9X7 III,Plasmoids,Poor,1.10
+Pure Blind,WMP-OF,C-H9X7,C-H9X7 IV,Industrial Fibers,Medium,5.87
+Pure Blind,WMP-OF,C-H9X7,C-H9X7 IV,Supertensile Plastics,Poor,11.23
+Pure Blind,WMP-OF,C-H9X7,C-H9X7 IV,Silicate Glass,Medium,9.93
+Pure Blind,WMP-OF,C-H9X7,C-H9X7 IV,Oxygen Isotopes,Poor,2.11
+Pure Blind,WMP-OF,C-H9X7,C-H9X7 V,Base Metals,Medium,5.23
+Pure Blind,WMP-OF,C-H9X7,C-H9X7 V,Toxic Metals,Medium,6.03
+Pure Blind,WMP-OF,C-H9X7,C-H9X7 V,Supertensile Plastics,Poor,9.58
+Pure Blind,WMP-OF,C-H9X7,C-H9X7 V,Oxygen Isotopes,Medium,2.97
+Pure Blind,WMP-OF,C-H9X7,C-H9X7 VI,Lucent Compound,Medium,23.67
+Pure Blind,WMP-OF,C-H9X7,C-H9X7 VI,Reactive Metals,Rich,7.43
+Pure Blind,WMP-OF,C-H9X7,C-H9X7 VI,Supertensile Plastics,Rich,21.42
+Pure Blind,WMP-OF,C-H9X7,C-H9X7 VI,Construction Blocks,Medium,21.34
+Pure Blind,WMP-OF,C-H9X7,C-H9X7 VII,Reactive Metals,Poor,4.97
+Pure Blind,WMP-OF,C-H9X7,C-H9X7 VII,Toxic Metals,Poor,4.84
+Pure Blind,WMP-OF,C-H9X7,C-H9X7 VII,Construction Blocks,Medium,24.05
+Pure Blind,WMP-OF,C-H9X7,C-H9X7 VII,Oxygen Isotopes,Medium,3.35
+Pure Blind,WMP-OF,C-H9X7,C-H9X7 VIII,Industrial Fibers,Poor,4.11
+Pure Blind,WMP-OF,C-H9X7,C-H9X7 VIII,Supertensile Plastics,Medium,15.46
+Pure Blind,WMP-OF,C-H9X7,C-H9X7 VIII,Silicate Glass,Medium,12.67
+Pure Blind,WMP-OF,C-H9X7,C-H9X7 VIII,Oxygen Isotopes,Poor,2.08
+Pure Blind,WMP-OF,C-H9X7,C-H9X7 IX,Lustering Alloy,Medium,21.36
+Pure Blind,WMP-OF,C-H9X7,C-H9X7 IX,Supertensile Plastics,Medium,16.60
+Pure Blind,WMP-OF,C-H9X7,C-H9X7 IX,Silicate Glass,Poor,7.83
+Pure Blind,WMP-OF,C-H9X7,C-H9X7 IX,Oxygen Isotopes,Poor,2.04
+Pure Blind,WMP-OF,C-H9X7,C-H9X7 X,Lustering Alloy,Poor,18.21
+Pure Blind,WMP-OF,C-H9X7,C-H9X7 X,Sheen Compound,Perfect,34.40
+Pure Blind,WMP-OF,C-H9X7,C-H9X7 X,Fiber Composite,Rich,27.85
+Pure Blind,WMP-OF,C-H9X7,C-H9X7 X,Reactive Gas,Poor,18.65
+Pure Blind,WMP-OF,C-H9X7,C-H9X7 X,Reactive Metals,Medium,6.73
+Pure Blind,WMP-OF,C-H9X7,C-H9X7 XI,Sheen Compound,Rich,29.50
+Pure Blind,WMP-OF,C-H9X7,C-H9X7 XI,Glossy Compound,Rich,27.68
+Pure Blind,WMP-OF,C-H9X7,C-H9X7 XI,Reactive Gas,Rich,27.91
+Pure Blind,WMP-OF,C-H9X7,C-H9X7 XI,Base Metals,Medium,6.87
+Pure Blind,WMP-OF,C-H9X7,C-H9X7 XI,Reactive Metals,Poor,5.06
+Pure Blind,WMP-OF,C-H9X7,C-H9X7 XII,Crystal Compound,Rich,27.68
+Pure Blind,WMP-OF,C-H9X7,C-H9X7 XII,Toxic Metals,Poor,5.08
+Pure Blind,WMP-OF,C-H9X7,C-H9X7 XII,Silicate Glass,Rich,14.93
+Pure Blind,WMP-OF,C-H9X7,C-H9X7 XII,Heavy Water,Poor,188.79
+Pure Blind,WMP-OF,C-H9X7,C-H9X7 XII,Liquid Ozone,Medium,30.58
+Pure Blind,WMP-OF,C-H9X7,C-H9X7 XIII,Precious Alloy,Medium,23.37
+Pure Blind,WMP-OF,C-H9X7,C-H9X7 XIII,Base Metals,Poor,4.46
+Pure Blind,WMP-OF,C-H9X7,C-H9X7 XIII,Supertensile Plastics,Medium,13.82
+Pure Blind,WMP-OF,C-H9X7,C-H9X7 XIII,Condensates,Medium,14.49
+Pure Blind,WMP-OF,C-H9X7,C-H9X7 XIV,Crystal Compound,Rich,31.46
+Pure Blind,WMP-OF,C-H9X7,C-H9X7 XIV,Reactive Gas,Medium,24.36
+Pure Blind,WMP-OF,C-H9X7,C-H9X7 XIV,Reactive Metals,Medium,5.79
+Pure Blind,WMP-OF,C-H9X7,C-H9X7 XIV,Toxic Metals,Rich,7.64
+Pure Blind,WMP-OF,A8I-C5,A8I-C5 I,Gleaming Alloy,Rich,33.26
+Pure Blind,WMP-OF,A8I-C5,A8I-C5 I,Noble Gas,Medium,26.36
+Pure Blind,WMP-OF,A8I-C5,A8I-C5 I,Construction Blocks,Medium,19.84
+Pure Blind,WMP-OF,A8I-C5,A8I-C5 II,Fiber Composite,Poor,19.74
+Pure Blind,WMP-OF,A8I-C5,A8I-C5 II,Opulent Compound,Rich,32.05
+Pure Blind,WMP-OF,A8I-C5,A8I-C5 II,Industrial Fibers,Rich,7.88
+Pure Blind,WMP-OF,A8I-C5,A8I-C5 II,Condensates,Medium,14.27
+Pure Blind,WMP-OF,A8I-C5,A8I-C5 II,Liquid Ozone,Perfect,46.10
+Pure Blind,WMP-OF,A8I-C5,A8I-C5 III,Supertensile Plastics,Medium,14.91
+Pure Blind,WMP-OF,A8I-C5,A8I-C5 III,Construction Blocks,Medium,21.55
+Pure Blind,WMP-OF,A8I-C5,A8I-C5 III,Silicate Glass,Medium,10.61
+Pure Blind,WMP-OF,A8I-C5,A8I-C5 III,Plasmoids,Poor,0.99
+Pure Blind,WMP-OF,A8I-C5,A8I-C5 IV,Dark Compound,Poor,16.38
+Pure Blind,WMP-OF,A8I-C5,A8I-C5 IV,Toxic Metals,Medium,5.53
+Pure Blind,WMP-OF,A8I-C5,A8I-C5 IV,Supertensile Plastics,Poor,12.91
+Pure Blind,WMP-OF,A8I-C5,A8I-C5 IV,Silicate Glass,Medium,10.93
+Pure Blind,WMP-OF,A8I-C5,A8I-C5 V,Industrial Fibers,Poor,4.75
+Pure Blind,WMP-OF,A8I-C5,A8I-C5 V,Supertensile Plastics,Poor,11.12
+Pure Blind,WMP-OF,A8I-C5,A8I-C5 V,Silicate Glass,Medium,11.58
+Pure Blind,WMP-OF,A8I-C5,A8I-C5 V,Oxygen Isotopes,Medium,3.29
+Pure Blind,WMP-OF,A8I-C5,A8I-C5 VI,Fiber Composite,Rich,28.88
+Pure Blind,WMP-OF,A8I-C5,A8I-C5 VI,Reactive Gas,Medium,25.83
+Pure Blind,WMP-OF,A8I-C5,A8I-C5 VI,Noble Metals,Rich,27.11
+Pure Blind,WMP-OF,A8I-C5,A8I-C5 VI,Condensates,Perfect,25.17
+Pure Blind,WMP-OF,A8I-C5,A8I-C5 VI,Liquid Ozone,Perfect,49.01
+Pure Blind,WMP-OF,A8I-C5,A8I-C5 VII,Lustering Alloy,Rich,27.41
+Pure Blind,WMP-OF,A8I-C5,A8I-C5 VII,Reactive Gas,Medium,24.93
+Pure Blind,WMP-OF,A8I-C5,A8I-C5 VII,Reactive Metals,Poor,5.08
+Pure Blind,WMP-OF,A8I-C5,A8I-C5 VII,Polyaramids,Rich,19.29
+Pure Blind,WMP-OF,A8I-C5,A8I-C5 VII,Ionic Solutions,Medium,9.51
+Pure Blind,WMP-OF,A8I-C5,A8I-C5 VIII,Glossy Compound,Poor,19.28
+Pure Blind,WMP-OF,A8I-C5,A8I-C5 VIII,Reactive Gas,Medium,19.82
+Pure Blind,WMP-OF,A8I-C5,A8I-C5 VIII,Noble Gas,Poor,17.45
+Pure Blind,WMP-OF,A8I-C5,A8I-C5 VIII,Reactive Metals,Rich,7.59
+Pure Blind,WMP-OF,A8I-C5,A8I-C5 VIII,Polyaramids,Rich,18.55
+Pure Blind,WMP-OF,DK-FXK,DK-FXK I,Supertensile Plastics,Poor,9.17
+Pure Blind,WMP-OF,DK-FXK,DK-FXK I,Silicate Glass,Medium,10.45
+Pure Blind,WMP-OF,DK-FXK,DK-FXK I,Oxygen Isotopes,Poor,2.14
+Pure Blind,WMP-OF,DK-FXK,DK-FXK I,Plasmoids,Poor,0.88
+Pure Blind,WMP-OF,DK-FXK,DK-FXK II,Gleaming Alloy,Rich,27.78
+Pure Blind,WMP-OF,DK-FXK,DK-FXK II,Heavy Metals,Rich,25.32
+Pure Blind,WMP-OF,DK-FXK,DK-FXK II,Oxygen Isotopes,Poor,2.75
+Pure Blind,WMP-OF,DK-FXK,DK-FXK III,Gleaming Alloy,Rich,29.34
+Pure Blind,WMP-OF,DK-FXK,DK-FXK III,Noble Gas,Perfect,32.86
+Pure Blind,WMP-OF,DK-FXK,DK-FXK III,Polyaramids,Medium,15.51
+Pure Blind,WMP-OF,DK-FXK,DK-FXK IV,Sheen Compound,Medium,21.38
+Pure Blind,WMP-OF,DK-FXK,DK-FXK IV,Reactive Gas,Perfect,31.88
+Pure Blind,WMP-OF,DK-FXK,DK-FXK IV,Base Metals,Medium,5.14
+Pure Blind,WMP-OF,DK-FXK,DK-FXK IV,Polyaramids,Medium,15.89
+Pure Blind,WMP-OF,DK-FXK,DK-FXK IV,Coolant,Medium,14.56
+Pure Blind,WMP-OF,DK-FXK,DK-FXK V,Sheen Compound,Medium,24.20
+Pure Blind,WMP-OF,DK-FXK,DK-FXK V,Reactive Gas,Rich,31.60
+Pure Blind,WMP-OF,DK-FXK,DK-FXK V,Noble Gas,Medium,23.42
+Pure Blind,WMP-OF,DK-FXK,DK-FXK V,Base Metals,Rich,6.81
+Pure Blind,WMP-OF,DK-FXK,DK-FXK V,Reactive Metals,Medium,5.05
+Pure Blind,WMP-OF,DK-FXK,DK-FXK VI,Lustering Alloy,Rich,27.34
+Pure Blind,WMP-OF,DK-FXK,DK-FXK VI,Reactive Gas,Perfect,32.68
+Pure Blind,WMP-OF,DK-FXK,DK-FXK VI,Noble Gas,Perfect,32.40
+Pure Blind,WMP-OF,DK-FXK,DK-FXK VI,Reactive Metals,Rich,7.95
+Pure Blind,WMP-OF,DK-FXK,DK-FXK VI,Coolant,Perfect,21.48
+Pure Blind,WMP-OF,DK-FXK,DK-FXK VII,Lucent Compound,Rich,28.04
+Pure Blind,WMP-OF,DK-FXK,DK-FXK VII,Reactive Metals,Medium,5.36
+Pure Blind,WMP-OF,DK-FXK,DK-FXK VII,Supertensile Plastics,Medium,16.31
+Pure Blind,WMP-OF,DK-FXK,DK-FXK VII,Suspended Plasma,Rich,97.20
+Pure Blind,WMP-OF,M-76XI,M-76XI I,Precious Alloy,Poor,15.82
+Pure Blind,WMP-OF,M-76XI,M-76XI I,Dark Compound,Medium,24.38
+Pure Blind,WMP-OF,M-76XI,M-76XI I,Supertensile Plastics,Medium,15.08
+Pure Blind,WMP-OF,M-76XI,M-76XI I,Oxygen Isotopes,Medium,3.26
+Pure Blind,WMP-OF,M-76XI,M-76XI II,Precious Alloy,Poor,13.32
+Pure Blind,WMP-OF,M-76XI,M-76XI II,Base Metals,Medium,5.53
+Pure Blind,WMP-OF,M-76XI,M-76XI II,Supertensile Plastics,Poor,8.68
+Pure Blind,WMP-OF,M-76XI,M-76XI II,Plasmoids,Poor,0.78
+Pure Blind,WMP-OF,M-76XI,M-76XI III,Lustering Alloy,Medium,22.96
+Pure Blind,WMP-OF,M-76XI,M-76XI III,Base Metals,Medium,5.66
+Pure Blind,WMP-OF,M-76XI,M-76XI III,Supertensile Plastics,Medium,12.89
+Pure Blind,WMP-OF,M-76XI,M-76XI III,Construction Blocks,Medium,22.80
+Pure Blind,WMP-OF,M-76XI,M-76XI IV,Sheen Compound,Perfect,32.74
+Pure Blind,WMP-OF,M-76XI,M-76XI IV,Glossy Compound,Medium,19.36
+Pure Blind,WMP-OF,M-76XI,M-76XI IV,Reactive Gas,Rich,27.82
+Pure Blind,WMP-OF,M-76XI,M-76XI IV,Base Metals,Rich,7.94
+Pure Blind,WMP-OF,M-76XI,M-76XI IV,Coolant,Medium,13.55
+Pure Blind,WMP-OF,M-76XI,M-76XI V,Sheen Compound,Poor,17.22
+Pure Blind,WMP-OF,M-76XI,M-76XI V,Glossy Compound,Medium,24.94
+Pure Blind,WMP-OF,M-76XI,M-76XI V,Reactive Gas,Medium,21.76
+Pure Blind,WMP-OF,M-76XI,M-76XI V,Base Metals,Rich,8.09
+Pure Blind,WMP-OF,M-76XI,M-76XI V,Polyaramids,Poor,12.47
+Pure Blind,WMP-OF,M-76XI,M-76XI VI,Crystal Compound,Medium,18.86
+Pure Blind,WMP-OF,M-76XI,M-76XI VI,Reactive Metals,Rich,7.93
+Pure Blind,WMP-OF,M-76XI,M-76XI VI,Supertensile Plastics,Medium,13.92
+Pure Blind,WMP-OF,M-76XI,M-76XI VI,Nanites,Rich,7.65
+Pure Blind,WMP-OF,M-76XI,M-76XI VII,Sheen Compound,Poor,17.74
+Pure Blind,WMP-OF,M-76XI,M-76XI VII,Glossy Compound,Rich,30.42
+Pure Blind,WMP-OF,M-76XI,M-76XI VII,Reactive Gas,Medium,20.88
+Pure Blind,WMP-OF,M-76XI,M-76XI VII,Reactive Metals,Medium,5.03
+Pure Blind,WMP-OF,M-76XI,M-76XI VII,Ionic Solutions,Rich,11.86
+Pure Blind,WMP-OF,M-76XI,M-76XI VIII,Industrial Fibers,Rich,7.08
+Pure Blind,WMP-OF,M-76XI,M-76XI VIII,Coolant,Rich,18.41
+Pure Blind,WMP-OF,M-76XI,M-76XI VIII,Condensates,Poor,10.09
+Pure Blind,WMP-OF,M-76XI,M-76XI VIII,Liquid Ozone,Medium,24.30
+Pure Blind,WMP-OF,M-76XI,M-76XI IX,Crystal Compound,Rich,26.00
+Pure Blind,WMP-OF,M-76XI,M-76XI IX,Reactive Gas,Medium,24.28
+Pure Blind,WMP-OF,M-76XI,M-76XI IX,Reactive Metals,Rich,7.51
+Pure Blind,WMP-OF,M-76XI,M-76XI IX,Supertensile Plastics,Rich,18.00
+Pure Blind,WMP-OF,ZJET-E,ZJET-E I,Dark Compound,Poor,13.46
+Pure Blind,WMP-OF,ZJET-E,ZJET-E I,Base Metals,Poor,4.36
+Pure Blind,WMP-OF,ZJET-E,ZJET-E I,Supertensile Plastics,Poor,12.23
+Pure Blind,WMP-OF,ZJET-E,ZJET-E I,Construction Blocks,Medium,23.10
+Pure Blind,WMP-OF,ZJET-E,ZJET-E II,Lucent Compound,Rich,29.72
+Pure Blind,WMP-OF,ZJET-E,ZJET-E II,Reactive Gas,Medium,23.40
+Pure Blind,WMP-OF,ZJET-E,ZJET-E II,Reactive Metals,Poor,4.59
+Pure Blind,WMP-OF,ZJET-E,ZJET-E II,Construction Blocks,Medium,21.02
+Pure Blind,WMP-OF,ZJET-E,ZJET-E III,Opulent Compound,Rich,30.22
+Pure Blind,WMP-OF,ZJET-E,ZJET-E III,Reactive Gas,Perfect,33.06
+Pure Blind,WMP-OF,ZJET-E,ZJET-E III,Base Metals,Rich,7.74
+Pure Blind,WMP-OF,ZJET-E,ZJET-E III,Heavy Water,Perfect,351.20
+Pure Blind,WMP-OF,ZJET-E,ZJET-E III,Liquid Ozone,Medium,25.18
+Pure Blind,WMP-OF,ZJET-E,ZJET-E IV,Fiber Composite,Medium,21.64
+Pure Blind,WMP-OF,ZJET-E,ZJET-E IV,Reactive Gas,Rich,28.54
+Pure Blind,WMP-OF,ZJET-E,ZJET-E IV,Base Metals,Rich,7.02
+Pure Blind,WMP-OF,ZJET-E,ZJET-E IV,Heavy Water,Rich,281.40
+Pure Blind,WMP-OF,ZJET-E,ZJET-E IV,Liquid Ozone,Rich,35.05
+Pure Blind,WMP-OF,ZJET-E,ZJET-E V,Glossy Compound,Rich,31.76
+Pure Blind,WMP-OF,ZJET-E,ZJET-E V,Reactive Gas,Rich,29.46
+Pure Blind,WMP-OF,ZJET-E,ZJET-E V,Polyaramids,Rich,18.97
+Pure Blind,WMP-OF,ZJET-E,ZJET-E V,Coolant,Poor,12.53
+Pure Blind,WMP-OF,ZJET-E,ZJET-E V,Ionic Solutions,Medium,8.26
+Pure Blind,WMP-OF,ZJET-E,ZJET-E VI,Lustering Alloy,Rich,30.06
+Pure Blind,WMP-OF,ZJET-E,ZJET-E VI,Sheen Compound,Rich,30.12
+Pure Blind,WMP-OF,ZJET-E,ZJET-E VI,Fiber Composite,Medium,23.14
+Pure Blind,WMP-OF,ZJET-E,ZJET-E VI,Reactive Gas,Rich,29.26
+Pure Blind,WMP-OF,ZJET-E,ZJET-E VI,Ionic Solutions,Rich,11.34
+Pure Blind,WMP-OF,ZJET-E,ZJET-E VII,Lustering Alloy,Medium,20.40
+Pure Blind,WMP-OF,ZJET-E,ZJET-E VII,Fiber Composite,Medium,21.40
+Pure Blind,WMP-OF,ZJET-E,ZJET-E VII,Reactive Gas,Medium,22.68
+Pure Blind,WMP-OF,ZJET-E,ZJET-E VII,Reactive Metals,Rich,6.72
+Pure Blind,WMP-OF,ZJET-E,ZJET-E VII,Polyaramids,Poor,11.80
+Pure Blind,WMP-OF,U-INPD,U-INPD I,Dark Compound,Medium,20.64
+Pure Blind,WMP-OF,U-INPD,U-INPD I,Heavy Metals,Rich,29.59
+Pure Blind,WMP-OF,U-INPD,U-INPD I,Reactive Metals,Rich,8.73
+Pure Blind,WMP-OF,U-INPD,U-INPD I,Condensates,Perfect,24.37
+Pure Blind,WMP-OF,U-INPD,U-INPD I,Nanites,Perfect,9.63
+Pure Blind,WMP-OF,U-INPD,U-INPD II,Base Metals,Medium,5.28
+Pure Blind,WMP-OF,U-INPD,U-INPD II,Industrial Fibers,Poor,4.35
+Pure Blind,WMP-OF,U-INPD,U-INPD II,Supertensile Plastics,Medium,14.63
+Pure Blind,WMP-OF,U-INPD,U-INPD II,Silicate Glass,Medium,10.23
+Pure Blind,WMP-OF,U-INPD,U-INPD III,Precious Alloy,Poor,15.33
+Pure Blind,WMP-OF,U-INPD,U-INPD III,Dark Compound,Poor,15.39
+Pure Blind,WMP-OF,U-INPD,U-INPD III,Base Metals,Poor,4.32
+Pure Blind,WMP-OF,U-INPD,U-INPD III,Supertensile Plastics,Poor,9.94
+Pure Blind,WMP-OF,U-INPD,U-INPD IV,Lustering Alloy,Medium,21.59
+Pure Blind,WMP-OF,U-INPD,U-INPD IV,Supertensile Plastics,Poor,9.41
+Pure Blind,WMP-OF,U-INPD,U-INPD IV,Construction Blocks,Poor,18.27
+Pure Blind,WMP-OF,U-INPD,U-INPD IV,Plasmoids,Medium,1.53
+Pure Blind,WMP-OF,U-INPD,U-INPD V,Base Metals,Poor,4.68
+Pure Blind,WMP-OF,U-INPD,U-INPD V,Toxic Metals,Medium,5.65
+Pure Blind,WMP-OF,U-INPD,U-INPD V,Supertensile Plastics,Poor,12.11
+Pure Blind,WMP-OF,U-INPD,U-INPD V,Oxygen Isotopes,Poor,2.79
+Pure Blind,WMP-OF,U-INPD,U-INPD VI,Base Metals,Poor,4.64
+Pure Blind,WMP-OF,U-INPD,U-INPD VI,Supertensile Plastics,Medium,15.08
+Pure Blind,WMP-OF,U-INPD,U-INPD VI,Silicate Glass,Medium,11.80
+Pure Blind,WMP-OF,U-INPD,U-INPD VI,Oxygen Isotopes,Poor,2.94
+Pure Blind,WMP-OF,U-INPD,U-INPD VII,Lustering Alloy,Medium,24.13
+Pure Blind,WMP-OF,U-INPD,U-INPD VII,Glossy Compound,Medium,25.81
+Pure Blind,WMP-OF,U-INPD,U-INPD VII,Reactive Gas,Medium,21.25
+Pure Blind,WMP-OF,U-INPD,U-INPD VII,Base Metals,Rich,7.19
+Pure Blind,WMP-OF,U-INPD,U-INPD VII,Ionic Solutions,Medium,9.53
+Pure Blind,WMP-OF,U-INPD,U-INPD VIII,Fiber Composite,Poor,18.84
+Pure Blind,WMP-OF,U-INPD,U-INPD VIII,Glossy Compound,Rich,27.55
+Pure Blind,WMP-OF,U-INPD,U-INPD VIII,Reactive Gas,Perfect,34.13
+Pure Blind,WMP-OF,U-INPD,U-INPD VIII,Base Metals,Perfect,8.93
+Pure Blind,WMP-OF,U-INPD,U-INPD VIII,Coolant,Rich,20.78
+Pure Blind,WMP-OF,U-INPD,U-INPD IX,Fiber Composite,Medium,23.56
+Pure Blind,WMP-OF,U-INPD,U-INPD IX,Reactive Gas,Poor,17.83
+Pure Blind,WMP-OF,U-INPD,U-INPD IX,Base Metals,Medium,6.59
+Pure Blind,WMP-OF,U-INPD,U-INPD IX,Coolant,Poor,12.49
+Pure Blind,WMP-OF,U-INPD,U-INPD IX,Ionic Solutions,Poor,7.65
+Pure Blind,WMP-OF,U-INPD,U-INPD X,Lustering Alloy,Rich,32.97
+Pure Blind,WMP-OF,U-INPD,U-INPD X,Reactive Gas,Medium,25.81
+Pure Blind,WMP-OF,U-INPD,U-INPD X,Noble Gas,Rich,28.18
+Pure Blind,WMP-OF,U-INPD,U-INPD X,Reactive Metals,Poor,4.68
+Pure Blind,WMP-OF,U-INPD,U-INPD X,Polyaramids,Rich,19.15
+Pure Blind,WMP-OF,U-INPD,U-INPD XI,Crystal Compound,Perfect,34.63
+Pure Blind,WMP-OF,U-INPD,U-INPD XI,Noble Metals,Medium,20.45
+Pure Blind,WMP-OF,U-INPD,U-INPD XI,Silicate Glass,Perfect,17.87
+Pure Blind,WMP-OF,U-INPD,U-INPD XI,Liquid Ozone,Medium,25.30
+Pure Blind,WMP-OF,U-INPD,U-INPD XI,Ionic Solutions,Medium,9.37
+Pure Blind,WMP-OF,U-INPD,U-INPD XII,Precious Alloy,Medium,22.62
+Pure Blind,WMP-OF,U-INPD,U-INPD XII,Base Metals,Rich,7.50
+Pure Blind,WMP-OF,U-INPD,U-INPD XII,Condensates,Medium,14.67
+Pure Blind,WMP-OF,U-INPD,U-INPD XII,Liquid Ozone,Rich,39.09
+Pure Blind,LY-FY6,WW-KGD,WW-KGD I,Precious Alloy,Medium,19.82
+Pure Blind,LY-FY6,WW-KGD,WW-KGD I,Toxic Metals,Poor,3.58
+Pure Blind,LY-FY6,WW-KGD,WW-KGD I,Supertensile Plastics,Poor,11.16
+Pure Blind,LY-FY6,WW-KGD,WW-KGD I,Oxygen Isotopes,Medium,3.55
+Pure Blind,LY-FY6,WW-KGD,WW-KGD II,Base Metals,Medium,6.70
+Pure Blind,LY-FY6,WW-KGD,WW-KGD II,Toxic Metals,Poor,4.48
+Pure Blind,LY-FY6,WW-KGD,WW-KGD II,Industrial Fibers,Poor,3.76
+Pure Blind,LY-FY6,WW-KGD,WW-KGD II,Supertensile Plastics,Medium,13.78
+Pure Blind,LY-FY6,WW-KGD,WW-KGD III,Lucent Compound,Rich,28.12
+Pure Blind,LY-FY6,WW-KGD,WW-KGD III,Crystal Compound,Medium,22.93
+Pure Blind,LY-FY6,WW-KGD,WW-KGD III,Reactive Metals,Rich,8.00
+Pure Blind,LY-FY6,WW-KGD,WW-KGD III,Oxygen Isotopes,Rich,4.88
+Pure Blind,LY-FY6,WW-KGD,WW-KGD IV,Noble Metals,Rich,30.05
+Pure Blind,LY-FY6,WW-KGD,WW-KGD IV,Toxic Metals,Medium,5.54
+Pure Blind,LY-FY6,WW-KGD,WW-KGD IV,Polyaramids,Perfect,23.07
+Pure Blind,LY-FY6,WW-KGD,WW-KGD IV,Silicate Glass,Perfect,17.73
+Pure Blind,LY-FY6,WW-KGD,WW-KGD IV,Liquid Ozone,Perfect,42.24
+Pure Blind,LY-FY6,WW-KGD,WW-KGD V,Condensed Alloy,Perfect,39.31
+Pure Blind,LY-FY6,WW-KGD,WW-KGD V,Fiber Composite,Medium,26.42
+Pure Blind,LY-FY6,WW-KGD,WW-KGD V,Base Metals,Rich,7.90
+Pure Blind,LY-FY6,WW-KGD,WW-KGD V,Condensates,Perfect,23.42
+Pure Blind,LY-FY6,WW-KGD,WW-KGD V,Liquid Ozone,Medium,26.85
+Pure Blind,LY-FY6,WW-KGD,WW-KGD VI,Fiber Composite,Perfect,33.43
+Pure Blind,LY-FY6,WW-KGD,WW-KGD VI,Noble Metals,Rich,31.73
+Pure Blind,LY-FY6,WW-KGD,WW-KGD VI,Industrial Fibers,Rich,7.98
+Pure Blind,LY-FY6,WW-KGD,WW-KGD VI,Condensates,Medium,14.56
+Pure Blind,LY-FY6,WW-KGD,WW-KGD VI,Liquid Ozone,Perfect,49.40
+Pure Blind,LY-FY6,XQ-PXU,XQ-PXU I,Gleaming Alloy,Medium,20.37
+Pure Blind,LY-FY6,XQ-PXU,XQ-PXU I,Smartfab Units,Rich,19.78
+Pure Blind,LY-FY6,XQ-PXU,XQ-PXU I,Oxygen Isotopes,Perfect,5.29
+Pure Blind,LY-FY6,XQ-PXU,XQ-PXU II,Lucent Compound,Rich,28.16
+Pure Blind,LY-FY6,XQ-PXU,XQ-PXU II,Noble Gas,Poor,19.59
+Pure Blind,LY-FY6,XQ-PXU,XQ-PXU II,Condensates,Medium,16.79
+Pure Blind,LY-FY6,XQ-PXU,XQ-PXU II,Nanites,Perfect,8.86
+Pure Blind,LY-FY6,XQ-PXU,XQ-PXU II,Ionic Solutions,Rich,10.77
+Pure Blind,LY-FY6,XQ-PXU,XQ-PXU III,Toxic Metals,Medium,6.75
+Pure Blind,LY-FY6,XQ-PXU,XQ-PXU III,Supertensile Plastics,Medium,13.43
+Pure Blind,LY-FY6,XQ-PXU,XQ-PXU III,Silicate Glass,Medium,12.72
+Pure Blind,LY-FY6,XQ-PXU,XQ-PXU III,Oxygen Isotopes,Poor,2.36
+Pure Blind,LY-FY6,XQ-PXU,XQ-PXU IV,Gleaming Alloy,Medium,21.50
+Pure Blind,LY-FY6,XQ-PXU,XQ-PXU IV,Motley Compound,Medium,24.09
+Pure Blind,LY-FY6,XQ-PXU,XQ-PXU IV,Polyaramids,Poor,11.52
+Pure Blind,LY-FY6,XQ-PXU,XQ-PXU V,Reactive Gas,Rich,31.92
+Pure Blind,LY-FY6,XQ-PXU,XQ-PXU V,Noble Gas,Medium,21.99
+Pure Blind,LY-FY6,XQ-PXU,XQ-PXU V,Base Metals,Rich,8.27
+Pure Blind,LY-FY6,XQ-PXU,XQ-PXU V,Reactive Metals,Rich,8.10
+Pure Blind,LY-FY6,XQ-PXU,XQ-PXU V,Coolant,Poor,13.13
+Pure Blind,LY-FY6,XQ-PXU,XQ-PXU VI,Noble Metals,Rich,29.76
+Pure Blind,LY-FY6,XQ-PXU,XQ-PXU VI,Industrial Fibers,Rich,7.25
+Pure Blind,LY-FY6,XQ-PXU,XQ-PXU VI,Condensates,Perfect,25.16
+Pure Blind,LY-FY6,XQ-PXU,XQ-PXU VI,Smartfab Units,Medium,16.25
+Pure Blind,LY-FY6,XQ-PXU,XQ-PXU VI,Liquid Ozone,Medium,28.40
+Pure Blind,LY-FY6,M-YCD4,M-YCD4 I,Sheen Compound,Medium,22.70
+Pure Blind,LY-FY6,M-YCD4,M-YCD4 I,Reactive Gas,Medium,25.33
+Pure Blind,LY-FY6,M-YCD4,M-YCD4 I,Base Metals,Medium,6.65
+Pure Blind,LY-FY6,M-YCD4,M-YCD4 I,Reactive Metals,Poor,4.79
+Pure Blind,LY-FY6,M-YCD4,M-YCD4 I,Ionic Solutions,Perfect,13.63
+Pure Blind,LY-FY6,M-YCD4,M-YCD4 II,Base Metals,Poor,4.94
+Pure Blind,LY-FY6,M-YCD4,M-YCD4 II,Supertensile Plastics,Poor,10.19
+Pure Blind,LY-FY6,M-YCD4,M-YCD4 II,Condensates,Poor,10.37
+Pure Blind,LY-FY6,M-YCD4,M-YCD4 II,Liquid Ozone,Medium,25.09
+Pure Blind,LY-FY6,M-YCD4,M-YCD4 III,Base Metals,Rich,7.50
+Pure Blind,LY-FY6,M-YCD4,M-YCD4 III,Industrial Fibers,Poor,4.83
+Pure Blind,LY-FY6,M-YCD4,M-YCD4 III,Condensates,Medium,17.68
+Pure Blind,LY-FY6,M-YCD4,M-YCD4 III,Liquid Ozone,Poor,19.35
+Pure Blind,LY-FY6,M-YCD4,M-YCD4 IV,Base Metals,Poor,4.65
+Pure Blind,LY-FY6,M-YCD4,M-YCD4 IV,Toxic Metals,Medium,6.61
+Pure Blind,LY-FY6,M-YCD4,M-YCD4 IV,Supertensile Plastics,Poor,9.23
+Pure Blind,LY-FY6,M-YCD4,M-YCD4 IV,Silicate Glass,Medium,12.34
+Pure Blind,LY-FY6,M-YCD4,M-YCD4 V,Lucent Compound,Medium,25.83
+Pure Blind,LY-FY6,M-YCD4,M-YCD4 V,Reactive Gas,Medium,21.86
+Pure Blind,LY-FY6,M-YCD4,M-YCD4 V,Reactive Metals,Medium,6.14
+Pure Blind,LY-FY6,M-YCD4,M-YCD4 V,Supertensile Plastics,Rich,19.21
+Pure Blind,LY-FY6,M-YCD4,M-YCD4 VI,Gleaming Alloy,Medium,23.00
+Pure Blind,LY-FY6,M-YCD4,M-YCD4 VI,Noble Gas,Medium,25.77
+Pure Blind,LY-FY6,M-YCD4,M-YCD4 VI,Oxygen Isotopes,Medium,3.32
+Pure Blind,LY-FY6,M-YCD4,M-YCD4 VII,Toxic Metals,Medium,5.63
+Pure Blind,LY-FY6,M-YCD4,M-YCD4 VII,Supertensile Plastics,Medium,13.48
+Pure Blind,LY-FY6,M-YCD4,M-YCD4 VII,Silicate Glass,Poor,7.74
+Pure Blind,LY-FY6,M-YCD4,M-YCD4 VII,Oxygen Isotopes,Medium,3.81
+Pure Blind,LY-FY6,Q-5211,Q-5211 I,Gleaming Alloy,Poor,18.52
+Pure Blind,LY-FY6,Q-5211,Q-5211 I,Polyaramids,Medium,15.01
+Pure Blind,LY-FY6,Q-5211,Q-5211 I,Oxygen Isotopes,Medium,3.02
+Pure Blind,LY-FY6,Q-5211,Q-5211 II,Lustering Alloy,Poor,13.78
+Pure Blind,LY-FY6,Q-5211,Q-5211 II,Supertensile Plastics,Poor,11.87
+Pure Blind,LY-FY6,Q-5211,Q-5211 II,Silicate Glass,Poor,8.06
+Pure Blind,LY-FY6,Q-5211,Q-5211 II,Plasmoids,Medium,1.39
+Pure Blind,LY-FY6,Q-5211,Q-5211 III,Toxic Metals,Medium,6.50
+Pure Blind,LY-FY6,Q-5211,Q-5211 III,Supertensile Plastics,Poor,9.03
+Pure Blind,LY-FY6,Q-5211,Q-5211 III,Oxygen Isotopes,Medium,3.81
+Pure Blind,LY-FY6,Q-5211,Q-5211 III,Plasmoids,Medium,1.35
+Pure Blind,LY-FY6,Q-5211,Q-5211 IV,Fiber Composite,Rich,30.34
+Pure Blind,LY-FY6,Q-5211,Q-5211 IV,Noble Metals,Medium,26.44
+Pure Blind,LY-FY6,Q-5211,Q-5211 IV,Industrial Fibers,Perfect,9.93
+Pure Blind,LY-FY6,Q-5211,Q-5211 IV,Smartfab Units,Medium,15.06
+Pure Blind,LY-FY6,Q-5211,Q-5211 IV,Liquid Ozone,Perfect,46.67
+Pure Blind,LY-FY6,Q-5211,Q-5211 V,Condensed Alloy,Rich,27.91
+Pure Blind,LY-FY6,Q-5211,Q-5211 V,Industrial Fibers,Perfect,9.08
+Pure Blind,LY-FY6,Q-5211,Q-5211 V,Condensates,Rich,21.98
+Pure Blind,LY-FY6,Q-5211,Q-5211 V,Heavy Water,Medium,230.37
+Pure Blind,LY-FY6,Q-5211,Q-5211 V,Liquid Ozone,Rich,33.49
+Pure Blind,LY-FY6,Q-5211,Q-5211 VI,Reactive Gas,Rich,28.22
+Pure Blind,LY-FY6,Q-5211,Q-5211 VI,Noble Metals,Perfect,38.28
+Pure Blind,LY-FY6,Q-5211,Q-5211 VI,Condensates,Medium,13.36
+Pure Blind,LY-FY6,Q-5211,Q-5211 VI,Smartfab Units,Medium,16.46
+Pure Blind,LY-FY6,Q-5211,Q-5211 VI,Liquid Ozone,Perfect,42.37
+Pure Blind,LY-FY6,Q-5211,Q-5211 VII,Precious Alloy,Poor,14.32
+Pure Blind,LY-FY6,Q-5211,Q-5211 VII,Supertensile Plastics,Poor,13.09
+Pure Blind,LY-FY6,Q-5211,Q-5211 VII,Construction Blocks,Poor,14.93
+Pure Blind,LY-FY6,Q-5211,Q-5211 VII,Oxygen Isotopes,Poor,2.29
+Pure Blind,LY-FY6,Q-5211,Q-5211 VIII,Sheen Compound,Poor,19.68
+Pure Blind,LY-FY6,Q-5211,Q-5211 VIII,Reactive Gas,Poor,19.07
+Pure Blind,LY-FY6,Q-5211,Q-5211 VIII,Polyaramids,Rich,20.38
+Pure Blind,LY-FY6,Q-5211,Q-5211 VIII,Coolant,Rich,22.20
+Pure Blind,LY-FY6,Q-5211,Q-5211 VIII,Ionic Solutions,Rich,11.89
+Pure Blind,LY-FY6,Q-5211,Q-5211 IX,Lustering Alloy,Rich,32.53
+Pure Blind,LY-FY6,Q-5211,Q-5211 IX,Glossy Compound,Medium,20.08
+Pure Blind,LY-FY6,Q-5211,Q-5211 IX,Reactive Gas,Medium,22.24
+Pure Blind,LY-FY6,Q-5211,Q-5211 IX,Noble Gas,Medium,26.40
+Pure Blind,LY-FY6,Q-5211,Q-5211 IX,Reactive Metals,Perfect,9.12
+Pure Blind,LY-FY6,R-2R0G,R-2R0G I,Dark Compound,Medium,26.33
+Pure Blind,LY-FY6,R-2R0G,R-2R0G I,Base Metals,Poor,3.86
+Pure Blind,LY-FY6,R-2R0G,R-2R0G I,Toxic Metals,Medium,6.60
+Pure Blind,LY-FY6,R-2R0G,R-2R0G I,Supertensile Plastics,Poor,13.65
+Pure Blind,LY-FY6,R-2R0G,R-2R0G II,Condensed Alloy,Perfect,36.17
+Pure Blind,LY-FY6,R-2R0G,R-2R0G II,Reactive Gas,Medium,22.07
+Pure Blind,LY-FY6,R-2R0G,R-2R0G II,Base Metals,Medium,7.27
+Pure Blind,LY-FY6,R-2R0G,R-2R0G II,Heavy Water,Medium,217.58
+Pure Blind,LY-FY6,R-2R0G,R-2R0G II,Liquid Ozone,Perfect,44.30
+Pure Blind,LY-FY6,R-2R0G,R-2R0G III,Industrial Fibers,Poor,3.90
+Pure Blind,LY-FY6,R-2R0G,R-2R0G III,Supertensile Plastics,Medium,15.47
+Pure Blind,LY-FY6,R-2R0G,R-2R0G III,Oxygen Isotopes,Poor,2.45
+Pure Blind,LY-FY6,R-2R0G,R-2R0G III,Plasmoids,Poor,1.07
+Pure Blind,LY-FY6,R-2R0G,R-2R0G IV,Fiber Composite,Perfect,38.06
+Pure Blind,LY-FY6,R-2R0G,R-2R0G IV,Opulent Compound,Rich,32.69
+Pure Blind,LY-FY6,R-2R0G,R-2R0G IV,Base Metals,Perfect,10.27
+Pure Blind,LY-FY6,R-2R0G,R-2R0G IV,Smartfab Units,Medium,16.40
+Pure Blind,LY-FY6,R-2R0G,R-2R0G IV,Liquid Ozone,Perfect,46.34
+Pure Blind,LY-FY6,R-2R0G,R-2R0G V,Gleaming Alloy,Medium,23.23
+Pure Blind,LY-FY6,R-2R0G,R-2R0G V,Noble Gas,Rich,31.06
+Pure Blind,LY-FY6,R-2R0G,R-2R0G V,Oxygen Isotopes,Poor,2.87
+Pure Blind,LY-FY6,R-2R0G,R-2R0G VI,Sheen Compound,Medium,21.12
+Pure Blind,LY-FY6,R-2R0G,R-2R0G VI,Glossy Compound,Medium,25.06
+Pure Blind,LY-FY6,R-2R0G,R-2R0G VI,Reactive Gas,Poor,18.96
+Pure Blind,LY-FY6,R-2R0G,R-2R0G VI,Noble Gas,Rich,29.35
+Pure Blind,LY-FY6,R-2R0G,R-2R0G VI,Reactive Metals,Rich,7.87
+Pure Blind,LY-FY6,R-2R0G,R-2R0G VII,Condensed Alloy,Medium,26.18
+Pure Blind,LY-FY6,R-2R0G,R-2R0G VII,Base Metals,Rich,8.30
+Pure Blind,LY-FY6,R-2R0G,R-2R0G VII,Condensates,Perfect,27.03
+Pure Blind,LY-FY6,R-2R0G,R-2R0G VII,Heavy Water,Medium,241.78
+Pure Blind,LY-FY6,R-2R0G,R-2R0G VII,Liquid Ozone,Perfect,44.19
+Pure Blind,LY-FY6,R-2R0G,R-2R0G VIII,Glossy Compound,Rich,31.31
+Pure Blind,LY-FY6,R-2R0G,R-2R0G VIII,Reactive Gas,Rich,28.91
+Pure Blind,LY-FY6,R-2R0G,R-2R0G VIII,Noble Gas,Rich,32.25
+Pure Blind,LY-FY6,R-2R0G,R-2R0G VIII,Reactive Metals,Medium,6.32
+Pure Blind,LY-FY6,R-2R0G,R-2R0G VIII,Ionic Solutions,Medium,8.63
+Pure Blind,LY-FY6,R-2R0G,R-2R0G IX,Lustering Alloy,Poor,19.71
+Pure Blind,LY-FY6,R-2R0G,R-2R0G IX,Condensates,Medium,14.55
+Pure Blind,LY-FY6,R-2R0G,R-2R0G IX,Suspended Plasma,Medium,83.00
+Pure Blind,LY-FY6,R-2R0G,R-2R0G IX,Liquid Ozone,Rich,38.53
+Pure Blind,LY-FY6,CR-AQH,CR-AQH I,Lustering Alloy,Medium,26.80
+Pure Blind,LY-FY6,CR-AQH,CR-AQH I,Precious Alloy,Poor,20.28
+Pure Blind,LY-FY6,CR-AQH,CR-AQH I,Supertensile Plastics,Medium,15.39
+Pure Blind,LY-FY6,CR-AQH,CR-AQH I,Construction Blocks,Poor,16.39
+Pure Blind,LY-FY6,CR-AQH,CR-AQH II,Base Metals,Medium,7.12
+Pure Blind,LY-FY6,CR-AQH,CR-AQH II,Supertensile Plastics,Poor,11.75
+Pure Blind,LY-FY6,CR-AQH,CR-AQH II,Construction Blocks,Poor,14.21
+Pure Blind,LY-FY6,CR-AQH,CR-AQH II,Plasmoids,Medium,1.34
+Pure Blind,LY-FY6,CR-AQH,CR-AQH III,Precious Alloy,Poor,18.74
+Pure Blind,LY-FY6,CR-AQH,CR-AQH III,Dark Compound,Poor,20.35
+Pure Blind,LY-FY6,CR-AQH,CR-AQH III,Supertensile Plastics,Medium,15.59
+Pure Blind,LY-FY6,CR-AQH,CR-AQH III,Plasmoids,Poor,1.08
+Pure Blind,LY-FY6,CR-AQH,CR-AQH IV,Base Metals,Rich,7.63
+Pure Blind,LY-FY6,CR-AQH,CR-AQH IV,Noble Metals,Medium,27.57
+Pure Blind,LY-FY6,CR-AQH,CR-AQH IV,Industrial Fibers,Medium,6.00
+Pure Blind,LY-FY6,CR-AQH,CR-AQH IV,Condensates,Rich,18.66
+Pure Blind,LY-FY6,CR-AQH,CR-AQH IV,Liquid Ozone,Perfect,50.22
+Pure Blind,LY-FY6,CR-AQH,CR-AQH V,Fiber Composite,Perfect,38.54
+Pure Blind,LY-FY6,CR-AQH,CR-AQH V,Reactive Gas,Rich,28.93
+Pure Blind,LY-FY6,CR-AQH,CR-AQH V,Condensates,Perfect,27.76
+Pure Blind,LY-FY6,CR-AQH,CR-AQH V,Heavy Water,Medium,247.50
+Pure Blind,LY-FY6,CR-AQH,CR-AQH V,Liquid Ozone,Medium,32.62
+Pure Blind,LY-FY6,CR-AQH,CR-AQH VI,Sheen Compound,Rich,30.03
+Pure Blind,LY-FY6,CR-AQH,CR-AQH VI,Noble Gas,Medium,24.24
+Pure Blind,LY-FY6,CR-AQH,CR-AQH VI,Heavy Metals,Medium,24.99
+Pure Blind,LY-FY6,CR-AQH,CR-AQH VI,Condensates,Medium,17.35
+Pure Blind,LY-FY6,CR-AQH,CR-AQH VI,Nanites,Perfect,9.28
+Pure Blind,LY-FY6,CR-AQH,CR-AQH VII,Sheen Compound,Medium,21.82
+Pure Blind,LY-FY6,CR-AQH,CR-AQH VII,Glossy Compound,Rich,34.32
+Pure Blind,LY-FY6,CR-AQH,CR-AQH VII,Reactive Gas,Rich,28.49
+Pure Blind,LY-FY6,CR-AQH,CR-AQH VII,Base Metals,Medium,6.30
+Pure Blind,LY-FY6,CR-AQH,CR-AQH VII,Coolant,Medium,16.97
+Pure Blind,LY-FY6,CR-AQH,CR-AQH VIII,Sheen Compound,Medium,20.97
+Pure Blind,LY-FY6,CR-AQH,CR-AQH VIII,Fiber Composite,Poor,19.98
+Pure Blind,LY-FY6,CR-AQH,CR-AQH VIII,Reactive Gas,Rich,33.57
+Pure Blind,LY-FY6,CR-AQH,CR-AQH VIII,Noble Gas,Poor,20.39
+Pure Blind,LY-FY6,CR-AQH,CR-AQH VIII,Polyaramids,Medium,18.23
+Pure Blind,LY-FY6,CR-AQH,CR-AQH IX,Noble Metals,Medium,23.43
+Pure Blind,LY-FY6,CR-AQH,CR-AQH IX,Polyaramids,Rich,22.56
+Pure Blind,LY-FY6,CR-AQH,CR-AQH IX,Silicate Glass,Rich,14.96
+Pure Blind,LY-FY6,CR-AQH,CR-AQH IX,Liquid Ozone,Perfect,44.36
+Pure Blind,LY-FY6,CR-AQH,CR-AQH IX,Ionic Solutions,Rich,11.62
+Pure Blind,U-7RBK,8S-0E1,8S-0E1 I,Dark Compound,Medium,25.37
+Pure Blind,U-7RBK,8S-0E1,8S-0E1 I,Supertensile Plastics,Poor,13.46
+Pure Blind,U-7RBK,8S-0E1,8S-0E1 I,Construction Blocks,Poor,17.38
+Pure Blind,U-7RBK,8S-0E1,8S-0E1 I,Plasmoids,Poor,0.98
+Pure Blind,U-7RBK,8S-0E1,8S-0E1 II,Gleaming Alloy,Rich,28.27
+Pure Blind,U-7RBK,8S-0E1,8S-0E1 II,Noble Gas,Rich,32.78
+Pure Blind,U-7RBK,8S-0E1,8S-0E1 II,Smartfab Units,Rich,22.56
+Pure Blind,U-7RBK,8S-0E1,8S-0E1 III,Opulent Compound,Rich,27.98
+Pure Blind,U-7RBK,8S-0E1,8S-0E1 III,Reactive Gas,Rich,30.40
+Pure Blind,U-7RBK,8S-0E1,8S-0E1 III,Industrial Fibers,Perfect,11.00
+Pure Blind,U-7RBK,8S-0E1,8S-0E1 III,Condensates,Rich,22.25
+Pure Blind,U-7RBK,8S-0E1,8S-0E1 III,Liquid Ozone,Perfect,50.93
+Pure Blind,U-7RBK,8S-0E1,8S-0E1 IV,Precious Alloy,Medium,26.73
+Pure Blind,U-7RBK,8S-0E1,8S-0E1 IV,Dark Compound,Medium,23.39
+Pure Blind,U-7RBK,8S-0E1,8S-0E1 IV,Base Metals,Poor,3.98
+Pure Blind,U-7RBK,8S-0E1,8S-0E1 IV,Supertensile Plastics,Medium,14.48
+Pure Blind,U-7RBK,8S-0E1,8S-0E1 V,Fiber Composite,Medium,21.71
+Pure Blind,U-7RBK,8S-0E1,8S-0E1 V,Opulent Compound,Medium,23.85
+Pure Blind,U-7RBK,8S-0E1,8S-0E1 V,Noble Metals,Perfect,35.99
+Pure Blind,U-7RBK,8S-0E1,8S-0E1 V,Smartfab Units,Perfect,27.73
+Pure Blind,U-7RBK,8S-0E1,8S-0E1 V,Liquid Ozone,Perfect,52.33
+Pure Blind,U-7RBK,8S-0E1,8S-0E1 VI,Base Metals,Poor,4.53
+Pure Blind,U-7RBK,8S-0E1,8S-0E1 VI,Supertensile Plastics,Medium,15.36
+Pure Blind,U-7RBK,8S-0E1,8S-0E1 VI,Silicate Glass,Poor,8.39
+Pure Blind,U-7RBK,8S-0E1,8S-0E1 VI,Oxygen Isotopes,Poor,2.54
+Pure Blind,U-7RBK,8S-0E1,8S-0E1 VII,Glossy Compound,Rich,30.01
+Pure Blind,U-7RBK,8S-0E1,8S-0E1 VII,Reactive Gas,Rich,32.27
+Pure Blind,U-7RBK,8S-0E1,8S-0E1 VII,Noble Gas,Rich,33.48
+Pure Blind,U-7RBK,8S-0E1,8S-0E1 VII,Coolant,Medium,17.95
+Pure Blind,U-7RBK,8S-0E1,8S-0E1 VII,Ionic Solutions,Medium,10.64
+Pure Blind,U-7RBK,8S-0E1,8S-0E1 VIII,Reactive Gas,Perfect,39.42
+Pure Blind,U-7RBK,8S-0E1,8S-0E1 VIII,Industrial Fibers,Medium,5.60
+Pure Blind,U-7RBK,8S-0E1,8S-0E1 VIII,Condensates,Medium,17.61
+Pure Blind,U-7RBK,8S-0E1,8S-0E1 VIII,Smartfab Units,Rich,22.54
+Pure Blind,U-7RBK,8S-0E1,8S-0E1 VIII,Liquid Ozone,Rich,35.37
+Pure Blind,U-7RBK,5ZXX-K,5ZXX-K I,Gleaming Alloy,Poor,18.24
+Pure Blind,U-7RBK,5ZXX-K,5ZXX-K I,Heavy Metals,Rich,31.81
+Pure Blind,U-7RBK,5ZXX-K,5ZXX-K I,Noble Metals,Medium,23.87
+Pure Blind,U-7RBK,5ZXX-K,5ZXX-K II,Fiber Composite,Medium,22.35
+Pure Blind,U-7RBK,5ZXX-K,5ZXX-K II,Reactive Gas,Perfect,36.26
+Pure Blind,U-7RBK,5ZXX-K,5ZXX-K II,Base Metals,Medium,5.58
+Pure Blind,U-7RBK,5ZXX-K,5ZXX-K II,Reactive Metals,Medium,6.61
+Pure Blind,U-7RBK,5ZXX-K,5ZXX-K II,Ionic Solutions,Medium,10.77
+Pure Blind,U-7RBK,5ZXX-K,5ZXX-K III,Lustering Alloy,Rich,27.96
+Pure Blind,U-7RBK,5ZXX-K,5ZXX-K III,Reactive Gas,Medium,21.03
+Pure Blind,U-7RBK,5ZXX-K,5ZXX-K III,Noble Gas,Medium,25.67
+Pure Blind,U-7RBK,5ZXX-K,5ZXX-K III,Base Metals,Medium,6.59
+Pure Blind,U-7RBK,5ZXX-K,5ZXX-K III,Reactive Metals,Poor,4.86
+Pure Blind,U-7RBK,5ZXX-K,5ZXX-K IV,Lustering Alloy,Rich,31.13
+Pure Blind,U-7RBK,5ZXX-K,5ZXX-K IV,Sheen Compound,Medium,24.71
+Pure Blind,U-7RBK,5ZXX-K,5ZXX-K IV,Glossy Compound,Rich,29.41
+Pure Blind,U-7RBK,5ZXX-K,5ZXX-K IV,Reactive Gas,Rich,30.47
+Pure Blind,U-7RBK,5ZXX-K,5ZXX-K IV,Ionic Solutions,Poor,7.46
+Pure Blind,U-7RBK,5ZXX-K,5ZXX-K V,Sheen Compound,Rich,31.68
+Pure Blind,U-7RBK,5ZXX-K,5ZXX-K V,Fiber Composite,Medium,24.57
+Pure Blind,U-7RBK,5ZXX-K,5ZXX-K V,Reactive Gas,Poor,18.52
+Pure Blind,U-7RBK,5ZXX-K,5ZXX-K V,Polyaramids,Medium,18.25
+Pure Blind,U-7RBK,5ZXX-K,5ZXX-K V,Coolant,Rich,18.82
+Pure Blind,U-7RBK,5ZXX-K,5ZXX-K VI,Lustering Alloy,Rich,34.32
+Pure Blind,U-7RBK,5ZXX-K,5ZXX-K VI,Sheen Compound,Medium,27.32
+Pure Blind,U-7RBK,5ZXX-K,5ZXX-K VI,Reactive Gas,Poor,18.63
+Pure Blind,U-7RBK,5ZXX-K,5ZXX-K VI,Base Metals,Rich,9.11
+Pure Blind,U-7RBK,5ZXX-K,5ZXX-K VI,Polyaramids,Medium,17.94
+Pure Blind,U-7RBK,5ZXX-K,5ZXX-K VII,Base Metals,Medium,6.37
+Pure Blind,U-7RBK,5ZXX-K,5ZXX-K VII,Condensates,Rich,21.75
+Pure Blind,U-7RBK,5ZXX-K,5ZXX-K VII,Suspended Plasma,Rich,107.47
+Pure Blind,U-7RBK,5ZXX-K,5ZXX-K VII,Liquid Ozone,Poor,22.14
+Pure Blind,U-7RBK,5ZXX-K,5ZXX-K VIII,Gleaming Alloy,Rich,30.12
+Pure Blind,U-7RBK,5ZXX-K,5ZXX-K VIII,Noble Metals,Perfect,37.25
+Pure Blind,U-7RBK,5ZXX-K,5ZXX-K VIII,Smartfab Units,Rich,18.93
+Pure Blind,U-7RBK,5ZXX-K,5ZXX-K IX,Lustering Alloy,Poor,15.95
+Pure Blind,U-7RBK,5ZXX-K,5ZXX-K IX,Toxic Metals,Poor,5.12
+Pure Blind,U-7RBK,5ZXX-K,5ZXX-K IX,Supertensile Plastics,Medium,15.69
+Pure Blind,U-7RBK,5ZXX-K,5ZXX-K IX,Silicate Glass,Medium,12.55
+Pure Blind,U-7RBK,JE-D5U,JE-D5U I,Base Metals,Medium,6.82
+Pure Blind,U-7RBK,JE-D5U,JE-D5U I,Supertensile Plastics,Medium,16.24
+Pure Blind,U-7RBK,JE-D5U,JE-D5U I,Silicate Glass,Medium,11.61
+Pure Blind,U-7RBK,JE-D5U,JE-D5U I,Oxygen Isotopes,Poor,3.07
+Pure Blind,U-7RBK,JE-D5U,JE-D5U II,Condensed Alloy,Perfect,37.69
+Pure Blind,U-7RBK,JE-D5U,JE-D5U II,Noble Metals,Medium,27.81
+Pure Blind,U-7RBK,JE-D5U,JE-D5U II,Industrial Fibers,Perfect,10.14
+Pure Blind,U-7RBK,JE-D5U,JE-D5U II,Heavy Water,Medium,243.76
+Pure Blind,U-7RBK,JE-D5U,JE-D5U II,Liquid Ozone,Perfect,49.12
+Pure Blind,U-7RBK,JE-D5U,JE-D5U III,Lustering Alloy,Rich,34.39
+Pure Blind,U-7RBK,JE-D5U,JE-D5U III,Sheen Compound,Rich,31.86
+Pure Blind,U-7RBK,JE-D5U,JE-D5U III,Reactive Gas,Rich,32.85
+Pure Blind,U-7RBK,JE-D5U,JE-D5U III,Reactive Metals,Medium,6.63
+Pure Blind,U-7RBK,JE-D5U,JE-D5U III,Ionic Solutions,Medium,9.21
+Pure Blind,U-7RBK,JE-D5U,JE-D5U IV,Fiber Composite,Perfect,35.95
+Pure Blind,U-7RBK,JE-D5U,JE-D5U IV,Glossy Compound,Rich,34.78
+Pure Blind,U-7RBK,JE-D5U,JE-D5U IV,Reactive Gas,Poor,20.70
+Pure Blind,U-7RBK,JE-D5U,JE-D5U IV,Coolant,Poor,12.54
+Pure Blind,U-7RBK,JE-D5U,JE-D5U IV,Ionic Solutions,Rich,11.33
+Pure Blind,U-7RBK,JE-D5U,JE-D5U V,Fiber Composite,Medium,26.88
+Pure Blind,U-7RBK,JE-D5U,JE-D5U V,Reactive Gas,Rich,29.13
+Pure Blind,U-7RBK,JE-D5U,JE-D5U V,Noble Gas,Poor,19.87
+Pure Blind,U-7RBK,JE-D5U,JE-D5U V,Polyaramids,Perfect,24.35
+Pure Blind,U-7RBK,JE-D5U,JE-D5U V,Ionic Solutions,Medium,10.94
+Pure Blind,U-7RBK,JE-D5U,JE-D5U VI,Lustering Alloy,Poor,19.40
+Pure Blind,U-7RBK,JE-D5U,JE-D5U VI,Glossy Compound,Rich,28.27
+Pure Blind,U-7RBK,JE-D5U,JE-D5U VI,Reactive Gas,Rich,30.40
+Pure Blind,U-7RBK,JE-D5U,JE-D5U VI,Base Metals,Perfect,9.27
+Pure Blind,U-7RBK,JE-D5U,JE-D5U VI,Polyaramids,Poor,12.44
+Pure Blind,U-7RBK,JE-D5U,JE-D5U VII,Heavy Metals,Rich,29.48
+Pure Blind,U-7RBK,JE-D5U,JE-D5U VII,Industrial Fibers,Poor,4.83
+Pure Blind,U-7RBK,JE-D5U,JE-D5U VII,Supertensile Plastics,Poor,11.06
+Pure Blind,U-7RBK,JE-D5U,JE-D5U VII,Condensates,Medium,16.69
+Pure Blind,U-7RBK,2-6TGQ,2-6TGQ I,Dark Compound,Medium,21.05
+Pure Blind,U-7RBK,2-6TGQ,2-6TGQ I,Toxic Metals,Medium,5.64
+Pure Blind,U-7RBK,2-6TGQ,2-6TGQ I,Supertensile Plastics,Poor,9.97
+Pure Blind,U-7RBK,2-6TGQ,2-6TGQ I,Construction Blocks,Medium,25.01
+Pure Blind,U-7RBK,2-6TGQ,2-6TGQ II,Gleaming Alloy,Medium,26.99
+Pure Blind,U-7RBK,2-6TGQ,2-6TGQ II,Construction Blocks,Poor,17.89
+Pure Blind,U-7RBK,2-6TGQ,2-6TGQ II,Plasmoids,Medium,1.36
+Pure Blind,U-7RBK,2-6TGQ,2-6TGQ III,Precious Alloy,Poor,18.61
+Pure Blind,U-7RBK,2-6TGQ,2-6TGQ III,Base Metals,Medium,5.80
+Pure Blind,U-7RBK,2-6TGQ,2-6TGQ III,Supertensile Plastics,Medium,17.10
+Pure Blind,U-7RBK,2-6TGQ,2-6TGQ III,Plasmoids,Poor,1.04
+Pure Blind,U-7RBK,2-6TGQ,2-6TGQ IV,Lustering Alloy,Medium,21.56
+Pure Blind,U-7RBK,2-6TGQ,2-6TGQ IV,Supertensile Plastics,Medium,15.88
+Pure Blind,U-7RBK,2-6TGQ,2-6TGQ IV,Construction Blocks,Poor,16.46
+Pure Blind,U-7RBK,2-6TGQ,2-6TGQ IV,Oxygen Isotopes,Medium,3.16
+Pure Blind,U-7RBK,2-6TGQ,2-6TGQ V,Condensed Alloy,Medium,26.47
+Pure Blind,U-7RBK,2-6TGQ,2-6TGQ V,Opulent Compound,Perfect,35.42
+Pure Blind,U-7RBK,2-6TGQ,2-6TGQ V,Toxic Metals,Rich,8.56
+Pure Blind,U-7RBK,2-6TGQ,2-6TGQ V,Polyaramids,Rich,21.28
+Pure Blind,U-7RBK,2-6TGQ,2-6TGQ V,Liquid Ozone,Perfect,44.22
+Pure Blind,U-7RBK,2-6TGQ,2-6TGQ VI,Fiber Composite,Medium,27.65
+Pure Blind,U-7RBK,2-6TGQ,2-6TGQ VI,Reactive Gas,Medium,26.07
+Pure Blind,U-7RBK,2-6TGQ,2-6TGQ VI,Noble Gas,Medium,27.63
+Pure Blind,U-7RBK,2-6TGQ,2-6TGQ VI,Polyaramids,Medium,16.12
+Pure Blind,U-7RBK,2-6TGQ,2-6TGQ VI,Coolant,Poor,13.67
+Pure Blind,U-7RBK,2-6TGQ,2-6TGQ VII,Crystal Compound,Rich,33.31
+Pure Blind,U-7RBK,2-6TGQ,2-6TGQ VII,Reactive Metals,Perfect,9.20
+Pure Blind,U-7RBK,2-6TGQ,2-6TGQ VII,Construction Blocks,Rich,28.91
+Pure Blind,U-7RBK,2-6TGQ,2-6TGQ VII,Nanites,Medium,6.64
+Pure Blind,U-7RBK,2-6TGQ,2-6TGQ VIII,Lustering Alloy,Medium,25.98
+Pure Blind,U-7RBK,2-6TGQ,2-6TGQ VIII,Glossy Compound,Poor,19.91
+Pure Blind,U-7RBK,2-6TGQ,2-6TGQ VIII,Reactive Gas,Medium,26.18
+Pure Blind,U-7RBK,2-6TGQ,2-6TGQ VIII,Reactive Metals,Poor,5.11
+Pure Blind,U-7RBK,2-6TGQ,2-6TGQ VIII,Polyaramids,Poor,13.10
+Pure Blind,U-7RBK,2-6TGQ,2-6TGQ IX,Glossy Compound,Medium,27.24
+Pure Blind,U-7RBK,2-6TGQ,2-6TGQ IX,Reactive Gas,Poor,18.48
+Pure Blind,U-7RBK,2-6TGQ,2-6TGQ IX,Noble Gas,Medium,20.97
+Pure Blind,U-7RBK,2-6TGQ,2-6TGQ IX,Polyaramids,Rich,20.30
+Pure Blind,U-7RBK,2-6TGQ,2-6TGQ IX,Coolant,Medium,18.10
+Pure Blind,U-7RBK,2-6TGQ,2-6TGQ X,Sheen Compound,Rich,28.75
+Pure Blind,U-7RBK,2-6TGQ,2-6TGQ X,Fiber Composite,Medium,23.06
+Pure Blind,U-7RBK,2-6TGQ,2-6TGQ X,Glossy Compound,Medium,22.79
+Pure Blind,U-7RBK,2-6TGQ,2-6TGQ X,Reactive Gas,Medium,22.07
+Pure Blind,U-7RBK,2-6TGQ,2-6TGQ X,Ionic Solutions,Rich,13.45
+Pure Blind,U-7RBK,2-6TGQ,2-6TGQ XI,Precious Alloy,Medium,26.22
+Pure Blind,U-7RBK,2-6TGQ,2-6TGQ XI,Supertensile Plastics,Medium,17.64
+Pure Blind,U-7RBK,2-6TGQ,2-6TGQ XI,Construction Blocks,Poor,18.15
+Pure Blind,U-7RBK,2-6TGQ,2-6TGQ XI,Silicate Glass,Medium,13.28
+Pure Blind,U-7RBK,OE-9UF,OE-9UF I,Dark Compound,Poor,15.75
+Pure Blind,U-7RBK,OE-9UF,OE-9UF I,Industrial Fibers,Medium,5.46
+Pure Blind,U-7RBK,OE-9UF,OE-9UF I,Supertensile Plastics,Medium,14.18
+Pure Blind,U-7RBK,OE-9UF,OE-9UF I,Silicate Glass,Poor,8.68
+Pure Blind,U-7RBK,OE-9UF,OE-9UF II,Precious Alloy,Poor,18.74
+Pure Blind,U-7RBK,OE-9UF,OE-9UF II,Supertensile Plastics,Poor,12.75
+Pure Blind,U-7RBK,OE-9UF,OE-9UF II,Silicate Glass,Medium,11.29
+Pure Blind,U-7RBK,OE-9UF,OE-9UF II,Oxygen Isotopes,Medium,3.19
+Pure Blind,U-7RBK,OE-9UF,OE-9UF III,Sheen Compound,Rich,29.30
+Pure Blind,U-7RBK,OE-9UF,OE-9UF III,Fiber Composite,Poor,19.80
+Pure Blind,U-7RBK,OE-9UF,OE-9UF III,Reactive Gas,Medium,22.79
+Pure Blind,U-7RBK,OE-9UF,OE-9UF III,Noble Gas,Medium,26.86
+Pure Blind,U-7RBK,OE-9UF,OE-9UF III,Ionic Solutions,Rich,12.27
+Pure Blind,U-7RBK,OE-9UF,OE-9UF IV,Sheen Compound,Medium,27.65
+Pure Blind,U-7RBK,OE-9UF,OE-9UF IV,Glossy Compound,Rich,31.33
+Pure Blind,U-7RBK,OE-9UF,OE-9UF IV,Reactive Gas,Poor,20.06
+Pure Blind,U-7RBK,OE-9UF,OE-9UF IV,Coolant,Medium,17.59
+Pure Blind,U-7RBK,OE-9UF,OE-9UF IV,Ionic Solutions,Rich,13.50
+Pure Blind,U-7RBK,OE-9UF,OE-9UF V,Industrial Fibers,Medium,5.92
+Pure Blind,U-7RBK,OE-9UF,OE-9UF V,Supertensile Plastics,Rich,20.67
+Pure Blind,U-7RBK,OE-9UF,OE-9UF V,Coolant,Medium,15.33
+Pure Blind,U-7RBK,OE-9UF,OE-9UF V,Condensates,Medium,15.44
+Pure Blind,U-7RBK,OE-9UF,OE-9UF VI,Crystal Compound,Rich,28.84
+Pure Blind,U-7RBK,OE-9UF,OE-9UF VI,Reactive Metals,Rich,8.35
+Pure Blind,U-7RBK,OE-9UF,OE-9UF VI,Construction Blocks,Medium,23.91
+Pure Blind,U-7RBK,OE-9UF,OE-9UF VI,Nanites,Poor,4.71
+Pure Blind,U-7RBK,PFU-LH,PFU-LH I,Toxic Metals,Poor,4.41
+Pure Blind,U-7RBK,PFU-LH,PFU-LH I,Supertensile Plastics,Poor,10.49
+Pure Blind,U-7RBK,PFU-LH,PFU-LH I,Silicate Glass,Poor,7.79
+Pure Blind,U-7RBK,PFU-LH,PFU-LH I,Oxygen Isotopes,Medium,3.76
+Pure Blind,U-7RBK,PFU-LH,PFU-LH II,Lustering Alloy,Medium,25.28
+Pure Blind,U-7RBK,PFU-LH,PFU-LH II,Industrial Fibers,Poor,3.96
+Pure Blind,U-7RBK,PFU-LH,PFU-LH II,Supertensile Plastics,Poor,13.58
+Pure Blind,U-7RBK,PFU-LH,PFU-LH II,Silicate Glass,Medium,10.57
+Pure Blind,U-7RBK,PFU-LH,PFU-LH III,Fiber Composite,Medium,24.13
+Pure Blind,U-7RBK,PFU-LH,PFU-LH III,Glossy Compound,Rich,29.37
+Pure Blind,U-7RBK,PFU-LH,PFU-LH III,Reactive Gas,Perfect,35.20
+Pure Blind,U-7RBK,PFU-LH,PFU-LH III,Base Metals,Medium,7.14
+Pure Blind,U-7RBK,PFU-LH,PFU-LH III,Ionic Solutions,Perfect,14.41
+Pure Blind,U-7RBK,PFU-LH,PFU-LH IV,Fiber Composite,Poor,20.06
+Pure Blind,U-7RBK,PFU-LH,PFU-LH IV,Glossy Compound,Perfect,36.19
+Pure Blind,U-7RBK,PFU-LH,PFU-LH IV,Reactive Gas,Poor,18.48
+Pure Blind,U-7RBK,PFU-LH,PFU-LH IV,Base Metals,Medium,5.74
+Pure Blind,U-7RBK,PFU-LH,PFU-LH IV,Coolant,Rich,19.14
+Pure Blind,U-7RBK,PFU-LH,PFU-LH V,Glossy Compound,Poor,19.89
+Pure Blind,U-7RBK,PFU-LH,PFU-LH V,Reactive Gas,Rich,31.99
+Pure Blind,U-7RBK,PFU-LH,PFU-LH V,Base Metals,Medium,7.07
+Pure Blind,U-7RBK,PFU-LH,PFU-LH V,Reactive Metals,Rich,8.34
+Pure Blind,U-7RBK,PFU-LH,PFU-LH V,Ionic Solutions,Medium,10.84
+Pure Blind,U-7RBK,PFU-LH,PFU-LH VI,Sheen Compound,Poor,18.37
+Pure Blind,U-7RBK,PFU-LH,PFU-LH VI,Glossy Compound,Rich,31.33
+Pure Blind,U-7RBK,PFU-LH,PFU-LH VI,Reactive Gas,Rich,32.12
+Pure Blind,U-7RBK,PFU-LH,PFU-LH VI,Base Metals,Medium,7.04
+Pure Blind,U-7RBK,PFU-LH,PFU-LH VI,Coolant,Perfect,23.89
+Pure Blind,U-7RBK,PFU-LH,PFU-LH VII,Sheen Compound,Rich,29.74
+Pure Blind,U-7RBK,PFU-LH,PFU-LH VII,Reactive Gas,Perfect,35.75
+Pure Blind,U-7RBK,PFU-LH,PFU-LH VII,Reactive Metals,Rich,7.72
+Pure Blind,U-7RBK,PFU-LH,PFU-LH VII,Coolant,Perfect,23.58
+Pure Blind,U-7RBK,PFU-LH,PFU-LH VII,Ionic Solutions,Rich,12.46
+Pure Blind,U-7RBK,PFU-LH,PFU-LH VIII,Lustering Alloy,Rich,31.42
+Pure Blind,U-7RBK,PFU-LH,PFU-LH VIII,Fiber Composite,Medium,25.17
+Pure Blind,U-7RBK,PFU-LH,PFU-LH VIII,Reactive Gas,Medium,21.74
+Pure Blind,U-7RBK,PFU-LH,PFU-LH VIII,Base Metals,Medium,6.84
+Pure Blind,U-7RBK,PFU-LH,PFU-LH VIII,Polyaramids,Medium,14.77
+Pure Blind,G8-D09,R6XN-9,R6XN-9 I,Gleaming Alloy,Poor,19.30
+Pure Blind,G8-D09,R6XN-9,R6XN-9 I,Construction Blocks,Rich,28.45
+Pure Blind,G8-D09,R6XN-9,R6XN-9 I,Oxygen Isotopes,Rich,4.47
+Pure Blind,G8-D09,R6XN-9,R6XN-9 II,Precious Alloy,Medium,24.97
+Pure Blind,G8-D09,R6XN-9,R6XN-9 II,Industrial Fibers,Poor,3.51
+Pure Blind,G8-D09,R6XN-9,R6XN-9 II,Supertensile Plastics,Poor,9.80
+Pure Blind,G8-D09,R6XN-9,R6XN-9 II,Construction Blocks,Poor,14.89
+Pure Blind,G8-D09,R6XN-9,R6XN-9 III,Lustering Alloy,Poor,18.44
+Pure Blind,G8-D09,R6XN-9,R6XN-9 III,Supertensile Plastics,Medium,17.02
+Pure Blind,G8-D09,R6XN-9,R6XN-9 III,Construction Blocks,Medium,20.12
+Pure Blind,G8-D09,R6XN-9,R6XN-9 III,Silicate Glass,Poor,6.89
+Pure Blind,G8-D09,R6XN-9,R6XN-9 IV,Condensed Alloy,Medium,25.75
+Pure Blind,G8-D09,R6XN-9,R6XN-9 IV,Reactive Gas,Poor,19.78
+Pure Blind,G8-D09,R6XN-9,R6XN-9 IV,Industrial Fibers,Perfect,9.18
+Pure Blind,G8-D09,R6XN-9,R6XN-9 IV,Condensates,Medium,16.39
+Pure Blind,G8-D09,R6XN-9,R6XN-9 IV,Liquid Ozone,Rich,38.38
+Pure Blind,G8-D09,R6XN-9,R6XN-9 V,Gleaming Alloy,Perfect,33.49
+Pure Blind,G8-D09,R6XN-9,R6XN-9 V,Reactive Gas,Poor,18.73
+Pure Blind,G8-D09,R6XN-9,R6XN-9 V,Reactive Metals,Medium,5.76
+Pure Blind,G8-D09,R6XN-9,R6XN-9 V,Supertensile Plastics,Rich,21.45
+Pure Blind,G8-D09,R6XN-9,R6XN-9 VI,Lustering Alloy,Poor,17.79
+Pure Blind,G8-D09,R6XN-9,R6XN-9 VI,Sheen Compound,Poor,18.54
+Pure Blind,G8-D09,R6XN-9,R6XN-9 VI,Reactive Gas,Medium,23.04
+Pure Blind,G8-D09,R6XN-9,R6XN-9 VI,Polyaramids,Medium,16.38
+Pure Blind,G8-D09,R6XN-9,R6XN-9 VI,Ionic Solutions,Medium,8.57
+Pure Blind,G8-D09,R6XN-9,R6XN-9 VII,Sheen Compound,Rich,30.87
+Pure Blind,G8-D09,R6XN-9,R6XN-9 VII,Reactive Gas,Rich,27.24
+Pure Blind,G8-D09,R6XN-9,R6XN-9 VII,Noble Gas,Rich,29.38
+Pure Blind,G8-D09,R6XN-9,R6XN-9 VII,Polyaramids,Medium,14.84
+Pure Blind,G8-D09,R6XN-9,R6XN-9 VII,Coolant,Medium,13.96
+Pure Blind,G8-D09,R6XN-9,R6XN-9 VIII,Sheen Compound,Rich,27.51
+Pure Blind,G8-D09,R6XN-9,R6XN-9 VIII,Fiber Composite,Medium,20.43
+Pure Blind,G8-D09,R6XN-9,R6XN-9 VIII,Glossy Compound,Poor,17.72
+Pure Blind,G8-D09,R6XN-9,R6XN-9 VIII,Reactive Gas,Rich,32.05
+Pure Blind,G8-D09,R6XN-9,R6XN-9 VIII,Noble Gas,Rich,26.96
+Pure Blind,G8-D09,R6XN-9,R6XN-9 IX,Dark Compound,Medium,22.93
+Pure Blind,G8-D09,R6XN-9,R6XN-9 IX,Base Metals,Poor,5.11
+Pure Blind,G8-D09,R6XN-9,R6XN-9 IX,Supertensile Plastics,Poor,9.81
+Pure Blind,G8-D09,R6XN-9,R6XN-9 IX,Construction Blocks,Poor,17.95
+Pure Blind,G8-D09,3V8-LJ,3V8-LJ I,Lucent Compound,Rich,31.92
+Pure Blind,G8-D09,3V8-LJ,3V8-LJ I,Crystal Compound,Medium,20.05
+Pure Blind,G8-D09,3V8-LJ,3V8-LJ I,Reactive Metals,Poor,4.59
+Pure Blind,G8-D09,3V8-LJ,3V8-LJ I,Suspended Plasma,Medium,87.70
+Pure Blind,G8-D09,3V8-LJ,3V8-LJ II,Precious Alloy,Poor,14.22
+Pure Blind,G8-D09,3V8-LJ,3V8-LJ II,Toxic Metals,Medium,5.32
+Pure Blind,G8-D09,3V8-LJ,3V8-LJ II,Supertensile Plastics,Poor,12.89
+Pure Blind,G8-D09,3V8-LJ,3V8-LJ II,Oxygen Isotopes,Poor,2.43
+Pure Blind,G8-D09,3V8-LJ,3V8-LJ III,Lustering Alloy,Poor,14.15
+Pure Blind,G8-D09,3V8-LJ,3V8-LJ III,Toxic Metals,Poor,5.14
+Pure Blind,G8-D09,3V8-LJ,3V8-LJ III,Supertensile Plastics,Medium,16.79
+Pure Blind,G8-D09,3V8-LJ,3V8-LJ III,Oxygen Isotopes,Medium,3.73
+Pure Blind,G8-D09,3V8-LJ,3V8-LJ IV,Condensed Alloy,Perfect,36.39
+Pure Blind,G8-D09,3V8-LJ,3V8-LJ IV,Opulent Compound,Rich,30.34
+Pure Blind,G8-D09,3V8-LJ,3V8-LJ IV,Coolant,Medium,17.32
+Pure Blind,G8-D09,3V8-LJ,3V8-LJ IV,Liquid Ozone,Rich,37.22
+Pure Blind,G8-D09,3V8-LJ,3V8-LJ IV,Ionic Solutions,Perfect,13.92
+Pure Blind,G8-D09,3V8-LJ,3V8-LJ V,Gleaming Alloy,Rich,33.03
+Pure Blind,G8-D09,3V8-LJ,3V8-LJ V,Smartfab Units,Poor,11.51
+Pure Blind,G8-D09,3V8-LJ,3V8-LJ V,Oxygen Isotopes,Medium,3.32
+Pure Blind,G8-D09,3V8-LJ,3V8-LJ VI,Condensed Alloy,Perfect,34.06
+Pure Blind,G8-D09,3V8-LJ,3V8-LJ VI,Fiber Composite,Perfect,38.89
+Pure Blind,G8-D09,3V8-LJ,3V8-LJ VI,Industrial Fibers,Perfect,8.89
+Pure Blind,G8-D09,3V8-LJ,3V8-LJ VI,Condensates,Perfect,24.64
+Pure Blind,G8-D09,3V8-LJ,3V8-LJ VI,Liquid Ozone,Perfect,45.75
+Pure Blind,G8-D09,B8EN-S,B8EN-S I,Gleaming Alloy,Rich,31.23
+Pure Blind,G8-D09,B8EN-S,B8EN-S I,Glossy Compound,Medium,25.54
+Pure Blind,G8-D09,B8EN-S,B8EN-S I,Noble Metals,Rich,31.25
+Pure Blind,G8-D09,B8EN-S,B8EN-S II,Gleaming Alloy,Rich,27.95
+Pure Blind,G8-D09,B8EN-S,B8EN-S II,Polyaramids,Rich,21.08
+Pure Blind,G8-D09,B8EN-S,B8EN-S II,Smartfab Units,Rich,21.01
+Pure Blind,G8-D09,B8EN-S,B8EN-S III,Gleaming Alloy,Medium,21.23
+Pure Blind,G8-D09,B8EN-S,B8EN-S III,Glossy Compound,Medium,22.22
+Pure Blind,G8-D09,B8EN-S,B8EN-S III,Oxygen Isotopes,Medium,3.12
+Pure Blind,G8-D09,B8EN-S,B8EN-S IV,Condensed Alloy,Rich,30.87
+Pure Blind,G8-D09,B8EN-S,B8EN-S IV,Toxic Metals,Rich,7.06
+Pure Blind,G8-D09,B8EN-S,B8EN-S IV,Polyaramids,Rich,18.58
+Pure Blind,G8-D09,B8EN-S,B8EN-S IV,Heavy Water,Rich,293.37
+Pure Blind,G8-D09,B8EN-S,B8EN-S IV,Liquid Ozone,Medium,25.83
+Pure Blind,G8-D09,B8EN-S,B8EN-S V,Precious Alloy,Poor,14.32
+Pure Blind,G8-D09,B8EN-S,B8EN-S V,Industrial Fibers,Medium,6.21
+Pure Blind,G8-D09,B8EN-S,B8EN-S V,Supertensile Plastics,Poor,8.88
+Pure Blind,G8-D09,B8EN-S,B8EN-S V,Oxygen Isotopes,Medium,3.42
+Pure Blind,G8-D09,B8EN-S,B8EN-S VI,Fiber Composite,Medium,26.36
+Pure Blind,G8-D09,B8EN-S,B8EN-S VI,Reactive Gas,Medium,22.18
+Pure Blind,G8-D09,B8EN-S,B8EN-S VI,Reactive Metals,Rich,7.86
+Pure Blind,G8-D09,B8EN-S,B8EN-S VI,Polyaramids,Medium,17.25
+Pure Blind,G8-D09,B8EN-S,B8EN-S VI,Ionic Solutions,Perfect,13.70
+Pure Blind,G8-D09,B8EN-S,B8EN-S VII,Sheen Compound,Poor,17.83
+Pure Blind,G8-D09,B8EN-S,B8EN-S VII,Glossy Compound,Medium,22.53
+Pure Blind,G8-D09,B8EN-S,B8EN-S VII,Reactive Gas,Medium,25.16
+Pure Blind,G8-D09,B8EN-S,B8EN-S VII,Reactive Metals,Poor,4.86
+Pure Blind,G8-D09,B8EN-S,B8EN-S VII,Ionic Solutions,Medium,9.95
+Pure Blind,G8-D09,B8EN-S,B8EN-S VIII,Precious Alloy,Medium,21.80
+Pure Blind,G8-D09,B8EN-S,B8EN-S VIII,Dark Compound,Medium,24.09
+Pure Blind,G8-D09,B8EN-S,B8EN-S VIII,Base Metals,Medium,5.95
+Pure Blind,G8-D09,B8EN-S,B8EN-S VIII,Supertensile Plastics,Poor,12.96
+Pure Blind,G8-D09,R-LW2I,R-LW2I I,Gleaming Alloy,Poor,18.90
+Pure Blind,G8-D09,R-LW2I,R-LW2I I,Motley Compound,Rich,32.15
+Pure Blind,G8-D09,R-LW2I,R-LW2I I,Oxygen Isotopes,Poor,2.95
+Pure Blind,G8-D09,R-LW2I,R-LW2I II,Dark Compound,Medium,22.39
+Pure Blind,G8-D09,R-LW2I,R-LW2I II,Base Metals,Medium,6.56
+Pure Blind,G8-D09,R-LW2I,R-LW2I II,Supertensile Plastics,Poor,10.29
+Pure Blind,G8-D09,R-LW2I,R-LW2I II,Oxygen Isotopes,Medium,3.60
+Pure Blind,G8-D09,R-LW2I,R-LW2I III,Lustering Alloy,Poor,16.82
+Pure Blind,G8-D09,R-LW2I,R-LW2I III,Base Metals,Poor,5.01
+Pure Blind,G8-D09,R-LW2I,R-LW2I III,Supertensile Plastics,Medium,13.33
+Pure Blind,G8-D09,R-LW2I,R-LW2I III,Silicate Glass,Poor,9.85
+Pure Blind,G8-D09,R-LW2I,R-LW2I IV,Base Metals,Poor,4.07
+Pure Blind,G8-D09,R-LW2I,R-LW2I IV,Industrial Fibers,Poor,3.47
+Pure Blind,G8-D09,R-LW2I,R-LW2I IV,Supertensile Plastics,Medium,16.38
+Pure Blind,G8-D09,R-LW2I,R-LW2I IV,Silicate Glass,Poor,6.76
+Pure Blind,G8-D09,R-LW2I,R-LW2I V,Lustering Alloy,Rich,27.28
+Pure Blind,G8-D09,R-LW2I,R-LW2I V,Fiber Composite,Rich,28.62
+Pure Blind,G8-D09,R-LW2I,R-LW2I V,Reactive Gas,Poor,18.23
+Pure Blind,G8-D09,R-LW2I,R-LW2I V,Reactive Metals,Medium,6.33
+Pure Blind,G8-D09,R-LW2I,R-LW2I V,Ionic Solutions,Poor,7.48
+Pure Blind,G8-D09,R-LW2I,R-LW2I VI,Precious Alloy,Poor,14.93
+Pure Blind,G8-D09,R-LW2I,R-LW2I VI,Dark Compound,Medium,23.75
+Pure Blind,G8-D09,R-LW2I,R-LW2I VI,Supertensile Plastics,Poor,12.89
+Pure Blind,G8-D09,R-LW2I,R-LW2I VI,Silicate Glass,Medium,12.91
+Pure Blind,G8-D09,R-LW2I,R-LW2I VII,Lustering Alloy,Medium,26.02
+Pure Blind,G8-D09,R-LW2I,R-LW2I VII,Glossy Compound,Medium,25.85
+Pure Blind,G8-D09,R-LW2I,R-LW2I VII,Reactive Gas,Medium,20.89
+Pure Blind,G8-D09,R-LW2I,R-LW2I VII,Reactive Metals,Perfect,8.95
+Pure Blind,G8-D09,R-LW2I,R-LW2I VII,Ionic Solutions,Rich,12.37
+Pure Blind,G8-D09,R-LW2I,R-LW2I VIII,Precious Alloy,Poor,16.21
+Pure Blind,G8-D09,R-LW2I,R-LW2I VIII,Supertensile Plastics,Rich,17.99
+Pure Blind,G8-D09,R-LW2I,R-LW2I VIII,Condensates,Medium,15.44
+Pure Blind,G8-D09,R-LW2I,R-LW2I VIII,Suspended Plasma,Medium,82.18
+Pure Blind,G8-D09,DP-1YE,DP-1YE I,Base Metals,Poor,3.47
+Pure Blind,G8-D09,DP-1YE,DP-1YE I,Industrial Fibers,Poor,4.91
+Pure Blind,G8-D09,DP-1YE,DP-1YE I,Supertensile Plastics,Medium,14.20
+Pure Blind,G8-D09,DP-1YE,DP-1YE I,Oxygen Isotopes,Poor,2.26
+Pure Blind,G8-D09,DP-1YE,DP-1YE II,Dark Compound,Medium,22.64
+Pure Blind,G8-D09,DP-1YE,DP-1YE II,Toxic Metals,Medium,6.41
+Pure Blind,G8-D09,DP-1YE,DP-1YE II,Supertensile Plastics,Poor,9.60
+Pure Blind,G8-D09,DP-1YE,DP-1YE II,Construction Blocks,Poor,16.95
+Pure Blind,G8-D09,DP-1YE,DP-1YE III,Precious Alloy,Poor,17.45
+Pure Blind,G8-D09,DP-1YE,DP-1YE III,Dark Compound,Poor,17.41
+Pure Blind,G8-D09,DP-1YE,DP-1YE III,Industrial Fibers,Poor,3.74
+Pure Blind,G8-D09,DP-1YE,DP-1YE III,Supertensile Plastics,Medium,15.12
+Pure Blind,G8-D09,DP-1YE,DP-1YE IV,Dark Compound,Medium,22.72
+Pure Blind,G8-D09,DP-1YE,DP-1YE IV,Base Metals,Medium,6.47
+Pure Blind,G8-D09,DP-1YE,DP-1YE IV,Industrial Fibers,Medium,6.08
+Pure Blind,G8-D09,DP-1YE,DP-1YE IV,Supertensile Plastics,Medium,15.11
+Pure Blind,G8-D09,DP-1YE,DP-1YE V,Dark Compound,Poor,18.73
+Pure Blind,G8-D09,DP-1YE,DP-1YE V,Supertensile Plastics,Poor,12.81
+Pure Blind,G8-D09,DP-1YE,DP-1YE V,Silicate Glass,Poor,9.66
+Pure Blind,G8-D09,DP-1YE,DP-1YE V,Plasmoids,Medium,1.25
+Pure Blind,G8-D09,DP-1YE,DP-1YE VI,Base Metals,Rich,7.34
+Pure Blind,G8-D09,DP-1YE,DP-1YE VI,Industrial Fibers,Perfect,9.72
+Pure Blind,G8-D09,DP-1YE,DP-1YE VI,Condensates,Perfect,25.72
+Pure Blind,G8-D09,DP-1YE,DP-1YE VI,Heavy Water,Medium,250.11
+Pure Blind,G8-D09,DP-1YE,DP-1YE VI,Liquid Ozone,Perfect,43.31
+Pure Blind,G8-D09,DP-1YE,DP-1YE VII,Sheen Compound,Poor,17.64
+Pure Blind,G8-D09,DP-1YE,DP-1YE VII,Reactive Gas,Poor,17.39
+Pure Blind,G8-D09,DP-1YE,DP-1YE VII,Base Metals,Medium,6.82
+Pure Blind,G8-D09,DP-1YE,DP-1YE VII,Reactive Metals,Poor,4.84
+Pure Blind,G8-D09,DP-1YE,DP-1YE VII,Coolant,Rich,20.41
+Pure Blind,G8-D09,DP-1YE,DP-1YE VIII,Condensed Alloy,Rich,29.59
+Pure Blind,G8-D09,DP-1YE,DP-1YE VIII,Base Metals,Poor,5.11
+Pure Blind,G8-D09,DP-1YE,DP-1YE VIII,Noble Metals,Perfect,34.97
+Pure Blind,G8-D09,DP-1YE,DP-1YE VIII,Industrial Fibers,Perfect,9.47
+Pure Blind,G8-D09,DP-1YE,DP-1YE VIII,Liquid Ozone,Poor,24.36
+Pure Blind,G8-D09,4-ABS8,4-ABS8 I,Precious Alloy,Medium,22.43
+Pure Blind,G8-D09,4-ABS8,4-ABS8 I,Supertensile Plastics,Medium,15.92
+Pure Blind,G8-D09,4-ABS8,4-ABS8 I,Oxygen Isotopes,Poor,2.60
+Pure Blind,G8-D09,4-ABS8,4-ABS8 I,Plasmoids,Medium,1.41
+Pure Blind,G8-D09,4-ABS8,4-ABS8 II,Crystal Compound,Medium,23.81
+Pure Blind,G8-D09,4-ABS8,4-ABS8 II,Reactive Metals,Rich,7.02
+Pure Blind,G8-D09,4-ABS8,4-ABS8 II,Construction Blocks,Rich,30.39
+Pure Blind,G8-D09,4-ABS8,4-ABS8 II,Nanites,Poor,5.16
+Pure Blind,G8-D09,4-ABS8,4-ABS8 III,Condensed Alloy,Perfect,36.67
+Pure Blind,G8-D09,4-ABS8,4-ABS8 III,Fiber Composite,Medium,20.77
+Pure Blind,G8-D09,4-ABS8,4-ABS8 III,Condensates,Perfect,23.49
+Pure Blind,G8-D09,4-ABS8,4-ABS8 III,Smartfab Units,Medium,15.05
+Pure Blind,G8-D09,4-ABS8,4-ABS8 III,Liquid Ozone,Perfect,44.76
+Pure Blind,G8-D09,4-ABS8,4-ABS8 IV,Precious Alloy,Poor,15.75
+Pure Blind,G8-D09,4-ABS8,4-ABS8 IV,Supertensile Plastics,Poor,12.57
+Pure Blind,G8-D09,4-ABS8,4-ABS8 IV,Silicate Glass,Poor,8.98
+Pure Blind,G8-D09,4-ABS8,4-ABS8 IV,Oxygen Isotopes,Poor,2.53
+Pure Blind,G8-D09,4-ABS8,4-ABS8 V,Lustering Alloy,Medium,24.72
+Pure Blind,G8-D09,4-ABS8,4-ABS8 V,Sheen Compound,Rich,31.21
+Pure Blind,G8-D09,4-ABS8,4-ABS8 V,Reactive Gas,Rich,29.93
+Pure Blind,G8-D09,4-ABS8,4-ABS8 V,Coolant,Medium,15.86
+Pure Blind,G8-D09,4-ABS8,4-ABS8 V,Ionic Solutions,Medium,8.61
+Pure Blind,G8-D09,4-ABS8,4-ABS8 VI,Glossy Compound,Rich,32.91
+Pure Blind,G8-D09,4-ABS8,4-ABS8 VI,Reactive Gas,Rich,30.26
+Pure Blind,G8-D09,4-ABS8,4-ABS8 VI,Polyaramids,Medium,14.06
+Pure Blind,G8-D09,4-ABS8,4-ABS8 VI,Coolant,Medium,16.90
+Pure Blind,G8-D09,4-ABS8,4-ABS8 VI,Ionic Solutions,Medium,9.45
+Pure Blind,G8-D09,4-ABS8,4-ABS8 VII,Industrial Fibers,Rich,7.10
+Pure Blind,G8-D09,4-ABS8,4-ABS8 VII,Coolant,Rich,18.19
+Pure Blind,G8-D09,4-ABS8,4-ABS8 VII,Condensates,Medium,16.98
+Pure Blind,G8-D09,4-ABS8,4-ABS8 VII,Liquid Ozone,Poor,24.31
+Pure Blind,304Z-R,7RM-N0,7RM-N0 I,Industrial Fibers,Medium,5.13
+Pure Blind,304Z-R,7RM-N0,7RM-N0 I,Supertensile Plastics,Poor,11.71
+Pure Blind,304Z-R,7RM-N0,7RM-N0 I,Silicate Glass,Medium,11.61
+Pure Blind,304Z-R,7RM-N0,7RM-N0 I,Plasmoids,Medium,1.41
+Pure Blind,304Z-R,7RM-N0,7RM-N0 II,Toxic Metals,Medium,5.25
+Pure Blind,304Z-R,7RM-N0,7RM-N0 II,Industrial Fibers,Poor,4.62
+Pure Blind,304Z-R,7RM-N0,7RM-N0 II,Supertensile Plastics,Medium,15.44
+Pure Blind,304Z-R,7RM-N0,7RM-N0 II,Plasmoids,Medium,1.45
+Pure Blind,304Z-R,7RM-N0,7RM-N0 III,Gleaming Alloy,Medium,23.28
+Pure Blind,304Z-R,7RM-N0,7RM-N0 III,Noble Gas,Medium,25.14
+Pure Blind,304Z-R,7RM-N0,7RM-N0 III,Noble Metals,Perfect,33.80
+Pure Blind,304Z-R,7RM-N0,7RM-N0 IV,Lustering Alloy,Medium,19.54
+Pure Blind,304Z-R,7RM-N0,7RM-N0 IV,Precious Alloy,Poor,17.38
+Pure Blind,304Z-R,7RM-N0,7RM-N0 IV,Toxic Metals,Poor,4.50
+Pure Blind,304Z-R,7RM-N0,7RM-N0 IV,Supertensile Plastics,Poor,11.85
+Pure Blind,304Z-R,7RM-N0,7RM-N0 V,Lustering Alloy,Rich,27.82
+Pure Blind,304Z-R,7RM-N0,7RM-N0 V,Sheen Compound,Medium,21.66
+Pure Blind,304Z-R,7RM-N0,7RM-N0 V,Reactive Gas,Medium,19.12
+Pure Blind,304Z-R,7RM-N0,7RM-N0 V,Reactive Metals,Rich,8.12
+Pure Blind,304Z-R,7RM-N0,7RM-N0 V,Coolant,Poor,11.61
+Pure Blind,304Z-R,7RM-N0,7RM-N0 VI,Lustering Alloy,Poor,12.82
+Pure Blind,304Z-R,7RM-N0,7RM-N0 VI,Supertensile Plastics,Medium,15.84
+Pure Blind,304Z-R,7RM-N0,7RM-N0 VI,Oxygen Isotopes,Poor,2.29
+Pure Blind,304Z-R,7RM-N0,7RM-N0 VI,Plasmoids,Poor,1.11
+Pure Blind,304Z-R,7RM-N0,7RM-N0 VII,Lustering Alloy,Medium,22.96
+Pure Blind,304Z-R,7RM-N0,7RM-N0 VII,Supertensile Plastics,Medium,14.55
+Pure Blind,304Z-R,7RM-N0,7RM-N0 VII,Oxygen Isotopes,Poor,2.00
+Pure Blind,304Z-R,7RM-N0,7RM-N0 VII,Plasmoids,Medium,1.18
+Pure Blind,304Z-R,7RM-N0,7RM-N0 VIII,Sheen Compound,Rich,31.08
+Pure Blind,304Z-R,7RM-N0,7RM-N0 VIII,Reactive Gas,Rich,29.12
+Pure Blind,304Z-R,7RM-N0,7RM-N0 VIII,Noble Gas,Poor,17.24
+Pure Blind,304Z-R,7RM-N0,7RM-N0 VIII,Reactive Metals,Perfect,8.55
+Pure Blind,304Z-R,7RM-N0,7RM-N0 VIII,Polyaramids,Medium,12.59
+Pure Blind,304Z-R,7RM-N0,7RM-N0 IX,Motley Compound,Rich,26.44
+Pure Blind,304Z-R,7RM-N0,7RM-N0 IX,Condensates,Poor,10.79
+Pure Blind,304Z-R,7RM-N0,7RM-N0 IX,Suspended Plasma,Medium,80.57
+Pure Blind,304Z-R,7RM-N0,7RM-N0 IX,Liquid Ozone,Rich,34.15
+Pure Blind,304Z-R,7RM-N0,7RM-N0 X,Gleaming Alloy,Medium,24.64
+Pure Blind,304Z-R,7RM-N0,7RM-N0 X,Reactive Metals,Medium,5.95
+Pure Blind,304Z-R,7RM-N0,7RM-N0 X,Construction Blocks,Poor,18.24
+Pure Blind,304Z-R,7RM-N0,7RM-N0 X,Nanites,Medium,6.23
+Pure Blind,304Z-R,S-MDYI,S-MDYI I,Lustering Alloy,Medium,20.24
+Pure Blind,304Z-R,S-MDYI,S-MDYI I,Dark Compound,Poor,16.96
+Pure Blind,304Z-R,S-MDYI,S-MDYI I,Supertensile Plastics,Poor,12.08
+Pure Blind,304Z-R,S-MDYI,S-MDYI I,Silicate Glass,Poor,7.64
+Pure Blind,304Z-R,S-MDYI,S-MDYI II,Crystal Compound,Rich,31.52
+Pure Blind,304Z-R,S-MDYI,S-MDYI II,Reactive Metals,Poor,4.37
+Pure Blind,304Z-R,S-MDYI,S-MDYI II,Supertensile Plastics,Perfect,21.57
+Pure Blind,304Z-R,S-MDYI,S-MDYI II,Nanites,Rich,7.08
+Pure Blind,304Z-R,S-MDYI,S-MDYI III,Dark Compound,Poor,13.48
+Pure Blind,304Z-R,S-MDYI,S-MDYI III,Supertensile Plastics,Poor,11.79
+Pure Blind,304Z-R,S-MDYI,S-MDYI III,Oxygen Isotopes,Poor,2.16
+Pure Blind,304Z-R,S-MDYI,S-MDYI III,Plasmoids,Medium,1.17
+Pure Blind,304Z-R,S-MDYI,S-MDYI IV,Lustering Alloy,Poor,18.82
+Pure Blind,304Z-R,S-MDYI,S-MDYI IV,Dark Compound,Poor,14.92
+Pure Blind,304Z-R,S-MDYI,S-MDYI IV,Supertensile Plastics,Poor,11.48
+Pure Blind,304Z-R,S-MDYI,S-MDYI IV,Oxygen Isotopes,Medium,3.69
+Pure Blind,304Z-R,S-MDYI,S-MDYI V,Lustering Alloy,Poor,16.86
+Pure Blind,304Z-R,S-MDYI,S-MDYI V,Reactive Gas,Medium,21.02
+Pure Blind,304Z-R,S-MDYI,S-MDYI V,Base Metals,Rich,8.25
+Pure Blind,304Z-R,S-MDYI,S-MDYI V,Polyaramids,Medium,16.69
+Pure Blind,304Z-R,S-MDYI,S-MDYI V,Coolant,Medium,16.31
+Pure Blind,304Z-R,S-MDYI,S-MDYI VI,Lustering Alloy,Poor,18.32
+Pure Blind,304Z-R,S-MDYI,S-MDYI VI,Glossy Compound,Medium,25.28
+Pure Blind,304Z-R,S-MDYI,S-MDYI VI,Reactive Gas,Poor,16.56
+Pure Blind,304Z-R,S-MDYI,S-MDYI VI,Base Metals,Poor,4.32
+Pure Blind,304Z-R,S-MDYI,S-MDYI VI,Ionic Solutions,Rich,11.70
+Pure Blind,304Z-R,S-MDYI,S-MDYI VII,Lustering Alloy,Medium,22.10
+Pure Blind,304Z-R,S-MDYI,S-MDYI VII,Sheen Compound,Rich,31.64
+Pure Blind,304Z-R,S-MDYI,S-MDYI VII,Reactive Gas,Medium,19.92
+Pure Blind,304Z-R,S-MDYI,S-MDYI VII,Base Metals,Medium,6.37
+Pure Blind,304Z-R,S-MDYI,S-MDYI VII,Coolant,Medium,15.20
+Pure Blind,304Z-R,S-MDYI,S-MDYI VIII,Precious Alloy,Medium,22.82
+Pure Blind,304Z-R,S-MDYI,S-MDYI VIII,Coolant,Medium,15.71
+Pure Blind,304Z-R,S-MDYI,S-MDYI VIII,Condensates,Medium,15.19
+Pure Blind,304Z-R,S-MDYI,S-MDYI VIII,Liquid Ozone,Rich,32.67
+Pure Blind,304Z-R,ZKYV-W,ZKYV-W I,Precious Alloy,Medium,22.92
+Pure Blind,304Z-R,ZKYV-W,ZKYV-W I,Supertensile Plastics,Medium,14.69
+Pure Blind,304Z-R,ZKYV-W,ZKYV-W I,Construction Blocks,Medium,23.18
+Pure Blind,304Z-R,ZKYV-W,ZKYV-W I,Oxygen Isotopes,Poor,2.17
+Pure Blind,304Z-R,ZKYV-W,ZKYV-W II,Base Metals,Medium,5.57
+Pure Blind,304Z-R,ZKYV-W,ZKYV-W II,Industrial Fibers,Poor,3.87
+Pure Blind,304Z-R,ZKYV-W,ZKYV-W II,Supertensile Plastics,Medium,15.99
+Pure Blind,304Z-R,ZKYV-W,ZKYV-W II,Silicate Glass,Medium,11.14
+Pure Blind,304Z-R,ZKYV-W,ZKYV-W III,Lustering Alloy,Medium,22.34
+Pure Blind,304Z-R,ZKYV-W,ZKYV-W III,Precious Alloy,Poor,15.54
+Pure Blind,304Z-R,ZKYV-W,ZKYV-W III,Base Metals,Medium,5.86
+Pure Blind,304Z-R,ZKYV-W,ZKYV-W III,Supertensile Plastics,Medium,16.28
+Pure Blind,304Z-R,ZKYV-W,ZKYV-W IV,Opulent Compound,Medium,20.04
+Pure Blind,304Z-R,ZKYV-W,ZKYV-W IV,Industrial Fibers,Rich,7.15
+Pure Blind,304Z-R,ZKYV-W,ZKYV-W IV,Smartfab Units,Perfect,22.24
+Pure Blind,304Z-R,ZKYV-W,ZKYV-W IV,Heavy Water,Medium,199.20
+Pure Blind,304Z-R,ZKYV-W,ZKYV-W IV,Liquid Ozone,Perfect,42.77
+Pure Blind,304Z-R,ZKYV-W,ZKYV-W V,Fiber Composite,Medium,24.32
+Pure Blind,304Z-R,ZKYV-W,ZKYV-W V,Glossy Compound,Rich,30.16
+Pure Blind,304Z-R,ZKYV-W,ZKYV-W V,Reactive Gas,Medium,19.84
+Pure Blind,304Z-R,ZKYV-W,ZKYV-W V,Coolant,Medium,14.45
+Pure Blind,304Z-R,ZKYV-W,ZKYV-W V,Ionic Solutions,Rich,11.54
+Pure Blind,304Z-R,ZKYV-W,ZKYV-W VI,Sheen Compound,Medium,21.38
+Pure Blind,304Z-R,ZKYV-W,ZKYV-W VI,Fiber Composite,Medium,22.96
+Pure Blind,304Z-R,ZKYV-W,ZKYV-W VI,Glossy Compound,Medium,23.80
+Pure Blind,304Z-R,ZKYV-W,ZKYV-W VI,Reactive Gas,Medium,19.06
+Pure Blind,304Z-R,ZKYV-W,ZKYV-W VI,Base Metals,Rich,6.70
+Pure Blind,304Z-R,ZKYV-W,ZKYV-W VII,Lustering Alloy,Poor,18.62
+Pure Blind,304Z-R,ZKYV-W,ZKYV-W VII,Reactive Gas,Rich,29.72
+Pure Blind,304Z-R,ZKYV-W,ZKYV-W VII,Polyaramids,Rich,19.60
+Pure Blind,304Z-R,ZKYV-W,ZKYV-W VII,Coolant,Medium,16.52
+Pure Blind,304Z-R,ZKYV-W,ZKYV-W VII,Ionic Solutions,Rich,11.18
+Pure Blind,304Z-R,ZKYV-W,ZKYV-W VIII,Coolant,Rich,17.63
+Pure Blind,304Z-R,ZKYV-W,ZKYV-W VIII,Silicate Glass,Perfect,17.05
+Pure Blind,304Z-R,ZKYV-W,ZKYV-W VIII,Heavy Water,Rich,253.60
+Pure Blind,304Z-R,ZKYV-W,ZKYV-W VIII,Liquid Ozone,Medium,28.73
+Pure Blind,304Z-R,ZKYV-W,ZKYV-W VIII,Ionic Solutions,Medium,8.80
+Pure Blind,304Z-R,F-NMX6,F-NMX6 I,Industrial Fibers,Poor,3.59
+Pure Blind,304Z-R,F-NMX6,F-NMX6 I,Supertensile Plastics,Medium,14.56
+Pure Blind,304Z-R,F-NMX6,F-NMX6 I,Construction Blocks,Poor,17.52
+Pure Blind,304Z-R,F-NMX6,F-NMX6 I,Oxygen Isotopes,Poor,2.63
+Pure Blind,304Z-R,F-NMX6,F-NMX6 II,Gleaming Alloy,Medium,19.50
+Pure Blind,304Z-R,F-NMX6,F-NMX6 II,Noble Metals,Poor,16.92
+Pure Blind,304Z-R,F-NMX6,F-NMX6 II,Plasmoids,Rich,1.59
+Pure Blind,304Z-R,F-NMX6,F-NMX6 III,Sheen Compound,Rich,26.14
+Pure Blind,304Z-R,F-NMX6,F-NMX6 III,Glossy Compound,Medium,22.72
+Pure Blind,304Z-R,F-NMX6,F-NMX6 III,Reactive Gas,Poor,17.08
+Pure Blind,304Z-R,F-NMX6,F-NMX6 III,Noble Gas,Medium,18.88
+Pure Blind,304Z-R,F-NMX6,F-NMX6 III,Ionic Solutions,Rich,12.51
+Pure Blind,304Z-R,F-NMX6,F-NMX6 IV,Glossy Compound,Medium,20.82
+Pure Blind,304Z-R,F-NMX6,F-NMX6 IV,Reactive Gas,Poor,17.02
+Pure Blind,304Z-R,F-NMX6,F-NMX6 IV,Base Metals,Perfect,8.74
+Pure Blind,304Z-R,F-NMX6,F-NMX6 IV,Polyaramids,Rich,19.56
+Pure Blind,304Z-R,F-NMX6,F-NMX6 IV,Ionic Solutions,Medium,8.94
+Pure Blind,304Z-R,F-NMX6,F-NMX6 V,Lustering Alloy,Rich,28.84
+Pure Blind,304Z-R,F-NMX6,F-NMX6 V,Sheen Compound,Perfect,32.22
+Pure Blind,304Z-R,F-NMX6,F-NMX6 V,Reactive Gas,Poor,18.70
+Pure Blind,304Z-R,F-NMX6,F-NMX6 V,Base Metals,Medium,5.91
+Pure Blind,304Z-R,F-NMX6,F-NMX6 V,Ionic Solutions,Poor,6.90
+Pure Blind,304Z-R,F-NMX6,F-NMX6 VI,Gleaming Alloy,Medium,24.54
+Pure Blind,304Z-R,F-NMX6,F-NMX6 VI,Oxygen Isotopes,Medium,3.20
+Pure Blind,304Z-R,F-NMX6,F-NMX6 VI,Plasmoids,Rich,1.65
+Pure Blind,304Z-R,F-NMX6,F-NMX6 VII,Motley Compound,Medium,22.90
+Pure Blind,304Z-R,F-NMX6,F-NMX6 VII,Supertensile Plastics,Poor,10.47
+Pure Blind,304Z-R,F-NMX6,F-NMX6 VII,Condensates,Medium,14.65
+Pure Blind,304Z-R,F-NMX6,F-NMX6 VII,Suspended Plasma,Medium,91.08
+Pure Blind,304Z-R,F-NMX6,F-NMX6 VIII,Gleaming Alloy,Medium,24.34
+Pure Blind,304Z-R,F-NMX6,F-NMX6 VIII,Noble Gas,Rich,31.56
+Pure Blind,304Z-R,F-NMX6,F-NMX6 VIII,Polyaramids,Poor,10.92
+Pure Blind,304Z-R,GA-P6C,GA-P6C I,Lustering Alloy,Poor,15.64
+Pure Blind,304Z-R,GA-P6C,GA-P6C I,Dark Compound,Medium,23.60
+Pure Blind,304Z-R,GA-P6C,GA-P6C I,Supertensile Plastics,Poor,8.45
+Pure Blind,304Z-R,GA-P6C,GA-P6C I,Silicate Glass,Medium,9.96
+Pure Blind,304Z-R,GA-P6C,GA-P6C II,Gleaming Alloy,Poor,16.14
+Pure Blind,304Z-R,GA-P6C,GA-P6C II,Polyaramids,Medium,12.91
+Pure Blind,304Z-R,GA-P6C,GA-P6C II,Construction Blocks,Perfect,31.80
+Pure Blind,304Z-R,GA-P6C,GA-P6C III,Lustering Alloy,Medium,19.28
+Pure Blind,304Z-R,GA-P6C,GA-P6C III,Industrial Fibers,Poor,3.71
+Pure Blind,304Z-R,GA-P6C,GA-P6C III,Supertensile Plastics,Poor,8.31
+Pure Blind,304Z-R,GA-P6C,GA-P6C III,Silicate Glass,Poor,9.21
+Pure Blind,304Z-R,GA-P6C,GA-P6C IV,Lustering Alloy,Poor,17.14
+Pure Blind,304Z-R,GA-P6C,GA-P6C IV,Fiber Composite,Rich,31.68
+Pure Blind,304Z-R,GA-P6C,GA-P6C IV,Reactive Gas,Rich,26.74
+Pure Blind,304Z-R,GA-P6C,GA-P6C IV,Polyaramids,Medium,14.13
+Pure Blind,304Z-R,GA-P6C,GA-P6C IV,Ionic Solutions,Rich,10.52
+Pure Blind,304Z-R,GA-P6C,GA-P6C V,Precious Alloy,Medium,22.50
+Pure Blind,304Z-R,GA-P6C,GA-P6C V,Toxic Metals,Poor,3.74
+Pure Blind,304Z-R,GA-P6C,GA-P6C V,Supertensile Plastics,Poor,10.49
+Pure Blind,304Z-R,GA-P6C,GA-P6C V,Construction Blocks,Medium,21.40
+Pure Blind,304Z-R,GA-P6C,GA-P6C VI,Condensed Alloy,Perfect,34.68
+Pure Blind,304Z-R,GA-P6C,GA-P6C VI,Polyaramids,Poor,12.03
+Pure Blind,304Z-R,GA-P6C,GA-P6C VI,Coolant,Poor,12.41
+Pure Blind,304Z-R,GA-P6C,GA-P6C VI,Liquid Ozone,Medium,27.00
+Pure Blind,304Z-R,GA-P6C,GA-P6C VI,Ionic Solutions,Rich,10.39
+Pure Blind,304Z-R,GA-P6C,GA-P6C VII,Fiber Composite,Perfect,31.86
+Pure Blind,304Z-R,GA-P6C,GA-P6C VII,Reactive Gas,Rich,26.18
+Pure Blind,304Z-R,GA-P6C,GA-P6C VII,Reactive Metals,Medium,4.97
+Pure Blind,304Z-R,GA-P6C,GA-P6C VII,Polyaramids,Medium,16.85
+Pure Blind,304Z-R,GA-P6C,GA-P6C VII,Coolant,Rich,19.03
+Pure Blind,304Z-R,GA-P6C,GA-P6C VIII,Lustering Alloy,Rich,26.24
+Pure Blind,304Z-R,GA-P6C,GA-P6C VIII,Sheen Compound,Perfect,32.80
+Pure Blind,304Z-R,GA-P6C,GA-P6C VIII,Reactive Gas,Medium,23.32
+Pure Blind,304Z-R,GA-P6C,GA-P6C VIII,Polyaramids,Rich,18.47
+Pure Blind,304Z-R,GA-P6C,GA-P6C VIII,Ionic Solutions,Medium,8.49
+Pure Blind,304Z-R,FWA-4V,FWA-4V I,Lustering Alloy,Medium,23.94
+Pure Blind,304Z-R,FWA-4V,FWA-4V I,Dark Compound,Poor,17.44
+Pure Blind,304Z-R,FWA-4V,FWA-4V I,Toxic Metals,Medium,5.50
+Pure Blind,304Z-R,FWA-4V,FWA-4V I,Supertensile Plastics,Medium,15.43
+Pure Blind,304Z-R,FWA-4V,FWA-4V II,Industrial Fibers,Poor,3.97
+Pure Blind,304Z-R,FWA-4V,FWA-4V II,Supertensile Plastics,Medium,14.13
+Pure Blind,304Z-R,FWA-4V,FWA-4V II,Silicate Glass,Poor,9.11
+Pure Blind,304Z-R,FWA-4V,FWA-4V II,Plasmoids,Poor,0.91
+Pure Blind,304Z-R,FWA-4V,FWA-4V III,Sheen Compound,Medium,24.56
+Pure Blind,304Z-R,FWA-4V,FWA-4V III,Reactive Gas,Poor,18.56
+Pure Blind,304Z-R,FWA-4V,FWA-4V III,Base Metals,Medium,5.02
+Pure Blind,304Z-R,FWA-4V,FWA-4V III,Coolant,Rich,18.49
+Pure Blind,304Z-R,FWA-4V,FWA-4V III,Ionic Solutions,Rich,11.60
+Pure Blind,304Z-R,FWA-4V,FWA-4V IV,Sheen Compound,Rich,28.76
+Pure Blind,304Z-R,FWA-4V,FWA-4V IV,Fiber Composite,Perfect,31.90
+Pure Blind,304Z-R,FWA-4V,FWA-4V IV,Reactive Gas,Medium,21.78
+Pure Blind,304Z-R,FWA-4V,FWA-4V IV,Reactive Metals,Rich,6.73
+Pure Blind,304Z-R,FWA-4V,FWA-4V IV,Ionic Solutions,Perfect,13.00
+Pure Blind,304Z-R,FWA-4V,FWA-4V V,Precious Alloy,Medium,21.58
+Pure Blind,304Z-R,FWA-4V,FWA-4V V,Toxic Metals,Poor,4.69
+Pure Blind,304Z-R,FWA-4V,FWA-4V V,Supertensile Plastics,Medium,13.00
+Pure Blind,304Z-R,FWA-4V,FWA-4V V,Silicate Glass,Medium,10.00
+Pure Blind,304Z-R,FWA-4V,FWA-4V VI,Lustering Alloy,Medium,21.60
+Pure Blind,304Z-R,FWA-4V,FWA-4V VI,Supertensile Plastics,Medium,13.81
+Pure Blind,304Z-R,FWA-4V,FWA-4V VI,Coolant,Rich,17.73
+Pure Blind,304Z-R,FWA-4V,FWA-4V VI,Condensates,Poor,12.53
+Pure Blind,304Z-R,RZC-16,RZC-16 I,Base Metals,Medium,5.04
+Pure Blind,304Z-R,RZC-16,RZC-16 I,Supertensile Plastics,Poor,10.21
+Pure Blind,304Z-R,RZC-16,RZC-16 I,Silicate Glass,Medium,11.10
+Pure Blind,304Z-R,RZC-16,RZC-16 I,Oxygen Isotopes,Poor,2.75
+Pure Blind,304Z-R,RZC-16,RZC-16 II,Base Metals,Poor,4.15
+Pure Blind,304Z-R,RZC-16,RZC-16 II,Supertensile Plastics,Poor,9.93
+Pure Blind,304Z-R,RZC-16,RZC-16 II,Construction Blocks,Medium,19.82
+Pure Blind,304Z-R,RZC-16,RZC-16 II,Silicate Glass,Poor,9.05
+Pure Blind,304Z-R,RZC-16,RZC-16 III,Fiber Composite,Medium,25.00
+Pure Blind,304Z-R,RZC-16,RZC-16 III,Glossy Compound,Poor,18.74
+Pure Blind,304Z-R,RZC-16,RZC-16 III,Reactive Gas,Rich,25.38
+Pure Blind,304Z-R,RZC-16,RZC-16 III,Noble Gas,Medium,21.54
+Pure Blind,304Z-R,RZC-16,RZC-16 III,Base Metals,Medium,5.38
+Pure Blind,304Z-R,RZC-16,RZC-16 IV,Sheen Compound,Perfect,31.96
+Pure Blind,304Z-R,RZC-16,RZC-16 IV,Fiber Composite,Medium,24.64
+Pure Blind,304Z-R,RZC-16,RZC-16 IV,Reactive Gas,Perfect,32.58
+Pure Blind,304Z-R,RZC-16,RZC-16 IV,Reactive Metals,Poor,4.65
+Pure Blind,304Z-R,RZC-16,RZC-16 IV,Coolant,Medium,14.37
+Pure Blind,304Z-R,RZC-16,RZC-16 V,Lustering Alloy,Rich,27.26
+Pure Blind,304Z-R,RZC-16,RZC-16 V,Motley Compound,Medium,24.88
+Pure Blind,304Z-R,RZC-16,RZC-16 V,Condensates,Rich,19.63
+Pure Blind,304Z-R,RZC-16,RZC-16 V,Liquid Ozone,Medium,25.23
+Pure Blind,304Z-R,RZC-16,RZC-16 VI,Base Metals,Medium,6.11
+Pure Blind,304Z-R,RZC-16,RZC-16 VI,Coolant,Medium,12.59
+Pure Blind,304Z-R,RZC-16,RZC-16 VI,Condensates,Rich,18.35
+Pure Blind,304Z-R,RZC-16,RZC-16 VI,Suspended Plasma,Poor,57.31
+Pure Blind,304Z-R,RZC-16,RZC-16 VII,Lustering Alloy,Medium,23.94
+Pure Blind,304Z-R,RZC-16,RZC-16 VII,Dark Compound,Medium,22.76
+Pure Blind,304Z-R,RZC-16,RZC-16 VII,Supertensile Plastics,Poor,8.81
+Pure Blind,304Z-R,RZC-16,RZC-16 VII,Construction Blocks,Medium,21.36
+Pure Blind,K-QUVW,RD-G2R,RD-G2R I,Base Metals,Poor,4.70
+Pure Blind,K-QUVW,RD-G2R,RD-G2R I,Supertensile Plastics,Poor,10.00
+Pure Blind,K-QUVW,RD-G2R,RD-G2R I,Construction Blocks,Medium,24.32
+Pure Blind,K-QUVW,RD-G2R,RD-G2R I,Oxygen Isotopes,Poor,2.50
+Pure Blind,K-QUVW,RD-G2R,RD-G2R II,Dark Compound,Poor,15.22
+Pure Blind,K-QUVW,RD-G2R,RD-G2R II,Supertensile Plastics,Poor,12.89
+Pure Blind,K-QUVW,RD-G2R,RD-G2R II,Construction Blocks,Poor,18.65
+Pure Blind,K-QUVW,RD-G2R,RD-G2R II,Oxygen Isotopes,Poor,2.35
+Pure Blind,K-QUVW,RD-G2R,RD-G2R III,Gleaming Alloy,Medium,25.03
+Pure Blind,K-QUVW,RD-G2R,RD-G2R III,Polyaramids,Rich,18.58
+Pure Blind,K-QUVW,RD-G2R,RD-G2R III,Oxygen Isotopes,Perfect,5.12
+Pure Blind,K-QUVW,RD-G2R,RD-G2R IV,Condensed Alloy,Medium,23.20
+Pure Blind,K-QUVW,RD-G2R,RD-G2R IV,Fiber Composite,Rich,31.96
+Pure Blind,K-QUVW,RD-G2R,RD-G2R IV,Opulent Compound,Rich,28.16
+Pure Blind,K-QUVW,RD-G2R,RD-G2R IV,Base Metals,Perfect,9.56
+Pure Blind,K-QUVW,RD-G2R,RD-G2R IV,Liquid Ozone,Perfect,49.17
+Pure Blind,K-QUVW,RD-G2R,RD-G2R V,Precious Alloy,Medium,22.89
+Pure Blind,K-QUVW,RD-G2R,RD-G2R V,Supertensile Plastics,Poor,12.95
+Pure Blind,K-QUVW,RD-G2R,RD-G2R V,Oxygen Isotopes,Medium,3.87
+Pure Blind,K-QUVW,RD-G2R,RD-G2R V,Plasmoids,Poor,1.09
+Pure Blind,K-QUVW,RD-G2R,RD-G2R VI,Fiber Composite,Medium,23.56
+Pure Blind,K-QUVW,RD-G2R,RD-G2R VI,Reactive Gas,Rich,32.26
+Pure Blind,K-QUVW,RD-G2R,RD-G2R VI,Reactive Metals,Medium,5.23
+Pure Blind,K-QUVW,RD-G2R,RD-G2R VI,Coolant,Rich,21.52
+Pure Blind,K-QUVW,RD-G2R,RD-G2R VI,Ionic Solutions,Medium,8.31
+Pure Blind,K-QUVW,RD-G2R,RD-G2R VII,Fiber Composite,Medium,23.94
+Pure Blind,K-QUVW,RD-G2R,RD-G2R VII,Base Metals,Rich,8.41
+Pure Blind,K-QUVW,RD-G2R,RD-G2R VII,Condensates,Perfect,24.95
+Pure Blind,K-QUVW,RD-G2R,RD-G2R VII,Smartfab Units,Medium,13.36
+Pure Blind,K-QUVW,RD-G2R,RD-G2R VII,Liquid Ozone,Medium,31.05
+Pure Blind,K-QUVW,RD-G2R,RD-G2R VIII,Fiber Composite,Rich,31.48
+Pure Blind,K-QUVW,RD-G2R,RD-G2R VIII,Base Metals,Perfect,9.77
+Pure Blind,K-QUVW,RD-G2R,RD-G2R VIII,Condensates,Perfect,24.82
+Pure Blind,K-QUVW,RD-G2R,RD-G2R VIII,Heavy Water,Rich,321.72
+Pure Blind,K-QUVW,RD-G2R,RD-G2R VIII,Liquid Ozone,Medium,26.62
+Pure Blind,K-QUVW,UC3H-Y,UC3H-Y I,Precious Alloy,Poor,16.04
+Pure Blind,K-QUVW,UC3H-Y,UC3H-Y I,Dark Compound,Medium,19.00
+Pure Blind,K-QUVW,UC3H-Y,UC3H-Y I,Supertensile Plastics,Poor,11.79
+Pure Blind,K-QUVW,UC3H-Y,UC3H-Y I,Oxygen Isotopes,Poor,2.53
+Pure Blind,K-QUVW,UC3H-Y,UC3H-Y II,Lustering Alloy,Medium,22.32
+Pure Blind,K-QUVW,UC3H-Y,UC3H-Y II,Reactive Gas,Rich,30.16
+Pure Blind,K-QUVW,UC3H-Y,UC3H-Y II,Noble Gas,Medium,19.96
+Pure Blind,K-QUVW,UC3H-Y,UC3H-Y II,Reactive Metals,Rich,7.44
+Pure Blind,K-QUVW,UC3H-Y,UC3H-Y II,Coolant,Poor,12.56
+Pure Blind,K-QUVW,UC3H-Y,UC3H-Y III,Lustering Alloy,Rich,29.64
+Pure Blind,K-QUVW,UC3H-Y,UC3H-Y III,Sheen Compound,Rich,28.80
+Pure Blind,K-QUVW,UC3H-Y,UC3H-Y III,Reactive Gas,Medium,22.96
+Pure Blind,K-QUVW,UC3H-Y,UC3H-Y III,Base Metals,Medium,6.05
+Pure Blind,K-QUVW,UC3H-Y,UC3H-Y III,Coolant,Poor,11.31
+Pure Blind,K-QUVW,UC3H-Y,UC3H-Y IV,Dark Compound,Poor,16.90
+Pure Blind,K-QUVW,UC3H-Y,UC3H-Y IV,Supertensile Plastics,Medium,12.84
+Pure Blind,K-QUVW,UC3H-Y,UC3H-Y IV,Construction Blocks,Medium,19.02
+Pure Blind,K-QUVW,UC3H-Y,UC3H-Y IV,Silicate Glass,Poor,8.85
+Pure Blind,K-QUVW,UC3H-Y,UC3H-Y V,Sheen Compound,Medium,24.46
+Pure Blind,K-QUVW,UC3H-Y,UC3H-Y V,Glossy Compound,Medium,23.46
+Pure Blind,K-QUVW,UC3H-Y,UC3H-Y V,Reactive Gas,Medium,24.14
+Pure Blind,K-QUVW,UC3H-Y,UC3H-Y V,Reactive Metals,Rich,7.23
+Pure Blind,K-QUVW,UC3H-Y,UC3H-Y V,Coolant,Rich,18.49
+Pure Blind,K-QUVW,UC3H-Y,UC3H-Y VI,Dark Compound,Poor,18.30
+Pure Blind,K-QUVW,UC3H-Y,UC3H-Y VI,Industrial Fibers,Poor,4.95
+Pure Blind,K-QUVW,UC3H-Y,UC3H-Y VI,Supertensile Plastics,Poor,8.45
+Pure Blind,K-QUVW,UC3H-Y,UC3H-Y VI,Construction Blocks,Medium,20.74
+Pure Blind,K-QUVW,UC3H-Y,UC3H-Y VII,Motley Compound,Rich,28.22
+Pure Blind,K-QUVW,UC3H-Y,UC3H-Y VII,Base Metals,Rich,7.71
+Pure Blind,K-QUVW,UC3H-Y,UC3H-Y VII,Supertensile Plastics,Rich,19.67
+Pure Blind,K-QUVW,UC3H-Y,UC3H-Y VII,Condensates,Medium,12.84
+Pure Blind,K-QUVW,6GWE-A,6GWE-A I,Base Metals,Medium,6.39
+Pure Blind,K-QUVW,6GWE-A,6GWE-A I,Industrial Fibers,Medium,5.62
+Pure Blind,K-QUVW,6GWE-A,6GWE-A I,Supertensile Plastics,Poor,10.23
+Pure Blind,K-QUVW,6GWE-A,6GWE-A I,Oxygen Isotopes,Poor,2.24
+Pure Blind,K-QUVW,6GWE-A,6GWE-A II,Precious Alloy,Medium,24.54
+Pure Blind,K-QUVW,6GWE-A,6GWE-A II,Base Metals,Poor,3.59
+Pure Blind,K-QUVW,6GWE-A,6GWE-A II,Supertensile Plastics,Medium,16.21
+Pure Blind,K-QUVW,6GWE-A,6GWE-A II,Plasmoids,Medium,1.13
+Pure Blind,K-QUVW,6GWE-A,6GWE-A III,Lucent Compound,Perfect,35.24
+Pure Blind,K-QUVW,6GWE-A,6GWE-A III,Dark Compound,Medium,21.36
+Pure Blind,K-QUVW,6GWE-A,6GWE-A III,Heavy Metals,Medium,24.34
+Pure Blind,K-QUVW,6GWE-A,6GWE-A III,Condensates,Medium,16.07
+Pure Blind,K-QUVW,6GWE-A,6GWE-A III,Nanites,Medium,6.53
+Pure Blind,K-QUVW,6GWE-A,6GWE-A IV,Gleaming Alloy,Medium,24.62
+Pure Blind,K-QUVW,6GWE-A,6GWE-A IV,Heavy Metals,Poor,16.96
+Pure Blind,K-QUVW,6GWE-A,6GWE-A IV,Smartfab Units,Perfect,21.95
+Pure Blind,K-QUVW,6GWE-A,6GWE-A V,Lustering Alloy,Perfect,32.56
+Pure Blind,K-QUVW,6GWE-A,6GWE-A V,Sheen Compound,Rich,25.94
+Pure Blind,K-QUVW,6GWE-A,6GWE-A V,Glossy Compound,Perfect,33.00
+Pure Blind,K-QUVW,6GWE-A,6GWE-A V,Reactive Gas,Medium,20.94
+Pure Blind,K-QUVW,6GWE-A,6GWE-A V,Ionic Solutions,Rich,11.46
+Pure Blind,K-QUVW,6GWE-A,6GWE-A VI,Reactive Gas,Poor,18.18
+Pure Blind,K-QUVW,6GWE-A,6GWE-A VI,Noble Gas,Rich,28.08
+Pure Blind,K-QUVW,6GWE-A,6GWE-A VI,Base Metals,Rich,6.97
+Pure Blind,K-QUVW,6GWE-A,6GWE-A VI,Polyaramids,Perfect,21.60
+Pure Blind,K-QUVW,6GWE-A,6GWE-A VI,Coolant,Rich,18.75
+Pure Blind,K-QUVW,6GWE-A,6GWE-A VII,Lustering Alloy,Medium,20.62
+Pure Blind,K-QUVW,6GWE-A,6GWE-A VII,Reactive Gas,Rich,26.86
+Pure Blind,K-QUVW,6GWE-A,6GWE-A VII,Reactive Metals,Perfect,8.63
+Pure Blind,K-QUVW,6GWE-A,6GWE-A VII,Polyaramids,Medium,13.16
+Pure Blind,K-QUVW,6GWE-A,6GWE-A VII,Ionic Solutions,Medium,7.76
+Pure Blind,K-QUVW,6GWE-A,6GWE-A VIII,Sheen Compound,Perfect,31.92
+Pure Blind,K-QUVW,6GWE-A,6GWE-A VIII,Glossy Compound,Rich,28.80
+Pure Blind,K-QUVW,6GWE-A,6GWE-A VIII,Reactive Gas,Medium,24.10
+Pure Blind,K-QUVW,6GWE-A,6GWE-A VIII,Base Metals,Medium,5.41
+Pure Blind,K-QUVW,6GWE-A,6GWE-A VIII,Polyaramids,Rich,18.99
+Pure Blind,K-QUVW,6GWE-A,6GWE-A IX,Sheen Compound,Poor,17.98
+Pure Blind,K-QUVW,6GWE-A,6GWE-A IX,Glossy Compound,Perfect,33.18
+Pure Blind,K-QUVW,6GWE-A,6GWE-A IX,Reactive Gas,Rich,26.08
+Pure Blind,K-QUVW,6GWE-A,6GWE-A IX,Base Metals,Medium,6.07
+Pure Blind,K-QUVW,6GWE-A,6GWE-A IX,Ionic Solutions,Rich,12.02
+Pure Blind,K-QUVW,6GWE-A,6GWE-A X,Lustering Alloy,Perfect,32.50
+Pure Blind,K-QUVW,6GWE-A,6GWE-A X,Reactive Gas,Medium,19.40
+Pure Blind,K-QUVW,6GWE-A,6GWE-A X,Noble Gas,Medium,20.68
+Pure Blind,K-QUVW,6GWE-A,6GWE-A X,Reactive Metals,Medium,6.38
+Pure Blind,K-QUVW,6GWE-A,6GWE-A X,Polyaramids,Rich,17.24
+Pure Blind,K-QUVW,6GWE-A,6GWE-A XI,Glossy Compound,Poor,16.80
+Pure Blind,K-QUVW,6GWE-A,6GWE-A XI,Reactive Gas,Medium,23.70
+Pure Blind,K-QUVW,6GWE-A,6GWE-A XI,Noble Gas,Rich,27.42
+Pure Blind,K-QUVW,6GWE-A,6GWE-A XI,Reactive Metals,Medium,5.63
+Pure Blind,K-QUVW,6GWE-A,6GWE-A XI,Coolant,Poor,12.56
+Pure Blind,K-QUVW,6GWE-A,6GWE-A XII,Gleaming Alloy,Medium,21.02
+Pure Blind,K-QUVW,6GWE-A,6GWE-A XII,Reactive Metals,Medium,5.00
+Pure Blind,K-QUVW,6GWE-A,6GWE-A XII,Nanites,Poor,4.76
+Pure Blind,K-QUVW,6GWE-A,6GWE-A XII,Suspended Plasma,Medium,76.25
+Pure Blind,K-QUVW,J-OK0C,J-OK0C I,Gleaming Alloy,Medium,19.66
+Pure Blind,K-QUVW,J-OK0C,J-OK0C I,Heavy Metals,Rich,28.02
+Pure Blind,K-QUVW,J-OK0C,J-OK0C I,Smartfab Units,Medium,13.13
+Pure Blind,K-QUVW,J-OK0C,J-OK0C II,Crystal Compound,Perfect,32.46
+Pure Blind,K-QUVW,J-OK0C,J-OK0C II,Reactive Gas,Poor,17.10
+Pure Blind,K-QUVW,J-OK0C,J-OK0C II,Reactive Metals,Rich,8.34
+Pure Blind,K-QUVW,J-OK0C,J-OK0C II,Construction Blocks,Medium,18.88
+Pure Blind,K-QUVW,J-OK0C,J-OK0C III,Gleaming Alloy,Medium,21.14
+Pure Blind,K-QUVW,J-OK0C,J-OK0C III,Reactive Metals,Medium,6.09
+Pure Blind,K-QUVW,J-OK0C,J-OK0C III,Supertensile Plastics,Rich,16.88
+Pure Blind,K-QUVW,J-OK0C,J-OK0C III,Construction Blocks,Rich,25.34
+Pure Blind,K-QUVW,J-OK0C,J-OK0C IV,Sheen Compound,Medium,20.94
+Pure Blind,K-QUVW,J-OK0C,J-OK0C IV,Fiber Composite,Rich,29.66
+Pure Blind,K-QUVW,J-OK0C,J-OK0C IV,Reactive Gas,Rich,31.56
+Pure Blind,K-QUVW,J-OK0C,J-OK0C IV,Coolant,Medium,15.83
+Pure Blind,K-QUVW,J-OK0C,J-OK0C IV,Ionic Solutions,Medium,9.52
+Pure Blind,K-QUVW,J-OK0C,J-OK0C V,Lustering Alloy,Perfect,33.14
+Pure Blind,K-QUVW,J-OK0C,J-OK0C V,Sheen Compound,Perfect,31.98
+Pure Blind,K-QUVW,J-OK0C,J-OK0C V,Reactive Gas,Rich,27.34
+Pure Blind,K-QUVW,J-OK0C,J-OK0C V,Base Metals,Perfect,8.37
+Pure Blind,K-QUVW,J-OK0C,J-OK0C V,Polyaramids,Medium,15.00
+Pure Blind,K-QUVW,J-OK0C,J-OK0C VI,Lustering Alloy,Poor,17.74
+Pure Blind,K-QUVW,J-OK0C,J-OK0C VI,Supertensile Plastics,Poor,11.65
+Pure Blind,K-QUVW,J-OK0C,J-OK0C VI,Coolant,Medium,13.60
+Pure Blind,K-QUVW,J-OK0C,J-OK0C VI,Condensates,Poor,9.77
+Pure Blind,K-QUVW,J-OK0C,J-OK0C VII,Dark Compound,Medium,21.94
+Pure Blind,K-QUVW,J-OK0C,J-OK0C VII,Supertensile Plastics,Medium,16.13
+Pure Blind,K-QUVW,J-OK0C,J-OK0C VII,Construction Blocks,Medium,21.28
+Pure Blind,K-QUVW,J-OK0C,J-OK0C VII,Silicate Glass,Medium,10.51
+Pure Blind,K-QUVW,KDV-DE,KDV-DE I,Lustering Alloy,Poor,15.14
+Pure Blind,K-QUVW,KDV-DE,KDV-DE I,Precious Alloy,Poor,12.96
+Pure Blind,K-QUVW,KDV-DE,KDV-DE I,Industrial Fibers,Poor,4.15
+Pure Blind,K-QUVW,KDV-DE,KDV-DE I,Supertensile Plastics,Poor,10.51
+Pure Blind,K-QUVW,KDV-DE,KDV-DE II,Gleaming Alloy,Poor,16.36
+Pure Blind,K-QUVW,KDV-DE,KDV-DE II,Noble Gas,Rich,29.22
+Pure Blind,K-QUVW,KDV-DE,KDV-DE II,Noble Metals,Poor,18.00
+Pure Blind,K-QUVW,KDV-DE,KDV-DE III,Base Metals,Medium,5.47
+Pure Blind,K-QUVW,KDV-DE,KDV-DE III,Noble Metals,Perfect,32.48
+Pure Blind,K-QUVW,KDV-DE,KDV-DE III,Industrial Fibers,Rich,8.19
+Pure Blind,K-QUVW,KDV-DE,KDV-DE III,Smartfab Units,Perfect,25.44
+Pure Blind,K-QUVW,KDV-DE,KDV-DE III,Liquid Ozone,Perfect,46.63
+Pure Blind,K-QUVW,KDV-DE,KDV-DE IV,Lustering Alloy,Perfect,32.26
+Pure Blind,K-QUVW,KDV-DE,KDV-DE IV,Glossy Compound,Rich,28.96
+Pure Blind,K-QUVW,KDV-DE,KDV-DE IV,Reactive Gas,Poor,16.46
+Pure Blind,K-QUVW,KDV-DE,KDV-DE IV,Reactive Metals,Poor,4.75
+Pure Blind,K-QUVW,KDV-DE,KDV-DE IV,Coolant,Medium,15.52
+Pure Blind,K-QUVW,KDV-DE,KDV-DE V,Fiber Composite,Perfect,32.22
+Pure Blind,K-QUVW,KDV-DE,KDV-DE V,Reactive Gas,Medium,20.70
+Pure Blind,K-QUVW,KDV-DE,KDV-DE V,Noble Gas,Medium,22.58
+Pure Blind,K-QUVW,KDV-DE,KDV-DE V,Base Metals,Rich,7.76
+Pure Blind,K-QUVW,KDV-DE,KDV-DE V,Coolant,Rich,19.65
+Pure Blind,K-QUVW,KDV-DE,KDV-DE VI,Sheen Compound,Rich,31.50
+Pure Blind,K-QUVW,KDV-DE,KDV-DE VI,Reactive Gas,Medium,24.52
+Pure Blind,K-QUVW,KDV-DE,KDV-DE VI,Reactive Metals,Medium,6.47
+Pure Blind,K-QUVW,KDV-DE,KDV-DE VI,Polyaramids,Medium,15.25
+Pure Blind,K-QUVW,KDV-DE,KDV-DE VI,Coolant,Medium,13.61
+Pure Blind,K-QUVW,KDV-DE,KDV-DE VII,Fiber Composite,Perfect,32.80
+Pure Blind,K-QUVW,KDV-DE,KDV-DE VII,Reactive Gas,Medium,20.50
+Pure Blind,K-QUVW,KDV-DE,KDV-DE VII,Base Metals,Medium,5.00
+Pure Blind,K-QUVW,KDV-DE,KDV-DE VII,Reactive Metals,Medium,6.52
+Pure Blind,K-QUVW,KDV-DE,KDV-DE VII,Ionic Solutions,Perfect,13.25
+Pure Blind,K-QUVW,MT9Q-S,MT9Q-S I,Toxic Metals,Poor,4.76
+Pure Blind,K-QUVW,MT9Q-S,MT9Q-S I,Supertensile Plastics,Poor,12.49
+Pure Blind,K-QUVW,MT9Q-S,MT9Q-S I,Oxygen Isotopes,Poor,2.06
+Pure Blind,K-QUVW,MT9Q-S,MT9Q-S I,Plasmoids,Poor,0.93
+Pure Blind,K-QUVW,MT9Q-S,MT9Q-S II,Base Metals,Poor,3.60
+Pure Blind,K-QUVW,MT9Q-S,MT9Q-S II,Toxic Metals,Poor,4.62
+Pure Blind,K-QUVW,MT9Q-S,MT9Q-S II,Supertensile Plastics,Poor,9.12
+Pure Blind,K-QUVW,MT9Q-S,MT9Q-S II,Plasmoids,Poor,0.77
+Pure Blind,K-QUVW,MT9Q-S,MT9Q-S III,Crystal Compound,Medium,19.58
+Pure Blind,K-QUVW,MT9Q-S,MT9Q-S III,Reactive Metals,Poor,4.95
+Pure Blind,K-QUVW,MT9Q-S,MT9Q-S III,Nanites,Poor,4.73
+Pure Blind,K-QUVW,MT9Q-S,MT9Q-S III,Suspended Plasma,Medium,89.35
+Pure Blind,K-QUVW,MT9Q-S,MT9Q-S IV,Dark Compound,Poor,18.34
+Pure Blind,K-QUVW,MT9Q-S,MT9Q-S IV,Base Metals,Poor,4.25
+Pure Blind,K-QUVW,MT9Q-S,MT9Q-S IV,Supertensile Plastics,Poor,10.96
+Pure Blind,K-QUVW,MT9Q-S,MT9Q-S IV,Construction Blocks,Poor,17.92
+Pure Blind,K-QUVW,MT9Q-S,MT9Q-S V,Sheen Compound,Medium,20.46
+Pure Blind,K-QUVW,MT9Q-S,MT9Q-S V,Glossy Compound,Poor,17.76
+Pure Blind,K-QUVW,MT9Q-S,MT9Q-S V,Reactive Gas,Medium,19.92
+Pure Blind,K-QUVW,MT9Q-S,MT9Q-S V,Polyaramids,Rich,19.65
+Pure Blind,K-QUVW,MT9Q-S,MT9Q-S V,Coolant,Rich,19.76
+Pure Blind,K-QUVW,MT9Q-S,MT9Q-S VI,Lustering Alloy,Rich,27.40
+Pure Blind,K-QUVW,MT9Q-S,MT9Q-S VI,Glossy Compound,Rich,27.76
+Pure Blind,K-QUVW,MT9Q-S,MT9Q-S VI,Reactive Gas,Rich,28.16
+Pure Blind,K-QUVW,MT9Q-S,MT9Q-S VI,Noble Gas,Poor,18.10
+Pure Blind,K-QUVW,MT9Q-S,MT9Q-S VI,Ionic Solutions,Poor,7.32
+Pure Blind,K-QUVW,MT9Q-S,MT9Q-S VII,Sheen Compound,Rich,28.86
+Pure Blind,K-QUVW,MT9Q-S,MT9Q-S VII,Fiber Composite,Medium,24.66
+Pure Blind,K-QUVW,MT9Q-S,MT9Q-S VII,Reactive Gas,Rich,28.78
+Pure Blind,K-QUVW,MT9Q-S,MT9Q-S VII,Noble Gas,Rich,31.58
+Pure Blind,K-QUVW,MT9Q-S,MT9Q-S VII,Base Metals,Rich,7.15
+Pure Blind,K-QUVW,MT9Q-S,MT9Q-S VIII,Lustering Alloy,Medium,25.10
+Pure Blind,K-QUVW,MT9Q-S,MT9Q-S VIII,Base Metals,Medium,5.88
+Pure Blind,K-QUVW,MT9Q-S,MT9Q-S VIII,Supertensile Plastics,Poor,10.59
+Pure Blind,K-QUVW,MT9Q-S,MT9Q-S VIII,Condensates,Medium,16.71
+Pure Blind,LN-L8L,B-9C24,B-9C24 I,Precious Alloy,Medium,20.02
+Pure Blind,LN-L8L,B-9C24,B-9C24 I,Dark Compound,Poor,14.72
+Pure Blind,LN-L8L,B-9C24,B-9C24 I,Supertensile Plastics,Poor,11.43
+Pure Blind,LN-L8L,B-9C24,B-9C24 I,Construction Blocks,Poor,18.60
+Pure Blind,LN-L8L,B-9C24,B-9C24 II,Precious Alloy,Poor,13.02
+Pure Blind,LN-L8L,B-9C24,B-9C24 II,Supertensile Plastics,Poor,10.32
+Pure Blind,LN-L8L,B-9C24,B-9C24 II,Silicate Glass,Poor,7.87
+Pure Blind,LN-L8L,B-9C24,B-9C24 II,Plasmoids,Poor,0.83
+Pure Blind,LN-L8L,B-9C24,B-9C24 III,Condensed Alloy,Medium,25.12
+Pure Blind,LN-L8L,B-9C24,B-9C24 III,Fiber Composite,Rich,29.22
+Pure Blind,LN-L8L,B-9C24,B-9C24 III,Reactive Gas,Medium,21.34
+Pure Blind,LN-L8L,B-9C24,B-9C24 III,Smartfab Units,Medium,12.71
+Pure Blind,LN-L8L,B-9C24,B-9C24 III,Liquid Ozone,Rich,35.73
+Pure Blind,LN-L8L,B-9C24,B-9C24 IV,Fiber Composite,Perfect,33.72
+Pure Blind,LN-L8L,B-9C24,B-9C24 IV,Base Metals,Perfect,9.23
+Pure Blind,LN-L8L,B-9C24,B-9C24 IV,Condensates,Medium,13.31
+Pure Blind,LN-L8L,B-9C24,B-9C24 IV,Smartfab Units,Perfect,21.60
+Pure Blind,LN-L8L,B-9C24,B-9C24 IV,Liquid Ozone,Medium,24.07
+Pure Blind,LN-L8L,B-9C24,B-9C24 V,Lustering Alloy,Medium,22.92
+Pure Blind,LN-L8L,B-9C24,B-9C24 V,Reactive Gas,Medium,24.64
+Pure Blind,LN-L8L,B-9C24,B-9C24 V,Reactive Metals,Rich,6.82
+Pure Blind,LN-L8L,B-9C24,B-9C24 V,Polyaramids,Medium,13.60
+Pure Blind,LN-L8L,B-9C24,B-9C24 V,Coolant,Rich,20.16
+Pure Blind,LN-L8L,B-9C24,B-9C24 VI,Fiber Composite,Poor,16.72
+Pure Blind,LN-L8L,B-9C24,B-9C24 VI,Glossy Compound,Rich,28.64
+Pure Blind,LN-L8L,B-9C24,B-9C24 VI,Reactive Gas,Medium,20.30
+Pure Blind,LN-L8L,B-9C24,B-9C24 VI,Base Metals,Medium,5.70
+Pure Blind,LN-L8L,B-9C24,B-9C24 VI,Reactive Metals,Rich,7.79
+Pure Blind,LN-L8L,B-9C24,B-9C24 VII,Sheen Compound,Rich,27.30
+Pure Blind,LN-L8L,B-9C24,B-9C24 VII,Glossy Compound,Rich,25.36
+Pure Blind,LN-L8L,B-9C24,B-9C24 VII,Reactive Gas,Medium,24.12
+Pure Blind,LN-L8L,B-9C24,B-9C24 VII,Base Metals,Rich,7.68
+Pure Blind,LN-L8L,B-9C24,B-9C24 VII,Ionic Solutions,Rich,12.47
+Pure Blind,LN-L8L,B-9C24,B-9C24 VIII,Sheen Compound,Rich,25.48
+Pure Blind,LN-L8L,B-9C24,B-9C24 VIII,Fiber Composite,Medium,21.16
+Pure Blind,LN-L8L,B-9C24,B-9C24 VIII,Glossy Compound,Rich,27.94
+Pure Blind,LN-L8L,B-9C24,B-9C24 VIII,Reactive Gas,Medium,23.76
+Pure Blind,LN-L8L,B-9C24,B-9C24 VIII,Ionic Solutions,Poor,7.25
+Pure Blind,LN-L8L,B-9C24,B-9C24 IX,Crystal Compound,Medium,24.72
+Pure Blind,LN-L8L,B-9C24,B-9C24 IX,Toxic Metals,Rich,7.82
+Pure Blind,LN-L8L,B-9C24,B-9C24 IX,Silicate Glass,Rich,13.35
+Pure Blind,LN-L8L,B-9C24,B-9C24 IX,Heavy Water,Medium,195.80
+Pure Blind,LN-L8L,B-9C24,B-9C24 IX,Liquid Ozone,Perfect,43.85
+Pure Blind,LN-L8L,P-2TTL,P-2TTL I,Gleaming Alloy,Rich,30.18
+Pure Blind,LN-L8L,P-2TTL,P-2TTL I,Glossy Compound,Rich,29.92
+Pure Blind,LN-L8L,P-2TTL,P-2TTL I,Polyaramids,Perfect,21.69
+Pure Blind,LN-L8L,P-2TTL,P-2TTL II,Gleaming Alloy,Rich,31.68
+Pure Blind,LN-L8L,P-2TTL,P-2TTL II,Glossy Compound,Rich,26.80
+Pure Blind,LN-L8L,P-2TTL,P-2TTL II,Noble Metals,Perfect,33.84
+Pure Blind,LN-L8L,P-2TTL,P-2TTL III,Condensed Alloy,Perfect,36.70
+Pure Blind,LN-L8L,P-2TTL,P-2TTL III,Base Metals,Rich,7.32
+Pure Blind,LN-L8L,P-2TTL,P-2TTL III,Condensates,Perfect,22.31
+Pure Blind,LN-L8L,P-2TTL,P-2TTL III,Heavy Water,Perfect,368.40
+Pure Blind,LN-L8L,P-2TTL,P-2TTL III,Liquid Ozone,Perfect,45.42
+Pure Blind,LN-L8L,P-2TTL,P-2TTL IV,Fiber Composite,Perfect,34.62
+Pure Blind,LN-L8L,P-2TTL,P-2TTL IV,Opulent Compound,Poor,18.60
+Pure Blind,LN-L8L,P-2TTL,P-2TTL IV,Noble Metals,Perfect,35.32
+Pure Blind,LN-L8L,P-2TTL,P-2TTL IV,Smartfab Units,Medium,15.51
+Pure Blind,LN-L8L,P-2TTL,P-2TTL IV,Liquid Ozone,Perfect,42.25
+Pure Blind,LN-L8L,P-2TTL,P-2TTL V,Condensed Alloy,Perfect,35.96
+Pure Blind,LN-L8L,P-2TTL,P-2TTL V,Reactive Gas,Perfect,36.14
+Pure Blind,LN-L8L,P-2TTL,P-2TTL V,Noble Metals,Medium,21.40
+Pure Blind,LN-L8L,P-2TTL,P-2TTL V,Heavy Water,Rich,258.00
+Pure Blind,LN-L8L,P-2TTL,P-2TTL V,Liquid Ozone,Rich,33.60
+Pure Blind,LN-L8L,7X-VKB,7X-VKB I,Base Metals,Poor,4.39
+Pure Blind,LN-L8L,7X-VKB,7X-VKB I,Toxic Metals,Poor,3.58
+Pure Blind,LN-L8L,7X-VKB,7X-VKB I,Supertensile Plastics,Medium,13.11
+Pure Blind,LN-L8L,7X-VKB,7X-VKB I,Plasmoids,Poor,1.12
+Pure Blind,LN-L8L,7X-VKB,7X-VKB II,Gleaming Alloy,Medium,20.30
+Pure Blind,LN-L8L,7X-VKB,7X-VKB II,Noble Gas,Rich,31.50
+Pure Blind,LN-L8L,7X-VKB,7X-VKB II,Plasmoids,Rich,1.87
+Pure Blind,LN-L8L,7X-VKB,7X-VKB III,Reactive Gas,Medium,23.76
+Pure Blind,LN-L8L,7X-VKB,7X-VKB III,Base Metals,Rich,7.58
+Pure Blind,LN-L8L,7X-VKB,7X-VKB III,Condensates,Medium,15.25
+Pure Blind,LN-L8L,7X-VKB,7X-VKB III,Smartfab Units,Rich,20.59
+Pure Blind,LN-L8L,7X-VKB,7X-VKB III,Liquid Ozone,Perfect,47.55
+Pure Blind,LN-L8L,7X-VKB,7X-VKB IV,Gleaming Alloy,Medium,23.40
+Pure Blind,LN-L8L,7X-VKB,7X-VKB IV,Motley Compound,Medium,24.66
+Pure Blind,LN-L8L,7X-VKB,7X-VKB IV,Oxygen Isotopes,Rich,4.50
+Pure Blind,LN-L8L,7X-VKB,7X-VKB V,Fiber Composite,Medium,23.24
+Pure Blind,LN-L8L,7X-VKB,7X-VKB V,Reactive Gas,Medium,24.30
+Pure Blind,LN-L8L,7X-VKB,7X-VKB V,Noble Gas,Medium,20.54
+Pure Blind,LN-L8L,7X-VKB,7X-VKB V,Coolant,Medium,12.96
+Pure Blind,LN-L8L,7X-VKB,7X-VKB V,Ionic Solutions,Perfect,12.71
+Pure Blind,LN-L8L,7X-VKB,7X-VKB VI,Fiber Composite,Medium,22.36
+Pure Blind,LN-L8L,7X-VKB,7X-VKB VI,Noble Metals,Rich,30.48
+Pure Blind,LN-L8L,7X-VKB,7X-VKB VI,Smartfab Units,Perfect,23.60
+Pure Blind,LN-L8L,7X-VKB,7X-VKB VI,Heavy Water,Rich,291.60
+Pure Blind,LN-L8L,7X-VKB,7X-VKB VI,Liquid Ozone,Perfect,43.10
+Pure Blind,LN-L8L,7X-VKB,7X-VKB VII,Precious Alloy,Poor,16.16
+Pure Blind,LN-L8L,7X-VKB,7X-VKB VII,Supertensile Plastics,Medium,13.51
+Pure Blind,LN-L8L,7X-VKB,7X-VKB VII,Silicate Glass,Poor,8.51
+Pure Blind,LN-L8L,7X-VKB,7X-VKB VII,Oxygen Isotopes,Medium,3.56
+Pure Blind,LN-L8L,7X-VKB,7X-VKB VIII,Sheen Compound,Rich,30.88
+Pure Blind,LN-L8L,7X-VKB,7X-VKB VIII,Fiber Composite,Medium,24.94
+Pure Blind,LN-L8L,7X-VKB,7X-VKB VIII,Reactive Gas,Medium,23.22
+Pure Blind,LN-L8L,7X-VKB,7X-VKB VIII,Base Metals,Poor,4.82
+Pure Blind,LN-L8L,7X-VKB,7X-VKB VIII,Polyaramids,Rich,17.43
+Pure Blind,LN-L8L,7X-VKB,7X-VKB IX,Glossy Compound,Medium,21.86
+Pure Blind,LN-L8L,7X-VKB,7X-VKB IX,Reactive Gas,Medium,20.06
+Pure Blind,LN-L8L,7X-VKB,7X-VKB IX,Noble Gas,Perfect,32.76
+Pure Blind,LN-L8L,7X-VKB,7X-VKB IX,Base Metals,Medium,5.11
+Pure Blind,LN-L8L,7X-VKB,7X-VKB IX,Ionic Solutions,Rich,10.58
+Pure Blind,LN-L8L,7X-VKB,7X-VKB X,Precious Alloy,Medium,24.06
+Pure Blind,LN-L8L,7X-VKB,7X-VKB X,Supertensile Plastics,Medium,15.63
+Pure Blind,LN-L8L,7X-VKB,7X-VKB X,Construction Blocks,Medium,19.38
+Pure Blind,LN-L8L,7X-VKB,7X-VKB X,Silicate Glass,Poor,7.05
+Pure Blind,LN-L8L,E-Z2ZX,E-Z2ZX I,Dark Compound,Medium,21.29
+Pure Blind,LN-L8L,E-Z2ZX,E-Z2ZX I,Supertensile Plastics,Medium,15.88
+Pure Blind,LN-L8L,E-Z2ZX,E-Z2ZX I,Oxygen Isotopes,Medium,3.67
+Pure Blind,LN-L8L,E-Z2ZX,E-Z2ZX I,Plasmoids,Poor,1.12
+Pure Blind,LN-L8L,E-Z2ZX,E-Z2ZX II,Base Metals,Medium,5.66
+Pure Blind,LN-L8L,E-Z2ZX,E-Z2ZX II,Industrial Fibers,Medium,6.16
+Pure Blind,LN-L8L,E-Z2ZX,E-Z2ZX II,Supertensile Plastics,Medium,15.88
+Pure Blind,LN-L8L,E-Z2ZX,E-Z2ZX II,Silicate Glass,Poor,7.67
+Pure Blind,LN-L8L,E-Z2ZX,E-Z2ZX III,Condensed Alloy,Medium,26.38
+Pure Blind,LN-L8L,E-Z2ZX,E-Z2ZX III,Noble Metals,Medium,21.36
+Pure Blind,LN-L8L,E-Z2ZX,E-Z2ZX III,Industrial Fibers,Perfect,9.09
+Pure Blind,LN-L8L,E-Z2ZX,E-Z2ZX III,Heavy Water,Rich,324.66
+Pure Blind,LN-L8L,E-Z2ZX,E-Z2ZX III,Liquid Ozone,Perfect,46.65
+Pure Blind,LN-L8L,E-Z2ZX,E-Z2ZX IV,Dark Compound,Poor,19.26
+Pure Blind,LN-L8L,E-Z2ZX,E-Z2ZX IV,Industrial Fibers,Poor,4.62
+Pure Blind,LN-L8L,E-Z2ZX,E-Z2ZX IV,Supertensile Plastics,Medium,13.64
+Pure Blind,LN-L8L,E-Z2ZX,E-Z2ZX IV,Silicate Glass,Medium,11.15
+Pure Blind,LN-L8L,E-Z2ZX,E-Z2ZX V,Toxic Metals,Poor,3.71
+Pure Blind,LN-L8L,E-Z2ZX,E-Z2ZX V,Supertensile Plastics,Poor,9.86
+Pure Blind,LN-L8L,E-Z2ZX,E-Z2ZX V,Silicate Glass,Medium,11.32
+Pure Blind,LN-L8L,E-Z2ZX,E-Z2ZX V,Plasmoids,Poor,1.13
+Pure Blind,LN-L8L,E-Z2ZX,E-Z2ZX VI,Gleaming Alloy,Medium,25.91
+Pure Blind,LN-L8L,E-Z2ZX,E-Z2ZX VI,Lucent Compound,Rich,31.06
+Pure Blind,LN-L8L,E-Z2ZX,E-Z2ZX VI,Reactive Metals,Perfect,8.84
+Pure Blind,LN-L8L,E-Z2ZX,E-Z2ZX VI,Toxic Metals,Poor,4.68
+Pure Blind,LN-L8L,E-Z2ZX,E-Z2ZX VII,Fiber Composite,Medium,20.77
+Pure Blind,LN-L8L,E-Z2ZX,E-Z2ZX VII,Reactive Gas,Medium,22.22
+Pure Blind,LN-L8L,E-Z2ZX,E-Z2ZX VII,Base Metals,Medium,5.52
+Pure Blind,LN-L8L,E-Z2ZX,E-Z2ZX VII,Reactive Metals,Medium,6.33
+Pure Blind,LN-L8L,E-Z2ZX,E-Z2ZX VII,Ionic Solutions,Rich,11.00
+Pure Blind,LN-L8L,E-Z2ZX,E-Z2ZX VIII,Fiber Composite,Rich,28.43
+Pure Blind,LN-L8L,E-Z2ZX,E-Z2ZX VIII,Reactive Gas,Medium,24.76
+Pure Blind,LN-L8L,E-Z2ZX,E-Z2ZX VIII,Base Metals,Medium,6.22
+Pure Blind,LN-L8L,E-Z2ZX,E-Z2ZX VIII,Coolant,Rich,20.54
+Pure Blind,LN-L8L,E-Z2ZX,E-Z2ZX VIII,Ionic Solutions,Rich,12.53
+Pure Blind,LN-L8L,E-Z2ZX,E-Z2ZX IX,Dark Compound,Poor,17.81
+Pure Blind,LN-L8L,E-Z2ZX,E-Z2ZX IX,Industrial Fibers,Poor,3.67
+Pure Blind,LN-L8L,E-Z2ZX,E-Z2ZX IX,Supertensile Plastics,Medium,13.73
+Pure Blind,LN-L8L,E-Z2ZX,E-Z2ZX IX,Silicate Glass,Poor,7.99
+Pure Blind,LN-L8L,RORZ-H,RORZ-H I,Gleaming Alloy,Poor,19.00
+Pure Blind,LN-L8L,RORZ-H,RORZ-H I,Heavy Metals,Perfect,34.44
+Pure Blind,LN-L8L,RORZ-H,RORZ-H I,Plasmoids,Rich,1.93
+Pure Blind,LN-L8L,RORZ-H,RORZ-H II,Lustering Alloy,Poor,13.99
+Pure Blind,LN-L8L,RORZ-H,RORZ-H II,Supertensile Plastics,Medium,13.41
+Pure Blind,LN-L8L,RORZ-H,RORZ-H II,Construction Blocks,Medium,24.36
+Pure Blind,LN-L8L,RORZ-H,RORZ-H II,Silicate Glass,Poor,8.32
+Pure Blind,LN-L8L,RORZ-H,RORZ-H III,Sheen Compound,Medium,22.07
+Pure Blind,LN-L8L,RORZ-H,RORZ-H III,Dark Compound,Rich,29.23
+Pure Blind,LN-L8L,RORZ-H,RORZ-H III,Noble Gas,Poor,19.72
+Pure Blind,LN-L8L,RORZ-H,RORZ-H III,Condensates,Medium,13.99
+Pure Blind,LN-L8L,RORZ-H,RORZ-H III,Ionic Solutions,Rich,11.82
+Pure Blind,LN-L8L,RORZ-H,RORZ-H IV,Gleaming Alloy,Medium,24.84
+Pure Blind,LN-L8L,RORZ-H,RORZ-H IV,Noble Metals,Medium,21.32
+Pure Blind,LN-L8L,RORZ-H,RORZ-H IV,Plasmoids,Medium,1.20
+Pure Blind,LN-L8L,RORZ-H,RORZ-H V,Condensed Alloy,Medium,19.84
+Pure Blind,LN-L8L,RORZ-H,RORZ-H V,Fiber Composite,Perfect,39.12
+Pure Blind,LN-L8L,RORZ-H,RORZ-H V,Noble Metals,Perfect,39.29
+Pure Blind,LN-L8L,RORZ-H,RORZ-H V,Industrial Fibers,Rich,8.52
+Pure Blind,LN-L8L,RORZ-H,RORZ-H V,Liquid Ozone,Perfect,46.78
+Pure Blind,LN-L8L,RORZ-H,RORZ-H VI,Fiber Composite,Medium,21.32
+Pure Blind,LN-L8L,RORZ-H,RORZ-H VI,Reactive Gas,Poor,17.32
+Pure Blind,LN-L8L,RORZ-H,RORZ-H VI,Noble Gas,Rich,28.12
+Pure Blind,LN-L8L,RORZ-H,RORZ-H VI,Polyaramids,Medium,14.28
+Pure Blind,LN-L8L,RORZ-H,RORZ-H VI,Ionic Solutions,Rich,12.15
+Pure Blind,LN-L8L,RORZ-H,RORZ-H VII,Glossy Compound,Medium,22.47
+Pure Blind,LN-L8L,RORZ-H,RORZ-H VII,Reactive Gas,Rich,29.40
+Pure Blind,LN-L8L,RORZ-H,RORZ-H VII,Base Metals,Medium,6.47
+Pure Blind,LN-L8L,RORZ-H,RORZ-H VII,Reactive Metals,Perfect,8.95
+Pure Blind,LN-L8L,RORZ-H,RORZ-H VII,Ionic Solutions,Rich,11.41
+Pure Blind,LN-L8L,RORZ-H,RORZ-H VIII,Lustering Alloy,Medium,22.43
+Pure Blind,LN-L8L,RORZ-H,RORZ-H VIII,Glossy Compound,Medium,23.46
+Pure Blind,LN-L8L,RORZ-H,RORZ-H VIII,Reactive Gas,Medium,21.55
+Pure Blind,LN-L8L,RORZ-H,RORZ-H VIII,Base Metals,Medium,6.74
+Pure Blind,LN-L8L,RORZ-H,RORZ-H VIII,Reactive Metals,Rich,7.30
+Pure Blind,LN-L8L,RORZ-H,RORZ-H IX,Lustering Alloy,Medium,26.06
+Pure Blind,LN-L8L,RORZ-H,RORZ-H IX,Sheen Compound,Medium,21.11
+Pure Blind,LN-L8L,RORZ-H,RORZ-H IX,Reactive Gas,Medium,23.37
+Pure Blind,LN-L8L,RORZ-H,RORZ-H IX,Base Metals,Medium,5.71
+Pure Blind,LN-L8L,RORZ-H,RORZ-H IX,Reactive Metals,Medium,5.47
+Pure Blind,LN-L8L,RORZ-H,RORZ-H X,Gleaming Alloy,Medium,21.38
+Pure Blind,LN-L8L,RORZ-H,RORZ-H X,Smartfab Units,Medium,13.83
+Pure Blind,LN-L8L,RORZ-H,RORZ-H X,Oxygen Isotopes,Perfect,5.13
+Pure Blind,LN-L8L,RORZ-H,RORZ-H XI,Motley Compound,Rich,30.16
+Pure Blind,LN-L8L,RORZ-H,RORZ-H XI,Supertensile Plastics,Medium,17.39
+Pure Blind,LN-L8L,RORZ-H,RORZ-H XI,Condensates,Rich,20.09
+Pure Blind,LN-L8L,RORZ-H,RORZ-H XI,Suspended Plasma,Poor,63.81
+Pure Blind,LN-L8L,RORZ-H,RORZ-H XII,Condensed Alloy,Medium,20.05
+Pure Blind,LN-L8L,RORZ-H,RORZ-H XII,Toxic Metals,Perfect,9.22
+Pure Blind,LN-L8L,RORZ-H,RORZ-H XII,Coolant,Medium,14.50
+Pure Blind,LN-L8L,RORZ-H,RORZ-H XII,Silicate Glass,Rich,15.58
+Pure Blind,LN-L8L,RORZ-H,RORZ-H XII,Liquid Ozone,Rich,41.40
+Pure Blind,LN-L8L,O-A6YN,O-A6YN I,Gleaming Alloy,Poor,18.59
+Pure Blind,LN-L8L,O-A6YN,O-A6YN I,Reactive Metals,Medium,6.55
+Pure Blind,LN-L8L,O-A6YN,O-A6YN I,Construction Blocks,Rich,32.51
+Pure Blind,LN-L8L,O-A6YN,O-A6YN I,Oxygen Isotopes,Rich,4.04
+Pure Blind,LN-L8L,O-A6YN,O-A6YN II,Dark Compound,Poor,17.32
+Pure Blind,LN-L8L,O-A6YN,O-A6YN II,Supertensile Plastics,Medium,15.25
+Pure Blind,LN-L8L,O-A6YN,O-A6YN II,Construction Blocks,Poor,14.78
+Pure Blind,LN-L8L,O-A6YN,O-A6YN II,Silicate Glass,Medium,9.90
+Pure Blind,LN-L8L,O-A6YN,O-A6YN III,Reactive Metals,Rich,8.60
+Pure Blind,LN-L8L,O-A6YN,O-A6YN III,Construction Blocks,Rich,30.74
+Pure Blind,LN-L8L,O-A6YN,O-A6YN III,Nanites,Medium,6.29
+Pure Blind,LN-L8L,O-A6YN,O-A6YN III,Suspended Plasma,Rich,119.37
+Pure Blind,LN-L8L,O-A6YN,O-A6YN IV,Lustering Alloy,Medium,25.70
+Pure Blind,LN-L8L,O-A6YN,O-A6YN IV,Fiber Composite,Perfect,34.34
+Pure Blind,LN-L8L,O-A6YN,O-A6YN IV,Glossy Compound,Rich,31.75
+Pure Blind,LN-L8L,O-A6YN,O-A6YN IV,Reactive Gas,Medium,26.36
+Pure Blind,LN-L8L,O-A6YN,O-A6YN IV,Coolant,Rich,18.54
+Pure Blind,LN-L8L,O-A6YN,O-A6YN V,Precious Alloy,Poor,15.69
+Pure Blind,LN-L8L,O-A6YN,O-A6YN V,Base Metals,Poor,3.86
+Pure Blind,LN-L8L,O-A6YN,O-A6YN V,Supertensile Plastics,Poor,9.06
+Pure Blind,LN-L8L,O-A6YN,O-A6YN V,Oxygen Isotopes,Medium,3.51
+Pure Blind,LN-L8L,O-A6YN,O-A6YN VI,Reactive Gas,Rich,32.09
+Pure Blind,LN-L8L,O-A6YN,O-A6YN VI,Base Metals,Medium,6.21
+Pure Blind,LN-L8L,O-A6YN,O-A6YN VI,Reactive Metals,Rich,8.22
+Pure Blind,LN-L8L,O-A6YN,O-A6YN VI,Polyaramids,Rich,18.34
+Pure Blind,LN-L8L,O-A6YN,O-A6YN VI,Coolant,Medium,17.42
+Pure Blind,S4GH-I,MQ-NPY,MQ-NPY I,Lustering Alloy,Poor,15.74
+Pure Blind,S4GH-I,MQ-NPY,MQ-NPY I,Toxic Metals,Poor,4.39
+Pure Blind,S4GH-I,MQ-NPY,MQ-NPY I,Supertensile Plastics,Poor,8.79
+Pure Blind,S4GH-I,MQ-NPY,MQ-NPY I,Construction Blocks,Medium,24.06
+Pure Blind,S4GH-I,MQ-NPY,MQ-NPY II,Opulent Compound,Perfect,35.54
+Pure Blind,S4GH-I,MQ-NPY,MQ-NPY II,Base Metals,Perfect,9.16
+Pure Blind,S4GH-I,MQ-NPY,MQ-NPY II,Smartfab Units,Perfect,24.65
+Pure Blind,S4GH-I,MQ-NPY,MQ-NPY II,Heavy Water,Poor,185.80
+Pure Blind,S4GH-I,MQ-NPY,MQ-NPY II,Liquid Ozone,Perfect,41.05
+Pure Blind,S4GH-I,MQ-NPY,MQ-NPY III,Glossy Compound,Rich,27.66
+Pure Blind,S4GH-I,MQ-NPY,MQ-NPY III,Reactive Gas,Medium,19.34
+Pure Blind,S4GH-I,MQ-NPY,MQ-NPY III,Noble Gas,Rich,25.72
+Pure Blind,S4GH-I,MQ-NPY,MQ-NPY III,Reactive Metals,Medium,6.22
+Pure Blind,S4GH-I,MQ-NPY,MQ-NPY III,Polyaramids,Medium,12.61
+Pure Blind,S4GH-I,MQ-NPY,MQ-NPY IV,Gleaming Alloy,Poor,17.14
+Pure Blind,S4GH-I,MQ-NPY,MQ-NPY IV,Heavy Metals,Medium,19.96
+Pure Blind,S4GH-I,MQ-NPY,MQ-NPY IV,Oxygen Isotopes,Medium,3.73
+Pure Blind,S4GH-I,MQ-NPY,MQ-NPY V,Motley Compound,Poor,17.70
+Pure Blind,S4GH-I,MQ-NPY,MQ-NPY V,Condensates,Medium,16.67
+Pure Blind,S4GH-I,MQ-NPY,MQ-NPY V,Suspended Plasma,Rich,105.98
+Pure Blind,S4GH-I,MQ-NPY,MQ-NPY V,Liquid Ozone,Medium,30.60
+Pure Blind,S4GH-I,MQ-NPY,MQ-NPY VI,Supertensile Plastics,Poor,8.73
+Pure Blind,S4GH-I,MQ-NPY,MQ-NPY VI,Silicate Glass,Medium,10.87
+Pure Blind,S4GH-I,MQ-NPY,MQ-NPY VI,Oxygen Isotopes,Poor,1.99
+Pure Blind,S4GH-I,MQ-NPY,MQ-NPY VI,Plasmoids,Poor,0.91
+Pure Blind,S4GH-I,D2-HOS,D2-HOS I,Sheen Compound,Perfect,33.90
+Pure Blind,S4GH-I,D2-HOS,D2-HOS I,Dark Compound,Rich,28.76
+Pure Blind,S4GH-I,D2-HOS,D2-HOS I,Condensates,Perfect,22.93
+Pure Blind,S4GH-I,D2-HOS,D2-HOS I,Nanites,Rich,7.88
+Pure Blind,S4GH-I,D2-HOS,D2-HOS I,Suspended Plasma,Rich,107.06
+Pure Blind,S4GH-I,D2-HOS,D2-HOS II,Lucent Compound,Medium,21.24
+Pure Blind,S4GH-I,D2-HOS,D2-HOS II,Reactive Metals,Poor,4.81
+Pure Blind,S4GH-I,D2-HOS,D2-HOS II,Construction Blocks,Poor,16.48
+Pure Blind,S4GH-I,D2-HOS,D2-HOS II,Oxygen Isotopes,Medium,2.86
+Pure Blind,S4GH-I,D2-HOS,D2-HOS III,Gleaming Alloy,Perfect,32.32
+Pure Blind,S4GH-I,D2-HOS,D2-HOS III,Lucent Compound,Poor,17.14
+Pure Blind,S4GH-I,D2-HOS,D2-HOS III,Reactive Metals,Rich,6.88
+Pure Blind,S4GH-I,D2-HOS,D2-HOS III,Nanites,Rich,8.01
+Pure Blind,S4GH-I,D2-HOS,D2-HOS IV,Sheen Compound,Medium,22.04
+Pure Blind,S4GH-I,D2-HOS,D2-HOS IV,Fiber Composite,Medium,21.68
+Pure Blind,S4GH-I,D2-HOS,D2-HOS IV,Reactive Gas,Poor,18.36
+Pure Blind,S4GH-I,D2-HOS,D2-HOS IV,Base Metals,Rich,6.69
+Pure Blind,S4GH-I,D2-HOS,D2-HOS IV,Coolant,Rich,18.80
+Pure Blind,S4GH-I,D2-HOS,D2-HOS V,Sheen Compound,Medium,20.96
+Pure Blind,S4GH-I,D2-HOS,D2-HOS V,Fiber Composite,Medium,22.24
+Pure Blind,S4GH-I,D2-HOS,D2-HOS V,Glossy Compound,Rich,25.86
+Pure Blind,S4GH-I,D2-HOS,D2-HOS V,Reactive Gas,Poor,16.66
+Pure Blind,S4GH-I,D2-HOS,D2-HOS V,Coolant,Poor,11.39
+Pure Blind,S4GH-I,D2-HOS,D2-HOS VI,Lustering Alloy,Medium,23.66
+Pure Blind,S4GH-I,D2-HOS,D2-HOS VI,Base Metals,Poor,3.71
+Pure Blind,S4GH-I,D2-HOS,D2-HOS VI,Supertensile Plastics,Medium,15.00
+Pure Blind,S4GH-I,D2-HOS,D2-HOS VI,Silicate Glass,Medium,9.87
+Pure Blind,S4GH-I,Y2-6EA,Y2-6EA I,Supertensile Plastics,Medium,14.20
+Pure Blind,S4GH-I,Y2-6EA,Y2-6EA I,Construction Blocks,Medium,21.82
+Pure Blind,S4GH-I,Y2-6EA,Y2-6EA I,Oxygen Isotopes,Medium,2.90
+Pure Blind,S4GH-I,Y2-6EA,Y2-6EA I,Plasmoids,Medium,1.20
+Pure Blind,S4GH-I,Y2-6EA,Y2-6EA II,Gleaming Alloy,Medium,25.30
+Pure Blind,S4GH-I,Y2-6EA,Y2-6EA II,Glossy Compound,Poor,18.38
+Pure Blind,S4GH-I,Y2-6EA,Y2-6EA II,Noble Gas,Poor,16.76
+Pure Blind,S4GH-I,Y2-6EA,Y2-6EA III,Gleaming Alloy,Medium,21.56
+Pure Blind,S4GH-I,Y2-6EA,Y2-6EA III,Crystal Compound,Rich,27.72
+Pure Blind,S4GH-I,Y2-6EA,Y2-6EA III,Reactive Metals,Poor,4.53
+Pure Blind,S4GH-I,Y2-6EA,Y2-6EA III,Supertensile Plastics,Poor,12.29
+Pure Blind,S4GH-I,Y2-6EA,Y2-6EA IV,Sheen Compound,Poor,17.18
+Pure Blind,S4GH-I,Y2-6EA,Y2-6EA IV,Glossy Compound,Rich,27.60
+Pure Blind,S4GH-I,Y2-6EA,Y2-6EA IV,Reactive Gas,Medium,22.08
+Pure Blind,S4GH-I,Y2-6EA,Y2-6EA IV,Noble Gas,Medium,21.68
+Pure Blind,S4GH-I,Y2-6EA,Y2-6EA IV,Polyaramids,Medium,13.59
+Pure Blind,S4GH-I,Y2-6EA,Y2-6EA V,Sheen Compound,Medium,23.76
+Pure Blind,S4GH-I,Y2-6EA,Y2-6EA V,Reactive Gas,Medium,20.02
+Pure Blind,S4GH-I,Y2-6EA,Y2-6EA V,Reactive Metals,Medium,6.55
+Pure Blind,S4GH-I,Y2-6EA,Y2-6EA V,Polyaramids,Poor,11.47
+Pure Blind,S4GH-I,Y2-6EA,Y2-6EA V,Ionic Solutions,Medium,9.39
+Pure Blind,S4GH-I,Y2-6EA,Y2-6EA VI,Lustering Alloy,Poor,16.74
+Pure Blind,S4GH-I,Y2-6EA,Y2-6EA VI,Fiber Composite,Poor,18.78
+Pure Blind,S4GH-I,Y2-6EA,Y2-6EA VI,Reactive Gas,Poor,17.98
+Pure Blind,S4GH-I,Y2-6EA,Y2-6EA VI,Base Metals,Rich,7.49
+Pure Blind,S4GH-I,Y2-6EA,Y2-6EA VI,Reactive Metals,Medium,6.56
+Pure Blind,S4GH-I,TFA0-U,TFA0-U I,Supertensile Plastics,Poor,12.13
+Pure Blind,S4GH-I,TFA0-U,TFA0-U I,Silicate Glass,Poor,7.82
+Pure Blind,S4GH-I,TFA0-U,TFA0-U I,Oxygen Isotopes,Poor,2.59
+Pure Blind,S4GH-I,TFA0-U,TFA0-U I,Plasmoids,Poor,1.10
+Pure Blind,S4GH-I,TFA0-U,TFA0-U II,Gleaming Alloy,Rich,31.36
+Pure Blind,S4GH-I,TFA0-U,TFA0-U II,Noble Metals,Poor,18.76
+Pure Blind,S4GH-I,TFA0-U,TFA0-U II,Polyaramids,Medium,15.31
+Pure Blind,S4GH-I,TFA0-U,TFA0-U III,Gleaming Alloy,Perfect,33.48
+Pure Blind,S4GH-I,TFA0-U,TFA0-U III,Glossy Compound,Medium,24.58
+Pure Blind,S4GH-I,TFA0-U,TFA0-U III,Smartfab Units,Medium,15.91
+Pure Blind,S4GH-I,TFA0-U,TFA0-U IV,Dark Compound,Medium,23.10
+Pure Blind,S4GH-I,TFA0-U,TFA0-U IV,Industrial Fibers,Poor,3.64
+Pure Blind,S4GH-I,TFA0-U,TFA0-U IV,Supertensile Plastics,Medium,13.68
+Pure Blind,S4GH-I,TFA0-U,TFA0-U IV,Construction Blocks,Medium,21.58
+Pure Blind,S4GH-I,TFA0-U,TFA0-U V,Glossy Compound,Rich,25.48
+Pure Blind,S4GH-I,TFA0-U,TFA0-U V,Reactive Gas,Medium,20.28
+Pure Blind,S4GH-I,TFA0-U,TFA0-U V,Noble Gas,Rich,29.40
+Pure Blind,S4GH-I,TFA0-U,TFA0-U V,Base Metals,Medium,6.57
+Pure Blind,S4GH-I,TFA0-U,TFA0-U V,Ionic Solutions,Medium,9.92
+Pure Blind,S4GH-I,TFA0-U,TFA0-U VI,Fiber Composite,Medium,23.06
+Pure Blind,S4GH-I,TFA0-U,TFA0-U VI,Reactive Gas,Rich,30.70
+Pure Blind,S4GH-I,TFA0-U,TFA0-U VI,Base Metals,Medium,5.64
+Pure Blind,S4GH-I,TFA0-U,TFA0-U VI,Polyaramids,Medium,12.85
+Pure Blind,S4GH-I,TFA0-U,TFA0-U VI,Ionic Solutions,Rich,10.15
+Pure Blind,S4GH-I,TFA0-U,TFA0-U VII,Sheen Compound,Medium,20.94
+Pure Blind,S4GH-I,TFA0-U,TFA0-U VII,Reactive Gas,Medium,24.54
+Pure Blind,S4GH-I,TFA0-U,TFA0-U VII,Noble Gas,Rich,25.66
+Pure Blind,S4GH-I,TFA0-U,TFA0-U VII,Coolant,Medium,16.75
+Pure Blind,S4GH-I,TFA0-U,TFA0-U VII,Ionic Solutions,Medium,8.46
+Pure Blind,S4GH-I,TFA0-U,TFA0-U VIII,Lustering Alloy,Medium,20.24
+Pure Blind,S4GH-I,TFA0-U,TFA0-U VIII,Fiber Composite,Medium,22.28
+Pure Blind,S4GH-I,TFA0-U,TFA0-U VIII,Reactive Gas,Medium,20.00
+Pure Blind,S4GH-I,TFA0-U,TFA0-U VIII,Noble Gas,Rich,29.02
+Pure Blind,S4GH-I,TFA0-U,TFA0-U VIII,Ionic Solutions,Poor,6.74
+Pure Blind,S4GH-I,TFA0-U,TFA0-U IX,Fiber Composite,Medium,20.62
+Pure Blind,S4GH-I,TFA0-U,TFA0-U IX,Reactive Gas,Medium,22.52
+Pure Blind,S4GH-I,TFA0-U,TFA0-U IX,Polyaramids,Perfect,21.28
+Pure Blind,S4GH-I,TFA0-U,TFA0-U IX,Coolant,Medium,13.16
+Pure Blind,S4GH-I,TFA0-U,TFA0-U IX,Ionic Solutions,Medium,8.90
+Pure Blind,S4GH-I,TFA0-U,TFA0-U X,Noble Metals,Medium,20.68
+Pure Blind,S4GH-I,TFA0-U,TFA0-U X,Toxic Metals,Medium,4.99
+Pure Blind,S4GH-I,TFA0-U,TFA0-U X,Silicate Glass,Rich,14.42
+Pure Blind,S4GH-I,TFA0-U,TFA0-U X,Heavy Water,Medium,222.60
+Pure Blind,S4GH-I,TFA0-U,TFA0-U X,Liquid Ozone,Rich,33.98
+Pure Blind,S4GH-I,RQH-MY,RQH-MY I,Precious Alloy,Poor,16.34
+Pure Blind,S4GH-I,RQH-MY,RQH-MY I,Industrial Fibers,Poor,3.48
+Pure Blind,S4GH-I,RQH-MY,RQH-MY I,Supertensile Plastics,Medium,14.97
+Pure Blind,S4GH-I,RQH-MY,RQH-MY I,Construction Blocks,Poor,14.54
+Pure Blind,S4GH-I,RQH-MY,RQH-MY II,Lustering Alloy,Rich,31.66
+Pure Blind,S4GH-I,RQH-MY,RQH-MY II,Sheen Compound,Rich,27.34
+Pure Blind,S4GH-I,RQH-MY,RQH-MY II,Fiber Composite,Rich,26.46
+Pure Blind,S4GH-I,RQH-MY,RQH-MY II,Reactive Gas,Rich,30.16
+Pure Blind,S4GH-I,RQH-MY,RQH-MY II,Ionic Solutions,Poor,6.93
+Pure Blind,S4GH-I,RQH-MY,RQH-MY III,Lustering Alloy,Medium,24.02
+Pure Blind,S4GH-I,RQH-MY,RQH-MY III,Glossy Compound,Rich,29.82
+Pure Blind,S4GH-I,RQH-MY,RQH-MY III,Reactive Gas,Medium,22.06
+Pure Blind,S4GH-I,RQH-MY,RQH-MY III,Noble Gas,Medium,19.92
+Pure Blind,S4GH-I,RQH-MY,RQH-MY III,Reactive Metals,Poor,4.69
+Pure Blind,S4GH-I,RQH-MY,RQH-MY IV,Lustering Alloy,Rich,27.64
+Pure Blind,S4GH-I,RQH-MY,RQH-MY IV,Sheen Compound,Medium,25.00
+Pure Blind,S4GH-I,RQH-MY,RQH-MY IV,Glossy Compound,Medium,22.12
+Pure Blind,S4GH-I,RQH-MY,RQH-MY IV,Reactive Gas,Rich,25.52
+Pure Blind,S4GH-I,RQH-MY,RQH-MY IV,Noble Gas,Rich,27.04
+Pure Blind,S4GH-I,RQH-MY,RQH-MY V,Lustering Alloy,Medium,25.30
+Pure Blind,S4GH-I,RQH-MY,RQH-MY V,Precious Alloy,Rich,25.62
+Pure Blind,S4GH-I,RQH-MY,RQH-MY V,Supertensile Plastics,Rich,16.95
+Pure Blind,S4GH-I,RQH-MY,RQH-MY V,Condensates,Rich,19.41
+Pure Blind,S4GH-I,HPS5-C,HPS5-C I,Gleaming Alloy,Rich,31.44
+Pure Blind,S4GH-I,HPS5-C,HPS5-C I,Motley Compound,Rich,26.88
+Pure Blind,S4GH-I,HPS5-C,HPS5-C I,Smartfab Units,Rich,18.92
+Pure Blind,S4GH-I,HPS5-C,HPS5-C II,Lucent Compound,Poor,16.20
+Pure Blind,S4GH-I,HPS5-C,HPS5-C II,Reactive Metals,Rich,6.69
+Pure Blind,S4GH-I,HPS5-C,HPS5-C II,Construction Blocks,Poor,17.36
+Pure Blind,S4GH-I,HPS5-C,HPS5-C II,Nanites,Rich,6.74
+Pure Blind,S4GH-I,HPS5-C,HPS5-C III,Condensed Alloy,Perfect,35.06
+Pure Blind,S4GH-I,HPS5-C,HPS5-C III,Fiber Composite,Rich,28.52
+Pure Blind,S4GH-I,HPS5-C,HPS5-C III,Opulent Compound,Perfect,33.12
+Pure Blind,S4GH-I,HPS5-C,HPS5-C III,Heavy Water,Rich,265.00
+Pure Blind,S4GH-I,HPS5-C,HPS5-C III,Liquid Ozone,Perfect,42.25
+Pure Blind,S4GH-I,HPS5-C,HPS5-C IV,Fiber Composite,Perfect,37.34
+Pure Blind,S4GH-I,HPS5-C,HPS5-C IV,Base Metals,Rich,7.42
+Pure Blind,S4GH-I,HPS5-C,HPS5-C IV,Noble Metals,Medium,23.66
+Pure Blind,S4GH-I,HPS5-C,HPS5-C IV,Heavy Water,Medium,231.80
+Pure Blind,S4GH-I,HPS5-C,HPS5-C IV,Liquid Ozone,Rich,37.55
+Pure Blind,S4GH-I,HPS5-C,HPS5-C V,Glossy Compound,Medium,25.18
+Pure Blind,S4GH-I,HPS5-C,HPS5-C V,Reactive Gas,Poor,16.88
+Pure Blind,S4GH-I,HPS5-C,HPS5-C V,Noble Gas,Medium,21.18
+Pure Blind,S4GH-I,HPS5-C,HPS5-C V,Base Metals,Rich,6.95
+Pure Blind,S4GH-I,HPS5-C,HPS5-C V,Reactive Metals,Rich,7.86
+Pure Blind,S4GH-I,HPS5-C,HPS5-C VI,Motley Compound,Rich,28.04
+Pure Blind,S4GH-I,HPS5-C,HPS5-C VI,Heavy Metals,Rich,27.10
+Pure Blind,S4GH-I,HPS5-C,HPS5-C VI,Supertensile Plastics,Rich,18.33
+Pure Blind,S4GH-I,HPS5-C,HPS5-C VI,Condensates,Poor,9.77
+Pure Blind,S4GH-I,DT-TCD,DT-TCD I,Toxic Metals,Poor,4.59
+Pure Blind,S4GH-I,DT-TCD,DT-TCD I,Industrial Fibers,Poor,4.66
+Pure Blind,S4GH-I,DT-TCD,DT-TCD I,Supertensile Plastics,Poor,8.60
+Pure Blind,S4GH-I,DT-TCD,DT-TCD I,Silicate Glass,Medium,9.80
+Pure Blind,S4GH-I,DT-TCD,DT-TCD II,Lustering Alloy,Poor,14.08
+Pure Blind,S4GH-I,DT-TCD,DT-TCD II,Toxic Metals,Poor,3.41
+Pure Blind,S4GH-I,DT-TCD,DT-TCD II,Supertensile Plastics,Medium,15.45
+Pure Blind,S4GH-I,DT-TCD,DT-TCD II,Construction Blocks,Poor,17.48
+Pure Blind,S4GH-I,DT-TCD,DT-TCD III,Gleaming Alloy,Rich,27.84
+Pure Blind,S4GH-I,DT-TCD,DT-TCD III,Polyaramids,Medium,14.75
+Pure Blind,S4GH-I,DT-TCD,DT-TCD III,Oxygen Isotopes,Rich,4.37
+Pure Blind,S4GH-I,DT-TCD,DT-TCD IV,Condensed Alloy,Rich,28.40
+Pure Blind,S4GH-I,DT-TCD,DT-TCD IV,Base Metals,Medium,6.04
+Pure Blind,S4GH-I,DT-TCD,DT-TCD IV,Noble Metals,Medium,21.86
+Pure Blind,S4GH-I,DT-TCD,DT-TCD IV,Industrial Fibers,Perfect,9.09
+Pure Blind,S4GH-I,DT-TCD,DT-TCD IV,Liquid Ozone,Perfect,43.25
+Pure Blind,S4GH-I,DT-TCD,DT-TCD V,Fiber Composite,Medium,21.44
+Pure Blind,S4GH-I,DT-TCD,DT-TCD V,Reactive Gas,Medium,20.90
+Pure Blind,S4GH-I,DT-TCD,DT-TCD V,Noble Gas,Medium,20.42
+Pure Blind,S4GH-I,DT-TCD,DT-TCD V,Base Metals,Poor,4.73
+Pure Blind,S4GH-I,DT-TCD,DT-TCD V,Ionic Solutions,Medium,9.82
+Pure Blind,S4GH-I,DT-TCD,DT-TCD VI,Base Metals,Medium,5.11
+Pure Blind,S4GH-I,DT-TCD,DT-TCD VI,Industrial Fibers,Poor,3.61
+Pure Blind,S4GH-I,DT-TCD,DT-TCD VI,Supertensile Plastics,Poor,11.25
+Pure Blind,S4GH-I,DT-TCD,DT-TCD VI,Plasmoids,Poor,0.87
+Pure Blind,S4GH-I,DT-TCD,DT-TCD VII,Crystal Compound,Medium,19.74
+Pure Blind,S4GH-I,DT-TCD,DT-TCD VII,Reactive Metals,Poor,4.30
+Pure Blind,S4GH-I,DT-TCD,DT-TCD VII,Construction Blocks,Rich,27.80
+Pure Blind,S4GH-I,DT-TCD,DT-TCD VII,Oxygen Isotopes,Rich,4.29
+Pure Blind,S4GH-I,DT-TCD,DT-TCD VIII,Lustering Alloy,Rich,28.52
+Pure Blind,S4GH-I,DT-TCD,DT-TCD VIII,Sheen Compound,Medium,23.54
+Pure Blind,S4GH-I,DT-TCD,DT-TCD VIII,Reactive Gas,Rich,29.48
+Pure Blind,S4GH-I,DT-TCD,DT-TCD VIII,Base Metals,Medium,4.97
+Pure Blind,S4GH-I,DT-TCD,DT-TCD VIII,Ionic Solutions,Rich,12.55
+Pure Blind,S4GH-I,DT-TCD,DT-TCD IX,Gleaming Alloy,Medium,20.82
+Pure Blind,S4GH-I,DT-TCD,DT-TCD IX,Crystal Compound,Medium,23.58
+Pure Blind,S4GH-I,DT-TCD,DT-TCD IX,Reactive Metals,Medium,5.78
+Pure Blind,S4GH-I,DT-TCD,DT-TCD IX,Supertensile Plastics,Medium,13.39
+Pure Blind,0A-73B,KU5R-W,KU5R-W I,Gleaming Alloy,Medium,25.81
+Pure Blind,0A-73B,KU5R-W,KU5R-W I,Heavy Metals,Poor,18.63
+Pure Blind,0A-73B,KU5R-W,KU5R-W I,Noble Metals,Poor,18.59
+Pure Blind,0A-73B,KU5R-W,KU5R-W II,Lucent Compound,Rich,28.54
+Pure Blind,0A-73B,KU5R-W,KU5R-W II,Reactive Metals,Rich,7.65
+Pure Blind,0A-73B,KU5R-W,KU5R-W II,Supertensile Plastics,Rich,19.87
+Pure Blind,0A-73B,KU5R-W,KU5R-W II,Oxygen Isotopes,Medium,3.36
+Pure Blind,0A-73B,KU5R-W,KU5R-W III,Fiber Composite,Rich,32.11
+Pure Blind,0A-73B,KU5R-W,KU5R-W III,Glossy Compound,Perfect,34.52
+Pure Blind,0A-73B,KU5R-W,KU5R-W III,Reactive Gas,Medium,25.81
+Pure Blind,0A-73B,KU5R-W,KU5R-W III,Base Metals,Rich,8.55
+Pure Blind,0A-73B,KU5R-W,KU5R-W III,Reactive Metals,Poor,4.75
+Pure Blind,0A-73B,KU5R-W,KU5R-W IV,Sheen Compound,Medium,19.91
+Pure Blind,0A-73B,KU5R-W,KU5R-W IV,Reactive Gas,Medium,22.32
+Pure Blind,0A-73B,KU5R-W,KU5R-W IV,Polyaramids,Medium,13.68
+Pure Blind,0A-73B,KU5R-W,KU5R-W IV,Coolant,Poor,11.68
+Pure Blind,0A-73B,KU5R-W,KU5R-W IV,Ionic Solutions,Rich,10.70
+Pure Blind,0A-73B,KU5R-W,KU5R-W V,Lustering Alloy,Rich,30.66
+Pure Blind,0A-73B,KU5R-W,KU5R-W V,Sheen Compound,Medium,20.66
+Pure Blind,0A-73B,KU5R-W,KU5R-W V,Fiber Composite,Rich,27.57
+Pure Blind,0A-73B,KU5R-W,KU5R-W V,Glossy Compound,Rich,28.73
+Pure Blind,0A-73B,KU5R-W,KU5R-W V,Reactive Gas,Poor,19.61
+Pure Blind,0A-73B,KU5R-W,KU5R-W VI,Base Metals,Poor,4.45
+Pure Blind,0A-73B,KU5R-W,KU5R-W VI,Supertensile Plastics,Poor,9.51
+Pure Blind,0A-73B,KU5R-W,KU5R-W VI,Construction Blocks,Medium,21.95
+Pure Blind,0A-73B,KU5R-W,KU5R-W VI,Silicate Glass,Poor,9.19
+Pure Blind,0A-73B,H1-J33,H1-J33 I,Dark Compound,Poor,18.15
+Pure Blind,0A-73B,H1-J33,H1-J33 I,Supertensile Plastics,Poor,13.32
+Pure Blind,0A-73B,H1-J33,H1-J33 I,Construction Blocks,Medium,24.27
+Pure Blind,0A-73B,H1-J33,H1-J33 I,Silicate Glass,Medium,11.68
+Pure Blind,0A-73B,H1-J33,H1-J33 II,Lustering Alloy,Medium,25.21
+Pure Blind,0A-73B,H1-J33,H1-J33 II,Industrial Fibers,Poor,4.79
+Pure Blind,0A-73B,H1-J33,H1-J33 II,Supertensile Plastics,Poor,9.21
+Pure Blind,0A-73B,H1-J33,H1-J33 II,Silicate Glass,Medium,12.18
+Pure Blind,0A-73B,H1-J33,H1-J33 III,Precious Alloy,Medium,23.85
+Pure Blind,0A-73B,H1-J33,H1-J33 III,Base Metals,Medium,5.88
+Pure Blind,0A-73B,H1-J33,H1-J33 III,Supertensile Plastics,Medium,15.83
+Pure Blind,0A-73B,H1-J33,H1-J33 III,Plasmoids,Poor,0.99
+Pure Blind,0A-73B,H1-J33,H1-J33 IV,Fiber Composite,Medium,23.98
+Pure Blind,0A-73B,H1-J33,H1-J33 IV,Reactive Gas,Rich,27.92
+Pure Blind,0A-73B,H1-J33,H1-J33 IV,Base Metals,Medium,6.11
+Pure Blind,0A-73B,H1-J33,H1-J33 IV,Reactive Metals,Medium,7.28
+Pure Blind,0A-73B,H1-J33,H1-J33 IV,Coolant,Medium,17.95
+Pure Blind,0A-73B,H1-J33,H1-J33 V,Sheen Compound,Rich,34.21
+Pure Blind,0A-73B,H1-J33,H1-J33 V,Reactive Gas,Medium,27.02
+Pure Blind,0A-73B,H1-J33,H1-J33 V,Polyaramids,Rich,18.70
+Pure Blind,0A-73B,H1-J33,H1-J33 V,Coolant,Rich,19.18
+Pure Blind,0A-73B,H1-J33,H1-J33 V,Ionic Solutions,Medium,8.90
+Pure Blind,0A-73B,H1-J33,H1-J33 VI,Lustering Alloy,Medium,22.92
+Pure Blind,0A-73B,H1-J33,H1-J33 VI,Sheen Compound,Perfect,36.45
+Pure Blind,0A-73B,H1-J33,H1-J33 VI,Glossy Compound,Poor,20.68
+Pure Blind,0A-73B,H1-J33,H1-J33 VI,Reactive Gas,Rich,34.28
+Pure Blind,0A-73B,H1-J33,H1-J33 VI,Noble Gas,Medium,25.32
+Pure Blind,0A-73B,H1-J33,H1-J33 VII,Base Metals,Rich,8.50
+Pure Blind,0A-73B,H1-J33,H1-J33 VII,Coolant,Poor,11.70
+Pure Blind,0A-73B,H1-J33,H1-J33 VII,Condensates,Medium,15.90
+Pure Blind,0A-73B,H1-J33,H1-J33 VII,Liquid Ozone,Poor,25.03
+Pure Blind,0A-73B,H1-J33,H1-J33 VIII,Lustering Alloy,Poor,20.20
+Pure Blind,0A-73B,H1-J33,H1-J33 VIII,Precious Alloy,Medium,27.19
+Pure Blind,0A-73B,H1-J33,H1-J33 VIII,Motley Compound,Medium,21.87
+Pure Blind,0A-73B,H1-J33,H1-J33 VIII,Condensates,Medium,15.28
+Pure Blind,0A-73B,Y-C3EQ,Y-C3EQ I,Base Metals,Poor,3.43
+Pure Blind,0A-73B,Y-C3EQ,Y-C3EQ I,Industrial Fibers,Medium,5.77
+Pure Blind,0A-73B,Y-C3EQ,Y-C3EQ I,Supertensile Plastics,Poor,9.30
+Pure Blind,0A-73B,Y-C3EQ,Y-C3EQ I,Construction Blocks,Medium,25.12
+Pure Blind,0A-73B,Y-C3EQ,Y-C3EQ II,Gleaming Alloy,Medium,24.78
+Pure Blind,0A-73B,Y-C3EQ,Y-C3EQ II,Noble Gas,Rich,30.22
+Pure Blind,0A-73B,Y-C3EQ,Y-C3EQ II,Polyaramids,Medium,13.45
+Pure Blind,0A-73B,Y-C3EQ,Y-C3EQ III,Glossy Compound,Medium,23.86
+Pure Blind,0A-73B,Y-C3EQ,Y-C3EQ III,Reactive Gas,Medium,21.40
+Pure Blind,0A-73B,Y-C3EQ,Y-C3EQ III,Polyaramids,Medium,14.24
+Pure Blind,0A-73B,Y-C3EQ,Y-C3EQ III,Coolant,Perfect,22.96
+Pure Blind,0A-73B,Y-C3EQ,Y-C3EQ III,Ionic Solutions,Medium,10.32
+Pure Blind,0A-73B,Y-C3EQ,Y-C3EQ IV,Lustering Alloy,Medium,26.50
+Pure Blind,0A-73B,Y-C3EQ,Y-C3EQ IV,Fiber Composite,Medium,22.97
+Pure Blind,0A-73B,Y-C3EQ,Y-C3EQ IV,Reactive Gas,Medium,23.41
+Pure Blind,0A-73B,Y-C3EQ,Y-C3EQ IV,Coolant,Medium,17.50
+Pure Blind,0A-73B,Y-C3EQ,Y-C3EQ IV,Ionic Solutions,Rich,12.43
+Pure Blind,0A-73B,Y-C3EQ,Y-C3EQ V,Lustering Alloy,Rich,27.01
+Pure Blind,0A-73B,Y-C3EQ,Y-C3EQ V,Motley Compound,Rich,28.60
+Pure Blind,0A-73B,Y-C3EQ,Y-C3EQ V,Heavy Metals,Rich,26.94
+Pure Blind,0A-73B,Y-C3EQ,Y-C3EQ V,Condensates,Poor,10.21
+Pure Blind,0A-73B,OGV-AS,OGV-AS I,Gleaming Alloy,Medium,24.40
+Pure Blind,0A-73B,OGV-AS,OGV-AS I,Heavy Metals,Medium,26.54
+Pure Blind,0A-73B,OGV-AS,OGV-AS I,Smartfab Units,Rich,19.88
+Pure Blind,0A-73B,OGV-AS,OGV-AS II,Fiber Composite,Medium,25.66
+Pure Blind,0A-73B,OGV-AS,OGV-AS II,Reactive Gas,Medium,23.46
+Pure Blind,0A-73B,OGV-AS,OGV-AS II,Noble Gas,Rich,29.30
+Pure Blind,0A-73B,OGV-AS,OGV-AS II,Base Metals,Rich,7.52
+Pure Blind,0A-73B,OGV-AS,OGV-AS II,Ionic Solutions,Medium,9.37
+Pure Blind,0A-73B,OGV-AS,OGV-AS III,Lustering Alloy,Poor,17.49
+Pure Blind,0A-73B,OGV-AS,OGV-AS III,Fiber Composite,Perfect,34.19
+Pure Blind,0A-73B,OGV-AS,OGV-AS III,Glossy Compound,Perfect,33.79
+Pure Blind,0A-73B,OGV-AS,OGV-AS III,Reactive Gas,Medium,20.68
+Pure Blind,0A-73B,OGV-AS,OGV-AS III,Polyaramids,Medium,15.18
+Pure Blind,0A-73B,OGV-AS,OGV-AS IV,Lustering Alloy,Perfect,34.38
+Pure Blind,0A-73B,OGV-AS,OGV-AS IV,Sheen Compound,Medium,23.25
+Pure Blind,0A-73B,OGV-AS,OGV-AS IV,Fiber Composite,Perfect,34.73
+Pure Blind,0A-73B,OGV-AS,OGV-AS IV,Reactive Gas,Rich,29.13
+Pure Blind,0A-73B,OGV-AS,OGV-AS IV,Noble Gas,Rich,31.71
+Pure Blind,0A-73B,OGV-AS,OGV-AS V,Lucent Compound,Rich,29.50
+Pure Blind,0A-73B,OGV-AS,OGV-AS V,Dark Compound,Rich,27.72
+Pure Blind,0A-73B,OGV-AS,OGV-AS V,Condensates,Rich,22.15
+Pure Blind,0A-73B,OGV-AS,OGV-AS V,Nanites,Medium,5.86
+Pure Blind,0A-73B,OGV-AS,OGV-AS V,Plasmoids,Medium,1.43
+Pure Blind,0A-73B,OGV-AS,OGV-AS VI,Industrial Fibers,Poor,3.84
+Pure Blind,0A-73B,OGV-AS,OGV-AS VI,Supertensile Plastics,Medium,14.69
+Pure Blind,0A-73B,OGV-AS,OGV-AS VI,Oxygen Isotopes,Medium,3.55
+Pure Blind,0A-73B,OGV-AS,OGV-AS VI,Plasmoids,Medium,1.42
+Pure Blind,0A-73B,7D-0SQ,7D-0SQ I,Noble Gas,Rich,31.94
+Pure Blind,0A-73B,7D-0SQ,7D-0SQ I,Reactive Metals,Rich,7.58
+Pure Blind,0A-73B,7D-0SQ,7D-0SQ I,Condensates,Rich,17.86
+Pure Blind,0A-73B,7D-0SQ,7D-0SQ I,Ionic Solutions,Medium,10.14
+Pure Blind,0A-73B,7D-0SQ,7D-0SQ I,Plasmoids,Perfect,2.05
+Pure Blind,0A-73B,7D-0SQ,7D-0SQ II,Gleaming Alloy,Poor,17.11
+Pure Blind,0A-73B,7D-0SQ,7D-0SQ II,Polyaramids,Medium,16.30
+Pure Blind,0A-73B,7D-0SQ,7D-0SQ II,Construction Blocks,Rich,31.48
+Pure Blind,0A-73B,7D-0SQ,7D-0SQ III,Base Metals,Poor,3.76
+Pure Blind,0A-73B,7D-0SQ,7D-0SQ III,Industrial Fibers,Medium,6.42
+Pure Blind,0A-73B,7D-0SQ,7D-0SQ III,Supertensile Plastics,Medium,14.14
+Pure Blind,0A-73B,7D-0SQ,7D-0SQ III,Plasmoids,Poor,0.83
+Pure Blind,0A-73B,7D-0SQ,7D-0SQ IV,Dark Compound,Poor,14.91
+Pure Blind,0A-73B,7D-0SQ,7D-0SQ IV,Industrial Fibers,Poor,4.48
+Pure Blind,0A-73B,7D-0SQ,7D-0SQ IV,Supertensile Plastics,Poor,10.19
+Pure Blind,0A-73B,7D-0SQ,7D-0SQ IV,Silicate Glass,Medium,12.10
+Pure Blind,0A-73B,7D-0SQ,7D-0SQ V,Reactive Gas,Medium,21.57
+Pure Blind,0A-73B,7D-0SQ,7D-0SQ V,Industrial Fibers,Medium,6.48
+Pure Blind,0A-73B,7D-0SQ,7D-0SQ V,Condensates,Perfect,23.44
+Pure Blind,0A-73B,7D-0SQ,7D-0SQ V,Smartfab Units,Medium,13.40
+Pure Blind,0A-73B,7D-0SQ,7D-0SQ V,Liquid Ozone,Rich,37.96
+Pure Blind,0A-73B,7D-0SQ,7D-0SQ VI,Sheen Compound,Perfect,34.17
+Pure Blind,0A-73B,7D-0SQ,7D-0SQ VI,Reactive Gas,Medium,26.19
+Pure Blind,0A-73B,7D-0SQ,7D-0SQ VI,Base Metals,Rich,8.51
+Pure Blind,0A-73B,7D-0SQ,7D-0SQ VI,Polyaramids,Perfect,22.72
+Pure Blind,0A-73B,7D-0SQ,7D-0SQ VI,Ionic Solutions,Medium,9.51
+Pure Blind,0A-73B,7D-0SQ,7D-0SQ VII,Industrial Fibers,Poor,3.78
+Pure Blind,0A-73B,7D-0SQ,7D-0SQ VII,Supertensile Plastics,Poor,10.51
+Pure Blind,0A-73B,7D-0SQ,7D-0SQ VII,Construction Blocks,Poor,19.72
+Pure Blind,0A-73B,7D-0SQ,7D-0SQ VII,Silicate Glass,Poor,9.58
+Pure Blind,0A-73B,7D-0SQ,7D-0SQ VIII,Lustering Alloy,Medium,25.56
+Pure Blind,0A-73B,7D-0SQ,7D-0SQ VIII,Precious Alloy,Poor,17.81
+Pure Blind,0A-73B,7D-0SQ,7D-0SQ VIII,Supertensile Plastics,Poor,10.21
+Pure Blind,0A-73B,7D-0SQ,7D-0SQ VIII,Plasmoids,Poor,0.94
+Pure Blind,0A-73B,7D-0SQ,7D-0SQ IX,Sheen Compound,Poor,18.96
+Pure Blind,0A-73B,7D-0SQ,7D-0SQ IX,Glossy Compound,Rich,28.66
+Pure Blind,0A-73B,7D-0SQ,7D-0SQ IX,Reactive Gas,Rich,29.69
+Pure Blind,0A-73B,7D-0SQ,7D-0SQ IX,Base Metals,Rich,7.96
+Pure Blind,0A-73B,7D-0SQ,7D-0SQ IX,Polyaramids,Rich,21.73
+Pure Blind,0A-73B,7D-0SQ,7D-0SQ X,Lustering Alloy,Rich,29.88
+Pure Blind,0A-73B,7D-0SQ,7D-0SQ X,Condensates,Poor,12.49
+Pure Blind,0A-73B,7D-0SQ,7D-0SQ X,Suspended Plasma,Medium,83.76
+Pure Blind,0A-73B,7D-0SQ,7D-0SQ X,Liquid Ozone,Poor,20.69
+Pure Blind,0A-73B,UI-8ZE,UI-8ZE I,Industrial Fibers,Poor,5.03
+Pure Blind,0A-73B,UI-8ZE,UI-8ZE I,Supertensile Plastics,Poor,12.83
+Pure Blind,0A-73B,UI-8ZE,UI-8ZE I,Oxygen Isotopes,Medium,3.83
+Pure Blind,0A-73B,UI-8ZE,UI-8ZE I,Plasmoids,Poor,0.87
+Pure Blind,0A-73B,UI-8ZE,UI-8ZE II,Precious Alloy,Poor,17.91
+Pure Blind,0A-73B,UI-8ZE,UI-8ZE II,Base Metals,Medium,6.29
+Pure Blind,0A-73B,UI-8ZE,UI-8ZE II,Supertensile Plastics,Poor,10.56
+Pure Blind,0A-73B,UI-8ZE,UI-8ZE II,Silicate Glass,Medium,13.28
+Pure Blind,0A-73B,UI-8ZE,UI-8ZE III,Base Metals,Medium,6.86
+Pure Blind,0A-73B,UI-8ZE,UI-8ZE III,Supertensile Plastics,Poor,13.54
+Pure Blind,0A-73B,UI-8ZE,UI-8ZE III,Silicate Glass,Medium,10.44
+Pure Blind,0A-73B,UI-8ZE,UI-8ZE III,Oxygen Isotopes,Medium,3.96
+Pure Blind,0A-73B,UI-8ZE,UI-8ZE IV,Precious Alloy,Poor,13.93
+Pure Blind,0A-73B,UI-8ZE,UI-8ZE IV,Supertensile Plastics,Poor,13.13
+Pure Blind,0A-73B,UI-8ZE,UI-8ZE IV,Construction Blocks,Poor,16.74
+Pure Blind,0A-73B,UI-8ZE,UI-8ZE IV,Oxygen Isotopes,Medium,3.84
+Pure Blind,0A-73B,UI-8ZE,UI-8ZE V,Lustering Alloy,Poor,19.51
+Pure Blind,0A-73B,UI-8ZE,UI-8ZE V,Supertensile Plastics,Poor,9.37
+Pure Blind,0A-73B,UI-8ZE,UI-8ZE V,Silicate Glass,Medium,12.35
+Pure Blind,0A-73B,UI-8ZE,UI-8ZE V,Oxygen Isotopes,Poor,2.71
+Pure Blind,0A-73B,UI-8ZE,UI-8ZE VI,Sheen Compound,Poor,20.35
+Pure Blind,0A-73B,UI-8ZE,UI-8ZE VI,Reactive Gas,Medium,23.23
+Pure Blind,0A-73B,UI-8ZE,UI-8ZE VI,Noble Gas,Medium,25.87
+Pure Blind,0A-73B,UI-8ZE,UI-8ZE VI,Coolant,Perfect,23.76
+Pure Blind,0A-73B,UI-8ZE,UI-8ZE VI,Ionic Solutions,Medium,10.04
+Pure Blind,0A-73B,UI-8ZE,UI-8ZE VII,Lustering Alloy,Medium,24.00
+Pure Blind,0A-73B,UI-8ZE,UI-8ZE VII,Fiber Composite,Perfect,35.11
+Pure Blind,0A-73B,UI-8ZE,UI-8ZE VII,Reactive Gas,Rich,30.84
+Pure Blind,0A-73B,UI-8ZE,UI-8ZE VII,Polyaramids,Rich,23.17
+Pure Blind,0A-73B,UI-8ZE,UI-8ZE VII,Coolant,Rich,22.72
+Pure Blind,0A-73B,UI-8ZE,UI-8ZE VIII,Lustering Alloy,Rich,28.31
+Pure Blind,0A-73B,UI-8ZE,UI-8ZE VIII,Fiber Composite,Rich,29.55
+Pure Blind,0A-73B,UI-8ZE,UI-8ZE VIII,Glossy Compound,Medium,22.99
+Pure Blind,0A-73B,UI-8ZE,UI-8ZE VIII,Reactive Gas,Medium,25.74
+Pure Blind,0A-73B,UI-8ZE,UI-8ZE VIII,Ionic Solutions,Rich,11.70
+Pure Blind,0A-73B,UI-8ZE,UI-8ZE IX,Base Metals,Medium,6.33
+Pure Blind,0A-73B,UI-8ZE,UI-8ZE IX,Heavy Metals,Poor,19.54
+Pure Blind,0A-73B,UI-8ZE,UI-8ZE IX,Coolant,Medium,16.27
+Pure Blind,0A-73B,UI-8ZE,UI-8ZE IX,Condensates,Medium,17.07
+Pure Blind,0A-73B,UI-8ZE,UI-8ZE X,Fiber Composite,Poor,18.92
+Pure Blind,0A-73B,UI-8ZE,UI-8ZE X,Glossy Compound,Medium,27.52
+Pure Blind,0A-73B,UI-8ZE,UI-8ZE X,Reactive Gas,Medium,24.09
+Pure Blind,0A-73B,UI-8ZE,UI-8ZE X,Reactive Metals,Medium,5.77
+Pure Blind,0A-73B,UI-8ZE,UI-8ZE X,Ionic Solutions,Rich,11.82

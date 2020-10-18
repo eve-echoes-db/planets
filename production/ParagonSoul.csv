@@ -1,0 +1,1431 @@
+Region,Constellation,System,Name,Item,Rate,Output
+Paragon Soul,17K-QM,JI-K5H,JI-K5H I,Gleaming Alloy,Rich,28.80
+Paragon Soul,17K-QM,JI-K5H,JI-K5H I,Noble Gas,Medium,24.08
+Paragon Soul,17K-QM,JI-K5H,JI-K5H I,Heavy Metals,Rich,30.90
+Paragon Soul,17K-QM,JI-K5H,JI-K5H II,Precious Alloy,Medium,20.50
+Paragon Soul,17K-QM,JI-K5H,JI-K5H II,Base Metals,Medium,5.04
+Paragon Soul,17K-QM,JI-K5H,JI-K5H II,Supertensile Plastics,Medium,13.23
+Paragon Soul,17K-QM,JI-K5H,JI-K5H II,Construction Blocks,Medium,21.48
+Paragon Soul,17K-QM,JI-K5H,JI-K5H III,Gleaming Alloy,Rich,26.64
+Paragon Soul,17K-QM,JI-K5H,JI-K5H III,Smartfab Units,Medium,14.43
+Paragon Soul,17K-QM,JI-K5H,JI-K5H III,Oxygen Isotopes,Medium,3.39
+Paragon Soul,17K-QM,JI-K5H,JI-K5H IV,Precious Alloy,Poor,17.44
+Paragon Soul,17K-QM,JI-K5H,JI-K5H IV,Dark Compound,Medium,21.24
+Paragon Soul,17K-QM,JI-K5H,JI-K5H IV,Supertensile Plastics,Poor,10.36
+Paragon Soul,17K-QM,JI-K5H,JI-K5H IV,Construction Blocks,Poor,14.22
+Paragon Soul,17K-QM,JI-K5H,JI-K5H V,Gleaming Alloy,Perfect,33.00
+Paragon Soul,17K-QM,JI-K5H,JI-K5H V,Glossy Compound,Poor,16.02
+Paragon Soul,17K-QM,JI-K5H,JI-K5H V,Noble Gas,Poor,16.80
+Paragon Soul,17K-QM,JI-K5H,JI-K5H VI,Precious Alloy,Medium,22.62
+Paragon Soul,17K-QM,JI-K5H,JI-K5H VI,Industrial Fibers,Poor,4.59
+Paragon Soul,17K-QM,JI-K5H,JI-K5H VI,Supertensile Plastics,Medium,13.39
+Paragon Soul,17K-QM,JI-K5H,JI-K5H VI,Plasmoids,Poor,0.77
+Paragon Soul,17K-QM,JI-K5H,JI-K5H VII,Gleaming Alloy,Rich,31.12
+Paragon Soul,17K-QM,JI-K5H,JI-K5H VII,Glossy Compound,Medium,19.52
+Paragon Soul,17K-QM,JI-K5H,JI-K5H VII,Construction Blocks,Rich,25.70
+Paragon Soul,17K-QM,JI-K5H,JI-K5H VIII,Gleaming Alloy,Rich,30.94
+Paragon Soul,17K-QM,JI-K5H,JI-K5H VIII,Glossy Compound,Rich,30.34
+Paragon Soul,17K-QM,JI-K5H,JI-K5H VIII,Heavy Metals,Rich,28.80
+Paragon Soul,17K-QM,JI-K5H,JI-K5H IX,Gleaming Alloy,Rich,28.88
+Paragon Soul,17K-QM,JI-K5H,JI-K5H IX,Noble Metals,Poor,16.88
+Paragon Soul,17K-QM,JI-K5H,JI-K5H IX,Polyaramids,Medium,16.80
+Paragon Soul,17K-QM,JI-K5H,JI-K5H X,Noble Metals,Medium,23.92
+Paragon Soul,17K-QM,JI-K5H,JI-K5H X,Toxic Metals,Perfect,8.83
+Paragon Soul,17K-QM,JI-K5H,JI-K5H X,Coolant,Rich,17.35
+Paragon Soul,17K-QM,JI-K5H,JI-K5H X,Heavy Water,Perfect,318.60
+Paragon Soul,17K-QM,JI-K5H,JI-K5H X,Liquid Ozone,Rich,31.80
+Paragon Soul,17K-QM,JI-K5H,JI-K5H XI,Lustering Alloy,Medium,20.04
+Paragon Soul,17K-QM,JI-K5H,JI-K5H XI,Supertensile Plastics,Medium,13.99
+Paragon Soul,17K-QM,JI-K5H,JI-K5H XI,Silicate Glass,Medium,9.60
+Paragon Soul,17K-QM,JI-K5H,JI-K5H XI,Oxygen Isotopes,Medium,3.12
+Paragon Soul,17K-QM,JI-K5H,JI-K5H XII,Condensed Alloy,Medium,23.84
+Paragon Soul,17K-QM,JI-K5H,JI-K5H XII,Fiber Composite,Medium,19.12
+Paragon Soul,17K-QM,JI-K5H,JI-K5H XII,Reactive Gas,Rich,30.64
+Paragon Soul,17K-QM,JI-K5H,JI-K5H XII,Noble Metals,Poor,18.46
+Paragon Soul,17K-QM,JI-K5H,JI-K5H XII,Liquid Ozone,Medium,23.90
+Paragon Soul,17K-QM,JI-K5H,JI-K5H XIII,Gleaming Alloy,Rich,27.80
+Paragon Soul,17K-QM,JI-K5H,JI-K5H XIII,Noble Metals,Medium,20.78
+Paragon Soul,17K-QM,JI-K5H,JI-K5H XIII,Construction Blocks,Poor,16.36
+Paragon Soul,17K-QM,JI-K5H,JI-K5H XIV,Lucent Compound,Medium,20.26
+Paragon Soul,17K-QM,JI-K5H,JI-K5H XIV,Reactive Gas,Rich,30.02
+Paragon Soul,17K-QM,JI-K5H,JI-K5H XIV,Reactive Metals,Rich,7.19
+Paragon Soul,17K-QM,JI-K5H,JI-K5H XIV,Construction Blocks,Perfect,32.34
+Paragon Soul,17K-QM,JI-K5H,JI-K5H XV,Dark Compound,Poor,14.04
+Paragon Soul,17K-QM,JI-K5H,JI-K5H XV,Toxic Metals,Medium,6.21
+Paragon Soul,17K-QM,JI-K5H,JI-K5H XV,Supertensile Plastics,Poor,11.76
+Paragon Soul,17K-QM,JI-K5H,JI-K5H XV,Construction Blocks,Poor,14.10
+Paragon Soul,17K-QM,JI-K5H,JI-K5H XVI,Opulent Compound,Rich,30.58
+Paragon Soul,17K-QM,JI-K5H,JI-K5H XVI,Industrial Fibers,Perfect,8.59
+Paragon Soul,17K-QM,JI-K5H,JI-K5H XVI,Condensates,Medium,15.28
+Paragon Soul,17K-QM,JI-K5H,JI-K5H XVI,Smartfab Units,Perfect,25.28
+Paragon Soul,17K-QM,JI-K5H,JI-K5H XVI,Liquid Ozone,Perfect,46.98
+Paragon Soul,17K-QM,33-JRO,33-JRO I,Gleaming Alloy,Rich,34.12
+Paragon Soul,17K-QM,33-JRO,33-JRO I,Glossy Compound,Medium,21.60
+Paragon Soul,17K-QM,33-JRO,33-JRO I,Oxygen Isotopes,Perfect,5.37
+Paragon Soul,17K-QM,33-JRO,33-JRO II,Dark Compound,Poor,17.78
+Paragon Soul,17K-QM,33-JRO,33-JRO II,Industrial Fibers,Poor,3.71
+Paragon Soul,17K-QM,33-JRO,33-JRO II,Supertensile Plastics,Medium,17.10
+Paragon Soul,17K-QM,33-JRO,33-JRO II,Construction Blocks,Medium,26.44
+Paragon Soul,17K-QM,33-JRO,33-JRO III,Condensed Alloy,Medium,25.81
+Paragon Soul,17K-QM,33-JRO,33-JRO III,Crystal Compound,Perfect,37.95
+Paragon Soul,17K-QM,33-JRO,33-JRO III,Coolant,Rich,19.79
+Paragon Soul,17K-QM,33-JRO,33-JRO III,Silicate Glass,Perfect,17.68
+Paragon Soul,17K-QM,33-JRO,33-JRO III,Liquid Ozone,Rich,41.91
+Paragon Soul,17K-QM,33-JRO,33-JRO IV,Fiber Composite,Rich,31.53
+Paragon Soul,17K-QM,33-JRO,33-JRO IV,Reactive Gas,Perfect,38.87
+Paragon Soul,17K-QM,33-JRO,33-JRO IV,Condensates,Perfect,24.43
+Paragon Soul,17K-QM,33-JRO,33-JRO IV,Smartfab Units,Medium,17.38
+Paragon Soul,17K-QM,33-JRO,33-JRO IV,Liquid Ozone,Perfect,44.36
+Paragon Soul,17K-QM,33-JRO,33-JRO V,Lustering Alloy,Poor,19.87
+Paragon Soul,17K-QM,33-JRO,33-JRO V,Precious Alloy,Poor,19.05
+Paragon Soul,17K-QM,33-JRO,33-JRO V,Supertensile Plastics,Medium,16.66
+Paragon Soul,17K-QM,33-JRO,33-JRO V,Silicate Glass,Poor,9.52
+Paragon Soul,17K-QM,33-JRO,33-JRO VI,Fiber Composite,Perfect,37.11
+Paragon Soul,17K-QM,33-JRO,33-JRO VI,Reactive Gas,Medium,27.10
+Paragon Soul,17K-QM,33-JRO,33-JRO VI,Noble Metals,Poor,20.57
+Paragon Soul,17K-QM,33-JRO,33-JRO VI,Condensates,Medium,14.78
+Paragon Soul,17K-QM,33-JRO,33-JRO VI,Liquid Ozone,Poor,25.88
+Paragon Soul,17K-QM,33-JRO,33-JRO VII,Lustering Alloy,Rich,34.34
+Paragon Soul,17K-QM,33-JRO,33-JRO VII,Sheen Compound,Medium,23.72
+Paragon Soul,17K-QM,33-JRO,33-JRO VII,Glossy Compound,Poor,18.59
+Paragon Soul,17K-QM,33-JRO,33-JRO VII,Reactive Gas,Medium,23.34
+Paragon Soul,17K-QM,33-JRO,33-JRO VII,Reactive Metals,Medium,6.30
+Paragon Soul,17K-QM,ARBX-9,ARBX-9 I,Dark Compound,Poor,13.21
+Paragon Soul,17K-QM,ARBX-9,ARBX-9 I,Base Metals,Medium,5.24
+Paragon Soul,17K-QM,ARBX-9,ARBX-9 I,Toxic Metals,Medium,6.67
+Paragon Soul,17K-QM,ARBX-9,ARBX-9 I,Supertensile Plastics,Medium,16.60
+Paragon Soul,17K-QM,ARBX-9,ARBX-9 II,Reactive Metals,Rich,7.65
+Paragon Soul,17K-QM,ARBX-9,ARBX-9 II,Construction Blocks,Medium,25.64
+Paragon Soul,17K-QM,ARBX-9,ARBX-9 II,Nanites,Medium,6.70
+Paragon Soul,17K-QM,ARBX-9,ARBX-9 II,Oxygen Isotopes,Medium,3.07
+Paragon Soul,17K-QM,ARBX-9,ARBX-9 III,Toxic Metals,Medium,6.05
+Paragon Soul,17K-QM,ARBX-9,ARBX-9 III,Industrial Fibers,Poor,4.23
+Paragon Soul,17K-QM,ARBX-9,ARBX-9 III,Supertensile Plastics,Poor,12.95
+Paragon Soul,17K-QM,ARBX-9,ARBX-9 III,Oxygen Isotopes,Medium,3.05
+Paragon Soul,17K-QM,ARBX-9,ARBX-9 IV,Sheen Compound,Rich,32.72
+Paragon Soul,17K-QM,ARBX-9,ARBX-9 IV,Fiber Composite,Medium,26.14
+Paragon Soul,17K-QM,ARBX-9,ARBX-9 IV,Reactive Gas,Medium,26.33
+Paragon Soul,17K-QM,ARBX-9,ARBX-9 IV,Noble Gas,Poor,19.09
+Paragon Soul,17K-QM,ARBX-9,ARBX-9 IV,Coolant,Perfect,22.44
+Paragon Soul,17K-QM,ARBX-9,ARBX-9 V,Glossy Compound,Rich,31.16
+Paragon Soul,17K-QM,ARBX-9,ARBX-9 V,Reactive Gas,Medium,24.25
+Paragon Soul,17K-QM,ARBX-9,ARBX-9 V,Base Metals,Perfect,9.03
+Paragon Soul,17K-QM,ARBX-9,ARBX-9 V,Reactive Metals,Rich,8.31
+Paragon Soul,17K-QM,ARBX-9,ARBX-9 V,Polyaramids,Medium,15.47
+Paragon Soul,17K-QM,ARBX-9,ARBX-9 VI,Sheen Compound,Perfect,34.86
+Paragon Soul,17K-QM,ARBX-9,ARBX-9 VI,Reactive Gas,Rich,31.08
+Paragon Soul,17K-QM,ARBX-9,ARBX-9 VI,Noble Gas,Medium,21.57
+Paragon Soul,17K-QM,ARBX-9,ARBX-9 VI,Base Metals,Medium,6.66
+Paragon Soul,17K-QM,ARBX-9,ARBX-9 VI,Ionic Solutions,Rich,10.69
+Paragon Soul,17K-QM,ARBX-9,ARBX-9 VII,Sheen Compound,Rich,30.41
+Paragon Soul,17K-QM,ARBX-9,ARBX-9 VII,Fiber Composite,Rich,30.01
+Paragon Soul,17K-QM,ARBX-9,ARBX-9 VII,Glossy Compound,Medium,26.17
+Paragon Soul,17K-QM,ARBX-9,ARBX-9 VII,Reactive Gas,Medium,26.02
+Paragon Soul,17K-QM,ARBX-9,ARBX-9 VII,Polyaramids,Medium,14.14
+Paragon Soul,17K-QM,ARBX-9,ARBX-9 VIII,Opulent Compound,Rich,30.47
+Paragon Soul,17K-QM,ARBX-9,ARBX-9 VIII,Noble Metals,Rich,28.45
+Paragon Soul,17K-QM,ARBX-9,ARBX-9 VIII,Condensates,Perfect,26.49
+Paragon Soul,17K-QM,ARBX-9,ARBX-9 VIII,Heavy Water,Medium,208.53
+Paragon Soul,17K-QM,ARBX-9,ARBX-9 VIII,Liquid Ozone,Medium,28.64
+Paragon Soul,17K-QM,ARBX-9,ARBX-9 IX,Base Metals,Medium,5.76
+Paragon Soul,17K-QM,ARBX-9,ARBX-9 IX,Heavy Metals,Poor,19.53
+Paragon Soul,17K-QM,ARBX-9,ARBX-9 IX,Coolant,Rich,18.10
+Paragon Soul,17K-QM,ARBX-9,ARBX-9 IX,Condensates,Medium,16.09
+Paragon Soul,17K-QM,5-CSE3,5-CSE3 I,Gleaming Alloy,Poor,18.44
+Paragon Soul,17K-QM,5-CSE3,5-CSE3 I,Noble Gas,Medium,25.12
+Paragon Soul,17K-QM,5-CSE3,5-CSE3 I,Plasmoids,Medium,1.40
+Paragon Soul,17K-QM,5-CSE3,5-CSE3 II,Condensed Alloy,Rich,32.19
+Paragon Soul,17K-QM,5-CSE3,5-CSE3 II,Reactive Gas,Perfect,41.05
+Paragon Soul,17K-QM,5-CSE3,5-CSE3 II,Industrial Fibers,Perfect,9.59
+Paragon Soul,17K-QM,5-CSE3,5-CSE3 II,Heavy Water,Perfect,351.34
+Paragon Soul,17K-QM,5-CSE3,5-CSE3 II,Liquid Ozone,Medium,34.40
+Paragon Soul,17K-QM,5-CSE3,5-CSE3 III,Fiber Composite,Rich,33.09
+Paragon Soul,17K-QM,5-CSE3,5-CSE3 III,Reactive Gas,Medium,23.39
+Paragon Soul,17K-QM,5-CSE3,5-CSE3 III,Noble Gas,Rich,31.59
+Paragon Soul,17K-QM,5-CSE3,5-CSE3 III,Base Metals,Rich,7.87
+Paragon Soul,17K-QM,5-CSE3,5-CSE3 III,Coolant,Rich,18.96
+Paragon Soul,17K-QM,5-CSE3,5-CSE3 IV,Lustering Alloy,Rich,33.44
+Paragon Soul,17K-QM,5-CSE3,5-CSE3 IV,Sheen Compound,Perfect,35.51
+Paragon Soul,17K-QM,5-CSE3,5-CSE3 IV,Glossy Compound,Rich,29.11
+Paragon Soul,17K-QM,5-CSE3,5-CSE3 IV,Reactive Gas,Rich,33.75
+Paragon Soul,17K-QM,5-CSE3,5-CSE3 IV,Reactive Metals,Rich,7.94
+Paragon Soul,17K-QM,5-CSE3,5-CSE3 V,Fiber Composite,Medium,25.23
+Paragon Soul,17K-QM,5-CSE3,5-CSE3 V,Reactive Gas,Medium,21.74
+Paragon Soul,17K-QM,5-CSE3,5-CSE3 V,Base Metals,Rich,8.00
+Paragon Soul,17K-QM,5-CSE3,5-CSE3 V,Coolant,Rich,19.92
+Paragon Soul,17K-QM,5-CSE3,5-CSE3 V,Ionic Solutions,Medium,11.00
+Paragon Soul,17K-QM,5-CSE3,5-CSE3 VI,Glossy Compound,Poor,19.73
+Paragon Soul,17K-QM,5-CSE3,5-CSE3 VI,Reactive Gas,Rich,32.63
+Paragon Soul,17K-QM,5-CSE3,5-CSE3 VI,Base Metals,Medium,6.58
+Paragon Soul,17K-QM,5-CSE3,5-CSE3 VI,Reactive Metals,Medium,5.54
+Paragon Soul,17K-QM,5-CSE3,5-CSE3 VI,Ionic Solutions,Medium,9.18
+Paragon Soul,17K-QM,5-CSE3,5-CSE3 VII,Toxic Metals,Medium,6.51
+Paragon Soul,17K-QM,5-CSE3,5-CSE3 VII,Supertensile Plastics,Medium,15.30
+Paragon Soul,17K-QM,5-CSE3,5-CSE3 VII,Construction Blocks,Poor,19.78
+Paragon Soul,17K-QM,5-CSE3,5-CSE3 VII,Silicate Glass,Medium,11.01
+Paragon Soul,17K-QM,O-MCZR,O-MCZR I,Gleaming Alloy,Medium,19.18
+Paragon Soul,17K-QM,O-MCZR,O-MCZR I,Reactive Gas,Rich,26.32
+Paragon Soul,17K-QM,O-MCZR,O-MCZR I,Reactive Metals,Rich,7.75
+Paragon Soul,17K-QM,O-MCZR,O-MCZR I,Toxic Metals,Perfect,8.51
+Paragon Soul,17K-QM,O-MCZR,O-MCZR II,Base Metals,Medium,6.11
+Paragon Soul,17K-QM,O-MCZR,O-MCZR II,Noble Metals,Rich,26.14
+Paragon Soul,17K-QM,O-MCZR,O-MCZR II,Condensates,Rich,20.20
+Paragon Soul,17K-QM,O-MCZR,O-MCZR II,Heavy Water,Medium,244.00
+Paragon Soul,17K-QM,O-MCZR,O-MCZR II,Liquid Ozone,Medium,28.48
+Paragon Soul,17K-QM,O-MCZR,O-MCZR III,Gleaming Alloy,Rich,29.42
+Paragon Soul,17K-QM,O-MCZR,O-MCZR III,Polyaramids,Poor,11.45
+Paragon Soul,17K-QM,O-MCZR,O-MCZR III,Construction Blocks,Rich,30.16
+Paragon Soul,17K-QM,O-MCZR,O-MCZR IV,Lustering Alloy,Rich,27.94
+Paragon Soul,17K-QM,O-MCZR,O-MCZR IV,Glossy Compound,Medium,20.64
+Paragon Soul,17K-QM,O-MCZR,O-MCZR IV,Reactive Gas,Poor,17.96
+Paragon Soul,17K-QM,O-MCZR,O-MCZR IV,Coolant,Medium,12.81
+Paragon Soul,17K-QM,O-MCZR,O-MCZR IV,Ionic Solutions,Rich,11.82
+Paragon Soul,17K-QM,O-MCZR,O-MCZR V,Lustering Alloy,Perfect,32.16
+Paragon Soul,17K-QM,O-MCZR,O-MCZR V,Fiber Composite,Medium,24.42
+Paragon Soul,17K-QM,O-MCZR,O-MCZR V,Reactive Gas,Medium,21.10
+Paragon Soul,17K-QM,O-MCZR,O-MCZR V,Coolant,Rich,17.52
+Paragon Soul,17K-QM,O-MCZR,O-MCZR V,Ionic Solutions,Poor,6.57
+Paragon Soul,17K-QM,9T-APQ,9T-APQ I,Toxic Metals,Medium,5.90
+Paragon Soul,17K-QM,9T-APQ,9T-APQ I,Industrial Fibers,Poor,4.34
+Paragon Soul,17K-QM,9T-APQ,9T-APQ I,Supertensile Plastics,Poor,8.92
+Paragon Soul,17K-QM,9T-APQ,9T-APQ I,Silicate Glass,Medium,10.71
+Paragon Soul,17K-QM,9T-APQ,9T-APQ II,Base Metals,Medium,5.66
+Paragon Soul,17K-QM,9T-APQ,9T-APQ II,Supertensile Plastics,Poor,10.53
+Paragon Soul,17K-QM,9T-APQ,9T-APQ II,Silicate Glass,Medium,12.20
+Paragon Soul,17K-QM,9T-APQ,9T-APQ II,Oxygen Isotopes,Medium,3.56
+Paragon Soul,17K-QM,9T-APQ,9T-APQ III,Condensed Alloy,Perfect,37.46
+Paragon Soul,17K-QM,9T-APQ,9T-APQ III,Fiber Composite,Rich,30.49
+Paragon Soul,17K-QM,9T-APQ,9T-APQ III,Reactive Gas,Rich,31.73
+Paragon Soul,17K-QM,9T-APQ,9T-APQ III,Base Metals,Perfect,10.45
+Paragon Soul,17K-QM,9T-APQ,9T-APQ III,Liquid Ozone,Perfect,48.14
+Paragon Soul,17K-QM,9T-APQ,9T-APQ IV,Gleaming Alloy,Medium,20.31
+Paragon Soul,17K-QM,9T-APQ,9T-APQ IV,Reactive Metals,Rich,7.13
+Paragon Soul,17K-QM,9T-APQ,9T-APQ IV,Toxic Metals,Medium,6.51
+Paragon Soul,17K-QM,9T-APQ,9T-APQ IV,Oxygen Isotopes,Medium,3.29
+Paragon Soul,17K-QM,9T-APQ,9T-APQ V,Opulent Compound,Perfect,37.61
+Paragon Soul,17K-QM,9T-APQ,9T-APQ V,Base Metals,Rich,8.33
+Paragon Soul,17K-QM,9T-APQ,9T-APQ V,Noble Metals,Perfect,39.08
+Paragon Soul,17K-QM,9T-APQ,9T-APQ V,Heavy Water,Medium,251.37
+Paragon Soul,17K-QM,9T-APQ,9T-APQ V,Liquid Ozone,Perfect,48.69
+Paragon Soul,17K-QM,9T-APQ,9T-APQ VI,Glossy Compound,Rich,28.08
+Paragon Soul,17K-QM,9T-APQ,9T-APQ VI,Reactive Gas,Medium,21.84
+Paragon Soul,17K-QM,9T-APQ,9T-APQ VI,Base Metals,Rich,7.47
+Paragon Soul,17K-QM,9T-APQ,9T-APQ VI,Reactive Metals,Rich,7.68
+Paragon Soul,17K-QM,9T-APQ,9T-APQ VI,Ionic Solutions,Poor,6.96
+Paragon Soul,17K-QM,9T-APQ,9T-APQ VII,Fiber Composite,Medium,22.85
+Paragon Soul,17K-QM,9T-APQ,9T-APQ VII,Reactive Gas,Medium,21.80
+Paragon Soul,17K-QM,9T-APQ,9T-APQ VII,Noble Gas,Medium,25.37
+Paragon Soul,17K-QM,9T-APQ,9T-APQ VII,Base Metals,Medium,6.06
+Paragon Soul,17K-QM,9T-APQ,9T-APQ VII,Reactive Metals,Medium,5.84
+Paragon Soul,17K-QM,9T-APQ,9T-APQ VIII,Fiber Composite,Medium,23.18
+Paragon Soul,17K-QM,9T-APQ,9T-APQ VIII,Opulent Compound,Perfect,34.23
+Paragon Soul,17K-QM,9T-APQ,9T-APQ VIII,Base Metals,Rich,7.99
+Paragon Soul,17K-QM,9T-APQ,9T-APQ VIII,Industrial Fibers,Medium,5.73
+Paragon Soul,17K-QM,9T-APQ,9T-APQ VIII,Liquid Ozone,Perfect,44.73
+Paragon Soul,17K-QM,9T-APQ,9T-APQ IX,Heavy Metals,Rich,27.28
+Paragon Soul,17K-QM,9T-APQ,9T-APQ IX,Condensates,Poor,12.77
+Paragon Soul,17K-QM,9T-APQ,9T-APQ IX,Suspended Plasma,Medium,81.95
+Paragon Soul,17K-QM,9T-APQ,9T-APQ IX,Liquid Ozone,Rich,38.74
+Paragon Soul,TCC-ZV,4Y-OBL,4Y-OBL I,Lucent Compound,Medium,22.31
+Paragon Soul,TCC-ZV,4Y-OBL,4Y-OBL I,Noble Gas,Rich,34.14
+Paragon Soul,TCC-ZV,4Y-OBL,4Y-OBL I,Reactive Metals,Rich,8.05
+Paragon Soul,TCC-ZV,4Y-OBL,4Y-OBL I,Condensates,Perfect,25.26
+Paragon Soul,TCC-ZV,4Y-OBL,4Y-OBL I,Ionic Solutions,Medium,8.86
+Paragon Soul,TCC-ZV,4Y-OBL,4Y-OBL II,Dark Compound,Rich,32.03
+Paragon Soul,TCC-ZV,4Y-OBL,4Y-OBL II,Heavy Metals,Rich,28.95
+Paragon Soul,TCC-ZV,4Y-OBL,4Y-OBL II,Condensates,Medium,14.80
+Paragon Soul,TCC-ZV,4Y-OBL,4Y-OBL II,Suspended Plasma,Medium,94.88
+Paragon Soul,TCC-ZV,4Y-OBL,4Y-OBL II,Ionic Solutions,Medium,10.09
+Paragon Soul,TCC-ZV,4Y-OBL,4Y-OBL III,Gleaming Alloy,Rich,34.63
+Paragon Soul,TCC-ZV,4Y-OBL,4Y-OBL III,Motley Compound,Perfect,36.83
+Paragon Soul,TCC-ZV,4Y-OBL,4Y-OBL III,Heavy Metals,Poor,18.46
+Paragon Soul,TCC-ZV,4Y-OBL,4Y-OBL IV,Crystal Compound,Rich,30.29
+Paragon Soul,TCC-ZV,4Y-OBL,4Y-OBL IV,Reactive Metals,Medium,7.05
+Paragon Soul,TCC-ZV,4Y-OBL,4Y-OBL IV,Supertensile Plastics,Perfect,23.77
+Paragon Soul,TCC-ZV,4Y-OBL,4Y-OBL IV,Oxygen Isotopes,Poor,2.81
+Paragon Soul,TCC-ZV,4Y-OBL,4Y-OBL V,Sheen Compound,Medium,22.81
+Paragon Soul,TCC-ZV,4Y-OBL,4Y-OBL V,Reactive Gas,Poor,18.19
+Paragon Soul,TCC-ZV,4Y-OBL,4Y-OBL V,Noble Gas,Poor,18.52
+Paragon Soul,TCC-ZV,4Y-OBL,4Y-OBL V,Polyaramids,Perfect,24.02
+Paragon Soul,TCC-ZV,4Y-OBL,4Y-OBL V,Coolant,Poor,13.29
+Paragon Soul,TCC-ZV,4Y-OBL,4Y-OBL VI,Sheen Compound,Medium,21.45
+Paragon Soul,TCC-ZV,4Y-OBL,4Y-OBL VI,Glossy Compound,Poor,20.48
+Paragon Soul,TCC-ZV,4Y-OBL,4Y-OBL VI,Reactive Gas,Medium,24.95
+Paragon Soul,TCC-ZV,4Y-OBL,4Y-OBL VI,Coolant,Medium,17.03
+Paragon Soul,TCC-ZV,4Y-OBL,4Y-OBL VI,Ionic Solutions,Poor,7.38
+Paragon Soul,TCC-ZV,4Y-OBL,4Y-OBL VII,Glossy Compound,Perfect,35.42
+Paragon Soul,TCC-ZV,4Y-OBL,4Y-OBL VII,Reactive Gas,Rich,30.87
+Paragon Soul,TCC-ZV,4Y-OBL,4Y-OBL VII,Base Metals,Rich,9.07
+Paragon Soul,TCC-ZV,4Y-OBL,4Y-OBL VII,Polyaramids,Rich,21.50
+Paragon Soul,TCC-ZV,4Y-OBL,4Y-OBL VII,Coolant,Rich,22.97
+Paragon Soul,TCC-ZV,4Y-OBL,4Y-OBL VIII,Sheen Compound,Medium,23.54
+Paragon Soul,TCC-ZV,4Y-OBL,4Y-OBL VIII,Fiber Composite,Medium,25.52
+Paragon Soul,TCC-ZV,4Y-OBL,4Y-OBL VIII,Reactive Gas,Medium,23.06
+Paragon Soul,TCC-ZV,4Y-OBL,4Y-OBL VIII,Polyaramids,Rich,23.20
+Paragon Soul,TCC-ZV,4Y-OBL,4Y-OBL VIII,Ionic Solutions,Medium,11.13
+Paragon Soul,TCC-ZV,0-MX34,0-MX34 I,Gleaming Alloy,Perfect,31.86
+Paragon Soul,TCC-ZV,0-MX34,0-MX34 I,Construction Blocks,Rich,27.48
+Paragon Soul,TCC-ZV,0-MX34,0-MX34 I,Smartfab Units,Perfect,21.51
+Paragon Soul,TCC-ZV,0-MX34,0-MX34 II,Industrial Fibers,Poor,3.66
+Paragon Soul,TCC-ZV,0-MX34,0-MX34 II,Supertensile Plastics,Poor,9.25
+Paragon Soul,TCC-ZV,0-MX34,0-MX34 II,Silicate Glass,Poor,6.23
+Paragon Soul,TCC-ZV,0-MX34,0-MX34 II,Plasmoids,Poor,0.98
+Paragon Soul,TCC-ZV,0-MX34,0-MX34 III,Base Metals,Poor,4.82
+Paragon Soul,TCC-ZV,0-MX34,0-MX34 III,Supertensile Plastics,Poor,9.00
+Paragon Soul,TCC-ZV,0-MX34,0-MX34 III,Construction Blocks,Poor,17.74
+Paragon Soul,TCC-ZV,0-MX34,0-MX34 III,Plasmoids,Medium,1.37
+Paragon Soul,TCC-ZV,0-MX34,0-MX34 IV,Sheen Compound,Rich,27.56
+Paragon Soul,TCC-ZV,0-MX34,0-MX34 IV,Fiber Composite,Medium,22.68
+Paragon Soul,TCC-ZV,0-MX34,0-MX34 IV,Reactive Gas,Rich,27.96
+Paragon Soul,TCC-ZV,0-MX34,0-MX34 IV,Noble Gas,Poor,18.34
+Paragon Soul,TCC-ZV,0-MX34,0-MX34 IV,Ionic Solutions,Rich,10.94
+Paragon Soul,TCC-ZV,0-MX34,0-MX34 V,Lustering Alloy,Medium,18.98
+Paragon Soul,TCC-ZV,0-MX34,0-MX34 V,Dark Compound,Medium,18.94
+Paragon Soul,TCC-ZV,0-MX34,0-MX34 V,Supertensile Plastics,Poor,10.56
+Paragon Soul,TCC-ZV,0-MX34,0-MX34 V,Construction Blocks,Medium,21.18
+Paragon Soul,TCC-ZV,5AQ-5H,5AQ-5H I,Dark Compound,Poor,13.90
+Paragon Soul,TCC-ZV,5AQ-5H,5AQ-5H I,Toxic Metals,Medium,6.68
+Paragon Soul,TCC-ZV,5AQ-5H,5AQ-5H I,Supertensile Plastics,Poor,13.03
+Paragon Soul,TCC-ZV,5AQ-5H,5AQ-5H I,Silicate Glass,Medium,11.29
+Paragon Soul,TCC-ZV,5AQ-5H,5AQ-5H II,Gleaming Alloy,Perfect,33.62
+Paragon Soul,TCC-ZV,5AQ-5H,5AQ-5H II,Motley Compound,Medium,23.69
+Paragon Soul,TCC-ZV,5AQ-5H,5AQ-5H II,Glossy Compound,Rich,32.45
+Paragon Soul,TCC-ZV,5AQ-5H,5AQ-5H III,Base Metals,Poor,3.65
+Paragon Soul,TCC-ZV,5AQ-5H,5AQ-5H III,Industrial Fibers,Medium,6.38
+Paragon Soul,TCC-ZV,5AQ-5H,5AQ-5H III,Supertensile Plastics,Medium,15.83
+Paragon Soul,TCC-ZV,5AQ-5H,5AQ-5H III,Silicate Glass,Poor,6.62
+Paragon Soul,TCC-ZV,5AQ-5H,5AQ-5H IV,Base Metals,Medium,5.73
+Paragon Soul,TCC-ZV,5AQ-5H,5AQ-5H IV,Toxic Metals,Medium,6.41
+Paragon Soul,TCC-ZV,5AQ-5H,5AQ-5H IV,Supertensile Plastics,Poor,9.81
+Paragon Soul,TCC-ZV,5AQ-5H,5AQ-5H IV,Oxygen Isotopes,Medium,3.05
+Paragon Soul,TCC-ZV,5AQ-5H,5AQ-5H V,Lustering Alloy,Perfect,33.73
+Paragon Soul,TCC-ZV,5AQ-5H,5AQ-5H V,Sheen Compound,Rich,31.16
+Paragon Soul,TCC-ZV,5AQ-5H,5AQ-5H V,Reactive Gas,Perfect,33.54
+Paragon Soul,TCC-ZV,5AQ-5H,5AQ-5H V,Reactive Metals,Medium,6.62
+Paragon Soul,TCC-ZV,5AQ-5H,5AQ-5H V,Ionic Solutions,Poor,7.45
+Paragon Soul,TCC-ZV,5AQ-5H,5AQ-5H VI,Lustering Alloy,Perfect,33.98
+Paragon Soul,TCC-ZV,5AQ-5H,5AQ-5H VI,Fiber Composite,Poor,19.34
+Paragon Soul,TCC-ZV,5AQ-5H,5AQ-5H VI,Reactive Gas,Medium,24.30
+Paragon Soul,TCC-ZV,5AQ-5H,5AQ-5H VI,Polyaramids,Medium,16.03
+Paragon Soul,TCC-ZV,5AQ-5H,5AQ-5H VI,Ionic Solutions,Perfect,13.48
+Paragon Soul,TCC-ZV,5AQ-5H,5AQ-5H VII,Sheen Compound,Rich,26.73
+Paragon Soul,TCC-ZV,5AQ-5H,5AQ-5H VII,Fiber Composite,Poor,19.32
+Paragon Soul,TCC-ZV,5AQ-5H,5AQ-5H VII,Glossy Compound,Medium,23.27
+Paragon Soul,TCC-ZV,5AQ-5H,5AQ-5H VII,Reactive Gas,Medium,21.76
+Paragon Soul,TCC-ZV,5AQ-5H,5AQ-5H VII,Noble Gas,Medium,21.99
+Paragon Soul,TCC-ZV,5AQ-5H,5AQ-5H VIII,Gleaming Alloy,Medium,22.07
+Paragon Soul,TCC-ZV,5AQ-5H,5AQ-5H VIII,Noble Metals,Perfect,34.00
+Paragon Soul,TCC-ZV,5AQ-5H,5AQ-5H VIII,Construction Blocks,Poor,19.28
+Paragon Soul,TCC-ZV,5AQ-5H,5AQ-5H IX,Lustering Alloy,Rich,32.57
+Paragon Soul,TCC-ZV,5AQ-5H,5AQ-5H IX,Sheen Compound,Medium,22.20
+Paragon Soul,TCC-ZV,5AQ-5H,5AQ-5H IX,Reactive Gas,Rich,28.29
+Paragon Soul,TCC-ZV,5AQ-5H,5AQ-5H IX,Reactive Metals,Rich,8.22
+Paragon Soul,TCC-ZV,5AQ-5H,5AQ-5H IX,Polyaramids,Rich,20.40
+Paragon Soul,TCC-ZV,T-ZFID,T-ZFID I,Gleaming Alloy,Rich,30.12
+Paragon Soul,TCC-ZV,T-ZFID,T-ZFID I,Motley Compound,Medium,23.88
+Paragon Soul,TCC-ZV,T-ZFID,T-ZFID I,Plasmoids,Medium,1.34
+Paragon Soul,TCC-ZV,T-ZFID,T-ZFID II,Dark Compound,Poor,17.18
+Paragon Soul,TCC-ZV,T-ZFID,T-ZFID II,Toxic Metals,Poor,3.50
+Paragon Soul,TCC-ZV,T-ZFID,T-ZFID II,Supertensile Plastics,Medium,14.63
+Paragon Soul,TCC-ZV,T-ZFID,T-ZFID II,Oxygen Isotopes,Poor,2.77
+Paragon Soul,TCC-ZV,T-ZFID,T-ZFID III,Fiber Composite,Medium,19.92
+Paragon Soul,TCC-ZV,T-ZFID,T-ZFID III,Noble Metals,Perfect,37.72
+Paragon Soul,TCC-ZV,T-ZFID,T-ZFID III,Smartfab Units,Medium,15.57
+Paragon Soul,TCC-ZV,T-ZFID,T-ZFID III,Heavy Water,Rich,314.60
+Paragon Soul,TCC-ZV,T-ZFID,T-ZFID III,Liquid Ozone,Rich,39.48
+Paragon Soul,TCC-ZV,T-ZFID,T-ZFID IV,Lustering Alloy,Medium,19.96
+Paragon Soul,TCC-ZV,T-ZFID,T-ZFID IV,Sheen Compound,Rich,26.42
+Paragon Soul,TCC-ZV,T-ZFID,T-ZFID IV,Glossy Compound,Rich,30.22
+Paragon Soul,TCC-ZV,T-ZFID,T-ZFID IV,Reactive Gas,Poor,17.74
+Paragon Soul,TCC-ZV,T-ZFID,T-ZFID IV,Reactive Metals,Medium,5.25
+Paragon Soul,TCC-ZV,T-ZFID,T-ZFID V,Fiber Composite,Medium,23.30
+Paragon Soul,TCC-ZV,T-ZFID,T-ZFID V,Base Metals,Rich,8.20
+Paragon Soul,TCC-ZV,T-ZFID,T-ZFID V,Noble Metals,Rich,25.56
+Paragon Soul,TCC-ZV,T-ZFID,T-ZFID V,Industrial Fibers,Rich,6.68
+Paragon Soul,TCC-ZV,T-ZFID,T-ZFID V,Liquid Ozone,Perfect,39.75
+Paragon Soul,TCC-ZV,0ZN7-G,0ZN7-G I,Gleaming Alloy,Rich,31.70
+Paragon Soul,TCC-ZV,0ZN7-G,0ZN7-G I,Motley Compound,Poor,17.34
+Paragon Soul,TCC-ZV,0ZN7-G,0ZN7-G I,Noble Metals,Poor,16.70
+Paragon Soul,TCC-ZV,0ZN7-G,0ZN7-G II,Precious Alloy,Medium,22.28
+Paragon Soul,TCC-ZV,0ZN7-G,0ZN7-G II,Toxic Metals,Medium,6.47
+Paragon Soul,TCC-ZV,0ZN7-G,0ZN7-G II,Supertensile Plastics,Poor,9.01
+Paragon Soul,TCC-ZV,0ZN7-G,0ZN7-G II,Construction Blocks,Medium,22.02
+Paragon Soul,TCC-ZV,0ZN7-G,0ZN7-G III,Gleaming Alloy,Rich,26.92
+Paragon Soul,TCC-ZV,0ZN7-G,0ZN7-G III,Motley Compound,Medium,22.68
+Paragon Soul,TCC-ZV,0ZN7-G,0ZN7-G III,Noble Gas,Perfect,33.28
+Paragon Soul,TCC-ZV,0ZN7-G,0ZN7-G IV,Precious Alloy,Poor,14.70
+Paragon Soul,TCC-ZV,0ZN7-G,0ZN7-G IV,Supertensile Plastics,Medium,13.19
+Paragon Soul,TCC-ZV,0ZN7-G,0ZN7-G IV,Oxygen Isotopes,Poor,2.22
+Paragon Soul,TCC-ZV,0ZN7-G,0ZN7-G IV,Plasmoids,Poor,0.99
+Paragon Soul,TCC-ZV,0ZN7-G,0ZN7-G V,Gleaming Alloy,Perfect,33.00
+Paragon Soul,TCC-ZV,0ZN7-G,0ZN7-G V,Noble Gas,Medium,22.62
+Paragon Soul,TCC-ZV,0ZN7-G,0ZN7-G V,Oxygen Isotopes,Medium,3.46
+Paragon Soul,TCC-ZV,0ZN7-G,0ZN7-G VI,Industrial Fibers,Poor,3.67
+Paragon Soul,TCC-ZV,0ZN7-G,0ZN7-G VI,Supertensile Plastics,Poor,10.44
+Paragon Soul,TCC-ZV,0ZN7-G,0ZN7-G VI,Construction Blocks,Poor,18.58
+Paragon Soul,TCC-ZV,0ZN7-G,0ZN7-G VI,Silicate Glass,Poor,7.31
+Paragon Soul,TCC-ZV,0ZN7-G,0ZN7-G VII,Gleaming Alloy,Rich,31.60
+Paragon Soul,TCC-ZV,0ZN7-G,0ZN7-G VII,Lucent Compound,Medium,24.96
+Paragon Soul,TCC-ZV,0ZN7-G,0ZN7-G VII,Reactive Metals,Rich,7.40
+Paragon Soul,TCC-ZV,0ZN7-G,0ZN7-G VII,Construction Blocks,Rich,31.36
+Paragon Soul,TCC-ZV,0ZN7-G,0ZN7-G VIII,Lustering Alloy,Rich,28.22
+Paragon Soul,TCC-ZV,0ZN7-G,0ZN7-G VIII,Glossy Compound,Rich,27.88
+Paragon Soul,TCC-ZV,0ZN7-G,0ZN7-G VIII,Reactive Gas,Rich,27.78
+Paragon Soul,TCC-ZV,0ZN7-G,0ZN7-G VIII,Base Metals,Medium,6.47
+Paragon Soul,TCC-ZV,0ZN7-G,0ZN7-G VIII,Reactive Metals,Rich,7.14
+Paragon Soul,TCC-ZV,0ZN7-G,0ZN7-G IX,Industrial Fibers,Poor,4.67
+Paragon Soul,TCC-ZV,0ZN7-G,0ZN7-G IX,Supertensile Plastics,Medium,13.11
+Paragon Soul,TCC-ZV,0ZN7-G,0ZN7-G IX,Oxygen Isotopes,Poor,2.81
+Paragon Soul,TCC-ZV,0ZN7-G,0ZN7-G IX,Plasmoids,Medium,1.44
+Paragon Soul,TCC-ZV,0ZN7-G,0ZN7-G X,Lustering Alloy,Perfect,32.60
+Paragon Soul,TCC-ZV,0ZN7-G,0ZN7-G X,Fiber Composite,Rich,30.48
+Paragon Soul,TCC-ZV,0ZN7-G,0ZN7-G X,Glossy Compound,Rich,31.40
+Paragon Soul,TCC-ZV,0ZN7-G,0ZN7-G X,Reactive Gas,Perfect,31.80
+Paragon Soul,TCC-ZV,0ZN7-G,0ZN7-G X,Polyaramids,Medium,13.84
+Paragon Soul,TCC-ZV,0ZN7-G,0ZN7-G XI,Reactive Gas,Rich,29.04
+Paragon Soul,TCC-ZV,0ZN7-G,0ZN7-G XI,Noble Gas,Rich,29.84
+Paragon Soul,TCC-ZV,0ZN7-G,0ZN7-G XI,Base Metals,Perfect,8.38
+Paragon Soul,TCC-ZV,0ZN7-G,0ZN7-G XI,Polyaramids,Rich,19.71
+Paragon Soul,TCC-ZV,0ZN7-G,0ZN7-G XI,Coolant,Medium,15.39
+Paragon Soul,TCC-ZV,0ZN7-G,0ZN7-G XII,Dark Compound,Poor,17.38
+Paragon Soul,TCC-ZV,0ZN7-G,0ZN7-G XII,Supertensile Plastics,Poor,8.64
+Paragon Soul,TCC-ZV,0ZN7-G,0ZN7-G XII,Construction Blocks,Poor,15.42
+Paragon Soul,TCC-ZV,0ZN7-G,0ZN7-G XII,Plasmoids,Poor,0.98
+Paragon Soul,TCC-ZV,H8-ZTO,H8-ZTO I,Lucent Compound,Rich,27.34
+Paragon Soul,TCC-ZV,H8-ZTO,H8-ZTO I,Reactive Gas,Medium,21.90
+Paragon Soul,TCC-ZV,H8-ZTO,H8-ZTO I,Reactive Metals,Rich,8.30
+Paragon Soul,TCC-ZV,H8-ZTO,H8-ZTO I,Toxic Metals,Medium,6.78
+Paragon Soul,TCC-ZV,H8-ZTO,H8-ZTO II,Precious Alloy,Medium,24.44
+Paragon Soul,TCC-ZV,H8-ZTO,H8-ZTO II,Dark Compound,Medium,20.77
+Paragon Soul,TCC-ZV,H8-ZTO,H8-ZTO II,Supertensile Plastics,Medium,13.94
+Paragon Soul,TCC-ZV,H8-ZTO,H8-ZTO II,Construction Blocks,Medium,24.82
+Paragon Soul,TCC-ZV,H8-ZTO,H8-ZTO III,Precious Alloy,Medium,24.91
+Paragon Soul,TCC-ZV,H8-ZTO,H8-ZTO III,Toxic Metals,Medium,6.78
+Paragon Soul,TCC-ZV,H8-ZTO,H8-ZTO III,Supertensile Plastics,Medium,16.95
+Paragon Soul,TCC-ZV,H8-ZTO,H8-ZTO III,Plasmoids,Poor,0.85
+Paragon Soul,TCC-ZV,H8-ZTO,H8-ZTO IV,Fiber Composite,Medium,21.13
+Paragon Soul,TCC-ZV,H8-ZTO,H8-ZTO IV,Glossy Compound,Medium,22.39
+Paragon Soul,TCC-ZV,H8-ZTO,H8-ZTO IV,Reactive Gas,Rich,26.94
+Paragon Soul,TCC-ZV,H8-ZTO,H8-ZTO IV,Base Metals,Perfect,9.09
+Paragon Soul,TCC-ZV,H8-ZTO,H8-ZTO IV,Coolant,Medium,16.17
+Paragon Soul,TCC-ZV,H8-ZTO,H8-ZTO V,Lustering Alloy,Rich,29.63
+Paragon Soul,TCC-ZV,H8-ZTO,H8-ZTO V,Sheen Compound,Rich,27.74
+Paragon Soul,TCC-ZV,H8-ZTO,H8-ZTO V,Reactive Gas,Medium,24.51
+Paragon Soul,TCC-ZV,H8-ZTO,H8-ZTO V,Reactive Metals,Medium,5.39
+Paragon Soul,TCC-ZV,H8-ZTO,H8-ZTO V,Coolant,Rich,18.12
+Paragon Soul,TCC-ZV,H8-ZTO,H8-ZTO VI,Lustering Alloy,Poor,19.70
+Paragon Soul,TCC-ZV,H8-ZTO,H8-ZTO VI,Sheen Compound,Rich,33.22
+Paragon Soul,TCC-ZV,H8-ZTO,H8-ZTO VI,Reactive Gas,Medium,23.20
+Paragon Soul,TCC-ZV,H8-ZTO,H8-ZTO VI,Coolant,Medium,17.15
+Paragon Soul,TCC-ZV,H8-ZTO,H8-ZTO VI,Ionic Solutions,Rich,12.83
+Paragon Soul,I-CCEI,YV-FDG,YV-FDG I,Dark Compound,Poor,19.36
+Paragon Soul,I-CCEI,YV-FDG,YV-FDG I,Industrial Fibers,Poor,4.47
+Paragon Soul,I-CCEI,YV-FDG,YV-FDG I,Supertensile Plastics,Medium,16.48
+Paragon Soul,I-CCEI,YV-FDG,YV-FDG I,Silicate Glass,Poor,9.81
+Paragon Soul,I-CCEI,YV-FDG,YV-FDG II,Fiber Composite,Rich,29.13
+Paragon Soul,I-CCEI,YV-FDG,YV-FDG II,Reactive Gas,Rich,32.28
+Paragon Soul,I-CCEI,YV-FDG,YV-FDG II,Condensates,Medium,15.15
+Paragon Soul,I-CCEI,YV-FDG,YV-FDG II,Heavy Water,Perfect,334.53
+Paragon Soul,I-CCEI,YV-FDG,YV-FDG II,Liquid Ozone,Medium,29.69
+Paragon Soul,I-CCEI,YV-FDG,YV-FDG III,Gleaming Alloy,Rich,32.45
+Paragon Soul,I-CCEI,YV-FDG,YV-FDG III,Crystal Compound,Medium,20.05
+Paragon Soul,I-CCEI,YV-FDG,YV-FDG III,Reactive Metals,Medium,5.25
+Paragon Soul,I-CCEI,YV-FDG,YV-FDG III,Suspended Plasma,Rich,119.45
+Paragon Soul,I-CCEI,YV-FDG,YV-FDG IV,Condensed Alloy,Medium,26.29
+Paragon Soul,I-CCEI,YV-FDG,YV-FDG IV,Industrial Fibers,Rich,8.49
+Paragon Soul,I-CCEI,YV-FDG,YV-FDG IV,Condensates,Perfect,22.48
+Paragon Soul,I-CCEI,YV-FDG,YV-FDG IV,Smartfab Units,Rich,19.08
+Paragon Soul,I-CCEI,YV-FDG,YV-FDG IV,Liquid Ozone,Medium,24.83
+Paragon Soul,I-CCEI,YV-FDG,YV-FDG V,Condensed Alloy,Medium,25.33
+Paragon Soul,I-CCEI,YV-FDG,YV-FDG V,Opulent Compound,Perfect,36.48
+Paragon Soul,I-CCEI,YV-FDG,YV-FDG V,Industrial Fibers,Rich,8.71
+Paragon Soul,I-CCEI,YV-FDG,YV-FDG V,Condensates,Poor,12.85
+Paragon Soul,I-CCEI,YV-FDG,YV-FDG V,Liquid Ozone,Rich,37.62
+Paragon Soul,I-CCEI,YV-FDG,YV-FDG VI,Reactive Gas,Perfect,33.45
+Paragon Soul,I-CCEI,YV-FDG,YV-FDG VI,Noble Gas,Medium,21.90
+Paragon Soul,I-CCEI,YV-FDG,YV-FDG VI,Polyaramids,Poor,12.61
+Paragon Soul,I-CCEI,YV-FDG,YV-FDG VI,Coolant,Rich,18.28
+Paragon Soul,I-CCEI,YV-FDG,YV-FDG VI,Ionic Solutions,Medium,9.95
+Paragon Soul,I-CCEI,YV-FDG,YV-FDG VII,Lustering Alloy,Perfect,34.67
+Paragon Soul,I-CCEI,YV-FDG,YV-FDG VII,Fiber Composite,Perfect,33.77
+Paragon Soul,I-CCEI,YV-FDG,YV-FDG VII,Reactive Gas,Medium,22.13
+Paragon Soul,I-CCEI,YV-FDG,YV-FDG VII,Polyaramids,Perfect,22.41
+Paragon Soul,I-CCEI,YV-FDG,YV-FDG VII,Ionic Solutions,Rich,13.22
+Paragon Soul,I-CCEI,YV-FDG,YV-FDG VIII,Lustering Alloy,Rich,33.33
+Paragon Soul,I-CCEI,YV-FDG,YV-FDG VIII,Reactive Gas,Poor,17.45
+Paragon Soul,I-CCEI,YV-FDG,YV-FDG VIII,Noble Gas,Perfect,34.76
+Paragon Soul,I-CCEI,YV-FDG,YV-FDG VIII,Base Metals,Medium,5.79
+Paragon Soul,I-CCEI,YV-FDG,YV-FDG VIII,Polyaramids,Rich,19.39
+Paragon Soul,I-CCEI,YV-FDG,YV-FDG IX,Lustering Alloy,Poor,15.52
+Paragon Soul,I-CCEI,YV-FDG,YV-FDG IX,Coolant,Medium,16.09
+Paragon Soul,I-CCEI,YV-FDG,YV-FDG IX,Condensates,Medium,13.54
+Paragon Soul,I-CCEI,YV-FDG,YV-FDG IX,Suspended Plasma,Rich,109.09
+Paragon Soul,I-CCEI,LUL-WX,LUL-WX I,Gleaming Alloy,Rich,31.58
+Paragon Soul,I-CCEI,LUL-WX,LUL-WX I,Polyaramids,Medium,13.09
+Paragon Soul,I-CCEI,LUL-WX,LUL-WX I,Oxygen Isotopes,Medium,3.04
+Paragon Soul,I-CCEI,LUL-WX,LUL-WX II,Sheen Compound,Medium,21.16
+Paragon Soul,I-CCEI,LUL-WX,LUL-WX II,Dark Compound,Medium,23.54
+Paragon Soul,I-CCEI,LUL-WX,LUL-WX II,Noble Gas,Medium,22.50
+Paragon Soul,I-CCEI,LUL-WX,LUL-WX II,Condensates,Medium,13.59
+Paragon Soul,I-CCEI,LUL-WX,LUL-WX II,Ionic Solutions,Rich,12.24
+Paragon Soul,I-CCEI,LUL-WX,LUL-WX III,Gleaming Alloy,Rich,30.42
+Paragon Soul,I-CCEI,LUL-WX,LUL-WX III,Heavy Metals,Rich,30.36
+Paragon Soul,I-CCEI,LUL-WX,LUL-WX III,Polyaramids,Medium,15.81
+Paragon Soul,I-CCEI,LUL-WX,LUL-WX IV,Noble Metals,Rich,28.12
+Paragon Soul,I-CCEI,LUL-WX,LUL-WX IV,Toxic Metals,Perfect,8.64
+Paragon Soul,I-CCEI,LUL-WX,LUL-WX IV,Coolant,Rich,18.21
+Paragon Soul,I-CCEI,LUL-WX,LUL-WX IV,Silicate Glass,Medium,10.28
+Paragon Soul,I-CCEI,LUL-WX,LUL-WX IV,Liquid Ozone,Rich,36.95
+Paragon Soul,I-CCEI,LUL-WX,LUL-WX V,Sheen Compound,Rich,30.48
+Paragon Soul,I-CCEI,LUL-WX,LUL-WX V,Reactive Gas,Rich,27.58
+Paragon Soul,I-CCEI,LUL-WX,LUL-WX V,Noble Gas,Perfect,33.14
+Paragon Soul,I-CCEI,LUL-WX,LUL-WX V,Reactive Metals,Perfect,8.69
+Paragon Soul,I-CCEI,LUL-WX,LUL-WX V,Polyaramids,Medium,16.08
+Paragon Soul,I-CCEI,LUL-WX,LUL-WX VI,Gleaming Alloy,Medium,20.44
+Paragon Soul,I-CCEI,LUL-WX,LUL-WX VI,Noble Gas,Medium,25.02
+Paragon Soul,I-CCEI,LUL-WX,LUL-WX VI,Heavy Metals,Medium,25.16
+Paragon Soul,I-CCEI,LUL-WX,LUL-WX VII,Sheen Compound,Perfect,32.90
+Paragon Soul,I-CCEI,LUL-WX,LUL-WX VII,Fiber Composite,Medium,22.70
+Paragon Soul,I-CCEI,LUL-WX,LUL-WX VII,Reactive Gas,Perfect,32.54
+Paragon Soul,I-CCEI,LUL-WX,LUL-WX VII,Noble Gas,Rich,25.86
+Paragon Soul,I-CCEI,LUL-WX,LUL-WX VII,Polyaramids,Poor,12.55
+Paragon Soul,I-CCEI,LUL-WX,LUL-WX VIII,Lustering Alloy,Rich,29.74
+Paragon Soul,I-CCEI,LUL-WX,LUL-WX VIII,Sheen Compound,Medium,24.74
+Paragon Soul,I-CCEI,LUL-WX,LUL-WX VIII,Reactive Gas,Rich,31.16
+Paragon Soul,I-CCEI,LUL-WX,LUL-WX VIII,Noble Gas,Medium,23.08
+Paragon Soul,I-CCEI,LUL-WX,LUL-WX VIII,Reactive Metals,Medium,5.19
+Paragon Soul,I-CCEI,LUL-WX,LUL-WX IX,Heavy Metals,Medium,19.56
+Paragon Soul,I-CCEI,LUL-WX,LUL-WX IX,Supertensile Plastics,Medium,14.92
+Paragon Soul,I-CCEI,LUL-WX,LUL-WX IX,Coolant,Rich,19.44
+Paragon Soul,I-CCEI,LUL-WX,LUL-WX IX,Condensates,Poor,11.00
+Paragon Soul,I-CCEI,LUL-WX,LUL-WX X,Precious Alloy,Poor,17.34
+Paragon Soul,I-CCEI,LUL-WX,LUL-WX X,Base Metals,Medium,6.27
+Paragon Soul,I-CCEI,LUL-WX,LUL-WX X,Condensates,Poor,12.03
+Paragon Soul,I-CCEI,LUL-WX,LUL-WX X,Suspended Plasma,Rich,96.34
+Paragon Soul,I-CCEI,8Q-UYU,8Q-UYU I,Base Metals,Poor,4.51
+Paragon Soul,I-CCEI,8Q-UYU,8Q-UYU I,Supertensile Plastics,Medium,14.19
+Paragon Soul,I-CCEI,8Q-UYU,8Q-UYU I,Construction Blocks,Poor,14.80
+Paragon Soul,I-CCEI,8Q-UYU,8Q-UYU I,Oxygen Isotopes,Medium,2.87
+Paragon Soul,I-CCEI,8Q-UYU,8Q-UYU II,Precious Alloy,Medium,22.92
+Paragon Soul,I-CCEI,8Q-UYU,8Q-UYU II,Toxic Metals,Medium,6.07
+Paragon Soul,I-CCEI,8Q-UYU,8Q-UYU II,Supertensile Plastics,Medium,14.87
+Paragon Soul,I-CCEI,8Q-UYU,8Q-UYU II,Plasmoids,Poor,0.95
+Paragon Soul,I-CCEI,8Q-UYU,8Q-UYU III,Gleaming Alloy,Rich,31.20
+Paragon Soul,I-CCEI,8Q-UYU,8Q-UYU III,Heavy Metals,Perfect,32.26
+Paragon Soul,I-CCEI,8Q-UYU,8Q-UYU III,Oxygen Isotopes,Rich,4.60
+Paragon Soul,I-CCEI,8Q-UYU,8Q-UYU IV,Base Metals,Medium,6.40
+Paragon Soul,I-CCEI,8Q-UYU,8Q-UYU IV,Noble Metals,Rich,25.46
+Paragon Soul,I-CCEI,8Q-UYU,8Q-UYU IV,Industrial Fibers,Rich,7.52
+Paragon Soul,I-CCEI,8Q-UYU,8Q-UYU IV,Heavy Water,Rich,303.60
+Paragon Soul,I-CCEI,8Q-UYU,8Q-UYU IV,Liquid Ozone,Rich,36.42
+Paragon Soul,I-CCEI,8Q-UYU,8Q-UYU V,Lustering Alloy,Medium,19.66
+Paragon Soul,I-CCEI,8Q-UYU,8Q-UYU V,Toxic Metals,Poor,4.42
+Paragon Soul,I-CCEI,8Q-UYU,8Q-UYU V,Industrial Fibers,Medium,5.01
+Paragon Soul,I-CCEI,8Q-UYU,8Q-UYU V,Supertensile Plastics,Medium,14.44
+Paragon Soul,I-CCEI,8Q-UYU,8Q-UYU VI,Opulent Compound,Rich,27.00
+Paragon Soul,I-CCEI,8Q-UYU,8Q-UYU VI,Base Metals,Medium,6.42
+Paragon Soul,I-CCEI,8Q-UYU,8Q-UYU VI,Condensates,Medium,14.48
+Paragon Soul,I-CCEI,8Q-UYU,8Q-UYU VI,Heavy Water,Perfect,365.60
+Paragon Soul,I-CCEI,8Q-UYU,8Q-UYU VI,Liquid Ozone,Medium,28.10
+Paragon Soul,I-CCEI,8Q-UYU,8Q-UYU VII,Sheen Compound,Medium,22.22
+Paragon Soul,I-CCEI,8Q-UYU,8Q-UYU VII,Glossy Compound,Rich,31.16
+Paragon Soul,I-CCEI,8Q-UYU,8Q-UYU VII,Reactive Gas,Rich,25.96
+Paragon Soul,I-CCEI,8Q-UYU,8Q-UYU VII,Base Metals,Rich,7.46
+Paragon Soul,I-CCEI,8Q-UYU,8Q-UYU VII,Ionic Solutions,Medium,8.93
+Paragon Soul,I-CCEI,8Q-UYU,8Q-UYU VIII,Gleaming Alloy,Poor,18.72
+Paragon Soul,I-CCEI,8Q-UYU,8Q-UYU VIII,Reactive Gas,Rich,27.28
+Paragon Soul,I-CCEI,8Q-UYU,8Q-UYU VIII,Reactive Metals,Poor,4.81
+Paragon Soul,I-CCEI,8Q-UYU,8Q-UYU VIII,Nanites,Rich,8.17
+Paragon Soul,I-CCEI,8Q-UYU,8Q-UYU IX,Lustering Alloy,Rich,27.18
+Paragon Soul,I-CCEI,8Q-UYU,8Q-UYU IX,Reactive Gas,Medium,19.98
+Paragon Soul,I-CCEI,8Q-UYU,8Q-UYU IX,Noble Gas,Rich,27.20
+Paragon Soul,I-CCEI,8Q-UYU,8Q-UYU IX,Reactive Metals,Rich,7.58
+Paragon Soul,I-CCEI,8Q-UYU,8Q-UYU IX,Ionic Solutions,Rich,10.51
+Paragon Soul,I-CCEI,8Q-UYU,8Q-UYU X,Industrial Fibers,Poor,4.71
+Paragon Soul,I-CCEI,8Q-UYU,8Q-UYU X,Supertensile Plastics,Poor,10.25
+Paragon Soul,I-CCEI,8Q-UYU,8Q-UYU X,Construction Blocks,Poor,15.64
+Paragon Soul,I-CCEI,8Q-UYU,8Q-UYU X,Silicate Glass,Poor,8.33
+Paragon Soul,I-CCEI,8Q-UYU,8Q-UYU XI,Supertensile Plastics,Medium,14.00
+Paragon Soul,I-CCEI,8Q-UYU,8Q-UYU XI,Construction Blocks,Poor,15.44
+Paragon Soul,I-CCEI,8Q-UYU,8Q-UYU XI,Silicate Glass,Medium,9.65
+Paragon Soul,I-CCEI,8Q-UYU,8Q-UYU XI,Plasmoids,Medium,1.20
+Paragon Soul,I-CCEI,3PPT-9,3PPT-9 I,Precious Alloy,Medium,21.30
+Paragon Soul,I-CCEI,3PPT-9,3PPT-9 I,Supertensile Plastics,Medium,16.12
+Paragon Soul,I-CCEI,3PPT-9,3PPT-9 I,Silicate Glass,Poor,6.87
+Paragon Soul,I-CCEI,3PPT-9,3PPT-9 I,Plasmoids,Medium,1.46
+Paragon Soul,I-CCEI,3PPT-9,3PPT-9 II,Gleaming Alloy,Rich,26.24
+Paragon Soul,I-CCEI,3PPT-9,3PPT-9 II,Construction Blocks,Poor,16.14
+Paragon Soul,I-CCEI,3PPT-9,3PPT-9 II,Oxygen Isotopes,Poor,2.66
+Paragon Soul,I-CCEI,3PPT-9,3PPT-9 III,Lustering Alloy,Medium,19.04
+Paragon Soul,I-CCEI,3PPT-9,3PPT-9 III,Toxic Metals,Medium,6.22
+Paragon Soul,I-CCEI,3PPT-9,3PPT-9 III,Supertensile Plastics,Medium,13.03
+Paragon Soul,I-CCEI,3PPT-9,3PPT-9 III,Construction Blocks,Poor,13.06
+Paragon Soul,I-CCEI,3PPT-9,3PPT-9 IV,Gleaming Alloy,Medium,23.04
+Paragon Soul,I-CCEI,3PPT-9,3PPT-9 IV,Heavy Metals,Poor,17.82
+Paragon Soul,I-CCEI,3PPT-9,3PPT-9 IV,Noble Metals,Medium,20.96
+Paragon Soul,I-CCEI,3PPT-9,3PPT-9 V,Gleaming Alloy,Rich,25.44
+Paragon Soul,I-CCEI,3PPT-9,3PPT-9 V,Heavy Metals,Perfect,32.90
+Paragon Soul,I-CCEI,3PPT-9,3PPT-9 V,Oxygen Isotopes,Rich,4.06
+Paragon Soul,I-CCEI,3PPT-9,3PPT-9 VI,Gleaming Alloy,Medium,19.54
+Paragon Soul,I-CCEI,3PPT-9,3PPT-9 VI,Glossy Compound,Rich,31.46
+Paragon Soul,I-CCEI,3PPT-9,3PPT-9 VI,Noble Gas,Poor,18.56
+Paragon Soul,I-CCEI,3PPT-9,3PPT-9 VII,Polyaramids,Perfect,23.39
+Paragon Soul,I-CCEI,3PPT-9,3PPT-9 VII,Coolant,Medium,13.68
+Paragon Soul,I-CCEI,3PPT-9,3PPT-9 VII,Silicate Glass,Perfect,16.00
+Paragon Soul,I-CCEI,3PPT-9,3PPT-9 VII,Liquid Ozone,Medium,31.07
+Paragon Soul,I-CCEI,3PPT-9,3PPT-9 VII,Ionic Solutions,Perfect,13.25
+Paragon Soul,I-CCEI,3PPT-9,3PPT-9 VIII,Fiber Composite,Medium,19.26
+Paragon Soul,I-CCEI,3PPT-9,3PPT-9 VIII,Reactive Gas,Poor,18.42
+Paragon Soul,I-CCEI,3PPT-9,3PPT-9 VIII,Base Metals,Medium,5.53
+Paragon Soul,I-CCEI,3PPT-9,3PPT-9 VIII,Reactive Metals,Perfect,8.65
+Paragon Soul,I-CCEI,3PPT-9,3PPT-9 VIII,Coolant,Medium,16.79
+Paragon Soul,I-CCEI,3PPT-9,3PPT-9 IX,Sheen Compound,Medium,22.44
+Paragon Soul,I-CCEI,3PPT-9,3PPT-9 IX,Reactive Gas,Poor,18.10
+Paragon Soul,I-CCEI,3PPT-9,3PPT-9 IX,Noble Gas,Medium,20.66
+Paragon Soul,I-CCEI,3PPT-9,3PPT-9 IX,Base Metals,Rich,7.73
+Paragon Soul,I-CCEI,3PPT-9,3PPT-9 IX,Polyaramids,Medium,16.60
+Paragon Soul,I-CCEI,3PPT-9,3PPT-9 X,Precious Alloy,Poor,15.60
+Paragon Soul,I-CCEI,3PPT-9,3PPT-9 X,Base Metals,Medium,5.64
+Paragon Soul,I-CCEI,3PPT-9,3PPT-9 X,Supertensile Plastics,Medium,16.07
+Paragon Soul,I-CCEI,3PPT-9,3PPT-9 X,Silicate Glass,Poor,7.91
+Paragon Soul,I-CCEI,S-KU8B,S-KU8B I,Lustering Alloy,Medium,21.14
+Paragon Soul,I-CCEI,S-KU8B,S-KU8B I,Precious Alloy,Medium,23.34
+Paragon Soul,I-CCEI,S-KU8B,S-KU8B I,Supertensile Plastics,Medium,12.57
+Paragon Soul,I-CCEI,S-KU8B,S-KU8B I,Construction Blocks,Medium,18.98
+Paragon Soul,I-CCEI,S-KU8B,S-KU8B II,Gleaming Alloy,Poor,16.56
+Paragon Soul,I-CCEI,S-KU8B,S-KU8B II,Lucent Compound,Medium,23.20
+Paragon Soul,I-CCEI,S-KU8B,S-KU8B II,Reactive Metals,Rich,7.71
+Paragon Soul,I-CCEI,S-KU8B,S-KU8B II,Oxygen Isotopes,Poor,2.70
+Paragon Soul,I-CCEI,S-KU8B,S-KU8B III,Condensed Alloy,Poor,18.74
+Paragon Soul,I-CCEI,S-KU8B,S-KU8B III,Opulent Compound,Medium,20.16
+Paragon Soul,I-CCEI,S-KU8B,S-KU8B III,Reactive Gas,Perfect,35.14
+Paragon Soul,I-CCEI,S-KU8B,S-KU8B III,Industrial Fibers,Perfect,8.68
+Paragon Soul,I-CCEI,S-KU8B,S-KU8B III,Liquid Ozone,Rich,36.73
+Paragon Soul,I-CCEI,S-KU8B,S-KU8B IV,Base Metals,Medium,6.05
+Paragon Soul,I-CCEI,S-KU8B,S-KU8B IV,Industrial Fibers,Poor,4.11
+Paragon Soul,I-CCEI,S-KU8B,S-KU8B IV,Supertensile Plastics,Medium,14.00
+Paragon Soul,I-CCEI,S-KU8B,S-KU8B IV,Construction Blocks,Medium,19.52
+Paragon Soul,I-CCEI,JK-GLL,JK-GLL I,Dark Compound,Medium,20.26
+Paragon Soul,I-CCEI,JK-GLL,JK-GLL I,Supertensile Plastics,Poor,8.29
+Paragon Soul,I-CCEI,JK-GLL,JK-GLL I,Construction Blocks,Poor,16.74
+Paragon Soul,I-CCEI,JK-GLL,JK-GLL I,Oxygen Isotopes,Poor,2.50
+Paragon Soul,I-CCEI,JK-GLL,JK-GLL II,Precious Alloy,Poor,16.32
+Paragon Soul,I-CCEI,JK-GLL,JK-GLL II,Dark Compound,Poor,13.98
+Paragon Soul,I-CCEI,JK-GLL,JK-GLL II,Supertensile Plastics,Poor,9.84
+Paragon Soul,I-CCEI,JK-GLL,JK-GLL II,Oxygen Isotopes,Medium,2.94
+Paragon Soul,I-CCEI,JK-GLL,JK-GLL III,Condensed Alloy,Rich,31.16
+Paragon Soul,I-CCEI,JK-GLL,JK-GLL III,Opulent Compound,Perfect,32.04
+Paragon Soul,I-CCEI,JK-GLL,JK-GLL III,Polyaramids,Medium,12.93
+Paragon Soul,I-CCEI,JK-GLL,JK-GLL III,Liquid Ozone,Rich,33.13
+Paragon Soul,I-CCEI,JK-GLL,JK-GLL III,Ionic Solutions,Poor,7.16
+Paragon Soul,I-CCEI,JK-GLL,JK-GLL IV,Sheen Compound,Poor,17.76
+Paragon Soul,I-CCEI,JK-GLL,JK-GLL IV,Fiber Composite,Rich,31.38
+Paragon Soul,I-CCEI,JK-GLL,JK-GLL IV,Reactive Gas,Rich,29.72
+Paragon Soul,I-CCEI,JK-GLL,JK-GLL IV,Noble Gas,Medium,20.54
+Paragon Soul,I-CCEI,JK-GLL,JK-GLL IV,Base Metals,Poor,4.70
+Paragon Soul,I-CCEI,JK-GLL,JK-GLL V,Crystal Compound,Rich,29.10
+Paragon Soul,I-CCEI,JK-GLL,JK-GLL V,Reactive Gas,Medium,19.44
+Paragon Soul,I-CCEI,JK-GLL,JK-GLL V,Reactive Metals,Poor,4.77
+Paragon Soul,I-CCEI,JK-GLL,JK-GLL V,Toxic Metals,Rich,7.71
+Paragon Soul,I-CCEI,JK-GLL,JK-GLL VI,Sheen Compound,Medium,18.94
+Paragon Soul,I-CCEI,JK-GLL,JK-GLL VI,Glossy Compound,Medium,21.70
+Paragon Soul,I-CCEI,JK-GLL,JK-GLL VI,Reactive Gas,Medium,20.88
+Paragon Soul,I-CCEI,JK-GLL,JK-GLL VI,Base Metals,Rich,7.45
+Paragon Soul,I-CCEI,JK-GLL,JK-GLL VI,Reactive Metals,Rich,7.89
+Paragon Soul,I-CCEI,JK-GLL,JK-GLL VII,Glossy Compound,Rich,26.60
+Paragon Soul,I-CCEI,JK-GLL,JK-GLL VII,Reactive Gas,Rich,31.08
+Paragon Soul,I-CCEI,JK-GLL,JK-GLL VII,Reactive Metals,Medium,6.25
+Paragon Soul,I-CCEI,JK-GLL,JK-GLL VII,Coolant,Rich,17.75
+Paragon Soul,I-CCEI,JK-GLL,JK-GLL VII,Ionic Solutions,Perfect,12.95
+Paragon Soul,I-CCEI,JK-GLL,JK-GLL VIII,Lustering Alloy,Rich,30.16
+Paragon Soul,I-CCEI,JK-GLL,JK-GLL VIII,Fiber Composite,Rich,28.18
+Paragon Soul,I-CCEI,JK-GLL,JK-GLL VIII,Reactive Gas,Rich,26.50
+Paragon Soul,I-CCEI,JK-GLL,JK-GLL VIII,Noble Gas,Rich,31.34
+Paragon Soul,I-CCEI,JK-GLL,JK-GLL VIII,Coolant,Poor,10.93
+Paragon Soul,I-CCEI,JK-GLL,JK-GLL IX,Precious Alloy,Medium,22.96
+Paragon Soul,I-CCEI,JK-GLL,JK-GLL IX,Dark Compound,Medium,19.46
+Paragon Soul,I-CCEI,JK-GLL,JK-GLL IX,Industrial Fibers,Poor,4.35
+Paragon Soul,I-CCEI,JK-GLL,JK-GLL IX,Supertensile Plastics,Medium,12.57
+Paragon Soul,I-CCEI,UAAU-C,UAAU-C I,Gleaming Alloy,Rich,28.96
+Paragon Soul,I-CCEI,UAAU-C,UAAU-C I,Crystal Compound,Poor,17.42
+Paragon Soul,I-CCEI,UAAU-C,UAAU-C I,Reactive Metals,Rich,7.81
+Paragon Soul,I-CCEI,UAAU-C,UAAU-C I,Oxygen Isotopes,Poor,2.66
+Paragon Soul,I-CCEI,UAAU-C,UAAU-C II,Lustering Alloy,Medium,19.56
+Paragon Soul,I-CCEI,UAAU-C,UAAU-C II,Fiber Composite,Rich,31.74
+Paragon Soul,I-CCEI,UAAU-C,UAAU-C II,Reactive Gas,Medium,23.58
+Paragon Soul,I-CCEI,UAAU-C,UAAU-C II,Polyaramids,Rich,21.09
+Paragon Soul,I-CCEI,UAAU-C,UAAU-C II,Ionic Solutions,Poor,6.66
+Paragon Soul,I-CCEI,UAAU-C,UAAU-C III,Lustering Alloy,Rich,25.32
+Paragon Soul,I-CCEI,UAAU-C,UAAU-C III,Sheen Compound,Rich,25.48
+Paragon Soul,I-CCEI,UAAU-C,UAAU-C III,Reactive Gas,Medium,21.18
+Paragon Soul,I-CCEI,UAAU-C,UAAU-C III,Base Metals,Poor,4.78
+Paragon Soul,I-CCEI,UAAU-C,UAAU-C III,Polyaramids,Poor,11.87
+Paragon Soul,I-CCEI,UAAU-C,UAAU-C IV,Sheen Compound,Rich,27.62
+Paragon Soul,I-CCEI,UAAU-C,UAAU-C IV,Reactive Gas,Perfect,32.90
+Paragon Soul,I-CCEI,UAAU-C,UAAU-C IV,Noble Gas,Medium,22.58
+Paragon Soul,I-CCEI,UAAU-C,UAAU-C IV,Reactive Metals,Rich,7.85
+Paragon Soul,I-CCEI,UAAU-C,UAAU-C IV,Coolant,Poor,12.17
+Paragon Soul,I-CCEI,UAAU-C,UAAU-C V,Lustering Alloy,Rich,25.44
+Paragon Soul,I-CCEI,UAAU-C,UAAU-C V,Heavy Metals,Medium,19.20
+Paragon Soul,I-CCEI,UAAU-C,UAAU-C V,Supertensile Plastics,Medium,16.31
+Paragon Soul,I-CCEI,UAAU-C,UAAU-C V,Condensates,Poor,9.85
+Paragon Soul,I-CCEI,UAAU-C,UAAU-C VI,Reactive Gas,Poor,16.72
+Paragon Soul,I-CCEI,UAAU-C,UAAU-C VI,Reactive Metals,Medium,6.53
+Paragon Soul,I-CCEI,UAAU-C,UAAU-C VI,Toxic Metals,Rich,7.58
+Paragon Soul,I-CCEI,UAAU-C,UAAU-C VI,Nanites,Perfect,8.54
+Paragon Soul,IZ-FBT,HHJD-5,HHJD-5 I,Gleaming Alloy,Rich,31.97
+Paragon Soul,IZ-FBT,HHJD-5,HHJD-5 I,Lucent Compound,Rich,27.92
+Paragon Soul,IZ-FBT,HHJD-5,HHJD-5 I,Reactive Metals,Poor,4.75
+Paragon Soul,IZ-FBT,HHJD-5,HHJD-5 I,Oxygen Isotopes,Rich,4.46
+Paragon Soul,IZ-FBT,HHJD-5,HHJD-5 II,Sheen Compound,Rich,28.93
+Paragon Soul,IZ-FBT,HHJD-5,HHJD-5 II,Dark Compound,Medium,26.07
+Paragon Soul,IZ-FBT,HHJD-5,HHJD-5 II,Noble Gas,Medium,23.34
+Paragon Soul,IZ-FBT,HHJD-5,HHJD-5 II,Condensates,Medium,18.27
+Paragon Soul,IZ-FBT,HHJD-5,HHJD-5 II,Ionic Solutions,Rich,12.68
+Paragon Soul,IZ-FBT,HHJD-5,HHJD-5 III,Supertensile Plastics,Medium,15.85
+Paragon Soul,IZ-FBT,HHJD-5,HHJD-5 III,Construction Blocks,Medium,22.64
+Paragon Soul,IZ-FBT,HHJD-5,HHJD-5 III,Silicate Glass,Medium,11.10
+Paragon Soul,IZ-FBT,HHJD-5,HHJD-5 III,Oxygen Isotopes,Medium,3.58
+Paragon Soul,IZ-FBT,HHJD-5,HHJD-5 IV,Condensed Alloy,Perfect,37.58
+Paragon Soul,IZ-FBT,HHJD-5,HHJD-5 IV,Opulent Compound,Perfect,40.63
+Paragon Soul,IZ-FBT,HHJD-5,HHJD-5 IV,Reactive Gas,Perfect,37.77
+Paragon Soul,IZ-FBT,HHJD-5,HHJD-5 IV,Smartfab Units,Medium,15.41
+Paragon Soul,IZ-FBT,HHJD-5,HHJD-5 IV,Liquid Ozone,Rich,34.90
+Paragon Soul,IZ-FBT,HHJD-5,HHJD-5 V,Sheen Compound,Rich,33.33
+Paragon Soul,IZ-FBT,HHJD-5,HHJD-5 V,Fiber Composite,Rich,32.30
+Paragon Soul,IZ-FBT,HHJD-5,HHJD-5 V,Reactive Gas,Rich,28.78
+Paragon Soul,IZ-FBT,HHJD-5,HHJD-5 V,Base Metals,Medium,7.25
+Paragon Soul,IZ-FBT,HHJD-5,HHJD-5 V,Reactive Metals,Medium,6.52
+Paragon Soul,IZ-FBT,HHJD-5,HHJD-5 VI,Fiber Composite,Rich,33.66
+Paragon Soul,IZ-FBT,HHJD-5,HHJD-5 VI,Reactive Gas,Medium,21.43
+Paragon Soul,IZ-FBT,HHJD-5,HHJD-5 VI,Polyaramids,Medium,17.13
+Paragon Soul,IZ-FBT,HHJD-5,HHJD-5 VI,Coolant,Perfect,23.98
+Paragon Soul,IZ-FBT,HHJD-5,HHJD-5 VI,Ionic Solutions,Poor,7.90
+Paragon Soul,IZ-FBT,HHJD-5,HHJD-5 VII,Glossy Compound,Rich,29.55
+Paragon Soul,IZ-FBT,HHJD-5,HHJD-5 VII,Reactive Gas,Medium,27.13
+Paragon Soul,IZ-FBT,HHJD-5,HHJD-5 VII,Noble Gas,Perfect,35.71
+Paragon Soul,IZ-FBT,HHJD-5,HHJD-5 VII,Reactive Metals,Rich,9.09
+Paragon Soul,IZ-FBT,HHJD-5,HHJD-5 VII,Coolant,Rich,19.40
+Paragon Soul,IZ-FBT,HHJD-5,HHJD-5 VIII,Dark Compound,Medium,25.54
+Paragon Soul,IZ-FBT,HHJD-5,HHJD-5 VIII,Toxic Metals,Medium,6.70
+Paragon Soul,IZ-FBT,HHJD-5,HHJD-5 VIII,Supertensile Plastics,Poor,9.37
+Paragon Soul,IZ-FBT,HHJD-5,HHJD-5 VIII,Oxygen Isotopes,Medium,4.01
+Paragon Soul,IZ-FBT,HHJD-5,HHJD-5 IX,Precious Alloy,Medium,21.16
+Paragon Soul,IZ-FBT,HHJD-5,HHJD-5 IX,Coolant,Poor,12.48
+Paragon Soul,IZ-FBT,HHJD-5,HHJD-5 IX,Condensates,Rich,21.27
+Paragon Soul,IZ-FBT,HHJD-5,HHJD-5 IX,Liquid Ozone,Rich,40.84
+Paragon Soul,IZ-FBT,ZWV-GD,ZWV-GD I,Supertensile Plastics,Poor,12.14
+Paragon Soul,IZ-FBT,ZWV-GD,ZWV-GD I,Construction Blocks,Medium,26.54
+Paragon Soul,IZ-FBT,ZWV-GD,ZWV-GD I,Silicate Glass,Medium,14.03
+Paragon Soul,IZ-FBT,ZWV-GD,ZWV-GD I,Oxygen Isotopes,Poor,2.84
+Paragon Soul,IZ-FBT,ZWV-GD,ZWV-GD II,Gleaming Alloy,Poor,19.60
+Paragon Soul,IZ-FBT,ZWV-GD,ZWV-GD II,Heavy Metals,Rich,36.34
+Paragon Soul,IZ-FBT,ZWV-GD,ZWV-GD II,Smartfab Units,Medium,15.95
+Paragon Soul,IZ-FBT,ZWV-GD,ZWV-GD III,Opulent Compound,Perfect,36.78
+Paragon Soul,IZ-FBT,ZWV-GD,ZWV-GD III,Crystal Compound,Rich,31.72
+Paragon Soul,IZ-FBT,ZWV-GD,ZWV-GD III,Coolant,Medium,17.92
+Paragon Soul,IZ-FBT,ZWV-GD,ZWV-GD III,Silicate Glass,Rich,14.75
+Paragon Soul,IZ-FBT,ZWV-GD,ZWV-GD III,Liquid Ozone,Perfect,47.49
+Paragon Soul,IZ-FBT,ZWV-GD,ZWV-GD IV,Precious Alloy,Medium,27.90
+Paragon Soul,IZ-FBT,ZWV-GD,ZWV-GD IV,Dark Compound,Poor,19.64
+Paragon Soul,IZ-FBT,ZWV-GD,ZWV-GD IV,Supertensile Plastics,Poor,13.14
+Paragon Soul,IZ-FBT,ZWV-GD,ZWV-GD IV,Silicate Glass,Poor,10.55
+Paragon Soul,IZ-FBT,ZWV-GD,ZWV-GD V,Lustering Alloy,Rich,29.62
+Paragon Soul,IZ-FBT,ZWV-GD,ZWV-GD V,Sheen Compound,Rich,31.03
+Paragon Soul,IZ-FBT,ZWV-GD,ZWV-GD V,Glossy Compound,Medium,28.11
+Paragon Soul,IZ-FBT,ZWV-GD,ZWV-GD V,Reactive Gas,Rich,33.67
+Paragon Soul,IZ-FBT,ZWV-GD,ZWV-GD V,Base Metals,Rich,8.75
+Paragon Soul,IZ-FBT,ZWV-GD,ZWV-GD VI,Lustering Alloy,Rich,33.17
+Paragon Soul,IZ-FBT,ZWV-GD,ZWV-GD VI,Sheen Compound,Rich,31.74
+Paragon Soul,IZ-FBT,ZWV-GD,ZWV-GD VI,Glossy Compound,Perfect,36.80
+Paragon Soul,IZ-FBT,ZWV-GD,ZWV-GD VI,Reactive Gas,Rich,35.53
+Paragon Soul,IZ-FBT,ZWV-GD,ZWV-GD VI,Base Metals,Medium,5.82
+Paragon Soul,IZ-FBT,ZWV-GD,ZWV-GD VII,Lustering Alloy,Rich,32.41
+Paragon Soul,IZ-FBT,ZWV-GD,ZWV-GD VII,Glossy Compound,Medium,23.90
+Paragon Soul,IZ-FBT,ZWV-GD,ZWV-GD VII,Reactive Gas,Perfect,37.79
+Paragon Soul,IZ-FBT,ZWV-GD,ZWV-GD VII,Noble Gas,Rich,33.60
+Paragon Soul,IZ-FBT,ZWV-GD,ZWV-GD VII,Coolant,Medium,15.67
+Paragon Soul,IZ-FBT,ZWV-GD,ZWV-GD VIII,Lustering Alloy,Medium,23.11
+Paragon Soul,IZ-FBT,ZWV-GD,ZWV-GD VIII,Sheen Compound,Poor,20.84
+Paragon Soul,IZ-FBT,ZWV-GD,ZWV-GD VIII,Fiber Composite,Medium,28.06
+Paragon Soul,IZ-FBT,ZWV-GD,ZWV-GD VIII,Glossy Compound,Medium,23.39
+Paragon Soul,IZ-FBT,ZWV-GD,ZWV-GD VIII,Reactive Gas,Rich,33.23
+Paragon Soul,IZ-FBT,1DDR-X,1DDR-X I,Dark Compound,Rich,28.96
+Paragon Soul,IZ-FBT,1DDR-X,1DDR-X I,Heavy Metals,Rich,33.10
+Paragon Soul,IZ-FBT,1DDR-X,1DDR-X I,Reactive Metals,Medium,5.73
+Paragon Soul,IZ-FBT,1DDR-X,1DDR-X I,Condensates,Rich,19.31
+Paragon Soul,IZ-FBT,1DDR-X,1DDR-X I,Ionic Solutions,Perfect,14.02
+Paragon Soul,IZ-FBT,1DDR-X,1DDR-X II,Gleaming Alloy,Poor,19.72
+Paragon Soul,IZ-FBT,1DDR-X,1DDR-X II,Heavy Metals,Rich,29.71
+Paragon Soul,IZ-FBT,1DDR-X,1DDR-X II,Construction Blocks,Rich,30.01
+Paragon Soul,IZ-FBT,1DDR-X,1DDR-X III,Sheen Compound,Medium,23.35
+Paragon Soul,IZ-FBT,1DDR-X,1DDR-X III,Reactive Gas,Rich,26.77
+Paragon Soul,IZ-FBT,1DDR-X,1DDR-X III,Noble Gas,Rich,27.93
+Paragon Soul,IZ-FBT,1DDR-X,1DDR-X III,Reactive Metals,Rich,8.57
+Paragon Soul,IZ-FBT,1DDR-X,1DDR-X III,Ionic Solutions,Perfect,13.89
+Paragon Soul,IZ-FBT,1DDR-X,1DDR-X IV,Lustering Alloy,Medium,21.17
+Paragon Soul,IZ-FBT,1DDR-X,1DDR-X IV,Sheen Compound,Rich,32.63
+Paragon Soul,IZ-FBT,1DDR-X,1DDR-X IV,Glossy Compound,Rich,27.99
+Paragon Soul,IZ-FBT,1DDR-X,1DDR-X IV,Reactive Gas,Medium,20.71
+Paragon Soul,IZ-FBT,1DDR-X,1DDR-X IV,Base Metals,Rich,7.12
+Paragon Soul,IZ-FBT,1DDR-X,1DDR-X V,Sheen Compound,Rich,26.61
+Paragon Soul,IZ-FBT,1DDR-X,1DDR-X V,Glossy Compound,Rich,30.93
+Paragon Soul,IZ-FBT,1DDR-X,1DDR-X V,Reactive Gas,Poor,18.16
+Paragon Soul,IZ-FBT,1DDR-X,1DDR-X V,Coolant,Perfect,23.18
+Paragon Soul,IZ-FBT,1DDR-X,1DDR-X V,Ionic Solutions,Medium,9.12
+Paragon Soul,IZ-FBT,1DDR-X,1DDR-X VI,Lustering Alloy,Poor,19.66
+Paragon Soul,IZ-FBT,1DDR-X,1DDR-X VI,Sheen Compound,Rich,30.26
+Paragon Soul,IZ-FBT,1DDR-X,1DDR-X VI,Glossy Compound,Medium,22.89
+Paragon Soul,IZ-FBT,1DDR-X,1DDR-X VI,Reactive Gas,Medium,26.10
+Paragon Soul,IZ-FBT,1DDR-X,1DDR-X VI,Noble Gas,Rich,27.51
+Paragon Soul,IZ-FBT,1DDR-X,1DDR-X VII,Crystal Compound,Medium,21.78
+Paragon Soul,IZ-FBT,1DDR-X,1DDR-X VII,Reactive Gas,Medium,21.25
+Paragon Soul,IZ-FBT,1DDR-X,1DDR-X VII,Reactive Metals,Rich,7.06
+Paragon Soul,IZ-FBT,1DDR-X,1DDR-X VII,Suspended Plasma,Medium,90.57
+Paragon Soul,IZ-FBT,1DDR-X,1DDR-X VIII,Reactive Gas,Medium,23.14
+Paragon Soul,IZ-FBT,1DDR-X,1DDR-X VIII,Base Metals,Rich,8.19
+Paragon Soul,IZ-FBT,1DDR-X,1DDR-X VIII,Reactive Metals,Poor,4.79
+Paragon Soul,IZ-FBT,1DDR-X,1DDR-X VIII,Polyaramids,Rich,21.95
+Paragon Soul,IZ-FBT,1DDR-X,1DDR-X VIII,Ionic Solutions,Poor,7.84
+Paragon Soul,IZ-FBT,1DDR-X,1DDR-X IX,Precious Alloy,Rich,29.82
+Paragon Soul,IZ-FBT,1DDR-X,1DDR-X IX,Base Metals,Medium,5.48
+Paragon Soul,IZ-FBT,1DDR-X,1DDR-X IX,Heavy Metals,Rich,26.67
+Paragon Soul,IZ-FBT,1DDR-X,1DDR-X IX,Condensates,Rich,18.82
+Paragon Soul,IZ-FBT,LG-WA9,LG-WA9 I,Lustering Alloy,Medium,23.31
+Paragon Soul,IZ-FBT,LG-WA9,LG-WA9 I,Toxic Metals,Medium,5.38
+Paragon Soul,IZ-FBT,LG-WA9,LG-WA9 I,Industrial Fibers,Poor,4.94
+Paragon Soul,IZ-FBT,LG-WA9,LG-WA9 I,Supertensile Plastics,Poor,13.03
+Paragon Soul,IZ-FBT,LG-WA9,LG-WA9 II,Lustering Alloy,Medium,22.76
+Paragon Soul,IZ-FBT,LG-WA9,LG-WA9 II,Precious Alloy,Poor,17.14
+Paragon Soul,IZ-FBT,LG-WA9,LG-WA9 II,Dark Compound,Medium,22.05
+Paragon Soul,IZ-FBT,LG-WA9,LG-WA9 II,Supertensile Plastics,Poor,11.55
+Paragon Soul,IZ-FBT,LG-WA9,LG-WA9 III,Lustering Alloy,Medium,22.26
+Paragon Soul,IZ-FBT,LG-WA9,LG-WA9 III,Industrial Fibers,Poor,4.53
+Paragon Soul,IZ-FBT,LG-WA9,LG-WA9 III,Supertensile Plastics,Poor,13.06
+Paragon Soul,IZ-FBT,LG-WA9,LG-WA9 III,Plasmoids,Poor,1.02
+Paragon Soul,IZ-FBT,LG-WA9,LG-WA9 IV,Fiber Composite,Medium,24.25
+Paragon Soul,IZ-FBT,LG-WA9,LG-WA9 IV,Reactive Gas,Poor,19.43
+Paragon Soul,IZ-FBT,LG-WA9,LG-WA9 IV,Base Metals,Perfect,8.90
+Paragon Soul,IZ-FBT,LG-WA9,LG-WA9 IV,Reactive Metals,Poor,5.06
+Paragon Soul,IZ-FBT,LG-WA9,LG-WA9 IV,Coolant,Poor,11.79
+Paragon Soul,IZ-FBT,LG-WA9,LG-WA9 V,Sheen Compound,Poor,18.16
+Paragon Soul,IZ-FBT,LG-WA9,LG-WA9 V,Fiber Composite,Rich,29.95
+Paragon Soul,IZ-FBT,LG-WA9,LG-WA9 V,Glossy Compound,Perfect,33.75
+Paragon Soul,IZ-FBT,LG-WA9,LG-WA9 V,Reactive Gas,Medium,25.85
+Paragon Soul,IZ-FBT,LG-WA9,LG-WA9 V,Noble Gas,Medium,22.79
+Paragon Soul,IZ-FBT,LG-WA9,LG-WA9 VI,Precious Alloy,Rich,28.96
+Paragon Soul,IZ-FBT,LG-WA9,LG-WA9 VI,Base Metals,Medium,5.92
+Paragon Soul,IZ-FBT,LG-WA9,LG-WA9 VI,Condensates,Rich,18.24
+Paragon Soul,IZ-FBT,LG-WA9,LG-WA9 VI,Suspended Plasma,Rich,98.20
+Paragon Soul,IZ-FBT,AA-GWF,AA-GWF I,Supertensile Plastics,Poor,10.63
+Paragon Soul,IZ-FBT,AA-GWF,AA-GWF I,Construction Blocks,Medium,23.14
+Paragon Soul,IZ-FBT,AA-GWF,AA-GWF I,Silicate Glass,Poor,6.86
+Paragon Soul,IZ-FBT,AA-GWF,AA-GWF I,Oxygen Isotopes,Poor,2.89
+Paragon Soul,IZ-FBT,AA-GWF,AA-GWF II,Condensed Alloy,Perfect,39.73
+Paragon Soul,IZ-FBT,AA-GWF,AA-GWF II,Base Metals,Rich,8.88
+Paragon Soul,IZ-FBT,AA-GWF,AA-GWF II,Industrial Fibers,Medium,6.67
+Paragon Soul,IZ-FBT,AA-GWF,AA-GWF II,Condensates,Medium,15.22
+Paragon Soul,IZ-FBT,AA-GWF,AA-GWF II,Liquid Ozone,Medium,26.45
+Paragon Soul,IZ-FBT,AA-GWF,AA-GWF III,Toxic Metals,Medium,6.13
+Paragon Soul,IZ-FBT,AA-GWF,AA-GWF III,Polyaramids,Poor,12.94
+Paragon Soul,IZ-FBT,AA-GWF,AA-GWF III,Silicate Glass,Perfect,18.67
+Paragon Soul,IZ-FBT,AA-GWF,AA-GWF III,Liquid Ozone,Perfect,45.95
+Paragon Soul,IZ-FBT,AA-GWF,AA-GWF III,Ionic Solutions,Medium,9.91
+Paragon Soul,IZ-FBT,AA-GWF,AA-GWF IV,Base Metals,Poor,4.31
+Paragon Soul,IZ-FBT,AA-GWF,AA-GWF IV,Supertensile Plastics,Medium,15.69
+Paragon Soul,IZ-FBT,AA-GWF,AA-GWF IV,Silicate Glass,Poor,7.44
+Paragon Soul,IZ-FBT,AA-GWF,AA-GWF IV,Oxygen Isotopes,Medium,3.18
+Paragon Soul,IZ-FBT,AA-GWF,AA-GWF V,Reactive Gas,Medium,26.88
+Paragon Soul,IZ-FBT,AA-GWF,AA-GWF V,Noble Gas,Medium,21.05
+Paragon Soul,IZ-FBT,AA-GWF,AA-GWF V,Base Metals,Rich,8.34
+Paragon Soul,IZ-FBT,AA-GWF,AA-GWF V,Polyaramids,Medium,13.93
+Paragon Soul,IZ-FBT,AA-GWF,AA-GWF V,Ionic Solutions,Rich,12.45
+Paragon Soul,IZ-FBT,AA-GWF,AA-GWF VI,Glossy Compound,Medium,27.54
+Paragon Soul,IZ-FBT,AA-GWF,AA-GWF VI,Reactive Gas,Rich,29.28
+Paragon Soul,IZ-FBT,AA-GWF,AA-GWF VI,Base Metals,Rich,9.10
+Paragon Soul,IZ-FBT,AA-GWF,AA-GWF VI,Polyaramids,Medium,17.75
+Paragon Soul,IZ-FBT,AA-GWF,AA-GWF VI,Ionic Solutions,Rich,12.08
+Paragon Soul,IZ-FBT,AA-GWF,AA-GWF VII,Fiber Composite,Medium,25.45
+Paragon Soul,IZ-FBT,AA-GWF,AA-GWF VII,Base Metals,Medium,6.27
+Paragon Soul,IZ-FBT,AA-GWF,AA-GWF VII,Noble Metals,Perfect,40.35
+Paragon Soul,IZ-FBT,AA-GWF,AA-GWF VII,Smartfab Units,Perfect,26.06
+Paragon Soul,IZ-FBT,AA-GWF,AA-GWF VII,Liquid Ozone,Perfect,49.69
+Paragon Soul,IZ-FBT,O4T-Z5,O4T-Z5 I,Toxic Metals,Medium,5.28
+Paragon Soul,IZ-FBT,O4T-Z5,O4T-Z5 I,Industrial Fibers,Medium,5.47
+Paragon Soul,IZ-FBT,O4T-Z5,O4T-Z5 I,Supertensile Plastics,Poor,8.27
+Paragon Soul,IZ-FBT,O4T-Z5,O4T-Z5 I,Oxygen Isotopes,Medium,2.91
+Paragon Soul,IZ-FBT,O4T-Z5,O4T-Z5 II,Lustering Alloy,Poor,16.40
+Paragon Soul,IZ-FBT,O4T-Z5,O4T-Z5 II,Supertensile Plastics,Medium,14.87
+Paragon Soul,IZ-FBT,O4T-Z5,O4T-Z5 II,Silicate Glass,Poor,8.70
+Paragon Soul,IZ-FBT,O4T-Z5,O4T-Z5 II,Oxygen Isotopes,Medium,3.43
+Paragon Soul,IZ-FBT,O4T-Z5,O4T-Z5 III,Precious Alloy,Poor,15.34
+Paragon Soul,IZ-FBT,O4T-Z5,O4T-Z5 III,Base Metals,Medium,6.42
+Paragon Soul,IZ-FBT,O4T-Z5,O4T-Z5 III,Supertensile Plastics,Medium,15.72
+Paragon Soul,IZ-FBT,O4T-Z5,O4T-Z5 III,Plasmoids,Poor,0.90
+Paragon Soul,IZ-FBT,O4T-Z5,O4T-Z5 IV,Gleaming Alloy,Medium,22.90
+Paragon Soul,IZ-FBT,O4T-Z5,O4T-Z5 IV,Glossy Compound,Rich,25.46
+Paragon Soul,IZ-FBT,O4T-Z5,O4T-Z5 IV,Heavy Metals,Perfect,32.80
+Paragon Soul,IZ-FBT,O4T-Z5,O4T-Z5 V,Precious Alloy,Medium,21.52
+Paragon Soul,IZ-FBT,O4T-Z5,O4T-Z5 V,Dark Compound,Poor,17.02
+Paragon Soul,IZ-FBT,O4T-Z5,O4T-Z5 V,Supertensile Plastics,Medium,13.45
+Paragon Soul,IZ-FBT,O4T-Z5,O4T-Z5 V,Plasmoids,Poor,1.05
+Paragon Soul,IZ-FBT,O4T-Z5,O4T-Z5 VI,Lustering Alloy,Rich,30.46
+Paragon Soul,IZ-FBT,O4T-Z5,O4T-Z5 VI,Reactive Gas,Rich,30.74
+Paragon Soul,IZ-FBT,O4T-Z5,O4T-Z5 VI,Reactive Metals,Medium,6.38
+Paragon Soul,IZ-FBT,O4T-Z5,O4T-Z5 VI,Coolant,Rich,17.44
+Paragon Soul,IZ-FBT,O4T-Z5,O4T-Z5 VI,Ionic Solutions,Rich,12.49
+Paragon Soul,IZ-FBT,O4T-Z5,O4T-Z5 VII,Sheen Compound,Medium,22.32
+Paragon Soul,IZ-FBT,O4T-Z5,O4T-Z5 VII,Glossy Compound,Medium,21.70
+Paragon Soul,IZ-FBT,O4T-Z5,O4T-Z5 VII,Reactive Gas,Medium,21.84
+Paragon Soul,IZ-FBT,O4T-Z5,O4T-Z5 VII,Noble Gas,Medium,24.80
+Paragon Soul,IZ-FBT,O4T-Z5,O4T-Z5 VII,Ionic Solutions,Medium,7.88
+Paragon Soul,IZ-FBT,O4T-Z5,O4T-Z5 VIII,Lustering Alloy,Rich,27.28
+Paragon Soul,IZ-FBT,O4T-Z5,O4T-Z5 VIII,Reactive Gas,Rich,26.72
+Paragon Soul,IZ-FBT,O4T-Z5,O4T-Z5 VIII,Noble Gas,Medium,24.02
+Paragon Soul,IZ-FBT,O4T-Z5,O4T-Z5 VIII,Base Metals,Rich,7.91
+Paragon Soul,IZ-FBT,O4T-Z5,O4T-Z5 VIII,Coolant,Medium,12.68
+Paragon Soul,IZ-FBT,O4T-Z5,O4T-Z5 IX,Motley Compound,Medium,20.22
+Paragon Soul,IZ-FBT,O4T-Z5,O4T-Z5 IX,Heavy Metals,Medium,22.84
+Paragon Soul,IZ-FBT,O4T-Z5,O4T-Z5 IX,Industrial Fibers,Medium,6.09
+Paragon Soul,IZ-FBT,O4T-Z5,O4T-Z5 IX,Condensates,Medium,14.35
+Paragon Soul,GEP-XF,O-97ZG,O-97ZG I,Base Metals,Medium,5.88
+Paragon Soul,GEP-XF,O-97ZG,O-97ZG I,Industrial Fibers,Poor,3.97
+Paragon Soul,GEP-XF,O-97ZG,O-97ZG I,Supertensile Plastics,Poor,10.83
+Paragon Soul,GEP-XF,O-97ZG,O-97ZG I,Silicate Glass,Medium,11.04
+Paragon Soul,GEP-XF,O-97ZG,O-97ZG II,Base Metals,Medium,6.44
+Paragon Soul,GEP-XF,O-97ZG,O-97ZG II,Toxic Metals,Medium,6.32
+Paragon Soul,GEP-XF,O-97ZG,O-97ZG II,Supertensile Plastics,Poor,9.99
+Paragon Soul,GEP-XF,O-97ZG,O-97ZG II,Plasmoids,Medium,1.45
+Paragon Soul,GEP-XF,O-97ZG,O-97ZG III,Lustering Alloy,Medium,21.86
+Paragon Soul,GEP-XF,O-97ZG,O-97ZG III,Base Metals,Poor,3.94
+Paragon Soul,GEP-XF,O-97ZG,O-97ZG III,Industrial Fibers,Medium,5.50
+Paragon Soul,GEP-XF,O-97ZG,O-97ZG III,Supertensile Plastics,Poor,12.40
+Paragon Soul,GEP-XF,O-97ZG,O-97ZG IV,Reactive Metals,Medium,6.36
+Paragon Soul,GEP-XF,O-97ZG,O-97ZG IV,Construction Blocks,Rich,26.40
+Paragon Soul,GEP-XF,O-97ZG,O-97ZG IV,Nanites,Medium,6.11
+Paragon Soul,GEP-XF,O-97ZG,O-97ZG IV,Oxygen Isotopes,Poor,2.53
+Paragon Soul,GEP-XF,O-97ZG,O-97ZG V,Reactive Metals,Perfect,8.51
+Paragon Soul,GEP-XF,O-97ZG,O-97ZG V,Toxic Metals,Medium,6.31
+Paragon Soul,GEP-XF,O-97ZG,O-97ZG V,Supertensile Plastics,Rich,17.83
+Paragon Soul,GEP-XF,O-97ZG,O-97ZG V,Construction Blocks,Medium,21.04
+Paragon Soul,GEP-XF,O-97ZG,O-97ZG VI,Reactive Gas,Rich,29.22
+Paragon Soul,GEP-XF,O-97ZG,O-97ZG VI,Base Metals,Medium,6.11
+Paragon Soul,GEP-XF,O-97ZG,O-97ZG VI,Reactive Metals,Medium,5.69
+Paragon Soul,GEP-XF,O-97ZG,O-97ZG VI,Coolant,Medium,15.01
+Paragon Soul,GEP-XF,O-97ZG,O-97ZG VI,Ionic Solutions,Medium,9.25
+Paragon Soul,GEP-XF,O-97ZG,O-97ZG VII,Motley Compound,Medium,20.46
+Paragon Soul,GEP-XF,O-97ZG,O-97ZG VII,Base Metals,Rich,7.19
+Paragon Soul,GEP-XF,O-97ZG,O-97ZG VII,Coolant,Poor,11.93
+Paragon Soul,GEP-XF,O-97ZG,O-97ZG VII,Condensates,Rich,17.40
+Paragon Soul,GEP-XF,2I-520,2I-520 I,Dark Compound,Poor,13.04
+Paragon Soul,GEP-XF,2I-520,2I-520 I,Base Metals,Medium,5.86
+Paragon Soul,GEP-XF,2I-520,2I-520 I,Toxic Metals,Poor,4.56
+Paragon Soul,GEP-XF,2I-520,2I-520 I,Supertensile Plastics,Poor,12.29
+Paragon Soul,GEP-XF,2I-520,2I-520 II,Crystal Compound,Poor,18.48
+Paragon Soul,GEP-XF,2I-520,2I-520 II,Polyaramids,Medium,15.40
+Paragon Soul,GEP-XF,2I-520,2I-520 II,Heavy Water,Medium,225.54
+Paragon Soul,GEP-XF,2I-520,2I-520 II,Liquid Ozone,Medium,27.88
+Paragon Soul,GEP-XF,2I-520,2I-520 II,Ionic Solutions,Rich,12.35
+Paragon Soul,GEP-XF,2I-520,2I-520 III,Condensed Alloy,Perfect,39.29
+Paragon Soul,GEP-XF,2I-520,2I-520 III,Fiber Composite,Medium,23.84
+Paragon Soul,GEP-XF,2I-520,2I-520 III,Reactive Gas,Rich,29.57
+Paragon Soul,GEP-XF,2I-520,2I-520 III,Base Metals,Rich,8.47
+Paragon Soul,GEP-XF,2I-520,2I-520 III,Liquid Ozone,Rich,35.94
+Paragon Soul,GEP-XF,2I-520,2I-520 IV,Condensed Alloy,Perfect,37.21
+Paragon Soul,GEP-XF,2I-520,2I-520 IV,Fiber Composite,Perfect,39.46
+Paragon Soul,GEP-XF,2I-520,2I-520 IV,Base Metals,Perfect,9.78
+Paragon Soul,GEP-XF,2I-520,2I-520 IV,Smartfab Units,Perfect,22.50
+Paragon Soul,GEP-XF,2I-520,2I-520 IV,Liquid Ozone,Rich,33.99
+Paragon Soul,GEP-XF,2I-520,2I-520 V,Fiber Composite,Poor,19.26
+Paragon Soul,GEP-XF,2I-520,2I-520 V,Reactive Gas,Poor,17.85
+Paragon Soul,GEP-XF,2I-520,2I-520 V,Noble Gas,Rich,27.76
+Paragon Soul,GEP-XF,2I-520,2I-520 V,Base Metals,Rich,8.69
+Paragon Soul,GEP-XF,2I-520,2I-520 V,Reactive Metals,Rich,8.42
+Paragon Soul,GEP-XF,2I-520,2I-520 VI,Fiber Composite,Medium,24.80
+Paragon Soul,GEP-XF,2I-520,2I-520 VI,Glossy Compound,Medium,25.87
+Paragon Soul,GEP-XF,2I-520,2I-520 VI,Reactive Gas,Rich,26.75
+Paragon Soul,GEP-XF,2I-520,2I-520 VI,Reactive Metals,Medium,6.69
+Paragon Soul,GEP-XF,2I-520,2I-520 VI,Polyaramids,Rich,17.72
+Paragon Soul,GEP-XF,2I-520,2I-520 VII,Fiber Composite,Rich,31.37
+Paragon Soul,GEP-XF,2I-520,2I-520 VII,Reactive Gas,Medium,23.63
+Paragon Soul,GEP-XF,2I-520,2I-520 VII,Noble Gas,Rich,32.80
+Paragon Soul,GEP-XF,2I-520,2I-520 VII,Coolant,Perfect,22.89
+Paragon Soul,GEP-XF,2I-520,2I-520 VII,Ionic Solutions,Poor,7.64
+Paragon Soul,GEP-XF,2I-520,2I-520 VIII,Lustering Alloy,Medium,21.95
+Paragon Soul,GEP-XF,2I-520,2I-520 VIII,Base Metals,Rich,7.33
+Paragon Soul,GEP-XF,2I-520,2I-520 VIII,Condensates,Rich,20.75
+Paragon Soul,GEP-XF,2I-520,2I-520 VIII,Suspended Plasma,Rich,98.05
+Paragon Soul,GEP-XF,GQ2S-8,GQ2S-8 I,Base Metals,Poor,4.16
+Paragon Soul,GEP-XF,GQ2S-8,GQ2S-8 I,Supertensile Plastics,Poor,11.59
+Paragon Soul,GEP-XF,GQ2S-8,GQ2S-8 I,Silicate Glass,Medium,13.44
+Paragon Soul,GEP-XF,GQ2S-8,GQ2S-8 I,Oxygen Isotopes,Medium,3.19
+Paragon Soul,GEP-XF,GQ2S-8,GQ2S-8 II,Crystal Compound,Poor,20.37
+Paragon Soul,GEP-XF,GQ2S-8,GQ2S-8 II,Reactive Metals,Poor,4.91
+Paragon Soul,GEP-XF,GQ2S-8,GQ2S-8 II,Toxic Metals,Perfect,9.49
+Paragon Soul,GEP-XF,GQ2S-8,GQ2S-8 II,Nanites,Medium,7.11
+Paragon Soul,GEP-XF,GQ2S-8,GQ2S-8 III,Lustering Alloy,Rich,30.38
+Paragon Soul,GEP-XF,GQ2S-8,GQ2S-8 III,Sheen Compound,Poor,19.12
+Paragon Soul,GEP-XF,GQ2S-8,GQ2S-8 III,Reactive Gas,Rich,34.52
+Paragon Soul,GEP-XF,GQ2S-8,GQ2S-8 III,Noble Gas,Rich,28.16
+Paragon Soul,GEP-XF,GQ2S-8,GQ2S-8 III,Polyaramids,Medium,15.24
+Paragon Soul,GEP-XF,GQ2S-8,GQ2S-8 IV,Base Metals,Medium,5.80
+Paragon Soul,GEP-XF,GQ2S-8,GQ2S-8 IV,Industrial Fibers,Perfect,9.57
+Paragon Soul,GEP-XF,GQ2S-8,GQ2S-8 IV,Condensates,Rich,22.22
+Paragon Soul,GEP-XF,GQ2S-8,GQ2S-8 IV,Heavy Water,Rich,330.44
+Paragon Soul,GEP-XF,GQ2S-8,GQ2S-8 IV,Liquid Ozone,Perfect,48.95
+Paragon Soul,GEP-XF,GQ2S-8,GQ2S-8 V,Lustering Alloy,Rich,33.29
+Paragon Soul,GEP-XF,GQ2S-8,GQ2S-8 V,Reactive Gas,Rich,33.55
+Paragon Soul,GEP-XF,GQ2S-8,GQ2S-8 V,Base Metals,Rich,8.06
+Paragon Soul,GEP-XF,GQ2S-8,GQ2S-8 V,Reactive Metals,Rich,7.43
+Paragon Soul,GEP-XF,GQ2S-8,GQ2S-8 V,Ionic Solutions,Rich,13.83
+Paragon Soul,GEP-XF,GQ2S-8,GQ2S-8 VI,Lustering Alloy,Rich,29.02
+Paragon Soul,GEP-XF,GQ2S-8,GQ2S-8 VI,Reactive Gas,Rich,30.51
+Paragon Soul,GEP-XF,GQ2S-8,GQ2S-8 VI,Base Metals,Medium,5.54
+Paragon Soul,GEP-XF,GQ2S-8,GQ2S-8 VI,Reactive Metals,Rich,7.83
+Paragon Soul,GEP-XF,GQ2S-8,GQ2S-8 VI,Ionic Solutions,Medium,9.03
+Paragon Soul,GEP-XF,GQ2S-8,GQ2S-8 VII,Lustering Alloy,Medium,22.48
+Paragon Soul,GEP-XF,GQ2S-8,GQ2S-8 VII,Reactive Gas,Rich,33.04
+Paragon Soul,GEP-XF,GQ2S-8,GQ2S-8 VII,Base Metals,Poor,5.09
+Paragon Soul,GEP-XF,GQ2S-8,GQ2S-8 VII,Reactive Metals,Rich,8.39
+Paragon Soul,GEP-XF,GQ2S-8,GQ2S-8 VII,Polyaramids,Rich,20.61
+Paragon Soul,GEP-XF,GQ2S-8,GQ2S-8 VIII,Lustering Alloy,Poor,15.00
+Paragon Soul,GEP-XF,GQ2S-8,GQ2S-8 VIII,Precious Alloy,Medium,22.51
+Paragon Soul,GEP-XF,GQ2S-8,GQ2S-8 VIII,Supertensile Plastics,Poor,11.85
+Paragon Soul,GEP-XF,GQ2S-8,GQ2S-8 VIII,Plasmoids,Poor,0.98
+Paragon Soul,GEP-XF,0SUF-3,0SUF-3 I,Industrial Fibers,Poor,4.48
+Paragon Soul,GEP-XF,0SUF-3,0SUF-3 I,Supertensile Plastics,Medium,13.85
+Paragon Soul,GEP-XF,0SUF-3,0SUF-3 I,Construction Blocks,Poor,18.08
+Paragon Soul,GEP-XF,0SUF-3,0SUF-3 I,Silicate Glass,Medium,13.35
+Paragon Soul,GEP-XF,0SUF-3,0SUF-3 II,Precious Alloy,Poor,13.66
+Paragon Soul,GEP-XF,0SUF-3,0SUF-3 II,Base Metals,Medium,6.70
+Paragon Soul,GEP-XF,0SUF-3,0SUF-3 II,Supertensile Plastics,Medium,15.87
+Paragon Soul,GEP-XF,0SUF-3,0SUF-3 II,Construction Blocks,Poor,16.81
+Paragon Soul,GEP-XF,0SUF-3,0SUF-3 III,Lustering Alloy,Poor,19.87
+Paragon Soul,GEP-XF,0SUF-3,0SUF-3 III,Fiber Composite,Rich,28.82
+Paragon Soul,GEP-XF,0SUF-3,0SUF-3 III,Reactive Gas,Medium,21.69
+Paragon Soul,GEP-XF,0SUF-3,0SUF-3 III,Base Metals,Rich,8.41
+Paragon Soul,GEP-XF,0SUF-3,0SUF-3 III,Ionic Solutions,Medium,8.37
+Paragon Soul,GEP-XF,0SUF-3,0SUF-3 IV,Lucent Compound,Poor,19.16
+Paragon Soul,GEP-XF,0SUF-3,0SUF-3 IV,Reactive Metals,Perfect,9.29
+Paragon Soul,GEP-XF,0SUF-3,0SUF-3 IV,Construction Blocks,Medium,22.15
+Paragon Soul,GEP-XF,0SUF-3,0SUF-3 IV,Nanites,Medium,6.99
+Paragon Soul,GEP-XF,0SUF-3,0SUF-3 V,Lustering Alloy,Rich,34.61
+Paragon Soul,GEP-XF,0SUF-3,0SUF-3 V,Glossy Compound,Perfect,35.33
+Paragon Soul,GEP-XF,0SUF-3,0SUF-3 V,Reactive Gas,Rich,30.49
+Paragon Soul,GEP-XF,0SUF-3,0SUF-3 V,Polyaramids,Medium,15.66
+Paragon Soul,GEP-XF,0SUF-3,0SUF-3 V,Coolant,Rich,23.23
+Paragon Soul,GEP-XF,0SUF-3,0SUF-3 VI,Reactive Gas,Rich,34.30
+Paragon Soul,GEP-XF,0SUF-3,0SUF-3 VI,Noble Gas,Medium,24.09
+Paragon Soul,GEP-XF,0SUF-3,0SUF-3 VI,Base Metals,Rich,8.67
+Paragon Soul,GEP-XF,0SUF-3,0SUF-3 VI,Reactive Metals,Perfect,9.47
+Paragon Soul,GEP-XF,0SUF-3,0SUF-3 VI,Polyaramids,Medium,16.15
+Paragon Soul,GEP-XF,0SUF-3,0SUF-3 VII,Heavy Metals,Rich,29.19
+Paragon Soul,GEP-XF,0SUF-3,0SUF-3 VII,Supertensile Plastics,Medium,14.45
+Paragon Soul,GEP-XF,0SUF-3,0SUF-3 VII,Condensates,Medium,17.38
+Paragon Soul,GEP-XF,0SUF-3,0SUF-3 VII,Suspended Plasma,Poor,58.29
+Paragon Soul,GEP-XF,G-M4GK,G-M4GK I,Lustering Alloy,Poor,18.69
+Paragon Soul,GEP-XF,G-M4GK,G-M4GK I,Dark Compound,Medium,32.82
+Paragon Soul,GEP-XF,G-M4GK,G-M4GK I,Base Metals,Medium,8.37
+Paragon Soul,GEP-XF,G-M4GK,G-M4GK I,Toxic Metals,Medium,8.31
+Paragon Soul,GEP-XF,G-M4GK,G-M4GK I,Construction Blocks,Medium,28.65
+Paragon Soul,GEP-XF,G-M4GK,G-M4GK II,Lucent Compound,Perfect,52.05
+Paragon Soul,GEP-XF,G-M4GK,G-M4GK II,Heavy Metals,Rich,46.77
+Paragon Soul,GEP-XF,G-M4GK,G-M4GK II,Reactive Metals,Rich,11.02
+Paragon Soul,GEP-XF,G-M4GK,G-M4GK II,Condensates,Perfect,35.32
+Paragon Soul,GEP-XF,G-M4GK,G-M4GK II,Suspended Plasma,Medium,134.35
+Paragon Soul,GEP-XF,G-M4GK,G-M4GK II,Ionic Solutions,Poor,11.20
+Paragon Soul,GEP-XF,G-M4GK,G-M4GK III,Glossy Compound,Rich,42.15
+Paragon Soul,GEP-XF,G-M4GK,G-M4GK III,Heavy Metals,Rich,45.42
+Paragon Soul,GEP-XF,G-M4GK,G-M4GK III,Noble Metals,Rich,45.57
+Paragon Soul,GEP-XF,G-M4GK,G-M4GK III,Construction Blocks,Medium,29.31
+Paragon Soul,GEP-XF,G-M4GK,G-M4GK IV,Precious Alloy,Poor,27.12
+Paragon Soul,GEP-XF,G-M4GK,G-M4GK IV,Dark Compound,Poor,21.54
+Paragon Soul,GEP-XF,G-M4GK,G-M4GK IV,Base Metals,Poor,6.80
+Paragon Soul,GEP-XF,G-M4GK,G-M4GK IV,Industrial Fibers,Poor,6.68
+Paragon Soul,GEP-XF,G-M4GK,G-M4GK IV,Supertensile Plastics,Poor,15.20
+Paragon Soul,GEP-XF,G-M4GK,G-M4GK V,Precious Alloy,Medium,35.88
+Paragon Soul,GEP-XF,G-M4GK,G-M4GK V,Dark Compound,Poor,19.26
+Paragon Soul,GEP-XF,G-M4GK,G-M4GK V,Silicate Glass,Medium,18.21
+Paragon Soul,GEP-XF,G-M4GK,G-M4GK V,Oxygen Isotopes,Medium,4.36
+Paragon Soul,GEP-XF,G-M4GK,G-M4GK V,Plasmoids,Poor,1.17
+Paragon Soul,GEP-XF,G-M4GK,G-M4GK VI,Reactive Gas,Rich,46.95
+Paragon Soul,GEP-XF,G-M4GK,G-M4GK VI,Noble Gas,Rich,41.55
+Paragon Soul,GEP-XF,G-M4GK,G-M4GK VI,Base Metals,Poor,7.22
+Paragon Soul,GEP-XF,G-M4GK,G-M4GK VI,Reactive Metals,Rich,11.23
+Paragon Soul,GEP-XF,G-M4GK,G-M4GK VI,Coolant,Medium,25.08
+Paragon Soul,GEP-XF,G-M4GK,G-M4GK VI,Ionic Solutions,Rich,15.48
+Paragon Soul,GEP-XF,G-M4GK,G-M4GK VII,Lustering Alloy,Poor,23.52
+Paragon Soul,GEP-XF,G-M4GK,G-M4GK VII,Dark Compound,Poor,23.49
+Paragon Soul,GEP-XF,G-M4GK,G-M4GK VII,Toxic Metals,Medium,7.47
+Paragon Soul,GEP-XF,G-M4GK,G-M4GK VII,Construction Blocks,Medium,32.79
+Paragon Soul,GEP-XF,G-M4GK,G-M4GK VII,Plasmoids,Medium,2.14
+Paragon Soul,GEP-XF,G-M4GK,G-M4GK VIII,Gleaming Alloy,Medium,37.02
+Paragon Soul,GEP-XF,G-M4GK,G-M4GK VIII,Lucent Compound,Medium,33.69
+Paragon Soul,GEP-XF,G-M4GK,G-M4GK VIII,Crystal Compound,Poor,27.90
+Paragon Soul,GEP-XF,G-M4GK,G-M4GK VIII,Reactive Metals,Medium,7.60
+Paragon Soul,GEP-XF,G-M4GK,G-M4GK VIII,Nanites,Medium,9.41
+Paragon Soul,GEP-XF,G-M4GK,G-M4GK IX,Glossy Compound,Poor,25.62
+Paragon Soul,GEP-XF,G-M4GK,G-M4GK IX,Noble Metals,Rich,47.31
+Paragon Soul,GEP-XF,G-M4GK,G-M4GK IX,Construction Blocks,Rich,40.02
+Paragon Soul,GEP-XF,G-M4GK,G-M4GK IX,Smartfab Units,Medium,21.60
+Paragon Soul,GEP-XF,G-M4GK,G-M4GK X,Condensed Alloy,Rich,45.99
+Paragon Soul,GEP-XF,G-M4GK,G-M4GK X,Toxic Metals,Medium,7.72
+Paragon Soul,GEP-XF,G-M4GK,G-M4GK X,Polyaramids,Medium,21.26
+Paragon Soul,GEP-XF,G-M4GK,G-M4GK X,Coolant,Rich,30.06
+Paragon Soul,GEP-XF,G-M4GK,G-M4GK X,Heavy Water,Medium,287.10
+Paragon Soul,GEP-XF,G-M4GK,G-M4GK X,Ionic Solutions,Medium,12.35
+Paragon Soul,GEP-XF,G-M4GK,G-M4GK XI,Lustering Alloy,Medium,36.69
+Paragon Soul,GEP-XF,G-M4GK,G-M4GK XI,Sheen Compound,Rich,46.98
+Paragon Soul,GEP-XF,G-M4GK,G-M4GK XI,Fiber Composite,Poor,27.45
+Paragon Soul,GEP-XF,G-M4GK,G-M4GK XI,Base Metals,Perfect,12.64
+Paragon Soul,GEP-XF,G-M4GK,G-M4GK XI,Reactive Metals,Perfect,12.73
+Paragon Soul,GEP-XF,G-M4GK,G-M4GK XI,Ionic Solutions,Medium,14.30
+Paragon Soul,GEP-XF,G-M4GK,G-M4GK XII,Lustering Alloy,Poor,19.20
+Paragon Soul,GEP-XF,G-M4GK,G-M4GK XII,Dark Compound,Medium,33.45
+Paragon Soul,GEP-XF,G-M4GK,G-M4GK XII,Toxic Metals,Medium,9.62
+Paragon Soul,GEP-XF,G-M4GK,G-M4GK XII,Silicate Glass,Medium,17.23
+Paragon Soul,GEP-XF,G-M4GK,G-M4GK XII,Plasmoids,Poor,1.59
+Paragon Soul,GEP-XF,G-M4GK,G-M4GK XIII,Lustering Alloy,Rich,39.66
+Paragon Soul,GEP-XF,G-M4GK,G-M4GK XIII,Sheen Compound,Rich,40.86
+Paragon Soul,GEP-XF,G-M4GK,G-M4GK XIII,Noble Gas,Rich,40.47
+Paragon Soul,GEP-XF,G-M4GK,G-M4GK XIII,Base Metals,Rich,12.12
+Paragon Soul,GEP-XF,G-M4GK,G-M4GK XIII,Polyaramids,Rich,29.18
+Paragon Soul,GEP-XF,G-M4GK,G-M4GK XIII,Coolant,Poor,16.56
+Paragon Soul,GEP-XF,G1D0-G,G1D0-G I,Lustering Alloy,Poor,16.48
+Paragon Soul,GEP-XF,G1D0-G,G1D0-G I,Dark Compound,Poor,18.06
+Paragon Soul,GEP-XF,G1D0-G,G1D0-G I,Supertensile Plastics,Poor,9.57
+Paragon Soul,GEP-XF,G1D0-G,G1D0-G I,Construction Blocks,Poor,17.08
+Paragon Soul,GEP-XF,G1D0-G,G1D0-G II,Gleaming Alloy,Poor,18.10
+Paragon Soul,GEP-XF,G1D0-G,G1D0-G II,Heavy Metals,Rich,29.04
+Paragon Soul,GEP-XF,G1D0-G,G1D0-G II,Noble Metals,Medium,23.16
+Paragon Soul,GEP-XF,G1D0-G,G1D0-G III,Opulent Compound,Medium,24.92
+Paragon Soul,GEP-XF,G1D0-G,G1D0-G III,Noble Metals,Perfect,31.90
+Paragon Soul,GEP-XF,G1D0-G,G1D0-G III,Condensates,Medium,16.40
+Paragon Soul,GEP-XF,G1D0-G,G1D0-G III,Smartfab Units,Perfect,21.53
+Paragon Soul,GEP-XF,G1D0-G,G1D0-G III,Liquid Ozone,Perfect,45.65
+Paragon Soul,GEP-XF,G1D0-G,G1D0-G IV,Condensed Alloy,Perfect,35.22
+Paragon Soul,GEP-XF,G1D0-G,G1D0-G IV,Crystal Compound,Perfect,33.76
+Paragon Soul,GEP-XF,G1D0-G,G1D0-G IV,Toxic Metals,Perfect,9.07
+Paragon Soul,GEP-XF,G1D0-G,G1D0-G IV,Polyaramids,Rich,20.92
+Paragon Soul,GEP-XF,G1D0-G,G1D0-G IV,Liquid Ozone,Medium,29.63
+Paragon Soul,GEP-XF,G1D0-G,G1D0-G V,Lucent Compound,Medium,19.02
+Paragon Soul,GEP-XF,G1D0-G,G1D0-G V,Reactive Metals,Medium,5.15
+Paragon Soul,GEP-XF,G1D0-G,G1D0-G V,Nanites,Medium,5.55
+Paragon Soul,GEP-XF,G1D0-G,G1D0-G V,Suspended Plasma,Poor,65.95
+Paragon Soul,GEP-XF,G1D0-G,G1D0-G VI,Gleaming Alloy,Medium,20.94
+Paragon Soul,GEP-XF,G1D0-G,G1D0-G VI,Construction Blocks,Medium,20.74
+Paragon Soul,GEP-XF,G1D0-G,G1D0-G VI,Oxygen Isotopes,Perfect,5.04
+Paragon Soul,GEP-XF,G1D0-G,G1D0-G VII,Gleaming Alloy,Medium,20.76
+Paragon Soul,GEP-XF,G1D0-G,G1D0-G VII,Crystal Compound,Rich,29.22
+Paragon Soul,GEP-XF,G1D0-G,G1D0-G VII,Reactive Gas,Rich,28.00
+Paragon Soul,GEP-XF,G1D0-G,G1D0-G VII,Reactive Metals,Perfect,8.52
+Paragon Soul,GEP-XF,G1D0-G,G1D0-G VIII,Fiber Composite,Poor,17.60
+Paragon Soul,GEP-XF,G1D0-G,G1D0-G VIII,Glossy Compound,Rich,30.34
+Paragon Soul,GEP-XF,G1D0-G,G1D0-G VIII,Reactive Gas,Rich,29.12
+Paragon Soul,GEP-XF,G1D0-G,G1D0-G VIII,Noble Gas,Rich,25.68
+Paragon Soul,GEP-XF,G1D0-G,G1D0-G VIII,Base Metals,Medium,6.30
+Paragon Soul,GEP-XF,G1D0-G,G1D0-G IX,Fiber Composite,Rich,29.74
+Paragon Soul,GEP-XF,G1D0-G,G1D0-G IX,Reactive Gas,Medium,24.88
+Paragon Soul,GEP-XF,G1D0-G,G1D0-G IX,Noble Gas,Medium,20.58
+Paragon Soul,GEP-XF,G1D0-G,G1D0-G IX,Polyaramids,Rich,17.21
+Paragon Soul,GEP-XF,G1D0-G,G1D0-G IX,Ionic Solutions,Medium,7.68
+Paragon Soul,GEP-XF,G1D0-G,G1D0-G X,Lustering Alloy,Poor,15.40
+Paragon Soul,GEP-XF,G1D0-G,G1D0-G X,Supertensile Plastics,Poor,12.44
+Paragon Soul,GEP-XF,G1D0-G,G1D0-G X,Condensates,Poor,12.28
+Paragon Soul,GEP-XF,G1D0-G,G1D0-G X,Liquid Ozone,Medium,24.73
+Paragon Soul,GEP-XF,G1D0-G,G1D0-G XI,Condensed Alloy,Rich,31.36
+Paragon Soul,GEP-XF,G1D0-G,G1D0-G XI,Polyaramids,Medium,16.60
+Paragon Soul,GEP-XF,G1D0-G,G1D0-G XI,Coolant,Rich,20.99
+Paragon Soul,GEP-XF,G1D0-G,G1D0-G XI,Liquid Ozone,Poor,22.75
+Paragon Soul,GEP-XF,G1D0-G,G1D0-G XI,Ionic Solutions,Medium,7.86
+Paragon Soul,GEP-XF,KU3-BB,KU3-BB I,Dark Compound,Poor,17.73
+Paragon Soul,GEP-XF,KU3-BB,KU3-BB I,Supertensile Plastics,Medium,16.15
+Paragon Soul,GEP-XF,KU3-BB,KU3-BB I,Oxygen Isotopes,Medium,3.88
+Paragon Soul,GEP-XF,KU3-BB,KU3-BB I,Plasmoids,Medium,1.51
+Paragon Soul,GEP-XF,KU3-BB,KU3-BB II,Gleaming Alloy,Perfect,37.18
+Paragon Soul,GEP-XF,KU3-BB,KU3-BB II,Motley Compound,Rich,28.60
+Paragon Soul,GEP-XF,KU3-BB,KU3-BB II,Heavy Metals,Perfect,36.43
+Paragon Soul,GEP-XF,KU3-BB,KU3-BB III,Glossy Compound,Medium,21.16
+Paragon Soul,GEP-XF,KU3-BB,KU3-BB III,Reactive Gas,Rich,32.93
+Paragon Soul,GEP-XF,KU3-BB,KU3-BB III,Noble Gas,Poor,18.08
+Paragon Soul,GEP-XF,KU3-BB,KU3-BB III,Reactive Metals,Rich,8.61
+Paragon Soul,GEP-XF,KU3-BB,KU3-BB III,Ionic Solutions,Poor,8.15
+Paragon Soul,GEP-XF,KU3-BB,KU3-BB IV,Lustering Alloy,Poor,18.37
+Paragon Soul,GEP-XF,KU3-BB,KU3-BB IV,Reactive Gas,Poor,19.80
+Paragon Soul,GEP-XF,KU3-BB,KU3-BB IV,Noble Gas,Medium,24.86
+Paragon Soul,GEP-XF,KU3-BB,KU3-BB IV,Base Metals,Medium,6.01
+Paragon Soul,GEP-XF,KU3-BB,KU3-BB IV,Coolant,Medium,18.49
+Paragon Soul,GEP-XF,KU3-BB,KU3-BB V,Motley Compound,Medium,26.05
+Paragon Soul,GEP-XF,KU3-BB,KU3-BB V,Base Metals,Medium,5.91
+Paragon Soul,GEP-XF,KU3-BB,KU3-BB V,Condensates,Poor,11.37
+Paragon Soul,GEP-XF,KU3-BB,KU3-BB V,Suspended Plasma,Medium,92.03
+Paragon Soul,GEP-XF,O1Q-P1,O1Q-P1 I,Lustering Alloy,Medium,24.12
+Paragon Soul,GEP-XF,O1Q-P1,O1Q-P1 I,Dark Compound,Medium,22.78
+Paragon Soul,GEP-XF,O1Q-P1,O1Q-P1 I,Base Metals,Medium,7.66
+Paragon Soul,GEP-XF,O1Q-P1,O1Q-P1 I,Supertensile Plastics,Medium,17.90
+Paragon Soul,GEP-XF,O1Q-P1,O1Q-P1 II,Lucent Compound,Perfect,38.62
+Paragon Soul,GEP-XF,O1Q-P1,O1Q-P1 II,Condensates,Medium,16.51
+Paragon Soul,GEP-XF,O1Q-P1,O1Q-P1 II,Suspended Plasma,Rich,127.44
+Paragon Soul,GEP-XF,O1Q-P1,O1Q-P1 II,Ionic Solutions,Poor,8.87
+Paragon Soul,GEP-XF,O1Q-P1,O1Q-P1 II,Plasmoids,Medium,1.78
+Paragon Soul,GEP-XF,O1Q-P1,O1Q-P1 III,Gleaming Alloy,Medium,26.71
+Paragon Soul,GEP-XF,O1Q-P1,O1Q-P1 III,Noble Gas,Poor,19.32
+Paragon Soul,GEP-XF,O1Q-P1,O1Q-P1 III,Construction Blocks,Rich,33.02
+Paragon Soul,GEP-XF,O1Q-P1,O1Q-P1 IV,Lustering Alloy,Poor,22.13
+Paragon Soul,GEP-XF,O1Q-P1,O1Q-P1 IV,Reactive Gas,Rich,31.94
+Paragon Soul,GEP-XF,O1Q-P1,O1Q-P1 IV,Noble Gas,Rich,34.01
+Paragon Soul,GEP-XF,O1Q-P1,O1Q-P1 IV,Base Metals,Medium,7.21
+Paragon Soul,GEP-XF,O1Q-P1,O1Q-P1 IV,Polyaramids,Medium,19.60
+Paragon Soul,GEP-XF,O1Q-P1,O1Q-P1 V,Lustering Alloy,Medium,27.22
+Paragon Soul,GEP-XF,O1Q-P1,O1Q-P1 V,Reactive Gas,Medium,28.06
+Paragon Soul,GEP-XF,O1Q-P1,O1Q-P1 V,Noble Gas,Medium,29.74
+Paragon Soul,GEP-XF,O1Q-P1,O1Q-P1 V,Reactive Metals,Rich,8.58
+Paragon Soul,GEP-XF,O1Q-P1,O1Q-P1 V,Coolant,Poor,13.97
+Paragon Soul,GEP-XF,O1Q-P1,O1Q-P1 VI,Sheen Compound,Perfect,38.26
+Paragon Soul,GEP-XF,O1Q-P1,O1Q-P1 VI,Fiber Composite,Rich,36.46
+Paragon Soul,GEP-XF,O1Q-P1,O1Q-P1 VI,Glossy Compound,Medium,26.66
+Paragon Soul,GEP-XF,O1Q-P1,O1Q-P1 VI,Reactive Gas,Medium,25.03
+Paragon Soul,GEP-XF,O1Q-P1,O1Q-P1 VI,Ionic Solutions,Medium,10.95
+Paragon Soul,GEP-XF,O1Q-P1,O1Q-P1 VII,Glossy Compound,Medium,29.11
+Paragon Soul,GEP-XF,O1Q-P1,O1Q-P1 VII,Reactive Gas,Medium,22.90
+Paragon Soul,GEP-XF,O1Q-P1,O1Q-P1 VII,Noble Gas,Rich,31.10
+Paragon Soul,GEP-XF,O1Q-P1,O1Q-P1 VII,Polyaramids,Poor,13.28
+Paragon Soul,GEP-XF,O1Q-P1,O1Q-P1 VII,Ionic Solutions,Perfect,15.71
+Paragon Soul,GEP-XF,O1Q-P1,O1Q-P1 VIII,Lustering Alloy,Poor,21.70
+Paragon Soul,GEP-XF,O1Q-P1,O1Q-P1 VIII,Motley Compound,Rich,31.08
+Paragon Soul,GEP-XF,O1Q-P1,O1Q-P1 VIII,Heavy Metals,Poor,18.70
+Paragon Soul,GEP-XF,O1Q-P1,O1Q-P1 VIII,Condensates,Rich,22.61
+Paragon Soul,GEP-XF,O1Q-P1,O1Q-P1 IX,Opulent Compound,Medium,29.40
+Paragon Soul,GEP-XF,O1Q-P1,O1Q-P1 IX,Crystal Compound,Medium,30.19
+Paragon Soul,GEP-XF,O1Q-P1,O1Q-P1 IX,Noble Metals,Perfect,38.47
+Paragon Soul,GEP-XF,O1Q-P1,O1Q-P1 IX,Heavy Water,Perfect,411.84
+Paragon Soul,GEP-XF,O1Q-P1,O1Q-P1 IX,Liquid Ozone,Rich,38.25
+Paragon Soul,D9DM-O,LD-2VL,LD-2VL I,Base Metals,Poor,4.37
+Paragon Soul,D9DM-O,LD-2VL,LD-2VL I,Toxic Metals,Poor,4.77
+Paragon Soul,D9DM-O,LD-2VL,LD-2VL I,Supertensile Plastics,Poor,11.06
+Paragon Soul,D9DM-O,LD-2VL,LD-2VL I,Silicate Glass,Medium,11.58
+Paragon Soul,D9DM-O,LD-2VL,LD-2VL II,Toxic Metals,Poor,5.20
+Paragon Soul,D9DM-O,LD-2VL,LD-2VL II,Supertensile Plastics,Medium,16.68
+Paragon Soul,D9DM-O,LD-2VL,LD-2VL II,Construction Blocks,Medium,21.93
+Paragon Soul,D9DM-O,LD-2VL,LD-2VL II,Silicate Glass,Poor,9.34
+Paragon Soul,D9DM-O,LD-2VL,LD-2VL III,Gleaming Alloy,Rich,33.70
+Paragon Soul,D9DM-O,LD-2VL,LD-2VL III,Noble Metals,Medium,27.15
+Paragon Soul,D9DM-O,LD-2VL,LD-2VL III,Oxygen Isotopes,Poor,2.71
+Paragon Soul,D9DM-O,LD-2VL,LD-2VL IV,Precious Alloy,Poor,17.89
+Paragon Soul,D9DM-O,LD-2VL,LD-2VL IV,Supertensile Plastics,Poor,10.11
+Paragon Soul,D9DM-O,LD-2VL,LD-2VL IV,Construction Blocks,Medium,20.97
+Paragon Soul,D9DM-O,LD-2VL,LD-2VL IV,Plasmoids,Medium,1.33
+Paragon Soul,D9DM-O,LD-2VL,LD-2VL V,Precious Alloy,Poor,18.83
+Paragon Soul,D9DM-O,LD-2VL,LD-2VL V,Base Metals,Poor,4.53
+Paragon Soul,D9DM-O,LD-2VL,LD-2VL V,Supertensile Plastics,Poor,11.54
+Paragon Soul,D9DM-O,LD-2VL,LD-2VL V,Silicate Glass,Medium,12.83
+Paragon Soul,D9DM-O,LD-2VL,LD-2VL VI,Fiber Composite,Perfect,35.86
+Paragon Soul,D9DM-O,LD-2VL,LD-2VL VI,Reactive Gas,Medium,26.86
+Paragon Soul,D9DM-O,LD-2VL,LD-2VL VI,Noble Gas,Medium,20.75
+Paragon Soul,D9DM-O,LD-2VL,LD-2VL VI,Coolant,Medium,16.46
+Paragon Soul,D9DM-O,LD-2VL,LD-2VL VI,Ionic Solutions,Poor,7.62
+Paragon Soul,D9DM-O,LD-2VL,LD-2VL VII,Lustering Alloy,Medium,21.93
+Paragon Soul,D9DM-O,LD-2VL,LD-2VL VII,Glossy Compound,Medium,27.52
+Paragon Soul,D9DM-O,LD-2VL,LD-2VL VII,Reactive Gas,Perfect,35.35
+Paragon Soul,D9DM-O,LD-2VL,LD-2VL VII,Noble Gas,Medium,26.11
+Paragon Soul,D9DM-O,LD-2VL,LD-2VL VII,Reactive Metals,Rich,8.05
+Paragon Soul,D9DM-O,LD-2VL,LD-2VL VIII,Motley Compound,Medium,24.51
+Paragon Soul,D9DM-O,LD-2VL,LD-2VL VIII,Heavy Metals,Medium,23.47
+Paragon Soul,D9DM-O,LD-2VL,LD-2VL VIII,Industrial Fibers,Medium,7.09
+Paragon Soul,D9DM-O,LD-2VL,LD-2VL VIII,Condensates,Medium,15.46
+Paragon Soul,D9DM-O,ZBY-0I,ZBY-0I I,Gleaming Alloy,Perfect,39.41
+Paragon Soul,D9DM-O,ZBY-0I,ZBY-0I I,Heavy Metals,Rich,31.51
+Paragon Soul,D9DM-O,ZBY-0I,ZBY-0I I,Polyaramids,Medium,18.54
+Paragon Soul,D9DM-O,ZBY-0I,ZBY-0I II,Dark Compound,Medium,23.76
+Paragon Soul,D9DM-O,ZBY-0I,ZBY-0I II,Toxic Metals,Medium,7.51
+Paragon Soul,D9DM-O,ZBY-0I,ZBY-0I II,Supertensile Plastics,Medium,15.57
+Paragon Soul,D9DM-O,ZBY-0I,ZBY-0I II,Construction Blocks,Poor,22.27
+Paragon Soul,D9DM-O,ZBY-0I,ZBY-0I III,Lustering Alloy,Medium,27.58
+Paragon Soul,D9DM-O,ZBY-0I,ZBY-0I III,Industrial Fibers,Medium,6.93
+Paragon Soul,D9DM-O,ZBY-0I,ZBY-0I III,Supertensile Plastics,Poor,13.95
+Paragon Soul,D9DM-O,ZBY-0I,ZBY-0I III,Construction Blocks,Medium,25.82
+Paragon Soul,D9DM-O,ZBY-0I,ZBY-0I IV,Gleaming Alloy,Perfect,40.37
+Paragon Soul,D9DM-O,ZBY-0I,ZBY-0I IV,Polyaramids,Medium,19.18
+Paragon Soul,D9DM-O,ZBY-0I,ZBY-0I IV,Plasmoids,Perfect,2.33
+Paragon Soul,D9DM-O,ZBY-0I,ZBY-0I V,Condensed Alloy,Medium,23.86
+Paragon Soul,D9DM-O,ZBY-0I,ZBY-0I V,Base Metals,Rich,8.94
+Paragon Soul,D9DM-O,ZBY-0I,ZBY-0I V,Industrial Fibers,Rich,9.73
+Paragon Soul,D9DM-O,ZBY-0I,ZBY-0I V,Condensates,Rich,23.28
+Paragon Soul,D9DM-O,ZBY-0I,ZBY-0I V,Liquid Ozone,Medium,28.29
+Paragon Soul,D9DM-O,ZBY-0I,ZBY-0I VI,Glossy Compound,Perfect,39.12
+Paragon Soul,D9DM-O,ZBY-0I,ZBY-0I VI,Reactive Gas,Rich,33.48
+Paragon Soul,D9DM-O,ZBY-0I,ZBY-0I VI,Base Metals,Rich,9.16
+Paragon Soul,D9DM-O,ZBY-0I,ZBY-0I VI,Reactive Metals,Medium,6.33
+Paragon Soul,D9DM-O,ZBY-0I,ZBY-0I VI,Ionic Solutions,Rich,13.01
+Paragon Soul,D9DM-O,ZBY-0I,ZBY-0I VII,Lustering Alloy,Rich,37.73
+Paragon Soul,D9DM-O,ZBY-0I,ZBY-0I VII,Glossy Compound,Poor,20.33
+Paragon Soul,D9DM-O,ZBY-0I,ZBY-0I VII,Reactive Gas,Perfect,38.38
+Paragon Soul,D9DM-O,ZBY-0I,ZBY-0I VII,Noble Gas,Rich,32.28
+Paragon Soul,D9DM-O,ZBY-0I,ZBY-0I VII,Base Metals,Rich,9.68
+Paragon Soul,D9DM-O,ZBY-0I,ZBY-0I VIII,Lustering Alloy,Medium,30.17
+Paragon Soul,D9DM-O,ZBY-0I,ZBY-0I VIII,Reactive Gas,Medium,29.38
+Paragon Soul,D9DM-O,ZBY-0I,ZBY-0I VIII,Noble Gas,Rich,30.41
+Paragon Soul,D9DM-O,ZBY-0I,ZBY-0I VIII,Reactive Metals,Medium,7.73
+Paragon Soul,D9DM-O,ZBY-0I,ZBY-0I VIII,Ionic Solutions,Rich,14.44
+Paragon Soul,D9DM-O,ZBY-0I,ZBY-0I IX,Sheen Compound,Rich,37.94
+Paragon Soul,D9DM-O,ZBY-0I,ZBY-0I IX,Fiber Composite,Rich,32.57
+Paragon Soul,D9DM-O,ZBY-0I,ZBY-0I IX,Reactive Gas,Rich,33.67
+Paragon Soul,D9DM-O,ZBY-0I,ZBY-0I IX,Coolant,Medium,15.65
+Paragon Soul,D9DM-O,ZBY-0I,ZBY-0I IX,Ionic Solutions,Medium,11.00
+Paragon Soul,D9DM-O,ZBY-0I,ZBY-0I X,Precious Alloy,Rich,30.98
+Paragon Soul,D9DM-O,ZBY-0I,ZBY-0I X,Motley Compound,Poor,19.06
+Paragon Soul,D9DM-O,ZBY-0I,ZBY-0I X,Heavy Metals,Rich,32.09
+Paragon Soul,D9DM-O,ZBY-0I,ZBY-0I X,Condensates,Medium,19.38
+Paragon Soul,D9DM-O,ZBY-0I,ZBY-0I XI,Supertensile Plastics,Rich,23.22
+Paragon Soul,D9DM-O,ZBY-0I,ZBY-0I XI,Coolant,Poor,12.61
+Paragon Soul,D9DM-O,ZBY-0I,ZBY-0I XI,Condensates,Poor,14.72
+Paragon Soul,D9DM-O,ZBY-0I,ZBY-0I XI,Liquid Ozone,Medium,31.08
+Paragon Soul,D9DM-O,MP5-KR,MP5-KR I,Lustering Alloy,Poor,19.73
+Paragon Soul,D9DM-O,MP5-KR,MP5-KR I,Dark Compound,Poor,21.76
+Paragon Soul,D9DM-O,MP5-KR,MP5-KR I,Base Metals,Poor,5.60
+Paragon Soul,D9DM-O,MP5-KR,MP5-KR I,Silicate Glass,Medium,15.93
+Paragon Soul,D9DM-O,MP5-KR,MP5-KR I,Oxygen Isotopes,Medium,3.78
+Paragon Soul,D9DM-O,MP5-KR,MP5-KR II,Precious Alloy,Medium,27.07
+Paragon Soul,D9DM-O,MP5-KR,MP5-KR II,Dark Compound,Poor,19.97
+Paragon Soul,D9DM-O,MP5-KR,MP5-KR II,Supertensile Plastics,Medium,16.41
+Paragon Soul,D9DM-O,MP5-KR,MP5-KR II,Construction Blocks,Medium,30.68
+Paragon Soul,D9DM-O,MP5-KR,MP5-KR II,Silicate Glass,Poor,10.41
+Paragon Soul,D9DM-O,MP5-KR,MP5-KR III,Lustering Alloy,Medium,26.21
+Paragon Soul,D9DM-O,MP5-KR,MP5-KR III,Dark Compound,Medium,25.40
+Paragon Soul,D9DM-O,MP5-KR,MP5-KR III,Base Metals,Poor,5.00
+Paragon Soul,D9DM-O,MP5-KR,MP5-KR III,Toxic Metals,Poor,4.86
+Paragon Soul,D9DM-O,MP5-KR,MP5-KR III,Silicate Glass,Poor,10.80
+Paragon Soul,D9DM-O,MP5-KR,MP5-KR IV,Lucent Compound,Poor,24.26
+Paragon Soul,D9DM-O,MP5-KR,MP5-KR IV,Crystal Compound,Medium,28.91
+Paragon Soul,D9DM-O,MP5-KR,MP5-KR IV,Construction Blocks,Rich,38.61
+Paragon Soul,D9DM-O,MP5-KR,MP5-KR IV,Suspended Plasma,Rich,142.93
+Paragon Soul,D9DM-O,MP5-KR,MP5-KR IV,Oxygen Isotopes,Rich,5.59
+Paragon Soul,D9DM-O,MP5-KR,MP5-KR V,Gleaming Alloy,Medium,25.77
+Paragon Soul,D9DM-O,MP5-KR,MP5-KR V,Crystal Compound,Rich,40.92
+Paragon Soul,D9DM-O,MP5-KR,MP5-KR V,Reactive Gas,Poor,23.09
+Paragon Soul,D9DM-O,MP5-KR,MP5-KR V,Reactive Metals,Poor,5.77
+Paragon Soul,D9DM-O,MP5-KR,MP5-KR V,Toxic Metals,Poor,6.05
+Paragon Soul,D9DM-O,MP5-KR,MP5-KR VI,Sheen Compound,Poor,23.35
+Paragon Soul,D9DM-O,MP5-KR,MP5-KR VI,Fiber Composite,Rich,38.30
+Paragon Soul,D9DM-O,MP5-KR,MP5-KR VI,Noble Gas,Medium,25.95
+Paragon Soul,D9DM-O,MP5-KR,MP5-KR VI,Base Metals,Medium,7.48
+Paragon Soul,D9DM-O,MP5-KR,MP5-KR VI,Reactive Metals,Rich,9.78
+Paragon Soul,D9DM-O,MP5-KR,MP5-KR VI,Polyaramids,Rich,23.09
+Paragon Soul,D9DM-O,MP5-KR,MP5-KR VII,Sheen Compound,Rich,38.38
+Paragon Soul,D9DM-O,MP5-KR,MP5-KR VII,Fiber Composite,Medium,32.03
+Paragon Soul,D9DM-O,MP5-KR,MP5-KR VII,Glossy Compound,Rich,36.58
+Paragon Soul,D9DM-O,MP5-KR,MP5-KR VII,Noble Gas,Medium,27.33
+Paragon Soul,D9DM-O,MP5-KR,MP5-KR VII,Base Metals,Medium,8.18
+Paragon Soul,D9DM-O,MP5-KR,MP5-KR VII,Polyaramids,Medium,17.70
+Paragon Soul,D9DM-O,MP5-KR,MP5-KR VIII,Lucent Compound,Medium,29.82
+Paragon Soul,D9DM-O,MP5-KR,MP5-KR VIII,Crystal Compound,Rich,40.69
+Paragon Soul,D9DM-O,MP5-KR,MP5-KR VIII,Supertensile Plastics,Poor,16.00
+Paragon Soul,D9DM-O,MP5-KR,MP5-KR VIII,Construction Blocks,Rich,34.27
+Paragon Soul,D9DM-O,MP5-KR,MP5-KR VIII,Nanites,Poor,5.97
+Paragon Soul,D9DM-O,MP5-KR,MP5-KR IX,Lustering Alloy,Medium,32.73
+Paragon Soul,D9DM-O,MP5-KR,MP5-KR IX,Sheen Compound,Medium,30.00
+Paragon Soul,D9DM-O,MP5-KR,MP5-KR IX,Fiber Composite,Perfect,42.43
+Paragon Soul,D9DM-O,MP5-KR,MP5-KR IX,Glossy Compound,Medium,25.32
+Paragon Soul,D9DM-O,MP5-KR,MP5-KR IX,Reactive Gas,Rich,36.40
+Paragon Soul,D9DM-O,MP5-KR,MP5-KR IX,Reactive Metals,Rich,9.57
+Paragon Soul,D9DM-O,O-N589,O-N589 I,Gleaming Alloy,Medium,32.31
+Paragon Soul,D9DM-O,O-N589,O-N589 I,Crystal Compound,Medium,32.91
+Paragon Soul,D9DM-O,O-N589,O-N589 I,Reactive Gas,Medium,35.84
+Paragon Soul,D9DM-O,O-N589,O-N589 I,Reactive Metals,Medium,9.05
+Paragon Soul,D9DM-O,O-N589,O-N589 I,Nanites,Medium,8.75
+Paragon Soul,D9DM-O,O-N589,O-N589 II,Motley Compound,Rich,39.56
+Paragon Soul,D9DM-O,O-N589,O-N589 II,Glossy Compound,Medium,31.15
+Paragon Soul,D9DM-O,O-N589,O-N589 II,Noble Gas,Medium,34.95
+Paragon Soul,D9DM-O,O-N589,O-N589 II,Oxygen Isotopes,Medium,4.49
+Paragon Soul,D9DM-O,O-N589,O-N589 III,Lustering Alloy,Medium,31.96
+Paragon Soul,D9DM-O,O-N589,O-N589 III,Fiber Composite,Perfect,46.81
+Paragon Soul,D9DM-O,O-N589,O-N589 III,Glossy Compound,Poor,24.48
+Paragon Soul,D9DM-O,O-N589,O-N589 III,Reactive Gas,Medium,29.99
+Paragon Soul,D9DM-O,O-N589,O-N589 III,Noble Gas,Rich,45.70
+Paragon Soul,D9DM-O,O-N589,O-N589 III,Ionic Solutions,Perfect,19.02
+Paragon Soul,D9DM-O,O-N589,O-N589 IV,Lustering Alloy,Poor,26.22
+Paragon Soul,D9DM-O,O-N589,O-N589 IV,Sheen Compound,Rich,36.74
+Paragon Soul,D9DM-O,O-N589,O-N589 IV,Noble Gas,Rich,42.89
+Paragon Soul,D9DM-O,O-N589,O-N589 IV,Reactive Metals,Medium,7.47
+Paragon Soul,D9DM-O,O-N589,O-N589 IV,Polyaramids,Medium,23.22
+Paragon Soul,D9DM-O,O-N589,O-N589 IV,Ionic Solutions,Medium,11.92
+Paragon Soul,D9DM-O,O-N589,O-N589 V,Fiber Composite,Perfect,46.14
+Paragon Soul,D9DM-O,O-N589,O-N589 V,Reactive Gas,Medium,29.87
+Paragon Soul,D9DM-O,O-N589,O-N589 V,Noble Gas,Medium,35.32
+Paragon Soul,D9DM-O,O-N589,O-N589 V,Base Metals,Poor,7.00
+Paragon Soul,D9DM-O,O-N589,O-N589 V,Reactive Metals,Rich,9.72
+Paragon Soul,D9DM-O,O-N589,O-N589 V,Polyaramids,Poor,16.82
+Paragon Soul,D9DM-O,O-N589,O-N589 VI,Fiber Composite,Medium,35.06
+Paragon Soul,D9DM-O,O-N589,O-N589 VI,Noble Gas,Medium,29.75
+Paragon Soul,D9DM-O,O-N589,O-N589 VI,Base Metals,Perfect,12.52
+Paragon Soul,D9DM-O,O-N589,O-N589 VI,Reactive Metals,Medium,8.69
+Paragon Soul,D9DM-O,O-N589,O-N589 VI,Polyaramids,Rich,29.08
+Paragon Soul,D9DM-O,O-N589,O-N589 VI,Ionic Solutions,Perfect,18.71
+Paragon Soul,D9DM-O,O-N589,O-N589 VII,Precious Alloy,Rich,41.33
+Paragon Soul,D9DM-O,O-N589,O-N589 VII,Motley Compound,Medium,27.81
+Paragon Soul,D9DM-O,O-N589,O-N589 VII,Heavy Metals,Medium,32.25
+Paragon Soul,D9DM-O,O-N589,O-N589 VII,Coolant,Rich,27.22
+Paragon Soul,D9DM-O,O-N589,O-N589 VII,Condensates,Medium,21.73
+Paragon Soul,D9DM-O,O-N589,O-N589 VIII,Lustering Alloy,Poor,26.74
+Paragon Soul,D9DM-O,O-N589,O-N589 VIII,Dark Compound,Poor,23.66
+Paragon Soul,D9DM-O,O-N589,O-N589 VIII,Supertensile Plastics,Poor,16.01
+Paragon Soul,D9DM-O,O-N589,O-N589 VIII,Silicate Glass,Poor,11.50
+Paragon Soul,D9DM-O,O-N589,O-N589 VIII,Oxygen Isotopes,Medium,5.12
+Paragon Soul,D9DM-O,ZDYA-G,ZDYA-G I,Gleaming Alloy,Medium,32.43
+Paragon Soul,D9DM-O,ZDYA-G,ZDYA-G I,Glossy Compound,Poor,27.51
+Paragon Soul,D9DM-O,ZDYA-G,ZDYA-G I,Noble Metals,Rich,42.60
+Paragon Soul,D9DM-O,ZDYA-G,ZDYA-G I,Oxygen Isotopes,Medium,4.81
+Paragon Soul,D9DM-O,ZDYA-G,ZDYA-G II,Precious Alloy,Poor,19.83
+Paragon Soul,D9DM-O,ZDYA-G,ZDYA-G II,Dark Compound,Medium,32.46
+Paragon Soul,D9DM-O,ZDYA-G,ZDYA-G II,Industrial Fibers,Medium,9.13
+Paragon Soul,D9DM-O,ZDYA-G,ZDYA-G II,Oxygen Isotopes,Medium,4.46
+Paragon Soul,D9DM-O,ZDYA-G,ZDYA-G II,Plasmoids,Poor,1.39
+Paragon Soul,D9DM-O,ZDYA-G,ZDYA-G III,Lustering Alloy,Poor,25.14
+Paragon Soul,D9DM-O,ZDYA-G,ZDYA-G III,Dark Compound,Medium,30.48
+Paragon Soul,D9DM-O,ZDYA-G,ZDYA-G III,Base Metals,Medium,9.58
+Paragon Soul,D9DM-O,ZDYA-G,ZDYA-G III,Silicate Glass,Medium,14.32
+Paragon Soul,D9DM-O,ZDYA-G,ZDYA-G III,Plasmoids,Medium,1.78
+Paragon Soul,D9DM-O,ZDYA-G,ZDYA-G IV,Lustering Alloy,Poor,24.54
+Paragon Soul,D9DM-O,ZDYA-G,ZDYA-G IV,Dark Compound,Poor,24.69
+Paragon Soul,D9DM-O,ZDYA-G,ZDYA-G IV,Base Metals,Medium,7.59
+Paragon Soul,D9DM-O,ZDYA-G,ZDYA-G IV,Toxic Metals,Poor,6.96
+Paragon Soul,D9DM-O,ZDYA-G,ZDYA-G IV,Silicate Glass,Medium,17.76
+Paragon Soul,D9DM-O,LX5K-W,LX5K-W I,Glossy Compound,Rich,34.81
+Paragon Soul,D9DM-O,LX5K-W,LX5K-W I,Noble Gas,Medium,28.55
+Paragon Soul,D9DM-O,LX5K-W,LX5K-W I,Noble Metals,Medium,25.01
+Paragon Soul,D9DM-O,LX5K-W,LX5K-W I,Plasmoids,Medium,1.88
+Paragon Soul,D9DM-O,LX5K-W,LX5K-W II,Sheen Compound,Medium,31.56
+Paragon Soul,D9DM-O,LX5K-W,LX5K-W II,Fiber Composite,Medium,29.04
+Paragon Soul,D9DM-O,LX5K-W,LX5K-W II,Glossy Compound,Rich,35.72
+Paragon Soul,D9DM-O,LX5K-W,LX5K-W II,Noble Gas,Poor,23.74
+Paragon Soul,D9DM-O,LX5K-W,LX5K-W II,Reactive Metals,Medium,7.13
+Paragon Soul,D9DM-O,LX5K-W,LX5K-W II,Ionic Solutions,Medium,11.07
+Paragon Soul,D9DM-O,LX5K-W,LX5K-W III,Condensed Alloy,Medium,29.17
+Paragon Soul,D9DM-O,LX5K-W,LX5K-W III,Fiber Composite,Rich,40.27
+Paragon Soul,D9DM-O,LX5K-W,LX5K-W III,Opulent Compound,Perfect,42.87
+Paragon Soul,D9DM-O,LX5K-W,LX5K-W III,Base Metals,Rich,9.03
+Paragon Soul,D9DM-O,LX5K-W,LX5K-W III,Industrial Fibers,Rich,10.76
+Paragon Soul,D9DM-O,LX5K-W,LX5K-W III,Smartfab Units,Perfect,27.58
+Paragon Soul,D9DM-O,LX5K-W,LX5K-W IV,Sheen Compound,Medium,30.58
+Paragon Soul,D9DM-O,LX5K-W,LX5K-W IV,Reactive Gas,Rich,33.59
+Paragon Soul,D9DM-O,LX5K-W,LX5K-W IV,Base Metals,Rich,10.33
+Paragon Soul,D9DM-O,LX5K-W,LX5K-W IV,Polyaramids,Rich,22.74
+Paragon Soul,D9DM-O,LX5K-W,LX5K-W IV,Coolant,Perfect,28.76
+Paragon Soul,D9DM-O,LX5K-W,LX5K-W IV,Ionic Solutions,Poor,9.79
+Paragon Soul,D9DM-O,LX5K-W,LX5K-W V,Condensed Alloy,Medium,32.58
+Paragon Soul,D9DM-O,LX5K-W,LX5K-W V,Opulent Compound,Rich,38.64
+Paragon Soul,D9DM-O,LX5K-W,LX5K-W V,Reactive Gas,Perfect,47.71
+Paragon Soul,D9DM-O,LX5K-W,LX5K-W V,Base Metals,Rich,10.72
+Paragon Soul,D9DM-O,LX5K-W,LX5K-W V,Condensates,Rich,27.07
+Paragon Soul,D9DM-O,LX5K-W,LX5K-W V,Liquid Ozone,Medium,40.01
+Paragon Soul,D9DM-O,LX5K-W,LX5K-W VI,Reactive Gas,Perfect,42.64
+Paragon Soul,D9DM-O,LX5K-W,LX5K-W VI,Noble Gas,Rich,36.79
+Paragon Soul,D9DM-O,LX5K-W,LX5K-W VI,Base Metals,Medium,8.01
+Paragon Soul,D9DM-O,LX5K-W,LX5K-W VI,Reactive Metals,Medium,6.94
+Paragon Soul,D9DM-O,LX5K-W,LX5K-W VI,Polyaramids,Rich,26.88
+Paragon Soul,D9DM-O,LX5K-W,LX5K-W VI,Coolant,Rich,24.87
+Paragon Soul,D9DM-O,LX5K-W,LX5K-W VII,Lustering Alloy,Rich,33.41
+Paragon Soul,D9DM-O,LX5K-W,LX5K-W VII,Precious Alloy,Poor,22.65
+Paragon Soul,D9DM-O,LX5K-W,LX5K-W VII,Base Metals,Medium,7.27
+Paragon Soul,D9DM-O,LX5K-W,LX5K-W VII,Industrial Fibers,Medium,7.35
+Paragon Soul,D9DM-O,LX5K-W,LX5K-W VII,Suspended Plasma,Medium,98.28

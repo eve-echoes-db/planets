@@ -1,0 +1,1827 @@
+Region,Constellation,System,Name,Item,Rate,Output
+Cache,BVA-YH,2-2EWC,2-2EWC I,Gleaming Alloy,Rich,31.67
+Cache,BVA-YH,2-2EWC,2-2EWC I,Glossy Compound,Poor,17.01
+Cache,BVA-YH,2-2EWC,2-2EWC I,Noble Gas,Medium,24.78
+Cache,BVA-YH,2-2EWC,2-2EWC II,Lustering Alloy,Poor,17.35
+Cache,BVA-YH,2-2EWC,2-2EWC II,Dark Compound,Medium,23.50
+Cache,BVA-YH,2-2EWC,2-2EWC II,Industrial Fibers,Medium,6.73
+Cache,BVA-YH,2-2EWC,2-2EWC II,Supertensile Plastics,Poor,10.42
+Cache,BVA-YH,2-2EWC,2-2EWC III,Lucent Compound,Rich,30.98
+Cache,BVA-YH,2-2EWC,2-2EWC III,Crystal Compound,Rich,26.61
+Cache,BVA-YH,2-2EWC,2-2EWC III,Reactive Metals,Rich,7.40
+Cache,BVA-YH,2-2EWC,2-2EWC III,Toxic Metals,Poor,5.16
+Cache,BVA-YH,2-2EWC,2-2EWC IV,Lustering Alloy,Rich,31.12
+Cache,BVA-YH,2-2EWC,2-2EWC IV,Sheen Compound,Medium,21.29
+Cache,BVA-YH,2-2EWC,2-2EWC IV,Reactive Gas,Rich,28.58
+Cache,BVA-YH,2-2EWC,2-2EWC IV,Reactive Metals,Rich,8.73
+Cache,BVA-YH,2-2EWC,2-2EWC IV,Polyaramids,Poor,12.92
+Cache,BVA-YH,2-2EWC,2-2EWC V,Fiber Composite,Rich,32.17
+Cache,BVA-YH,2-2EWC,2-2EWC V,Glossy Compound,Medium,22.91
+Cache,BVA-YH,2-2EWC,2-2EWC V,Reactive Gas,Rich,32.15
+Cache,BVA-YH,2-2EWC,2-2EWC V,Base Metals,Poor,5.13
+Cache,BVA-YH,2-2EWC,2-2EWC V,Reactive Metals,Medium,6.41
+Cache,BVA-YH,2-2EWC,2-2EWC VI,Sheen Compound,Medium,22.70
+Cache,BVA-YH,2-2EWC,2-2EWC VI,Fiber Composite,Rich,33.10
+Cache,BVA-YH,2-2EWC,2-2EWC VI,Glossy Compound,Poor,19.76
+Cache,BVA-YH,2-2EWC,2-2EWC VI,Reactive Gas,Rich,31.08
+Cache,BVA-YH,2-2EWC,2-2EWC VI,Base Metals,Medium,5.71
+Cache,BVA-YH,2-2EWC,2-2EWC VII,Glossy Compound,Rich,29.21
+Cache,BVA-YH,2-2EWC,2-2EWC VII,Reactive Gas,Medium,24.51
+Cache,BVA-YH,2-2EWC,2-2EWC VII,Noble Gas,Perfect,33.41
+Cache,BVA-YH,2-2EWC,2-2EWC VII,Reactive Metals,Poor,4.92
+Cache,BVA-YH,2-2EWC,2-2EWC VII,Polyaramids,Poor,13.06
+Cache,BVA-YH,2-2EWC,2-2EWC VIII,Lustering Alloy,Poor,17.85
+Cache,BVA-YH,2-2EWC,2-2EWC VIII,Base Metals,Poor,3.89
+Cache,BVA-YH,2-2EWC,2-2EWC VIII,Toxic Metals,Poor,4.89
+Cache,BVA-YH,2-2EWC,2-2EWC VIII,Supertensile Plastics,Medium,15.88
+Cache,BVA-YH,2-2EWC,2-2EWC IX,Lucent Compound,Perfect,33.75
+Cache,BVA-YH,2-2EWC,2-2EWC IX,Reactive Metals,Poor,4.98
+Cache,BVA-YH,2-2EWC,2-2EWC IX,Nanites,Medium,6.48
+Cache,BVA-YH,2-2EWC,2-2EWC IX,Oxygen Isotopes,Poor,2.82
+Cache,BVA-YH,E1W-TB,E1W-TB I,Precious Alloy,Medium,20.77
+Cache,BVA-YH,E1W-TB,E1W-TB I,Base Metals,Poor,4.15
+Cache,BVA-YH,E1W-TB,E1W-TB I,Industrial Fibers,Medium,5.86
+Cache,BVA-YH,E1W-TB,E1W-TB I,Supertensile Plastics,Poor,9.10
+Cache,BVA-YH,E1W-TB,E1W-TB II,Base Metals,Poor,4.70
+Cache,BVA-YH,E1W-TB,E1W-TB II,Supertensile Plastics,Poor,12.77
+Cache,BVA-YH,E1W-TB,E1W-TB II,Silicate Glass,Poor,7.47
+Cache,BVA-YH,E1W-TB,E1W-TB II,Oxygen Isotopes,Medium,3.40
+Cache,BVA-YH,E1W-TB,E1W-TB III,Lustering Alloy,Poor,15.02
+Cache,BVA-YH,E1W-TB,E1W-TB III,Toxic Metals,Poor,4.18
+Cache,BVA-YH,E1W-TB,E1W-TB III,Industrial Fibers,Poor,4.49
+Cache,BVA-YH,E1W-TB,E1W-TB III,Supertensile Plastics,Medium,16.11
+Cache,BVA-YH,E1W-TB,E1W-TB IV,Precious Alloy,Poor,14.57
+Cache,BVA-YH,E1W-TB,E1W-TB IV,Dark Compound,Poor,13.88
+Cache,BVA-YH,E1W-TB,E1W-TB IV,Supertensile Plastics,Poor,8.93
+Cache,BVA-YH,E1W-TB,E1W-TB IV,Plasmoids,Poor,0.98
+Cache,BVA-YH,E1W-TB,E1W-TB V,Fiber Composite,Poor,17.49
+Cache,BVA-YH,E1W-TB,E1W-TB V,Glossy Compound,Medium,24.25
+Cache,BVA-YH,E1W-TB,E1W-TB V,Reactive Gas,Medium,19.87
+Cache,BVA-YH,E1W-TB,E1W-TB V,Base Metals,Medium,6.27
+Cache,BVA-YH,E1W-TB,E1W-TB V,Polyaramids,Poor,13.03
+Cache,BVA-YH,E1W-TB,E1W-TB VI,Lustering Alloy,Rich,28.08
+Cache,BVA-YH,E1W-TB,E1W-TB VI,Fiber Composite,Rich,26.88
+Cache,BVA-YH,E1W-TB,E1W-TB VI,Reactive Gas,Rich,30.58
+Cache,BVA-YH,E1W-TB,E1W-TB VI,Noble Gas,Medium,20.45
+Cache,BVA-YH,E1W-TB,E1W-TB VI,Ionic Solutions,Medium,8.15
+Cache,BVA-YH,E1W-TB,E1W-TB VII,Glossy Compound,Perfect,33.41
+Cache,BVA-YH,E1W-TB,E1W-TB VII,Reactive Gas,Rich,31.42
+Cache,BVA-YH,E1W-TB,E1W-TB VII,Polyaramids,Poor,12.25
+Cache,BVA-YH,E1W-TB,E1W-TB VII,Coolant,Rich,20.78
+Cache,BVA-YH,E1W-TB,E1W-TB VII,Ionic Solutions,Poor,7.14
+Cache,BVA-YH,E1W-TB,E1W-TB VIII,Motley Compound,Rich,30.30
+Cache,BVA-YH,E1W-TB,E1W-TB VIII,Supertensile Plastics,Poor,10.53
+Cache,BVA-YH,E1W-TB,E1W-TB VIII,Coolant,Medium,15.19
+Cache,BVA-YH,E1W-TB,E1W-TB VIII,Condensates,Medium,15.23
+Cache,BVA-YH,D-6H64,D-6H64 I,Toxic Metals,Medium,6.44
+Cache,BVA-YH,D-6H64,D-6H64 I,Supertensile Plastics,Medium,15.17
+Cache,BVA-YH,D-6H64,D-6H64 I,Construction Blocks,Medium,20.16
+Cache,BVA-YH,D-6H64,D-6H64 I,Silicate Glass,Medium,10.02
+Cache,BVA-YH,D-6H64,D-6H64 II,Reactive Metals,Medium,6.02
+Cache,BVA-YH,D-6H64,D-6H64 II,Toxic Metals,Medium,6.43
+Cache,BVA-YH,D-6H64,D-6H64 II,Construction Blocks,Medium,20.52
+Cache,BVA-YH,D-6H64,D-6H64 II,Oxygen Isotopes,Rich,4.30
+Cache,BVA-YH,D-6H64,D-6H64 III,Condensed Alloy,Rich,25.86
+Cache,BVA-YH,D-6H64,D-6H64 III,Base Metals,Rich,7.84
+Cache,BVA-YH,D-6H64,D-6H64 III,Smartfab Units,Rich,16.89
+Cache,BVA-YH,D-6H64,D-6H64 III,Heavy Water,Poor,184.00
+Cache,BVA-YH,D-6H64,D-6H64 III,Liquid Ozone,Perfect,45.00
+Cache,BVA-YH,D-6H64,D-6H64 IV,Base Metals,Poor,4.17
+Cache,BVA-YH,D-6H64,D-6H64 IV,Supertensile Plastics,Poor,11.43
+Cache,BVA-YH,D-6H64,D-6H64 IV,Oxygen Isotopes,Poor,2.56
+Cache,BVA-YH,D-6H64,D-6H64 IV,Plasmoids,Medium,1.22
+Cache,BVA-YH,D-6H64,D-6H64 V,Lustering Alloy,Perfect,33.06
+Cache,BVA-YH,D-6H64,D-6H64 V,Sheen Compound,Poor,17.34
+Cache,BVA-YH,D-6H64,D-6H64 V,Glossy Compound,Poor,16.86
+Cache,BVA-YH,D-6H64,D-6H64 V,Reactive Gas,Rich,25.70
+Cache,BVA-YH,D-6H64,D-6H64 V,Ionic Solutions,Perfect,13.05
+Cache,BVA-YH,D-6H64,D-6H64 VI,Lustering Alloy,Poor,14.22
+Cache,BVA-YH,D-6H64,D-6H64 VI,Base Metals,Poor,3.75
+Cache,BVA-YH,D-6H64,D-6H64 VI,Supertensile Plastics,Poor,12.00
+Cache,BVA-YH,D-6H64,D-6H64 VI,Oxygen Isotopes,Medium,3.10
+Cache,BVA-YH,D-6H64,D-6H64 VII,Fiber Composite,Medium,24.14
+Cache,BVA-YH,D-6H64,D-6H64 VII,Glossy Compound,Perfect,31.92
+Cache,BVA-YH,D-6H64,D-6H64 VII,Reactive Gas,Rich,31.22
+Cache,BVA-YH,D-6H64,D-6H64 VII,Base Metals,Rich,6.85
+Cache,BVA-YH,D-6H64,D-6H64 VII,Reactive Metals,Medium,6.34
+Cache,BVA-YH,8-BIE3,8-BIE3 I,Lucent Compound,Poor,17.38
+Cache,BVA-YH,8-BIE3,8-BIE3 I,Crystal Compound,Medium,20.88
+Cache,BVA-YH,8-BIE3,8-BIE3 I,Reactive Metals,Medium,5.68
+Cache,BVA-YH,8-BIE3,8-BIE3 I,Nanites,Rich,8.21
+Cache,BVA-YH,8-BIE3,8-BIE3 II,Condensed Alloy,Medium,21.24
+Cache,BVA-YH,8-BIE3,8-BIE3 II,Noble Metals,Rich,25.34
+Cache,BVA-YH,8-BIE3,8-BIE3 II,Heavy Water,Medium,190.00
+Cache,BVA-YH,8-BIE3,8-BIE3 II,Liquid Ozone,Medium,29.95
+Cache,BVA-YH,8-BIE3,8-BIE3 II,Ionic Solutions,Rich,11.68
+Cache,BVA-YH,8-BIE3,8-BIE3 III,Lustering Alloy,Poor,16.80
+Cache,BVA-YH,8-BIE3,8-BIE3 III,Sheen Compound,Poor,18.28
+Cache,BVA-YH,8-BIE3,8-BIE3 III,Reactive Gas,Medium,22.32
+Cache,BVA-YH,8-BIE3,8-BIE3 III,Base Metals,Rich,7.82
+Cache,BVA-YH,8-BIE3,8-BIE3 III,Polyaramids,Rich,18.59
+Cache,BVA-YH,8-BIE3,8-BIE3 IV,Lustering Alloy,Medium,20.04
+Cache,BVA-YH,8-BIE3,8-BIE3 IV,Sheen Compound,Medium,23.80
+Cache,BVA-YH,8-BIE3,8-BIE3 IV,Reactive Gas,Medium,25.08
+Cache,BVA-YH,8-BIE3,8-BIE3 IV,Polyaramids,Medium,14.64
+Cache,BVA-YH,8-BIE3,8-BIE3 IV,Ionic Solutions,Rich,10.98
+Cache,BVA-YH,8-BIE3,8-BIE3 V,Toxic Metals,Medium,5.47
+Cache,BVA-YH,8-BIE3,8-BIE3 V,Coolant,Medium,14.37
+Cache,BVA-YH,8-BIE3,8-BIE3 V,Silicate Glass,Medium,10.03
+Cache,BVA-YH,8-BIE3,8-BIE3 V,Liquid Ozone,Perfect,41.42
+Cache,BVA-YH,8-BIE3,8-BIE3 V,Ionic Solutions,Medium,9.28
+Cache,BVA-YH,8-BIE3,8-BIE3 VI,Fiber Composite,Medium,23.92
+Cache,BVA-YH,8-BIE3,8-BIE3 VI,Reactive Gas,Medium,24.82
+Cache,BVA-YH,8-BIE3,8-BIE3 VI,Noble Gas,Rich,25.50
+Cache,BVA-YH,8-BIE3,8-BIE3 VI,Reactive Metals,Medium,5.33
+Cache,BVA-YH,8-BIE3,8-BIE3 VI,Ionic Solutions,Medium,9.70
+Cache,BVA-YH,8-BIE3,8-BIE3 VII,Gleaming Alloy,Medium,20.24
+Cache,BVA-YH,8-BIE3,8-BIE3 VII,Lucent Compound,Perfect,32.30
+Cache,BVA-YH,8-BIE3,8-BIE3 VII,Reactive Gas,Rich,29.96
+Cache,BVA-YH,8-BIE3,8-BIE3 VII,Reactive Metals,Poor,4.95
+Cache,BVA-YH,LMM7-L,LMM7-L I,Industrial Fibers,Medium,5.38
+Cache,BVA-YH,LMM7-L,LMM7-L I,Supertensile Plastics,Poor,9.38
+Cache,BVA-YH,LMM7-L,LMM7-L I,Construction Blocks,Medium,22.32
+Cache,BVA-YH,LMM7-L,LMM7-L I,Oxygen Isotopes,Poor,2.06
+Cache,BVA-YH,LMM7-L,LMM7-L II,Gleaming Alloy,Rich,30.98
+Cache,BVA-YH,LMM7-L,LMM7-L II,Glossy Compound,Perfect,35.34
+Cache,BVA-YH,LMM7-L,LMM7-L II,Plasmoids,Rich,1.83
+Cache,BVA-YH,LMM7-L,LMM7-L III,Sheen Compound,Poor,19.53
+Cache,BVA-YH,LMM7-L,LMM7-L III,Glossy Compound,Medium,20.18
+Cache,BVA-YH,LMM7-L,LMM7-L III,Reactive Gas,Medium,25.37
+Cache,BVA-YH,LMM7-L,LMM7-L III,Coolant,Medium,17.65
+Cache,BVA-YH,LMM7-L,LMM7-L III,Ionic Solutions,Perfect,13.93
+Cache,BVA-YH,LMM7-L,LMM7-L IV,Fiber Composite,Medium,25.47
+Cache,BVA-YH,LMM7-L,LMM7-L IV,Glossy Compound,Rich,32.47
+Cache,BVA-YH,LMM7-L,LMM7-L IV,Reactive Gas,Medium,25.28
+Cache,BVA-YH,LMM7-L,LMM7-L IV,Noble Gas,Rich,31.00
+Cache,BVA-YH,LMM7-L,LMM7-L IV,Coolant,Poor,12.56
+Cache,BVA-YH,LMM7-L,LMM7-L V,Dark Compound,Medium,24.86
+Cache,BVA-YH,LMM7-L,LMM7-L V,Supertensile Plastics,Medium,16.11
+Cache,BVA-YH,LMM7-L,LMM7-L V,Construction Blocks,Poor,14.97
+Cache,BVA-YH,LMM7-L,LMM7-L V,Silicate Glass,Medium,12.36
+Cache,BVA-YH,995-3G,995-3G I,Lustering Alloy,Poor,17.06
+Cache,BVA-YH,995-3G,995-3G I,Base Metals,Medium,5.91
+Cache,BVA-YH,995-3G,995-3G I,Supertensile Plastics,Medium,16.23
+Cache,BVA-YH,995-3G,995-3G I,Oxygen Isotopes,Medium,2.92
+Cache,BVA-YH,995-3G,995-3G II,Lustering Alloy,Medium,19.88
+Cache,BVA-YH,995-3G,995-3G II,Glossy Compound,Medium,20.82
+Cache,BVA-YH,995-3G,995-3G II,Reactive Gas,Rich,27.34
+Cache,BVA-YH,995-3G,995-3G II,Reactive Metals,Poor,4.84
+Cache,BVA-YH,995-3G,995-3G II,Ionic Solutions,Medium,9.82
+Cache,BVA-YH,995-3G,995-3G III,Sheen Compound,Medium,20.80
+Cache,BVA-YH,995-3G,995-3G III,Glossy Compound,Poor,18.34
+Cache,BVA-YH,995-3G,995-3G III,Reactive Gas,Medium,20.60
+Cache,BVA-YH,995-3G,995-3G III,Base Metals,Medium,5.88
+Cache,BVA-YH,995-3G,995-3G III,Polyaramids,Perfect,21.75
+Cache,BVA-YH,995-3G,995-3G IV,Sheen Compound,Medium,23.22
+Cache,BVA-YH,995-3G,995-3G IV,Glossy Compound,Medium,19.06
+Cache,BVA-YH,995-3G,995-3G IV,Reactive Gas,Poor,17.56
+Cache,BVA-YH,995-3G,995-3G IV,Reactive Metals,Poor,4.55
+Cache,BVA-YH,995-3G,995-3G IV,Coolant,Medium,12.84
+Cache,BVA-YH,995-3G,995-3G V,Lustering Alloy,Medium,24.78
+Cache,BVA-YH,995-3G,995-3G V,Sheen Compound,Medium,23.74
+Cache,BVA-YH,995-3G,995-3G V,Fiber Composite,Rich,27.70
+Cache,BVA-YH,995-3G,995-3G V,Glossy Compound,Medium,22.88
+Cache,BVA-YH,995-3G,995-3G V,Reactive Gas,Rich,28.28
+Cache,BVA-YH,995-3G,995-3G VI,Industrial Fibers,Medium,6.02
+Cache,BVA-YH,995-3G,995-3G VI,Supertensile Plastics,Poor,12.00
+Cache,BVA-YH,995-3G,995-3G VI,Coolant,Rich,19.59
+Cache,BVA-YH,995-3G,995-3G VI,Condensates,Poor,12.11
+Cache,BVA-YH,995-3G,995-3G VII,Lustering Alloy,Poor,18.58
+Cache,BVA-YH,995-3G,995-3G VII,Precious Alloy,Medium,20.80
+Cache,BVA-YH,995-3G,995-3G VII,Industrial Fibers,Poor,3.68
+Cache,BVA-YH,995-3G,995-3G VII,Supertensile Plastics,Poor,11.89
+Cache,VS-8P0,W2T-TR,W2T-TR I,Supertensile Plastics,Medium,15.09
+Cache,VS-8P0,W2T-TR,W2T-TR I,Construction Blocks,Poor,16.08
+Cache,VS-8P0,W2T-TR,W2T-TR I,Silicate Glass,Medium,9.98
+Cache,VS-8P0,W2T-TR,W2T-TR I,Oxygen Isotopes,Medium,2.98
+Cache,VS-8P0,W2T-TR,W2T-TR II,Precious Alloy,Medium,20.34
+Cache,VS-8P0,W2T-TR,W2T-TR II,Supertensile Plastics,Poor,11.99
+Cache,VS-8P0,W2T-TR,W2T-TR II,Silicate Glass,Medium,10.33
+Cache,VS-8P0,W2T-TR,W2T-TR II,Plasmoids,Poor,0.75
+Cache,VS-8P0,W2T-TR,W2T-TR III,Dark Compound,Poor,18.34
+Cache,VS-8P0,W2T-TR,W2T-TR III,Supertensile Plastics,Poor,11.88
+Cache,VS-8P0,W2T-TR,W2T-TR III,Silicate Glass,Poor,7.05
+Cache,VS-8P0,W2T-TR,W2T-TR III,Oxygen Isotopes,Medium,3.28
+Cache,VS-8P0,W2T-TR,W2T-TR IV,Condensed Alloy,Perfect,32.02
+Cache,VS-8P0,W2T-TR,W2T-TR IV,Crystal Compound,Rich,31.24
+Cache,VS-8P0,W2T-TR,W2T-TR IV,Noble Metals,Rich,30.88
+Cache,VS-8P0,W2T-TR,W2T-TR IV,Toxic Metals,Poor,4.64
+Cache,VS-8P0,W2T-TR,W2T-TR IV,Liquid Ozone,Medium,26.73
+Cache,VS-8P0,W2T-TR,W2T-TR V,Lustering Alloy,Poor,13.72
+Cache,VS-8P0,W2T-TR,W2T-TR V,Dark Compound,Poor,14.74
+Cache,VS-8P0,W2T-TR,W2T-TR V,Supertensile Plastics,Medium,15.20
+Cache,VS-8P0,W2T-TR,W2T-TR V,Construction Blocks,Poor,12.60
+Cache,VS-8P0,W2T-TR,W2T-TR VI,Lustering Alloy,Medium,24.10
+Cache,VS-8P0,W2T-TR,W2T-TR VI,Precious Alloy,Medium,19.20
+Cache,VS-8P0,W2T-TR,W2T-TR VI,Supertensile Plastics,Medium,14.84
+Cache,VS-8P0,W2T-TR,W2T-TR VI,Plasmoids,Poor,0.93
+Cache,VS-8P0,W2T-TR,W2T-TR VII,Lustering Alloy,Poor,16.36
+Cache,VS-8P0,W2T-TR,W2T-TR VII,Supertensile Plastics,Medium,13.01
+Cache,VS-8P0,W2T-TR,W2T-TR VII,Silicate Glass,Medium,11.21
+Cache,VS-8P0,W2T-TR,W2T-TR VII,Oxygen Isotopes,Poor,2.28
+Cache,VS-8P0,W2T-TR,W2T-TR VIII,Sheen Compound,Medium,20.00
+Cache,VS-8P0,W2T-TR,W2T-TR VIII,Fiber Composite,Rich,30.62
+Cache,VS-8P0,W2T-TR,W2T-TR VIII,Reactive Gas,Medium,25.10
+Cache,VS-8P0,W2T-TR,W2T-TR VIII,Noble Gas,Rich,29.26
+Cache,VS-8P0,W2T-TR,W2T-TR VIII,Ionic Solutions,Medium,7.58
+Cache,VS-8P0,W2T-TR,W2T-TR IX,Opulent Compound,Medium,23.82
+Cache,VS-8P0,W2T-TR,W2T-TR IX,Base Metals,Rich,7.65
+Cache,VS-8P0,W2T-TR,W2T-TR IX,Industrial Fibers,Rich,6.81
+Cache,VS-8P0,W2T-TR,W2T-TR IX,Heavy Water,Perfect,341.00
+Cache,VS-8P0,W2T-TR,W2T-TR IX,Liquid Ozone,Medium,28.77
+Cache,VS-8P0,W2T-TR,W2T-TR X,Precious Alloy,Medium,21.50
+Cache,VS-8P0,W2T-TR,W2T-TR X,Base Metals,Medium,6.43
+Cache,VS-8P0,W2T-TR,W2T-TR X,Heavy Metals,Poor,15.12
+Cache,VS-8P0,W2T-TR,W2T-TR X,Condensates,Poor,11.40
+Cache,VS-8P0,Q-UEN6,Q-UEN6 I,Supertensile Plastics,Poor,12.31
+Cache,VS-8P0,Q-UEN6,Q-UEN6 I,Construction Blocks,Poor,14.02
+Cache,VS-8P0,Q-UEN6,Q-UEN6 I,Silicate Glass,Medium,12.12
+Cache,VS-8P0,Q-UEN6,Q-UEN6 I,Plasmoids,Poor,1.00
+Cache,VS-8P0,Q-UEN6,Q-UEN6 II,Lucent Compound,Rich,29.46
+Cache,VS-8P0,Q-UEN6,Q-UEN6 II,Reactive Gas,Rich,30.30
+Cache,VS-8P0,Q-UEN6,Q-UEN6 II,Reactive Metals,Rich,8.23
+Cache,VS-8P0,Q-UEN6,Q-UEN6 II,Suspended Plasma,Medium,70.99
+Cache,VS-8P0,Q-UEN6,Q-UEN6 III,Condensed Alloy,Medium,21.90
+Cache,VS-8P0,Q-UEN6,Q-UEN6 III,Opulent Compound,Perfect,32.84
+Cache,VS-8P0,Q-UEN6,Q-UEN6 III,Noble Metals,Rich,25.52
+Cache,VS-8P0,Q-UEN6,Q-UEN6 III,Silicate Glass,Perfect,16.87
+Cache,VS-8P0,Q-UEN6,Q-UEN6 III,Liquid Ozone,Perfect,42.13
+Cache,VS-8P0,Q-UEN6,Q-UEN6 IV,Precious Alloy,Medium,23.24
+Cache,VS-8P0,Q-UEN6,Q-UEN6 IV,Toxic Metals,Medium,5.34
+Cache,VS-8P0,Q-UEN6,Q-UEN6 IV,Supertensile Plastics,Medium,15.91
+Cache,VS-8P0,Q-UEN6,Q-UEN6 IV,Silicate Glass,Medium,10.46
+Cache,VS-8P0,Q-UEN6,Q-UEN6 V,Gleaming Alloy,Rich,25.94
+Cache,VS-8P0,Q-UEN6,Q-UEN6 V,Polyaramids,Medium,12.57
+Cache,VS-8P0,Q-UEN6,Q-UEN6 V,Construction Blocks,Medium,21.56
+Cache,VS-8P0,Q-UEN6,Q-UEN6 VI,Gleaming Alloy,Rich,30.60
+Cache,VS-8P0,Q-UEN6,Q-UEN6 VI,Motley Compound,Medium,21.34
+Cache,VS-8P0,Q-UEN6,Q-UEN6 VI,Polyaramids,Rich,17.87
+Cache,VS-8P0,Q-UEN6,Q-UEN6 VII,Opulent Compound,Rich,31.58
+Cache,VS-8P0,Q-UEN6,Q-UEN6 VII,Reactive Gas,Rich,26.94
+Cache,VS-8P0,Q-UEN6,Q-UEN6 VII,Noble Metals,Perfect,37.00
+Cache,VS-8P0,Q-UEN6,Q-UEN6 VII,Smartfab Units,Rich,19.33
+Cache,VS-8P0,Q-UEN6,Q-UEN6 VII,Liquid Ozone,Medium,31.35
+Cache,VS-8P0,Q-UEN6,Q-UEN6 VIII,Lustering Alloy,Rich,27.46
+Cache,VS-8P0,Q-UEN6,Q-UEN6 VIII,Reactive Gas,Rich,26.40
+Cache,VS-8P0,Q-UEN6,Q-UEN6 VIII,Base Metals,Rich,8.24
+Cache,VS-8P0,Q-UEN6,Q-UEN6 VIII,Reactive Metals,Rich,7.38
+Cache,VS-8P0,Q-UEN6,Q-UEN6 VIII,Ionic Solutions,Poor,7.38
+Cache,VS-8P0,Q-UEN6,Q-UEN6 IX,Precious Alloy,Rich,26.56
+Cache,VS-8P0,Q-UEN6,Q-UEN6 IX,Condensates,Rich,18.91
+Cache,VS-8P0,Q-UEN6,Q-UEN6 IX,Suspended Plasma,Medium,86.18
+Cache,VS-8P0,Q-UEN6,Q-UEN6 IX,Liquid Ozone,Medium,27.13
+Cache,VS-8P0,BLMX-B,BLMX-B I,Gleaming Alloy,Rich,28.60
+Cache,VS-8P0,BLMX-B,BLMX-B I,Noble Gas,Medium,23.70
+Cache,VS-8P0,BLMX-B,BLMX-B I,Plasmoids,Poor,1.11
+Cache,VS-8P0,BLMX-B,BLMX-B II,Lustering Alloy,Medium,20.14
+Cache,VS-8P0,BLMX-B,BLMX-B II,Precious Alloy,Poor,16.52
+Cache,VS-8P0,BLMX-B,BLMX-B II,Supertensile Plastics,Poor,8.39
+Cache,VS-8P0,BLMX-B,BLMX-B II,Construction Blocks,Poor,14.22
+Cache,VS-8P0,BLMX-B,BLMX-B III,Base Metals,Poor,3.47
+Cache,VS-8P0,BLMX-B,BLMX-B III,Supertensile Plastics,Poor,11.01
+Cache,VS-8P0,BLMX-B,BLMX-B III,Construction Blocks,Medium,20.92
+Cache,VS-8P0,BLMX-B,BLMX-B III,Plasmoids,Poor,1.00
+Cache,VS-8P0,BLMX-B,BLMX-B IV,Condensed Alloy,Rich,26.24
+Cache,VS-8P0,BLMX-B,BLMX-B IV,Fiber Composite,Perfect,37.36
+Cache,VS-8P0,BLMX-B,BLMX-B IV,Industrial Fibers,Medium,6.10
+Cache,VS-8P0,BLMX-B,BLMX-B IV,Condensates,Rich,20.25
+Cache,VS-8P0,BLMX-B,BLMX-B IV,Liquid Ozone,Medium,24.40
+Cache,VS-8P0,BLMX-B,BLMX-B V,Glossy Compound,Rich,29.06
+Cache,VS-8P0,BLMX-B,BLMX-B V,Reactive Gas,Poor,17.32
+Cache,VS-8P0,BLMX-B,BLMX-B V,Base Metals,Perfect,8.63
+Cache,VS-8P0,BLMX-B,BLMX-B V,Coolant,Rich,18.65
+Cache,VS-8P0,BLMX-B,BLMX-B V,Ionic Solutions,Rich,12.42
+Cache,VS-8P0,BLMX-B,BLMX-B VI,Dark Compound,Poor,18.70
+Cache,VS-8P0,BLMX-B,BLMX-B VI,Supertensile Plastics,Poor,9.60
+Cache,VS-8P0,BLMX-B,BLMX-B VI,Construction Blocks,Medium,23.80
+Cache,VS-8P0,BLMX-B,BLMX-B VI,Plasmoids,Medium,1.46
+Cache,VS-8P0,BLMX-B,BLMX-B VII,Fiber Composite,Rich,29.36
+Cache,VS-8P0,BLMX-B,BLMX-B VII,Glossy Compound,Rich,26.30
+Cache,VS-8P0,BLMX-B,BLMX-B VII,Reactive Gas,Rich,28.48
+Cache,VS-8P0,BLMX-B,BLMX-B VII,Polyaramids,Medium,13.71
+Cache,VS-8P0,BLMX-B,BLMX-B VII,Ionic Solutions,Perfect,12.86
+Cache,VS-8P0,BLMX-B,BLMX-B VIII,Base Metals,Poor,3.65
+Cache,VS-8P0,BLMX-B,BLMX-B VIII,Industrial Fibers,Poor,4.33
+Cache,VS-8P0,BLMX-B,BLMX-B VIII,Supertensile Plastics,Poor,10.05
+Cache,VS-8P0,BLMX-B,BLMX-B VIII,Plasmoids,Poor,0.98
+Cache,VS-8P0,BLMX-B,BLMX-B IX,Lustering Alloy,Medium,19.18
+Cache,VS-8P0,BLMX-B,BLMX-B IX,Sheen Compound,Rich,30.88
+Cache,VS-8P0,BLMX-B,BLMX-B IX,Reactive Gas,Perfect,32.90
+Cache,VS-8P0,BLMX-B,BLMX-B IX,Coolant,Medium,13.81
+Cache,VS-8P0,BLMX-B,BLMX-B IX,Ionic Solutions,Perfect,12.86
+Cache,VS-8P0,M-CNUD,M-CNUD I,Lustering Alloy,Poor,16.36
+Cache,VS-8P0,M-CNUD,M-CNUD I,Dark Compound,Medium,20.24
+Cache,VS-8P0,M-CNUD,M-CNUD I,Industrial Fibers,Medium,4.96
+Cache,VS-8P0,M-CNUD,M-CNUD I,Supertensile Plastics,Medium,14.32
+Cache,VS-8P0,M-CNUD,M-CNUD II,Dark Compound,Poor,15.92
+Cache,VS-8P0,M-CNUD,M-CNUD II,Toxic Metals,Medium,5.01
+Cache,VS-8P0,M-CNUD,M-CNUD II,Supertensile Plastics,Poor,12.24
+Cache,VS-8P0,M-CNUD,M-CNUD II,Plasmoids,Poor,0.85
+Cache,VS-8P0,M-CNUD,M-CNUD III,Industrial Fibers,Poor,4.86
+Cache,VS-8P0,M-CNUD,M-CNUD III,Supertensile Plastics,Medium,14.28
+Cache,VS-8P0,M-CNUD,M-CNUD III,Construction Blocks,Poor,16.68
+Cache,VS-8P0,M-CNUD,M-CNUD III,Plasmoids,Poor,0.80
+Cache,VS-8P0,M-CNUD,M-CNUD IV,Gleaming Alloy,Medium,23.30
+Cache,VS-8P0,M-CNUD,M-CNUD IV,Reactive Metals,Rich,8.03
+Cache,VS-8P0,M-CNUD,M-CNUD IV,Toxic Metals,Rich,7.22
+Cache,VS-8P0,M-CNUD,M-CNUD IV,Nanites,Poor,4.56
+Cache,VS-8P0,M-CNUD,M-CNUD V,Reactive Gas,Rich,27.90
+Cache,VS-8P0,M-CNUD,M-CNUD V,Noble Gas,Medium,24.98
+Cache,VS-8P0,M-CNUD,M-CNUD V,Base Metals,Medium,6.36
+Cache,VS-8P0,M-CNUD,M-CNUD V,Coolant,Rich,18.67
+Cache,VS-8P0,M-CNUD,M-CNUD V,Ionic Solutions,Medium,9.41
+Cache,VS-8P0,M-CNUD,M-CNUD VI,Fiber Composite,Medium,22.74
+Cache,VS-8P0,M-CNUD,M-CNUD VI,Reactive Gas,Perfect,32.82
+Cache,VS-8P0,M-CNUD,M-CNUD VI,Polyaramids,Poor,11.84
+Cache,VS-8P0,M-CNUD,M-CNUD VI,Coolant,Rich,20.31
+Cache,VS-8P0,M-CNUD,M-CNUD VI,Ionic Solutions,Medium,8.95
+Cache,VS-8P0,M-CNUD,M-CNUD VII,Sheen Compound,Medium,22.62
+Cache,VS-8P0,M-CNUD,M-CNUD VII,Glossy Compound,Medium,20.50
+Cache,VS-8P0,M-CNUD,M-CNUD VII,Reactive Gas,Rich,25.86
+Cache,VS-8P0,M-CNUD,M-CNUD VII,Base Metals,Medium,5.08
+Cache,VS-8P0,M-CNUD,M-CNUD VII,Reactive Metals,Poor,4.51
+Cache,VS-8P0,M-CNUD,M-CNUD VIII,Sheen Compound,Rich,27.94
+Cache,VS-8P0,M-CNUD,M-CNUD VIII,Reactive Gas,Rich,26.72
+Cache,VS-8P0,M-CNUD,M-CNUD VIII,Base Metals,Medium,5.20
+Cache,VS-8P0,M-CNUD,M-CNUD VIII,Polyaramids,Perfect,21.57
+Cache,VS-8P0,M-CNUD,M-CNUD VIII,Ionic Solutions,Medium,8.54
+Cache,VS-8P0,M-CNUD,M-CNUD IX,Precious Alloy,Medium,21.20
+Cache,VS-8P0,M-CNUD,M-CNUD IX,Supertensile Plastics,Medium,14.77
+Cache,VS-8P0,M-CNUD,M-CNUD IX,Construction Blocks,Medium,20.16
+Cache,VS-8P0,M-CNUD,M-CNUD IX,Oxygen Isotopes,Poor,2.76
+Cache,VS-8P0,YE1-9S,YE1-9S I,Lustering Alloy,Poor,12.58
+Cache,VS-8P0,YE1-9S,YE1-9S I,Supertensile Plastics,Medium,15.31
+Cache,VS-8P0,YE1-9S,YE1-9S I,Oxygen Isotopes,Poor,2.54
+Cache,VS-8P0,YE1-9S,YE1-9S I,Plasmoids,Poor,0.82
+Cache,VS-8P0,YE1-9S,YE1-9S II,Lucent Compound,Rich,30.78
+Cache,VS-8P0,YE1-9S,YE1-9S II,Noble Gas,Rich,27.48
+Cache,VS-8P0,YE1-9S,YE1-9S II,Reactive Metals,Medium,5.73
+Cache,VS-8P0,YE1-9S,YE1-9S II,Condensates,Rich,17.95
+Cache,VS-8P0,YE1-9S,YE1-9S II,Suspended Plasma,Perfect,116.57
+Cache,VS-8P0,YE1-9S,YE1-9S III,Reactive Gas,Rich,26.92
+Cache,VS-8P0,YE1-9S,YE1-9S III,Reactive Metals,Rich,8.32
+Cache,VS-8P0,YE1-9S,YE1-9S III,Supertensile Plastics,Medium,14.75
+Cache,VS-8P0,YE1-9S,YE1-9S III,Oxygen Isotopes,Medium,3.18
+Cache,VS-8P0,YE1-9S,YE1-9S IV,Noble Metals,Rich,30.08
+Cache,VS-8P0,YE1-9S,YE1-9S IV,Silicate Glass,Rich,13.20
+Cache,VS-8P0,YE1-9S,YE1-9S IV,Heavy Water,Rich,287.40
+Cache,VS-8P0,YE1-9S,YE1-9S IV,Liquid Ozone,Rich,36.45
+Cache,VS-8P0,YE1-9S,YE1-9S IV,Ionic Solutions,Rich,11.30
+Cache,VS-8P0,YE1-9S,YE1-9S V,Condensed Alloy,Rich,27.74
+Cache,VS-8P0,YE1-9S,YE1-9S V,Noble Metals,Rich,26.60
+Cache,VS-8P0,YE1-9S,YE1-9S V,Industrial Fibers,Medium,5.24
+Cache,VS-8P0,YE1-9S,YE1-9S V,Smartfab Units,Rich,17.21
+Cache,VS-8P0,YE1-9S,YE1-9S V,Liquid Ozone,Perfect,40.52
+Cache,VS-8P0,YE1-9S,YE1-9S VI,Fiber Composite,Rich,30.34
+Cache,VS-8P0,YE1-9S,YE1-9S VI,Reactive Gas,Rich,29.66
+Cache,VS-8P0,YE1-9S,YE1-9S VI,Noble Gas,Rich,25.74
+Cache,VS-8P0,YE1-9S,YE1-9S VI,Polyaramids,Rich,19.67
+Cache,VS-8P0,YE1-9S,YE1-9S VI,Coolant,Rich,20.08
+Cache,VS-8P0,YE1-9S,YE1-9S VII,Sheen Compound,Poor,18.14
+Cache,VS-8P0,YE1-9S,YE1-9S VII,Fiber Composite,Medium,19.70
+Cache,VS-8P0,YE1-9S,YE1-9S VII,Reactive Gas,Rich,27.94
+Cache,VS-8P0,YE1-9S,YE1-9S VII,Coolant,Rich,18.36
+Cache,VS-8P0,YE1-9S,YE1-9S VII,Ionic Solutions,Rich,11.80
+Cache,VS-8P0,YE1-9S,YE1-9S VIII,Lustering Alloy,Perfect,33.00
+Cache,VS-8P0,YE1-9S,YE1-9S VIII,Sheen Compound,Rich,26.88
+Cache,VS-8P0,YE1-9S,YE1-9S VIII,Reactive Gas,Medium,20.78
+Cache,VS-8P0,YE1-9S,YE1-9S VIII,Base Metals,Medium,5.53
+Cache,VS-8P0,YE1-9S,YE1-9S VIII,Polyaramids,Rich,19.44
+Cache,VS-8P0,YE1-9S,YE1-9S IX,Dark Compound,Poor,17.08
+Cache,VS-8P0,YE1-9S,YE1-9S IX,Base Metals,Poor,3.39
+Cache,VS-8P0,YE1-9S,YE1-9S IX,Supertensile Plastics,Medium,13.32
+Cache,VS-8P0,YE1-9S,YE1-9S IX,Plasmoids,Medium,1.29
+Cache,VS-8P0,YE1-9S,YE1-9S X,Base Metals,Medium,5.12
+Cache,VS-8P0,YE1-9S,YE1-9S X,Industrial Fibers,Poor,3.87
+Cache,VS-8P0,YE1-9S,YE1-9S X,Supertensile Plastics,Poor,10.17
+Cache,VS-8P0,YE1-9S,YE1-9S X,Silicate Glass,Poor,7.15
+Cache,VS-8P0,IVP-KA,IVP-KA I,Gleaming Alloy,Medium,24.50
+Cache,VS-8P0,IVP-KA,IVP-KA I,Glossy Compound,Perfect,31.94
+Cache,VS-8P0,IVP-KA,IVP-KA I,Heavy Metals,Medium,23.68
+Cache,VS-8P0,IVP-KA,IVP-KA II,Precious Alloy,Poor,13.62
+Cache,VS-8P0,IVP-KA,IVP-KA II,Dark Compound,Poor,13.28
+Cache,VS-8P0,IVP-KA,IVP-KA II,Supertensile Plastics,Medium,15.61
+Cache,VS-8P0,IVP-KA,IVP-KA II,Oxygen Isotopes,Poor,2.05
+Cache,VS-8P0,IVP-KA,IVP-KA III,Crystal Compound,Poor,17.60
+Cache,VS-8P0,IVP-KA,IVP-KA III,Reactive Gas,Medium,21.04
+Cache,VS-8P0,IVP-KA,IVP-KA III,Reactive Metals,Poor,4.59
+Cache,VS-8P0,IVP-KA,IVP-KA III,Oxygen Isotopes,Rich,4.52
+Cache,VS-8P0,IVP-KA,IVP-KA IV,Lustering Alloy,Rich,27.38
+Cache,VS-8P0,IVP-KA,IVP-KA IV,Reactive Gas,Poor,18.68
+Cache,VS-8P0,IVP-KA,IVP-KA IV,Base Metals,Rich,8.13
+Cache,VS-8P0,IVP-KA,IVP-KA IV,Polyaramids,Poor,11.19
+Cache,VS-8P0,IVP-KA,IVP-KA IV,Ionic Solutions,Poor,7.06
+Cache,VS-8P0,IVP-KA,IVP-KA V,Lustering Alloy,Poor,16.82
+Cache,VS-8P0,IVP-KA,IVP-KA V,Fiber Composite,Poor,18.80
+Cache,VS-8P0,IVP-KA,IVP-KA V,Reactive Gas,Medium,23.88
+Cache,VS-8P0,IVP-KA,IVP-KA V,Noble Gas,Rich,31.00
+Cache,VS-8P0,IVP-KA,IVP-KA V,Reactive Metals,Medium,5.24
+Cache,VS-8P0,IVP-KA,IVP-KA VI,Fiber Composite,Rich,25.54
+Cache,VS-8P0,IVP-KA,IVP-KA VI,Glossy Compound,Rich,31.46
+Cache,VS-8P0,IVP-KA,IVP-KA VI,Reactive Gas,Poor,16.74
+Cache,VS-8P0,IVP-KA,IVP-KA VI,Noble Gas,Medium,19.22
+Cache,VS-8P0,IVP-KA,IVP-KA VI,Ionic Solutions,Rich,11.70
+Cache,VS-8P0,04EI-U,04EI-U I,Dark Compound,Medium,24.46
+Cache,VS-8P0,04EI-U,04EI-U I,Supertensile Plastics,Poor,10.93
+Cache,VS-8P0,04EI-U,04EI-U I,Oxygen Isotopes,Poor,2.46
+Cache,VS-8P0,04EI-U,04EI-U I,Plasmoids,Medium,1.27
+Cache,VS-8P0,04EI-U,04EI-U II,Lustering Alloy,Poor,16.56
+Cache,VS-8P0,04EI-U,04EI-U II,Precious Alloy,Medium,23.84
+Cache,VS-8P0,04EI-U,04EI-U II,Toxic Metals,Poor,4.37
+Cache,VS-8P0,04EI-U,04EI-U II,Supertensile Plastics,Medium,15.44
+Cache,VS-8P0,04EI-U,04EI-U III,Opulent Compound,Medium,22.64
+Cache,VS-8P0,04EI-U,04EI-U III,Crystal Compound,Medium,25.00
+Cache,VS-8P0,04EI-U,04EI-U III,Noble Metals,Perfect,34.84
+Cache,VS-8P0,04EI-U,04EI-U III,Toxic Metals,Poor,4.72
+Cache,VS-8P0,04EI-U,04EI-U III,Liquid Ozone,Poor,22.15
+Cache,VS-8P0,04EI-U,04EI-U IV,Lustering Alloy,Medium,20.30
+Cache,VS-8P0,04EI-U,04EI-U IV,Sheen Compound,Medium,24.86
+Cache,VS-8P0,04EI-U,04EI-U IV,Fiber Composite,Rich,25.84
+Cache,VS-8P0,04EI-U,04EI-U IV,Reactive Gas,Rich,29.62
+Cache,VS-8P0,04EI-U,04EI-U IV,Noble Gas,Medium,21.52
+Cache,VS-8P0,04EI-U,04EI-U V,Lustering Alloy,Rich,27.64
+Cache,VS-8P0,04EI-U,04EI-U V,Fiber Composite,Rich,26.84
+Cache,VS-8P0,04EI-U,04EI-U V,Reactive Gas,Poor,17.76
+Cache,VS-8P0,04EI-U,04EI-U V,Base Metals,Rich,7.11
+Cache,VS-8P0,04EI-U,04EI-U V,Ionic Solutions,Poor,7.27
+Cache,VS-8P0,04EI-U,04EI-U VI,Lustering Alloy,Poor,17.48
+Cache,VS-8P0,04EI-U,04EI-U VI,Sheen Compound,Medium,23.98
+Cache,VS-8P0,04EI-U,04EI-U VI,Fiber Composite,Rich,28.08
+Cache,VS-8P0,04EI-U,04EI-U VI,Reactive Gas,Medium,22.22
+Cache,VS-8P0,04EI-U,04EI-U VI,Polyaramids,Poor,11.27
+Cache,VS-8P0,04EI-U,04EI-U VII,Fiber Composite,Perfect,32.52
+Cache,VS-8P0,04EI-U,04EI-U VII,Reactive Gas,Perfect,37.98
+Cache,VS-8P0,04EI-U,04EI-U VII,Base Metals,Medium,6.28
+Cache,VS-8P0,04EI-U,04EI-U VII,Heavy Water,Rich,287.60
+Cache,VS-8P0,04EI-U,04EI-U VII,Liquid Ozone,Medium,23.63
+Cache,VS-8P0,04EI-U,04EI-U VIII,Motley Compound,Rich,28.40
+Cache,VS-8P0,04EI-U,04EI-U VIII,Heavy Metals,Rich,27.58
+Cache,VS-8P0,04EI-U,04EI-U VIII,Industrial Fibers,Poor,4.51
+Cache,VS-8P0,04EI-U,04EI-U VIII,Condensates,Medium,12.93
+Cache,VS-8P0,04EI-U,04EI-U IX,Dark Compound,Poor,15.44
+Cache,VS-8P0,04EI-U,04EI-U IX,Industrial Fibers,Medium,6.35
+Cache,VS-8P0,04EI-U,04EI-U IX,Supertensile Plastics,Poor,12.55
+Cache,VS-8P0,04EI-U,04EI-U IX,Oxygen Isotopes,Medium,3.32
+Cache,5HN-S5,B-T6BT,B-T6BT I,Sheen Compound,Perfect,46.86
+Cache,5HN-S5,B-T6BT,B-T6BT I,Reactive Metals,Medium,8.00
+Cache,5HN-S5,B-T6BT,B-T6BT I,Nanites,Perfect,12.54
+Cache,5HN-S5,B-T6BT,B-T6BT I,Suspended Plasma,Rich,133.32
+Cache,5HN-S5,B-T6BT,B-T6BT I,Ionic Solutions,Rich,14.92
+Cache,5HN-S5,B-T6BT,B-T6BT I,Plasmoids,Perfect,3.05
+Cache,5HN-S5,B-T6BT,B-T6BT II,Glossy Compound,Rich,39.64
+Cache,5HN-S5,B-T6BT,B-T6BT II,Heavy Metals,Rich,40.34
+Cache,5HN-S5,B-T6BT,B-T6BT II,Construction Blocks,Medium,29.00
+Cache,5HN-S5,B-T6BT,B-T6BT II,Smartfab Units,Medium,19.68
+Cache,5HN-S5,B-T6BT,B-T6BT III,Lustering Alloy,Medium,29.46
+Cache,5HN-S5,B-T6BT,B-T6BT III,Dark Compound,Poor,22.71
+Cache,5HN-S5,B-T6BT,B-T6BT III,Base Metals,Medium,9.39
+Cache,5HN-S5,B-T6BT,B-T6BT III,Toxic Metals,Poor,5.66
+Cache,5HN-S5,B-T6BT,B-T6BT III,Industrial Fibers,Poor,6.09
+Cache,5HN-S5,B-T6BT,B-T6BT IV,Dark Compound,Medium,28.33
+Cache,5HN-S5,B-T6BT,B-T6BT IV,Heavy Metals,Rich,40.45
+Cache,5HN-S5,B-T6BT,B-T6BT IV,Reactive Metals,Medium,8.48
+Cache,5HN-S5,B-T6BT,B-T6BT IV,Nanites,Medium,7.62
+Cache,5HN-S5,B-T6BT,B-T6BT IV,Suspended Plasma,Rich,137.39
+Cache,5HN-S5,B-T6BT,B-T6BT IV,Ionic Solutions,Medium,12.61
+Cache,5HN-S5,B-T6BT,B-T6BT V,Dark Compound,Poor,25.46
+Cache,5HN-S5,B-T6BT,B-T6BT V,Supertensile Plastics,Medium,23.24
+Cache,5HN-S5,B-T6BT,B-T6BT V,Construction Blocks,Medium,34.48
+Cache,5HN-S5,B-T6BT,B-T6BT V,Oxygen Isotopes,Medium,4.12
+Cache,5HN-S5,B-T6BT,B-T6BT V,Plasmoids,Poor,1.15
+Cache,5HN-S5,B-T6BT,B-T6BT VI,Lucent Compound,Perfect,46.46
+Cache,5HN-S5,B-T6BT,B-T6BT VI,Crystal Compound,Poor,24.36
+Cache,5HN-S5,B-T6BT,B-T6BT VI,Reactive Metals,Medium,7.68
+Cache,5HN-S5,B-T6BT,B-T6BT VI,Supertensile Plastics,Medium,23.86
+Cache,5HN-S5,B-T6BT,B-T6BT VI,Construction Blocks,Medium,29.00
+Cache,5HN-S5,B-T6BT,B-T6BT VII,Precious Alloy,Medium,35.18
+Cache,5HN-S5,B-T6BT,B-T6BT VII,Dark Compound,Medium,35.03
+Cache,5HN-S5,B-T6BT,B-T6BT VII,Base Metals,Medium,7.85
+Cache,5HN-S5,B-T6BT,B-T6BT VII,Toxic Metals,Medium,8.04
+Cache,5HN-S5,B-T6BT,B-T6BT VII,Supertensile Plastics,Poor,14.36
+Cache,5HN-S5,B-T6BT,B-T6BT VIII,Condensed Alloy,Perfect,52.03
+Cache,5HN-S5,B-T6BT,B-T6BT VIII,Fiber Composite,Medium,28.54
+Cache,5HN-S5,B-T6BT,B-T6BT VIII,Reactive Gas,Poor,27.20
+Cache,5HN-S5,B-T6BT,B-T6BT VIII,Noble Metals,Rich,40.08
+Cache,5HN-S5,B-T6BT,B-T6BT VIII,Smartfab Units,Medium,24.15
+Cache,5HN-S5,B-T6BT,B-T6BT VIII,Heavy Water,Poor,272.60
+Cache,5HN-S5,B-T6BT,B-T6BT IX,Precious Alloy,Medium,30.45
+Cache,5HN-S5,B-T6BT,B-T6BT IX,Dark Compound,Poor,23.40
+Cache,5HN-S5,B-T6BT,B-T6BT IX,Base Metals,Medium,8.99
+Cache,5HN-S5,B-T6BT,B-T6BT IX,Construction Blocks,Medium,29.52
+Cache,5HN-S5,B-T6BT,B-T6BT IX,Silicate Glass,Poor,9.98
+Cache,5HN-S5,VK-A5G,VK-A5G I,Motley Compound,Medium,26.30
+Cache,5HN-S5,VK-A5G,VK-A5G I,Glossy Compound,Poor,22.18
+Cache,5HN-S5,VK-A5G,VK-A5G I,Noble Gas,Rich,36.73
+Cache,5HN-S5,VK-A5G,VK-A5G I,Polyaramids,Rich,22.92
+Cache,5HN-S5,VK-A5G,VK-A5G II,Precious Alloy,Poor,17.15
+Cache,5HN-S5,VK-A5G,VK-A5G II,Dark Compound,Medium,25.38
+Cache,5HN-S5,VK-A5G,VK-A5G II,Toxic Metals,Poor,5.86
+Cache,5HN-S5,VK-A5G,VK-A5G II,Construction Blocks,Poor,22.68
+Cache,5HN-S5,VK-A5G,VK-A5G II,Silicate Glass,Medium,14.15
+Cache,5HN-S5,VK-A5G,VK-A5G III,Crystal Compound,Poor,20.20
+Cache,5HN-S5,VK-A5G,VK-A5G III,Reactive Gas,Medium,28.90
+Cache,5HN-S5,VK-A5G,VK-A5G III,Reactive Metals,Medium,8.08
+Cache,5HN-S5,VK-A5G,VK-A5G III,Toxic Metals,Rich,9.41
+Cache,5HN-S5,VK-A5G,VK-A5G III,Supertensile Plastics,Medium,15.98
+Cache,5HN-S5,VK-A5G,VK-A5G IV,Sheen Compound,Perfect,40.85
+Cache,5HN-S5,VK-A5G,VK-A5G IV,Reactive Gas,Medium,26.77
+Cache,5HN-S5,VK-A5G,VK-A5G IV,Base Metals,Medium,7.82
+Cache,5HN-S5,VK-A5G,VK-A5G IV,Reactive Metals,Rich,8.53
+Cache,5HN-S5,VK-A5G,VK-A5G IV,Coolant,Medium,19.62
+Cache,5HN-S5,VK-A5G,VK-A5G IV,Ionic Solutions,Poor,8.35
+Cache,5HN-S5,VK-A5G,VK-A5G V,Lustering Alloy,Rich,36.10
+Cache,5HN-S5,VK-A5G,VK-A5G V,Sheen Compound,Medium,27.43
+Cache,5HN-S5,VK-A5G,VK-A5G V,Fiber Composite,Medium,31.52
+Cache,5HN-S5,VK-A5G,VK-A5G V,Reactive Gas,Medium,31.40
+Cache,5HN-S5,VK-A5G,VK-A5G V,Noble Gas,Medium,25.18
+Cache,5HN-S5,VK-A5G,VK-A5G V,Reactive Metals,Rich,10.41
+Cache,5HN-S5,VK-A5G,VK-A5G VI,Lustering Alloy,Rich,32.27
+Cache,5HN-S5,VK-A5G,VK-A5G VI,Sheen Compound,Poor,20.85
+Cache,5HN-S5,VK-A5G,VK-A5G VI,Glossy Compound,Medium,24.38
+Cache,5HN-S5,VK-A5G,VK-A5G VI,Noble Gas,Rich,34.33
+Cache,5HN-S5,VK-A5G,VK-A5G VI,Polyaramids,Rich,26.13
+Cache,5HN-S5,VK-A5G,VK-A5G VI,Ionic Solutions,Rich,14.56
+Cache,5HN-S5,VK-A5G,VK-A5G VII,Lustering Alloy,Medium,26.05
+Cache,5HN-S5,VK-A5G,VK-A5G VII,Precious Alloy,Rich,32.27
+Cache,5HN-S5,VK-A5G,VK-A5G VII,Supertensile Plastics,Rich,24.80
+Cache,5HN-S5,VK-A5G,VK-A5G VII,Coolant,Poor,15.67
+Cache,5HN-S5,VK-A5G,VK-A5G VII,Liquid Ozone,Medium,38.84
+Cache,5HN-S5,VK-A5G,VK-A5G VIII,Condensed Alloy,Perfect,40.15
+Cache,5HN-S5,VK-A5G,VK-A5G VIII,Opulent Compound,Rich,38.88
+Cache,5HN-S5,VK-A5G,VK-A5G VIII,Crystal Compound,Medium,26.10
+Cache,5HN-S5,VK-A5G,VK-A5G VIII,Polyaramids,Medium,18.48
+Cache,5HN-S5,VK-A5G,VK-A5G VIII,Heavy Water,Perfect,439.75
+Cache,5HN-S5,VK-A5G,VK-A5G VIII,Liquid Ozone,Rich,40.13
+Cache,5HN-S5,I6-SYN,I6-SYN I,Base Metals,Medium,5.73
+Cache,5HN-S5,I6-SYN,I6-SYN I,Toxic Metals,Poor,4.93
+Cache,5HN-S5,I6-SYN,I6-SYN I,Industrial Fibers,Poor,4.51
+Cache,5HN-S5,I6-SYN,I6-SYN I,Supertensile Plastics,Poor,14.03
+Cache,5HN-S5,I6-SYN,I6-SYN II,Dark Compound,Medium,27.60
+Cache,5HN-S5,I6-SYN,I6-SYN II,Base Metals,Medium,7.34
+Cache,5HN-S5,I6-SYN,I6-SYN II,Supertensile Plastics,Medium,18.66
+Cache,5HN-S5,I6-SYN,I6-SYN II,Oxygen Isotopes,Medium,3.88
+Cache,5HN-S5,I6-SYN,I6-SYN III,Toxic Metals,Poor,4.13
+Cache,5HN-S5,I6-SYN,I6-SYN III,Supertensile Plastics,Poor,11.44
+Cache,5HN-S5,I6-SYN,I6-SYN III,Construction Blocks,Poor,16.65
+Cache,5HN-S5,I6-SYN,I6-SYN III,Silicate Glass,Medium,11.96
+Cache,5HN-S5,I6-SYN,I6-SYN IV,Lustering Alloy,Rich,35.88
+Cache,5HN-S5,I6-SYN,I6-SYN IV,Reactive Gas,Poor,18.91
+Cache,5HN-S5,I6-SYN,I6-SYN IV,Base Metals,Medium,6.39
+Cache,5HN-S5,I6-SYN,I6-SYN IV,Polyaramids,Rich,20.26
+Cache,5HN-S5,I6-SYN,I6-SYN IV,Ionic Solutions,Poor,8.29
+Cache,5HN-S5,I6-SYN,I6-SYN V,Lustering Alloy,Rich,32.43
+Cache,5HN-S5,I6-SYN,I6-SYN V,Reactive Gas,Poor,19.43
+Cache,5HN-S5,I6-SYN,I6-SYN V,Polyaramids,Rich,19.73
+Cache,5HN-S5,I6-SYN,I6-SYN V,Coolant,Medium,15.36
+Cache,5HN-S5,I6-SYN,I6-SYN V,Ionic Solutions,Rich,14.36
+Cache,5HN-S5,I6-SYN,I6-SYN VI,Gleaming Alloy,Rich,30.54
+Cache,5HN-S5,I6-SYN,I6-SYN VI,Smartfab Units,Perfect,25.82
+Cache,5HN-S5,I6-SYN,I6-SYN VI,Plasmoids,Medium,1.42
+Cache,5HN-S5,I6-SYN,I6-SYN VII,Lustering Alloy,Perfect,37.90
+Cache,5HN-S5,I6-SYN,I6-SYN VII,Sheen Compound,Rich,31.81
+Cache,5HN-S5,I6-SYN,I6-SYN VII,Reactive Gas,Rich,33.99
+Cache,5HN-S5,I6-SYN,I6-SYN VII,Coolant,Poor,13.83
+Cache,5HN-S5,I6-SYN,I6-SYN VII,Ionic Solutions,Poor,8.50
+Cache,5HN-S5,O-5TN1,O-5TN1 I,Precious Alloy,Poor,15.53
+Cache,5HN-S5,O-5TN1,O-5TN1 I,Dark Compound,Poor,17.52
+Cache,5HN-S5,O-5TN1,O-5TN1 I,Supertensile Plastics,Medium,18.19
+Cache,5HN-S5,O-5TN1,O-5TN1 I,Plasmoids,Poor,1.20
+Cache,5HN-S5,O-5TN1,O-5TN1 II,Gleaming Alloy,Rich,33.46
+Cache,5HN-S5,O-5TN1,O-5TN1 II,Motley Compound,Poor,20.50
+Cache,5HN-S5,O-5TN1,O-5TN1 II,Smartfab Units,Rich,21.47
+Cache,5HN-S5,O-5TN1,O-5TN1 III,Precious Alloy,Poor,15.17
+Cache,5HN-S5,O-5TN1,O-5TN1 III,Base Metals,Poor,4.76
+Cache,5HN-S5,O-5TN1,O-5TN1 III,Supertensile Plastics,Poor,12.24
+Cache,5HN-S5,O-5TN1,O-5TN1 III,Oxygen Isotopes,Poor,2.76
+Cache,5HN-S5,O-5TN1,O-5TN1 IV,Industrial Fibers,Poor,4.98
+Cache,5HN-S5,O-5TN1,O-5TN1 IV,Supertensile Plastics,Poor,13.14
+Cache,5HN-S5,O-5TN1,O-5TN1 IV,Silicate Glass,Poor,10.03
+Cache,5HN-S5,O-5TN1,O-5TN1 IV,Plasmoids,Poor,1.14
+Cache,5HN-S5,O-5TN1,O-5TN1 V,Reactive Gas,Perfect,41.57
+Cache,5HN-S5,O-5TN1,O-5TN1 V,Industrial Fibers,Rich,8.37
+Cache,5HN-S5,O-5TN1,O-5TN1 V,Condensates,Perfect,27.23
+Cache,5HN-S5,O-5TN1,O-5TN1 V,Heavy Water,Medium,268.32
+Cache,5HN-S5,O-5TN1,O-5TN1 V,Liquid Ozone,Medium,34.59
+Cache,5HN-S5,O-5TN1,O-5TN1 VI,Condensed Alloy,Perfect,40.66
+Cache,5HN-S5,O-5TN1,O-5TN1 VI,Fiber Composite,Perfect,41.50
+Cache,5HN-S5,O-5TN1,O-5TN1 VI,Reactive Gas,Perfect,40.39
+Cache,5HN-S5,O-5TN1,O-5TN1 VI,Base Metals,Medium,7.91
+Cache,5HN-S5,O-5TN1,O-5TN1 VI,Liquid Ozone,Medium,32.52
+Cache,5HN-S5,O-5TN1,O-5TN1 VII,Sheen Compound,Poor,19.94
+Cache,5HN-S5,O-5TN1,O-5TN1 VII,Fiber Composite,Perfect,39.84
+Cache,5HN-S5,O-5TN1,O-5TN1 VII,Reactive Gas,Rich,37.49
+Cache,5HN-S5,O-5TN1,O-5TN1 VII,Noble Gas,Poor,21.17
+Cache,5HN-S5,O-5TN1,O-5TN1 VII,Reactive Metals,Medium,6.15
+Cache,5HN-S5,O-5TN1,O-5TN1 VIII,Gleaming Alloy,Medium,27.24
+Cache,5HN-S5,O-5TN1,O-5TN1 VIII,Noble Gas,Rich,31.20
+Cache,5HN-S5,O-5TN1,O-5TN1 VIII,Heavy Metals,Poor,21.96
+Cache,5HN-S5,O-5TN1,O-5TN1 IX,Base Metals,Poor,4.53
+Cache,5HN-S5,O-5TN1,O-5TN1 IX,Supertensile Plastics,Poor,13.55
+Cache,5HN-S5,O-5TN1,O-5TN1 IX,Construction Blocks,Poor,21.24
+Cache,5HN-S5,O-5TN1,O-5TN1 IX,Plasmoids,Poor,1.30
+Cache,5HN-S5,O-5TN1,O-5TN1 X,Toxic Metals,Medium,6.15
+Cache,5HN-S5,O-5TN1,O-5TN1 X,Supertensile Plastics,Medium,16.64
+Cache,5HN-S5,O-5TN1,O-5TN1 X,Silicate Glass,Poor,9.98
+Cache,5HN-S5,O-5TN1,O-5TN1 X,Plasmoids,Medium,1.41
+Cache,5HN-S5,O-5TN1,O-5TN1 XI,Fiber Composite,Poor,21.19
+Cache,5HN-S5,O-5TN1,O-5TN1 XI,Reactive Gas,Rich,37.22
+Cache,5HN-S5,O-5TN1,O-5TN1 XI,Base Metals,Perfect,10.29
+Cache,5HN-S5,O-5TN1,O-5TN1 XI,Polyaramids,Rich,23.86
+Cache,5HN-S5,O-5TN1,O-5TN1 XI,Coolant,Rich,22.14
+Cache,5HN-S5,O-5TN1,O-5TN1 XII,Sheen Compound,Medium,23.83
+Cache,5HN-S5,O-5TN1,O-5TN1 XII,Fiber Composite,Rich,32.40
+Cache,5HN-S5,O-5TN1,O-5TN1 XII,Reactive Gas,Medium,26.38
+Cache,5HN-S5,O-5TN1,O-5TN1 XII,Polyaramids,Medium,15.52
+Cache,5HN-S5,O-5TN1,O-5TN1 XII,Coolant,Medium,16.38
+Cache,5HN-S5,8-SPNN,8-SPNN I,Gleaming Alloy,Poor,26.59
+Cache,5HN-S5,8-SPNN,8-SPNN I,Glossy Compound,Medium,34.80
+Cache,5HN-S5,8-SPNN,8-SPNN I,Heavy Metals,Perfect,47.79
+Cache,5HN-S5,8-SPNN,8-SPNN I,Polyaramids,Medium,20.92
+Cache,5HN-S5,8-SPNN,8-SPNN II,Gleaming Alloy,Medium,33.81
+Cache,5HN-S5,8-SPNN,8-SPNN II,Motley Compound,Poor,26.10
+Cache,5HN-S5,8-SPNN,8-SPNN II,Glossy Compound,Rich,42.80
+Cache,5HN-S5,8-SPNN,8-SPNN II,Polyaramids,Medium,20.94
+Cache,5HN-S5,8-SPNN,8-SPNN III,Crystal Compound,Medium,31.67
+Cache,5HN-S5,8-SPNN,8-SPNN III,Reactive Gas,Medium,30.30
+Cache,5HN-S5,8-SPNN,8-SPNN III,Reactive Metals,Medium,8.52
+Cache,5HN-S5,8-SPNN,8-SPNN III,Toxic Metals,Poor,6.33
+Cache,5HN-S5,8-SPNN,8-SPNN III,Supertensile Plastics,Perfect,31.49
+Cache,5HN-S5,8-SPNN,8-SPNN IV,Precious Alloy,Medium,35.47
+Cache,5HN-S5,8-SPNN,8-SPNN IV,Dark Compound,Poor,26.51
+Cache,5HN-S5,8-SPNN,8-SPNN IV,Base Metals,Medium,7.42
+Cache,5HN-S5,8-SPNN,8-SPNN IV,Supertensile Plastics,Medium,18.25
+Cache,5HN-S5,8-SPNN,8-SPNN IV,Oxygen Isotopes,Poor,3.57
+Cache,5HN-S5,8-SPNN,8-SPNN V,Reactive Gas,Medium,32.60
+Cache,5HN-S5,8-SPNN,8-SPNN V,Noble Gas,Rich,43.41
+Cache,5HN-S5,8-SPNN,8-SPNN V,Base Metals,Medium,8.59
+Cache,5HN-S5,8-SPNN,8-SPNN V,Reactive Metals,Poor,7.03
+Cache,5HN-S5,8-SPNN,8-SPNN V,Polyaramids,Poor,17.90
+Cache,5HN-S5,8-SPNN,8-SPNN V,Ionic Solutions,Rich,16.46
+Cache,5HN-S5,8-SPNN,8-SPNN VI,Condensed Alloy,Medium,34.60
+Cache,5HN-S5,8-SPNN,8-SPNN VI,Industrial Fibers,Perfect,14.05
+Cache,5HN-S5,8-SPNN,8-SPNN VI,Condensates,Perfect,31.88
+Cache,5HN-S5,8-SPNN,8-SPNN VI,Smartfab Units,Rich,25.44
+Cache,5HN-S5,8-SPNN,8-SPNN VI,Heavy Water,Medium,294.06
+Cache,5HN-S5,8-SPNN,8-SPNN VI,Liquid Ozone,Perfect,66.41
+Cache,5HN-S5,8-SPNN,8-SPNN VII,Sheen Compound,Rich,38.42
+Cache,5HN-S5,8-SPNN,8-SPNN VII,Glossy Compound,Rich,45.82
+Cache,5HN-S5,8-SPNN,8-SPNN VII,Reactive Gas,Rich,38.98
+Cache,5HN-S5,8-SPNN,8-SPNN VII,Noble Gas,Medium,34.60
+Cache,5HN-S5,8-SPNN,8-SPNN VII,Reactive Metals,Medium,7.86
+Cache,5HN-S5,8-SPNN,8-SPNN VII,Polyaramids,Medium,22.04
+Cache,5HN-S5,8-SPNN,8-SPNN VIII,Lustering Alloy,Rich,45.56
+Cache,5HN-S5,8-SPNN,8-SPNN VIII,Reactive Gas,Poor,26.30
+Cache,5HN-S5,8-SPNN,8-SPNN VIII,Reactive Metals,Poor,6.78
+Cache,5HN-S5,8-SPNN,8-SPNN VIII,Polyaramids,Poor,16.05
+Cache,5HN-S5,8-SPNN,8-SPNN VIII,Coolant,Medium,23.41
+Cache,5HN-S5,8-SPNN,8-SPNN VIII,Ionic Solutions,Poor,10.82
+Cache,5HN-S5,8-SPNN,8-SPNN IX,Sheen Compound,Medium,33.99
+Cache,5HN-S5,8-SPNN,8-SPNN IX,Fiber Composite,Perfect,47.70
+Cache,5HN-S5,8-SPNN,8-SPNN IX,Glossy Compound,Perfect,46.52
+Cache,5HN-S5,8-SPNN,8-SPNN IX,Noble Gas,Poor,24.04
+Cache,5HN-S5,8-SPNN,8-SPNN IX,Polyaramids,Medium,20.86
+Cache,5HN-S5,8-SPNN,8-SPNN IX,Coolant,Medium,20.49
+Cache,5HN-S5,8-SPNN,8-SPNN X,Precious Alloy,Medium,31.38
+Cache,5HN-S5,8-SPNN,8-SPNN X,Base Metals,Rich,10.45
+Cache,5HN-S5,8-SPNN,8-SPNN X,Heavy Metals,Medium,34.39
+Cache,5HN-S5,8-SPNN,8-SPNN X,Supertensile Plastics,Rich,25.29
+Cache,5HN-S5,8-SPNN,8-SPNN X,Liquid Ozone,Medium,44.70
+Cache,5HN-S5,U-QMOA,U-QMOA I,Supertensile Plastics,Poor,11.71
+Cache,5HN-S5,U-QMOA,U-QMOA I,Construction Blocks,Poor,18.28
+Cache,5HN-S5,U-QMOA,U-QMOA I,Silicate Glass,Poor,10.53
+Cache,5HN-S5,U-QMOA,U-QMOA I,Plasmoids,Medium,1.45
+Cache,5HN-S5,U-QMOA,U-QMOA II,Reactive Metals,Rich,9.47
+Cache,5HN-S5,U-QMOA,U-QMOA II,Supertensile Plastics,Rich,23.46
+Cache,5HN-S5,U-QMOA,U-QMOA II,Construction Blocks,Medium,23.97
+Cache,5HN-S5,U-QMOA,U-QMOA II,Oxygen Isotopes,Rich,5.14
+Cache,5HN-S5,U-QMOA,U-QMOA III,Dark Compound,Poor,19.14
+Cache,5HN-S5,U-QMOA,U-QMOA III,Supertensile Plastics,Poor,13.02
+Cache,5HN-S5,U-QMOA,U-QMOA III,Construction Blocks,Poor,14.56
+Cache,5HN-S5,U-QMOA,U-QMOA III,Silicate Glass,Medium,13.24
+Cache,5HN-S5,U-QMOA,U-QMOA IV,Gleaming Alloy,Medium,22.33
+Cache,5HN-S5,U-QMOA,U-QMOA IV,Crystal Compound,Poor,21.55
+Cache,5HN-S5,U-QMOA,U-QMOA IV,Reactive Metals,Rich,7.82
+Cache,5HN-S5,U-QMOA,U-QMOA IV,Oxygen Isotopes,Medium,3.73
+Cache,5HN-S5,U-QMOA,U-QMOA V,Base Metals,Poor,4.64
+Cache,5HN-S5,U-QMOA,U-QMOA V,Toxic Metals,Poor,4.44
+Cache,5HN-S5,U-QMOA,U-QMOA V,Supertensile Plastics,Medium,15.03
+Cache,5HN-S5,U-QMOA,U-QMOA V,Oxygen Isotopes,Poor,3.16
+Cache,5HN-S5,U-QMOA,U-QMOA VI,Lustering Alloy,Rich,29.12
+Cache,5HN-S5,U-QMOA,U-QMOA VI,Glossy Compound,Rich,34.11
+Cache,5HN-S5,U-QMOA,U-QMOA VI,Reactive Gas,Medium,27.55
+Cache,5HN-S5,U-QMOA,U-QMOA VI,Base Metals,Medium,7.48
+Cache,5HN-S5,U-QMOA,U-QMOA VI,Ionic Solutions,Perfect,14.66
+Cache,5HN-S5,U-QMOA,U-QMOA VII,Condensed Alloy,Perfect,43.52
+Cache,5HN-S5,U-QMOA,U-QMOA VII,Fiber Composite,Perfect,37.42
+Cache,5HN-S5,U-QMOA,U-QMOA VII,Noble Metals,Medium,22.70
+Cache,5HN-S5,U-QMOA,U-QMOA VII,Heavy Water,Medium,290.49
+Cache,5HN-S5,U-QMOA,U-QMOA VII,Liquid Ozone,Perfect,51.87
+Cache,5HN-S5,U-QMOA,U-QMOA VIII,Lustering Alloy,Rich,36.36
+Cache,5HN-S5,U-QMOA,U-QMOA VIII,Sheen Compound,Medium,24.70
+Cache,5HN-S5,U-QMOA,U-QMOA VIII,Reactive Gas,Medium,26.38
+Cache,5HN-S5,U-QMOA,U-QMOA VIII,Polyaramids,Poor,13.80
+Cache,5HN-S5,U-QMOA,U-QMOA VIII,Coolant,Medium,17.77
+Cache,5HN-S5,U-QMOA,U-QMOA IX,Precious Alloy,Medium,24.95
+Cache,5HN-S5,U-QMOA,U-QMOA IX,Industrial Fibers,Poor,4.36
+Cache,5HN-S5,U-QMOA,U-QMOA IX,Supertensile Plastics,Medium,14.78
+Cache,5HN-S5,U-QMOA,U-QMOA IX,Construction Blocks,Poor,14.42
+Cache,Y-JSM8,4S0-NP,4S0-NP I,Lustering Alloy,Poor,17.44
+Cache,Y-JSM8,4S0-NP,4S0-NP I,Supertensile Plastics,Medium,13.00
+Cache,Y-JSM8,4S0-NP,4S0-NP I,Silicate Glass,Poor,7.93
+Cache,Y-JSM8,4S0-NP,4S0-NP I,Oxygen Isotopes,Poor,2.73
+Cache,Y-JSM8,4S0-NP,4S0-NP II,Lustering Alloy,Medium,19.42
+Cache,Y-JSM8,4S0-NP,4S0-NP II,Precious Alloy,Medium,23.76
+Cache,Y-JSM8,4S0-NP,4S0-NP II,Dark Compound,Poor,15.58
+Cache,Y-JSM8,4S0-NP,4S0-NP II,Supertensile Plastics,Poor,8.52
+Cache,Y-JSM8,4S0-NP,4S0-NP III,Toxic Metals,Poor,3.89
+Cache,Y-JSM8,4S0-NP,4S0-NP III,Industrial Fibers,Poor,3.76
+Cache,Y-JSM8,4S0-NP,4S0-NP III,Supertensile Plastics,Poor,10.09
+Cache,Y-JSM8,4S0-NP,4S0-NP III,Oxygen Isotopes,Medium,3.11
+Cache,Y-JSM8,4S0-NP,4S0-NP IV,Lustering Alloy,Poor,14.60
+Cache,Y-JSM8,4S0-NP,4S0-NP IV,Dark Compound,Medium,23.46
+Cache,Y-JSM8,4S0-NP,4S0-NP IV,Toxic Metals,Poor,3.54
+Cache,Y-JSM8,4S0-NP,4S0-NP IV,Supertensile Plastics,Poor,9.85
+Cache,Y-JSM8,4S0-NP,4S0-NP V,Sheen Compound,Poor,18.30
+Cache,Y-JSM8,4S0-NP,4S0-NP V,Heavy Metals,Perfect,32.94
+Cache,Y-JSM8,4S0-NP,4S0-NP V,Condensates,Perfect,22.03
+Cache,Y-JSM8,4S0-NP,4S0-NP V,Suspended Plasma,Medium,79.20
+Cache,Y-JSM8,4S0-NP,4S0-NP V,Ionic Solutions,Medium,9.54
+Cache,Y-JSM8,4S0-NP,4S0-NP VI,Lustering Alloy,Rich,27.10
+Cache,Y-JSM8,4S0-NP,4S0-NP VI,Fiber Composite,Medium,21.18
+Cache,Y-JSM8,4S0-NP,4S0-NP VI,Glossy Compound,Medium,20.28
+Cache,Y-JSM8,4S0-NP,4S0-NP VI,Reactive Gas,Rich,30.32
+Cache,Y-JSM8,4S0-NP,4S0-NP VI,Polyaramids,Rich,16.95
+Cache,Y-JSM8,4S0-NP,4S0-NP VII,Lustering Alloy,Rich,27.90
+Cache,Y-JSM8,4S0-NP,4S0-NP VII,Fiber Composite,Medium,23.68
+Cache,Y-JSM8,4S0-NP,4S0-NP VII,Reactive Gas,Perfect,33.04
+Cache,Y-JSM8,4S0-NP,4S0-NP VII,Polyaramids,Rich,17.04
+Cache,Y-JSM8,4S0-NP,4S0-NP VII,Ionic Solutions,Poor,6.89
+Cache,Y-JSM8,4S0-NP,4S0-NP VIII,Sheen Compound,Medium,23.92
+Cache,Y-JSM8,4S0-NP,4S0-NP VIII,Glossy Compound,Rich,27.34
+Cache,Y-JSM8,4S0-NP,4S0-NP VIII,Reactive Gas,Medium,22.14
+Cache,Y-JSM8,4S0-NP,4S0-NP VIII,Base Metals,Rich,7.57
+Cache,Y-JSM8,4S0-NP,4S0-NP VIII,Ionic Solutions,Medium,9.30
+Cache,Y-JSM8,4S0-NP,4S0-NP IX,Sheen Compound,Rich,26.12
+Cache,Y-JSM8,4S0-NP,4S0-NP IX,Reactive Gas,Medium,21.24
+Cache,Y-JSM8,4S0-NP,4S0-NP IX,Base Metals,Medium,6.47
+Cache,Y-JSM8,4S0-NP,4S0-NP IX,Reactive Metals,Rich,8.18
+Cache,Y-JSM8,4S0-NP,4S0-NP IX,Polyaramids,Rich,20.67
+Cache,Y-JSM8,4S0-NP,4S0-NP X,Reactive Gas,Poor,18.10
+Cache,Y-JSM8,4S0-NP,4S0-NP X,Noble Gas,Medium,19.34
+Cache,Y-JSM8,4S0-NP,4S0-NP X,Reactive Metals,Poor,4.93
+Cache,Y-JSM8,4S0-NP,4S0-NP X,Coolant,Medium,15.52
+Cache,Y-JSM8,4S0-NP,4S0-NP X,Ionic Solutions,Medium,9.84
+Cache,Y-JSM8,4S0-NP,4S0-NP XI,Crystal Compound,Rich,25.60
+Cache,Y-JSM8,4S0-NP,4S0-NP XI,Polyaramids,Perfect,23.07
+Cache,Y-JSM8,4S0-NP,4S0-NP XI,Silicate Glass,Perfect,17.39
+Cache,Y-JSM8,4S0-NP,4S0-NP XI,Heavy Water,Poor,182.20
+Cache,Y-JSM8,4S0-NP,4S0-NP XI,Liquid Ozone,Rich,33.75
+Cache,Y-JSM8,K-RMI5,K-RMI5 I,Precious Alloy,Poor,18.52
+Cache,Y-JSM8,K-RMI5,K-RMI5 I,Toxic Metals,Poor,3.87
+Cache,Y-JSM8,K-RMI5,K-RMI5 I,Supertensile Plastics,Poor,9.95
+Cache,Y-JSM8,K-RMI5,K-RMI5 I,Construction Blocks,Medium,22.85
+Cache,Y-JSM8,K-RMI5,K-RMI5 II,Precious Alloy,Medium,25.58
+Cache,Y-JSM8,K-RMI5,K-RMI5 II,Base Metals,Poor,5.05
+Cache,Y-JSM8,K-RMI5,K-RMI5 II,Industrial Fibers,Poor,5.07
+Cache,Y-JSM8,K-RMI5,K-RMI5 II,Supertensile Plastics,Medium,14.46
+Cache,Y-JSM8,K-RMI5,K-RMI5 III,Dark Compound,Poor,14.72
+Cache,Y-JSM8,K-RMI5,K-RMI5 III,Industrial Fibers,Medium,5.58
+Cache,Y-JSM8,K-RMI5,K-RMI5 III,Supertensile Plastics,Poor,11.09
+Cache,Y-JSM8,K-RMI5,K-RMI5 III,Plasmoids,Medium,1.45
+Cache,Y-JSM8,K-RMI5,K-RMI5 IV,Condensed Alloy,Perfect,37.34
+Cache,Y-JSM8,K-RMI5,K-RMI5 IV,Reactive Gas,Rich,30.39
+Cache,Y-JSM8,K-RMI5,K-RMI5 IV,Smartfab Units,Perfect,25.42
+Cache,Y-JSM8,K-RMI5,K-RMI5 IV,Heavy Water,Medium,265.02
+Cache,Y-JSM8,K-RMI5,K-RMI5 IV,Liquid Ozone,Rich,34.13
+Cache,Y-JSM8,K-RMI5,K-RMI5 V,Crystal Compound,Rich,26.86
+Cache,Y-JSM8,K-RMI5,K-RMI5 V,Reactive Metals,Medium,6.25
+Cache,Y-JSM8,K-RMI5,K-RMI5 V,Construction Blocks,Perfect,33.70
+Cache,Y-JSM8,K-RMI5,K-RMI5 V,Oxygen Isotopes,Medium,3.49
+Cache,Y-JSM8,K-RMI5,K-RMI5 VI,Lustering Alloy,Rich,30.79
+Cache,Y-JSM8,K-RMI5,K-RMI5 VI,Fiber Composite,Medium,24.55
+Cache,Y-JSM8,K-RMI5,K-RMI5 VI,Reactive Gas,Poor,17.62
+Cache,Y-JSM8,K-RMI5,K-RMI5 VI,Base Metals,Rich,7.09
+Cache,Y-JSM8,K-RMI5,K-RMI5 VI,Coolant,Medium,13.76
+Cache,Y-JSM8,K-RMI5,K-RMI5 VII,Condensed Alloy,Perfect,36.75
+Cache,Y-JSM8,K-RMI5,K-RMI5 VII,Crystal Compound,Rich,31.92
+Cache,Y-JSM8,K-RMI5,K-RMI5 VII,Toxic Metals,Perfect,9.42
+Cache,Y-JSM8,K-RMI5,K-RMI5 VII,Coolant,Medium,16.13
+Cache,Y-JSM8,K-RMI5,K-RMI5 VII,Liquid Ozone,Rich,35.38
+Cache,Y-JSM8,K-RMI5,K-RMI5 VIII,Fiber Composite,Medium,24.97
+Cache,Y-JSM8,K-RMI5,K-RMI5 VIII,Glossy Compound,Perfect,34.13
+Cache,Y-JSM8,K-RMI5,K-RMI5 VIII,Reactive Gas,Rich,29.48
+Cache,Y-JSM8,K-RMI5,K-RMI5 VIII,Noble Gas,Rich,27.80
+Cache,Y-JSM8,K-RMI5,K-RMI5 VIII,Coolant,Poor,11.58
+Cache,Y-JSM8,K-RMI5,K-RMI5 IX,Reactive Gas,Medium,23.75
+Cache,Y-JSM8,K-RMI5,K-RMI5 IX,Base Metals,Poor,4.66
+Cache,Y-JSM8,K-RMI5,K-RMI5 IX,Polyaramids,Medium,13.87
+Cache,Y-JSM8,K-RMI5,K-RMI5 IX,Coolant,Rich,18.70
+Cache,Y-JSM8,K-RMI5,K-RMI5 IX,Ionic Solutions,Medium,8.22
+Cache,Y-JSM8,K-RMI5,K-RMI5 X,Opulent Compound,Medium,26.00
+Cache,Y-JSM8,K-RMI5,K-RMI5 X,Crystal Compound,Poor,18.75
+Cache,Y-JSM8,K-RMI5,K-RMI5 X,Toxic Metals,Perfect,9.73
+Cache,Y-JSM8,K-RMI5,K-RMI5 X,Polyaramids,Poor,12.52
+Cache,Y-JSM8,K-RMI5,K-RMI5 X,Liquid Ozone,Perfect,46.46
+Cache,Y-JSM8,C-6YHJ,C-6YHJ I,Toxic Metals,Medium,5.40
+Cache,Y-JSM8,C-6YHJ,C-6YHJ I,Supertensile Plastics,Poor,10.15
+Cache,Y-JSM8,C-6YHJ,C-6YHJ I,Construction Blocks,Poor,19.68
+Cache,Y-JSM8,C-6YHJ,C-6YHJ I,Oxygen Isotopes,Poor,2.39
+Cache,Y-JSM8,C-6YHJ,C-6YHJ II,Precious Alloy,Poor,19.38
+Cache,Y-JSM8,C-6YHJ,C-6YHJ II,Supertensile Plastics,Medium,16.90
+Cache,Y-JSM8,C-6YHJ,C-6YHJ II,Silicate Glass,Medium,11.32
+Cache,Y-JSM8,C-6YHJ,C-6YHJ II,Plasmoids,Medium,1.23
+Cache,Y-JSM8,C-6YHJ,C-6YHJ III,Lustering Alloy,Medium,21.42
+Cache,Y-JSM8,C-6YHJ,C-6YHJ III,Precious Alloy,Medium,22.76
+Cache,Y-JSM8,C-6YHJ,C-6YHJ III,Supertensile Plastics,Medium,14.66
+Cache,Y-JSM8,C-6YHJ,C-6YHJ III,Plasmoids,Poor,1.10
+Cache,Y-JSM8,C-6YHJ,C-6YHJ IV,Lustering Alloy,Medium,20.33
+Cache,Y-JSM8,C-6YHJ,C-6YHJ IV,Fiber Composite,Medium,24.19
+Cache,Y-JSM8,C-6YHJ,C-6YHJ IV,Reactive Gas,Rich,32.57
+Cache,Y-JSM8,C-6YHJ,C-6YHJ IV,Reactive Metals,Rich,8.09
+Cache,Y-JSM8,C-6YHJ,C-6YHJ IV,Coolant,Rich,18.52
+Cache,Y-JSM8,C-6YHJ,C-6YHJ V,Lustering Alloy,Medium,24.61
+Cache,Y-JSM8,C-6YHJ,C-6YHJ V,Sheen Compound,Rich,30.28
+Cache,Y-JSM8,C-6YHJ,C-6YHJ V,Fiber Composite,Poor,19.64
+Cache,Y-JSM8,C-6YHJ,C-6YHJ V,Reactive Gas,Medium,23.81
+Cache,Y-JSM8,C-6YHJ,C-6YHJ V,Noble Gas,Rich,26.63
+Cache,Y-JSM8,C-6YHJ,C-6YHJ VI,Sheen Compound,Medium,26.50
+Cache,Y-JSM8,C-6YHJ,C-6YHJ VI,Reactive Gas,Rich,33.01
+Cache,Y-JSM8,C-6YHJ,C-6YHJ VI,Noble Gas,Medium,24.55
+Cache,Y-JSM8,C-6YHJ,C-6YHJ VI,Polyaramids,Medium,16.02
+Cache,Y-JSM8,C-6YHJ,C-6YHJ VI,Coolant,Medium,13.27
+Cache,Y-JSM8,C-6YHJ,C-6YHJ VII,Precious Alloy,Rich,27.41
+Cache,Y-JSM8,C-6YHJ,C-6YHJ VII,Base Metals,Medium,6.88
+Cache,Y-JSM8,C-6YHJ,C-6YHJ VII,Condensates,Medium,13.44
+Cache,Y-JSM8,C-6YHJ,C-6YHJ VII,Suspended Plasma,Rich,112.57
+Cache,Y-JSM8,M53-1V,M53-1V I,Lustering Alloy,Poor,17.79
+Cache,Y-JSM8,M53-1V,M53-1V I,Supertensile Plastics,Poor,9.98
+Cache,Y-JSM8,M53-1V,M53-1V I,Construction Blocks,Poor,15.92
+Cache,Y-JSM8,M53-1V,M53-1V I,Oxygen Isotopes,Poor,2.76
+Cache,Y-JSM8,M53-1V,M53-1V II,Gleaming Alloy,Perfect,33.52
+Cache,Y-JSM8,M53-1V,M53-1V II,Reactive Gas,Rich,32.32
+Cache,Y-JSM8,M53-1V,M53-1V II,Reactive Metals,Rich,7.71
+Cache,Y-JSM8,M53-1V,M53-1V II,Toxic Metals,Rich,7.14
+Cache,Y-JSM8,M53-1V,M53-1V III,Reactive Gas,Rich,29.65
+Cache,Y-JSM8,M53-1V,M53-1V III,Base Metals,Medium,6.84
+Cache,Y-JSM8,M53-1V,M53-1V III,Noble Metals,Perfect,36.67
+Cache,Y-JSM8,M53-1V,M53-1V III,Smartfab Units,Perfect,22.60
+Cache,Y-JSM8,M53-1V,M53-1V III,Liquid Ozone,Rich,34.55
+Cache,Y-JSM8,M53-1V,M53-1V IV,Lustering Alloy,Medium,20.68
+Cache,Y-JSM8,M53-1V,M53-1V IV,Sheen Compound,Rich,32.32
+Cache,Y-JSM8,M53-1V,M53-1V IV,Fiber Composite,Medium,23.90
+Cache,Y-JSM8,M53-1V,M53-1V IV,Glossy Compound,Rich,33.10
+Cache,Y-JSM8,M53-1V,M53-1V IV,Reactive Gas,Rich,32.74
+Cache,Y-JSM8,M53-1V,M53-1V V,Lustering Alloy,Perfect,34.50
+Cache,Y-JSM8,M53-1V,M53-1V V,Sheen Compound,Poor,19.13
+Cache,Y-JSM8,M53-1V,M53-1V V,Reactive Gas,Medium,20.66
+Cache,Y-JSM8,M53-1V,M53-1V V,Noble Gas,Medium,23.41
+Cache,Y-JSM8,M53-1V,M53-1V V,Polyaramids,Rich,20.80
+Cache,Y-JSM8,M53-1V,M53-1V VI,Sheen Compound,Medium,19.97
+Cache,Y-JSM8,M53-1V,M53-1V VI,Fiber Composite,Medium,24.28
+Cache,Y-JSM8,M53-1V,M53-1V VI,Reactive Gas,Medium,24.55
+Cache,Y-JSM8,M53-1V,M53-1V VI,Noble Gas,Perfect,34.10
+Cache,Y-JSM8,M53-1V,M53-1V VI,Polyaramids,Rich,19.45
+Cache,Y-JSM8,M53-1V,M53-1V VII,Glossy Compound,Poor,17.83
+Cache,Y-JSM8,M53-1V,M53-1V VII,Reactive Gas,Rich,29.21
+Cache,Y-JSM8,M53-1V,M53-1V VII,Noble Gas,Poor,19.70
+Cache,Y-JSM8,M53-1V,M53-1V VII,Base Metals,Medium,5.47
+Cache,Y-JSM8,M53-1V,M53-1V VII,Reactive Metals,Medium,5.47
+Cache,Y-JSM8,E5T-CS,E5T-CS I,Precious Alloy,Poor,17.58
+Cache,Y-JSM8,E5T-CS,E5T-CS I,Dark Compound,Poor,16.91
+Cache,Y-JSM8,E5T-CS,E5T-CS I,Industrial Fibers,Poor,3.96
+Cache,Y-JSM8,E5T-CS,E5T-CS I,Supertensile Plastics,Medium,13.57
+Cache,Y-JSM8,E5T-CS,E5T-CS II,Reactive Gas,Perfect,38.60
+Cache,Y-JSM8,E5T-CS,E5T-CS II,Base Metals,Rich,7.06
+Cache,Y-JSM8,E5T-CS,E5T-CS II,Industrial Fibers,Medium,6.40
+Cache,Y-JSM8,E5T-CS,E5T-CS II,Heavy Water,Rich,297.15
+Cache,Y-JSM8,E5T-CS,E5T-CS II,Liquid Ozone,Perfect,49.82
+Cache,Y-JSM8,E5T-CS,E5T-CS III,Condensed Alloy,Perfect,39.98
+Cache,Y-JSM8,E5T-CS,E5T-CS III,Opulent Compound,Rich,27.38
+Cache,Y-JSM8,E5T-CS,E5T-CS III,Reactive Gas,Medium,20.39
+Cache,Y-JSM8,E5T-CS,E5T-CS III,Base Metals,Rich,8.16
+Cache,Y-JSM8,E5T-CS,E5T-CS III,Liquid Ozone,Poor,24.15
+Cache,Y-JSM8,E5T-CS,E5T-CS IV,Lustering Alloy,Rich,31.63
+Cache,Y-JSM8,E5T-CS,E5T-CS IV,Reactive Gas,Poor,17.45
+Cache,Y-JSM8,E5T-CS,E5T-CS IV,Base Metals,Medium,6.17
+Cache,Y-JSM8,E5T-CS,E5T-CS IV,Reactive Metals,Medium,6.65
+Cache,Y-JSM8,E5T-CS,E5T-CS IV,Coolant,Medium,13.80
+Cache,Y-JSM8,E5T-CS,E5T-CS V,Glossy Compound,Poor,18.94
+Cache,Y-JSM8,E5T-CS,E5T-CS V,Reactive Gas,Poor,18.25
+Cache,Y-JSM8,E5T-CS,E5T-CS V,Noble Gas,Medium,26.23
+Cache,Y-JSM8,E5T-CS,E5T-CS V,Polyaramids,Rich,21.41
+Cache,Y-JSM8,E5T-CS,E5T-CS V,Coolant,Rich,19.24
+Cache,Y-JSM8,E5T-CS,E5T-CS VI,Lustering Alloy,Medium,24.25
+Cache,Y-JSM8,E5T-CS,E5T-CS VI,Fiber Composite,Medium,25.30
+Cache,Y-JSM8,E5T-CS,E5T-CS VI,Glossy Compound,Medium,20.62
+Cache,Y-JSM8,E5T-CS,E5T-CS VI,Reactive Gas,Rich,32.42
+Cache,Y-JSM8,E5T-CS,E5T-CS VI,Ionic Solutions,Medium,10.63
+Cache,Y-JSM8,E5T-CS,E5T-CS VII,Lustering Alloy,Medium,22.20
+Cache,Y-JSM8,E5T-CS,E5T-CS VII,Supertensile Plastics,Poor,11.34
+Cache,Y-JSM8,E5T-CS,E5T-CS VII,Condensates,Medium,14.85
+Cache,Y-JSM8,E5T-CS,E5T-CS VII,Suspended Plasma,Poor,70.76
+Cache,Y-JSM8,E5T-CS,E5T-CS VIII,Dark Compound,Medium,23.02
+Cache,Y-JSM8,E5T-CS,E5T-CS VIII,Toxic Metals,Poor,3.88
+Cache,Y-JSM8,E5T-CS,E5T-CS VIII,Supertensile Plastics,Poor,13.02
+Cache,Y-JSM8,E5T-CS,E5T-CS VIII,Silicate Glass,Medium,12.36
+Cache,Y-JSM8,W4C8-Q,W4C8-Q I,Precious Alloy,Poor,18.68
+Cache,Y-JSM8,W4C8-Q,W4C8-Q I,Base Metals,Poor,4.30
+Cache,Y-JSM8,W4C8-Q,W4C8-Q I,Supertensile Plastics,Medium,15.19
+Cache,Y-JSM8,W4C8-Q,W4C8-Q I,Silicate Glass,Poor,9.49
+Cache,Y-JSM8,W4C8-Q,W4C8-Q II,Gleaming Alloy,Rich,33.33
+Cache,Y-JSM8,W4C8-Q,W4C8-Q II,Glossy Compound,Poor,20.53
+Cache,Y-JSM8,W4C8-Q,W4C8-Q II,Heavy Metals,Perfect,36.83
+Cache,Y-JSM8,W4C8-Q,W4C8-Q III,Precious Alloy,Medium,23.25
+Cache,Y-JSM8,W4C8-Q,W4C8-Q III,Supertensile Plastics,Poor,9.37
+Cache,Y-JSM8,W4C8-Q,W4C8-Q III,Construction Blocks,Medium,21.69
+Cache,Y-JSM8,W4C8-Q,W4C8-Q III,Oxygen Isotopes,Poor,2.45
+Cache,Y-JSM8,W4C8-Q,W4C8-Q IV,Opulent Compound,Perfect,36.81
+Cache,Y-JSM8,W4C8-Q,W4C8-Q IV,Reactive Gas,Medium,20.86
+Cache,Y-JSM8,W4C8-Q,W4C8-Q IV,Industrial Fibers,Perfect,9.63
+Cache,Y-JSM8,W4C8-Q,W4C8-Q IV,Smartfab Units,Medium,16.10
+Cache,Y-JSM8,W4C8-Q,W4C8-Q IV,Liquid Ozone,Medium,28.57
+Cache,Y-JSM8,W4C8-Q,W4C8-Q V,Reactive Metals,Medium,5.99
+Cache,Y-JSM8,W4C8-Q,W4C8-Q V,Toxic Metals,Rich,8.72
+Cache,Y-JSM8,W4C8-Q,W4C8-Q V,Supertensile Plastics,Perfect,23.61
+Cache,Y-JSM8,W4C8-Q,W4C8-Q V,Nanites,Rich,8.59
+Cache,Y-JSM8,W4C8-Q,W4C8-Q VI,Lustering Alloy,Rich,29.33
+Cache,Y-JSM8,W4C8-Q,W4C8-Q VI,Fiber Composite,Rich,28.73
+Cache,Y-JSM8,W4C8-Q,W4C8-Q VI,Reactive Gas,Poor,19.51
+Cache,Y-JSM8,W4C8-Q,W4C8-Q VI,Noble Gas,Medium,24.90
+Cache,Y-JSM8,W4C8-Q,W4C8-Q VI,Ionic Solutions,Medium,10.42
+Cache,Y-JSM8,W4C8-Q,W4C8-Q VII,Sheen Compound,Medium,25.70
+Cache,Y-JSM8,W4C8-Q,W4C8-Q VII,Glossy Compound,Rich,29.33
+Cache,Y-JSM8,W4C8-Q,W4C8-Q VII,Reactive Gas,Medium,24.07
+Cache,Y-JSM8,W4C8-Q,W4C8-Q VII,Noble Gas,Poor,18.88
+Cache,Y-JSM8,W4C8-Q,W4C8-Q VII,Coolant,Rich,22.76
+Cache,Y-JSM8,W4C8-Q,W4C8-Q VIII,Fiber Composite,Medium,23.39
+Cache,Y-JSM8,W4C8-Q,W4C8-Q VIII,Reactive Gas,Poor,20.28
+Cache,Y-JSM8,W4C8-Q,W4C8-Q VIII,Noble Gas,Perfect,36.15
+Cache,Y-JSM8,W4C8-Q,W4C8-Q VIII,Polyaramids,Rich,22.06
+Cache,Y-JSM8,W4C8-Q,W4C8-Q VIII,Ionic Solutions,Perfect,14.38
+Cache,Y-JSM8,W4C8-Q,W4C8-Q IX,Sheen Compound,Rich,32.12
+Cache,Y-JSM8,W4C8-Q,W4C8-Q IX,Glossy Compound,Perfect,35.86
+Cache,Y-JSM8,W4C8-Q,W4C8-Q IX,Reactive Gas,Medium,23.91
+Cache,Y-JSM8,W4C8-Q,W4C8-Q IX,Noble Gas,Medium,22.37
+Cache,Y-JSM8,W4C8-Q,W4C8-Q IX,Polyaramids,Medium,15.15
+Cache,Y-JSM8,W4C8-Q,W4C8-Q X,Condensed Alloy,Medium,27.06
+Cache,Y-JSM8,W4C8-Q,W4C8-Q X,Crystal Compound,Rich,32.82
+Cache,Y-JSM8,W4C8-Q,W4C8-Q X,Toxic Metals,Rich,7.90
+Cache,Y-JSM8,W4C8-Q,W4C8-Q X,Coolant,Poor,13.63
+Cache,Y-JSM8,W4C8-Q,W4C8-Q X,Liquid Ozone,Medium,32.26
+Cache,Y-JSM8,W4C8-Q,W4C8-Q XI,Motley Compound,Rich,27.94
+Cache,Y-JSM8,W4C8-Q,W4C8-Q XI,Base Metals,Poor,5.09
+Cache,Y-JSM8,W4C8-Q,W4C8-Q XI,Coolant,Medium,15.39
+Cache,Y-JSM8,W4C8-Q,W4C8-Q XI,Condensates,Medium,18.22
+Cache,Y-JSM8,I-2705,I-2705 I,Dark Compound,Poor,16.18
+Cache,Y-JSM8,I-2705,I-2705 I,Industrial Fibers,Poor,3.80
+Cache,Y-JSM8,I-2705,I-2705 I,Supertensile Plastics,Poor,11.29
+Cache,Y-JSM8,I-2705,I-2705 I,Construction Blocks,Medium,22.06
+Cache,Y-JSM8,I-2705,I-2705 II,Gleaming Alloy,Medium,19.94
+Cache,Y-JSM8,I-2705,I-2705 II,Motley Compound,Medium,20.52
+Cache,Y-JSM8,I-2705,I-2705 II,Noble Metals,Medium,23.26
+Cache,Y-JSM8,I-2705,I-2705 III,Fiber Composite,Perfect,35.86
+Cache,Y-JSM8,I-2705,I-2705 III,Opulent Compound,Rich,28.12
+Cache,Y-JSM8,I-2705,I-2705 III,Base Metals,Perfect,8.76
+Cache,Y-JSM8,I-2705,I-2705 III,Noble Metals,Medium,19.94
+Cache,Y-JSM8,I-2705,I-2705 III,Liquid Ozone,Perfect,40.63
+Cache,Y-JSM8,I-2705,I-2705 IV,Gleaming Alloy,Poor,18.08
+Cache,Y-JSM8,I-2705,I-2705 IV,Motley Compound,Poor,16.12
+Cache,Y-JSM8,I-2705,I-2705 IV,Oxygen Isotopes,Rich,3.83
+Cache,Y-JSM8,I-2705,I-2705 V,Gleaming Alloy,Medium,22.88
+Cache,Y-JSM8,I-2705,I-2705 V,Heavy Metals,Rich,30.84
+Cache,Y-JSM8,I-2705,I-2705 V,Plasmoids,Medium,1.14
+Cache,Y-JSM8,I-2705,I-2705 VI,Dark Compound,Poor,13.46
+Cache,Y-JSM8,I-2705,I-2705 VI,Toxic Metals,Poor,3.31
+Cache,Y-JSM8,I-2705,I-2705 VI,Supertensile Plastics,Medium,13.72
+Cache,Y-JSM8,I-2705,I-2705 VI,Plasmoids,Medium,1.29
+Cache,Y-JSM8,I-2705,I-2705 VII,Lustering Alloy,Rich,29.58
+Cache,Y-JSM8,I-2705,I-2705 VII,Sheen Compound,Medium,21.56
+Cache,Y-JSM8,I-2705,I-2705 VII,Glossy Compound,Rich,29.44
+Cache,Y-JSM8,I-2705,I-2705 VII,Reactive Gas,Rich,29.88
+Cache,Y-JSM8,I-2705,I-2705 VII,Noble Gas,Medium,22.48
+Cache,Y-JSM8,I-2705,I-2705 VIII,Polyaramids,Perfect,22.91
+Cache,Y-JSM8,I-2705,I-2705 VIII,Coolant,Rich,17.45
+Cache,Y-JSM8,I-2705,I-2705 VIII,Silicate Glass,Rich,15.24
+Cache,Y-JSM8,I-2705,I-2705 VIII,Liquid Ozone,Medium,26.52
+Cache,Y-JSM8,I-2705,I-2705 VIII,Ionic Solutions,Rich,10.98
+Cache,VSC-W9,5F-MG1,5F-MG1 I,Toxic Metals,Medium,5.90
+Cache,VSC-W9,5F-MG1,5F-MG1 I,Supertensile Plastics,Medium,18.06
+Cache,VSC-W9,5F-MG1,5F-MG1 I,Construction Blocks,Poor,14.63
+Cache,VSC-W9,5F-MG1,5F-MG1 I,Silicate Glass,Poor,8.53
+Cache,VSC-W9,5F-MG1,5F-MG1 II,Precious Alloy,Poor,20.88
+Cache,VSC-W9,5F-MG1,5F-MG1 II,Supertensile Plastics,Poor,10.60
+Cache,VSC-W9,5F-MG1,5F-MG1 II,Silicate Glass,Medium,13.20
+Cache,VSC-W9,5F-MG1,5F-MG1 II,Oxygen Isotopes,Poor,2.50
+Cache,VSC-W9,5F-MG1,5F-MG1 III,Toxic Metals,Medium,5.77
+Cache,VSC-W9,5F-MG1,5F-MG1 III,Supertensile Plastics,Medium,16.39
+Cache,VSC-W9,5F-MG1,5F-MG1 III,Silicate Glass,Poor,9.60
+Cache,VSC-W9,5F-MG1,5F-MG1 III,Oxygen Isotopes,Poor,2.25
+Cache,VSC-W9,5F-MG1,5F-MG1 IV,Dark Compound,Poor,20.79
+Cache,VSC-W9,5F-MG1,5F-MG1 IV,Base Metals,Poor,4.48
+Cache,VSC-W9,5F-MG1,5F-MG1 IV,Supertensile Plastics,Medium,16.67
+Cache,VSC-W9,5F-MG1,5F-MG1 IV,Plasmoids,Medium,1.60
+Cache,VSC-W9,5F-MG1,5F-MG1 V,Reactive Gas,Poor,18.93
+Cache,VSC-W9,5F-MG1,5F-MG1 V,Reactive Metals,Poor,5.34
+Cache,VSC-W9,5F-MG1,5F-MG1 V,Suspended Plasma,Medium,95.63
+Cache,VSC-W9,5F-MG1,5F-MG1 V,Oxygen Isotopes,Medium,3.64
+Cache,VSC-W9,5F-MG1,5F-MG1 VI,Sheen Compound,Medium,25.88
+Cache,VSC-W9,5F-MG1,5F-MG1 VI,Glossy Compound,Rich,32.20
+Cache,VSC-W9,5F-MG1,5F-MG1 VI,Reactive Gas,Medium,22.38
+Cache,VSC-W9,5F-MG1,5F-MG1 VI,Polyaramids,Rich,23.00
+Cache,VSC-W9,5F-MG1,5F-MG1 VI,Ionic Solutions,Medium,10.62
+Cache,VSC-W9,5F-MG1,5F-MG1 VII,Fiber Composite,Medium,28.29
+Cache,VSC-W9,5F-MG1,5F-MG1 VII,Reactive Gas,Rich,29.35
+Cache,VSC-W9,5F-MG1,5F-MG1 VII,Noble Gas,Medium,25.67
+Cache,VSC-W9,5F-MG1,5F-MG1 VII,Base Metals,Poor,5.38
+Cache,VSC-W9,5F-MG1,5F-MG1 VII,Reactive Metals,Medium,6.34
+Cache,VSC-W9,5F-MG1,5F-MG1 VIII,Lustering Alloy,Rich,30.29
+Cache,VSC-W9,5F-MG1,5F-MG1 VIII,Sheen Compound,Rich,31.39
+Cache,VSC-W9,5F-MG1,5F-MG1 VIII,Reactive Gas,Medium,24.47
+Cache,VSC-W9,5F-MG1,5F-MG1 VIII,Base Metals,Rich,8.78
+Cache,VSC-W9,5F-MG1,5F-MG1 VIII,Reactive Metals,Rich,8.99
+Cache,VSC-W9,5F-MG1,5F-MG1 IX,Lucent Compound,Perfect,37.63
+Cache,VSC-W9,5F-MG1,5F-MG1 IX,Reactive Gas,Poor,20.03
+Cache,VSC-W9,5F-MG1,5F-MG1 IX,Reactive Metals,Medium,5.72
+Cache,VSC-W9,5F-MG1,5F-MG1 IX,Construction Blocks,Medium,28.01
+Cache,VSC-W9,5F-MG1,5F-MG1 X,Sheen Compound,Poor,20.54
+Cache,VSC-W9,5F-MG1,5F-MG1 X,Glossy Compound,Rich,30.70
+Cache,VSC-W9,5F-MG1,5F-MG1 X,Reactive Gas,Rich,29.90
+Cache,VSC-W9,5F-MG1,5F-MG1 X,Base Metals,Poor,5.43
+Cache,VSC-W9,5F-MG1,5F-MG1 X,Coolant,Rich,21.04
+Cache,VSC-W9,5F-MG1,5F-MG1 XI,Fiber Composite,Rich,30.38
+Cache,VSC-W9,5F-MG1,5F-MG1 XI,Glossy Compound,Medium,26.86
+Cache,VSC-W9,5F-MG1,5F-MG1 XI,Reactive Gas,Rich,35.72
+Cache,VSC-W9,5F-MG1,5F-MG1 XI,Reactive Metals,Rich,8.33
+Cache,VSC-W9,5F-MG1,5F-MG1 XI,Ionic Solutions,Rich,13.91
+Cache,VSC-W9,5F-MG1,5F-MG1 XII,Lustering Alloy,Medium,27.37
+Cache,VSC-W9,5F-MG1,5F-MG1 XII,Supertensile Plastics,Poor,14.23
+Cache,VSC-W9,5F-MG1,5F-MG1 XII,Construction Blocks,Medium,27.53
+Cache,VSC-W9,5F-MG1,5F-MG1 XII,Plasmoids,Medium,1.58
+Cache,VSC-W9,P7-45V,P7-45V I,Reactive Gas,Medium,25.99
+Cache,VSC-W9,P7-45V,P7-45V I,Noble Gas,Rich,31.79
+Cache,VSC-W9,P7-45V,P7-45V I,Base Metals,Rich,8.15
+Cache,VSC-W9,P7-45V,P7-45V I,Polyaramids,Poor,12.99
+Cache,VSC-W9,P7-45V,P7-45V I,Coolant,Rich,20.13
+Cache,VSC-W9,P7-45V,P7-45V II,Sheen Compound,Rich,35.70
+Cache,VSC-W9,P7-45V,P7-45V II,Fiber Composite,Perfect,37.77
+Cache,VSC-W9,P7-45V,P7-45V II,Glossy Compound,Medium,26.08
+Cache,VSC-W9,P7-45V,P7-45V II,Reactive Gas,Medium,27.02
+Cache,VSC-W9,P7-45V,P7-45V II,Polyaramids,Poor,13.72
+Cache,VSC-W9,P7-45V,P7-45V III,Crystal Compound,Perfect,37.21
+Cache,VSC-W9,P7-45V,P7-45V III,Noble Metals,Medium,25.67
+Cache,VSC-W9,P7-45V,P7-45V III,Coolant,Medium,17.00
+Cache,VSC-W9,P7-45V,P7-45V III,Silicate Glass,Medium,13.14
+Cache,VSC-W9,P7-45V,P7-45V III,Liquid Ozone,Poor,26.22
+Cache,VSC-W9,P7-45V,P7-45V IV,Precious Alloy,Medium,28.13
+Cache,VSC-W9,P7-45V,P7-45V IV,Motley Compound,Medium,27.62
+Cache,VSC-W9,P7-45V,P7-45V IV,Condensates,Poor,13.37
+Cache,VSC-W9,P7-45V,P7-45V IV,Liquid Ozone,Rich,41.37
+Cache,VSC-W9,P7-45V,P7-45V V,Precious Alloy,Medium,23.39
+Cache,VSC-W9,P7-45V,P7-45V V,Supertensile Plastics,Poor,13.85
+Cache,VSC-W9,P7-45V,P7-45V V,Construction Blocks,Medium,24.10
+Cache,VSC-W9,P7-45V,P7-45V V,Oxygen Isotopes,Medium,3.79
+Cache,VSC-W9,P7-45V,P7-45V VI,Reactive Metals,Medium,7.20
+Cache,VSC-W9,P7-45V,P7-45V VI,Construction Blocks,Medium,26.93
+Cache,VSC-W9,P7-45V,P7-45V VI,Nanites,Rich,8.96
+Cache,VSC-W9,P7-45V,P7-45V VI,Oxygen Isotopes,Rich,5.18
+Cache,VSC-W9,M-MCP8,M-MCP8 I,Industrial Fibers,Medium,5.89
+Cache,VSC-W9,M-MCP8,M-MCP8 I,Supertensile Plastics,Medium,15.15
+Cache,VSC-W9,M-MCP8,M-MCP8 I,Oxygen Isotopes,Poor,2.73
+Cache,VSC-W9,M-MCP8,M-MCP8 I,Plasmoids,Medium,1.62
+Cache,VSC-W9,M-MCP8,M-MCP8 II,Precious Alloy,Medium,26.63
+Cache,VSC-W9,M-MCP8,M-MCP8 II,Base Metals,Poor,4.96
+Cache,VSC-W9,M-MCP8,M-MCP8 II,Toxic Metals,Poor,5.67
+Cache,VSC-W9,M-MCP8,M-MCP8 II,Supertensile Plastics,Poor,10.75
+Cache,VSC-W9,M-MCP8,M-MCP8 III,Crystal Compound,Rich,32.68
+Cache,VSC-W9,M-MCP8,M-MCP8 III,Reactive Metals,Rich,9.12
+Cache,VSC-W9,M-MCP8,M-MCP8 III,Supertensile Plastics,Medium,18.00
+Cache,VSC-W9,M-MCP8,M-MCP8 III,Oxygen Isotopes,Medium,4.18
+Cache,VSC-W9,M-MCP8,M-MCP8 IV,Condensed Alloy,Rich,30.73
+Cache,VSC-W9,M-MCP8,M-MCP8 IV,Base Metals,Medium,7.37
+Cache,VSC-W9,M-MCP8,M-MCP8 IV,Industrial Fibers,Medium,6.32
+Cache,VSC-W9,M-MCP8,M-MCP8 IV,Smartfab Units,Rich,22.13
+Cache,VSC-W9,M-MCP8,M-MCP8 IV,Liquid Ozone,Medium,33.52
+Cache,VSC-W9,M-MCP8,M-MCP8 V,Reactive Gas,Rich,36.18
+Cache,VSC-W9,M-MCP8,M-MCP8 V,Base Metals,Poor,5.57
+Cache,VSC-W9,M-MCP8,M-MCP8 V,Polyaramids,Rich,21.96
+Cache,VSC-W9,M-MCP8,M-MCP8 V,Coolant,Rich,20.52
+Cache,VSC-W9,M-MCP8,M-MCP8 V,Ionic Solutions,Medium,9.82
+Cache,VSC-W9,JZ-B5Y,JZ-B5Y I,Gleaming Alloy,Medium,23.67
+Cache,VSC-W9,JZ-B5Y,JZ-B5Y I,Noble Metals,Rich,33.53
+Cache,VSC-W9,JZ-B5Y,JZ-B5Y I,Smartfab Units,Perfect,24.70
+Cache,VSC-W9,JZ-B5Y,JZ-B5Y II,Lucent Compound,Medium,28.18
+Cache,VSC-W9,JZ-B5Y,JZ-B5Y II,Condensates,Rich,23.87
+Cache,VSC-W9,JZ-B5Y,JZ-B5Y II,Suspended Plasma,Perfect,143.82
+Cache,VSC-W9,JZ-B5Y,JZ-B5Y II,Ionic Solutions,Perfect,16.29
+Cache,VSC-W9,JZ-B5Y,JZ-B5Y II,Plasmoids,Rich,1.78
+Cache,VSC-W9,JZ-B5Y,JZ-B5Y III,Base Metals,Poor,5.64
+Cache,VSC-W9,JZ-B5Y,JZ-B5Y III,Noble Metals,Medium,28.86
+Cache,VSC-W9,JZ-B5Y,JZ-B5Y III,Condensates,Rich,19.86
+Cache,VSC-W9,JZ-B5Y,JZ-B5Y III,Heavy Water,Medium,270.25
+Cache,VSC-W9,JZ-B5Y,JZ-B5Y III,Liquid Ozone,Medium,28.55
+Cache,VSC-W9,JZ-B5Y,JZ-B5Y IV,Fiber Composite,Medium,24.66
+Cache,VSC-W9,JZ-B5Y,JZ-B5Y IV,Reactive Gas,Rich,36.45
+Cache,VSC-W9,JZ-B5Y,JZ-B5Y IV,Noble Gas,Medium,22.17
+Cache,VSC-W9,JZ-B5Y,JZ-B5Y IV,Base Metals,Rich,9.47
+Cache,VSC-W9,JZ-B5Y,JZ-B5Y IV,Polyaramids,Medium,14.74
+Cache,VSC-W9,JZ-B5Y,JZ-B5Y V,Lustering Alloy,Rich,31.76
+Cache,VSC-W9,JZ-B5Y,JZ-B5Y V,Reactive Gas,Rich,33.05
+Cache,VSC-W9,JZ-B5Y,JZ-B5Y V,Base Metals,Medium,7.51
+Cache,VSC-W9,JZ-B5Y,JZ-B5Y V,Reactive Metals,Medium,6.06
+Cache,VSC-W9,JZ-B5Y,JZ-B5Y V,Coolant,Poor,13.75
+Cache,VSC-W9,JZ-B5Y,JZ-B5Y VI,Lustering Alloy,Rich,36.52
+Cache,VSC-W9,JZ-B5Y,JZ-B5Y VI,Glossy Compound,Rich,29.26
+Cache,VSC-W9,JZ-B5Y,JZ-B5Y VI,Reactive Gas,Rich,32.61
+Cache,VSC-W9,JZ-B5Y,JZ-B5Y VI,Noble Gas,Rich,32.25
+Cache,VSC-W9,JZ-B5Y,JZ-B5Y VI,Ionic Solutions,Medium,9.54
+Cache,VSC-W9,JZ-B5Y,JZ-B5Y VII,Toxic Metals,Medium,7.23
+Cache,VSC-W9,JZ-B5Y,JZ-B5Y VII,Supertensile Plastics,Medium,18.63
+Cache,VSC-W9,JZ-B5Y,JZ-B5Y VII,Construction Blocks,Medium,26.11
+Cache,VSC-W9,JZ-B5Y,JZ-B5Y VII,Plasmoids,Poor,0.92
+Cache,VSC-W9,JZ-B5Y,JZ-B5Y VIII,Sheen Compound,Medium,28.93
+Cache,VSC-W9,JZ-B5Y,JZ-B5Y VIII,Reactive Gas,Rich,32.84
+Cache,VSC-W9,JZ-B5Y,JZ-B5Y VIII,Noble Gas,Rich,35.42
+Cache,VSC-W9,JZ-B5Y,JZ-B5Y VIII,Base Metals,Poor,5.62
+Cache,VSC-W9,JZ-B5Y,JZ-B5Y VIII,Ionic Solutions,Rich,12.93
+Cache,VSC-W9,JZ-B5Y,JZ-B5Y IX,Base Metals,Rich,8.55
+Cache,VSC-W9,JZ-B5Y,JZ-B5Y IX,Industrial Fibers,Medium,6.28
+Cache,VSC-W9,JZ-B5Y,JZ-B5Y IX,Supertensile Plastics,Rich,22.06
+Cache,VSC-W9,JZ-B5Y,JZ-B5Y IX,Condensates,Poor,13.36
+Cache,VSC-W9,JZ-B5Y,JZ-B5Y X,Lustering Alloy,Medium,27.09
+Cache,VSC-W9,JZ-B5Y,JZ-B5Y X,Precious Alloy,Poor,18.47
+Cache,VSC-W9,JZ-B5Y,JZ-B5Y X,Supertensile Plastics,Medium,16.85
+Cache,VSC-W9,JZ-B5Y,JZ-B5Y X,Silicate Glass,Poor,9.92
+Cache,VSC-W9,TPG-DD,TPG-DD I,Gleaming Alloy,Poor,19.62
+Cache,VSC-W9,TPG-DD,TPG-DD I,Motley Compound,Medium,23.92
+Cache,VSC-W9,TPG-DD,TPG-DD I,Oxygen Isotopes,Medium,3.92
+Cache,VSC-W9,TPG-DD,TPG-DD II,Precious Alloy,Medium,25.69
+Cache,VSC-W9,TPG-DD,TPG-DD II,Dark Compound,Poor,21.14
+Cache,VSC-W9,TPG-DD,TPG-DD II,Base Metals,Poor,4.92
+Cache,VSC-W9,TPG-DD,TPG-DD II,Supertensile Plastics,Poor,10.32
+Cache,VSC-W9,TPG-DD,TPG-DD III,Gleaming Alloy,Rich,34.09
+Cache,VSC-W9,TPG-DD,TPG-DD III,Heavy Metals,Rich,36.13
+Cache,VSC-W9,TPG-DD,TPG-DD III,Smartfab Units,Poor,13.51
+Cache,VSC-W9,TPG-DD,TPG-DD IV,Condensed Alloy,Medium,27.60
+Cache,VSC-W9,TPG-DD,TPG-DD IV,Reactive Gas,Perfect,36.98
+Cache,VSC-W9,TPG-DD,TPG-DD IV,Base Metals,Medium,6.16
+Cache,VSC-W9,TPG-DD,TPG-DD IV,Condensates,Rich,21.45
+Cache,VSC-W9,TPG-DD,TPG-DD IV,Liquid Ozone,Medium,34.99
+Cache,VSC-W9,TPG-DD,TPG-DD V,Reactive Gas,Medium,28.91
+Cache,VSC-W9,TPG-DD,TPG-DD V,Noble Gas,Medium,23.11
+Cache,VSC-W9,TPG-DD,TPG-DD V,Polyaramids,Medium,18.68
+Cache,VSC-W9,TPG-DD,TPG-DD V,Coolant,Medium,19.37
+Cache,VSC-W9,TPG-DD,TPG-DD V,Ionic Solutions,Rich,14.45
+Cache,VSC-W9,TPG-DD,TPG-DD VI,Lucent Compound,Medium,24.77
+Cache,VSC-W9,TPG-DD,TPG-DD VI,Crystal Compound,Medium,24.50
+Cache,VSC-W9,TPG-DD,TPG-DD VI,Reactive Metals,Poor,5.65
+Cache,VSC-W9,TPG-DD,TPG-DD VI,Supertensile Plastics,Perfect,25.04
+Cache,VSC-W9,TPG-DD,TPG-DD VII,Fiber Composite,Medium,28.82
+Cache,VSC-W9,TPG-DD,TPG-DD VII,Opulent Compound,Rich,31.81
+Cache,VSC-W9,TPG-DD,TPG-DD VII,Base Metals,Medium,6.97
+Cache,VSC-W9,TPG-DD,TPG-DD VII,Noble Metals,Perfect,38.57
+Cache,VSC-W9,TPG-DD,TPG-DD VII,Liquid Ozone,Medium,28.09
+Cache,VSC-W9,TPG-DD,TPG-DD VIII,Precious Alloy,Medium,25.81
+Cache,VSC-W9,TPG-DD,TPG-DD VIII,Industrial Fibers,Poor,5.39
+Cache,VSC-W9,TPG-DD,TPG-DD VIII,Supertensile Plastics,Poor,13.13
+Cache,VSC-W9,TPG-DD,TPG-DD VIII,Silicate Glass,Poor,9.20
+Cache,VSC-W9,TPG-DD,TPG-DD IX,Fiber Composite,Perfect,40.20
+Cache,VSC-W9,TPG-DD,TPG-DD IX,Base Metals,Rich,8.13
+Cache,VSC-W9,TPG-DD,TPG-DD IX,Industrial Fibers,Rich,7.92
+Cache,VSC-W9,TPG-DD,TPG-DD IX,Condensates,Perfect,26.76
+Cache,VSC-W9,TPG-DD,TPG-DD IX,Liquid Ozone,Perfect,47.03
+Cache,VSC-W9,TPG-DD,TPG-DD X,Toxic Metals,Medium,6.42
+Cache,VSC-W9,TPG-DD,TPG-DD X,Supertensile Plastics,Medium,15.56
+Cache,VSC-W9,TPG-DD,TPG-DD X,Silicate Glass,Medium,13.86
+Cache,VSC-W9,TPG-DD,TPG-DD X,Plasmoids,Poor,1.08
+Cache,VSC-W9,NIF-JE,NIF-JE I,Dark Compound,Poor,17.00
+Cache,VSC-W9,NIF-JE,NIF-JE I,Toxic Metals,Medium,7.12
+Cache,VSC-W9,NIF-JE,NIF-JE I,Industrial Fibers,Poor,6.25
+Cache,VSC-W9,NIF-JE,NIF-JE I,Supertensile Plastics,Poor,14.61
+Cache,VSC-W9,NIF-JE,NIF-JE I,Plasmoids,Poor,1.03
+Cache,VSC-W9,NIF-JE,NIF-JE II,Precious Alloy,Poor,17.47
+Cache,VSC-W9,NIF-JE,NIF-JE II,Dark Compound,Medium,29.28
+Cache,VSC-W9,NIF-JE,NIF-JE II,Construction Blocks,Poor,22.59
+Cache,VSC-W9,NIF-JE,NIF-JE II,Oxygen Isotopes,Poor,2.74
+Cache,VSC-W9,NIF-JE,NIF-JE II,Plasmoids,Poor,1.28
+Cache,VSC-W9,NIF-JE,NIF-JE III,Precious Alloy,Poor,18.36
+Cache,VSC-W9,NIF-JE,NIF-JE III,Dark Compound,Poor,23.56
+Cache,VSC-W9,NIF-JE,NIF-JE III,Base Metals,Poor,5.49
+Cache,VSC-W9,NIF-JE,NIF-JE III,Toxic Metals,Poor,5.66
+Cache,VSC-W9,NIF-JE,NIF-JE III,Construction Blocks,Medium,26.60
+Cache,VSC-W9,NIF-JE,NIF-JE IV,Glossy Compound,Rich,37.34
+Cache,VSC-W9,NIF-JE,NIF-JE IV,Noble Gas,Medium,27.27
+Cache,VSC-W9,NIF-JE,NIF-JE IV,Construction Blocks,Medium,25.06
+Cache,VSC-W9,NIF-JE,NIF-JE IV,Plasmoids,Rich,2.43
+Cache,VSC-W9,NIF-JE,NIF-JE V,Crystal Compound,Perfect,41.94
+Cache,VSC-W9,NIF-JE,NIF-JE V,Reactive Metals,Medium,8.22
+Cache,VSC-W9,NIF-JE,NIF-JE V,Nanites,Poor,5.65
+Cache,VSC-W9,NIF-JE,NIF-JE V,Suspended Plasma,Medium,106.05
+Cache,VSC-W9,NIF-JE,NIF-JE V,Oxygen Isotopes,Medium,4.86
+Cache,VSC-W9,NIF-JE,NIF-JE VI,Sheen Compound,Medium,32.32
+Cache,VSC-W9,NIF-JE,NIF-JE VI,Fiber Composite,Medium,25.35
+Cache,VSC-W9,NIF-JE,NIF-JE VI,Reactive Metals,Medium,7.25
+Cache,VSC-W9,NIF-JE,NIF-JE VI,Polyaramids,Rich,24.15
+Cache,VSC-W9,NIF-JE,NIF-JE VI,Coolant,Rich,22.90
+Cache,VSC-W9,NIF-JE,NIF-JE VI,Ionic Solutions,Rich,14.09
+Cache,VSC-W9,NIF-JE,NIF-JE VII,Condensed Alloy,Rich,37.21
+Cache,VSC-W9,NIF-JE,NIF-JE VII,Fiber Composite,Perfect,42.20
+Cache,VSC-W9,NIF-JE,NIF-JE VII,Reactive Gas,Rich,38.51
+Cache,VSC-W9,NIF-JE,NIF-JE VII,Base Metals,Perfect,12.34
+Cache,VSC-W9,NIF-JE,NIF-JE VII,Condensates,Poor,16.17
+Cache,VSC-W9,NIF-JE,NIF-JE VII,Smartfab Units,Perfect,31.01
+Cache,VSC-W9,NIF-JE,NIF-JE VIII,Sheen Compound,Poor,21.40
+Cache,VSC-W9,NIF-JE,NIF-JE VIII,Fiber Composite,Perfect,42.61
+Cache,VSC-W9,NIF-JE,NIF-JE VIII,Noble Gas,Medium,27.46
+Cache,VSC-W9,NIF-JE,NIF-JE VIII,Reactive Metals,Rich,9.68
+Cache,VSC-W9,NIF-JE,NIF-JE VIII,Polyaramids,Perfect,28.67
+Cache,VSC-W9,NIF-JE,NIF-JE VIII,Ionic Solutions,Medium,11.69
+Cache,VSC-W9,NIF-JE,NIF-JE IX,Lustering Alloy,Rich,34.89
+Cache,VSC-W9,NIF-JE,NIF-JE IX,Fiber Composite,Rich,37.67
+Cache,VSC-W9,NIF-JE,NIF-JE IX,Glossy Compound,Rich,34.42
+Cache,VSC-W9,NIF-JE,NIF-JE IX,Reactive Gas,Perfect,41.57
+Cache,VSC-W9,NIF-JE,NIF-JE IX,Reactive Metals,Medium,7.66
+Cache,VSC-W9,NIF-JE,NIF-JE IX,Polyaramids,Perfect,28.25
+Cache,VSC-W9,NIF-JE,NIF-JE X,Condensed Alloy,Rich,41.13
+Cache,VSC-W9,NIF-JE,NIF-JE X,Crystal Compound,Rich,33.10
+Cache,VSC-W9,NIF-JE,NIF-JE X,Noble Metals,Rich,37.02
+Cache,VSC-W9,NIF-JE,NIF-JE X,Toxic Metals,Rich,10.76
+Cache,VSC-W9,NIF-JE,NIF-JE X,Polyaramids,Rich,26.03
+Cache,VSC-W9,NIF-JE,NIF-JE X,Coolant,Medium,17.99
+Cache,FQ-COP,BTLH-I,BTLH-I I,Lustering Alloy,Medium,27.92
+Cache,FQ-COP,BTLH-I,BTLH-I I,Dark Compound,Medium,26.68
+Cache,FQ-COP,BTLH-I,BTLH-I I,Toxic Metals,Medium,6.89
+Cache,FQ-COP,BTLH-I,BTLH-I I,Industrial Fibers,Medium,7.44
+Cache,FQ-COP,BTLH-I,BTLH-I I,Plasmoids,Poor,1.34
+Cache,FQ-COP,BTLH-I,BTLH-I II,Dark Compound,Poor,24.31
+Cache,FQ-COP,BTLH-I,BTLH-I II,Base Metals,Medium,7.62
+Cache,FQ-COP,BTLH-I,BTLH-I II,Industrial Fibers,Poor,4.99
+Cache,FQ-COP,BTLH-I,BTLH-I II,Silicate Glass,Poor,11.93
+Cache,FQ-COP,BTLH-I,BTLH-I II,Plasmoids,Poor,1.00
+Cache,FQ-COP,BTLH-I,BTLH-I III,Crystal Compound,Rich,38.58
+Cache,FQ-COP,BTLH-I,BTLH-I III,Noble Metals,Medium,26.65
+Cache,FQ-COP,BTLH-I,BTLH-I III,Polyaramids,Rich,25.71
+Cache,FQ-COP,BTLH-I,BTLH-I III,Coolant,Medium,21.81
+Cache,FQ-COP,BTLH-I,BTLH-I III,Silicate Glass,Medium,15.82
+Cache,FQ-COP,BTLH-I,BTLH-I III,Liquid Ozone,Rich,50.67
+Cache,FQ-COP,BTLH-I,BTLH-I IV,Condensed Alloy,Medium,24.60
+Cache,FQ-COP,BTLH-I,BTLH-I IV,Reactive Gas,Rich,33.72
+Cache,FQ-COP,BTLH-I,BTLH-I IV,Condensates,Medium,16.36
+Cache,FQ-COP,BTLH-I,BTLH-I IV,Smartfab Units,Perfect,32.85
+Cache,FQ-COP,BTLH-I,BTLH-I IV,Heavy Water,Rich,412.36
+Cache,FQ-COP,BTLH-I,BTLH-I IV,Liquid Ozone,Medium,33.34
+Cache,FQ-COP,BTLH-I,BTLH-I V,Condensed Alloy,Poor,23.56
+Cache,FQ-COP,BTLH-I,BTLH-I V,Opulent Compound,Rich,34.11
+Cache,FQ-COP,BTLH-I,BTLH-I V,Crystal Compound,Rich,36.19
+Cache,FQ-COP,BTLH-I,BTLH-I V,Noble Metals,Medium,25.84
+Cache,FQ-COP,BTLH-I,BTLH-I V,Polyaramids,Medium,20.56
+Cache,FQ-COP,BTLH-I,BTLH-I V,Heavy Water,Medium,291.72
+Cache,FQ-COP,BTLH-I,BTLH-I VI,Precious Alloy,Poor,17.42
+Cache,FQ-COP,BTLH-I,BTLH-I VI,Dark Compound,Poor,17.34
+Cache,FQ-COP,BTLH-I,BTLH-I VI,Toxic Metals,Poor,5.15
+Cache,FQ-COP,BTLH-I,BTLH-I VI,Silicate Glass,Poor,10.71
+Cache,FQ-COP,BTLH-I,BTLH-I VI,Oxygen Isotopes,Poor,3.21
+Cache,FQ-COP,BTLH-I,BTLH-I VII,Condensed Alloy,Medium,27.61
+Cache,FQ-COP,BTLH-I,BTLH-I VII,Opulent Compound,Perfect,47.79
+Cache,FQ-COP,BTLH-I,BTLH-I VII,Reactive Gas,Medium,32.08
+Cache,FQ-COP,BTLH-I,BTLH-I VII,Noble Metals,Perfect,47.03
+Cache,FQ-COP,BTLH-I,BTLH-I VII,Industrial Fibers,Rich,9.11
+Cache,FQ-COP,BTLH-I,BTLH-I VII,Liquid Ozone,Medium,32.60
+Cache,FQ-COP,BTLH-I,BTLH-I VIII,Lustering Alloy,Poor,19.50
+Cache,FQ-COP,BTLH-I,BTLH-I VIII,Precious Alloy,Medium,26.49
+Cache,FQ-COP,BTLH-I,BTLH-I VIII,Dark Compound,Medium,31.88
+Cache,FQ-COP,BTLH-I,BTLH-I VIII,Industrial Fibers,Poor,5.61
+Cache,FQ-COP,BTLH-I,BTLH-I VIII,Construction Blocks,Medium,25.43
+Cache,FQ-COP,BTLH-I,BTLH-I IX,Lustering Alloy,Rich,34.40
+Cache,FQ-COP,BTLH-I,BTLH-I IX,Sheen Compound,Medium,24.78
+Cache,FQ-COP,BTLH-I,BTLH-I IX,Glossy Compound,Rich,37.91
+Cache,FQ-COP,BTLH-I,BTLH-I IX,Base Metals,Rich,8.72
+Cache,FQ-COP,BTLH-I,BTLH-I IX,Coolant,Medium,18.49
+Cache,FQ-COP,BTLH-I,BTLH-I IX,Ionic Solutions,Medium,10.60
+Cache,FQ-COP,BTLH-I,BTLH-I X,Condensed Alloy,Perfect,44.77
+Cache,FQ-COP,BTLH-I,BTLH-I X,Opulent Compound,Medium,30.84
+Cache,FQ-COP,BTLH-I,BTLH-I X,Reactive Gas,Perfect,44.25
+Cache,FQ-COP,BTLH-I,BTLH-I X,Base Metals,Rich,9.80
+Cache,FQ-COP,BTLH-I,BTLH-I X,Smartfab Units,Perfect,27.87
+Cache,FQ-COP,BTLH-I,BTLH-I X,Liquid Ozone,Rich,50.86
+Cache,FQ-COP,U93O-A,U93O-A I,Gleaming Alloy,Poor,24.19
+Cache,FQ-COP,U93O-A,U93O-A I,Glossy Compound,Perfect,45.92
+Cache,FQ-COP,U93O-A,U93O-A I,Polyaramids,Medium,20.63
+Cache,FQ-COP,U93O-A,U93O-A I,Smartfab Units,Perfect,30.39
+Cache,FQ-COP,U93O-A,U93O-A II,Lustering Alloy,Medium,26.88
+Cache,FQ-COP,U93O-A,U93O-A II,Precious Alloy,Poor,22.26
+Cache,FQ-COP,U93O-A,U93O-A II,Dark Compound,Poor,24.92
+Cache,FQ-COP,U93O-A,U93O-A II,Construction Blocks,Medium,33.46
+Cache,FQ-COP,U93O-A,U93O-A II,Oxygen Isotopes,Poor,3.46
+Cache,FQ-COP,U93O-A,U93O-A III,Condensed Alloy,Rich,37.44
+Cache,FQ-COP,U93O-A,U93O-A III,Reactive Gas,Rich,38.89
+Cache,FQ-COP,U93O-A,U93O-A III,Base Metals,Perfect,12.51
+Cache,FQ-COP,U93O-A,U93O-A III,Noble Metals,Perfect,53.17
+Cache,FQ-COP,U93O-A,U93O-A III,Industrial Fibers,Rich,11.64
+Cache,FQ-COP,U93O-A,U93O-A III,Condensates,Medium,21.13
+Cache,FQ-COP,U93O-A,U93O-A IV,Gleaming Alloy,Medium,28.34
+Cache,FQ-COP,U93O-A,U93O-A IV,Lucent Compound,Rich,43.01
+Cache,FQ-COP,U93O-A,U93O-A IV,Crystal Compound,Medium,27.61
+Cache,FQ-COP,U93O-A,U93O-A IV,Reactive Gas,Rich,38.33
+Cache,FQ-COP,U93O-A,U93O-A IV,Oxygen Isotopes,Medium,4.09
+Cache,FQ-COP,U93O-A,U93O-A V,Condensed Alloy,Rich,41.41
+Cache,FQ-COP,U93O-A,U93O-A V,Opulent Compound,Rich,37.18
+Cache,FQ-COP,U93O-A,U93O-A V,Noble Metals,Perfect,50.88
+Cache,FQ-COP,U93O-A,U93O-A V,Smartfab Units,Medium,19.56
+Cache,FQ-COP,U93O-A,U93O-A V,Heavy Water,Medium,283.64
+Cache,FQ-COP,U93O-A,U93O-A V,Liquid Ozone,Poor,32.30
+Cache,FQ-COP,U93O-A,U93O-A VI,Gleaming Alloy,Poor,23.07
+Cache,FQ-COP,U93O-A,U93O-A VI,Glossy Compound,Poor,23.72
+Cache,FQ-COP,U93O-A,U93O-A VI,Noble Gas,Medium,28.08
+Cache,FQ-COP,U93O-A,U93O-A VI,Polyaramids,Perfect,30.26
+Cache,FQ-COP,U93O-A,U93O-A VII,Glossy Compound,Poor,24.70
+Cache,FQ-COP,U93O-A,U93O-A VII,Polyaramids,Medium,22.53
+Cache,FQ-COP,U93O-A,U93O-A VII,Oxygen Isotopes,Medium,5.07
+Cache,FQ-COP,U93O-A,U93O-A VII,Plasmoids,Perfect,2.69
+Cache,FQ-COP,U93O-A,U93O-A VIII,Lustering Alloy,Rich,40.43
+Cache,FQ-COP,U93O-A,U93O-A VIII,Reactive Gas,Medium,35.03
+Cache,FQ-COP,U93O-A,U93O-A VIII,Noble Gas,Rich,41.27
+Cache,FQ-COP,U93O-A,U93O-A VIII,Reactive Metals,Rich,10.54
+Cache,FQ-COP,U93O-A,U93O-A VIII,Polyaramids,Rich,24.83
+Cache,FQ-COP,U93O-A,U93O-A VIII,Coolant,Medium,19.32
+Cache,FQ-COP,U93O-A,U93O-A IX,Glossy Compound,Rich,37.83
+Cache,FQ-COP,U93O-A,U93O-A IX,Noble Gas,Rich,43.26
+Cache,FQ-COP,U93O-A,U93O-A IX,Base Metals,Medium,8.22
+Cache,FQ-COP,U93O-A,U93O-A IX,Reactive Metals,Rich,9.79
+Cache,FQ-COP,U93O-A,U93O-A IX,Polyaramids,Medium,21.00
+Cache,FQ-COP,U93O-A,U93O-A IX,Ionic Solutions,Poor,10.18
+Cache,FQ-COP,U93O-A,U93O-A X,Lustering Alloy,Medium,30.32
+Cache,FQ-COP,U93O-A,U93O-A X,Reactive Gas,Medium,26.54
+Cache,FQ-COP,U93O-A,U93O-A X,Base Metals,Medium,9.09
+Cache,FQ-COP,U93O-A,U93O-A X,Reactive Metals,Rich,9.45
+Cache,FQ-COP,U93O-A,U93O-A X,Polyaramids,Medium,22.16
+Cache,FQ-COP,U93O-A,U93O-A X,Coolant,Rich,27.27
+Cache,FQ-COP,U93O-A,U93O-A XI,Gleaming Alloy,Rich,37.35
+Cache,FQ-COP,U93O-A,U93O-A XI,Crystal Compound,Poor,24.84
+Cache,FQ-COP,U93O-A,U93O-A XI,Reactive Metals,Rich,11.52
+Cache,FQ-COP,U93O-A,U93O-A XI,Nanites,Rich,10.21
+Cache,FQ-COP,U93O-A,U93O-A XI,Oxygen Isotopes,Medium,4.79
+Cache,FQ-COP,0LY-W1,0LY-W1 I,Dark Compound,Medium,25.02
+Cache,FQ-COP,0LY-W1,0LY-W1 I,Base Metals,Poor,5.95
+Cache,FQ-COP,0LY-W1,0LY-W1 I,Industrial Fibers,Medium,7.29
+Cache,FQ-COP,0LY-W1,0LY-W1 I,Supertensile Plastics,Medium,16.17
+Cache,FQ-COP,0LY-W1,0LY-W1 I,Construction Blocks,Poor,16.65
+Cache,FQ-COP,0LY-W1,0LY-W1 II,Lustering Alloy,Medium,29.27
+Cache,FQ-COP,0LY-W1,0LY-W1 II,Precious Alloy,Poor,19.63
+Cache,FQ-COP,0LY-W1,0LY-W1 II,Dark Compound,Poor,18.55
+Cache,FQ-COP,0LY-W1,0LY-W1 II,Base Metals,Poor,5.50
+Cache,FQ-COP,0LY-W1,0LY-W1 II,Plasmoids,Medium,1.61
+Cache,FQ-COP,0LY-W1,0LY-W1 III,Condensed Alloy,Perfect,42.27
+Cache,FQ-COP,0LY-W1,0LY-W1 III,Fiber Composite,Perfect,42.83
+Cache,FQ-COP,0LY-W1,0LY-W1 III,Base Metals,Rich,9.21
+Cache,FQ-COP,0LY-W1,0LY-W1 III,Noble Metals,Rich,37.75
+Cache,FQ-COP,0LY-W1,0LY-W1 III,Industrial Fibers,Rich,9.46
+Cache,FQ-COP,0LY-W1,0LY-W1 III,Heavy Water,Perfect,425.25
+Cache,FQ-COP,0LY-W1,0LY-W1 IV,Condensed Alloy,Rich,31.93
+Cache,FQ-COP,0LY-W1,0LY-W1 IV,Opulent Compound,Medium,28.85
+Cache,FQ-COP,0LY-W1,0LY-W1 IV,Base Metals,Perfect,11.43
+Cache,FQ-COP,0LY-W1,0LY-W1 IV,Noble Metals,Medium,23.77
+Cache,FQ-COP,0LY-W1,0LY-W1 IV,Industrial Fibers,Perfect,11.17
+Cache,FQ-COP,0LY-W1,0LY-W1 IV,Condensates,Medium,16.28
+Cache,FQ-COP,0LY-W1,0LY-W1 V,Crystal Compound,Rich,32.65
+Cache,FQ-COP,0LY-W1,0LY-W1 V,Reactive Gas,Rich,33.15
+Cache,FQ-COP,0LY-W1,0LY-W1 V,Reactive Metals,Medium,6.69
+Cache,FQ-COP,0LY-W1,0LY-W1 V,Supertensile Plastics,Rich,24.22
+Cache,FQ-COP,0LY-W1,0LY-W1 V,Oxygen Isotopes,Medium,4.29
+Cache,FQ-COP,0LY-W1,0LY-W1 VI,Lustering Alloy,Rich,33.45
+Cache,FQ-COP,0LY-W1,0LY-W1 VI,Fiber Composite,Medium,26.27
+Cache,FQ-COP,0LY-W1,0LY-W1 VI,Noble Gas,Rich,36.65
+Cache,FQ-COP,0LY-W1,0LY-W1 VI,Base Metals,Medium,6.91
+Cache,FQ-COP,0LY-W1,0LY-W1 VI,Polyaramids,Rich,23.90
+Cache,FQ-COP,0LY-W1,0LY-W1 VI,Coolant,Poor,14.63
+Cache,FQ-COP,0LY-W1,0LY-W1 VII,Lustering Alloy,Poor,21.25
+Cache,FQ-COP,0LY-W1,0LY-W1 VII,Precious Alloy,Medium,28.48
+Cache,FQ-COP,0LY-W1,0LY-W1 VII,Dark Compound,Poor,17.55
+Cache,FQ-COP,0LY-W1,0LY-W1 VII,Base Metals,Poor,5.75
+Cache,FQ-COP,0LY-W1,0LY-W1 VII,Plasmoids,Poor,0.97
+Cache,FQ-COP,4YO-QK,4YO-QK I,Lustering Alloy,Medium,34.34
+Cache,FQ-COP,4YO-QK,4YO-QK I,Dark Compound,Poor,23.14
+Cache,FQ-COP,4YO-QK,4YO-QK I,Base Metals,Poor,6.48
+Cache,FQ-COP,4YO-QK,4YO-QK I,Industrial Fibers,Poor,5.02
+Cache,FQ-COP,4YO-QK,4YO-QK I,Silicate Glass,Poor,12.82
+Cache,FQ-COP,4YO-QK,4YO-QK II,Lustering Alloy,Medium,31.12
+Cache,FQ-COP,4YO-QK,4YO-QK II,Precious Alloy,Medium,31.32
+Cache,FQ-COP,4YO-QK,4YO-QK II,Dark Compound,Medium,33.09
+Cache,FQ-COP,4YO-QK,4YO-QK II,Toxic Metals,Poor,5.11
+Cache,FQ-COP,4YO-QK,4YO-QK II,Construction Blocks,Medium,28.01
+Cache,FQ-COP,4YO-QK,4YO-QK III,Precious Alloy,Poor,26.45
+Cache,FQ-COP,4YO-QK,4YO-QK III,Dark Compound,Poor,21.72
+Cache,FQ-COP,4YO-QK,4YO-QK III,Base Metals,Poor,6.90
+Cache,FQ-COP,4YO-QK,4YO-QK III,Industrial Fibers,Medium,8.09
+Cache,FQ-COP,4YO-QK,4YO-QK III,Construction Blocks,Poor,22.68
+Cache,FQ-COP,4YO-QK,4YO-QK IV,Lustering Alloy,Poor,18.01
+Cache,FQ-COP,4YO-QK,4YO-QK IV,Precious Alloy,Poor,18.33
+Cache,FQ-COP,4YO-QK,4YO-QK IV,Dark Compound,Medium,30.22
+Cache,FQ-COP,4YO-QK,4YO-QK IV,Oxygen Isotopes,Medium,4.66
+Cache,FQ-COP,4YO-QK,4YO-QK IV,Plasmoids,Poor,1.15
+Cache,FQ-COP,4YO-QK,4YO-QK V,Condensed Alloy,Perfect,51.56
+Cache,FQ-COP,4YO-QK,4YO-QK V,Fiber Composite,Rich,40.83
+Cache,FQ-COP,4YO-QK,4YO-QK V,Opulent Compound,Perfect,54.69
+Cache,FQ-COP,4YO-QK,4YO-QK V,Noble Metals,Rich,37.61
+Cache,FQ-COP,4YO-QK,4YO-QK V,Smartfab Units,Perfect,34.95
+Cache,FQ-COP,4YO-QK,4YO-QK V,Heavy Water,Rich,393.53
+Cache,FQ-COP,4YO-QK,4YO-QK VI,Condensed Alloy,Medium,28.01
+Cache,FQ-COP,4YO-QK,4YO-QK VI,Fiber Composite,Perfect,52.37
+Cache,FQ-COP,4YO-QK,4YO-QK VI,Reactive Gas,Medium,34.51
+Cache,FQ-COP,4YO-QK,4YO-QK VI,Noble Metals,Perfect,52.61
+Cache,FQ-COP,4YO-QK,4YO-QK VI,Industrial Fibers,Medium,8.59
+Cache,FQ-COP,4YO-QK,4YO-QK VI,Liquid Ozone,Perfect,61.15
+Cache,FQ-COP,4YO-QK,4YO-QK VII,Glossy Compound,Rich,39.88
+Cache,FQ-COP,4YO-QK,4YO-QK VII,Reactive Gas,Medium,33.96
+Cache,FQ-COP,4YO-QK,4YO-QK VII,Reactive Metals,Medium,7.33
+Cache,FQ-COP,4YO-QK,4YO-QK VII,Polyaramids,Medium,20.67
+Cache,FQ-COP,4YO-QK,4YO-QK VII,Coolant,Rich,28.57
+Cache,FQ-COP,4YO-QK,4YO-QK VII,Ionic Solutions,Rich,14.88
+Cache,FQ-COP,4YO-QK,4YO-QK VIII,Lustering Alloy,Rich,45.01
+Cache,FQ-COP,4YO-QK,4YO-QK VIII,Sheen Compound,Medium,31.99
+Cache,FQ-COP,4YO-QK,4YO-QK VIII,Reactive Gas,Rich,41.24
+Cache,FQ-COP,4YO-QK,4YO-QK VIII,Reactive Metals,Rich,10.10
+Cache,FQ-COP,4YO-QK,4YO-QK VIII,Polyaramids,Poor,15.97
+Cache,FQ-COP,4YO-QK,4YO-QK VIII,Ionic Solutions,Medium,12.04
+Cache,FQ-COP,4YO-QK,4YO-QK IX,Precious Alloy,Medium,35.44
+Cache,FQ-COP,4YO-QK,4YO-QK IX,Motley Compound,Rich,39.73
+Cache,FQ-COP,4YO-QK,4YO-QK IX,Coolant,Poor,14.77
+Cache,FQ-COP,4YO-QK,4YO-QK IX,Suspended Plasma,Rich,143.65
+Cache,FQ-COP,4YO-QK,4YO-QK IX,Liquid Ozone,Rich,52.24
+Cache,FQ-COP,LJ-RJK,LJ-RJK I,Dark Compound,Poor,26.04
+Cache,FQ-COP,LJ-RJK,LJ-RJK I,Industrial Fibers,Poor,6.47
+Cache,FQ-COP,LJ-RJK,LJ-RJK I,Supertensile Plastics,Medium,22.18
+Cache,FQ-COP,LJ-RJK,LJ-RJK I,Construction Blocks,Medium,31.44
+Cache,FQ-COP,LJ-RJK,LJ-RJK I,Plasmoids,Poor,1.56
+Cache,FQ-COP,LJ-RJK,LJ-RJK II,Gleaming Alloy,Poor,24.11
+Cache,FQ-COP,LJ-RJK,LJ-RJK II,Glossy Compound,Poor,22.90
+Cache,FQ-COP,LJ-RJK,LJ-RJK II,Polyaramids,Poor,16.02
+Cache,FQ-COP,LJ-RJK,LJ-RJK II,Construction Blocks,Medium,31.72
+Cache,FQ-COP,LJ-RJK,LJ-RJK III,Condensed Alloy,Rich,43.43
+Cache,FQ-COP,LJ-RJK,LJ-RJK III,Fiber Composite,Perfect,46.90
+Cache,FQ-COP,LJ-RJK,LJ-RJK III,Opulent Compound,Medium,27.16
+Cache,FQ-COP,LJ-RJK,LJ-RJK III,Reactive Gas,Poor,25.84
+Cache,FQ-COP,LJ-RJK,LJ-RJK III,Noble Metals,Perfect,44.77
+Cache,FQ-COP,LJ-RJK,LJ-RJK III,Condensates,Medium,22.12
+Cache,FQ-COP,LJ-RJK,LJ-RJK IV,Gleaming Alloy,Rich,42.42
+Cache,FQ-COP,LJ-RJK,LJ-RJK IV,Glossy Compound,Medium,28.14
+Cache,FQ-COP,LJ-RJK,LJ-RJK IV,Noble Metals,Perfect,46.59
+Cache,FQ-COP,LJ-RJK,LJ-RJK IV,Smartfab Units,Rich,24.90
+Cache,FQ-COP,LJ-RJK,LJ-RJK V,Condensed Alloy,Perfect,47.18
+Cache,FQ-COP,LJ-RJK,LJ-RJK V,Fiber Composite,Rich,40.32
+Cache,FQ-COP,LJ-RJK,LJ-RJK V,Industrial Fibers,Rich,9.62
+Cache,FQ-COP,LJ-RJK,LJ-RJK V,Condensates,Perfect,32.74
+Cache,FQ-COP,LJ-RJK,LJ-RJK V,Heavy Water,Rich,409.08
+Cache,FQ-COP,LJ-RJK,LJ-RJK V,Liquid Ozone,Perfect,62.19
+Cache,FQ-COP,LJ-RJK,LJ-RJK VI,Lustering Alloy,Rich,41.61
+Cache,FQ-COP,LJ-RJK,LJ-RJK VI,Sheen Compound,Medium,34.22
+Cache,FQ-COP,LJ-RJK,LJ-RJK VI,Fiber Composite,Medium,26.85
+Cache,FQ-COP,LJ-RJK,LJ-RJK VI,Glossy Compound,Rich,44.24
+Cache,FQ-COP,LJ-RJK,LJ-RJK VI,Reactive Gas,Poor,23.60
+Cache,FQ-COP,LJ-RJK,LJ-RJK VI,Polyaramids,Perfect,30.07
+Cache,FQ-COP,LJ-RJK,LJ-RJK VII,Sheen Compound,Medium,29.79
+Cache,FQ-COP,LJ-RJK,LJ-RJK VII,Fiber Composite,Medium,33.96
+Cache,FQ-COP,LJ-RJK,LJ-RJK VII,Reactive Gas,Rich,36.37
+Cache,FQ-COP,LJ-RJK,LJ-RJK VII,Base Metals,Medium,7.80
+Cache,FQ-COP,LJ-RJK,LJ-RJK VII,Coolant,Medium,21.86
+Cache,FQ-COP,LJ-RJK,LJ-RJK VII,Ionic Solutions,Rich,14.75
+Cache,FQ-COP,LJ-RJK,LJ-RJK VIII,Lustering Alloy,Poor,26.38
+Cache,FQ-COP,LJ-RJK,LJ-RJK VIII,Sheen Compound,Rich,38.42
+Cache,FQ-COP,LJ-RJK,LJ-RJK VIII,Glossy Compound,Medium,30.49
+Cache,FQ-COP,LJ-RJK,LJ-RJK VIII,Reactive Metals,Medium,7.85
+Cache,FQ-COP,LJ-RJK,LJ-RJK VIII,Coolant,Perfect,30.15
+Cache,FQ-COP,LJ-RJK,LJ-RJK VIII,Ionic Solutions,Medium,13.26
+Cache,FQ-COP,LJ-RJK,LJ-RJK IX,Crystal Compound,Poor,25.70
+Cache,FQ-COP,LJ-RJK,LJ-RJK IX,Supertensile Plastics,Perfect,30.43
+Cache,FQ-COP,LJ-RJK,LJ-RJK IX,Construction Blocks,Rich,40.63
+Cache,FQ-COP,LJ-RJK,LJ-RJK IX,Nanites,Medium,8.86
+Cache,FQ-COP,LJ-RJK,LJ-RJK IX,Suspended Plasma,Rich,145.05
+Cache,FQ-COP,LJ-RJK,LJ-RJK X,Precious Alloy,Poor,23.41
+Cache,FQ-COP,LJ-RJK,LJ-RJK X,Dark Compound,Medium,26.80
+Cache,FQ-COP,LJ-RJK,LJ-RJK X,Industrial Fibers,Medium,8.23
+Cache,FQ-COP,LJ-RJK,LJ-RJK X,Construction Blocks,Poor,19.38
+Cache,FQ-COP,LJ-RJK,LJ-RJK X,Oxygen Isotopes,Poor,3.84
+Cache,FQ-COP,LJ-RJK,LJ-RJK XI,Precious Alloy,Medium,33.52
+Cache,FQ-COP,LJ-RJK,LJ-RJK XI,Dark Compound,Medium,30.27
+Cache,FQ-COP,LJ-RJK,LJ-RJK XI,Silicate Glass,Medium,15.51
+Cache,FQ-COP,LJ-RJK,LJ-RJK XI,Oxygen Isotopes,Poor,3.40
+Cache,FQ-COP,LJ-RJK,LJ-RJK XI,Plasmoids,Medium,2.03
+Cache,FQ-COP,8-VC6H,8-VC6H I,Precious Alloy,Medium,36.90
+Cache,FQ-COP,8-VC6H,8-VC6H I,Dark Compound,Poor,21.06
+Cache,FQ-COP,8-VC6H,8-VC6H I,Industrial Fibers,Medium,8.64
+Cache,FQ-COP,8-VC6H,8-VC6H I,Supertensile Plastics,Medium,23.04
+Cache,FQ-COP,8-VC6H,8-VC6H I,Silicate Glass,Poor,12.02
+Cache,FQ-COP,8-VC6H,8-VC6H II,Lustering Alloy,Poor,24.72
+Cache,FQ-COP,8-VC6H,8-VC6H II,Sheen Compound,Medium,35.97
+Cache,FQ-COP,8-VC6H,8-VC6H II,Noble Gas,Perfect,48.00
+Cache,FQ-COP,8-VC6H,8-VC6H II,Reactive Metals,Medium,9.29
+Cache,FQ-COP,8-VC6H,8-VC6H II,Coolant,Medium,19.90
+Cache,FQ-COP,8-VC6H,8-VC6H II,Ionic Solutions,Poor,10.88
+Cache,FQ-COP,8-VC6H,8-VC6H III,Sheen Compound,Medium,28.86
+Cache,FQ-COP,8-VC6H,8-VC6H III,Glossy Compound,Medium,30.24
+Cache,FQ-COP,8-VC6H,8-VC6H III,Noble Gas,Rich,38.40
+Cache,FQ-COP,8-VC6H,8-VC6H III,Reactive Metals,Rich,11.28
+Cache,FQ-COP,8-VC6H,8-VC6H III,Polyaramids,Medium,21.22
+Cache,FQ-COP,8-VC6H,8-VC6H III,Ionic Solutions,Rich,15.64
+Cache,FQ-COP,8-VC6H,8-VC6H IV,Lustering Alloy,Medium,31.95
+Cache,FQ-COP,8-VC6H,8-VC6H IV,Fiber Composite,Medium,37.59
+Cache,FQ-COP,8-VC6H,8-VC6H IV,Reactive Gas,Poor,25.11
+Cache,FQ-COP,8-VC6H,8-VC6H IV,Noble Gas,Poor,27.54
+Cache,FQ-COP,8-VC6H,8-VC6H IV,Base Metals,Rich,10.35
+Cache,FQ-COP,8-VC6H,8-VC6H IV,Polyaramids,Medium,21.32
+Cache,FQ-COP,8-VC6H,8-VC6H V,Precious Alloy,Poor,26.70
+Cache,FQ-COP,8-VC6H,8-VC6H V,Dark Compound,Poor,22.14
+Cache,FQ-COP,8-VC6H,8-VC6H V,Base Metals,Medium,9.28
+Cache,FQ-COP,8-VC6H,8-VC6H V,Oxygen Isotopes,Poor,4.22
+Cache,FQ-COP,8-VC6H,8-VC6H V,Plasmoids,Medium,2.10
+Cache,FQ-COP,8-VC6H,8-VC6H VI,Precious Alloy,Medium,37.77
+Cache,FQ-COP,8-VC6H,8-VC6H VI,Base Metals,Medium,8.41
+Cache,FQ-COP,8-VC6H,8-VC6H VI,Industrial Fibers,Poor,7.42
+Cache,FQ-COP,8-VC6H,8-VC6H VI,Coolant,Medium,19.64
+Cache,FQ-COP,8-VC6H,8-VC6H VI,Condensates,Rich,27.38
+Cache,MRC-29,LQ-01M,LQ-01M I,Lustering Alloy,Medium,30.27
+Cache,MRC-29,LQ-01M,LQ-01M I,Precious Alloy,Medium,30.50
+Cache,MRC-29,LQ-01M,LQ-01M I,Dark Compound,Medium,28.82
+Cache,MRC-29,LQ-01M,LQ-01M I,Silicate Glass,Medium,12.66
+Cache,MRC-29,LQ-01M,LQ-01M I,Oxygen Isotopes,Poor,2.39
+Cache,MRC-29,LQ-01M,LQ-01M II,Dark Compound,Poor,16.00
+Cache,MRC-29,LQ-01M,LQ-01M II,Toxic Metals,Poor,6.17
+Cache,MRC-29,LQ-01M,LQ-01M II,Industrial Fibers,Medium,7.06
+Cache,MRC-29,LQ-01M,LQ-01M II,Construction Blocks,Poor,19.35
+Cache,MRC-29,LQ-01M,LQ-01M II,Silicate Glass,Poor,9.26
+Cache,MRC-29,LQ-01M,LQ-01M III,Glossy Compound,Rich,39.00
+Cache,MRC-29,LQ-01M,LQ-01M III,Noble Gas,Rich,35.88
+Cache,MRC-29,LQ-01M,LQ-01M III,Polyaramids,Rich,21.72
+Cache,MRC-29,LQ-01M,LQ-01M III,Construction Blocks,Medium,30.45
+Cache,MRC-29,LQ-01M,LQ-01M IV,Sheen Compound,Rich,32.27
+Cache,MRC-29,LQ-01M,LQ-01M IV,Fiber Composite,Rich,36.25
+Cache,MRC-29,LQ-01M,LQ-01M IV,Noble Gas,Rich,31.77
+Cache,MRC-29,LQ-01M,LQ-01M IV,Reactive Metals,Rich,10.25
+Cache,MRC-29,LQ-01M,LQ-01M IV,Coolant,Perfect,26.52
+Cache,MRC-29,LQ-01M,LQ-01M IV,Ionic Solutions,Rich,14.37
+Cache,MRC-29,LQ-01M,LQ-01M V,Sheen Compound,Rich,32.63
+Cache,MRC-29,LQ-01M,LQ-01M V,Fiber Composite,Rich,37.15
+Cache,MRC-29,LQ-01M,LQ-01M V,Reactive Gas,Medium,29.25
+Cache,MRC-29,LQ-01M,LQ-01M V,Base Metals,Rich,8.89
+Cache,MRC-29,LQ-01M,LQ-01M V,Reactive Metals,Poor,5.90
+Cache,MRC-29,LQ-01M,LQ-01M V,Polyaramids,Perfect,26.95
+Cache,MRC-29,LQ-01M,LQ-01M VI,Lustering Alloy,Rich,33.70
+Cache,MRC-29,LQ-01M,LQ-01M VI,Fiber Composite,Medium,26.65
+Cache,MRC-29,LQ-01M,LQ-01M VI,Glossy Compound,Poor,22.27
+Cache,MRC-29,LQ-01M,LQ-01M VI,Base Metals,Rich,9.88
+Cache,MRC-29,LQ-01M,LQ-01M VI,Coolant,Rich,23.18
+Cache,MRC-29,LQ-01M,LQ-01M VI,Ionic Solutions,Medium,9.48
+Cache,MRC-29,LQ-01M,LQ-01M VII,Lustering Alloy,Medium,30.27
+Cache,MRC-29,LQ-01M,LQ-01M VII,Sheen Compound,Poor,21.07
+Cache,MRC-29,LQ-01M,LQ-01M VII,Fiber Composite,Poor,21.32
+Cache,MRC-29,LQ-01M,LQ-01M VII,Reactive Metals,Medium,6.39
+Cache,MRC-29,LQ-01M,LQ-01M VII,Polyaramids,Perfect,26.48
+Cache,MRC-29,LQ-01M,LQ-01M VII,Ionic Solutions,Medium,12.33
+Cache,MRC-29,LQ-01M,LQ-01M VIII,Precious Alloy,Medium,28.75
+Cache,MRC-29,LQ-01M,LQ-01M VIII,Dark Compound,Poor,19.40
+Cache,MRC-29,LQ-01M,LQ-01M VIII,Supertensile Plastics,Poor,12.15
+Cache,MRC-29,LQ-01M,LQ-01M VIII,Oxygen Isotopes,Poor,2.39
+Cache,MRC-29,LQ-01M,LQ-01M VIII,Plasmoids,Medium,1.71
+Cache,MRC-29,NG-M8K,NG-M8K I,Sheen Compound,Rich,42.46
+Cache,MRC-29,NG-M8K,NG-M8K I,Lucent Compound,Rich,40.60
+Cache,MRC-29,NG-M8K,NG-M8K I,Dark Compound,Medium,28.68
+Cache,MRC-29,NG-M8K,NG-M8K I,Condensates,Rich,25.15
+Cache,MRC-29,NG-M8K,NG-M8K I,Nanites,Perfect,12.52
+Cache,MRC-29,NG-M8K,NG-M8K I,Ionic Solutions,Medium,12.79
+Cache,MRC-29,NG-M8K,NG-M8K II,Dark Compound,Perfect,46.55
+Cache,MRC-29,NG-M8K,NG-M8K II,Noble Gas,Rich,42.37
+Cache,MRC-29,NG-M8K,NG-M8K II,Condensates,Poor,17.55
+Cache,MRC-29,NG-M8K,NG-M8K II,Nanites,Perfect,13.49
+Cache,MRC-29,NG-M8K,NG-M8K II,Suspended Plasma,Rich,159.63
+Cache,MRC-29,NG-M8K,NG-M8K II,Ionic Solutions,Perfect,19.36
+Cache,MRC-29,NG-M8K,NG-M8K III,Glossy Compound,Medium,34.08
+Cache,MRC-29,NG-M8K,NG-M8K III,Noble Gas,Medium,32.34
+Cache,MRC-29,NG-M8K,NG-M8K III,Heavy Metals,Medium,32.10
+Cache,MRC-29,NG-M8K,NG-M8K III,Smartfab Units,Perfect,30.76
+Cache,MRC-29,NG-M8K,NG-M8K IV,Glossy Compound,Medium,28.62
+Cache,MRC-29,NG-M8K,NG-M8K IV,Heavy Metals,Medium,32.65
+Cache,MRC-29,NG-M8K,NG-M8K IV,Noble Metals,Rich,37.15
+Cache,MRC-29,NG-M8K,NG-M8K IV,Construction Blocks,Medium,33.96
+Cache,MRC-29,NG-M8K,NG-M8K V,Lustering Alloy,Medium,29.99
+Cache,MRC-29,NG-M8K,NG-M8K V,Sheen Compound,Medium,32.07
+Cache,MRC-29,NG-M8K,NG-M8K V,Fiber Composite,Medium,30.62
+Cache,MRC-29,NG-M8K,NG-M8K V,Glossy Compound,Poor,25.03
+Cache,MRC-29,NG-M8K,NG-M8K V,Polyaramids,Poor,16.47
+Cache,MRC-29,NG-M8K,NG-M8K V,Ionic Solutions,Poor,10.30
+Cache,MRC-29,NG-M8K,NG-M8K VI,Lustering Alloy,Rich,45.30
+Cache,MRC-29,NG-M8K,NG-M8K VI,Glossy Compound,Medium,35.58
+Cache,MRC-29,NG-M8K,NG-M8K VI,Noble Gas,Perfect,47.56
+Cache,MRC-29,NG-M8K,NG-M8K VI,Reactive Metals,Medium,9.30
+Cache,MRC-29,NG-M8K,NG-M8K VI,Coolant,Perfect,31.55
+Cache,MRC-29,NG-M8K,NG-M8K VI,Ionic Solutions,Perfect,19.26
+Cache,MRC-29,NG-M8K,NG-M8K VII,Sheen Compound,Rich,45.97
+Cache,MRC-29,NG-M8K,NG-M8K VII,Glossy Compound,Poor,26.56
+Cache,MRC-29,NG-M8K,NG-M8K VII,Base Metals,Medium,7.71
+Cache,MRC-29,NG-M8K,NG-M8K VII,Reactive Metals,Medium,9.56
+Cache,MRC-29,NG-M8K,NG-M8K VII,Polyaramids,Medium,23.16
+Cache,MRC-29,NG-M8K,NG-M8K VII,Ionic Solutions,Perfect,19.23
+Cache,MRC-29,NG-M8K,NG-M8K VIII,Lustering Alloy,Rich,39.03
+Cache,MRC-29,NG-M8K,NG-M8K VIII,Sheen Compound,Perfect,47.85
+Cache,MRC-29,NG-M8K,NG-M8K VIII,Fiber Composite,Rich,42.48
+Cache,MRC-29,NG-M8K,NG-M8K VIII,Noble Gas,Medium,28.71
+Cache,MRC-29,NG-M8K,NG-M8K VIII,Reactive Metals,Rich,11.88
+Cache,MRC-29,NG-M8K,NG-M8K VIII,Ionic Solutions,Rich,18.34
+Cache,MRC-29,NG-M8K,NG-M8K IX,Lucent Compound,Rich,39.88
+Cache,MRC-29,NG-M8K,NG-M8K IX,Crystal Compound,Medium,30.80
+Cache,MRC-29,NG-M8K,NG-M8K IX,Toxic Metals,Medium,9.33
+Cache,MRC-29,NG-M8K,NG-M8K IX,Construction Blocks,Medium,30.39
+Cache,MRC-29,NG-M8K,NG-M8K IX,Nanites,Rich,10.77
+Cache,MRC-29,NG-M8K,NG-M8K X,Lustering Alloy,Poor,26.27
+Cache,MRC-29,NG-M8K,NG-M8K X,Dark Compound,Medium,30.86
+Cache,MRC-29,NG-M8K,NG-M8K X,Supertensile Plastics,Medium,22.70
+Cache,MRC-29,NG-M8K,NG-M8K X,Construction Blocks,Medium,29.49
+Cache,MRC-29,NG-M8K,NG-M8K X,Plasmoids,Poor,1.57
+Cache,MRC-29,NG-M8K,NG-M8K XI,Precious Alloy,Medium,34.63
+Cache,MRC-29,NG-M8K,NG-M8K XI,Motley Compound,Medium,31.32
+Cache,MRC-29,NG-M8K,NG-M8K XI,Base Metals,Rich,10.36
+Cache,MRC-29,NG-M8K,NG-M8K XI,Heavy Metals,Rich,36.74
+Cache,MRC-29,NG-M8K,NG-M8K XI,Industrial Fibers,Rich,9.93
+Cache,MRC-29,RV5-TT,RV5-TT I,Gleaming Alloy,Poor,19.89
+Cache,MRC-29,RV5-TT,RV5-TT I,Glossy Compound,Medium,25.76
+Cache,MRC-29,RV5-TT,RV5-TT I,Noble Gas,Perfect,38.18
+Cache,MRC-29,RV5-TT,RV5-TT II,Gleaming Alloy,Rich,29.65
+Cache,MRC-29,RV5-TT,RV5-TT II,Smartfab Units,Rich,24.17
+Cache,MRC-29,RV5-TT,RV5-TT II,Plasmoids,Rich,2.07
+Cache,MRC-29,RV5-TT,RV5-TT III,Gleaming Alloy,Rich,31.35
+Cache,MRC-29,RV5-TT,RV5-TT III,Reactive Metals,Poor,4.99
+Cache,MRC-29,RV5-TT,RV5-TT III,Supertensile Plastics,Poor,13.43
+Cache,MRC-29,RV5-TT,RV5-TT III,Suspended Plasma,Medium,81.81
+Cache,MRC-29,RV5-TT,RV5-TT IV,Precious Alloy,Poor,18.97
+Cache,MRC-29,RV5-TT,RV5-TT IV,Supertensile Plastics,Poor,10.21
+Cache,MRC-29,RV5-TT,RV5-TT IV,Construction Blocks,Poor,18.84
+Cache,MRC-29,RV5-TT,RV5-TT IV,Silicate Glass,Poor,9.84
+Cache,MRC-29,RV5-TT,RV5-TT V,Lustering Alloy,Poor,18.08
+Cache,MRC-29,RV5-TT,RV5-TT V,Base Metals,Medium,7.25
+Cache,MRC-29,RV5-TT,RV5-TT V,Industrial Fibers,Poor,3.89
+Cache,MRC-29,RV5-TT,RV5-TT V,Supertensile Plastics,Medium,15.04
+Cache,MRC-29,RV5-TT,RV5-TT VI,Condensed Alloy,Medium,25.16
+Cache,MRC-29,RV5-TT,RV5-TT VI,Base Metals,Rich,8.10
+Cache,MRC-29,RV5-TT,RV5-TT VI,Noble Metals,Perfect,41.95
+Cache,MRC-29,RV5-TT,RV5-TT VI,Condensates,Rich,23.44
+Cache,MRC-29,RV5-TT,RV5-TT VI,Liquid Ozone,Medium,28.29
+Cache,MRC-29,RV5-TT,RV5-TT VII,Opulent Compound,Poor,21.23
+Cache,MRC-29,RV5-TT,RV5-TT VII,Noble Metals,Perfect,39.05
+Cache,MRC-29,RV5-TT,RV5-TT VII,Coolant,Poor,13.51
+Cache,MRC-29,RV5-TT,RV5-TT VII,Liquid Ozone,Perfect,48.73
+Cache,MRC-29,RV5-TT,RV5-TT VII,Ionic Solutions,Medium,9.11
+Cache,MRC-29,RV5-TT,RV5-TT VIII,Crystal Compound,Medium,25.71
+Cache,MRC-29,RV5-TT,RV5-TT VIII,Reactive Gas,Poor,20.82
+Cache,MRC-29,RV5-TT,RV5-TT VIII,Reactive Metals,Rich,8.20
+Cache,MRC-29,RV5-TT,RV5-TT VIII,Suspended Plasma,Perfect,131.65
+Cache,MRC-29,RV5-TT,RV5-TT IX,Lustering Alloy,Medium,25.81
+Cache,MRC-29,RV5-TT,RV5-TT IX,Sheen Compound,Rich,31.62
+Cache,MRC-29,RV5-TT,RV5-TT IX,Reactive Gas,Rich,31.46
+Cache,MRC-29,RV5-TT,RV5-TT IX,Base Metals,Perfect,9.83
+Cache,MRC-29,RV5-TT,RV5-TT IX,Ionic Solutions,Medium,9.57
+Cache,MRC-29,RV5-TT,RV5-TT X,Base Metals,Poor,4.56
+Cache,MRC-29,RV5-TT,RV5-TT X,Heavy Metals,Rich,33.56
+Cache,MRC-29,RV5-TT,RV5-TT X,Condensates,Poor,12.25
+Cache,MRC-29,RV5-TT,RV5-TT X,Suspended Plasma,Rich,111.37
+Cache,MRC-29,8OYE-Z,8OYE-Z I,Dark Compound,Medium,30.35
+Cache,MRC-29,8OYE-Z,8OYE-Z I,Toxic Metals,Medium,6.99
+Cache,MRC-29,8OYE-Z,8OYE-Z I,Silicate Glass,Poor,10.95
+Cache,MRC-29,8OYE-Z,8OYE-Z I,Oxygen Isotopes,Poor,3.34
+Cache,MRC-29,8OYE-Z,8OYE-Z I,Plasmoids,Medium,1.48
+Cache,MRC-29,8OYE-Z,8OYE-Z II,Dark Compound,Poor,20.98
+Cache,MRC-29,8OYE-Z,8OYE-Z II,Industrial Fibers,Poor,6.20
+Cache,MRC-29,8OYE-Z,8OYE-Z II,Construction Blocks,Poor,16.70
+Cache,MRC-29,8OYE-Z,8OYE-Z II,Silicate Glass,Medium,14.00
+Cache,MRC-29,8OYE-Z,8OYE-Z II,Plasmoids,Medium,1.81
+Cache,MRC-29,8OYE-Z,8OYE-Z III,Lustering Alloy,Medium,26.43
+Cache,MRC-29,8OYE-Z,8OYE-Z III,Sheen Compound,Rich,35.20
+Cache,MRC-29,8OYE-Z,8OYE-Z III,Noble Gas,Medium,29.02
+Cache,MRC-29,8OYE-Z,8OYE-Z III,Base Metals,Medium,6.38
+Cache,MRC-29,8OYE-Z,8OYE-Z III,Polyaramids,Medium,18.18
+Cache,MRC-29,8OYE-Z,8OYE-Z III,Coolant,Medium,17.57
+Cache,MRC-29,8OYE-Z,8OYE-Z IV,Gleaming Alloy,Medium,28.93
+Cache,MRC-29,8OYE-Z,8OYE-Z IV,Glossy Compound,Poor,20.60
+Cache,MRC-29,8OYE-Z,8OYE-Z IV,Heavy Metals,Medium,25.98
+Cache,MRC-29,8OYE-Z,8OYE-Z IV,Noble Metals,Medium,23.65
+Cache,MRC-29,8OYE-Z,8OYE-Z V,Lustering Alloy,Poor,20.77
+Cache,MRC-29,8OYE-Z,8OYE-Z V,Fiber Composite,Rich,33.33
+Cache,MRC-29,8OYE-Z,8OYE-Z V,Base Metals,Poor,6.16
+Cache,MRC-29,8OYE-Z,8OYE-Z V,Reactive Metals,Rich,9.54
+Cache,MRC-29,8OYE-Z,8OYE-Z V,Polyaramids,Rich,24.17
+Cache,MRC-29,8OYE-Z,8OYE-Z V,Coolant,Medium,17.67
+Cache,MRC-29,8OYE-Z,8OYE-Z VI,Reactive Gas,Rich,38.58
+Cache,MRC-29,8OYE-Z,8OYE-Z VI,Noble Gas,Rich,33.75
+Cache,MRC-29,8OYE-Z,8OYE-Z VI,Reactive Metals,Poor,5.88
+Cache,MRC-29,8OYE-Z,8OYE-Z VI,Polyaramids,Rich,21.33
+Cache,MRC-29,8OYE-Z,8OYE-Z VI,Coolant,Perfect,26.52
+Cache,MRC-29,8OYE-Z,8OYE-Z VI,Ionic Solutions,Medium,9.70
+Cache,MRC-29,8OYE-Z,8OYE-Z VII,Precious Alloy,Medium,31.55
+Cache,MRC-29,8OYE-Z,8OYE-Z VII,Industrial Fibers,Rich,8.48
+Cache,MRC-29,8OYE-Z,8OYE-Z VII,Supertensile Plastics,Medium,17.28
+Cache,MRC-29,8OYE-Z,8OYE-Z VII,Condensates,Rich,22.38
+Cache,MRC-29,8OYE-Z,8OYE-Z VII,Suspended Plasma,Poor,71.37
+Cache,MRC-29,8OYE-Z,8OYE-Z VIII,Precious Alloy,Medium,27.93
+Cache,MRC-29,8OYE-Z,8OYE-Z VIII,Dark Compound,Medium,29.13
+Cache,MRC-29,8OYE-Z,8OYE-Z VIII,Base Metals,Medium,7.99
+Cache,MRC-29,8OYE-Z,8OYE-Z VIII,Toxic Metals,Poor,5.41
+Cache,MRC-29,8OYE-Z,8OYE-Z VIII,Silicate Glass,Poor,9.31
+Cache,MRC-29,8OYE-Z,8OYE-Z IX,Dark Compound,Medium,24.38
+Cache,MRC-29,8OYE-Z,8OYE-Z IX,Industrial Fibers,Poor,5.41
+Cache,MRC-29,8OYE-Z,8OYE-Z IX,Supertensile Plastics,Medium,18.27
+Cache,MRC-29,8OYE-Z,8OYE-Z IX,Construction Blocks,Medium,29.05
+Cache,MRC-29,8OYE-Z,8OYE-Z IX,Plasmoids,Poor,1.15
+Cache,MRC-29,K85Y-6,K85Y-6 I,Lucent Compound,Rich,43.68
+Cache,MRC-29,K85Y-6,K85Y-6 I,Crystal Compound,Rich,47.04
+Cache,MRC-29,K85Y-6,K85Y-6 I,Reactive Metals,Rich,10.96
+Cache,MRC-29,K85Y-6,K85Y-6 I,Construction Blocks,Rich,42.36
+Cache,MRC-29,K85Y-6,K85Y-6 I,Nanites,Rich,11.56
+Cache,MRC-29,K85Y-6,K85Y-6 II,Condensed Alloy,Rich,38.88
+Cache,MRC-29,K85Y-6,K85Y-6 II,Fiber Composite,Medium,32.31
+Cache,MRC-29,K85Y-6,K85Y-6 II,Opulent Compound,Rich,40.29
+Cache,MRC-29,K85Y-6,K85Y-6 II,Condensates,Rich,29.94
+Cache,MRC-29,K85Y-6,K85Y-6 II,Smartfab Units,Medium,19.08
+Cache,MRC-29,K85Y-6,K85Y-6 II,Heavy Water,Perfect,535.80
+Cache,MRC-29,K85Y-6,K85Y-6 III,Glossy Compound,Poor,28.23
+Cache,MRC-29,K85Y-6,K85Y-6 III,Heavy Metals,Perfect,48.51
+Cache,MRC-29,K85Y-6,K85Y-6 III,Noble Metals,Rich,46.29
+Cache,MRC-29,K85Y-6,K85Y-6 III,Smartfab Units,Medium,21.30
+Cache,MRC-29,K85Y-6,K85Y-6 IV,Lustering Alloy,Rich,39.39
+Cache,MRC-29,K85Y-6,K85Y-6 IV,Fiber Composite,Medium,31.05
+Cache,MRC-29,K85Y-6,K85Y-6 IV,Reactive Gas,Poor,28.02
+Cache,MRC-29,K85Y-6,K85Y-6 IV,Base Metals,Perfect,13.07
+Cache,MRC-29,K85Y-6,K85Y-6 IV,Coolant,Medium,24.52
+Cache,MRC-29,K85Y-6,K85Y-6 IV,Ionic Solutions,Perfect,19.19
+Cache,MRC-29,K85Y-6,K85Y-6 V,Lustering Alloy,Rich,45.66
+Cache,MRC-29,K85Y-6,K85Y-6 V,Glossy Compound,Rich,40.41
+Cache,MRC-29,K85Y-6,K85Y-6 V,Reactive Gas,Rich,41.88
+Cache,MRC-29,K85Y-6,K85Y-6 V,Reactive Metals,Medium,9.47
+Cache,MRC-29,K85Y-6,K85Y-6 V,Coolant,Rich,26.56
+Cache,MRC-29,K85Y-6,K85Y-6 V,Ionic Solutions,Rich,17.24
+Cache,MRC-29,K85Y-6,K85Y-6 VI,Lustering Alloy,Medium,32.85
+Cache,MRC-29,K85Y-6,K85Y-6 VI,Glossy Compound,Poor,28.23
+Cache,MRC-29,K85Y-6,K85Y-6 VI,Base Metals,Medium,7.46
+Cache,MRC-29,K85Y-6,K85Y-6 VI,Reactive Metals,Rich,10.67
+Cache,MRC-29,K85Y-6,K85Y-6 VI,Polyaramids,Rich,30.20
+Cache,MRC-29,K85Y-6,K85Y-6 VI,Coolant,Rich,29.20
+Cache,MRC-29,K85Y-6,K85Y-6 VII,Precious Alloy,Rich,38.34
+Cache,MRC-29,K85Y-6,K85Y-6 VII,Base Metals,Poor,6.21
+Cache,MRC-29,K85Y-6,K85Y-6 VII,Heavy Metals,Medium,35.52
+Cache,MRC-29,K85Y-6,K85Y-6 VII,Industrial Fibers,Medium,8.70
+Cache,MRC-29,K85Y-6,K85Y-6 VII,Liquid Ozone,Medium,45.30
+Cache,MRC-29,PKN-NJ,PKN-NJ I,Precious Alloy,Poor,14.12
+Cache,MRC-29,PKN-NJ,PKN-NJ I,Dark Compound,Poor,13.90
+Cache,MRC-29,PKN-NJ,PKN-NJ I,Toxic Metals,Medium,5.60
+Cache,MRC-29,PKN-NJ,PKN-NJ I,Supertensile Plastics,Medium,15.71
+Cache,MRC-29,PKN-NJ,PKN-NJ II,Gleaming Alloy,Rich,31.75
+Cache,MRC-29,PKN-NJ,PKN-NJ II,Heavy Metals,Poor,20.61
+Cache,MRC-29,PKN-NJ,PKN-NJ II,Oxygen Isotopes,Medium,3.92
+Cache,MRC-29,PKN-NJ,PKN-NJ III,Lustering Alloy,Medium,24.53
+Cache,MRC-29,PKN-NJ,PKN-NJ III,Industrial Fibers,Poor,4.55
+Cache,MRC-29,PKN-NJ,PKN-NJ III,Supertensile Plastics,Poor,10.66
+Cache,MRC-29,PKN-NJ,PKN-NJ III,Plasmoids,Medium,1.51
+Cache,MRC-29,PKN-NJ,PKN-NJ IV,Industrial Fibers,Poor,3.94
+Cache,MRC-29,PKN-NJ,PKN-NJ IV,Supertensile Plastics,Poor,10.84
+Cache,MRC-29,PKN-NJ,PKN-NJ IV,Construction Blocks,Poor,15.51
+Cache,MRC-29,PKN-NJ,PKN-NJ IV,Plasmoids,Medium,1.36
+Cache,MRC-29,PKN-NJ,PKN-NJ V,Base Metals,Poor,3.76
+Cache,MRC-29,PKN-NJ,PKN-NJ V,Industrial Fibers,Poor,5.26
+Cache,MRC-29,PKN-NJ,PKN-NJ V,Supertensile Plastics,Medium,16.66
+Cache,MRC-29,PKN-NJ,PKN-NJ V,Oxygen Isotopes,Poor,2.29
+Cache,MRC-29,PKN-NJ,PKN-NJ VI,Lustering Alloy,Medium,23.69
+Cache,MRC-29,PKN-NJ,PKN-NJ VI,Base Metals,Poor,4.41
+Cache,MRC-29,PKN-NJ,PKN-NJ VI,Supertensile Plastics,Poor,9.24
+Cache,MRC-29,PKN-NJ,PKN-NJ VI,Oxygen Isotopes,Poor,2.06
+Cache,MRC-29,PKN-NJ,PKN-NJ VII,Lustering Alloy,Medium,25.70
+Cache,MRC-29,PKN-NJ,PKN-NJ VII,Industrial Fibers,Poor,4.09
+Cache,MRC-29,PKN-NJ,PKN-NJ VII,Supertensile Plastics,Medium,14.61
+Cache,MRC-29,PKN-NJ,PKN-NJ VII,Oxygen Isotopes,Medium,3.99
+Cache,MRC-29,PKN-NJ,PKN-NJ VIII,Condensed Alloy,Perfect,36.81
+Cache,MRC-29,PKN-NJ,PKN-NJ VIII,Reactive Gas,Medium,25.76
+Cache,MRC-29,PKN-NJ,PKN-NJ VIII,Condensates,Medium,17.06
+Cache,MRC-29,PKN-NJ,PKN-NJ VIII,Heavy Water,Perfect,415.58
+Cache,MRC-29,PKN-NJ,PKN-NJ VIII,Liquid Ozone,Perfect,45.10
+Cache,MRC-29,PKN-NJ,PKN-NJ IX,Gleaming Alloy,Perfect,35.79
+Cache,MRC-29,PKN-NJ,PKN-NJ IX,Reactive Metals,Medium,7.06
+Cache,MRC-29,PKN-NJ,PKN-NJ IX,Nanites,Rich,8.01
+Cache,MRC-29,PKN-NJ,PKN-NJ IX,Oxygen Isotopes,Rich,5.14
+Cache,MRC-29,PKN-NJ,PKN-NJ X,Precious Alloy,Poor,20.20
+Cache,MRC-29,PKN-NJ,PKN-NJ X,Industrial Fibers,Medium,7.09
+Cache,MRC-29,PKN-NJ,PKN-NJ X,Supertensile Plastics,Poor,9.77
+Cache,MRC-29,PKN-NJ,PKN-NJ X,Construction Blocks,Poor,18.48
+Cache,MRC-29,PKN-NJ,PKN-NJ XI,Sheen Compound,Rich,29.96
+Cache,MRC-29,PKN-NJ,PKN-NJ XI,Glossy Compound,Medium,23.87
+Cache,MRC-29,PKN-NJ,PKN-NJ XI,Reactive Gas,Poor,18.50
+Cache,MRC-29,PKN-NJ,PKN-NJ XI,Base Metals,Rich,7.39
+Cache,MRC-29,PKN-NJ,PKN-NJ XI,Polyaramids,Rich,21.90
+Cache,MRC-29,PKN-NJ,PKN-NJ XII,Sheen Compound,Rich,28.25
+Cache,MRC-29,PKN-NJ,PKN-NJ XII,Reactive Gas,Rich,30.10
+Cache,MRC-29,PKN-NJ,PKN-NJ XII,Noble Gas,Medium,26.27
+Cache,MRC-29,PKN-NJ,PKN-NJ XII,Base Metals,Medium,6.11
+Cache,MRC-29,PKN-NJ,PKN-NJ XII,Ionic Solutions,Poor,7.81
+Cache,MRC-29,PKN-NJ,PKN-NJ XIII,Lustering Alloy,Rich,30.95
+Cache,MRC-29,PKN-NJ,PKN-NJ XIII,Glossy Compound,Rich,32.58
+Cache,MRC-29,PKN-NJ,PKN-NJ XIII,Reactive Gas,Rich,33.59
+Cache,MRC-29,PKN-NJ,PKN-NJ XIII,Reactive Metals,Medium,7.15
+Cache,MRC-29,PKN-NJ,PKN-NJ XIII,Polyaramids,Rich,22.79
+Cache,MRC-29,PKN-NJ,PKN-NJ XIV,Precious Alloy,Medium,21.65
+Cache,MRC-29,PKN-NJ,PKN-NJ XIV,Motley Compound,Rich,28.60
+Cache,MRC-29,PKN-NJ,PKN-NJ XIV,Industrial Fibers,Rich,7.72
+Cache,MRC-29,PKN-NJ,PKN-NJ XIV,Condensates,Medium,14.62

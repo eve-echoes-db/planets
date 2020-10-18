@@ -1,0 +1,2042 @@
+Region,Constellation,System,Name,Item,Rate,Output
+Kador,Megeh,Hiroudeh,Hiroudeh I,Lustering Alloy,Medium,15.42
+Kador,Megeh,Hiroudeh,Hiroudeh I,Industrial Fibers,Poor,2.96
+Kador,Megeh,Hiroudeh,Hiroudeh I,Oxygen Isotopes,Poor,1.73
+Kador,Megeh,Hiroudeh,Hiroudeh II,Noble Gas,Medium,16.18
+Kador,Megeh,Hiroudeh,Hiroudeh II,Plasmoids,Rich,1.48
+Kador,Megeh,Hiroudeh,Hiroudeh III,Industrial Fibers,Poor,3.32
+Kador,Megeh,Hiroudeh,Hiroudeh III,Oxygen Isotopes,Poor,1.82
+Kador,Megeh,Hiroudeh,Hiroudeh III,Plasmoids,Poor,0.66
+Kador,Megeh,Hiroudeh,Hiroudeh IV,Dark Compound,Poor,13.92
+Kador,Megeh,Hiroudeh,Hiroudeh IV,Industrial Fibers,Medium,4.25
+Kador,Megeh,Hiroudeh,Hiroudeh IV,Plasmoids,Medium,1.04
+Kador,Megeh,Hiroudeh,Hiroudeh V,Base Metals,Poor,3.34
+Kador,Megeh,Hiroudeh,Hiroudeh V,Industrial Fibers,Poor,3.67
+Kador,Megeh,Hiroudeh,Hiroudeh V,Silicate Glass,Poor,6.96
+Kador,Megeh,Hiroudeh,Hiroudeh VI,Precious Alloy,Medium,17.01
+Kador,Megeh,Hiroudeh,Hiroudeh VI,Base Metals,Medium,4.51
+Kador,Megeh,Hiroudeh,Hiroudeh VI,Industrial Fibers,Medium,4.05
+Kador,Megeh,Hiroudeh,Hiroudeh VII,Glossy Compound,Rich,24.21
+Kador,Megeh,Hiroudeh,Hiroudeh VII,Noble Gas,Poor,13.50
+Kador,Megeh,Hiroudeh,Hiroudeh VIII,Lustering Alloy,Rich,22.64
+Kador,Megeh,Hiroudeh,Hiroudeh VIII,Sheen Compound,Medium,16.48
+Kador,Megeh,Hiroudeh,Hiroudeh VIII,Noble Gas,Perfect,26.48
+Kador,Megeh,Hiroudeh,Hiroudeh VIII,Reactive Metals,Perfect,6.95
+Kador,Megeh,Dresi,Dresi I,Lustering Alloy,Medium,15.97
+Kador,Megeh,Dresi,Dresi I,Base Metals,Medium,4.44
+Kador,Megeh,Dresi,Dresi II,Lustering Alloy,Poor,10.77
+Kador,Megeh,Dresi,Dresi II,Base Metals,Poor,2.44
+Kador,Megeh,Aphend,Aphend I,Condensates,Rich,13.97
+Kador,Megeh,Aphend,Aphend I,Nanites,Rich,4.76
+Kador,Megeh,Aphend,Aphend I,Suspended Plasma,Rich,79.73
+Kador,Megeh,Aphend,Aphend II,Motley Compound,Rich,21.63
+Kador,Megeh,Aphend,Aphend II,Noble Gas,Rich,18.94
+Kador,Megeh,Aphend,Aphend III,Lustering Alloy,Medium,14.43
+Kador,Megeh,Aphend,Aphend III,Base Metals,Poor,2.50
+Kador,Megeh,Aphend,Aphend IV,Lustering Alloy,Poor,12.15
+Kador,Megeh,Aphend,Aphend IV,Base Metals,Poor,2.96
+Kador,Megeh,Aphend,Aphend V,Condensed Alloy,Rich,21.77
+Kador,Megeh,Aphend,Aphend V,Heavy Water,Medium,135.24
+Kador,Megeh,Aphend,Aphend V,Liquid Ozone,Medium,17.05
+Kador,Megeh,Aphend,Aphend VI,Lustering Alloy,Rich,18.17
+Kador,Megeh,Aphend,Aphend VI,Fiber Composite,Perfect,22.75
+Kador,Megeh,Aphend,Aphend VI,Base Metals,Medium,3.97
+Kador,Megeh,Aphend,Aphend VII,Lustering Alloy,Poor,12.95
+Kador,Megeh,Aphend,Aphend VII,Base Metals,Medium,3.56
+Kador,Megeh,Aphend,Aphend VII,Coolant,Rich,12.37
+Kador,Megeh,Aphend,Aphend VIII,Lustering Alloy,Poor,11.73
+Kador,Megeh,Aphend,Aphend VIII,Base Metals,Medium,3.72
+Kador,Megeh,Aphend,Aphend VIII,Reactive Metals,Medium,4.03
+Kador,Megeh,Romi,Romi I,Lustering Alloy,Medium,14.87
+Kador,Megeh,Romi,Romi I,Base Metals,Medium,4.10
+Kador,Megeh,Romi,Romi II,Motley Compound,Medium,13.74
+Kador,Megeh,Romi,Romi II,Plasmoids,Rich,1.02
+Kador,Megeh,Romi,Romi III,Noble Gas,Medium,12.54
+Kador,Megeh,Romi,Romi III,Condensates,Medium,10.60
+Kador,Megeh,Romi,Romi III,Suspended Plasma,Perfect,78.90
+Kador,Megeh,Romi,Romi IV,Lustering Alloy,Rich,20.31
+Kador,Megeh,Romi,Romi IV,Sheen Compound,Poor,11.62
+Kador,Megeh,Romi,Romi IV,Base Metals,Poor,3.02
+Kador,Megeh,Romi,Romi V,Lustering Alloy,Rich,18.80
+Kador,Megeh,Romi,Romi V,Noble Gas,Medium,15.68
+Kador,Megeh,Romi,Romi V,Base Metals,Poor,3.09
+Kador,Megeh,Romi,Romi VI,Lustering Alloy,Perfect,21.22
+Kador,Megeh,Romi,Romi VI,Fiber Composite,Rich,17.86
+Kador,Megeh,Romi,Romi VI,Base Metals,Medium,3.26
+Kador,Megeh,Romi,Romi VII,Lustering Alloy,Rich,16.67
+Kador,Megeh,Romi,Romi VII,Base Metals,Poor,3.11
+Kador,Megeh,Romi,Romi VII,Reactive Metals,Rich,4.65
+Kador,Megeh,Zororzih,Zororzih I,Lustering Alloy,Medium,14.59
+Kador,Megeh,Zororzih,Zororzih I,Base Metals,Poor,2.56
+Kador,Megeh,Zororzih,Zororzih II,Lustering Alloy,Medium,15.35
+Kador,Megeh,Zororzih,Zororzih II,Base Metals,Medium,4.03
+Kador,Megeh,Zororzih,Zororzih III,Lustering Alloy,Medium,13.62
+Kador,Megeh,Zororzih,Zororzih III,Base Metals,Medium,3.57
+Kador,Megeh,Zororzih,Zororzih IV,Lustering Alloy,Poor,8.35
+Kador,Megeh,Zororzih,Zororzih IV,Base Metals,Medium,4.19
+Kador,Megeh,Zororzih,Zororzih V,Lustering Alloy,Medium,15.11
+Kador,Megeh,Zororzih,Zororzih V,Base Metals,Medium,3.90
+Kador,Megeh,Zororzih,Zororzih VI,Lustering Alloy,Poor,11.18
+Kador,Megeh,Zororzih,Zororzih VI,Base Metals,Perfect,5.63
+Kador,Megeh,Zororzih,Zororzih VI,Ionic Solutions,Medium,5.04
+Kador,Megeh,Zororzih,Zororzih VII,Lustering Alloy,Rich,17.29
+Kador,Megeh,Zororzih,Zororzih VII,Fiber Composite,Rich,19.02
+Kador,Megeh,Zororzih,Zororzih VII,Base Metals,Rich,5.22
+Kador,Megeh,Zororzih,Zororzih VIII,Lustering Alloy,Rich,19.42
+Kador,Megeh,Zororzih,Zororzih VIII,Base Metals,Perfect,5.49
+Kador,Megeh,Zororzih,Zororzih VIII,Polyaramids,Rich,13.50
+Kador,Megeh,Zororzih,Zororzih IX,Lustering Alloy,Medium,14.79
+Kador,Megeh,Zororzih,Zororzih IX,Base Metals,Poor,2.62
+Kador,Megeh,Zororzih,Zororzih X,Lustering Alloy,Poor,9.44
+Kador,Megeh,Zororzih,Zororzih X,Base Metals,Medium,4.23
+Kador,Megeh,Zororzih,Zororzih XI,Heavy Water,Rich,183.17
+Kador,Megeh,Zororzih,Zororzih XI,Liquid Ozone,Rich,20.80
+Kador,Megeh,Zororzih,Zororzih XI,Ionic Solutions,Poor,4.83
+Kador,Megeh,Aharalel,Aharalel I,Condensates,Medium,10.82
+Kador,Megeh,Aharalel,Aharalel I,Nanites,Rich,5.63
+Kador,Megeh,Aharalel,Aharalel I,Suspended Plasma,Medium,58.81
+Kador,Megeh,Aharalel,Aharalel II,Lustering Alloy,Poor,12.78
+Kador,Megeh,Aharalel,Aharalel II,Fiber Composite,Rich,23.10
+Kador,Megeh,Aharalel,Aharalel II,Base Metals,Medium,4.03
+Kador,Megeh,Aharalel,Aharalel III,Lustering Alloy,Poor,12.31
+Kador,Megeh,Aharalel,Aharalel III,Glossy Compound,Poor,13.92
+Kador,Megeh,Aharalel,Aharalel III,Base Metals,Rich,6.10
+Kador,Megeh,Aharalel,Aharalel IV,Lustering Alloy,Medium,18.11
+Kador,Megeh,Aharalel,Aharalel IV,Base Metals,Medium,3.81
+Kador,Megeh,Aharalel,Aharalel V,Lustering Alloy,Medium,17.40
+Kador,Megeh,Aharalel,Aharalel V,Base Metals,Medium,4.61
+Kador,Megeh,Gensela,Gensela I,Lustering Alloy,Poor,10.95
+Kador,Megeh,Gensela,Gensela I,Base Metals,Medium,4.11
+Kador,Megeh,Gensela,Gensela II,Lustering Alloy,Poor,11.61
+Kador,Megeh,Gensela,Gensela II,Base Metals,Medium,3.50
+Kador,Megeh,Gensela,Gensela III,Motley Compound,Poor,11.91
+Kador,Megeh,Gensela,Gensela III,Noble Metals,Rich,22.20
+Kador,Megeh,Gensela,Gensela IV,Lustering Alloy,Medium,13.82
+Kador,Megeh,Gensela,Gensela IV,Base Metals,Poor,2.63
+Kador,Megeh,Gensela,Gensela V,Construction Blocks,Medium,17.51
+Kador,Megeh,Gensela,Gensela V,Suspended Plasma,Medium,57.36
+Kador,Megeh,Gensela,Gensela VI,Crystal Compound,Medium,15.29
+Kador,Megeh,Gensela,Gensela VI,Suspended Plasma,Rich,64.66
+Kador,Megeh,Gensela,Gensela VII,Toxic Metals,Poor,3.07
+Kador,Megeh,Gensela,Gensela VII,Suspended Plasma,Perfect,82.05
+Kador,Megeh,Gensela,Gensela VIII,Lustering Alloy,Rich,20.19
+Kador,Megeh,Gensela,Gensela VIII,Base Metals,Rich,4.73
+Kador,Megeh,Gensela,Gensela VIII,Ionic Solutions,Medium,6.05
+Kador,Megeh,Gensela,Gensela IX,Lustering Alloy,Poor,11.73
+Kador,Megeh,Gensela,Gensela IX,Base Metals,Rich,5.72
+Kador,Megeh,Gensela,Gensela IX,Coolant,Rich,13.79
+Kador,Megeh,Gensela,Gensela X,Lustering Alloy,Medium,17.09
+Kador,Megeh,Gensela,Gensela X,Base Metals,Medium,4.56
+Kador,Megeh,Gensela,Gensela X,Polyaramids,Rich,12.62
+Kador,Megeh,Gensela,Gensela XI,Lustering Alloy,Rich,18.34
+Kador,Megeh,Gensela,Gensela XI,Base Metals,Poor,3.23
+Kador,Kakol,Ghesis,Ghesis I,Lustering Alloy,Medium,16.65
+Kador,Kakol,Ghesis,Ghesis I,Base Metals,Medium,4.15
+Kador,Kakol,Ghesis,Ghesis II,Reactive Metals,Rich,6.15
+Kador,Kakol,Ghesis,Ghesis II,Suspended Plasma,Rich,84.51
+Kador,Kakol,Ghesis,Ghesis III,Lustering Alloy,Poor,9.64
+Kador,Kakol,Ghesis,Ghesis III,Base Metals,Medium,4.76
+Kador,Kakol,Ghesis,Ghesis IV,Lustering Alloy,Poor,14.05
+Kador,Kakol,Ghesis,Ghesis IV,Reactive Gas,Rich,21.12
+Kador,Kakol,Ghesis,Ghesis IV,Base Metals,Perfect,6.51
+Kador,Kakol,Ghesis,Ghesis V,Lustering Alloy,Rich,20.40
+Kador,Kakol,Ghesis,Ghesis V,Sheen Compound,Rich,22.13
+Kador,Kakol,Ghesis,Ghesis V,Base Metals,Medium,4.80
+Kador,Kakol,Gamdis,Gamdis I,Lustering Alloy,Medium,15.83
+Kador,Kakol,Gamdis,Gamdis I,Base Metals,Poor,3.12
+Kador,Kakol,Gamdis,Gamdis II,Lustering Alloy,Medium,14.80
+Kador,Kakol,Gamdis,Gamdis II,Base Metals,Medium,3.93
+Kador,Kakol,Gamdis,Gamdis III,Fiber Composite,Rich,21.35
+Kador,Kakol,Gamdis,Gamdis III,Industrial Fibers,Perfect,6.63
+Kador,Kakol,Gamdis,Gamdis III,Heavy Water,Perfect,250.04
+Kador,Kakol,Gamdis,Gamdis IV,Lustering Alloy,Medium,14.11
+Kador,Kakol,Gamdis,Gamdis IV,Base Metals,Medium,4.09
+Kador,Kakol,Gamdis,Gamdis V,Supertensile Plastics,Medium,9.53
+Kador,Kakol,Gamdis,Gamdis V,Suspended Plasma,Poor,42.29
+Kador,Kakol,Gamdis,Gamdis VI,Smartfab Units,Rich,13.43
+Kador,Kakol,Gamdis,Gamdis VI,Heavy Water,Medium,169.26
+Kador,Kakol,Gamdis,Gamdis VI,Liquid Ozone,Perfect,29.94
+Kador,Kakol,Gamdis,Gamdis VII,Lustering Alloy,Poor,12.32
+Kador,Kakol,Gamdis,Gamdis VII,Glossy Compound,Poor,11.90
+Kador,Kakol,Gamdis,Gamdis VII,Base Metals,Medium,3.53
+Kador,Kakol,Gamdis,Gamdis VIII,Lustering Alloy,Medium,13.89
+Kador,Kakol,Gamdis,Gamdis VIII,Glossy Compound,Rich,21.88
+Kador,Kakol,Gamdis,Gamdis VIII,Base Metals,Poor,3.32
+Kador,Kakol,Gamdis,Gamdis IX,Lustering Alloy,Poor,11.47
+Kador,Kakol,Gamdis,Gamdis IX,Base Metals,Poor,3.12
+Kador,Kakol,Gamdis,Gamdis X,Lustering Alloy,Medium,13.65
+Kador,Kakol,Gamdis,Gamdis X,Glossy Compound,Perfect,23.23
+Kador,Kakol,Gamdis,Gamdis X,Base Metals,Medium,3.73
+Kador,Kakol,Gamdis,Gamdis XI,Lustering Alloy,Medium,14.46
+Kador,Kakol,Gamdis,Gamdis XI,Base Metals,Medium,3.70
+Kador,Kakol,Joamma,Joamma I,Lustering Alloy,Poor,13.52
+Kador,Kakol,Joamma,Joamma I,Base Metals,Poor,2.59
+Kador,Kakol,Joamma,Joamma II,Lustering Alloy,Medium,15.24
+Kador,Kakol,Joamma,Joamma II,Base Metals,Medium,4.53
+Kador,Kakol,Joamma,Joamma III,Smartfab Units,Medium,10.07
+Kador,Kakol,Joamma,Joamma III,Heavy Water,Poor,137.70
+Kador,Kakol,Joamma,Joamma III,Liquid Ozone,Medium,22.52
+Kador,Kakol,Joamma,Joamma IV,Condensed Alloy,Medium,15.09
+Kador,Kakol,Joamma,Joamma IV,Fiber Composite,Perfect,27.33
+Kador,Kakol,Joamma,Joamma IV,Heavy Water,Medium,188.85
+Kador,Kakol,Joamma,Joamma V,Toxic Metals,Medium,4.41
+Kador,Kakol,Joamma,Joamma V,Coolant,Medium,10.92
+Kador,Kakol,Joamma,Joamma V,Heavy Water,Perfect,252.00
+Kador,Kakol,Joamma,Joamma VI,Condensates,Medium,10.89
+Kador,Kakol,Joamma,Joamma VI,Smartfab Units,Medium,11.63
+Kador,Kakol,Joamma,Joamma VI,Heavy Water,Perfect,270.30
+Kador,Kakol,Joamma,Joamma VII,Lustering Alloy,Medium,18.63
+Kador,Kakol,Joamma,Joamma VII,Base Metals,Rich,5.66
+Kador,Kakol,Joamma,Joamma VII,Polyaramids,Medium,11.63
+Kador,Kakol,Joamma,Joamma VIII,Lustering Alloy,Medium,16.98
+Kador,Kakol,Joamma,Joamma VIII,Base Metals,Medium,4.90
+Kador,Kakol,Joamma,Joamma VIII,Polyaramids,Medium,10.13
+Kador,Kakol,Gonan,Gonan I,Noble Gas,Rich,24.14
+Kador,Kakol,Gonan,Gonan I,Noble Metals,Poor,13.18
+Kador,Kakol,Gonan,Gonan II,Dark Compound,Poor,12.54
+Kador,Kakol,Gonan,Gonan II,Industrial Fibers,Poor,3.40
+Kador,Kakol,Gonan,Gonan II,Silicate Glass,Medium,9.00
+Kador,Kakol,Gonan,Gonan III,Precious Alloy,Poor,13.28
+Kador,Kakol,Gonan,Gonan III,Base Metals,Medium,4.59
+Kador,Kakol,Gonan,Gonan III,Industrial Fibers,Medium,4.03
+Kador,Kakol,Gonan,Gonan IV,Condensed Alloy,Medium,18.40
+Kador,Kakol,Gonan,Gonan IV,Fiber Composite,Perfect,30.06
+Kador,Kakol,Gonan,Gonan IV,Condensates,Medium,12.44
+Kador,Kakol,Gonan,Gonan IV,Heavy Water,Rich,203.52
+Kador,Kakol,Gonan,Gonan V,Fiber Composite,Rich,20.96
+Kador,Kakol,Gonan,Gonan V,Base Metals,Rich,6.25
+Kador,Kakol,Gonan,Gonan V,Industrial Fibers,Perfect,6.69
+Kador,Kakol,Gonan,Gonan V,Liquid Ozone,Rich,27.28
+Kador,Kakol,Gonan,Gonan VI,Glossy Compound,Rich,22.35
+Kador,Kakol,Gonan,Gonan VI,Reactive Gas,Poor,13.63
+Kador,Kakol,Gonan,Gonan VI,Noble Gas,Perfect,25.78
+Kador,Kakol,Gonan,Gonan VI,Reactive Metals,Perfect,6.85
+Kador,Kakol,Gonan,Gonan VII,Noble Gas,Rich,21.90
+Kador,Kakol,Gonan,Gonan VII,Base Metals,Rich,6.04
+Kador,Kakol,Gonan,Gonan VII,Coolant,Medium,10.69
+Kador,Kakol,Gonan,Gonan VII,Ionic Solutions,Medium,6.56
+Kador,Kakol,Gonan,Gonan VIII,Lustering Alloy,Rich,24.74
+Kador,Kakol,Gonan,Gonan VIII,Noble Gas,Rich,22.56
+Kador,Kakol,Gonan,Gonan VIII,Polyaramids,Perfect,17.21
+Kador,Kakol,Gonan,Gonan VIII,Ionic Solutions,Rich,9.00
+Kador,Kakol,Gonan,Gonan IX,Glossy Compound,Medium,15.41
+Kador,Kakol,Gonan,Gonan IX,Noble Gas,Rich,22.88
+Kador,Kakol,Gonan,Gonan IX,Reactive Metals,Rich,5.62
+Kador,Kakol,Gonan,Gonan IX,Ionic Solutions,Rich,9.67
+Kador,Kakol,Gonan,Gonan X,Lustering Alloy,Medium,17.49
+Kador,Kakol,Gonan,Gonan X,Dark Compound,Medium,17.12
+Kador,Kakol,Gonan,Gonan X,Industrial Fibers,Medium,4.29
+Kador,Kakol,Joramok,Joramok I,Dark Compound,Perfect,21.94
+Kador,Kakol,Joramok,Joramok I,Reactive Metals,Perfect,6.05
+Kador,Kakol,Joramok,Joramok I,Suspended Plasma,Rich,72.82
+Kador,Kakol,Joramok,Joramok II,Noble Metals,Rich,16.85
+Kador,Kakol,Joramok,Joramok II,Toxic Metals,Rich,4.85
+Kador,Kakol,Joramok,Joramok II,Heavy Water,Medium,160.81
+Kador,Kakol,Joramok,Joramok III,Condensed Alloy,Perfect,22.26
+Kador,Kakol,Joramok,Joramok III,Noble Metals,Medium,15.68
+Kador,Kakol,Joramok,Joramok III,Heavy Water,Perfect,224.25
+Kador,Kakol,Joramok,Joramok IV,Lustering Alloy,Rich,18.41
+Kador,Kakol,Joramok,Joramok IV,Reactive Gas,Rich,20.38
+Kador,Kakol,Joramok,Joramok IV,Base Metals,Rich,5.36
+Kador,Kakol,Joramok,Joramok V,Reactive Gas,Perfect,21.48
+Kador,Kakol,Joramok,Joramok V,Base Metals,Medium,3.65
+Kador,Kakol,Joramok,Joramok V,Heavy Water,Medium,133.25
+Kador,Kakol,Joramok,Joramok VI,Lustering Alloy,Medium,13.25
+Kador,Kakol,Joramok,Joramok VI,Fiber Composite,Medium,14.57
+Kador,Kakol,Joramok,Joramok VI,Base Metals,Rich,4.69
+Kador,Kakol,Joramok,Joramok VII,Industrial Fibers,Perfect,6.39
+Kador,Kakol,Joramok,Joramok VII,Condensates,Medium,9.07
+Kador,Kakol,Joramok,Joramok VII,Heavy Water,Perfect,227.63
+Kador,Kakol,Joramok,Joramok VIII,Lustering Alloy,Poor,11.23
+Kador,Kakol,Joramok,Joramok VIII,Sheen Compound,Rich,16.85
+Kador,Kakol,Joramok,Joramok VIII,Base Metals,Medium,4.12
+Kador,Kakol,Joramok,Joramok IX,Condensed Alloy,Rich,20.21
+Kador,Kakol,Joramok,Joramok IX,Opulent Compound,Rich,19.14
+Kador,Kakol,Joramok,Joramok IX,Heavy Water,Medium,158.86
+Kador,Kakol,Neburab,Neburab I,Lucent Compound,Rich,24.66
+Kador,Kakol,Neburab,Neburab I,Dark Compound,Rich,21.73
+Kador,Kakol,Neburab,Neburab I,Heavy Metals,Medium,16.93
+Kador,Kakol,Neburab,Neburab I,Nanites,Medium,5.27
+Kador,Kakol,Neburab,Neburab II,Noble Gas,Perfect,27.10
+Kador,Kakol,Neburab,Neburab II,Plasmoids,Medium,1.18
+Kador,Kakol,Neburab,Neburab III,Gleaming Alloy,Rich,22.45
+Kador,Kakol,Neburab,Neburab III,Toxic Metals,Rich,6.34
+Kador,Kakol,Neburab,Neburab III,Construction Blocks,Rich,20.43
+Kador,Kakol,Neburab,Neburab IV,Noble Gas,Rich,24.67
+Kador,Kakol,Neburab,Neburab IV,Base Metals,Rich,5.82
+Kador,Kakol,Neburab,Neburab IV,Reactive Metals,Medium,4.14
+Kador,Kakol,Neburab,Neburab IV,Coolant,Medium,11.57
+Kador,Kakol,Neburab,Neburab V,Fiber Composite,Medium,19.97
+Kador,Kakol,Neburab,Neburab V,Reactive Gas,Rich,25.12
+Kador,Kakol,Neburab,Neburab V,Noble Gas,Medium,20.05
+Kador,Kakol,Neburab,Neburab V,Coolant,Poor,8.96
+Kador,Kakol,Neburab,Neburab VI,Noble Gas,Poor,13.95
+Kador,Kakol,Neburab,Neburab VI,Reactive Metals,Medium,4.19
+Kador,Kakol,Neburab,Neburab VI,Polyaramids,Medium,13.14
+Kador,Kakol,Neburab,Neburab VI,Coolant,Rich,15.87
+Kador,Kakol,Neburab,Neburab VII,Toxic Metals,Poor,3.46
+Kador,Kakol,Neburab,Neburab VII,Industrial Fibers,Poor,2.96
+Kador,Kakol,Neburab,Neburab VII,Silicate Glass,Poor,6.37
+Kador,Kakol,Aband,Aband I,Lustering Alloy,Poor,11.04
+Kador,Kakol,Aband,Aband I,Base Metals,Poor,3.13
+Kador,Kakol,Aband,Aband II,Lustering Alloy,Poor,9.97
+Kador,Kakol,Aband,Aband II,Base Metals,Medium,4.38
+Kador,Kakol,Aband,Aband III,Crystal Compound,Perfect,24.42
+Kador,Kakol,Aband,Aband III,Suspended Plasma,Rich,85.43
+Kador,Kakol,Aband,Aband IV,Lustering Alloy,Rich,21.30
+Kador,Kakol,Aband,Aband IV,Fiber Composite,Medium,18.91
+Kador,Kakol,Aband,Aband IV,Base Metals,Poor,3.57
+Kador,Kakol,Aband,Aband V,Lustering Alloy,Medium,15.21
+Kador,Kakol,Aband,Aband V,Noble Gas,Medium,14.25
+Kador,Kakol,Aband,Aband V,Base Metals,Medium,3.75
+Kador,Kakol,Aband,Aband VI,Lustering Alloy,Poor,10.83
+Kador,Kakol,Aband,Aband VI,Base Metals,Poor,3.02
+Kador,Febihkin,Uanim,Uanim I,Condensed Alloy,Rich,21.07
+Kador,Febihkin,Uanim,Uanim I,Fiber Composite,Rich,21.56
+Kador,Febihkin,Uanim,Uanim I,Heavy Water,Medium,138.18
+Kador,Febihkin,Uanim,Uanim II,Lustering Alloy,Medium,15.95
+Kador,Febihkin,Uanim,Uanim II,Base Metals,Poor,2.83
+Kador,Febihkin,Uanim,Uanim III,Motley Compound,Rich,20.73
+Kador,Febihkin,Uanim,Uanim III,Plasmoids,Medium,0.96
+Kador,Febihkin,Uanim,Uanim IV,Base Metals,Rich,5.02
+Kador,Febihkin,Uanim,Uanim IV,Smartfab Units,Rich,11.86
+Kador,Febihkin,Uanim,Uanim IV,Heavy Water,Perfect,251.86
+Kador,Febihkin,Uanim,Uanim V,Reactive Gas,Medium,15.55
+Kador,Febihkin,Uanim,Uanim V,Condensates,Perfect,15.05
+Kador,Febihkin,Uanim,Uanim V,Heavy Water,Perfect,261.10
+Kador,Febihkin,Uanim,Uanim VI,Lustering Alloy,Medium,16.06
+Kador,Febihkin,Uanim,Uanim VI,Base Metals,Medium,4.30
+Kador,Febihkin,Uanim,Uanim VI,Coolant,Rich,14.12
+Kador,Febihkin,Uanim,Uanim VII,Lustering Alloy,Poor,9.42
+Kador,Febihkin,Uanim,Uanim VII,Base Metals,Medium,4.13
+Kador,Febihkin,Uanim,Uanim VIII,Condensed Alloy,Poor,13.09
+Kador,Febihkin,Uanim,Uanim VIII,Heavy Water,Perfect,231.98
+Kador,Febihkin,Uanim,Uanim VIII,Ionic Solutions,Rich,7.64
+Kador,Febihkin,Murini,Murini I,Noble Gas,Medium,17.79
+Kador,Febihkin,Murini,Murini I,Suspended Plasma,Perfect,92.34
+Kador,Febihkin,Murini,Murini I,Ionic Solutions,Perfect,10.37
+Kador,Febihkin,Murini,Murini II,Lustering Alloy,Rich,21.99
+Kador,Febihkin,Murini,Murini II,Sheen Compound,Rich,20.13
+Kador,Febihkin,Murini,Murini II,Base Metals,Rich,6.14
+Kador,Febihkin,Murini,Murini III,Lustering Alloy,Rich,20.86
+Kador,Febihkin,Murini,Murini III,Base Metals,Rich,5.22
+Kador,Febihkin,Murini,Murini IV,Lustering Alloy,Medium,16.52
+Kador,Febihkin,Murini,Murini IV,Base Metals,Medium,3.93
+Kador,Febihkin,Murini,Murini V,Lustering Alloy,Medium,15.97
+Kador,Febihkin,Murini,Murini V,Base Metals,Medium,3.86
+Kador,Febihkin,Askonak,Askonak I,Lucent Compound,Rich,20.31
+Kador,Febihkin,Askonak,Askonak I,Reactive Metals,Rich,5.29
+Kador,Febihkin,Askonak,Askonak I,Suspended Plasma,Medium,60.53
+Kador,Febihkin,Askonak,Askonak II,Lustering Alloy,Medium,15.37
+Kador,Febihkin,Askonak,Askonak II,Reactive Gas,Poor,12.73
+Kador,Febihkin,Askonak,Askonak II,Base Metals,Poor,3.40
+Kador,Febihkin,Askonak,Askonak III,Lustering Alloy,Poor,12.25
+Kador,Febihkin,Askonak,Askonak III,Glossy Compound,Rich,20.29
+Kador,Febihkin,Askonak,Askonak III,Base Metals,Rich,5.09
+Kador,Febihkin,Askonak,Askonak IV,Lustering Alloy,Poor,12.07
+Kador,Febihkin,Askonak,Askonak IV,Base Metals,Rich,5.11
+Kador,Febihkin,Askonak,Askonak IV,Polyaramids,Rich,13.79
+Kador,Febihkin,Askonak,Askonak V,Lustering Alloy,Medium,13.82
+Kador,Febihkin,Askonak,Askonak V,Base Metals,Poor,3.41
+Kador,Febihkin,Nordar,Nordar I,Lustering Alloy,Poor,13.77
+Kador,Febihkin,Nordar,Nordar I,Base Metals,Medium,4.56
+Kador,Febihkin,Nordar,Nordar II,Lustering Alloy,Poor,12.51
+Kador,Febihkin,Nordar,Nordar II,Base Metals,Medium,3.97
+Kador,Febihkin,Nordar,Nordar III,Opulent Compound,Medium,15.36
+Kador,Febihkin,Nordar,Nordar III,Base Metals,Perfect,6.39
+Kador,Febihkin,Nordar,Nordar III,Heavy Water,Perfect,253.05
+Kador,Febihkin,Nordar,Nordar IV,Lustering Alloy,Medium,15.15
+Kador,Febihkin,Nordar,Nordar IV,Base Metals,Rich,5.66
+Kador,Febihkin,Nordar,Nordar IV,Reactive Metals,Rich,5.53
+Kador,Febihkin,Nordar,Nordar V,Lustering Alloy,Medium,17.79
+Kador,Febihkin,Nordar,Nordar V,Noble Gas,Poor,12.38
+Kador,Febihkin,Nordar,Nordar V,Base Metals,Rich,5.31
+Kador,Febihkin,Nordar,Nordar VI,Lustering Alloy,Poor,12.84
+Kador,Febihkin,Nordar,Nordar VI,Base Metals,Rich,5.15
+Kador,Febihkin,Kador Prime,Kador Prime I,Lustering Alloy,Poor,12.63
+Kador,Febihkin,Kador Prime,Kador Prime I,Base Metals,Poor,2.69
+Kador,Febihkin,Kador Prime,Kador Prime II,Noble Gas,Rich,18.35
+Kador,Febihkin,Kador Prime,Kador Prime II,Condensates,Medium,11.64
+Kador,Febihkin,Kador Prime,Kador Prime II,Suspended Plasma,Poor,46.82
+Kador,Febihkin,Kador Prime,Kador Prime III,Reactive Gas,Medium,16.74
+Kador,Febihkin,Kador Prime,Kador Prime III,Noble Metals,Perfect,24.78
+Kador,Febihkin,Kador Prime,Kador Prime III,Heavy Water,Medium,144.34
+Kador,Febihkin,Kador Prime,Kador Prime IV,Reactive Metals,Rich,5.12
+Kador,Febihkin,Kador Prime,Kador Prime IV,Suspended Plasma,Poor,44.55
+Kador,Febihkin,Kador Prime,Kador Prime V,Crystal Compound,Poor,11.70
+Kador,Febihkin,Kador Prime,Kador Prime V,Suspended Plasma,Rich,64.41
+Kador,Febihkin,Kador Prime,Kador Prime VI,Base Metals,Rich,4.95
+Kador,Febihkin,Kador Prime,Kador Prime VI,Industrial Fibers,Medium,3.47
+Kador,Febihkin,Kador Prime,Kador Prime VI,Heavy Water,Rich,197.96
+Kador,Febihkin,Kador Prime,Kador Prime VII,Lustering Alloy,Poor,11.55
+Kador,Febihkin,Kador Prime,Kador Prime VII,Base Metals,Rich,5.57
+Kador,Febihkin,Kador Prime,Kador Prime VII,Coolant,Rich,14.13
+Kador,Febihkin,Kador Prime,Kador Prime VIII,Lustering Alloy,Medium,16.62
+Kador,Febihkin,Kador Prime,Kador Prime VIII,Base Metals,Medium,4.45
+Kador,Febihkin,Kador Prime,Kador Prime VIII,Polyaramids,Rich,14.80
+Kador,Febihkin,Kador Prime,Kador Prime IX,Lustering Alloy,Rich,21.20
+Kador,Febihkin,Kador Prime,Kador Prime IX,Noble Gas,Medium,13.62
+Kador,Febihkin,Kador Prime,Kador Prime IX,Base Metals,Medium,4.50
+Kador,Febihkin,Kador Prime,Kador Prime X,Lustering Alloy,Medium,15.25
+Kador,Febihkin,Kador Prime,Kador Prime X,Base Metals,Medium,4.23
+Kador,Febihkin,Khafis,Khafis I,Motley Compound,Poor,12.75
+Kador,Febihkin,Khafis,Khafis I,Plasmoids,Rich,1.26
+Kador,Febihkin,Khafis,Khafis II,Lustering Alloy,Medium,17.70
+Kador,Febihkin,Khafis,Khafis II,Base Metals,Poor,2.79
+Kador,Febihkin,Khafis,Khafis III,Motley Compound,Poor,13.26
+Kador,Febihkin,Khafis,Khafis III,Smartfab Units,Medium,11.64
+Kador,Febihkin,Khafis,Khafis IV,Construction Blocks,Medium,18.64
+Kador,Febihkin,Khafis,Khafis IV,Suspended Plasma,Rich,70.63
+Kador,Febihkin,Khafis,Khafis V,Silicate Glass,Medium,7.22
+Kador,Febihkin,Khafis,Khafis V,Heavy Water,Poor,136.65
+Kador,Febihkin,Khafis,Khafis V,Ionic Solutions,Perfect,10.27
+Kador,Febihkin,Khafis,Khafis VI,Lustering Alloy,Poor,12.62
+Kador,Febihkin,Khafis,Khafis VI,Reactive Gas,Poor,12.35
+Kador,Febihkin,Khafis,Khafis VI,Base Metals,Medium,3.93
+Kador,Febihkin,Khafis,Khafis VII,Lustering Alloy,Medium,17.36
+Kador,Febihkin,Khafis,Khafis VII,Base Metals,Medium,4.11
+Kador,Febihkin,Khafis,Khafis VII,Ionic Solutions,Medium,6.80
+Kador,Febihkin,Khafis,Khafis VIII,Lustering Alloy,Rich,20.98
+Kador,Febihkin,Khafis,Khafis VIII,Glossy Compound,Medium,16.48
+Kador,Febihkin,Khafis,Khafis VIII,Base Metals,Rich,5.27
+Kador,Febihkin,Khafis,Khafis IX,Lustering Alloy,Perfect,24.03
+Kador,Febihkin,Khafis,Khafis IX,Noble Gas,Rich,19.96
+Kador,Febihkin,Khafis,Khafis IX,Base Metals,Perfect,6.50
+Kador,Febihkin,Khafis,Khafis X,Lustering Alloy,Rich,22.29
+Kador,Febihkin,Khafis,Khafis X,Base Metals,Poor,3.30
+Kador,Febihkin,Khafis,Khafis X,Coolant,Rich,13.68
+Kador,Febihkin,Dantan,Dantan I,Lucent Compound,Rich,20.52
+Kador,Febihkin,Dantan,Dantan I,Suspended Plasma,Poor,46.12
+Kador,Febihkin,Dantan,Dantan I,Ionic Solutions,Medium,6.23
+Kador,Febihkin,Dantan,Dantan II,Lustering Alloy,Medium,15.92
+Kador,Febihkin,Dantan,Dantan II,Base Metals,Medium,3.71
+Kador,Febihkin,Dantan,Dantan III,Lustering Alloy,Poor,9.76
+Kador,Febihkin,Dantan,Dantan III,Base Metals,Medium,3.49
+Kador,Febihkin,Dantan,Dantan IV,Motley Compound,Rich,18.10
+Kador,Febihkin,Dantan,Dantan IV,Noble Metals,Perfect,23.46
+Kador,Febihkin,Dantan,Dantan V,Lustering Alloy,Poor,10.85
+Kador,Febihkin,Dantan,Dantan V,Base Metals,Medium,3.83
+Kador,Febihkin,Dantan,Dantan VI,Lustering Alloy,Perfect,22.95
+Kador,Febihkin,Dantan,Dantan VI,Base Metals,Perfect,6.03
+Kador,Febihkin,Dantan,Dantan VI,Polyaramids,Rich,13.16
+Kador,Febihkin,Dantan,Dantan VII,Condensed Alloy,Rich,19.08
+Kador,Febihkin,Dantan,Dantan VII,Base Metals,Medium,4.35
+Kador,Febihkin,Dantan,Dantan VII,Heavy Water,Rich,187.88
+Kador,Febihkin,Dantan,Dantan VIII,Lustering Alloy,Perfect,22.50
+Kador,Febihkin,Dantan,Dantan VIII,Base Metals,Rich,4.97
+Kador,Febihkin,Dantan,Dantan VIII,Polyaramids,Medium,10.19
+Kador,Febihkin,Dantan,Dantan IX,Lustering Alloy,Rich,21.32
+Kador,Febihkin,Dantan,Dantan IX,Base Metals,Rich,5.73
+Kador,Febihkin,Dantan,Dantan IX,Polyaramids,Rich,12.10
+Kador,Trigentia,Turba,Turba I,Lustering Alloy,Medium,16.27
+Kador,Trigentia,Turba,Turba I,Base Metals,Medium,3.49
+Kador,Trigentia,Turba,Turba II,Motley Compound,Poor,13.02
+Kador,Trigentia,Turba,Turba II,Oxygen Isotopes,Rich,2.98
+Kador,Trigentia,Turba,Turba III,Lustering Alloy,Poor,12.60
+Kador,Trigentia,Turba,Turba III,Base Metals,Medium,4.51
+Kador,Trigentia,Turba,Turba IV,Toxic Metals,Rich,5.49
+Kador,Trigentia,Turba,Turba IV,Suspended Plasma,Medium,58.16
+Kador,Trigentia,Turba,Turba V,Gleaming Alloy,Rich,20.50
+Kador,Trigentia,Turba,Turba V,Suspended Plasma,Medium,48.54
+Kador,Trigentia,Turba,Turba VI,Fiber Composite,Rich,22.16
+Kador,Trigentia,Turba,Turba VI,Industrial Fibers,Rich,4.99
+Kador,Trigentia,Turba,Turba VI,Heavy Water,Perfect,238.00
+Kador,Trigentia,Turba,Turba VII,Base Metals,Rich,5.66
+Kador,Trigentia,Turba,Turba VII,Smartfab Units,Perfect,16.82
+Kador,Trigentia,Turba,Turba VII,Heavy Water,Rich,194.74
+Kador,Trigentia,Turba,Turba VIII,Lustering Alloy,Medium,14.98
+Kador,Trigentia,Turba,Turba VIII,Glossy Compound,Medium,14.28
+Kador,Trigentia,Turba,Turba VIII,Base Metals,Rich,4.94
+Kador,Trigentia,Turba,Turba IX,Lustering Alloy,Rich,18.16
+Kador,Trigentia,Turba,Turba IX,Base Metals,Medium,3.79
+Kador,Trigentia,Turba,Turba IX,Coolant,Medium,10.96
+Kador,Trigentia,Turba,Turba X,Lustering Alloy,Poor,13.02
+Kador,Trigentia,Turba,Turba X,Base Metals,Poor,2.58
+Kador,Trigentia,Turba,Turba XI,Lustering Alloy,Rich,20.76
+Kador,Trigentia,Turba,Turba XI,Base Metals,Rich,5.39
+Kador,Trigentia,Turba,Turba XI,Polyaramids,Perfect,15.19
+Kador,Trigentia,Turba,Turba XII,Crystal Compound,Perfect,24.16
+Kador,Trigentia,Turba,Turba XII,Noble Metals,Rich,20.76
+Kador,Trigentia,Turba,Turba XII,Heavy Water,Medium,143.36
+Kador,Trigentia,Turba,Turba XIII,Lustering Alloy,Rich,21.56
+Kador,Trigentia,Turba,Turba XIII,Reactive Gas,Medium,14.88
+Kador,Trigentia,Turba,Turba XIII,Base Metals,Poor,3.41
+Kador,Trigentia,Turba,Turba XIV,Lustering Alloy,Medium,13.41
+Kador,Trigentia,Turba,Turba XIV,Base Metals,Poor,2.71
+Kador,Trigentia,Sonama,Sonama I,Lustering Alloy,Poor,10.05
+Kador,Trigentia,Sonama,Sonama I,Base Metals,Medium,3.85
+Kador,Trigentia,Sonama,Sonama II,Lustering Alloy,Medium,13.16
+Kador,Trigentia,Sonama,Sonama II,Base Metals,Poor,2.80
+Kador,Trigentia,Sonama,Sonama III,Motley Compound,Medium,15.66
+Kador,Trigentia,Sonama,Sonama III,Noble Gas,Rich,16.46
+Kador,Trigentia,Sonama,Sonama IV,Crystal Compound,Rich,19.58
+Kador,Trigentia,Sonama,Sonama IV,Suspended Plasma,Poor,42.40
+Kador,Trigentia,Sonama,Sonama V,Lustering Alloy,Medium,15.81
+Kador,Trigentia,Sonama,Sonama V,Reactive Gas,Rich,19.25
+Kador,Trigentia,Sonama,Sonama V,Base Metals,Rich,4.71
+Kador,Trigentia,Sonama,Sonama VI,Lustering Alloy,Rich,17.54
+Kador,Trigentia,Sonama,Sonama VI,Fiber Composite,Poor,11.84
+Kador,Trigentia,Sonama,Sonama VI,Base Metals,Medium,3.67
+Kador,Trigentia,Sonama,Sonama VII,Lustering Alloy,Medium,14.18
+Kador,Trigentia,Sonama,Sonama VII,Base Metals,Rich,4.54
+Kador,Trigentia,Sonama,Sonama VII,Coolant,Poor,7.59
+Kador,Trigentia,Sonama,Sonama VIII,Noble Metals,Perfect,22.44
+Kador,Trigentia,Sonama,Sonama VIII,Silicate Glass,Medium,7.40
+Kador,Trigentia,Sonama,Sonama VIII,Heavy Water,Perfect,228.02
+Kador,Trigentia,Sonama,Sonama IX,Lustering Alloy,Medium,13.96
+Kador,Trigentia,Sonama,Sonama IX,Base Metals,Medium,3.73
+Kador,Trigentia,Halibai,Halibai I,Nanites,Medium,3.54
+Kador,Trigentia,Halibai,Halibai I,Suspended Plasma,Poor,40.20
+Kador,Trigentia,Halibai,Halibai II,Noble Metals,Medium,15.02
+Kador,Trigentia,Halibai,Halibai II,Heavy Water,Medium,122.98
+Kador,Trigentia,Halibai,Halibai II,Ionic Solutions,Rich,7.67
+Kador,Trigentia,Halibai,Halibai III,Lustering Alloy,Poor,8.55
+Kador,Trigentia,Halibai,Halibai III,Base Metals,Medium,4.20
+Kador,Trigentia,Halibai,Halibai IV,Lustering Alloy,Medium,14.42
+Kador,Trigentia,Halibai,Halibai IV,Reactive Gas,Medium,14.55
+Kador,Trigentia,Halibai,Halibai IV,Base Metals,Medium,3.51
+Kador,Trigentia,Suner,Suner I,Lustering Alloy,Poor,10.86
+Kador,Trigentia,Suner,Suner I,Base Metals,Medium,3.74
+Kador,Trigentia,Suner,Suner II,Motley Compound,Poor,10.70
+Kador,Trigentia,Suner,Suner II,Construction Blocks,Rich,15.19
+Kador,Trigentia,Suner,Suner III,Base Metals,Perfect,5.69
+Kador,Trigentia,Suner,Suner III,Industrial Fibers,Rich,4.48
+Kador,Trigentia,Suner,Suner III,Heavy Water,Medium,128.88
+Kador,Trigentia,Suner,Suner IV,Opulent Compound,Rich,15.68
+Kador,Trigentia,Suner,Suner IV,Coolant,Poor,7.45
+Kador,Trigentia,Suner,Suner IV,Heavy Water,Perfect,190.68
+Kador,Trigentia,Suner,Suner V,Lustering Alloy,Medium,12.50
+Kador,Trigentia,Suner,Suner V,Noble Gas,Rich,15.38
+Kador,Trigentia,Suner,Suner V,Base Metals,Medium,3.07
+Kador,Trigentia,Suner,Suner VI,Lustering Alloy,Medium,13.84
+Kador,Trigentia,Suner,Suner VI,Base Metals,Medium,3.73
+Kador,Trigentia,Suner,Suner VI,Ionic Solutions,Medium,5.69
+Kador,Trigentia,Suner,Suner VII,Lustering Alloy,Medium,12.78
+Kador,Trigentia,Suner,Suner VII,Sheen Compound,Rich,17.02
+Kador,Trigentia,Suner,Suner VII,Base Metals,Poor,2.62
+Kador,Trigentia,Suner,Suner VIII,Crystal Compound,Medium,14.51
+Kador,Trigentia,Suner,Suner VIII,Silicate Glass,Poor,5.65
+Kador,Trigentia,Suner,Suner VIII,Heavy Water,Medium,140.28
+Kador,Trigentia,Inis-Ilix,Inis-Ilix I,Lustering Alloy,Poor,8.46
+Kador,Trigentia,Inis-Ilix,Inis-Ilix I,Base Metals,Poor,2.39
+Kador,Trigentia,Inis-Ilix,Inis-Ilix II,Lustering Alloy,Medium,13.11
+Kador,Trigentia,Inis-Ilix,Inis-Ilix II,Base Metals,Medium,2.77
+Kador,Trigentia,Inis-Ilix,Inis-Ilix III,Noble Metals,Rich,17.15
+Kador,Trigentia,Inis-Ilix,Inis-Ilix III,Smartfab Units,Rich,10.70
+Kador,Trigentia,Inis-Ilix,Inis-Ilix III,Heavy Water,Perfect,204.27
+Kador,Trigentia,Inis-Ilix,Inis-Ilix IV,Lustering Alloy,Poor,8.61
+Kador,Trigentia,Inis-Ilix,Inis-Ilix IV,Base Metals,Medium,2.97
+Kador,Trigentia,Inis-Ilix,Inis-Ilix V,Opulent Compound,Medium,11.38
+Kador,Trigentia,Inis-Ilix,Inis-Ilix V,Condensates,Rich,10.18
+Kador,Trigentia,Inis-Ilix,Inis-Ilix V,Heavy Water,Perfect,192.28
+Kador,Trigentia,Inis-Ilix,Inis-Ilix VI,Gleaming Alloy,Rich,15.80
+Kador,Trigentia,Inis-Ilix,Inis-Ilix VI,Motley Compound,Rich,14.91
+Kador,Trigentia,Inis-Ilix,Inis-Ilix VII,Fiber Composite,Medium,11.70
+Kador,Trigentia,Inis-Ilix,Inis-Ilix VII,Smartfab Units,Rich,9.43
+Kador,Trigentia,Inis-Ilix,Inis-Ilix VII,Heavy Water,Rich,150.26
+Kador,Trigentia,Kothe,Kothe I,Lustering Alloy,Poor,10.29
+Kador,Trigentia,Kothe,Kothe I,Base Metals,Poor,2.83
+Kador,Trigentia,Kothe,Kothe II,Noble Metals,Rich,18.24
+Kador,Trigentia,Kothe,Kothe II,Smartfab Units,Perfect,16.70
+Kador,Trigentia,Kothe,Kothe II,Heavy Water,Perfect,257.04
+Kador,Trigentia,Kothe,Kothe III,Fiber Composite,Perfect,24.72
+Kador,Trigentia,Kothe,Kothe III,Heavy Water,Rich,211.26
+Kador,Trigentia,Kothe,Kothe III,Liquid Ozone,Rich,24.76
+Kador,Trigentia,Kothe,Kothe IV,Reactive Gas,Perfect,25.61
+Kador,Trigentia,Kothe,Kothe IV,Base Metals,Perfect,6.00
+Kador,Trigentia,Kothe,Kothe IV,Heavy Water,Perfect,254.66
+Kador,Trigentia,Kothe,Kothe V,Opulent Compound,Medium,16.09
+Kador,Trigentia,Kothe,Kothe V,Heavy Water,Medium,156.94
+Kador,Trigentia,Kothe,Kothe V,Liquid Ozone,Perfect,29.14
+Kador,Trigentia,Kothe,Kothe VI,Lustering Alloy,Perfect,22.61
+Kador,Trigentia,Kothe,Kothe VI,Glossy Compound,Rich,17.74
+Kador,Trigentia,Kothe,Kothe VI,Base Metals,Medium,4.57
+Kador,Trigentia,Kothe,Kothe VII,Lustering Alloy,Rich,20.65
+Kador,Trigentia,Kothe,Kothe VII,Reactive Gas,Medium,13.79
+Kador,Trigentia,Kothe,Kothe VII,Base Metals,Poor,3.10
+Kador,Trigentia,Kothe,Kothe VIII,Lustering Alloy,Medium,16.48
+Kador,Trigentia,Kothe,Kothe VIII,Base Metals,Poor,3.26
+Kador,Trigentia,Kothe,Kothe IX,Lustering Alloy,Medium,13.51
+Kador,Trigentia,Kothe,Kothe IX,Base Metals,Medium,3.79
+Kador,Trigentia,Kothe,Kothe X,Lustering Alloy,Rich,18.45
+Kador,Trigentia,Kothe,Kothe X,Fiber Composite,Rich,18.62
+Kador,Trigentia,Kothe,Kothe X,Base Metals,Poor,3.26
+Kador,Trigentia,Kothe,Kothe XI,Lustering Alloy,Rich,20.20
+Kador,Trigentia,Kothe,Kothe XI,Base Metals,Medium,4.34
+Kador,Trigentia,Kothe,Kothe XII,Lustering Alloy,Poor,11.10
+Kador,Trigentia,Kothe,Kothe XII,Base Metals,Poor,3.28
+Kador,Heti,Ansasos,Ansasos I,Glossy Compound,Rich,20.67
+Kador,Heti,Ansasos,Ansasos I,Noble Gas,Rich,23.09
+Kador,Heti,Ansasos,Ansasos II,Lustering Alloy,Medium,17.12
+Kador,Heti,Ansasos,Ansasos II,Base Metals,Poor,3.52
+Kador,Heti,Ansasos,Ansasos II,Industrial Fibers,Medium,4.69
+Kador,Heti,Ansasos,Ansasos III,Lucent Compound,Poor,13.73
+Kador,Heti,Ansasos,Ansasos III,Supertensile Plastics,Poor,9.74
+Kador,Heti,Ansasos,Ansasos III,Construction Blocks,Rich,21.22
+Kador,Heti,Ansasos,Ansasos IV,Dark Compound,Medium,19.01
+Kador,Heti,Ansasos,Ansasos IV,Noble Gas,Medium,18.34
+Kador,Heti,Ansasos,Ansasos IV,Nanites,Poor,3.82
+Kador,Heti,Ansasos,Ansasos IV,Suspended Plasma,Medium,68.03
+Kador,Heti,Ansasos,Ansasos V,Lustering Alloy,Poor,12.94
+Kador,Heti,Ansasos,Ansasos V,Industrial Fibers,Poor,2.78
+Kador,Heti,Ansasos,Ansasos V,Silicate Glass,Medium,9.14
+Kador,Heti,Ansasos,Ansasos VI,Industrial Fibers,Medium,4.93
+Kador,Heti,Ansasos,Ansasos VI,Silicate Glass,Medium,9.74
+Kador,Heti,Ansasos,Ansasos VI,Oxygen Isotopes,Poor,1.96
+Kador,Heti,Ansasos,Ansasos VII,Sheen Compound,Poor,14.80
+Kador,Heti,Ansasos,Ansasos VII,Fiber Composite,Medium,17.71
+Kador,Heti,Ansasos,Ansasos VII,Noble Gas,Rich,21.63
+Kador,Heti,Ansasos,Ansasos VII,Polyaramids,Perfect,17.60
+Kador,Heti,Ansasos,Ansasos VIII,Fiber Composite,Medium,17.87
+Kador,Heti,Ansasos,Ansasos VIII,Glossy Compound,Rich,24.03
+Kador,Heti,Ansasos,Ansasos VIII,Noble Gas,Rich,21.95
+Kador,Heti,Ansasos,Ansasos VIII,Reactive Metals,Rich,6.17
+Kador,Heti,Ansasos,Ansasos IX,Crystal Compound,Rich,23.74
+Kador,Heti,Ansasos,Ansasos IX,Reactive Metals,Medium,4.72
+Kador,Heti,Ansasos,Ansasos IX,Construction Blocks,Rich,20.82
+Kador,Heti,Dehrokh,Dehrokh I,Industrial Fibers,Poor,2.92
+Kador,Heti,Dehrokh,Dehrokh I,Construction Blocks,Medium,19.74
+Kador,Heti,Dehrokh,Dehrokh I,Silicate Glass,Medium,8.24
+Kador,Heti,Dehrokh,Dehrokh II,Condensed Alloy,Rich,24.00
+Kador,Heti,Dehrokh,Dehrokh II,Fiber Composite,Perfect,28.95
+Kador,Heti,Dehrokh,Dehrokh II,Opulent Compound,Perfect,28.51
+Kador,Heti,Dehrokh,Dehrokh II,Industrial Fibers,Medium,5.49
+Kador,Heti,Dehrokh,Dehrokh III,Industrial Fibers,Poor,3.53
+Kador,Heti,Dehrokh,Dehrokh III,Supertensile Plastics,Medium,12.65
+Kador,Heti,Dehrokh,Dehrokh III,Oxygen Isotopes,Poor,1.60
+Kador,Heti,Dehrokh,Dehrokh IV,Sheen Compound,Poor,14.08
+Kador,Heti,Dehrokh,Dehrokh IV,Glossy Compound,Rich,22.68
+Kador,Heti,Dehrokh,Dehrokh IV,Reactive Gas,Medium,21.25
+Kador,Heti,Dehrokh,Dehrokh IV,Noble Gas,Medium,16.47
+Kador,Heti,Dehrokh,Dehrokh V,Lucent Compound,Medium,19.36
+Kador,Heti,Dehrokh,Dehrokh V,Reactive Gas,Perfect,27.29
+Kador,Heti,Dehrokh,Dehrokh V,Construction Blocks,Poor,13.87
+Kador,Heti,Dehrokh,Dehrokh VI,Noble Gas,Medium,18.31
+Kador,Heti,Dehrokh,Dehrokh VI,Smartfab Units,Rich,15.02
+Kador,Heti,Dehrokh,Dehrokh VII,Lustering Alloy,Poor,15.15
+Kador,Heti,Dehrokh,Dehrokh VII,Sheen Compound,Rich,25.06
+Kador,Heti,Dehrokh,Dehrokh VII,Glossy Compound,Medium,18.09
+Kador,Heti,Dehrokh,Dehrokh VII,Noble Gas,Rich,25.48
+Kador,Heti,Dehrokh,Dehrokh VIII,Noble Gas,Poor,15.49
+Kador,Heti,Dehrokh,Dehrokh VIII,Base Metals,Poor,3.92
+Kador,Heti,Dehrokh,Dehrokh VIII,Polyaramids,Medium,14.14
+Kador,Heti,Dehrokh,Dehrokh VIII,Coolant,Medium,12.10
+Kador,Heti,Dehrokh,Dehrokh IX,Sheen Compound,Medium,20.48
+Kador,Heti,Dehrokh,Dehrokh IX,Fiber Composite,Medium,18.22
+Kador,Heti,Dehrokh,Dehrokh IX,Noble Gas,Rich,22.00
+Kador,Heti,Dehrokh,Dehrokh IX,Coolant,Medium,12.92
+Kador,Heti,Bordan,Bordan I,Industrial Fibers,Poor,3.15
+Kador,Heti,Bordan,Bordan I,Supertensile Plastics,Medium,10.47
+Kador,Heti,Bordan,Bordan I,Plasmoids,Poor,0.63
+Kador,Heti,Bordan,Bordan II,Noble Gas,Medium,20.03
+Kador,Heti,Bordan,Bordan II,Smartfab Units,Perfect,17.79
+Kador,Heti,Bordan,Bordan III,Gleaming Alloy,Rich,24.02
+Kador,Heti,Bordan,Bordan III,Lucent Compound,Medium,20.05
+Kador,Heti,Bordan,Bordan III,Construction Blocks,Medium,17.30
+Kador,Heti,Bordan,Bordan IV,Gleaming Alloy,Poor,12.90
+Kador,Heti,Bordan,Bordan IV,Supertensile Plastics,Medium,11.52
+Kador,Heti,Bordan,Bordan IV,Construction Blocks,Medium,17.38
+Kador,Heti,Bordan,Bordan V,Fiber Composite,Medium,16.58
+Kador,Heti,Bordan,Bordan V,Opulent Compound,Rich,25.39
+Kador,Heti,Bordan,Bordan V,Industrial Fibers,Rich,5.71
+Kador,Heti,Bordan,Bordan V,Condensates,Medium,13.13
+Kador,Heti,Bordan,Bordan VI,Precious Alloy,Poor,10.42
+Kador,Heti,Bordan,Bordan VI,Industrial Fibers,Poor,2.65
+Kador,Heti,Bordan,Bordan VI,Silicate Glass,Medium,8.44
+Kador,Heti,Bordan,Bordan VII,Lustering Alloy,Perfect,26.53
+Kador,Heti,Bordan,Bordan VII,Reactive Gas,Medium,19.25
+Kador,Heti,Bordan,Bordan VII,Noble Gas,Perfect,26.26
+Kador,Heti,Bordan,Bordan VII,Polyaramids,Perfect,17.51
+Kador,Heti,Bordan,Bordan VIII,Reactive Gas,Poor,14.64
+Kador,Heti,Bordan,Bordan VIII,Noble Gas,Rich,25.31
+Kador,Heti,Bordan,Bordan VIII,Base Metals,Medium,5.18
+Kador,Heti,Bordan,Bordan VIII,Reactive Metals,Rich,5.67
+Kador,Heti,Zimmem,Zimmem I,Lustering Alloy,Medium,16.70
+Kador,Heti,Zimmem,Zimmem I,Industrial Fibers,Poor,3.87
+Kador,Heti,Zimmem,Zimmem I,Construction Blocks,Poor,13.01
+Kador,Heti,Zimmem,Zimmem II,Industrial Fibers,Medium,4.26
+Kador,Heti,Zimmem,Zimmem II,Construction Blocks,Medium,16.82
+Kador,Heti,Zimmem,Zimmem II,Oxygen Isotopes,Medium,2.90
+Kador,Heti,Zimmem,Zimmem III,Motley Compound,Medium,16.80
+Kador,Heti,Zimmem,Zimmem III,Noble Gas,Perfect,26.30
+Kador,Heti,Zimmem,Zimmem IV,Noble Gas,Medium,15.42
+Kador,Heti,Zimmem,Zimmem IV,Polyaramids,Rich,16.00
+Kador,Heti,Zimmem,Zimmem V,Lustering Alloy,Rich,23.78
+Kador,Heti,Zimmem,Zimmem V,Noble Gas,Rich,23.58
+Kador,Heti,Zimmem,Zimmem V,Coolant,Medium,10.24
+Kador,Heti,Zimmem,Zimmem V,Ionic Solutions,Poor,5.61
+Kador,Heti,Zimmem,Zimmem VI,Opulent Compound,Medium,17.89
+Kador,Heti,Zimmem,Zimmem VI,Toxic Metals,Medium,4.32
+Kador,Heti,Zimmem,Zimmem VI,Coolant,Medium,12.26
+Kador,Heti,Zimmem,Zimmem VI,Liquid Ozone,Medium,20.70
+Kador,Heti,Zimmem,Zimmem VII,Sheen Compound,Rich,24.66
+Kador,Heti,Zimmem,Zimmem VII,Noble Gas,Medium,18.54
+Kador,Heti,Zimmem,Zimmem VII,Polyaramids,Medium,11.46
+Kador,Heti,Zimmem,Zimmem VII,Coolant,Rich,16.69
+Kador,Heti,Zimmem,Zimmem VIII,Lustering Alloy,Medium,16.32
+Kador,Heti,Zimmem,Zimmem VIII,Sheen Compound,Perfect,25.50
+Kador,Heti,Zimmem,Zimmem VIII,Noble Gas,Poor,14.43
+Kador,Heti,Zimmem,Zimmem VIII,Ionic Solutions,Rich,9.94
+Kador,Heti,Zimmem,Zimmem IX,Lustering Alloy,Medium,15.38
+Kador,Heti,Zimmem,Zimmem IX,Sheen Compound,Rich,22.03
+Kador,Heti,Zimmem,Zimmem IX,Glossy Compound,Poor,15.07
+Kador,Heti,Zimmem,Zimmem IX,Noble Gas,Rich,23.09
+Kador,Heti,Zimmem,Zimmem X,Lustering Alloy,Medium,19.38
+Kador,Heti,Zimmem,Zimmem X,Motley Compound,Poor,14.14
+Kador,Heti,Zimmem,Zimmem X,Coolant,Poor,8.31
+Kador,Heti,Zimmem,Zimmem XI,Noble Gas,Rich,23.54
+Kador,Heti,Zimmem,Zimmem XI,Base Metals,Medium,4.27
+Kador,Heti,Zimmem,Zimmem XI,Reactive Metals,Medium,4.32
+Kador,Heti,Zimmem,Zimmem XI,Coolant,Poor,9.72
+Kador,Heti,Chaneya,Chaneya I,Noble Gas,Rich,26.40
+Kador,Heti,Chaneya,Chaneya I,Construction Blocks,Medium,19.62
+Kador,Heti,Chaneya,Chaneya II,Base Metals,Medium,4.50
+Kador,Heti,Chaneya,Chaneya II,Industrial Fibers,Poor,3.29
+Kador,Heti,Chaneya,Chaneya II,Plasmoids,Poor,0.91
+Kador,Heti,Chaneya,Chaneya III,Glossy Compound,Medium,21.11
+Kador,Heti,Chaneya,Chaneya III,Noble Gas,Medium,19.98
+Kador,Heti,Chaneya,Chaneya IV,Precious Alloy,Poor,12.38
+Kador,Heti,Chaneya,Chaneya IV,Base Metals,Medium,5.00
+Kador,Heti,Chaneya,Chaneya IV,Industrial Fibers,Medium,4.23
+Kador,Heti,Chaneya,Chaneya V,Toxic Metals,Poor,3.03
+Kador,Heti,Chaneya,Chaneya V,Industrial Fibers,Poor,3.08
+Kador,Heti,Chaneya,Chaneya V,Silicate Glass,Poor,6.59
+Kador,Heti,Chaneya,Chaneya VI,Noble Gas,Poor,14.77
+Kador,Heti,Chaneya,Chaneya VI,Smartfab Units,Medium,14.05
+Kador,Heti,Chaneya,Chaneya VII,Fiber Composite,Medium,18.26
+Kador,Heti,Chaneya,Chaneya VII,Base Metals,Medium,5.42
+Kador,Heti,Chaneya,Chaneya VII,Noble Metals,Medium,17.37
+Kador,Heti,Chaneya,Chaneya VII,Heavy Water,Medium,178.33
+Kador,Heti,Chaneya,Chaneya VIII,Opulent Compound,Medium,21.20
+Kador,Heti,Chaneya,Chaneya VIII,Crystal Compound,Medium,20.66
+Kador,Heti,Chaneya,Chaneya VIII,Toxic Metals,Rich,5.95
+Kador,Heti,Chaneya,Chaneya VIII,Coolant,Medium,10.85
+Kador,Heti,Chaneya,Chaneya IX,Fiber Composite,Poor,15.67
+Kador,Heti,Chaneya,Chaneya IX,Reactive Gas,Poor,15.03
+Kador,Heti,Chaneya,Chaneya IX,Noble Gas,Rich,26.67
+Kador,Heti,Chaneya,Chaneya IX,Base Metals,Medium,4.55
+Kador,Heti,Chaneya,Chaneya X,Sheen Compound,Medium,21.03
+Kador,Heti,Chaneya,Chaneya X,Glossy Compound,Perfect,27.06
+Kador,Heti,Chaneya,Chaneya X,Noble Gas,Rich,22.24
+Kador,Heti,Chaneya,Chaneya X,Base Metals,Rich,6.03
+Kador,Heti,Chaneya,Chaneya XI,Condensed Alloy,Medium,17.32
+Kador,Heti,Chaneya,Chaneya XI,Opulent Compound,Rich,23.49
+Kador,Heti,Chaneya,Chaneya XI,Coolant,Perfect,19.41
+Kador,Heti,Chaneya,Chaneya XI,Heavy Water,Medium,212.16
+Kador,Heti,Oberen,Oberen I,Motley Compound,Medium,21.08
+Kador,Heti,Oberen,Oberen I,Noble Gas,Medium,16.27
+Kador,Heti,Oberen,Oberen II,Gleaming Alloy,Poor,13.70
+Kador,Heti,Oberen,Oberen II,Noble Gas,Rich,26.11
+Kador,Heti,Oberen,Oberen III,Glossy Compound,Medium,19.26
+Kador,Heti,Oberen,Oberen III,Noble Gas,Rich,24.11
+Kador,Heti,Oberen,Oberen III,Base Metals,Rich,6.99
+Kador,Heti,Oberen,Oberen III,Reactive Metals,Rich,7.01
+Kador,Heti,Oberen,Oberen IV,Glossy Compound,Medium,16.07
+Kador,Heti,Oberen,Oberen IV,Noble Gas,Poor,14.64
+Kador,Heti,Oberen,Oberen IV,Polyaramids,Poor,10.38
+Kador,Heti,Oberen,Oberen IV,Coolant,Poor,10.45
+Kador,Heti,Oberen,Oberen V,Fiber Composite,Perfect,30.24
+Kador,Heti,Oberen,Oberen V,Opulent Compound,Perfect,28.44
+Kador,Heti,Oberen,Oberen V,Reactive Gas,Rich,22.56
+Kador,Heti,Oberen,Oberen V,Noble Metals,Perfect,30.67
+Kador,Heti,Oberen,Oberen VI,Lustering Alloy,Poor,14.20
+Kador,Heti,Oberen,Oberen VI,Noble Gas,Medium,16.83
+Kador,Heti,Oberen,Oberen VI,Reactive Metals,Rich,6.47
+Kador,Heti,Oberen,Oberen VI,Coolant,Rich,15.31
+Kador,Heti,Oberen,Oberen VII,Lustering Alloy,Rich,26.67
+Kador,Heti,Oberen,Oberen VII,Noble Gas,Poor,15.76
+Kador,Heti,Oberen,Oberen VII,Base Metals,Medium,5.12
+Kador,Heti,Oberen,Oberen VII,Reactive Metals,Medium,5.47
+Kador,Heti,Oberen,Oberen VIII,Precious Alloy,Poor,11.36
+Kador,Heti,Oberen,Oberen VIII,Base Metals,Medium,4.86
+Kador,Heti,Oberen,Oberen VIII,Industrial Fibers,Medium,4.59
+Kador,Heti,Oberen,Oberen IX,Toxic Metals,Medium,5.27
+Kador,Heti,Oberen,Oberen IX,Industrial Fibers,Poor,2.92
+Kador,Heti,Oberen,Oberen IX,Plasmoids,Poor,0.86
+Kador,Parrosa,Finid,Finid I,Dark Compound,Perfect,27.52
+Kador,Parrosa,Finid,Finid I,Reactive Metals,Perfect,6.99
+Kador,Parrosa,Finid,Finid I,Nanites,Poor,3.94
+Kador,Parrosa,Finid,Finid I,Ionic Solutions,Rich,8.81
+Kador,Parrosa,Finid,Finid II,Lustering Alloy,Medium,16.26
+Kador,Parrosa,Finid,Finid II,Industrial Fibers,Medium,4.39
+Kador,Parrosa,Finid,Finid II,Oxygen Isotopes,Medium,2.70
+Kador,Parrosa,Finid,Finid III,Dark Compound,Medium,17.49
+Kador,Parrosa,Finid,Finid III,Nanites,Rich,5.80
+Kador,Parrosa,Finid,Finid III,Suspended Plasma,Rich,83.06
+Kador,Parrosa,Finid,Finid III,Plasmoids,Rich,1.36
+Kador,Parrosa,Finid,Finid IV,Noble Gas,Medium,18.05
+Kador,Parrosa,Finid,Finid IV,Construction Blocks,Rich,22.27
+Kador,Parrosa,Finid,Finid V,Industrial Fibers,Poor,2.76
+Kador,Parrosa,Finid,Finid V,Supertensile Plastics,Poor,8.84
+Kador,Parrosa,Finid,Finid V,Construction Blocks,Medium,18.62
+Kador,Parrosa,Finid,Finid VI,Industrial Fibers,Poor,2.89
+Kador,Parrosa,Finid,Finid VI,Construction Blocks,Poor,13.49
+Kador,Parrosa,Finid,Finid VI,Plasmoids,Poor,0.74
+Kador,Parrosa,Finid,Finid VII,Precious Alloy,Medium,17.73
+Kador,Parrosa,Finid,Finid VII,Base Metals,Medium,4.06
+Kador,Parrosa,Finid,Finid VII,Industrial Fibers,Medium,4.17
+Kador,Parrosa,Finid,Finid VIII,Condensed Alloy,Rich,21.98
+Kador,Parrosa,Finid,Finid VIII,Fiber Composite,Medium,15.58
+Kador,Parrosa,Finid,Finid VIII,Base Metals,Perfect,7.04
+Kador,Parrosa,Finid,Finid VIII,Industrial Fibers,Medium,5.03
+Kador,Parrosa,Finid,Finid IX,Sheen Compound,Medium,16.77
+Kador,Parrosa,Finid,Finid IX,Glossy Compound,Rich,24.37
+Kador,Parrosa,Finid,Finid IX,Noble Gas,Poor,13.97
+Kador,Parrosa,Finid,Finid IX,Reactive Metals,Poor,3.65
+Kador,Parrosa,Finid,Finid X,Sheen Compound,Poor,14.53
+Kador,Parrosa,Finid,Finid X,Noble Gas,Medium,19.41
+Kador,Parrosa,Finid,Finid X,Polyaramids,Medium,10.81
+Kador,Parrosa,Finid,Finid X,Coolant,Poor,9.60
+Kador,Parrosa,Finid,Finid XI,Lustering Alloy,Perfect,26.19
+Kador,Parrosa,Finid,Finid XI,Sheen Compound,Rich,21.36
+Kador,Parrosa,Finid,Finid XI,Noble Gas,Medium,17.04
+Kador,Parrosa,Finid,Finid XI,Polyaramids,Rich,13.77
+Kador,Parrosa,Finid,Finid XII,Industrial Fibers,Medium,4.64
+Kador,Parrosa,Finid,Finid XII,Supertensile Plastics,Rich,14.53
+Kador,Parrosa,Finid,Finid XII,Coolant,Medium,13.16
+Kador,Parrosa,Yarebap,Yarebap I,Lustering Alloy,Poor,13.47
+Kador,Parrosa,Yarebap,Yarebap I,Base Metals,Medium,4.25
+Kador,Parrosa,Yarebap,Yarebap II,Motley Compound,Medium,14.65
+Kador,Parrosa,Yarebap,Yarebap II,Heavy Metals,Medium,15.04
+Kador,Parrosa,Yarebap,Yarebap III,Motley Compound,Medium,14.16
+Kador,Parrosa,Yarebap,Yarebap III,Polyaramids,Rich,14.56
+Kador,Parrosa,Yarebap,Yarebap IV,Lustering Alloy,Poor,12.55
+Kador,Parrosa,Yarebap,Yarebap IV,Base Metals,Poor,2.76
+Kador,Parrosa,Yarebap,Yarebap V,Lustering Alloy,Medium,17.48
+Kador,Parrosa,Yarebap,Yarebap V,Base Metals,Medium,4.20
+Kador,Parrosa,Yarebap,Yarebap VI,Lustering Alloy,Rich,22.57
+Kador,Parrosa,Yarebap,Yarebap VI,Base Metals,Perfect,6.32
+Kador,Parrosa,Yarebap,Yarebap VI,Polyaramids,Medium,9.51
+Kador,Parrosa,Yarebap,Yarebap VII,Lustering Alloy,Rich,19.68
+Kador,Parrosa,Yarebap,Yarebap VII,Glossy Compound,Medium,17.67
+Kador,Parrosa,Yarebap,Yarebap VII,Base Metals,Rich,5.10
+Kador,Parrosa,Yarebap,Yarebap VIII,Lustering Alloy,Poor,13.44
+Kador,Parrosa,Yarebap,Yarebap VIII,Base Metals,Medium,4.73
+Kador,Parrosa,Mandoo,Mandoo I,Lustering Alloy,Poor,13.90
+Kador,Parrosa,Mandoo,Mandoo I,Base Metals,Poor,2.80
+Kador,Parrosa,Mandoo,Mandoo II,Supertensile Plastics,Perfect,16.31
+Kador,Parrosa,Mandoo,Mandoo II,Suspended Plasma,Rich,70.15
+Kador,Parrosa,Mandoo,Mandoo III,Lustering Alloy,Perfect,24.46
+Kador,Parrosa,Mandoo,Mandoo III,Base Metals,Poor,3.33
+Kador,Parrosa,Mandoo,Mandoo III,Coolant,Medium,11.27
+Kador,Parrosa,Mandoo,Mandoo IV,Lustering Alloy,Medium,17.04
+Kador,Parrosa,Mandoo,Mandoo IV,Noble Gas,Rich,21.02
+Kador,Parrosa,Mandoo,Mandoo IV,Base Metals,Medium,4.61
+Kador,Parrosa,Mandoo,Mandoo V,Lustering Alloy,Poor,11.82
+Kador,Parrosa,Mandoo,Mandoo V,Base Metals,Poor,2.69
+Kador,Parrosa,Miah,Miah I,Motley Compound,Medium,18.07
+Kador,Parrosa,Miah,Miah I,Polyaramids,Medium,11.11
+Kador,Parrosa,Miah,Miah II,Lustering Alloy,Medium,16.26
+Kador,Parrosa,Miah,Miah II,Base Metals,Medium,3.76
+Kador,Parrosa,Miah,Miah III,Motley Compound,Medium,17.11
+Kador,Parrosa,Miah,Miah III,Noble Gas,Rich,20.85
+Kador,Parrosa,Miah,Miah IV,Fiber Composite,Perfect,24.09
+Kador,Parrosa,Miah,Miah IV,Heavy Water,Perfect,246.45
+Kador,Parrosa,Miah,Miah IV,Liquid Ozone,Perfect,33.90
+Kador,Parrosa,Miah,Miah V,Noble Metals,Medium,16.59
+Kador,Parrosa,Miah,Miah V,Condensates,Rich,15.40
+Kador,Parrosa,Miah,Miah V,Heavy Water,Perfect,259.80
+Kador,Parrosa,Miah,Miah VI,Lustering Alloy,Medium,15.55
+Kador,Parrosa,Miah,Miah VI,Base Metals,Rich,5.89
+Kador,Parrosa,Miah,Miah VI,Reactive Metals,Medium,4.41
+Kador,Parrosa,Miah,Miah VII,Lustering Alloy,Medium,18.15
+Kador,Parrosa,Miah,Miah VII,Base Metals,Poor,2.94
+Kador,Parrosa,Miah,Miah VIII,Lustering Alloy,Poor,12.62
+Kador,Parrosa,Miah,Miah VIII,Sheen Compound,Perfect,24.34
+Kador,Parrosa,Miah,Miah VIII,Base Metals,Rich,6.17
+Kador,Parrosa,Miah,Miah IX,Lustering Alloy,Poor,13.65
+Kador,Parrosa,Miah,Miah IX,Base Metals,Medium,4.77
+Kador,Parrosa,Miah,Miah X,Lustering Alloy,Perfect,24.02
+Kador,Parrosa,Miah,Miah X,Reactive Gas,Rich,20.59
+Kador,Parrosa,Miah,Miah X,Base Metals,Medium,3.92
+Kador,Parrosa,Miah,Miah XI,Reactive Gas,Rich,19.91
+Kador,Parrosa,Miah,Miah XI,Suspended Plasma,Rich,74.95
+Kador,Parrosa,Peyiri,Peyiri I,Condensates,Rich,15.21
+Kador,Parrosa,Peyiri,Peyiri I,Suspended Plasma,Poor,50.65
+Kador,Parrosa,Peyiri,Peyiri I,Ionic Solutions,Perfect,10.29
+Kador,Parrosa,Peyiri,Peyiri II,Lustering Alloy,Poor,9.87
+Kador,Parrosa,Peyiri,Peyiri II,Base Metals,Poor,3.03
+Kador,Parrosa,Peyiri,Peyiri III,Motley Compound,Medium,18.96
+Kador,Parrosa,Peyiri,Peyiri III,Polyaramids,Rich,13.46
+Kador,Parrosa,Peyiri,Peyiri IV,Lustering Alloy,Poor,9.96
+Kador,Parrosa,Peyiri,Peyiri IV,Base Metals,Poor,3.02
+Kador,Parrosa,Peyiri,Peyiri V,Opulent Compound,Rich,23.82
+Kador,Parrosa,Peyiri,Peyiri V,Base Metals,Medium,4.12
+Kador,Parrosa,Peyiri,Peyiri V,Heavy Water,Perfect,255.60
+Kador,Parrosa,Peyiri,Peyiri VI,Construction Blocks,Perfect,24.11
+Kador,Parrosa,Peyiri,Peyiri VI,Suspended Plasma,Rich,74.03
+Kador,Parrosa,Peyiri,Peyiri VII,Lustering Alloy,Medium,18.91
+Kador,Parrosa,Peyiri,Peyiri VII,Sheen Compound,Perfect,24.64
+Kador,Parrosa,Peyiri,Peyiri VII,Base Metals,Perfect,6.31
+Kador,Parrosa,Peyiri,Peyiri VIII,Lustering Alloy,Medium,17.66
+Kador,Parrosa,Peyiri,Peyiri VIII,Base Metals,Medium,4.41
+Kador,Parrosa,Peyiri,Peyiri VIII,Coolant,Medium,12.21
+Kador,Parrosa,Peyiri,Peyiri IX,Base Metals,Rich,6.15
+Kador,Parrosa,Peyiri,Peyiri IX,Smartfab Units,Perfect,17.67
+Kador,Parrosa,Peyiri,Peyiri IX,Heavy Water,Rich,220.35
+Kador,Parrosa,Peyiri,Peyiri X,Fiber Composite,Medium,16.39
+Kador,Parrosa,Peyiri,Peyiri X,Noble Metals,Rich,23.49
+Kador,Parrosa,Peyiri,Peyiri X,Heavy Water,Perfect,247.95
+Kador,Parrosa,Peyiri,Peyiri XI,Lustering Alloy,Rich,19.88
+Kador,Parrosa,Peyiri,Peyiri XI,Noble Gas,Medium,18.18
+Kador,Parrosa,Peyiri,Peyiri XI,Base Metals,Poor,3.51
+Kador,Parrosa,Peyiri,Peyiri XII,Lustering Alloy,Medium,15.63
+Kador,Parrosa,Peyiri,Peyiri XII,Base Metals,Poor,2.66
+Kador,Parrosa,Kamda,Kamda I,Lustering Alloy,Medium,16.26
+Kador,Parrosa,Kamda,Kamda I,Base Metals,Medium,4.48
+Kador,Parrosa,Kamda,Kamda II,Motley Compound,Rich,19.84
+Kador,Parrosa,Kamda,Kamda II,Smartfab Units,Poor,8.61
+Kador,Parrosa,Kamda,Kamda III,Nanites,Medium,3.77
+Kador,Parrosa,Kamda,Kamda III,Suspended Plasma,Medium,63.50
+Kador,Parrosa,Kamda,Kamda IV,Lustering Alloy,Poor,10.66
+Kador,Parrosa,Kamda,Kamda IV,Base Metals,Poor,3.03
+Kador,Parrosa,Kamda,Kamda V,Suspended Plasma,Rich,68.74
+Kador,Parrosa,Kamda,Kamda V,Oxygen Isotopes,Medium,2.29
+Kador,Parrosa,Kamda,Kamda VI,Lustering Alloy,Poor,12.46
+Kador,Parrosa,Kamda,Kamda VI,Glossy Compound,Medium,16.82
+Kador,Parrosa,Kamda,Kamda VI,Base Metals,Medium,4.67
+Kador,Parrosa,Kamda,Kamda VII,Opulent Compound,Perfect,26.73
+Kador,Parrosa,Kamda,Kamda VII,Smartfab Units,Medium,10.82
+Kador,Parrosa,Kamda,Kamda VII,Heavy Water,Medium,150.15
+Kador,Parrosa,Kamda,Kamda VIII,Lustering Alloy,Medium,14.54
+Kador,Parrosa,Kamda,Kamda VIII,Fiber Composite,Poor,13.76
+Kador,Parrosa,Kamda,Kamda VIII,Base Metals,Medium,4.14
+Kador,Parrosa,Kamda,Kamda IX,Lustering Alloy,Poor,12.75
+Kador,Parrosa,Kamda,Kamda IX,Base Metals,Medium,4.31
+Kador,Parrosa,Kamda,Kamda X,Lustering Alloy,Rich,20.89
+Kador,Parrosa,Kamda,Kamda X,Base Metals,Rich,5.69
+Kador,Parrosa,Kamda,Kamda X,Polyaramids,Medium,10.43
+Kador,Parrosa,Kamda,Kamda XI,Lustering Alloy,Poor,12.66
+Kador,Parrosa,Kamda,Kamda XI,Base Metals,Poor,3.22
+Kador,Parrosa,Kamda,Kamda XII,Lustering Alloy,Medium,18.05
+Kador,Parrosa,Kamda,Kamda XII,Base Metals,Poor,3.41
+Kador,Parrosa,Kamda,Kamda XIII,Lustering Alloy,Poor,13.95
+Kador,Parrosa,Kamda,Kamda XIII,Base Metals,Medium,4.32
+Kador,Favo,Rayeret,Rayeret I,Dark Compound,Poor,14.83
+Kador,Favo,Rayeret,Rayeret I,Industrial Fibers,Poor,3.97
+Kador,Favo,Rayeret,Rayeret I,Supertensile Plastics,Poor,7.51
+Kador,Favo,Rayeret,Rayeret II,Industrial Fibers,Medium,4.70
+Kador,Favo,Rayeret,Rayeret II,Silicate Glass,Medium,9.64
+Kador,Favo,Rayeret,Rayeret II,Oxygen Isotopes,Poor,1.97
+Kador,Favo,Rayeret,Rayeret III,Noble Gas,Medium,19.50
+Kador,Favo,Rayeret,Rayeret III,Polyaramids,Rich,15.69
+Kador,Favo,Rayeret,Rayeret IV,Reactive Gas,Medium,16.82
+Kador,Favo,Rayeret,Rayeret IV,Construction Blocks,Medium,16.83
+Kador,Favo,Rayeret,Rayeret IV,Oxygen Isotopes,Poor,2.05
+Kador,Favo,Rayeret,Rayeret V,Condensed Alloy,Perfect,27.62
+Kador,Favo,Rayeret,Rayeret V,Fiber Composite,Medium,19.54
+Kador,Favo,Rayeret,Rayeret V,Condensates,Medium,12.31
+Kador,Favo,Rayeret,Rayeret V,Heavy Water,Perfect,303.20
+Kador,Favo,Rayeret,Rayeret VI,Lustering Alloy,Perfect,25.60
+Kador,Favo,Rayeret,Rayeret VI,Reactive Gas,Poor,13.46
+Kador,Favo,Rayeret,Rayeret VI,Noble Gas,Poor,14.00
+Kador,Favo,Rayeret,Rayeret VI,Base Metals,Medium,5.05
+Kador,Favo,Rayeret,Rayeret VII,Sheen Compound,Poor,14.26
+Kador,Favo,Rayeret,Rayeret VII,Fiber Composite,Medium,16.08
+Kador,Favo,Rayeret,Rayeret VII,Noble Gas,Medium,19.44
+Kador,Favo,Rayeret,Rayeret VII,Polyaramids,Medium,12.23
+Kador,Favo,Rayeret,Rayeret VIII,Reactive Gas,Poor,13.86
+Kador,Favo,Rayeret,Rayeret VIII,Noble Gas,Medium,18.11
+Kador,Favo,Rayeret,Rayeret VIII,Base Metals,Rich,5.74
+Kador,Favo,Rayeret,Rayeret VIII,Polyaramids,Medium,12.34
+Kador,Favo,Rayeret,Rayeret IX,Coolant,Medium,13.19
+Kador,Favo,Rayeret,Rayeret IX,Condensates,Medium,10.28
+Kador,Favo,Rayeret,Rayeret IX,Suspended Plasma,Rich,80.18
+Kador,Favo,Bushemal,Bushemal I,Industrial Fibers,Poor,2.93
+Kador,Favo,Bushemal,Bushemal I,Supertensile Plastics,Medium,10.28
+Kador,Favo,Bushemal,Bushemal I,Oxygen Isotopes,Medium,2.64
+Kador,Favo,Bushemal,Bushemal II,Lucent Compound,Perfect,27.23
+Kador,Favo,Bushemal,Bushemal II,Nanites,Medium,4.97
+Kador,Favo,Bushemal,Bushemal II,Ionic Solutions,Perfect,10.88
+Kador,Favo,Bushemal,Bushemal II,Plasmoids,Perfect,1.63
+Kador,Favo,Bushemal,Bushemal III,Dark Compound,Poor,14.66
+Kador,Favo,Bushemal,Bushemal III,Industrial Fibers,Poor,3.61
+Kador,Favo,Bushemal,Bushemal III,Oxygen Isotopes,Medium,2.57
+Kador,Favo,Bushemal,Bushemal IV,Condensed Alloy,Rich,23.57
+Kador,Favo,Bushemal,Bushemal IV,Opulent Compound,Perfect,28.16
+Kador,Favo,Bushemal,Bushemal IV,Coolant,Medium,10.45
+Kador,Favo,Bushemal,Bushemal IV,Liquid Ozone,Medium,19.00
+Kador,Favo,Bushemal,Bushemal V,Glossy Compound,Rich,22.56
+Kador,Favo,Bushemal,Bushemal V,Noble Gas,Perfect,26.26
+Kador,Favo,Bushemal,Bushemal V,Base Metals,Medium,4.66
+Kador,Favo,Bushemal,Bushemal V,Coolant,Rich,15.85
+Kador,Favo,Bushemal,Bushemal VI,Industrial Fibers,Medium,4.18
+Kador,Favo,Bushemal,Bushemal VI,Silicate Glass,Poor,5.10
+Kador,Favo,Bushemal,Bushemal VI,Oxygen Isotopes,Medium,2.74
+Kador,Favo,Bushemal,Bushemal VII,Noble Gas,Rich,20.86
+Kador,Favo,Bushemal,Bushemal VII,Polyaramids,Medium,10.65
+Kador,Favo,Bushemal,Bushemal VII,Coolant,Medium,13.00
+Kador,Favo,Bushemal,Bushemal VII,Ionic Solutions,Poor,5.53
+Kador,Favo,Bushemal,Bushemal VIII,Reactive Gas,Perfect,26.11
+Kador,Favo,Bushemal,Bushemal VIII,Construction Blocks,Medium,18.08
+Kador,Favo,Bushemal,Bushemal VIII,Nanites,Medium,5.30
+Kador,Favo,Bushemal,Bushemal IX,Lustering Alloy,Medium,16.16
+Kador,Favo,Bushemal,Bushemal IX,Reactive Gas,Medium,16.62
+Kador,Favo,Bushemal,Bushemal IX,Noble Gas,Poor,14.62
+Kador,Favo,Bushemal,Bushemal IX,Polyaramids,Rich,16.58
+Kador,Favo,Bushemal,Bushemal X,Dark Compound,Medium,19.50
+Kador,Favo,Bushemal,Bushemal X,Base Metals,Medium,5.03
+Kador,Favo,Bushemal,Bushemal X,Industrial Fibers,Medium,4.50
+Kador,Favo,Bushemal,Bushemal XI,Supertensile Plastics,Medium,12.10
+Kador,Favo,Bushemal,Bushemal XI,Coolant,Rich,15.87
+Kador,Favo,Bushemal,Bushemal XI,Suspended Plasma,Rich,81.27
+Kador,Favo,Ardhis,Ardhis I,Lustering Alloy,Poor,11.98
+Kador,Favo,Ardhis,Ardhis I,Industrial Fibers,Medium,4.78
+Kador,Favo,Ardhis,Ardhis I,Oxygen Isotopes,Poor,2.21
+Kador,Favo,Ardhis,Ardhis II,Lustering Alloy,Poor,11.85
+Kador,Favo,Ardhis,Ardhis II,Dark Compound,Medium,16.15
+Kador,Favo,Ardhis,Ardhis II,Industrial Fibers,Medium,4.25
+Kador,Favo,Ardhis,Ardhis III,Noble Gas,Medium,19.67
+Kador,Favo,Ardhis,Ardhis III,Heavy Metals,Rich,24.02
+Kador,Favo,Ardhis,Ardhis IV,Fiber Composite,Rich,24.65
+Kador,Favo,Ardhis,Ardhis IV,Opulent Compound,Rich,24.28
+Kador,Favo,Ardhis,Ardhis IV,Industrial Fibers,Perfect,8.00
+Kador,Favo,Ardhis,Ardhis IV,Heavy Water,Rich,253.81
+Kador,Favo,Ardhis,Ardhis V,Condensed Alloy,Medium,16.97
+Kador,Favo,Ardhis,Ardhis V,Fiber Composite,Perfect,30.06
+Kador,Favo,Ardhis,Ardhis V,Opulent Compound,Medium,20.08
+Kador,Favo,Ardhis,Ardhis V,Smartfab Units,Rich,17.51
+Kador,Favo,Ardhis,Ardhis VI,Lustering Alloy,Rich,22.37
+Kador,Favo,Ardhis,Ardhis VI,Glossy Compound,Rich,23.29
+Kador,Favo,Ardhis,Ardhis VI,Noble Gas,Poor,15.93
+Kador,Favo,Ardhis,Ardhis VI,Polyaramids,Rich,17.52
+Kador,Favo,Ardhis,Ardhis VII,Lustering Alloy,Medium,20.74
+Kador,Favo,Ardhis,Ardhis VII,Reactive Gas,Rich,22.68
+Kador,Favo,Ardhis,Ardhis VII,Noble Gas,Rich,24.65
+Kador,Favo,Ardhis,Ardhis VII,Polyaramids,Rich,14.55
+Kador,Favo,Ardhis,Ardhis VIII,Fiber Composite,Rich,26.33
+Kador,Favo,Ardhis,Ardhis VIII,Noble Gas,Perfect,27.30
+Kador,Favo,Ardhis,Ardhis VIII,Reactive Metals,Rich,6.33
+Kador,Favo,Ardhis,Ardhis VIII,Polyaramids,Rich,17.44
+Kador,Favo,Ardhis,Ardhis IX,Opulent Compound,Rich,26.35
+Kador,Favo,Ardhis,Ardhis IX,Crystal Compound,Perfect,27.10
+Kador,Favo,Ardhis,Ardhis IX,Coolant,Perfect,18.52
+Kador,Favo,Ardhis,Ardhis IX,Silicate Glass,Medium,9.13
+Kador,Favo,Gasavak,Gasavak I,Toxic Metals,Medium,5.20
+Kador,Favo,Gasavak,Gasavak I,Construction Blocks,Rich,24.68
+Kador,Favo,Gasavak,Gasavak I,Nanites,Rich,6.99
+Kador,Favo,Gasavak,Gasavak II,Fiber Composite,Medium,16.44
+Kador,Favo,Gasavak,Gasavak II,Noble Metals,Perfect,32.44
+Kador,Favo,Gasavak,Gasavak II,Smartfab Units,Medium,12.97
+Kador,Favo,Gasavak,Gasavak II,Heavy Water,Perfect,292.74
+Kador,Favo,Gasavak,Gasavak III,Reactive Gas,Medium,20.69
+Kador,Favo,Gasavak,Gasavak III,Noble Gas,Medium,16.13
+Kador,Favo,Gasavak,Gasavak III,Base Metals,Medium,4.42
+Kador,Favo,Gasavak,Gasavak III,Ionic Solutions,Medium,7.55
+Kador,Favo,Gasavak,Gasavak IV,Lustering Alloy,Medium,16.76
+Kador,Favo,Gasavak,Gasavak IV,Industrial Fibers,Medium,5.02
+Kador,Favo,Gasavak,Gasavak IV,Construction Blocks,Poor,13.14
+Kador,Favo,Gasavak,Gasavak V,Reactive Gas,Medium,18.34
+Kador,Favo,Gasavak,Gasavak V,Noble Gas,Poor,14.37
+Kador,Favo,Gasavak,Gasavak V,Polyaramids,Rich,15.70
+Kador,Favo,Gasavak,Gasavak V,Coolant,Medium,12.58
+Kador,Favo,Gasavak,Gasavak VI,Fiber Composite,Perfect,28.03
+Kador,Favo,Gasavak,Gasavak VI,Noble Gas,Medium,20.81
+Kador,Favo,Gasavak,Gasavak VI,Reactive Metals,Rich,6.96
+Kador,Favo,Gasavak,Gasavak VI,Coolant,Medium,13.63
+Kador,Favo,Gasavak,Gasavak VII,Heavy Metals,Medium,18.90
+Kador,Favo,Gasavak,Gasavak VII,Coolant,Rich,15.56
+Kador,Favo,Gasavak,Gasavak VII,Condensates,Poor,8.68
+Kador,Favo,Iaokit,Iaokit I,Motley Compound,Medium,15.20
+Kador,Favo,Iaokit,Iaokit I,Noble Gas,Rich,24.16
+Kador,Favo,Iaokit,Iaokit II,Industrial Fibers,Medium,4.72
+Kador,Favo,Iaokit,Iaokit II,Construction Blocks,Poor,14.83
+Kador,Favo,Iaokit,Iaokit II,Plasmoids,Poor,0.65
+Kador,Favo,Iaokit,Iaokit III,Construction Blocks,Medium,15.15
+Kador,Favo,Iaokit,Iaokit III,Nanites,Rich,6.29
+Kador,Favo,Iaokit,Iaokit III,Oxygen Isotopes,Medium,2.56
+Kador,Favo,Iaokit,Iaokit IV,Fiber Composite,Rich,24.46
+Kador,Favo,Iaokit,Iaokit IV,Opulent Compound,Perfect,30.59
+Kador,Favo,Iaokit,Iaokit IV,Reactive Gas,Perfect,28.46
+Kador,Favo,Iaokit,Iaokit IV,Heavy Water,Rich,252.64
+Kador,Favo,Iaokit,Iaokit V,Base Metals,Poor,3.29
+Kador,Favo,Iaokit,Iaokit V,Industrial Fibers,Poor,2.85
+Kador,Favo,Iaokit,Iaokit V,Construction Blocks,Poor,14.24
+Kador,Favo,Iaokit,Iaokit VI,Sheen Compound,Rich,23.86
+Kador,Favo,Iaokit,Iaokit VI,Fiber Composite,Medium,17.52
+Kador,Favo,Iaokit,Iaokit VI,Reactive Gas,Rich,22.67
+Kador,Favo,Iaokit,Iaokit VI,Noble Gas,Rich,22.56
+Kador,Favo,Iaokit,Iaokit VII,Fiber Composite,Perfect,30.30
+Kador,Favo,Iaokit,Iaokit VII,Reactive Gas,Medium,15.55
+Kador,Favo,Iaokit,Iaokit VII,Noble Metals,Medium,19.15
+Kador,Favo,Iaokit,Iaokit VII,Smartfab Units,Rich,15.77
+Kador,Favo,Iaokit,Iaokit VIII,Lustering Alloy,Rich,21.33
+Kador,Favo,Iaokit,Iaokit VIII,Noble Gas,Rich,25.07
+Kador,Favo,Iaokit,Iaokit VIII,Coolant,Poor,9.60
+Kador,Favo,Iaokit,Iaokit VIII,Ionic Solutions,Medium,7.83
+Kador,Favo,Iaokit,Iaokit IX,Noble Gas,Rich,22.02
+Kador,Favo,Iaokit,Iaokit IX,Base Metals,Rich,6.13
+Kador,Favo,Iaokit,Iaokit IX,Coolant,Rich,14.58
+Kador,Favo,Iaokit,Iaokit IX,Ionic Solutions,Medium,6.82
+Kador,Favo,Iaokit,Iaokit X,Base Metals,Rich,5.59
+Kador,Favo,Iaokit,Iaokit X,Industrial Fibers,Medium,4.77
+Kador,Favo,Iaokit,Iaokit X,Coolant,Poor,9.54
+Kador,Favo,Iaokit,Iaokit XI,Noble Metals,Rich,21.95
+Kador,Favo,Iaokit,Iaokit XI,Toxic Metals,Rich,6.56
+Kador,Favo,Iaokit,Iaokit XI,Coolant,Rich,15.11
+Kador,Favo,Iaokit,Iaokit XI,Liquid Ozone,Medium,21.90
+Kador,Favo,Menri,Menri I,Dark Compound,Medium,20.33
+Kador,Favo,Menri,Menri I,Base Metals,Poor,3.39
+Kador,Favo,Menri,Menri I,Industrial Fibers,Medium,4.49
+Kador,Favo,Menri,Menri II,Reactive Gas,Medium,17.39
+Kador,Favo,Menri,Menri II,Toxic Metals,Rich,6.84
+Kador,Favo,Menri,Menri II,Construction Blocks,Poor,14.11
+Kador,Favo,Menri,Menri III,Lucent Compound,Rich,25.94
+Kador,Favo,Menri,Menri III,Condensates,Perfect,18.21
+Kador,Favo,Menri,Menri III,Nanites,Rich,6.12
+Kador,Favo,Menri,Menri III,Suspended Plasma,Rich,88.80
+Kador,Favo,Menri,Menri IV,Noble Gas,Rich,22.56
+Kador,Favo,Menri,Menri IV,Plasmoids,Medium,1.09
+Kador,Favo,Menri,Menri V,Lustering Alloy,Medium,18.63
+Kador,Favo,Menri,Menri V,Industrial Fibers,Medium,5.49
+Kador,Favo,Menri,Menri V,Silicate Glass,Medium,8.82
+Kador,Favo,Menri,Menri VI,Polyaramids,Perfect,18.51
+Kador,Favo,Menri,Menri VI,Coolant,Rich,14.99
+Kador,Favo,Menri,Menri VI,Heavy Water,Medium,192.78
+Kador,Favo,Menri,Menri VI,Ionic Solutions,Perfect,11.21
+Kador,Favo,Menri,Menri VII,Fiber Composite,Medium,17.48
+Kador,Favo,Menri,Menri VII,Noble Gas,Medium,20.42
+Kador,Favo,Menri,Menri VII,Reactive Metals,Medium,4.30
+Kador,Favo,Menri,Menri VII,Polyaramids,Rich,14.88
+Kador,Favo,Menri,Menri VIII,Lustering Alloy,Rich,25.41
+Kador,Favo,Menri,Menri VIII,Fiber Composite,Rich,21.96
+Kador,Favo,Menri,Menri VIII,Noble Gas,Perfect,27.08
+Kador,Favo,Menri,Menri VIII,Reactive Metals,Rich,5.75
+Kador,Favo,Menri,Menri IX,Sheen Compound,Rich,23.99
+Kador,Favo,Menri,Menri IX,Noble Gas,Medium,16.88
+Kador,Favo,Menri,Menri IX,Reactive Metals,Poor,4.16
+Kador,Favo,Menri,Menri IX,Coolant,Medium,13.11
+Kador,Favo,Menri,Menri X,Precious Alloy,Medium,21.23
+Kador,Favo,Menri,Menri X,Coolant,Rich,16.24
+Kador,Favo,Menri,Menri X,Suspended Plasma,Rich,87.82
+Kador,Favo,Menri,Menri XI,Supertensile Plastics,Poor,9.33
+Kador,Favo,Menri,Menri XI,Coolant,Poor,9.49
+Kador,Favo,Menri,Menri XI,Liquid Ozone,Rich,30.66
+Kador,Favo,Menri,Menri XII,Sheen Compound,Perfect,27.56
+Kador,Favo,Menri,Menri XII,Noble Gas,Medium,20.09
+Kador,Favo,Menri,Menri XII,Nanites,Perfect,7.47
+Kador,Favo,Menri,Menri XII,Ionic Solutions,Poor,6.26
+Kador,Araz,Chanoun,Chanoun I,Lustering Alloy,Medium,17.71
+Kador,Araz,Chanoun,Chanoun I,Base Metals,Medium,4.14
+Kador,Araz,Chanoun,Chanoun II,Lucent Compound,Medium,18.32
+Kador,Araz,Chanoun,Chanoun II,Suspended Plasma,Medium,67.50
+Kador,Araz,Chanoun,Chanoun II,Plasmoids,Medium,1.02
+Kador,Araz,Chanoun,Chanoun III,Lustering Alloy,Medium,14.51
+Kador,Araz,Chanoun,Chanoun III,Base Metals,Medium,4.71
+Kador,Araz,Chanoun,Chanoun IV,Motley Compound,Poor,13.17
+Kador,Araz,Chanoun,Chanoun IV,Glossy Compound,Medium,17.39
+Kador,Araz,Chanoun,Chanoun V,Supertensile Plastics,Rich,15.56
+Kador,Araz,Chanoun,Chanoun V,Suspended Plasma,Rich,84.08
+Kador,Araz,Chanoun,Chanoun VI,Condensed Alloy,Medium,17.61
+Kador,Araz,Chanoun,Chanoun VI,Condensates,Perfect,17.46
+Kador,Araz,Chanoun,Chanoun VI,Heavy Water,Perfect,286.65
+Kador,Araz,Chanoun,Chanoun VII,Crystal Compound,Rich,19.88
+Kador,Araz,Chanoun,Chanoun VII,Silicate Glass,Perfect,12.04
+Kador,Araz,Chanoun,Chanoun VII,Heavy Water,Medium,168.15
+Kador,Araz,Chanoun,Chanoun VIII,Lustering Alloy,Rich,20.09
+Kador,Araz,Chanoun,Chanoun VIII,Reactive Gas,Rich,22.52
+Kador,Araz,Chanoun,Chanoun VIII,Base Metals,Rich,5.51
+Kador,Araz,Chanoun,Chanoun IX,Lustering Alloy,Rich,19.88
+Kador,Araz,Chanoun,Chanoun IX,Base Metals,Rich,5.28
+Kador,Araz,Chanoun,Chanoun IX,Coolant,Medium,12.16
+Kador,Araz,Chanoun,Chanoun X,Reactive Gas,Rich,21.98
+Kador,Araz,Chanoun,Chanoun X,Suspended Plasma,Medium,53.46
+Kador,Araz,Chanoun,Chanoun XI,Lustering Alloy,Rich,21.99
+Kador,Araz,Chanoun,Chanoun XI,Base Metals,Medium,4.56
+Kador,Araz,Garisas,Garisas I,Industrial Fibers,Poor,3.91
+Kador,Araz,Garisas,Garisas I,Construction Blocks,Poor,12.94
+Kador,Araz,Garisas,Garisas I,Silicate Glass,Medium,8.56
+Kador,Araz,Garisas,Garisas II,Noble Gas,Medium,18.06
+Kador,Araz,Garisas,Garisas II,Noble Metals,Rich,23.38
+Kador,Araz,Garisas,Garisas III,Reactive Metals,Medium,4.75
+Kador,Araz,Garisas,Garisas III,Construction Blocks,Rich,22.51
+Kador,Araz,Garisas,Garisas III,Suspended Plasma,Poor,52.88
+Kador,Araz,Garisas,Garisas IV,Crystal Compound,Poor,14.94
+Kador,Araz,Garisas,Garisas IV,Supertensile Plastics,Rich,15.95
+Kador,Araz,Garisas,Garisas IV,Construction Blocks,Medium,17.01
+Kador,Araz,Garisas,Garisas V,Glossy Compound,Medium,19.89
+Kador,Araz,Garisas,Garisas V,Reactive Gas,Poor,13.79
+Kador,Araz,Garisas,Garisas V,Noble Gas,Rich,21.26
+Kador,Araz,Garisas,Garisas V,Base Metals,Rich,5.45
+Kador,Araz,Garisas,Garisas VI,Reactive Metals,Rich,5.92
+Kador,Araz,Garisas,Garisas VI,Construction Blocks,Rich,25.34
+Kador,Araz,Garisas,Garisas VI,Oxygen Isotopes,Rich,3.68
+Kador,Araz,Garisas,Garisas VII,Noble Gas,Medium,18.51
+Kador,Araz,Garisas,Garisas VII,Base Metals,Rich,5.86
+Kador,Araz,Garisas,Garisas VII,Polyaramids,Rich,16.48
+Kador,Araz,Garisas,Garisas VII,Coolant,Rich,15.57
+Kador,Araz,Garisas,Garisas VIII,Dark Compound,Medium,17.49
+Kador,Araz,Garisas,Garisas VIII,Industrial Fibers,Medium,5.01
+Kador,Araz,Garisas,Garisas VIII,Construction Blocks,Medium,18.72
+Kador,Araz,Aphi,Aphi I,Motley Compound,Rich,20.41
+Kador,Araz,Aphi,Aphi I,Heavy Metals,Medium,15.60
+Kador,Araz,Aphi,Aphi II,Lustering Alloy,Poor,10.53
+Kador,Araz,Aphi,Aphi II,Base Metals,Medium,3.74
+Kador,Araz,Aphi,Aphi III,Silicate Glass,Rich,10.13
+Kador,Araz,Aphi,Aphi III,Heavy Water,Rich,196.80
+Kador,Araz,Aphi,Aphi III,Ionic Solutions,Rich,9.26
+Kador,Araz,Aphi,Aphi IV,Base Metals,Rich,5.14
+Kador,Araz,Aphi,Aphi IV,Industrial Fibers,Poor,3.66
+Kador,Araz,Aphi,Aphi IV,Heavy Water,Medium,185.85
+Kador,Araz,Aphi,Aphi V,Lustering Alloy,Medium,18.32
+Kador,Araz,Aphi,Aphi V,Base Metals,Poor,3.47
+Kador,Araz,Aphi,Aphi VI,Lustering Alloy,Poor,13.15
+Kador,Araz,Aphi,Aphi VI,Base Metals,Poor,3.52
+Kador,Araz,Aphi,Aphi VII,Lustering Alloy,Medium,17.13
+Kador,Araz,Aphi,Aphi VII,Base Metals,Perfect,6.29
+Kador,Araz,Aphi,Aphi VII,Polyaramids,Rich,15.84
+Kador,Araz,Aphi,Aphi VIII,Lustering Alloy,Rich,21.64
+Kador,Araz,Aphi,Aphi VIII,Glossy Compound,Medium,17.66
+Kador,Araz,Aphi,Aphi VIII,Base Metals,Medium,4.26
+Kador,Araz,Aphi,Aphi IX,Lustering Alloy,Medium,18.69
+Kador,Araz,Aphi,Aphi IX,Base Metals,Poor,3.37
+Kador,Araz,Jakri,Jakri I,Motley Compound,Medium,17.82
+Kador,Araz,Jakri,Jakri I,Glossy Compound,Perfect,24.81
+Kador,Araz,Jakri,Jakri II,Lustering Alloy,Poor,12.30
+Kador,Araz,Jakri,Jakri II,Base Metals,Poor,3.01
+Kador,Araz,Jakri,Jakri III,Lustering Alloy,Medium,17.39
+Kador,Araz,Jakri,Jakri III,Base Metals,Medium,4.63
+Kador,Araz,Jakri,Jakri IV,Lustering Alloy,Medium,15.29
+Kador,Araz,Jakri,Jakri IV,Base Metals,Poor,2.77
+Kador,Araz,Jakri,Jakri V,Lustering Alloy,Medium,18.06
+Kador,Araz,Jakri,Jakri V,Base Metals,Medium,4.56
+Kador,Araz,Jakri,Jakri V,Ionic Solutions,Medium,5.68
+Kador,Araz,Jakri,Jakri VI,Lustering Alloy,Rich,22.39
+Kador,Araz,Jakri,Jakri VI,Base Metals,Perfect,6.51
+Kador,Araz,Jakri,Jakri VI,Reactive Metals,Rich,5.50
+Kador,Araz,Jakri,Jakri VII,Lustering Alloy,Rich,20.88
+Kador,Araz,Jakri,Jakri VII,Glossy Compound,Medium,15.31
+Kador,Araz,Jakri,Jakri VII,Base Metals,Medium,4.99
+Kador,Araz,Jakri,Jakri VIII,Lustering Alloy,Rich,19.48
+Kador,Araz,Jakri,Jakri VIII,Sheen Compound,Medium,15.20
+Kador,Araz,Jakri,Jakri VIII,Base Metals,Perfect,6.36
+Kador,Araz,Jakri,Jakri IX,Lustering Alloy,Rich,21.95
+Kador,Araz,Jakri,Jakri IX,Base Metals,Rich,5.58
+Kador,Araz,Nidupad,Nidupad I,Lustering Alloy,Poor,13.26
+Kador,Araz,Nidupad,Nidupad I,Base Metals,Poor,2.96
+Kador,Araz,Nidupad,Nidupad II,Gleaming Alloy,Poor,13.13
+Kador,Araz,Nidupad,Nidupad II,Motley Compound,Medium,16.21
+Kador,Araz,Nidupad,Nidupad III,Lustering Alloy,Medium,16.59
+Kador,Araz,Nidupad,Nidupad III,Base Metals,Poor,3.49
+Kador,Araz,Nidupad,Nidupad IV,Lustering Alloy,Medium,17.14
+Kador,Araz,Nidupad,Nidupad IV,Base Metals,Medium,4.57
+Kador,Araz,Nidupad,Nidupad V,Noble Metals,Rich,23.50
+Kador,Araz,Nidupad,Nidupad V,Heavy Water,Rich,196.05
+Kador,Araz,Nidupad,Nidupad V,Liquid Ozone,Medium,21.98
+Kador,Araz,Nidupad,Nidupad VI,Lustering Alloy,Rich,21.05
+Kador,Araz,Nidupad,Nidupad VI,Base Metals,Poor,3.55
+Kador,Araz,Nidupad,Nidupad VI,Coolant,Poor,9.15
+Kador,Araz,Nidupad,Nidupad VII,Lustering Alloy,Rich,22.59
+Kador,Araz,Nidupad,Nidupad VII,Fiber Composite,Rich,19.52
+Kador,Araz,Nidupad,Nidupad VII,Base Metals,Rich,5.74
+Kador,Araz,Nidupad,Nidupad VIII,Lustering Alloy,Poor,13.29
+Kador,Araz,Nidupad,Nidupad VIII,Base Metals,Perfect,6.40
+Kador,Araz,Nidupad,Nidupad VIII,Polyaramids,Perfect,16.43
+Kador,Araz,Nidupad,Nidupad IX,Lustering Alloy,Rich,21.91
+Kador,Araz,Nidupad,Nidupad IX,Base Metals,Perfect,6.55
+Kador,Araz,Nidupad,Nidupad IX,Ionic Solutions,Medium,6.54
+Kador,Araz,Nidupad,Nidupad X,Lustering Alloy,Poor,13.90
+Kador,Araz,Nidupad,Nidupad X,Base Metals,Poor,2.94
+Kador,Araz,Zimse,Zimse I,Lustering Alloy,Poor,12.82
+Kador,Araz,Zimse,Zimse I,Base Metals,Medium,4.58
+Kador,Araz,Zimse,Zimse II,Lustering Alloy,Poor,11.70
+Kador,Araz,Zimse,Zimse II,Base Metals,Poor,2.47
+Kador,Araz,Zimse,Zimse III,Lustering Alloy,Poor,9.60
+Kador,Araz,Zimse,Zimse III,Base Metals,Poor,2.74
+Kador,Araz,Zimse,Zimse IV,Gleaming Alloy,Rich,21.30
+Kador,Araz,Zimse,Zimse IV,Suspended Plasma,Poor,43.79
+Kador,Araz,Zimse,Zimse V,Lustering Alloy,Medium,16.00
+Kador,Araz,Zimse,Zimse V,Base Metals,Medium,4.82
+Kador,Araz,Zimse,Zimse V,Ionic Solutions,Medium,7.23
+Kador,Araz,Zimse,Zimse VI,Lustering Alloy,Medium,16.65
+Kador,Araz,Zimse,Zimse VI,Fiber Composite,Rich,23.70
+Kador,Araz,Zimse,Zimse VI,Base Metals,Rich,5.20
+Kador,Araz,Zimse,Zimse VII,Lustering Alloy,Medium,17.67
+Kador,Araz,Zimse,Zimse VII,Base Metals,Medium,4.65
+Kador,Araz,Koona,Koona I,Motley Compound,Poor,12.22
+Kador,Araz,Koona,Koona I,Noble Metals,Perfect,24.32
+Kador,Araz,Koona,Koona II,Lustering Alloy,Poor,12.13
+Kador,Araz,Koona,Koona II,Base Metals,Medium,4.38
+Kador,Araz,Koona,Koona III,Motley Compound,Rich,19.52
+Kador,Araz,Koona,Koona III,Polyaramids,Poor,8.57
+Kador,Araz,Koona,Koona IV,Condensed Alloy,Perfect,26.73
+Kador,Araz,Koona,Koona IV,Reactive Gas,Rich,19.82
+Kador,Araz,Koona,Koona IV,Heavy Water,Rich,204.15
+Kador,Araz,Koona,Koona V,Motley Compound,Poor,12.48
+Kador,Araz,Koona,Koona V,Construction Blocks,Poor,13.92
+Kador,Araz,Koona,Koona VI,Lustering Alloy,Medium,16.66
+Kador,Araz,Koona,Koona VI,Noble Gas,Rich,20.11
+Kador,Araz,Koona,Koona VI,Base Metals,Poor,3.36
+Kador,Araz,Koona,Koona VII,Lustering Alloy,Poor,13.04
+Kador,Araz,Koona,Koona VII,Sheen Compound,Poor,14.01
+Kador,Araz,Koona,Koona VII,Base Metals,Perfect,6.28
+Kador,Araz,Munory,Munory I,Dark Compound,Medium,19.31
+Kador,Araz,Munory,Munory I,Noble Gas,Medium,19.30
+Kador,Araz,Munory,Munory I,Reactive Metals,Rich,6.52
+Kador,Araz,Munory,Munory I,Nanites,Perfect,6.94
+Kador,Araz,Munory,Munory II,Noble Gas,Rich,23.39
+Kador,Araz,Munory,Munory II,Smartfab Units,Poor,9.49
+Kador,Araz,Munory,Munory III,Lucent Compound,Medium,19.79
+Kador,Araz,Munory,Munory III,Reactive Gas,Rich,21.97
+Kador,Araz,Munory,Munory III,Construction Blocks,Rich,23.95
+Kador,Araz,Munory,Munory IV,Lustering Alloy,Medium,18.80
+Kador,Araz,Munory,Munory IV,Glossy Compound,Rich,23.42
+Kador,Araz,Munory,Munory IV,Noble Gas,Poor,14.91
+Kador,Araz,Munory,Munory IV,Polyaramids,Rich,15.84
+Kador,Araz,Munory,Munory V,Lustering Alloy,Medium,17.18
+Kador,Araz,Munory,Munory V,Noble Gas,Rich,22.62
+Kador,Araz,Munory,Munory V,Coolant,Medium,12.20
+Kador,Araz,Munory,Munory V,Ionic Solutions,Medium,6.64
+Kador,Araz,Munory,Munory VI,Opulent Compound,Poor,14.37
+Kador,Araz,Munory,Munory VI,Crystal Compound,Rich,23.06
+Kador,Araz,Munory,Munory VI,Coolant,Rich,16.68
+Kador,Araz,Munory,Munory VI,Liquid Ozone,Rich,28.34
+Kador,Araz,Munory,Munory VII,Glossy Compound,Rich,22.02
+Kador,Araz,Munory,Munory VII,Noble Gas,Medium,17.84
+Kador,Araz,Munory,Munory VII,Polyaramids,Medium,13.19
+Kador,Araz,Munory,Munory VII,Ionic Solutions,Rich,8.38
+Kador,Araz,Munory,Munory VIII,Base Metals,Medium,4.55
+Kador,Araz,Munory,Munory VIII,Industrial Fibers,Poor,3.38
+Kador,Araz,Munory,Munory VIII,Supertensile Plastics,Medium,11.03
+Kador,Ahrnot,Hostakoh,Hostakoh I,Lustering Alloy,Poor,11.12
+Kador,Ahrnot,Hostakoh,Hostakoh I,Base Metals,Poor,3.04
+Kador,Ahrnot,Hostakoh,Hostakoh II,Supertensile Plastics,Poor,8.86
+Kador,Ahrnot,Hostakoh,Hostakoh II,Suspended Plasma,Perfect,88.07
+Kador,Ahrnot,Hostakoh,Hostakoh III,Lustering Alloy,Medium,16.68
+Kador,Ahrnot,Hostakoh,Hostakoh III,Base Metals,Poor,3.05
+Kador,Ahrnot,Hostakoh,Hostakoh IV,Lustering Alloy,Medium,16.13
+Kador,Ahrnot,Hostakoh,Hostakoh IV,Base Metals,Rich,5.53
+Kador,Ahrnot,Hostakoh,Hostakoh IV,Coolant,Poor,8.75
+Kador,Ahrnot,Hostakoh,Hostakoh V,Lustering Alloy,Poor,12.07
+Kador,Ahrnot,Hostakoh,Hostakoh V,Base Metals,Poor,3.21
+Kador,Ahrnot,Hostakoh,Hostakoh VI,Lustering Alloy,Poor,13.26
+Kador,Ahrnot,Hostakoh,Hostakoh VI,Sheen Compound,Medium,18.20
+Kador,Ahrnot,Hostakoh,Hostakoh VI,Base Metals,Rich,5.68
+Kador,Ahrnot,Hostakoh,Hostakoh VII,Lustering Alloy,Rich,23.28
+Kador,Ahrnot,Hostakoh,Hostakoh VII,Base Metals,Rich,5.31
+Kador,Ahrnot,Hostakoh,Hostakoh VII,Polyaramids,Rich,14.72
+Kador,Ahrnot,Hostakoh,Hostakoh VIII,Sheen Compound,Medium,16.14
+Kador,Ahrnot,Hostakoh,Hostakoh VIII,Heavy Metals,Perfect,24.68
+Kador,Ahrnot,Hostakoh,Hostakoh VIII,Suspended Plasma,Medium,64.75
+Kador,Ahrnot,Hostakoh,Hostakoh IX,Lustering Alloy,Rich,20.58
+Kador,Ahrnot,Hostakoh,Hostakoh IX,Base Metals,Poor,3.43
+Kador,Ahrnot,Yooh,Yooh I,Motley Compound,Medium,17.37
+Kador,Ahrnot,Yooh,Yooh I,Oxygen Isotopes,Rich,2.66
+Kador,Ahrnot,Yooh,Yooh II,Lustering Alloy,Poor,10.78
+Kador,Ahrnot,Yooh,Yooh II,Base Metals,Poor,2.47
+Kador,Ahrnot,Yooh,Yooh III,Lustering Alloy,Poor,11.87
+Kador,Ahrnot,Yooh,Yooh III,Base Metals,Medium,3.97
+Kador,Ahrnot,Yooh,Yooh IV,Reactive Gas,Rich,21.28
+Kador,Ahrnot,Yooh,Yooh IV,Heavy Water,Perfect,241.50
+Kador,Ahrnot,Yooh,Yooh IV,Liquid Ozone,Rich,22.92
+Kador,Ahrnot,Yooh,Yooh V,Lustering Alloy,Poor,11.98
+Kador,Ahrnot,Yooh,Yooh V,Fiber Composite,Medium,15.29
+Kador,Ahrnot,Yooh,Yooh V,Base Metals,Medium,3.90
+Kador,Ahrnot,Yooh,Yooh VI,Gleaming Alloy,Perfect,22.72
+Kador,Ahrnot,Yooh,Yooh VI,Suspended Plasma,Medium,59.37
+Kador,Ahrnot,Yooh,Yooh VII,Lustering Alloy,Rich,21.31
+Kador,Ahrnot,Yooh,Yooh VII,Noble Gas,Medium,17.05
+Kador,Ahrnot,Yooh,Yooh VII,Base Metals,Rich,5.28
+Kador,Ahrnot,Yooh,Yooh VIII,Lustering Alloy,Medium,15.68
+Kador,Ahrnot,Yooh,Yooh VIII,Base Metals,Rich,4.76
+Kador,Ahrnot,Yooh,Yooh IX,Lustering Alloy,Medium,14.71
+Kador,Ahrnot,Yooh,Yooh IX,Base Metals,Medium,3.98
+Kador,Ahrnot,Jeshideh,Jeshideh I,Lustering Alloy,Medium,13.65
+Kador,Ahrnot,Jeshideh,Jeshideh I,Base Metals,Medium,3.37
+Kador,Ahrnot,Jeshideh,Jeshideh II,Motley Compound,Rich,18.49
+Kador,Ahrnot,Jeshideh,Jeshideh II,Polyaramids,Poor,7.28
+Kador,Ahrnot,Jeshideh,Jeshideh III,Lustering Alloy,Medium,13.08
+Kador,Ahrnot,Jeshideh,Jeshideh III,Base Metals,Poor,2.34
+Kador,Ahrnot,Jeshideh,Jeshideh IV,Noble Metals,Rich,20.07
+Kador,Ahrnot,Jeshideh,Jeshideh IV,Smartfab Units,Perfect,16.47
+Kador,Ahrnot,Jeshideh,Jeshideh IV,Heavy Water,Rich,174.85
+Kador,Ahrnot,Jeshideh,Jeshideh V,Lustering Alloy,Poor,11.74
+Kador,Ahrnot,Jeshideh,Jeshideh V,Base Metals,Poor,2.77
+Kador,Ahrnot,Jeshideh,Jeshideh VI,Condensed Alloy,Medium,13.03
+Kador,Ahrnot,Jeshideh,Jeshideh VI,Industrial Fibers,Poor,3.16
+Kador,Ahrnot,Jeshideh,Jeshideh VI,Heavy Water,Rich,199.29
+Kador,Ahrnot,Jeshideh,Jeshideh VII,Toxic Metals,Rich,5.13
+Kador,Ahrnot,Jeshideh,Jeshideh VII,Suspended Plasma,Medium,52.79
+Kador,Ahrnot,Jeshideh,Jeshideh VIII,Lustering Alloy,Poor,11.36
+Kador,Ahrnot,Jeshideh,Jeshideh VIII,Base Metals,Medium,3.63
+Kador,Ahrnot,Jeshideh,Jeshideh VIII,Polyaramids,Rich,12.27
+Kador,Ahrnot,Jeshideh,Jeshideh IX,Lustering Alloy,Medium,16.38
+Kador,Ahrnot,Jeshideh,Jeshideh IX,Reactive Gas,Perfect,21.22
+Kador,Ahrnot,Jeshideh,Jeshideh IX,Base Metals,Poor,3.15
+Kador,Ahrnot,Hilmar,Hilmar I,Lustering Alloy,Poor,9.15
+Kador,Ahrnot,Hilmar,Hilmar I,Base Metals,Medium,3.36
+Kador,Ahrnot,Hilmar,Hilmar II,Fiber Composite,Perfect,23.87
+Kador,Ahrnot,Hilmar,Hilmar II,Opulent Compound,Perfect,24.61
+Kador,Ahrnot,Hilmar,Hilmar II,Heavy Water,Rich,188.63
+Kador,Ahrnot,Hilmar,Hilmar III,Lustering Alloy,Poor,11.45
+Kador,Ahrnot,Hilmar,Hilmar III,Glossy Compound,Poor,11.61
+Kador,Ahrnot,Hilmar,Hilmar III,Base Metals,Poor,3.11
+Kador,Ahrnot,Hilmar,Hilmar IV,Lustering Alloy,Rich,19.76
+Kador,Ahrnot,Hilmar,Hilmar IV,Reactive Gas,Rich,20.55
+Kador,Ahrnot,Hilmar,Hilmar IV,Base Metals,Poor,2.91
+Kador,Ahrnot,Hilmar,Hilmar V,Lustering Alloy,Medium,16.33
+Kador,Ahrnot,Hilmar,Hilmar V,Base Metals,Rich,4.91
+Kador,Ahrnot,Hilmar,Hilmar V,Ionic Solutions,Medium,5.87
+Kador,Ahrnot,Hilmar,Hilmar VI,Lustering Alloy,Medium,16.20
+Kador,Ahrnot,Hilmar,Hilmar VI,Base Metals,Rich,5.19
+Kador,Ahrnot,Hilmar,Hilmar VI,Polyaramids,Medium,9.41
+Kador,Ahrnot,Hilmar,Hilmar VII,Lustering Alloy,Rich,20.27
+Kador,Ahrnot,Hilmar,Hilmar VII,Fiber Composite,Rich,20.23
+Kador,Ahrnot,Hilmar,Hilmar VII,Base Metals,Perfect,5.58
+Kador,Ahrnot,Hilmar,Hilmar VIII,Coolant,Perfect,14.57
+Kador,Ahrnot,Hilmar,Hilmar VIII,Heavy Water,Perfect,225.94
+Kador,Ahrnot,Hilmar,Hilmar VIII,Liquid Ozone,Medium,18.91
+Kador,Ahrnot,Kasi,Kasi I,Lustering Alloy,Poor,10.39
+Kador,Ahrnot,Kasi,Kasi I,Base Metals,Medium,3.15
+Kador,Ahrnot,Kasi,Kasi II,Condensed Alloy,Poor,10.56
+Kador,Ahrnot,Kasi,Kasi II,Coolant,Medium,9.86
+Kador,Ahrnot,Kasi,Kasi II,Heavy Water,Medium,139.92
+Kador,Ahrnot,Kasi,Kasi III,Lustering Alloy,Medium,12.26
+Kador,Ahrnot,Kasi,Kasi III,Glossy Compound,Medium,13.01
+Kador,Ahrnot,Kasi,Kasi III,Base Metals,Medium,3.18
+Kador,Ahrnot,Kasi,Kasi IV,Lustering Alloy,Rich,16.57
+Kador,Ahrnot,Kasi,Kasi IV,Noble Gas,Rich,16.44
+Kador,Ahrnot,Kasi,Kasi IV,Base Metals,Rich,4.31
+Kador,Ahrnot,Kasi,Kasi V,Lustering Alloy,Rich,18.84
+Kador,Ahrnot,Kasi,Kasi V,Noble Gas,Rich,17.78
+Kador,Ahrnot,Kasi,Kasi V,Base Metals,Medium,3.20
+Kador,Ahrnot,Kasi,Kasi VI,Lustering Alloy,Medium,12.28
+Kador,Ahrnot,Kasi,Kasi VI,Base Metals,Rich,4.01
+Kador,Ahrnot,Shura,Shura I,Lustering Alloy,Poor,9.08
+Kador,Ahrnot,Shura,Shura I,Base Metals,Poor,2.05
+Kador,Ahrnot,Shura,Shura II,Motley Compound,Medium,13.25
+Kador,Ahrnot,Shura,Shura II,Oxygen Isotopes,Poor,1.62
+Kador,Ahrnot,Shura,Shura III,Lustering Alloy,Medium,12.48
+Kador,Ahrnot,Shura,Shura III,Base Metals,Medium,3.84
+Kador,Ahrnot,Shura,Shura IV,Lustering Alloy,Rich,17.71
+Kador,Ahrnot,Shura,Shura IV,Noble Gas,Rich,17.36
+Kador,Ahrnot,Shura,Shura IV,Base Metals,Poor,2.77
+Kador,Ahrnot,Shura,Shura V,Toxic Metals,Poor,2.79
+Kador,Ahrnot,Shura,Shura V,Suspended Plasma,Medium,53.74
+Kador,Ahrnot,Shura,Shura VI,Lustering Alloy,Medium,11.59
+Kador,Ahrnot,Shura,Shura VI,Noble Gas,Medium,14.69
+Kador,Ahrnot,Shura,Shura VI,Base Metals,Medium,3.02
+Kador,Pezarba,Mod,Mod I,Precious Alloy,Medium,16.51
+Kador,Pezarba,Mod,Mod I,Toxic Metals,Medium,5.37
+Kador,Pezarba,Mod,Mod I,Industrial Fibers,Poor,4.04
+Kador,Pezarba,Mod,Mod II,Lustering Alloy,Poor,13.19
+Kador,Pezarba,Mod,Mod II,Industrial Fibers,Medium,4.35
+Kador,Pezarba,Mod,Mod II,Plasmoids,Poor,0.79
+Kador,Pezarba,Mod,Mod III,Fiber Composite,Rich,24.38
+Kador,Pezarba,Mod,Mod III,Base Metals,Perfect,8.11
+Kador,Pezarba,Mod,Mod III,Industrial Fibers,Medium,5.07
+Kador,Pezarba,Mod,Mod III,Liquid Ozone,Perfect,38.21
+Kador,Pezarba,Mod,Mod IV,Lustering Alloy,Medium,18.68
+Kador,Pezarba,Mod,Mod IV,Fiber Composite,Medium,17.56
+Kador,Pezarba,Mod,Mod IV,Noble Gas,Medium,18.43
+Kador,Pezarba,Mod,Mod IV,Base Metals,Rich,6.63
+Kador,Pezarba,Mod,Mod V,Sheen Compound,Rich,22.15
+Kador,Pezarba,Mod,Mod V,Glossy Compound,Rich,25.59
+Kador,Pezarba,Mod,Mod V,Reactive Gas,Perfect,27.83
+Kador,Pezarba,Mod,Mod V,Noble Gas,Perfect,27.59
+Kador,Pezarba,Mod,Mod VI,Noble Metals,Medium,17.83
+Kador,Pezarba,Mod,Mod VI,Toxic Metals,Poor,4.21
+Kador,Pezarba,Mod,Mod VI,Coolant,Rich,15.30
+Kador,Pezarba,Mod,Mod VI,Liquid Ozone,Rich,30.03
+Kador,Pezarba,Mod,Mod VII,Lucent Compound,Poor,15.78
+Kador,Pezarba,Mod,Mod VII,Toxic Metals,Medium,4.48
+Kador,Pezarba,Mod,Mod VII,Construction Blocks,Medium,20.81
+Kador,Pezarba,Mod,Mod VIII,Industrial Fibers,Poor,3.73
+Kador,Pezarba,Mod,Mod VIII,Supertensile Plastics,Poor,7.87
+Kador,Pezarba,Mod,Mod VIII,Silicate Glass,Poor,7.28
+Kador,Pezarba,Omam,Omam I,Noble Gas,Medium,18.19
+Kador,Pezarba,Omam,Omam I,Noble Metals,Rich,26.69
+Kador,Pezarba,Omam,Omam II,Base Metals,Poor,3.57
+Kador,Pezarba,Omam,Omam II,Industrial Fibers,Poor,4.05
+Kador,Pezarba,Omam,Omam II,Supertensile Plastics,Medium,13.48
+Kador,Pezarba,Omam,Omam III,Lustering Alloy,Poor,14.08
+Kador,Pezarba,Omam,Omam III,Industrial Fibers,Medium,5.23
+Kador,Pezarba,Omam,Omam III,Construction Blocks,Poor,16.01
+Kador,Pezarba,Omam,Omam IV,Condensed Alloy,Perfect,29.07
+Kador,Pezarba,Omam,Omam IV,Coolant,Poor,10.61
+Kador,Pezarba,Omam,Omam IV,Heavy Water,Medium,164.05
+Kador,Pezarba,Omam,Omam IV,Liquid Ozone,Rich,28.54
+Kador,Pezarba,Omam,Omam V,Sheen Compound,Rich,26.95
+Kador,Pezarba,Omam,Omam V,Noble Gas,Rich,24.79
+Kador,Pezarba,Omam,Omam V,Polyaramids,Poor,10.32
+Kador,Pezarba,Omam,Omam V,Coolant,Perfect,18.45
+Kador,Pezarba,Omam,Omam VI,Lustering Alloy,Medium,17.73
+Kador,Pezarba,Omam,Omam VI,Industrial Fibers,Poor,4.18
+Kador,Pezarba,Omam,Omam VI,Silicate Glass,Medium,8.22
+Kador,Pezarba,Omam,Omam VII,Fiber Composite,Rich,24.07
+Kador,Pezarba,Omam,Omam VII,Reactive Gas,Rich,23.22
+Kador,Pezarba,Omam,Omam VII,Noble Gas,Rich,23.83
+Kador,Pezarba,Omam,Omam VII,Coolant,Rich,16.10
+Kador,Pezarba,Omam,Omam VIII,Sheen Compound,Medium,20.35
+Kador,Pezarba,Omam,Omam VIII,Reactive Gas,Rich,25.93
+Kador,Pezarba,Omam,Omam VIII,Noble Gas,Medium,18.48
+Kador,Pezarba,Omam,Omam VIII,Polyaramids,Poor,9.92
+Kador,Pezarba,Omam,Omam IX,Condensed Alloy,Perfect,30.57
+Kador,Pezarba,Omam,Omam IX,Fiber Composite,Medium,17.14
+Kador,Pezarba,Omam,Omam IX,Opulent Compound,Medium,17.00
+Kador,Pezarba,Omam,Omam IX,Liquid Ozone,Rich,27.67
+Kador,Pezarba,Omam,Omam X,Sheen Compound,Medium,18.61
+Kador,Pezarba,Omam,Omam X,Fiber Composite,Medium,16.44
+Kador,Pezarba,Omam,Omam X,Noble Gas,Rich,22.46
+Kador,Pezarba,Omam,Omam X,Polyaramids,Perfect,18.58
+Kador,Pezarba,Omam,Omam XI,Industrial Fibers,Rich,5.95
+Kador,Pezarba,Omam,Omam XI,Coolant,Poor,9.79
+Kador,Pezarba,Omam,Omam XI,Condensates,Rich,16.49
+Kador,Pezarba,Bersyrim,Bersyrim I,Condensed Alloy,Medium,19.22
+Kador,Pezarba,Bersyrim,Bersyrim I,Coolant,Rich,16.87
+Kador,Pezarba,Bersyrim,Bersyrim I,Silicate Glass,Poor,7.95
+Kador,Pezarba,Bersyrim,Bersyrim I,Ionic Solutions,Perfect,11.87
+Kador,Pezarba,Bersyrim,Bersyrim II,Fiber Composite,Medium,20.34
+Kador,Pezarba,Bersyrim,Bersyrim II,Condensates,Rich,16.90
+Kador,Pezarba,Bersyrim,Bersyrim II,Heavy Water,Perfect,333.90
+Kador,Pezarba,Bersyrim,Bersyrim II,Liquid Ozone,Perfect,41.65
+Kador,Pezarba,Bersyrim,Bersyrim III,Fiber Composite,Perfect,33.23
+Kador,Pezarba,Bersyrim,Bersyrim III,Opulent Compound,Rich,24.61
+Kador,Pezarba,Bersyrim,Bersyrim III,Reactive Gas,Rich,27.65
+Kador,Pezarba,Bersyrim,Bersyrim III,Noble Metals,Medium,19.98
+Kador,Pezarba,Bersyrim,Bersyrim IV,Reactive Gas,Perfect,29.14
+Kador,Pezarba,Bersyrim,Bersyrim IV,Construction Blocks,Rich,26.24
+Kador,Pezarba,Bersyrim,Bersyrim IV,Nanites,Medium,5.13
+Kador,Pezarba,Bersyrim,Bersyrim V,Toxic Metals,Rich,6.14
+Kador,Pezarba,Bersyrim,Bersyrim V,Construction Blocks,Perfect,29.23
+Kador,Pezarba,Bersyrim,Bersyrim V,Suspended Plasma,Rich,97.59
+Kador,Pezarba,Bersyrim,Bersyrim VI,Base Metals,Poor,2.97
+Kador,Pezarba,Bersyrim,Bersyrim VI,Industrial Fibers,Poor,3.16
+Kador,Pezarba,Bersyrim,Bersyrim VI,Plasmoids,Poor,0.92
+Kador,Pezarba,Sechmaren,Sechmaren I,Heavy Metals,Medium,20.13
+Kador,Pezarba,Sechmaren,Sechmaren I,Condensates,Rich,14.46
+Kador,Pezarba,Sechmaren,Sechmaren I,Nanites,Rich,6.31
+Kador,Pezarba,Sechmaren,Sechmaren I,Suspended Plasma,Rich,91.62
+Kador,Pezarba,Sechmaren,Sechmaren II,Precious Alloy,Poor,12.92
+Kador,Pezarba,Sechmaren,Sechmaren II,Base Metals,Poor,2.92
+Kador,Pezarba,Sechmaren,Sechmaren II,Industrial Fibers,Medium,4.64
+Kador,Pezarba,Sechmaren,Sechmaren III,Lustering Alloy,Medium,16.42
+Kador,Pezarba,Sechmaren,Sechmaren III,Precious Alloy,Poor,15.20
+Kador,Pezarba,Sechmaren,Sechmaren III,Industrial Fibers,Medium,5.10
+Kador,Pezarba,Sechmaren,Sechmaren IV,Lustering Alloy,Poor,11.17
+Kador,Pezarba,Sechmaren,Sechmaren IV,Base Metals,Medium,5.28
+Kador,Pezarba,Sechmaren,Sechmaren IV,Industrial Fibers,Medium,5.10
+Kador,Pezarba,Sechmaren,Sechmaren V,Base Metals,Poor,2.91
+Kador,Pezarba,Sechmaren,Sechmaren V,Industrial Fibers,Medium,4.62
+Kador,Pezarba,Sechmaren,Sechmaren V,Plasmoids,Medium,1.04
+Kador,Pezarba,Sechmaren,Sechmaren VI,Crystal Compound,Poor,14.60
+Kador,Pezarba,Sechmaren,Sechmaren VI,Toxic Metals,Medium,4.60
+Kador,Pezarba,Sechmaren,Sechmaren VI,Construction Blocks,Rich,24.99
+Kador,Pezarba,Sechmaren,Sechmaren VII,Fiber Composite,Rich,25.33
+Kador,Pezarba,Sechmaren,Sechmaren VII,Reactive Gas,Rich,25.31
+Kador,Pezarba,Sechmaren,Sechmaren VII,Noble Gas,Medium,21.32
+Kador,Pezarba,Sechmaren,Sechmaren VII,Ionic Solutions,Rich,10.66
+Kador,Pezarba,Sechmaren,Sechmaren VIII,Glossy Compound,Rich,22.54
+Kador,Pezarba,Sechmaren,Sechmaren VIII,Noble Gas,Rich,26.16
+Kador,Pezarba,Sechmaren,Sechmaren VIII,Coolant,Rich,16.16
+Kador,Pezarba,Sechmaren,Sechmaren VIII,Ionic Solutions,Medium,6.65
+Kador,Pezarba,Sechmaren,Sechmaren IX,Lustering Alloy,Rich,26.83
+Kador,Pezarba,Sechmaren,Sechmaren IX,Sheen Compound,Medium,17.75
+Kador,Pezarba,Sechmaren,Sechmaren IX,Noble Gas,Rich,25.40
+Kador,Pezarba,Sechmaren,Sechmaren IX,Coolant,Rich,15.61
+Kador,Pezarba,Zinoo,Zinoo I,Base Metals,Medium,5.15
+Kador,Pezarba,Zinoo,Zinoo I,Industrial Fibers,Poor,3.61
+Kador,Pezarba,Zinoo,Zinoo I,Silicate Glass,Medium,9.69
+Kador,Pezarba,Zinoo,Zinoo II,Fiber Composite,Rich,21.42
+Kador,Pezarba,Zinoo,Zinoo II,Industrial Fibers,Rich,6.50
+Kador,Pezarba,Zinoo,Zinoo II,Condensates,Perfect,17.01
+Kador,Pezarba,Zinoo,Zinoo II,Liquid Ozone,Rich,29.56
+Kador,Pezarba,Zinoo,Zinoo III,Fiber Composite,Poor,14.77
+Kador,Pezarba,Zinoo,Zinoo III,Base Metals,Medium,4.19
+Kador,Pezarba,Zinoo,Zinoo III,Noble Metals,Rich,20.85
+Kador,Pezarba,Zinoo,Zinoo III,Liquid Ozone,Perfect,34.44
+Kador,Pezarba,Zinoo,Zinoo IV,Fiber Composite,Rich,20.86
+Kador,Pezarba,Zinoo,Zinoo IV,Glossy Compound,Medium,15.71
+Kador,Pezarba,Zinoo,Zinoo IV,Noble Gas,Medium,19.94
+Kador,Pezarba,Zinoo,Zinoo IV,Polyaramids,Medium,10.71
+Kador,Pezarba,Hiremir,Hiremir I,Industrial Fibers,Poor,3.69
+Kador,Pezarba,Hiremir,Hiremir I,Supertensile Plastics,Medium,12.97
+Kador,Pezarba,Hiremir,Hiremir I,Oxygen Isotopes,Poor,2.21
+Kador,Pezarba,Hiremir,Hiremir II,Lucent Compound,Medium,18.04
+Kador,Pezarba,Hiremir,Hiremir II,Dark Compound,Rich,25.43
+Kador,Pezarba,Hiremir,Hiremir II,Reactive Metals,Poor,4.19
+Kador,Pezarba,Hiremir,Hiremir II,Nanites,Medium,5.26
+Kador,Pezarba,Hiremir,Hiremir III,Dark Compound,Poor,16.01
+Kador,Pezarba,Hiremir,Hiremir III,Toxic Metals,Poor,4.12
+Kador,Pezarba,Hiremir,Hiremir III,Industrial Fibers,Poor,3.85
+Kador,Pezarba,Hiremir,Hiremir IV,Crystal Compound,Rich,22.63
+Kador,Pezarba,Hiremir,Hiremir IV,Coolant,Rich,15.64
+Kador,Pezarba,Hiremir,Hiremir IV,Heavy Water,Medium,196.52
+Kador,Pezarba,Hiremir,Hiremir IV,Ionic Solutions,Medium,7.87
+Kador,Pezarba,Hiremir,Hiremir V,Noble Metals,Perfect,29.99
+Kador,Pezarba,Hiremir,Hiremir V,Coolant,Poor,10.39
+Kador,Pezarba,Hiremir,Hiremir V,Silicate Glass,Rich,11.03
+Kador,Pezarba,Hiremir,Hiremir V,Ionic Solutions,Rich,10.70
+Kador,Pezarba,Hiremir,Hiremir VI,Sheen Compound,Rich,23.31
+Kador,Pezarba,Hiremir,Hiremir VI,Reactive Gas,Medium,18.72
+Kador,Pezarba,Hiremir,Hiremir VI,Noble Gas,Rich,24.68
+Kador,Pezarba,Hiremir,Hiremir VI,Coolant,Rich,16.27
+Kador,Pezarba,Hiremir,Hiremir VII,Lustering Alloy,Medium,18.97
+Kador,Pezarba,Hiremir,Hiremir VII,Fiber Composite,Medium,21.37
+Kador,Pezarba,Hiremir,Hiremir VII,Glossy Compound,Medium,21.15
+Kador,Pezarba,Hiremir,Hiremir VII,Noble Gas,Medium,16.20
+Kador,Pezarba,Hiremir,Hiremir VIII,Sheen Compound,Rich,23.09
+Kador,Pezarba,Hiremir,Hiremir VIII,Noble Gas,Medium,21.08
+Kador,Pezarba,Hiremir,Hiremir VIII,Reactive Metals,Rich,6.73
+Kador,Pezarba,Hiremir,Hiremir VIII,Polyaramids,Rich,14.99
+Kador,Pezarba,Hiremir,Hiremir IX,Fiber Composite,Medium,19.14
+Kador,Pezarba,Hiremir,Hiremir IX,Glossy Compound,Medium,18.22
+Kador,Pezarba,Hiremir,Hiremir IX,Noble Gas,Medium,16.39
+Kador,Pezarba,Hiremir,Hiremir IX,Reactive Metals,Rich,6.98
+Kador,Pezarba,Hiremir,Hiremir X,Precious Alloy,Rich,21.52
+Kador,Pezarba,Hiremir,Hiremir X,Supertensile Plastics,Medium,10.89
+Kador,Pezarba,Hiremir,Hiremir X,Coolant,Poor,9.87
+Kador,Naloran,Hikansog,Hikansog I,Motley Compound,Rich,15.68
+Kador,Naloran,Hikansog,Hikansog I,Noble Metals,Rich,15.34
+Kador,Naloran,Hikansog,Hikansog II,Lustering Alloy,Poor,10.34
+Kador,Naloran,Hikansog,Hikansog II,Base Metals,Medium,3.78
+Kador,Naloran,Hikansog,Hikansog III,Lucent Compound,Perfect,19.09
+Kador,Naloran,Hikansog,Hikansog III,Suspended Plasma,Rich,65.28
+Kador,Naloran,Hikansog,Hikansog IV,Base Metals,Medium,3.09
+Kador,Naloran,Hikansog,Hikansog IV,Smartfab Units,Rich,12.06
+Kador,Naloran,Hikansog,Hikansog IV,Heavy Water,Medium,147.72
+Kador,Naloran,Hikansog,Hikansog V,Lustering Alloy,Perfect,19.86
+Kador,Naloran,Hikansog,Hikansog V,Base Metals,Poor,2.73
+Kador,Naloran,Hikansog,Hikansog V,Polyaramids,Rich,11.54
+Kador,Naloran,Hikansog,Hikansog VI,Lustering Alloy,Medium,13.26
+Kador,Naloran,Hikansog,Hikansog VI,Glossy Compound,Medium,14.23
+Kador,Naloran,Hikansog,Hikansog VI,Base Metals,Medium,3.47
+Kador,Naloran,Hikansog,Hikansog VII,Lustering Alloy,Rich,17.20
+Kador,Naloran,Hikansog,Hikansog VII,Reactive Gas,Medium,14.35
+Kador,Naloran,Hikansog,Hikansog VII,Base Metals,Rich,4.22
+Kador,Naloran,Hikansog,Hikansog VIII,Lustering Alloy,Rich,16.01
+Kador,Naloran,Hikansog,Hikansog VIII,Glossy Compound,Perfect,19.91
+Kador,Naloran,Hikansog,Hikansog VIII,Base Metals,Rich,4.01
+Kador,Naloran,Syrikos,Syrikos I,Lucent Compound,Medium,13.92
+Kador,Naloran,Syrikos,Syrikos I,Nanites,Perfect,5.20
+Kador,Naloran,Syrikos,Syrikos I,Suspended Plasma,Perfect,74.65
+Kador,Naloran,Syrikos,Syrikos II,Sheen Compound,Rich,15.42
+Kador,Naloran,Syrikos,Syrikos II,Condensates,Perfect,13.54
+Kador,Naloran,Syrikos,Syrikos II,Suspended Plasma,Perfect,72.32
+Kador,Naloran,Syrikos,Syrikos III,Motley Compound,Medium,11.65
+Kador,Naloran,Syrikos,Syrikos III,Noble Gas,Medium,11.99
+Kador,Naloran,Syrikos,Syrikos IV,Toxic Metals,Perfect,5.28
+Kador,Naloran,Syrikos,Syrikos IV,Polyaramids,Rich,11.46
+Kador,Naloran,Syrikos,Syrikos IV,Heavy Water,Perfect,203.76
+Kador,Naloran,Syrikos,Syrikos V,Condensed Alloy,Medium,11.36
+Kador,Naloran,Syrikos,Syrikos V,Smartfab Units,Medium,7.69
+Kador,Naloran,Syrikos,Syrikos V,Heavy Water,Rich,157.68
+Kador,Naloran,Syrikos,Syrikos VI,Lucent Compound,Poor,11.16
+Kador,Naloran,Syrikos,Syrikos VI,Suspended Plasma,Medium,50.59
+Kador,Naloran,Syrikos,Syrikos VII,Lustering Alloy,Rich,15.34
+Kador,Naloran,Syrikos,Syrikos VII,Base Metals,Rich,4.95
+Kador,Naloran,Syrikos,Syrikos VII,Ionic Solutions,Poor,4.08
+Kador,Naloran,Syrikos,Syrikos VIII,Lustering Alloy,Rich,15.53
+Kador,Naloran,Syrikos,Syrikos VIII,Base Metals,Rich,4.05
+Kador,Naloran,Syrikos,Syrikos VIII,Reactive Metals,Rich,4.44
+Kador,Naloran,Syrikos,Syrikos IX,Crystal Compound,Perfect,21.12
+Kador,Naloran,Syrikos,Syrikos IX,Heavy Water,Medium,119.28
+Kador,Naloran,Syrikos,Syrikos IX,Liquid Ozone,Rich,21.21
+Kador,Naloran,Yebouz,Yebouz I,Gleaming Alloy,Poor,11.27
+Kador,Naloran,Yebouz,Yebouz I,Motley Compound,Rich,17.86
+Kador,Naloran,Yebouz,Yebouz II,Lustering Alloy,Medium,13.32
+Kador,Naloran,Yebouz,Yebouz II,Base Metals,Poor,2.59
+Kador,Naloran,Yebouz,Yebouz III,Motley Compound,Perfect,20.12
+Kador,Naloran,Yebouz,Yebouz III,Noble Metals,Poor,9.65
+Kador,Naloran,Yebouz,Yebouz IV,Motley Compound,Medium,12.67
+Kador,Naloran,Yebouz,Yebouz IV,Noble Gas,Rich,16.84
+Kador,Naloran,Yebouz,Yebouz V,Condensed Alloy,Rich,15.97
+Kador,Naloran,Yebouz,Yebouz V,Noble Metals,Rich,15.60
+Kador,Naloran,Yebouz,Yebouz V,Heavy Water,Perfect,200.52
+Kador,Naloran,Yebouz,Yebouz VI,Lustering Alloy,Rich,18.08
+Kador,Naloran,Yebouz,Yebouz VI,Base Metals,Rich,4.94
+Kador,Naloran,Yebouz,Yebouz VI,Ionic Solutions,Poor,4.38
+Kador,Naloran,Yebouz,Yebouz VII,Lustering Alloy,Medium,13.56
+Kador,Naloran,Yebouz,Yebouz VII,Base Metals,Poor,2.67
+Kador,Naloran,Yebouz,Yebouz VIII,Lucent Compound,Poor,9.79
+Kador,Naloran,Yebouz,Yebouz VIII,Suspended Plasma,Rich,56.76
+Kador,Naloran,Yebouz,Yebouz IX,Industrial Fibers,Rich,4.47
+Kador,Naloran,Yebouz,Yebouz IX,Smartfab Units,Perfect,14.72
+Kador,Naloran,Yebouz,Yebouz IX,Heavy Water,Perfect,212.16
+Kador,Naloran,Yebouz,Yebouz X,Condensed Alloy,Perfect,22.68
+Kador,Naloran,Yebouz,Yebouz X,Condensates,Medium,10.08
+Kador,Naloran,Yebouz,Yebouz X,Heavy Water,Medium,116.04
+Kador,Naloran,Yebouz,Yebouz XI,Lustering Alloy,Poor,11.23
+Kador,Naloran,Yebouz,Yebouz XI,Base Metals,Rich,4.01
+Kador,Naloran,Yebouz,Yebouz XI,Ionic Solutions,Poor,4.03
+Kador,Naloran,Hapala,Hapala I,Lustering Alloy,Medium,12.22
+Kador,Naloran,Hapala,Hapala I,Base Metals,Poor,2.56
+Kador,Naloran,Hapala,Hapala II,Lustering Alloy,Medium,12.43
+Kador,Naloran,Hapala,Hapala II,Base Metals,Poor,2.49
+Kador,Naloran,Hapala,Hapala III,Crystal Compound,Medium,13.40
+Kador,Naloran,Hapala,Hapala III,Suspended Plasma,Rich,60.39
+Kador,Naloran,Hapala,Hapala IV,Sheen Compound,Medium,13.39
+Kador,Naloran,Hapala,Hapala IV,Suspended Plasma,Medium,50.37
+Kador,Naloran,Hapala,Hapala IV,Ionic Solutions,Perfect,7.76
+Kador,Naloran,Hapala,Hapala V,Lustering Alloy,Medium,14.09
+Kador,Naloran,Hapala,Hapala V,Base Metals,Medium,3.02
+Kador,Naloran,Hapala,Hapala V,Ionic Solutions,Perfect,7.96
+Kador,Naloran,Hapala,Hapala VI,Lustering Alloy,Poor,9.84
+Kador,Naloran,Hapala,Hapala VI,Fiber Composite,Rich,15.94
+Kador,Naloran,Hapala,Hapala VI,Base Metals,Rich,4.64
+Kador,Naloran,Hapala,Hapala VII,Lustering Alloy,Rich,15.32
+Kador,Naloran,Hapala,Hapala VII,Base Metals,Rich,4.10
+Kador,Naloran,Hapala,Hapala VII,Ionic Solutions,Poor,4.49
+Kador,Naloran,Hapala,Hapala VIII,Lustering Alloy,Medium,13.85
+Kador,Naloran,Hapala,Hapala VIII,Base Metals,Medium,3.09
+Kador,Naloran,Hapala,Hapala IX,Lustering Alloy,Medium,14.88
+Kador,Naloran,Hapala,Hapala IX,Base Metals,Rich,4.22
+Kador,Naloran,Hapala,Hapala IX,Ionic Solutions,Medium,5.64
+Kador,Naloran,Hapala,Hapala X,Lustering Alloy,Medium,12.98
+Kador,Naloran,Hapala,Hapala X,Base Metals,Medium,3.15
+Kador,Naloran,Hapala,Hapala XI,Lustering Alloy,Medium,12.17
+Kador,Naloran,Hapala,Hapala XI,Base Metals,Medium,3.75
+Kador,Naloran,Salah,Salah I,Lustering Alloy,Medium,12.43
+Kador,Naloran,Salah,Salah I,Base Metals,Poor,2.27
+Kador,Naloran,Salah,Salah II,Motley Compound,Rich,16.64
+Kador,Naloran,Salah,Salah II,Construction Blocks,Perfect,19.55
+Kador,Naloran,Salah,Salah III,Lustering Alloy,Poor,7.96
+Kador,Naloran,Salah,Salah III,Base Metals,Medium,3.37
+Kador,Naloran,Salah,Salah IV,Lustering Alloy,Poor,11.21
+Kador,Naloran,Salah,Salah IV,Base Metals,Medium,3.62
+Kador,Naloran,Salah,Salah V,Motley Compound,Rich,17.76
+Kador,Naloran,Salah,Salah V,Heavy Metals,Medium,12.66
+Kador,Naloran,Salah,Salah VI,Lustering Alloy,Poor,10.68
+Kador,Naloran,Salah,Salah VI,Base Metals,Medium,3.88
+Kador,Naloran,Salah,Salah VII,Lustering Alloy,Medium,12.19
+Kador,Naloran,Salah,Salah VII,Noble Gas,Medium,13.12
+Kador,Naloran,Salah,Salah VII,Base Metals,Rich,4.84
+Kador,Naloran,Salah,Salah VIII,Lustering Alloy,Rich,15.24
+Kador,Naloran,Salah,Salah VIII,Fiber Composite,Medium,11.92
+Kador,Naloran,Salah,Salah VIII,Base Metals,Medium,3.65
+Kador,Naloran,Salah,Salah IX,Opulent Compound,Medium,15.04
+Kador,Naloran,Salah,Salah IX,Toxic Metals,Poor,2.79
+Kador,Naloran,Salah,Salah IX,Heavy Water,Poor,109.80
+Kador,Naloran,Salah,Salah X,Lustering Alloy,Medium,12.02
+Kador,Naloran,Salah,Salah X,Base Metals,Rich,4.38
+Kador,Naloran,Akhmoh,Akhmoh I,Lustering Alloy,Medium,13.00
+Kador,Naloran,Akhmoh,Akhmoh I,Base Metals,Medium,3.33
+Kador,Naloran,Akhmoh,Akhmoh II,Lustering Alloy,Poor,10.20
+Kador,Naloran,Akhmoh,Akhmoh II,Base Metals,Poor,2.29
+Kador,Naloran,Akhmoh,Akhmoh III,Lustering Alloy,Medium,14.68
+Kador,Naloran,Akhmoh,Akhmoh III,Base Metals,Poor,2.91
+Kador,Naloran,Akhmoh,Akhmoh IV,Lustering Alloy,Poor,10.56
+Kador,Naloran,Akhmoh,Akhmoh IV,Base Metals,Poor,2.76
+Kador,Naloran,Akhmoh,Akhmoh IV,Polyaramids,Medium,7.91
+Kador,Naloran,Akhmoh,Akhmoh V,Lustering Alloy,Rich,17.35
+Kador,Naloran,Akhmoh,Akhmoh V,Fiber Composite,Perfect,19.28
+Kador,Naloran,Akhmoh,Akhmoh V,Base Metals,Poor,2.70
+Kador,Naloran,Akhmoh,Akhmoh VI,Lustering Alloy,Rich,17.96
+Kador,Naloran,Akhmoh,Akhmoh VI,Base Metals,Rich,4.34
+Kador,Naloran,Akhmoh,Akhmoh VI,Polyaramids,Rich,11.62
+Kador,Naloran,Akhmoh,Akhmoh VII,Lustering Alloy,Rich,16.52
+Kador,Naloran,Akhmoh,Akhmoh VII,Noble Gas,Medium,11.62
+Kador,Naloran,Akhmoh,Akhmoh VII,Base Metals,Poor,2.75
+Kador,Naloran,Akhmoh,Akhmoh VIII,Lustering Alloy,Poor,8.87
+Kador,Naloran,Akhmoh,Akhmoh VIII,Base Metals,Medium,3.73
+Kador,Naloran,Akhmoh,Akhmoh IX,Lustering Alloy,Medium,13.21
+Kador,Naloran,Akhmoh,Akhmoh IX,Base Metals,Poor,2.67
+Kador,Naloran,Akhmoh,Akhmoh X,Lustering Alloy,Medium,12.85
+Kador,Naloran,Akhmoh,Akhmoh X,Base Metals,Rich,4.02
+Kador,Moghiz,Jennim,Jennim I,Lustering Alloy,Medium,12.71
+Kador,Moghiz,Jennim,Jennim I,Base Metals,Medium,3.58
+Kador,Moghiz,Jennim,Jennim II,Lustering Alloy,Medium,12.90
+Kador,Moghiz,Jennim,Jennim II,Base Metals,Poor,2.36
+Kador,Moghiz,Jennim,Jennim III,Toxic Metals,Medium,3.49
+Kador,Moghiz,Jennim,Jennim III,Suspended Plasma,Rich,61.00
+Kador,Moghiz,Jennim,Jennim IV,Lustering Alloy,Medium,11.65
+Kador,Moghiz,Jennim,Jennim IV,Sheen Compound,Medium,14.83
+Kador,Moghiz,Jennim,Jennim IV,Base Metals,Medium,3.61
+Kador,Moghiz,Jennim,Jennim V,Lustering Alloy,Rich,17.35
+Kador,Moghiz,Jennim,Jennim V,Base Metals,Rich,4.40
+Kador,Moghiz,Jennim,Jennim V,Coolant,Medium,9.29
+Kador,Moghiz,Jennim,Jennim VI,Gleaming Alloy,Medium,14.76
+Kador,Moghiz,Jennim,Jennim VI,Suspended Plasma,Rich,57.33
+Kador,Moghiz,Jennim,Jennim VII,Lustering Alloy,Medium,14.59
+Kador,Moghiz,Jennim,Jennim VII,Glossy Compound,Medium,12.91
+Kador,Moghiz,Jennim,Jennim VII,Base Metals,Poor,2.66
+Kador,Moghiz,Jennim,Jennim VIII,Lustering Alloy,Medium,13.70
+Kador,Moghiz,Jennim,Jennim VIII,Base Metals,Medium,3.05
+Kador,Moghiz,Jennim,Jennim IX,Noble Metals,Medium,14.30
+Kador,Moghiz,Jennim,Jennim IX,Heavy Water,Medium,142.68
+Kador,Moghiz,Jennim,Jennim IX,Ionic Solutions,Medium,5.02
+Kador,Moghiz,Jennim,Jennim X,Lustering Alloy,Poor,9.04
+Kador,Moghiz,Jennim,Jennim X,Base Metals,Poor,2.80
+Kador,Moghiz,Elmed,Elmed I,Motley Compound,Poor,9.68
+Kador,Moghiz,Elmed,Elmed I,Noble Gas,Poor,11.03
+Kador,Moghiz,Elmed,Elmed II,Motley Compound,Rich,16.79
+Kador,Moghiz,Elmed,Elmed II,Noble Gas,Medium,14.92
+Kador,Moghiz,Elmed,Elmed III,Lustering Alloy,Medium,14.06
+Kador,Moghiz,Elmed,Elmed III,Base Metals,Medium,3.07
+Kador,Moghiz,Elmed,Elmed IV,Lustering Alloy,Rich,17.44
+Kador,Moghiz,Elmed,Elmed IV,Reactive Gas,Rich,17.84
+Kador,Moghiz,Elmed,Elmed IV,Base Metals,Poor,2.63
+Kador,Moghiz,Elmed,Elmed V,Motley Compound,Rich,15.66
+Kador,Moghiz,Elmed,Elmed V,Heavy Metals,Medium,12.19
+Kador,Moghiz,Elmed,Elmed VI,Lustering Alloy,Poor,10.02
+Kador,Moghiz,Elmed,Elmed VI,Sheen Compound,Medium,13.88
+Kador,Moghiz,Elmed,Elmed VI,Base Metals,Perfect,5.12
+Kador,Moghiz,Elmed,Elmed VII,Lustering Alloy,Medium,13.82
+Kador,Moghiz,Elmed,Elmed VII,Base Metals,Medium,3.08
+Kador,Moghiz,Shaggoth,Shaggoth I,Lustering Alloy,Poor,8.85
+Kador,Moghiz,Shaggoth,Shaggoth I,Base Metals,Poor,2.31
+Kador,Moghiz,Shaggoth,Shaggoth II,Lustering Alloy,Poor,10.40
+Kador,Moghiz,Shaggoth,Shaggoth II,Base Metals,Poor,2.44
+Kador,Moghiz,Shaggoth,Shaggoth III,Crystal Compound,Medium,14.20
+Kador,Moghiz,Shaggoth,Shaggoth III,Suspended Plasma,Poor,43.48
+Kador,Moghiz,Shaggoth,Shaggoth IV,Toxic Metals,Rich,4.83
+Kador,Moghiz,Shaggoth,Shaggoth IV,Suspended Plasma,Rich,72.82
+Kador,Moghiz,Shaggoth,Shaggoth V,Lustering Alloy,Rich,17.37
+Kador,Moghiz,Shaggoth,Shaggoth V,Base Metals,Medium,3.25
+Kador,Moghiz,Shaggoth,Shaggoth V,Coolant,Perfect,14.06
+Kador,Moghiz,Shaggoth,Shaggoth VI,Lustering Alloy,Perfect,21.36
+Kador,Moghiz,Shaggoth,Shaggoth VI,Glossy Compound,Medium,14.21
+Kador,Moghiz,Shaggoth,Shaggoth VI,Base Metals,Medium,3.29
+Kador,Moghiz,Shaggoth,Shaggoth VII,Condensed Alloy,Medium,13.38
+Kador,Moghiz,Shaggoth,Shaggoth VII,Smartfab Units,Perfect,15.09
+Kador,Moghiz,Shaggoth,Shaggoth VII,Heavy Water,Perfect,225.55
+Kador,Moghiz,Shaggoth,Shaggoth VIII,Lustering Alloy,Medium,13.68
+Kador,Moghiz,Shaggoth,Shaggoth VIII,Base Metals,Medium,3.66
+Kador,Moghiz,Ustnia,Ustnia I,Lustering Alloy,Poor,7.88
+Kador,Moghiz,Ustnia,Ustnia I,Base Metals,Medium,3.34
+Kador,Moghiz,Ustnia,Ustnia II,Lustering Alloy,Poor,8.35
+Kador,Moghiz,Ustnia,Ustnia II,Base Metals,Medium,3.17
+Kador,Moghiz,Ustnia,Ustnia III,Opulent Compound,Poor,11.20
+Kador,Moghiz,Ustnia,Ustnia III,Polyaramids,Medium,9.28
+Kador,Moghiz,Ustnia,Ustnia III,Heavy Water,Rich,168.00
+Kador,Moghiz,Ustnia,Ustnia IV,Crystal Compound,Medium,12.22
+Kador,Moghiz,Ustnia,Ustnia IV,Suspended Plasma,Rich,57.24
+Kador,Moghiz,Ustnia,Ustnia V,Noble Metals,Medium,13.19
+Kador,Moghiz,Ustnia,Ustnia V,Smartfab Units,Perfect,14.59
+Kador,Moghiz,Ustnia,Ustnia V,Heavy Water,Perfect,209.40
+Kador,Moghiz,Ustnia,Ustnia VI,Lustering Alloy,Medium,14.38
+Kador,Moghiz,Ustnia,Ustnia VI,Base Metals,Perfect,5.21
+Kador,Moghiz,Ustnia,Ustnia VI,Coolant,Medium,9.73
+Kador,Moghiz,Ustnia,Ustnia VII,Lustering Alloy,Perfect,19.91
+Kador,Moghiz,Ustnia,Ustnia VII,Fiber Composite,Medium,13.10
+Kador,Moghiz,Ustnia,Ustnia VII,Base Metals,Poor,2.61
+Kador,Moghiz,Ustnia,Ustnia VIII,Lustering Alloy,Rich,16.10
+Kador,Moghiz,Ustnia,Ustnia VIII,Fiber Composite,Perfect,19.54
+Kador,Moghiz,Ustnia,Ustnia VIII,Base Metals,Poor,2.70
+Kador,Moghiz,Kooreng,Kooreng I,Lustering Alloy,Medium,14.41
+Kador,Moghiz,Kooreng,Kooreng I,Base Metals,Medium,4.42
+Kador,Moghiz,Kooreng,Kooreng II,Gleaming Alloy,Medium,13.29
+Kador,Moghiz,Kooreng,Kooreng II,Suspended Plasma,Rich,69.10
+Kador,Moghiz,Kooreng,Kooreng III,Lustering Alloy,Poor,9.44
+Kador,Moghiz,Kooreng,Kooreng III,Base Metals,Medium,4.09
+Kador,Moghiz,Kooreng,Kooreng IV,Suspended Plasma,Perfect,80.89
+Kador,Moghiz,Kooreng,Kooreng IV,Oxygen Isotopes,Rich,3.20
+Kador,Moghiz,Kooreng,Kooreng V,Lustering Alloy,Rich,21.97
+Kador,Moghiz,Kooreng,Kooreng V,Base Metals,Rich,5.14
+Kador,Moghiz,Kooreng,Kooreng V,Coolant,Rich,12.72
+Kador,Moghiz,Kooreng,Kooreng VI,Lustering Alloy,Medium,16.70
+Kador,Moghiz,Kooreng,Kooreng VI,Base Metals,Perfect,6.11
+Kador,Moghiz,Kooreng,Kooreng VI,Ionic Solutions,Poor,5.07
+Kador,Moghiz,Kooreng,Kooreng VII,Lustering Alloy,Rich,20.59
+Kador,Moghiz,Kooreng,Kooreng VII,Base Metals,Medium,3.85
+Kador,Moghiz,Kooreng,Kooreng VII,Reactive Metals,Medium,3.85
+Kador,Moghiz,Kooreng,Kooreng VIII,Lustering Alloy,Poor,11.84
+Kador,Moghiz,Kooreng,Kooreng VIII,Base Metals,Rich,4.96
+Kador,Moghiz,Minin,Minin I,Reactive Metals,Perfect,5.51
+Kador,Moghiz,Minin,Minin I,Suspended Plasma,Medium,52.18
+Kador,Moghiz,Minin,Minin II,Lucent Compound,Medium,15.14
+Kador,Moghiz,Minin,Minin II,Condensates,Rich,12.06
+Kador,Moghiz,Minin,Minin II,Suspended Plasma,Rich,68.70
+Kador,Moghiz,Minin,Minin III,Lustering Alloy,Medium,14.99
+Kador,Moghiz,Minin,Minin III,Base Metals,Poor,3.14
+Kador,Moghiz,Minin,Minin III,Ionic Solutions,Rich,8.07
+Kador,Moghiz,Minin,Minin IV,Lustering Alloy,Rich,18.51
+Kador,Moghiz,Minin,Minin IV,Fiber Composite,Poor,11.00
+Kador,Moghiz,Minin,Minin IV,Base Metals,Perfect,5.52
+Kador,Moghiz,Minin,Minin V,Lustering Alloy,Medium,13.31
+Kador,Moghiz,Minin,Minin V,Reactive Gas,Rich,17.04
+Kador,Moghiz,Minin,Minin V,Base Metals,Rich,5.09
+Kador,Moghiz,Minin,Minin VI,Lustering Alloy,Rich,19.16
+Kador,Moghiz,Minin,Minin VI,Base Metals,Medium,3.81
+Kador,Moghiz,Minin,Minin VI,Reactive Metals,Rich,4.65
+Kador,Moghiz,Minin,Minin VII,Lustering Alloy,Poor,11.43
+Kador,Moghiz,Minin,Minin VII,Base Metals,Medium,4.15
+Kador,Moghiz,Minin,Minin VII,Coolant,Medium,9.39
+Kador,Moghiz,Minin,Minin VIII,Lustering Alloy,Poor,9.67
+Kador,Moghiz,Minin,Minin VIII,Base Metals,Medium,4.20
+Kador,Moghiz,Yehnifi,Yehnifi I,Motley Compound,Poor,13.03
+Kador,Moghiz,Yehnifi,Yehnifi I,Noble Metals,Rich,21.67
+Kador,Moghiz,Yehnifi,Yehnifi II,Lustering Alloy,Medium,16.79
+Kador,Moghiz,Yehnifi,Yehnifi II,Base Metals,Poor,2.63
+Kador,Moghiz,Yehnifi,Yehnifi III,Lustering Alloy,Poor,12.04
+Kador,Moghiz,Yehnifi,Yehnifi III,Base Metals,Poor,3.07
+Kador,Moghiz,Yehnifi,Yehnifi IV,Lustering Alloy,Poor,9.94
+Kador,Moghiz,Yehnifi,Yehnifi IV,Base Metals,Poor,2.66
+Kador,Moghiz,Yehnifi,Yehnifi V,Industrial Fibers,Rich,4.92
+Kador,Moghiz,Yehnifi,Yehnifi V,Condensates,Poor,8.74
+Kador,Moghiz,Yehnifi,Yehnifi V,Heavy Water,Rich,211.12
+Kador,Moghiz,Yehnifi,Yehnifi VI,Condensed Alloy,Perfect,24.07
+Kador,Moghiz,Yehnifi,Yehnifi VI,Industrial Fibers,Rich,5.16
+Kador,Moghiz,Yehnifi,Yehnifi VI,Heavy Water,Rich,216.30
+Kador,Moghiz,Yehnifi,Yehnifi VII,Suspended Plasma,Rich,71.72
+Kador,Moghiz,Yehnifi,Yehnifi VII,Oxygen Isotopes,Rich,2.89
+Kador,Moghiz,Yehnifi,Yehnifi VIII,Condensates,Perfect,15.33
+Kador,Moghiz,Yehnifi,Yehnifi VIII,Heavy Water,Medium,146.58
+Kador,Moghiz,Yehnifi,Yehnifi VIII,Liquid Ozone,Medium,19.00
+Kador,Moghiz,Yehnifi,Yehnifi IX,Lustering Alloy,Rich,19.40
+Kador,Moghiz,Yehnifi,Yehnifi IX,Base Metals,Perfect,5.96
+Kador,Moghiz,Yehnifi,Yehnifi IX,Polyaramids,Medium,10.78
+Kador,Moghiz,Yehnifi,Yehnifi X,Lustering Alloy,Poor,12.29
+Kador,Moghiz,Yehnifi,Yehnifi X,Fiber Composite,Rich,18.82
+Kador,Moghiz,Yehnifi,Yehnifi X,Base Metals,Medium,3.53
+Kador,Moghiz,Yehnifi,Yehnifi XI,Lustering Alloy,Medium,13.68
+Kador,Moghiz,Yehnifi,Yehnifi XI,Base Metals,Poor,2.74
+Kador,Qermi,Shemah,Shemah I,Lustering Alloy,Medium,12.65
+Kador,Qermi,Shemah,Shemah I,Base Metals,Medium,3.67
+Kador,Qermi,Shemah,Shemah II,Lustering Alloy,Medium,14.20
+Kador,Qermi,Shemah,Shemah II,Base Metals,Poor,2.46
+Kador,Qermi,Shemah,Shemah III,Lustering Alloy,Medium,11.50
+Kador,Qermi,Shemah,Shemah III,Base Metals,Poor,2.13
+Kador,Qermi,Shemah,Shemah IV,Condensed Alloy,Medium,11.66
+Kador,Qermi,Shemah,Shemah IV,Noble Metals,Medium,12.65
+Kador,Qermi,Shemah,Shemah IV,Heavy Water,Perfect,204.96
+Kador,Qermi,Shemah,Shemah V,Lustering Alloy,Rich,17.89
+Kador,Qermi,Shemah,Shemah V,Base Metals,Medium,3.60
+Kador,Qermi,Shemah,Shemah V,Polyaramids,Rich,10.77
+Kador,Qermi,Shemah,Shemah VI,Lustering Alloy,Rich,16.45
+Kador,Qermi,Shemah,Shemah VI,Noble Gas,Poor,11.29
+Kador,Qermi,Shemah,Shemah VI,Base Metals,Poor,2.69
+Kador,Qermi,Shemah,Shemah VII,Lustering Alloy,Medium,14.11
+Kador,Qermi,Shemah,Shemah VII,Base Metals,Medium,3.07
+Kador,Qermi,Shemah,Shemah VII,Ionic Solutions,Medium,5.77
+Kador,Qermi,Shemah,Shemah VIII,Lustering Alloy,Rich,16.08
+Kador,Qermi,Shemah,Shemah VIII,Noble Gas,Rich,15.55
+Kador,Qermi,Shemah,Shemah VIII,Base Metals,Medium,3.98
+Kador,Qermi,Shemah,Shemah IX,Lustering Alloy,Poor,10.52
+Kador,Qermi,Shemah,Shemah IX,Base Metals,Poor,2.60
+Kador,Qermi,Shemah,Shemah X,Lustering Alloy,Medium,13.13
+Kador,Qermi,Shemah,Shemah X,Base Metals,Medium,3.06
+Kador,Qermi,Asrios,Asrios I,Motley Compound,Rich,17.39
+Kador,Qermi,Asrios,Asrios I,Noble Metals,Rich,17.50
+Kador,Qermi,Asrios,Asrios II,Lustering Alloy,Medium,11.45
+Kador,Qermi,Asrios,Asrios II,Base Metals,Medium,3.25
+Kador,Qermi,Asrios,Asrios III,Condensed Alloy,Perfect,20.22
+Kador,Qermi,Asrios,Asrios III,Reactive Gas,Rich,18.89
+Kador,Qermi,Asrios,Asrios III,Heavy Water,Medium,127.80
+Kador,Qermi,Asrios,Asrios IV,Construction Blocks,Rich,18.97
+Kador,Qermi,Asrios,Asrios IV,Suspended Plasma,Medium,47.13
+Kador,Qermi,Asrios,Asrios V,Noble Metals,Perfect,19.91
+Kador,Qermi,Asrios,Asrios V,Industrial Fibers,Perfect,5.13
+Kador,Qermi,Asrios,Asrios V,Heavy Water,Rich,170.88
+Kador,Qermi,Asrios,Asrios VI,Base Metals,Perfect,5.20
+Kador,Qermi,Asrios,Asrios VI,Industrial Fibers,Medium,3.00
+Kador,Qermi,Asrios,Asrios VI,Heavy Water,Rich,169.80
+Kador,Qermi,Asrios,Asrios VII,Lustering Alloy,Medium,11.86
+Kador,Qermi,Asrios,Asrios VII,Base Metals,Medium,3.17
+Kador,Qermi,Asrios,Asrios VIII,Toxic Metals,Perfect,5.11
+Kador,Qermi,Asrios,Asrios VIII,Suspended Plasma,Poor,34.99
+Kador,Qermi,Ithar,Ithar I,Lustering Alloy,Poor,11.12
+Kador,Qermi,Ithar,Ithar I,Base Metals,Medium,3.12
+Kador,Qermi,Ithar,Ithar II,Motley Compound,Rich,16.37
+Kador,Qermi,Ithar,Ithar II,Smartfab Units,Medium,9.57
+Kador,Qermi,Ithar,Ithar III,Lustering Alloy,Poor,8.64
+Kador,Qermi,Ithar,Ithar III,Base Metals,Poor,2.01
+Kador,Qermi,Ithar,Ithar IV,Supertensile Plastics,Poor,6.61
+Kador,Qermi,Ithar,Ithar IV,Suspended Plasma,Rich,61.30
+Kador,Qermi,Ithar,Ithar V,Lustering Alloy,Rich,15.86
+Kador,Qermi,Ithar,Ithar V,Noble Gas,Medium,12.24
+Kador,Qermi,Ithar,Ithar V,Base Metals,Rich,4.10
+Kador,Qermi,Ithar,Ithar VI,Lustering Alloy,Rich,17.06
+Kador,Qermi,Ithar,Ithar VI,Noble Gas,Rich,17.38
+Kador,Qermi,Ithar,Ithar VI,Base Metals,Rich,4.25
+Kador,Qermi,Ithar,Ithar VII,Lustering Alloy,Medium,12.13
+Kador,Qermi,Ithar,Ithar VII,Sheen Compound,Medium,14.29
+Kador,Qermi,Ithar,Ithar VII,Base Metals,Medium,3.22
+Kador,Qermi,Ithar,Ithar VIII,Lustering Alloy,Medium,13.60
+Kador,Qermi,Ithar,Ithar VIII,Base Metals,Rich,4.57
+Kador,Qermi,Ithar,Ithar VIII,Ionic Solutions,Medium,5.74
+Kador,Qermi,Ithar,Ithar IX,Lustering Alloy,Medium,12.06
+Kador,Qermi,Ithar,Ithar IX,Base Metals,Poor,2.95
+Kador,Qermi,Ithar,Ithar X,Construction Blocks,Rich,15.89
+Kador,Qermi,Ithar,Ithar X,Suspended Plasma,Medium,49.16
+Kador,Qermi,Ithar,Ithar XI,Lucent Compound,Rich,17.34
+Kador,Qermi,Ithar,Ithar XI,Dark Compound,Medium,12.28
+Kador,Qermi,Ithar,Ithar XI,Suspended Plasma,Perfect,75.82
+Kador,Qermi,Telang,Telang I,Lustering Alloy,Poor,8.03
+Kador,Qermi,Telang,Telang I,Base Metals,Medium,3.65
+Kador,Qermi,Telang,Telang II,Lustering Alloy,Medium,13.82
+Kador,Qermi,Telang,Telang II,Base Metals,Medium,3.51
+Kador,Qermi,Telang,Telang III,Gleaming Alloy,Rich,17.86
+Kador,Qermi,Telang,Telang III,Suspended Plasma,Medium,44.24
+Kador,Qermi,Telang,Telang IV,Lustering Alloy,Poor,9.60
+Kador,Qermi,Telang,Telang IV,Base Metals,Medium,3.74
+Kador,Qermi,Telang,Telang V,Fiber Composite,Medium,13.87
+Kador,Qermi,Telang,Telang V,Noble Metals,Medium,15.08
+Kador,Qermi,Telang,Telang V,Heavy Water,Perfect,194.04
+Kador,Qermi,Telang,Telang VI,Opulent Compound,Perfect,19.52
+Kador,Qermi,Telang,Telang VI,Smartfab Units,Medium,8.43
+Kador,Qermi,Telang,Telang VI,Heavy Water,Perfect,223.20
+Kador,Qermi,Telang,Telang VII,Lustering Alloy,Rich,17.66
+Kador,Qermi,Telang,Telang VII,Base Metals,Rich,4.60
+Kador,Qermi,Telang,Telang VII,Ionic Solutions,Poor,4.04
+Kador,Qermi,Telang,Telang VIII,Condensed Alloy,Rich,15.24
+Kador,Qermi,Telang,Telang VIII,Noble Metals,Perfect,21.82
+Kador,Qermi,Telang,Telang VIII,Heavy Water,Perfect,209.52
+Kador,Qermi,Telang,Telang IX,Condensed Alloy,Perfect,22.80
+Kador,Qermi,Telang,Telang IX,Industrial Fibers,Medium,3.34
+Kador,Qermi,Telang,Telang IX,Heavy Water,Medium,131.52
+Kador,Qermi,Lazara,Lazara I,Nanites,Rich,5.41
+Kador,Qermi,Lazara,Lazara I,Suspended Plasma,Rich,69.97
+Kador,Qermi,Lazara,Lazara I,Plasmoids,Rich,1.02
+Kador,Qermi,Lazara,Lazara II,Lustering Alloy,Medium,15.12
+Kador,Qermi,Lazara,Lazara II,Base Metals,Medium,3.53
+Kador,Qermi,Lazara,Lazara III,Lustering Alloy,Medium,12.92
+Kador,Qermi,Lazara,Lazara III,Base Metals,Medium,3.81
+Kador,Qermi,Lazara,Lazara III,Polyaramids,Rich,11.56
+Kador,Qermi,Lazara,Lazara IV,Lustering Alloy,Medium,14.55
+Kador,Qermi,Lazara,Lazara IV,Base Metals,Rich,5.07
+Kador,Qermi,Lazara,Lazara IV,Coolant,Medium,9.29
+Kador,Qermi,Lazara,Lazara V,Toxic Metals,Rich,5.01
+Kador,Qermi,Lazara,Lazara V,Suspended Plasma,Rich,62.57
+Kador,Qermi,Lazara,Lazara VI,Lustering Alloy,Poor,10.84
+Kador,Qermi,Lazara,Lazara VI,Base Metals,Perfect,5.47
+Kador,Qermi,Lazara,Lazara VI,Reactive Metals,Medium,3.83
+Kador,Qermi,Lazara,Lazara VII,Lustering Alloy,Medium,13.61
+Kador,Qermi,Lazara,Lazara VII,Base Metals,Rich,4.54
+Kador,Qermi,Lazara,Lazara VII,Reactive Metals,Medium,3.34
+Kador,Qermi,Lazara,Lazara VIII,Lustering Alloy,Poor,12.10
+Kador,Qermi,Lazara,Lazara VIII,Base Metals,Medium,3.51
+Kador,Qermi,Zorrabed,Zorrabed I,Gleaming Alloy,Poor,10.44
+Kador,Qermi,Zorrabed,Zorrabed I,Motley Compound,Medium,13.30
+Kador,Qermi,Zorrabed,Zorrabed II,Lustering Alloy,Poor,8.33
+Kador,Qermi,Zorrabed,Zorrabed II,Base Metals,Poor,1.98
+Kador,Qermi,Zorrabed,Zorrabed III,Smartfab Units,Rich,11.52
+Kador,Qermi,Zorrabed,Zorrabed III,Heavy Water,Perfect,197.76
+Kador,Qermi,Zorrabed,Zorrabed III,Liquid Ozone,Rich,22.86
+Kador,Qermi,Zorrabed,Zorrabed IV,Motley Compound,Rich,17.76
+Kador,Qermi,Zorrabed,Zorrabed IV,Smartfab Units,Medium,9.78
+Kador,Qermi,Zorrabed,Zorrabed V,Crystal Compound,Poor,10.88
+Kador,Qermi,Zorrabed,Zorrabed V,Noble Metals,Medium,11.84
+Kador,Qermi,Zorrabed,Zorrabed V,Heavy Water,Rich,174.24
+Kador,Qermi,Zorrabed,Zorrabed VI,Lustering Alloy,Poor,7.80
+Kador,Qermi,Zorrabed,Zorrabed VI,Base Metals,Medium,3.44
+Kador,Qermi,Zorrabed,Zorrabed VII,Lustering Alloy,Medium,12.73
+Kador,Qermi,Zorrabed,Zorrabed VII,Base Metals,Rich,4.40
+Kador,Qermi,Zorrabed,Zorrabed VII,Ionic Solutions,Rich,6.09
+Kador,Qermi,Zorrabed,Zorrabed VIII,Lustering Alloy,Poor,9.85
+Kador,Qermi,Zorrabed,Zorrabed VIII,Base Metals,Poor,2.50
+Kador,Qermi,Zorrabed,Zorrabed IX,Lustering Alloy,Rich,17.23
+Kador,Qermi,Zorrabed,Zorrabed IX,Base Metals,Perfect,5.11
+Kador,Qermi,Zorrabed,Zorrabed IX,Reactive Metals,Rich,4.33
+Kador,Qermi,Zorrabed,Zorrabed X,Lustering Alloy,Medium,11.38
+Kador,Qermi,Zorrabed,Zorrabed X,Base Metals,Poor,2.06
+Kador,Trigentia,Akhwa,Akhwa I,Lustering Alloy,Poor,7.73
+Kador,Trigentia,Akhwa,Akhwa I,Base Metals,Medium,3.20
+Kador,Trigentia,Akhwa,Akhwa II,Lustering Alloy,Medium,14.45
+Kador,Trigentia,Akhwa,Akhwa II,Base Metals,Medium,3.58
+Kador,Trigentia,Akhwa,Akhwa III,Reactive Gas,Perfect,21.23
+Kador,Trigentia,Akhwa,Akhwa III,Industrial Fibers,Rich,4.48
+Kador,Trigentia,Akhwa,Akhwa III,Heavy Water,Perfect,219.48
+Kador,Trigentia,Akhwa,Akhwa IV,Lustering Alloy,Poor,9.86
+Kador,Trigentia,Akhwa,Akhwa IV,Base Metals,Poor,2.85
+Kador,Trigentia,Akhwa,Akhwa V,Lustering Alloy,Poor,8.24
+Kador,Trigentia,Akhwa,Akhwa V,Base Metals,Poor,2.81
+Kador,Trigentia,Akhwa,Akhwa VI,Reactive Gas,Medium,11.94
+Kador,Trigentia,Akhwa,Akhwa VI,Noble Metals,Perfect,21.38
+Kador,Trigentia,Akhwa,Akhwa VI,Heavy Water,Poor,111.12
+Kador,Trigentia,Akhwa,Akhwa VII,Lustering Alloy,Medium,15.14
+Kador,Trigentia,Akhwa,Akhwa VII,Glossy Compound,Rich,18.10
+Kador,Trigentia,Akhwa,Akhwa VII,Base Metals,Medium,3.66
+Kador,Trigentia,Akhwa,Akhwa VIII,Lustering Alloy,Medium,14.65
+Kador,Trigentia,Akhwa,Akhwa VIII,Base Metals,Medium,3.57
+Kador,Trigentia,Akhwa,Akhwa VIII,Reactive Metals,Perfect,5.04

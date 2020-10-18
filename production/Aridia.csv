@@ -1,0 +1,2398 @@
+Region,Constellation,System,Name,Item,Rate,Output
+Aridia,Anama,Van,Van I,Industrial Fibers,Poor,3.19
+Aridia,Anama,Van,Van I,Oxygen Isotopes,Poor,1.93
+Aridia,Anama,Van,Van I,Plasmoids,Poor,0.77
+Aridia,Anama,Van,Van II,Fiber Composite,Medium,18.97
+Aridia,Anama,Van,Van II,Reactive Gas,Rich,25.02
+Aridia,Anama,Van,Van II,Noble Metals,Poor,15.84
+Aridia,Anama,Van,Van II,Condensates,Perfect,20.69
+Aridia,Anama,Van,Van III,Fiber Composite,Poor,15.69
+Aridia,Anama,Van,Van III,Opulent Compound,Poor,15.89
+Aridia,Anama,Van,Van III,Noble Metals,Rich,24.48
+Aridia,Anama,Van,Van III,Liquid Ozone,Medium,22.48
+Aridia,Anama,Van,Van IV,Fiber Composite,Perfect,29.75
+Aridia,Anama,Van,Van IV,Base Metals,Medium,4.73
+Aridia,Anama,Van,Van IV,Noble Metals,Medium,19.55
+Aridia,Anama,Van,Van IV,Smartfab Units,Medium,11.92
+Aridia,Anama,Van,Van V,Fiber Composite,Perfect,30.57
+Aridia,Anama,Van,Van V,Industrial Fibers,Rich,5.78
+Aridia,Anama,Van,Van V,Smartfab Units,Medium,10.91
+Aridia,Anama,Van,Van V,Liquid Ozone,Rich,27.90
+Aridia,Anama,Shakasi,Shakasi I,Noble Gas,Poor,13.89
+Aridia,Anama,Shakasi,Shakasi I,Oxygen Isotopes,Poor,2.34
+Aridia,Anama,Shakasi,Shakasi II,Industrial Fibers,Medium,4.50
+Aridia,Anama,Shakasi,Shakasi II,Supertensile Plastics,Medium,13.18
+Aridia,Anama,Shakasi,Shakasi II,Plasmoids,Medium,1.19
+Aridia,Anama,Shakasi,Shakasi III,Lustering Alloy,Medium,19.11
+Aridia,Anama,Shakasi,Shakasi III,Industrial Fibers,Medium,5.10
+Aridia,Anama,Shakasi,Shakasi III,Supertensile Plastics,Poor,7.67
+Aridia,Anama,Shakasi,Shakasi IV,Base Metals,Poor,3.51
+Aridia,Anama,Shakasi,Shakasi IV,Toxic Metals,Medium,4.68
+Aridia,Anama,Shakasi,Shakasi IV,Industrial Fibers,Poor,4.02
+Aridia,Anama,Shakasi,Shakasi V,Sheen Compound,Poor,14.31
+Aridia,Anama,Shakasi,Shakasi V,Glossy Compound,Rich,25.38
+Aridia,Anama,Shakasi,Shakasi V,Noble Gas,Rich,22.71
+Aridia,Anama,Shakasi,Shakasi V,Coolant,Medium,13.82
+Aridia,Anama,Shakasi,Shakasi VI,Fiber Composite,Rich,26.18
+Aridia,Anama,Shakasi,Shakasi VI,Noble Gas,Medium,19.30
+Aridia,Anama,Shakasi,Shakasi VI,Base Metals,Rich,6.47
+Aridia,Anama,Shakasi,Shakasi VI,Ionic Solutions,Medium,7.30
+Aridia,Anama,Shakasi,Shakasi VII,Glossy Compound,Rich,22.44
+Aridia,Anama,Shakasi,Shakasi VII,Noble Gas,Poor,14.37
+Aridia,Anama,Shakasi,Shakasi VII,Base Metals,Medium,4.40
+Aridia,Anama,Shakasi,Shakasi VII,Polyaramids,Medium,12.30
+Aridia,Anama,Shakasi,Shakasi VIII,Toxic Metals,Poor,4.14
+Aridia,Anama,Shakasi,Shakasi VIII,Supertensile Plastics,Rich,14.68
+Aridia,Anama,Shakasi,Shakasi VIII,Construction Blocks,Medium,18.94
+Aridia,Anama,Zayi,Zayi I,Base Metals,Poor,3.32
+Aridia,Anama,Zayi,Zayi I,Industrial Fibers,Medium,4.24
+Aridia,Anama,Zayi,Zayi I,Silicate Glass,Poor,6.18
+Aridia,Anama,Zayi,Zayi II,Noble Gas,Medium,17.58
+Aridia,Anama,Zayi,Zayi II,Construction Blocks,Poor,15.95
+Aridia,Anama,Zayi,Zayi III,Reactive Metals,Perfect,7.69
+Aridia,Anama,Zayi,Zayi III,Condensates,Medium,13.54
+Aridia,Anama,Zayi,Zayi III,Nanites,Medium,4.47
+Aridia,Anama,Zayi,Zayi III,Ionic Solutions,Rich,10.00
+Aridia,Anama,Zayi,Zayi IV,Polyaramids,Rich,17.07
+Aridia,Anama,Zayi,Zayi IV,Coolant,Medium,12.69
+Aridia,Anama,Zayi,Zayi IV,Silicate Glass,Medium,9.87
+Aridia,Anama,Zayi,Zayi IV,Liquid Ozone,Rich,33.04
+Aridia,Anama,Zayi,Zayi V,Reactive Metals,Medium,5.34
+Aridia,Anama,Zayi,Zayi V,Construction Blocks,Rich,23.82
+Aridia,Anama,Zayi,Zayi V,Suspended Plasma,Rich,81.76
+Aridia,Anama,Zayi,Zayi VI,Crystal Compound,Rich,22.44
+Aridia,Anama,Zayi,Zayi VI,Reactive Metals,Rich,6.44
+Aridia,Anama,Zayi,Zayi VI,Construction Blocks,Rich,25.31
+Aridia,Anama,Zayi,Zayi VII,Fiber Composite,Rich,23.32
+Aridia,Anama,Zayi,Zayi VII,Opulent Compound,Medium,17.46
+Aridia,Anama,Zayi,Zayi VII,Base Metals,Perfect,7.30
+Aridia,Anama,Zayi,Zayi VII,Heavy Water,Rich,219.13
+Aridia,Anama,Zayi,Zayi VIII,Reactive Gas,Medium,20.03
+Aridia,Anama,Zayi,Zayi VIII,Noble Gas,Rich,23.77
+Aridia,Anama,Zayi,Zayi VIII,Reactive Metals,Perfect,7.42
+Aridia,Anama,Zayi,Zayi VIII,Ionic Solutions,Medium,6.95
+Aridia,Anama,Zayi,Zayi IX,Noble Gas,Perfect,27.93
+Aridia,Anama,Zayi,Zayi IX,Smartfab Units,Rich,17.22
+Aridia,Anama,Zayi,Zayi X,Sheen Compound,Medium,17.44
+Aridia,Anama,Zayi,Zayi X,Glossy Compound,Rich,26.88
+Aridia,Anama,Zayi,Zayi X,Noble Gas,Medium,18.79
+Aridia,Anama,Zayi,Zayi X,Polyaramids,Medium,11.25
+Aridia,Anama,Zayi,Zayi XI,Glossy Compound,Rich,24.07
+Aridia,Anama,Zayi,Zayi XI,Noble Gas,Medium,17.87
+Aridia,Anama,Zayi,Zayi XI,Base Metals,Perfect,7.26
+Aridia,Anama,Zayi,Zayi XI,Polyaramids,Rich,15.82
+Aridia,Anama,Zayi,Zayi XII,Lustering Alloy,Medium,18.97
+Aridia,Anama,Zayi,Zayi XII,Industrial Fibers,Medium,5.33
+Aridia,Anama,Zayi,Zayi XII,Oxygen Isotopes,Poor,1.91
+Aridia,Anama,Zayi,Zayi XIII,Lustering Alloy,Rich,23.92
+Aridia,Anama,Zayi,Zayi XIII,Glossy Compound,Rich,22.24
+Aridia,Anama,Zayi,Zayi XIII,Noble Gas,Poor,15.67
+Aridia,Anama,Zayi,Zayi XIII,Coolant,Medium,10.81
+Aridia,Anama,Zayi,Zayi XIV,Lustering Alloy,Medium,21.22
+Aridia,Anama,Zayi,Zayi XIV,Industrial Fibers,Rich,5.73
+Aridia,Anama,Zayi,Zayi XIV,Coolant,Medium,13.34
+Aridia,Anama,Shirshocin,Shirshocin I,Toxic Metals,Poor,4.17
+Aridia,Anama,Shirshocin,Shirshocin I,Industrial Fibers,Poor,3.20
+Aridia,Anama,Shirshocin,Shirshocin I,Oxygen Isotopes,Poor,2.49
+Aridia,Anama,Shirshocin,Shirshocin II,Industrial Fibers,Poor,4.23
+Aridia,Anama,Shirshocin,Shirshocin II,Supertensile Plastics,Medium,14.40
+Aridia,Anama,Shirshocin,Shirshocin II,Silicate Glass,Medium,8.84
+Aridia,Anama,Shirshocin,Shirshocin III,Dark Compound,Medium,21.64
+Aridia,Anama,Shirshocin,Shirshocin III,Toxic Metals,Poor,3.15
+Aridia,Anama,Shirshocin,Shirshocin III,Industrial Fibers,Medium,4.86
+Aridia,Anama,Shirshocin,Shirshocin IV,Fiber Composite,Medium,20.88
+Aridia,Anama,Shirshocin,Shirshocin IV,Reactive Gas,Perfect,31.57
+Aridia,Anama,Shirshocin,Shirshocin IV,Condensates,Medium,12.73
+Aridia,Anama,Shirshocin,Shirshocin IV,Smartfab Units,Perfect,19.48
+Aridia,Anama,Shirshocin,Shirshocin V,Sheen Compound,Perfect,29.27
+Aridia,Anama,Shirshocin,Shirshocin V,Fiber Composite,Rich,26.46
+Aridia,Anama,Shirshocin,Shirshocin V,Noble Gas,Medium,18.59
+Aridia,Anama,Shirshocin,Shirshocin V,Reactive Metals,Medium,5.57
+Aridia,Anama,Shirshocin,Shirshocin VI,Lustering Alloy,Poor,15.61
+Aridia,Anama,Shirshocin,Shirshocin VI,Fiber Composite,Medium,18.65
+Aridia,Anama,Shirshocin,Shirshocin VI,Noble Gas,Medium,21.08
+Aridia,Anama,Shirshocin,Shirshocin VI,Reactive Metals,Perfect,7.83
+Aridia,Anama,Maalna,Maalna I,Industrial Fibers,Poor,3.82
+Aridia,Anama,Maalna,Maalna I,Silicate Glass,Medium,8.37
+Aridia,Anama,Maalna,Maalna I,Plasmoids,Poor,0.76
+Aridia,Anama,Maalna,Maalna II,Fiber Composite,Perfect,29.32
+Aridia,Anama,Maalna,Maalna II,Base Metals,Rich,6.86
+Aridia,Anama,Maalna,Maalna II,Noble Metals,Perfect,30.29
+Aridia,Anama,Maalna,Maalna II,Heavy Water,Rich,263.84
+Aridia,Anama,Maalna,Maalna III,Fiber Composite,Perfect,28.63
+Aridia,Anama,Maalna,Maalna III,Reactive Gas,Poor,15.71
+Aridia,Anama,Maalna,Maalna III,Base Metals,Perfect,7.71
+Aridia,Anama,Maalna,Maalna III,Heavy Water,Medium,187.34
+Aridia,Anama,Maalna,Maalna IV,Glossy Compound,Medium,17.43
+Aridia,Anama,Maalna,Maalna IV,Noble Gas,Medium,19.35
+Aridia,Anama,Maalna,Maalna IV,Base Metals,Medium,5.53
+Aridia,Anama,Maalna,Maalna IV,Reactive Metals,Rich,6.06
+Aridia,Anama,Maalna,Maalna V,Fiber Composite,Rich,26.49
+Aridia,Anama,Maalna,Maalna V,Industrial Fibers,Rich,5.99
+Aridia,Anama,Maalna,Maalna V,Condensates,Perfect,21.09
+Aridia,Anama,Maalna,Maalna V,Heavy Water,Perfect,288.49
+Aridia,Anama,Maalna,Maalna VI,Lustering Alloy,Poor,14.98
+Aridia,Anama,Maalna,Maalna VI,Noble Gas,Medium,18.50
+Aridia,Anama,Maalna,Maalna VI,Base Metals,Rich,6.94
+Aridia,Anama,Maalna,Maalna VI,Polyaramids,Poor,10.11
+Aridia,Anama,Maalna,Maalna VII,Toxic Metals,Medium,4.59
+Aridia,Anama,Maalna,Maalna VII,Industrial Fibers,Poor,3.70
+Aridia,Anama,Maalna,Maalna VII,Silicate Glass,Medium,10.09
+Aridia,Anama,Maalna,Maalna VIII,Precious Alloy,Poor,11.29
+Aridia,Anama,Maalna,Maalna VIII,Base Metals,Medium,4.59
+Aridia,Anama,Maalna,Maalna VIII,Industrial Fibers,Poor,3.11
+Aridia,Anama,Maalna,Maalna IX,Opulent Compound,Perfect,27.76
+Aridia,Anama,Maalna,Maalna IX,Noble Metals,Rich,23.15
+Aridia,Anama,Maalna,Maalna IX,Polyaramids,Perfect,19.79
+Aridia,Anama,Maalna,Maalna IX,Coolant,Rich,16.86
+Aridia,Anama,Maalna,Maalna X,Toxic Metals,Medium,4.91
+Aridia,Anama,Maalna,Maalna X,Industrial Fibers,Poor,3.88
+Aridia,Anama,Maalna,Maalna X,Construction Blocks,Poor,12.55
+Aridia,Anama,Maalna,Maalna XI,Condensed Alloy,Rich,22.70
+Aridia,Anama,Maalna,Maalna XI,Crystal Compound,Perfect,28.54
+Aridia,Anama,Maalna,Maalna XI,Toxic Metals,Perfect,7.67
+Aridia,Anama,Maalna,Maalna XI,Coolant,Perfect,18.13
+Aridia,Anama,Maseera,Maseera I,Dark Compound,Poor,15.03
+Aridia,Anama,Maseera,Maseera I,Industrial Fibers,Poor,3.37
+Aridia,Anama,Maseera,Maseera I,Construction Blocks,Poor,15.54
+Aridia,Anama,Maseera,Maseera II,Noble Gas,Medium,20.57
+Aridia,Anama,Maseera,Maseera II,Polyaramids,Rich,16.85
+Aridia,Anama,Maseera,Maseera III,Industrial Fibers,Poor,3.10
+Aridia,Anama,Maseera,Maseera III,Silicate Glass,Medium,9.27
+Aridia,Anama,Maseera,Maseera III,Plasmoids,Poor,0.76
+Aridia,Anama,Maseera,Maseera IV,Industrial Fibers,Medium,5.22
+Aridia,Anama,Maseera,Maseera IV,Supertensile Plastics,Poor,10.09
+Aridia,Anama,Maseera,Maseera IV,Plasmoids,Poor,0.89
+Aridia,Anama,Maseera,Maseera V,Condensed Alloy,Medium,20.38
+Aridia,Anama,Maseera,Maseera V,Fiber Composite,Perfect,29.87
+Aridia,Anama,Maseera,Maseera V,Base Metals,Perfect,8.46
+Aridia,Anama,Maseera,Maseera V,Industrial Fibers,Rich,5.94
+Aridia,Anama,Maseera,Maseera VI,Lustering Alloy,Rich,23.51
+Aridia,Anama,Maseera,Maseera VI,Reactive Gas,Medium,20.28
+Aridia,Anama,Maseera,Maseera VI,Noble Gas,Medium,18.61
+Aridia,Anama,Maseera,Maseera VI,Reactive Metals,Medium,4.59
+Aridia,Anama,Maseera,Maseera VII,Sheen Compound,Perfect,28.14
+Aridia,Anama,Maseera,Maseera VII,Noble Gas,Rich,23.78
+Aridia,Anama,Maseera,Maseera VII,Reactive Metals,Rich,6.88
+Aridia,Anama,Maseera,Maseera VII,Coolant,Medium,11.58
+Aridia,Anama,Maseera,Maseera VIII,Lustering Alloy,Rich,26.13
+Aridia,Anama,Maseera,Maseera VIII,Noble Gas,Rich,26.30
+Aridia,Anama,Maseera,Maseera VIII,Base Metals,Medium,4.90
+Aridia,Anama,Maseera,Maseera VIII,Ionic Solutions,Medium,6.83
+Aridia,Anama,Maseera,Maseera IX,Glossy Compound,Medium,17.14
+Aridia,Anama,Maseera,Maseera IX,Noble Gas,Poor,14.23
+Aridia,Anama,Maseera,Maseera IX,Reactive Metals,Perfect,7.31
+Aridia,Anama,Maseera,Maseera IX,Polyaramids,Rich,14.81
+Aridia,Anama,Maseera,Maseera X,Condensed Alloy,Rich,24.43
+Aridia,Anama,Maseera,Maseera X,Coolant,Poor,10.35
+Aridia,Anama,Maseera,Maseera X,Heavy Water,Medium,163.88
+Aridia,Anama,Maseera,Maseera X,Liquid Ozone,Rich,28.45
+Aridia,Afinoo,Yehaba,Yehaba I,Dark Compound,Poor,11.30
+Aridia,Afinoo,Yehaba,Yehaba I,Industrial Fibers,Medium,5.22
+Aridia,Afinoo,Yehaba,Yehaba I,Silicate Glass,Medium,8.54
+Aridia,Afinoo,Yehaba,Yehaba II,Motley Compound,Rich,28.44
+Aridia,Afinoo,Yehaba,Yehaba II,Noble Gas,Medium,21.11
+Aridia,Afinoo,Yehaba,Yehaba III,Dark Compound,Poor,14.94
+Aridia,Afinoo,Yehaba,Yehaba III,Toxic Metals,Poor,3.48
+Aridia,Afinoo,Yehaba,Yehaba III,Industrial Fibers,Poor,3.98
+Aridia,Afinoo,Yehaba,Yehaba IV,Lustering Alloy,Poor,16.61
+Aridia,Afinoo,Yehaba,Yehaba IV,Industrial Fibers,Poor,3.16
+Aridia,Afinoo,Yehaba,Yehaba IV,Silicate Glass,Poor,5.71
+Aridia,Afinoo,Yehaba,Yehaba V,Noble Gas,Rich,27.76
+Aridia,Afinoo,Yehaba,Yehaba V,Plasmoids,Rich,1.65
+Aridia,Afinoo,Yehaba,Yehaba VI,Crystal Compound,Rich,25.81
+Aridia,Afinoo,Yehaba,Yehaba VI,Toxic Metals,Medium,5.21
+Aridia,Afinoo,Yehaba,Yehaba VI,Construction Blocks,Medium,19.94
+Aridia,Afinoo,Yehaba,Yehaba VII,Toxic Metals,Poor,3.94
+Aridia,Afinoo,Yehaba,Yehaba VII,Industrial Fibers,Medium,4.54
+Aridia,Afinoo,Yehaba,Yehaba VII,Silicate Glass,Poor,6.38
+Aridia,Afinoo,Yehaba,Yehaba VIII,Fiber Composite,Perfect,29.09
+Aridia,Afinoo,Yehaba,Yehaba VIII,Reactive Gas,Perfect,30.69
+Aridia,Afinoo,Yehaba,Yehaba VIII,Base Metals,Perfect,8.06
+Aridia,Afinoo,Yehaba,Yehaba VIII,Heavy Water,Rich,230.94
+Aridia,Afinoo,Yehaba,Yehaba IX,Precious Alloy,Poor,12.55
+Aridia,Afinoo,Yehaba,Yehaba IX,Industrial Fibers,Poor,3.38
+Aridia,Afinoo,Yehaba,Yehaba IX,Silicate Glass,Poor,7.48
+Aridia,Afinoo,Yehaba,Yehaba X,Glossy Compound,Rich,27.81
+Aridia,Afinoo,Yehaba,Yehaba X,Reactive Gas,Rich,26.10
+Aridia,Afinoo,Yehaba,Yehaba X,Noble Gas,Medium,19.24
+Aridia,Afinoo,Yehaba,Yehaba X,Polyaramids,Perfect,19.14
+Aridia,Afinoo,Yehaba,Yehaba XI,Reactive Metals,Poor,4.25
+Aridia,Afinoo,Yehaba,Yehaba XI,Supertensile Plastics,Medium,13.64
+Aridia,Afinoo,Yehaba,Yehaba XI,Construction Blocks,Rich,27.50
+Aridia,Afinoo,Yehaba,Yehaba XII,Fiber Composite,Medium,17.78
+Aridia,Afinoo,Yehaba,Yehaba XII,Glossy Compound,Poor,15.52
+Aridia,Afinoo,Yehaba,Yehaba XII,Noble Gas,Medium,22.00
+Aridia,Afinoo,Yehaba,Yehaba XII,Reactive Metals,Rich,6.08
+Aridia,Afinoo,Kenahehab,Kenahehab I,Gleaming Alloy,Perfect,30.49
+Aridia,Afinoo,Kenahehab,Kenahehab I,Noble Gas,Rich,25.88
+Aridia,Afinoo,Kenahehab,Kenahehab II,Lustering Alloy,Medium,17.82
+Aridia,Afinoo,Kenahehab,Kenahehab II,Industrial Fibers,Medium,5.79
+Aridia,Afinoo,Kenahehab,Kenahehab II,Silicate Glass,Medium,9.25
+Aridia,Afinoo,Kenahehab,Kenahehab III,Sheen Compound,Rich,27.52
+Aridia,Afinoo,Kenahehab,Kenahehab III,Reactive Metals,Medium,4.84
+Aridia,Afinoo,Kenahehab,Kenahehab III,Nanites,Rich,6.75
+Aridia,Afinoo,Kenahehab,Kenahehab III,Suspended Plasma,Rich,87.67
+Aridia,Afinoo,Kenahehab,Kenahehab IV,Lucent Compound,Rich,23.38
+Aridia,Afinoo,Kenahehab,Kenahehab IV,Crystal Compound,Medium,18.38
+Aridia,Afinoo,Kenahehab,Kenahehab IV,Construction Blocks,Medium,22.37
+Aridia,Afinoo,Kenahehab,Kenahehab V,Lustering Alloy,Poor,12.80
+Aridia,Afinoo,Kenahehab,Kenahehab V,Industrial Fibers,Medium,4.64
+Aridia,Afinoo,Kenahehab,Kenahehab V,Plasmoids,Medium,1.11
+Aridia,Afinoo,Kenahehab,Kenahehab VI,Lustering Alloy,Medium,20.97
+Aridia,Afinoo,Kenahehab,Kenahehab VI,Reactive Gas,Rich,23.04
+Aridia,Afinoo,Kenahehab,Kenahehab VI,Noble Gas,Perfect,29.05
+Aridia,Afinoo,Kenahehab,Kenahehab VI,Coolant,Perfect,19.07
+Aridia,Afinoo,Kenahehab,Kenahehab VII,Sheen Compound,Rich,25.16
+Aridia,Afinoo,Kenahehab,Kenahehab VII,Fiber Composite,Rich,26.60
+Aridia,Afinoo,Kenahehab,Kenahehab VII,Noble Gas,Rich,26.53
+Aridia,Afinoo,Kenahehab,Kenahehab VII,Base Metals,Medium,5.43
+Aridia,Afinoo,Kenahehab,Kenahehab VIII,Reactive Gas,Perfect,29.83
+Aridia,Afinoo,Kenahehab,Kenahehab VIII,Noble Gas,Rich,24.08
+Aridia,Afinoo,Kenahehab,Kenahehab VIII,Polyaramids,Medium,12.42
+Aridia,Afinoo,Kenahehab,Kenahehab VIII,Ionic Solutions,Medium,7.85
+Aridia,Afinoo,Kenahehab,Kenahehab IX,Glossy Compound,Poor,15.88
+Aridia,Afinoo,Kenahehab,Kenahehab IX,Noble Gas,Medium,19.96
+Aridia,Afinoo,Kenahehab,Kenahehab IX,Coolant,Rich,16.94
+Aridia,Afinoo,Kenahehab,Kenahehab IX,Ionic Solutions,Poor,6.53
+Aridia,Afinoo,Gens,Gens I,Toxic Metals,Medium,5.78
+Aridia,Afinoo,Gens,Gens I,Industrial Fibers,Poor,3.79
+Aridia,Afinoo,Gens,Gens I,Plasmoids,Poor,0.89
+Aridia,Afinoo,Gens,Gens II,Crystal Compound,Rich,25.23
+Aridia,Afinoo,Gens,Gens II,Toxic Metals,Medium,6.16
+Aridia,Afinoo,Gens,Gens II,Construction Blocks,Rich,28.86
+Aridia,Afinoo,Gens,Gens III,Fiber Composite,Medium,18.73
+Aridia,Afinoo,Gens,Gens III,Opulent Compound,Medium,20.61
+Aridia,Afinoo,Gens,Gens III,Smartfab Units,Perfect,22.83
+Aridia,Afinoo,Gens,Gens III,Liquid Ozone,Medium,24.80
+Aridia,Afinoo,Gens,Gens IV,Dark Compound,Medium,19.48
+Aridia,Afinoo,Gens,Gens IV,Industrial Fibers,Medium,5.33
+Aridia,Afinoo,Gens,Gens IV,Oxygen Isotopes,Medium,3.41
+Aridia,Afinoo,Gens,Gens V,Reactive Gas,Medium,20.06
+Aridia,Afinoo,Gens,Gens V,Noble Gas,Medium,19.70
+Aridia,Afinoo,Gens,Gens V,Reactive Metals,Medium,6.21
+Aridia,Afinoo,Gens,Gens V,Polyaramids,Rich,16.42
+Aridia,Afinoo,Gens,Gens VI,Toxic Metals,Poor,3.53
+Aridia,Afinoo,Gens,Gens VI,Industrial Fibers,Medium,5.04
+Aridia,Afinoo,Gens,Gens VI,Construction Blocks,Poor,16.97
+Aridia,Afinoo,Gens,Gens VII,Lustering Alloy,Medium,23.75
+Aridia,Afinoo,Gens,Gens VII,Fiber Composite,Rich,27.42
+Aridia,Afinoo,Gens,Gens VII,Noble Gas,Rich,24.97
+Aridia,Afinoo,Gens,Gens VII,Ionic Solutions,Rich,11.51
+Aridia,Afinoo,Kamih,Kamih I,Glossy Compound,Medium,18.63
+Aridia,Afinoo,Kamih,Kamih I,Noble Gas,Poor,15.95
+Aridia,Afinoo,Kamih,Kamih II,Lustering Alloy,Poor,14.36
+Aridia,Afinoo,Kamih,Kamih II,Industrial Fibers,Medium,4.66
+Aridia,Afinoo,Kamih,Kamih II,Oxygen Isotopes,Poor,1.94
+Aridia,Afinoo,Kamih,Kamih III,Glossy Compound,Poor,14.87
+Aridia,Afinoo,Kamih,Kamih III,Noble Gas,Poor,16.11
+Aridia,Afinoo,Kamih,Kamih IV,Sheen Compound,Medium,17.87
+Aridia,Afinoo,Kamih,Kamih IV,Fiber Composite,Medium,21.58
+Aridia,Afinoo,Kamih,Kamih IV,Reactive Gas,Medium,21.47
+Aridia,Afinoo,Kamih,Kamih IV,Noble Gas,Perfect,29.23
+Aridia,Afinoo,Kamih,Kamih V,Sheen Compound,Medium,21.78
+Aridia,Afinoo,Kamih,Kamih V,Fiber Composite,Rich,26.80
+Aridia,Afinoo,Kamih,Kamih V,Noble Gas,Medium,21.02
+Aridia,Afinoo,Kamih,Kamih V,Coolant,Medium,12.76
+Aridia,Afinoo,Kamih,Kamih VI,Lustering Alloy,Medium,22.21
+Aridia,Afinoo,Kamih,Kamih VI,Noble Gas,Medium,20.21
+Aridia,Afinoo,Kamih,Kamih VI,Polyaramids,Medium,12.50
+Aridia,Afinoo,Kamih,Kamih VI,Coolant,Medium,13.78
+Aridia,Afinoo,Kamih,Kamih VII,Glossy Compound,Rich,24.59
+Aridia,Afinoo,Kamih,Kamih VII,Reactive Gas,Medium,17.59
+Aridia,Afinoo,Kamih,Kamih VII,Noble Gas,Rich,23.24
+Aridia,Afinoo,Kamih,Kamih VII,Polyaramids,Perfect,19.33
+Aridia,Afinoo,Kamih,Kamih VIII,Toxic Metals,Medium,5.68
+Aridia,Afinoo,Kamih,Kamih VIII,Polyaramids,Poor,11.26
+Aridia,Afinoo,Kamih,Kamih VIII,Coolant,Perfect,20.50
+Aridia,Afinoo,Kamih,Kamih VIII,Liquid Ozone,Rich,33.10
+Aridia,Afinoo,Hier,Hier I,Noble Gas,Rich,24.79
+Aridia,Afinoo,Hier,Hier I,Plasmoids,Rich,1.42
+Aridia,Afinoo,Hier,Hier II,Precious Alloy,Poor,11.17
+Aridia,Afinoo,Hier,Hier II,Base Metals,Medium,4.41
+Aridia,Afinoo,Hier,Hier II,Industrial Fibers,Medium,4.46
+Aridia,Afinoo,Hier,Hier III,Reactive Metals,Rich,5.77
+Aridia,Afinoo,Hier,Hier III,Construction Blocks,Medium,18.26
+Aridia,Afinoo,Hier,Hier III,Nanites,Perfect,7.28
+Aridia,Afinoo,Hier,Hier IV,Reactive Gas,Poor,14.86
+Aridia,Afinoo,Hier,Hier IV,Noble Gas,Perfect,27.11
+Aridia,Afinoo,Hier,Hier IV,Reactive Metals,Poor,4.03
+Aridia,Afinoo,Hier,Hier IV,Ionic Solutions,Medium,8.24
+Aridia,Afinoo,Hier,Hier V,Glossy Compound,Medium,18.29
+Aridia,Afinoo,Hier,Hier V,Reactive Gas,Rich,26.93
+Aridia,Afinoo,Hier,Hier V,Noble Gas,Medium,20.08
+Aridia,Afinoo,Hier,Hier V,Reactive Metals,Medium,5.00
+Aridia,Afinoo,Hier,Hier VI,Reactive Gas,Medium,16.15
+Aridia,Afinoo,Hier,Hier VI,Supertensile Plastics,Medium,11.42
+Aridia,Afinoo,Hier,Hier VI,Construction Blocks,Medium,16.73
+Aridia,Afinoo,Hier,Hier VII,Glossy Compound,Poor,14.50
+Aridia,Afinoo,Hier,Hier VII,Noble Gas,Poor,15.66
+Aridia,Afinoo,Hier,Hier VII,Base Metals,Rich,6.45
+Aridia,Afinoo,Hier,Hier VII,Coolant,Medium,12.32
+Aridia,Afinoo,Jasson,Jasson I,Lustering Alloy,Medium,21.40
+Aridia,Afinoo,Jasson,Jasson I,Reactive Gas,Perfect,29.38
+Aridia,Afinoo,Jasson,Jasson I,Noble Gas,Perfect,28.76
+Aridia,Afinoo,Jasson,Jasson I,Coolant,Rich,15.80
+Aridia,Afinoo,Jasson,Jasson II,Fiber Composite,Rich,27.92
+Aridia,Afinoo,Jasson,Jasson II,Noble Gas,Rich,23.65
+Aridia,Afinoo,Jasson,Jasson II,Base Metals,Rich,6.17
+Aridia,Afinoo,Jasson,Jasson II,Reactive Metals,Medium,5.64
+Aridia,Afinoo,Jasson,Jasson III,Fiber Composite,Rich,22.84
+Aridia,Afinoo,Jasson,Jasson III,Noble Gas,Medium,20.20
+Aridia,Afinoo,Jasson,Jasson III,Polyaramids,Perfect,19.75
+Aridia,Afinoo,Jasson,Jasson III,Coolant,Rich,15.46
+Aridia,Afinoo,Jasson,Jasson IV,Base Metals,Poor,4.10
+Aridia,Afinoo,Jasson,Jasson IV,Supertensile Plastics,Rich,16.51
+Aridia,Afinoo,Jasson,Jasson IV,Coolant,Rich,17.84
+Aridia,Afinoo,Jasson,Jasson V,Supertensile Plastics,Medium,14.58
+Aridia,Afinoo,Jasson,Jasson V,Coolant,Rich,16.15
+Aridia,Afinoo,Jasson,Jasson V,Condensates,Medium,11.68
+Aridia,Mareerieh,Sadana,Sadana I,Base Metals,Poor,3.68
+Aridia,Mareerieh,Sadana,Sadana I,Industrial Fibers,Medium,5.42
+Aridia,Mareerieh,Sadana,Sadana I,Plasmoids,Poor,0.91
+Aridia,Mareerieh,Sadana,Sadana II,Crystal Compound,Rich,24.67
+Aridia,Mareerieh,Sadana,Sadana II,Reactive Metals,Perfect,7.26
+Aridia,Mareerieh,Sadana,Sadana II,Construction Blocks,Perfect,27.66
+Aridia,Mareerieh,Sadana,Sadana III,Glossy Compound,Rich,26.37
+Aridia,Mareerieh,Sadana,Sadana III,Noble Gas,Rich,26.71
+Aridia,Mareerieh,Sadana,Sadana IV,Precious Alloy,Medium,20.66
+Aridia,Mareerieh,Sadana,Sadana IV,Base Metals,Poor,4.17
+Aridia,Mareerieh,Sadana,Sadana IV,Industrial Fibers,Poor,3.52
+Aridia,Mareerieh,Sadana,Sadana V,Condensed Alloy,Perfect,32.22
+Aridia,Mareerieh,Sadana,Sadana V,Fiber Composite,Rich,24.55
+Aridia,Mareerieh,Sadana,Sadana V,Condensates,Medium,13.94
+Aridia,Mareerieh,Sadana,Sadana V,Smartfab Units,Medium,12.05
+Aridia,Mareerieh,Sadana,Sadana VI,Base Metals,Medium,4.64
+Aridia,Mareerieh,Sadana,Sadana VI,Industrial Fibers,Poor,3.95
+Aridia,Mareerieh,Sadana,Sadana VI,Plasmoids,Poor,0.73
+Aridia,Mareerieh,Sadana,Sadana VII,Glossy Compound,Rich,24.39
+Aridia,Mareerieh,Sadana,Sadana VII,Noble Gas,Medium,21.39
+Aridia,Mareerieh,Sadana,Sadana VII,Polyaramids,Rich,16.78
+Aridia,Mareerieh,Sadana,Sadana VII,Ionic Solutions,Medium,6.79
+Aridia,Mareerieh,Sadana,Sadana VIII,Industrial Fibers,Poor,4.04
+Aridia,Mareerieh,Sadana,Sadana VIII,Supertensile Plastics,Poor,10.39
+Aridia,Mareerieh,Sadana,Sadana VIII,Oxygen Isotopes,Medium,2.66
+Aridia,Mareerieh,Isid,Isid I,Precious Alloy,Poor,15.61
+Aridia,Mareerieh,Isid,Isid I,Base Metals,Poor,3.74
+Aridia,Mareerieh,Isid,Isid I,Industrial Fibers,Poor,3.91
+Aridia,Mareerieh,Isid,Isid II,Supertensile Plastics,Medium,12.32
+Aridia,Mareerieh,Isid,Isid II,Construction Blocks,Medium,17.87
+Aridia,Mareerieh,Isid,Isid II,Suspended Plasma,Rich,102.51
+Aridia,Mareerieh,Isid,Isid III,Dark Compound,Poor,16.72
+Aridia,Mareerieh,Isid,Isid III,Reactive Metals,Medium,4.82
+Aridia,Mareerieh,Isid,Isid III,Condensates,Rich,15.60
+Aridia,Mareerieh,Isid,Isid III,Nanites,Perfect,7.91
+Aridia,Mareerieh,Isid,Isid IV,Fiber Composite,Rich,23.18
+Aridia,Mareerieh,Isid,Isid IV,Smartfab Units,Medium,13.34
+Aridia,Mareerieh,Isid,Isid IV,Heavy Water,Rich,281.34
+Aridia,Mareerieh,Isid,Isid IV,Liquid Ozone,Perfect,35.82
+Aridia,Mareerieh,Isid,Isid V,Glossy Compound,Rich,27.63
+Aridia,Mareerieh,Isid,Isid V,Noble Gas,Rich,27.00
+Aridia,Mareerieh,Isid,Isid V,Polyaramids,Rich,17.51
+Aridia,Mareerieh,Isid,Isid V,Coolant,Rich,18.55
+Aridia,Mareerieh,Isid,Isid VI,Gleaming Alloy,Poor,16.00
+Aridia,Mareerieh,Isid,Isid VI,Reactive Gas,Medium,18.85
+Aridia,Mareerieh,Isid,Isid VI,Construction Blocks,Medium,21.64
+Aridia,Mareerieh,Isid,Isid VII,Fiber Composite,Rich,25.70
+Aridia,Mareerieh,Isid,Isid VII,Opulent Compound,Perfect,30.80
+Aridia,Mareerieh,Isid,Isid VII,Reactive Gas,Medium,17.32
+Aridia,Mareerieh,Isid,Isid VII,Heavy Water,Perfect,296.10
+Aridia,Mareerieh,Isid,Isid VIII,Lustering Alloy,Medium,20.93
+Aridia,Mareerieh,Isid,Isid VIII,Sheen Compound,Medium,18.56
+Aridia,Mareerieh,Isid,Isid VIII,Noble Gas,Poor,16.42
+Aridia,Mareerieh,Isid,Isid VIII,Base Metals,Perfect,7.66
+Aridia,Mareerieh,Onanam,Onanam I,Glossy Compound,Perfect,28.68
+Aridia,Mareerieh,Onanam,Onanam I,Noble Gas,Rich,25.16
+Aridia,Mareerieh,Onanam,Onanam II,Dark Compound,Medium,17.07
+Aridia,Mareerieh,Onanam,Onanam II,Industrial Fibers,Medium,5.02
+Aridia,Mareerieh,Onanam,Onanam II,Plasmoids,Poor,0.76
+Aridia,Mareerieh,Onanam,Onanam III,Gleaming Alloy,Medium,18.07
+Aridia,Mareerieh,Onanam,Onanam III,Crystal Compound,Rich,25.72
+Aridia,Mareerieh,Onanam,Onanam III,Construction Blocks,Medium,16.90
+Aridia,Mareerieh,Onanam,Onanam IV,Gleaming Alloy,Medium,19.40
+Aridia,Mareerieh,Onanam,Onanam IV,Construction Blocks,Medium,16.46
+Aridia,Mareerieh,Onanam,Onanam IV,Nanites,Rich,6.45
+Aridia,Mareerieh,Onanam,Onanam V,Sheen Compound,Rich,21.57
+Aridia,Mareerieh,Onanam,Onanam V,Reactive Gas,Poor,15.25
+Aridia,Mareerieh,Onanam,Onanam V,Noble Gas,Medium,18.14
+Aridia,Mareerieh,Onanam,Onanam V,Reactive Metals,Medium,5.63
+Aridia,Mareerieh,Onanam,Onanam VI,Lustering Alloy,Medium,16.64
+Aridia,Mareerieh,Onanam,Onanam VI,Noble Gas,Poor,15.62
+Aridia,Mareerieh,Onanam,Onanam VI,Coolant,Medium,14.28
+Aridia,Mareerieh,Onanam,Onanam VI,Ionic Solutions,Rich,9.00
+Aridia,Mareerieh,Onanam,Onanam VII,Sheen Compound,Rich,22.93
+Aridia,Mareerieh,Onanam,Onanam VII,Fiber Composite,Poor,14.60
+Aridia,Mareerieh,Onanam,Onanam VII,Glossy Compound,Rich,26.11
+Aridia,Mareerieh,Onanam,Onanam VII,Noble Gas,Rich,24.70
+Aridia,Mareerieh,Onanam,Onanam VIII,Noble Gas,Medium,19.16
+Aridia,Mareerieh,Onanam,Onanam VIII,Reactive Metals,Rich,6.04
+Aridia,Mareerieh,Onanam,Onanam VIII,Coolant,Medium,11.07
+Aridia,Mareerieh,Onanam,Onanam VIII,Ionic Solutions,Poor,5.92
+Aridia,Mareerieh,Onanam,Onanam IX,Fiber Composite,Medium,17.24
+Aridia,Mareerieh,Onanam,Onanam IX,Noble Gas,Poor,15.08
+Aridia,Mareerieh,Onanam,Onanam IX,Base Metals,Medium,5.43
+Aridia,Mareerieh,Onanam,Onanam IX,Polyaramids,Rich,16.37
+Aridia,Mareerieh,Udianoor,Udianoor I,Gleaming Alloy,Poor,13.75
+Aridia,Mareerieh,Udianoor,Udianoor I,Noble Gas,Rich,22.36
+Aridia,Mareerieh,Udianoor,Udianoor II,Gleaming Alloy,Poor,14.20
+Aridia,Mareerieh,Udianoor,Udianoor II,Noble Gas,Rich,22.25
+Aridia,Mareerieh,Udianoor,Udianoor III,Lustering Alloy,Poor,11.12
+Aridia,Mareerieh,Udianoor,Udianoor III,Industrial Fibers,Poor,3.52
+Aridia,Mareerieh,Udianoor,Udianoor III,Oxygen Isotopes,Poor,2.32
+Aridia,Mareerieh,Udianoor,Udianoor IV,Opulent Compound,Rich,22.80
+Aridia,Mareerieh,Udianoor,Udianoor IV,Toxic Metals,Rich,5.98
+Aridia,Mareerieh,Udianoor,Udianoor IV,Coolant,Rich,16.92
+Aridia,Mareerieh,Udianoor,Udianoor IV,Ionic Solutions,Medium,7.24
+Aridia,Mareerieh,Udianoor,Udianoor V,Sheen Compound,Rich,24.80
+Aridia,Mareerieh,Udianoor,Udianoor V,Noble Gas,Rich,22.47
+Aridia,Mareerieh,Udianoor,Udianoor V,Reactive Metals,Medium,5.53
+Aridia,Mareerieh,Udianoor,Udianoor V,Coolant,Medium,13.74
+Aridia,Mareerieh,Udianoor,Udianoor VI,Base Metals,Poor,3.86
+Aridia,Mareerieh,Udianoor,Udianoor VI,Industrial Fibers,Poor,4.21
+Aridia,Mareerieh,Udianoor,Udianoor VI,Construction Blocks,Medium,19.70
+Aridia,Mareerieh,Udianoor,Udianoor VII,Toxic Metals,Rich,6.17
+Aridia,Mareerieh,Udianoor,Udianoor VII,Construction Blocks,Rich,24.51
+Aridia,Mareerieh,Udianoor,Udianoor VII,Nanites,Rich,6.90
+Aridia,Mareerieh,Udianoor,Udianoor VIII,Sheen Compound,Medium,18.12
+Aridia,Mareerieh,Udianoor,Udianoor VIII,Fiber Composite,Medium,18.94
+Aridia,Mareerieh,Udianoor,Udianoor VIII,Glossy Compound,Rich,25.69
+Aridia,Mareerieh,Udianoor,Udianoor VIII,Noble Gas,Medium,20.55
+Aridia,Mareerieh,Udianoor,Udianoor IX,Sheen Compound,Rich,25.23
+Aridia,Mareerieh,Udianoor,Udianoor IX,Noble Gas,Medium,21.25
+Aridia,Mareerieh,Udianoor,Udianoor IX,Reactive Metals,Rich,6.61
+Aridia,Mareerieh,Udianoor,Udianoor IX,Ionic Solutions,Rich,10.53
+Aridia,Mareerieh,Udianoor,Udianoor X,Lustering Alloy,Medium,20.52
+Aridia,Mareerieh,Udianoor,Udianoor X,Heavy Metals,Rich,24.77
+Aridia,Mareerieh,Udianoor,Udianoor X,Coolant,Poor,9.69
+Aridia,Mareerieh,Vehan,Vehan I,Noble Gas,Poor,14.86
+Aridia,Mareerieh,Vehan,Vehan I,Noble Metals,Perfect,27.42
+Aridia,Mareerieh,Vehan,Vehan II,Glossy Compound,Medium,16.20
+Aridia,Mareerieh,Vehan,Vehan II,Noble Gas,Medium,21.06
+Aridia,Mareerieh,Vehan,Vehan II,Polyaramids,Rich,17.44
+Aridia,Mareerieh,Vehan,Vehan II,Ionic Solutions,Medium,6.61
+Aridia,Mareerieh,Vehan,Vehan III,Lucent Compound,Rich,24.19
+Aridia,Mareerieh,Vehan,Vehan III,Supertensile Plastics,Medium,13.62
+Aridia,Mareerieh,Vehan,Vehan III,Construction Blocks,Rich,24.82
+Aridia,Mareerieh,Vehan,Vehan IV,Fiber Composite,Rich,26.47
+Aridia,Mareerieh,Vehan,Vehan IV,Glossy Compound,Medium,21.28
+Aridia,Mareerieh,Vehan,Vehan IV,Noble Gas,Rich,24.63
+Aridia,Mareerieh,Vehan,Vehan IV,Base Metals,Medium,4.70
+Aridia,Mareerieh,Vehan,Vehan V,Noble Gas,Rich,21.84
+Aridia,Mareerieh,Vehan,Vehan V,Base Metals,Rich,6.59
+Aridia,Mareerieh,Vehan,Vehan V,Polyaramids,Medium,10.96
+Aridia,Mareerieh,Vehan,Vehan V,Ionic Solutions,Medium,7.58
+Aridia,Mareerieh,Vehan,Vehan VI,Lustering Alloy,Poor,14.50
+Aridia,Mareerieh,Vehan,Vehan VI,Noble Gas,Perfect,27.98
+Aridia,Mareerieh,Vehan,Vehan VI,Base Metals,Rich,6.11
+Aridia,Mareerieh,Vehan,Vehan VI,Polyaramids,Medium,14.10
+Aridia,Mareerieh,Vehan,Vehan VII,Industrial Fibers,Rich,5.70
+Aridia,Mareerieh,Vehan,Vehan VII,Coolant,Medium,11.58
+Aridia,Mareerieh,Vehan,Vehan VII,Suspended Plasma,Medium,67.93
+Aridia,Mareerieh,Marmeha,Marmeha I,Base Metals,Poor,3.78
+Aridia,Mareerieh,Marmeha,Marmeha I,Industrial Fibers,Medium,4.86
+Aridia,Mareerieh,Marmeha,Marmeha I,Silicate Glass,Poor,5.81
+Aridia,Mareerieh,Marmeha,Marmeha II,Toxic Metals,Rich,7.37
+Aridia,Mareerieh,Marmeha,Marmeha II,Polyaramids,Medium,14.09
+Aridia,Mareerieh,Marmeha,Marmeha II,Coolant,Medium,13.16
+Aridia,Mareerieh,Marmeha,Marmeha II,Liquid Ozone,Perfect,35.95
+Aridia,Mareerieh,Marmeha,Marmeha III,Condensed Alloy,Perfect,32.92
+Aridia,Mareerieh,Marmeha,Marmeha III,Fiber Composite,Perfect,33.37
+Aridia,Mareerieh,Marmeha,Marmeha III,Heavy Water,Perfect,313.02
+Aridia,Mareerieh,Marmeha,Marmeha III,Liquid Ozone,Rich,28.78
+Aridia,Mareerieh,Marmeha,Marmeha IV,Fiber Composite,Perfect,34.16
+Aridia,Mareerieh,Marmeha,Marmeha IV,Opulent Compound,Rich,27.36
+Aridia,Mareerieh,Marmeha,Marmeha IV,Reactive Gas,Medium,19.40
+Aridia,Mareerieh,Marmeha,Marmeha IV,Liquid Ozone,Medium,21.76
+Aridia,Mareerieh,Marmeha,Marmeha V,Construction Blocks,Rich,23.69
+Aridia,Mareerieh,Marmeha,Marmeha V,Suspended Plasma,Medium,81.32
+Aridia,Mareerieh,Marmeha,Marmeha V,Oxygen Isotopes,Medium,2.64
+Aridia,Mayonhen,Haimeh,Haimeh I,Noble Gas,Medium,19.01
+Aridia,Mayonhen,Haimeh,Haimeh I,Noble Metals,Rich,21.58
+Aridia,Mayonhen,Haimeh,Haimeh II,Industrial Fibers,Poor,3.44
+Aridia,Mayonhen,Haimeh,Haimeh II,Supertensile Plastics,Poor,9.61
+Aridia,Mayonhen,Haimeh,Haimeh II,Silicate Glass,Poor,5.26
+Aridia,Mayonhen,Haimeh,Haimeh III,Lustering Alloy,Poor,13.78
+Aridia,Mayonhen,Haimeh,Haimeh III,Dark Compound,Poor,12.38
+Aridia,Mayonhen,Haimeh,Haimeh III,Industrial Fibers,Poor,2.67
+Aridia,Mayonhen,Haimeh,Haimeh IV,Opulent Compound,Poor,14.50
+Aridia,Mayonhen,Haimeh,Haimeh IV,Toxic Metals,Rich,6.19
+Aridia,Mayonhen,Haimeh,Haimeh IV,Coolant,Medium,12.22
+Aridia,Mayonhen,Haimeh,Haimeh IV,Heavy Water,Medium,173.44
+Aridia,Mayonhen,Haimeh,Haimeh V,Toxic Metals,Poor,3.49
+Aridia,Mayonhen,Haimeh,Haimeh V,Industrial Fibers,Medium,4.60
+Aridia,Mayonhen,Haimeh,Haimeh V,Supertensile Plastics,Medium,10.79
+Aridia,Mayonhen,Haimeh,Haimeh VI,Condensed Alloy,Rich,23.74
+Aridia,Mayonhen,Haimeh,Haimeh VI,Fiber Composite,Rich,22.19
+Aridia,Mayonhen,Haimeh,Haimeh VI,Industrial Fibers,Medium,4.09
+Aridia,Mayonhen,Haimeh,Haimeh VI,Smartfab Units,Perfect,19.35
+Aridia,Mayonhen,Haimeh,Haimeh VII,Precious Alloy,Medium,19.10
+Aridia,Mayonhen,Haimeh,Haimeh VII,Industrial Fibers,Poor,3.11
+Aridia,Mayonhen,Haimeh,Haimeh VII,Construction Blocks,Poor,13.92
+Aridia,Mayonhen,Haimeh,Haimeh VIII,Fiber Composite,Perfect,27.17
+Aridia,Mayonhen,Haimeh,Haimeh VIII,Reactive Gas,Medium,15.28
+Aridia,Mayonhen,Haimeh,Haimeh VIII,Industrial Fibers,Rich,6.21
+Aridia,Mayonhen,Haimeh,Haimeh VIII,Heavy Water,Perfect,283.52
+Aridia,Mayonhen,Haimeh,Haimeh IX,Reactive Gas,Rich,21.81
+Aridia,Mayonhen,Haimeh,Haimeh IX,Noble Gas,Poor,14.32
+Aridia,Mayonhen,Haimeh,Haimeh IX,Reactive Metals,Rich,5.92
+Aridia,Mayonhen,Haimeh,Haimeh IX,Ionic Solutions,Medium,7.87
+Aridia,Mayonhen,Avada,Avada I,Lustering Alloy,Poor,12.74
+Aridia,Mayonhen,Avada,Avada I,Base Metals,Medium,3.51
+Aridia,Mayonhen,Avada,Avada II,Sheen Compound,Rich,21.85
+Aridia,Mayonhen,Avada,Avada II,Noble Gas,Rich,20.13
+Aridia,Mayonhen,Avada,Avada II,Suspended Plasma,Rich,69.25
+Aridia,Mayonhen,Avada,Avada III,Motley Compound,Poor,12.18
+Aridia,Mayonhen,Avada,Avada III,Noble Metals,Rich,21.14
+Aridia,Mayonhen,Avada,Avada IV,Motley Compound,Medium,15.76
+Aridia,Mayonhen,Avada,Avada IV,Noble Gas,Poor,12.70
+Aridia,Mayonhen,Avada,Avada V,Lustering Alloy,Poor,12.42
+Aridia,Mayonhen,Avada,Avada V,Sheen Compound,Perfect,22.75
+Aridia,Mayonhen,Avada,Avada V,Base Metals,Poor,3.11
+Aridia,Mayonhen,Avada,Avada VI,Lustering Alloy,Medium,13.20
+Aridia,Mayonhen,Avada,Avada VI,Glossy Compound,Rich,19.29
+Aridia,Mayonhen,Avada,Avada VI,Base Metals,Medium,4.07
+Aridia,Mayonhen,Avada,Avada VII,Lustering Alloy,Medium,15.74
+Aridia,Mayonhen,Avada,Avada VII,Glossy Compound,Medium,15.93
+Aridia,Mayonhen,Avada,Avada VII,Base Metals,Rich,5.27
+Aridia,Mayonhen,Avada,Avada VIII,Lustering Alloy,Poor,10.57
+Aridia,Mayonhen,Avada,Avada VIII,Base Metals,Poor,3.09
+Aridia,Mayonhen,Chibi,Chibi I,Dark Compound,Poor,13.04
+Aridia,Mayonhen,Chibi,Chibi I,Industrial Fibers,Poor,3.23
+Aridia,Mayonhen,Chibi,Chibi I,Supertensile Plastics,Poor,7.89
+Aridia,Mayonhen,Chibi,Chibi II,Dark Compound,Poor,13.06
+Aridia,Mayonhen,Chibi,Chibi II,Industrial Fibers,Medium,4.40
+Aridia,Mayonhen,Chibi,Chibi II,Oxygen Isotopes,Poor,2.11
+Aridia,Mayonhen,Chibi,Chibi III,Precious Alloy,Poor,14.90
+Aridia,Mayonhen,Chibi,Chibi III,Dark Compound,Medium,19.62
+Aridia,Mayonhen,Chibi,Chibi III,Industrial Fibers,Medium,4.37
+Aridia,Mayonhen,Chibi,Chibi IV,Reactive Gas,Rich,24.62
+Aridia,Mayonhen,Chibi,Chibi IV,Supertensile Plastics,Rich,14.37
+Aridia,Mayonhen,Chibi,Chibi IV,Construction Blocks,Medium,16.75
+Aridia,Mayonhen,Chibi,Chibi V,Noble Gas,Rich,23.02
+Aridia,Mayonhen,Chibi,Chibi V,Noble Metals,Rich,23.57
+Aridia,Mayonhen,Chibi,Chibi VI,Lustering Alloy,Medium,16.58
+Aridia,Mayonhen,Chibi,Chibi VI,Reactive Gas,Medium,15.44
+Aridia,Mayonhen,Chibi,Chibi VI,Noble Gas,Poor,13.42
+Aridia,Mayonhen,Chibi,Chibi VI,Coolant,Medium,10.12
+Aridia,Mayonhen,Chibi,Chibi VII,Sheen Compound,Poor,14.72
+Aridia,Mayonhen,Chibi,Chibi VII,Glossy Compound,Medium,16.05
+Aridia,Mayonhen,Chibi,Chibi VII,Noble Gas,Rich,23.81
+Aridia,Mayonhen,Chibi,Chibi VII,Ionic Solutions,Poor,5.77
+Aridia,Mayonhen,Chibi,Chibi VIII,Fiber Composite,Rich,20.26
+Aridia,Mayonhen,Chibi,Chibi VIII,Noble Gas,Rich,24.98
+Aridia,Mayonhen,Chibi,Chibi VIII,Reactive Metals,Rich,5.51
+Aridia,Mayonhen,Chibi,Chibi VIII,Polyaramids,Perfect,17.45
+Aridia,Mayonhen,Chibi,Chibi IX,Industrial Fibers,Medium,5.09
+Aridia,Mayonhen,Chibi,Chibi IX,Supertensile Plastics,Medium,13.05
+Aridia,Mayonhen,Chibi,Chibi IX,Construction Blocks,Medium,18.16
+Aridia,Mayonhen,Mishi,Mishi I,Lustering Alloy,Medium,15.73
+Aridia,Mayonhen,Mishi,Mishi I,Base Metals,Medium,3.87
+Aridia,Mayonhen,Mishi,Mishi II,Lustering Alloy,Medium,12.78
+Aridia,Mayonhen,Mishi,Mishi II,Base Metals,Poor,2.20
+Aridia,Mayonhen,Mishi,Mishi III,Lustering Alloy,Poor,11.31
+Aridia,Mayonhen,Mishi,Mishi III,Base Metals,Poor,2.54
+Aridia,Mayonhen,Mishi,Mishi IV,Opulent Compound,Rich,17.50
+Aridia,Mayonhen,Mishi,Mishi IV,Noble Metals,Rich,19.49
+Aridia,Mayonhen,Mishi,Mishi IV,Heavy Water,Perfect,237.25
+Aridia,Mayonhen,Mishi,Mishi V,Lustering Alloy,Poor,10.09
+Aridia,Mayonhen,Mishi,Mishi V,Base Metals,Medium,3.87
+Aridia,Mayonhen,Mishi,Mishi VI,Opulent Compound,Medium,14.44
+Aridia,Mayonhen,Mishi,Mishi VI,Industrial Fibers,Rich,4.76
+Aridia,Mayonhen,Mishi,Mishi VI,Heavy Water,Medium,140.53
+Aridia,Mayonhen,Mishi,Mishi VII,Lustering Alloy,Medium,12.51
+Aridia,Mayonhen,Mishi,Mishi VII,Base Metals,Medium,4.00
+Aridia,Mayonhen,Mishi,Mishi VII,Coolant,Medium,9.02
+Aridia,Mayonhen,Mishi,Mishi VIII,Fiber Composite,Medium,14.92
+Aridia,Mayonhen,Mishi,Mishi VIII,Noble Metals,Perfect,23.69
+Aridia,Mayonhen,Mishi,Mishi VIII,Heavy Water,Perfect,232.57
+Aridia,Mayonhen,Mishi,Mishi IX,Lustering Alloy,Medium,14.85
+Aridia,Mayonhen,Mishi,Mishi IX,Sheen Compound,Rich,16.64
+Aridia,Mayonhen,Mishi,Mishi IX,Base Metals,Perfect,5.44
+Aridia,Mayonhen,Bazadod,Bazadod I,Industrial Fibers,Medium,4.53
+Aridia,Mayonhen,Bazadod,Bazadod I,Construction Blocks,Poor,14.77
+Aridia,Mayonhen,Bazadod,Bazadod I,Silicate Glass,Medium,9.50
+Aridia,Mayonhen,Bazadod,Bazadod II,Noble Gas,Poor,14.67
+Aridia,Mayonhen,Bazadod,Bazadod II,Oxygen Isotopes,Medium,2.45
+Aridia,Mayonhen,Bazadod,Bazadod III,Toxic Metals,Poor,3.12
+Aridia,Mayonhen,Bazadod,Bazadod III,Industrial Fibers,Medium,4.67
+Aridia,Mayonhen,Bazadod,Bazadod III,Oxygen Isotopes,Poor,1.91
+Aridia,Mayonhen,Bazadod,Bazadod IV,Industrial Fibers,Poor,3.41
+Aridia,Mayonhen,Bazadod,Bazadod IV,Supertensile Plastics,Poor,9.85
+Aridia,Mayonhen,Bazadod,Bazadod IV,Oxygen Isotopes,Medium,2.71
+Aridia,Mayonhen,Bazadod,Bazadod V,Industrial Fibers,Medium,4.59
+Aridia,Mayonhen,Bazadod,Bazadod V,Silicate Glass,Poor,7.31
+Aridia,Mayonhen,Bazadod,Bazadod V,Oxygen Isotopes,Medium,2.86
+Aridia,Mayonhen,Bazadod,Bazadod VI,Lucent Compound,Rich,24.37
+Aridia,Mayonhen,Bazadod,Bazadod VI,Reactive Gas,Rich,22.43
+Aridia,Mayonhen,Bazadod,Bazadod VI,Construction Blocks,Poor,13.09
+Aridia,Mayonhen,Bazadod,Bazadod VII,Fiber Composite,Medium,15.25
+Aridia,Mayonhen,Bazadod,Bazadod VII,Opulent Compound,Perfect,27.76
+Aridia,Mayonhen,Bazadod,Bazadod VII,Smartfab Units,Medium,11.47
+Aridia,Mayonhen,Bazadod,Bazadod VII,Liquid Ozone,Rich,27.54
+Aridia,Mayonhen,Bazadod,Bazadod VIII,Lustering Alloy,Poor,12.54
+Aridia,Mayonhen,Bazadod,Bazadod VIII,Precious Alloy,Medium,17.28
+Aridia,Mayonhen,Bazadod,Bazadod VIII,Industrial Fibers,Poor,3.37
+Aridia,Mayonhen,Bazadod,Bazadod IX,Noble Gas,Rich,22.03
+Aridia,Mayonhen,Bazadod,Bazadod IX,Polyaramids,Rich,15.13
+Aridia,Mayonhen,Bazadod,Bazadod IX,Coolant,Medium,10.08
+Aridia,Mayonhen,Bazadod,Bazadod IX,Ionic Solutions,Medium,6.26
+Aridia,Mayonhen,Bazadod,Bazadod X,Fiber Composite,Rich,23.31
+Aridia,Mayonhen,Bazadod,Bazadod X,Reactive Gas,Medium,15.49
+Aridia,Mayonhen,Bazadod,Bazadod X,Base Metals,Perfect,6.74
+Aridia,Mayonhen,Bazadod,Bazadod X,Liquid Ozone,Perfect,33.74
+Aridia,Mayonhen,Pahineh,Pahineh I,Lustering Alloy,Poor,8.24
+Aridia,Mayonhen,Pahineh,Pahineh I,Base Metals,Poor,2.83
+Aridia,Mayonhen,Pahineh,Pahineh II,Motley Compound,Rich,17.45
+Aridia,Mayonhen,Pahineh,Pahineh II,Construction Blocks,Poor,11.22
+Aridia,Mayonhen,Pahineh,Pahineh III,Noble Metals,Rich,17.80
+Aridia,Mayonhen,Pahineh,Pahineh III,Condensates,Perfect,15.84
+Aridia,Mayonhen,Pahineh,Pahineh III,Heavy Water,Poor,122.20
+Aridia,Mayonhen,Pahineh,Pahineh IV,Lucent Compound,Medium,15.61
+Aridia,Mayonhen,Pahineh,Pahineh IV,Suspended Plasma,Poor,38.80
+Aridia,Mayonhen,Pahineh,Pahineh V,Motley Compound,Rich,17.45
+Aridia,Mayonhen,Pahineh,Pahineh V,Heavy Metals,Medium,14.98
+Aridia,Mayonhen,Pahineh,Pahineh VI,Condensates,Medium,10.40
+Aridia,Mayonhen,Pahineh,Pahineh VI,Suspended Plasma,Rich,67.25
+Aridia,Mayonhen,Pahineh,Pahineh VI,Ionic Solutions,Rich,7.40
+Aridia,Mayonhen,Pahineh,Pahineh VII,Lustering Alloy,Medium,13.75
+Aridia,Mayonhen,Pahineh,Pahineh VII,Noble Gas,Medium,15.47
+Aridia,Mayonhen,Pahineh,Pahineh VII,Base Metals,Medium,4.16
+Aridia,Mayonhen,Pahineh,Pahineh VIII,Reactive Metals,Medium,3.91
+Aridia,Mayonhen,Pahineh,Pahineh VIII,Nanites,Rich,5.19
+Aridia,Mayonhen,Pahineh,Pahineh VIII,Suspended Plasma,Rich,68.28
+Aridia,Mayonhen,Pahineh,Pahineh IX,Lustering Alloy,Rich,18.33
+Aridia,Mayonhen,Pahineh,Pahineh IX,Reactive Gas,Medium,13.87
+Aridia,Mayonhen,Pahineh,Pahineh IX,Base Metals,Medium,3.95
+Aridia,Ombil,Fihrneh,Fihrneh I,Precious Alloy,Medium,21.79
+Aridia,Ombil,Fihrneh,Fihrneh I,Industrial Fibers,Poor,3.53
+Aridia,Ombil,Fihrneh,Fihrneh I,Silicate Glass,Medium,11.11
+Aridia,Ombil,Fihrneh,Fihrneh II,Toxic Metals,Medium,5.15
+Aridia,Ombil,Fihrneh,Fihrneh II,Industrial Fibers,Poor,3.25
+Aridia,Ombil,Fihrneh,Fihrneh II,Silicate Glass,Poor,6.82
+Aridia,Ombil,Fihrneh,Fihrneh III,Industrial Fibers,Poor,3.25
+Aridia,Ombil,Fihrneh,Fihrneh III,Supertensile Plastics,Medium,13.33
+Aridia,Ombil,Fihrneh,Fihrneh III,Oxygen Isotopes,Medium,3.25
+Aridia,Ombil,Fihrneh,Fihrneh IV,Sheen Compound,Medium,21.26
+Aridia,Ombil,Fihrneh,Fihrneh IV,Noble Gas,Medium,20.31
+Aridia,Ombil,Fihrneh,Fihrneh IV,Polyaramids,Poor,10.96
+Aridia,Ombil,Fihrneh,Fihrneh IV,Ionic Solutions,Medium,8.79
+Aridia,Ombil,Fihrneh,Fihrneh V,Sheen Compound,Perfect,31.43
+Aridia,Ombil,Fihrneh,Fihrneh V,Noble Gas,Medium,21.05
+Aridia,Ombil,Fihrneh,Fihrneh V,Reactive Metals,Medium,5.63
+Aridia,Ombil,Fihrneh,Fihrneh V,Coolant,Rich,16.81
+Aridia,Ombil,Fihrneh,Fihrneh VI,Reactive Gas,Medium,22.34
+Aridia,Ombil,Fihrneh,Fihrneh VI,Noble Gas,Rich,24.53
+Aridia,Ombil,Fihrneh,Fihrneh VI,Reactive Metals,Medium,6.17
+Aridia,Ombil,Fihrneh,Fihrneh VI,Coolant,Medium,13.84
+Aridia,Ombil,Fihrneh,Fihrneh VII,Base Metals,Medium,5.56
+Aridia,Ombil,Fihrneh,Fihrneh VII,Coolant,Medium,14.98
+Aridia,Ombil,Fihrneh,Fihrneh VII,Liquid Ozone,Medium,24.58
+Aridia,Ombil,Parouz,Parouz I,Toxic Metals,Medium,5.24
+Aridia,Ombil,Parouz,Parouz I,Industrial Fibers,Poor,3.98
+Aridia,Ombil,Parouz,Parouz I,Construction Blocks,Medium,19.74
+Aridia,Ombil,Parouz,Parouz II,Industrial Fibers,Medium,5.59
+Aridia,Ombil,Parouz,Parouz II,Silicate Glass,Poor,7.30
+Aridia,Ombil,Parouz,Parouz II,Oxygen Isotopes,Medium,2.72
+Aridia,Ombil,Parouz,Parouz III,Glossy Compound,Medium,22.93
+Aridia,Ombil,Parouz,Parouz III,Reactive Gas,Perfect,30.89
+Aridia,Ombil,Parouz,Parouz III,Noble Gas,Medium,23.94
+Aridia,Ombil,Parouz,Parouz III,Base Metals,Perfect,7.96
+Aridia,Ombil,Parouz,Parouz IV,Coolant,Poor,11.15
+Aridia,Ombil,Parouz,Parouz IV,Silicate Glass,Rich,14.01
+Aridia,Ombil,Parouz,Parouz IV,Heavy Water,Medium,206.53
+Aridia,Ombil,Parouz,Parouz IV,Ionic Solutions,Rich,11.20
+Aridia,Ombil,Parouz,Parouz V,Lustering Alloy,Medium,19.84
+Aridia,Ombil,Parouz,Parouz V,Industrial Fibers,Poor,4.12
+Aridia,Ombil,Parouz,Parouz V,Plasmoids,Medium,1.35
+Aridia,Ombil,Parouz,Parouz VI,Fiber Composite,Medium,20.14
+Aridia,Ombil,Parouz,Parouz VI,Glossy Compound,Medium,22.17
+Aridia,Ombil,Parouz,Parouz VI,Reactive Gas,Rich,26.89
+Aridia,Ombil,Parouz,Parouz VI,Noble Gas,Medium,20.03
+Aridia,Ombil,Parouz,Parouz VII,Noble Gas,Perfect,31.27
+Aridia,Ombil,Parouz,Parouz VII,Base Metals,Rich,7.33
+Aridia,Ombil,Parouz,Parouz VII,Polyaramids,Perfect,20.70
+Aridia,Ombil,Parouz,Parouz VII,Coolant,Medium,12.54
+Aridia,Ombil,Parouz,Parouz VIII,Condensed Alloy,Medium,18.71
+Aridia,Ombil,Parouz,Parouz VIII,Fiber Composite,Rich,26.24
+Aridia,Ombil,Parouz,Parouz VIII,Noble Metals,Rich,26.37
+Aridia,Ombil,Parouz,Parouz VIII,Condensates,Rich,18.13
+Aridia,Ombil,Parouz,Parouz IX,Lustering Alloy,Rich,24.66
+Aridia,Ombil,Parouz,Parouz IX,Glossy Compound,Poor,17.61
+Aridia,Ombil,Parouz,Parouz IX,Reactive Gas,Rich,27.25
+Aridia,Ombil,Parouz,Parouz IX,Noble Gas,Rich,28.82
+Aridia,Ombil,Parouz,Parouz X,Precious Alloy,Rich,27.72
+Aridia,Ombil,Parouz,Parouz X,Coolant,Rich,18.59
+Aridia,Ombil,Parouz,Parouz X,Liquid Ozone,Medium,26.03
+Aridia,Ombil,Parouz,Parouz XI,Base Metals,Poor,4.45
+Aridia,Ombil,Parouz,Parouz XI,Toxic Metals,Poor,3.33
+Aridia,Ombil,Parouz,Parouz XI,Industrial Fibers,Poor,4.32
+Aridia,Ombil,Edilkam,Edilkam I,Precious Alloy,Medium,22.00
+Aridia,Ombil,Edilkam,Edilkam I,Toxic Metals,Medium,4.98
+Aridia,Ombil,Edilkam,Edilkam I,Supertensile Plastics,Poor,10.68
+Aridia,Ombil,Edilkam,Edilkam I,Construction Blocks,Poor,15.86
+Aridia,Ombil,Edilkam,Edilkam II,Condensed Alloy,Perfect,36.88
+Aridia,Ombil,Edilkam,Edilkam II,Reactive Gas,Medium,20.72
+Aridia,Ombil,Edilkam,Edilkam II,Condensates,Medium,13.63
+Aridia,Ombil,Edilkam,Edilkam II,Smartfab Units,Medium,14.08
+Aridia,Ombil,Edilkam,Edilkam II,Liquid Ozone,Rich,34.45
+Aridia,Ombil,Edilkam,Edilkam III,Lustering Alloy,Medium,20.10
+Aridia,Ombil,Edilkam,Edilkam III,Toxic Metals,Medium,6.00
+Aridia,Ombil,Edilkam,Edilkam III,Supertensile Plastics,Poor,8.57
+Aridia,Ombil,Edilkam,Edilkam III,Silicate Glass,Medium,11.64
+Aridia,Ombil,Edilkam,Edilkam IV,Fiber Composite,Medium,22.78
+Aridia,Ombil,Edilkam,Edilkam IV,Reactive Gas,Poor,16.42
+Aridia,Ombil,Edilkam,Edilkam IV,Noble Gas,Rich,27.18
+Aridia,Ombil,Edilkam,Edilkam IV,Base Metals,Rich,7.52
+Aridia,Ombil,Edilkam,Edilkam IV,Polyaramids,Poor,12.00
+Aridia,Ombil,Edilkam,Edilkam V,Lustering Alloy,Perfect,32.28
+Aridia,Ombil,Edilkam,Edilkam V,Sheen Compound,Rich,29.08
+Aridia,Ombil,Edilkam,Edilkam V,Reactive Gas,Medium,22.46
+Aridia,Ombil,Edilkam,Edilkam V,Noble Gas,Rich,27.30
+Aridia,Ombil,Edilkam,Edilkam V,Coolant,Rich,18.91
+Aridia,Ombil,Edilkam,Edilkam VI,Lustering Alloy,Poor,18.12
+Aridia,Ombil,Edilkam,Edilkam VI,Fiber Composite,Rich,27.52
+Aridia,Ombil,Edilkam,Edilkam VI,Glossy Compound,Rich,29.90
+Aridia,Ombil,Edilkam,Edilkam VI,Reactive Gas,Rich,30.72
+Aridia,Ombil,Edilkam,Edilkam VI,Base Metals,Medium,5.59
+Aridia,Ombil,Edilkam,Edilkam VII,Lustering Alloy,Rich,27.96
+Aridia,Ombil,Edilkam,Edilkam VII,Reactive Gas,Rich,30.64
+Aridia,Ombil,Edilkam,Edilkam VII,Noble Gas,Medium,23.26
+Aridia,Ombil,Edilkam,Edilkam VII,Reactive Metals,Rich,6.98
+Aridia,Ombil,Edilkam,Edilkam VII,Coolant,Rich,19.72
+Aridia,Ombil,Edilkam,Edilkam VIII,Lustering Alloy,Poor,13.28
+Aridia,Ombil,Edilkam,Edilkam VIII,Supertensile Plastics,Poor,10.53
+Aridia,Ombil,Edilkam,Edilkam VIII,Oxygen Isotopes,Medium,2.92
+Aridia,Ombil,Edilkam,Edilkam VIII,Plasmoids,Medium,1.15
+Aridia,Ombil,Hakatiz,Hakatiz I,Dark Compound,Poor,14.63
+Aridia,Ombil,Hakatiz,Hakatiz I,Industrial Fibers,Poor,3.96
+Aridia,Ombil,Hakatiz,Hakatiz I,Silicate Glass,Poor,5.99
+Aridia,Ombil,Hakatiz,Hakatiz II,Industrial Fibers,Medium,5.13
+Aridia,Ombil,Hakatiz,Hakatiz II,Construction Blocks,Medium,21.70
+Aridia,Ombil,Hakatiz,Hakatiz II,Oxygen Isotopes,Medium,3.19
+Aridia,Ombil,Hakatiz,Hakatiz III,Noble Gas,Rich,28.79
+Aridia,Ombil,Hakatiz,Hakatiz III,Heavy Metals,Medium,19.40
+Aridia,Ombil,Hakatiz,Hakatiz IV,Lustering Alloy,Medium,18.89
+Aridia,Ombil,Hakatiz,Hakatiz IV,Industrial Fibers,Poor,3.94
+Aridia,Ombil,Hakatiz,Hakatiz IV,Supertensile Plastics,Poor,8.51
+Aridia,Ombil,Hakatiz,Hakatiz V,Industrial Fibers,Medium,5.96
+Aridia,Ombil,Hakatiz,Hakatiz V,Supertensile Plastics,Medium,15.23
+Aridia,Ombil,Hakatiz,Hakatiz V,Oxygen Isotopes,Poor,2.47
+Aridia,Ombil,Hakatiz,Hakatiz VI,Sheen Compound,Poor,17.06
+Aridia,Ombil,Hakatiz,Hakatiz VI,Glossy Compound,Medium,21.51
+Aridia,Ombil,Hakatiz,Hakatiz VI,Noble Gas,Medium,21.62
+Aridia,Ombil,Hakatiz,Hakatiz VI,Polyaramids,Medium,14.86
+Aridia,Ombil,Hakatiz,Hakatiz VII,Sheen Compound,Rich,25.04
+Aridia,Ombil,Hakatiz,Hakatiz VII,Fiber Composite,Rich,24.23
+Aridia,Ombil,Hakatiz,Hakatiz VII,Noble Gas,Rich,25.99
+Aridia,Ombil,Hakatiz,Hakatiz VII,Ionic Solutions,Rich,10.49
+Aridia,Ombil,Hakatiz,Hakatiz VIII,Sheen Compound,Rich,27.82
+Aridia,Ombil,Hakatiz,Hakatiz VIII,Noble Gas,Medium,20.41
+Aridia,Ombil,Hakatiz,Hakatiz VIII,Base Metals,Rich,7.87
+Aridia,Ombil,Hakatiz,Hakatiz VIII,Reactive Metals,Perfect,8.15
+Aridia,Ombil,Hakatiz,Hakatiz IX,Crystal Compound,Perfect,32.02
+Aridia,Ombil,Hakatiz,Hakatiz IX,Toxic Metals,Perfect,8.65
+Aridia,Ombil,Hakatiz,Hakatiz IX,Polyaramids,Rich,16.14
+Aridia,Ombil,Hakatiz,Hakatiz IX,Coolant,Rich,18.77
+Aridia,Ombil,Hakatiz,Hakatiz X,Opulent Compound,Medium,18.09
+Aridia,Ombil,Hakatiz,Hakatiz X,Toxic Metals,Perfect,8.52
+Aridia,Ombil,Hakatiz,Hakatiz X,Coolant,Medium,14.12
+Aridia,Ombil,Hakatiz,Hakatiz X,Heavy Water,Rich,285.76
+Aridia,Ombil,Khnar,Khnar I,Lustering Alloy,Poor,15.50
+Aridia,Ombil,Khnar,Khnar I,Precious Alloy,Medium,22.30
+Aridia,Ombil,Khnar,Khnar I,Base Metals,Medium,5.78
+Aridia,Ombil,Khnar,Khnar I,Supertensile Plastics,Poor,8.95
+Aridia,Ombil,Khnar,Khnar II,Dark Compound,Medium,20.10
+Aridia,Ombil,Khnar,Khnar II,Base Metals,Medium,5.66
+Aridia,Ombil,Khnar,Khnar II,Toxic Metals,Poor,3.50
+Aridia,Ombil,Khnar,Khnar II,Supertensile Plastics,Medium,15.25
+Aridia,Ombil,Khnar,Khnar III,Opulent Compound,Rich,28.12
+Aridia,Ombil,Khnar,Khnar III,Noble Metals,Perfect,34.80
+Aridia,Ombil,Khnar,Khnar III,Toxic Metals,Rich,8.17
+Aridia,Ombil,Khnar,Khnar III,Polyaramids,Perfect,23.45
+Aridia,Ombil,Khnar,Khnar III,Liquid Ozone,Rich,37.92
+Aridia,Ombil,Khnar,Khnar IV,Reactive Metals,Medium,5.74
+Aridia,Ombil,Khnar,Khnar IV,Nanites,Rich,7.32
+Aridia,Ombil,Khnar,Khnar IV,Suspended Plasma,Rich,93.46
+Aridia,Ombil,Khnar,Khnar IV,Oxygen Isotopes,Rich,4.60
+Aridia,Ombil,Khnar,Khnar V,Glossy Compound,Rich,26.28
+Aridia,Ombil,Khnar,Khnar V,Reactive Gas,Medium,19.52
+Aridia,Ombil,Khnar,Khnar V,Noble Gas,Rich,30.18
+Aridia,Ombil,Khnar,Khnar V,Polyaramids,Rich,19.28
+Aridia,Ombil,Khnar,Khnar V,Ionic Solutions,Medium,8.14
+Aridia,Ombil,Khnar,Khnar VI,Sheen Compound,Poor,16.96
+Aridia,Ombil,Khnar,Khnar VI,Fiber Composite,Medium,24.94
+Aridia,Ombil,Khnar,Khnar VI,Glossy Compound,Medium,22.54
+Aridia,Ombil,Khnar,Khnar VI,Reactive Gas,Rich,30.60
+Aridia,Ombil,Khnar,Khnar VI,Noble Gas,Poor,16.86
+Aridia,Ombil,Ertoo,Ertoo I,Lucent Compound,Medium,22.65
+Aridia,Ombil,Ertoo,Ertoo I,Supertensile Plastics,Poor,11.02
+Aridia,Ombil,Ertoo,Ertoo I,Construction Blocks,Rich,27.42
+Aridia,Ombil,Ertoo,Ertoo II,Fiber Composite,Medium,18.73
+Aridia,Ombil,Ertoo,Ertoo II,Noble Gas,Medium,22.63
+Aridia,Ombil,Ertoo,Ertoo II,Base Metals,Medium,5.39
+Aridia,Ombil,Ertoo,Ertoo II,Reactive Metals,Poor,4.62
+Aridia,Ombil,Ertoo,Ertoo III,Sheen Compound,Rich,25.97
+Aridia,Ombil,Ertoo,Ertoo III,Glossy Compound,Rich,28.48
+Aridia,Ombil,Ertoo,Ertoo III,Reactive Gas,Rich,25.75
+Aridia,Ombil,Ertoo,Ertoo III,Noble Gas,Rich,29.75
+Aridia,Ombil,Ertoo,Ertoo IV,Lustering Alloy,Rich,28.23
+Aridia,Ombil,Ertoo,Ertoo IV,Noble Gas,Perfect,30.46
+Aridia,Ombil,Ertoo,Ertoo IV,Base Metals,Rich,7.03
+Aridia,Ombil,Ertoo,Ertoo IV,Ionic Solutions,Medium,9.05
+Aridia,Ombil,Ertoo,Ertoo V,Sheen Compound,Rich,26.47
+Aridia,Ombil,Ertoo,Ertoo V,Glossy Compound,Perfect,30.72
+Aridia,Ombil,Ertoo,Ertoo V,Noble Gas,Rich,28.29
+Aridia,Ombil,Ertoo,Ertoo V,Base Metals,Rich,6.58
+Aridia,Ombil,Ertoo,Ertoo VI,Lustering Alloy,Medium,19.48
+Aridia,Ombil,Ertoo,Ertoo VI,Toxic Metals,Poor,4.31
+Aridia,Ombil,Ertoo,Ertoo VI,Industrial Fibers,Poor,4.29
+Aridia,Ombil,Yiratal,Yiratal I,Dark Compound,Medium,22.10
+Aridia,Ombil,Yiratal,Yiratal I,Toxic Metals,Poor,4.18
+Aridia,Ombil,Yiratal,Yiratal I,Supertensile Plastics,Medium,13.93
+Aridia,Ombil,Yiratal,Yiratal I,Silicate Glass,Poor,6.40
+Aridia,Ombil,Yiratal,Yiratal II,Precious Alloy,Poor,17.96
+Aridia,Ombil,Yiratal,Yiratal II,Industrial Fibers,Poor,4.72
+Aridia,Ombil,Yiratal,Yiratal II,Supertensile Plastics,Poor,12.28
+Aridia,Ombil,Yiratal,Yiratal II,Plasmoids,Medium,1.39
+Aridia,Ombil,Yiratal,Yiratal III,Gleaming Alloy,Medium,22.66
+Aridia,Ombil,Yiratal,Yiratal III,Heavy Metals,Rich,27.02
+Aridia,Ombil,Yiratal,Yiratal III,Smartfab Units,Medium,12.75
+Aridia,Ombil,Yiratal,Yiratal IV,Base Metals,Poor,4.59
+Aridia,Ombil,Yiratal,Yiratal IV,Supertensile Plastics,Poor,12.41
+Aridia,Ombil,Yiratal,Yiratal IV,Construction Blocks,Medium,19.46
+Aridia,Ombil,Yiratal,Yiratal IV,Oxygen Isotopes,Medium,3.42
+Aridia,Ombil,Yiratal,Yiratal V,Toxic Metals,Medium,5.33
+Aridia,Ombil,Yiratal,Yiratal V,Supertensile Plastics,Poor,10.83
+Aridia,Ombil,Yiratal,Yiratal V,Construction Blocks,Poor,15.22
+Aridia,Ombil,Yiratal,Yiratal V,Plasmoids,Medium,1.32
+Aridia,Ombil,Yiratal,Yiratal VI,Precious Alloy,Poor,13.04
+Aridia,Ombil,Yiratal,Yiratal VI,Base Metals,Poor,3.50
+Aridia,Ombil,Yiratal,Yiratal VI,Supertensile Plastics,Poor,8.39
+Aridia,Ombil,Yiratal,Yiratal VI,Oxygen Isotopes,Medium,3.02
+Aridia,Ombil,Yiratal,Yiratal VII,Noble Metals,Rich,29.06
+Aridia,Ombil,Yiratal,Yiratal VII,Industrial Fibers,Medium,5.30
+Aridia,Ombil,Yiratal,Yiratal VII,Smartfab Units,Medium,16.64
+Aridia,Ombil,Yiratal,Yiratal VII,Heavy Water,Perfect,319.80
+Aridia,Ombil,Yiratal,Yiratal VII,Liquid Ozone,Perfect,42.05
+Aridia,Ombil,Yiratal,Yiratal VIII,Lustering Alloy,Rich,29.02
+Aridia,Ombil,Yiratal,Yiratal VIII,Sheen Compound,Rich,26.76
+Aridia,Ombil,Yiratal,Yiratal VIII,Fiber Composite,Medium,21.68
+Aridia,Ombil,Yiratal,Yiratal VIII,Reactive Gas,Medium,23.24
+Aridia,Ombil,Yiratal,Yiratal VIII,Base Metals,Rich,7.31
+Aridia,Ombil,Yiratal,Yiratal IX,Opulent Compound,Rich,26.86
+Aridia,Ombil,Yiratal,Yiratal IX,Industrial Fibers,Perfect,8.73
+Aridia,Ombil,Yiratal,Yiratal IX,Condensates,Perfect,21.81
+Aridia,Ombil,Yiratal,Yiratal IX,Smartfab Units,Medium,14.88
+Aridia,Ombil,Yiratal,Yiratal IX,Liquid Ozone,Medium,28.75
+Aridia,Ombil,Balas,Balas I,Opulent Compound,Perfect,32.72
+Aridia,Ombil,Balas,Balas I,Noble Metals,Rich,29.72
+Aridia,Ombil,Balas,Balas I,Polyaramids,Poor,12.29
+Aridia,Ombil,Balas,Balas I,Coolant,Medium,15.55
+Aridia,Ombil,Balas,Balas I,Liquid Ozone,Rich,33.10
+Aridia,Ombil,Pemsah,Pemsah I,Toxic Metals,Medium,6.32
+Aridia,Ombil,Pemsah,Pemsah I,Supertensile Plastics,Poor,8.75
+Aridia,Ombil,Pemsah,Pemsah I,Construction Blocks,Poor,14.08
+Aridia,Ombil,Pemsah,Pemsah I,Silicate Glass,Poor,7.11
+Aridia,Ombil,Pemsah,Pemsah II,Lustering Alloy,Poor,17.20
+Aridia,Ombil,Pemsah,Pemsah II,Precious Alloy,Poor,13.70
+Aridia,Ombil,Pemsah,Pemsah II,Supertensile Plastics,Medium,13.08
+Aridia,Ombil,Pemsah,Pemsah II,Plasmoids,Medium,1.34
+Aridia,Ombil,Pemsah,Pemsah III,Lustering Alloy,Poor,15.36
+Aridia,Ombil,Pemsah,Pemsah III,Supertensile Plastics,Poor,10.44
+Aridia,Ombil,Pemsah,Pemsah III,Construction Blocks,Poor,14.28
+Aridia,Ombil,Pemsah,Pemsah III,Silicate Glass,Poor,8.55
+Aridia,Ombil,Pemsah,Pemsah IV,Crystal Compound,Perfect,31.94
+Aridia,Ombil,Pemsah,Pemsah IV,Reactive Gas,Rich,28.66
+Aridia,Ombil,Pemsah,Pemsah IV,Reactive Metals,Rich,7.61
+Aridia,Ombil,Pemsah,Pemsah IV,Oxygen Isotopes,Medium,2.85
+Aridia,Ombil,Pemsah,Pemsah V,Condensed Alloy,Perfect,33.64
+Aridia,Ombil,Pemsah,Pemsah V,Fiber Composite,Rich,29.62
+Aridia,Ombil,Pemsah,Pemsah V,Reactive Gas,Perfect,34.66
+Aridia,Ombil,Pemsah,Pemsah V,Smartfab Units,Perfect,23.15
+Aridia,Ombil,Pemsah,Pemsah V,Liquid Ozone,Perfect,43.50
+Aridia,Ombil,Pemsah,Pemsah VI,Gleaming Alloy,Poor,16.50
+Aridia,Ombil,Pemsah,Pemsah VI,Motley Compound,Medium,22.54
+Aridia,Ombil,Pemsah,Pemsah VI,Noble Gas,Medium,22.98
+Aridia,Ombil,Pemsah,Pemsah VII,Sheen Compound,Perfect,33.00
+Aridia,Ombil,Pemsah,Pemsah VII,Fiber Composite,Medium,23.02
+Aridia,Ombil,Pemsah,Pemsah VII,Glossy Compound,Rich,27.74
+Aridia,Ombil,Pemsah,Pemsah VII,Reactive Gas,Rich,25.74
+Aridia,Ombil,Pemsah,Pemsah VII,Base Metals,Medium,5.55
+Aridia,Ombil,Pemsah,Pemsah VIII,Condensed Alloy,Poor,18.40
+Aridia,Ombil,Pemsah,Pemsah VIII,Toxic Metals,Perfect,8.77
+Aridia,Ombil,Pemsah,Pemsah VIII,Coolant,Perfect,23.20
+Aridia,Ombil,Pemsah,Pemsah VIII,Silicate Glass,Medium,11.56
+Aridia,Ombil,Pemsah,Pemsah VIII,Liquid Ozone,Perfect,39.88
+Aridia,Ombil,Pemsah,Pemsah IX,Lustering Alloy,Medium,22.70
+Aridia,Ombil,Pemsah,Pemsah IX,Fiber Composite,Medium,22.92
+Aridia,Ombil,Pemsah,Pemsah IX,Glossy Compound,Rich,28.94
+Aridia,Ombil,Pemsah,Pemsah IX,Reactive Gas,Perfect,32.22
+Aridia,Ombil,Pemsah,Pemsah IX,Noble Gas,Rich,29.74
+Aridia,Ombil,Pemsah,Pemsah X,Fiber Composite,Medium,21.96
+Aridia,Ombil,Pemsah,Pemsah X,Reactive Gas,Perfect,32.82
+Aridia,Ombil,Pemsah,Pemsah X,Noble Gas,Rich,31.44
+Aridia,Ombil,Pemsah,Pemsah X,Polyaramids,Poor,11.59
+Aridia,Ombil,Pemsah,Pemsah X,Ionic Solutions,Rich,11.61
+Aridia,Ombil,Feshur,Feshur I,Reactive Gas,Medium,21.22
+Aridia,Ombil,Feshur,Feshur I,Reactive Metals,Rich,7.75
+Aridia,Ombil,Feshur,Feshur I,Toxic Metals,Medium,6.15
+Aridia,Ombil,Feshur,Feshur I,Supertensile Plastics,Medium,14.25
+Aridia,Ombil,Feshur,Feshur II,Sheen Compound,Medium,20.38
+Aridia,Ombil,Feshur,Feshur II,Reactive Gas,Rich,30.30
+Aridia,Ombil,Feshur,Feshur II,Base Metals,Rich,7.83
+Aridia,Ombil,Feshur,Feshur II,Polyaramids,Rich,21.13
+Aridia,Ombil,Feshur,Feshur II,Ionic Solutions,Medium,9.33
+Aridia,Ombil,Feshur,Feshur III,Sheen Compound,Medium,24.36
+Aridia,Ombil,Feshur,Feshur III,Reactive Gas,Perfect,31.94
+Aridia,Ombil,Feshur,Feshur III,Reactive Metals,Rich,7.43
+Aridia,Ombil,Feshur,Feshur III,Polyaramids,Poor,11.49
+Aridia,Ombil,Feshur,Feshur III,Coolant,Medium,13.51
+Aridia,Ombil,Feshur,Feshur IV,Glossy Compound,Medium,19.26
+Aridia,Ombil,Feshur,Feshur IV,Reactive Gas,Perfect,32.40
+Aridia,Ombil,Feshur,Feshur IV,Noble Gas,Rich,28.62
+Aridia,Ombil,Feshur,Feshur IV,Base Metals,Rich,8.35
+Aridia,Ombil,Feshur,Feshur IV,Reactive Metals,Medium,5.22
+Aridia,Ombil,Feshur,Feshur V,Lustering Alloy,Rich,28.44
+Aridia,Ombil,Feshur,Feshur V,Fiber Composite,Poor,17.42
+Aridia,Ombil,Feshur,Feshur V,Reactive Gas,Rich,28.00
+Aridia,Ombil,Feshur,Feshur V,Noble Gas,Rich,29.62
+Aridia,Ombil,Feshur,Feshur V,Polyaramids,Medium,14.01
+Aridia,Ombil,Feshur,Feshur VI,Heavy Metals,Medium,22.32
+Aridia,Ombil,Feshur,Feshur VI,Condensates,Rich,17.29
+Aridia,Ombil,Feshur,Feshur VI,Suspended Plasma,Rich,102.02
+Aridia,Ombil,Feshur,Feshur VI,Liquid Ozone,Medium,26.52
+Aridia,Ombil,Feshur,Feshur VII,Dark Compound,Poor,17.42
+Aridia,Ombil,Feshur,Feshur VII,Supertensile Plastics,Poor,9.39
+Aridia,Ombil,Feshur,Feshur VII,Construction Blocks,Poor,16.66
+Aridia,Ombil,Feshur,Feshur VII,Plasmoids,Poor,0.90
+Aridia,Ombil,Hoseen,Hoseen I,Toxic Metals,Medium,5.39
+Aridia,Ombil,Hoseen,Hoseen I,Supertensile Plastics,Medium,16.05
+Aridia,Ombil,Hoseen,Hoseen I,Construction Blocks,Poor,14.16
+Aridia,Ombil,Hoseen,Hoseen I,Silicate Glass,Poor,7.29
+Aridia,Ombil,Hoseen,Hoseen II,Gleaming Alloy,Rich,28.38
+Aridia,Ombil,Hoseen,Hoseen II,Noble Metals,Rich,27.10
+Aridia,Ombil,Hoseen,Hoseen II,Plasmoids,Perfect,1.92
+Aridia,Ombil,Hoseen,Hoseen III,Sheen Compound,Rich,26.68
+Aridia,Ombil,Hoseen,Hoseen III,Fiber Composite,Medium,24.62
+Aridia,Ombil,Hoseen,Hoseen III,Glossy Compound,Poor,16.44
+Aridia,Ombil,Hoseen,Hoseen III,Reactive Gas,Medium,21.72
+Aridia,Ombil,Hoseen,Hoseen III,Coolant,Medium,13.04
+Aridia,Ombil,Hoseen,Hoseen IV,Opulent Compound,Rich,26.62
+Aridia,Ombil,Hoseen,Hoseen IV,Polyaramids,Medium,14.77
+Aridia,Ombil,Hoseen,Hoseen IV,Coolant,Medium,14.41
+Aridia,Ombil,Hoseen,Hoseen IV,Heavy Water,Medium,244.60
+Aridia,Ombil,Hoseen,Hoseen IV,Liquid Ozone,Rich,38.42
+Aridia,Ombil,Hoseen,Hoseen V,Sheen Compound,Medium,19.68
+Aridia,Ombil,Hoseen,Hoseen V,Reactive Gas,Rich,27.24
+Aridia,Ombil,Hoseen,Hoseen V,Noble Gas,Rich,27.72
+Aridia,Ombil,Hoseen,Hoseen V,Base Metals,Medium,5.07
+Aridia,Ombil,Hoseen,Hoseen V,Ionic Solutions,Medium,8.41
+Aridia,Ombil,Hoseen,Hoseen VI,Fiber Composite,Rich,26.62
+Aridia,Ombil,Hoseen,Hoseen VI,Reactive Gas,Medium,19.94
+Aridia,Ombil,Hoseen,Hoseen VI,Base Metals,Poor,4.37
+Aridia,Ombil,Hoseen,Hoseen VI,Reactive Metals,Poor,4.85
+Aridia,Ombil,Hoseen,Hoseen VI,Polyaramids,Poor,11.85
+Aridia,Ombil,Hoseen,Hoseen VII,Motley Compound,Poor,17.74
+Aridia,Ombil,Hoseen,Hoseen VII,Heavy Metals,Medium,25.16
+Aridia,Ombil,Hoseen,Hoseen VII,Condensates,Medium,14.76
+Aridia,Ombil,Hoseen,Hoseen VII,Liquid Ozone,Medium,28.70
+Aridia,Ombil,Hoseen,Hoseen VIII,Motley Compound,Poor,15.02
+Aridia,Ombil,Hoseen,Hoseen VIII,Industrial Fibers,Rich,7.21
+Aridia,Ombil,Hoseen,Hoseen VIII,Condensates,Rich,18.04
+Aridia,Ombil,Hoseen,Hoseen VIII,Suspended Plasma,Poor,54.14
+Aridia,Ombil,Yekh,Yekh I,Gleaming Alloy,Medium,20.28
+Aridia,Ombil,Yekh,Yekh I,Motley Compound,Medium,23.32
+Aridia,Ombil,Yekh,Yekh I,Polyaramids,Poor,11.67
+Aridia,Ombil,Yekh,Yekh II,Base Metals,Poor,4.50
+Aridia,Ombil,Yekh,Yekh II,Toxic Metals,Poor,3.96
+Aridia,Ombil,Yekh,Yekh II,Supertensile Plastics,Medium,14.33
+Aridia,Ombil,Yekh,Yekh II,Plasmoids,Medium,1.32
+Aridia,Ombil,Yekh,Yekh III,Base Metals,Poor,3.57
+Aridia,Ombil,Yekh,Yekh III,Industrial Fibers,Medium,6.35
+Aridia,Ombil,Yekh,Yekh III,Supertensile Plastics,Poor,11.33
+Aridia,Ombil,Yekh,Yekh III,Construction Blocks,Medium,21.64
+Aridia,Ombil,Yekh,Yekh IV,Opulent Compound,Perfect,35.16
+Aridia,Ombil,Yekh,Yekh IV,Reactive Gas,Medium,19.88
+Aridia,Ombil,Yekh,Yekh IV,Noble Metals,Rich,28.70
+Aridia,Ombil,Yekh,Yekh IV,Condensates,Rich,18.29
+Aridia,Ombil,Yekh,Yekh IV,Liquid Ozone,Medium,28.02
+Aridia,Ombil,Yekh,Yekh V,Gleaming Alloy,Perfect,32.60
+Aridia,Ombil,Yekh,Yekh V,Motley Compound,Medium,21.80
+Aridia,Ombil,Yekh,Yekh V,Smartfab Units,Rich,18.04
+Aridia,Ombil,Yekh,Yekh VI,Condensed Alloy,Rich,25.34
+Aridia,Ombil,Yekh,Yekh VI,Reactive Gas,Rich,30.94
+Aridia,Ombil,Yekh,Yekh VI,Base Metals,Rich,8.17
+Aridia,Ombil,Yekh,Yekh VI,Smartfab Units,Rich,20.43
+Aridia,Ombil,Yekh,Yekh VI,Liquid Ozone,Medium,30.65
+Aridia,Ombil,Yekh,Yekh VII,Lustering Alloy,Medium,21.78
+Aridia,Ombil,Yekh,Yekh VII,Sheen Compound,Medium,21.58
+Aridia,Ombil,Yekh,Yekh VII,Reactive Gas,Medium,21.26
+Aridia,Ombil,Yekh,Yekh VII,Polyaramids,Poor,12.20
+Aridia,Ombil,Yekh,Yekh VII,Ionic Solutions,Rich,12.46
+Aridia,Ombil,Yekh,Yekh VIII,Glossy Compound,Poor,17.80
+Aridia,Ombil,Yekh,Yekh VIII,Reactive Gas,Poor,18.56
+Aridia,Ombil,Yekh,Yekh VIII,Reactive Metals,Rich,7.65
+Aridia,Ombil,Yekh,Yekh VIII,Polyaramids,Medium,13.57
+Aridia,Ombil,Yekh,Yekh VIII,Ionic Solutions,Perfect,13.06
+Aridia,Ombil,Yekh,Yekh IX,Motley Compound,Medium,23.52
+Aridia,Ombil,Yekh,Yekh IX,Industrial Fibers,Medium,6.23
+Aridia,Ombil,Yekh,Yekh IX,Coolant,Medium,14.29
+Aridia,Ombil,Yekh,Yekh IX,Condensates,Poor,9.99
+Aridia,Ombil,Gesh,Gesh I,Noble Gas,Perfect,30.76
+Aridia,Ombil,Gesh,Gesh I,Heavy Metals,Perfect,31.60
+Aridia,Ombil,Gesh,Gesh II,Lustering Alloy,Poor,13.79
+Aridia,Ombil,Gesh,Gesh II,Industrial Fibers,Medium,5.64
+Aridia,Ombil,Gesh,Gesh II,Construction Blocks,Medium,20.10
+Aridia,Ombil,Gesh,Gesh III,Fiber Composite,Medium,23.46
+Aridia,Ombil,Gesh,Gesh III,Noble Gas,Perfect,30.51
+Aridia,Ombil,Gesh,Gesh III,Base Metals,Medium,5.53
+Aridia,Ombil,Gesh,Gesh III,Ionic Solutions,Perfect,12.23
+Aridia,Ombil,Gesh,Gesh IV,Industrial Fibers,Poor,4.00
+Aridia,Ombil,Gesh,Gesh IV,Construction Blocks,Medium,19.95
+Aridia,Ombil,Gesh,Gesh IV,Silicate Glass,Medium,10.69
+Aridia,Ombil,Gesh,Gesh V,Lustering Alloy,Medium,22.15
+Aridia,Ombil,Gesh,Gesh V,Noble Gas,Medium,19.70
+Aridia,Ombil,Gesh,Gesh V,Polyaramids,Perfect,20.49
+Aridia,Ombil,Gesh,Gesh V,Coolant,Rich,16.86
+Aridia,Ombil,Gesh,Gesh VI,Condensed Alloy,Medium,19.32
+Aridia,Ombil,Gesh,Gesh VI,Crystal Compound,Rich,29.72
+Aridia,Ombil,Gesh,Gesh VI,Polyaramids,Poor,11.54
+Aridia,Ombil,Gesh,Gesh VI,Coolant,Rich,18.33
+Aridia,Ombil,Gesh,Gesh VII,Reactive Gas,Perfect,30.74
+Aridia,Ombil,Gesh,Gesh VII,Noble Gas,Medium,21.32
+Aridia,Ombil,Gesh,Gesh VII,Polyaramids,Rich,17.75
+Aridia,Ombil,Gesh,Gesh VII,Coolant,Rich,16.59
+Aridia,Ombil,Gesh,Gesh VIII,Lustering Alloy,Medium,18.03
+Aridia,Ombil,Gesh,Gesh VIII,Glossy Compound,Poor,17.23
+Aridia,Ombil,Gesh,Gesh VIII,Noble Gas,Medium,20.16
+Aridia,Ombil,Gesh,Gesh VIII,Base Metals,Medium,5.46
+Aridia,Ombil,Gesh,Gesh IX,Heavy Metals,Poor,14.21
+Aridia,Ombil,Gesh,Gesh IX,Industrial Fibers,Rich,7.44
+Aridia,Ombil,Gesh,Gesh IX,Coolant,Poor,10.53
+Aridia,Tid,Nema,Nema I,Noble Gas,Medium,17.46
+Aridia,Tid,Nema,Nema I,Polyaramids,Perfect,18.37
+Aridia,Tid,Nema,Nema II,Dark Compound,Poor,12.39
+Aridia,Tid,Nema,Nema II,Industrial Fibers,Poor,3.74
+Aridia,Tid,Nema,Nema II,Oxygen Isotopes,Medium,2.78
+Aridia,Tid,Nema,Nema III,Motley Compound,Poor,14.65
+Aridia,Tid,Nema,Nema III,Noble Gas,Medium,17.20
+Aridia,Tid,Nema,Nema IV,Toxic Metals,Medium,5.47
+Aridia,Tid,Nema,Nema IV,Industrial Fibers,Poor,3.30
+Aridia,Tid,Nema,Nema IV,Plasmoids,Poor,0.84
+Aridia,Tid,Nema,Nema V,Industrial Fibers,Poor,4.14
+Aridia,Tid,Nema,Nema V,Silicate Glass,Poor,7.44
+Aridia,Tid,Nema,Nema V,Plasmoids,Poor,0.81
+Aridia,Tid,Nema,Nema VI,Toxic Metals,Poor,3.06
+Aridia,Tid,Nema,Nema VI,Industrial Fibers,Poor,3.40
+Aridia,Tid,Nema,Nema VI,Supertensile Plastics,Poor,8.08
+Aridia,Tid,Nema,Nema VII,Precious Alloy,Medium,19.01
+Aridia,Tid,Nema,Nema VII,Dark Compound,Poor,14.79
+Aridia,Tid,Nema,Nema VII,Industrial Fibers,Poor,2.94
+Aridia,Tid,Nema,Nema VIII,Sheen Compound,Perfect,27.03
+Aridia,Tid,Nema,Nema VIII,Reactive Gas,Medium,20.74
+Aridia,Tid,Nema,Nema VIII,Noble Gas,Poor,14.84
+Aridia,Tid,Nema,Nema VIII,Base Metals,Rich,6.24
+Aridia,Tid,Nema,Nema IX,Dark Compound,Medium,19.74
+Aridia,Tid,Nema,Nema IX,Industrial Fibers,Medium,4.37
+Aridia,Tid,Nema,Nema IX,Plasmoids,Medium,1.04
+Aridia,Tid,Nema,Nema X,Reactive Gas,Medium,21.01
+Aridia,Tid,Nema,Nema X,Noble Gas,Perfect,27.56
+Aridia,Tid,Nema,Nema X,Reactive Metals,Medium,4.40
+Aridia,Tid,Nema,Nema X,Polyaramids,Rich,17.26
+Aridia,Tid,Nema,Nema XI,Sheen Compound,Rich,23.48
+Aridia,Tid,Nema,Nema XI,Noble Gas,Rich,21.93
+Aridia,Tid,Nema,Nema XI,Reactive Metals,Rich,6.09
+Aridia,Tid,Nema,Nema XI,Coolant,Poor,9.74
+Aridia,Tid,Nema,Nema XII,Coolant,Poor,8.89
+Aridia,Tid,Nema,Nema XII,Suspended Plasma,Poor,53.18
+Aridia,Tid,Nema,Nema XII,Liquid Ozone,Medium,21.68
+Aridia,Tid,Shenda,Shenda I,Motley Compound,Perfect,26.62
+Aridia,Tid,Shenda,Shenda I,Noble Gas,Medium,19.87
+Aridia,Tid,Shenda,Shenda II,Lustering Alloy,Medium,17.10
+Aridia,Tid,Shenda,Shenda II,Dark Compound,Medium,16.75
+Aridia,Tid,Shenda,Shenda II,Industrial Fibers,Poor,3.78
+Aridia,Tid,Shenda,Shenda III,Noble Gas,Rich,20.80
+Aridia,Tid,Shenda,Shenda III,Noble Metals,Rich,22.43
+Aridia,Tid,Shenda,Shenda IV,Condensed Alloy,Medium,17.30
+Aridia,Tid,Shenda,Shenda IV,Fiber Composite,Perfect,28.64
+Aridia,Tid,Shenda,Shenda IV,Opulent Compound,Perfect,30.24
+Aridia,Tid,Shenda,Shenda IV,Smartfab Units,Medium,13.11
+Aridia,Tid,Shenda,Shenda V,Fiber Composite,Perfect,25.44
+Aridia,Tid,Shenda,Shenda V,Base Metals,Rich,5.78
+Aridia,Tid,Shenda,Shenda V,Heavy Water,Perfect,285.28
+Aridia,Tid,Shenda,Shenda V,Liquid Ozone,Rich,25.42
+Aridia,Tid,Shenda,Shenda VI,Lustering Alloy,Rich,25.04
+Aridia,Tid,Shenda,Shenda VI,Noble Gas,Medium,18.34
+Aridia,Tid,Shenda,Shenda VI,Reactive Metals,Rich,6.64
+Aridia,Tid,Shenda,Shenda VI,Coolant,Rich,16.69
+Aridia,Tid,Shenda,Shenda VII,Glossy Compound,Rich,24.54
+Aridia,Tid,Shenda,Shenda VII,Reactive Gas,Medium,17.31
+Aridia,Tid,Shenda,Shenda VII,Noble Gas,Medium,16.02
+Aridia,Tid,Shenda,Shenda VII,Reactive Metals,Medium,4.52
+Aridia,Tid,Shenda,Shenda VIII,Glossy Compound,Medium,19.78
+Aridia,Tid,Shenda,Shenda VIII,Noble Gas,Poor,13.81
+Aridia,Tid,Shenda,Shenda VIII,Reactive Metals,Rich,6.00
+Aridia,Tid,Shenda,Shenda VIII,Ionic Solutions,Poor,5.76
+Aridia,Tid,Rashagh,Rashagh I,Precious Alloy,Poor,12.72
+Aridia,Tid,Rashagh,Rashagh I,Dark Compound,Medium,19.02
+Aridia,Tid,Rashagh,Rashagh I,Industrial Fibers,Poor,3.52
+Aridia,Tid,Rashagh,Rashagh II,Opulent Compound,Rich,22.62
+Aridia,Tid,Rashagh,Rashagh II,Coolant,Rich,14.14
+Aridia,Tid,Rashagh,Rashagh II,Heavy Water,Medium,158.56
+Aridia,Tid,Rashagh,Rashagh II,Ionic Solutions,Rich,10.04
+Aridia,Tid,Rashagh,Rashagh III,Crystal Compound,Rich,22.70
+Aridia,Tid,Rashagh,Rashagh III,Construction Blocks,Medium,20.05
+Aridia,Tid,Rashagh,Rashagh III,Suspended Plasma,Rich,80.52
+Aridia,Tid,Rashagh,Rashagh IV,Condensed Alloy,Medium,18.94
+Aridia,Tid,Rashagh,Rashagh IV,Fiber Composite,Rich,22.78
+Aridia,Tid,Rashagh,Rashagh IV,Reactive Gas,Medium,18.00
+Aridia,Tid,Rashagh,Rashagh IV,Base Metals,Perfect,7.42
+Aridia,Tid,Rashagh,Rashagh V,Fiber Composite,Perfect,29.07
+Aridia,Tid,Rashagh,Rashagh V,Reactive Gas,Perfect,27.60
+Aridia,Tid,Rashagh,Rashagh V,Industrial Fibers,Perfect,7.35
+Aridia,Tid,Rashagh,Rashagh V,Liquid Ozone,Medium,23.66
+Aridia,Tid,Rashagh,Rashagh VI,Fiber Composite,Perfect,26.08
+Aridia,Tid,Rashagh,Rashagh VI,Reactive Gas,Perfect,29.12
+Aridia,Tid,Rashagh,Rashagh VI,Condensates,Perfect,20.12
+Aridia,Tid,Rashagh,Rashagh VI,Liquid Ozone,Perfect,33.14
+Aridia,Tid,Sazilid,Sazilid I,Lustering Alloy,Medium,14.67
+Aridia,Tid,Sazilid,Sazilid I,Base Metals,Medium,3.94
+Aridia,Tid,Sazilid,Sazilid II,Opulent Compound,Medium,16.65
+Aridia,Tid,Sazilid,Sazilid II,Industrial Fibers,Rich,6.04
+Aridia,Tid,Sazilid,Sazilid II,Heavy Water,Medium,168.00
+Aridia,Tid,Sazilid,Sazilid III,Lustering Alloy,Rich,21.33
+Aridia,Tid,Sazilid,Sazilid III,Base Metals,Medium,3.86
+Aridia,Tid,Sazilid,Sazilid III,Reactive Metals,Rich,5.35
+Aridia,Tid,Sazilid,Sazilid IV,Crystal Compound,Medium,17.66
+Aridia,Tid,Sazilid,Sazilid IV,Suspended Plasma,Medium,66.26
+Aridia,Tid,Sazilid,Sazilid V,Lustering Alloy,Perfect,24.86
+Aridia,Tid,Sazilid,Sazilid V,Base Metals,Perfect,6.36
+Aridia,Tid,Sazilid,Sazilid V,Reactive Metals,Medium,3.80
+Aridia,Tid,Sazilid,Sazilid VI,Lustering Alloy,Poor,12.95
+Aridia,Tid,Sazilid,Sazilid VI,Base Metals,Rich,5.24
+Aridia,Tid,Afrah,Afrah I,Industrial Fibers,Poor,2.87
+Aridia,Tid,Afrah,Afrah I,Supertensile Plastics,Poor,10.37
+Aridia,Tid,Afrah,Afrah I,Construction Blocks,Poor,14.18
+Aridia,Tid,Afrah,Afrah II,Fiber Composite,Rich,24.68
+Aridia,Tid,Afrah,Afrah II,Opulent Compound,Perfect,29.27
+Aridia,Tid,Afrah,Afrah II,Noble Metals,Rich,21.81
+Aridia,Tid,Afrah,Afrah II,Liquid Ozone,Medium,24.35
+Aridia,Tid,Afrah,Afrah III,Reactive Gas,Rich,22.78
+Aridia,Tid,Afrah,Afrah III,Noble Gas,Medium,17.20
+Aridia,Tid,Afrah,Afrah III,Reactive Metals,Rich,6.26
+Aridia,Tid,Afrah,Afrah III,Ionic Solutions,Rich,9.85
+Aridia,Tid,Afrah,Afrah IV,Lustering Alloy,Perfect,27.49
+Aridia,Tid,Afrah,Afrah IV,Glossy Compound,Poor,14.69
+Aridia,Tid,Afrah,Afrah IV,Noble Gas,Rich,26.43
+Aridia,Tid,Afrah,Afrah IV,Reactive Metals,Rich,6.28
+Aridia,Tid,Afrah,Afrah V,Fiber Composite,Rich,23.31
+Aridia,Tid,Afrah,Afrah V,Noble Gas,Poor,14.79
+Aridia,Tid,Afrah,Afrah V,Coolant,Medium,13.04
+Aridia,Tid,Afrah,Afrah V,Ionic Solutions,Rich,10.76
+Aridia,Tid,Afrah,Afrah VI,Fiber Composite,Perfect,32.25
+Aridia,Tid,Afrah,Afrah VI,Reactive Gas,Medium,16.75
+Aridia,Tid,Afrah,Afrah VI,Noble Metals,Perfect,28.37
+Aridia,Tid,Afrah,Afrah VI,Heavy Water,Perfect,320.28
+Aridia,Tid,Afrah,Afrah VII,Lustering Alloy,Rich,22.59
+Aridia,Tid,Afrah,Afrah VII,Reactive Gas,Medium,17.93
+Aridia,Tid,Afrah,Afrah VII,Noble Gas,Rich,23.75
+Aridia,Tid,Afrah,Afrah VII,Base Metals,Rich,6.26
+Aridia,Tid,Sota,Sota I,Base Metals,Medium,5.05
+Aridia,Tid,Sota,Sota I,Industrial Fibers,Medium,4.54
+Aridia,Tid,Sota,Sota I,Silicate Glass,Poor,6.65
+Aridia,Tid,Sota,Sota II,Fiber Composite,Medium,17.25
+Aridia,Tid,Sota,Sota II,Noble Gas,Rich,25.55
+Aridia,Tid,Sota,Sota II,Base Metals,Medium,4.87
+Aridia,Tid,Sota,Sota II,Polyaramids,Rich,16.74
+Aridia,Tid,Sota,Sota III,Heavy Metals,Poor,13.89
+Aridia,Tid,Sota,Sota III,Supertensile Plastics,Medium,12.14
+Aridia,Tid,Sota,Sota III,Coolant,Medium,13.04
+Aridia,Helab,Soliara,Soliara I,Precious Alloy,Medium,21.87
+Aridia,Helab,Soliara,Soliara I,Base Metals,Poor,3.54
+Aridia,Helab,Soliara,Soliara I,Industrial Fibers,Poor,3.35
+Aridia,Helab,Soliara,Soliara II,Reactive Metals,Rich,6.86
+Aridia,Helab,Soliara,Soliara II,Construction Blocks,Poor,17.56
+Aridia,Helab,Soliara,Soliara II,Nanites,Rich,7.58
+Aridia,Helab,Soliara,Soliara III,Fiber Composite,Rich,24.28
+Aridia,Helab,Soliara,Soliara III,Reactive Gas,Poor,17.84
+Aridia,Helab,Soliara,Soliara III,Industrial Fibers,Perfect,9.02
+Aridia,Helab,Soliara,Soliara III,Condensates,Medium,15.49
+Aridia,Helab,Soliara,Soliara IV,Reactive Gas,Poor,15.90
+Aridia,Helab,Soliara,Soliara IV,Noble Gas,Rich,27.02
+Aridia,Helab,Soliara,Soliara IV,Polyaramids,Medium,13.39
+Aridia,Helab,Soliara,Soliara IV,Ionic Solutions,Medium,7.91
+Aridia,Helab,Soliara,Soliara V,Precious Alloy,Poor,14.50
+Aridia,Helab,Soliara,Soliara V,Industrial Fibers,Medium,4.79
+Aridia,Helab,Soliara,Soliara V,Oxygen Isotopes,Medium,3.26
+Aridia,Helab,Soliara,Soliara VI,Fiber Composite,Perfect,32.09
+Aridia,Helab,Soliara,Soliara VI,Reactive Gas,Rich,24.30
+Aridia,Helab,Soliara,Soliara VI,Heavy Water,Medium,238.26
+Aridia,Helab,Soliara,Soliara VI,Liquid Ozone,Medium,28.00
+Aridia,Helab,Soliara,Soliara VII,Fiber Composite,Rich,26.85
+Aridia,Helab,Soliara,Soliara VII,Reactive Gas,Rich,28.94
+Aridia,Helab,Soliara,Soliara VII,Noble Gas,Poor,17.65
+Aridia,Helab,Soliara,Soliara VII,Base Metals,Poor,4.58
+Aridia,Helab,Soliara,Soliara VIII,Fiber Composite,Medium,20.18
+Aridia,Helab,Soliara,Soliara VIII,Reactive Gas,Medium,20.96
+Aridia,Helab,Soliara,Soliara VIII,Noble Gas,Rich,25.80
+Aridia,Helab,Soliara,Soliara VIII,Base Metals,Rich,7.04
+Aridia,Helab,Soliara,Soliara IX,Base Metals,Medium,6.14
+Aridia,Helab,Soliara,Soliara IX,Heavy Metals,Medium,20.71
+Aridia,Helab,Soliara,Soliara IX,Coolant,Medium,13.90
+Aridia,Helab,Soliara,Soliara X,Precious Alloy,Poor,16.85
+Aridia,Helab,Soliara,Soliara X,Industrial Fibers,Poor,4.58
+Aridia,Helab,Soliara,Soliara X,Silicate Glass,Poor,8.66
+Aridia,Helab,Nielez,Nielez I,Dark Compound,Medium,23.18
+Aridia,Helab,Nielez,Nielez I,Industrial Fibers,Poor,4.45
+Aridia,Helab,Nielez,Nielez I,Construction Blocks,Medium,21.18
+Aridia,Helab,Nielez,Nielez II,Crystal Compound,Rich,26.05
+Aridia,Helab,Nielez,Nielez II,Coolant,Medium,13.73
+Aridia,Helab,Nielez,Nielez II,Silicate Glass,Rich,14.22
+Aridia,Helab,Nielez,Nielez II,Heavy Water,Rich,251.37
+Aridia,Helab,Nielez,Nielez III,Dark Compound,Poor,12.90
+Aridia,Helab,Nielez,Nielez III,Base Metals,Medium,5.78
+Aridia,Helab,Nielez,Nielez III,Industrial Fibers,Poor,4.24
+Aridia,Helab,Nielez,Nielez IV,Fiber Composite,Medium,21.95
+Aridia,Helab,Nielez,Nielez IV,Condensates,Rich,16.14
+Aridia,Helab,Nielez,Nielez IV,Smartfab Units,Rich,16.57
+Aridia,Helab,Nielez,Nielez IV,Heavy Water,Rich,264.86
+Aridia,Helab,Nielez,Nielez V,Noble Gas,Medium,22.95
+Aridia,Helab,Nielez,Nielez V,Heavy Metals,Poor,15.48
+Aridia,Helab,Nielez,Nielez VI,Glossy Compound,Rich,28.56
+Aridia,Helab,Nielez,Nielez VI,Noble Gas,Rich,27.00
+Aridia,Helab,Nielez,Nielez VII,Fiber Composite,Perfect,33.02
+Aridia,Helab,Nielez,Nielez VII,Reactive Gas,Medium,21.18
+Aridia,Helab,Nielez,Nielez VII,Noble Metals,Medium,17.92
+Aridia,Helab,Nielez,Nielez VII,Condensates,Rich,16.11
+Aridia,Helab,Nielez,Nielez VIII,Fiber Composite,Medium,20.25
+Aridia,Helab,Nielez,Nielez VIII,Base Metals,Rich,7.14
+Aridia,Helab,Nielez,Nielez VIII,Heavy Water,Medium,208.62
+Aridia,Helab,Nielez,Nielez VIII,Liquid Ozone,Perfect,39.52
+Aridia,Helab,Nielez,Nielez IX,Opulent Compound,Poor,17.29
+Aridia,Helab,Nielez,Nielez IX,Toxic Metals,Rich,6.44
+Aridia,Helab,Nielez,Nielez IX,Coolant,Perfect,21.23
+Aridia,Helab,Nielez,Nielez IX,Liquid Ozone,Medium,22.99
+Aridia,Helab,Nielez,Nielez X,Gleaming Alloy,Poor,17.20
+Aridia,Helab,Nielez,Nielez X,Supertensile Plastics,Poor,10.72
+Aridia,Helab,Nielez,Nielez X,Construction Blocks,Rich,27.17
+Aridia,Helab,Nielez,Nielez XI,Fiber Composite,Medium,19.46
+Aridia,Helab,Nielez,Nielez XI,Reactive Gas,Perfect,35.83
+Aridia,Helab,Nielez,Nielez XI,Smartfab Units,Perfect,21.96
+Aridia,Helab,Nielez,Nielez XI,Liquid Ozone,Medium,29.14
+Aridia,Helab,Tukanas,Tukanas I,Industrial Fibers,Medium,6.11
+Aridia,Helab,Tukanas,Tukanas I,Silicate Glass,Poor,8.05
+Aridia,Helab,Tukanas,Tukanas I,Plasmoids,Poor,0.94
+Aridia,Helab,Tukanas,Tukanas II,Sheen Compound,Rich,28.39
+Aridia,Helab,Tukanas,Tukanas II,Nanites,Medium,4.95
+Aridia,Helab,Tukanas,Tukanas II,Suspended Plasma,Rich,104.45
+Aridia,Helab,Tukanas,Tukanas II,Plasmoids,Perfect,1.89
+Aridia,Helab,Tukanas,Tukanas III,Dark Compound,Poor,13.70
+Aridia,Helab,Tukanas,Tukanas III,Base Metals,Poor,3.33
+Aridia,Helab,Tukanas,Tukanas III,Industrial Fibers,Poor,3.16
+Aridia,Helab,Tukanas,Tukanas IV,Glossy Compound,Rich,25.82
+Aridia,Helab,Tukanas,Tukanas IV,Noble Gas,Rich,29.64
+Aridia,Helab,Tukanas,Tukanas V,Fiber Composite,Medium,23.86
+Aridia,Helab,Tukanas,Tukanas V,Condensates,Medium,15.24
+Aridia,Helab,Tukanas,Tukanas V,Smartfab Units,Perfect,20.93
+Aridia,Helab,Tukanas,Tukanas V,Liquid Ozone,Rich,37.38
+Aridia,Helab,Tukanas,Tukanas VI,Lustering Alloy,Rich,29.18
+Aridia,Helab,Tukanas,Tukanas VI,Noble Gas,Perfect,30.76
+Aridia,Helab,Tukanas,Tukanas VI,Reactive Metals,Rich,7.71
+Aridia,Helab,Tukanas,Tukanas VI,Coolant,Medium,15.67
+Aridia,Helab,Tukanas,Tukanas VII,Lustering Alloy,Medium,21.18
+Aridia,Helab,Tukanas,Tukanas VII,Glossy Compound,Poor,17.78
+Aridia,Helab,Tukanas,Tukanas VII,Noble Gas,Medium,24.02
+Aridia,Helab,Tukanas,Tukanas VII,Coolant,Poor,11.25
+Aridia,Helab,Tukanas,Tukanas VIII,Motley Compound,Rich,27.63
+Aridia,Helab,Tukanas,Tukanas VIII,Coolant,Medium,12.08
+Aridia,Helab,Tukanas,Tukanas VIII,Condensates,Poor,9.34
+Aridia,Helab,Fageras,Fageras I,Dark Compound,Medium,20.75
+Aridia,Helab,Fageras,Fageras I,Industrial Fibers,Medium,5.48
+Aridia,Helab,Fageras,Fageras I,Plasmoids,Medium,1.14
+Aridia,Helab,Fageras,Fageras II,Sheen Compound,Medium,19.55
+Aridia,Helab,Fageras,Fageras II,Dark Compound,Poor,17.42
+Aridia,Helab,Fageras,Fageras II,Condensates,Rich,18.13
+Aridia,Helab,Fageras,Fageras II,Nanites,Rich,6.38
+Aridia,Helab,Fageras,Fageras III,Industrial Fibers,Poor,4.57
+Aridia,Helab,Fageras,Fageras III,Supertensile Plastics,Poor,11.15
+Aridia,Helab,Fageras,Fageras III,Silicate Glass,Medium,9.59
+Aridia,Helab,Fageras,Fageras IV,Motley Compound,Medium,18.62
+Aridia,Helab,Fageras,Fageras IV,Noble Gas,Perfect,31.14
+Aridia,Helab,Fageras,Fageras V,Lustering Alloy,Medium,20.79
+Aridia,Helab,Fageras,Fageras V,Industrial Fibers,Poor,4.08
+Aridia,Helab,Fageras,Fageras V,Plasmoids,Poor,0.93
+Aridia,Helab,Fageras,Fageras VI,Opulent Compound,Rich,25.67
+Aridia,Helab,Fageras,Fageras VI,Coolant,Rich,16.96
+Aridia,Helab,Fageras,Fageras VI,Silicate Glass,Medium,10.91
+Aridia,Helab,Fageras,Fageras VI,Liquid Ozone,Poor,21.09
+Aridia,Helab,Fageras,Fageras VII,Toxic Metals,Medium,4.95
+Aridia,Helab,Fageras,Fageras VII,Industrial Fibers,Medium,5.65
+Aridia,Helab,Fageras,Fageras VII,Oxygen Isotopes,Poor,2.01
+Aridia,Helab,Fageras,Fageras VIII,Crystal Compound,Rich,27.51
+Aridia,Helab,Fageras,Fageras VIII,Noble Metals,Rich,27.57
+Aridia,Helab,Fageras,Fageras VIII,Coolant,Rich,18.46
+Aridia,Helab,Fageras,Fageras VIII,Ionic Solutions,Rich,10.12
+Aridia,Helab,Fageras,Fageras IX,Dark Compound,Medium,21.81
+Aridia,Helab,Fageras,Fageras IX,Base Metals,Medium,5.35
+Aridia,Helab,Fageras,Fageras IX,Industrial Fibers,Poor,4.57
+Aridia,Helab,Fageras,Fageras X,Sheen Compound,Medium,20.92
+Aridia,Helab,Fageras,Fageras X,Noble Gas,Medium,22.32
+Aridia,Helab,Fageras,Fageras X,Reactive Metals,Rich,6.45
+Aridia,Helab,Fageras,Fageras X,Coolant,Rich,18.82
+Aridia,Helab,Fageras,Fageras XI,Glossy Compound,Medium,22.12
+Aridia,Helab,Fageras,Fageras XI,Noble Gas,Rich,28.84
+Aridia,Helab,Fageras,Fageras XI,Base Metals,Medium,6.29
+Aridia,Helab,Fageras,Fageras XI,Ionic Solutions,Medium,7.48
+Aridia,Helab,Fageras,Fageras XII,Sheen Compound,Perfect,30.32
+Aridia,Helab,Fageras,Fageras XII,Reactive Gas,Rich,29.34
+Aridia,Helab,Fageras,Fageras XII,Noble Gas,Poor,17.54
+Aridia,Helab,Fageras,Fageras XII,Ionic Solutions,Medium,8.44
+Aridia,Helab,Fageras,Fageras XIII,Sheen Compound,Poor,16.00
+Aridia,Helab,Fageras,Fageras XIII,Noble Gas,Rich,29.15
+Aridia,Helab,Fageras,Fageras XIII,Base Metals,Medium,4.80
+Aridia,Helab,Fageras,Fageras XIII,Polyaramids,Perfect,20.34
+Aridia,Helab,Ajna,Ajna I,Noble Gas,Poor,16.00
+Aridia,Helab,Ajna,Ajna I,Polyaramids,Medium,12.03
+Aridia,Helab,Ajna,Ajna II,Precious Alloy,Poor,16.70
+Aridia,Helab,Ajna,Ajna II,Industrial Fibers,Poor,4.55
+Aridia,Helab,Ajna,Ajna II,Plasmoids,Poor,0.85
+Aridia,Helab,Ajna,Ajna III,Industrial Fibers,Poor,4.21
+Aridia,Helab,Ajna,Ajna III,Supertensile Plastics,Poor,11.60
+Aridia,Helab,Ajna,Ajna III,Plasmoids,Medium,1.13
+Aridia,Helab,Ajna,Ajna IV,Fiber Composite,Poor,17.54
+Aridia,Helab,Ajna,Ajna IV,Base Metals,Perfect,8.22
+Aridia,Helab,Ajna,Ajna IV,Noble Metals,Rich,29.32
+Aridia,Helab,Ajna,Ajna IV,Liquid Ozone,Medium,24.49
+Aridia,Helab,Ajna,Ajna V,Glossy Compound,Rich,30.06
+Aridia,Helab,Ajna,Ajna V,Reactive Gas,Poor,17.31
+Aridia,Helab,Ajna,Ajna V,Noble Gas,Rich,29.39
+Aridia,Helab,Ajna,Ajna V,Ionic Solutions,Medium,7.94
+Aridia,Helab,Ajna,Ajna VI,Lustering Alloy,Medium,21.13
+Aridia,Helab,Ajna,Ajna VI,Sheen Compound,Medium,23.71
+Aridia,Helab,Ajna,Ajna VI,Noble Gas,Rich,24.05
+Aridia,Helab,Ajna,Ajna VI,Polyaramids,Poor,11.06
+Aridia,Helab,Ajna,Ajna VII,Lustering Alloy,Rich,26.24
+Aridia,Helab,Ajna,Ajna VII,Noble Gas,Medium,17.95
+Aridia,Helab,Ajna,Ajna VII,Reactive Metals,Medium,5.03
+Aridia,Helab,Ajna,Ajna VII,Polyaramids,Poor,10.42
+Aridia,Helab,Ajna,Ajna VIII,Coolant,Poor,10.10
+Aridia,Helab,Ajna,Ajna VIII,Condensates,Poor,9.54
+Aridia,Helab,Ajna,Ajna VIII,Suspended Plasma,Poor,53.08
+Aridia,Helab,Sheri,Sheri I,Gleaming Alloy,Medium,24.46
+Aridia,Helab,Sheri,Sheri I,Oxygen Isotopes,Medium,3.43
+Aridia,Helab,Sheri,Sheri I,Plasmoids,Medium,1.16
+Aridia,Helab,Sheri,Sheri II,Lustering Alloy,Poor,15.10
+Aridia,Helab,Sheri,Sheri II,Base Metals,Medium,5.72
+Aridia,Helab,Sheri,Sheri II,Industrial Fibers,Medium,6.12
+Aridia,Helab,Sheri,Sheri II,Supertensile Plastics,Medium,12.83
+Aridia,Helab,Sheri,Sheri III,Gleaming Alloy,Medium,23.70
+Aridia,Helab,Sheri,Sheri III,Noble Gas,Medium,20.68
+Aridia,Helab,Sheri,Sheri III,Plasmoids,Poor,1.11
+Aridia,Helab,Sheri,Sheri IV,Condensed Alloy,Rich,28.16
+Aridia,Helab,Sheri,Sheri IV,Opulent Compound,Rich,28.82
+Aridia,Helab,Sheri,Sheri IV,Noble Metals,Perfect,32.66
+Aridia,Helab,Sheri,Sheri IV,Coolant,Rich,18.35
+Aridia,Helab,Sheri,Sheri IV,Liquid Ozone,Perfect,41.10
+Aridia,Helab,Sheri,Sheri V,Condensed Alloy,Medium,22.80
+Aridia,Helab,Sheri,Sheri V,Reactive Gas,Rich,27.16
+Aridia,Helab,Sheri,Sheri V,Base Metals,Medium,5.39
+Aridia,Helab,Sheri,Sheri V,Noble Metals,Perfect,37.58
+Aridia,Helab,Sheri,Sheri V,Liquid Ozone,Medium,27.13
+Aridia,Helab,Sheri,Sheri VI,Opulent Compound,Perfect,33.16
+Aridia,Helab,Sheri,Sheri VI,Reactive Gas,Perfect,32.44
+Aridia,Helab,Sheri,Sheri VI,Condensates,Rich,17.51
+Aridia,Helab,Sheri,Sheri VI,Smartfab Units,Medium,14.21
+Aridia,Helab,Sheri,Sheri VI,Liquid Ozone,Rich,37.17
+Aridia,Helab,Sheri,Sheri VII,Lustering Alloy,Perfect,32.10
+Aridia,Helab,Sheri,Sheri VII,Sheen Compound,Medium,25.00
+Aridia,Helab,Sheri,Sheri VII,Glossy Compound,Rich,30.76
+Aridia,Helab,Sheri,Sheri VII,Reactive Gas,Medium,25.18
+Aridia,Helab,Sheri,Sheri VII,Noble Gas,Poor,18.84
+Aridia,Helab,Sheri,Sheri VIII,Sheen Compound,Poor,17.02
+Aridia,Helab,Sheri,Sheri VIII,Reactive Gas,Poor,18.12
+Aridia,Helab,Sheri,Sheri VIII,Noble Gas,Medium,20.58
+Aridia,Helab,Sheri,Sheri VIII,Reactive Metals,Rich,7.85
+Aridia,Helab,Sheri,Sheri VIII,Ionic Solutions,Rich,11.34
+Aridia,Helab,Sheri,Sheri IX,Lustering Alloy,Poor,17.22
+Aridia,Helab,Sheri,Sheri IX,Sheen Compound,Rich,26.58
+Aridia,Helab,Sheri,Sheri IX,Fiber Composite,Medium,23.92
+Aridia,Helab,Sheri,Sheri IX,Reactive Gas,Rich,25.52
+Aridia,Helab,Sheri,Sheri IX,Noble Gas,Medium,24.50
+Aridia,Helab,Ahraghen,Ahraghen I,Base Metals,Medium,4.98
+Aridia,Helab,Ahraghen,Ahraghen I,Toxic Metals,Poor,4.19
+Aridia,Helab,Ahraghen,Ahraghen I,Industrial Fibers,Medium,4.53
+Aridia,Helab,Ahraghen,Ahraghen II,Precious Alloy,Medium,20.02
+Aridia,Helab,Ahraghen,Ahraghen II,Industrial Fibers,Medium,4.97
+Aridia,Helab,Ahraghen,Ahraghen II,Plasmoids,Medium,1.14
+Aridia,Helab,Ahraghen,Ahraghen III,Reactive Metals,Medium,5.34
+Aridia,Helab,Ahraghen,Ahraghen III,Toxic Metals,Rich,7.02
+Aridia,Helab,Ahraghen,Ahraghen III,Construction Blocks,Rich,25.43
+Aridia,Helab,Ahraghen,Ahraghen IV,Lustering Alloy,Poor,13.00
+Aridia,Helab,Ahraghen,Ahraghen IV,Industrial Fibers,Poor,3.16
+Aridia,Helab,Ahraghen,Ahraghen IV,Supertensile Plastics,Poor,10.02
+Aridia,Helab,Ahraghen,Ahraghen V,Gleaming Alloy,Rich,23.78
+Aridia,Helab,Ahraghen,Ahraghen V,Construction Blocks,Medium,19.69
+Aridia,Helab,Ahraghen,Ahraghen V,Suspended Plasma,Poor,57.87
+Aridia,Helab,Ahraghen,Ahraghen VI,Lustering Alloy,Poor,14.00
+Aridia,Helab,Ahraghen,Ahraghen VI,Industrial Fibers,Medium,5.32
+Aridia,Helab,Ahraghen,Ahraghen VI,Supertensile Plastics,Poor,8.50
+Aridia,Helab,Ahraghen,Ahraghen VII,Fiber Composite,Poor,15.46
+Aridia,Helab,Ahraghen,Ahraghen VII,Reactive Gas,Medium,19.85
+Aridia,Helab,Ahraghen,Ahraghen VII,Noble Gas,Poor,16.60
+Aridia,Helab,Ahraghen,Ahraghen VII,Polyaramids,Medium,13.64
+Aridia,Helab,Ahraghen,Ahraghen VIII,Noble Gas,Rich,25.22
+Aridia,Helab,Ahraghen,Ahraghen VIII,Polyaramids,Medium,14.53
+Aridia,Leseasesh,Nalnifan,Nalnifan I,Noble Gas,Medium,18.05
+Aridia,Leseasesh,Nalnifan,Nalnifan I,Heavy Metals,Poor,16.81
+Aridia,Leseasesh,Nalnifan,Nalnifan II,Fiber Composite,Medium,18.52
+Aridia,Leseasesh,Nalnifan,Nalnifan II,Reactive Gas,Medium,18.61
+Aridia,Leseasesh,Nalnifan,Nalnifan II,Noble Gas,Medium,17.82
+Aridia,Leseasesh,Nalnifan,Nalnifan II,Polyaramids,Medium,14.99
+Aridia,Leseasesh,Nalnifan,Nalnifan III,Glossy Compound,Rich,26.06
+Aridia,Leseasesh,Nalnifan,Nalnifan III,Noble Gas,Rich,27.59
+Aridia,Leseasesh,Nalnifan,Nalnifan III,Base Metals,Medium,4.60
+Aridia,Leseasesh,Nalnifan,Nalnifan III,Ionic Solutions,Medium,6.82
+Aridia,Leseasesh,Nalnifan,Nalnifan IV,Noble Gas,Rich,23.45
+Aridia,Leseasesh,Nalnifan,Nalnifan IV,Reactive Metals,Medium,5.80
+Aridia,Leseasesh,Nalnifan,Nalnifan IV,Polyaramids,Perfect,19.37
+Aridia,Leseasesh,Nalnifan,Nalnifan IV,Coolant,Rich,15.97
+Aridia,Leseasesh,Nalnifan,Nalnifan V,Condensed Alloy,Medium,17.39
+Aridia,Leseasesh,Nalnifan,Nalnifan V,Fiber Composite,Perfect,29.93
+Aridia,Leseasesh,Nalnifan,Nalnifan V,Opulent Compound,Medium,22.68
+Aridia,Leseasesh,Nalnifan,Nalnifan V,Liquid Ozone,Medium,23.47
+Aridia,Leseasesh,Nalnifan,Nalnifan VI,Lustering Alloy,Poor,16.20
+Aridia,Leseasesh,Nalnifan,Nalnifan VI,Heavy Metals,Poor,15.98
+Aridia,Leseasesh,Nalnifan,Nalnifan VI,Coolant,Medium,13.92
+Aridia,Leseasesh,Nalnifan,Nalnifan VII,Reactive Gas,Rich,26.89
+Aridia,Leseasesh,Nalnifan,Nalnifan VII,Toxic Metals,Rich,6.31
+Aridia,Leseasesh,Nalnifan,Nalnifan VII,Construction Blocks,Rich,26.59
+Aridia,Leseasesh,Nalnifan,Nalnifan VIII,Crystal Compound,Poor,16.24
+Aridia,Leseasesh,Nalnifan,Nalnifan VIII,Construction Blocks,Perfect,29.14
+Aridia,Leseasesh,Nalnifan,Nalnifan VIII,Oxygen Isotopes,Rich,3.84
+Aridia,Leseasesh,Nalnifan,Nalnifan IX,Precious Alloy,Poor,11.52
+Aridia,Leseasesh,Nalnifan,Nalnifan IX,Industrial Fibers,Poor,4.34
+Aridia,Leseasesh,Nalnifan,Nalnifan IX,Supertensile Plastics,Medium,12.26
+Aridia,Leseasesh,Jerhesh,Jerhesh I,Industrial Fibers,Medium,4.96
+Aridia,Leseasesh,Jerhesh,Jerhesh I,Supertensile Plastics,Medium,13.80
+Aridia,Leseasesh,Jerhesh,Jerhesh I,Plasmoids,Medium,1.03
+Aridia,Leseasesh,Jerhesh,Jerhesh II,Precious Alloy,Medium,19.48
+Aridia,Leseasesh,Jerhesh,Jerhesh II,Industrial Fibers,Medium,5.25
+Aridia,Leseasesh,Jerhesh,Jerhesh II,Construction Blocks,Poor,13.96
+Aridia,Leseasesh,Jerhesh,Jerhesh III,Lustering Alloy,Medium,18.70
+Aridia,Leseasesh,Jerhesh,Jerhesh III,Fiber Composite,Medium,16.57
+Aridia,Leseasesh,Jerhesh,Jerhesh III,Reactive Gas,Rich,23.63
+Aridia,Leseasesh,Jerhesh,Jerhesh III,Noble Gas,Poor,15.25
+Aridia,Leseasesh,Jerhesh,Jerhesh IV,Toxic Metals,Medium,5.34
+Aridia,Leseasesh,Jerhesh,Jerhesh IV,Industrial Fibers,Medium,4.77
+Aridia,Leseasesh,Jerhesh,Jerhesh IV,Supertensile Plastics,Poor,9.58
+Aridia,Leseasesh,Jerhesh,Jerhesh V,Opulent Compound,Poor,15.23
+Aridia,Leseasesh,Jerhesh,Jerhesh V,Toxic Metals,Medium,4.38
+Aridia,Leseasesh,Jerhesh,Jerhesh V,Coolant,Medium,11.59
+Aridia,Leseasesh,Jerhesh,Jerhesh V,Ionic Solutions,Rich,9.69
+Aridia,Leseasesh,Jerhesh,Jerhesh VI,Lustering Alloy,Medium,17.44
+Aridia,Leseasesh,Jerhesh,Jerhesh VI,Fiber Composite,Rich,25.74
+Aridia,Leseasesh,Jerhesh,Jerhesh VI,Noble Gas,Medium,18.48
+Aridia,Leseasesh,Jerhesh,Jerhesh VI,Base Metals,Rich,7.09
+Aridia,Leseasesh,Jerhesh,Jerhesh VII,Sheen Compound,Rich,23.32
+Aridia,Leseasesh,Jerhesh,Jerhesh VII,Fiber Composite,Medium,20.06
+Aridia,Leseasesh,Jerhesh,Jerhesh VII,Reactive Gas,Medium,18.04
+Aridia,Leseasesh,Jerhesh,Jerhesh VII,Noble Gas,Rich,25.40
+Aridia,Leseasesh,Getrenjesa,Getrenjesa I,Dark Compound,Poor,14.08
+Aridia,Leseasesh,Getrenjesa,Getrenjesa I,Industrial Fibers,Medium,4.90
+Aridia,Leseasesh,Getrenjesa,Getrenjesa I,Silicate Glass,Medium,9.65
+Aridia,Leseasesh,Getrenjesa,Getrenjesa II,Dark Compound,Poor,15.03
+Aridia,Leseasesh,Getrenjesa,Getrenjesa II,Industrial Fibers,Medium,4.35
+Aridia,Leseasesh,Getrenjesa,Getrenjesa II,Plasmoids,Poor,0.87
+Aridia,Leseasesh,Getrenjesa,Getrenjesa III,Lustering Alloy,Poor,13.33
+Aridia,Leseasesh,Getrenjesa,Getrenjesa III,Industrial Fibers,Poor,3.76
+Aridia,Leseasesh,Getrenjesa,Getrenjesa III,Silicate Glass,Medium,9.40
+Aridia,Leseasesh,Getrenjesa,Getrenjesa IV,Fiber Composite,Rich,26.57
+Aridia,Leseasesh,Getrenjesa,Getrenjesa IV,Base Metals,Perfect,7.57
+Aridia,Leseasesh,Getrenjesa,Getrenjesa IV,Smartfab Units,Medium,12.86
+Aridia,Leseasesh,Getrenjesa,Getrenjesa IV,Heavy Water,Perfect,282.54
+Aridia,Leseasesh,Getrenjesa,Getrenjesa V,Precious Alloy,Poor,12.39
+Aridia,Leseasesh,Getrenjesa,Getrenjesa V,Industrial Fibers,Poor,2.84
+Aridia,Leseasesh,Getrenjesa,Getrenjesa V,Oxygen Isotopes,Poor,2.00
+Aridia,Leseasesh,Getrenjesa,Getrenjesa VI,Condensed Alloy,Medium,17.34
+Aridia,Leseasesh,Getrenjesa,Getrenjesa VI,Fiber Composite,Medium,16.23
+Aridia,Leseasesh,Getrenjesa,Getrenjesa VI,Smartfab Units,Medium,14.17
+Aridia,Leseasesh,Getrenjesa,Getrenjesa VI,Liquid Ozone,Medium,26.39
+Aridia,Leseasesh,Getrenjesa,Getrenjesa VII,Fiber Composite,Rich,21.98
+Aridia,Leseasesh,Getrenjesa,Getrenjesa VII,Noble Gas,Rich,23.14
+Aridia,Leseasesh,Getrenjesa,Getrenjesa VII,Reactive Metals,Medium,5.14
+Aridia,Leseasesh,Getrenjesa,Getrenjesa VII,Polyaramids,Rich,17.85
+Aridia,Leseasesh,Getrenjesa,Getrenjesa VIII,Sheen Compound,Medium,16.20
+Aridia,Leseasesh,Getrenjesa,Getrenjesa VIII,Reactive Gas,Poor,14.74
+Aridia,Leseasesh,Getrenjesa,Getrenjesa VIII,Noble Gas,Medium,18.79
+Aridia,Leseasesh,Getrenjesa,Getrenjesa VIII,Polyaramids,Rich,15.86
+Aridia,Leseasesh,Getrenjesa,Getrenjesa IX,Lustering Alloy,Medium,18.51
+Aridia,Leseasesh,Getrenjesa,Getrenjesa IX,Fiber Composite,Rich,25.87
+Aridia,Leseasesh,Getrenjesa,Getrenjesa IX,Glossy Compound,Poor,15.50
+Aridia,Leseasesh,Getrenjesa,Getrenjesa IX,Noble Gas,Poor,14.03
+Aridia,Leseasesh,Getrenjesa,Getrenjesa X,Industrial Fibers,Medium,4.83
+Aridia,Leseasesh,Getrenjesa,Getrenjesa X,Coolant,Rich,16.17
+Aridia,Leseasesh,Getrenjesa,Getrenjesa X,Condensates,Rich,14.44
+Aridia,Leseasesh,Shafrak,Shafrak I,Industrial Fibers,Poor,4.18
+Aridia,Leseasesh,Shafrak,Shafrak I,Construction Blocks,Poor,17.77
+Aridia,Leseasesh,Shafrak,Shafrak I,Silicate Glass,Poor,7.35
+Aridia,Leseasesh,Shafrak,Shafrak II,Toxic Metals,Poor,3.40
+Aridia,Leseasesh,Shafrak,Shafrak II,Industrial Fibers,Poor,3.64
+Aridia,Leseasesh,Shafrak,Shafrak II,Plasmoids,Poor,0.87
+Aridia,Leseasesh,Shafrak,Shafrak III,Toxic Metals,Poor,3.60
+Aridia,Leseasesh,Shafrak,Shafrak III,Industrial Fibers,Medium,5.36
+Aridia,Leseasesh,Shafrak,Shafrak III,Oxygen Isotopes,Medium,3.01
+Aridia,Leseasesh,Shafrak,Shafrak IV,Precious Alloy,Medium,21.07
+Aridia,Leseasesh,Shafrak,Shafrak IV,Industrial Fibers,Medium,5.06
+Aridia,Leseasesh,Shafrak,Shafrak IV,Plasmoids,Poor,0.77
+Aridia,Leseasesh,Shafrak,Shafrak V,Fiber Composite,Medium,19.25
+Aridia,Leseasesh,Shafrak,Shafrak V,Reactive Gas,Rich,29.66
+Aridia,Leseasesh,Shafrak,Shafrak V,Base Metals,Medium,4.82
+Aridia,Leseasesh,Shafrak,Shafrak V,Condensates,Perfect,21.03
+Aridia,Leseasesh,Shafrak,Shafrak VI,Fiber Composite,Perfect,32.95
+Aridia,Leseasesh,Shafrak,Shafrak VI,Reactive Gas,Perfect,30.42
+Aridia,Leseasesh,Shafrak,Shafrak VI,Smartfab Units,Rich,17.81
+Aridia,Leseasesh,Shafrak,Shafrak VI,Heavy Water,Perfect,350.36
+Aridia,Leseasesh,Shafrak,Shafrak VII,Reactive Gas,Rich,28.52
+Aridia,Leseasesh,Shafrak,Shafrak VII,Noble Gas,Rich,25.95
+Aridia,Leseasesh,Shafrak,Shafrak VII,Coolant,Medium,13.16
+Aridia,Leseasesh,Shafrak,Shafrak VII,Ionic Solutions,Medium,9.36
+Aridia,Leseasesh,Shafrak,Shafrak VIII,Noble Gas,Medium,23.18
+Aridia,Leseasesh,Shafrak,Shafrak VIII,Reactive Metals,Rich,6.80
+Aridia,Leseasesh,Shafrak,Shafrak VIII,Polyaramids,Rich,19.91
+Aridia,Leseasesh,Shafrak,Shafrak VIII,Ionic Solutions,Perfect,12.56
+Aridia,Leseasesh,Shafrak,Shafrak IX,Toxic Metals,Rich,7.42
+Aridia,Leseasesh,Shafrak,Shafrak IX,Construction Blocks,Medium,18.37
+Aridia,Leseasesh,Shafrak,Shafrak IX,Nanites,Poor,4.13
+Aridia,Leseasesh,Defsunun,Defsunun I,Noble Gas,Rich,29.75
+Aridia,Leseasesh,Defsunun,Defsunun I,Construction Blocks,Perfect,30.63
+Aridia,Leseasesh,Defsunun,Defsunun II,Precious Alloy,Poor,16.25
+Aridia,Leseasesh,Defsunun,Defsunun II,Industrial Fibers,Poor,3.81
+Aridia,Leseasesh,Defsunun,Defsunun II,Plasmoids,Medium,1.18
+Aridia,Leseasesh,Defsunun,Defsunun III,Noble Gas,Medium,23.54
+Aridia,Leseasesh,Defsunun,Defsunun III,Noble Metals,Medium,19.32
+Aridia,Leseasesh,Defsunun,Defsunun IV,Dark Compound,Medium,20.82
+Aridia,Leseasesh,Defsunun,Defsunun IV,Industrial Fibers,Poor,3.96
+Aridia,Leseasesh,Defsunun,Defsunun IV,Plasmoids,Poor,0.78
+Aridia,Leseasesh,Defsunun,Defsunun V,Heavy Metals,Rich,27.36
+Aridia,Leseasesh,Defsunun,Defsunun V,Reactive Metals,Medium,4.77
+Aridia,Leseasesh,Defsunun,Defsunun V,Nanites,Perfect,8.12
+Aridia,Leseasesh,Defsunun,Defsunun V,Suspended Plasma,Rich,97.06
+Aridia,Leseasesh,Defsunun,Defsunun VI,Industrial Fibers,Medium,4.78
+Aridia,Leseasesh,Defsunun,Defsunun VI,Supertensile Plastics,Poor,10.32
+Aridia,Leseasesh,Defsunun,Defsunun VI,Silicate Glass,Poor,6.09
+Aridia,Leseasesh,Defsunun,Defsunun VII,Lucent Compound,Rich,26.50
+Aridia,Leseasesh,Defsunun,Defsunun VII,Supertensile Plastics,Perfect,20.32
+Aridia,Leseasesh,Defsunun,Defsunun VII,Construction Blocks,Medium,18.75
+Aridia,Leseasesh,Defsunun,Defsunun VIII,Base Metals,Poor,3.87
+Aridia,Leseasesh,Defsunun,Defsunun VIII,Toxic Metals,Medium,5.67
+Aridia,Leseasesh,Defsunun,Defsunun VIII,Industrial Fibers,Poor,3.82
+Aridia,Leseasesh,Defsunun,Defsunun IX,Fiber Composite,Poor,16.80
+Aridia,Leseasesh,Defsunun,Defsunun IX,Reactive Gas,Rich,28.12
+Aridia,Leseasesh,Defsunun,Defsunun IX,Noble Gas,Medium,23.52
+Aridia,Leseasesh,Defsunun,Defsunun IX,Base Metals,Medium,5.30
+Aridia,Leseasesh,Defsunun,Defsunun X,Industrial Fibers,Poor,3.65
+Aridia,Leseasesh,Defsunun,Defsunun X,Construction Blocks,Poor,16.13
+Aridia,Leseasesh,Defsunun,Defsunun X,Silicate Glass,Medium,9.57
+Aridia,Leseasesh,Defsunun,Defsunun XI,Precious Alloy,Rich,24.32
+Aridia,Leseasesh,Defsunun,Defsunun XI,Heavy Metals,Medium,20.90
+Aridia,Leseasesh,Defsunun,Defsunun XI,Coolant,Medium,12.51
+Aridia,Leseasesh,Zazamye,Zazamye I,Base Metals,Poor,3.01
+Aridia,Leseasesh,Zazamye,Zazamye I,Industrial Fibers,Medium,5.14
+Aridia,Leseasesh,Zazamye,Zazamye I,Silicate Glass,Poor,8.32
+Aridia,Leseasesh,Zazamye,Zazamye II,Noble Gas,Medium,17.55
+Aridia,Leseasesh,Zazamye,Zazamye II,Noble Metals,Rich,27.09
+Aridia,Leseasesh,Zazamye,Zazamye III,Toxic Metals,Poor,4.05
+Aridia,Leseasesh,Zazamye,Zazamye III,Industrial Fibers,Medium,5.57
+Aridia,Leseasesh,Zazamye,Zazamye III,Supertensile Plastics,Poor,10.48
+Aridia,Leseasesh,Zazamye,Zazamye IV,Precious Alloy,Poor,13.54
+Aridia,Leseasesh,Zazamye,Zazamye IV,Industrial Fibers,Medium,5.13
+Aridia,Leseasesh,Zazamye,Zazamye IV,Construction Blocks,Poor,14.35
+Aridia,Leseasesh,Zazamye,Zazamye V,Crystal Compound,Rich,24.64
+Aridia,Leseasesh,Zazamye,Zazamye V,Noble Metals,Rich,25.24
+Aridia,Leseasesh,Zazamye,Zazamye V,Coolant,Medium,12.34
+Aridia,Leseasesh,Zazamye,Zazamye V,Silicate Glass,Medium,9.95
+Aridia,Leseasesh,Zazamye,Zazamye VI,Precious Alloy,Poor,11.95
+Aridia,Leseasesh,Zazamye,Zazamye VI,Industrial Fibers,Medium,5.44
+Aridia,Leseasesh,Zazamye,Zazamye VI,Construction Blocks,Medium,17.48
+Aridia,Leseasesh,Zazamye,Zazamye VII,Fiber Composite,Medium,17.59
+Aridia,Leseasesh,Zazamye,Zazamye VII,Noble Gas,Perfect,28.87
+Aridia,Leseasesh,Zazamye,Zazamye VII,Base Metals,Medium,4.64
+Aridia,Leseasesh,Zazamye,Zazamye VII,Ionic Solutions,Poor,6.47
+Aridia,Leseasesh,Zazamye,Zazamye VIII,Lustering Alloy,Medium,18.94
+Aridia,Leseasesh,Zazamye,Zazamye VIII,Fiber Composite,Rich,25.61
+Aridia,Leseasesh,Zazamye,Zazamye VIII,Noble Gas,Rich,28.40
+Aridia,Leseasesh,Zazamye,Zazamye VIII,Ionic Solutions,Rich,9.54
+Aridia,Leseasesh,Zazamye,Zazamye IX,Fiber Composite,Rich,24.88
+Aridia,Leseasesh,Zazamye,Zazamye IX,Glossy Compound,Medium,22.36
+Aridia,Leseasesh,Zazamye,Zazamye IX,Noble Gas,Rich,23.44
+Aridia,Leseasesh,Zazamye,Zazamye IX,Polyaramids,Medium,13.76
+Aridia,Leseasesh,Yahyerer,Yahyerer I,Industrial Fibers,Medium,5.10
+Aridia,Leseasesh,Yahyerer,Yahyerer I,Supertensile Plastics,Medium,14.57
+Aridia,Leseasesh,Yahyerer,Yahyerer I,Construction Blocks,Poor,14.27
+Aridia,Leseasesh,Yahyerer,Yahyerer II,Lucent Compound,Perfect,28.69
+Aridia,Leseasesh,Yahyerer,Yahyerer II,Heavy Metals,Rich,28.24
+Aridia,Leseasesh,Yahyerer,Yahyerer II,Nanites,Rich,7.46
+Aridia,Leseasesh,Yahyerer,Yahyerer II,Ionic Solutions,Medium,7.53
+Aridia,Leseasesh,Yahyerer,Yahyerer III,Noble Gas,Medium,17.23
+Aridia,Leseasesh,Yahyerer,Yahyerer III,Plasmoids,Rich,1.68
+Aridia,Leseasesh,Yahyerer,Yahyerer IV,Sheen Compound,Rich,26.53
+Aridia,Leseasesh,Yahyerer,Yahyerer IV,Glossy Compound,Rich,26.86
+Aridia,Leseasesh,Yahyerer,Yahyerer IV,Noble Gas,Rich,24.75
+Aridia,Leseasesh,Yahyerer,Yahyerer IV,Coolant,Rich,18.46
+Aridia,Leseasesh,Yahyerer,Yahyerer V,Reactive Gas,Medium,22.05
+Aridia,Leseasesh,Yahyerer,Yahyerer V,Construction Blocks,Medium,19.89
+Aridia,Leseasesh,Yahyerer,Yahyerer V,Suspended Plasma,Medium,73.29
+Aridia,Leseasesh,Yahyerer,Yahyerer VI,Lustering Alloy,Medium,21.02
+Aridia,Leseasesh,Yahyerer,Yahyerer VI,Sheen Compound,Medium,18.31
+Aridia,Leseasesh,Yahyerer,Yahyerer VI,Noble Gas,Rich,24.75
+Aridia,Leseasesh,Yahyerer,Yahyerer VI,Polyaramids,Rich,16.19
+Aridia,Leseasesh,Yahyerer,Yahyerer VII,Lustering Alloy,Medium,17.80
+Aridia,Leseasesh,Yahyerer,Yahyerer VII,Glossy Compound,Rich,28.35
+Aridia,Leseasesh,Yahyerer,Yahyerer VII,Reactive Gas,Poor,16.63
+Aridia,Leseasesh,Yahyerer,Yahyerer VII,Noble Gas,Rich,28.31
+Aridia,Leseasesh,Yahyerer,Yahyerer VIII,Dark Compound,Poor,13.07
+Aridia,Leseasesh,Yahyerer,Yahyerer VIII,Industrial Fibers,Medium,5.78
+Aridia,Leseasesh,Yahyerer,Yahyerer VIII,Silicate Glass,Poor,8.26
+Aridia,Leseasesh,Yahyerer,Yahyerer IX,Condensed Alloy,Rich,26.23
+Aridia,Leseasesh,Yahyerer,Yahyerer IX,Opulent Compound,Medium,18.47
+Aridia,Leseasesh,Yahyerer,Yahyerer IX,Coolant,Medium,14.03
+Aridia,Leseasesh,Yahyerer,Yahyerer IX,Liquid Ozone,Rich,34.06
+Aridia,Leseasesh,Esubara,Esubara I,Sheen Compound,Rich,24.12
+Aridia,Leseasesh,Esubara,Esubara I,Glossy Compound,Medium,22.07
+Aridia,Leseasesh,Esubara,Esubara I,Noble Gas,Medium,21.98
+Aridia,Leseasesh,Esubara,Esubara I,Base Metals,Medium,4.57
+Aridia,Leseasesh,Esubara,Esubara II,Base Metals,Rich,6.38
+Aridia,Leseasesh,Esubara,Esubara II,Coolant,Medium,13.26
+Aridia,Leseasesh,Esubara,Esubara II,Suspended Plasma,Poor,49.05
+Aridia,Maal,Ghekon,Ghekon I,Crystal Compound,Poor,15.38
+Aridia,Maal,Ghekon,Ghekon I,Construction Blocks,Medium,17.93
+Aridia,Maal,Ghekon,Ghekon I,Suspended Plasma,Medium,73.68
+Aridia,Maal,Ghekon,Ghekon II,Industrial Fibers,Poor,4.01
+Aridia,Maal,Ghekon,Ghekon II,Silicate Glass,Poor,5.75
+Aridia,Maal,Ghekon,Ghekon II,Plasmoids,Poor,0.66
+Aridia,Maal,Ghekon,Ghekon III,Sheen Compound,Medium,16.29
+Aridia,Maal,Ghekon,Ghekon III,Fiber Composite,Medium,19.77
+Aridia,Maal,Ghekon,Ghekon III,Noble Gas,Rich,23.92
+Aridia,Maal,Ghekon,Ghekon III,Polyaramids,Rich,17.84
+Aridia,Maal,Ghekon,Ghekon IV,Sheen Compound,Medium,17.82
+Aridia,Maal,Ghekon,Ghekon IV,Noble Gas,Medium,17.46
+Aridia,Maal,Ghekon,Ghekon IV,Base Metals,Poor,4.09
+Aridia,Maal,Ghekon,Ghekon IV,Polyaramids,Perfect,18.35
+Aridia,Maal,Ghekon,Ghekon V,Noble Gas,Rich,25.19
+Aridia,Maal,Ghekon,Ghekon V,Reactive Metals,Perfect,7.21
+Aridia,Maal,Ghekon,Ghekon V,Polyaramids,Perfect,18.35
+Aridia,Maal,Ghekon,Ghekon V,Coolant,Medium,13.68
+Aridia,Maal,Ghekon,Ghekon VI,Base Metals,Rich,6.46
+Aridia,Maal,Ghekon,Ghekon VI,Industrial Fibers,Rich,5.81
+Aridia,Maal,Ghekon,Ghekon VI,Coolant,Medium,13.94
+Aridia,Maal,Ghekon,Ghekon VII,Lucent Compound,Perfect,27.73
+Aridia,Maal,Ghekon,Ghekon VII,Supertensile Plastics,Rich,14.78
+Aridia,Maal,Ghekon,Ghekon VII,Construction Blocks,Rich,26.15
+Aridia,Maal,Vaini,Vaini I,Condensed Alloy,Rich,24.73
+Aridia,Maal,Vaini,Vaini I,Fiber Composite,Medium,19.53
+Aridia,Maal,Vaini,Vaini I,Base Metals,Perfect,8.91
+Aridia,Maal,Vaini,Vaini I,Industrial Fibers,Medium,5.86
+Aridia,Maal,Vaini,Vaini II,Base Metals,Medium,5.28
+Aridia,Maal,Vaini,Vaini II,Industrial Fibers,Medium,5.50
+Aridia,Maal,Vaini,Vaini II,Supertensile Plastics,Poor,7.98
+Aridia,Maal,Vaini,Vaini III,Dark Compound,Medium,20.36
+Aridia,Maal,Vaini,Vaini III,Toxic Metals,Poor,3.81
+Aridia,Maal,Vaini,Vaini III,Industrial Fibers,Poor,3.33
+Aridia,Maal,Vaini,Vaini IV,Crystal Compound,Perfect,31.18
+Aridia,Maal,Vaini,Vaini IV,Polyaramids,Rich,17.68
+Aridia,Maal,Vaini,Vaini IV,Coolant,Rich,16.10
+Aridia,Maal,Vaini,Vaini IV,Silicate Glass,Rich,11.96
+Aridia,Maal,Zaveral,Zaveral I,Motley Compound,Medium,14.81
+Aridia,Maal,Zaveral,Zaveral I,Oxygen Isotopes,Rich,2.83
+Aridia,Maal,Zaveral,Zaveral II,Lustering Alloy,Poor,9.95
+Aridia,Maal,Zaveral,Zaveral II,Base Metals,Poor,2.70
+Aridia,Maal,Zaveral,Zaveral III,Crystal Compound,Medium,15.76
+Aridia,Maal,Zaveral,Zaveral III,Suspended Plasma,Rich,76.71
+Aridia,Maal,Zaveral,Zaveral IV,Lustering Alloy,Medium,15.74
+Aridia,Maal,Zaveral,Zaveral IV,Base Metals,Poor,2.70
+Aridia,Maal,Zaveral,Zaveral V,Lustering Alloy,Medium,13.43
+Aridia,Maal,Zaveral,Zaveral V,Base Metals,Poor,3.01
+Aridia,Maal,Zaveral,Zaveral VI,Opulent Compound,Medium,16.81
+Aridia,Maal,Zaveral,Zaveral VI,Smartfab Units,Perfect,15.50
+Aridia,Maal,Zaveral,Zaveral VI,Heavy Water,Perfect,247.66
+Aridia,Maal,Zaveral,Zaveral VII,Opulent Compound,Medium,13.97
+Aridia,Maal,Zaveral,Zaveral VII,Crystal Compound,Rich,21.70
+Aridia,Maal,Zaveral,Zaveral VII,Heavy Water,Medium,157.92
+Aridia,Maal,Zaveral,Zaveral VIII,Lustering Alloy,Rich,19.04
+Aridia,Maal,Zaveral,Zaveral VIII,Noble Gas,Poor,11.79
+Aridia,Maal,Zaveral,Zaveral VIII,Base Metals,Rich,5.07
+Aridia,Maal,Zaveral,Zaveral IX,Lustering Alloy,Poor,11.98
+Aridia,Maal,Zaveral,Zaveral IX,Base Metals,Medium,3.70
+Aridia,Maal,Zaveral,Zaveral X,Lustering Alloy,Rich,17.74
+Aridia,Maal,Zaveral,Zaveral X,Sheen Compound,Medium,14.81
+Aridia,Maal,Zaveral,Zaveral X,Base Metals,Medium,4.35
+Aridia,Maal,Zaveral,Zaveral XI,Condensed Alloy,Perfect,25.65
+Aridia,Maal,Zaveral,Zaveral XI,Condensates,Rich,14.50
+Aridia,Maal,Zaveral,Zaveral XI,Heavy Water,Rich,200.34
+Aridia,Maal,Zaveral,Zaveral XII,Toxic Metals,Rich,4.84
+Aridia,Maal,Zaveral,Zaveral XII,Heavy Water,Rich,182.42
+Aridia,Maal,Zaveral,Zaveral XII,Liquid Ozone,Medium,16.91
+Aridia,Maal,Anohel,Anohel I,Lustering Alloy,Poor,12.69
+Aridia,Maal,Anohel,Anohel I,Industrial Fibers,Medium,5.13
+Aridia,Maal,Anohel,Anohel I,Supertensile Plastics,Poor,9.56
+Aridia,Maal,Anohel,Anohel II,Toxic Metals,Poor,3.72
+Aridia,Maal,Anohel,Anohel II,Industrial Fibers,Medium,5.89
+Aridia,Maal,Anohel,Anohel II,Silicate Glass,Medium,9.51
+Aridia,Maal,Anohel,Anohel III,Base Metals,Poor,4.61
+Aridia,Maal,Anohel,Anohel III,Industrial Fibers,Poor,4.32
+Aridia,Maal,Anohel,Anohel III,Silicate Glass,Medium,10.86
+Aridia,Maal,Anohel,Anohel IV,Condensed Alloy,Rich,26.49
+Aridia,Maal,Anohel,Anohel IV,Fiber Composite,Perfect,34.58
+Aridia,Maal,Anohel,Anohel IV,Heavy Water,Medium,206.53
+Aridia,Maal,Anohel,Anohel IV,Liquid Ozone,Rich,33.42
+Aridia,Maal,Anohel,Anohel V,Glossy Compound,Medium,23.81
+Aridia,Maal,Anohel,Anohel V,Reactive Gas,Medium,19.13
+Aridia,Maal,Anohel,Anohel V,Noble Gas,Poor,17.54
+Aridia,Maal,Anohel,Anohel V,Ionic Solutions,Medium,8.10
+Aridia,Maal,Anohel,Anohel VI,Fiber Composite,Perfect,30.44
+Aridia,Maal,Anohel,Anohel VI,Noble Gas,Medium,19.09
+Aridia,Maal,Anohel,Anohel VI,Reactive Metals,Poor,4.12
+Aridia,Maal,Anohel,Anohel VI,Ionic Solutions,Poor,7.05
+Aridia,Maal,Anohel,Anohel VII,Lustering Alloy,Poor,17.59
+Aridia,Maal,Anohel,Anohel VII,Reactive Gas,Medium,22.97
+Aridia,Maal,Anohel,Anohel VII,Noble Gas,Poor,16.30
+Aridia,Maal,Anohel,Anohel VII,Coolant,Medium,13.20
+Aridia,Maal,Anohel,Anohel VIII,Lustering Alloy,Medium,20.05
+Aridia,Maal,Anohel,Anohel VIII,Industrial Fibers,Rich,6.36
+Aridia,Maal,Anohel,Anohel VIII,Coolant,Medium,14.11
+Aridia,Maal,Soza,Soza I,Base Metals,Medium,5.52
+Aridia,Maal,Soza,Soza I,Industrial Fibers,Poor,4.06
+Aridia,Maal,Soza,Soza I,Supertensile Plastics,Poor,10.39
+Aridia,Maal,Soza,Soza II,Base Metals,Medium,5.32
+Aridia,Maal,Soza,Soza II,Toxic Metals,Poor,2.99
+Aridia,Maal,Soza,Soza II,Industrial Fibers,Poor,3.93
+Aridia,Maal,Soza,Soza III,Industrial Fibers,Poor,4.20
+Aridia,Maal,Soza,Soza III,Construction Blocks,Medium,21.17
+Aridia,Maal,Soza,Soza III,Oxygen Isotopes,Medium,3.13
+Aridia,Maal,Soza,Soza IV,Polyaramids,Medium,13.85
+Aridia,Maal,Soza,Soza IV,Coolant,Rich,17.30
+Aridia,Maal,Soza,Soza IV,Heavy Water,Perfect,296.10
+Aridia,Maal,Soza,Soza IV,Liquid Ozone,Rich,30.33
+Aridia,Maal,Soza,Soza V,Industrial Fibers,Poor,3.68
+Aridia,Maal,Soza,Soza V,Supertensile Plastics,Poor,11.04
+Aridia,Maal,Soza,Soza V,Construction Blocks,Medium,19.04
+Aridia,Maal,Soza,Soza VI,Dark Compound,Medium,19.37
+Aridia,Maal,Soza,Soza VI,Base Metals,Medium,5.07
+Aridia,Maal,Soza,Soza VI,Industrial Fibers,Poor,4.27
+Aridia,Maal,Soza,Soza VII,Toxic Metals,Poor,4.42
+Aridia,Maal,Soza,Soza VII,Industrial Fibers,Poor,3.32
+Aridia,Maal,Soza,Soza VII,Plasmoids,Poor,0.82
+Aridia,Maal,Soza,Soza VIII,Lustering Alloy,Medium,21.42
+Aridia,Maal,Soza,Soza VIII,Toxic Metals,Medium,5.11
+Aridia,Maal,Soza,Soza VIII,Industrial Fibers,Poor,3.77
+Aridia,Maal,Soza,Soza IX,Fiber Composite,Medium,20.92
+Aridia,Maal,Soza,Soza IX,Reactive Gas,Medium,18.05
+Aridia,Maal,Soza,Soza IX,Noble Gas,Rich,26.59
+Aridia,Maal,Soza,Soza IX,Coolant,Perfect,19.31
+Aridia,Maal,Soza,Soza X,Sheen Compound,Medium,17.35
+Aridia,Maal,Soza,Soza X,Noble Gas,Rich,23.04
+Aridia,Maal,Soza,Soza X,Condensates,Rich,15.89
+Aridia,Maal,Soza,Soza X,Nanites,Rich,6.28
+Aridia,Maal,Soza,Soza XI,Fiber Composite,Perfect,33.03
+Aridia,Maal,Soza,Soza XI,Base Metals,Medium,5.39
+Aridia,Maal,Soza,Soza XI,Industrial Fibers,Medium,4.93
+Aridia,Maal,Soza,Soza XI,Smartfab Units,Medium,14.75
+Aridia,Maal,Soza,Soza XII,Lustering Alloy,Rich,28.17
+Aridia,Maal,Soza,Soza XII,Sheen Compound,Medium,19.35
+Aridia,Maal,Soza,Soza XII,Noble Gas,Rich,27.63
+Aridia,Maal,Soza,Soza XII,Coolant,Perfect,19.21
+Aridia,Maal,Pserz,Pserz I,Precious Alloy,Poor,12.58
+Aridia,Maal,Pserz,Pserz I,Industrial Fibers,Poor,3.26
+Aridia,Maal,Pserz,Pserz I,Construction Blocks,Poor,11.36
+Aridia,Maal,Pserz,Pserz II,Noble Gas,Rich,23.85
+Aridia,Maal,Pserz,Pserz II,Construction Blocks,Rich,25.36
+Aridia,Maal,Pserz,Pserz III,Gleaming Alloy,Poor,14.23
+Aridia,Maal,Pserz,Pserz III,Construction Blocks,Rich,21.86
+Aridia,Maal,Pserz,Pserz III,Oxygen Isotopes,Rich,3.43
+Aridia,Maal,Pserz,Pserz IV,Condensed Alloy,Perfect,28.68
+Aridia,Maal,Pserz,Pserz IV,Polyaramids,Rich,14.36
+Aridia,Maal,Pserz,Pserz IV,Coolant,Medium,11.83
+Aridia,Maal,Pserz,Pserz IV,Heavy Water,Perfect,282.37
+Aridia,Maal,Pserz,Pserz V,Noble Gas,Medium,20.62
+Aridia,Maal,Pserz,Pserz V,Heavy Metals,Medium,16.07
+Aridia,Maal,Pserz,Pserz VI,Fiber Composite,Rich,23.20
+Aridia,Maal,Pserz,Pserz VI,Reactive Gas,Medium,21.03
+Aridia,Maal,Pserz,Pserz VI,Noble Metals,Perfect,32.18
+Aridia,Maal,Pserz,Pserz VI,Condensates,Perfect,21.50
+Aridia,Maal,Pserz,Pserz VII,Precious Alloy,Medium,17.68
+Aridia,Maal,Pserz,Pserz VII,Dark Compound,Poor,11.37
+Aridia,Maal,Pserz,Pserz VII,Industrial Fibers,Poor,3.79
+Aridia,Maal,Pserz,Pserz VIII,Fiber Composite,Rich,25.47
+Aridia,Maal,Pserz,Pserz VIII,Noble Gas,Rich,24.02
+Aridia,Maal,Pserz,Pserz VIII,Polyaramids,Poor,10.43
+Aridia,Maal,Pserz,Pserz VIII,Coolant,Perfect,18.71
+Aridia,Maal,Pserz,Pserz IX,Fiber Composite,Rich,22.75
+Aridia,Maal,Pserz,Pserz IX,Reactive Gas,Perfect,31.93
+Aridia,Maal,Pserz,Pserz IX,Base Metals,Perfect,7.74
+Aridia,Maal,Pserz,Pserz IX,Industrial Fibers,Perfect,8.02
+Aridia,Maal,Pserz,Pserz X,Lustering Alloy,Medium,19.84
+Aridia,Maal,Pserz,Pserz X,Industrial Fibers,Medium,5.03
+Aridia,Maal,Pserz,Pserz X,Oxygen Isotopes,Poor,1.87
+Aridia,Maal,Pserz,Pserz XI,Sheen Compound,Poor,14.11
+Aridia,Maal,Pserz,Pserz XI,Fiber Composite,Medium,19.94
+Aridia,Maal,Pserz,Pserz XI,Glossy Compound,Rich,24.89
+Aridia,Maal,Pserz,Pserz XI,Noble Gas,Medium,20.54
+Aridia,Maal,Pserz,Pserz XII,Fiber Composite,Rich,24.36
+Aridia,Maal,Pserz,Pserz XII,Reactive Gas,Medium,21.44
+Aridia,Maal,Pserz,Pserz XII,Noble Gas,Medium,21.13
+Aridia,Maal,Pserz,Pserz XII,Reactive Metals,Rich,6.14
+Aridia,Maal,Illi,Illi I,Noble Gas,Medium,22.74
+Aridia,Maal,Illi,Illi I,Heavy Metals,Medium,23.58
+Aridia,Maal,Illi,Illi II,Fiber Composite,Medium,23.66
+Aridia,Maal,Illi,Illi II,Reactive Gas,Rich,25.78
+Aridia,Maal,Illi,Illi II,Base Metals,Rich,6.57
+Aridia,Maal,Illi,Illi II,Heavy Water,Medium,206.53
+Aridia,Maal,Illi,Illi III,Noble Gas,Medium,20.22
+Aridia,Maal,Illi,Illi III,Base Metals,Rich,6.84
+Aridia,Maal,Illi,Illi III,Reactive Metals,Rich,7.28
+Aridia,Maal,Illi,Illi III,Coolant,Rich,16.42
+Aridia,Maal,Illi,Illi IV,Lustering Alloy,Perfect,30.88
+Aridia,Maal,Illi,Illi IV,Reactive Gas,Medium,21.70
+Aridia,Maal,Illi,Illi IV,Noble Gas,Medium,22.69
+Aridia,Maal,Illi,Illi IV,Polyaramids,Poor,11.60
+Aridia,Maal,Illi,Illi V,Noble Gas,Poor,17.33
+Aridia,Maal,Illi,Illi V,Noble Metals,Rich,27.45
+Aridia,Maal,Illi,Illi VI,Fiber Composite,Medium,19.00
+Aridia,Maal,Illi,Illi VI,Reactive Gas,Rich,29.91
+Aridia,Maal,Illi,Illi VI,Noble Gas,Rich,29.36
+Aridia,Maal,Illi,Illi VI,Coolant,Rich,17.49
+Aridia,Maal,Illi,Illi VII,Industrial Fibers,Medium,5.32
+Aridia,Maal,Illi,Illi VII,Supertensile Plastics,Poor,11.58
+Aridia,Maal,Illi,Illi VII,Plasmoids,Medium,1.39
+Aridia,Maal,Illi,Illi VIII,Crystal Compound,Perfect,30.82
+Aridia,Maal,Illi,Illi VIII,Toxic Metals,Rich,6.72
+Aridia,Maal,Illi,Illi VIII,Construction Blocks,Medium,21.68
+Aridia,Maal,Keba,Keba I,Noble Gas,Medium,17.20
+Aridia,Maal,Keba,Keba I,Plasmoids,Medium,1.09
+Aridia,Maal,Keba,Keba II,Precious Alloy,Poor,11.90
+Aridia,Maal,Keba,Keba II,Industrial Fibers,Medium,4.04
+Aridia,Maal,Keba,Keba II,Construction Blocks,Poor,13.98
+Aridia,Maal,Keba,Keba III,Industrial Fibers,Medium,4.28
+Aridia,Maal,Keba,Keba III,Silicate Glass,Poor,6.83
+Aridia,Maal,Keba,Keba III,Plasmoids,Medium,1.04
+Aridia,Maal,Keba,Keba IV,Noble Gas,Poor,13.97
+Aridia,Maal,Keba,Keba IV,Smartfab Units,Poor,9.54
+Aridia,Maal,Keba,Keba V,Fiber Composite,Rich,23.79
+Aridia,Maal,Keba,Keba V,Reactive Gas,Rich,23.31
+Aridia,Maal,Keba,Keba V,Base Metals,Medium,4.11
+Aridia,Maal,Keba,Keba V,Smartfab Units,Medium,11.57
+Aridia,Maal,Keba,Keba VI,Dark Compound,Poor,11.94
+Aridia,Maal,Keba,Keba VI,Industrial Fibers,Medium,4.96
+Aridia,Maal,Keba,Keba VI,Plasmoids,Medium,1.02
+Aridia,Maal,Keba,Keba VII,Lustering Alloy,Rich,24.11
+Aridia,Maal,Keba,Keba VII,Reactive Gas,Medium,18.88
+Aridia,Maal,Keba,Keba VII,Noble Gas,Poor,14.67
+Aridia,Maal,Keba,Keba VII,Ionic Solutions,Medium,7.41
+Aridia,Maal,Keba,Keba VIII,Fiber Composite,Perfect,27.38
+Aridia,Maal,Keba,Keba VIII,Opulent Compound,Rich,20.29
+Aridia,Maal,Keba,Keba VIII,Noble Metals,Perfect,27.78
+Aridia,Maal,Keba,Keba VIII,Heavy Water,Medium,175.52
+Aridia,Maal,Keba,Keba IX,Glossy Compound,Rich,23.81
+Aridia,Maal,Keba,Keba IX,Noble Gas,Medium,18.86
+Aridia,Maal,Keba,Keba IX,Reactive Metals,Medium,4.67
+Aridia,Maal,Keba,Keba IX,Coolant,Poor,9.01
+Aridia,Maal,Bapraya,Bapraya I,Motley Compound,Rich,23.71
+Aridia,Maal,Bapraya,Bapraya I,Noble Gas,Perfect,29.43
+Aridia,Maal,Bapraya,Bapraya II,Base Metals,Poor,3.05
+Aridia,Maal,Bapraya,Bapraya II,Industrial Fibers,Poor,4.12
+Aridia,Maal,Bapraya,Bapraya II,Plasmoids,Medium,1.17
+Aridia,Maal,Bapraya,Bapraya III,Condensed Alloy,Medium,22.73
+Aridia,Maal,Bapraya,Bapraya III,Crystal Compound,Medium,22.37
+Aridia,Maal,Bapraya,Bapraya III,Coolant,Medium,13.33
+Aridia,Maal,Bapraya,Bapraya III,Ionic Solutions,Perfect,11.48
+Aridia,Maal,Bapraya,Bapraya IV,Industrial Fibers,Medium,4.55
+Aridia,Maal,Bapraya,Bapraya IV,Supertensile Plastics,Medium,13.28
+Aridia,Maal,Bapraya,Bapraya IV,Construction Blocks,Medium,17.71
+Aridia,Maal,Bapraya,Bapraya V,Industrial Fibers,Poor,3.86
+Aridia,Maal,Bapraya,Bapraya V,Construction Blocks,Medium,19.12
+Aridia,Maal,Bapraya,Bapraya V,Silicate Glass,Poor,6.13
+Aridia,Maal,Bapraya,Bapraya VI,Gleaming Alloy,Rich,24.21
+Aridia,Maal,Bapraya,Bapraya VI,Noble Gas,Perfect,28.66
+Aridia,Maal,Bapraya,Bapraya VII,Condensed Alloy,Perfect,30.76
+Aridia,Maal,Bapraya,Bapraya VII,Fiber Composite,Medium,20.59
+Aridia,Maal,Bapraya,Bapraya VII,Condensates,Rich,15.53
+Aridia,Maal,Bapraya,Bapraya VII,Liquid Ozone,Rich,29.88
+Aridia,Maal,Bapraya,Bapraya VIII,Lustering Alloy,Poor,15.32
+Aridia,Maal,Bapraya,Bapraya VIII,Base Metals,Poor,3.49
+Aridia,Maal,Bapraya,Bapraya VIII,Industrial Fibers,Medium,5.67
+Aridia,Maal,Bapraya,Bapraya IX,Sheen Compound,Rich,23.71
+Aridia,Maal,Bapraya,Bapraya IX,Fiber Composite,Rich,26.53
+Aridia,Maal,Bapraya,Bapraya IX,Noble Gas,Rich,23.87
+Aridia,Maal,Bapraya,Bapraya IX,Reactive Metals,Medium,5.75
+Aridia,Maal,Bapraya,Bapraya X,Noble Gas,Medium,17.26
+Aridia,Maal,Bapraya,Bapraya X,Base Metals,Poor,4.46
+Aridia,Maal,Bapraya,Bapraya X,Reactive Metals,Rich,6.98
+Aridia,Maal,Bapraya,Bapraya X,Coolant,Rich,15.54
+Aridia,Maal,Bapraya,Bapraya XI,Sheen Compound,Poor,16.70
+Aridia,Maal,Bapraya,Bapraya XI,Noble Gas,Medium,19.08
+Aridia,Maal,Bapraya,Bapraya XI,Base Metals,Rich,6.10
+Aridia,Maal,Bapraya,Bapraya XI,Ionic Solutions,Rich,9.52
+Aridia,Maal,Bapraya,Bapraya XII,Crystal Compound,Medium,22.23
+Aridia,Maal,Bapraya,Bapraya XII,Coolant,Rich,18.46
+Aridia,Maal,Bapraya,Bapraya XII,Silicate Glass,Medium,8.52
+Aridia,Maal,Bapraya,Bapraya XII,Heavy Water,Perfect,304.20
+Aridia,Fabai,Efu,Efu I,Lucent Compound,Medium,21.18
+Aridia,Fabai,Efu,Efu I,Noble Gas,Medium,18.98
+Aridia,Fabai,Efu,Efu I,Reactive Metals,Rich,8.26
+Aridia,Fabai,Efu,Efu I,Condensates,Perfect,21.63
+Aridia,Fabai,Efu,Efu I,Suspended Plasma,Perfect,121.82
+Aridia,Fabai,Efu,Efu II,Gleaming Alloy,Perfect,32.24
+Aridia,Fabai,Efu,Efu II,Motley Compound,Rich,26.66
+Aridia,Fabai,Efu,Efu II,Oxygen Isotopes,Medium,3.35
+Aridia,Fabai,Efu,Efu III,Precious Alloy,Poor,13.14
+Aridia,Fabai,Efu,Efu III,Supertensile Plastics,Poor,11.28
+Aridia,Fabai,Efu,Efu III,Construction Blocks,Poor,14.72
+Aridia,Fabai,Efu,Efu III,Plasmoids,Medium,1.24
+Aridia,Fabai,Efu,Efu IV,Sheen Compound,Rich,31.06
+Aridia,Fabai,Efu,Efu IV,Fiber Composite,Rich,27.28
+Aridia,Fabai,Efu,Efu IV,Reactive Gas,Poor,16.84
+Aridia,Fabai,Efu,Efu IV,Base Metals,Perfect,8.56
+Aridia,Fabai,Efu,Efu IV,Ionic Solutions,Medium,8.15
+Aridia,Fabai,Efu,Efu V,Fiber Composite,Rich,25.44
+Aridia,Fabai,Efu,Efu V,Glossy Compound,Medium,22.04
+Aridia,Fabai,Efu,Efu V,Reactive Gas,Poor,18.52
+Aridia,Fabai,Efu,Efu V,Reactive Metals,Medium,5.82
+Aridia,Fabai,Efu,Efu V,Polyaramids,Medium,16.80
+Aridia,Fabai,Efu,Efu VI,Lustering Alloy,Medium,24.02
+Aridia,Fabai,Efu,Efu VI,Reactive Gas,Medium,19.84
+Aridia,Fabai,Efu,Efu VI,Polyaramids,Perfect,22.08
+Aridia,Fabai,Efu,Efu VI,Coolant,Rich,20.28
+Aridia,Fabai,Efu,Efu VI,Ionic Solutions,Rich,10.15
+Aridia,Fabai,Efu,Efu VII,Precious Alloy,Medium,21.80
+Aridia,Fabai,Efu,Efu VII,Base Metals,Poor,3.73
+Aridia,Fabai,Efu,Efu VII,Supertensile Plastics,Poor,12.43
+Aridia,Fabai,Efu,Efu VII,Construction Blocks,Poor,16.86
+Aridia,Fabai,Efu,Efu VIII,Opulent Compound,Rich,26.10
+Aridia,Fabai,Efu,Efu VIII,Crystal Compound,Medium,22.32
+Aridia,Fabai,Efu,Efu VIII,Polyaramids,Poor,11.80
+Aridia,Fabai,Efu,Efu VIII,Coolant,Medium,15.93
+Aridia,Fabai,Efu,Efu VIII,Liquid Ozone,Medium,27.13
+Aridia,Fabai,Efu,Efu IX,Lucent Compound,Poor,16.80
+Aridia,Fabai,Efu,Efu IX,Reactive Metals,Rich,6.95
+Aridia,Fabai,Efu,Efu IX,Supertensile Plastics,Medium,16.00
+Aridia,Fabai,Efu,Efu IX,Nanites,Medium,5.77
+Aridia,Fabai,Tisot,Tisot I,Dark Compound,Medium,21.16
+Aridia,Fabai,Tisot,Tisot I,Supertensile Plastics,Medium,13.92
+Aridia,Fabai,Tisot,Tisot I,Silicate Glass,Medium,12.28
+Aridia,Fabai,Tisot,Tisot I,Plasmoids,Medium,1.44
+Aridia,Fabai,Tisot,Tisot II,Gleaming Alloy,Medium,25.10
+Aridia,Fabai,Tisot,Tisot II,Motley Compound,Poor,17.92
+Aridia,Fabai,Tisot,Tisot II,Smartfab Units,Rich,17.55
+Aridia,Fabai,Tisot,Tisot III,Fiber Composite,Medium,19.32
+Aridia,Fabai,Tisot,Tisot III,Base Metals,Medium,5.26
+Aridia,Fabai,Tisot,Tisot III,Smartfab Units,Perfect,21.49
+Aridia,Fabai,Tisot,Tisot III,Heavy Water,Medium,214.40
+Aridia,Fabai,Tisot,Tisot III,Liquid Ozone,Rich,36.20
+Aridia,Fabai,Tisot,Tisot IV,Gleaming Alloy,Rich,27.30
+Aridia,Fabai,Tisot,Tisot IV,Crystal Compound,Rich,25.44
+Aridia,Fabai,Tisot,Tisot IV,Reactive Metals,Medium,5.84
+Aridia,Fabai,Tisot,Tisot IV,Supertensile Plastics,Medium,14.75
+Aridia,Fabai,Tisot,Tisot V,Crystal Compound,Rich,31.44
+Aridia,Fabai,Tisot,Tisot V,Toxic Metals,Medium,5.32
+Aridia,Fabai,Tisot,Tisot V,Coolant,Rich,21.05
+Aridia,Fabai,Tisot,Tisot V,Liquid Ozone,Perfect,41.40
+Aridia,Fabai,Tisot,Tisot V,Ionic Solutions,Rich,11.45
+Aridia,Fabai,Tisot,Tisot VI,Lustering Alloy,Perfect,32.16
+Aridia,Fabai,Tisot,Tisot VI,Fiber Composite,Medium,21.22
+Aridia,Fabai,Tisot,Tisot VI,Reactive Gas,Medium,25.28
+Aridia,Fabai,Tisot,Tisot VI,Noble Gas,Medium,19.92
+Aridia,Fabai,Tisot,Tisot VI,Reactive Metals,Rich,7.32
+Aridia,Fabai,Tisot,Tisot VII,Gleaming Alloy,Rich,28.96
+Aridia,Fabai,Tisot,Tisot VII,Reactive Metals,Medium,6.00
+Aridia,Fabai,Tisot,Tisot VII,Construction Blocks,Poor,17.62
+Aridia,Fabai,Tisot,Tisot VII,Oxygen Isotopes,Rich,4.66
+Aridia,Fabai,Tisot,Tisot VIII,Condensed Alloy,Perfect,34.60
+Aridia,Fabai,Tisot,Tisot VIII,Opulent Compound,Medium,19.04
+Aridia,Fabai,Tisot,Tisot VIII,Coolant,Medium,15.67
+Aridia,Fabai,Tisot,Tisot VIII,Liquid Ozone,Rich,33.33
+Aridia,Fabai,Tisot,Tisot VIII,Ionic Solutions,Poor,7.14
+Aridia,Fabai,Sakht,Sakht I,Lustering Alloy,Poor,16.12
+Aridia,Fabai,Sakht,Sakht I,Precious Alloy,Poor,17.56
+Aridia,Fabai,Sakht,Sakht I,Toxic Metals,Poor,4.62
+Aridia,Fabai,Sakht,Sakht I,Supertensile Plastics,Poor,10.83
+Aridia,Fabai,Sakht,Sakht II,Gleaming Alloy,Rich,26.24
+Aridia,Fabai,Sakht,Sakht II,Heavy Metals,Medium,20.28
+Aridia,Fabai,Sakht,Sakht II,Construction Blocks,Rich,26.92
+Aridia,Fabai,Sakht,Sakht III,Gleaming Alloy,Medium,24.30
+Aridia,Fabai,Sakht,Sakht III,Glossy Compound,Poor,18.66
+Aridia,Fabai,Sakht,Sakht III,Construction Blocks,Rich,26.84
+Aridia,Fabai,Sakht,Sakht IV,Fiber Composite,Rich,27.58
+Aridia,Fabai,Sakht,Sakht IV,Glossy Compound,Poor,16.84
+Aridia,Fabai,Sakht,Sakht IV,Reactive Gas,Medium,22.06
+Aridia,Fabai,Sakht,Sakht IV,Reactive Metals,Rich,6.74
+Aridia,Fabai,Sakht,Sakht IV,Ionic Solutions,Medium,8.40
+Aridia,Fabai,Sakht,Sakht V,Condensed Alloy,Medium,25.30
+Aridia,Fabai,Sakht,Sakht V,Opulent Compound,Rich,26.32
+Aridia,Fabai,Sakht,Sakht V,Reactive Gas,Rich,27.50
+Aridia,Fabai,Sakht,Sakht V,Noble Metals,Rich,25.94
+Aridia,Fabai,Sakht,Sakht V,Liquid Ozone,Perfect,45.38
+Aridia,Fabai,Sakht,Sakht VI,Lustering Alloy,Poor,17.50
+Aridia,Fabai,Sakht,Sakht VI,Sheen Compound,Medium,20.66
+Aridia,Fabai,Sakht,Sakht VI,Reactive Gas,Medium,24.56
+Aridia,Fabai,Sakht,Sakht VI,Noble Gas,Medium,23.14
+Aridia,Fabai,Sakht,Sakht VI,Base Metals,Rich,6.75
+Aridia,Fabai,Sakht,Sakht VII,Opulent Compound,Poor,17.80
+Aridia,Fabai,Sakht,Sakht VII,Toxic Metals,Medium,6.57
+Aridia,Fabai,Sakht,Sakht VII,Polyaramids,Perfect,22.45
+Aridia,Fabai,Sakht,Sakht VII,Liquid Ozone,Medium,24.55
+Aridia,Fabai,Sakht,Sakht VII,Ionic Solutions,Rich,11.76
+Aridia,Fabai,Naga,Naga I,Gleaming Alloy,Medium,22.02
+Aridia,Fabai,Naga,Naga I,Glossy Compound,Medium,19.60
+Aridia,Fabai,Naga,Naga I,Noble Gas,Medium,22.52
+Aridia,Fabai,Naga,Naga II,Lustering Alloy,Medium,24.54
+Aridia,Fabai,Naga,Naga II,Industrial Fibers,Medium,5.23
+Aridia,Fabai,Naga,Naga II,Supertensile Plastics,Medium,14.79
+Aridia,Fabai,Naga,Naga II,Construction Blocks,Poor,18.40
+Aridia,Fabai,Naga,Naga III,Lustering Alloy,Poor,13.76
+Aridia,Fabai,Naga,Naga III,Supertensile Plastics,Medium,12.59
+Aridia,Fabai,Naga,Naga III,Construction Blocks,Medium,24.04
+Aridia,Fabai,Naga,Naga III,Oxygen Isotopes,Poor,2.60
+Aridia,Fabai,Naga,Naga IV,Condensed Alloy,Perfect,36.66
+Aridia,Fabai,Naga,Naga IV,Opulent Compound,Perfect,33.46
+Aridia,Fabai,Naga,Naga IV,Condensates,Rich,20.45
+Aridia,Fabai,Naga,Naga IV,Heavy Water,Perfect,347.80
+Aridia,Fabai,Naga,Naga IV,Liquid Ozone,Medium,30.38
+Aridia,Fabai,Naga,Naga V,Condensed Alloy,Medium,20.90
+Aridia,Fabai,Naga,Naga V,Crystal Compound,Poor,17.60
+Aridia,Fabai,Naga,Naga V,Toxic Metals,Medium,5.07
+Aridia,Fabai,Naga,Naga V,Coolant,Medium,14.37
+Aridia,Fabai,Naga,Naga V,Liquid Ozone,Poor,22.35
+Aridia,Fabai,Naga,Naga VI,Glossy Compound,Medium,19.22
+Aridia,Fabai,Naga,Naga VI,Reactive Gas,Poor,17.36
+Aridia,Fabai,Naga,Naga VI,Reactive Metals,Poor,4.89
+Aridia,Fabai,Naga,Naga VI,Coolant,Medium,12.84
+Aridia,Fabai,Naga,Naga VI,Ionic Solutions,Rich,11.50
+Aridia,Fabai,Naga,Naga VII,Lustering Alloy,Rich,30.88
+Aridia,Fabai,Naga,Naga VII,Glossy Compound,Rich,28.64
+Aridia,Fabai,Naga,Naga VII,Reactive Gas,Poor,18.72
+Aridia,Fabai,Naga,Naga VII,Base Metals,Poor,4.91
+Aridia,Fabai,Naga,Naga VII,Reactive Metals,Medium,5.06
+Aridia,Fabai,Naga,Naga VIII,Lustering Alloy,Medium,21.00
+Aridia,Fabai,Naga,Naga VIII,Reactive Gas,Perfect,32.68
+Aridia,Fabai,Naga,Naga VIII,Base Metals,Medium,5.06
+Aridia,Fabai,Naga,Naga VIII,Coolant,Rich,19.81
+Aridia,Fabai,Naga,Naga VIII,Ionic Solutions,Rich,10.69
+Aridia,Fabai,Naga,Naga IX,Crystal Compound,Rich,31.72
+Aridia,Fabai,Naga,Naga IX,Toxic Metals,Rich,8.25
+Aridia,Fabai,Naga,Naga IX,Heavy Water,Poor,180.20
+Aridia,Fabai,Naga,Naga IX,Liquid Ozone,Poor,22.52
+Aridia,Fabai,Naga,Naga IX,Ionic Solutions,Poor,7.46
+Aridia,Fabai,Naga,Naga X,Glossy Compound,Poor,17.36
+Aridia,Fabai,Naga,Naga X,Reactive Gas,Medium,23.16
+Aridia,Fabai,Naga,Naga X,Polyaramids,Rich,17.01
+Aridia,Fabai,Naga,Naga X,Coolant,Medium,13.71
+Aridia,Fabai,Naga,Naga X,Ionic Solutions,Medium,8.43
+Aridia,Fabai,Naga,Naga XI,Lucent Compound,Rich,27.66
+Aridia,Fabai,Naga,Naga XI,Crystal Compound,Medium,22.90
+Aridia,Fabai,Naga,Naga XI,Reactive Metals,Rich,7.97
+Aridia,Fabai,Naga,Naga XI,Toxic Metals,Perfect,8.40
+Aridia,Fabai,Naga,Naga XII,Lustering Alloy,Poor,15.18
+Aridia,Fabai,Naga,Naga XII,Motley Compound,Rich,27.60
+Aridia,Fabai,Naga,Naga XII,Condensates,Poor,11.45
+Aridia,Fabai,Naga,Naga XII,Liquid Ozone,Poor,18.63
+Aridia,Fabai,Anath,Anath I,Gleaming Alloy,Poor,17.78
+Aridia,Fabai,Anath,Anath I,Motley Compound,Medium,20.18
+Aridia,Fabai,Anath,Anath I,Noble Gas,Poor,16.76
+Aridia,Fabai,Anath,Anath II,Precious Alloy,Medium,22.24
+Aridia,Fabai,Anath,Anath II,Toxic Metals,Medium,5.32
+Aridia,Fabai,Anath,Anath II,Industrial Fibers,Poor,4.89
+Aridia,Fabai,Anath,Anath II,Supertensile Plastics,Poor,9.31
+Aridia,Fabai,Anath,Anath III,Toxic Metals,Medium,5.26
+Aridia,Fabai,Anath,Anath III,Supertensile Plastics,Poor,8.92
+Aridia,Fabai,Anath,Anath III,Construction Blocks,Poor,12.58
+Aridia,Fabai,Anath,Anath III,Silicate Glass,Medium,10.54
+Aridia,Fabai,Anath,Anath IV,Fiber Composite,Rich,27.08
+Aridia,Fabai,Anath,Anath IV,Noble Metals,Perfect,36.42
+Aridia,Fabai,Anath,Anath IV,Smartfab Units,Rich,17.27
+Aridia,Fabai,Anath,Anath IV,Heavy Water,Rich,280.80
+Aridia,Fabai,Anath,Anath IV,Liquid Ozone,Medium,29.00
+Aridia,Fabai,Anath,Anath V,Gleaming Alloy,Rich,25.70
+Aridia,Fabai,Anath,Anath V,Lucent Compound,Medium,22.50
+Aridia,Fabai,Anath,Anath V,Reactive Metals,Rich,7.55
+Aridia,Fabai,Anath,Anath V,Suspended Plasma,Poor,58.46
+Aridia,Fabai,Anath,Anath VI,Reactive Gas,Rich,25.52
+Aridia,Fabai,Anath,Anath VI,Noble Gas,Rich,25.68
+Aridia,Fabai,Anath,Anath VI,Base Metals,Medium,5.49
+Aridia,Fabai,Anath,Anath VI,Reactive Metals,Rich,8.21
+Aridia,Fabai,Anath,Anath VI,Ionic Solutions,Rich,12.52
+Aridia,Fabai,Anath,Anath VII,Lustering Alloy,Medium,23.88
+Aridia,Fabai,Anath,Anath VII,Fiber Composite,Poor,17.86
+Aridia,Fabai,Anath,Anath VII,Glossy Compound,Rich,26.42
+Aridia,Fabai,Anath,Anath VII,Reactive Gas,Medium,18.98
+Aridia,Fabai,Anath,Anath VII,Base Metals,Medium,6.62
+Aridia,Fabai,Anath,Anath VIII,Sheen Compound,Medium,24.68
+Aridia,Fabai,Anath,Anath VIII,Reactive Gas,Rich,28.20
+Aridia,Fabai,Anath,Anath VIII,Noble Gas,Rich,29.06
+Aridia,Fabai,Anath,Anath VIII,Base Metals,Poor,4.76
+Aridia,Fabai,Anath,Anath VIII,Reactive Metals,Rich,7.92
+Aridia,Fabai,Omigiav,Omigiav I,Lustering Alloy,Poor,13.55
+Aridia,Fabai,Omigiav,Omigiav I,Industrial Fibers,Poor,3.72
+Aridia,Fabai,Omigiav,Omigiav I,Supertensile Plastics,Poor,8.04
+Aridia,Fabai,Omigiav,Omigiav II,Sheen Compound,Rich,24.21
+Aridia,Fabai,Omigiav,Omigiav II,Reactive Gas,Rich,30.17
+Aridia,Fabai,Omigiav,Omigiav II,Noble Gas,Rich,24.15
+Aridia,Fabai,Omigiav,Omigiav II,Polyaramids,Rich,19.89
+Aridia,Fabai,Omigiav,Omigiav III,Sheen Compound,Perfect,30.70
+Aridia,Fabai,Omigiav,Omigiav III,Reactive Gas,Rich,29.73
+Aridia,Fabai,Omigiav,Omigiav III,Noble Gas,Medium,22.10
+Aridia,Fabai,Omigiav,Omigiav III,Coolant,Rich,17.14
+Aridia,Fabai,Omigiav,Omigiav IV,Base Metals,Poor,3.88
+Aridia,Fabai,Omigiav,Omigiav IV,Coolant,Poor,11.24
+Aridia,Fabai,Omigiav,Omigiav IV,Liquid Ozone,Medium,23.92
+Aridia,Fabai,Omigiav,Omigiav V,Precious Alloy,Medium,19.23
+Aridia,Fabai,Omigiav,Omigiav V,Dark Compound,Poor,17.40
+Aridia,Fabai,Omigiav,Omigiav V,Industrial Fibers,Medium,5.97
+Aridia,Selonat,Fobiner,Fobiner I,Industrial Fibers,Medium,5.91
+Aridia,Selonat,Fobiner,Fobiner I,Supertensile Plastics,Poor,11.75
+Aridia,Selonat,Fobiner,Fobiner I,Oxygen Isotopes,Poor,2.26
+Aridia,Selonat,Fobiner,Fobiner II,Lustering Alloy,Poor,15.01
+Aridia,Selonat,Fobiner,Fobiner II,Industrial Fibers,Medium,5.51
+Aridia,Selonat,Fobiner,Fobiner II,Supertensile Plastics,Poor,10.86
+Aridia,Selonat,Fobiner,Fobiner III,Lustering Alloy,Medium,22.14
+Aridia,Selonat,Fobiner,Fobiner III,Base Metals,Poor,4.42
+Aridia,Selonat,Fobiner,Fobiner III,Industrial Fibers,Poor,3.57
+Aridia,Selonat,Fobiner,Fobiner IV,Base Metals,Poor,4.09
+Aridia,Selonat,Fobiner,Fobiner IV,Industrial Fibers,Medium,4.86
+Aridia,Selonat,Fobiner,Fobiner IV,Plasmoids,Poor,0.95
+Aridia,Selonat,Fobiner,Fobiner V,Fiber Composite,Medium,23.07
+Aridia,Selonat,Fobiner,Fobiner V,Base Metals,Medium,4.87
+Aridia,Selonat,Fobiner,Fobiner V,Smartfab Units,Perfect,22.93
+Aridia,Selonat,Fobiner,Fobiner V,Heavy Water,Perfect,349.22
+Aridia,Selonat,Fobiner,Fobiner VI,Fiber Composite,Rich,25.35
+Aridia,Selonat,Fobiner,Fobiner VI,Noble Gas,Medium,20.46
+Aridia,Selonat,Fobiner,Fobiner VI,Coolant,Rich,19.79
+Aridia,Selonat,Fobiner,Fobiner VI,Ionic Solutions,Poor,6.74
+Aridia,Selonat,Fobiner,Fobiner VII,Reactive Gas,Rich,29.47
+Aridia,Selonat,Fobiner,Fobiner VII,Noble Gas,Rich,26.85
+Aridia,Selonat,Fobiner,Fobiner VII,Reactive Metals,Rich,7.52
+Aridia,Selonat,Fobiner,Fobiner VII,Ionic Solutions,Poor,6.29
+Aridia,Selonat,Fobiner,Fobiner VIII,Glossy Compound,Rich,25.80
+Aridia,Selonat,Fobiner,Fobiner VIII,Noble Gas,Rich,24.57
+Aridia,Selonat,Fobiner,Fobiner VIII,Coolant,Rich,16.77
+Aridia,Selonat,Fobiner,Fobiner VIII,Ionic Solutions,Medium,8.47
+Aridia,Selonat,Fobiner,Fobiner IX,Sheen Compound,Poor,16.17
+Aridia,Selonat,Fobiner,Fobiner IX,Reactive Gas,Perfect,31.33
+Aridia,Selonat,Fobiner,Fobiner IX,Noble Gas,Rich,25.76
+Aridia,Selonat,Fobiner,Fobiner IX,Ionic Solutions,Rich,9.73
+Aridia,Selonat,Fobiner,Fobiner X,Crystal Compound,Poor,17.35
+Aridia,Selonat,Fobiner,Fobiner X,Polyaramids,Medium,14.92
+Aridia,Selonat,Fobiner,Fobiner X,Coolant,Rich,18.51
+Aridia,Selonat,Fobiner,Fobiner X,Ionic Solutions,Poor,7.01
+Aridia,Selonat,Huna,Huna I,Construction Blocks,Medium,22.86
+Aridia,Selonat,Huna,Huna I,Suspended Plasma,Poor,57.25
+Aridia,Selonat,Huna,Huna I,Oxygen Isotopes,Rich,4.30
+Aridia,Selonat,Huna,Huna II,Noble Gas,Perfect,30.27
+Aridia,Selonat,Huna,Huna II,Base Metals,Rich,7.64
+Aridia,Selonat,Huna,Huna II,Polyaramids,Medium,14.31
+Aridia,Selonat,Huna,Huna II,Coolant,Poor,11.83
+Aridia,Selonat,Huna,Huna III,Lustering Alloy,Rich,29.83
+Aridia,Selonat,Huna,Huna III,Glossy Compound,Medium,18.79
+Aridia,Selonat,Huna,Huna III,Noble Gas,Rich,24.36
+Aridia,Selonat,Huna,Huna III,Reactive Metals,Perfect,8.21
+Aridia,Selonat,Huna,Huna IV,Fiber Composite,Medium,21.79
+Aridia,Selonat,Huna,Huna IV,Noble Gas,Rich,28.52
+Aridia,Selonat,Huna,Huna IV,Base Metals,Medium,5.66
+Aridia,Selonat,Huna,Huna IV,Reactive Metals,Poor,4.41
+Aridia,Selonat,Huna,Huna V,Industrial Fibers,Poor,4.12
+Aridia,Selonat,Huna,Huna V,Coolant,Medium,13.01
+Aridia,Selonat,Huna,Huna V,Liquid Ozone,Poor,21.68
+Aridia,Selonat,Huna,Huna VI,Heavy Metals,Poor,13.85
+Aridia,Selonat,Huna,Huna VI,Coolant,Poor,11.03
+Aridia,Selonat,Huna,Huna VI,Liquid Ozone,Poor,19.29
+Aridia,Selonat,Esaeel,Esaeel I,Lucent Compound,Medium,21.24
+Aridia,Selonat,Esaeel,Esaeel I,Toxic Metals,Medium,4.95
+Aridia,Selonat,Esaeel,Esaeel I,Construction Blocks,Perfect,30.72
+Aridia,Selonat,Esaeel,Esaeel II,Dark Compound,Medium,22.19
+Aridia,Selonat,Esaeel,Esaeel II,Industrial Fibers,Medium,5.07
+Aridia,Selonat,Esaeel,Esaeel II,Oxygen Isotopes,Poor,2.48
+Aridia,Selonat,Esaeel,Esaeel III,Lustering Alloy,Medium,22.31
+Aridia,Selonat,Esaeel,Esaeel III,Sheen Compound,Rich,27.74
+Aridia,Selonat,Esaeel,Esaeel III,Reactive Gas,Medium,20.39
+Aridia,Selonat,Esaeel,Esaeel III,Noble Gas,Rich,26.66
+Aridia,Selonat,Esaeel,Esaeel IV,Lustering Alloy,Perfect,30.36
+Aridia,Selonat,Esaeel,Esaeel IV,Glossy Compound,Rich,26.83
+Aridia,Selonat,Esaeel,Esaeel IV,Noble Gas,Rich,24.85
+Aridia,Selonat,Esaeel,Esaeel IV,Coolant,Perfect,20.44
+Aridia,Selonat,Esaeel,Esaeel V,Sheen Compound,Medium,20.52
+Aridia,Selonat,Esaeel,Esaeel V,Glossy Compound,Poor,15.75
+Aridia,Selonat,Esaeel,Esaeel V,Noble Gas,Medium,20.31
+Aridia,Selonat,Esaeel,Esaeel V,Polyaramids,Medium,14.54
+Aridia,Selonat,Esaeel,Esaeel VI,Lustering Alloy,Perfect,30.44
+Aridia,Selonat,Esaeel,Esaeel VI,Noble Gas,Medium,18.43
+Aridia,Selonat,Esaeel,Esaeel VI,Base Metals,Medium,5.29
+Aridia,Selonat,Esaeel,Esaeel VI,Ionic Solutions,Rich,9.90
+Aridia,Selonat,Esaeel,Esaeel VII,Supertensile Plastics,Rich,18.67
+Aridia,Selonat,Esaeel,Esaeel VII,Coolant,Poor,11.51
+Aridia,Selonat,Esaeel,Esaeel VII,Liquid Ozone,Rich,31.06
+Aridia,Selonat,Esaeel,Esaeel VIII,Precious Alloy,Poor,14.12
+Aridia,Selonat,Esaeel,Esaeel VIII,Industrial Fibers,Poor,3.98
+Aridia,Selonat,Esaeel,Esaeel VIII,Oxygen Isotopes,Medium,3.45
+Aridia,Selonat,Esaeel,Esaeel IX,Supertensile Plastics,Medium,14.44
+Aridia,Selonat,Esaeel,Esaeel IX,Coolant,Poor,10.80
+Aridia,Selonat,Esaeel,Esaeel IX,Liquid Ozone,Medium,26.62
+Aridia,Selonat,Karan,Karan I,Base Metals,Poor,4.68
+Aridia,Selonat,Karan,Karan I,Supertensile Plastics,Poor,8.88
+Aridia,Selonat,Karan,Karan I,Silicate Glass,Poor,6.43
+Aridia,Selonat,Karan,Karan I,Oxygen Isotopes,Poor,2.43
+Aridia,Selonat,Karan,Karan II,Gleaming Alloy,Poor,18.22
+Aridia,Selonat,Karan,Karan II,Glossy Compound,Medium,21.28
+Aridia,Selonat,Karan,Karan II,Construction Blocks,Medium,22.38
+Aridia,Selonat,Karan,Karan III,Reactive Gas,Medium,20.54
+Aridia,Selonat,Karan,Karan III,Noble Metals,Medium,20.36
+Aridia,Selonat,Karan,Karan III,Industrial Fibers,Perfect,9.48
+Aridia,Selonat,Karan,Karan III,Condensates,Rich,16.95
+Aridia,Selonat,Karan,Karan III,Liquid Ozone,Medium,23.77
+Aridia,Selonat,Karan,Karan IV,Fiber Composite,Medium,19.70
+Aridia,Selonat,Karan,Karan IV,Opulent Compound,Rich,26.08
+Aridia,Selonat,Karan,Karan IV,Base Metals,Medium,6.23
+Aridia,Selonat,Karan,Karan IV,Industrial Fibers,Perfect,8.86
+Aridia,Selonat,Karan,Karan IV,Liquid Ozone,Medium,25.75
+Aridia,Selonat,Karan,Karan V,Reactive Gas,Poor,17.28
+Aridia,Selonat,Karan,Karan V,Reactive Metals,Medium,5.52
+Aridia,Selonat,Karan,Karan V,Construction Blocks,Medium,25.14
+Aridia,Selonat,Karan,Karan V,Nanites,Rich,8.00
+Aridia,Selonat,Karan,Karan VI,Reactive Metals,Poor,4.82
+Aridia,Selonat,Karan,Karan VI,Toxic Metals,Rich,6.76
+Aridia,Selonat,Karan,Karan VI,Nanites,Rich,7.52
+Aridia,Selonat,Karan,Karan VI,Suspended Plasma,Medium,81.22
+Aridia,Selonat,Karan,Karan VII,Precious Alloy,Poor,14.20
+Aridia,Selonat,Karan,Karan VII,Supertensile Plastics,Poor,11.15
+Aridia,Selonat,Karan,Karan VII,Silicate Glass,Poor,6.90
+Aridia,Selonat,Karan,Karan VII,Plasmoids,Poor,0.94
+Aridia,Selonat,Karan,Karan VIII,Sheen Compound,Poor,17.92
+Aridia,Selonat,Karan,Karan VIII,Fiber Composite,Poor,18.48
+Aridia,Selonat,Karan,Karan VIII,Reactive Gas,Rich,27.90
+Aridia,Selonat,Karan,Karan VIII,Noble Gas,Medium,20.98
+Aridia,Selonat,Karan,Karan VIII,Coolant,Medium,14.85
+Aridia,Selonat,Karan,Karan IX,Fiber Composite,Medium,21.22
+Aridia,Selonat,Karan,Karan IX,Glossy Compound,Rich,29.12
+Aridia,Selonat,Karan,Karan IX,Reactive Gas,Rich,27.08
+Aridia,Selonat,Karan,Karan IX,Noble Gas,Medium,23.32
+Aridia,Selonat,Karan,Karan IX,Polyaramids,Rich,20.03
+Aridia,Selonat,Karan,Karan X,Sheen Compound,Medium,19.32
+Aridia,Selonat,Karan,Karan X,Fiber Composite,Rich,28.74
+Aridia,Selonat,Karan,Karan X,Glossy Compound,Rich,30.60
+Aridia,Selonat,Karan,Karan X,Reactive Gas,Perfect,31.78
+Aridia,Selonat,Karan,Karan X,Polyaramids,Perfect,21.45
+Aridia,Selonat,Nouta,Nouta I,Dark Compound,Poor,16.18
+Aridia,Selonat,Nouta,Nouta I,Toxic Metals,Poor,3.04
+Aridia,Selonat,Nouta,Nouta I,Industrial Fibers,Medium,4.72
+Aridia,Selonat,Nouta,Nouta II,Industrial Fibers,Poor,3.26
+Aridia,Selonat,Nouta,Nouta II,Oxygen Isotopes,Medium,3.00
+Aridia,Selonat,Nouta,Nouta II,Plasmoids,Poor,1.00
+Aridia,Selonat,Nouta,Nouta III,Condensed Alloy,Medium,20.27
+Aridia,Selonat,Nouta,Nouta III,Coolant,Perfect,20.94
+Aridia,Selonat,Nouta,Nouta III,Silicate Glass,Rich,13.48
+Aridia,Selonat,Nouta,Nouta III,Heavy Water,Rich,245.16
+Aridia,Selonat,Nouta,Nouta IV,Lustering Alloy,Medium,17.44
+Aridia,Selonat,Nouta,Nouta IV,Industrial Fibers,Medium,5.22
+Aridia,Selonat,Nouta,Nouta IV,Plasmoids,Poor,0.91
+Aridia,Selonat,Nouta,Nouta V,Dark Compound,Poor,15.93
+Aridia,Selonat,Nouta,Nouta V,Industrial Fibers,Medium,4.74
+Aridia,Selonat,Nouta,Nouta V,Supertensile Plastics,Medium,11.64
+Aridia,Selonat,Nouta,Nouta VI,Lucent Compound,Rich,26.06
+Aridia,Selonat,Nouta,Nouta VI,Reactive Gas,Poor,14.87
+Aridia,Selonat,Nouta,Nouta VI,Construction Blocks,Medium,22.12
+Aridia,Selonat,Nouta,Nouta VII,Glossy Compound,Rich,26.28
+Aridia,Selonat,Nouta,Nouta VII,Reactive Gas,Rich,24.64
+Aridia,Selonat,Nouta,Nouta VII,Noble Gas,Medium,21.64
+Aridia,Selonat,Nouta,Nouta VII,Polyaramids,Medium,14.27
+Aridia,Selonat,Nouta,Nouta VIII,Lustering Alloy,Medium,22.73
+Aridia,Selonat,Nouta,Nouta VIII,Noble Gas,Perfect,29.18
+Aridia,Selonat,Nouta,Nouta VIII,Base Metals,Rich,6.45
+Aridia,Selonat,Nouta,Nouta VIII,Coolant,Medium,12.37
+Aridia,Selonat,Nouta,Nouta IX,Sheen Compound,Poor,16.07
+Aridia,Selonat,Nouta,Nouta IX,Noble Gas,Poor,16.04
+Aridia,Selonat,Nouta,Nouta IX,Base Metals,Medium,5.73
+Aridia,Selonat,Nouta,Nouta IX,Coolant,Medium,14.22
+Aridia,Selonat,Ned,Ned I,Noble Gas,Perfect,31.98
+Aridia,Selonat,Ned,Ned I,Polyaramids,Medium,15.68
+Aridia,Selonat,Ned,Ned II,Base Metals,Medium,4.97
+Aridia,Selonat,Ned,Ned II,Industrial Fibers,Poor,3.69
+Aridia,Selonat,Ned,Ned II,Plasmoids,Medium,1.36
+Aridia,Selonat,Ned,Ned III,Fiber Composite,Perfect,35.66
+Aridia,Selonat,Ned,Ned III,Reactive Gas,Poor,17.69
+Aridia,Selonat,Ned,Ned III,Industrial Fibers,Rich,7.59
+Aridia,Selonat,Ned,Ned III,Condensates,Medium,12.39
+Aridia,Selonat,Ned,Ned IV,Fiber Composite,Perfect,36.16
+Aridia,Selonat,Ned,Ned IV,Base Metals,Rich,7.91
+Aridia,Selonat,Ned,Ned IV,Industrial Fibers,Perfect,8.88
+Aridia,Selonat,Ned,Ned IV,Heavy Water,Medium,188.48
+Aridia,Selonat,Ned,Ned V,Lustering Alloy,Rich,25.63
+Aridia,Selonat,Ned,Ned V,Reactive Gas,Poor,16.53
+Aridia,Selonat,Ned,Ned V,Noble Gas,Medium,22.14
+Aridia,Selonat,Ned,Ned V,Polyaramids,Rich,18.49
+Aridia,Selonat,Ned,Ned VI,Dark Compound,Poor,14.57
+Aridia,Selonat,Ned,Ned VI,Industrial Fibers,Poor,3.37
+Aridia,Selonat,Ned,Ned VI,Oxygen Isotopes,Medium,3.49
+Aridia,Selonat,Hophib,Hophib I,Sheen Compound,Medium,20.90
+Aridia,Selonat,Hophib,Hophib I,Condensates,Rich,20.12
+Aridia,Selonat,Hophib,Hophib I,Suspended Plasma,Rich,113.40
+Aridia,Selonat,Hophib,Hophib I,Ionic Solutions,Medium,8.51
+Aridia,Selonat,Hophib,Hophib I,Plasmoids,Rich,1.73
+Aridia,Selonat,Hophib,Hophib II,Industrial Fibers,Medium,5.95
+Aridia,Selonat,Hophib,Hophib II,Supertensile Plastics,Medium,15.03
+Aridia,Selonat,Hophib,Hophib II,Oxygen Isotopes,Poor,2.09
+Aridia,Selonat,Hophib,Hophib II,Plasmoids,Medium,1.16
+Aridia,Selonat,Hophib,Hophib III,Precious Alloy,Medium,21.28
+Aridia,Selonat,Hophib,Hophib III,Dark Compound,Poor,18.30
+Aridia,Selonat,Hophib,Hophib III,Toxic Metals,Poor,3.83
+Aridia,Selonat,Hophib,Hophib III,Supertensile Plastics,Medium,15.13
+Aridia,Selonat,Hophib,Hophib IV,Dark Compound,Medium,22.84
+Aridia,Selonat,Hophib,Hophib IV,Base Metals,Poor,3.35
+Aridia,Selonat,Hophib,Hophib IV,Supertensile Plastics,Medium,13.25
+Aridia,Selonat,Hophib,Hophib IV,Plasmoids,Poor,0.84
+Aridia,Selonat,Hophib,Hophib V,Noble Gas,Rich,28.76
+Aridia,Selonat,Hophib,Hophib V,Heavy Metals,Perfect,33.18
+Aridia,Selonat,Hophib,Hophib V,Reactive Metals,Rich,6.84
+Aridia,Selonat,Hophib,Hophib V,Condensates,Medium,13.32
+Aridia,Selonat,Hophib,Hophib V,Plasmoids,Medium,1.36
+Aridia,Selonat,Hophib,Hophib VI,Lustering Alloy,Medium,23.96
+Aridia,Selonat,Hophib,Hophib VI,Glossy Compound,Poor,17.66
+Aridia,Selonat,Hophib,Hophib VI,Reactive Gas,Rich,26.38
+Aridia,Selonat,Hophib,Hophib VI,Reactive Metals,Medium,5.13
+Aridia,Selonat,Hophib,Hophib VI,Coolant,Perfect,21.87
+Aridia,Selonat,Hophib,Hophib VII,Base Metals,Poor,4.33
+Aridia,Selonat,Hophib,Hophib VII,Supertensile Plastics,Poor,11.73
+Aridia,Selonat,Hophib,Hophib VII,Oxygen Isotopes,Medium,3.11
+Aridia,Selonat,Hophib,Hophib VII,Plasmoids,Poor,0.87
+Aridia,Selonat,Hophib,Hophib VIII,Glossy Compound,Perfect,31.86
+Aridia,Selonat,Hophib,Hophib VIII,Reactive Gas,Rich,31.50
+Aridia,Selonat,Hophib,Hophib VIII,Noble Gas,Rich,31.06
+Aridia,Selonat,Hophib,Hophib VIII,Base Metals,Perfect,8.52
+Aridia,Selonat,Hophib,Hophib VIII,Coolant,Medium,15.36
+Aridia,Selonat,Hophib,Hophib IX,Sheen Compound,Rich,25.82
+Aridia,Selonat,Hophib,Hophib IX,Reactive Gas,Medium,21.64
+Aridia,Selonat,Hophib,Hophib IX,Base Metals,Medium,5.21
+Aridia,Selonat,Hophib,Hophib IX,Reactive Metals,Poor,4.73
+Aridia,Selonat,Hophib,Hophib IX,Polyaramids,Medium,13.36
+Aridia,Selonat,Hophib,Hophib X,Lustering Alloy,Perfect,32.30
+Aridia,Selonat,Hophib,Hophib X,Reactive Gas,Medium,20.70
+Aridia,Selonat,Hophib,Hophib X,Base Metals,Poor,4.71
+Aridia,Selonat,Hophib,Hophib X,Reactive Metals,Rich,7.03
+Aridia,Selonat,Hophib,Hophib X,Coolant,Rich,19.97
+Aridia,Selonat,Hophib,Hophib XI,Sheen Compound,Rich,29.42
+Aridia,Selonat,Hophib,Hophib XI,Dark Compound,Rich,25.44
+Aridia,Selonat,Hophib,Hophib XI,Condensates,Medium,16.83
+Aridia,Selonat,Hophib,Hophib XI,Nanites,Poor,4.84
+Aridia,Selonat,Hophib,Hophib XI,Suspended Plasma,Medium,85.75
+Aridia,Selonat,Hophib,Hophib XII,Crystal Compound,Medium,19.84
+Aridia,Selonat,Hophib,Hophib XII,Noble Metals,Rich,29.34
+Aridia,Selonat,Hophib,Hophib XII,Toxic Metals,Rich,8.10
+Aridia,Selonat,Hophib,Hophib XII,Coolant,Medium,14.84
+Aridia,Selonat,Hophib,Hophib XII,Liquid Ozone,Poor,22.40
+Aridia,Selonat,Hophib,Hophib XIII,Condensed Alloy,Medium,23.10
+Aridia,Selonat,Hophib,Hophib XIII,Opulent Compound,Rich,30.40
+Aridia,Selonat,Hophib,Hophib XIII,Polyaramids,Rich,18.24
+Aridia,Selonat,Hophib,Hophib XIII,Liquid Ozone,Rich,32.40
+Aridia,Selonat,Hophib,Hophib XIII,Ionic Solutions,Medium,9.39
+Aridia,Selonat,Hophib,Hophib XIV,Crystal Compound,Medium,24.90
+Aridia,Selonat,Hophib,Hophib XIV,Toxic Metals,Rich,8.26
+Aridia,Selonat,Hophib,Hophib XIV,Coolant,Perfect,21.23
+Aridia,Selonat,Hophib,Hophib XIV,Liquid Ozone,Rich,38.15
+Aridia,Selonat,Hophib,Hophib XIV,Ionic Solutions,Perfect,13.75

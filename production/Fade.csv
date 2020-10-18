@@ -1,0 +1,1033 @@
+Region,Constellation,System,Name,Item,Rate,Output
+Fade,XFLN-F,C8-CHY,C8-CHY I,Lustering Alloy,Poor,15.73
+Fade,XFLN-F,C8-CHY,C8-CHY I,Supertensile Plastics,Medium,16.65
+Fade,XFLN-F,C8-CHY,C8-CHY I,Oxygen Isotopes,Poor,2.33
+Fade,XFLN-F,C8-CHY,C8-CHY I,Plasmoids,Medium,1.36
+Fade,XFLN-F,C8-CHY,C8-CHY II,Gleaming Alloy,Rich,30.98
+Fade,XFLN-F,C8-CHY,C8-CHY II,Motley Compound,Rich,34.78
+Fade,XFLN-F,C8-CHY,C8-CHY II,Glossy Compound,Rich,29.59
+Fade,XFLN-F,C8-CHY,C8-CHY III,Toxic Metals,Poor,3.68
+Fade,XFLN-F,C8-CHY,C8-CHY III,Industrial Fibers,Poor,3.85
+Fade,XFLN-F,C8-CHY,C8-CHY III,Supertensile Plastics,Medium,17.51
+Fade,XFLN-F,C8-CHY,C8-CHY III,Plasmoids,Medium,1.27
+Fade,XFLN-F,C8-CHY,C8-CHY IV,Gleaming Alloy,Rich,32.69
+Fade,XFLN-F,C8-CHY,C8-CHY IV,Motley Compound,Perfect,35.88
+Fade,XFLN-F,C8-CHY,C8-CHY IV,Construction Blocks,Rich,31.24
+Fade,XFLN-F,C8-CHY,C8-CHY V,Fiber Composite,Medium,22.62
+Fade,XFLN-F,C8-CHY,C8-CHY V,Base Metals,Medium,6.58
+Fade,XFLN-F,C8-CHY,C8-CHY V,Condensates,Perfect,25.67
+Fade,XFLN-F,C8-CHY,C8-CHY V,Smartfab Units,Perfect,26.80
+Fade,XFLN-F,C8-CHY,C8-CHY V,Liquid Ozone,Medium,28.90
+Fade,XFLN-F,C8-CHY,C8-CHY VI,Condensed Alloy,Medium,21.19
+Fade,XFLN-F,C8-CHY,C8-CHY VI,Opulent Compound,Perfect,35.86
+Fade,XFLN-F,C8-CHY,C8-CHY VI,Coolant,Medium,18.36
+Fade,XFLN-F,C8-CHY,C8-CHY VI,Silicate Glass,Poor,10.15
+Fade,XFLN-F,C8-CHY,C8-CHY VI,Liquid Ozone,Perfect,44.00
+Fade,XFLN-F,C8-CHY,C8-CHY VII,Precious Alloy,Medium,24.77
+Fade,XFLN-F,C8-CHY,C8-CHY VII,Motley Compound,Rich,32.16
+Fade,XFLN-F,C8-CHY,C8-CHY VII,Condensates,Medium,17.76
+Fade,XFLN-F,C8-CHY,C8-CHY VII,Suspended Plasma,Medium,76.74
+Fade,XFLN-F,C8-CHY,C8-CHY VIII,Glossy Compound,Rich,28.31
+Fade,XFLN-F,C8-CHY,C8-CHY VIII,Reactive Gas,Rich,31.44
+Fade,XFLN-F,C8-CHY,C8-CHY VIII,Reactive Metals,Poor,5.11
+Fade,XFLN-F,C8-CHY,C8-CHY VIII,Polyaramids,Rich,22.15
+Fade,XFLN-F,C8-CHY,C8-CHY VIII,Coolant,Medium,17.48
+Fade,XFLN-F,C8-CHY,C8-CHY IX,Fiber Composite,Rich,34.34
+Fade,XFLN-F,C8-CHY,C8-CHY IX,Reactive Gas,Rich,30.23
+Fade,XFLN-F,C8-CHY,C8-CHY IX,Reactive Metals,Rich,7.86
+Fade,XFLN-F,C8-CHY,C8-CHY IX,Coolant,Medium,14.23
+Fade,XFLN-F,C8-CHY,C8-CHY IX,Ionic Solutions,Medium,10.47
+Fade,XFLN-F,C8-CHY,C8-CHY X,Sheen Compound,Poor,18.17
+Fade,XFLN-F,C8-CHY,C8-CHY X,Fiber Composite,Rich,34.10
+Fade,XFLN-F,C8-CHY,C8-CHY X,Glossy Compound,Rich,29.83
+Fade,XFLN-F,C8-CHY,C8-CHY X,Reactive Gas,Rich,31.55
+Fade,XFLN-F,C8-CHY,C8-CHY X,Coolant,Medium,14.05
+Fade,XFLN-F,C8-CHY,C8-CHY XI,Supertensile Plastics,Medium,17.48
+Fade,XFLN-F,C8-CHY,C8-CHY XI,Construction Blocks,Poor,16.37
+Fade,XFLN-F,C8-CHY,C8-CHY XI,Oxygen Isotopes,Medium,4.02
+Fade,XFLN-F,C8-CHY,C8-CHY XI,Plasmoids,Poor,0.83
+Fade,XFLN-F,C8-CHY,C8-CHY XII,Coolant,Medium,15.31
+Fade,XFLN-F,C8-CHY,C8-CHY XII,Condensates,Poor,11.29
+Fade,XFLN-F,C8-CHY,C8-CHY XII,Suspended Plasma,Poor,74.45
+Fade,XFLN-F,C8-CHY,C8-CHY XII,Liquid Ozone,Poor,23.90
+Fade,XFLN-F,E-9ORY,E-9ORY I,Gleaming Alloy,Rich,28.84
+Fade,XFLN-F,E-9ORY,E-9ORY I,Motley Compound,Medium,27.74
+Fade,XFLN-F,E-9ORY,E-9ORY I,Noble Gas,Poor,19.54
+Fade,XFLN-F,E-9ORY,E-9ORY II,Supertensile Plastics,Poor,10.55
+Fade,XFLN-F,E-9ORY,E-9ORY II,Construction Blocks,Medium,24.20
+Fade,XFLN-F,E-9ORY,E-9ORY II,Silicate Glass,Poor,8.13
+Fade,XFLN-F,E-9ORY,E-9ORY II,Plasmoids,Poor,1.07
+Fade,XFLN-F,E-9ORY,E-9ORY III,Gleaming Alloy,Rich,28.69
+Fade,XFLN-F,E-9ORY,E-9ORY III,Glossy Compound,Perfect,36.01
+Fade,XFLN-F,E-9ORY,E-9ORY III,Smartfab Units,Perfect,24.58
+Fade,XFLN-F,E-9ORY,E-9ORY IV,Condensed Alloy,Perfect,38.26
+Fade,XFLN-F,E-9ORY,E-9ORY IV,Reactive Gas,Rich,34.63
+Fade,XFLN-F,E-9ORY,E-9ORY IV,Base Metals,Perfect,10.99
+Fade,XFLN-F,E-9ORY,E-9ORY IV,Condensates,Rich,19.24
+Fade,XFLN-F,E-9ORY,E-9ORY IV,Liquid Ozone,Medium,31.98
+Fade,XFLN-F,E-9ORY,E-9ORY V,Reactive Gas,Perfect,36.83
+Fade,XFLN-F,E-9ORY,E-9ORY V,Noble Metals,Medium,20.97
+Fade,XFLN-F,E-9ORY,E-9ORY V,Condensates,Perfect,26.41
+Fade,XFLN-F,E-9ORY,E-9ORY V,Smartfab Units,Rich,22.63
+Fade,XFLN-F,E-9ORY,E-9ORY V,Liquid Ozone,Perfect,50.52
+Fade,XFLN-F,E-9ORY,E-9ORY VI,Base Metals,Perfect,9.85
+Fade,XFLN-F,E-9ORY,E-9ORY VI,Noble Metals,Rich,34.63
+Fade,XFLN-F,E-9ORY,E-9ORY VI,Industrial Fibers,Perfect,9.58
+Fade,XFLN-F,E-9ORY,E-9ORY VI,Condensates,Medium,15.34
+Fade,XFLN-F,E-9ORY,E-9ORY VI,Liquid Ozone,Medium,27.89
+Fade,XFLN-F,E-9ORY,E-9ORY VII,Reactive Gas,Medium,25.83
+Fade,XFLN-F,E-9ORY,E-9ORY VII,Reactive Metals,Rich,8.42
+Fade,XFLN-F,E-9ORY,E-9ORY VII,Construction Blocks,Medium,21.67
+Fade,XFLN-F,E-9ORY,E-9ORY VII,Suspended Plasma,Rich,121.81
+Fade,XFLN-F,E-9ORY,E-9ORY VIII,Glossy Compound,Rich,28.82
+Fade,XFLN-F,E-9ORY,E-9ORY VIII,Reactive Gas,Medium,26.38
+Fade,XFLN-F,E-9ORY,E-9ORY VIII,Noble Gas,Rich,30.73
+Fade,XFLN-F,E-9ORY,E-9ORY VIII,Base Metals,Perfect,9.38
+Fade,XFLN-F,E-9ORY,E-9ORY VIII,Coolant,Rich,21.16
+Fade,XFLN-F,E-9ORY,E-9ORY IX,Base Metals,Medium,5.64
+Fade,XFLN-F,E-9ORY,E-9ORY IX,Industrial Fibers,Medium,5.77
+Fade,XFLN-F,E-9ORY,E-9ORY IX,Supertensile Plastics,Poor,11.28
+Fade,XFLN-F,E-9ORY,E-9ORY IX,Construction Blocks,Poor,17.89
+Fade,XFLN-F,CR-IFM,CR-IFM I,Gleaming Alloy,Rich,34.80
+Fade,XFLN-F,CR-IFM,CR-IFM I,Glossy Compound,Medium,28.77
+Fade,XFLN-F,CR-IFM,CR-IFM I,Noble Metals,Rich,34.55
+Fade,XFLN-F,CR-IFM,CR-IFM II,Lustering Alloy,Medium,28.24
+Fade,XFLN-F,CR-IFM,CR-IFM II,Toxic Metals,Poor,4.88
+Fade,XFLN-F,CR-IFM,CR-IFM II,Supertensile Plastics,Poor,9.58
+Fade,XFLN-F,CR-IFM,CR-IFM II,Oxygen Isotopes,Medium,3.81
+Fade,XFLN-F,CR-IFM,CR-IFM III,Reactive Gas,Rich,32.57
+Fade,XFLN-F,CR-IFM,CR-IFM III,Reactive Metals,Medium,7.55
+Fade,XFLN-F,CR-IFM,CR-IFM III,Nanites,Rich,9.15
+Fade,XFLN-F,CR-IFM,CR-IFM III,Oxygen Isotopes,Medium,3.49
+Fade,XFLN-F,CR-IFM,CR-IFM IV,Lustering Alloy,Medium,22.08
+Fade,XFLN-F,CR-IFM,CR-IFM IV,Base Metals,Medium,7.01
+Fade,XFLN-F,CR-IFM,CR-IFM IV,Supertensile Plastics,Poor,11.67
+Fade,XFLN-F,CR-IFM,CR-IFM IV,Silicate Glass,Medium,11.78
+Fade,XFLN-F,CR-IFM,CR-IFM V,Crystal Compound,Poor,21.62
+Fade,XFLN-F,CR-IFM,CR-IFM V,Noble Metals,Perfect,37.42
+Fade,XFLN-F,CR-IFM,CR-IFM V,Coolant,Medium,15.89
+Fade,XFLN-F,CR-IFM,CR-IFM V,Liquid Ozone,Medium,27.51
+Fade,XFLN-F,CR-IFM,CR-IFM V,Ionic Solutions,Perfect,15.21
+Fade,XFLN-F,CR-IFM,CR-IFM VI,Lustering Alloy,Medium,27.21
+Fade,XFLN-F,CR-IFM,CR-IFM VI,Fiber Composite,Rich,33.40
+Fade,XFLN-F,CR-IFM,CR-IFM VI,Reactive Gas,Poor,19.48
+Fade,XFLN-F,CR-IFM,CR-IFM VI,Reactive Metals,Rich,8.76
+Fade,XFLN-F,CR-IFM,CR-IFM VI,Polyaramids,Rich,21.65
+Fade,XFLN-F,CR-IFM,CR-IFM VII,Glossy Compound,Medium,28.41
+Fade,XFLN-F,CR-IFM,CR-IFM VII,Reactive Gas,Medium,26.47
+Fade,XFLN-F,CR-IFM,CR-IFM VII,Noble Gas,Medium,26.47
+Fade,XFLN-F,CR-IFM,CR-IFM VII,Polyaramids,Perfect,25.42
+Fade,XFLN-F,CR-IFM,CR-IFM VII,Ionic Solutions,Poor,7.77
+Fade,XFLN-F,CR-IFM,CR-IFM VIII,Condensed Alloy,Medium,28.80
+Fade,XFLN-F,CR-IFM,CR-IFM VIII,Polyaramids,Rich,21.70
+Fade,XFLN-F,CR-IFM,CR-IFM VIII,Heavy Water,Medium,263.81
+Fade,XFLN-F,CR-IFM,CR-IFM VIII,Liquid Ozone,Rich,45.42
+Fade,XFLN-F,CR-IFM,CR-IFM VIII,Ionic Solutions,Medium,8.96
+Fade,XFLN-F,CR-IFM,CR-IFM IX,Lustering Alloy,Medium,28.11
+Fade,XFLN-F,CR-IFM,CR-IFM IX,Heavy Metals,Medium,22.45
+Fade,XFLN-F,CR-IFM,CR-IFM IX,Condensates,Medium,17.88
+Fade,XFLN-F,CR-IFM,CR-IFM IX,Suspended Plasma,Medium,80.90
+Fade,XFLN-F,CR-IFM,CR-IFM X,Motley Compound,Medium,25.85
+Fade,XFLN-F,CR-IFM,CR-IFM X,Coolant,Medium,16.31
+Fade,XFLN-F,CR-IFM,CR-IFM X,Condensates,Medium,17.82
+Fade,XFLN-F,CR-IFM,CR-IFM X,Liquid Ozone,Medium,34.90
+Fade,XFLN-F,HHK-VL,HHK-VL I,Lustering Alloy,Medium,22.88
+Fade,XFLN-F,HHK-VL,HHK-VL I,Precious Alloy,Medium,26.55
+Fade,XFLN-F,HHK-VL,HHK-VL I,Base Metals,Medium,6.07
+Fade,XFLN-F,HHK-VL,HHK-VL I,Supertensile Plastics,Medium,16.56
+Fade,XFLN-F,HHK-VL,HHK-VL II,Lustering Alloy,Medium,26.36
+Fade,XFLN-F,HHK-VL,HHK-VL II,Fiber Composite,Medium,26.25
+Fade,XFLN-F,HHK-VL,HHK-VL II,Reactive Gas,Medium,23.03
+Fade,XFLN-F,HHK-VL,HHK-VL II,Noble Gas,Medium,22.62
+Fade,XFLN-F,HHK-VL,HHK-VL II,Polyaramids,Rich,23.28
+Fade,XFLN-F,HHK-VL,HHK-VL III,Lustering Alloy,Poor,18.55
+Fade,XFLN-F,HHK-VL,HHK-VL III,Sheen Compound,Rich,29.08
+Fade,XFLN-F,HHK-VL,HHK-VL III,Reactive Gas,Medium,23.52
+Fade,XFLN-F,HHK-VL,HHK-VL III,Noble Gas,Rich,30.51
+Fade,XFLN-F,HHK-VL,HHK-VL III,Polyaramids,Rich,22.13
+Fade,XFLN-F,HHK-VL,HHK-VL IV,Precious Alloy,Medium,22.13
+Fade,XFLN-F,HHK-VL,HHK-VL IV,Heavy Metals,Medium,22.95
+Fade,XFLN-F,HHK-VL,HHK-VL IV,Industrial Fibers,Rich,8.46
+Fade,XFLN-F,HHK-VL,HHK-VL IV,Condensates,Medium,16.97
+Fade,XFLN-F,HHK-VL,HHK-VL V,Base Metals,Medium,6.42
+Fade,XFLN-F,HHK-VL,HHK-VL V,Industrial Fibers,Rich,8.53
+Fade,XFLN-F,HHK-VL,HHK-VL V,Supertensile Plastics,Medium,15.08
+Fade,XFLN-F,HHK-VL,HHK-VL V,Condensates,Rich,19.61
+Fade,XFLN-F,P-33KR,P-33KR I,Industrial Fibers,Medium,6.80
+Fade,XFLN-F,P-33KR,P-33KR I,Supertensile Plastics,Poor,11.40
+Fade,XFLN-F,P-33KR,P-33KR I,Construction Blocks,Medium,26.09
+Fade,XFLN-F,P-33KR,P-33KR I,Plasmoids,Medium,1.62
+Fade,XFLN-F,P-33KR,P-33KR II,Fiber Composite,Rich,31.77
+Fade,XFLN-F,P-33KR,P-33KR II,Glossy Compound,Rich,30.98
+Fade,XFLN-F,P-33KR,P-33KR II,Reactive Gas,Medium,24.93
+Fade,XFLN-F,P-33KR,P-33KR II,Base Metals,Rich,7.38
+Fade,XFLN-F,P-33KR,P-33KR II,Coolant,Medium,15.40
+Fade,XFLN-F,P-33KR,P-33KR III,Crystal Compound,Poor,18.06
+Fade,XFLN-F,P-33KR,P-33KR III,Reactive Metals,Rich,9.12
+Fade,XFLN-F,P-33KR,P-33KR III,Toxic Metals,Medium,6.65
+Fade,XFLN-F,P-33KR,P-33KR III,Nanites,Medium,6.80
+Fade,XFLN-F,P-33KR,P-33KR IV,Lustering Alloy,Poor,18.59
+Fade,XFLN-F,P-33KR,P-33KR IV,Precious Alloy,Poor,16.50
+Fade,XFLN-F,P-33KR,P-33KR IV,Supertensile Plastics,Poor,10.38
+Fade,XFLN-F,P-33KR,P-33KR IV,Silicate Glass,Medium,11.23
+Fade,XFLN-F,P-33KR,P-33KR V,Lustering Alloy,Rich,34.30
+Fade,XFLN-F,P-33KR,P-33KR V,Sheen Compound,Rich,32.93
+Fade,XFLN-F,P-33KR,P-33KR V,Reactive Gas,Rich,29.72
+Fade,XFLN-F,P-33KR,P-33KR V,Coolant,Medium,16.62
+Fade,XFLN-F,P-33KR,P-33KR V,Ionic Solutions,Rich,12.71
+Fade,XFLN-F,P-33KR,P-33KR VI,Industrial Fibers,Medium,6.68
+Fade,XFLN-F,P-33KR,P-33KR VI,Supertensile Plastics,Poor,11.85
+Fade,XFLN-F,P-33KR,P-33KR VI,Silicate Glass,Poor,9.02
+Fade,XFLN-F,P-33KR,P-33KR VI,Oxygen Isotopes,Poor,2.81
+Fade,XFLN-F,P-33KR,P-33KR VII,Dark Compound,Poor,14.37
+Fade,XFLN-F,P-33KR,P-33KR VII,Toxic Metals,Medium,6.73
+Fade,XFLN-F,P-33KR,P-33KR VII,Supertensile Plastics,Poor,13.27
+Fade,XFLN-F,P-33KR,P-33KR VII,Oxygen Isotopes,Poor,2.09
+Fade,XFLN-F,DO6H-Q,DO6H-Q I,Gleaming Alloy,Medium,23.48
+Fade,XFLN-F,DO6H-Q,DO6H-Q I,Construction Blocks,Rich,30.75
+Fade,XFLN-F,DO6H-Q,DO6H-Q I,Plasmoids,Rich,1.91
+Fade,XFLN-F,DO6H-Q,DO6H-Q II,Precious Alloy,Medium,24.93
+Fade,XFLN-F,DO6H-Q,DO6H-Q II,Supertensile Plastics,Medium,18.84
+Fade,XFLN-F,DO6H-Q,DO6H-Q II,Silicate Glass,Medium,13.71
+Fade,XFLN-F,DO6H-Q,DO6H-Q II,Oxygen Isotopes,Medium,3.55
+Fade,XFLN-F,DO6H-Q,DO6H-Q III,Sheen Compound,Rich,35.19
+Fade,XFLN-F,DO6H-Q,DO6H-Q III,Dark Compound,Perfect,40.20
+Fade,XFLN-F,DO6H-Q,DO6H-Q III,Noble Gas,Poor,21.16
+Fade,XFLN-F,DO6H-Q,DO6H-Q III,Condensates,Rich,20.39
+Fade,XFLN-F,DO6H-Q,DO6H-Q III,Ionic Solutions,Rich,13.91
+Fade,XFLN-F,DO6H-Q,DO6H-Q IV,Condensed Alloy,Perfect,42.73
+Fade,XFLN-F,DO6H-Q,DO6H-Q IV,Reactive Gas,Medium,24.24
+Fade,XFLN-F,DO6H-Q,DO6H-Q IV,Industrial Fibers,Medium,6.22
+Fade,XFLN-F,DO6H-Q,DO6H-Q IV,Smartfab Units,Perfect,28.11
+Fade,XFLN-F,DO6H-Q,DO6H-Q IV,Liquid Ozone,Perfect,49.22
+Fade,XFLN-F,DO6H-Q,DO6H-Q V,Lustering Alloy,Rich,31.65
+Fade,XFLN-F,DO6H-Q,DO6H-Q V,Fiber Composite,Rich,34.41
+Fade,XFLN-F,DO6H-Q,DO6H-Q V,Reactive Gas,Medium,28.54
+Fade,XFLN-F,DO6H-Q,DO6H-Q V,Base Metals,Perfect,9.95
+Fade,XFLN-F,DO6H-Q,DO6H-Q V,Ionic Solutions,Poor,8.67
+Fade,XFLN-F,DO6H-Q,DO6H-Q VI,Lustering Alloy,Rich,35.72
+Fade,XFLN-F,DO6H-Q,DO6H-Q VI,Glossy Compound,Rich,35.53
+Fade,XFLN-F,DO6H-Q,DO6H-Q VI,Reactive Gas,Medium,25.46
+Fade,XFLN-F,DO6H-Q,DO6H-Q VI,Base Metals,Rich,8.55
+Fade,XFLN-F,DO6H-Q,DO6H-Q VI,Reactive Metals,Medium,6.86
+Fade,XFLN-F,DO6H-Q,DO6H-Q VII,Motley Compound,Poor,17.55
+Fade,XFLN-F,DO6H-Q,DO6H-Q VII,Industrial Fibers,Medium,6.63
+Fade,XFLN-F,DO6H-Q,DO6H-Q VII,Condensates,Medium,16.28
+Fade,XFLN-F,DO6H-Q,DO6H-Q VII,Suspended Plasma,Medium,84.79
+Fade,XFLN-F,DW-T2I,DW-T2I I,Lucent Compound,Perfect,37.64
+Fade,XFLN-F,DW-T2I,DW-T2I I,Heavy Metals,Poor,20.70
+Fade,XFLN-F,DW-T2I,DW-T2I I,Reactive Metals,Rich,8.50
+Fade,XFLN-F,DW-T2I,DW-T2I I,Condensates,Rich,18.80
+Fade,XFLN-F,DW-T2I,DW-T2I I,Plasmoids,Medium,1.61
+Fade,XFLN-F,DW-T2I,DW-T2I II,Base Metals,Poor,4.98
+Fade,XFLN-F,DW-T2I,DW-T2I II,Industrial Fibers,Poor,4.83
+Fade,XFLN-F,DW-T2I,DW-T2I II,Supertensile Plastics,Medium,14.29
+Fade,XFLN-F,DW-T2I,DW-T2I II,Construction Blocks,Poor,15.25
+Fade,XFLN-F,DW-T2I,DW-T2I III,Gleaming Alloy,Poor,18.24
+Fade,XFLN-F,DW-T2I,DW-T2I III,Construction Blocks,Medium,24.44
+Fade,XFLN-F,DW-T2I,DW-T2I III,Plasmoids,Medium,1.26
+Fade,XFLN-F,DW-T2I,DW-T2I IV,Sheen Compound,Perfect,37.73
+Fade,XFLN-F,DW-T2I,DW-T2I IV,Lucent Compound,Perfect,38.68
+Fade,XFLN-F,DW-T2I,DW-T2I IV,Noble Gas,Medium,21.19
+Fade,XFLN-F,DW-T2I,DW-T2I IV,Condensates,Perfect,24.64
+Fade,XFLN-F,DW-T2I,DW-T2I IV,Suspended Plasma,Medium,76.27
+Fade,XFLN-F,DW-T2I,DW-T2I V,Gleaming Alloy,Perfect,35.38
+Fade,XFLN-F,DW-T2I,DW-T2I V,Noble Gas,Rich,29.41
+Fade,XFLN-F,DW-T2I,DW-T2I V,Smartfab Units,Poor,11.75
+Fade,XFLN-F,DW-T2I,DW-T2I VI,Condensed Alloy,Rich,30.32
+Fade,XFLN-F,DW-T2I,DW-T2I VI,Opulent Compound,Perfect,35.79
+Fade,XFLN-F,DW-T2I,DW-T2I VI,Reactive Gas,Rich,32.65
+Fade,XFLN-F,DW-T2I,DW-T2I VI,Industrial Fibers,Perfect,9.88
+Fade,XFLN-F,DW-T2I,DW-T2I VI,Liquid Ozone,Perfect,46.64
+Fade,XFLN-F,DW-T2I,DW-T2I VII,Crystal Compound,Perfect,37.58
+Fade,XFLN-F,DW-T2I,DW-T2I VII,Noble Metals,Perfect,38.76
+Fade,XFLN-F,DW-T2I,DW-T2I VII,Toxic Metals,Rich,8.55
+Fade,XFLN-F,DW-T2I,DW-T2I VII,Polyaramids,Rich,22.65
+Fade,XFLN-F,DW-T2I,DW-T2I VII,Liquid Ozone,Perfect,45.24
+Fade,XFLN-F,DW-T2I,DW-T2I VIII,Gleaming Alloy,Medium,27.21
+Fade,XFLN-F,DW-T2I,DW-T2I VIII,Reactive Metals,Poor,5.16
+Fade,XFLN-F,DW-T2I,DW-T2I VIII,Toxic Metals,Perfect,9.39
+Fade,XFLN-F,DW-T2I,DW-T2I VIII,Nanites,Rich,8.52
+Fade,XFLN-F,DW-T2I,DW-T2I IX,Glossy Compound,Medium,23.28
+Fade,XFLN-F,DW-T2I,DW-T2I IX,Reactive Gas,Poor,20.68
+Fade,XFLN-F,DW-T2I,DW-T2I IX,Noble Gas,Medium,20.94
+Fade,XFLN-F,DW-T2I,DW-T2I IX,Base Metals,Rich,8.23
+Fade,XFLN-F,DW-T2I,DW-T2I IX,Coolant,Medium,17.61
+Fade,XFLN-F,DW-T2I,DW-T2I X,Lustering Alloy,Rich,32.56
+Fade,XFLN-F,DW-T2I,DW-T2I X,Sheen Compound,Poor,19.65
+Fade,XFLN-F,DW-T2I,DW-T2I X,Glossy Compound,Perfect,35.53
+Fade,XFLN-F,DW-T2I,DW-T2I X,Reactive Gas,Rich,28.29
+Fade,XFLN-F,DW-T2I,DW-T2I X,Polyaramids,Poor,13.58
+Fade,XFLN-F,DW-T2I,DW-T2I XI,Lustering Alloy,Poor,18.63
+Fade,XFLN-F,DW-T2I,DW-T2I XI,Motley Compound,Poor,20.13
+Fade,XFLN-F,DW-T2I,DW-T2I XI,Industrial Fibers,Medium,6.25
+Fade,XFLN-F,DW-T2I,DW-T2I XI,Condensates,Poor,13.45
+Fade,UWRZ-2,O-CNPR,O-CNPR I,Lustering Alloy,Medium,21.54
+Fade,UWRZ-2,O-CNPR,O-CNPR I,Industrial Fibers,Poor,4.70
+Fade,UWRZ-2,O-CNPR,O-CNPR I,Supertensile Plastics,Medium,17.25
+Fade,UWRZ-2,O-CNPR,O-CNPR I,Construction Blocks,Medium,26.03
+Fade,UWRZ-2,O-CNPR,O-CNPR II,Gleaming Alloy,Poor,18.17
+Fade,UWRZ-2,O-CNPR,O-CNPR II,Polyaramids,Medium,16.41
+Fade,UWRZ-2,O-CNPR,O-CNPR II,Construction Blocks,Poor,17.67
+Fade,UWRZ-2,O-CNPR,O-CNPR III,Fiber Composite,Rich,27.90
+Fade,UWRZ-2,O-CNPR,O-CNPR III,Opulent Compound,Perfect,38.90
+Fade,UWRZ-2,O-CNPR,O-CNPR III,Noble Metals,Medium,21.63
+Fade,UWRZ-2,O-CNPR,O-CNPR III,Industrial Fibers,Perfect,10.91
+Fade,UWRZ-2,O-CNPR,O-CNPR III,Liquid Ozone,Medium,26.32
+Fade,UWRZ-2,O-CNPR,O-CNPR IV,Lustering Alloy,Rich,31.53
+Fade,UWRZ-2,O-CNPR,O-CNPR IV,Sheen Compound,Medium,27.76
+Fade,UWRZ-2,O-CNPR,O-CNPR IV,Glossy Compound,Perfect,35.31
+Fade,UWRZ-2,O-CNPR,O-CNPR IV,Reactive Gas,Medium,23.87
+Fade,UWRZ-2,O-CNPR,O-CNPR IV,Noble Gas,Rich,31.94
+Fade,UWRZ-2,O-CNPR,O-CNPR V,Lustering Alloy,Poor,19.87
+Fade,UWRZ-2,O-CNPR,O-CNPR V,Reactive Gas,Rich,32.93
+Fade,UWRZ-2,O-CNPR,O-CNPR V,Reactive Metals,Rich,7.41
+Fade,UWRZ-2,O-CNPR,O-CNPR V,Polyaramids,Medium,16.13
+Fade,UWRZ-2,O-CNPR,O-CNPR V,Ionic Solutions,Rich,11.67
+Fade,UWRZ-2,O-CNPR,O-CNPR VI,Lustering Alloy,Rich,32.03
+Fade,UWRZ-2,O-CNPR,O-CNPR VI,Fiber Composite,Rich,34.67
+Fade,UWRZ-2,O-CNPR,O-CNPR VI,Glossy Compound,Medium,23.21
+Fade,UWRZ-2,O-CNPR,O-CNPR VI,Reactive Gas,Medium,24.71
+Fade,UWRZ-2,O-CNPR,O-CNPR VI,Ionic Solutions,Rich,12.62
+Fade,UWRZ-2,O-CNPR,O-CNPR VII,Precious Alloy,Medium,20.79
+Fade,UWRZ-2,O-CNPR,O-CNPR VII,Industrial Fibers,Poor,4.24
+Fade,UWRZ-2,O-CNPR,O-CNPR VII,Supertensile Plastics,Medium,17.32
+Fade,UWRZ-2,O-CNPR,O-CNPR VII,Oxygen Isotopes,Medium,3.70
+Fade,UWRZ-2,O-CNPR,O-CNPR VIII,Condensed Alloy,Rich,33.75
+Fade,UWRZ-2,O-CNPR,O-CNPR VIII,Crystal Compound,Perfect,38.76
+Fade,UWRZ-2,O-CNPR,O-CNPR VIII,Toxic Metals,Medium,6.91
+Fade,UWRZ-2,O-CNPR,O-CNPR VIII,Coolant,Poor,13.71
+Fade,UWRZ-2,O-CNPR,O-CNPR VIII,Liquid Ozone,Perfect,45.32
+Fade,UWRZ-2,L-SCBU,L-SCBU I,Gleaming Alloy,Poor,19.60
+Fade,UWRZ-2,L-SCBU,L-SCBU I,Polyaramids,Perfect,23.95
+Fade,UWRZ-2,L-SCBU,L-SCBU I,Plasmoids,Medium,1.55
+Fade,UWRZ-2,L-SCBU,L-SCBU II,Lucent Compound,Medium,21.71
+Fade,UWRZ-2,L-SCBU,L-SCBU II,Noble Gas,Perfect,38.72
+Fade,UWRZ-2,L-SCBU,L-SCBU II,Condensates,Rich,20.56
+Fade,UWRZ-2,L-SCBU,L-SCBU II,Nanites,Rich,7.34
+Fade,UWRZ-2,L-SCBU,L-SCBU II,Ionic Solutions,Medium,9.94
+Fade,UWRZ-2,L-SCBU,L-SCBU III,Reactive Gas,Rich,32.38
+Fade,UWRZ-2,L-SCBU,L-SCBU III,Reactive Metals,Medium,6.98
+Fade,UWRZ-2,L-SCBU,L-SCBU III,Nanites,Medium,6.42
+Fade,UWRZ-2,L-SCBU,L-SCBU III,Oxygen Isotopes,Medium,3.27
+Fade,UWRZ-2,L-SCBU,L-SCBU IV,Condensed Alloy,Rich,30.16
+Fade,UWRZ-2,L-SCBU,L-SCBU IV,Base Metals,Medium,6.95
+Fade,UWRZ-2,L-SCBU,L-SCBU IV,Noble Metals,Perfect,41.14
+Fade,UWRZ-2,L-SCBU,L-SCBU IV,Industrial Fibers,Perfect,9.89
+Fade,UWRZ-2,L-SCBU,L-SCBU IV,Liquid Ozone,Rich,36.13
+Fade,UWRZ-2,L-SCBU,L-SCBU V,Fiber Composite,Rich,32.93
+Fade,UWRZ-2,L-SCBU,L-SCBU V,Reactive Gas,Medium,24.46
+Fade,UWRZ-2,L-SCBU,L-SCBU V,Noble Gas,Medium,25.63
+Fade,UWRZ-2,L-SCBU,L-SCBU V,Base Metals,Rich,7.73
+Fade,UWRZ-2,L-SCBU,L-SCBU V,Reactive Metals,Rich,7.90
+Fade,UWRZ-2,L-SCBU,L-SCBU VI,Reactive Gas,Rich,33.44
+Fade,UWRZ-2,L-SCBU,L-SCBU VI,Noble Gas,Rich,30.32
+Fade,UWRZ-2,L-SCBU,L-SCBU VI,Base Metals,Rich,9.04
+Fade,UWRZ-2,L-SCBU,L-SCBU VI,Polyaramids,Perfect,23.45
+Fade,UWRZ-2,L-SCBU,L-SCBU VI,Ionic Solutions,Rich,13.26
+Fade,UWRZ-2,L-SCBU,L-SCBU VII,Lustering Alloy,Rich,30.49
+Fade,UWRZ-2,L-SCBU,L-SCBU VII,Reactive Gas,Rich,33.51
+Fade,UWRZ-2,L-SCBU,L-SCBU VII,Base Metals,Poor,5.44
+Fade,UWRZ-2,L-SCBU,L-SCBU VII,Reactive Metals,Perfect,9.59
+Fade,UWRZ-2,L-SCBU,L-SCBU VII,Ionic Solutions,Rich,11.85
+Fade,UWRZ-2,L-SCBU,L-SCBU VIII,Sheen Compound,Medium,22.00
+Fade,UWRZ-2,L-SCBU,L-SCBU VIII,Fiber Composite,Poor,18.08
+Fade,UWRZ-2,L-SCBU,L-SCBU VIII,Glossy Compound,Poor,18.48
+Fade,UWRZ-2,L-SCBU,L-SCBU VIII,Reactive Gas,Medium,21.56
+Fade,UWRZ-2,L-SCBU,L-SCBU VIII,Reactive Metals,Rich,7.80
+Fade,UWRZ-2,L-SCBU,L-SCBU IX,Motley Compound,Medium,20.88
+Fade,UWRZ-2,L-SCBU,L-SCBU IX,Industrial Fibers,Poor,4.49
+Fade,UWRZ-2,L-SCBU,L-SCBU IX,Supertensile Plastics,Medium,16.75
+Fade,UWRZ-2,L-SCBU,L-SCBU IX,Condensates,Medium,15.17
+Fade,UWRZ-2,VRH-H7,VRH-H7 I,Dark Compound,Medium,23.12
+Fade,UWRZ-2,VRH-H7,VRH-H7 I,Toxic Metals,Poor,5.33
+Fade,UWRZ-2,VRH-H7,VRH-H7 I,Supertensile Plastics,Poor,13.74
+Fade,UWRZ-2,VRH-H7,VRH-H7 I,Plasmoids,Medium,1.49
+Fade,UWRZ-2,VRH-H7,VRH-H7 II,Gleaming Alloy,Medium,23.12
+Fade,UWRZ-2,VRH-H7,VRH-H7 II,Glossy Compound,Poor,17.67
+Fade,UWRZ-2,VRH-H7,VRH-H7 II,Heavy Metals,Medium,23.78
+Fade,UWRZ-2,VRH-H7,VRH-H7 III,Precious Alloy,Poor,14.83
+Fade,UWRZ-2,VRH-H7,VRH-H7 III,Supertensile Plastics,Poor,12.19
+Fade,UWRZ-2,VRH-H7,VRH-H7 III,Construction Blocks,Medium,26.84
+Fade,UWRZ-2,VRH-H7,VRH-H7 III,Silicate Glass,Medium,12.86
+Fade,UWRZ-2,VRH-H7,VRH-H7 IV,Crystal Compound,Medium,24.44
+Fade,UWRZ-2,VRH-H7,VRH-H7 IV,Toxic Metals,Rich,8.82
+Fade,UWRZ-2,VRH-H7,VRH-H7 IV,Coolant,Rich,22.89
+Fade,UWRZ-2,VRH-H7,VRH-H7 IV,Liquid Ozone,Rich,36.58
+Fade,UWRZ-2,VRH-H7,VRH-H7 IV,Ionic Solutions,Rich,13.28
+Fade,UWRZ-2,VRH-H7,VRH-H7 V,Condensed Alloy,Rich,34.78
+Fade,UWRZ-2,VRH-H7,VRH-H7 V,Reactive Gas,Rich,29.79
+Fade,UWRZ-2,VRH-H7,VRH-H7 V,Base Metals,Rich,8.92
+Fade,UWRZ-2,VRH-H7,VRH-H7 V,Smartfab Units,Perfect,24.57
+Fade,UWRZ-2,VRH-H7,VRH-H7 V,Liquid Ozone,Rich,35.20
+Fade,UWRZ-2,VRH-H7,VRH-H7 VI,Lucent Compound,Rich,34.41
+Fade,UWRZ-2,VRH-H7,VRH-H7 VI,Crystal Compound,Medium,25.26
+Fade,UWRZ-2,VRH-H7,VRH-H7 VI,Reactive Gas,Medium,23.10
+Fade,UWRZ-2,VRH-H7,VRH-H7 VI,Reactive Metals,Rich,8.35
+Fade,UWRZ-2,VRH-H7,VRH-H7 VII,Sheen Compound,Poor,18.96
+Fade,UWRZ-2,VRH-H7,VRH-H7 VII,Reactive Gas,Rich,34.80
+Fade,UWRZ-2,VRH-H7,VRH-H7 VII,Noble Gas,Rich,29.33
+Fade,UWRZ-2,VRH-H7,VRH-H7 VII,Reactive Metals,Rich,7.87
+Fade,UWRZ-2,VRH-H7,VRH-H7 VII,Ionic Solutions,Medium,9.01
+Fade,UWRZ-2,VRH-H7,VRH-H7 VIII,Lustering Alloy,Poor,18.06
+Fade,UWRZ-2,VRH-H7,VRH-H7 VIII,Fiber Composite,Rich,31.24
+Fade,UWRZ-2,VRH-H7,VRH-H7 VIII,Glossy Compound,Rich,28.40
+Fade,UWRZ-2,VRH-H7,VRH-H7 VIII,Reactive Gas,Rich,33.13
+Fade,UWRZ-2,VRH-H7,VRH-H7 VIII,Ionic Solutions,Medium,8.67
+Fade,UWRZ-2,VRH-H7,VRH-H7 IX,Motley Compound,Poor,19.65
+Fade,UWRZ-2,VRH-H7,VRH-H7 IX,Supertensile Plastics,Rich,19.45
+Fade,UWRZ-2,VRH-H7,VRH-H7 IX,Condensates,Medium,14.80
+Fade,UWRZ-2,VRH-H7,VRH-H7 IX,Liquid Ozone,Medium,33.27
+Fade,UWRZ-2,O1Y-ED,O1Y-ED I,Toxic Metals,Poor,5.36
+Fade,UWRZ-2,O1Y-ED,O1Y-ED I,Industrial Fibers,Poor,5.40
+Fade,UWRZ-2,O1Y-ED,O1Y-ED I,Supertensile Plastics,Medium,16.75
+Fade,UWRZ-2,O1Y-ED,O1Y-ED I,Silicate Glass,Medium,10.57
+Fade,UWRZ-2,O1Y-ED,O1Y-ED II,Dark Compound,Medium,26.80
+Fade,UWRZ-2,O1Y-ED,O1Y-ED II,Heavy Metals,Medium,23.89
+Fade,UWRZ-2,O1Y-ED,O1Y-ED II,Condensates,Medium,14.46
+Fade,UWRZ-2,O1Y-ED,O1Y-ED II,Suspended Plasma,Medium,97.65
+Fade,UWRZ-2,O1Y-ED,O1Y-ED II,Ionic Solutions,Rich,12.18
+Fade,UWRZ-2,O1Y-ED,O1Y-ED III,Lustering Alloy,Poor,15.27
+Fade,UWRZ-2,O1Y-ED,O1Y-ED III,Precious Alloy,Medium,22.02
+Fade,UWRZ-2,O1Y-ED,O1Y-ED III,Toxic Metals,Medium,5.74
+Fade,UWRZ-2,O1Y-ED,O1Y-ED III,Supertensile Plastics,Medium,15.21
+Fade,UWRZ-2,O1Y-ED,O1Y-ED IV,Condensed Alloy,Rich,29.68
+Fade,UWRZ-2,O1Y-ED,O1Y-ED IV,Reactive Gas,Rich,30.07
+Fade,UWRZ-2,O1Y-ED,O1Y-ED IV,Industrial Fibers,Perfect,10.00
+Fade,UWRZ-2,O1Y-ED,O1Y-ED IV,Condensates,Perfect,28.03
+Fade,UWRZ-2,O1Y-ED,O1Y-ED IV,Liquid Ozone,Rich,38.78
+Fade,UWRZ-2,O1Y-ED,O1Y-ED V,Lustering Alloy,Rich,33.57
+Fade,UWRZ-2,O1Y-ED,O1Y-ED V,Sheen Compound,Medium,23.36
+Fade,UWRZ-2,O1Y-ED,O1Y-ED V,Fiber Composite,Perfect,35.64
+Fade,UWRZ-2,O1Y-ED,O1Y-ED V,Reactive Gas,Rich,34.58
+Fade,UWRZ-2,O1Y-ED,O1Y-ED V,Ionic Solutions,Poor,8.10
+Fade,UWRZ-2,O1Y-ED,O1Y-ED VI,Coolant,Rich,19.08
+Fade,UWRZ-2,O1Y-ED,O1Y-ED VI,Silicate Glass,Rich,15.39
+Fade,UWRZ-2,O1Y-ED,O1Y-ED VI,Heavy Water,Medium,214.94
+Fade,UWRZ-2,O1Y-ED,O1Y-ED VI,Liquid Ozone,Poor,24.61
+Fade,UWRZ-2,O1Y-ED,O1Y-ED VI,Ionic Solutions,Medium,10.65
+Fade,UWRZ-2,O1Y-ED,O1Y-ED VII,Precious Alloy,Medium,27.06
+Fade,UWRZ-2,O1Y-ED,O1Y-ED VII,Toxic Metals,Medium,6.63
+Fade,UWRZ-2,O1Y-ED,O1Y-ED VII,Supertensile Plastics,Poor,12.11
+Fade,UWRZ-2,O1Y-ED,O1Y-ED VII,Silicate Glass,Poor,8.97
+Fade,UWRZ-2,O1Y-ED,O1Y-ED VIII,Fiber Composite,Medium,20.97
+Fade,UWRZ-2,O1Y-ED,O1Y-ED VIII,Glossy Compound,Perfect,35.46
+Fade,UWRZ-2,O1Y-ED,O1Y-ED VIII,Reactive Gas,Perfect,35.62
+Fade,UWRZ-2,O1Y-ED,O1Y-ED VIII,Base Metals,Rich,8.21
+Fade,UWRZ-2,O1Y-ED,O1Y-ED VIII,Polyaramids,Rich,22.31
+Fade,UWRZ-2,O1Y-ED,O1Y-ED IX,Toxic Metals,Poor,4.46
+Fade,UWRZ-2,O1Y-ED,O1Y-ED IX,Industrial Fibers,Medium,5.56
+Fade,UWRZ-2,O1Y-ED,O1Y-ED IX,Supertensile Plastics,Poor,11.65
+Fade,UWRZ-2,O1Y-ED,O1Y-ED IX,Construction Blocks,Medium,23.69
+Fade,UWRZ-2,O1Y-ED,O1Y-ED X,Sheen Compound,Rich,32.65
+Fade,UWRZ-2,O1Y-ED,O1Y-ED X,Fiber Composite,Medium,25.78
+Fade,UWRZ-2,O1Y-ED,O1Y-ED X,Reactive Gas,Medium,27.79
+Fade,UWRZ-2,O1Y-ED,O1Y-ED X,Noble Gas,Medium,21.36
+Fade,UWRZ-2,O1Y-ED,O1Y-ED X,Base Metals,Perfect,9.51
+Fade,UWRZ-2,O1Y-ED,O1Y-ED XI,Lustering Alloy,Medium,22.46
+Fade,UWRZ-2,O1Y-ED,O1Y-ED XI,Fiber Composite,Rich,31.09
+Fade,UWRZ-2,O1Y-ED,O1Y-ED XI,Reactive Gas,Rich,28.97
+Fade,UWRZ-2,O1Y-ED,O1Y-ED XI,Reactive Metals,Perfect,9.55
+Fade,UWRZ-2,O1Y-ED,O1Y-ED XI,Ionic Solutions,Medium,9.02
+Fade,UWRZ-2,O1Y-ED,O1Y-ED XII,Precious Alloy,Medium,24.51
+Fade,UWRZ-2,O1Y-ED,O1Y-ED XII,Coolant,Medium,16.91
+Fade,UWRZ-2,O1Y-ED,O1Y-ED XII,Condensates,Poor,12.07
+Fade,UWRZ-2,O1Y-ED,O1Y-ED XII,Liquid Ozone,Poor,22.14
+Fade,UWRZ-2,K4YZ-Y,K4YZ-Y I,Toxic Metals,Medium,5.90
+Fade,UWRZ-2,K4YZ-Y,K4YZ-Y I,Supertensile Plastics,Medium,16.65
+Fade,UWRZ-2,K4YZ-Y,K4YZ-Y I,Silicate Glass,Poor,10.46
+Fade,UWRZ-2,K4YZ-Y,K4YZ-Y I,Plasmoids,Poor,0.97
+Fade,UWRZ-2,K4YZ-Y,K4YZ-Y II,Lucent Compound,Medium,28.31
+Fade,UWRZ-2,K4YZ-Y,K4YZ-Y II,Reactive Metals,Rich,8.03
+Fade,UWRZ-2,K4YZ-Y,K4YZ-Y II,Construction Blocks,Poor,20.61
+Fade,UWRZ-2,K4YZ-Y,K4YZ-Y II,Oxygen Isotopes,Medium,3.51
+Fade,UWRZ-2,K4YZ-Y,K4YZ-Y III,Supertensile Plastics,Poor,11.55
+Fade,UWRZ-2,K4YZ-Y,K4YZ-Y III,Construction Blocks,Medium,26.38
+Fade,UWRZ-2,K4YZ-Y,K4YZ-Y III,Oxygen Isotopes,Medium,3.95
+Fade,UWRZ-2,K4YZ-Y,K4YZ-Y III,Plasmoids,Poor,1.11
+Fade,UWRZ-2,K4YZ-Y,K4YZ-Y IV,Gleaming Alloy,Medium,25.00
+Fade,UWRZ-2,K4YZ-Y,K4YZ-Y IV,Heavy Metals,Medium,24.08
+Fade,UWRZ-2,K4YZ-Y,K4YZ-Y IV,Plasmoids,Poor,1.19
+Fade,UWRZ-2,K4YZ-Y,K4YZ-Y V,Fiber Composite,Perfect,40.57
+Fade,UWRZ-2,K4YZ-Y,K4YZ-Y V,Base Metals,Rich,7.71
+Fade,UWRZ-2,K4YZ-Y,K4YZ-Y V,Condensates,Rich,20.19
+Fade,UWRZ-2,K4YZ-Y,K4YZ-Y V,Heavy Water,Perfect,372.14
+Fade,UWRZ-2,K4YZ-Y,K4YZ-Y V,Liquid Ozone,Medium,36.11
+Fade,UWRZ-2,K4YZ-Y,K4YZ-Y VI,Lustering Alloy,Rich,34.61
+Fade,UWRZ-2,K4YZ-Y,K4YZ-Y VI,Fiber Composite,Medium,25.32
+Fade,UWRZ-2,K4YZ-Y,K4YZ-Y VI,Glossy Compound,Rich,32.15
+Fade,UWRZ-2,K4YZ-Y,K4YZ-Y VI,Reactive Gas,Rich,29.19
+Fade,UWRZ-2,K4YZ-Y,K4YZ-Y VI,Noble Gas,Rich,29.28
+Fade,UWRZ-2,K4YZ-Y,K4YZ-Y VII,Lustering Alloy,Perfect,37.74
+Fade,UWRZ-2,K4YZ-Y,K4YZ-Y VII,Sheen Compound,Medium,25.81
+Fade,UWRZ-2,K4YZ-Y,K4YZ-Y VII,Fiber Composite,Rich,35.58
+Fade,UWRZ-2,K4YZ-Y,K4YZ-Y VII,Reactive Gas,Medium,25.64
+Fade,UWRZ-2,K4YZ-Y,K4YZ-Y VII,Reactive Metals,Rich,8.18
+Fade,UWRZ-2,K4YZ-Y,K4YZ-Y VIII,Sheen Compound,Medium,23.21
+Fade,UWRZ-2,K4YZ-Y,K4YZ-Y VIII,Reactive Gas,Rich,36.16
+Fade,UWRZ-2,K4YZ-Y,K4YZ-Y VIII,Reactive Metals,Medium,6.14
+Fade,UWRZ-2,K4YZ-Y,K4YZ-Y VIII,Polyaramids,Medium,18.95
+Fade,UWRZ-2,K4YZ-Y,K4YZ-Y VIII,Coolant,Rich,23.78
+Fade,UWRZ-2,K4YZ-Y,K4YZ-Y IX,Gleaming Alloy,Rich,32.36
+Fade,UWRZ-2,K4YZ-Y,K4YZ-Y IX,Motley Compound,Rich,32.89
+Fade,UWRZ-2,K4YZ-Y,K4YZ-Y IX,Heavy Metals,Medium,22.89
+Fade,UWRZ-2,K4YZ-Y,K4YZ-Y X,Precious Alloy,Poor,17.09
+Fade,UWRZ-2,K4YZ-Y,K4YZ-Y X,Base Metals,Medium,6.74
+Fade,UWRZ-2,K4YZ-Y,K4YZ-Y X,Heavy Metals,Medium,25.44
+Fade,UWRZ-2,K4YZ-Y,K4YZ-Y X,Condensates,Rich,20.98
+Fade,UWRZ-2,K4YZ-Y,K4YZ-Y XI,Dark Compound,Poor,20.77
+Fade,UWRZ-2,K4YZ-Y,K4YZ-Y XI,Base Metals,Poor,4.33
+Fade,UWRZ-2,K4YZ-Y,K4YZ-Y XI,Toxic Metals,Medium,6.83
+Fade,UWRZ-2,K4YZ-Y,K4YZ-Y XI,Supertensile Plastics,Medium,14.47
+Fade,UWRZ-2,X36Y-G,X36Y-G I,Dark Compound,Poor,19.98
+Fade,UWRZ-2,X36Y-G,X36Y-G I,Supertensile Plastics,Medium,16.34
+Fade,UWRZ-2,X36Y-G,X36Y-G I,Silicate Glass,Poor,9.14
+Fade,UWRZ-2,X36Y-G,X36Y-G I,Plasmoids,Poor,1.00
+Fade,UWRZ-2,X36Y-G,X36Y-G II,Condensed Alloy,Perfect,38.94
+Fade,UWRZ-2,X36Y-G,X36Y-G II,Industrial Fibers,Rich,8.68
+Fade,UWRZ-2,X36Y-G,X36Y-G II,Smartfab Units,Perfect,25.45
+Fade,UWRZ-2,X36Y-G,X36Y-G II,Heavy Water,Medium,272.36
+Fade,UWRZ-2,X36Y-G,X36Y-G II,Liquid Ozone,Rich,36.85
+Fade,UWRZ-2,X36Y-G,X36Y-G III,Opulent Compound,Medium,22.73
+Fade,UWRZ-2,X36Y-G,X36Y-G III,Toxic Metals,Perfect,9.59
+Fade,UWRZ-2,X36Y-G,X36Y-G III,Polyaramids,Medium,17.98
+Fade,UWRZ-2,X36Y-G,X36Y-G III,Liquid Ozone,Medium,27.09
+Fade,UWRZ-2,X36Y-G,X36Y-G III,Ionic Solutions,Medium,11.04
+Fade,UWRZ-2,X36Y-G,X36Y-G IV,Toxic Metals,Poor,5.26
+Fade,UWRZ-2,X36Y-G,X36Y-G IV,Polyaramids,Rich,21.43
+Fade,UWRZ-2,X36Y-G,X36Y-G IV,Coolant,Perfect,24.35
+Fade,UWRZ-2,X36Y-G,X36Y-G IV,Liquid Ozone,Medium,29.84
+Fade,UWRZ-2,X36Y-G,X36Y-G IV,Ionic Solutions,Medium,8.77
+Fade,UWRZ-2,X36Y-G,X36Y-G V,Crystal Compound,Perfect,36.67
+Fade,UWRZ-2,X36Y-G,X36Y-G V,Noble Metals,Medium,26.86
+Fade,UWRZ-2,X36Y-G,X36Y-G V,Silicate Glass,Medium,12.14
+Fade,UWRZ-2,X36Y-G,X36Y-G V,Liquid Ozone,Rich,40.62
+Fade,UWRZ-2,X36Y-G,X36Y-G V,Ionic Solutions,Rich,12.14
+Fade,UWRZ-2,X36Y-G,X36Y-G VI,Lustering Alloy,Medium,21.05
+Fade,UWRZ-2,X36Y-G,X36Y-G VI,Sheen Compound,Poor,19.21
+Fade,UWRZ-2,X36Y-G,X36Y-G VI,Reactive Gas,Medium,22.51
+Fade,UWRZ-2,X36Y-G,X36Y-G VI,Base Metals,Rich,7.85
+Fade,UWRZ-2,X36Y-G,X36Y-G VI,Polyaramids,Medium,16.51
+Fade,UWRZ-2,X36Y-G,X36Y-G VII,Precious Alloy,Medium,22.90
+Fade,UWRZ-2,X36Y-G,X36Y-G VII,Base Metals,Poor,4.09
+Fade,UWRZ-2,X36Y-G,X36Y-G VII,Industrial Fibers,Poor,4.75
+Fade,UWRZ-2,X36Y-G,X36Y-G VII,Supertensile Plastics,Medium,15.72
+Fade,UWRZ-2,L-C3O7,L-C3O7 I,Gleaming Alloy,Medium,26.47
+Fade,UWRZ-2,L-C3O7,L-C3O7 I,Polyaramids,Rich,20.59
+Fade,UWRZ-2,L-C3O7,L-C3O7 I,Oxygen Isotopes,Medium,3.42
+Fade,UWRZ-2,L-C3O7,L-C3O7 II,Dark Compound,Medium,25.05
+Fade,UWRZ-2,L-C3O7,L-C3O7 II,Industrial Fibers,Poor,4.41
+Fade,UWRZ-2,L-C3O7,L-C3O7 II,Supertensile Plastics,Poor,12.19
+Fade,UWRZ-2,L-C3O7,L-C3O7 II,Silicate Glass,Medium,12.32
+Fade,UWRZ-2,L-C3O7,L-C3O7 III,Fiber Composite,Medium,27.07
+Fade,UWRZ-2,L-C3O7,L-C3O7 III,Glossy Compound,Rich,32.20
+Fade,UWRZ-2,L-C3O7,L-C3O7 III,Reactive Gas,Rich,30.57
+Fade,UWRZ-2,L-C3O7,L-C3O7 III,Polyaramids,Rich,23.18
+Fade,UWRZ-2,L-C3O7,L-C3O7 III,Ionic Solutions,Rich,13.98
+Fade,UWRZ-2,L-C3O7,L-C3O7 IV,Toxic Metals,Medium,6.01
+Fade,UWRZ-2,L-C3O7,L-C3O7 IV,Industrial Fibers,Poor,4.27
+Fade,UWRZ-2,L-C3O7,L-C3O7 IV,Supertensile Plastics,Medium,18.66
+Fade,UWRZ-2,L-C3O7,L-C3O7 IV,Plasmoids,Poor,1.00
+Fade,UWRZ-2,L-C3O7,L-C3O7 V,Fiber Composite,Medium,22.36
+Fade,UWRZ-2,L-C3O7,L-C3O7 V,Reactive Gas,Rich,36.48
+Fade,UWRZ-2,L-C3O7,L-C3O7 V,Noble Gas,Medium,28.41
+Fade,UWRZ-2,L-C3O7,L-C3O7 V,Base Metals,Medium,6.88
+Fade,UWRZ-2,L-C3O7,L-C3O7 V,Ionic Solutions,Rich,11.76
+Fade,UWRZ-2,L-C3O7,L-C3O7 VI,Sheen Compound,Medium,22.75
+Fade,UWRZ-2,L-C3O7,L-C3O7 VI,Fiber Composite,Poor,20.79
+Fade,UWRZ-2,L-C3O7,L-C3O7 VI,Glossy Compound,Medium,25.30
+Fade,UWRZ-2,L-C3O7,L-C3O7 VI,Reactive Gas,Medium,23.11
+Fade,UWRZ-2,L-C3O7,L-C3O7 VI,Ionic Solutions,Rich,12.49
+Fade,UWRZ-2,L-C3O7,L-C3O7 VII,Lustering Alloy,Poor,19.78
+Fade,UWRZ-2,L-C3O7,L-C3O7 VII,Sheen Compound,Rich,33.74
+Fade,UWRZ-2,L-C3O7,L-C3O7 VII,Reactive Gas,Rich,33.35
+Fade,UWRZ-2,L-C3O7,L-C3O7 VII,Reactive Metals,Rich,8.38
+Fade,UWRZ-2,L-C3O7,L-C3O7 VII,Ionic Solutions,Medium,10.18
+Fade,UWRZ-2,L-C3O7,L-C3O7 VIII,Crystal Compound,Rich,31.56
+Fade,UWRZ-2,L-C3O7,L-C3O7 VIII,Reactive Metals,Rich,8.24
+Fade,UWRZ-2,L-C3O7,L-C3O7 VIII,Construction Blocks,Medium,26.45
+Fade,UWRZ-2,L-C3O7,L-C3O7 VIII,Oxygen Isotopes,Rich,4.42
+Fade,UWRZ-2,L-C3O7,L-C3O7 IX,Crystal Compound,Rich,32.18
+Fade,UWRZ-2,L-C3O7,L-C3O7 IX,Noble Metals,Medium,23.00
+Fade,UWRZ-2,L-C3O7,L-C3O7 IX,Polyaramids,Rich,23.23
+Fade,UWRZ-2,L-C3O7,L-C3O7 IX,Heavy Water,Medium,218.50
+Fade,UWRZ-2,L-C3O7,L-C3O7 IX,Liquid Ozone,Medium,27.37
+Fade,7X-X1Y,YKSC-A,YKSC-A I,Precious Alloy,Poor,14.54
+Fade,7X-X1Y,YKSC-A,YKSC-A I,Toxic Metals,Poor,4.56
+Fade,7X-X1Y,YKSC-A,YKSC-A I,Industrial Fibers,Medium,7.28
+Fade,7X-X1Y,YKSC-A,YKSC-A I,Supertensile Plastics,Poor,13.78
+Fade,7X-X1Y,YKSC-A,YKSC-A II,Lustering Alloy,Medium,22.54
+Fade,7X-X1Y,YKSC-A,YKSC-A II,Glossy Compound,Rich,30.50
+Fade,7X-X1Y,YKSC-A,YKSC-A II,Reactive Gas,Poor,21.39
+Fade,7X-X1Y,YKSC-A,YKSC-A II,Reactive Metals,Medium,7.50
+Fade,7X-X1Y,YKSC-A,YKSC-A II,Ionic Solutions,Poor,7.93
+Fade,7X-X1Y,YKSC-A,YKSC-A III,Sheen Compound,Rich,29.67
+Fade,7X-X1Y,YKSC-A,YKSC-A III,Reactive Gas,Poor,21.16
+Fade,7X-X1Y,YKSC-A,YKSC-A III,Noble Gas,Medium,25.00
+Fade,7X-X1Y,YKSC-A,YKSC-A III,Coolant,Rich,21.39
+Fade,7X-X1Y,YKSC-A,YKSC-A III,Ionic Solutions,Medium,10.53
+Fade,7X-X1Y,YKSC-A,YKSC-A IV,Lustering Alloy,Medium,27.62
+Fade,7X-X1Y,YKSC-A,YKSC-A IV,Sheen Compound,Medium,24.06
+Fade,7X-X1Y,YKSC-A,YKSC-A IV,Glossy Compound,Perfect,36.89
+Fade,7X-X1Y,YKSC-A,YKSC-A IV,Reactive Gas,Rich,31.99
+Fade,7X-X1Y,YKSC-A,YKSC-A IV,Noble Gas,Poor,20.29
+Fade,7X-X1Y,YKSC-A,YKSC-A V,Sheen Compound,Medium,23.46
+Fade,7X-X1Y,YKSC-A,YKSC-A V,Reactive Gas,Poor,20.70
+Fade,7X-X1Y,YKSC-A,YKSC-A V,Base Metals,Rich,8.09
+Fade,7X-X1Y,YKSC-A,YKSC-A V,Reactive Metals,Perfect,9.77
+Fade,7X-X1Y,YKSC-A,YKSC-A V,Coolant,Medium,15.99
+Fade,7X-X1Y,YKSC-A,YKSC-A VI,Lustering Alloy,Medium,26.73
+Fade,7X-X1Y,YKSC-A,YKSC-A VI,Fiber Composite,Medium,22.08
+Fade,7X-X1Y,YKSC-A,YKSC-A VI,Glossy Compound,Medium,23.69
+Fade,7X-X1Y,YKSC-A,YKSC-A VI,Reactive Gas,Rich,29.44
+Fade,7X-X1Y,YKSC-A,YKSC-A VI,Reactive Metals,Medium,5.77
+Fade,7X-X1Y,YKSC-A,YKSC-A VII,Heavy Metals,Poor,20.22
+Fade,7X-X1Y,YKSC-A,YKSC-A VII,Supertensile Plastics,Rich,21.88
+Fade,7X-X1Y,YKSC-A,YKSC-A VII,Condensates,Poor,11.19
+Fade,7X-X1Y,YKSC-A,YKSC-A VII,Liquid Ozone,Medium,31.34
+Fade,7X-X1Y,FIO1-8,FIO1-8 I,Dark Compound,Medium,25.46
+Fade,7X-X1Y,FIO1-8,FIO1-8 I,Base Metals,Poor,4.73
+Fade,7X-X1Y,FIO1-8,FIO1-8 I,Supertensile Plastics,Poor,10.50
+Fade,7X-X1Y,FIO1-8,FIO1-8 I,Silicate Glass,Poor,8.59
+Fade,7X-X1Y,FIO1-8,FIO1-8 II,Opulent Compound,Rich,35.40
+Fade,7X-X1Y,FIO1-8,FIO1-8 II,Reactive Gas,Medium,22.93
+Fade,7X-X1Y,FIO1-8,FIO1-8 II,Noble Metals,Perfect,43.29
+Fade,7X-X1Y,FIO1-8,FIO1-8 II,Condensates,Perfect,24.81
+Fade,7X-X1Y,FIO1-8,FIO1-8 II,Liquid Ozone,Rich,39.24
+Fade,7X-X1Y,FIO1-8,FIO1-8 III,Lustering Alloy,Rich,30.20
+Fade,7X-X1Y,FIO1-8,FIO1-8 III,Reactive Gas,Rich,36.04
+Fade,7X-X1Y,FIO1-8,FIO1-8 III,Noble Gas,Medium,26.36
+Fade,7X-X1Y,FIO1-8,FIO1-8 III,Base Metals,Rich,9.19
+Fade,7X-X1Y,FIO1-8,FIO1-8 III,Ionic Solutions,Perfect,14.75
+Fade,7X-X1Y,FIO1-8,FIO1-8 IV,Sheen Compound,Medium,27.55
+Fade,7X-X1Y,FIO1-8,FIO1-8 IV,Reactive Gas,Rich,29.53
+Fade,7X-X1Y,FIO1-8,FIO1-8 IV,Noble Gas,Poor,20.52
+Fade,7X-X1Y,FIO1-8,FIO1-8 IV,Base Metals,Perfect,9.89
+Fade,7X-X1Y,FIO1-8,FIO1-8 IV,Coolant,Poor,13.74
+Fade,7X-X1Y,FIO1-8,FIO1-8 V,Lustering Alloy,Medium,28.13
+Fade,7X-X1Y,FIO1-8,FIO1-8 V,Reactive Gas,Rich,31.97
+Fade,7X-X1Y,FIO1-8,FIO1-8 V,Polyaramids,Rich,20.93
+Fade,7X-X1Y,FIO1-8,FIO1-8 V,Coolant,Rich,23.60
+Fade,7X-X1Y,FIO1-8,FIO1-8 V,Ionic Solutions,Rich,14.48
+Fade,7X-X1Y,FIO1-8,FIO1-8 VI,Dark Compound,Medium,27.02
+Fade,7X-X1Y,FIO1-8,FIO1-8 VI,Toxic Metals,Poor,5.19
+Fade,7X-X1Y,FIO1-8,FIO1-8 VI,Supertensile Plastics,Poor,10.21
+Fade,7X-X1Y,FIO1-8,FIO1-8 VI,Oxygen Isotopes,Poor,2.75
+Fade,7X-X1Y,FIO1-8,FIO1-8 VII,Precious Alloy,Medium,26.06
+Fade,7X-X1Y,FIO1-8,FIO1-8 VII,Dark Compound,Medium,27.92
+Fade,7X-X1Y,FIO1-8,FIO1-8 VII,Toxic Metals,Medium,6.60
+Fade,7X-X1Y,FIO1-8,FIO1-8 VII,Supertensile Plastics,Medium,16.85
+Fade,7X-X1Y,C-OK0R,C-OK0R I,Precious Alloy,Medium,25.66
+Fade,7X-X1Y,C-OK0R,C-OK0R I,Dark Compound,Poor,22.13
+Fade,7X-X1Y,C-OK0R,C-OK0R I,Toxic Metals,Medium,6.69
+Fade,7X-X1Y,C-OK0R,C-OK0R I,Supertensile Plastics,Medium,15.39
+Fade,7X-X1Y,C-OK0R,C-OK0R II,Sheen Compound,Rich,32.74
+Fade,7X-X1Y,C-OK0R,C-OK0R II,Fiber Composite,Medium,29.62
+Fade,7X-X1Y,C-OK0R,C-OK0R II,Reactive Gas,Rich,32.06
+Fade,7X-X1Y,C-OK0R,C-OK0R II,Polyaramids,Rich,24.70
+Fade,7X-X1Y,C-OK0R,C-OK0R II,Coolant,Medium,18.40
+Fade,7X-X1Y,C-OK0R,C-OK0R III,Crystal Compound,Rich,32.02
+Fade,7X-X1Y,C-OK0R,C-OK0R III,Reactive Metals,Medium,7.52
+Fade,7X-X1Y,C-OK0R,C-OK0R III,Nanites,Medium,7.48
+Fade,7X-X1Y,C-OK0R,C-OK0R III,Oxygen Isotopes,Medium,4.29
+Fade,7X-X1Y,C-OK0R,C-OK0R IV,Glossy Compound,Medium,28.94
+Fade,7X-X1Y,C-OK0R,C-OK0R IV,Reactive Gas,Rich,37.15
+Fade,7X-X1Y,C-OK0R,C-OK0R IV,Polyaramids,Poor,14.21
+Fade,7X-X1Y,C-OK0R,C-OK0R IV,Coolant,Rich,24.38
+Fade,7X-X1Y,C-OK0R,C-OK0R IV,Ionic Solutions,Rich,12.59
+Fade,7X-X1Y,C-OK0R,C-OK0R V,Fiber Composite,Perfect,38.62
+Fade,7X-X1Y,C-OK0R,C-OK0R V,Reactive Gas,Medium,26.90
+Fade,7X-X1Y,C-OK0R,C-OK0R V,Noble Gas,Medium,24.38
+Fade,7X-X1Y,C-OK0R,C-OK0R V,Reactive Metals,Rich,8.76
+Fade,7X-X1Y,C-OK0R,C-OK0R V,Coolant,Rich,22.99
+Fade,7X-X1Y,0-ARFO,0-ARFO I,Motley Compound,Poor,22.93
+Fade,7X-X1Y,0-ARFO,0-ARFO I,Glossy Compound,Perfect,42.33
+Fade,7X-X1Y,0-ARFO,0-ARFO I,Noble Gas,Poor,20.98
+Fade,7X-X1Y,0-ARFO,0-ARFO I,Noble Metals,Rich,33.08
+Fade,7X-X1Y,0-ARFO,0-ARFO II,Precious Alloy,Poor,19.35
+Fade,7X-X1Y,0-ARFO,0-ARFO II,Dark Compound,Medium,29.80
+Fade,7X-X1Y,0-ARFO,0-ARFO II,Industrial Fibers,Poor,4.11
+Fade,7X-X1Y,0-ARFO,0-ARFO II,Oxygen Isotopes,Poor,3.10
+Fade,7X-X1Y,0-ARFO,0-ARFO II,Plasmoids,Poor,1.19
+Fade,7X-X1Y,0-ARFO,0-ARFO III,Condensed Alloy,Medium,27.48
+Fade,7X-X1Y,0-ARFO,0-ARFO III,Reactive Gas,Rich,33.05
+Fade,7X-X1Y,0-ARFO,0-ARFO III,Industrial Fibers,Perfect,11.39
+Fade,7X-X1Y,0-ARFO,0-ARFO III,Condensates,Rich,22.12
+Fade,7X-X1Y,0-ARFO,0-ARFO III,Smartfab Units,Rich,26.42
+Fade,7X-X1Y,0-ARFO,0-ARFO III,Liquid Ozone,Perfect,56.97
+Fade,7X-X1Y,0-ARFO,0-ARFO IV,Lustering Alloy,Medium,30.85
+Fade,7X-X1Y,0-ARFO,0-ARFO IV,Fiber Composite,Medium,29.63
+Fade,7X-X1Y,0-ARFO,0-ARFO IV,Glossy Compound,Rich,38.27
+Fade,7X-X1Y,0-ARFO,0-ARFO IV,Base Metals,Poor,5.57
+Fade,7X-X1Y,0-ARFO,0-ARFO IV,Reactive Metals,Perfect,10.63
+Fade,7X-X1Y,0-ARFO,0-ARFO IV,Coolant,Medium,21.05
+Fade,7X-X1Y,E9KD-N,E9KD-N I,Sheen Compound,Rich,32.33
+Fade,7X-X1Y,E9KD-N,E9KD-N I,Heavy Metals,Rich,31.82
+Fade,7X-X1Y,E9KD-N,E9KD-N I,Condensates,Rich,24.43
+Fade,7X-X1Y,E9KD-N,E9KD-N I,Suspended Plasma,Perfect,145.15
+Fade,7X-X1Y,E9KD-N,E9KD-N I,Plasmoids,Medium,1.73
+Fade,7X-X1Y,E9KD-N,E9KD-N II,Gleaming Alloy,Rich,38.04
+Fade,7X-X1Y,E9KD-N,E9KD-N II,Motley Compound,Medium,23.52
+Fade,7X-X1Y,E9KD-N,E9KD-N II,Construction Blocks,Medium,24.38
+Fade,7X-X1Y,E9KD-N,E9KD-N III,Supertensile Plastics,Poor,11.98
+Fade,7X-X1Y,E9KD-N,E9KD-N III,Construction Blocks,Poor,17.45
+Fade,7X-X1Y,E9KD-N,E9KD-N III,Silicate Glass,Medium,12.05
+Fade,7X-X1Y,E9KD-N,E9KD-N III,Plasmoids,Poor,1.10
+Fade,7X-X1Y,E9KD-N,E9KD-N IV,Gleaming Alloy,Medium,29.57
+Fade,7X-X1Y,E9KD-N,E9KD-N IV,Motley Compound,Medium,29.95
+Fade,7X-X1Y,E9KD-N,E9KD-N IV,Glossy Compound,Perfect,39.14
+Fade,7X-X1Y,E9KD-N,E9KD-N V,Precious Alloy,Poor,19.30
+Fade,7X-X1Y,E9KD-N,E9KD-N V,Dark Compound,Poor,17.54
+Fade,7X-X1Y,E9KD-N,E9KD-N V,Supertensile Plastics,Poor,11.46
+Fade,7X-X1Y,E9KD-N,E9KD-N V,Plasmoids,Medium,1.43
+Fade,7X-X1Y,E9KD-N,E9KD-N VI,Base Metals,Medium,7.07
+Fade,7X-X1Y,E9KD-N,E9KD-N VI,Industrial Fibers,Poor,4.41
+Fade,7X-X1Y,E9KD-N,E9KD-N VI,Supertensile Plastics,Medium,15.52
+Fade,7X-X1Y,E9KD-N,E9KD-N VI,Oxygen Isotopes,Poor,2.39
+Fade,7X-X1Y,E9KD-N,E9KD-N VII,Fiber Composite,Medium,29.81
+Fade,7X-X1Y,E9KD-N,E9KD-N VII,Reactive Gas,Poor,20.26
+Fade,7X-X1Y,E9KD-N,E9KD-N VII,Base Metals,Rich,8.79
+Fade,7X-X1Y,E9KD-N,E9KD-N VII,Reactive Metals,Medium,7.81
+Fade,7X-X1Y,E9KD-N,E9KD-N VII,Coolant,Medium,17.46
+Fade,7X-X1Y,E9KD-N,E9KD-N VIII,Sheen Compound,Perfect,38.52
+Fade,7X-X1Y,E9KD-N,E9KD-N VIII,Fiber Composite,Rich,37.80
+Fade,7X-X1Y,E9KD-N,E9KD-N VIII,Glossy Compound,Medium,30.12
+Fade,7X-X1Y,E9KD-N,E9KD-N VIII,Reactive Gas,Medium,29.45
+Fade,7X-X1Y,E9KD-N,E9KD-N VIII,Reactive Metals,Medium,6.17
+Fade,7X-X1Y,E9KD-N,E9KD-N IX,Opulent Compound,Rich,36.67
+Fade,7X-X1Y,E9KD-N,E9KD-N IX,Industrial Fibers,Medium,7.72
+Fade,7X-X1Y,E9KD-N,E9KD-N IX,Smartfab Units,Medium,19.02
+Fade,7X-X1Y,E9KD-N,E9KD-N IX,Heavy Water,Perfect,415.20
+Fade,7X-X1Y,E9KD-N,E9KD-N IX,Liquid Ozone,Perfect,51.57
+Fade,7X-X1Y,E9KD-N,E9KD-N X,Fiber Composite,Medium,26.45
+Fade,7X-X1Y,E9KD-N,E9KD-N X,Glossy Compound,Medium,26.95
+Fade,7X-X1Y,E9KD-N,E9KD-N X,Reactive Gas,Rich,37.54
+Fade,7X-X1Y,E9KD-N,E9KD-N X,Base Metals,Medium,6.75
+Fade,7X-X1Y,E9KD-N,E9KD-N X,Reactive Metals,Medium,6.88
+Fade,7X-X1Y,E9KD-N,E9KD-N XI,Lustering Alloy,Poor,19.58
+Fade,7X-X1Y,E9KD-N,E9KD-N XI,Precious Alloy,Medium,25.99
+Fade,7X-X1Y,E9KD-N,E9KD-N XI,Motley Compound,Rich,34.03
+Fade,7X-X1Y,E9KD-N,E9KD-N XI,Condensates,Rich,23.25
+Fade,7X-X1Y,8W-OSE,8W-OSE I,Sheen Compound,Perfect,37.58
+Fade,7X-X1Y,8W-OSE,8W-OSE I,Dark Compound,Perfect,37.90
+Fade,7X-X1Y,8W-OSE,8W-OSE I,Reactive Metals,Perfect,10.23
+Fade,7X-X1Y,8W-OSE,8W-OSE I,Condensates,Medium,15.41
+Fade,7X-X1Y,8W-OSE,8W-OSE I,Ionic Solutions,Perfect,14.66
+Fade,7X-X1Y,8W-OSE,8W-OSE II,Gleaming Alloy,Rich,35.95
+Fade,7X-X1Y,8W-OSE,8W-OSE II,Heavy Metals,Medium,22.61
+Fade,7X-X1Y,8W-OSE,8W-OSE II,Noble Metals,Medium,22.06
+Fade,7X-X1Y,8W-OSE,8W-OSE III,Condensed Alloy,Poor,21.14
+Fade,7X-X1Y,8W-OSE,8W-OSE III,Crystal Compound,Rich,32.18
+Fade,7X-X1Y,8W-OSE,8W-OSE III,Toxic Metals,Rich,8.06
+Fade,7X-X1Y,8W-OSE,8W-OSE III,Liquid Ozone,Medium,36.23
+Fade,7X-X1Y,8W-OSE,8W-OSE III,Ionic Solutions,Medium,8.81
+Fade,7X-X1Y,8W-OSE,8W-OSE IV,Condensed Alloy,Medium,23.53
+Fade,7X-X1Y,8W-OSE,8W-OSE IV,Opulent Compound,Rich,34.43
+Fade,7X-X1Y,8W-OSE,8W-OSE IV,Coolant,Rich,20.88
+Fade,7X-X1Y,8W-OSE,8W-OSE IV,Liquid Ozone,Rich,42.90
+Fade,7X-X1Y,8W-OSE,8W-OSE IV,Ionic Solutions,Perfect,15.88
+Fade,7X-X1Y,8W-OSE,8W-OSE V,Lucent Compound,Rich,29.44
+Fade,7X-X1Y,8W-OSE,8W-OSE V,Reactive Metals,Rich,8.45
+Fade,7X-X1Y,8W-OSE,8W-OSE V,Toxic Metals,Perfect,9.78
+Fade,7X-X1Y,8W-OSE,8W-OSE V,Oxygen Isotopes,Medium,3.75
+Fade,7X-X1Y,8W-OSE,8W-OSE VI,Lucent Compound,Medium,27.74
+Fade,7X-X1Y,8W-OSE,8W-OSE VI,Reactive Metals,Poor,5.13
+Fade,7X-X1Y,8W-OSE,8W-OSE VI,Toxic Metals,Rich,9.12
+Fade,7X-X1Y,8W-OSE,8W-OSE VI,Nanites,Medium,5.77
+Fade,7X-X1Y,8W-OSE,8W-OSE VII,Glossy Compound,Poor,20.22
+Fade,7X-X1Y,8W-OSE,8W-OSE VII,Reactive Gas,Rich,31.12
+Fade,7X-X1Y,8W-OSE,8W-OSE VII,Noble Gas,Rich,35.88
+Fade,7X-X1Y,8W-OSE,8W-OSE VII,Base Metals,Poor,5.30
+Fade,7X-X1Y,8W-OSE,8W-OSE VII,Ionic Solutions,Medium,11.34
+Fade,7X-X1Y,8W-OSE,8W-OSE VIII,Lustering Alloy,Rich,31.88
+Fade,7X-X1Y,8W-OSE,8W-OSE VIII,Fiber Composite,Poor,20.70
+Fade,7X-X1Y,8W-OSE,8W-OSE VIII,Reactive Gas,Poor,20.54
+Fade,7X-X1Y,8W-OSE,8W-OSE VIII,Base Metals,Medium,6.39
+Fade,7X-X1Y,8W-OSE,8W-OSE VIII,Coolant,Medium,19.35
+Fade,7X-X1Y,8W-OSE,8W-OSE IX,Sheen Compound,Rich,34.36
+Fade,7X-X1Y,8W-OSE,8W-OSE IX,Fiber Composite,Rich,33.17
+Fade,7X-X1Y,8W-OSE,8W-OSE IX,Reactive Gas,Medium,26.93
+Fade,7X-X1Y,8W-OSE,8W-OSE IX,Noble Gas,Medium,22.68
+Fade,7X-X1Y,8W-OSE,8W-OSE IX,Base Metals,Medium,5.90
+Fade,7X-X1Y,WQY-IQ,WQY-IQ I,Gleaming Alloy,Medium,26.84
+Fade,7X-X1Y,WQY-IQ,WQY-IQ I,Oxygen Isotopes,Medium,4.35
+Fade,7X-X1Y,WQY-IQ,WQY-IQ I,Plasmoids,Rich,1.79
+Fade,7X-X1Y,WQY-IQ,WQY-IQ II,Precious Alloy,Medium,26.73
+Fade,7X-X1Y,WQY-IQ,WQY-IQ II,Base Metals,Poor,3.91
+Fade,7X-X1Y,WQY-IQ,WQY-IQ II,Supertensile Plastics,Poor,12.05
+Fade,7X-X1Y,WQY-IQ,WQY-IQ II,Silicate Glass,Poor,9.72
+Fade,7X-X1Y,WQY-IQ,WQY-IQ III,Lustering Alloy,Poor,15.52
+Fade,7X-X1Y,WQY-IQ,WQY-IQ III,Precious Alloy,Poor,15.64
+Fade,7X-X1Y,WQY-IQ,WQY-IQ III,Supertensile Plastics,Medium,14.95
+Fade,7X-X1Y,WQY-IQ,WQY-IQ III,Silicate Glass,Poor,9.67
+Fade,7X-X1Y,WQY-IQ,WQY-IQ IV,Precious Alloy,Medium,22.68
+Fade,7X-X1Y,WQY-IQ,WQY-IQ IV,Supertensile Plastics,Poor,12.27
+Fade,7X-X1Y,WQY-IQ,WQY-IQ IV,Construction Blocks,Medium,26.93
+Fade,7X-X1Y,WQY-IQ,WQY-IQ IV,Plasmoids,Poor,1.29
+Fade,7X-X1Y,WQY-IQ,WQY-IQ V,Lustering Alloy,Poor,16.05
+Fade,7X-X1Y,WQY-IQ,WQY-IQ V,Supertensile Plastics,Poor,11.78
+Fade,7X-X1Y,WQY-IQ,WQY-IQ V,Silicate Glass,Medium,13.35
+Fade,7X-X1Y,WQY-IQ,WQY-IQ V,Oxygen Isotopes,Poor,3.23
+Fade,7X-X1Y,WQY-IQ,WQY-IQ VI,Lustering Alloy,Perfect,38.04
+Fade,7X-X1Y,WQY-IQ,WQY-IQ VI,Sheen Compound,Medium,22.40
+Fade,7X-X1Y,WQY-IQ,WQY-IQ VI,Fiber Composite,Poor,19.46
+Fade,7X-X1Y,WQY-IQ,WQY-IQ VI,Glossy Compound,Medium,22.06
+Fade,7X-X1Y,WQY-IQ,WQY-IQ VI,Reactive Gas,Poor,20.91
+Fade,7X-X1Y,WQY-IQ,WQY-IQ VII,Base Metals,Poor,5.50
+Fade,7X-X1Y,WQY-IQ,WQY-IQ VII,Toxic Metals,Poor,5.25
+Fade,7X-X1Y,WQY-IQ,WQY-IQ VII,Industrial Fibers,Poor,3.97
+Fade,7X-X1Y,WQY-IQ,WQY-IQ VII,Supertensile Plastics,Poor,9.75
+Fade,VNX-P0,C4C-Z4,C4C-Z4 I,Precious Alloy,Medium,22.56
+Fade,VNX-P0,C4C-Z4,C4C-Z4 I,Base Metals,Medium,6.04
+Fade,VNX-P0,C4C-Z4,C4C-Z4 I,Supertensile Plastics,Medium,15.85
+Fade,VNX-P0,C4C-Z4,C4C-Z4 I,Silicate Glass,Medium,14.01
+Fade,VNX-P0,C4C-Z4,C4C-Z4 II,Gleaming Alloy,Rich,31.65
+Fade,VNX-P0,C4C-Z4,C4C-Z4 II,Polyaramids,Perfect,25.53
+Fade,VNX-P0,C4C-Z4,C4C-Z4 II,Plasmoids,Medium,1.51
+Fade,VNX-P0,C4C-Z4,C4C-Z4 III,Precious Alloy,Medium,26.17
+Fade,VNX-P0,C4C-Z4,C4C-Z4 III,Toxic Metals,Medium,7.41
+Fade,VNX-P0,C4C-Z4,C4C-Z4 III,Supertensile Plastics,Medium,17.39
+Fade,VNX-P0,C4C-Z4,C4C-Z4 III,Oxygen Isotopes,Medium,3.34
+Fade,VNX-P0,C4C-Z4,C4C-Z4 IV,Gleaming Alloy,Rich,36.45
+Fade,VNX-P0,C4C-Z4,C4C-Z4 IV,Crystal Compound,Rich,35.63
+Fade,VNX-P0,C4C-Z4,C4C-Z4 IV,Reactive Metals,Medium,7.46
+Fade,VNX-P0,C4C-Z4,C4C-Z4 IV,Suspended Plasma,Poor,76.51
+Fade,VNX-P0,C4C-Z4,C4C-Z4 V,Sheen Compound,Medium,25.53
+Fade,VNX-P0,C4C-Z4,C4C-Z4 V,Glossy Compound,Medium,22.22
+Fade,VNX-P0,C4C-Z4,C4C-Z4 V,Reactive Gas,Medium,26.63
+Fade,VNX-P0,C4C-Z4,C4C-Z4 V,Noble Gas,Medium,24.24
+Fade,VNX-P0,C4C-Z4,C4C-Z4 V,Polyaramids,Rich,21.39
+Fade,VNX-P0,C4C-Z4,C4C-Z4 VI,Toxic Metals,Rich,8.97
+Fade,VNX-P0,C4C-Z4,C4C-Z4 VI,Coolant,Rich,23.94
+Fade,VNX-P0,C4C-Z4,C4C-Z4 VI,Silicate Glass,Rich,15.13
+Fade,VNX-P0,C4C-Z4,C4C-Z4 VI,Heavy Water,Rich,294.63
+Fade,VNX-P0,C4C-Z4,C4C-Z4 VI,Liquid Ozone,Rich,36.48
+Fade,VNX-P0,C4C-Z4,C4C-Z4 VII,Fiber Composite,Rich,29.12
+Fade,VNX-P0,C4C-Z4,C4C-Z4 VII,Reactive Gas,Rich,35.14
+Fade,VNX-P0,C4C-Z4,C4C-Z4 VII,Noble Gas,Medium,23.87
+Fade,VNX-P0,C4C-Z4,C4C-Z4 VII,Base Metals,Medium,6.55
+Fade,VNX-P0,C4C-Z4,C4C-Z4 VII,Coolant,Rich,20.39
+Fade,VNX-P0,C4C-Z4,C4C-Z4 VIII,Sheen Compound,Medium,25.16
+Fade,VNX-P0,C4C-Z4,C4C-Z4 VIII,Reactive Gas,Rich,35.44
+Fade,VNX-P0,C4C-Z4,C4C-Z4 VIII,Base Metals,Poor,4.98
+Fade,VNX-P0,C4C-Z4,C4C-Z4 VIII,Reactive Metals,Medium,6.31
+Fade,VNX-P0,C4C-Z4,C4C-Z4 VIII,Coolant,Medium,18.05
+Fade,VNX-P0,C4C-Z4,C4C-Z4 IX,Opulent Compound,Rich,32.18
+Fade,VNX-P0,C4C-Z4,C4C-Z4 IX,Polyaramids,Rich,20.81
+Fade,VNX-P0,C4C-Z4,C4C-Z4 IX,Silicate Glass,Medium,12.44
+Fade,VNX-P0,C4C-Z4,C4C-Z4 IX,Liquid Ozone,Perfect,50.17
+Fade,VNX-P0,C4C-Z4,C4C-Z4 IX,Ionic Solutions,Perfect,15.73
+Fade,VNX-P0,GME-PQ,GME-PQ I,Dark Compound,Poor,19.58
+Fade,VNX-P0,GME-PQ,GME-PQ I,Base Metals,Poor,4.27
+Fade,VNX-P0,GME-PQ,GME-PQ I,Supertensile Plastics,Medium,15.09
+Fade,VNX-P0,GME-PQ,GME-PQ I,Construction Blocks,Poor,15.19
+Fade,VNX-P0,GME-PQ,GME-PQ II,Fiber Composite,Rich,30.60
+Fade,VNX-P0,GME-PQ,GME-PQ II,Base Metals,Rich,8.65
+Fade,VNX-P0,GME-PQ,GME-PQ II,Noble Metals,Perfect,40.99
+Fade,VNX-P0,GME-PQ,GME-PQ II,Industrial Fibers,Medium,6.88
+Fade,VNX-P0,GME-PQ,GME-PQ II,Liquid Ozone,Perfect,47.82
+Fade,VNX-P0,GME-PQ,GME-PQ III,Sheen Compound,Poor,20.81
+Fade,VNX-P0,GME-PQ,GME-PQ III,Glossy Compound,Medium,25.30
+Fade,VNX-P0,GME-PQ,GME-PQ III,Reactive Gas,Medium,27.38
+Fade,VNX-P0,GME-PQ,GME-PQ III,Base Metals,Medium,6.64
+Fade,VNX-P0,GME-PQ,GME-PQ III,Polyaramids,Rich,21.54
+Fade,VNX-P0,GME-PQ,GME-PQ IV,Reactive Gas,Perfect,45.24
+Fade,VNX-P0,GME-PQ,GME-PQ IV,Base Metals,Medium,6.33
+Fade,VNX-P0,GME-PQ,GME-PQ IV,Industrial Fibers,Rich,9.85
+Fade,VNX-P0,GME-PQ,GME-PQ IV,Smartfab Units,Rich,22.83
+Fade,VNX-P0,GME-PQ,GME-PQ IV,Liquid Ozone,Medium,30.84
+Fade,VNX-P0,GME-PQ,GME-PQ V,Fiber Composite,Rich,35.50
+Fade,VNX-P0,GME-PQ,GME-PQ V,Reactive Gas,Medium,30.29
+Fade,VNX-P0,GME-PQ,GME-PQ V,Noble Gas,Medium,28.56
+Fade,VNX-P0,GME-PQ,GME-PQ V,Polyaramids,Medium,16.26
+Fade,VNX-P0,GME-PQ,GME-PQ V,Ionic Solutions,Perfect,15.40
+Fade,VNX-P0,GME-PQ,GME-PQ VI,Fiber Composite,Poor,21.22
+Fade,VNX-P0,GME-PQ,GME-PQ VI,Glossy Compound,Poor,21.19
+Fade,VNX-P0,GME-PQ,GME-PQ VI,Reactive Gas,Medium,25.39
+Fade,VNX-P0,GME-PQ,GME-PQ VI,Polyaramids,Medium,17.39
+Fade,VNX-P0,GME-PQ,GME-PQ VI,Coolant,Medium,19.71
+Fade,VNX-P0,GME-PQ,GME-PQ VII,Lustering Alloy,Medium,25.49
+Fade,VNX-P0,GME-PQ,GME-PQ VII,Fiber Composite,Poor,21.07
+Fade,VNX-P0,GME-PQ,GME-PQ VII,Glossy Compound,Medium,23.90
+Fade,VNX-P0,GME-PQ,GME-PQ VII,Reactive Gas,Medium,26.16
+Fade,VNX-P0,GME-PQ,GME-PQ VII,Noble Gas,Poor,20.28
+Fade,VNX-P0,GME-PQ,GME-PQ VIII,Condensed Alloy,Perfect,38.69
+Fade,VNX-P0,GME-PQ,GME-PQ VIII,Opulent Compound,Medium,23.88
+Fade,VNX-P0,GME-PQ,GME-PQ VIII,Toxic Metals,Perfect,11.04
+Fade,VNX-P0,GME-PQ,GME-PQ VIII,Silicate Glass,Medium,13.86
+Fade,VNX-P0,GME-PQ,GME-PQ VIII,Liquid Ozone,Medium,34.68
+Fade,VNX-P0,GME-PQ,GME-PQ IX,Condensed Alloy,Medium,29.45
+Fade,VNX-P0,GME-PQ,GME-PQ IX,Opulent Compound,Rich,31.49
+Fade,VNX-P0,GME-PQ,GME-PQ IX,Noble Metals,Perfect,39.34
+Fade,VNX-P0,GME-PQ,GME-PQ IX,Polyaramids,Poor,15.07
+Fade,VNX-P0,GME-PQ,GME-PQ IX,Liquid Ozone,Rich,38.67
+Fade,VNX-P0,MPPA-A,MPPA-A I,Dark Compound,Poor,16.95
+Fade,VNX-P0,MPPA-A,MPPA-A I,Base Metals,Poor,4.27
+Fade,VNX-P0,MPPA-A,MPPA-A I,Industrial Fibers,Poor,6.09
+Fade,VNX-P0,MPPA-A,MPPA-A I,Oxygen Isotopes,Poor,2.45
+Fade,VNX-P0,MPPA-A,MPPA-A I,Plasmoids,Medium,1.76
+Fade,VNX-P0,MPPA-A,MPPA-A II,Precious Alloy,Poor,21.75
+Fade,VNX-P0,MPPA-A,MPPA-A II,Dark Compound,Medium,29.35
+Fade,VNX-P0,MPPA-A,MPPA-A II,Industrial Fibers,Poor,4.76
+Fade,VNX-P0,MPPA-A,MPPA-A II,Supertensile Plastics,Medium,19.53
+Fade,VNX-P0,MPPA-A,MPPA-A II,Oxygen Isotopes,Medium,3.77
+Fade,VNX-P0,MPPA-A,MPPA-A III,Sheen Compound,Rich,32.60
+Fade,VNX-P0,MPPA-A,MPPA-A III,Reactive Gas,Rich,37.15
+Fade,VNX-P0,MPPA-A,MPPA-A III,Base Metals,Medium,8.31
+Fade,VNX-P0,MPPA-A,MPPA-A III,Reactive Metals,Medium,7.41
+Fade,VNX-P0,MPPA-A,MPPA-A III,Polyaramids,Medium,17.12
+Fade,VNX-P0,MPPA-A,MPPA-A III,Coolant,Rich,22.48
+Fade,VNX-P0,MPPA-A,MPPA-A IV,Opulent Compound,Medium,23.73
+Fade,VNX-P0,MPPA-A,MPPA-A IV,Crystal Compound,Perfect,42.48
+Fade,VNX-P0,MPPA-A,MPPA-A IV,Noble Metals,Medium,26.35
+Fade,VNX-P0,MPPA-A,MPPA-A IV,Toxic Metals,Poor,6.03
+Fade,VNX-P0,MPPA-A,MPPA-A IV,Polyaramids,Medium,16.18
+Fade,VNX-P0,MPPA-A,MPPA-A IV,Coolant,Rich,25.78
+Fade,VNX-P0,MPPA-A,MPPA-A V,Lustering Alloy,Rich,34.63
+Fade,VNX-P0,MPPA-A,MPPA-A V,Sheen Compound,Medium,29.35
+Fade,VNX-P0,MPPA-A,MPPA-A V,Fiber Composite,Medium,28.65
+Fade,VNX-P0,MPPA-A,MPPA-A V,Reactive Gas,Rich,36.63
+Fade,VNX-P0,MPPA-A,MPPA-A V,Reactive Metals,Rich,10.01
+Fade,VNX-P0,MPPA-A,MPPA-A V,Ionic Solutions,Medium,12.00
+Fade,VNX-P0,MPPA-A,MPPA-A VI,Lustering Alloy,Medium,29.10
+Fade,VNX-P0,MPPA-A,MPPA-A VI,Precious Alloy,Poor,18.82
+Fade,VNX-P0,MPPA-A,MPPA-A VI,Coolant,Medium,19.40
+Fade,VNX-P0,MPPA-A,MPPA-A VI,Suspended Plasma,Poor,72.99
+Fade,VNX-P0,MPPA-A,MPPA-A VI,Liquid Ozone,Rich,43.88
+Fade,VNX-P0,X5-UME,X5-UME I,Gleaming Alloy,Rich,32.73
+Fade,VNX-P0,X5-UME,X5-UME I,Heavy Metals,Perfect,38.02
+Fade,VNX-P0,X5-UME,X5-UME I,Noble Metals,Perfect,38.57
+Fade,VNX-P0,X5-UME,X5-UME II,Base Metals,Medium,7.22
+Fade,VNX-P0,X5-UME,X5-UME II,Toxic Metals,Medium,7.12
+Fade,VNX-P0,X5-UME,X5-UME II,Supertensile Plastics,Poor,11.45
+Fade,VNX-P0,X5-UME,X5-UME II,Oxygen Isotopes,Medium,3.76
+Fade,VNX-P0,X5-UME,X5-UME III,Precious Alloy,Poor,16.95
+Fade,VNX-P0,X5-UME,X5-UME III,Industrial Fibers,Medium,6.87
+Fade,VNX-P0,X5-UME,X5-UME III,Supertensile Plastics,Poor,13.74
+Fade,VNX-P0,X5-UME,X5-UME III,Silicate Glass,Poor,7.35
+Fade,VNX-P0,X5-UME,X5-UME IV,Fiber Composite,Perfect,38.04
+Fade,VNX-P0,X5-UME,X5-UME IV,Noble Metals,Medium,24.31
+Fade,VNX-P0,X5-UME,X5-UME IV,Condensates,Medium,15.53
+Fade,VNX-P0,X5-UME,X5-UME IV,Smartfab Units,Perfect,26.51
+Fade,VNX-P0,X5-UME,X5-UME IV,Liquid Ozone,Medium,31.60
+Fade,VNX-P0,X5-UME,X5-UME V,Fiber Composite,Medium,27.05
+Fade,VNX-P0,X5-UME,X5-UME V,Opulent Compound,Medium,25.44
+Fade,VNX-P0,X5-UME,X5-UME V,Reactive Gas,Perfect,43.22
+Fade,VNX-P0,X5-UME,X5-UME V,Condensates,Rich,23.83
+Fade,VNX-P0,X5-UME,X5-UME V,Liquid Ozone,Perfect,47.12
+Fade,VNX-P0,X5-UME,X5-UME VI,Opulent Compound,Medium,26.13
+Fade,VNX-P0,X5-UME,X5-UME VI,Base Metals,Rich,7.88
+Fade,VNX-P0,X5-UME,X5-UME VI,Condensates,Perfect,25.64
+Fade,VNX-P0,X5-UME,X5-UME VI,Heavy Water,Rich,316.94
+Fade,VNX-P0,X5-UME,X5-UME VI,Liquid Ozone,Medium,28.06
+Fade,VNX-P0,X5-UME,X5-UME VII,Fiber Composite,Medium,24.95
+Fade,VNX-P0,X5-UME,X5-UME VII,Glossy Compound,Rich,32.06
+Fade,VNX-P0,X5-UME,X5-UME VII,Reactive Gas,Medium,25.02
+Fade,VNX-P0,X5-UME,X5-UME VII,Base Metals,Rich,9.61
+Fade,VNX-P0,X5-UME,X5-UME VII,Reactive Metals,Medium,7.40
+Fade,VNX-P0,X5-UME,X5-UME VIII,Crystal Compound,Medium,22.24
+Fade,VNX-P0,X5-UME,X5-UME VIII,Noble Metals,Perfect,37.88
+Fade,VNX-P0,X5-UME,X5-UME VIII,Coolant,Rich,22.11
+Fade,VNX-P0,X5-UME,X5-UME VIII,Liquid Ozone,Perfect,46.89
+Fade,VNX-P0,X5-UME,X5-UME VIII,Ionic Solutions,Medium,9.56
+Fade,VNX-P0,X5-UME,X5-UME IX,Fiber Composite,Rich,30.13
+Fade,VNX-P0,X5-UME,X5-UME IX,Reactive Gas,Medium,22.29
+Fade,VNX-P0,X5-UME,X5-UME IX,Noble Gas,Medium,29.03
+Fade,VNX-P0,X5-UME,X5-UME IX,Base Metals,Rich,9.00
+Fade,VNX-P0,X5-UME,X5-UME IX,Ionic Solutions,Rich,13.05
+Fade,VNX-P0,I-UUI5,I-UUI5 I,Lustering Alloy,Poor,20.25
+Fade,VNX-P0,I-UUI5,I-UUI5 I,Dark Compound,Poor,19.76
+Fade,VNX-P0,I-UUI5,I-UUI5 I,Industrial Fibers,Poor,5.69
+Fade,VNX-P0,I-UUI5,I-UUI5 I,Construction Blocks,Medium,29.54
+Fade,VNX-P0,I-UUI5,I-UUI5 I,Plasmoids,Medium,1.91
+Fade,VNX-P0,I-UUI5,I-UUI5 II,Dark Compound,Poor,17.24
+Fade,VNX-P0,I-UUI5,I-UUI5 II,Base Metals,Poor,6.38
+Fade,VNX-P0,I-UUI5,I-UUI5 II,Toxic Metals,Poor,4.25
+Fade,VNX-P0,I-UUI5,I-UUI5 II,Oxygen Isotopes,Poor,3.10
+Fade,VNX-P0,I-UUI5,I-UUI5 II,Plasmoids,Medium,1.62
+Fade,VNX-P0,I-UUI5,I-UUI5 III,Condensed Alloy,Medium,26.29
+Fade,VNX-P0,I-UUI5,I-UUI5 III,Opulent Compound,Medium,24.67
+Fade,VNX-P0,I-UUI5,I-UUI5 III,Reactive Gas,Perfect,43.29
+Fade,VNX-P0,I-UUI5,I-UUI5 III,Noble Metals,Rich,36.74
+Fade,VNX-P0,I-UUI5,I-UUI5 III,Condensates,Rich,24.53
+Fade,VNX-P0,I-UUI5,I-UUI5 III,Heavy Water,Rich,352.04
+Fade,VNX-P0,I-UUI5,I-UUI5 IV,Condensed Alloy,Poor,24.08
+Fade,VNX-P0,I-UUI5,I-UUI5 IV,Opulent Compound,Poor,24.15
+Fade,VNX-P0,I-UUI5,I-UUI5 IV,Base Metals,Rich,10.16
+Fade,VNX-P0,I-UUI5,I-UUI5 IV,Noble Metals,Perfect,42.48
+Fade,VNX-P0,I-UUI5,I-UUI5 IV,Industrial Fibers,Medium,7.33
+Fade,VNX-P0,I-UUI5,I-UUI5 IV,Condensates,Rich,26.88
+Fade,VNX-P0,I-UUI5,I-UUI5 V,Condensed Alloy,Rich,40.07
+Fade,VNX-P0,I-UUI5,I-UUI5 V,Opulent Compound,Medium,27.95
+Fade,VNX-P0,I-UUI5,I-UUI5 V,Industrial Fibers,Rich,9.35
+Fade,VNX-P0,I-UUI5,I-UUI5 V,Smartfab Units,Rich,26.17
+Fade,VNX-P0,I-UUI5,I-UUI5 V,Heavy Water,Medium,302.12
+Fade,VNX-P0,I-UUI5,I-UUI5 V,Liquid Ozone,Rich,46.44
+Fade,VNX-P0,I-UUI5,I-UUI5 VI,Condensed Alloy,Perfect,41.70
+Fade,VNX-P0,I-UUI5,I-UUI5 VI,Opulent Compound,Perfect,41.94
+Fade,VNX-P0,I-UUI5,I-UUI5 VI,Polyaramids,Rich,24.39
+Fade,VNX-P0,I-UUI5,I-UUI5 VI,Silicate Glass,Medium,15.07
+Fade,VNX-P0,I-UUI5,I-UUI5 VI,Heavy Water,Medium,282.36
+Fade,VNX-P0,I-UUI5,I-UUI5 VI,Ionic Solutions,Rich,15.72
+Fade,VNX-P0,8QMO-E,8QMO-E I,Gleaming Alloy,Rich,32.38
+Fade,VNX-P0,8QMO-E,8QMO-E I,Crystal Compound,Medium,23.63
+Fade,VNX-P0,8QMO-E,8QMO-E I,Reactive Metals,Rich,9.44
+Fade,VNX-P0,8QMO-E,8QMO-E I,Toxic Metals,Medium,8.13
+Fade,VNX-P0,8QMO-E,8QMO-E I,Oxygen Isotopes,Rich,5.62
+Fade,VNX-P0,8QMO-E,8QMO-E II,Noble Gas,Perfect,42.13
+Fade,VNX-P0,8QMO-E,8QMO-E II,Heavy Metals,Medium,30.50
+Fade,VNX-P0,8QMO-E,8QMO-E II,Reactive Metals,Perfect,11.18
+Fade,VNX-P0,8QMO-E,8QMO-E II,Nanites,Rich,8.38
+Fade,VNX-P0,8QMO-E,8QMO-E II,Ionic Solutions,Rich,13.54
+Fade,VNX-P0,8QMO-E,8QMO-E II,Plasmoids,Rich,2.31
+Fade,VNX-P0,8QMO-E,8QMO-E III,Condensed Alloy,Medium,24.52
+Fade,VNX-P0,8QMO-E,8QMO-E III,Fiber Composite,Rich,35.67
+Fade,VNX-P0,8QMO-E,8QMO-E III,Reactive Gas,Perfect,41.00
+Fade,VNX-P0,8QMO-E,8QMO-E III,Noble Metals,Medium,30.20
+Fade,VNX-P0,8QMO-E,8QMO-E III,Industrial Fibers,Perfect,10.79
+Fade,VNX-P0,8QMO-E,8QMO-E III,Condensates,Medium,15.83
+Fade,VNX-P0,8QMO-E,8QMO-E IV,Lucent Compound,Rich,36.45
+Fade,VNX-P0,8QMO-E,8QMO-E IV,Crystal Compound,Medium,30.07
+Fade,VNX-P0,8QMO-E,8QMO-E IV,Reactive Gas,Poor,20.52
+Fade,VNX-P0,8QMO-E,8QMO-E IV,Reactive Metals,Rich,10.14
+Fade,VNX-P0,8QMO-E,8QMO-E IV,Nanites,Poor,5.32
+Fade,VNX-P0,8QMO-E,8QMO-E V,Lustering Alloy,Rich,31.65
+Fade,VNX-P0,8QMO-E,8QMO-E V,Sheen Compound,Medium,30.85
+Fade,VNX-P0,8QMO-E,8QMO-E V,Fiber Composite,Medium,23.65
+Fade,VNX-P0,8QMO-E,8QMO-E V,Glossy Compound,Poor,23.30
+Fade,VNX-P0,8QMO-E,8QMO-E V,Polyaramids,Medium,17.85
+Fade,VNX-P0,8QMO-E,8QMO-E V,Coolant,Rich,26.35
+Fade,VNX-P0,8QMO-E,8QMO-E VI,Condensed Alloy,Rich,32.40
+Fade,VNX-P0,8QMO-E,8QMO-E VI,Reactive Gas,Rich,34.33
+Fade,VNX-P0,8QMO-E,8QMO-E VI,Base Metals,Perfect,11.72
+Fade,VNX-P0,8QMO-E,8QMO-E VI,Industrial Fibers,Medium,6.76
+Fade,VNX-P0,8QMO-E,8QMO-E VI,Smartfab Units,Rich,21.75
+Fade,VNX-P0,8QMO-E,8QMO-E VI,Liquid Ozone,Rich,39.63
+Fade,VNX-P0,8QMO-E,8QMO-E VII,Fiber Composite,Medium,27.57
+Fade,VNX-P0,8QMO-E,8QMO-E VII,Reactive Gas,Rich,35.92
+Fade,VNX-P0,8QMO-E,8QMO-E VII,Noble Gas,Medium,30.35
+Fade,VNX-P0,8QMO-E,8QMO-E VII,Base Metals,Rich,8.72
+Fade,VNX-P0,8QMO-E,8QMO-E VII,Polyaramids,Perfect,27.50
+Fade,VNX-P0,8QMO-E,8QMO-E VII,Coolant,Perfect,26.60
+Fade,VNX-P0,8QMO-E,8QMO-E VIII,Dark Compound,Poor,23.38
+Fade,VNX-P0,8QMO-E,8QMO-E VIII,Industrial Fibers,Medium,7.63
+Fade,VNX-P0,8QMO-E,8QMO-E VIII,Supertensile Plastics,Poor,13.68
+Fade,VNX-P0,8QMO-E,8QMO-E VIII,Silicate Glass,Medium,13.20
+Fade,VNX-P0,8QMO-E,8QMO-E VIII,Plasmoids,Poor,1.34
+Fade,VNX-P0,8QMO-E,8QMO-E IX,Sheen Compound,Perfect,40.10
+Fade,VNX-P0,8QMO-E,8QMO-E IX,Fiber Composite,Medium,27.25
+Fade,VNX-P0,8QMO-E,8QMO-E IX,Glossy Compound,Poor,22.45
+Fade,VNX-P0,8QMO-E,8QMO-E IX,Noble Gas,Rich,32.95
+Fade,VNX-P0,8QMO-E,8QMO-E IX,Base Metals,Perfect,10.57
+Fade,VNX-P0,8QMO-E,8QMO-E IX,Reactive Metals,Rich,8.34
+Fade,VNX-P0,8QMO-E,8QMO-E X,Lustering Alloy,Medium,30.70
+Fade,VNX-P0,8QMO-E,8QMO-E X,Sheen Compound,Poor,21.65
+Fade,VNX-P0,8QMO-E,8QMO-E X,Reactive Gas,Medium,23.70
+Fade,VNX-P0,8QMO-E,8QMO-E X,Base Metals,Rich,8.71
+Fade,VNX-P0,8QMO-E,8QMO-E X,Polyaramids,Rich,26.17
+Fade,VNX-P0,8QMO-E,8QMO-E X,Ionic Solutions,Rich,15.84
+Fade,VNX-P0,8QMO-E,8QMO-E XI,Dark Compound,Medium,30.05
+Fade,VNX-P0,8QMO-E,8QMO-E XI,Base Metals,Medium,6.49
+Fade,VNX-P0,8QMO-E,8QMO-E XI,Toxic Metals,Poor,4.28
+Fade,VNX-P0,8QMO-E,8QMO-E XI,Silicate Glass,Medium,13.57
+Fade,VNX-P0,8QMO-E,8QMO-E XI,Oxygen Isotopes,Medium,4.53

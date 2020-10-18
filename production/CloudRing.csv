@@ -1,0 +1,1457 @@
+Region,Constellation,System,Name,Item,Rate,Output
+Cloud Ring,Yrton,1-3HWZ,1-3HWZ I,Dark Compound,Poor,13.48
+Cloud Ring,Yrton,1-3HWZ,1-3HWZ I,Industrial Fibers,Poor,3.64
+Cloud Ring,Yrton,1-3HWZ,1-3HWZ I,Supertensile Plastics,Medium,15.81
+Cloud Ring,Yrton,1-3HWZ,1-3HWZ I,Construction Blocks,Medium,23.02
+Cloud Ring,Yrton,1-3HWZ,1-3HWZ II,Base Metals,Poor,4.43
+Cloud Ring,Yrton,1-3HWZ,1-3HWZ II,Supertensile Plastics,Poor,8.47
+Cloud Ring,Yrton,1-3HWZ,1-3HWZ II,Construction Blocks,Poor,16.70
+Cloud Ring,Yrton,1-3HWZ,1-3HWZ II,Silicate Glass,Poor,6.42
+Cloud Ring,Yrton,1-3HWZ,1-3HWZ III,Base Metals,Poor,3.75
+Cloud Ring,Yrton,1-3HWZ,1-3HWZ III,Toxic Metals,Medium,5.16
+Cloud Ring,Yrton,1-3HWZ,1-3HWZ III,Supertensile Plastics,Medium,13.87
+Cloud Ring,Yrton,1-3HWZ,1-3HWZ III,Oxygen Isotopes,Poor,2.71
+Cloud Ring,Yrton,1-3HWZ,1-3HWZ IV,Reactive Metals,Medium,5.27
+Cloud Ring,Yrton,1-3HWZ,1-3HWZ IV,Construction Blocks,Rich,29.88
+Cloud Ring,Yrton,1-3HWZ,1-3HWZ IV,Nanites,Poor,4.37
+Cloud Ring,Yrton,1-3HWZ,1-3HWZ IV,Oxygen Isotopes,Rich,4.40
+Cloud Ring,Yrton,1-3HWZ,1-3HWZ V,Lustering Alloy,Poor,18.60
+Cloud Ring,Yrton,1-3HWZ,1-3HWZ V,Precious Alloy,Poor,15.88
+Cloud Ring,Yrton,1-3HWZ,1-3HWZ V,Industrial Fibers,Poor,4.23
+Cloud Ring,Yrton,1-3HWZ,1-3HWZ V,Supertensile Plastics,Medium,12.60
+Cloud Ring,Yrton,1-3HWZ,1-3HWZ VI,Fiber Composite,Medium,19.36
+Cloud Ring,Yrton,1-3HWZ,1-3HWZ VI,Glossy Compound,Rich,29.16
+Cloud Ring,Yrton,1-3HWZ,1-3HWZ VI,Reactive Gas,Rich,27.74
+Cloud Ring,Yrton,1-3HWZ,1-3HWZ VI,Noble Gas,Rich,28.28
+Cloud Ring,Yrton,1-3HWZ,1-3HWZ VI,Polyaramids,Poor,11.61
+Cloud Ring,Yrton,1-3HWZ,1-3HWZ VII,Sheen Compound,Medium,24.28
+Cloud Ring,Yrton,1-3HWZ,1-3HWZ VII,Glossy Compound,Rich,29.06
+Cloud Ring,Yrton,1-3HWZ,1-3HWZ VII,Reactive Gas,Perfect,32.74
+Cloud Ring,Yrton,1-3HWZ,1-3HWZ VII,Noble Gas,Medium,23.18
+Cloud Ring,Yrton,1-3HWZ,1-3HWZ VII,Reactive Metals,Medium,5.97
+Cloud Ring,Yrton,1-3HWZ,1-3HWZ VIII,Fiber Composite,Rich,29.70
+Cloud Ring,Yrton,1-3HWZ,1-3HWZ VIII,Reactive Gas,Rich,27.36
+Cloud Ring,Yrton,1-3HWZ,1-3HWZ VIII,Noble Gas,Medium,19.74
+Cloud Ring,Yrton,1-3HWZ,1-3HWZ VIII,Polyaramids,Poor,10.93
+Cloud Ring,Yrton,1-3HWZ,1-3HWZ VIII,Coolant,Medium,14.12
+Cloud Ring,Yrton,XT-R36,XT-R36 I,Lustering Alloy,Medium,20.12
+Cloud Ring,Yrton,XT-R36,XT-R36 I,Supertensile Plastics,Medium,13.72
+Cloud Ring,Yrton,XT-R36,XT-R36 I,Construction Blocks,Poor,15.90
+Cloud Ring,Yrton,XT-R36,XT-R36 I,Oxygen Isotopes,Medium,3.29
+Cloud Ring,Yrton,XT-R36,XT-R36 II,Base Metals,Poor,4.87
+Cloud Ring,Yrton,XT-R36,XT-R36 II,Toxic Metals,Poor,4.75
+Cloud Ring,Yrton,XT-R36,XT-R36 II,Supertensile Plastics,Poor,8.56
+Cloud Ring,Yrton,XT-R36,XT-R36 II,Construction Blocks,Poor,17.00
+Cloud Ring,Yrton,XT-R36,XT-R36 III,Gleaming Alloy,Medium,22.78
+Cloud Ring,Yrton,XT-R36,XT-R36 III,Noble Metals,Medium,21.82
+Cloud Ring,Yrton,XT-R36,XT-R36 III,Oxygen Isotopes,Rich,4.27
+Cloud Ring,Yrton,XT-R36,XT-R36 IV,Opulent Compound,Medium,20.54
+Cloud Ring,Yrton,XT-R36,XT-R36 IV,Reactive Gas,Rich,31.46
+Cloud Ring,Yrton,XT-R36,XT-R36 IV,Base Metals,Perfect,10.06
+Cloud Ring,Yrton,XT-R36,XT-R36 IV,Industrial Fibers,Medium,6.63
+Cloud Ring,Yrton,XT-R36,XT-R36 IV,Liquid Ozone,Rich,33.73
+Cloud Ring,Yrton,XT-R36,XT-R36 V,Lustering Alloy,Medium,22.64
+Cloud Ring,Yrton,XT-R36,XT-R36 V,Dark Compound,Medium,24.20
+Cloud Ring,Yrton,XT-R36,XT-R36 V,Toxic Metals,Medium,6.10
+Cloud Ring,Yrton,XT-R36,XT-R36 V,Supertensile Plastics,Poor,10.15
+Cloud Ring,Yrton,XT-R36,XT-R36 VI,Opulent Compound,Rich,30.28
+Cloud Ring,Yrton,XT-R36,XT-R36 VI,Reactive Gas,Perfect,37.28
+Cloud Ring,Yrton,XT-R36,XT-R36 VI,Noble Metals,Perfect,34.64
+Cloud Ring,Yrton,XT-R36,XT-R36 VI,Condensates,Perfect,23.33
+Cloud Ring,Yrton,XT-R36,XT-R36 VI,Liquid Ozone,Rich,32.23
+Cloud Ring,Yrton,XT-R36,XT-R36 VII,Dark Compound,Poor,12.88
+Cloud Ring,Yrton,XT-R36,XT-R36 VII,Toxic Metals,Medium,5.15
+Cloud Ring,Yrton,XT-R36,XT-R36 VII,Supertensile Plastics,Poor,8.61
+Cloud Ring,Yrton,XT-R36,XT-R36 VII,Plasmoids,Poor,0.88
+Cloud Ring,Yrton,XT-R36,XT-R36 VIII,Reactive Gas,Perfect,32.32
+Cloud Ring,Yrton,XT-R36,XT-R36 VIII,Noble Gas,Poor,17.54
+Cloud Ring,Yrton,XT-R36,XT-R36 VIII,Base Metals,Medium,5.93
+Cloud Ring,Yrton,XT-R36,XT-R36 VIII,Reactive Metals,Rich,7.25
+Cloud Ring,Yrton,XT-R36,XT-R36 VIII,Coolant,Medium,12.65
+Cloud Ring,Yrton,5-MLDT,5-MLDT I,Gleaming Alloy,Rich,27.96
+Cloud Ring,Yrton,5-MLDT,5-MLDT I,Noble Metals,Medium,22.50
+Cloud Ring,Yrton,5-MLDT,5-MLDT I,Polyaramids,Medium,16.51
+Cloud Ring,Yrton,5-MLDT,5-MLDT II,Opulent Compound,Rich,29.82
+Cloud Ring,Yrton,5-MLDT,5-MLDT II,Base Metals,Perfect,9.63
+Cloud Ring,Yrton,5-MLDT,5-MLDT II,Industrial Fibers,Medium,5.11
+Cloud Ring,Yrton,5-MLDT,5-MLDT II,Heavy Water,Rich,288.20
+Cloud Ring,Yrton,5-MLDT,5-MLDT II,Liquid Ozone,Rich,39.30
+Cloud Ring,Yrton,5-MLDT,5-MLDT III,Gleaming Alloy,Medium,22.90
+Cloud Ring,Yrton,5-MLDT,5-MLDT III,Reactive Metals,Medium,6.51
+Cloud Ring,Yrton,5-MLDT,5-MLDT III,Toxic Metals,Poor,4.25
+Cloud Ring,Yrton,5-MLDT,5-MLDT III,Oxygen Isotopes,Medium,3.74
+Cloud Ring,Yrton,5-MLDT,5-MLDT IV,Condensed Alloy,Poor,18.80
+Cloud Ring,Yrton,5-MLDT,5-MLDT IV,Crystal Compound,Rich,30.02
+Cloud Ring,Yrton,5-MLDT,5-MLDT IV,Coolant,Medium,12.69
+Cloud Ring,Yrton,5-MLDT,5-MLDT IV,Silicate Glass,Medium,10.50
+Cloud Ring,Yrton,5-MLDT,5-MLDT IV,Liquid Ozone,Medium,25.20
+Cloud Ring,Yrton,5-MLDT,5-MLDT V,Gleaming Alloy,Rich,30.74
+Cloud Ring,Yrton,5-MLDT,5-MLDT V,Motley Compound,Medium,22.88
+Cloud Ring,Yrton,5-MLDT,5-MLDT V,Oxygen Isotopes,Rich,4.44
+Cloud Ring,Yrton,5-MLDT,5-MLDT VI,Lustering Alloy,Rich,31.34
+Cloud Ring,Yrton,5-MLDT,5-MLDT VI,Sheen Compound,Poor,17.32
+Cloud Ring,Yrton,5-MLDT,5-MLDT VI,Fiber Composite,Poor,17.50
+Cloud Ring,Yrton,5-MLDT,5-MLDT VI,Reactive Gas,Rich,30.00
+Cloud Ring,Yrton,5-MLDT,5-MLDT VI,Base Metals,Medium,6.51
+Cloud Ring,Yrton,5-MLDT,5-MLDT VII,Motley Compound,Medium,22.34
+Cloud Ring,Yrton,5-MLDT,5-MLDT VII,Supertensile Plastics,Rich,18.76
+Cloud Ring,Yrton,5-MLDT,5-MLDT VII,Condensates,Rich,17.44
+Cloud Ring,Yrton,5-MLDT,5-MLDT VII,Liquid Ozone,Medium,23.57
+Cloud Ring,Yrton,B-DBYQ,B-DBYQ I,Lustering Alloy,Poor,13.74
+Cloud Ring,Yrton,B-DBYQ,B-DBYQ I,Industrial Fibers,Poor,4.28
+Cloud Ring,Yrton,B-DBYQ,B-DBYQ I,Supertensile Plastics,Medium,14.80
+Cloud Ring,Yrton,B-DBYQ,B-DBYQ I,Plasmoids,Poor,1.12
+Cloud Ring,Yrton,B-DBYQ,B-DBYQ II,Gleaming Alloy,Medium,19.76
+Cloud Ring,Yrton,B-DBYQ,B-DBYQ II,Reactive Metals,Rich,7.52
+Cloud Ring,Yrton,B-DBYQ,B-DBYQ II,Construction Blocks,Medium,21.10
+Cloud Ring,Yrton,B-DBYQ,B-DBYQ II,Suspended Plasma,Medium,75.82
+Cloud Ring,Yrton,B-DBYQ,B-DBYQ III,Lustering Alloy,Poor,16.96
+Cloud Ring,Yrton,B-DBYQ,B-DBYQ III,Sheen Compound,Rich,28.44
+Cloud Ring,Yrton,B-DBYQ,B-DBYQ III,Reactive Gas,Rich,30.76
+Cloud Ring,Yrton,B-DBYQ,B-DBYQ III,Reactive Metals,Rich,8.33
+Cloud Ring,Yrton,B-DBYQ,B-DBYQ III,Polyaramids,Poor,12.32
+Cloud Ring,Yrton,B-DBYQ,B-DBYQ IV,Lustering Alloy,Perfect,32.34
+Cloud Ring,Yrton,B-DBYQ,B-DBYQ IV,Glossy Compound,Rich,27.94
+Cloud Ring,Yrton,B-DBYQ,B-DBYQ IV,Reactive Gas,Rich,26.12
+Cloud Ring,Yrton,B-DBYQ,B-DBYQ IV,Polyaramids,Medium,14.56
+Cloud Ring,Yrton,B-DBYQ,B-DBYQ IV,Ionic Solutions,Poor,6.89
+Cloud Ring,Yrton,B-DBYQ,B-DBYQ V,Lustering Alloy,Poor,15.58
+Cloud Ring,Yrton,B-DBYQ,B-DBYQ V,Heavy Metals,Rich,26.50
+Cloud Ring,Yrton,B-DBYQ,B-DBYQ V,Condensates,Medium,14.88
+Cloud Ring,Yrton,B-DBYQ,B-DBYQ V,Liquid Ozone,Medium,23.63
+Cloud Ring,Yrton,B-DBYQ,B-DBYQ VI,Precious Alloy,Medium,19.54
+Cloud Ring,Yrton,B-DBYQ,B-DBYQ VI,Toxic Metals,Poor,3.53
+Cloud Ring,Yrton,B-DBYQ,B-DBYQ VI,Supertensile Plastics,Poor,11.85
+Cloud Ring,Yrton,B-DBYQ,B-DBYQ VI,Plasmoids,Poor,1.11
+Cloud Ring,Yrton,B-DBYQ,B-DBYQ VII,Industrial Fibers,Poor,3.73
+Cloud Ring,Yrton,B-DBYQ,B-DBYQ VII,Supertensile Plastics,Poor,8.84
+Cloud Ring,Yrton,B-DBYQ,B-DBYQ VII,Silicate Glass,Medium,10.65
+Cloud Ring,Yrton,B-DBYQ,B-DBYQ VII,Oxygen Isotopes,Medium,2.90
+Cloud Ring,Yrton,QXW-PV,QXW-PV I,Industrial Fibers,Medium,5.93
+Cloud Ring,Yrton,QXW-PV,QXW-PV I,Supertensile Plastics,Poor,10.28
+Cloud Ring,Yrton,QXW-PV,QXW-PV I,Oxygen Isotopes,Poor,2.80
+Cloud Ring,Yrton,QXW-PV,QXW-PV I,Plasmoids,Poor,0.95
+Cloud Ring,Yrton,QXW-PV,QXW-PV II,Gleaming Alloy,Poor,17.24
+Cloud Ring,Yrton,QXW-PV,QXW-PV II,Oxygen Isotopes,Rich,3.84
+Cloud Ring,Yrton,QXW-PV,QXW-PV II,Plasmoids,Poor,1.12
+Cloud Ring,Yrton,QXW-PV,QXW-PV III,Fiber Composite,Perfect,36.20
+Cloud Ring,Yrton,QXW-PV,QXW-PV III,Noble Metals,Medium,23.52
+Cloud Ring,Yrton,QXW-PV,QXW-PV III,Smartfab Units,Poor,12.55
+Cloud Ring,Yrton,QXW-PV,QXW-PV III,Heavy Water,Perfect,367.60
+Cloud Ring,Yrton,QXW-PV,QXW-PV III,Liquid Ozone,Perfect,45.67
+Cloud Ring,Yrton,QXW-PV,QXW-PV IV,Crystal Compound,Rich,25.48
+Cloud Ring,Yrton,QXW-PV,QXW-PV IV,Noble Metals,Medium,24.66
+Cloud Ring,Yrton,QXW-PV,QXW-PV IV,Coolant,Medium,13.87
+Cloud Ring,Yrton,QXW-PV,QXW-PV IV,Heavy Water,Perfect,334.80
+Cloud Ring,Yrton,QXW-PV,QXW-PV IV,Liquid Ozone,Medium,27.40
+Cloud Ring,Yrton,QXW-PV,QXW-PV V,Reactive Gas,Rich,28.92
+Cloud Ring,Yrton,QXW-PV,QXW-PV V,Noble Gas,Medium,23.56
+Cloud Ring,Yrton,QXW-PV,QXW-PV V,Reactive Metals,Perfect,8.51
+Cloud Ring,Yrton,QXW-PV,QXW-PV V,Polyaramids,Medium,14.73
+Cloud Ring,Yrton,QXW-PV,QXW-PV V,Coolant,Medium,12.64
+Cloud Ring,Yrton,QXW-PV,QXW-PV VI,Base Metals,Poor,3.90
+Cloud Ring,Yrton,QXW-PV,QXW-PV VI,Toxic Metals,Poor,4.44
+Cloud Ring,Yrton,QXW-PV,QXW-PV VI,Supertensile Plastics,Medium,13.15
+Cloud Ring,Yrton,QXW-PV,QXW-PV VI,Oxygen Isotopes,Medium,3.26
+Cloud Ring,Yrton,QXW-PV,QXW-PV VII,Condensed Alloy,Rich,29.08
+Cloud Ring,Yrton,QXW-PV,QXW-PV VII,Base Metals,Perfect,9.19
+Cloud Ring,Yrton,QXW-PV,QXW-PV VII,Condensates,Medium,14.28
+Cloud Ring,Yrton,QXW-PV,QXW-PV VII,Heavy Water,Rich,266.00
+Cloud Ring,Yrton,QXW-PV,QXW-PV VII,Liquid Ozone,Medium,28.73
+Cloud Ring,Yrton,DY-F70,DY-F70 I,Precious Alloy,Poor,15.84
+Cloud Ring,Yrton,DY-F70,DY-F70 I,Toxic Metals,Poor,3.96
+Cloud Ring,Yrton,DY-F70,DY-F70 I,Supertensile Plastics,Medium,13.17
+Cloud Ring,Yrton,DY-F70,DY-F70 I,Plasmoids,Poor,0.82
+Cloud Ring,Yrton,DY-F70,DY-F70 II,Fiber Composite,Medium,20.70
+Cloud Ring,Yrton,DY-F70,DY-F70 II,Glossy Compound,Rich,26.92
+Cloud Ring,Yrton,DY-F70,DY-F70 II,Reactive Gas,Rich,29.16
+Cloud Ring,Yrton,DY-F70,DY-F70 II,Noble Gas,Rich,27.58
+Cloud Ring,Yrton,DY-F70,DY-F70 II,Reactive Metals,Rich,6.91
+Cloud Ring,Yrton,DY-F70,DY-F70 III,Lucent Compound,Perfect,32.72
+Cloud Ring,Yrton,DY-F70,DY-F70 III,Reactive Metals,Rich,7.34
+Cloud Ring,Yrton,DY-F70,DY-F70 III,Nanites,Medium,5.98
+Cloud Ring,Yrton,DY-F70,DY-F70 III,Oxygen Isotopes,Medium,3.57
+Cloud Ring,Yrton,DY-F70,DY-F70 IV,Lustering Alloy,Medium,23.16
+Cloud Ring,Yrton,DY-F70,DY-F70 IV,Sheen Compound,Rich,27.58
+Cloud Ring,Yrton,DY-F70,DY-F70 IV,Fiber Composite,Medium,20.86
+Cloud Ring,Yrton,DY-F70,DY-F70 IV,Reactive Gas,Rich,29.18
+Cloud Ring,Yrton,DY-F70,DY-F70 IV,Coolant,Poor,11.76
+Cloud Ring,Yrton,DY-F70,DY-F70 V,Lustering Alloy,Rich,25.68
+Cloud Ring,Yrton,DY-F70,DY-F70 V,Reactive Gas,Perfect,32.60
+Cloud Ring,Yrton,DY-F70,DY-F70 V,Noble Gas,Medium,19.20
+Cloud Ring,Yrton,DY-F70,DY-F70 V,Base Metals,Rich,8.05
+Cloud Ring,Yrton,DY-F70,DY-F70 V,Reactive Metals,Medium,5.68
+Cloud Ring,Yrton,DY-F70,DY-F70 VI,Sheen Compound,Medium,24.14
+Cloud Ring,Yrton,DY-F70,DY-F70 VI,Fiber Composite,Rich,30.80
+Cloud Ring,Yrton,DY-F70,DY-F70 VI,Reactive Gas,Poor,18.84
+Cloud Ring,Yrton,DY-F70,DY-F70 VI,Base Metals,Rich,8.35
+Cloud Ring,Yrton,DY-F70,DY-F70 VI,Polyaramids,Perfect,22.04
+Cloud Ring,Yrton,DY-F70,DY-F70 VII,Lustering Alloy,Medium,21.22
+Cloud Ring,Yrton,DY-F70,DY-F70 VII,Base Metals,Poor,4.34
+Cloud Ring,Yrton,DY-F70,DY-F70 VII,Supertensile Plastics,Medium,15.72
+Cloud Ring,Yrton,DY-F70,DY-F70 VII,Silicate Glass,Medium,11.06
+Cloud Ring,Yrton,DY-F70,DY-F70 VIII,Lustering Alloy,Rich,25.52
+Cloud Ring,Yrton,DY-F70,DY-F70 VIII,Supertensile Plastics,Poor,11.91
+Cloud Ring,Yrton,DY-F70,DY-F70 VIII,Coolant,Medium,13.37
+Cloud Ring,Yrton,DY-F70,DY-F70 VIII,Condensates,Medium,12.77
+Cloud Ring,Yrton,DY-F70,DY-F70 IX,Precious Alloy,Rich,25.78
+Cloud Ring,Yrton,DY-F70,DY-F70 IX,Motley Compound,Medium,22.98
+Cloud Ring,Yrton,DY-F70,DY-F70 IX,Base Metals,Medium,5.37
+Cloud Ring,Yrton,DY-F70,DY-F70 IX,Condensates,Medium,13.08
+Cloud Ring,Balenne,FD53-H,FD53-H I,Gleaming Alloy,Medium,20.48
+Cloud Ring,Balenne,FD53-H,FD53-H I,Motley Compound,Perfect,33.88
+Cloud Ring,Balenne,FD53-H,FD53-H I,Noble Gas,Poor,16.66
+Cloud Ring,Balenne,FD53-H,FD53-H II,Precious Alloy,Poor,13.88
+Cloud Ring,Balenne,FD53-H,FD53-H II,Toxic Metals,Medium,6.13
+Cloud Ring,Balenne,FD53-H,FD53-H II,Supertensile Plastics,Poor,9.40
+Cloud Ring,Balenne,FD53-H,FD53-H II,Construction Blocks,Poor,15.16
+Cloud Ring,Balenne,FD53-H,FD53-H III,Sheen Compound,Medium,20.42
+Cloud Ring,Balenne,FD53-H,FD53-H III,Heavy Metals,Rich,31.76
+Cloud Ring,Balenne,FD53-H,FD53-H III,Condensates,Medium,14.53
+Cloud Ring,Balenne,FD53-H,FD53-H III,Suspended Plasma,Rich,100.66
+Cloud Ring,Balenne,FD53-H,FD53-H III,Plasmoids,Medium,1.51
+Cloud Ring,Balenne,FD53-H,FD53-H IV,Gleaming Alloy,Medium,23.72
+Cloud Ring,Balenne,FD53-H,FD53-H IV,Heavy Metals,Medium,22.60
+Cloud Ring,Balenne,FD53-H,FD53-H IV,Construction Blocks,Medium,20.06
+Cloud Ring,Balenne,FD53-H,FD53-H V,Fiber Composite,Medium,23.46
+Cloud Ring,Balenne,FD53-H,FD53-H V,Base Metals,Medium,5.94
+Cloud Ring,Balenne,FD53-H,FD53-H V,Noble Metals,Medium,20.30
+Cloud Ring,Balenne,FD53-H,FD53-H V,Condensates,Rich,17.31
+Cloud Ring,Balenne,FD53-H,FD53-H V,Liquid Ozone,Perfect,46.63
+Cloud Ring,Balenne,FD53-H,FD53-H VI,Lucent Compound,Medium,24.64
+Cloud Ring,Balenne,FD53-H,FD53-H VI,Reactive Metals,Rich,6.74
+Cloud Ring,Balenne,FD53-H,FD53-H VI,Supertensile Plastics,Rich,20.25
+Cloud Ring,Balenne,FD53-H,FD53-H VI,Nanites,Rich,7.51
+Cloud Ring,Balenne,FD53-H,FD53-H VII,Reactive Gas,Rich,28.80
+Cloud Ring,Balenne,FD53-H,FD53-H VII,Noble Gas,Medium,19.94
+Cloud Ring,Balenne,FD53-H,FD53-H VII,Reactive Metals,Rich,6.71
+Cloud Ring,Balenne,FD53-H,FD53-H VII,Coolant,Rich,19.16
+Cloud Ring,Balenne,FD53-H,FD53-H VII,Ionic Solutions,Poor,7.49
+Cloud Ring,Balenne,FD53-H,FD53-H VIII,Lustering Alloy,Poor,13.32
+Cloud Ring,Balenne,FD53-H,FD53-H VIII,Base Metals,Poor,4.32
+Cloud Ring,Balenne,FD53-H,FD53-H VIII,Supertensile Plastics,Medium,16.39
+Cloud Ring,Balenne,FD53-H,FD53-H VIII,Silicate Glass,Poor,8.21
+Cloud Ring,Balenne,O-ZXUV,O-ZXUV I,Gleaming Alloy,Medium,21.68
+Cloud Ring,Balenne,O-ZXUV,O-ZXUV I,Construction Blocks,Rich,31.68
+Cloud Ring,Balenne,O-ZXUV,O-ZXUV I,Plasmoids,Rich,1.68
+Cloud Ring,Balenne,O-ZXUV,O-ZXUV II,Gleaming Alloy,Rich,26.52
+Cloud Ring,Balenne,O-ZXUV,O-ZXUV II,Glossy Compound,Perfect,32.60
+Cloud Ring,Balenne,O-ZXUV,O-ZXUV II,Heavy Metals,Rich,26.82
+Cloud Ring,Balenne,O-ZXUV,O-ZXUV III,Opulent Compound,Rich,26.86
+Cloud Ring,Balenne,O-ZXUV,O-ZXUV III,Noble Metals,Rich,30.02
+Cloud Ring,Balenne,O-ZXUV,O-ZXUV III,Industrial Fibers,Perfect,9.71
+Cloud Ring,Balenne,O-ZXUV,O-ZXUV III,Heavy Water,Medium,207.40
+Cloud Ring,Balenne,O-ZXUV,O-ZXUV III,Liquid Ozone,Perfect,41.75
+Cloud Ring,Balenne,O-ZXUV,O-ZXUV IV,Precious Alloy,Poor,16.96
+Cloud Ring,Balenne,O-ZXUV,O-ZXUV IV,Industrial Fibers,Poor,4.63
+Cloud Ring,Balenne,O-ZXUV,O-ZXUV IV,Supertensile Plastics,Poor,9.47
+Cloud Ring,Balenne,O-ZXUV,O-ZXUV IV,Construction Blocks,Poor,13.80
+Cloud Ring,Balenne,O-ZXUV,O-ZXUV V,Reactive Gas,Medium,19.42
+Cloud Ring,Balenne,O-ZXUV,O-ZXUV V,Condensates,Rich,20.29
+Cloud Ring,Balenne,O-ZXUV,O-ZXUV V,Smartfab Units,Rich,20.31
+Cloud Ring,Balenne,O-ZXUV,O-ZXUV V,Heavy Water,Medium,207.00
+Cloud Ring,Balenne,O-ZXUV,O-ZXUV V,Liquid Ozone,Perfect,47.30
+Cloud Ring,Balenne,O-ZXUV,O-ZXUV VI,Glossy Compound,Medium,21.04
+Cloud Ring,Balenne,O-ZXUV,O-ZXUV VI,Reactive Gas,Medium,23.40
+Cloud Ring,Balenne,O-ZXUV,O-ZXUV VI,Reactive Metals,Poor,4.47
+Cloud Ring,Balenne,O-ZXUV,O-ZXUV VI,Coolant,Rich,18.87
+Cloud Ring,Balenne,O-ZXUV,O-ZXUV VI,Ionic Solutions,Medium,8.98
+Cloud Ring,Balenne,O-ZXUV,O-ZXUV VII,Fiber Composite,Poor,17.60
+Cloud Ring,Balenne,O-ZXUV,O-ZXUV VII,Reactive Gas,Medium,21.60
+Cloud Ring,Balenne,O-ZXUV,O-ZXUV VII,Noble Gas,Medium,22.86
+Cloud Ring,Balenne,O-ZXUV,O-ZXUV VII,Base Metals,Rich,8.11
+Cloud Ring,Balenne,O-ZXUV,O-ZXUV VII,Polyaramids,Rich,18.41
+Cloud Ring,Balenne,O-ZXUV,O-ZXUV VIII,Toxic Metals,Poor,4.90
+Cloud Ring,Balenne,O-ZXUV,O-ZXUV VIII,Industrial Fibers,Medium,5.18
+Cloud Ring,Balenne,O-ZXUV,O-ZXUV VIII,Supertensile Plastics,Medium,15.99
+Cloud Ring,Balenne,O-ZXUV,O-ZXUV VIII,Oxygen Isotopes,Poor,1.88
+Cloud Ring,Balenne,O-ZXUV,O-ZXUV IX,Sheen Compound,Medium,24.82
+Cloud Ring,Balenne,O-ZXUV,O-ZXUV IX,Reactive Gas,Medium,20.64
+Cloud Ring,Balenne,O-ZXUV,O-ZXUV IX,Base Metals,Rich,8.15
+Cloud Ring,Balenne,O-ZXUV,O-ZXUV IX,Polyaramids,Rich,19.00
+Cloud Ring,Balenne,O-ZXUV,O-ZXUV IX,Ionic Solutions,Rich,11.02
+Cloud Ring,Balenne,O-ZXUV,O-ZXUV X,Gleaming Alloy,Rich,30.94
+Cloud Ring,Balenne,O-ZXUV,O-ZXUV X,Reactive Gas,Medium,20.50
+Cloud Ring,Balenne,O-ZXUV,O-ZXUV X,Reactive Metals,Rich,7.69
+Cloud Ring,Balenne,O-ZXUV,O-ZXUV X,Construction Blocks,Poor,18.06
+Cloud Ring,Balenne,O-ZXUV,O-ZXUV XI,Toxic Metals,Poor,3.33
+Cloud Ring,Balenne,O-ZXUV,O-ZXUV XI,Industrial Fibers,Poor,4.43
+Cloud Ring,Balenne,O-ZXUV,O-ZXUV XI,Supertensile Plastics,Poor,11.81
+Cloud Ring,Balenne,O-ZXUV,O-ZXUV XI,Plasmoids,Medium,1.22
+Cloud Ring,Balenne,77-KDQ,77-KDQ I,Gleaming Alloy,Rich,28.92
+Cloud Ring,Balenne,77-KDQ,77-KDQ I,Noble Metals,Medium,23.16
+Cloud Ring,Balenne,77-KDQ,77-KDQ I,Construction Blocks,Rich,26.30
+Cloud Ring,Balenne,77-KDQ,77-KDQ II,Precious Alloy,Poor,13.84
+Cloud Ring,Balenne,77-KDQ,77-KDQ II,Dark Compound,Poor,14.34
+Cloud Ring,Balenne,77-KDQ,77-KDQ II,Supertensile Plastics,Poor,12.49
+Cloud Ring,Balenne,77-KDQ,77-KDQ II,Plasmoids,Medium,1.28
+Cloud Ring,Balenne,77-KDQ,77-KDQ III,Reactive Gas,Rich,27.72
+Cloud Ring,Balenne,77-KDQ,77-KDQ III,Base Metals,Medium,5.89
+Cloud Ring,Balenne,77-KDQ,77-KDQ III,Noble Metals,Perfect,35.80
+Cloud Ring,Balenne,77-KDQ,77-KDQ III,Smartfab Units,Perfect,23.24
+Cloud Ring,Balenne,77-KDQ,77-KDQ III,Liquid Ozone,Poor,23.45
+Cloud Ring,Balenne,77-KDQ,77-KDQ IV,Sheen Compound,Medium,21.36
+Cloud Ring,Balenne,77-KDQ,77-KDQ IV,Lucent Compound,Rich,31.64
+Cloud Ring,Balenne,77-KDQ,77-KDQ IV,Noble Gas,Rich,26.96
+Cloud Ring,Balenne,77-KDQ,77-KDQ IV,Condensates,Medium,15.48
+Cloud Ring,Balenne,77-KDQ,77-KDQ IV,Plasmoids,Rich,1.66
+Cloud Ring,Balenne,77-KDQ,77-KDQ V,Sheen Compound,Medium,23.50
+Cloud Ring,Balenne,77-KDQ,77-KDQ V,Fiber Composite,Medium,20.10
+Cloud Ring,Balenne,77-KDQ,77-KDQ V,Glossy Compound,Medium,21.08
+Cloud Ring,Balenne,77-KDQ,77-KDQ V,Reactive Gas,Rich,31.60
+Cloud Ring,Balenne,77-KDQ,77-KDQ V,Coolant,Rich,19.00
+Cloud Ring,Balenne,77-KDQ,77-KDQ VI,Fiber Composite,Perfect,36.50
+Cloud Ring,Balenne,77-KDQ,77-KDQ VI,Base Metals,Rich,6.82
+Cloud Ring,Balenne,77-KDQ,77-KDQ VI,Noble Metals,Perfect,37.64
+Cloud Ring,Balenne,77-KDQ,77-KDQ VI,Industrial Fibers,Perfect,8.85
+Cloud Ring,Balenne,77-KDQ,77-KDQ VI,Liquid Ozone,Medium,24.50
+Cloud Ring,Balenne,F7C-H0,F7C-H0 I,Gleaming Alloy,Medium,21.52
+Cloud Ring,Balenne,F7C-H0,F7C-H0 I,Heavy Metals,Medium,19.06
+Cloud Ring,Balenne,F7C-H0,F7C-H0 I,Smartfab Units,Medium,16.39
+Cloud Ring,Balenne,F7C-H0,F7C-H0 II,Lustering Alloy,Poor,17.58
+Cloud Ring,Balenne,F7C-H0,F7C-H0 II,Supertensile Plastics,Medium,14.41
+Cloud Ring,Balenne,F7C-H0,F7C-H0 II,Construction Blocks,Medium,19.48
+Cloud Ring,Balenne,F7C-H0,F7C-H0 II,Oxygen Isotopes,Poor,2.33
+Cloud Ring,Balenne,F7C-H0,F7C-H0 III,Dark Compound,Poor,16.74
+Cloud Ring,Balenne,F7C-H0,F7C-H0 III,Supertensile Plastics,Poor,8.60
+Cloud Ring,Balenne,F7C-H0,F7C-H0 III,Silicate Glass,Medium,11.88
+Cloud Ring,Balenne,F7C-H0,F7C-H0 III,Plasmoids,Poor,0.87
+Cloud Ring,Balenne,F7C-H0,F7C-H0 IV,Fiber Composite,Rich,30.20
+Cloud Ring,Balenne,F7C-H0,F7C-H0 IV,Glossy Compound,Rich,27.02
+Cloud Ring,Balenne,F7C-H0,F7C-H0 IV,Reactive Gas,Poor,16.98
+Cloud Ring,Balenne,F7C-H0,F7C-H0 IV,Noble Gas,Poor,17.50
+Cloud Ring,Balenne,F7C-H0,F7C-H0 IV,Ionic Solutions,Poor,7.37
+Cloud Ring,Balenne,F7C-H0,F7C-H0 V,Fiber Composite,Rich,28.70
+Cloud Ring,Balenne,F7C-H0,F7C-H0 V,Glossy Compound,Rich,31.32
+Cloud Ring,Balenne,F7C-H0,F7C-H0 V,Reactive Gas,Medium,20.98
+Cloud Ring,Balenne,F7C-H0,F7C-H0 V,Noble Gas,Rich,25.62
+Cloud Ring,Balenne,F7C-H0,F7C-H0 V,Ionic Solutions,Medium,8.80
+Cloud Ring,Balenne,F7C-H0,F7C-H0 VI,Glossy Compound,Medium,21.22
+Cloud Ring,Balenne,F7C-H0,F7C-H0 VI,Reactive Gas,Medium,19.26
+Cloud Ring,Balenne,F7C-H0,F7C-H0 VI,Base Metals,Medium,5.23
+Cloud Ring,Balenne,F7C-H0,F7C-H0 VI,Reactive Metals,Poor,4.62
+Cloud Ring,Balenne,F7C-H0,F7C-H0 VI,Ionic Solutions,Medium,8.79
+Cloud Ring,Balenne,TN-T7T,TN-T7T I,Lustering Alloy,Poor,17.70
+Cloud Ring,Balenne,TN-T7T,TN-T7T I,Supertensile Plastics,Poor,11.40
+Cloud Ring,Balenne,TN-T7T,TN-T7T I,Silicate Glass,Poor,6.52
+Cloud Ring,Balenne,TN-T7T,TN-T7T I,Plasmoids,Medium,1.14
+Cloud Ring,Balenne,TN-T7T,TN-T7T II,Lustering Alloy,Medium,20.78
+Cloud Ring,Balenne,TN-T7T,TN-T7T II,Dark Compound,Medium,22.70
+Cloud Ring,Balenne,TN-T7T,TN-T7T II,Toxic Metals,Medium,6.05
+Cloud Ring,Balenne,TN-T7T,TN-T7T II,Supertensile Plastics,Poor,9.91
+Cloud Ring,Balenne,TN-T7T,TN-T7T III,Base Metals,Poor,4.87
+Cloud Ring,Balenne,TN-T7T,TN-T7T III,Industrial Fibers,Medium,5.93
+Cloud Ring,Balenne,TN-T7T,TN-T7T III,Supertensile Plastics,Poor,10.52
+Cloud Ring,Balenne,TN-T7T,TN-T7T III,Silicate Glass,Poor,6.78
+Cloud Ring,Balenne,TN-T7T,TN-T7T IV,Gleaming Alloy,Medium,20.82
+Cloud Ring,Balenne,TN-T7T,TN-T7T IV,Glossy Compound,Medium,19.24
+Cloud Ring,Balenne,TN-T7T,TN-T7T IV,Noble Metals,Rich,26.90
+Cloud Ring,Balenne,TN-T7T,TN-T7T V,Dark Compound,Poor,16.68
+Cloud Ring,Balenne,TN-T7T,TN-T7T V,Base Metals,Medium,5.44
+Cloud Ring,Balenne,TN-T7T,TN-T7T V,Supertensile Plastics,Poor,12.07
+Cloud Ring,Balenne,TN-T7T,TN-T7T V,Oxygen Isotopes,Medium,3.06
+Cloud Ring,Balenne,TN-T7T,TN-T7T VI,Reactive Gas,Poor,18.78
+Cloud Ring,Balenne,TN-T7T,TN-T7T VI,Base Metals,Rich,7.48
+Cloud Ring,Balenne,TN-T7T,TN-T7T VI,Smartfab Units,Medium,14.37
+Cloud Ring,Balenne,TN-T7T,TN-T7T VI,Heavy Water,Medium,223.40
+Cloud Ring,Balenne,TN-T7T,TN-T7T VI,Liquid Ozone,Medium,27.23
+Cloud Ring,Balenne,TN-T7T,TN-T7T VII,Lustering Alloy,Poor,17.20
+Cloud Ring,Balenne,TN-T7T,TN-T7T VII,Supertensile Plastics,Poor,12.27
+Cloud Ring,Balenne,TN-T7T,TN-T7T VII,Silicate Glass,Medium,10.24
+Cloud Ring,Balenne,TN-T7T,TN-T7T VII,Plasmoids,Medium,1.30
+Cloud Ring,Balenne,TN-T7T,TN-T7T VIII,Fiber Composite,Medium,25.30
+Cloud Ring,Balenne,TN-T7T,TN-T7T VIII,Glossy Compound,Poor,17.42
+Cloud Ring,Balenne,TN-T7T,TN-T7T VIII,Reactive Gas,Rich,25.46
+Cloud Ring,Balenne,TN-T7T,TN-T7T VIII,Noble Gas,Poor,17.94
+Cloud Ring,Balenne,TN-T7T,TN-T7T VIII,Reactive Metals,Medium,6.25
+Cloud Ring,Balenne,TN-T7T,TN-T7T IX,Toxic Metals,Medium,4.96
+Cloud Ring,Balenne,TN-T7T,TN-T7T IX,Supertensile Plastics,Medium,15.24
+Cloud Ring,Balenne,TN-T7T,TN-T7T IX,Construction Blocks,Poor,13.60
+Cloud Ring,Balenne,TN-T7T,TN-T7T IX,Plasmoids,Medium,1.33
+Cloud Ring,Balenne,TN-T7T,TN-T7T X,Glossy Compound,Poor,16.40
+Cloud Ring,Balenne,TN-T7T,TN-T7T X,Reactive Gas,Rich,28.30
+Cloud Ring,Balenne,TN-T7T,TN-T7T X,Noble Gas,Rich,26.04
+Cloud Ring,Balenne,TN-T7T,TN-T7T X,Base Metals,Medium,6.48
+Cloud Ring,Balenne,TN-T7T,TN-T7T X,Reactive Metals,Medium,6.34
+Cloud Ring,Balenne,TN-T7T,TN-T7T XI,Crystal Compound,Medium,20.44
+Cloud Ring,Balenne,TN-T7T,TN-T7T XI,Noble Metals,Poor,18.60
+Cloud Ring,Balenne,TN-T7T,TN-T7T XI,Silicate Glass,Medium,12.30
+Cloud Ring,Balenne,TN-T7T,TN-T7T XI,Heavy Water,Rich,258.80
+Cloud Ring,Balenne,TN-T7T,TN-T7T XI,Liquid Ozone,Perfect,42.05
+Cloud Ring,Balenne,1-NW2G,1-NW2G I,Lustering Alloy,Poor,14.00
+Cloud Ring,Balenne,1-NW2G,1-NW2G I,Precious Alloy,Medium,24.30
+Cloud Ring,Balenne,1-NW2G,1-NW2G I,Supertensile Plastics,Medium,14.25
+Cloud Ring,Balenne,1-NW2G,1-NW2G I,Oxygen Isotopes,Poor,2.83
+Cloud Ring,Balenne,1-NW2G,1-NW2G II,Toxic Metals,Medium,6.36
+Cloud Ring,Balenne,1-NW2G,1-NW2G II,Supertensile Plastics,Poor,9.73
+Cloud Ring,Balenne,1-NW2G,1-NW2G II,Silicate Glass,Medium,10.09
+Cloud Ring,Balenne,1-NW2G,1-NW2G II,Oxygen Isotopes,Poor,2.48
+Cloud Ring,Balenne,1-NW2G,1-NW2G III,Gleaming Alloy,Poor,17.92
+Cloud Ring,Balenne,1-NW2G,1-NW2G III,Motley Compound,Medium,20.20
+Cloud Ring,Balenne,1-NW2G,1-NW2G III,Heavy Metals,Perfect,33.44
+Cloud Ring,Balenne,1-NW2G,1-NW2G IV,Precious Alloy,Medium,23.42
+Cloud Ring,Balenne,1-NW2G,1-NW2G IV,Supertensile Plastics,Poor,11.60
+Cloud Ring,Balenne,1-NW2G,1-NW2G IV,Construction Blocks,Medium,23.02
+Cloud Ring,Balenne,1-NW2G,1-NW2G IV,Plasmoids,Medium,1.32
+Cloud Ring,Balenne,1-NW2G,1-NW2G V,Industrial Fibers,Medium,5.88
+Cloud Ring,Balenne,1-NW2G,1-NW2G V,Supertensile Plastics,Medium,16.09
+Cloud Ring,Balenne,1-NW2G,1-NW2G V,Silicate Glass,Medium,10.26
+Cloud Ring,Balenne,1-NW2G,1-NW2G V,Oxygen Isotopes,Medium,3.41
+Cloud Ring,Balenne,1-NW2G,1-NW2G VI,Condensed Alloy,Perfect,35.20
+Cloud Ring,Balenne,1-NW2G,1-NW2G VI,Opulent Compound,Perfect,35.22
+Cloud Ring,Balenne,1-NW2G,1-NW2G VI,Industrial Fibers,Rich,6.78
+Cloud Ring,Balenne,1-NW2G,1-NW2G VI,Smartfab Units,Perfect,22.72
+Cloud Ring,Balenne,1-NW2G,1-NW2G VI,Liquid Ozone,Rich,33.42
+Cloud Ring,Balenne,1-NW2G,1-NW2G VII,Condensed Alloy,Perfect,34.06
+Cloud Ring,Balenne,1-NW2G,1-NW2G VII,Fiber Composite,Perfect,36.32
+Cloud Ring,Balenne,1-NW2G,1-NW2G VII,Reactive Gas,Rich,31.50
+Cloud Ring,Balenne,1-NW2G,1-NW2G VII,Base Metals,Perfect,8.82
+Cloud Ring,Balenne,1-NW2G,1-NW2G VII,Liquid Ozone,Perfect,45.67
+Cloud Ring,Balenne,1-NW2G,1-NW2G VIII,Reactive Metals,Rich,7.29
+Cloud Ring,Balenne,1-NW2G,1-NW2G VIII,Supertensile Plastics,Medium,13.99
+Cloud Ring,Balenne,1-NW2G,1-NW2G VIII,Construction Blocks,Medium,24.82
+Cloud Ring,Balenne,1-NW2G,1-NW2G VIII,Nanites,Rich,7.45
+Cloud Ring,Balenne,1-NW2G,1-NW2G IX,Sheen Compound,Poor,16.68
+Cloud Ring,Balenne,1-NW2G,1-NW2G IX,Glossy Compound,Medium,24.74
+Cloud Ring,Balenne,1-NW2G,1-NW2G IX,Reactive Gas,Rich,25.54
+Cloud Ring,Balenne,1-NW2G,1-NW2G IX,Base Metals,Poor,4.84
+Cloud Ring,Balenne,1-NW2G,1-NW2G IX,Polyaramids,Rich,19.29
+Cloud Ring,Balenne,O-IVNH,O-IVNH I,Gleaming Alloy,Poor,16.44
+Cloud Ring,Balenne,O-IVNH,O-IVNH I,Construction Blocks,Perfect,32.94
+Cloud Ring,Balenne,O-IVNH,O-IVNH I,Plasmoids,Rich,1.87
+Cloud Ring,Balenne,O-IVNH,O-IVNH II,Precious Alloy,Poor,12.62
+Cloud Ring,Balenne,O-IVNH,O-IVNH II,Industrial Fibers,Poor,4.36
+Cloud Ring,Balenne,O-IVNH,O-IVNH II,Supertensile Plastics,Poor,9.23
+Cloud Ring,Balenne,O-IVNH,O-IVNH II,Construction Blocks,Medium,19.06
+Cloud Ring,Balenne,O-IVNH,O-IVNH III,Base Metals,Poor,3.55
+Cloud Ring,Balenne,O-IVNH,O-IVNH III,Industrial Fibers,Medium,5.27
+Cloud Ring,Balenne,O-IVNH,O-IVNH III,Supertensile Plastics,Poor,8.89
+Cloud Ring,Balenne,O-IVNH,O-IVNH III,Construction Blocks,Poor,18.14
+Cloud Ring,Balenne,O-IVNH,O-IVNH IV,Lucent Compound,Medium,20.48
+Cloud Ring,Balenne,O-IVNH,O-IVNH IV,Reactive Gas,Rich,28.12
+Cloud Ring,Balenne,O-IVNH,O-IVNH IV,Reactive Metals,Medium,5.69
+Cloud Ring,Balenne,O-IVNH,O-IVNH IV,Nanites,Rich,8.09
+Cloud Ring,Balenne,O-IVNH,O-IVNH V,Reactive Gas,Rich,31.66
+Cloud Ring,Balenne,O-IVNH,O-IVNH V,Noble Gas,Poor,17.32
+Cloud Ring,Balenne,O-IVNH,O-IVNH V,Base Metals,Medium,6.48
+Cloud Ring,Balenne,O-IVNH,O-IVNH V,Polyaramids,Medium,16.60
+Cloud Ring,Balenne,O-IVNH,O-IVNH V,Coolant,Perfect,21.65
+Cloud Ring,Balenne,O-IVNH,O-IVNH VI,Lustering Alloy,Rich,28.02
+Cloud Ring,Balenne,O-IVNH,O-IVNH VI,Fiber Composite,Rich,27.36
+Cloud Ring,Balenne,O-IVNH,O-IVNH VI,Reactive Gas,Perfect,32.22
+Cloud Ring,Balenne,O-IVNH,O-IVNH VI,Reactive Metals,Poor,4.83
+Cloud Ring,Balenne,O-IVNH,O-IVNH VI,Polyaramids,Perfect,21.72
+Cloud Ring,Balenne,O-IVNH,O-IVNH VII,Fiber Composite,Rich,25.92
+Cloud Ring,Balenne,O-IVNH,O-IVNH VII,Glossy Compound,Medium,21.08
+Cloud Ring,Balenne,O-IVNH,O-IVNH VII,Reactive Gas,Medium,21.54
+Cloud Ring,Balenne,O-IVNH,O-IVNH VII,Noble Gas,Medium,21.94
+Cloud Ring,Balenne,O-IVNH,O-IVNH VII,Reactive Metals,Perfect,8.68
+Cloud Ring,Tinnimerci,O-0HW8,O-0HW8 I,Lucent Compound,Medium,20.88
+Cloud Ring,Tinnimerci,O-0HW8,O-0HW8 I,Dark Compound,Perfect,33.64
+Cloud Ring,Tinnimerci,O-0HW8,O-0HW8 I,Condensates,Medium,14.47
+Cloud Ring,Tinnimerci,O-0HW8,O-0HW8 I,Nanites,Rich,7.18
+Cloud Ring,Tinnimerci,O-0HW8,O-0HW8 I,Plasmoids,Medium,1.28
+Cloud Ring,Tinnimerci,O-0HW8,O-0HW8 II,Gleaming Alloy,Medium,22.30
+Cloud Ring,Tinnimerci,O-0HW8,O-0HW8 II,Noble Gas,Perfect,33.66
+Cloud Ring,Tinnimerci,O-0HW8,O-0HW8 II,Smartfab Units,Rich,16.88
+Cloud Ring,Tinnimerci,O-0HW8,O-0HW8 III,Condensed Alloy,Perfect,37.40
+Cloud Ring,Tinnimerci,O-0HW8,O-0HW8 III,Fiber Composite,Medium,24.04
+Cloud Ring,Tinnimerci,O-0HW8,O-0HW8 III,Noble Metals,Medium,21.02
+Cloud Ring,Tinnimerci,O-0HW8,O-0HW8 III,Industrial Fibers,Medium,5.76
+Cloud Ring,Tinnimerci,O-0HW8,O-0HW8 III,Liquid Ozone,Perfect,42.52
+Cloud Ring,Tinnimerci,O-0HW8,O-0HW8 IV,Opulent Compound,Rich,31.60
+Cloud Ring,Tinnimerci,O-0HW8,O-0HW8 IV,Base Metals,Perfect,9.40
+Cloud Ring,Tinnimerci,O-0HW8,O-0HW8 IV,Industrial Fibers,Rich,7.37
+Cloud Ring,Tinnimerci,O-0HW8,O-0HW8 IV,Smartfab Units,Rich,17.60
+Cloud Ring,Tinnimerci,O-0HW8,O-0HW8 IV,Liquid Ozone,Rich,37.73
+Cloud Ring,Tinnimerci,O-0HW8,O-0HW8 V,Industrial Fibers,Poor,4.10
+Cloud Ring,Tinnimerci,O-0HW8,O-0HW8 V,Supertensile Plastics,Medium,14.65
+Cloud Ring,Tinnimerci,O-0HW8,O-0HW8 V,Construction Blocks,Poor,18.54
+Cloud Ring,Tinnimerci,O-0HW8,O-0HW8 V,Oxygen Isotopes,Poor,1.98
+Cloud Ring,Tinnimerci,O-0HW8,O-0HW8 VI,Sheen Compound,Poor,18.12
+Cloud Ring,Tinnimerci,O-0HW8,O-0HW8 VI,Reactive Gas,Perfect,31.90
+Cloud Ring,Tinnimerci,O-0HW8,O-0HW8 VI,Base Metals,Medium,5.72
+Cloud Ring,Tinnimerci,O-0HW8,O-0HW8 VI,Polyaramids,Medium,13.19
+Cloud Ring,Tinnimerci,O-0HW8,O-0HW8 VI,Ionic Solutions,Rich,12.54
+Cloud Ring,Tinnimerci,O-0HW8,O-0HW8 VII,Sheen Compound,Perfect,33.08
+Cloud Ring,Tinnimerci,O-0HW8,O-0HW8 VII,Reactive Gas,Rich,26.24
+Cloud Ring,Tinnimerci,O-0HW8,O-0HW8 VII,Base Metals,Perfect,8.37
+Cloud Ring,Tinnimerci,O-0HW8,O-0HW8 VII,Polyaramids,Medium,13.56
+Cloud Ring,Tinnimerci,O-0HW8,O-0HW8 VII,Ionic Solutions,Medium,9.50
+Cloud Ring,Tinnimerci,O-0HW8,O-0HW8 VIII,Lustering Alloy,Medium,20.30
+Cloud Ring,Tinnimerci,O-0HW8,O-0HW8 VIII,Fiber Composite,Perfect,32.82
+Cloud Ring,Tinnimerci,O-0HW8,O-0HW8 VIII,Reactive Gas,Medium,20.64
+Cloud Ring,Tinnimerci,O-0HW8,O-0HW8 VIII,Noble Gas,Rich,28.96
+Cloud Ring,Tinnimerci,O-0HW8,O-0HW8 VIII,Coolant,Rich,21.16
+Cloud Ring,Tinnimerci,O-0HW8,O-0HW8 IX,Dark Compound,Medium,22.66
+Cloud Ring,Tinnimerci,O-0HW8,O-0HW8 IX,Toxic Metals,Medium,6.23
+Cloud Ring,Tinnimerci,O-0HW8,O-0HW8 IX,Supertensile Plastics,Poor,8.93
+Cloud Ring,Tinnimerci,O-0HW8,O-0HW8 IX,Silicate Glass,Poor,7.36
+Cloud Ring,Tinnimerci,O-0HW8,O-0HW8 X,Supertensile Plastics,Medium,14.07
+Cloud Ring,Tinnimerci,O-0HW8,O-0HW8 X,Coolant,Medium,16.48
+Cloud Ring,Tinnimerci,O-0HW8,O-0HW8 X,Condensates,Poor,10.81
+Cloud Ring,Tinnimerci,O-0HW8,O-0HW8 X,Liquid Ozone,Medium,31.15
+Cloud Ring,Tinnimerci,O-0HW8,O-0HW8 XI,Lucent Compound,Rich,30.10
+Cloud Ring,Tinnimerci,O-0HW8,O-0HW8 XI,Reactive Metals,Medium,5.77
+Cloud Ring,Tinnimerci,O-0HW8,O-0HW8 XI,Toxic Metals,Medium,6.59
+Cloud Ring,Tinnimerci,O-0HW8,O-0HW8 XI,Oxygen Isotopes,Poor,2.43
+Cloud Ring,Tinnimerci,YI-8ZM,YI-8ZM I,Gleaming Alloy,Poor,16.54
+Cloud Ring,Tinnimerci,YI-8ZM,YI-8ZM I,Noble Metals,Rich,30.80
+Cloud Ring,Tinnimerci,YI-8ZM,YI-8ZM I,Construction Blocks,Medium,24.42
+Cloud Ring,Tinnimerci,YI-8ZM,YI-8ZM II,Gleaming Alloy,Medium,25.16
+Cloud Ring,Tinnimerci,YI-8ZM,YI-8ZM II,Polyaramids,Poor,11.75
+Cloud Ring,Tinnimerci,YI-8ZM,YI-8ZM II,Oxygen Isotopes,Rich,4.07
+Cloud Ring,Tinnimerci,YI-8ZM,YI-8ZM III,Lustering Alloy,Poor,18.24
+Cloud Ring,Tinnimerci,YI-8ZM,YI-8ZM III,Supertensile Plastics,Poor,10.69
+Cloud Ring,Tinnimerci,YI-8ZM,YI-8ZM III,Construction Blocks,Medium,21.48
+Cloud Ring,Tinnimerci,YI-8ZM,YI-8ZM III,Plasmoids,Poor,0.81
+Cloud Ring,Tinnimerci,YI-8ZM,YI-8ZM IV,Sheen Compound,Rich,31.46
+Cloud Ring,Tinnimerci,YI-8ZM,YI-8ZM IV,Glossy Compound,Rich,28.20
+Cloud Ring,Tinnimerci,YI-8ZM,YI-8ZM IV,Reactive Gas,Poor,18.08
+Cloud Ring,Tinnimerci,YI-8ZM,YI-8ZM IV,Reactive Metals,Medium,6.54
+Cloud Ring,Tinnimerci,YI-8ZM,YI-8ZM IV,Coolant,Medium,13.87
+Cloud Ring,Tinnimerci,YI-8ZM,YI-8ZM V,Lustering Alloy,Medium,23.84
+Cloud Ring,Tinnimerci,YI-8ZM,YI-8ZM V,Fiber Composite,Medium,23.04
+Cloud Ring,Tinnimerci,YI-8ZM,YI-8ZM V,Glossy Compound,Medium,21.92
+Cloud Ring,Tinnimerci,YI-8ZM,YI-8ZM V,Reactive Gas,Poor,17.00
+Cloud Ring,Tinnimerci,YI-8ZM,YI-8ZM V,Reactive Metals,Medium,6.07
+Cloud Ring,Tinnimerci,YI-8ZM,YI-8ZM VI,Lustering Alloy,Rich,25.68
+Cloud Ring,Tinnimerci,YI-8ZM,YI-8ZM VI,Glossy Compound,Rich,31.54
+Cloud Ring,Tinnimerci,YI-8ZM,YI-8ZM VI,Reactive Gas,Rich,25.66
+Cloud Ring,Tinnimerci,YI-8ZM,YI-8ZM VI,Polyaramids,Poor,12.00
+Cloud Ring,Tinnimerci,YI-8ZM,YI-8ZM VI,Ionic Solutions,Rich,11.88
+Cloud Ring,Tinnimerci,YI-8ZM,YI-8ZM VII,Lustering Alloy,Medium,19.46
+Cloud Ring,Tinnimerci,YI-8ZM,YI-8ZM VII,Glossy Compound,Rich,29.94
+Cloud Ring,Tinnimerci,YI-8ZM,YI-8ZM VII,Reactive Gas,Perfect,32.96
+Cloud Ring,Tinnimerci,YI-8ZM,YI-8ZM VII,Base Metals,Poor,4.66
+Cloud Ring,Tinnimerci,YI-8ZM,YI-8ZM VII,Polyaramids,Poor,11.37
+Cloud Ring,Tinnimerci,YI-8ZM,YI-8ZM VIII,Base Metals,Poor,3.84
+Cloud Ring,Tinnimerci,YI-8ZM,YI-8ZM VIII,Supertensile Plastics,Medium,16.33
+Cloud Ring,Tinnimerci,YI-8ZM,YI-8ZM VIII,Condensates,Poor,11.71
+Cloud Ring,Tinnimerci,YI-8ZM,YI-8ZM VIII,Suspended Plasma,Rich,106.92
+Cloud Ring,Tinnimerci,OU-X3P,OU-X3P I,Gleaming Alloy,Rich,28.82
+Cloud Ring,Tinnimerci,OU-X3P,OU-X3P I,Heavy Metals,Medium,24.34
+Cloud Ring,Tinnimerci,OU-X3P,OU-X3P I,Smartfab Units,Medium,15.44
+Cloud Ring,Tinnimerci,OU-X3P,OU-X3P II,Lustering Alloy,Poor,18.68
+Cloud Ring,Tinnimerci,OU-X3P,OU-X3P II,Toxic Metals,Poor,3.50
+Cloud Ring,Tinnimerci,OU-X3P,OU-X3P II,Supertensile Plastics,Poor,10.03
+Cloud Ring,Tinnimerci,OU-X3P,OU-X3P II,Construction Blocks,Medium,22.42
+Cloud Ring,Tinnimerci,OU-X3P,OU-X3P III,Crystal Compound,Medium,22.06
+Cloud Ring,Tinnimerci,OU-X3P,OU-X3P III,Reactive Metals,Poor,4.72
+Cloud Ring,Tinnimerci,OU-X3P,OU-X3P III,Supertensile Plastics,Perfect,21.33
+Cloud Ring,Tinnimerci,OU-X3P,OU-X3P III,Suspended Plasma,Medium,79.13
+Cloud Ring,Tinnimerci,OU-X3P,OU-X3P IV,Glossy Compound,Medium,21.50
+Cloud Ring,Tinnimerci,OU-X3P,OU-X3P IV,Reactive Gas,Perfect,32.50
+Cloud Ring,Tinnimerci,OU-X3P,OU-X3P IV,Noble Gas,Medium,23.30
+Cloud Ring,Tinnimerci,OU-X3P,OU-X3P IV,Coolant,Rich,19.53
+Cloud Ring,Tinnimerci,OU-X3P,OU-X3P IV,Ionic Solutions,Rich,10.58
+Cloud Ring,Tinnimerci,OU-X3P,OU-X3P V,Toxic Metals,Medium,5.96
+Cloud Ring,Tinnimerci,OU-X3P,OU-X3P V,Industrial Fibers,Medium,5.46
+Cloud Ring,Tinnimerci,OU-X3P,OU-X3P V,Supertensile Plastics,Medium,15.96
+Cloud Ring,Tinnimerci,OU-X3P,OU-X3P V,Construction Blocks,Poor,18.84
+Cloud Ring,Tinnimerci,OU-X3P,OU-X3P VI,Fiber Composite,Rich,30.72
+Cloud Ring,Tinnimerci,OU-X3P,OU-X3P VI,Glossy Compound,Medium,22.58
+Cloud Ring,Tinnimerci,OU-X3P,OU-X3P VI,Reactive Gas,Medium,20.12
+Cloud Ring,Tinnimerci,OU-X3P,OU-X3P VI,Reactive Metals,Rich,7.55
+Cloud Ring,Tinnimerci,OU-X3P,OU-X3P VI,Coolant,Medium,12.88
+Cloud Ring,Tinnimerci,OU-X3P,OU-X3P VII,Precious Alloy,Medium,24.20
+Cloud Ring,Tinnimerci,OU-X3P,OU-X3P VII,Dark Compound,Medium,21.30
+Cloud Ring,Tinnimerci,OU-X3P,OU-X3P VII,Base Metals,Medium,5.08
+Cloud Ring,Tinnimerci,OU-X3P,OU-X3P VII,Supertensile Plastics,Medium,14.84
+Cloud Ring,Tinnimerci,6-4V20,6-4V20 I,Industrial Fibers,Poor,3.52
+Cloud Ring,Tinnimerci,6-4V20,6-4V20 I,Supertensile Plastics,Medium,14.12
+Cloud Ring,Tinnimerci,6-4V20,6-4V20 I,Silicate Glass,Medium,11.88
+Cloud Ring,Tinnimerci,6-4V20,6-4V20 I,Plasmoids,Medium,1.16
+Cloud Ring,Tinnimerci,6-4V20,6-4V20 II,Toxic Metals,Medium,5.91
+Cloud Ring,Tinnimerci,6-4V20,6-4V20 II,Industrial Fibers,Medium,6.25
+Cloud Ring,Tinnimerci,6-4V20,6-4V20 II,Supertensile Plastics,Medium,14.15
+Cloud Ring,Tinnimerci,6-4V20,6-4V20 II,Construction Blocks,Medium,23.28
+Cloud Ring,Tinnimerci,6-4V20,6-4V20 III,Sheen Compound,Rich,30.08
+Cloud Ring,Tinnimerci,6-4V20,6-4V20 III,Heavy Metals,Perfect,32.88
+Cloud Ring,Tinnimerci,6-4V20,6-4V20 III,Condensates,Rich,19.08
+Cloud Ring,Tinnimerci,6-4V20,6-4V20 III,Ionic Solutions,Rich,10.90
+Cloud Ring,Tinnimerci,6-4V20,6-4V20 III,Plasmoids,Perfect,1.97
+Cloud Ring,Tinnimerci,6-4V20,6-4V20 IV,Lustering Alloy,Medium,20.70
+Cloud Ring,Tinnimerci,6-4V20,6-4V20 IV,Precious Alloy,Medium,18.94
+Cloud Ring,Tinnimerci,6-4V20,6-4V20 IV,Dark Compound,Poor,17.64
+Cloud Ring,Tinnimerci,6-4V20,6-4V20 IV,Supertensile Plastics,Poor,8.35
+Cloud Ring,Tinnimerci,6-4V20,6-4V20 V,Condensed Alloy,Rich,30.06
+Cloud Ring,Tinnimerci,6-4V20,6-4V20 V,Reactive Gas,Medium,24.14
+Cloud Ring,Tinnimerci,6-4V20,6-4V20 V,Industrial Fibers,Perfect,9.76
+Cloud Ring,Tinnimerci,6-4V20,6-4V20 V,Condensates,Rich,20.33
+Cloud Ring,Tinnimerci,6-4V20,6-4V20 V,Liquid Ozone,Perfect,40.48
+Cloud Ring,Tinnimerci,6-4V20,6-4V20 VI,Lustering Alloy,Rich,29.66
+Cloud Ring,Tinnimerci,6-4V20,6-4V20 VI,Fiber Composite,Rich,25.58
+Cloud Ring,Tinnimerci,6-4V20,6-4V20 VI,Reactive Gas,Medium,23.18
+Cloud Ring,Tinnimerci,6-4V20,6-4V20 VI,Base Metals,Rich,7.45
+Cloud Ring,Tinnimerci,6-4V20,6-4V20 VI,Reactive Metals,Rich,7.00
+Cloud Ring,Tinnimerci,6-4V20,6-4V20 VII,Sheen Compound,Medium,21.78
+Cloud Ring,Tinnimerci,6-4V20,6-4V20 VII,Glossy Compound,Rich,29.76
+Cloud Ring,Tinnimerci,6-4V20,6-4V20 VII,Reactive Gas,Poor,17.46
+Cloud Ring,Tinnimerci,6-4V20,6-4V20 VII,Reactive Metals,Medium,6.41
+Cloud Ring,Tinnimerci,6-4V20,6-4V20 VII,Coolant,Rich,17.83
+Cloud Ring,Tinnimerci,6-4V20,6-4V20 VIII,Sheen Compound,Perfect,32.06
+Cloud Ring,Tinnimerci,6-4V20,6-4V20 VIII,Reactive Gas,Rich,29.82
+Cloud Ring,Tinnimerci,6-4V20,6-4V20 VIII,Noble Gas,Rich,29.88
+Cloud Ring,Tinnimerci,6-4V20,6-4V20 VIII,Base Metals,Medium,5.89
+Cloud Ring,Tinnimerci,6-4V20,6-4V20 VIII,Reactive Metals,Rich,7.88
+Cloud Ring,Tinnimerci,6-4V20,6-4V20 IX,Sheen Compound,Rich,29.58
+Cloud Ring,Tinnimerci,6-4V20,6-4V20 IX,Fiber Composite,Rich,28.16
+Cloud Ring,Tinnimerci,6-4V20,6-4V20 IX,Glossy Compound,Rich,27.72
+Cloud Ring,Tinnimerci,6-4V20,6-4V20 IX,Reactive Gas,Poor,17.26
+Cloud Ring,Tinnimerci,6-4V20,6-4V20 IX,Noble Gas,Rich,28.62
+Cloud Ring,Tinnimerci,6-4V20,6-4V20 X,Condensed Alloy,Rich,31.54
+Cloud Ring,Tinnimerci,6-4V20,6-4V20 X,Crystal Compound,Rich,28.46
+Cloud Ring,Tinnimerci,6-4V20,6-4V20 X,Noble Metals,Rich,27.02
+Cloud Ring,Tinnimerci,6-4V20,6-4V20 X,Heavy Water,Rich,314.40
+Cloud Ring,Tinnimerci,6-4V20,6-4V20 X,Liquid Ozone,Medium,26.68
+Cloud Ring,Tinnimerci,Q-UA3C,Q-UA3C I,Gleaming Alloy,Poor,18.61
+Cloud Ring,Tinnimerci,Q-UA3C,Q-UA3C I,Noble Gas,Poor,18.44
+Cloud Ring,Tinnimerci,Q-UA3C,Q-UA3C I,Oxygen Isotopes,Perfect,5.34
+Cloud Ring,Tinnimerci,Q-UA3C,Q-UA3C II,Lustering Alloy,Poor,14.10
+Cloud Ring,Tinnimerci,Q-UA3C,Q-UA3C II,Precious Alloy,Poor,18.11
+Cloud Ring,Tinnimerci,Q-UA3C,Q-UA3C II,Base Metals,Medium,6.03
+Cloud Ring,Tinnimerci,Q-UA3C,Q-UA3C II,Supertensile Plastics,Medium,17.78
+Cloud Ring,Tinnimerci,Q-UA3C,Q-UA3C III,Lustering Alloy,Medium,22.64
+Cloud Ring,Tinnimerci,Q-UA3C,Q-UA3C III,Dark Compound,Medium,23.61
+Cloud Ring,Tinnimerci,Q-UA3C,Q-UA3C III,Industrial Fibers,Poor,4.42
+Cloud Ring,Tinnimerci,Q-UA3C,Q-UA3C III,Supertensile Plastics,Poor,10.96
+Cloud Ring,Tinnimerci,Q-UA3C,Q-UA3C IV,Gleaming Alloy,Medium,24.62
+Cloud Ring,Tinnimerci,Q-UA3C,Q-UA3C IV,Noble Metals,Medium,22.84
+Cloud Ring,Tinnimerci,Q-UA3C,Q-UA3C IV,Plasmoids,Poor,1.07
+Cloud Ring,Tinnimerci,Q-UA3C,Q-UA3C V,Lustering Alloy,Rich,32.56
+Cloud Ring,Tinnimerci,Q-UA3C,Q-UA3C V,Reactive Gas,Poor,20.04
+Cloud Ring,Tinnimerci,Q-UA3C,Q-UA3C V,Noble Gas,Rich,33.68
+Cloud Ring,Tinnimerci,Q-UA3C,Q-UA3C V,Base Metals,Rich,7.89
+Cloud Ring,Tinnimerci,Q-UA3C,Q-UA3C V,Coolant,Poor,13.79
+Cloud Ring,Tinnimerci,Q-UA3C,Q-UA3C VI,Base Metals,Medium,5.48
+Cloud Ring,Tinnimerci,Q-UA3C,Q-UA3C VI,Supertensile Plastics,Medium,14.05
+Cloud Ring,Tinnimerci,Q-UA3C,Q-UA3C VI,Construction Blocks,Poor,20.53
+Cloud Ring,Tinnimerci,Q-UA3C,Q-UA3C VI,Oxygen Isotopes,Medium,3.99
+Cloud Ring,Tinnimerci,Q-UA3C,Q-UA3C VII,Fiber Composite,Rich,28.51
+Cloud Ring,Tinnimerci,Q-UA3C,Q-UA3C VII,Glossy Compound,Perfect,35.75
+Cloud Ring,Tinnimerci,Q-UA3C,Q-UA3C VII,Reactive Gas,Rich,33.15
+Cloud Ring,Tinnimerci,Q-UA3C,Q-UA3C VII,Noble Gas,Rich,30.67
+Cloud Ring,Tinnimerci,Q-UA3C,Q-UA3C VII,Base Metals,Poor,5.04
+Cloud Ring,Tinnimerci,Q-UA3C,Q-UA3C VIII,Lustering Alloy,Poor,19.91
+Cloud Ring,Tinnimerci,Q-UA3C,Q-UA3C VIII,Sheen Compound,Rich,28.38
+Cloud Ring,Tinnimerci,Q-UA3C,Q-UA3C VIII,Reactive Gas,Perfect,35.07
+Cloud Ring,Tinnimerci,Q-UA3C,Q-UA3C VIII,Reactive Metals,Rich,7.59
+Cloud Ring,Tinnimerci,Q-UA3C,Q-UA3C VIII,Polyaramids,Medium,17.32
+Cloud Ring,Tinnimerci,Q-UA3C,Q-UA3C IX,Dark Compound,Poor,15.58
+Cloud Ring,Tinnimerci,Q-UA3C,Q-UA3C IX,Base Metals,Poor,4.95
+Cloud Ring,Tinnimerci,Q-UA3C,Q-UA3C IX,Supertensile Plastics,Poor,9.45
+Cloud Ring,Tinnimerci,Q-UA3C,Q-UA3C IX,Silicate Glass,Medium,12.91
+Cloud Ring,Tinnimerci,Q-UA3C,Q-UA3C X,Precious Alloy,Poor,19.58
+Cloud Ring,Tinnimerci,Q-UA3C,Q-UA3C X,Base Metals,Medium,6.18
+Cloud Ring,Tinnimerci,Q-UA3C,Q-UA3C X,Industrial Fibers,Medium,6.32
+Cloud Ring,Tinnimerci,Q-UA3C,Q-UA3C X,Condensates,Rich,21.66
+Cloud Ring,Tinnimerci,W-4NUU,W-4NUU I,Precious Alloy,Poor,18.78
+Cloud Ring,Tinnimerci,W-4NUU,W-4NUU I,Base Metals,Medium,5.94
+Cloud Ring,Tinnimerci,W-4NUU,W-4NUU I,Supertensile Plastics,Medium,15.85
+Cloud Ring,Tinnimerci,W-4NUU,W-4NUU I,Silicate Glass,Medium,11.91
+Cloud Ring,Tinnimerci,W-4NUU,W-4NUU II,Gleaming Alloy,Poor,17.40
+Cloud Ring,Tinnimerci,W-4NUU,W-4NUU II,Motley Compound,Poor,17.16
+Cloud Ring,Tinnimerci,W-4NUU,W-4NUU II,Noble Gas,Poor,17.86
+Cloud Ring,Tinnimerci,W-4NUU,W-4NUU III,Dark Compound,Poor,13.32
+Cloud Ring,Tinnimerci,W-4NUU,W-4NUU III,Toxic Metals,Poor,4.79
+Cloud Ring,Tinnimerci,W-4NUU,W-4NUU III,Supertensile Plastics,Poor,9.68
+Cloud Ring,Tinnimerci,W-4NUU,W-4NUU III,Plasmoids,Poor,1.02
+Cloud Ring,Tinnimerci,W-4NUU,W-4NUU IV,Lustering Alloy,Poor,16.86
+Cloud Ring,Tinnimerci,W-4NUU,W-4NUU IV,Toxic Metals,Poor,4.95
+Cloud Ring,Tinnimerci,W-4NUU,W-4NUU IV,Supertensile Plastics,Poor,10.20
+Cloud Ring,Tinnimerci,W-4NUU,W-4NUU IV,Construction Blocks,Poor,15.94
+Cloud Ring,Tinnimerci,W-4NUU,W-4NUU V,Fiber Composite,Rich,26.04
+Cloud Ring,Tinnimerci,W-4NUU,W-4NUU V,Glossy Compound,Medium,24.68
+Cloud Ring,Tinnimerci,W-4NUU,W-4NUU V,Reactive Gas,Poor,18.60
+Cloud Ring,Tinnimerci,W-4NUU,W-4NUU V,Base Metals,Poor,4.87
+Cloud Ring,Tinnimerci,W-4NUU,W-4NUU V,Reactive Metals,Rich,8.26
+Cloud Ring,Tinnimerci,W-4NUU,W-4NUU VI,Fiber Composite,Medium,24.20
+Cloud Ring,Tinnimerci,W-4NUU,W-4NUU VI,Reactive Gas,Rich,25.62
+Cloud Ring,Tinnimerci,W-4NUU,W-4NUU VI,Base Metals,Rich,7.30
+Cloud Ring,Tinnimerci,W-4NUU,W-4NUU VI,Polyaramids,Medium,16.40
+Cloud Ring,Tinnimerci,W-4NUU,W-4NUU VI,Ionic Solutions,Rich,12.57
+Cloud Ring,Tinnimerci,W-4NUU,W-4NUU VII,Fiber Composite,Rich,25.36
+Cloud Ring,Tinnimerci,W-4NUU,W-4NUU VII,Reactive Gas,Medium,22.16
+Cloud Ring,Tinnimerci,W-4NUU,W-4NUU VII,Reactive Metals,Rich,7.48
+Cloud Ring,Tinnimerci,W-4NUU,W-4NUU VII,Polyaramids,Rich,19.99
+Cloud Ring,Tinnimerci,W-4NUU,W-4NUU VII,Coolant,Poor,11.28
+Cloud Ring,Tinnimerci,W-4NUU,W-4NUU VIII,Base Metals,Rich,6.72
+Cloud Ring,Tinnimerci,W-4NUU,W-4NUU VIII,Heavy Metals,Rich,28.08
+Cloud Ring,Tinnimerci,W-4NUU,W-4NUU VIII,Condensates,Medium,15.19
+Cloud Ring,Tinnimerci,W-4NUU,W-4NUU VIII,Liquid Ozone,Medium,24.40
+Cloud Ring,Tinnimerci,8R-RTB,8R-RTB I,Gleaming Alloy,Perfect,32.14
+Cloud Ring,Tinnimerci,8R-RTB,8R-RTB I,Noble Gas,Poor,16.32
+Cloud Ring,Tinnimerci,8R-RTB,8R-RTB I,Smartfab Units,Rich,18.07
+Cloud Ring,Tinnimerci,8R-RTB,8R-RTB II,Gleaming Alloy,Medium,20.90
+Cloud Ring,Tinnimerci,8R-RTB,8R-RTB II,Noble Metals,Perfect,33.86
+Cloud Ring,Tinnimerci,8R-RTB,8R-RTB II,Plasmoids,Medium,1.22
+Cloud Ring,Tinnimerci,8R-RTB,8R-RTB III,Condensed Alloy,Rich,31.24
+Cloud Ring,Tinnimerci,8R-RTB,8R-RTB III,Opulent Compound,Medium,22.28
+Cloud Ring,Tinnimerci,8R-RTB,8R-RTB III,Base Metals,Poor,4.95
+Cloud Ring,Tinnimerci,8R-RTB,8R-RTB III,Heavy Water,Perfect,335.00
+Cloud Ring,Tinnimerci,8R-RTB,8R-RTB III,Liquid Ozone,Perfect,44.45
+Cloud Ring,Tinnimerci,8R-RTB,8R-RTB IV,Precious Alloy,Medium,21.36
+Cloud Ring,Tinnimerci,8R-RTB,8R-RTB IV,Dark Compound,Poor,16.38
+Cloud Ring,Tinnimerci,8R-RTB,8R-RTB IV,Supertensile Plastics,Medium,14.95
+Cloud Ring,Tinnimerci,8R-RTB,8R-RTB IV,Construction Blocks,Medium,23.96
+Cloud Ring,Tinnimerci,8R-RTB,8R-RTB V,Condensed Alloy,Medium,20.00
+Cloud Ring,Tinnimerci,8R-RTB,8R-RTB V,Base Metals,Perfect,9.44
+Cloud Ring,Tinnimerci,8R-RTB,8R-RTB V,Condensates,Medium,13.25
+Cloud Ring,Tinnimerci,8R-RTB,8R-RTB V,Smartfab Units,Medium,14.48
+Cloud Ring,Tinnimerci,8R-RTB,8R-RTB V,Liquid Ozone,Medium,31.10
+Cloud Ring,Tinnimerci,8R-RTB,8R-RTB VI,Fiber Composite,Rich,26.74
+Cloud Ring,Tinnimerci,8R-RTB,8R-RTB VI,Opulent Compound,Perfect,37.08
+Cloud Ring,Tinnimerci,8R-RTB,8R-RTB VI,Condensates,Medium,13.07
+Cloud Ring,Tinnimerci,8R-RTB,8R-RTB VI,Heavy Water,Perfect,326.60
+Cloud Ring,Tinnimerci,8R-RTB,8R-RTB VI,Liquid Ozone,Perfect,43.48
+Cloud Ring,Tinnimerci,8R-RTB,8R-RTB VII,Lustering Alloy,Rich,27.50
+Cloud Ring,Tinnimerci,8R-RTB,8R-RTB VII,Fiber Composite,Rich,25.86
+Cloud Ring,Tinnimerci,8R-RTB,8R-RTB VII,Reactive Gas,Medium,23.36
+Cloud Ring,Tinnimerci,8R-RTB,8R-RTB VII,Noble Gas,Poor,16.62
+Cloud Ring,Tinnimerci,8R-RTB,8R-RTB VII,Polyaramids,Poor,12.12
+Cloud Ring,Tinnimerci,8R-RTB,8R-RTB VIII,Fiber Composite,Rich,27.60
+Cloud Ring,Tinnimerci,8R-RTB,8R-RTB VIII,Reactive Gas,Medium,24.18
+Cloud Ring,Tinnimerci,8R-RTB,8R-RTB VIII,Base Metals,Perfect,9.69
+Cloud Ring,Tinnimerci,8R-RTB,8R-RTB VIII,Heavy Water,Perfect,340.40
+Cloud Ring,Tinnimerci,8R-RTB,8R-RTB VIII,Liquid Ozone,Medium,31.40
+Cloud Ring,Tinnimerci,8R-RTB,8R-RTB IX,Dark Compound,Medium,22.38
+Cloud Ring,Tinnimerci,8R-RTB,8R-RTB IX,Supertensile Plastics,Medium,13.16
+Cloud Ring,Tinnimerci,8R-RTB,8R-RTB IX,Silicate Glass,Poor,9.35
+Cloud Ring,Tinnimerci,8R-RTB,8R-RTB IX,Oxygen Isotopes,Poor,2.01
+Cloud Ring,Tinnimerci,8R-RTB,8R-RTB X,Sheen Compound,Medium,21.86
+Cloud Ring,Tinnimerci,8R-RTB,8R-RTB X,Reactive Gas,Rich,29.12
+Cloud Ring,Tinnimerci,8R-RTB,8R-RTB X,Noble Gas,Rich,27.50
+Cloud Ring,Tinnimerci,8R-RTB,8R-RTB X,Reactive Metals,Rich,8.18
+Cloud Ring,Tinnimerci,8R-RTB,8R-RTB X,Polyaramids,Rich,19.92
+Cloud Ring,Prelle,6Z9-0M,6Z9-0M I,Gleaming Alloy,Medium,23.37
+Cloud Ring,Prelle,6Z9-0M,6Z9-0M I,Smartfab Units,Rich,17.88
+Cloud Ring,Prelle,6Z9-0M,6Z9-0M I,Plasmoids,Poor,1.12
+Cloud Ring,Prelle,6Z9-0M,6Z9-0M II,Reactive Metals,Medium,6.94
+Cloud Ring,Prelle,6Z9-0M,6Z9-0M II,Toxic Metals,Rich,8.53
+Cloud Ring,Prelle,6Z9-0M,6Z9-0M II,Supertensile Plastics,Rich,20.65
+Cloud Ring,Prelle,6Z9-0M,6Z9-0M II,Nanites,Rich,7.75
+Cloud Ring,Prelle,6Z9-0M,6Z9-0M III,Condensed Alloy,Perfect,37.32
+Cloud Ring,Prelle,6Z9-0M,6Z9-0M III,Fiber Composite,Medium,22.66
+Cloud Ring,Prelle,6Z9-0M,6Z9-0M III,Industrial Fibers,Rich,7.34
+Cloud Ring,Prelle,6Z9-0M,6Z9-0M III,Smartfab Units,Rich,18.40
+Cloud Ring,Prelle,6Z9-0M,6Z9-0M III,Liquid Ozone,Perfect,44.60
+Cloud Ring,Prelle,6Z9-0M,6Z9-0M IV,Sheen Compound,Rich,28.31
+Cloud Ring,Prelle,6Z9-0M,6Z9-0M IV,Fiber Composite,Rich,33.08
+Cloud Ring,Prelle,6Z9-0M,6Z9-0M IV,Reactive Gas,Rich,29.82
+Cloud Ring,Prelle,6Z9-0M,6Z9-0M IV,Polyaramids,Rich,19.24
+Cloud Ring,Prelle,6Z9-0M,6Z9-0M IV,Ionic Solutions,Rich,10.85
+Cloud Ring,Prelle,6Z9-0M,6Z9-0M V,Precious Alloy,Poor,14.30
+Cloud Ring,Prelle,6Z9-0M,6Z9-0M V,Dark Compound,Poor,17.54
+Cloud Ring,Prelle,6Z9-0M,6Z9-0M V,Supertensile Plastics,Medium,15.04
+Cloud Ring,Prelle,6Z9-0M,6Z9-0M V,Plasmoids,Medium,1.42
+Cloud Ring,Prelle,6Z9-0M,6Z9-0M VI,Glossy Compound,Rich,30.91
+Cloud Ring,Prelle,6Z9-0M,6Z9-0M VI,Reactive Gas,Rich,27.66
+Cloud Ring,Prelle,6Z9-0M,6Z9-0M VI,Noble Gas,Medium,22.34
+Cloud Ring,Prelle,6Z9-0M,6Z9-0M VI,Polyaramids,Rich,18.69
+Cloud Ring,Prelle,6Z9-0M,6Z9-0M VI,Ionic Solutions,Medium,9.89
+Cloud Ring,Prelle,6Z9-0M,6Z9-0M VII,Reactive Gas,Medium,25.83
+Cloud Ring,Prelle,6Z9-0M,6Z9-0M VII,Base Metals,Rich,8.74
+Cloud Ring,Prelle,6Z9-0M,6Z9-0M VII,Reactive Metals,Perfect,9.02
+Cloud Ring,Prelle,6Z9-0M,6Z9-0M VII,Polyaramids,Rich,21.56
+Cloud Ring,Prelle,6Z9-0M,6Z9-0M VII,Ionic Solutions,Rich,13.26
+Cloud Ring,Prelle,FQ9W-C,FQ9W-C I,Gleaming Alloy,Rich,30.10
+Cloud Ring,Prelle,FQ9W-C,FQ9W-C I,Noble Gas,Rich,25.34
+Cloud Ring,Prelle,FQ9W-C,FQ9W-C I,Construction Blocks,Rich,27.08
+Cloud Ring,Prelle,FQ9W-C,FQ9W-C II,Gleaming Alloy,Rich,30.90
+Cloud Ring,Prelle,FQ9W-C,FQ9W-C II,Reactive Metals,Medium,5.39
+Cloud Ring,Prelle,FQ9W-C,FQ9W-C II,Nanites,Medium,5.85
+Cloud Ring,Prelle,FQ9W-C,FQ9W-C II,Suspended Plasma,Poor,62.42
+Cloud Ring,Prelle,FQ9W-C,FQ9W-C III,Sheen Compound,Rich,27.30
+Cloud Ring,Prelle,FQ9W-C,FQ9W-C III,Dark Compound,Rich,31.42
+Cloud Ring,Prelle,FQ9W-C,FQ9W-C III,Heavy Metals,Perfect,33.30
+Cloud Ring,Prelle,FQ9W-C,FQ9W-C III,Condensates,Perfect,22.32
+Cloud Ring,Prelle,FQ9W-C,FQ9W-C III,Plasmoids,Rich,1.87
+Cloud Ring,Prelle,FQ9W-C,FQ9W-C IV,Sheen Compound,Poor,16.92
+Cloud Ring,Prelle,FQ9W-C,FQ9W-C IV,Glossy Compound,Rich,30.58
+Cloud Ring,Prelle,FQ9W-C,FQ9W-C IV,Reactive Gas,Medium,20.84
+Cloud Ring,Prelle,FQ9W-C,FQ9W-C IV,Noble Gas,Perfect,31.98
+Cloud Ring,Prelle,FQ9W-C,FQ9W-C IV,Coolant,Perfect,22.09
+Cloud Ring,Prelle,FQ9W-C,FQ9W-C V,Lustering Alloy,Medium,22.46
+Cloud Ring,Prelle,FQ9W-C,FQ9W-C V,Sheen Compound,Poor,18.24
+Cloud Ring,Prelle,FQ9W-C,FQ9W-C V,Reactive Gas,Medium,22.56
+Cloud Ring,Prelle,FQ9W-C,FQ9W-C V,Reactive Metals,Rich,8.13
+Cloud Ring,Prelle,FQ9W-C,FQ9W-C V,Coolant,Medium,13.05
+Cloud Ring,Prelle,FQ9W-C,FQ9W-C VI,Fiber Composite,Rich,29.26
+Cloud Ring,Prelle,FQ9W-C,FQ9W-C VI,Industrial Fibers,Rich,7.34
+Cloud Ring,Prelle,FQ9W-C,FQ9W-C VI,Condensates,Rich,17.59
+Cloud Ring,Prelle,FQ9W-C,FQ9W-C VI,Heavy Water,Medium,242.40
+Cloud Ring,Prelle,FQ9W-C,FQ9W-C VI,Liquid Ozone,Rich,33.60
+Cloud Ring,Prelle,FQ9W-C,FQ9W-C VII,Sheen Compound,Medium,24.16
+Cloud Ring,Prelle,FQ9W-C,FQ9W-C VII,Reactive Gas,Rich,29.74
+Cloud Ring,Prelle,FQ9W-C,FQ9W-C VII,Reactive Metals,Rich,8.35
+Cloud Ring,Prelle,FQ9W-C,FQ9W-C VII,Polyaramids,Medium,14.60
+Cloud Ring,Prelle,FQ9W-C,FQ9W-C VII,Coolant,Rich,20.35
+Cloud Ring,Prelle,FQ9W-C,FQ9W-C VIII,Sheen Compound,Rich,28.06
+Cloud Ring,Prelle,FQ9W-C,FQ9W-C VIII,Fiber Composite,Rich,29.10
+Cloud Ring,Prelle,FQ9W-C,FQ9W-C VIII,Glossy Compound,Perfect,33.00
+Cloud Ring,Prelle,FQ9W-C,FQ9W-C VIII,Reactive Gas,Rich,28.90
+Cloud Ring,Prelle,FQ9W-C,FQ9W-C VIII,Coolant,Rich,20.45
+Cloud Ring,Prelle,FQ9W-C,FQ9W-C IX,Base Metals,Medium,4.99
+Cloud Ring,Prelle,FQ9W-C,FQ9W-C IX,Supertensile Plastics,Poor,11.03
+Cloud Ring,Prelle,FQ9W-C,FQ9W-C IX,Construction Blocks,Poor,12.52
+Cloud Ring,Prelle,FQ9W-C,FQ9W-C IX,Silicate Glass,Medium,10.69
+Cloud Ring,Prelle,FQ9W-C,FQ9W-C X,Condensed Alloy,Medium,24.86
+Cloud Ring,Prelle,FQ9W-C,FQ9W-C X,Toxic Metals,Rich,7.71
+Cloud Ring,Prelle,FQ9W-C,FQ9W-C X,Polyaramids,Medium,15.93
+Cloud Ring,Prelle,FQ9W-C,FQ9W-C X,Silicate Glass,Perfect,16.55
+Cloud Ring,Prelle,FQ9W-C,FQ9W-C X,Liquid Ozone,Medium,25.07
+Cloud Ring,Prelle,9-4RP2,9-4RP2 I,Noble Gas,Poor,20.68
+Cloud Ring,Prelle,9-4RP2,9-4RP2 I,Condensates,Rich,20.61
+Cloud Ring,Prelle,9-4RP2,9-4RP2 I,Nanites,Rich,7.34
+Cloud Ring,Prelle,9-4RP2,9-4RP2 I,Ionic Solutions,Rich,12.96
+Cloud Ring,Prelle,9-4RP2,9-4RP2 I,Plasmoids,Medium,1.36
+Cloud Ring,Prelle,9-4RP2,9-4RP2 II,Reactive Gas,Medium,26.60
+Cloud Ring,Prelle,9-4RP2,9-4RP2 II,Reactive Metals,Perfect,9.37
+Cloud Ring,Prelle,9-4RP2,9-4RP2 II,Supertensile Plastics,Rich,21.63
+Cloud Ring,Prelle,9-4RP2,9-4RP2 II,Oxygen Isotopes,Medium,3.34
+Cloud Ring,Prelle,9-4RP2,9-4RP2 III,Lustering Alloy,Medium,22.92
+Cloud Ring,Prelle,9-4RP2,9-4RP2 III,Fiber Composite,Rich,27.96
+Cloud Ring,Prelle,9-4RP2,9-4RP2 III,Reactive Gas,Rich,32.65
+Cloud Ring,Prelle,9-4RP2,9-4RP2 III,Noble Gas,Medium,27.10
+Cloud Ring,Prelle,9-4RP2,9-4RP2 III,Coolant,Medium,17.04
+Cloud Ring,Prelle,9-4RP2,9-4RP2 IV,Lustering Alloy,Rich,30.40
+Cloud Ring,Prelle,9-4RP2,9-4RP2 IV,Reactive Gas,Medium,25.87
+Cloud Ring,Prelle,9-4RP2,9-4RP2 IV,Noble Gas,Perfect,35.88
+Cloud Ring,Prelle,9-4RP2,9-4RP2 IV,Reactive Metals,Medium,6.35
+Cloud Ring,Prelle,9-4RP2,9-4RP2 IV,Coolant,Medium,17.04
+Cloud Ring,Prelle,9-4RP2,9-4RP2 V,Motley Compound,Rich,31.81
+Cloud Ring,Prelle,9-4RP2,9-4RP2 V,Base Metals,Medium,5.68
+Cloud Ring,Prelle,9-4RP2,9-4RP2 V,Condensates,Rich,21.84
+Cloud Ring,Prelle,9-4RP2,9-4RP2 V,Suspended Plasma,Rich,103.20
+Cloud Ring,Prelle,9-4RP2,9-4RP2 VI,Base Metals,Medium,6.84
+Cloud Ring,Prelle,9-4RP2,9-4RP2 VI,Heavy Metals,Rich,28.36
+Cloud Ring,Prelle,9-4RP2,9-4RP2 VI,Supertensile Plastics,Rich,21.03
+Cloud Ring,Prelle,9-4RP2,9-4RP2 VI,Condensates,Rich,21.16
+Cloud Ring,Prelle,O-BDXB,O-BDXB I,Toxic Metals,Poor,4.44
+Cloud Ring,Prelle,O-BDXB,O-BDXB I,Supertensile Plastics,Medium,15.87
+Cloud Ring,Prelle,O-BDXB,O-BDXB I,Silicate Glass,Poor,8.92
+Cloud Ring,Prelle,O-BDXB,O-BDXB I,Plasmoids,Poor,0.92
+Cloud Ring,Prelle,O-BDXB,O-BDXB II,Lustering Alloy,Poor,14.04
+Cloud Ring,Prelle,O-BDXB,O-BDXB II,Precious Alloy,Medium,20.79
+Cloud Ring,Prelle,O-BDXB,O-BDXB II,Supertensile Plastics,Poor,9.87
+Cloud Ring,Prelle,O-BDXB,O-BDXB II,Oxygen Isotopes,Poor,2.64
+Cloud Ring,Prelle,O-BDXB,O-BDXB III,Lustering Alloy,Poor,19.05
+Cloud Ring,Prelle,O-BDXB,O-BDXB III,Industrial Fibers,Poor,4.63
+Cloud Ring,Prelle,O-BDXB,O-BDXB III,Supertensile Plastics,Poor,11.50
+Cloud Ring,Prelle,O-BDXB,O-BDXB III,Oxygen Isotopes,Medium,3.45
+Cloud Ring,Prelle,O-BDXB,O-BDXB IV,Toxic Metals,Medium,7.09
+Cloud Ring,Prelle,O-BDXB,O-BDXB IV,Supertensile Plastics,Poor,9.87
+Cloud Ring,Prelle,O-BDXB,O-BDXB IV,Construction Blocks,Medium,22.04
+Cloud Ring,Prelle,O-BDXB,O-BDXB IV,Oxygen Isotopes,Poor,2.44
+Cloud Ring,Prelle,O-BDXB,O-BDXB V,Gleaming Alloy,Medium,23.19
+Cloud Ring,Prelle,O-BDXB,O-BDXB V,Glossy Compound,Rich,34.54
+Cloud Ring,Prelle,O-BDXB,O-BDXB V,Oxygen Isotopes,Medium,3.98
+Cloud Ring,Prelle,O-BDXB,O-BDXB VI,Lustering Alloy,Poor,19.58
+Cloud Ring,Prelle,O-BDXB,O-BDXB VI,Precious Alloy,Medium,26.71
+Cloud Ring,Prelle,O-BDXB,O-BDXB VI,Supertensile Plastics,Poor,10.68
+Cloud Ring,Prelle,O-BDXB,O-BDXB VI,Construction Blocks,Medium,25.06
+Cloud Ring,Prelle,O-BDXB,O-BDXB VII,Glossy Compound,Rich,28.27
+Cloud Ring,Prelle,O-BDXB,O-BDXB VII,Reactive Gas,Medium,22.07
+Cloud Ring,Prelle,O-BDXB,O-BDXB VII,Noble Gas,Rich,27.92
+Cloud Ring,Prelle,O-BDXB,O-BDXB VII,Base Metals,Rich,7.76
+Cloud Ring,Prelle,O-BDXB,O-BDXB VII,Coolant,Medium,16.19
+Cloud Ring,Prelle,O-BDXB,O-BDXB VIII,Sheen Compound,Poor,19.78
+Cloud Ring,Prelle,O-BDXB,O-BDXB VIII,Fiber Composite,Medium,23.69
+Cloud Ring,Prelle,O-BDXB,O-BDXB VIII,Reactive Gas,Medium,26.84
+Cloud Ring,Prelle,O-BDXB,O-BDXB VIII,Noble Gas,Medium,25.12
+Cloud Ring,Prelle,O-BDXB,O-BDXB VIII,Reactive Metals,Medium,5.63
+Cloud Ring,Prelle,O-BDXB,O-BDXB IX,Reactive Gas,Poor,20.35
+Cloud Ring,Prelle,O-BDXB,O-BDXB IX,Noble Gas,Rich,34.63
+Cloud Ring,Prelle,O-BDXB,O-BDXB IX,Reactive Metals,Rich,8.98
+Cloud Ring,Prelle,O-BDXB,O-BDXB IX,Polyaramids,Rich,22.65
+Cloud Ring,Prelle,O-BDXB,O-BDXB IX,Ionic Solutions,Rich,13.26
+Cloud Ring,Prelle,O-BDXB,O-BDXB X,Condensed Alloy,Medium,21.32
+Cloud Ring,Prelle,O-BDXB,O-BDXB X,Opulent Compound,Perfect,36.59
+Cloud Ring,Prelle,O-BDXB,O-BDXB X,Polyaramids,Medium,16.85
+Cloud Ring,Prelle,O-BDXB,O-BDXB X,Liquid Ozone,Medium,25.93
+Cloud Ring,Prelle,O-BDXB,O-BDXB X,Ionic Solutions,Poor,8.26
+Cloud Ring,Prelle,O-BDXB,O-BDXB XI,Fiber Composite,Rich,32.03
+Cloud Ring,Prelle,O-BDXB,O-BDXB XI,Glossy Compound,Poor,18.44
+Cloud Ring,Prelle,O-BDXB,O-BDXB XI,Reactive Gas,Poor,19.16
+Cloud Ring,Prelle,O-BDXB,O-BDXB XI,Polyaramids,Medium,13.92
+Cloud Ring,Prelle,O-BDXB,O-BDXB XI,Ionic Solutions,Poor,7.75
+Cloud Ring,Prelle,O-BDXB,O-BDXB XII,Dark Compound,Medium,22.37
+Cloud Ring,Prelle,O-BDXB,O-BDXB XII,Base Metals,Poor,4.42
+Cloud Ring,Prelle,O-BDXB,O-BDXB XII,Toxic Metals,Poor,4.55
+Cloud Ring,Prelle,O-BDXB,O-BDXB XII,Supertensile Plastics,Poor,12.31
+Cloud Ring,Prelle,O-BDXB,O-BDXB XIII,Supertensile Plastics,Rich,21.78
+Cloud Ring,Prelle,O-BDXB,O-BDXB XIII,Coolant,Rich,21.28
+Cloud Ring,Prelle,O-BDXB,O-BDXB XIII,Condensates,Medium,15.40
+Cloud Ring,Prelle,O-BDXB,O-BDXB XIII,Suspended Plasma,Medium,98.45
+Cloud Ring,Prelle,G8AD-C,G8AD-C I,Lustering Alloy,Medium,25.28
+Cloud Ring,Prelle,G8AD-C,G8AD-C I,Toxic Metals,Poor,4.50
+Cloud Ring,Prelle,G8AD-C,G8AD-C I,Industrial Fibers,Medium,6.36
+Cloud Ring,Prelle,G8AD-C,G8AD-C I,Supertensile Plastics,Poor,9.51
+Cloud Ring,Prelle,G8AD-C,G8AD-C II,Precious Alloy,Medium,24.11
+Cloud Ring,Prelle,G8AD-C,G8AD-C II,Industrial Fibers,Poor,4.47
+Cloud Ring,Prelle,G8AD-C,G8AD-C II,Supertensile Plastics,Poor,11.38
+Cloud Ring,Prelle,G8AD-C,G8AD-C II,Oxygen Isotopes,Poor,2.96
+Cloud Ring,Prelle,G8AD-C,G8AD-C III,Base Metals,Medium,6.63
+Cloud Ring,Prelle,G8AD-C,G8AD-C III,Supertensile Plastics,Poor,10.93
+Cloud Ring,Prelle,G8AD-C,G8AD-C III,Silicate Glass,Medium,12.79
+Cloud Ring,Prelle,G8AD-C,G8AD-C III,Plasmoids,Medium,1.21
+Cloud Ring,Prelle,G8AD-C,G8AD-C IV,Precious Alloy,Poor,13.92
+Cloud Ring,Prelle,G8AD-C,G8AD-C IV,Dark Compound,Poor,17.54
+Cloud Ring,Prelle,G8AD-C,G8AD-C IV,Supertensile Plastics,Medium,15.60
+Cloud Ring,Prelle,G8AD-C,G8AD-C IV,Construction Blocks,Poor,17.18
+Cloud Ring,Prelle,G8AD-C,G8AD-C V,Gleaming Alloy,Medium,25.26
+Cloud Ring,Prelle,G8AD-C,G8AD-C V,Noble Gas,Medium,20.60
+Cloud Ring,Prelle,G8AD-C,G8AD-C V,Construction Blocks,Poor,18.52
+Cloud Ring,Prelle,G8AD-C,G8AD-C VI,Dark Compound,Medium,25.66
+Cloud Ring,Prelle,G8AD-C,G8AD-C VI,Supertensile Plastics,Medium,13.66
+Cloud Ring,Prelle,G8AD-C,G8AD-C VI,Oxygen Isotopes,Medium,3.26
+Cloud Ring,Prelle,G8AD-C,G8AD-C VI,Plasmoids,Medium,1.51
+Cloud Ring,Prelle,G8AD-C,G8AD-C VII,Fiber Composite,Perfect,34.63
+Cloud Ring,Prelle,G8AD-C,G8AD-C VII,Opulent Compound,Perfect,38.20
+Cloud Ring,Prelle,G8AD-C,G8AD-C VII,Reactive Gas,Rich,27.76
+Cloud Ring,Prelle,G8AD-C,G8AD-C VII,Smartfab Units,Rich,20.66
+Cloud Ring,Prelle,G8AD-C,G8AD-C VII,Liquid Ozone,Perfect,42.97
+Cloud Ring,Prelle,G8AD-C,G8AD-C VIII,Crystal Compound,Rich,29.25
+Cloud Ring,Prelle,G8AD-C,G8AD-C VIII,Reactive Metals,Medium,5.39
+Cloud Ring,Prelle,G8AD-C,G8AD-C VIII,Suspended Plasma,Medium,90.27
+Cloud Ring,Prelle,G8AD-C,G8AD-C VIII,Oxygen Isotopes,Rich,4.82
+Cloud Ring,Prelle,G8AD-C,G8AD-C IX,Lustering Alloy,Medium,25.70
+Cloud Ring,Prelle,G8AD-C,G8AD-C IX,Sheen Compound,Medium,24.11
+Cloud Ring,Prelle,G8AD-C,G8AD-C IX,Fiber Composite,Rich,28.16
+Cloud Ring,Prelle,G8AD-C,G8AD-C IX,Reactive Gas,Medium,20.31
+Cloud Ring,Prelle,G8AD-C,G8AD-C IX,Noble Gas,Medium,23.84
+Cloud Ring,Prelle,G8AD-C,G8AD-C X,Sheen Compound,Rich,31.88
+Cloud Ring,Prelle,G8AD-C,G8AD-C X,Reactive Gas,Perfect,33.68
+Cloud Ring,Prelle,G8AD-C,G8AD-C X,Noble Gas,Rich,26.77
+Cloud Ring,Prelle,G8AD-C,G8AD-C X,Base Metals,Rich,7.26
+Cloud Ring,Prelle,G8AD-C,G8AD-C X,Ionic Solutions,Rich,13.12
+Cloud Ring,Prelle,G8AD-C,G8AD-C XI,Sheen Compound,Medium,20.96
+Cloud Ring,Prelle,G8AD-C,G8AD-C XI,Glossy Compound,Rich,31.31
+Cloud Ring,Prelle,G8AD-C,G8AD-C XI,Reactive Gas,Poor,18.54
+Cloud Ring,Prelle,G8AD-C,G8AD-C XI,Coolant,Rich,18.00
+Cloud Ring,Prelle,G8AD-C,G8AD-C XI,Ionic Solutions,Medium,9.00
+Cloud Ring,Prelle,G8AD-C,G8AD-C XII,Dark Compound,Poor,13.61
+Cloud Ring,Prelle,G8AD-C,G8AD-C XII,Base Metals,Poor,4.55
+Cloud Ring,Prelle,G8AD-C,G8AD-C XII,Supertensile Plastics,Poor,10.35
+Cloud Ring,Prelle,G8AD-C,G8AD-C XII,Oxygen Isotopes,Poor,2.14
+Cloud Ring,Prelle,G8AD-C,G8AD-C XIII,Precious Alloy,Medium,20.27
+Cloud Ring,Prelle,G8AD-C,G8AD-C XIII,Industrial Fibers,Poor,4.73
+Cloud Ring,Prelle,G8AD-C,G8AD-C XIII,Condensates,Medium,14.36
+Cloud Ring,Prelle,G8AD-C,G8AD-C XIII,Liquid Ozone,Poor,22.79
+Cloud Ring,Prelle,XZH-4X,XZH-4X I,Lustering Alloy,Medium,26.46
+Cloud Ring,Prelle,XZH-4X,XZH-4X I,Dark Compound,Medium,31.91
+Cloud Ring,Prelle,XZH-4X,XZH-4X I,Base Metals,Poor,4.97
+Cloud Ring,Prelle,XZH-4X,XZH-4X I,Construction Blocks,Poor,23.25
+Cloud Ring,Prelle,XZH-4X,XZH-4X I,Oxygen Isotopes,Medium,4.63
+Cloud Ring,Prelle,XZH-4X,XZH-4X II,Glossy Compound,Poor,23.19
+Cloud Ring,Prelle,XZH-4X,XZH-4X II,Heavy Metals,Rich,35.24
+Cloud Ring,Prelle,XZH-4X,XZH-4X II,Noble Metals,Medium,33.10
+Cloud Ring,Prelle,XZH-4X,XZH-4X II,Oxygen Isotopes,Rich,5.76
+Cloud Ring,Prelle,XZH-4X,XZH-4X III,Gleaming Alloy,Poor,25.27
+Cloud Ring,Prelle,XZH-4X,XZH-4X III,Crystal Compound,Rich,38.77
+Cloud Ring,Prelle,XZH-4X,XZH-4X III,Supertensile Plastics,Rich,25.40
+Cloud Ring,Prelle,XZH-4X,XZH-4X III,Nanites,Rich,9.37
+Cloud Ring,Prelle,XZH-4X,XZH-4X III,Oxygen Isotopes,Medium,4.92
+Cloud Ring,Prelle,XZH-4X,XZH-4X IV,Sheen Compound,Medium,26.59
+Cloud Ring,Prelle,XZH-4X,XZH-4X IV,Glossy Compound,Rich,36.56
+Cloud Ring,Prelle,XZH-4X,XZH-4X IV,Reactive Gas,Perfect,43.74
+Cloud Ring,Prelle,XZH-4X,XZH-4X IV,Noble Gas,Medium,31.59
+Cloud Ring,Prelle,XZH-4X,XZH-4X IV,Coolant,Poor,16.78
+Cloud Ring,Prelle,XZH-4X,XZH-4X IV,Ionic Solutions,Poor,9.78
+Cloud Ring,Prelle,XZH-4X,XZH-4X V,Lustering Alloy,Rich,42.52
+Cloud Ring,Prelle,XZH-4X,XZH-4X V,Glossy Compound,Rich,38.15
+Cloud Ring,Prelle,XZH-4X,XZH-4X V,Noble Gas,Poor,23.00
+Cloud Ring,Prelle,XZH-4X,XZH-4X V,Base Metals,Rich,10.40
+Cloud Ring,Prelle,XZH-4X,XZH-4X V,Reactive Metals,Perfect,11.37
+Cloud Ring,Prelle,XZH-4X,XZH-4X V,Ionic Solutions,Medium,11.25
+Cloud Ring,Prelle,XZH-4X,XZH-4X VI,Lustering Alloy,Rich,41.72
+Cloud Ring,Prelle,XZH-4X,XZH-4X VI,Fiber Composite,Poor,22.30
+Cloud Ring,Prelle,XZH-4X,XZH-4X VI,Glossy Compound,Rich,42.28
+Cloud Ring,Prelle,XZH-4X,XZH-4X VI,Noble Gas,Perfect,44.28
+Cloud Ring,Prelle,XZH-4X,XZH-4X VI,Base Metals,Rich,10.49
+Cloud Ring,Prelle,XZH-4X,XZH-4X VI,Ionic Solutions,Rich,14.03
+Cloud Ring,Prelle,XZH-4X,XZH-4X VII,Lustering Alloy,Medium,31.16
+Cloud Ring,Prelle,XZH-4X,XZH-4X VII,Sheen Compound,Medium,29.73
+Cloud Ring,Prelle,XZH-4X,XZH-4X VII,Reactive Gas,Medium,30.35
+Cloud Ring,Prelle,XZH-4X,XZH-4X VII,Reactive Metals,Rich,9.09
+Cloud Ring,Prelle,XZH-4X,XZH-4X VII,Coolant,Medium,17.59
+Cloud Ring,Prelle,XZH-4X,XZH-4X VII,Ionic Solutions,Rich,14.53
+Cloud Ring,Prelle,Z-Y7R7,Z-Y7R7 I,Precious Alloy,Poor,16.84
+Cloud Ring,Prelle,Z-Y7R7,Z-Y7R7 I,Supertensile Plastics,Medium,15.48
+Cloud Ring,Prelle,Z-Y7R7,Z-Y7R7 I,Construction Blocks,Poor,16.80
+Cloud Ring,Prelle,Z-Y7R7,Z-Y7R7 I,Silicate Glass,Poor,7.73
+Cloud Ring,Prelle,Z-Y7R7,Z-Y7R7 II,Lustering Alloy,Medium,23.44
+Cloud Ring,Prelle,Z-Y7R7,Z-Y7R7 II,Base Metals,Medium,5.73
+Cloud Ring,Prelle,Z-Y7R7,Z-Y7R7 II,Industrial Fibers,Poor,4.87
+Cloud Ring,Prelle,Z-Y7R7,Z-Y7R7 II,Supertensile Plastics,Medium,13.89
+Cloud Ring,Prelle,Z-Y7R7,Z-Y7R7 III,Gleaming Alloy,Rich,26.63
+Cloud Ring,Prelle,Z-Y7R7,Z-Y7R7 III,Glossy Compound,Rich,31.27
+Cloud Ring,Prelle,Z-Y7R7,Z-Y7R7 III,Polyaramids,Rich,21.03
+Cloud Ring,Prelle,Z-Y7R7,Z-Y7R7 IV,Reactive Gas,Perfect,36.96
+Cloud Ring,Prelle,Z-Y7R7,Z-Y7R7 IV,Noble Metals,Rich,27.91
+Cloud Ring,Prelle,Z-Y7R7,Z-Y7R7 IV,Condensates,Perfect,24.56
+Cloud Ring,Prelle,Z-Y7R7,Z-Y7R7 IV,Smartfab Units,Perfect,24.32
+Cloud Ring,Prelle,Z-Y7R7,Z-Y7R7 IV,Liquid Ozone,Perfect,47.62
+Cloud Ring,Prelle,Z-Y7R7,Z-Y7R7 V,Lustering Alloy,Rich,28.37
+Cloud Ring,Prelle,Z-Y7R7,Z-Y7R7 V,Fiber Composite,Rich,30.32
+Cloud Ring,Prelle,Z-Y7R7,Z-Y7R7 V,Reactive Gas,Rich,33.22
+Cloud Ring,Prelle,Z-Y7R7,Z-Y7R7 V,Reactive Metals,Medium,5.98
+Cloud Ring,Prelle,Z-Y7R7,Z-Y7R7 V,Ionic Solutions,Medium,9.87
+Cloud Ring,Prelle,Z-Y7R7,Z-Y7R7 VI,Sheen Compound,Medium,25.07
+Cloud Ring,Prelle,Z-Y7R7,Z-Y7R7 VI,Fiber Composite,Perfect,34.34
+Cloud Ring,Prelle,Z-Y7R7,Z-Y7R7 VI,Reactive Gas,Medium,25.35
+Cloud Ring,Prelle,Z-Y7R7,Z-Y7R7 VI,Base Metals,Poor,5.10
+Cloud Ring,Prelle,Z-Y7R7,Z-Y7R7 VI,Reactive Metals,Medium,6.45
+Cloud Ring,Prelle,Z-Y7R7,Z-Y7R7 VII,Sheen Compound,Medium,20.83
+Cloud Ring,Prelle,Z-Y7R7,Z-Y7R7 VII,Fiber Composite,Medium,21.21
+Cloud Ring,Prelle,Z-Y7R7,Z-Y7R7 VII,Reactive Gas,Medium,25.26
+Cloud Ring,Prelle,Z-Y7R7,Z-Y7R7 VII,Reactive Metals,Medium,6.52
+Cloud Ring,Prelle,Z-Y7R7,Z-Y7R7 VII,Coolant,Perfect,22.33
+Cloud Ring,Prelle,MJYW-3,MJYW-3 I,Precious Alloy,Medium,25.28
+Cloud Ring,Prelle,MJYW-3,MJYW-3 I,Base Metals,Poor,5.18
+Cloud Ring,Prelle,MJYW-3,MJYW-3 I,Supertensile Plastics,Poor,13.32
+Cloud Ring,Prelle,MJYW-3,MJYW-3 I,Silicate Glass,Medium,12.65
+Cloud Ring,Prelle,MJYW-3,MJYW-3 II,Gleaming Alloy,Rich,31.99
+Cloud Ring,Prelle,MJYW-3,MJYW-3 II,Lucent Compound,Rich,32.06
+Cloud Ring,Prelle,MJYW-3,MJYW-3 II,Reactive Gas,Rich,29.83
+Cloud Ring,Prelle,MJYW-3,MJYW-3 II,Reactive Metals,Poor,5.22
+Cloud Ring,Prelle,MJYW-3,MJYW-3 III,Sheen Compound,Rich,31.65
+Cloud Ring,Prelle,MJYW-3,MJYW-3 III,Reactive Gas,Medium,25.41
+Cloud Ring,Prelle,MJYW-3,MJYW-3 III,Reactive Metals,Medium,5.99
+Cloud Ring,Prelle,MJYW-3,MJYW-3 III,Coolant,Perfect,25.28
+Cloud Ring,Prelle,MJYW-3,MJYW-3 III,Ionic Solutions,Medium,11.05
+Cloud Ring,Prelle,MJYW-3,MJYW-3 IV,Lustering Alloy,Medium,21.96
+Cloud Ring,Prelle,MJYW-3,MJYW-3 IV,Dark Compound,Poor,17.09
+Cloud Ring,Prelle,MJYW-3,MJYW-3 IV,Supertensile Plastics,Poor,11.10
+Cloud Ring,Prelle,MJYW-3,MJYW-3 IV,Silicate Glass,Medium,12.72
+Cloud Ring,Prelle,MJYW-3,MJYW-3 V,Lustering Alloy,Poor,19.00
+Cloud Ring,Prelle,MJYW-3,MJYW-3 V,Reactive Gas,Rich,34.82
+Cloud Ring,Prelle,MJYW-3,MJYW-3 V,Noble Gas,Perfect,37.33
+Cloud Ring,Prelle,MJYW-3,MJYW-3 V,Polyaramids,Rich,23.55
+Cloud Ring,Prelle,MJYW-3,MJYW-3 V,Coolant,Rich,19.90
+Cloud Ring,Prelle,MJYW-3,MJYW-3 VI,Fiber Composite,Medium,22.52
+Cloud Ring,Prelle,MJYW-3,MJYW-3 VI,Glossy Compound,Rich,29.21
+Cloud Ring,Prelle,MJYW-3,MJYW-3 VI,Reactive Gas,Medium,28.77
+Cloud Ring,Prelle,MJYW-3,MJYW-3 VI,Noble Gas,Medium,26.52
+Cloud Ring,Prelle,MJYW-3,MJYW-3 VI,Reactive Metals,Medium,5.85
+Cloud Ring,Prelle,MJYW-3,MJYW-3 VII,Lustering Alloy,Rich,33.86
+Cloud Ring,Prelle,MJYW-3,MJYW-3 VII,Sheen Compound,Poor,20.29
+Cloud Ring,Prelle,MJYW-3,MJYW-3 VII,Fiber Composite,Rich,29.72
+Cloud Ring,Prelle,MJYW-3,MJYW-3 VII,Reactive Gas,Medium,22.15
+Cloud Ring,Prelle,MJYW-3,MJYW-3 VII,Base Metals,Rich,8.49
+Cloud Ring,Prelle,MJYW-3,MJYW-3 VIII,Base Metals,Rich,8.04
+Cloud Ring,Prelle,MJYW-3,MJYW-3 VIII,Condensates,Medium,17.04
+Cloud Ring,Prelle,MJYW-3,MJYW-3 VIII,Suspended Plasma,Rich,115.92
+Cloud Ring,Prelle,MJYW-3,MJYW-3 VIII,Liquid Ozone,Poor,21.59
+Cloud Ring,Prelle,MJYW-3,MJYW-3 IX,Precious Alloy,Poor,18.31
+Cloud Ring,Prelle,MJYW-3,MJYW-3 IX,Supertensile Plastics,Medium,19.26
+Cloud Ring,Prelle,MJYW-3,MJYW-3 IX,Condensates,Poor,12.24
+Cloud Ring,Prelle,MJYW-3,MJYW-3 IX,Liquid Ozone,Poor,23.49
+Cloud Ring,Assilot,PPG-XC,PPG-XC I,Gleaming Alloy,Rich,25.82
+Cloud Ring,Assilot,PPG-XC,PPG-XC I,Glossy Compound,Perfect,32.68
+Cloud Ring,Assilot,PPG-XC,PPG-XC I,Noble Metals,Medium,21.84
+Cloud Ring,Assilot,PPG-XC,PPG-XC II,Base Metals,Poor,4.01
+Cloud Ring,Assilot,PPG-XC,PPG-XC II,Industrial Fibers,Medium,5.15
+Cloud Ring,Assilot,PPG-XC,PPG-XC II,Supertensile Plastics,Poor,8.60
+Cloud Ring,Assilot,PPG-XC,PPG-XC II,Construction Blocks,Medium,21.20
+Cloud Ring,Assilot,PPG-XC,PPG-XC III,Industrial Fibers,Poor,4.96
+Cloud Ring,Assilot,PPG-XC,PPG-XC III,Supertensile Plastics,Medium,12.92
+Cloud Ring,Assilot,PPG-XC,PPG-XC III,Oxygen Isotopes,Poor,2.43
+Cloud Ring,Assilot,PPG-XC,PPG-XC III,Plasmoids,Medium,1.18
+Cloud Ring,Assilot,PPG-XC,PPG-XC IV,Base Metals,Medium,6.33
+Cloud Ring,Assilot,PPG-XC,PPG-XC IV,Toxic Metals,Poor,3.84
+Cloud Ring,Assilot,PPG-XC,PPG-XC IV,Supertensile Plastics,Medium,14.56
+Cloud Ring,Assilot,PPG-XC,PPG-XC IV,Oxygen Isotopes,Medium,2.87
+Cloud Ring,Assilot,PPG-XC,PPG-XC V,Glossy Compound,Poor,18.06
+Cloud Ring,Assilot,PPG-XC,PPG-XC V,Reactive Gas,Medium,24.50
+Cloud Ring,Assilot,PPG-XC,PPG-XC V,Noble Gas,Poor,18.18
+Cloud Ring,Assilot,PPG-XC,PPG-XC V,Base Metals,Rich,7.94
+Cloud Ring,Assilot,PPG-XC,PPG-XC V,Ionic Solutions,Medium,7.99
+Cloud Ring,Assilot,PPG-XC,PPG-XC VI,Sheen Compound,Medium,20.58
+Cloud Ring,Assilot,PPG-XC,PPG-XC VI,Reactive Gas,Rich,26.00
+Cloud Ring,Assilot,PPG-XC,PPG-XC VI,Noble Gas,Medium,24.66
+Cloud Ring,Assilot,PPG-XC,PPG-XC VI,Base Metals,Medium,6.59
+Cloud Ring,Assilot,PPG-XC,PPG-XC VI,Polyaramids,Rich,17.93
+Cloud Ring,Assilot,PPG-XC,PPG-XC VII,Heavy Metals,Medium,21.10
+Cloud Ring,Assilot,PPG-XC,PPG-XC VII,Supertensile Plastics,Poor,12.39
+Cloud Ring,Assilot,PPG-XC,PPG-XC VII,Coolant,Medium,14.57
+Cloud Ring,Assilot,PPG-XC,PPG-XC VII,Condensates,Medium,15.55
+Cloud Ring,Assilot,QA1-BT,QA1-BT I,Gleaming Alloy,Rich,30.64
+Cloud Ring,Assilot,QA1-BT,QA1-BT I,Noble Metals,Medium,24.44
+Cloud Ring,Assilot,QA1-BT,QA1-BT I,Construction Blocks,Rich,30.14
+Cloud Ring,Assilot,QA1-BT,QA1-BT II,Lustering Alloy,Poor,14.80
+Cloud Ring,Assilot,QA1-BT,QA1-BT II,Precious Alloy,Medium,21.62
+Cloud Ring,Assilot,QA1-BT,QA1-BT II,Industrial Fibers,Poor,3.93
+Cloud Ring,Assilot,QA1-BT,QA1-BT II,Supertensile Plastics,Medium,14.77
+Cloud Ring,Assilot,QA1-BT,QA1-BT III,Gleaming Alloy,Poor,17.76
+Cloud Ring,Assilot,QA1-BT,QA1-BT III,Motley Compound,Medium,24.94
+Cloud Ring,Assilot,QA1-BT,QA1-BT III,Polyaramids,Rich,18.29
+Cloud Ring,Assilot,QA1-BT,QA1-BT IV,Toxic Metals,Medium,5.44
+Cloud Ring,Assilot,QA1-BT,QA1-BT IV,Supertensile Plastics,Poor,12.24
+Cloud Ring,Assilot,QA1-BT,QA1-BT IV,Silicate Glass,Poor,7.72
+Cloud Ring,Assilot,QA1-BT,QA1-BT IV,Plasmoids,Poor,1.03
+Cloud Ring,Assilot,QA1-BT,QA1-BT V,Fiber Composite,Rich,27.94
+Cloud Ring,Assilot,QA1-BT,QA1-BT V,Reactive Gas,Rich,30.94
+Cloud Ring,Assilot,QA1-BT,QA1-BT V,Reactive Metals,Perfect,8.59
+Cloud Ring,Assilot,QA1-BT,QA1-BT V,Polyaramids,Medium,14.45
+Cloud Ring,Assilot,QA1-BT,QA1-BT V,Ionic Solutions,Rich,10.43
+Cloud Ring,Assilot,QA1-BT,QA1-BT VI,Lustering Alloy,Medium,21.46
+Cloud Ring,Assilot,QA1-BT,QA1-BT VI,Supertensile Plastics,Medium,16.19
+Cloud Ring,Assilot,QA1-BT,QA1-BT VI,Construction Blocks,Poor,15.50
+Cloud Ring,Assilot,QA1-BT,QA1-BT VI,Silicate Glass,Medium,10.36
+Cloud Ring,Assilot,QA1-BT,QA1-BT VII,Lustering Alloy,Rich,31.24
+Cloud Ring,Assilot,QA1-BT,QA1-BT VII,Fiber Composite,Rich,30.96
+Cloud Ring,Assilot,QA1-BT,QA1-BT VII,Reactive Gas,Medium,20.06
+Cloud Ring,Assilot,QA1-BT,QA1-BT VII,Polyaramids,Poor,11.12
+Cloud Ring,Assilot,QA1-BT,QA1-BT VII,Coolant,Rich,19.13
+Cloud Ring,Assilot,QA1-BT,QA1-BT VIII,Lucent Compound,Rich,27.62
+Cloud Ring,Assilot,QA1-BT,QA1-BT VIII,Reactive Metals,Poor,4.79
+Cloud Ring,Assilot,QA1-BT,QA1-BT VIII,Construction Blocks,Poor,18.28
+Cloud Ring,Assilot,QA1-BT,QA1-BT VIII,Oxygen Isotopes,Rich,4.19
+Cloud Ring,Assilot,5S-KNL,5S-KNL I,Dark Compound,Poor,17.36
+Cloud Ring,Assilot,5S-KNL,5S-KNL I,Supertensile Plastics,Poor,12.56
+Cloud Ring,Assilot,5S-KNL,5S-KNL I,Oxygen Isotopes,Medium,3.60
+Cloud Ring,Assilot,5S-KNL,5S-KNL I,Plasmoids,Poor,0.84
+Cloud Ring,Assilot,5S-KNL,5S-KNL II,Base Metals,Medium,5.78
+Cloud Ring,Assilot,5S-KNL,5S-KNL II,Toxic Metals,Poor,4.22
+Cloud Ring,Assilot,5S-KNL,5S-KNL II,Supertensile Plastics,Medium,13.28
+Cloud Ring,Assilot,5S-KNL,5S-KNL II,Oxygen Isotopes,Poor,1.93
+Cloud Ring,Assilot,5S-KNL,5S-KNL III,Precious Alloy,Medium,20.96
+Cloud Ring,Assilot,5S-KNL,5S-KNL III,Industrial Fibers,Poor,4.17
+Cloud Ring,Assilot,5S-KNL,5S-KNL III,Supertensile Plastics,Poor,10.52
+Cloud Ring,Assilot,5S-KNL,5S-KNL III,Construction Blocks,Medium,24.18
+Cloud Ring,Assilot,5S-KNL,5S-KNL IV,Condensed Alloy,Perfect,33.60
+Cloud Ring,Assilot,5S-KNL,5S-KNL IV,Opulent Compound,Rich,30.88
+Cloud Ring,Assilot,5S-KNL,5S-KNL IV,Reactive Gas,Perfect,33.32
+Cloud Ring,Assilot,5S-KNL,5S-KNL IV,Noble Metals,Perfect,34.96
+Cloud Ring,Assilot,5S-KNL,5S-KNL IV,Liquid Ozone,Medium,28.00
+Cloud Ring,Assilot,5S-KNL,5S-KNL V,Gleaming Alloy,Rich,29.56
+Cloud Ring,Assilot,5S-KNL,5S-KNL V,Reactive Metals,Rich,8.03
+Cloud Ring,Assilot,5S-KNL,5S-KNL V,Construction Blocks,Poor,16.70
+Cloud Ring,Assilot,5S-KNL,5S-KNL V,Suspended Plasma,Rich,113.18
+Cloud Ring,Assilot,5S-KNL,5S-KNL VI,Reactive Gas,Rich,26.68
+Cloud Ring,Assilot,5S-KNL,5S-KNL VI,Reactive Metals,Perfect,8.58
+Cloud Ring,Assilot,5S-KNL,5S-KNL VI,Suspended Plasma,Medium,85.54
+Cloud Ring,Assilot,5S-KNL,5S-KNL VI,Oxygen Isotopes,Rich,4.03
+Cloud Ring,Assilot,5S-KNL,5S-KNL VII,Glossy Compound,Poor,17.12
+Cloud Ring,Assilot,5S-KNL,5S-KNL VII,Reactive Gas,Rich,26.28
+Cloud Ring,Assilot,5S-KNL,5S-KNL VII,Reactive Metals,Perfect,8.46
+Cloud Ring,Assilot,5S-KNL,5S-KNL VII,Polyaramids,Rich,18.99
+Cloud Ring,Assilot,5S-KNL,5S-KNL VII,Coolant,Poor,12.21
+Cloud Ring,Assilot,00TY-J,00TY-J I,Gleaming Alloy,Rich,25.92
+Cloud Ring,Assilot,00TY-J,00TY-J I,Glossy Compound,Perfect,33.76
+Cloud Ring,Assilot,00TY-J,00TY-J I,Heavy Metals,Poor,17.78
+Cloud Ring,Assilot,00TY-J,00TY-J II,Precious Alloy,Poor,16.08
+Cloud Ring,Assilot,00TY-J,00TY-J II,Dark Compound,Poor,13.38
+Cloud Ring,Assilot,00TY-J,00TY-J II,Base Metals,Medium,5.64
+Cloud Ring,Assilot,00TY-J,00TY-J II,Supertensile Plastics,Medium,14.27
+Cloud Ring,Assilot,00TY-J,00TY-J III,Lustering Alloy,Medium,19.08
+Cloud Ring,Assilot,00TY-J,00TY-J III,Supertensile Plastics,Poor,9.48
+Cloud Ring,Assilot,00TY-J,00TY-J III,Construction Blocks,Poor,18.02
+Cloud Ring,Assilot,00TY-J,00TY-J III,Silicate Glass,Medium,11.21
+Cloud Ring,Assilot,00TY-J,00TY-J IV,Gleaming Alloy,Medium,20.08
+Cloud Ring,Assilot,00TY-J,00TY-J IV,Motley Compound,Rich,29.90
+Cloud Ring,Assilot,00TY-J,00TY-J IV,Glossy Compound,Medium,18.98
+Cloud Ring,Assilot,00TY-J,00TY-J V,Fiber Composite,Rich,31.08
+Cloud Ring,Assilot,00TY-J,00TY-J V,Glossy Compound,Rich,31.10
+Cloud Ring,Assilot,00TY-J,00TY-J V,Reactive Gas,Rich,25.58
+Cloud Ring,Assilot,00TY-J,00TY-J V,Base Metals,Rich,7.64
+Cloud Ring,Assilot,00TY-J,00TY-J V,Reactive Metals,Medium,5.86
+Cloud Ring,Assilot,00TY-J,00TY-J VI,Lustering Alloy,Perfect,32.88
+Cloud Ring,Assilot,00TY-J,00TY-J VI,Reactive Gas,Medium,23.22
+Cloud Ring,Assilot,00TY-J,00TY-J VI,Base Metals,Poor,4.84
+Cloud Ring,Assilot,00TY-J,00TY-J VI,Coolant,Poor,10.95
+Cloud Ring,Assilot,00TY-J,00TY-J VI,Ionic Solutions,Medium,9.74
+Cloud Ring,Assilot,00TY-J,00TY-J VII,Sheen Compound,Rich,31.16
+Cloud Ring,Assilot,00TY-J,00TY-J VII,Fiber Composite,Rich,26.38
+Cloud Ring,Assilot,00TY-J,00TY-J VII,Reactive Gas,Rich,28.46
+Cloud Ring,Assilot,00TY-J,00TY-J VII,Base Metals,Medium,6.32
+Cloud Ring,Assilot,00TY-J,00TY-J VII,Reactive Metals,Rich,7.88
+Cloud Ring,Assilot,00TY-J,00TY-J VIII,Toxic Metals,Poor,3.72
+Cloud Ring,Assilot,00TY-J,00TY-J VIII,Supertensile Plastics,Poor,11.55
+Cloud Ring,Assilot,00TY-J,00TY-J VIII,Construction Blocks,Poor,16.54
+Cloud Ring,Assilot,00TY-J,00TY-J VIII,Plasmoids,Poor,1.09
+Cloud Ring,Assilot,XG-D1L,XG-D1L I,Lustering Alloy,Poor,15.14
+Cloud Ring,Assilot,XG-D1L,XG-D1L I,Toxic Metals,Poor,4.62
+Cloud Ring,Assilot,XG-D1L,XG-D1L I,Supertensile Plastics,Medium,15.67
+Cloud Ring,Assilot,XG-D1L,XG-D1L I,Silicate Glass,Medium,10.20
+Cloud Ring,Assilot,XG-D1L,XG-D1L II,Reactive Metals,Perfect,8.55
+Cloud Ring,Assilot,XG-D1L,XG-D1L II,Construction Blocks,Medium,24.02
+Cloud Ring,Assilot,XG-D1L,XG-D1L II,Suspended Plasma,Poor,62.64
+Cloud Ring,Assilot,XG-D1L,XG-D1L II,Oxygen Isotopes,Rich,3.90
+Cloud Ring,Assilot,XG-D1L,XG-D1L III,Dark Compound,Poor,13.64
+Cloud Ring,Assilot,XG-D1L,XG-D1L III,Toxic Metals,Medium,6.45
+Cloud Ring,Assilot,XG-D1L,XG-D1L III,Supertensile Plastics,Medium,13.19
+Cloud Ring,Assilot,XG-D1L,XG-D1L III,Construction Blocks,Poor,18.66
+Cloud Ring,Assilot,XG-D1L,XG-D1L IV,Condensed Alloy,Perfect,35.72
+Cloud Ring,Assilot,XG-D1L,XG-D1L IV,Base Metals,Perfect,9.92
+Cloud Ring,Assilot,XG-D1L,XG-D1L IV,Industrial Fibers,Medium,6.61
+Cloud Ring,Assilot,XG-D1L,XG-D1L IV,Condensates,Rich,17.87
+Cloud Ring,Assilot,XG-D1L,XG-D1L IV,Liquid Ozone,Perfect,41.60
+Cloud Ring,Assilot,XG-D1L,XG-D1L V,Lustering Alloy,Rich,29.62
+Cloud Ring,Assilot,XG-D1L,XG-D1L V,Reactive Gas,Perfect,33.10
+Cloud Ring,Assilot,XG-D1L,XG-D1L V,Base Metals,Poor,4.73
+Cloud Ring,Assilot,XG-D1L,XG-D1L V,Reactive Metals,Perfect,8.72
+Cloud Ring,Assilot,XG-D1L,XG-D1L V,Coolant,Medium,13.96
+Cloud Ring,Assilot,XG-D1L,XG-D1L VI,Lustering Alloy,Rich,28.24
+Cloud Ring,Assilot,XG-D1L,XG-D1L VI,Fiber Composite,Rich,29.52
+Cloud Ring,Assilot,XG-D1L,XG-D1L VI,Reactive Gas,Rich,26.42
+Cloud Ring,Assilot,XG-D1L,XG-D1L VI,Base Metals,Poor,4.37
+Cloud Ring,Assilot,XG-D1L,XG-D1L VI,Reactive Metals,Rich,8.33
+Cloud Ring,Assilot,XG-D1L,XG-D1L VII,Condensed Alloy,Rich,26.78
+Cloud Ring,Assilot,XG-D1L,XG-D1L VII,Fiber Composite,Medium,20.66
+Cloud Ring,Assilot,XG-D1L,XG-D1L VII,Industrial Fibers,Perfect,9.64
+Cloud Ring,Assilot,XG-D1L,XG-D1L VII,Smartfab Units,Medium,16.20
+Cloud Ring,Assilot,XG-D1L,XG-D1L VII,Liquid Ozone,Perfect,43.52
+Cloud Ring,Assilot,6RCQ-V,6RCQ-V I,Lustering Alloy,Poor,16.04
+Cloud Ring,Assilot,6RCQ-V,6RCQ-V I,Industrial Fibers,Poor,3.56
+Cloud Ring,Assilot,6RCQ-V,6RCQ-V I,Supertensile Plastics,Medium,16.29
+Cloud Ring,Assilot,6RCQ-V,6RCQ-V I,Oxygen Isotopes,Medium,2.98
+Cloud Ring,Assilot,6RCQ-V,6RCQ-V II,Toxic Metals,Medium,6.01
+Cloud Ring,Assilot,6RCQ-V,6RCQ-V II,Industrial Fibers,Medium,5.79
+Cloud Ring,Assilot,6RCQ-V,6RCQ-V II,Supertensile Plastics,Medium,12.61
+Cloud Ring,Assilot,6RCQ-V,6RCQ-V II,Plasmoids,Medium,1.40
+Cloud Ring,Assilot,6RCQ-V,6RCQ-V III,Precious Alloy,Poor,15.60
+Cloud Ring,Assilot,6RCQ-V,6RCQ-V III,Supertensile Plastics,Medium,15.28
+Cloud Ring,Assilot,6RCQ-V,6RCQ-V III,Silicate Glass,Poor,7.93
+Cloud Ring,Assilot,6RCQ-V,6RCQ-V III,Oxygen Isotopes,Medium,3.49
+Cloud Ring,Assilot,6RCQ-V,6RCQ-V IV,Fiber Composite,Medium,23.38
+Cloud Ring,Assilot,6RCQ-V,6RCQ-V IV,Reactive Gas,Rich,29.96
+Cloud Ring,Assilot,6RCQ-V,6RCQ-V IV,Industrial Fibers,Medium,6.50
+Cloud Ring,Assilot,6RCQ-V,6RCQ-V IV,Heavy Water,Medium,208.60
+Cloud Ring,Assilot,6RCQ-V,6RCQ-V IV,Liquid Ozone,Medium,25.75
+Cloud Ring,Assilot,6RCQ-V,6RCQ-V V,Condensed Alloy,Perfect,33.22
+Cloud Ring,Assilot,6RCQ-V,6RCQ-V V,Opulent Compound,Perfect,32.84
+Cloud Ring,Assilot,6RCQ-V,6RCQ-V V,Toxic Metals,Medium,6.59
+Cloud Ring,Assilot,6RCQ-V,6RCQ-V V,Silicate Glass,Perfect,16.97
+Cloud Ring,Assilot,6RCQ-V,6RCQ-V V,Liquid Ozone,Perfect,40.13
+Cloud Ring,Assilot,6RCQ-V,6RCQ-V VI,Dark Compound,Poor,18.32
+Cloud Ring,Assilot,6RCQ-V,6RCQ-V VI,Base Metals,Poor,4.73
+Cloud Ring,Assilot,6RCQ-V,6RCQ-V VI,Industrial Fibers,Medium,5.42
+Cloud Ring,Assilot,6RCQ-V,6RCQ-V VI,Supertensile Plastics,Medium,13.97
+Cloud Ring,Assilot,6RCQ-V,6RCQ-V VII,Sheen Compound,Medium,22.82
+Cloud Ring,Assilot,6RCQ-V,6RCQ-V VII,Glossy Compound,Rich,28.66
+Cloud Ring,Assilot,6RCQ-V,6RCQ-V VII,Reactive Gas,Rich,26.02
+Cloud Ring,Assilot,6RCQ-V,6RCQ-V VII,Base Metals,Medium,6.54
+Cloud Ring,Assilot,6RCQ-V,6RCQ-V VII,Polyaramids,Rich,17.09
+Cloud Ring,Assilot,6RCQ-V,6RCQ-V VIII,Sheen Compound,Medium,20.12
+Cloud Ring,Assilot,6RCQ-V,6RCQ-V VIII,Fiber Composite,Rich,31.16
+Cloud Ring,Assilot,6RCQ-V,6RCQ-V VIII,Reactive Gas,Rich,25.92
+Cloud Ring,Assilot,6RCQ-V,6RCQ-V VIII,Noble Gas,Medium,22.32
+Cloud Ring,Assilot,6RCQ-V,6RCQ-V VIII,Coolant,Rich,16.88
+Cloud Ring,Miennue,28O-JY,28O-JY I,Base Metals,Poor,4.90
+Cloud Ring,Miennue,28O-JY,28O-JY I,Toxic Metals,Medium,5.06
+Cloud Ring,Miennue,28O-JY,28O-JY I,Supertensile Plastics,Medium,13.73
+Cloud Ring,Miennue,28O-JY,28O-JY I,Oxygen Isotopes,Poor,2.58
+Cloud Ring,Miennue,28O-JY,28O-JY II,Lustering Alloy,Poor,12.40
+Cloud Ring,Miennue,28O-JY,28O-JY II,Base Metals,Poor,3.50
+Cloud Ring,Miennue,28O-JY,28O-JY II,Industrial Fibers,Poor,4.47
+Cloud Ring,Miennue,28O-JY,28O-JY II,Supertensile Plastics,Poor,9.44
+Cloud Ring,Miennue,28O-JY,28O-JY III,Gleaming Alloy,Medium,21.62
+Cloud Ring,Miennue,28O-JY,28O-JY III,Reactive Metals,Medium,5.35
+Cloud Ring,Miennue,28O-JY,28O-JY III,Supertensile Plastics,Rich,20.76
+Cloud Ring,Miennue,28O-JY,28O-JY III,Nanites,Medium,5.92
+Cloud Ring,Miennue,28O-JY,28O-JY IV,Condensed Alloy,Perfect,34.08
+Cloud Ring,Miennue,28O-JY,28O-JY IV,Crystal Compound,Medium,20.52
+Cloud Ring,Miennue,28O-JY,28O-JY IV,Noble Metals,Perfect,32.26
+Cloud Ring,Miennue,28O-JY,28O-JY IV,Liquid Ozone,Rich,32.02
+Cloud Ring,Miennue,28O-JY,28O-JY IV,Ionic Solutions,Perfect,13.32
+Cloud Ring,Miennue,28O-JY,28O-JY V,Condensed Alloy,Perfect,34.18
+Cloud Ring,Miennue,28O-JY,28O-JY V,Fiber Composite,Rich,27.30
+Cloud Ring,Miennue,28O-JY,28O-JY V,Reactive Gas,Medium,23.38
+Cloud Ring,Miennue,28O-JY,28O-JY V,Heavy Water,Medium,239.20
+Cloud Ring,Miennue,28O-JY,28O-JY V,Liquid Ozone,Rich,37.02
+Cloud Ring,Miennue,28O-JY,28O-JY VI,Lustering Alloy,Poor,17.14
+Cloud Ring,Miennue,28O-JY,28O-JY VI,Base Metals,Poor,3.50
+Cloud Ring,Miennue,28O-JY,28O-JY VI,Supertensile Plastics,Medium,14.33
+Cloud Ring,Miennue,28O-JY,28O-JY VI,Construction Blocks,Medium,19.90
+Cloud Ring,Miennue,28O-JY,28O-JY VII,Gleaming Alloy,Rich,30.28
+Cloud Ring,Miennue,28O-JY,28O-JY VII,Lucent Compound,Medium,19.14
+Cloud Ring,Miennue,28O-JY,28O-JY VII,Reactive Gas,Rich,28.64
+Cloud Ring,Miennue,28O-JY,28O-JY VII,Reactive Metals,Rich,8.26
+Cloud Ring,Miennue,28O-JY,28O-JY VIII,Reactive Gas,Perfect,34.24
+Cloud Ring,Miennue,28O-JY,28O-JY VIII,Noble Metals,Medium,19.08
+Cloud Ring,Miennue,28O-JY,28O-JY VIII,Smartfab Units,Medium,14.85
+Cloud Ring,Miennue,28O-JY,28O-JY VIII,Heavy Water,Perfect,376.80
+Cloud Ring,Miennue,28O-JY,28O-JY VIII,Liquid Ozone,Rich,34.85
+Cloud Ring,Miennue,28O-JY,28O-JY IX,Lustering Alloy,Rich,27.06
+Cloud Ring,Miennue,28O-JY,28O-JY IX,Sheen Compound,Rich,27.58
+Cloud Ring,Miennue,28O-JY,28O-JY IX,Glossy Compound,Medium,24.48
+Cloud Ring,Miennue,28O-JY,28O-JY IX,Reactive Gas,Medium,19.14
+Cloud Ring,Miennue,28O-JY,28O-JY IX,Reactive Metals,Rich,6.75
+Cloud Ring,Miennue,CX7-70,CX7-70 I,Lucent Compound,Rich,25.48
+Cloud Ring,Miennue,CX7-70,CX7-70 I,Dark Compound,Rich,26.60
+Cloud Ring,Miennue,CX7-70,CX7-70 I,Condensates,Rich,17.93
+Cloud Ring,Miennue,CX7-70,CX7-70 I,Suspended Plasma,Perfect,119.95
+Cloud Ring,Miennue,CX7-70,CX7-70 I,Ionic Solutions,Medium,9.81
+Cloud Ring,Miennue,CX7-70,CX7-70 II,Toxic Metals,Poor,4.40
+Cloud Ring,Miennue,CX7-70,CX7-70 II,Supertensile Plastics,Medium,15.20
+Cloud Ring,Miennue,CX7-70,CX7-70 II,Silicate Glass,Medium,11.20
+Cloud Ring,Miennue,CX7-70,CX7-70 II,Plasmoids,Medium,1.42
+Cloud Ring,Miennue,CX7-70,CX7-70 III,Dark Compound,Poor,16.58
+Cloud Ring,Miennue,CX7-70,CX7-70 III,Supertensile Plastics,Poor,8.29
+Cloud Ring,Miennue,CX7-70,CX7-70 III,Oxygen Isotopes,Poor,2.58
+Cloud Ring,Miennue,CX7-70,CX7-70 III,Plasmoids,Medium,1.27
+Cloud Ring,Miennue,CX7-70,CX7-70 IV,Condensed Alloy,Rich,31.24
+Cloud Ring,Miennue,CX7-70,CX7-70 IV,Base Metals,Poor,4.93
+Cloud Ring,Miennue,CX7-70,CX7-70 IV,Smartfab Units,Medium,13.00
+Cloud Ring,Miennue,CX7-70,CX7-70 IV,Heavy Water,Perfect,343.60
+Cloud Ring,Miennue,CX7-70,CX7-70 IV,Liquid Ozone,Perfect,44.83
+Cloud Ring,Miennue,CX7-70,CX7-70 V,Opulent Compound,Rich,28.06
+Cloud Ring,Miennue,CX7-70,CX7-70 V,Crystal Compound,Medium,22.28
+Cloud Ring,Miennue,CX7-70,CX7-70 V,Toxic Metals,Medium,5.23
+Cloud Ring,Miennue,CX7-70,CX7-70 V,Liquid Ozone,Perfect,39.83
+Cloud Ring,Miennue,CX7-70,CX7-70 V,Ionic Solutions,Rich,12.16
+Cloud Ring,Miennue,CX7-70,CX7-70 VI,Lustering Alloy,Rich,30.88
+Cloud Ring,Miennue,CX7-70,CX7-70 VI,Sheen Compound,Medium,21.48
+Cloud Ring,Miennue,CX7-70,CX7-70 VI,Reactive Gas,Poor,18.56
+Cloud Ring,Miennue,CX7-70,CX7-70 VI,Polyaramids,Rich,18.91
+Cloud Ring,Miennue,CX7-70,CX7-70 VI,Ionic Solutions,Rich,10.26
+Cloud Ring,Miennue,CX7-70,CX7-70 VII,Sheen Compound,Medium,19.98
+Cloud Ring,Miennue,CX7-70,CX7-70 VII,Glossy Compound,Rich,26.12
+Cloud Ring,Miennue,CX7-70,CX7-70 VII,Reactive Gas,Rich,25.50
+Cloud Ring,Miennue,CX7-70,CX7-70 VII,Polyaramids,Medium,16.41
+Cloud Ring,Miennue,CX7-70,CX7-70 VII,Coolant,Medium,13.71
+Cloud Ring,Miennue,CX7-70,CX7-70 VIII,Fiber Composite,Medium,21.82
+Cloud Ring,Miennue,CX7-70,CX7-70 VIII,Reactive Gas,Rich,27.14
+Cloud Ring,Miennue,CX7-70,CX7-70 VIII,Base Metals,Rich,7.77
+Cloud Ring,Miennue,CX7-70,CX7-70 VIII,Reactive Metals,Poor,4.60
+Cloud Ring,Miennue,CX7-70,CX7-70 VIII,Ionic Solutions,Medium,8.78
+Cloud Ring,Miennue,6ON-RW,6ON-RW I,Lucent Compound,Rich,28.94
+Cloud Ring,Miennue,6ON-RW,6ON-RW I,Heavy Metals,Rich,25.48
+Cloud Ring,Miennue,6ON-RW,6ON-RW I,Reactive Metals,Medium,5.67
+Cloud Ring,Miennue,6ON-RW,6ON-RW I,Condensates,Medium,13.03
+Cloud Ring,Miennue,6ON-RW,6ON-RW I,Ionic Solutions,Poor,7.40
+Cloud Ring,Miennue,6ON-RW,6ON-RW II,Lustering Alloy,Medium,21.60
+Cloud Ring,Miennue,6ON-RW,6ON-RW II,Precious Alloy,Medium,19.92
+Cloud Ring,Miennue,6ON-RW,6ON-RW II,Dark Compound,Medium,20.96
+Cloud Ring,Miennue,6ON-RW,6ON-RW II,Supertensile Plastics,Medium,14.95
+Cloud Ring,Miennue,6ON-RW,6ON-RW III,Fiber Composite,Medium,19.62
+Cloud Ring,Miennue,6ON-RW,6ON-RW III,Noble Metals,Poor,18.82
+Cloud Ring,Miennue,6ON-RW,6ON-RW III,Industrial Fibers,Perfect,8.96
+Cloud Ring,Miennue,6ON-RW,6ON-RW III,Smartfab Units,Perfect,25.01
+Cloud Ring,Miennue,6ON-RW,6ON-RW III,Liquid Ozone,Perfect,46.88
+Cloud Ring,Miennue,6ON-RW,6ON-RW IV,Condensed Alloy,Rich,30.42
+Cloud Ring,Miennue,6ON-RW,6ON-RW IV,Opulent Compound,Perfect,35.20
+Cloud Ring,Miennue,6ON-RW,6ON-RW IV,Industrial Fibers,Perfect,8.51
+Cloud Ring,Miennue,6ON-RW,6ON-RW IV,Smartfab Units,Medium,14.01
+Cloud Ring,Miennue,6ON-RW,6ON-RW IV,Liquid Ozone,Medium,24.10
+Cloud Ring,Miennue,6ON-RW,6ON-RW V,Lustering Alloy,Medium,21.04
+Cloud Ring,Miennue,6ON-RW,6ON-RW V,Sheen Compound,Poor,16.86
+Cloud Ring,Miennue,6ON-RW,6ON-RW V,Reactive Gas,Rich,28.66
+Cloud Ring,Miennue,6ON-RW,6ON-RW V,Noble Gas,Rich,30.56
+Cloud Ring,Miennue,6ON-RW,6ON-RW V,Coolant,Rich,19.35
+Cloud Ring,Miennue,6ON-RW,6ON-RW VI,Sheen Compound,Medium,20.06
+Cloud Ring,Miennue,6ON-RW,6ON-RW VI,Reactive Gas,Rich,29.88
+Cloud Ring,Miennue,6ON-RW,6ON-RW VI,Noble Gas,Medium,19.38
+Cloud Ring,Miennue,6ON-RW,6ON-RW VI,Base Metals,Rich,7.90
+Cloud Ring,Miennue,6ON-RW,6ON-RW VI,Polyaramids,Perfect,22.00
+Cloud Ring,Miennue,6ON-RW,6ON-RW VII,Precious Alloy,Medium,19.70
+Cloud Ring,Miennue,6ON-RW,6ON-RW VII,Supertensile Plastics,Medium,13.12
+Cloud Ring,Miennue,6ON-RW,6ON-RW VII,Condensates,Poor,12.55
+Cloud Ring,Miennue,6ON-RW,6ON-RW VII,Suspended Plasma,Medium,87.84
+Cloud Ring,Miennue,U65-CN,U65-CN I,Gleaming Alloy,Rich,27.06
+Cloud Ring,Miennue,U65-CN,U65-CN I,Construction Blocks,Poor,17.28
+Cloud Ring,Miennue,U65-CN,U65-CN I,Plasmoids,Poor,0.97
+Cloud Ring,Miennue,U65-CN,U65-CN II,Dark Compound,Medium,21.78
+Cloud Ring,Miennue,U65-CN,U65-CN II,Base Metals,Medium,5.70
+Cloud Ring,Miennue,U65-CN,U65-CN II,Industrial Fibers,Medium,5.01
+Cloud Ring,Miennue,U65-CN,U65-CN II,Supertensile Plastics,Poor,10.07
+Cloud Ring,Miennue,U65-CN,U65-CN III,Opulent Compound,Rich,28.78
+Cloud Ring,Miennue,U65-CN,U65-CN III,Base Metals,Perfect,9.07
+Cloud Ring,Miennue,U65-CN,U65-CN III,Industrial Fibers,Medium,5.31
+Cloud Ring,Miennue,U65-CN,U65-CN III,Condensates,Medium,16.16
+Cloud Ring,Miennue,U65-CN,U65-CN III,Liquid Ozone,Rich,32.80
+Cloud Ring,Miennue,U65-CN,U65-CN IV,Sheen Compound,Rich,27.46
+Cloud Ring,Miennue,U65-CN,U65-CN IV,Fiber Composite,Medium,22.34
+Cloud Ring,Miennue,U65-CN,U65-CN IV,Glossy Compound,Poor,16.46
+Cloud Ring,Miennue,U65-CN,U65-CN IV,Reactive Gas,Rich,28.48
+Cloud Ring,Miennue,U65-CN,U65-CN IV,Base Metals,Rich,7.86
+Cloud Ring,Miennue,U65-CN,U65-CN V,Fiber Composite,Medium,19.72
+Cloud Ring,Miennue,U65-CN,U65-CN V,Reactive Gas,Poor,18.56
+Cloud Ring,Miennue,U65-CN,U65-CN V,Reactive Metals,Medium,5.48
+Cloud Ring,Miennue,U65-CN,U65-CN V,Polyaramids,Medium,16.12
+Cloud Ring,Miennue,U65-CN,U65-CN V,Ionic Solutions,Medium,8.47
+Cloud Ring,Miennue,U65-CN,U65-CN VI,Lustering Alloy,Rich,27.58
+Cloud Ring,Miennue,U65-CN,U65-CN VI,Sheen Compound,Rich,26.70
+Cloud Ring,Miennue,U65-CN,U65-CN VI,Glossy Compound,Rich,26.66
+Cloud Ring,Miennue,U65-CN,U65-CN VI,Reactive Gas,Rich,25.78
+Cloud Ring,Miennue,U65-CN,U65-CN VI,Ionic Solutions,Medium,7.66
+Cloud Ring,Miennue,U65-CN,U65-CN VII,Lustering Alloy,Rich,28.38
+Cloud Ring,Miennue,U65-CN,U65-CN VII,Precious Alloy,Rich,29.52
+Cloud Ring,Miennue,U65-CN,U65-CN VII,Supertensile Plastics,Medium,16.35
+Cloud Ring,Miennue,U65-CN,U65-CN VII,Condensates,Medium,16.52
+Cloud Ring,Miennue,U65-CN,U65-CN VIII,Lustering Alloy,Poor,14.94
+Cloud Ring,Miennue,U65-CN,U65-CN VIII,Precious Alloy,Poor,18.02
+Cloud Ring,Miennue,U65-CN,U65-CN VIII,Supertensile Plastics,Medium,13.84
+Cloud Ring,Miennue,U65-CN,U65-CN VIII,Silicate Glass,Medium,10.52
+Cloud Ring,Miennue,U65-CN,U65-CN IX,Precious Alloy,Medium,22.78
+Cloud Ring,Miennue,U65-CN,U65-CN IX,Toxic Metals,Poor,4.75
+Cloud Ring,Miennue,U65-CN,U65-CN IX,Supertensile Plastics,Medium,13.49
+Cloud Ring,Miennue,U65-CN,U65-CN IX,Plasmoids,Medium,1.25
+Cloud Ring,Miennue,X-M9ON,X-M9ON I,Toxic Metals,Medium,6.14
+Cloud Ring,Miennue,X-M9ON,X-M9ON I,Supertensile Plastics,Medium,15.93
+Cloud Ring,Miennue,X-M9ON,X-M9ON I,Silicate Glass,Medium,10.46
+Cloud Ring,Miennue,X-M9ON,X-M9ON I,Plasmoids,Poor,1.10
+Cloud Ring,Miennue,X-M9ON,X-M9ON II,Precious Alloy,Medium,19.28
+Cloud Ring,Miennue,X-M9ON,X-M9ON II,Dark Compound,Medium,21.64
+Cloud Ring,Miennue,X-M9ON,X-M9ON II,Supertensile Plastics,Medium,15.65
+Cloud Ring,Miennue,X-M9ON,X-M9ON II,Silicate Glass,Poor,8.61
+Cloud Ring,Miennue,X-M9ON,X-M9ON III,Glossy Compound,Poor,18.44
+Cloud Ring,Miennue,X-M9ON,X-M9ON III,Reactive Gas,Medium,24.92
+Cloud Ring,Miennue,X-M9ON,X-M9ON III,Polyaramids,Medium,15.92
+Cloud Ring,Miennue,X-M9ON,X-M9ON III,Coolant,Rich,18.25
+Cloud Ring,Miennue,X-M9ON,X-M9ON III,Ionic Solutions,Rich,10.57
+Cloud Ring,Miennue,X-M9ON,X-M9ON IV,Lustering Alloy,Rich,25.80
+Cloud Ring,Miennue,X-M9ON,X-M9ON IV,Glossy Compound,Rich,29.42
+Cloud Ring,Miennue,X-M9ON,X-M9ON IV,Reactive Gas,Medium,23.86
+Cloud Ring,Miennue,X-M9ON,X-M9ON IV,Base Metals,Rich,7.69
+Cloud Ring,Miennue,X-M9ON,X-M9ON IV,Polyaramids,Medium,13.21
+Cloud Ring,Miennue,X-M9ON,X-M9ON V,Motley Compound,Poor,18.10
+Cloud Ring,Miennue,X-M9ON,X-M9ON V,Industrial Fibers,Medium,5.31
+Cloud Ring,Miennue,X-M9ON,X-M9ON V,Coolant,Poor,9.72
+Cloud Ring,Miennue,X-M9ON,X-M9ON V,Condensates,Medium,14.23
+Cloud Ring,Miennue,X-M9ON,X-M9ON VI,Lustering Alloy,Medium,21.46
+Cloud Ring,Miennue,X-M9ON,X-M9ON VI,Toxic Metals,Medium,5.48
+Cloud Ring,Miennue,X-M9ON,X-M9ON VI,Supertensile Plastics,Medium,15.81
+Cloud Ring,Miennue,X-M9ON,X-M9ON VI,Silicate Glass,Poor,6.27
+Cloud Ring,Miennue,P5-KCC,P5-KCC I,Gleaming Alloy,Medium,20.84
+Cloud Ring,Miennue,P5-KCC,P5-KCC I,Heavy Metals,Perfect,33.70
+Cloud Ring,Miennue,P5-KCC,P5-KCC I,Construction Blocks,Poor,16.56
+Cloud Ring,Miennue,P5-KCC,P5-KCC II,Dark Compound,Medium,23.38
+Cloud Ring,Miennue,P5-KCC,P5-KCC II,Base Metals,Poor,3.65
+Cloud Ring,Miennue,P5-KCC,P5-KCC II,Supertensile Plastics,Poor,8.83
+Cloud Ring,Miennue,P5-KCC,P5-KCC II,Oxygen Isotopes,Medium,3.56
+Cloud Ring,Miennue,P5-KCC,P5-KCC III,Dark Compound,Poor,13.70
+Cloud Ring,Miennue,P5-KCC,P5-KCC III,Toxic Metals,Poor,4.61
+Cloud Ring,Miennue,P5-KCC,P5-KCC III,Supertensile Plastics,Poor,9.25
+Cloud Ring,Miennue,P5-KCC,P5-KCC III,Oxygen Isotopes,Poor,2.65
+Cloud Ring,Miennue,P5-KCC,P5-KCC IV,Opulent Compound,Rich,29.22
+Cloud Ring,Miennue,P5-KCC,P5-KCC IV,Base Metals,Medium,5.67
+Cloud Ring,Miennue,P5-KCC,P5-KCC IV,Industrial Fibers,Perfect,9.75
+Cloud Ring,Miennue,P5-KCC,P5-KCC IV,Condensates,Perfect,22.88
+Cloud Ring,Miennue,P5-KCC,P5-KCC IV,Liquid Ozone,Medium,28.50
+Cloud Ring,Miennue,P5-KCC,P5-KCC V,Dark Compound,Poor,17.34
+Cloud Ring,Miennue,P5-KCC,P5-KCC V,Industrial Fibers,Medium,6.13
+Cloud Ring,Miennue,P5-KCC,P5-KCC V,Supertensile Plastics,Poor,10.41
+Cloud Ring,Miennue,P5-KCC,P5-KCC V,Plasmoids,Medium,1.24
+Cloud Ring,Miennue,P5-KCC,P5-KCC VI,Lustering Alloy,Medium,19.14
+Cloud Ring,Miennue,P5-KCC,P5-KCC VI,Base Metals,Poor,3.88
+Cloud Ring,Miennue,P5-KCC,P5-KCC VI,Toxic Metals,Poor,4.77
+Cloud Ring,Miennue,P5-KCC,P5-KCC VI,Supertensile Plastics,Medium,14.61
+Cloud Ring,Miennue,P5-KCC,P5-KCC VII,Reactive Gas,Poor,18.70
+Cloud Ring,Miennue,P5-KCC,P5-KCC VII,Noble Metals,Rich,26.28
+Cloud Ring,Miennue,P5-KCC,P5-KCC VII,Industrial Fibers,Perfect,10.05
+Cloud Ring,Miennue,P5-KCC,P5-KCC VII,Condensates,Medium,14.87
+Cloud Ring,Miennue,P5-KCC,P5-KCC VII,Liquid Ozone,Perfect,43.30
+Cloud Ring,Miennue,P5-KCC,P5-KCC VIII,Lustering Alloy,Rich,28.94
+Cloud Ring,Miennue,P5-KCC,P5-KCC VIII,Sheen Compound,Rich,28.86
+Cloud Ring,Miennue,P5-KCC,P5-KCC VIII,Reactive Gas,Medium,23.12
+Cloud Ring,Miennue,P5-KCC,P5-KCC VIII,Base Metals,Rich,6.92
+Cloud Ring,Miennue,P5-KCC,P5-KCC VIII,Reactive Metals,Medium,5.74
+Cloud Ring,Miennue,P5-KCC,P5-KCC IX,Lustering Alloy,Rich,26.54
+Cloud Ring,Miennue,P5-KCC,P5-KCC IX,Fiber Composite,Rich,27.64
+Cloud Ring,Miennue,P5-KCC,P5-KCC IX,Reactive Gas,Medium,23.02
+Cloud Ring,Miennue,P5-KCC,P5-KCC IX,Base Metals,Medium,5.30
+Cloud Ring,Miennue,P5-KCC,P5-KCC IX,Coolant,Rich,17.67

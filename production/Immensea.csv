@@ -1,0 +1,3196 @@
+Region,Constellation,System,Name,Item,Rate,Output
+Immensea,Q-IPAA,NS2L-4,NS2L-4 I,Lustering Alloy,Poor,15.82
+Immensea,Q-IPAA,NS2L-4,NS2L-4 I,Dark Compound,Medium,29.48
+Immensea,Q-IPAA,NS2L-4,NS2L-4 I,Industrial Fibers,Medium,6.72
+Immensea,Q-IPAA,NS2L-4,NS2L-4 I,Construction Blocks,Poor,21.70
+Immensea,Q-IPAA,NS2L-4,NS2L-4 I,Oxygen Isotopes,Medium,4.34
+Immensea,Q-IPAA,NS2L-4,NS2L-4 II,Crystal Compound,Rich,37.80
+Immensea,Q-IPAA,NS2L-4,NS2L-4 II,Reactive Gas,Rich,31.98
+Immensea,Q-IPAA,NS2L-4,NS2L-4 II,Toxic Metals,Rich,9.70
+Immensea,Q-IPAA,NS2L-4,NS2L-4 II,Nanites,Medium,6.79
+Immensea,Q-IPAA,NS2L-4,NS2L-4 II,Suspended Plasma,Medium,86.13
+Immensea,Q-IPAA,NS2L-4,NS2L-4 III,Lustering Alloy,Medium,28.95
+Immensea,Q-IPAA,NS2L-4,NS2L-4 III,Sheen Compound,Rich,32.58
+Immensea,Q-IPAA,NS2L-4,NS2L-4 III,Reactive Gas,Rich,38.38
+Immensea,Q-IPAA,NS2L-4,NS2L-4 III,Noble Gas,Poor,21.88
+Immensea,Q-IPAA,NS2L-4,NS2L-4 III,Base Metals,Medium,6.44
+Immensea,Q-IPAA,NS2L-4,NS2L-4 III,Coolant,Rich,23.68
+Immensea,Q-IPAA,NS2L-4,NS2L-4 IV,Fiber Composite,Poor,22.10
+Immensea,Q-IPAA,NS2L-4,NS2L-4 IV,Base Metals,Medium,7.53
+Immensea,Q-IPAA,NS2L-4,NS2L-4 IV,Reactive Metals,Medium,6.74
+Immensea,Q-IPAA,NS2L-4,NS2L-4 IV,Polyaramids,Poor,15.38
+Immensea,Q-IPAA,NS2L-4,NS2L-4 IV,Coolant,Poor,14.67
+Immensea,Q-IPAA,NS2L-4,NS2L-4 IV,Ionic Solutions,Medium,10.61
+Immensea,Q-IPAA,NS2L-4,NS2L-4 V,Lustering Alloy,Medium,30.73
+Immensea,Q-IPAA,NS2L-4,NS2L-4 V,Reactive Gas,Rich,34.33
+Immensea,Q-IPAA,NS2L-4,NS2L-4 V,Noble Gas,Perfect,39.73
+Immensea,Q-IPAA,NS2L-4,NS2L-4 V,Polyaramids,Rich,24.37
+Immensea,Q-IPAA,NS2L-4,NS2L-4 V,Coolant,Medium,16.98
+Immensea,Q-IPAA,NS2L-4,NS2L-4 V,Ionic Solutions,Perfect,16.02
+Immensea,Q-IPAA,NS2L-4,NS2L-4 VI,Precious Alloy,Medium,26.45
+Immensea,Q-IPAA,NS2L-4,NS2L-4 VI,Dark Compound,Poor,22.63
+Immensea,Q-IPAA,NS2L-4,NS2L-4 VI,Base Metals,Poor,5.91
+Immensea,Q-IPAA,NS2L-4,NS2L-4 VI,Silicate Glass,Medium,15.20
+Immensea,Q-IPAA,NS2L-4,NS2L-4 VI,Oxygen Isotopes,Medium,3.72
+Immensea,Q-IPAA,QI-S9W,QI-S9W I,Base Metals,Poor,4.86
+Immensea,Q-IPAA,QI-S9W,QI-S9W I,Industrial Fibers,Medium,6.79
+Immensea,Q-IPAA,QI-S9W,QI-S9W I,Supertensile Plastics,Poor,11.15
+Immensea,Q-IPAA,QI-S9W,QI-S9W I,Construction Blocks,Medium,21.73
+Immensea,Q-IPAA,QI-S9W,QI-S9W II,Lustering Alloy,Poor,14.58
+Immensea,Q-IPAA,QI-S9W,QI-S9W II,Precious Alloy,Medium,23.51
+Immensea,Q-IPAA,QI-S9W,QI-S9W II,Supertensile Plastics,Poor,9.57
+Immensea,Q-IPAA,QI-S9W,QI-S9W II,Construction Blocks,Medium,26.45
+Immensea,Q-IPAA,QI-S9W,QI-S9W III,Precious Alloy,Poor,17.69
+Immensea,Q-IPAA,QI-S9W,QI-S9W III,Industrial Fibers,Medium,6.62
+Immensea,Q-IPAA,QI-S9W,QI-S9W III,Supertensile Plastics,Medium,14.81
+Immensea,Q-IPAA,QI-S9W,QI-S9W III,Silicate Glass,Poor,10.19
+Immensea,Q-IPAA,QI-S9W,QI-S9W IV,Lustering Alloy,Poor,14.58
+Immensea,Q-IPAA,QI-S9W,QI-S9W IV,Base Metals,Poor,4.81
+Immensea,Q-IPAA,QI-S9W,QI-S9W IV,Supertensile Plastics,Medium,18.68
+Immensea,Q-IPAA,QI-S9W,QI-S9W IV,Silicate Glass,Poor,7.23
+Immensea,Q-IPAA,QI-S9W,QI-S9W V,Base Metals,Medium,6.02
+Immensea,Q-IPAA,QI-S9W,QI-S9W V,Noble Metals,Rich,35.70
+Immensea,Q-IPAA,QI-S9W,QI-S9W V,Industrial Fibers,Medium,6.65
+Immensea,Q-IPAA,QI-S9W,QI-S9W V,Heavy Water,Rich,361.10
+Immensea,Q-IPAA,QI-S9W,QI-S9W V,Liquid Ozone,Medium,31.60
+Immensea,Q-IPAA,QI-S9W,QI-S9W VI,Condensed Alloy,Perfect,38.23
+Immensea,Q-IPAA,QI-S9W,QI-S9W VI,Fiber Composite,Rich,33.72
+Immensea,Q-IPAA,QI-S9W,QI-S9W VI,Opulent Compound,Rich,31.79
+Immensea,Q-IPAA,QI-S9W,QI-S9W VI,Noble Metals,Perfect,42.09
+Immensea,Q-IPAA,QI-S9W,QI-S9W VI,Liquid Ozone,Rich,37.43
+Immensea,Q-IPAA,QI-S9W,QI-S9W VII,Opulent Compound,Medium,23.44
+Immensea,Q-IPAA,QI-S9W,QI-S9W VII,Crystal Compound,Perfect,39.90
+Immensea,Q-IPAA,QI-S9W,QI-S9W VII,Noble Metals,Medium,21.80
+Immensea,Q-IPAA,QI-S9W,QI-S9W VII,Coolant,Medium,16.04
+Immensea,Q-IPAA,QI-S9W,QI-S9W VII,Liquid Ozone,Medium,28.35
+Immensea,Q-IPAA,QI-S9W,QI-S9W VIII,Lustering Alloy,Medium,26.63
+Immensea,Q-IPAA,QI-S9W,QI-S9W VIII,Fiber Composite,Poor,19.32
+Immensea,Q-IPAA,QI-S9W,QI-S9W VIII,Reactive Gas,Medium,28.04
+Immensea,Q-IPAA,QI-S9W,QI-S9W VIII,Noble Gas,Rich,34.61
+Immensea,Q-IPAA,QI-S9W,QI-S9W VIII,Polyaramids,Medium,15.89
+Immensea,Q-IPAA,QI-S9W,QI-S9W IX,Sheen Compound,Poor,21.64
+Immensea,Q-IPAA,QI-S9W,QI-S9W IX,Reactive Gas,Medium,24.38
+Immensea,Q-IPAA,QI-S9W,QI-S9W IX,Noble Gas,Medium,28.13
+Immensea,Q-IPAA,QI-S9W,QI-S9W IX,Reactive Metals,Medium,7.66
+Immensea,Q-IPAA,QI-S9W,QI-S9W IX,Coolant,Rich,19.84
+Immensea,Q-IPAA,B-S347,B-S347 I,Dark Compound,Poor,22.27
+Immensea,Q-IPAA,B-S347,B-S347 I,Toxic Metals,Medium,6.49
+Immensea,Q-IPAA,B-S347,B-S347 I,Construction Blocks,Poor,22.93
+Immensea,Q-IPAA,B-S347,B-S347 I,Oxygen Isotopes,Poor,3.17
+Immensea,Q-IPAA,B-S347,B-S347 I,Plasmoids,Medium,1.61
+Immensea,Q-IPAA,B-S347,B-S347 II,Motley Compound,Medium,27.25
+Immensea,Q-IPAA,B-S347,B-S347 II,Glossy Compound,Poor,22.85
+Immensea,Q-IPAA,B-S347,B-S347 II,Construction Blocks,Medium,23.90
+Immensea,Q-IPAA,B-S347,B-S347 II,Oxygen Isotopes,Rich,5.89
+Immensea,Q-IPAA,B-S347,B-S347 III,Gleaming Alloy,Poor,20.70
+Immensea,Q-IPAA,B-S347,B-S347 III,Glossy Compound,Perfect,40.13
+Immensea,Q-IPAA,B-S347,B-S347 III,Noble Gas,Medium,29.20
+Immensea,Q-IPAA,B-S347,B-S347 III,Construction Blocks,Medium,28.50
+Immensea,Q-IPAA,B-S347,B-S347 IV,Crystal Compound,Rich,34.30
+Immensea,Q-IPAA,B-S347,B-S347 IV,Noble Metals,Rich,38.08
+Immensea,Q-IPAA,B-S347,B-S347 IV,Toxic Metals,Rich,9.49
+Immensea,Q-IPAA,B-S347,B-S347 IV,Polyaramids,Rich,23.12
+Immensea,Q-IPAA,B-S347,B-S347 IV,Silicate Glass,Medium,13.79
+Immensea,Q-IPAA,B-S347,B-S347 IV,Ionic Solutions,Rich,13.87
+Immensea,Q-IPAA,B-S347,B-S347 V,Dark Compound,Poor,20.27
+Immensea,Q-IPAA,B-S347,B-S347 V,Base Metals,Medium,6.26
+Immensea,Q-IPAA,B-S347,B-S347 V,Industrial Fibers,Poor,4.45
+Immensea,Q-IPAA,B-S347,B-S347 V,Construction Blocks,Poor,23.38
+Immensea,Q-IPAA,B-S347,B-S347 V,Oxygen Isotopes,Medium,3.88
+Immensea,Q-IPAA,B-S347,B-S347 VI,Lustering Alloy,Poor,21.00
+Immensea,Q-IPAA,B-S347,B-S347 VI,Dark Compound,Medium,24.93
+Immensea,Q-IPAA,B-S347,B-S347 VI,Toxic Metals,Poor,4.43
+Immensea,Q-IPAA,B-S347,B-S347 VI,Supertensile Plastics,Poor,13.15
+Immensea,Q-IPAA,B-S347,B-S347 VI,Silicate Glass,Poor,10.75
+Immensea,Q-IPAA,B-S347,B-S347 VII,Motley Compound,Perfect,40.17
+Immensea,Q-IPAA,B-S347,B-S347 VII,Glossy Compound,Poor,23.18
+Immensea,Q-IPAA,B-S347,B-S347 VII,Noble Gas,Medium,28.13
+Immensea,Q-IPAA,B-S347,B-S347 VII,Plasmoids,Poor,1.29
+Immensea,Q-IPAA,B-S347,B-S347 VIII,Motley Compound,Medium,28.27
+Immensea,Q-IPAA,B-S347,B-S347 VIII,Glossy Compound,Rich,34.27
+Immensea,Q-IPAA,B-S347,B-S347 VIII,Heavy Metals,Rich,36.73
+Immensea,Q-IPAA,B-S347,B-S347 VIII,Smartfab Units,Medium,18.02
+Immensea,Q-IPAA,B-S347,B-S347 IX,Lustering Alloy,Medium,31.23
+Immensea,Q-IPAA,B-S347,B-S347 IX,Sheen Compound,Poor,21.27
+Immensea,Q-IPAA,B-S347,B-S347 IX,Fiber Composite,Medium,25.38
+Immensea,Q-IPAA,B-S347,B-S347 IX,Reactive Gas,Medium,30.55
+Immensea,Q-IPAA,B-S347,B-S347 IX,Noble Gas,Poor,21.88
+Immensea,Q-IPAA,B-S347,B-S347 IX,Base Metals,Perfect,10.91
+Immensea,Q-IPAA,B-S347,B-S347 X,Lustering Alloy,Rich,33.88
+Immensea,Q-IPAA,B-S347,B-S347 X,Fiber Composite,Rich,35.20
+Immensea,Q-IPAA,B-S347,B-S347 X,Glossy Compound,Medium,24.15
+Immensea,Q-IPAA,B-S347,B-S347 X,Reactive Metals,Rich,10.37
+Immensea,Q-IPAA,B-S347,B-S347 X,Polyaramids,Medium,18.18
+Immensea,Q-IPAA,B-S347,B-S347 X,Coolant,Medium,17.67
+Immensea,Q-IPAA,B-S347,B-S347 XI,Precious Alloy,Rich,34.17
+Immensea,Q-IPAA,B-S347,B-S347 XI,Base Metals,Medium,7.41
+Immensea,Q-IPAA,B-S347,B-S347 XI,Heavy Metals,Rich,34.58
+Immensea,Q-IPAA,B-S347,B-S347 XI,Coolant,Rich,21.30
+Immensea,Q-IPAA,B-S347,B-S347 XI,Condensates,Medium,18.40
+Immensea,Q-IPAA,PPFB-U,PPFB-U I,Base Metals,Medium,5.51
+Immensea,Q-IPAA,PPFB-U,PPFB-U I,Toxic Metals,Medium,6.11
+Immensea,Q-IPAA,PPFB-U,PPFB-U I,Industrial Fibers,Poor,3.64
+Immensea,Q-IPAA,PPFB-U,PPFB-U I,Supertensile Plastics,Medium,13.60
+Immensea,Q-IPAA,PPFB-U,PPFB-U II,Lustering Alloy,Poor,17.04
+Immensea,Q-IPAA,PPFB-U,PPFB-U II,Fiber Composite,Perfect,32.44
+Immensea,Q-IPAA,PPFB-U,PPFB-U II,Reactive Gas,Rich,26.12
+Immensea,Q-IPAA,PPFB-U,PPFB-U II,Coolant,Poor,12.01
+Immensea,Q-IPAA,PPFB-U,PPFB-U II,Ionic Solutions,Medium,8.56
+Immensea,Q-IPAA,PPFB-U,PPFB-U III,Reactive Gas,Rich,27.00
+Immensea,Q-IPAA,PPFB-U,PPFB-U III,Base Metals,Medium,5.31
+Immensea,Q-IPAA,PPFB-U,PPFB-U III,Smartfab Units,Perfect,23.63
+Immensea,Q-IPAA,PPFB-U,PPFB-U III,Heavy Water,Perfect,320.00
+Immensea,Q-IPAA,PPFB-U,PPFB-U III,Liquid Ozone,Medium,26.43
+Immensea,Q-IPAA,PPFB-U,PPFB-U IV,Lustering Alloy,Medium,23.28
+Immensea,Q-IPAA,PPFB-U,PPFB-U IV,Reactive Gas,Poor,18.36
+Immensea,Q-IPAA,PPFB-U,PPFB-U IV,Reactive Metals,Poor,4.68
+Immensea,Q-IPAA,PPFB-U,PPFB-U IV,Polyaramids,Rich,18.52
+Immensea,Q-IPAA,PPFB-U,PPFB-U IV,Coolant,Rich,19.81
+Immensea,Q-IPAA,PPFB-U,PPFB-U V,Reactive Gas,Rich,26.40
+Immensea,Q-IPAA,PPFB-U,PPFB-U V,Noble Gas,Perfect,32.92
+Immensea,Q-IPAA,PPFB-U,PPFB-U V,Base Metals,Rich,7.88
+Immensea,Q-IPAA,PPFB-U,PPFB-U V,Reactive Metals,Rich,8.02
+Immensea,Q-IPAA,PPFB-U,PPFB-U V,Polyaramids,Medium,15.27
+Immensea,Q-IPAA,PPFB-U,PPFB-U VI,Sheen Compound,Rich,31.06
+Immensea,Q-IPAA,PPFB-U,PPFB-U VI,Glossy Compound,Poor,18.18
+Immensea,Q-IPAA,PPFB-U,PPFB-U VI,Reactive Gas,Poor,18.64
+Immensea,Q-IPAA,PPFB-U,PPFB-U VI,Noble Gas,Medium,23.62
+Immensea,Q-IPAA,PPFB-U,PPFB-U VI,Coolant,Medium,16.84
+Immensea,Q-IPAA,PPFB-U,PPFB-U VII,Dark Compound,Medium,22.72
+Immensea,Q-IPAA,PPFB-U,PPFB-U VII,Supertensile Plastics,Medium,13.77
+Immensea,Q-IPAA,PPFB-U,PPFB-U VII,Silicate Glass,Medium,9.54
+Immensea,Q-IPAA,PPFB-U,PPFB-U VII,Oxygen Isotopes,Medium,3.16
+Immensea,Q-IPAA,AF0-V5,AF0-V5 I,Lustering Alloy,Poor,15.32
+Immensea,Q-IPAA,AF0-V5,AF0-V5 I,Dark Compound,Poor,19.92
+Immensea,Q-IPAA,AF0-V5,AF0-V5 I,Industrial Fibers,Medium,7.12
+Immensea,Q-IPAA,AF0-V5,AF0-V5 I,Supertensile Plastics,Medium,14.83
+Immensea,Q-IPAA,AF0-V5,AF0-V5 II,Gleaming Alloy,Medium,23.00
+Immensea,Q-IPAA,AF0-V5,AF0-V5 II,Noble Metals,Medium,24.54
+Immensea,Q-IPAA,AF0-V5,AF0-V5 II,Oxygen Isotopes,Medium,3.49
+Immensea,Q-IPAA,AF0-V5,AF0-V5 III,Gleaming Alloy,Medium,25.69
+Immensea,Q-IPAA,AF0-V5,AF0-V5 III,Construction Blocks,Medium,23.18
+Immensea,Q-IPAA,AF0-V5,AF0-V5 III,Oxygen Isotopes,Rich,5.36
+Immensea,Q-IPAA,AF0-V5,AF0-V5 IV,Opulent Compound,Medium,27.25
+Immensea,Q-IPAA,AF0-V5,AF0-V5 IV,Noble Metals,Perfect,43.56
+Immensea,Q-IPAA,AF0-V5,AF0-V5 IV,Industrial Fibers,Rich,8.81
+Immensea,Q-IPAA,AF0-V5,AF0-V5 IV,Smartfab Units,Rich,20.88
+Immensea,Q-IPAA,AF0-V5,AF0-V5 IV,Liquid Ozone,Medium,35.05
+Immensea,Q-IPAA,AF0-V5,AF0-V5 V,Lustering Alloy,Rich,30.93
+Immensea,Q-IPAA,AF0-V5,AF0-V5 V,Sheen Compound,Rich,29.97
+Immensea,Q-IPAA,AF0-V5,AF0-V5 V,Glossy Compound,Poor,19.43
+Immensea,Q-IPAA,AF0-V5,AF0-V5 V,Reactive Gas,Rich,34.61
+Immensea,Q-IPAA,AF0-V5,AF0-V5 V,Coolant,Medium,14.72
+Immensea,Q-IPAA,AF0-V5,AF0-V5 VI,Sheen Compound,Rich,30.75
+Immensea,Q-IPAA,AF0-V5,AF0-V5 VI,Glossy Compound,Poor,21.21
+Immensea,Q-IPAA,AF0-V5,AF0-V5 VI,Reactive Gas,Medium,23.05
+Immensea,Q-IPAA,AF0-V5,AF0-V5 VI,Noble Gas,Perfect,37.90
+Immensea,Q-IPAA,AF0-V5,AF0-V5 VI,Ionic Solutions,Medium,11.25
+Immensea,Q-IPAA,AF0-V5,AF0-V5 VII,Crystal Compound,Perfect,36.66
+Immensea,Q-IPAA,AF0-V5,AF0-V5 VII,Reactive Metals,Rich,8.17
+Immensea,Q-IPAA,AF0-V5,AF0-V5 VII,Toxic Metals,Rich,8.62
+Immensea,Q-IPAA,AF0-V5,AF0-V5 VII,Nanites,Medium,6.48
+Immensea,Q-IPAA,AF0-V5,AF0-V5 VIII,Sheen Compound,Rich,29.53
+Immensea,Q-IPAA,AF0-V5,AF0-V5 VIII,Fiber Composite,Rich,33.90
+Immensea,Q-IPAA,AF0-V5,AF0-V5 VIII,Reactive Gas,Poor,19.20
+Immensea,Q-IPAA,AF0-V5,AF0-V5 VIII,Base Metals,Poor,5.70
+Immensea,Q-IPAA,AF0-V5,AF0-V5 VIII,Coolant,Rich,22.45
+Immensea,Q-IPAA,AF0-V5,AF0-V5 IX,Precious Alloy,Medium,26.36
+Immensea,Q-IPAA,AF0-V5,AF0-V5 IX,Toxic Metals,Poor,4.26
+Immensea,Q-IPAA,AF0-V5,AF0-V5 IX,Industrial Fibers,Poor,4.71
+Immensea,Q-IPAA,AF0-V5,AF0-V5 IX,Supertensile Plastics,Medium,16.61
+Immensea,Q-IPAA,AF0-V5,AF0-V5 X,Supertensile Plastics,Poor,11.24
+Immensea,Q-IPAA,AF0-V5,AF0-V5 X,Construction Blocks,Poor,19.92
+Immensea,Q-IPAA,AF0-V5,AF0-V5 X,Silicate Glass,Poor,8.41
+Immensea,Q-IPAA,AF0-V5,AF0-V5 X,Plasmoids,Poor,1.16
+Immensea,Q-IPAA,B-A587,B-A587 I,Dark Compound,Poor,19.38
+Immensea,Q-IPAA,B-A587,B-A587 I,Supertensile Plastics,Medium,17.83
+Immensea,Q-IPAA,B-A587,B-A587 I,Construction Blocks,Poor,18.19
+Immensea,Q-IPAA,B-A587,B-A587 I,Plasmoids,Medium,1.55
+Immensea,Q-IPAA,B-A587,B-A587 II,Supertensile Plastics,Medium,17.86
+Immensea,Q-IPAA,B-A587,B-A587 II,Silicate Glass,Poor,7.14
+Immensea,Q-IPAA,B-A587,B-A587 II,Oxygen Isotopes,Poor,2.17
+Immensea,Q-IPAA,B-A587,B-A587 II,Plasmoids,Medium,1.41
+Immensea,Q-IPAA,B-A587,B-A587 III,Precious Alloy,Poor,16.54
+Immensea,Q-IPAA,B-A587,B-A587 III,Toxic Metals,Medium,5.91
+Immensea,Q-IPAA,B-A587,B-A587 III,Supertensile Plastics,Medium,17.94
+Immensea,Q-IPAA,B-A587,B-A587 III,Plasmoids,Medium,1.30
+Immensea,Q-IPAA,B-A587,B-A587 IV,Sheen Compound,Medium,22.92
+Immensea,Q-IPAA,B-A587,B-A587 IV,Fiber Composite,Poor,19.21
+Immensea,Q-IPAA,B-A587,B-A587 IV,Reactive Gas,Rich,33.24
+Immensea,Q-IPAA,B-A587,B-A587 IV,Reactive Metals,Medium,6.70
+Immensea,Q-IPAA,B-A587,B-A587 IV,Ionic Solutions,Rich,11.55
+Immensea,Q-IPAA,B-A587,B-A587 V,Fiber Composite,Rich,28.36
+Immensea,Q-IPAA,B-A587,B-A587 V,Reactive Gas,Rich,31.26
+Immensea,Q-IPAA,B-A587,B-A587 V,Noble Gas,Medium,22.20
+Immensea,Q-IPAA,B-A587,B-A587 V,Base Metals,Poor,5.36
+Immensea,Q-IPAA,B-A587,B-A587 V,Reactive Metals,Rich,8.62
+Immensea,Q-IPAA,B-A587,B-A587 VI,Sheen Compound,Medium,23.41
+Immensea,Q-IPAA,B-A587,B-A587 VI,Fiber Composite,Rich,34.78
+Immensea,Q-IPAA,B-A587,B-A587 VI,Reactive Gas,Medium,25.17
+Immensea,Q-IPAA,B-A587,B-A587 VI,Coolant,Rich,20.31
+Immensea,Q-IPAA,B-A587,B-A587 VI,Ionic Solutions,Poor,8.03
+Immensea,K-ZKBM,Y19P-1,Y19P-1 I,Lustering Alloy,Poor,18.50
+Immensea,K-ZKBM,Y19P-1,Y19P-1 I,Dark Compound,Poor,15.90
+Immensea,K-ZKBM,Y19P-1,Y19P-1 I,Base Metals,Poor,4.28
+Immensea,K-ZKBM,Y19P-1,Y19P-1 I,Supertensile Plastics,Poor,11.06
+Immensea,K-ZKBM,Y19P-1,Y19P-1 II,Supertensile Plastics,Poor,9.38
+Immensea,K-ZKBM,Y19P-1,Y19P-1 II,Construction Blocks,Poor,13.90
+Immensea,K-ZKBM,Y19P-1,Y19P-1 II,Oxygen Isotopes,Medium,3.51
+Immensea,K-ZKBM,Y19P-1,Y19P-1 II,Plasmoids,Medium,1.47
+Immensea,K-ZKBM,Y19P-1,Y19P-1 III,Precious Alloy,Medium,20.54
+Immensea,K-ZKBM,Y19P-1,Y19P-1 III,Dark Compound,Medium,25.05
+Immensea,K-ZKBM,Y19P-1,Y19P-1 III,Supertensile Plastics,Poor,13.13
+Immensea,K-ZKBM,Y19P-1,Y19P-1 III,Plasmoids,Poor,1.05
+Immensea,K-ZKBM,Y19P-1,Y19P-1 IV,Fiber Composite,Rich,28.37
+Immensea,K-ZKBM,Y19P-1,Y19P-1 IV,Base Metals,Rich,8.17
+Immensea,K-ZKBM,Y19P-1,Y19P-1 IV,Smartfab Units,Perfect,23.97
+Immensea,K-ZKBM,Y19P-1,Y19P-1 IV,Heavy Water,Perfect,385.35
+Immensea,K-ZKBM,Y19P-1,Y19P-1 IV,Liquid Ozone,Rich,34.89
+Immensea,K-ZKBM,Y19P-1,Y19P-1 V,Precious Alloy,Medium,21.90
+Immensea,K-ZKBM,Y19P-1,Y19P-1 V,Dark Compound,Poor,18.69
+Immensea,K-ZKBM,Y19P-1,Y19P-1 V,Supertensile Plastics,Medium,16.25
+Immensea,K-ZKBM,Y19P-1,Y19P-1 V,Plasmoids,Medium,1.28
+Immensea,K-ZKBM,Y19P-1,Y19P-1 VI,Fiber Composite,Perfect,39.92
+Immensea,K-ZKBM,Y19P-1,Y19P-1 VI,Opulent Compound,Medium,24.11
+Immensea,K-ZKBM,Y19P-1,Y19P-1 VI,Condensates,Rich,21.11
+Immensea,K-ZKBM,Y19P-1,Y19P-1 VI,Heavy Water,Perfect,389.97
+Immensea,K-ZKBM,Y19P-1,Y19P-1 VI,Liquid Ozone,Medium,32.92
+Immensea,K-ZKBM,Y19P-1,Y19P-1 VII,Sheen Compound,Medium,20.01
+Immensea,K-ZKBM,Y19P-1,Y19P-1 VII,Glossy Compound,Poor,18.65
+Immensea,K-ZKBM,Y19P-1,Y19P-1 VII,Reactive Gas,Poor,19.59
+Immensea,K-ZKBM,Y19P-1,Y19P-1 VII,Base Metals,Rich,8.26
+Immensea,K-ZKBM,Y19P-1,Y19P-1 VII,Coolant,Medium,15.15
+Immensea,K-ZKBM,Y19P-1,Y19P-1 VIII,Condensed Alloy,Perfect,36.20
+Immensea,K-ZKBM,Y19P-1,Y19P-1 VIII,Reactive Gas,Perfect,39.19
+Immensea,K-ZKBM,Y19P-1,Y19P-1 VIII,Industrial Fibers,Rich,7.05
+Immensea,K-ZKBM,Y19P-1,Y19P-1 VIII,Heavy Water,Perfect,364.14
+Immensea,K-ZKBM,Y19P-1,Y19P-1 VIII,Liquid Ozone,Medium,28.09
+Immensea,K-ZKBM,Y19P-1,Y19P-1 IX,Fiber Composite,Poor,18.04
+Immensea,K-ZKBM,Y19P-1,Y19P-1 IX,Reactive Gas,Rich,30.49
+Immensea,K-ZKBM,Y19P-1,Y19P-1 IX,Base Metals,Rich,8.29
+Immensea,K-ZKBM,Y19P-1,Y19P-1 IX,Coolant,Medium,16.73
+Immensea,K-ZKBM,Y19P-1,Y19P-1 IX,Ionic Solutions,Rich,11.64
+Immensea,K-ZKBM,Y19P-1,Y19P-1 X,Lustering Alloy,Rich,29.95
+Immensea,K-ZKBM,Y19P-1,Y19P-1 X,Sheen Compound,Perfect,34.02
+Immensea,K-ZKBM,Y19P-1,Y19P-1 X,Reactive Gas,Rich,30.24
+Immensea,K-ZKBM,Y19P-1,Y19P-1 X,Reactive Metals,Medium,5.90
+Immensea,K-ZKBM,Y19P-1,Y19P-1 X,Coolant,Medium,13.31
+Immensea,K-ZKBM,Y19P-1,Y19P-1 XI,Gleaming Alloy,Perfect,34.06
+Immensea,K-ZKBM,Y19P-1,Y19P-1 XI,Reactive Metals,Rich,7.49
+Immensea,K-ZKBM,Y19P-1,Y19P-1 XI,Suspended Plasma,Perfect,123.30
+Immensea,K-ZKBM,Y19P-1,Y19P-1 XI,Oxygen Isotopes,Rich,4.42
+Immensea,K-ZKBM,B9E-H6,B9E-H6 I,Gleaming Alloy,Medium,22.68
+Immensea,K-ZKBM,B9E-H6,B9E-H6 I,Motley Compound,Perfect,38.71
+Immensea,K-ZKBM,B9E-H6,B9E-H6 I,Glossy Compound,Rich,29.14
+Immensea,K-ZKBM,B9E-H6,B9E-H6 II,Lustering Alloy,Poor,16.40
+Immensea,K-ZKBM,B9E-H6,B9E-H6 II,Dark Compound,Poor,15.48
+Immensea,K-ZKBM,B9E-H6,B9E-H6 II,Supertensile Plastics,Poor,14.32
+Immensea,K-ZKBM,B9E-H6,B9E-H6 II,Oxygen Isotopes,Medium,3.73
+Immensea,K-ZKBM,B9E-H6,B9E-H6 III,Crystal Compound,Medium,27.88
+Immensea,K-ZKBM,B9E-H6,B9E-H6 III,Reactive Metals,Medium,5.86
+Immensea,K-ZKBM,B9E-H6,B9E-H6 III,Toxic Metals,Perfect,9.70
+Immensea,K-ZKBM,B9E-H6,B9E-H6 III,Construction Blocks,Rich,33.99
+Immensea,K-ZKBM,B9E-H6,B9E-H6 IV,Fiber Composite,Rich,31.46
+Immensea,K-ZKBM,B9E-H6,B9E-H6 IV,Glossy Compound,Medium,25.64
+Immensea,K-ZKBM,B9E-H6,B9E-H6 IV,Reactive Gas,Perfect,37.12
+Immensea,K-ZKBM,B9E-H6,B9E-H6 IV,Noble Gas,Poor,21.48
+Immensea,K-ZKBM,B9E-H6,B9E-H6 IV,Base Metals,Rich,9.33
+Immensea,K-ZKBM,B9E-H6,B9E-H6 V,Fiber Composite,Medium,24.31
+Immensea,K-ZKBM,B9E-H6,B9E-H6 V,Reactive Gas,Medium,26.34
+Immensea,K-ZKBM,B9E-H6,B9E-H6 V,Base Metals,Perfect,9.68
+Immensea,K-ZKBM,B9E-H6,B9E-H6 V,Reactive Metals,Rich,9.59
+Immensea,K-ZKBM,B9E-H6,B9E-H6 V,Coolant,Rich,19.84
+Immensea,K-ZKBM,B9E-H6,B9E-H6 VI,Reactive Gas,Rich,33.35
+Immensea,K-ZKBM,B9E-H6,B9E-H6 VI,Base Metals,Rich,8.70
+Immensea,K-ZKBM,B9E-H6,B9E-H6 VI,Reactive Metals,Medium,7.05
+Immensea,K-ZKBM,B9E-H6,B9E-H6 VI,Polyaramids,Poor,13.77
+Immensea,K-ZKBM,B9E-H6,B9E-H6 VI,Ionic Solutions,Medium,9.94
+Immensea,K-ZKBM,B9E-H6,B9E-H6 VII,Condensed Alloy,Perfect,39.10
+Immensea,K-ZKBM,B9E-H6,B9E-H6 VII,Noble Metals,Medium,23.32
+Immensea,K-ZKBM,B9E-H6,B9E-H6 VII,Coolant,Rich,20.07
+Immensea,K-ZKBM,B9E-H6,B9E-H6 VII,Liquid Ozone,Medium,35.42
+Immensea,K-ZKBM,B9E-H6,B9E-H6 VII,Ionic Solutions,Medium,9.44
+Immensea,K-ZKBM,SPBS-6,SPBS-6 I,Lustering Alloy,Medium,22.64
+Immensea,K-ZKBM,SPBS-6,SPBS-6 I,Supertensile Plastics,Poor,9.23
+Immensea,K-ZKBM,SPBS-6,SPBS-6 I,Construction Blocks,Medium,21.61
+Immensea,K-ZKBM,SPBS-6,SPBS-6 I,Oxygen Isotopes,Medium,3.84
+Immensea,K-ZKBM,SPBS-6,SPBS-6 II,Gleaming Alloy,Medium,23.86
+Immensea,K-ZKBM,SPBS-6,SPBS-6 II,Motley Compound,Poor,19.30
+Immensea,K-ZKBM,SPBS-6,SPBS-6 II,Noble Metals,Rich,32.91
+Immensea,K-ZKBM,SPBS-6,SPBS-6 III,Gleaming Alloy,Medium,24.99
+Immensea,K-ZKBM,SPBS-6,SPBS-6 III,Heavy Metals,Rich,31.27
+Immensea,K-ZKBM,SPBS-6,SPBS-6 III,Smartfab Units,Medium,13.96
+Immensea,K-ZKBM,SPBS-6,SPBS-6 IV,Dark Compound,Medium,22.85
+Immensea,K-ZKBM,SPBS-6,SPBS-6 IV,Base Metals,Medium,5.51
+Immensea,K-ZKBM,SPBS-6,SPBS-6 IV,Supertensile Plastics,Medium,15.72
+Immensea,K-ZKBM,SPBS-6,SPBS-6 IV,Silicate Glass,Medium,10.03
+Immensea,K-ZKBM,SPBS-6,SPBS-6 V,Fiber Composite,Rich,30.39
+Immensea,K-ZKBM,SPBS-6,SPBS-6 V,Reactive Gas,Rich,27.22
+Immensea,K-ZKBM,SPBS-6,SPBS-6 V,Base Metals,Rich,8.62
+Immensea,K-ZKBM,SPBS-6,SPBS-6 V,Smartfab Units,Rich,18.06
+Immensea,K-ZKBM,SPBS-6,SPBS-6 V,Liquid Ozone,Perfect,46.28
+Immensea,K-ZKBM,SPBS-6,SPBS-6 VI,Lustering Alloy,Medium,20.45
+Immensea,K-ZKBM,SPBS-6,SPBS-6 VI,Precious Alloy,Medium,22.39
+Immensea,K-ZKBM,SPBS-6,SPBS-6 VI,Industrial Fibers,Poor,4.28
+Immensea,K-ZKBM,SPBS-6,SPBS-6 VI,Supertensile Plastics,Medium,14.84
+Immensea,K-ZKBM,SPBS-6,SPBS-6 VII,Sheen Compound,Perfect,34.34
+Immensea,K-ZKBM,SPBS-6,SPBS-6 VII,Reactive Gas,Medium,25.58
+Immensea,K-ZKBM,SPBS-6,SPBS-6 VII,Polyaramids,Rich,20.58
+Immensea,K-ZKBM,SPBS-6,SPBS-6 VII,Coolant,Poor,12.26
+Immensea,K-ZKBM,SPBS-6,SPBS-6 VII,Ionic Solutions,Poor,7.38
+Immensea,K-ZKBM,SPBS-6,SPBS-6 VIII,Lustering Alloy,Rich,29.17
+Immensea,K-ZKBM,SPBS-6,SPBS-6 VIII,Sheen Compound,Rich,26.98
+Immensea,K-ZKBM,SPBS-6,SPBS-6 VIII,Reactive Gas,Rich,33.22
+Immensea,K-ZKBM,SPBS-6,SPBS-6 VIII,Polyaramids,Medium,15.02
+Immensea,K-ZKBM,SPBS-6,SPBS-6 VIII,Coolant,Medium,16.91
+Immensea,K-ZKBM,SPBS-6,SPBS-6 IX,Lustering Alloy,Poor,14.13
+Immensea,K-ZKBM,SPBS-6,SPBS-6 IX,Precious Alloy,Poor,17.47
+Immensea,K-ZKBM,SPBS-6,SPBS-6 IX,Supertensile Plastics,Poor,12.17
+Immensea,K-ZKBM,SPBS-6,SPBS-6 IX,Construction Blocks,Poor,13.44
+Immensea,K-ZKBM,SPBS-6,SPBS-6 X,Reactive Gas,Rich,28.39
+Immensea,K-ZKBM,SPBS-6,SPBS-6 X,Noble Gas,Poor,19.43
+Immensea,K-ZKBM,SPBS-6,SPBS-6 X,Base Metals,Rich,7.59
+Immensea,K-ZKBM,SPBS-6,SPBS-6 X,Polyaramids,Poor,12.24
+Immensea,K-ZKBM,SPBS-6,SPBS-6 X,Ionic Solutions,Poor,7.30
+Immensea,K-ZKBM,SPBS-6,SPBS-6 XI,Base Metals,Poor,3.46
+Immensea,K-ZKBM,SPBS-6,SPBS-6 XI,Industrial Fibers,Poor,4.81
+Immensea,K-ZKBM,SPBS-6,SPBS-6 XI,Supertensile Plastics,Medium,14.88
+Immensea,K-ZKBM,SPBS-6,SPBS-6 XI,Oxygen Isotopes,Medium,3.20
+Immensea,K-ZKBM,SPBS-6,SPBS-6 XII,Sheen Compound,Medium,23.71
+Immensea,K-ZKBM,SPBS-6,SPBS-6 XII,Reactive Gas,Poor,17.37
+Immensea,K-ZKBM,SPBS-6,SPBS-6 XII,Base Metals,Poor,4.67
+Immensea,K-ZKBM,SPBS-6,SPBS-6 XII,Coolant,Medium,13.59
+Immensea,K-ZKBM,SPBS-6,SPBS-6 XII,Ionic Solutions,Poor,7.59
+Immensea,K-ZKBM,SPBS-6,SPBS-6 XIII,Heavy Metals,Perfect,36.16
+Immensea,K-ZKBM,SPBS-6,SPBS-6 XIII,Condensates,Medium,14.69
+Immensea,K-ZKBM,SPBS-6,SPBS-6 XIII,Suspended Plasma,Rich,99.19
+Immensea,K-ZKBM,SPBS-6,SPBS-6 XIII,Ionic Solutions,Rich,13.02
+Immensea,K-ZKBM,SPBS-6,SPBS-6 XIII,Plasmoids,Medium,1.53
+Immensea,K-ZKBM,JDAS-0,JDAS-0 I,Lustering Alloy,Medium,24.64
+Immensea,K-ZKBM,JDAS-0,JDAS-0 I,Base Metals,Medium,6.88
+Immensea,K-ZKBM,JDAS-0,JDAS-0 I,Industrial Fibers,Medium,6.22
+Immensea,K-ZKBM,JDAS-0,JDAS-0 I,Supertensile Plastics,Medium,15.56
+Immensea,K-ZKBM,JDAS-0,JDAS-0 II,Base Metals,Poor,4.10
+Immensea,K-ZKBM,JDAS-0,JDAS-0 II,Supertensile Plastics,Poor,10.75
+Immensea,K-ZKBM,JDAS-0,JDAS-0 II,Oxygen Isotopes,Medium,3.29
+Immensea,K-ZKBM,JDAS-0,JDAS-0 II,Plasmoids,Poor,1.20
+Immensea,K-ZKBM,JDAS-0,JDAS-0 III,Reactive Metals,Rich,7.38
+Immensea,K-ZKBM,JDAS-0,JDAS-0 III,Supertensile Plastics,Medium,14.23
+Immensea,K-ZKBM,JDAS-0,JDAS-0 III,Construction Blocks,Rich,32.60
+Immensea,K-ZKBM,JDAS-0,JDAS-0 III,Suspended Plasma,Rich,124.98
+Immensea,K-ZKBM,JDAS-0,JDAS-0 IV,Base Metals,Perfect,10.38
+Immensea,K-ZKBM,JDAS-0,JDAS-0 IV,Noble Metals,Poor,20.50
+Immensea,K-ZKBM,JDAS-0,JDAS-0 IV,Industrial Fibers,Perfect,10.64
+Immensea,K-ZKBM,JDAS-0,JDAS-0 IV,Smartfab Units,Perfect,26.34
+Immensea,K-ZKBM,JDAS-0,JDAS-0 IV,Liquid Ozone,Medium,32.07
+Immensea,K-ZKBM,JDAS-0,JDAS-0 V,Lustering Alloy,Medium,22.40
+Immensea,K-ZKBM,JDAS-0,JDAS-0 V,Sheen Compound,Poor,18.39
+Immensea,K-ZKBM,JDAS-0,JDAS-0 V,Reactive Gas,Rich,28.56
+Immensea,K-ZKBM,JDAS-0,JDAS-0 V,Base Metals,Medium,5.94
+Immensea,K-ZKBM,JDAS-0,JDAS-0 V,Ionic Solutions,Medium,9.51
+Immensea,K-ZKBM,JDAS-0,JDAS-0 VI,Condensed Alloy,Medium,21.38
+Immensea,K-ZKBM,JDAS-0,JDAS-0 VI,Opulent Compound,Medium,22.81
+Immensea,K-ZKBM,JDAS-0,JDAS-0 VI,Industrial Fibers,Medium,6.43
+Immensea,K-ZKBM,JDAS-0,JDAS-0 VI,Condensates,Rich,22.98
+Immensea,K-ZKBM,JDAS-0,JDAS-0 VI,Liquid Ozone,Perfect,46.94
+Immensea,K-ZKBM,JDAS-0,JDAS-0 VII,Fiber Composite,Rich,33.55
+Immensea,K-ZKBM,JDAS-0,JDAS-0 VII,Reactive Gas,Poor,18.46
+Immensea,K-ZKBM,JDAS-0,JDAS-0 VII,Noble Gas,Rich,29.57
+Immensea,K-ZKBM,JDAS-0,JDAS-0 VII,Polyaramids,Rich,19.14
+Immensea,K-ZKBM,JDAS-0,JDAS-0 VII,Coolant,Poor,12.85
+Immensea,K-ZKBM,A4B-V5,A4B-V5 I,Gleaming Alloy,Medium,20.12
+Immensea,K-ZKBM,A4B-V5,A4B-V5 I,Reactive Metals,Rich,7.57
+Immensea,K-ZKBM,A4B-V5,A4B-V5 I,Supertensile Plastics,Rich,22.05
+Immensea,K-ZKBM,A4B-V5,A4B-V5 I,Nanites,Poor,4.69
+Immensea,K-ZKBM,A4B-V5,A4B-V5 II,Fiber Composite,Perfect,38.93
+Immensea,K-ZKBM,A4B-V5,A4B-V5 II,Opulent Compound,Perfect,40.07
+Immensea,K-ZKBM,A4B-V5,A4B-V5 II,Industrial Fibers,Medium,5.47
+Immensea,K-ZKBM,A4B-V5,A4B-V5 II,Heavy Water,Perfect,400.26
+Immensea,K-ZKBM,A4B-V5,A4B-V5 II,Liquid Ozone,Medium,33.13
+Immensea,K-ZKBM,A4B-V5,A4B-V5 III,Fiber Composite,Rich,30.11
+Immensea,K-ZKBM,A4B-V5,A4B-V5 III,Glossy Compound,Rich,28.98
+Immensea,K-ZKBM,A4B-V5,A4B-V5 III,Reactive Gas,Perfect,34.40
+Immensea,K-ZKBM,A4B-V5,A4B-V5 III,Noble Gas,Medium,23.35
+Immensea,K-ZKBM,A4B-V5,A4B-V5 III,Ionic Solutions,Poor,7.74
+Immensea,K-ZKBM,A4B-V5,A4B-V5 IV,Lustering Alloy,Medium,26.04
+Immensea,K-ZKBM,A4B-V5,A4B-V5 IV,Reactive Gas,Medium,19.93
+Immensea,K-ZKBM,A4B-V5,A4B-V5 IV,Noble Gas,Rich,27.93
+Immensea,K-ZKBM,A4B-V5,A4B-V5 IV,Base Metals,Rich,8.52
+Immensea,K-ZKBM,A4B-V5,A4B-V5 IV,Reactive Metals,Medium,6.39
+Immensea,K-ZKBM,A4B-V5,A4B-V5 V,Fiber Composite,Poor,18.23
+Immensea,K-ZKBM,A4B-V5,A4B-V5 V,Reactive Gas,Perfect,34.50
+Immensea,K-ZKBM,A4B-V5,A4B-V5 V,Base Metals,Medium,5.63
+Immensea,K-ZKBM,A4B-V5,A4B-V5 V,Reactive Metals,Poor,4.85
+Immensea,K-ZKBM,A4B-V5,A4B-V5 V,Polyaramids,Medium,15.19
+Immensea,K-ZKBM,A4B-V5,A4B-V5 VI,Precious Alloy,Rich,30.83
+Immensea,K-ZKBM,A4B-V5,A4B-V5 VI,Supertensile Plastics,Rich,18.16
+Immensea,K-ZKBM,A4B-V5,A4B-V5 VI,Coolant,Rich,19.01
+Immensea,K-ZKBM,A4B-V5,A4B-V5 VI,Condensates,Rich,18.31
+Immensea,K-ZKBM,LN-56V,LN-56V I,Gleaming Alloy,Poor,20.28
+Immensea,K-ZKBM,LN-56V,LN-56V I,Reactive Metals,Poor,4.78
+Immensea,K-ZKBM,LN-56V,LN-56V I,Construction Blocks,Poor,19.69
+Immensea,K-ZKBM,LN-56V,LN-56V I,Oxygen Isotopes,Medium,3.87
+Immensea,K-ZKBM,LN-56V,LN-56V II,Sheen Compound,Rich,29.52
+Immensea,K-ZKBM,LN-56V,LN-56V II,Dark Compound,Medium,21.27
+Immensea,K-ZKBM,LN-56V,LN-56V II,Noble Gas,Rich,28.18
+Immensea,K-ZKBM,LN-56V,LN-56V II,Reactive Metals,Medium,7.28
+Immensea,K-ZKBM,LN-56V,LN-56V II,Condensates,Perfect,25.48
+Immensea,K-ZKBM,LN-56V,LN-56V III,Lustering Alloy,Rich,32.54
+Immensea,K-ZKBM,LN-56V,LN-56V III,Glossy Compound,Rich,28.40
+Immensea,K-ZKBM,LN-56V,LN-56V III,Reactive Gas,Perfect,35.79
+Immensea,K-ZKBM,LN-56V,LN-56V III,Coolant,Rich,22.38
+Immensea,K-ZKBM,LN-56V,LN-56V III,Ionic Solutions,Medium,8.54
+Immensea,K-ZKBM,LN-56V,LN-56V IV,Lustering Alloy,Poor,19.23
+Immensea,K-ZKBM,LN-56V,LN-56V IV,Fiber Composite,Rich,32.30
+Immensea,K-ZKBM,LN-56V,LN-56V IV,Reactive Gas,Rich,34.17
+Immensea,K-ZKBM,LN-56V,LN-56V IV,Reactive Metals,Medium,6.88
+Immensea,K-ZKBM,LN-56V,LN-56V IV,Ionic Solutions,Perfect,14.53
+Immensea,K-ZKBM,LN-56V,LN-56V V,Lustering Alloy,Rich,33.84
+Immensea,K-ZKBM,LN-56V,LN-56V V,Sheen Compound,Rich,33.15
+Immensea,K-ZKBM,LN-56V,LN-56V V,Fiber Composite,Medium,22.46
+Immensea,K-ZKBM,LN-56V,LN-56V V,Reactive Gas,Rich,34.89
+Immensea,K-ZKBM,LN-56V,LN-56V V,Base Metals,Medium,6.06
+Immensea,K-ZKBM,LN-56V,LN-56V VI,Base Metals,Rich,8.58
+Immensea,K-ZKBM,LN-56V,LN-56V VI,Noble Metals,Rich,31.00
+Immensea,K-ZKBM,LN-56V,LN-56V VI,Condensates,Perfect,23.58
+Immensea,K-ZKBM,LN-56V,LN-56V VI,Smartfab Units,Perfect,23.75
+Immensea,K-ZKBM,LN-56V,LN-56V VI,Liquid Ozone,Rich,36.91
+Immensea,K-ZKBM,LN-56V,LN-56V VII,Reactive Gas,Perfect,36.23
+Immensea,K-ZKBM,LN-56V,LN-56V VII,Reactive Metals,Rich,8.75
+Immensea,K-ZKBM,LN-56V,LN-56V VII,Polyaramids,Medium,14.93
+Immensea,K-ZKBM,LN-56V,LN-56V VII,Coolant,Poor,12.03
+Immensea,K-ZKBM,LN-56V,LN-56V VII,Ionic Solutions,Medium,9.16
+Immensea,K-ZKBM,LN-56V,LN-56V VIII,Precious Alloy,Medium,21.82
+Immensea,K-ZKBM,LN-56V,LN-56V VIII,Dark Compound,Medium,21.96
+Immensea,K-ZKBM,LN-56V,LN-56V VIII,Supertensile Plastics,Medium,17.34
+Immensea,K-ZKBM,LN-56V,LN-56V VIII,Construction Blocks,Poor,18.81
+Immensea,K-ZKBM,Y2-QUV,Y2-QUV I,Lustering Alloy,Medium,24.22
+Immensea,K-ZKBM,Y2-QUV,Y2-QUV I,Industrial Fibers,Medium,6.08
+Immensea,K-ZKBM,Y2-QUV,Y2-QUV I,Supertensile Plastics,Medium,14.52
+Immensea,K-ZKBM,Y2-QUV,Y2-QUV I,Oxygen Isotopes,Poor,3.01
+Immensea,K-ZKBM,Y2-QUV,Y2-QUV II,Lustering Alloy,Medium,22.68
+Immensea,K-ZKBM,Y2-QUV,Y2-QUV II,Precious Alloy,Medium,25.04
+Immensea,K-ZKBM,Y2-QUV,Y2-QUV II,Toxic Metals,Medium,6.53
+Immensea,K-ZKBM,Y2-QUV,Y2-QUV II,Supertensile Plastics,Poor,12.83
+Immensea,K-ZKBM,Y2-QUV,Y2-QUV III,Sheen Compound,Medium,22.64
+Immensea,K-ZKBM,Y2-QUV,Y2-QUV III,Reactive Gas,Medium,23.14
+Immensea,K-ZKBM,Y2-QUV,Y2-QUV III,Noble Gas,Medium,26.14
+Immensea,K-ZKBM,Y2-QUV,Y2-QUV III,Base Metals,Rich,8.99
+Immensea,K-ZKBM,Y2-QUV,Y2-QUV III,Reactive Metals,Rich,7.54
+Immensea,K-ZKBM,Y2-QUV,Y2-QUV IV,Lustering Alloy,Perfect,35.75
+Immensea,K-ZKBM,Y2-QUV,Y2-QUV IV,Fiber Composite,Medium,24.31
+Immensea,K-ZKBM,Y2-QUV,Y2-QUV IV,Reactive Gas,Rich,31.94
+Immensea,K-ZKBM,Y2-QUV,Y2-QUV IV,Noble Gas,Rich,30.49
+Immensea,K-ZKBM,Y2-QUV,Y2-QUV IV,Reactive Metals,Rich,8.57
+Immensea,K-ZKBM,Y2-QUV,Y2-QUV V,Lustering Alloy,Poor,15.71
+Immensea,K-ZKBM,Y2-QUV,Y2-QUV V,Base Metals,Medium,6.26
+Immensea,K-ZKBM,Y2-QUV,Y2-QUV V,Supertensile Plastics,Medium,17.79
+Immensea,K-ZKBM,Y2-QUV,Y2-QUV V,Silicate Glass,Poor,6.89
+Immensea,K-ZKBM,O7-7UX,O7-7UX I,Crystal Compound,Medium,25.10
+Immensea,K-ZKBM,O7-7UX,O7-7UX I,Reactive Gas,Rich,29.61
+Immensea,K-ZKBM,O7-7UX,O7-7UX I,Reactive Metals,Poor,5.07
+Immensea,K-ZKBM,O7-7UX,O7-7UX I,Supertensile Plastics,Medium,14.40
+Immensea,K-ZKBM,O7-7UX,O7-7UX II,Noble Gas,Medium,22.15
+Immensea,K-ZKBM,O7-7UX,O7-7UX II,Heavy Metals,Medium,25.26
+Immensea,K-ZKBM,O7-7UX,O7-7UX II,Condensates,Perfect,25.20
+Immensea,K-ZKBM,O7-7UX,O7-7UX II,Ionic Solutions,Medium,9.15
+Immensea,K-ZKBM,O7-7UX,O7-7UX II,Plasmoids,Perfect,2.29
+Immensea,K-ZKBM,O7-7UX,O7-7UX III,Opulent Compound,Poor,20.11
+Immensea,K-ZKBM,O7-7UX,O7-7UX III,Toxic Metals,Rich,7.54
+Immensea,K-ZKBM,O7-7UX,O7-7UX III,Polyaramids,Rich,21.47
+Immensea,K-ZKBM,O7-7UX,O7-7UX III,Coolant,Rich,23.29
+Immensea,K-ZKBM,O7-7UX,O7-7UX III,Liquid Ozone,Medium,31.82
+Immensea,K-ZKBM,O7-7UX,O7-7UX IV,Condensed Alloy,Rich,27.87
+Immensea,K-ZKBM,O7-7UX,O7-7UX IV,Condensates,Medium,15.50
+Immensea,K-ZKBM,O7-7UX,O7-7UX IV,Smartfab Units,Perfect,23.76
+Immensea,K-ZKBM,O7-7UX,O7-7UX IV,Heavy Water,Medium,255.20
+Immensea,K-ZKBM,O7-7UX,O7-7UX IV,Liquid Ozone,Poor,25.44
+Immensea,K-ZKBM,O7-7UX,O7-7UX V,Lustering Alloy,Medium,26.62
+Immensea,K-ZKBM,O7-7UX,O7-7UX V,Fiber Composite,Medium,21.60
+Immensea,K-ZKBM,O7-7UX,O7-7UX V,Reactive Gas,Rich,28.97
+Immensea,K-ZKBM,O7-7UX,O7-7UX V,Base Metals,Medium,6.51
+Immensea,K-ZKBM,O7-7UX,O7-7UX V,Reactive Metals,Medium,5.52
+Immensea,K-ZKBM,O7-7UX,O7-7UX VI,Lustering Alloy,Rich,30.69
+Immensea,K-ZKBM,O7-7UX,O7-7UX VI,Reactive Gas,Medium,25.81
+Immensea,K-ZKBM,O7-7UX,O7-7UX VI,Noble Gas,Medium,26.14
+Immensea,K-ZKBM,O7-7UX,O7-7UX VI,Base Metals,Medium,6.63
+Immensea,K-ZKBM,O7-7UX,O7-7UX VI,Polyaramids,Rich,19.79
+Immensea,K-ZKBM,O7-7UX,O7-7UX VII,Lustering Alloy,Poor,20.72
+Immensea,K-ZKBM,O7-7UX,O7-7UX VII,Reactive Gas,Medium,23.83
+Immensea,K-ZKBM,O7-7UX,O7-7UX VII,Polyaramids,Perfect,23.31
+Immensea,K-ZKBM,O7-7UX,O7-7UX VII,Coolant,Rich,19.93
+Immensea,K-ZKBM,O7-7UX,O7-7UX VII,Ionic Solutions,Rich,11.92
+Immensea,K-ZKBM,O7-7UX,O7-7UX VIII,Lustering Alloy,Poor,18.68
+Immensea,K-ZKBM,O7-7UX,O7-7UX VIII,Dark Compound,Medium,25.12
+Immensea,K-ZKBM,O7-7UX,O7-7UX VIII,Toxic Metals,Medium,6.83
+Immensea,K-ZKBM,O7-7UX,O7-7UX VIII,Supertensile Plastics,Poor,11.57
+Immensea,MY-QQI,Z8-81T,Z8-81T II,Gleaming Alloy,Poor,19.64
+Immensea,MY-QQI,Z8-81T,Z8-81T II,Motley Compound,Rich,27.80
+Immensea,MY-QQI,Z8-81T,Z8-81T II,Plasmoids,Medium,1.23
+Immensea,MY-QQI,Z8-81T,Z8-81T III,Lucent Compound,Rich,28.43
+Immensea,MY-QQI,Z8-81T,Z8-81T III,Crystal Compound,Rich,28.62
+Immensea,MY-QQI,Z8-81T,Z8-81T III,Reactive Metals,Medium,5.24
+Immensea,MY-QQI,Z8-81T,Z8-81T III,Suspended Plasma,Rich,115.59
+Immensea,MY-QQI,Z8-81T,Z8-81T IV,Sheen Compound,Medium,20.92
+Immensea,MY-QQI,Z8-81T,Z8-81T IV,Glossy Compound,Medium,21.73
+Immensea,MY-QQI,Z8-81T,Z8-81T IV,Reactive Gas,Medium,21.11
+Immensea,MY-QQI,Z8-81T,Z8-81T IV,Polyaramids,Rich,18.79
+Immensea,MY-QQI,Z8-81T,Z8-81T IV,Ionic Solutions,Poor,6.97
+Immensea,MY-QQI,Z8-81T,Z8-81T V,Lucent Compound,Medium,21.61
+Immensea,MY-QQI,Z8-81T,Z8-81T V,Reactive Metals,Rich,7.40
+Immensea,MY-QQI,Z8-81T,Z8-81T V,Nanites,Rich,7.62
+Immensea,MY-QQI,Z8-81T,Z8-81T V,Suspended Plasma,Rich,98.51
+Immensea,MY-QQI,Z8-81T,Z8-81T VI,Fiber Composite,Rich,31.06
+Immensea,MY-QQI,Z8-81T,Z8-81T VI,Reactive Gas,Medium,25.83
+Immensea,MY-QQI,Z8-81T,Z8-81T VI,Base Metals,Medium,6.81
+Immensea,MY-QQI,Z8-81T,Z8-81T VI,Coolant,Poor,11.55
+Immensea,MY-QQI,Z8-81T,Z8-81T VI,Ionic Solutions,Rich,10.76
+Immensea,MY-QQI,Z8-81T,Z8-81T VII,Lustering Alloy,Medium,22.09
+Immensea,MY-QQI,Z8-81T,Z8-81T VII,Fiber Composite,Medium,25.79
+Immensea,MY-QQI,Z8-81T,Z8-81T VII,Glossy Compound,Rich,29.99
+Immensea,MY-QQI,Z8-81T,Z8-81T VII,Reactive Gas,Perfect,33.66
+Immensea,MY-QQI,Z8-81T,Z8-81T VII,Coolant,Poor,11.62
+Immensea,MY-QQI,Z8-81T,Z8-81T VIII,Glossy Compound,Medium,22.22
+Immensea,MY-QQI,Z8-81T,Z8-81T VIII,Reactive Gas,Medium,20.81
+Immensea,MY-QQI,Z8-81T,Z8-81T VIII,Reactive Metals,Rich,8.00
+Immensea,MY-QQI,Z8-81T,Z8-81T VIII,Polyaramids,Medium,16.66
+Immensea,MY-QQI,Z8-81T,Z8-81T VIII,Coolant,Poor,12.84
+Immensea,MY-QQI,Z8-81T,Z8-81T IX,Motley Compound,Rich,30.55
+Immensea,MY-QQI,Z8-81T,Z8-81T IX,Supertensile Plastics,Poor,10.98
+Immensea,MY-QQI,Z8-81T,Z8-81T IX,Condensates,Medium,16.60
+Immensea,MY-QQI,Z8-81T,Z8-81T IX,Suspended Plasma,Rich,103.19
+Immensea,MY-QQI,Z8-81T,Z8-81T X,Precious Alloy,Poor,16.55
+Immensea,MY-QQI,Z8-81T,Z8-81T X,Supertensile Plastics,Poor,11.28
+Immensea,MY-QQI,Z8-81T,Z8-81T X,Construction Blocks,Medium,22.34
+Immensea,MY-QQI,Z8-81T,Z8-81T X,Oxygen Isotopes,Poor,2.24
+Immensea,MY-QQI,XD-JW7,XD-JW7 I,Precious Alloy,Medium,25.63
+Immensea,MY-QQI,XD-JW7,XD-JW7 I,Base Metals,Poor,5.06
+Immensea,MY-QQI,XD-JW7,XD-JW7 I,Supertensile Plastics,Poor,13.79
+Immensea,MY-QQI,XD-JW7,XD-JW7 I,Oxygen Isotopes,Medium,3.40
+Immensea,MY-QQI,XD-JW7,XD-JW7 II,Gleaming Alloy,Poor,18.39
+Immensea,MY-QQI,XD-JW7,XD-JW7 II,Noble Metals,Rich,33.66
+Immensea,MY-QQI,XD-JW7,XD-JW7 II,Plasmoids,Rich,1.85
+Immensea,MY-QQI,XD-JW7,XD-JW7 III,Opulent Compound,Rich,34.74
+Immensea,MY-QQI,XD-JW7,XD-JW7 III,Reactive Gas,Perfect,35.68
+Immensea,MY-QQI,XD-JW7,XD-JW7 III,Base Metals,Rich,8.02
+Immensea,MY-QQI,XD-JW7,XD-JW7 III,Condensates,Perfect,24.26
+Immensea,MY-QQI,XD-JW7,XD-JW7 III,Liquid Ozone,Rich,42.98
+Immensea,MY-QQI,XD-JW7,XD-JW7 IV,Dark Compound,Medium,21.49
+Immensea,MY-QQI,XD-JW7,XD-JW7 IV,Supertensile Plastics,Medium,16.75
+Immensea,MY-QQI,XD-JW7,XD-JW7 IV,Construction Blocks,Poor,17.18
+Immensea,MY-QQI,XD-JW7,XD-JW7 IV,Silicate Glass,Medium,11.42
+Immensea,MY-QQI,XD-JW7,XD-JW7 V,Sheen Compound,Perfect,35.07
+Immensea,MY-QQI,XD-JW7,XD-JW7 V,Condensates,Poor,13.46
+Immensea,MY-QQI,XD-JW7,XD-JW7 V,Nanites,Medium,6.89
+Immensea,MY-QQI,XD-JW7,XD-JW7 V,Suspended Plasma,Rich,102.25
+Immensea,MY-QQI,XD-JW7,XD-JW7 V,Plasmoids,Rich,1.93
+Immensea,MY-QQI,XD-JW7,XD-JW7 VI,Sheen Compound,Medium,21.12
+Immensea,MY-QQI,XD-JW7,XD-JW7 VI,Lucent Compound,Medium,24.46
+Immensea,MY-QQI,XD-JW7,XD-JW7 VI,Condensates,Medium,14.96
+Immensea,MY-QQI,XD-JW7,XD-JW7 VI,Suspended Plasma,Rich,121.26
+Immensea,MY-QQI,XD-JW7,XD-JW7 VI,Plasmoids,Medium,1.50
+Immensea,MY-QQI,XD-JW7,XD-JW7 VII,Fiber Composite,Rich,31.06
+Immensea,MY-QQI,XD-JW7,XD-JW7 VII,Glossy Compound,Medium,26.53
+Immensea,MY-QQI,XD-JW7,XD-JW7 VII,Reactive Gas,Rich,33.09
+Immensea,MY-QQI,XD-JW7,XD-JW7 VII,Reactive Metals,Poor,5.15
+Immensea,MY-QQI,XD-JW7,XD-JW7 VII,Coolant,Medium,15.49
+Immensea,MY-QQI,XD-JW7,XD-JW7 VIII,Lustering Alloy,Medium,20.81
+Immensea,MY-QQI,XD-JW7,XD-JW7 VIII,Glossy Compound,Rich,34.74
+Immensea,MY-QQI,XD-JW7,XD-JW7 VIII,Reactive Gas,Poor,19.82
+Immensea,MY-QQI,XD-JW7,XD-JW7 VIII,Noble Gas,Medium,22.88
+Immensea,MY-QQI,XD-JW7,XD-JW7 VIII,Polyaramids,Medium,14.52
+Immensea,MY-QQI,XD-JW7,XD-JW7 IX,Fiber Composite,Rich,34.65
+Immensea,MY-QQI,XD-JW7,XD-JW7 IX,Industrial Fibers,Perfect,10.38
+Immensea,MY-QQI,XD-JW7,XD-JW7 IX,Smartfab Units,Rich,22.92
+Immensea,MY-QQI,XD-JW7,XD-JW7 IX,Heavy Water,Rich,329.12
+Immensea,MY-QQI,XD-JW7,XD-JW7 IX,Liquid Ozone,Perfect,49.42
+Immensea,MY-QQI,XD-JW7,XD-JW7 X,Lustering Alloy,Perfect,35.44
+Immensea,MY-QQI,XD-JW7,XD-JW7 X,Sheen Compound,Rich,31.09
+Immensea,MY-QQI,XD-JW7,XD-JW7 X,Fiber Composite,Rich,29.44
+Immensea,MY-QQI,XD-JW7,XD-JW7 X,Reactive Gas,Poor,18.11
+Immensea,MY-QQI,XD-JW7,XD-JW7 X,Noble Gas,Medium,25.37
+Immensea,MY-QQI,XD-JW7,XD-JW7 XI,Noble Metals,Perfect,38.35
+Immensea,MY-QQI,XD-JW7,XD-JW7 XI,Polyaramids,Perfect,25.53
+Immensea,MY-QQI,XD-JW7,XD-JW7 XI,Heavy Water,Rich,326.04
+Immensea,MY-QQI,XD-JW7,XD-JW7 XI,Liquid Ozone,Perfect,45.68
+Immensea,MY-QQI,XD-JW7,XD-JW7 XI,Ionic Solutions,Rich,12.14
+Immensea,MY-QQI,XD-JW7,XD-JW7 XII,Lustering Alloy,Poor,19.29
+Immensea,MY-QQI,XD-JW7,XD-JW7 XII,Industrial Fibers,Poor,4.43
+Immensea,MY-QQI,XD-JW7,XD-JW7 XII,Supertensile Plastics,Medium,14.40
+Immensea,MY-QQI,XD-JW7,XD-JW7 XII,Silicate Glass,Poor,6.97
+Immensea,MY-QQI,XD-JW7,XD-JW7 XIII,Fiber Composite,Rich,29.22
+Immensea,MY-QQI,XD-JW7,XD-JW7 XIII,Glossy Compound,Rich,30.36
+Immensea,MY-QQI,XD-JW7,XD-JW7 XIII,Reactive Gas,Medium,27.08
+Immensea,MY-QQI,XD-JW7,XD-JW7 XIII,Coolant,Medium,15.83
+Immensea,MY-QQI,XD-JW7,XD-JW7 XIII,Ionic Solutions,Rich,12.49
+Immensea,MY-QQI,XD-JW7,XD-JW7 XIV,Noble Metals,Medium,23.03
+Immensea,MY-QQI,XD-JW7,XD-JW7 XIV,Polyaramids,Medium,16.53
+Immensea,MY-QQI,XD-JW7,XD-JW7 XIV,Coolant,Perfect,23.39
+Immensea,MY-QQI,XD-JW7,XD-JW7 XIV,Silicate Glass,Medium,10.39
+Immensea,MY-QQI,XD-JW7,XD-JW7 XIV,Liquid Ozone,Medium,31.13
+Immensea,MY-QQI,DY-P7Q,DY-P7Q I,Dark Compound,Medium,21.76
+Immensea,MY-QQI,DY-P7Q,DY-P7Q I,Base Metals,Medium,7.05
+Immensea,MY-QQI,DY-P7Q,DY-P7Q I,Supertensile Plastics,Poor,9.89
+Immensea,MY-QQI,DY-P7Q,DY-P7Q I,Construction Blocks,Poor,15.42
+Immensea,MY-QQI,DY-P7Q,DY-P7Q II,Gleaming Alloy,Perfect,36.06
+Immensea,MY-QQI,DY-P7Q,DY-P7Q II,Heavy Metals,Poor,19.14
+Immensea,MY-QQI,DY-P7Q,DY-P7Q II,Plasmoids,Poor,1.10
+Immensea,MY-QQI,DY-P7Q,DY-P7Q III,Sheen Compound,Medium,25.10
+Immensea,MY-QQI,DY-P7Q,DY-P7Q III,Glossy Compound,Rich,31.57
+Immensea,MY-QQI,DY-P7Q,DY-P7Q III,Reactive Gas,Medium,22.20
+Immensea,MY-QQI,DY-P7Q,DY-P7Q III,Noble Gas,Poor,19.69
+Immensea,MY-QQI,DY-P7Q,DY-P7Q III,Reactive Metals,Medium,6.26
+Immensea,MY-QQI,DY-P7Q,DY-P7Q IV,Lustering Alloy,Medium,23.08
+Immensea,MY-QQI,DY-P7Q,DY-P7Q IV,Reactive Gas,Medium,27.15
+Immensea,MY-QQI,DY-P7Q,DY-P7Q IV,Noble Gas,Medium,25.92
+Immensea,MY-QQI,DY-P7Q,DY-P7Q IV,Base Metals,Rich,9.07
+Immensea,MY-QQI,DY-P7Q,DY-P7Q IV,Reactive Metals,Rich,9.13
+Immensea,MY-QQI,DY-P7Q,DY-P7Q V,Condensed Alloy,Medium,23.56
+Immensea,MY-QQI,DY-P7Q,DY-P7Q V,Noble Metals,Rich,28.47
+Immensea,MY-QQI,DY-P7Q,DY-P7Q V,Polyaramids,Medium,16.91
+Immensea,MY-QQI,DY-P7Q,DY-P7Q V,Silicate Glass,Rich,14.85
+Immensea,MY-QQI,DY-P7Q,DY-P7Q V,Liquid Ozone,Perfect,43.70
+Immensea,MY-QQI,DY-P7Q,DY-P7Q VI,Dark Compound,Poor,14.50
+Immensea,MY-QQI,DY-P7Q,DY-P7Q VI,Industrial Fibers,Poor,4.42
+Immensea,MY-QQI,DY-P7Q,DY-P7Q VI,Supertensile Plastics,Poor,10.25
+Immensea,MY-QQI,DY-P7Q,DY-P7Q VI,Silicate Glass,Medium,13.12
+Immensea,MY-QQI,H-RXNZ,H-RXNZ I,Gleaming Alloy,Poor,17.62
+Immensea,MY-QQI,H-RXNZ,H-RXNZ I,Motley Compound,Rich,29.17
+Immensea,MY-QQI,H-RXNZ,H-RXNZ I,Glossy Compound,Rich,31.94
+Immensea,MY-QQI,H-RXNZ,H-RXNZ II,Lustering Alloy,Poor,18.37
+Immensea,MY-QQI,H-RXNZ,H-RXNZ II,Supertensile Plastics,Medium,17.88
+Immensea,MY-QQI,H-RXNZ,H-RXNZ II,Construction Blocks,Poor,18.72
+Immensea,MY-QQI,H-RXNZ,H-RXNZ II,Silicate Glass,Medium,11.85
+Immensea,MY-QQI,H-RXNZ,H-RXNZ III,Base Metals,Medium,7.02
+Immensea,MY-QQI,H-RXNZ,H-RXNZ III,Industrial Fibers,Medium,5.82
+Immensea,MY-QQI,H-RXNZ,H-RXNZ III,Supertensile Plastics,Medium,14.45
+Immensea,MY-QQI,H-RXNZ,H-RXNZ III,Silicate Glass,Poor,9.67
+Immensea,MY-QQI,H-RXNZ,H-RXNZ IV,Toxic Metals,Rich,8.19
+Immensea,MY-QQI,H-RXNZ,H-RXNZ IV,Coolant,Rich,20.99
+Immensea,MY-QQI,H-RXNZ,H-RXNZ IV,Silicate Glass,Rich,17.37
+Immensea,MY-QQI,H-RXNZ,H-RXNZ IV,Liquid Ozone,Perfect,47.71
+Immensea,MY-QQI,H-RXNZ,H-RXNZ IV,Ionic Solutions,Medium,8.46
+Immensea,MY-QQI,H-RXNZ,H-RXNZ V,Gleaming Alloy,Poor,20.17
+Immensea,MY-QQI,H-RXNZ,H-RXNZ V,Noble Gas,Rich,30.80
+Immensea,MY-QQI,H-RXNZ,H-RXNZ V,Construction Blocks,Medium,27.37
+Immensea,MY-QQI,H-RXNZ,H-RXNZ VI,Sheen Compound,Perfect,36.32
+Immensea,MY-QQI,H-RXNZ,H-RXNZ VI,Glossy Compound,Rich,30.58
+Immensea,MY-QQI,H-RXNZ,H-RXNZ VI,Reactive Gas,Rich,34.85
+Immensea,MY-QQI,H-RXNZ,H-RXNZ VI,Base Metals,Poor,5.26
+Immensea,MY-QQI,H-RXNZ,H-RXNZ VI,Polyaramids,Poor,12.63
+Immensea,MY-QQI,H-RXNZ,H-RXNZ VII,Fiber Composite,Rich,32.34
+Immensea,MY-QQI,H-RXNZ,H-RXNZ VII,Glossy Compound,Rich,33.18
+Immensea,MY-QQI,H-RXNZ,H-RXNZ VII,Reactive Gas,Medium,26.27
+Immensea,MY-QQI,H-RXNZ,H-RXNZ VII,Polyaramids,Rich,20.03
+Immensea,MY-QQI,H-RXNZ,H-RXNZ VII,Ionic Solutions,Perfect,14.25
+Immensea,MY-QQI,H-RXNZ,H-RXNZ VIII,Opulent Compound,Medium,21.60
+Immensea,MY-QQI,H-RXNZ,H-RXNZ VIII,Polyaramids,Medium,15.77
+Immensea,MY-QQI,H-RXNZ,H-RXNZ VIII,Coolant,Medium,18.20
+Immensea,MY-QQI,H-RXNZ,H-RXNZ VIII,Heavy Water,Perfect,376.20
+Immensea,MY-QQI,H-RXNZ,H-RXNZ VIII,Liquid Ozone,Medium,31.93
+Immensea,MY-QQI,H-RXNZ,H-RXNZ IX,Crystal Compound,Medium,23.52
+Immensea,MY-QQI,H-RXNZ,H-RXNZ IX,Reactive Metals,Rich,7.61
+Immensea,MY-QQI,H-RXNZ,H-RXNZ IX,Nanites,Medium,6.37
+Immensea,MY-QQI,H-RXNZ,H-RXNZ IX,Suspended Plasma,Medium,81.42
+Immensea,MY-QQI,ZBP-TP,ZBP-TP I,Lustering Alloy,Poor,15.72
+Immensea,MY-QQI,ZBP-TP,ZBP-TP I,Precious Alloy,Medium,22.60
+Immensea,MY-QQI,ZBP-TP,ZBP-TP I,Supertensile Plastics,Medium,14.28
+Immensea,MY-QQI,ZBP-TP,ZBP-TP I,Construction Blocks,Poor,15.58
+Immensea,MY-QQI,ZBP-TP,ZBP-TP II,Gleaming Alloy,Rich,26.28
+Immensea,MY-QQI,ZBP-TP,ZBP-TP II,Polyaramids,Rich,18.80
+Immensea,MY-QQI,ZBP-TP,ZBP-TP II,Plasmoids,Rich,1.65
+Immensea,MY-QQI,ZBP-TP,ZBP-TP III,Fiber Composite,Perfect,36.90
+Immensea,MY-QQI,ZBP-TP,ZBP-TP III,Opulent Compound,Medium,23.56
+Immensea,MY-QQI,ZBP-TP,ZBP-TP III,Base Metals,Medium,5.27
+Immensea,MY-QQI,ZBP-TP,ZBP-TP III,Heavy Water,Rich,253.20
+Immensea,MY-QQI,ZBP-TP,ZBP-TP III,Liquid Ozone,Perfect,42.25
+Immensea,MY-QQI,ZBP-TP,ZBP-TP IV,Reactive Metals,Medium,5.28
+Immensea,MY-QQI,ZBP-TP,ZBP-TP IV,Nanites,Rich,6.92
+Immensea,MY-QQI,ZBP-TP,ZBP-TP IV,Suspended Plasma,Medium,80.42
+Immensea,MY-QQI,ZBP-TP,ZBP-TP IV,Oxygen Isotopes,Medium,3.67
+Immensea,MY-QQI,ZBP-TP,ZBP-TP V,Condensed Alloy,Perfect,34.52
+Immensea,MY-QQI,ZBP-TP,ZBP-TP V,Reactive Gas,Rich,28.22
+Immensea,MY-QQI,ZBP-TP,ZBP-TP V,Base Metals,Poor,4.86
+Immensea,MY-QQI,ZBP-TP,ZBP-TP V,Noble Metals,Perfect,34.46
+Immensea,MY-QQI,ZBP-TP,ZBP-TP V,Liquid Ozone,Medium,31.38
+Immensea,MY-QQI,ZBP-TP,ZBP-TP VI,Lustering Alloy,Medium,24.56
+Immensea,MY-QQI,ZBP-TP,ZBP-TP VI,Fiber Composite,Medium,22.10
+Immensea,MY-QQI,ZBP-TP,ZBP-TP VI,Glossy Compound,Rich,28.46
+Immensea,MY-QQI,ZBP-TP,ZBP-TP VI,Reactive Gas,Poor,17.74
+Immensea,MY-QQI,ZBP-TP,ZBP-TP VI,Coolant,Rich,20.89
+Immensea,MY-QQI,ZBP-TP,ZBP-TP VII,Fiber Composite,Medium,22.10
+Immensea,MY-QQI,ZBP-TP,ZBP-TP VII,Glossy Compound,Rich,27.58
+Immensea,MY-QQI,ZBP-TP,ZBP-TP VII,Reactive Gas,Rich,26.14
+Immensea,MY-QQI,ZBP-TP,ZBP-TP VII,Coolant,Perfect,21.79
+Immensea,MY-QQI,ZBP-TP,ZBP-TP VII,Ionic Solutions,Medium,7.70
+Immensea,MY-QQI,ZBP-TP,ZBP-TP VIII,Lustering Alloy,Poor,17.66
+Immensea,MY-QQI,ZBP-TP,ZBP-TP VIII,Sheen Compound,Medium,19.02
+Immensea,MY-QQI,ZBP-TP,ZBP-TP VIII,Reactive Gas,Rich,28.86
+Immensea,MY-QQI,ZBP-TP,ZBP-TP VIII,Base Metals,Rich,7.62
+Immensea,MY-QQI,ZBP-TP,ZBP-TP VIII,Reactive Metals,Medium,6.09
+Immensea,MY-QQI,ZBP-TP,ZBP-TP IX,Supertensile Plastics,Poor,10.03
+Immensea,MY-QQI,ZBP-TP,ZBP-TP IX,Construction Blocks,Medium,23.10
+Immensea,MY-QQI,ZBP-TP,ZBP-TP IX,Silicate Glass,Poor,8.53
+Immensea,MY-QQI,ZBP-TP,ZBP-TP IX,Oxygen Isotopes,Medium,2.92
+Immensea,MY-QQI,XVV-21,XVV-21 I,Precious Alloy,Poor,21.60
+Immensea,MY-QQI,XVV-21,XVV-21 I,Base Metals,Medium,5.81
+Immensea,MY-QQI,XVV-21,XVV-21 I,Industrial Fibers,Medium,6.44
+Immensea,MY-QQI,XVV-21,XVV-21 I,Supertensile Plastics,Medium,15.67
+Immensea,MY-QQI,XVV-21,XVV-21 II,Toxic Metals,Poor,4.00
+Immensea,MY-QQI,XVV-21,XVV-21 II,Industrial Fibers,Poor,4.37
+Immensea,MY-QQI,XVV-21,XVV-21 II,Supertensile Plastics,Poor,12.67
+Immensea,MY-QQI,XVV-21,XVV-21 II,Construction Blocks,Poor,20.54
+Immensea,MY-QQI,XVV-21,XVV-21 III,Gleaming Alloy,Medium,26.57
+Immensea,MY-QQI,XVV-21,XVV-21 III,Lucent Compound,Perfect,36.89
+Immensea,MY-QQI,XVV-21,XVV-21 III,Reactive Metals,Medium,6.07
+Immensea,MY-QQI,XVV-21,XVV-21 III,Supertensile Plastics,Perfect,24.72
+Immensea,MY-QQI,XVV-21,XVV-21 IV,Gleaming Alloy,Rich,31.19
+Immensea,MY-QQI,XVV-21,XVV-21 IV,Reactive Metals,Rich,8.86
+Immensea,MY-QQI,XVV-21,XVV-21 IV,Suspended Plasma,Medium,80.98
+Immensea,MY-QQI,XVV-21,XVV-21 IV,Oxygen Isotopes,Medium,3.43
+Immensea,MY-QQI,XVV-21,XVV-21 V,Gleaming Alloy,Poor,20.33
+Immensea,MY-QQI,XVV-21,XVV-21 V,Reactive Metals,Perfect,9.70
+Immensea,MY-QQI,XVV-21,XVV-21 V,Construction Blocks,Perfect,36.82
+Immensea,MY-QQI,XVV-21,XVV-21 V,Nanites,Rich,8.93
+Immensea,MY-QQI,XVV-21,XVV-21 VI,Sheen Compound,Rich,31.03
+Immensea,MY-QQI,XVV-21,XVV-21 VI,Reactive Gas,Medium,22.20
+Immensea,MY-QQI,XVV-21,XVV-21 VI,Noble Gas,Medium,28.27
+Immensea,MY-QQI,XVV-21,XVV-21 VI,Base Metals,Rich,9.36
+Immensea,MY-QQI,XVV-21,XVV-21 VI,Polyaramids,Rich,23.28
+Immensea,MY-QQI,XVV-21,XVV-21 VII,Lustering Alloy,Medium,25.67
+Immensea,MY-QQI,XVV-21,XVV-21 VII,Glossy Compound,Rich,30.29
+Immensea,MY-QQI,XVV-21,XVV-21 VII,Reactive Gas,Perfect,38.00
+Immensea,MY-QQI,XVV-21,XVV-21 VII,Polyaramids,Perfect,24.38
+Immensea,MY-QQI,XVV-21,XVV-21 VII,Coolant,Medium,15.20
+Immensea,MY-QQI,XVV-21,XVV-21 VIII,Reactive Metals,Rich,8.23
+Immensea,MY-QQI,XVV-21,XVV-21 VIII,Supertensile Plastics,Medium,15.32
+Immensea,MY-QQI,XVV-21,XVV-21 VIII,Construction Blocks,Rich,33.33
+Immensea,MY-QQI,XVV-21,XVV-21 VIII,Oxygen Isotopes,Perfect,5.51
+Immensea,MY-QQI,XVV-21,XVV-21 IX,Opulent Compound,Rich,36.27
+Immensea,MY-QQI,XVV-21,XVV-21 IX,Condensates,Perfect,27.75
+Immensea,MY-QQI,XVV-21,XVV-21 IX,Smartfab Units,Rich,19.61
+Immensea,MY-QQI,XVV-21,XVV-21 IX,Heavy Water,Rich,309.58
+Immensea,MY-QQI,XVV-21,XVV-21 IX,Liquid Ozone,Medium,28.32
+Immensea,MY-QQI,XVV-21,XVV-21 X,Sheen Compound,Perfect,37.79
+Immensea,MY-QQI,XVV-21,XVV-21 X,Reactive Gas,Rich,35.35
+Immensea,MY-QQI,XVV-21,XVV-21 X,Base Metals,Rich,8.76
+Immensea,MY-QQI,XVV-21,XVV-21 X,Polyaramids,Rich,19.75
+Immensea,MY-QQI,XVV-21,XVV-21 X,Ionic Solutions,Medium,8.94
+Immensea,RTCU-5,GXK-7F,GXK-7F I,Base Metals,Medium,7.00
+Immensea,RTCU-5,GXK-7F,GXK-7F I,Toxic Metals,Poor,3.96
+Immensea,RTCU-5,GXK-7F,GXK-7F I,Supertensile Plastics,Poor,13.42
+Immensea,RTCU-5,GXK-7F,GXK-7F I,Plasmoids,Medium,1.58
+Immensea,RTCU-5,GXK-7F,GXK-7F II,Gleaming Alloy,Medium,28.68
+Immensea,RTCU-5,GXK-7F,GXK-7F II,Crystal Compound,Medium,24.38
+Immensea,RTCU-5,GXK-7F,GXK-7F II,Reactive Metals,Rich,8.96
+Immensea,RTCU-5,GXK-7F,GXK-7F II,Suspended Plasma,Rich,123.62
+Immensea,RTCU-5,GXK-7F,GXK-7F III,Dark Compound,Medium,25.94
+Immensea,RTCU-5,GXK-7F,GXK-7F III,Supertensile Plastics,Poor,11.39
+Immensea,RTCU-5,GXK-7F,GXK-7F III,Silicate Glass,Poor,7.61
+Immensea,RTCU-5,GXK-7F,GXK-7F III,Plasmoids,Poor,1.23
+Immensea,RTCU-5,GXK-7F,GXK-7F IV,Gleaming Alloy,Medium,26.93
+Immensea,RTCU-5,GXK-7F,GXK-7F IV,Construction Blocks,Rich,32.43
+Immensea,RTCU-5,GXK-7F,GXK-7F IV,Plasmoids,Medium,1.38
+Immensea,RTCU-5,GXK-7F,GXK-7F V,Fiber Composite,Medium,22.26
+Immensea,RTCU-5,GXK-7F,GXK-7F V,Industrial Fibers,Rich,7.69
+Immensea,RTCU-5,GXK-7F,GXK-7F V,Condensates,Rich,19.80
+Immensea,RTCU-5,GXK-7F,GXK-7F V,Smartfab Units,Medium,15.49
+Immensea,RTCU-5,GXK-7F,GXK-7F V,Liquid Ozone,Perfect,48.93
+Immensea,RTCU-5,GXK-7F,GXK-7F VI,Condensed Alloy,Medium,23.02
+Immensea,RTCU-5,GXK-7F,GXK-7F VI,Reactive Gas,Rich,36.22
+Immensea,RTCU-5,GXK-7F,GXK-7F VI,Condensates,Perfect,26.82
+Immensea,RTCU-5,GXK-7F,GXK-7F VI,Heavy Water,Medium,269.56
+Immensea,RTCU-5,GXK-7F,GXK-7F VI,Liquid Ozone,Poor,26.65
+Immensea,RTCU-5,GXK-7F,GXK-7F VII,Fiber Composite,Perfect,37.12
+Immensea,RTCU-5,GXK-7F,GXK-7F VII,Glossy Compound,Rich,29.85
+Immensea,RTCU-5,GXK-7F,GXK-7F VII,Reactive Gas,Rich,29.67
+Immensea,RTCU-5,GXK-7F,GXK-7F VII,Polyaramids,Poor,12.59
+Immensea,RTCU-5,GXK-7F,GXK-7F VII,Ionic Solutions,Rich,11.84
+Immensea,RTCU-5,GXK-7F,GXK-7F VIII,Sheen Compound,Rich,33.53
+Immensea,RTCU-5,GXK-7F,GXK-7F VIII,Reactive Gas,Medium,28.47
+Immensea,RTCU-5,GXK-7F,GXK-7F VIII,Base Metals,Rich,8.03
+Immensea,RTCU-5,GXK-7F,GXK-7F VIII,Reactive Metals,Medium,5.98
+Immensea,RTCU-5,GXK-7F,GXK-7F VIII,Ionic Solutions,Rich,12.73
+Immensea,RTCU-5,EA-HSA,EA-HSA I,Gleaming Alloy,Rich,35.45
+Immensea,RTCU-5,EA-HSA,EA-HSA I,Glossy Compound,Rich,39.23
+Immensea,RTCU-5,EA-HSA,EA-HSA I,Polyaramids,Medium,18.22
+Immensea,RTCU-5,EA-HSA,EA-HSA I,Construction Blocks,Medium,25.82
+Immensea,RTCU-5,EA-HSA,EA-HSA II,Lustering Alloy,Poor,18.88
+Immensea,RTCU-5,EA-HSA,EA-HSA II,Precious Alloy,Poor,22.73
+Immensea,RTCU-5,EA-HSA,EA-HSA II,Dark Compound,Medium,27.35
+Immensea,RTCU-5,EA-HSA,EA-HSA II,Base Metals,Medium,7.98
+Immensea,RTCU-5,EA-HSA,EA-HSA II,Silicate Glass,Poor,10.86
+Immensea,RTCU-5,EA-HSA,EA-HSA III,Dark Compound,Poor,19.82
+Immensea,RTCU-5,EA-HSA,EA-HSA III,Base Metals,Poor,5.57
+Immensea,RTCU-5,EA-HSA,EA-HSA III,Industrial Fibers,Poor,4.10
+Immensea,RTCU-5,EA-HSA,EA-HSA III,Construction Blocks,Poor,23.07
+Immensea,RTCU-5,EA-HSA,EA-HSA III,Silicate Glass,Poor,10.56
+Immensea,RTCU-5,EA-HSA,EA-HSA IV,Lustering Alloy,Rich,34.92
+Immensea,RTCU-5,EA-HSA,EA-HSA IV,Sheen Compound,Medium,26.77
+Immensea,RTCU-5,EA-HSA,EA-HSA IV,Fiber Composite,Medium,23.73
+Immensea,RTCU-5,EA-HSA,EA-HSA IV,Reactive Metals,Medium,7.34
+Immensea,RTCU-5,EA-HSA,EA-HSA IV,Polyaramids,Medium,17.48
+Immensea,RTCU-5,EA-HSA,EA-HSA IV,Coolant,Perfect,27.12
+Immensea,RTCU-5,EA-HSA,EA-HSA V,Fiber Composite,Poor,21.48
+Immensea,RTCU-5,EA-HSA,EA-HSA V,Reactive Gas,Perfect,40.08
+Immensea,RTCU-5,EA-HSA,EA-HSA V,Noble Gas,Medium,29.77
+Immensea,RTCU-5,EA-HSA,EA-HSA V,Polyaramids,Rich,21.60
+Immensea,RTCU-5,EA-HSA,EA-HSA V,Coolant,Medium,16.15
+Immensea,RTCU-5,EA-HSA,EA-HSA V,Ionic Solutions,Medium,11.90
+Immensea,RTCU-5,EA-HSA,EA-HSA VI,Sheen Compound,Rich,36.83
+Immensea,RTCU-5,EA-HSA,EA-HSA VI,Fiber Composite,Rich,33.70
+Immensea,RTCU-5,EA-HSA,EA-HSA VI,Glossy Compound,Rich,32.23
+Immensea,RTCU-5,EA-HSA,EA-HSA VI,Noble Gas,Medium,29.60
+Immensea,RTCU-5,EA-HSA,EA-HSA VI,Base Metals,Medium,8.11
+Immensea,RTCU-5,EA-HSA,EA-HSA VI,Polyaramids,Medium,18.72
+Immensea,RTCU-5,EA-HSA,EA-HSA VII,Sheen Compound,Medium,29.02
+Immensea,RTCU-5,EA-HSA,EA-HSA VII,Noble Gas,Medium,30.15
+Immensea,RTCU-5,EA-HSA,EA-HSA VII,Base Metals,Perfect,10.80
+Immensea,RTCU-5,EA-HSA,EA-HSA VII,Reactive Metals,Medium,6.63
+Immensea,RTCU-5,EA-HSA,EA-HSA VII,Coolant,Rich,25.13
+Immensea,RTCU-5,EA-HSA,EA-HSA VII,Ionic Solutions,Poor,9.15
+Immensea,RTCU-5,78TS-Q,78TS-Q I,Sheen Compound,Rich,33.01
+Immensea,RTCU-5,78TS-Q,78TS-Q I,Dark Compound,Perfect,36.14
+Immensea,RTCU-5,78TS-Q,78TS-Q I,Reactive Metals,Rich,8.73
+Immensea,RTCU-5,78TS-Q,78TS-Q I,Condensates,Rich,20.51
+Immensea,RTCU-5,78TS-Q,78TS-Q I,Ionic Solutions,Medium,9.48
+Immensea,RTCU-5,78TS-Q,78TS-Q II,Reactive Gas,Rich,27.13
+Immensea,RTCU-5,78TS-Q,78TS-Q II,Reactive Metals,Rich,8.45
+Immensea,RTCU-5,78TS-Q,78TS-Q II,Supertensile Plastics,Rich,21.32
+Immensea,RTCU-5,78TS-Q,78TS-Q II,Construction Blocks,Medium,24.76
+Immensea,RTCU-5,78TS-Q,78TS-Q III,Gleaming Alloy,Perfect,34.80
+Immensea,RTCU-5,78TS-Q,78TS-Q III,Noble Gas,Medium,24.97
+Immensea,RTCU-5,78TS-Q,78TS-Q III,Construction Blocks,Rich,29.09
+Immensea,RTCU-5,78TS-Q,78TS-Q IV,Condensed Alloy,Rich,30.74
+Immensea,RTCU-5,78TS-Q,78TS-Q IV,Reactive Gas,Perfect,36.44
+Immensea,RTCU-5,78TS-Q,78TS-Q IV,Noble Metals,Perfect,39.38
+Immensea,RTCU-5,78TS-Q,78TS-Q IV,Condensates,Rich,19.28
+Immensea,RTCU-5,78TS-Q,78TS-Q IV,Liquid Ozone,Medium,28.74
+Immensea,RTCU-5,78TS-Q,78TS-Q V,Gleaming Alloy,Medium,26.31
+Immensea,RTCU-5,78TS-Q,78TS-Q V,Noble Metals,Medium,20.20
+Immensea,RTCU-5,78TS-Q,78TS-Q V,Oxygen Isotopes,Poor,2.61
+Immensea,RTCU-5,78TS-Q,78TS-Q VI,Base Metals,Poor,4.37
+Immensea,RTCU-5,78TS-Q,78TS-Q VI,Supertensile Plastics,Medium,15.78
+Immensea,RTCU-5,78TS-Q,78TS-Q VI,Silicate Glass,Medium,11.93
+Immensea,RTCU-5,78TS-Q,78TS-Q VI,Oxygen Isotopes,Medium,3.50
+Immensea,RTCU-5,78TS-Q,78TS-Q VII,Lustering Alloy,Poor,15.81
+Immensea,RTCU-5,78TS-Q,78TS-Q VII,Dark Compound,Poor,13.44
+Immensea,RTCU-5,78TS-Q,78TS-Q VII,Industrial Fibers,Poor,4.81
+Immensea,RTCU-5,78TS-Q,78TS-Q VII,Supertensile Plastics,Poor,8.85
+Immensea,RTCU-5,78TS-Q,78TS-Q VIII,Fiber Composite,Medium,21.67
+Immensea,RTCU-5,78TS-Q,78TS-Q VIII,Opulent Compound,Perfect,39.27
+Immensea,RTCU-5,78TS-Q,78TS-Q VIII,Noble Metals,Perfect,38.16
+Immensea,RTCU-5,78TS-Q,78TS-Q VIII,Condensates,Medium,15.05
+Immensea,RTCU-5,78TS-Q,78TS-Q VIII,Liquid Ozone,Perfect,46.44
+Immensea,RTCU-5,WYF8-8,WYF8-8 I,Dark Compound,Medium,29.15
+Immensea,RTCU-5,WYF8-8,WYF8-8 I,Toxic Metals,Medium,6.92
+Immensea,RTCU-5,WYF8-8,WYF8-8 I,Supertensile Plastics,Poor,12.17
+Immensea,RTCU-5,WYF8-8,WYF8-8 I,Construction Blocks,Poor,24.49
+Immensea,RTCU-5,WYF8-8,WYF8-8 I,Plasmoids,Medium,1.61
+Immensea,RTCU-5,WYF8-8,WYF8-8 II,Dark Compound,Poor,16.46
+Immensea,RTCU-5,WYF8-8,WYF8-8 II,Industrial Fibers,Poor,5.55
+Immensea,RTCU-5,WYF8-8,WYF8-8 II,Supertensile Plastics,Medium,17.11
+Immensea,RTCU-5,WYF8-8,WYF8-8 II,Oxygen Isotopes,Poor,2.86
+Immensea,RTCU-5,WYF8-8,WYF8-8 II,Plasmoids,Poor,1.34
+Immensea,RTCU-5,WYF8-8,WYF8-8 III,Lustering Alloy,Medium,26.81
+Immensea,RTCU-5,WYF8-8,WYF8-8 III,Precious Alloy,Medium,25.66
+Immensea,RTCU-5,WYF8-8,WYF8-8 III,Dark Compound,Medium,27.92
+Immensea,RTCU-5,WYF8-8,WYF8-8 III,Base Metals,Poor,4.59
+Immensea,RTCU-5,WYF8-8,WYF8-8 III,Plasmoids,Poor,1.21
+Immensea,RTCU-5,WYF8-8,WYF8-8 IV,Condensed Alloy,Medium,32.71
+Immensea,RTCU-5,WYF8-8,WYF8-8 IV,Fiber Composite,Perfect,43.73
+Immensea,RTCU-5,WYF8-8,WYF8-8 IV,Reactive Gas,Rich,41.08
+Immensea,RTCU-5,WYF8-8,WYF8-8 IV,Base Metals,Rich,9.27
+Immensea,RTCU-5,WYF8-8,WYF8-8 IV,Heavy Water,Medium,302.12
+Immensea,RTCU-5,WYF8-8,WYF8-8 IV,Liquid Ozone,Rich,41.34
+Immensea,RTCU-5,WYF8-8,WYF8-8 V,Lustering Alloy,Medium,27.92
+Immensea,RTCU-5,WYF8-8,WYF8-8 V,Precious Alloy,Medium,28.76
+Immensea,RTCU-5,WYF8-8,WYF8-8 V,Dark Compound,Poor,24.18
+Immensea,RTCU-5,WYF8-8,WYF8-8 V,Industrial Fibers,Poor,6.35
+Immensea,RTCU-5,WYF8-8,WYF8-8 V,Silicate Glass,Medium,15.60
+Immensea,RTCU-5,WYF8-8,WYF8-8 VI,Fiber Composite,Poor,22.75
+Immensea,RTCU-5,WYF8-8,WYF8-8 VI,Reactive Gas,Rich,38.51
+Immensea,RTCU-5,WYF8-8,WYF8-8 VI,Base Metals,Rich,8.85
+Immensea,RTCU-5,WYF8-8,WYF8-8 VI,Reactive Metals,Medium,6.99
+Immensea,RTCU-5,WYF8-8,WYF8-8 VI,Polyaramids,Rich,26.68
+Immensea,RTCU-5,WYF8-8,WYF8-8 VI,Coolant,Rich,27.30
+Immensea,RTCU-5,WYF8-8,WYF8-8 VII,Glossy Compound,Poor,23.79
+Immensea,RTCU-5,WYF8-8,WYF8-8 VII,Reactive Gas,Medium,26.08
+Immensea,RTCU-5,WYF8-8,WYF8-8 VII,Base Metals,Medium,7.84
+Immensea,RTCU-5,WYF8-8,WYF8-8 VII,Reactive Metals,Medium,7.95
+Immensea,RTCU-5,WYF8-8,WYF8-8 VII,Coolant,Rich,24.16
+Immensea,RTCU-5,WYF8-8,WYF8-8 VII,Ionic Solutions,Rich,16.07
+Immensea,RTCU-5,CJNF-J,CJNF-J I,Gleaming Alloy,Rich,30.18
+Immensea,RTCU-5,CJNF-J,CJNF-J I,Motley Compound,Rich,29.28
+Immensea,RTCU-5,CJNF-J,CJNF-J I,Construction Blocks,Rich,29.19
+Immensea,RTCU-5,CJNF-J,CJNF-J II,Lustering Alloy,Medium,22.86
+Immensea,RTCU-5,CJNF-J,CJNF-J II,Industrial Fibers,Medium,6.14
+Immensea,RTCU-5,CJNF-J,CJNF-J II,Supertensile Plastics,Poor,10.81
+Immensea,RTCU-5,CJNF-J,CJNF-J II,Silicate Glass,Medium,12.77
+Immensea,RTCU-5,CJNF-J,CJNF-J III,Reactive Metals,Medium,5.72
+Immensea,RTCU-5,CJNF-J,CJNF-J III,Toxic Metals,Medium,6.88
+Immensea,RTCU-5,CJNF-J,CJNF-J III,Supertensile Plastics,Rich,21.15
+Immensea,RTCU-5,CJNF-J,CJNF-J III,Construction Blocks,Medium,26.16
+Immensea,RTCU-5,CJNF-J,CJNF-J IV,Glossy Compound,Medium,26.95
+Immensea,RTCU-5,CJNF-J,CJNF-J IV,Reactive Gas,Rich,33.46
+Immensea,RTCU-5,CJNF-J,CJNF-J IV,Reactive Metals,Poor,4.93
+Immensea,RTCU-5,CJNF-J,CJNF-J IV,Coolant,Perfect,24.24
+Immensea,RTCU-5,CJNF-J,CJNF-J IV,Ionic Solutions,Perfect,14.34
+Immensea,RTCU-5,CJNF-J,CJNF-J V,Sheen Compound,Medium,25.89
+Immensea,RTCU-5,CJNF-J,CJNF-J V,Reactive Gas,Medium,23.85
+Immensea,RTCU-5,CJNF-J,CJNF-J V,Noble Gas,Rich,28.93
+Immensea,RTCU-5,CJNF-J,CJNF-J V,Base Metals,Rich,7.65
+Immensea,RTCU-5,CJNF-J,CJNF-J V,Ionic Solutions,Medium,9.51
+Immensea,RTCU-5,CJNF-J,CJNF-J VI,Lustering Alloy,Medium,25.19
+Immensea,RTCU-5,CJNF-J,CJNF-J VI,Reactive Gas,Medium,24.16
+Immensea,RTCU-5,CJNF-J,CJNF-J VI,Noble Gas,Medium,22.22
+Immensea,RTCU-5,CJNF-J,CJNF-J VI,Base Metals,Medium,5.91
+Immensea,RTCU-5,CJNF-J,CJNF-J VI,Coolant,Rich,22.25
+Immensea,RTCU-5,CJNF-J,CJNF-J VII,Glossy Compound,Rich,34.06
+Immensea,RTCU-5,CJNF-J,CJNF-J VII,Reactive Gas,Rich,32.82
+Immensea,RTCU-5,CJNF-J,CJNF-J VII,Reactive Metals,Medium,6.33
+Immensea,RTCU-5,CJNF-J,CJNF-J VII,Polyaramids,Medium,18.32
+Immensea,RTCU-5,CJNF-J,CJNF-J VII,Coolant,Medium,14.81
+Immensea,RTCU-5,CJNF-J,CJNF-J VIII,Reactive Gas,Perfect,36.50
+Immensea,RTCU-5,CJNF-J,CJNF-J VIII,Noble Gas,Poor,18.13
+Immensea,RTCU-5,CJNF-J,CJNF-J VIII,Polyaramids,Rich,20.87
+Immensea,RTCU-5,CJNF-J,CJNF-J VIII,Coolant,Rich,22.69
+Immensea,RTCU-5,CJNF-J,CJNF-J VIII,Ionic Solutions,Rich,11.62
+Immensea,RTCU-5,FYI-49,FYI-49 I,Lustering Alloy,Poor,17.47
+Immensea,RTCU-5,FYI-49,FYI-49 I,Dark Compound,Poor,17.76
+Immensea,RTCU-5,FYI-49,FYI-49 I,Construction Blocks,Medium,31.88
+Immensea,RTCU-5,FYI-49,FYI-49 I,Silicate Glass,Poor,9.83
+Immensea,RTCU-5,FYI-49,FYI-49 I,Oxygen Isotopes,Medium,4.22
+Immensea,RTCU-5,FYI-49,FYI-49 II,Motley Compound,Perfect,42.67
+Immensea,RTCU-5,FYI-49,FYI-49 II,Glossy Compound,Medium,29.17
+Immensea,RTCU-5,FYI-49,FYI-49 II,Smartfab Units,Poor,14.40
+Immensea,RTCU-5,FYI-49,FYI-49 II,Oxygen Isotopes,Rich,5.73
+Immensea,RTCU-5,FYI-49,FYI-49 III,Dark Compound,Medium,30.42
+Immensea,RTCU-5,FYI-49,FYI-49 III,Toxic Metals,Medium,7.81
+Immensea,RTCU-5,FYI-49,FYI-49 III,Industrial Fibers,Poor,5.88
+Immensea,RTCU-5,FYI-49,FYI-49 III,Supertensile Plastics,Medium,17.21
+Immensea,RTCU-5,FYI-49,FYI-49 III,Plasmoids,Poor,1.19
+Immensea,RTCU-5,FYI-49,FYI-49 IV,Condensed Alloy,Rich,40.79
+Immensea,RTCU-5,FYI-49,FYI-49 IV,Opulent Compound,Medium,29.17
+Immensea,RTCU-5,FYI-49,FYI-49 IV,Base Metals,Perfect,12.34
+Immensea,RTCU-5,FYI-49,FYI-49 IV,Condensates,Rich,25.43
+Immensea,RTCU-5,FYI-49,FYI-49 IV,Smartfab Units,Rich,22.22
+Immensea,RTCU-5,FYI-49,FYI-49 IV,Heavy Water,Rich,348.14
+Immensea,RTCU-5,FYI-49,FYI-49 V,Condensed Alloy,Medium,28.24
+Immensea,RTCU-5,FYI-49,FYI-49 V,Reactive Gas,Perfect,47.92
+Immensea,RTCU-5,FYI-49,FYI-49 V,Condensates,Perfect,31.89
+Immensea,RTCU-5,FYI-49,FYI-49 V,Smartfab Units,Medium,18.91
+Immensea,RTCU-5,FYI-49,FYI-49 V,Heavy Water,Medium,257.40
+Immensea,RTCU-5,FYI-49,FYI-49 V,Liquid Ozone,Medium,30.71
+Immensea,RTCU-5,FYI-49,FYI-49 VI,Lustering Alloy,Rich,33.54
+Immensea,RTCU-5,FYI-49,FYI-49 VI,Sheen Compound,Rich,40.95
+Immensea,RTCU-5,FYI-49,FYI-49 VI,Noble Gas,Medium,28.16
+Immensea,RTCU-5,FYI-49,FYI-49 VI,Base Metals,Rich,8.70
+Immensea,RTCU-5,FYI-49,FYI-49 VI,Reactive Metals,Rich,9.22
+Immensea,RTCU-5,FYI-49,FYI-49 VI,Polyaramids,Rich,23.16
+Immensea,RTCU-5,FYI-49,FYI-49 VII,Condensed Alloy,Medium,25.01
+Immensea,RTCU-5,FYI-49,FYI-49 VII,Noble Metals,Medium,27.53
+Immensea,RTCU-5,FYI-49,FYI-49 VII,Industrial Fibers,Poor,6.31
+Immensea,RTCU-5,FYI-49,FYI-49 VII,Smartfab Units,Medium,18.58
+Immensea,RTCU-5,FYI-49,FYI-49 VII,Heavy Water,Medium,288.08
+Immensea,RTCU-5,FYI-49,FYI-49 VII,Liquid Ozone,Medium,33.67
+Immensea,C73-U5,RF6T-8,RF6T-8 I,Precious Alloy,Poor,20.63
+Immensea,C73-U5,RF6T-8,RF6T-8 I,Dark Compound,Poor,18.27
+Immensea,C73-U5,RF6T-8,RF6T-8 I,Industrial Fibers,Poor,6.01
+Immensea,C73-U5,RF6T-8,RF6T-8 I,Construction Blocks,Poor,21.25
+Immensea,C73-U5,RF6T-8,RF6T-8 I,Oxygen Isotopes,Medium,4.01
+Immensea,C73-U5,RF6T-8,RF6T-8 II,Lucent Compound,Rich,35.08
+Immensea,C73-U5,RF6T-8,RF6T-8 II,Dark Compound,Rich,37.40
+Immensea,C73-U5,RF6T-8,RF6T-8 II,Heavy Metals,Rich,34.15
+Immensea,C73-U5,RF6T-8,RF6T-8 II,Condensates,Medium,18.00
+Immensea,C73-U5,RF6T-8,RF6T-8 II,Ionic Solutions,Rich,15.06
+Immensea,C73-U5,RF6T-8,RF6T-8 II,Plasmoids,Medium,1.68
+Immensea,C73-U5,RF6T-8,RF6T-8 III,Lucent Compound,Rich,35.40
+Immensea,C73-U5,RF6T-8,RF6T-8 III,Crystal Compound,Poor,21.98
+Immensea,C73-U5,RF6T-8,RF6T-8 III,Reactive Gas,Medium,28.15
+Immensea,C73-U5,RF6T-8,RF6T-8 III,Reactive Metals,Medium,7.10
+Immensea,C73-U5,RF6T-8,RF6T-8 III,Supertensile Plastics,Perfect,26.85
+Immensea,C73-U5,RF6T-8,RF6T-8 IV,Condensed Alloy,Perfect,45.13
+Immensea,C73-U5,RF6T-8,RF6T-8 IV,Base Metals,Medium,7.30
+Immensea,C73-U5,RF6T-8,RF6T-8 IV,Industrial Fibers,Perfect,10.80
+Immensea,C73-U5,RF6T-8,RF6T-8 IV,Condensates,Medium,20.97
+Immensea,C73-U5,RF6T-8,RF6T-8 IV,Smartfab Units,Poor,15.45
+Immensea,C73-U5,RF6T-8,RF6T-8 IV,Liquid Ozone,Perfect,56.38
+Immensea,C73-U5,RF6T-8,RF6T-8 V,Condensed Alloy,Rich,37.20
+Immensea,C73-U5,RF6T-8,RF6T-8 V,Noble Metals,Poor,22.95
+Immensea,C73-U5,RF6T-8,RF6T-8 V,Toxic Metals,Medium,7.25
+Immensea,C73-U5,RF6T-8,RF6T-8 V,Polyaramids,Perfect,26.62
+Immensea,C73-U5,RF6T-8,RF6T-8 V,Heavy Water,Rich,388.50
+Immensea,C73-U5,RF6T-8,RF6T-8 V,Liquid Ozone,Rich,45.69
+Immensea,C73-U5,RF6T-8,RF6T-8 VI,Condensed Alloy,Medium,26.25
+Immensea,C73-U5,RF6T-8,RF6T-8 VI,Opulent Compound,Perfect,43.60
+Immensea,C73-U5,RF6T-8,RF6T-8 VI,Base Metals,Medium,7.39
+Immensea,C73-U5,RF6T-8,RF6T-8 VI,Industrial Fibers,Perfect,12.10
+Immensea,C73-U5,RF6T-8,RF6T-8 VI,Heavy Water,Rich,365.50
+Immensea,C73-U5,RF6T-8,RF6T-8 VI,Liquid Ozone,Rich,39.84
+Immensea,C73-U5,RF6T-8,RF6T-8 VII,Lustering Alloy,Medium,27.43
+Immensea,C73-U5,RF6T-8,RF6T-8 VII,Glossy Compound,Rich,39.05
+Immensea,C73-U5,RF6T-8,RF6T-8 VII,Reactive Gas,Rich,38.38
+Immensea,C73-U5,RF6T-8,RF6T-8 VII,Base Metals,Medium,7.61
+Immensea,C73-U5,RF6T-8,RF6T-8 VII,Coolant,Medium,17.55
+Immensea,C73-U5,RF6T-8,RF6T-8 VII,Ionic Solutions,Rich,14.08
+Immensea,C73-U5,RF6T-8,RF6T-8 VIII,Sheen Compound,Medium,28.95
+Immensea,C73-U5,RF6T-8,RF6T-8 VIII,Glossy Compound,Poor,20.70
+Immensea,C73-U5,RF6T-8,RF6T-8 VIII,Reactive Gas,Rich,36.67
+Immensea,C73-U5,RF6T-8,RF6T-8 VIII,Reactive Metals,Rich,9.18
+Immensea,C73-U5,RF6T-8,RF6T-8 VIII,Polyaramids,Medium,17.78
+Immensea,C73-U5,RF6T-8,RF6T-8 VIII,Coolant,Poor,14.47
+Immensea,C73-U5,RF6T-8,RF6T-8 IX,Gleaming Alloy,Rich,32.48
+Immensea,C73-U5,RF6T-8,RF6T-8 IX,Lucent Compound,Rich,34.33
+Immensea,C73-U5,RF6T-8,RF6T-8 IX,Crystal Compound,Rich,34.92
+Immensea,C73-U5,RF6T-8,RF6T-8 IX,Reactive Gas,Perfect,40.38
+Immensea,C73-U5,RF6T-8,RF6T-8 IX,Suspended Plasma,Medium,99.09
+Immensea,C73-U5,RF6T-8,RF6T-8 X,Precious Alloy,Poor,16.90
+Immensea,C73-U5,RF6T-8,RF6T-8 X,Dark Compound,Poor,22.13
+Immensea,C73-U5,RF6T-8,RF6T-8 X,Industrial Fibers,Poor,4.78
+Immensea,C73-U5,RF6T-8,RF6T-8 X,Construction Blocks,Poor,15.60
+Immensea,C73-U5,RF6T-8,RF6T-8 X,Plasmoids,Poor,1.16
+Immensea,C73-U5,ZJA-6U,ZJA-6U I,Lustering Alloy,Medium,30.68
+Immensea,C73-U5,ZJA-6U,ZJA-6U I,Precious Alloy,Medium,27.32
+Immensea,C73-U5,ZJA-6U,ZJA-6U I,Dark Compound,Poor,16.65
+Immensea,C73-U5,ZJA-6U,ZJA-6U I,Supertensile Plastics,Poor,12.32
+Immensea,C73-U5,ZJA-6U,ZJA-6U I,Silicate Glass,Medium,13.89
+Immensea,C73-U5,ZJA-6U,ZJA-6U II,Crystal Compound,Poor,21.43
+Immensea,C73-U5,ZJA-6U,ZJA-6U II,Reactive Gas,Medium,26.63
+Immensea,C73-U5,ZJA-6U,ZJA-6U II,Toxic Metals,Medium,7.28
+Immensea,C73-U5,ZJA-6U,ZJA-6U II,Nanites,Perfect,10.68
+Immensea,C73-U5,ZJA-6U,ZJA-6U II,Suspended Plasma,Poor,78.12
+Immensea,C73-U5,94FR-S,94FR-S I,Gleaming Alloy,Poor,23.24
+Immensea,C73-U5,94FR-S,94FR-S I,Motley Compound,Medium,30.71
+Immensea,C73-U5,94FR-S,94FR-S I,Glossy Compound,Rich,39.78
+Immensea,C73-U5,94FR-S,94FR-S I,Noble Metals,Rich,34.94
+Immensea,C73-U5,94FR-S,94FR-S II,Lustering Alloy,Medium,27.98
+Immensea,C73-U5,94FR-S,94FR-S II,Dark Compound,Poor,18.23
+Immensea,C73-U5,94FR-S,94FR-S II,Supertensile Plastics,Poor,16.33
+Immensea,C73-U5,94FR-S,94FR-S II,Silicate Glass,Poor,10.48
+Immensea,C73-U5,94FR-S,94FR-S II,Oxygen Isotopes,Medium,4.57
+Immensea,C73-U5,94FR-S,94FR-S III,Condensed Alloy,Rich,37.36
+Immensea,C73-U5,94FR-S,94FR-S III,Opulent Compound,Rich,34.66
+Immensea,C73-U5,94FR-S,94FR-S III,Reactive Gas,Medium,26.62
+Immensea,C73-U5,94FR-S,94FR-S III,Noble Metals,Rich,32.97
+Immensea,C73-U5,94FR-S,94FR-S III,Industrial Fibers,Rich,9.14
+Immensea,C73-U5,94FR-S,94FR-S III,Liquid Ozone,Rich,46.31
+Immensea,C73-U5,94FR-S,94FR-S IV,Condensed Alloy,Perfect,44.59
+Immensea,C73-U5,94FR-S,94FR-S IV,Opulent Compound,Rich,35.23
+Immensea,C73-U5,94FR-S,94FR-S IV,Base Metals,Rich,10.33
+Immensea,C73-U5,94FR-S,94FR-S IV,Noble Metals,Medium,28.50
+Immensea,C73-U5,94FR-S,94FR-S IV,Industrial Fibers,Rich,9.16
+Immensea,C73-U5,94FR-S,94FR-S IV,Smartfab Units,Medium,18.72
+Immensea,C73-U5,94FR-S,94FR-S V,Condensed Alloy,Rich,33.46
+Immensea,C73-U5,94FR-S,94FR-S V,Fiber Composite,Perfect,45.08
+Immensea,C73-U5,94FR-S,94FR-S V,Reactive Gas,Perfect,45.32
+Immensea,C73-U5,94FR-S,94FR-S V,Base Metals,Rich,9.21
+Immensea,C73-U5,94FR-S,94FR-S V,Smartfab Units,Medium,21.13
+Immensea,C73-U5,94FR-S,94FR-S V,Heavy Water,Perfect,440.96
+Immensea,C73-U5,94FR-S,94FR-S VI,Sheen Compound,Medium,31.28
+Immensea,C73-U5,94FR-S,94FR-S VI,Fiber Composite,Poor,24.13
+Immensea,C73-U5,94FR-S,94FR-S VI,Glossy Compound,Rich,39.52
+Immensea,C73-U5,94FR-S,94FR-S VI,Noble Gas,Rich,40.17
+Immensea,C73-U5,94FR-S,94FR-S VI,Polyaramids,Medium,20.63
+Immensea,C73-U5,94FR-S,94FR-S VI,Ionic Solutions,Rich,14.28
+Immensea,C73-U5,94FR-S,94FR-S VII,Lustering Alloy,Medium,32.37
+Immensea,C73-U5,94FR-S,94FR-S VII,Fiber Composite,Medium,31.85
+Immensea,C73-U5,94FR-S,94FR-S VII,Reactive Gas,Rich,39.65
+Immensea,C73-U5,94FR-S,94FR-S VII,Reactive Metals,Medium,7.47
+Immensea,C73-U5,94FR-S,94FR-S VII,Coolant,Rich,25.25
+Immensea,C73-U5,94FR-S,94FR-S VII,Ionic Solutions,Rich,13.99
+Immensea,C73-U5,94FR-S,94FR-S VIII,Lustering Alloy,Medium,27.22
+Immensea,C73-U5,94FR-S,94FR-S VIII,Sheen Compound,Perfect,41.70
+Immensea,C73-U5,94FR-S,94FR-S VIII,Fiber Composite,Medium,26.62
+Immensea,C73-U5,94FR-S,94FR-S VIII,Reactive Gas,Medium,26.44
+Immensea,C73-U5,94FR-S,94FR-S VIII,Noble Gas,Medium,30.91
+Immensea,C73-U5,94FR-S,94FR-S VIII,Ionic Solutions,Medium,11.54
+Immensea,C73-U5,94FR-S,94FR-S IX,Lustering Alloy,Medium,28.50
+Immensea,C73-U5,94FR-S,94FR-S IX,Sheen Compound,Poor,21.89
+Immensea,C73-U5,94FR-S,94FR-S IX,Fiber Composite,Medium,32.86
+Immensea,C73-U5,94FR-S,94FR-S IX,Glossy Compound,Perfect,43.13
+Immensea,C73-U5,94FR-S,94FR-S IX,Base Metals,Rich,10.69
+Immensea,C73-U5,94FR-S,94FR-S IX,Reactive Metals,Medium,8.53
+Immensea,C73-U5,94FR-S,94FR-S X,Precious Alloy,Medium,29.20
+Immensea,C73-U5,94FR-S,94FR-S X,Motley Compound,Medium,32.24
+Immensea,C73-U5,94FR-S,94FR-S X,Base Metals,Medium,7.63
+Immensea,C73-U5,94FR-S,94FR-S X,Industrial Fibers,Poor,6.41
+Immensea,C73-U5,94FR-S,94FR-S X,Supertensile Plastics,Rich,25.01
+Immensea,C73-U5,Q-HJ97,Q-HJ97 I,Precious Alloy,Poor,19.18
+Immensea,C73-U5,Q-HJ97,Q-HJ97 I,Dark Compound,Poor,15.77
+Immensea,C73-U5,Q-HJ97,Q-HJ97 I,Supertensile Plastics,Medium,16.69
+Immensea,C73-U5,Q-HJ97,Q-HJ97 I,Oxygen Isotopes,Poor,2.52
+Immensea,C73-U5,Q-HJ97,Q-HJ97 II,Precious Alloy,Poor,16.10
+Immensea,C73-U5,Q-HJ97,Q-HJ97 II,Industrial Fibers,Poor,4.79
+Immensea,C73-U5,Q-HJ97,Q-HJ97 II,Supertensile Plastics,Poor,11.54
+Immensea,C73-U5,Q-HJ97,Q-HJ97 II,Construction Blocks,Poor,19.10
+Immensea,C73-U5,Q-HJ97,Q-HJ97 III,Lustering Alloy,Medium,23.16
+Immensea,C73-U5,Q-HJ97,Q-HJ97 III,Precious Alloy,Poor,18.24
+Immensea,C73-U5,Q-HJ97,Q-HJ97 III,Supertensile Plastics,Medium,15.65
+Immensea,C73-U5,Q-HJ97,Q-HJ97 III,Plasmoids,Medium,1.68
+Immensea,C73-U5,Q-HJ97,Q-HJ97 IV,Dark Compound,Perfect,38.38
+Immensea,C73-U5,Q-HJ97,Q-HJ97 IV,Noble Gas,Perfect,39.02
+Immensea,C73-U5,Q-HJ97,Q-HJ97 IV,Condensates,Medium,16.50
+Immensea,C73-U5,Q-HJ97,Q-HJ97 IV,Nanites,Rich,9.64
+Immensea,C73-U5,Q-HJ97,Q-HJ97 IV,Suspended Plasma,Perfect,146.10
+Immensea,C73-U5,Q-HJ97,Q-HJ97 V,Lustering Alloy,Poor,15.46
+Immensea,C73-U5,Q-HJ97,Q-HJ97 V,Toxic Metals,Medium,7.67
+Immensea,C73-U5,Q-HJ97,Q-HJ97 V,Industrial Fibers,Poor,4.83
+Immensea,C73-U5,Q-HJ97,Q-HJ97 V,Supertensile Plastics,Poor,11.06
+Immensea,C73-U5,Q-HJ97,Q-HJ97 VI,Precious Alloy,Poor,19.22
+Immensea,C73-U5,Q-HJ97,Q-HJ97 VI,Supertensile Plastics,Medium,19.62
+Immensea,C73-U5,Q-HJ97,Q-HJ97 VI,Construction Blocks,Medium,29.42
+Immensea,C73-U5,Q-HJ97,Q-HJ97 VI,Plasmoids,Poor,0.99
+Immensea,C73-U5,Q-HJ97,Q-HJ97 VII,Reactive Metals,Medium,6.68
+Immensea,C73-U5,Q-HJ97,Q-HJ97 VII,Construction Blocks,Medium,24.86
+Immensea,C73-U5,Q-HJ97,Q-HJ97 VII,Nanites,Medium,6.37
+Immensea,C73-U5,Q-HJ97,Q-HJ97 VII,Suspended Plasma,Perfect,141.26
+Immensea,C73-U5,Q-HJ97,Q-HJ97 VIII,Lustering Alloy,Medium,25.58
+Immensea,C73-U5,Q-HJ97,Q-HJ97 VIII,Sheen Compound,Medium,28.75
+Immensea,C73-U5,Q-HJ97,Q-HJ97 VIII,Fiber Composite,Rich,32.09
+Immensea,C73-U5,Q-HJ97,Q-HJ97 VIII,Reactive Gas,Rich,36.41
+Immensea,C73-U5,Q-HJ97,Q-HJ97 VIII,Base Metals,Rich,9.91
+Immensea,C73-U5,Q-HJ97,Q-HJ97 IX,Sheen Compound,Medium,27.77
+Immensea,C73-U5,Q-HJ97,Q-HJ97 IX,Reactive Gas,Medium,26.83
+Immensea,C73-U5,Q-HJ97,Q-HJ97 IX,Reactive Metals,Medium,6.59
+Immensea,C73-U5,Q-HJ97,Q-HJ97 IX,Polyaramids,Rich,23.44
+Immensea,C73-U5,Q-HJ97,Q-HJ97 IX,Ionic Solutions,Medium,9.20
+Immensea,C73-U5,Q-HJ97,Q-HJ97 X,Lustering Alloy,Poor,19.85
+Immensea,C73-U5,Q-HJ97,Q-HJ97 X,Precious Alloy,Medium,25.80
+Immensea,C73-U5,Q-HJ97,Q-HJ97 X,Condensates,Rich,22.88
+Immensea,C73-U5,Q-HJ97,Q-HJ97 X,Suspended Plasma,Medium,82.68
+Immensea,C73-U5,GM-0K7,GM-0K7 I,Gleaming Alloy,Rich,31.00
+Immensea,C73-U5,GM-0K7,GM-0K7 I,Motley Compound,Medium,23.64
+Immensea,C73-U5,GM-0K7,GM-0K7 I,Construction Blocks,Rich,30.96
+Immensea,C73-U5,GM-0K7,GM-0K7 II,Crystal Compound,Medium,28.24
+Immensea,C73-U5,GM-0K7,GM-0K7 II,Polyaramids,Medium,16.28
+Immensea,C73-U5,GM-0K7,GM-0K7 II,Coolant,Rich,20.45
+Immensea,C73-U5,GM-0K7,GM-0K7 II,Silicate Glass,Medium,14.36
+Immensea,C73-U5,GM-0K7,GM-0K7 II,Liquid Ozone,Medium,35.30
+Immensea,C73-U5,GM-0K7,GM-0K7 III,Opulent Compound,Medium,24.95
+Immensea,C73-U5,GM-0K7,GM-0K7 III,Base Metals,Rich,9.35
+Immensea,C73-U5,GM-0K7,GM-0K7 III,Condensates,Medium,14.92
+Immensea,C73-U5,GM-0K7,GM-0K7 III,Heavy Water,Rich,321.08
+Immensea,C73-U5,GM-0K7,GM-0K7 III,Liquid Ozone,Perfect,45.68
+Immensea,C73-U5,GM-0K7,GM-0K7 IV,Reactive Gas,Rich,32.18
+Immensea,C73-U5,GM-0K7,GM-0K7 IV,Noble Gas,Rich,32.75
+Immensea,C73-U5,GM-0K7,GM-0K7 IV,Base Metals,Rich,8.20
+Immensea,C73-U5,GM-0K7,GM-0K7 IV,Reactive Metals,Medium,6.31
+Immensea,C73-U5,GM-0K7,GM-0K7 IV,Polyaramids,Medium,15.36
+Immensea,C73-U5,GM-0K7,GM-0K7 V,Sheen Compound,Poor,20.40
+Immensea,C73-U5,GM-0K7,GM-0K7 V,Fiber Composite,Perfect,37.93
+Immensea,C73-U5,GM-0K7,GM-0K7 V,Reactive Gas,Perfect,37.42
+Immensea,C73-U5,GM-0K7,GM-0K7 V,Noble Gas,Rich,31.16
+Immensea,C73-U5,GM-0K7,GM-0K7 V,Base Metals,Medium,7.28
+Immensea,C73-U5,GM-0K7,GM-0K7 VI,Sheen Compound,Poor,21.46
+Immensea,C73-U5,GM-0K7,GM-0K7 VI,Glossy Compound,Rich,29.67
+Immensea,C73-U5,GM-0K7,GM-0K7 VI,Reactive Gas,Rich,33.49
+Immensea,C73-U5,GM-0K7,GM-0K7 VI,Base Metals,Rich,8.79
+Immensea,C73-U5,GM-0K7,GM-0K7 VI,Ionic Solutions,Medium,9.28
+Immensea,C73-U5,GM-0K7,GM-0K7 VII,Fiber Composite,Medium,22.95
+Immensea,C73-U5,GM-0K7,GM-0K7 VII,Reactive Gas,Rich,33.63
+Immensea,C73-U5,GM-0K7,GM-0K7 VII,Base Metals,Rich,9.35
+Immensea,C73-U5,GM-0K7,GM-0K7 VII,Polyaramids,Rich,19.76
+Immensea,C73-U5,GM-0K7,GM-0K7 VII,Ionic Solutions,Medium,10.67
+Immensea,C73-U5,GM-0K7,GM-0K7 VIII,Supertensile Plastics,Rich,21.97
+Immensea,C73-U5,GM-0K7,GM-0K7 VIII,Coolant,Rich,22.51
+Immensea,C73-U5,GM-0K7,GM-0K7 VIII,Condensates,Poor,11.84
+Immensea,C73-U5,GM-0K7,GM-0K7 VIII,Suspended Plasma,Medium,81.56
+Immensea,C73-U5,GM-0K7,GM-0K7 IX,Gleaming Alloy,Perfect,36.71
+Immensea,C73-U5,GM-0K7,GM-0K7 IX,Construction Blocks,Rich,35.51
+Immensea,C73-U5,GM-0K7,GM-0K7 IX,Smartfab Units,Medium,17.62
+Immensea,C73-U5,I-NGI8,I-NGI8 I,Lustering Alloy,Poor,19.38
+Immensea,C73-U5,I-NGI8,I-NGI8 I,Precious Alloy,Medium,23.75
+Immensea,C73-U5,I-NGI8,I-NGI8 I,Dark Compound,Poor,22.85
+Immensea,C73-U5,I-NGI8,I-NGI8 I,Industrial Fibers,Medium,6.40
+Immensea,C73-U5,I-NGI8,I-NGI8 I,Oxygen Isotopes,Medium,4.06
+Immensea,C73-U5,I-NGI8,I-NGI8 II,Dark Compound,Poor,22.95
+Immensea,C73-U5,I-NGI8,I-NGI8 II,Industrial Fibers,Medium,7.13
+Immensea,C73-U5,I-NGI8,I-NGI8 II,Supertensile Plastics,Medium,19.45
+Immensea,C73-U5,I-NGI8,I-NGI8 II,Construction Blocks,Medium,24.45
+Immensea,C73-U5,I-NGI8,I-NGI8 II,Plasmoids,Medium,1.70
+Immensea,C73-U5,I-NGI8,I-NGI8 III,Dark Compound,Medium,25.82
+Immensea,C73-U5,I-NGI8,I-NGI8 III,Base Metals,Poor,4.43
+Immensea,C73-U5,I-NGI8,I-NGI8 III,Industrial Fibers,Poor,5.93
+Immensea,C73-U5,I-NGI8,I-NGI8 III,Supertensile Plastics,Medium,20.02
+Immensea,C73-U5,I-NGI8,I-NGI8 III,Plasmoids,Medium,1.47
+Immensea,C73-U5,I-NGI8,I-NGI8 IV,Glossy Compound,Medium,24.90
+Immensea,C73-U5,I-NGI8,I-NGI8 IV,Noble Metals,Poor,21.45
+Immensea,C73-U5,I-NGI8,I-NGI8 IV,Smartfab Units,Poor,14.55
+Immensea,C73-U5,I-NGI8,I-NGI8 IV,Oxygen Isotopes,Medium,4.43
+Immensea,C73-U5,I-NGI8,I-NGI8 V,Glossy Compound,Medium,27.77
+Immensea,C73-U5,I-NGI8,I-NGI8 V,Heavy Metals,Perfect,41.15
+Immensea,C73-U5,I-NGI8,I-NGI8 V,Polyaramids,Poor,14.90
+Immensea,C73-U5,I-NGI8,I-NGI8 V,Oxygen Isotopes,Perfect,6.31
+Immensea,C73-U5,I-NGI8,I-NGI8 VI,Noble Metals,Rich,33.45
+Immensea,C73-U5,I-NGI8,I-NGI8 VI,Toxic Metals,Medium,7.55
+Immensea,C73-U5,I-NGI8,I-NGI8 VI,Polyaramids,Perfect,28.97
+Immensea,C73-U5,I-NGI8,I-NGI8 VI,Coolant,Medium,18.47
+Immensea,C73-U5,I-NGI8,I-NGI8 VI,Silicate Glass,Rich,17.36
+Immensea,C73-U5,I-NGI8,I-NGI8 VI,Liquid Ozone,Poor,28.75
+Immensea,C73-U5,I-NGI8,I-NGI8 VII,Condensed Alloy,Rich,38.23
+Immensea,C73-U5,I-NGI8,I-NGI8 VII,Reactive Gas,Perfect,40.00
+Immensea,C73-U5,I-NGI8,I-NGI8 VII,Base Metals,Rich,8.73
+Immensea,C73-U5,I-NGI8,I-NGI8 VII,Noble Metals,Perfect,42.98
+Immensea,C73-U5,I-NGI8,I-NGI8 VII,Smartfab Units,Rich,26.12
+Immensea,C73-U5,I-NGI8,I-NGI8 VII,Liquid Ozone,Poor,29.13
+Immensea,C73-U5,I-NGI8,I-NGI8 VIII,Glossy Compound,Medium,29.10
+Immensea,C73-U5,I-NGI8,I-NGI8 VIII,Noble Gas,Medium,27.80
+Immensea,C73-U5,I-NGI8,I-NGI8 VIII,Smartfab Units,Rich,24.22
+Immensea,C73-U5,I-NGI8,I-NGI8 VIII,Plasmoids,Medium,1.77
+Immensea,C73-U5,I-NGI8,I-NGI8 IX,Lustering Alloy,Rich,33.15
+Immensea,C73-U5,I-NGI8,I-NGI8 IX,Sheen Compound,Poor,21.05
+Immensea,C73-U5,I-NGI8,I-NGI8 IX,Glossy Compound,Perfect,40.95
+Immensea,C73-U5,I-NGI8,I-NGI8 IX,Noble Gas,Medium,26.32
+Immensea,C73-U5,I-NGI8,I-NGI8 IX,Base Metals,Rich,10.18
+Immensea,C73-U5,I-NGI8,I-NGI8 IX,Polyaramids,Medium,19.77
+Immensea,C73-U5,I-NGI8,I-NGI8 X,Lustering Alloy,Medium,24.02
+Immensea,C73-U5,I-NGI8,I-NGI8 X,Dark Compound,Poor,18.82
+Immensea,C73-U5,I-NGI8,I-NGI8 X,Base Metals,Poor,5.96
+Immensea,C73-U5,I-NGI8,I-NGI8 X,Construction Blocks,Medium,24.52
+Immensea,C73-U5,I-NGI8,I-NGI8 X,Silicate Glass,Poor,11.20
+Immensea,C73-U5,R-ZUOL,R-ZUOL I,Gleaming Alloy,Rich,34.84
+Immensea,C73-U5,R-ZUOL,R-ZUOL I,Glossy Compound,Rich,37.18
+Immensea,C73-U5,R-ZUOL,R-ZUOL I,Noble Gas,Rich,36.56
+Immensea,C73-U5,R-ZUOL,R-ZUOL I,Construction Blocks,Rich,33.23
+Immensea,C73-U5,R-ZUOL,R-ZUOL II,Lustering Alloy,Medium,27.87
+Immensea,C73-U5,R-ZUOL,R-ZUOL II,Precious Alloy,Poor,22.80
+Immensea,C73-U5,R-ZUOL,R-ZUOL II,Dark Compound,Medium,27.14
+Immensea,C73-U5,R-ZUOL,R-ZUOL II,Supertensile Plastics,Medium,19.05
+Immensea,C73-U5,R-ZUOL,R-ZUOL II,Plasmoids,Poor,1.28
+Immensea,C73-U5,R-ZUOL,R-ZUOL III,Motley Compound,Medium,26.44
+Immensea,C73-U5,R-ZUOL,R-ZUOL III,Glossy Compound,Rich,33.07
+Immensea,C73-U5,R-ZUOL,R-ZUOL III,Noble Gas,Medium,26.23
+Immensea,C73-U5,R-ZUOL,R-ZUOL III,Smartfab Units,Poor,16.07
+Immensea,C73-U5,R-ZUOL,R-ZUOL IV,Glossy Compound,Poor,21.37
+Immensea,C73-U5,R-ZUOL,R-ZUOL IV,Reactive Gas,Rich,39.47
+Immensea,C73-U5,R-ZUOL,R-ZUOL IV,Noble Gas,Poor,21.66
+Immensea,C73-U5,R-ZUOL,R-ZUOL IV,Polyaramids,Medium,17.66
+Immensea,C73-U5,R-ZUOL,R-ZUOL IV,Coolant,Rich,27.33
+Immensea,C73-U5,R-ZUOL,R-ZUOL IV,Ionic Solutions,Rich,15.30
+Immensea,C73-U5,R-ZUOL,R-ZUOL V,Fiber Composite,Poor,21.50
+Immensea,C73-U5,R-ZUOL,R-ZUOL V,Glossy Compound,Rich,34.71
+Immensea,C73-U5,R-ZUOL,R-ZUOL V,Reactive Gas,Medium,30.63
+Immensea,C73-U5,R-ZUOL,R-ZUOL V,Noble Gas,Poor,21.40
+Immensea,C73-U5,R-ZUOL,R-ZUOL V,Reactive Metals,Rich,10.32
+Immensea,C73-U5,R-ZUOL,R-ZUOL V,Ionic Solutions,Medium,12.64
+Immensea,C73-U5,R-ZUOL,R-ZUOL VI,Glossy Compound,Rich,39.60
+Immensea,C73-U5,R-ZUOL,R-ZUOL VI,Reactive Gas,Poor,22.96
+Immensea,C73-U5,R-ZUOL,R-ZUOL VI,Noble Gas,Medium,25.30
+Immensea,C73-U5,R-ZUOL,R-ZUOL VI,Reactive Metals,Perfect,11.28
+Immensea,C73-U5,R-ZUOL,R-ZUOL VI,Polyaramids,Perfect,27.66
+Immensea,C73-U5,R-ZUOL,R-ZUOL VI,Coolant,Medium,19.81
+Immensea,C73-U5,R-ZUOL,R-ZUOL VII,Sheen Compound,Rich,39.44
+Immensea,C73-U5,R-ZUOL,R-ZUOL VII,Fiber Composite,Rich,34.19
+Immensea,C73-U5,R-ZUOL,R-ZUOL VII,Glossy Compound,Medium,25.43
+Immensea,C73-U5,R-ZUOL,R-ZUOL VII,Reactive Gas,Medium,24.75
+Immensea,C73-U5,R-ZUOL,R-ZUOL VII,Polyaramids,Medium,18.32
+Immensea,C73-U5,R-ZUOL,R-ZUOL VII,Coolant,Medium,16.36
+Immensea,C73-U5,R-ZUOL,R-ZUOL VIII,Precious Alloy,Poor,22.88
+Immensea,C73-U5,R-ZUOL,R-ZUOL VIII,Motley Compound,Medium,26.57
+Immensea,C73-U5,R-ZUOL,R-ZUOL VIII,Base Metals,Medium,7.80
+Immensea,C73-U5,R-ZUOL,R-ZUOL VIII,Heavy Metals,Rich,38.30
+Immensea,C73-U5,R-ZUOL,R-ZUOL VIII,Supertensile Plastics,Medium,20.21
+Immensea,C73-U5,E1F-LK,E1F-LK I,Dark Compound,Poor,19.90
+Immensea,C73-U5,E1F-LK,E1F-LK I,Supertensile Plastics,Medium,19.34
+Immensea,C73-U5,E1F-LK,E1F-LK I,Silicate Glass,Medium,12.19
+Immensea,C73-U5,E1F-LK,E1F-LK I,Plasmoids,Medium,1.72
+Immensea,C73-U5,E1F-LK,E1F-LK II,Toxic Metals,Poor,4.03
+Immensea,C73-U5,E1F-LK,E1F-LK II,Industrial Fibers,Poor,3.98
+Immensea,C73-U5,E1F-LK,E1F-LK II,Supertensile Plastics,Poor,14.03
+Immensea,C73-U5,E1F-LK,E1F-LK II,Silicate Glass,Medium,12.14
+Immensea,C73-U5,E1F-LK,E1F-LK III,Lucent Compound,Perfect,38.33
+Immensea,C73-U5,E1F-LK,E1F-LK III,Noble Gas,Rich,35.90
+Immensea,C73-U5,E1F-LK,E1F-LK III,Condensates,Medium,18.27
+Immensea,C73-U5,E1F-LK,E1F-LK III,Suspended Plasma,Rich,124.42
+Immensea,C73-U5,E1F-LK,E1F-LK III,Plasmoids,Perfect,2.33
+Immensea,C73-U5,E1F-LK,E1F-LK IV,Condensed Alloy,Medium,26.30
+Immensea,C73-U5,E1F-LK,E1F-LK IV,Noble Metals,Rich,33.48
+Immensea,C73-U5,E1F-LK,E1F-LK IV,Coolant,Poor,14.86
+Immensea,C73-U5,E1F-LK,E1F-LK IV,Liquid Ozone,Medium,37.56
+Immensea,C73-U5,E1F-LK,E1F-LK IV,Ionic Solutions,Perfect,16.63
+Immensea,C73-U5,E1F-LK,E1F-LK V,Base Metals,Poor,4.82
+Immensea,C73-U5,E1F-LK,E1F-LK V,Toxic Metals,Poor,5.82
+Immensea,C73-U5,E1F-LK,E1F-LK V,Industrial Fibers,Medium,7.67
+Immensea,C73-U5,E1F-LK,E1F-LK V,Supertensile Plastics,Medium,19.18
+Immensea,C73-U5,E1F-LK,E1F-LK VI,Lustering Alloy,Poor,19.10
+Immensea,C73-U5,E1F-LK,E1F-LK VI,Supertensile Plastics,Poor,10.22
+Immensea,C73-U5,E1F-LK,E1F-LK VI,Construction Blocks,Medium,22.85
+Immensea,C73-U5,E1F-LK,E1F-LK VI,Oxygen Isotopes,Medium,3.92
+Immensea,C73-U5,E1F-LK,E1F-LK VII,Lucent Compound,Rich,35.11
+Immensea,C73-U5,E1F-LK,E1F-LK VII,Reactive Metals,Medium,7.95
+Immensea,C73-U5,E1F-LK,E1F-LK VII,Construction Blocks,Medium,25.80
+Immensea,C73-U5,E1F-LK,E1F-LK VII,Suspended Plasma,Rich,133.23
+Immensea,C73-U5,E1F-LK,E1F-LK VIII,Lucent Compound,Medium,24.24
+Immensea,C73-U5,E1F-LK,E1F-LK VIII,Crystal Compound,Medium,23.57
+Immensea,C73-U5,E1F-LK,E1F-LK VIII,Reactive Metals,Medium,7.31
+Immensea,C73-U5,E1F-LK,E1F-LK VIII,Oxygen Isotopes,Rich,5.57
+Immensea,C73-U5,E1F-LK,E1F-LK IX,Sheen Compound,Rich,37.20
+Immensea,C73-U5,E1F-LK,E1F-LK IX,Glossy Compound,Rich,37.44
+Immensea,C73-U5,E1F-LK,E1F-LK IX,Reactive Gas,Rich,31.25
+Immensea,C73-U5,E1F-LK,E1F-LK IX,Noble Gas,Medium,27.38
+Immensea,C73-U5,E1F-LK,E1F-LK IX,Polyaramids,Perfect,26.45
+Immensea,C73-U5,E1F-LK,E1F-LK X,Precious Alloy,Medium,25.94
+Immensea,C73-U5,E1F-LK,E1F-LK X,Industrial Fibers,Poor,4.91
+Immensea,C73-U5,E1F-LK,E1F-LK X,Supertensile Plastics,Poor,13.95
+Immensea,C73-U5,E1F-LK,E1F-LK X,Construction Blocks,Medium,28.94
+Immensea,C73-U5,E1F-LK,E1F-LK XI,Industrial Fibers,Poor,4.64
+Immensea,C73-U5,E1F-LK,E1F-LK XI,Supertensile Plastics,Medium,18.18
+Immensea,C73-U5,E1F-LK,E1F-LK XI,Construction Blocks,Poor,22.37
+Immensea,C73-U5,E1F-LK,E1F-LK XI,Plasmoids,Poor,1.33
+Immensea,C73-U5,Z4-QLD,Z4-QLD I,Gleaming Alloy,Rich,28.60
+Immensea,C73-U5,Z4-QLD,Z4-QLD I,Motley Compound,Medium,26.09
+Immensea,C73-U5,Z4-QLD,Z4-QLD I,Noble Gas,Rich,31.15
+Immensea,C73-U5,Z4-QLD,Z4-QLD II,Gleaming Alloy,Medium,21.14
+Immensea,C73-U5,Z4-QLD,Z4-QLD II,Reactive Metals,Rich,7.83
+Immensea,C73-U5,Z4-QLD,Z4-QLD II,Supertensile Plastics,Medium,17.26
+Immensea,C73-U5,Z4-QLD,Z4-QLD II,Nanites,Medium,6.33
+Immensea,C73-U5,Z4-QLD,Z4-QLD III,Fiber Composite,Perfect,36.12
+Immensea,C73-U5,Z4-QLD,Z4-QLD III,Reactive Gas,Medium,26.49
+Immensea,C73-U5,Z4-QLD,Z4-QLD III,Base Metals,Medium,5.71
+Immensea,C73-U5,Z4-QLD,Z4-QLD III,Heavy Water,Rich,279.40
+Immensea,C73-U5,Z4-QLD,Z4-QLD III,Liquid Ozone,Medium,33.85
+Immensea,C73-U5,Z4-QLD,Z4-QLD IV,Lustering Alloy,Medium,22.73
+Immensea,C73-U5,Z4-QLD,Z4-QLD IV,Sheen Compound,Rich,34.47
+Immensea,C73-U5,Z4-QLD,Z4-QLD IV,Fiber Composite,Medium,24.33
+Immensea,C73-U5,Z4-QLD,Z4-QLD IV,Glossy Compound,Poor,20.44
+Immensea,C73-U5,Z4-QLD,Z4-QLD IV,Reactive Gas,Medium,22.11
+Immensea,C73-U5,Z4-QLD,Z4-QLD V,Lustering Alloy,Poor,19.25
+Immensea,C73-U5,Z4-QLD,Z4-QLD V,Sheen Compound,Rich,31.99
+Immensea,C73-U5,Z4-QLD,Z4-QLD V,Fiber Composite,Perfect,35.51
+Immensea,C73-U5,Z4-QLD,Z4-QLD V,Reactive Gas,Medium,24.02
+Immensea,C73-U5,Z4-QLD,Z4-QLD V,Coolant,Rich,19.77
+Immensea,K-N3MD,QE-E1D,QE-E1D I,Precious Alloy,Poor,13.79
+Immensea,K-N3MD,QE-E1D,QE-E1D I,Supertensile Plastics,Medium,15.83
+Immensea,K-N3MD,QE-E1D,QE-E1D I,Oxygen Isotopes,Poor,2.47
+Immensea,K-N3MD,QE-E1D,QE-E1D I,Plasmoids,Poor,1.08
+Immensea,K-N3MD,QE-E1D,QE-E1D II,Precious Alloy,Poor,19.91
+Immensea,K-N3MD,QE-E1D,QE-E1D II,Toxic Metals,Poor,3.60
+Immensea,K-N3MD,QE-E1D,QE-E1D II,Supertensile Plastics,Medium,14.45
+Immensea,K-N3MD,QE-E1D,QE-E1D II,Silicate Glass,Poor,6.89
+Immensea,K-N3MD,QE-E1D,QE-E1D III,Dark Compound,Medium,20.90
+Immensea,K-N3MD,QE-E1D,QE-E1D III,Toxic Metals,Medium,6.25
+Immensea,K-N3MD,QE-E1D,QE-E1D III,Supertensile Plastics,Poor,13.02
+Immensea,K-N3MD,QE-E1D,QE-E1D III,Plasmoids,Poor,1.07
+Immensea,K-N3MD,QE-E1D,QE-E1D IV,Condensed Alloy,Perfect,35.44
+Immensea,K-N3MD,QE-E1D,QE-E1D IV,Opulent Compound,Perfect,38.13
+Immensea,K-N3MD,QE-E1D,QE-E1D IV,Reactive Gas,Perfect,39.53
+Immensea,K-N3MD,QE-E1D,QE-E1D IV,Industrial Fibers,Perfect,9.30
+Immensea,K-N3MD,QE-E1D,QE-E1D IV,Liquid Ozone,Medium,33.05
+Immensea,K-N3MD,QE-E1D,QE-E1D V,Fiber Composite,Medium,22.57
+Immensea,K-N3MD,QE-E1D,QE-E1D V,Base Metals,Perfect,10.28
+Immensea,K-N3MD,QE-E1D,QE-E1D V,Noble Metals,Perfect,38.57
+Immensea,K-N3MD,QE-E1D,QE-E1D V,Heavy Water,Rich,305.14
+Immensea,K-N3MD,QE-E1D,QE-E1D V,Liquid Ozone,Medium,28.99
+Immensea,K-N3MD,QE-E1D,QE-E1D VI,Condensed Alloy,Perfect,39.80
+Immensea,K-N3MD,QE-E1D,QE-E1D VI,Base Metals,Perfect,10.10
+Immensea,K-N3MD,QE-E1D,QE-E1D VI,Noble Metals,Medium,22.26
+Immensea,K-N3MD,QE-E1D,QE-E1D VI,Condensates,Perfect,24.32
+Immensea,K-N3MD,QE-E1D,QE-E1D VI,Liquid Ozone,Medium,28.44
+Immensea,K-N3MD,QE-E1D,QE-E1D VII,Glossy Compound,Rich,29.11
+Immensea,K-N3MD,QE-E1D,QE-E1D VII,Reactive Gas,Medium,25.74
+Immensea,K-N3MD,QE-E1D,QE-E1D VII,Noble Gas,Medium,27.32
+Immensea,K-N3MD,QE-E1D,QE-E1D VII,Base Metals,Medium,7.24
+Immensea,K-N3MD,QE-E1D,QE-E1D VII,Polyaramids,Rich,22.32
+Immensea,K-N3MD,LK1K-5,LK1K-5 I,Sheen Compound,Rich,32.98
+Immensea,K-N3MD,LK1K-5,LK1K-5 I,Reactive Gas,Rich,34.83
+Immensea,K-N3MD,LK1K-5,LK1K-5 I,Base Metals,Rich,8.92
+Immensea,K-N3MD,LK1K-5,LK1K-5 I,Coolant,Rich,18.88
+Immensea,K-N3MD,LK1K-5,LK1K-5 I,Ionic Solutions,Rich,12.72
+Immensea,K-N3MD,LK1K-5,LK1K-5 II,Sheen Compound,Rich,29.48
+Immensea,K-N3MD,LK1K-5,LK1K-5 II,Reactive Gas,Rich,33.97
+Immensea,K-N3MD,LK1K-5,LK1K-5 II,Polyaramids,Rich,21.85
+Immensea,K-N3MD,LK1K-5,LK1K-5 II,Coolant,Poor,13.48
+Immensea,K-N3MD,LK1K-5,LK1K-5 II,Ionic Solutions,Poor,7.88
+Immensea,K-N3MD,LK1K-5,LK1K-5 III,Base Metals,Medium,6.77
+Immensea,K-N3MD,LK1K-5,LK1K-5 III,Industrial Fibers,Medium,6.96
+Immensea,K-N3MD,LK1K-5,LK1K-5 III,Supertensile Plastics,Medium,17.75
+Immensea,K-N3MD,LK1K-5,LK1K-5 III,Plasmoids,Poor,0.83
+Immensea,K-N3MD,REB-KR,REB-KR I,Base Metals,Medium,6.94
+Immensea,K-N3MD,REB-KR,REB-KR I,Supertensile Plastics,Poor,12.20
+Immensea,K-N3MD,REB-KR,REB-KR I,Construction Blocks,Poor,20.33
+Immensea,K-N3MD,REB-KR,REB-KR I,Silicate Glass,Poor,7.70
+Immensea,K-N3MD,REB-KR,REB-KR II,Lustering Alloy,Poor,20.48
+Immensea,K-N3MD,REB-KR,REB-KR II,Reactive Gas,Rich,30.16
+Immensea,K-N3MD,REB-KR,REB-KR II,Reactive Metals,Medium,6.66
+Immensea,K-N3MD,REB-KR,REB-KR II,Coolant,Medium,14.12
+Immensea,K-N3MD,REB-KR,REB-KR II,Ionic Solutions,Medium,9.86
+Immensea,K-N3MD,REB-KR,REB-KR III,Lustering Alloy,Medium,24.79
+Immensea,K-N3MD,REB-KR,REB-KR III,Sheen Compound,Medium,24.79
+Immensea,K-N3MD,REB-KR,REB-KR III,Reactive Gas,Medium,23.63
+Immensea,K-N3MD,REB-KR,REB-KR III,Noble Gas,Medium,27.15
+Immensea,K-N3MD,REB-KR,REB-KR III,Base Metals,Perfect,9.45
+Immensea,K-N3MD,REB-KR,REB-KR IV,Lustering Alloy,Medium,26.66
+Immensea,K-N3MD,REB-KR,REB-KR IV,Heavy Metals,Rich,31.31
+Immensea,K-N3MD,REB-KR,REB-KR IV,Industrial Fibers,Poor,5.00
+Immensea,K-N3MD,REB-KR,REB-KR IV,Condensates,Poor,13.38
+Immensea,K-N3MD,REB-KR,REB-KR V,Lustering Alloy,Poor,18.02
+Immensea,K-N3MD,REB-KR,REB-KR V,Precious Alloy,Poor,18.04
+Immensea,K-N3MD,REB-KR,REB-KR V,Industrial Fibers,Rich,7.54
+Immensea,K-N3MD,REB-KR,REB-KR V,Condensates,Medium,18.16
+Immensea,K-N3MD,Z-H2MA,Z-H2MA I,Precious Alloy,Medium,22.62
+Immensea,K-N3MD,Z-H2MA,Z-H2MA I,Industrial Fibers,Poor,3.60
+Immensea,K-N3MD,Z-H2MA,Z-H2MA I,Supertensile Plastics,Medium,13.87
+Immensea,K-N3MD,Z-H2MA,Z-H2MA I,Plasmoids,Medium,1.47
+Immensea,K-N3MD,Z-H2MA,Z-H2MA II,Lustering Alloy,Medium,26.73
+Immensea,K-N3MD,Z-H2MA,Z-H2MA II,Dark Compound,Poor,15.69
+Immensea,K-N3MD,Z-H2MA,Z-H2MA II,Supertensile Plastics,Poor,12.10
+Immensea,K-N3MD,Z-H2MA,Z-H2MA II,Oxygen Isotopes,Medium,3.31
+Immensea,K-N3MD,Z-H2MA,Z-H2MA III,Lucent Compound,Poor,20.17
+Immensea,K-N3MD,Z-H2MA,Z-H2MA III,Reactive Gas,Perfect,35.86
+Immensea,K-N3MD,Z-H2MA,Z-H2MA III,Reactive Metals,Poor,5.31
+Immensea,K-N3MD,Z-H2MA,Z-H2MA III,Suspended Plasma,Medium,96.94
+Immensea,K-N3MD,Z-H2MA,Z-H2MA IV,Dark Compound,Poor,20.64
+Immensea,K-N3MD,Z-H2MA,Z-H2MA IV,Base Metals,Poor,5.33
+Immensea,K-N3MD,Z-H2MA,Z-H2MA IV,Supertensile Plastics,Medium,17.59
+Immensea,K-N3MD,Z-H2MA,Z-H2MA IV,Plasmoids,Poor,0.94
+Immensea,K-N3MD,Z-H2MA,Z-H2MA V,Sheen Compound,Rich,33.77
+Immensea,K-N3MD,Z-H2MA,Z-H2MA V,Glossy Compound,Rich,33.84
+Immensea,K-N3MD,Z-H2MA,Z-H2MA V,Reactive Gas,Medium,26.80
+Immensea,K-N3MD,Z-H2MA,Z-H2MA V,Polyaramids,Rich,20.77
+Immensea,K-N3MD,Z-H2MA,Z-H2MA V,Coolant,Rich,21.37
+Immensea,K-N3MD,Z-H2MA,Z-H2MA VI,Sheen Compound,Medium,25.56
+Immensea,K-N3MD,Z-H2MA,Z-H2MA VI,Fiber Composite,Rich,30.45
+Immensea,K-N3MD,Z-H2MA,Z-H2MA VI,Reactive Gas,Medium,20.94
+Immensea,K-N3MD,Z-H2MA,Z-H2MA VI,Base Metals,Medium,6.06
+Immensea,K-N3MD,Z-H2MA,Z-H2MA VI,Coolant,Medium,17.29
+Immensea,K-N3MD,Z-H2MA,Z-H2MA VII,Fiber Composite,Rich,32.21
+Immensea,K-N3MD,Z-H2MA,Z-H2MA VII,Reactive Gas,Perfect,36.15
+Immensea,K-N3MD,Z-H2MA,Z-H2MA VII,Noble Gas,Rich,30.25
+Immensea,K-N3MD,Z-H2MA,Z-H2MA VII,Base Metals,Medium,5.94
+Immensea,K-N3MD,Z-H2MA,Z-H2MA VII,Reactive Metals,Medium,7.09
+Immensea,K-N3MD,Z-H2MA,Z-H2MA VIII,Fiber Composite,Medium,27.21
+Immensea,K-N3MD,Z-H2MA,Z-H2MA VIII,Reactive Gas,Rich,32.98
+Immensea,K-N3MD,Z-H2MA,Z-H2MA VIII,Reactive Metals,Rich,9.17
+Immensea,K-N3MD,Z-H2MA,Z-H2MA VIII,Polyaramids,Rich,22.97
+Immensea,K-N3MD,Z-H2MA,Z-H2MA VIII,Ionic Solutions,Rich,13.68
+Immensea,K-N3MD,Z-H2MA,Z-H2MA IX,Gleaming Alloy,Rich,33.11
+Immensea,K-N3MD,Z-H2MA,Z-H2MA IX,Heavy Metals,Rich,34.43
+Immensea,K-N3MD,Z-H2MA,Z-H2MA IX,Smartfab Units,Perfect,23.31
+Immensea,K-N3MD,Z-H2MA,Z-H2MA X,Glossy Compound,Rich,32.27
+Immensea,K-N3MD,Z-H2MA,Z-H2MA X,Reactive Gas,Rich,33.00
+Immensea,K-N3MD,Z-H2MA,Z-H2MA X,Noble Gas,Medium,26.22
+Immensea,K-N3MD,Z-H2MA,Z-H2MA X,Base Metals,Medium,6.90
+Immensea,K-N3MD,Z-H2MA,Z-H2MA X,Coolant,Medium,18.22
+Immensea,K-N3MD,Z-H2MA,Z-H2MA XI,Glossy Compound,Rich,28.67
+Immensea,K-N3MD,Z-H2MA,Z-H2MA XI,Reactive Gas,Rich,30.54
+Immensea,K-N3MD,Z-H2MA,Z-H2MA XI,Reactive Metals,Medium,7.31
+Immensea,K-N3MD,Z-H2MA,Z-H2MA XI,Polyaramids,Poor,12.75
+Immensea,K-N3MD,Z-H2MA,Z-H2MA XI,Coolant,Medium,14.12
+Immensea,K-N3MD,L-5JCJ,L-5JCJ I,Gleaming Alloy,Perfect,36.30
+Immensea,K-N3MD,L-5JCJ,L-5JCJ I,Glossy Compound,Rich,32.30
+Immensea,K-N3MD,L-5JCJ,L-5JCJ I,Plasmoids,Medium,1.44
+Immensea,K-N3MD,L-5JCJ,L-5JCJ II,Condensed Alloy,Medium,25.98
+Immensea,K-N3MD,L-5JCJ,L-5JCJ II,Opulent Compound,Medium,20.94
+Immensea,K-N3MD,L-5JCJ,L-5JCJ II,Noble Metals,Medium,21.27
+Immensea,K-N3MD,L-5JCJ,L-5JCJ II,Condensates,Perfect,24.26
+Immensea,K-N3MD,L-5JCJ,L-5JCJ II,Liquid Ozone,Perfect,52.47
+Immensea,K-N3MD,L-5JCJ,L-5JCJ III,Lustering Alloy,Medium,22.22
+Immensea,K-N3MD,L-5JCJ,L-5JCJ III,Sheen Compound,Medium,21.32
+Immensea,K-N3MD,L-5JCJ,L-5JCJ III,Reactive Gas,Rich,32.89
+Immensea,K-N3MD,L-5JCJ,L-5JCJ III,Noble Gas,Rich,28.73
+Immensea,K-N3MD,L-5JCJ,L-5JCJ III,Coolant,Poor,12.94
+Immensea,K-N3MD,L-5JCJ,L-5JCJ IV,Lustering Alloy,Perfect,36.12
+Immensea,K-N3MD,L-5JCJ,L-5JCJ IV,Reactive Gas,Rich,32.45
+Immensea,K-N3MD,L-5JCJ,L-5JCJ IV,Noble Gas,Poor,20.66
+Immensea,K-N3MD,L-5JCJ,L-5JCJ IV,Base Metals,Poor,5.20
+Immensea,K-N3MD,L-5JCJ,L-5JCJ IV,Polyaramids,Medium,16.19
+Immensea,K-N3MD,L-5JCJ,L-5JCJ V,Sheen Compound,Rich,27.92
+Immensea,K-N3MD,L-5JCJ,L-5JCJ V,Glossy Compound,Poor,19.84
+Immensea,K-N3MD,L-5JCJ,L-5JCJ V,Reactive Gas,Rich,28.71
+Immensea,K-N3MD,L-5JCJ,L-5JCJ V,Polyaramids,Medium,15.12
+Immensea,K-N3MD,L-5JCJ,L-5JCJ V,Coolant,Rich,20.09
+Immensea,K-N3MD,L-5JCJ,L-5JCJ VI,Precious Alloy,Poor,20.15
+Immensea,K-N3MD,L-5JCJ,L-5JCJ VI,Industrial Fibers,Medium,6.32
+Immensea,K-N3MD,L-5JCJ,L-5JCJ VI,Coolant,Rich,18.57
+Immensea,K-N3MD,L-5JCJ,L-5JCJ VI,Condensates,Medium,17.09
+Immensea,K-N3MD,L-5JCJ,L-5JCJ VII,Condensed Alloy,Rich,29.68
+Immensea,K-N3MD,L-5JCJ,L-5JCJ VII,Crystal Compound,Medium,21.91
+Immensea,K-N3MD,L-5JCJ,L-5JCJ VII,Coolant,Medium,16.05
+Immensea,K-N3MD,L-5JCJ,L-5JCJ VII,Heavy Water,Medium,266.86
+Immensea,K-N3MD,L-5JCJ,L-5JCJ VII,Liquid Ozone,Rich,40.76
+Immensea,K-N3MD,L-5JCJ,L-5JCJ VIII,Motley Compound,Poor,19.47
+Immensea,K-N3MD,L-5JCJ,L-5JCJ VIII,Condensates,Medium,16.94
+Immensea,K-N3MD,L-5JCJ,L-5JCJ VIII,Suspended Plasma,Poor,57.97
+Immensea,K-N3MD,L-5JCJ,L-5JCJ VIII,Liquid Ozone,Poor,21.56
+Immensea,K-N3MD,L-5JCJ,L-5JCJ IX,Precious Alloy,Poor,18.26
+Immensea,K-N3MD,L-5JCJ,L-5JCJ IX,Supertensile Plastics,Poor,13.61
+Immensea,K-N3MD,L-5JCJ,L-5JCJ IX,Silicate Glass,Poor,7.52
+Immensea,K-N3MD,L-5JCJ,L-5JCJ IX,Oxygen Isotopes,Poor,2.05
+Immensea,K-N3MD,B-KDOZ,B-KDOZ I,Lustering Alloy,Medium,25.23
+Immensea,K-N3MD,B-KDOZ,B-KDOZ I,Dark Compound,Poor,18.17
+Immensea,K-N3MD,B-KDOZ,B-KDOZ I,Base Metals,Medium,6.10
+Immensea,K-N3MD,B-KDOZ,B-KDOZ I,Supertensile Plastics,Poor,10.63
+Immensea,K-N3MD,B-KDOZ,B-KDOZ II,Dark Compound,Poor,18.94
+Immensea,K-N3MD,B-KDOZ,B-KDOZ II,Base Metals,Poor,5.34
+Immensea,K-N3MD,B-KDOZ,B-KDOZ II,Supertensile Plastics,Medium,16.41
+Immensea,K-N3MD,B-KDOZ,B-KDOZ II,Plasmoids,Poor,1.17
+Immensea,K-N3MD,B-KDOZ,B-KDOZ III,Condensed Alloy,Medium,24.33
+Immensea,K-N3MD,B-KDOZ,B-KDOZ III,Opulent Compound,Perfect,40.46
+Immensea,K-N3MD,B-KDOZ,B-KDOZ III,Reactive Gas,Medium,21.38
+Immensea,K-N3MD,B-KDOZ,B-KDOZ III,Smartfab Units,Perfect,26.94
+Immensea,K-N3MD,B-KDOZ,B-KDOZ III,Liquid Ozone,Perfect,44.33
+Immensea,K-N3MD,B-KDOZ,B-KDOZ IV,Precious Alloy,Medium,26.71
+Immensea,K-N3MD,B-KDOZ,B-KDOZ IV,Supertensile Plastics,Poor,11.16
+Immensea,K-N3MD,B-KDOZ,B-KDOZ IV,Construction Blocks,Poor,16.72
+Immensea,K-N3MD,B-KDOZ,B-KDOZ IV,Oxygen Isotopes,Medium,3.48
+Immensea,K-N3MD,B-KDOZ,B-KDOZ V,Gleaming Alloy,Poor,20.04
+Immensea,K-N3MD,B-KDOZ,B-KDOZ V,Reactive Metals,Rich,8.22
+Immensea,K-N3MD,B-KDOZ,B-KDOZ V,Suspended Plasma,Perfect,126.72
+Immensea,K-N3MD,B-KDOZ,B-KDOZ V,Oxygen Isotopes,Poor,2.97
+Immensea,K-N3MD,B-KDOZ,B-KDOZ VI,Lustering Alloy,Rich,30.71
+Immensea,K-N3MD,B-KDOZ,B-KDOZ VI,Fiber Composite,Rich,33.97
+Immensea,K-N3MD,B-KDOZ,B-KDOZ VI,Reactive Gas,Poor,18.41
+Immensea,K-N3MD,B-KDOZ,B-KDOZ VI,Base Metals,Medium,7.13
+Immensea,K-N3MD,B-KDOZ,B-KDOZ VI,Ionic Solutions,Perfect,14.23
+Immensea,K-N3MD,B-KDOZ,B-KDOZ VII,Lustering Alloy,Medium,21.82
+Immensea,K-N3MD,B-KDOZ,B-KDOZ VII,Glossy Compound,Medium,24.55
+Immensea,K-N3MD,B-KDOZ,B-KDOZ VII,Reactive Gas,Medium,25.98
+Immensea,K-N3MD,B-KDOZ,B-KDOZ VII,Noble Gas,Rich,33.64
+Immensea,K-N3MD,B-KDOZ,B-KDOZ VII,Ionic Solutions,Medium,9.94
+Immensea,K-N3MD,B-KDOZ,B-KDOZ VIII,Reactive Gas,Rich,31.90
+Immensea,K-N3MD,B-KDOZ,B-KDOZ VIII,Reactive Metals,Rich,9.01
+Immensea,K-N3MD,B-KDOZ,B-KDOZ VIII,Supertensile Plastics,Medium,14.58
+Immensea,K-N3MD,B-KDOZ,B-KDOZ VIII,Oxygen Isotopes,Rich,4.89
+Immensea,K-N3MD,B-KDOZ,B-KDOZ IX,Lustering Alloy,Rich,28.67
+Immensea,K-N3MD,B-KDOZ,B-KDOZ IX,Reactive Gas,Rich,28.34
+Immensea,K-N3MD,B-KDOZ,B-KDOZ IX,Base Metals,Rich,8.92
+Immensea,K-N3MD,B-KDOZ,B-KDOZ IX,Reactive Metals,Medium,6.13
+Immensea,K-N3MD,B-KDOZ,B-KDOZ IX,Ionic Solutions,Medium,8.94
+Immensea,K-N3MD,B-KDOZ,B-KDOZ X,Glossy Compound,Medium,26.38
+Immensea,K-N3MD,B-KDOZ,B-KDOZ X,Reactive Gas,Medium,22.15
+Immensea,K-N3MD,B-KDOZ,B-KDOZ X,Base Metals,Medium,7.17
+Immensea,K-N3MD,B-KDOZ,B-KDOZ X,Reactive Metals,Medium,6.21
+Immensea,K-N3MD,B-KDOZ,B-KDOZ X,Coolant,Rich,19.71
+Immensea,K-N3MD,4-GB14,4-GB14 I,Gleaming Alloy,Rich,34.63
+Immensea,K-N3MD,4-GB14,4-GB14 I,Noble Gas,Rich,32.60
+Immensea,K-N3MD,4-GB14,4-GB14 I,Polyaramids,Perfect,24.67
+Immensea,K-N3MD,4-GB14,4-GB14 II,Base Metals,Poor,4.18
+Immensea,K-N3MD,4-GB14,4-GB14 II,Toxic Metals,Poor,3.77
+Immensea,K-N3MD,4-GB14,4-GB14 II,Supertensile Plastics,Medium,14.42
+Immensea,K-N3MD,4-GB14,4-GB14 II,Plasmoids,Medium,1.38
+Immensea,K-N3MD,4-GB14,4-GB14 III,Precious Alloy,Poor,16.26
+Immensea,K-N3MD,4-GB14,4-GB14 III,Base Metals,Poor,5.27
+Immensea,K-N3MD,4-GB14,4-GB14 III,Toxic Metals,Poor,4.93
+Immensea,K-N3MD,4-GB14,4-GB14 III,Supertensile Plastics,Poor,13.71
+Immensea,K-N3MD,4-GB14,4-GB14 IV,Lucent Compound,Rich,34.58
+Immensea,K-N3MD,4-GB14,4-GB14 IV,Dark Compound,Rich,31.13
+Immensea,K-N3MD,4-GB14,4-GB14 IV,Reactive Metals,Perfect,9.76
+Immensea,K-N3MD,4-GB14,4-GB14 IV,Condensates,Medium,15.43
+Immensea,K-N3MD,4-GB14,4-GB14 IV,Ionic Solutions,Rich,12.74
+Immensea,K-N3MD,4-GB14,4-GB14 V,Opulent Compound,Rich,29.77
+Immensea,K-N3MD,4-GB14,4-GB14 V,Reactive Gas,Perfect,37.93
+Immensea,K-N3MD,4-GB14,4-GB14 V,Base Metals,Rich,7.58
+Immensea,K-N3MD,4-GB14,4-GB14 V,Condensates,Medium,15.17
+Immensea,K-N3MD,4-GB14,4-GB14 V,Liquid Ozone,Perfect,47.03
+Immensea,K-N3MD,4-GB14,4-GB14 VI,Crystal Compound,Poor,19.01
+Immensea,K-N3MD,4-GB14,4-GB14 VI,Reactive Metals,Poor,4.82
+Immensea,K-N3MD,4-GB14,4-GB14 VI,Supertensile Plastics,Medium,15.93
+Immensea,K-N3MD,4-GB14,4-GB14 VI,Suspended Plasma,Rich,102.25
+Immensea,K-N3MD,4-GB14,4-GB14 VII,Toxic Metals,Poor,4.59
+Immensea,K-N3MD,4-GB14,4-GB14 VII,Supertensile Plastics,Medium,15.08
+Immensea,K-N3MD,4-GB14,4-GB14 VII,Oxygen Isotopes,Medium,3.36
+Immensea,K-N3MD,4-GB14,4-GB14 VII,Plasmoids,Poor,0.89
+Immensea,K-N3MD,4-GB14,4-GB14 VIII,Sheen Compound,Rich,33.31
+Immensea,K-N3MD,4-GB14,4-GB14 VIII,Fiber Composite,Medium,22.42
+Immensea,K-N3MD,4-GB14,4-GB14 VIII,Glossy Compound,Medium,27.41
+Immensea,K-N3MD,4-GB14,4-GB14 VIII,Reactive Gas,Rich,28.09
+Immensea,K-N3MD,4-GB14,4-GB14 VIII,Noble Gas,Rich,32.45
+Immensea,K-N3MD,4-GB14,4-GB14 IX,Condensed Alloy,Medium,23.63
+Immensea,K-N3MD,4-GB14,4-GB14 IX,Fiber Composite,Rich,32.12
+Immensea,K-N3MD,4-GB14,4-GB14 IX,Base Metals,Medium,7.06
+Immensea,K-N3MD,4-GB14,4-GB14 IX,Heavy Water,Rich,325.16
+Immensea,K-N3MD,4-GB14,4-GB14 IX,Liquid Ozone,Medium,30.52
+Immensea,K-N3MD,4-GB14,4-GB14 X,Lustering Alloy,Medium,27.13
+Immensea,K-N3MD,4-GB14,4-GB14 X,Reactive Gas,Perfect,36.12
+Immensea,K-N3MD,4-GB14,4-GB14 X,Base Metals,Rich,7.62
+Immensea,K-N3MD,4-GB14,4-GB14 X,Polyaramids,Poor,12.85
+Immensea,K-N3MD,4-GB14,4-GB14 X,Ionic Solutions,Medium,10.49
+Immensea,K-N3MD,4-GB14,4-GB14 XI,Gleaming Alloy,Rich,29.37
+Immensea,K-N3MD,4-GB14,4-GB14 XI,Crystal Compound,Rich,29.13
+Immensea,K-N3MD,4-GB14,4-GB14 XI,Reactive Metals,Medium,5.73
+Immensea,K-N3MD,4-GB14,4-GB14 XI,Suspended Plasma,Rich,109.61
+Immensea,4MY-AB,PH-NFR,PH-NFR I,Industrial Fibers,Medium,5.55
+Immensea,4MY-AB,PH-NFR,PH-NFR I,Supertensile Plastics,Poor,11.75
+Immensea,4MY-AB,PH-NFR,PH-NFR I,Construction Blocks,Poor,19.01
+Immensea,4MY-AB,PH-NFR,PH-NFR I,Plasmoids,Medium,1.25
+Immensea,4MY-AB,PH-NFR,PH-NFR II,Crystal Compound,Medium,25.78
+Immensea,4MY-AB,PH-NFR,PH-NFR II,Reactive Metals,Perfect,9.48
+Immensea,4MY-AB,PH-NFR,PH-NFR II,Supertensile Plastics,Medium,15.55
+Immensea,4MY-AB,PH-NFR,PH-NFR II,Oxygen Isotopes,Medium,4.17
+Immensea,4MY-AB,PH-NFR,PH-NFR III,Gleaming Alloy,Rich,30.60
+Immensea,4MY-AB,PH-NFR,PH-NFR III,Glossy Compound,Poor,18.24
+Immensea,4MY-AB,PH-NFR,PH-NFR III,Plasmoids,Perfect,2.14
+Immensea,4MY-AB,PH-NFR,PH-NFR IV,Precious Alloy,Poor,19.84
+Immensea,4MY-AB,PH-NFR,PH-NFR IV,Dark Compound,Medium,22.77
+Immensea,4MY-AB,PH-NFR,PH-NFR IV,Supertensile Plastics,Medium,16.88
+Immensea,4MY-AB,PH-NFR,PH-NFR IV,Plasmoids,Poor,0.83
+Immensea,4MY-AB,PH-NFR,PH-NFR V,Sheen Compound,Rich,30.95
+Immensea,4MY-AB,PH-NFR,PH-NFR V,Fiber Composite,Medium,25.89
+Immensea,4MY-AB,PH-NFR,PH-NFR V,Glossy Compound,Medium,27.46
+Immensea,4MY-AB,PH-NFR,PH-NFR V,Reactive Gas,Rich,31.86
+Immensea,4MY-AB,PH-NFR,PH-NFR V,Reactive Metals,Medium,5.89
+Immensea,4MY-AB,PH-NFR,PH-NFR VI,Fiber Composite,Rich,28.78
+Immensea,4MY-AB,PH-NFR,PH-NFR VI,Reactive Gas,Rich,28.91
+Immensea,4MY-AB,PH-NFR,PH-NFR VI,Reactive Metals,Rich,9.15
+Immensea,4MY-AB,PH-NFR,PH-NFR VI,Coolant,Rich,23.11
+Immensea,4MY-AB,PH-NFR,PH-NFR VI,Ionic Solutions,Poor,7.81
+Immensea,4MY-AB,PH-NFR,PH-NFR VII,Glossy Compound,Medium,23.74
+Immensea,4MY-AB,PH-NFR,PH-NFR VII,Reactive Gas,Rich,34.54
+Immensea,4MY-AB,PH-NFR,PH-NFR VII,Noble Gas,Medium,23.08
+Immensea,4MY-AB,PH-NFR,PH-NFR VII,Base Metals,Poor,5.16
+Immensea,4MY-AB,PH-NFR,PH-NFR VII,Ionic Solutions,Poor,8.25
+Immensea,4MY-AB,DW-N2S,DW-N2S I,Gleaming Alloy,Medium,25.89
+Immensea,4MY-AB,DW-N2S,DW-N2S I,Glossy Compound,Rich,29.81
+Immensea,4MY-AB,DW-N2S,DW-N2S I,Construction Blocks,Medium,23.32
+Immensea,4MY-AB,DW-N2S,DW-N2S II,Fiber Composite,Perfect,39.01
+Immensea,4MY-AB,DW-N2S,DW-N2S II,Industrial Fibers,Rich,8.13
+Immensea,4MY-AB,DW-N2S,DW-N2S II,Condensates,Perfect,25.29
+Immensea,4MY-AB,DW-N2S,DW-N2S II,Smartfab Units,Rich,21.91
+Immensea,4MY-AB,DW-N2S,DW-N2S II,Liquid Ozone,Perfect,50.02
+Immensea,4MY-AB,DW-N2S,DW-N2S III,Condensed Alloy,Medium,20.94
+Immensea,4MY-AB,DW-N2S,DW-N2S III,Fiber Composite,Perfect,38.59
+Immensea,4MY-AB,DW-N2S,DW-N2S III,Industrial Fibers,Medium,6.32
+Immensea,4MY-AB,DW-N2S,DW-N2S III,Heavy Water,Perfect,374.88
+Immensea,4MY-AB,DW-N2S,DW-N2S III,Liquid Ozone,Rich,40.65
+Immensea,4MY-AB,DW-N2S,DW-N2S IV,Lustering Alloy,Rich,34.19
+Immensea,4MY-AB,DW-N2S,DW-N2S IV,Sheen Compound,Poor,18.08
+Immensea,4MY-AB,DW-N2S,DW-N2S IV,Fiber Composite,Medium,22.95
+Immensea,4MY-AB,DW-N2S,DW-N2S IV,Reactive Gas,Medium,25.54
+Immensea,4MY-AB,DW-N2S,DW-N2S IV,Ionic Solutions,Rich,12.12
+Immensea,4MY-AB,DW-N2S,DW-N2S V,Fiber Composite,Rich,28.53
+Immensea,4MY-AB,DW-N2S,DW-N2S V,Glossy Compound,Medium,24.09
+Immensea,4MY-AB,DW-N2S,DW-N2S V,Reactive Gas,Perfect,35.40
+Immensea,4MY-AB,DW-N2S,DW-N2S V,Noble Gas,Rich,31.66
+Immensea,4MY-AB,DW-N2S,DW-N2S V,Reactive Metals,Perfect,9.48
+Immensea,4MY-AB,DW-N2S,DW-N2S VI,Glossy Compound,Medium,24.66
+Immensea,4MY-AB,DW-N2S,DW-N2S VI,Reactive Gas,Perfect,35.24
+Immensea,4MY-AB,DW-N2S,DW-N2S VI,Reactive Metals,Rich,8.47
+Immensea,4MY-AB,DW-N2S,DW-N2S VI,Polyaramids,Medium,15.68
+Immensea,4MY-AB,DW-N2S,DW-N2S VI,Coolant,Rich,22.82
+Immensea,4MY-AB,W-FHWJ,W-FHWJ I,Lucent Compound,Rich,30.65
+Immensea,4MY-AB,W-FHWJ,W-FHWJ I,Noble Gas,Medium,21.12
+Immensea,4MY-AB,W-FHWJ,W-FHWJ I,Heavy Metals,Medium,25.52
+Immensea,4MY-AB,W-FHWJ,W-FHWJ I,Condensates,Medium,17.16
+Immensea,4MY-AB,W-FHWJ,W-FHWJ I,Suspended Plasma,Medium,98.84
+Immensea,4MY-AB,W-FHWJ,W-FHWJ II,Lustering Alloy,Poor,19.87
+Immensea,4MY-AB,W-FHWJ,W-FHWJ II,Industrial Fibers,Medium,5.47
+Immensea,4MY-AB,W-FHWJ,W-FHWJ II,Supertensile Plastics,Poor,13.26
+Immensea,4MY-AB,W-FHWJ,W-FHWJ II,Construction Blocks,Medium,27.04
+Immensea,4MY-AB,W-FHWJ,W-FHWJ III,Condensed Alloy,Rich,30.93
+Immensea,4MY-AB,W-FHWJ,W-FHWJ III,Fiber Composite,Medium,27.41
+Immensea,4MY-AB,W-FHWJ,W-FHWJ III,Condensates,Perfect,27.82
+Immensea,4MY-AB,W-FHWJ,W-FHWJ III,Heavy Water,Medium,245.08
+Immensea,4MY-AB,W-FHWJ,W-FHWJ III,Liquid Ozone,Rich,42.65
+Immensea,4MY-AB,W-FHWJ,W-FHWJ IV,Condensed Alloy,Perfect,35.79
+Immensea,4MY-AB,W-FHWJ,W-FHWJ IV,Noble Metals,Rich,31.66
+Immensea,4MY-AB,W-FHWJ,W-FHWJ IV,Industrial Fibers,Perfect,10.63
+Immensea,4MY-AB,W-FHWJ,W-FHWJ IV,Smartfab Units,Medium,14.46
+Immensea,4MY-AB,W-FHWJ,W-FHWJ IV,Liquid Ozone,Rich,38.66
+Immensea,4MY-AB,W-FHWJ,W-FHWJ V,Opulent Compound,Medium,23.65
+Immensea,4MY-AB,W-FHWJ,W-FHWJ V,Noble Metals,Rich,32.32
+Immensea,4MY-AB,W-FHWJ,W-FHWJ V,Polyaramids,Rich,22.19
+Immensea,4MY-AB,W-FHWJ,W-FHWJ V,Liquid Ozone,Medium,26.62
+Immensea,4MY-AB,W-FHWJ,W-FHWJ V,Ionic Solutions,Medium,8.87
+Immensea,4MY-AB,X-6WC7,X-6WC7 I,Lustering Alloy,Rich,31.56
+Immensea,4MY-AB,X-6WC7,X-6WC7 I,Sheen Compound,Rich,32.06
+Immensea,4MY-AB,X-6WC7,X-6WC7 I,Fiber Composite,Rich,35.35
+Immensea,4MY-AB,X-6WC7,X-6WC7 I,Reactive Gas,Rich,32.25
+Immensea,4MY-AB,X-6WC7,X-6WC7 I,Coolant,Medium,16.19
+Immensea,4MY-AB,X-6WC7,X-6WC7 II,Sheen Compound,Poor,21.64
+Immensea,4MY-AB,X-6WC7,X-6WC7 II,Reactive Gas,Rich,29.37
+Immensea,4MY-AB,X-6WC7,X-6WC7 II,Base Metals,Rich,9.17
+Immensea,4MY-AB,X-6WC7,X-6WC7 II,Coolant,Medium,17.00
+Immensea,4MY-AB,X-6WC7,X-6WC7 II,Ionic Solutions,Rich,11.83
+Immensea,4MY-AB,X-6WC7,X-6WC7 III,Lustering Alloy,Rich,33.74
+Immensea,4MY-AB,X-6WC7,X-6WC7 III,Industrial Fibers,Poor,4.54
+Immensea,4MY-AB,X-6WC7,X-6WC7 III,Condensates,Rich,20.32
+Immensea,4MY-AB,X-6WC7,X-6WC7 III,Suspended Plasma,Medium,99.94
+Immensea,4MY-AB,D-BAMJ,D-BAMJ I,Gleaming Alloy,Rich,33.33
+Immensea,4MY-AB,D-BAMJ,D-BAMJ I,Smartfab Units,Medium,16.37
+Immensea,4MY-AB,D-BAMJ,D-BAMJ I,Oxygen Isotopes,Rich,4.66
+Immensea,4MY-AB,D-BAMJ,D-BAMJ II,Coolant,Perfect,23.35
+Immensea,4MY-AB,D-BAMJ,D-BAMJ II,Silicate Glass,Perfect,17.87
+Immensea,4MY-AB,D-BAMJ,D-BAMJ II,Heavy Water,Medium,263.34
+Immensea,4MY-AB,D-BAMJ,D-BAMJ II,Liquid Ozone,Medium,31.39
+Immensea,4MY-AB,D-BAMJ,D-BAMJ II,Ionic Solutions,Rich,13.26
+Immensea,4MY-AB,D-BAMJ,D-BAMJ III,Condensed Alloy,Rich,30.18
+Immensea,4MY-AB,D-BAMJ,D-BAMJ III,Fiber Composite,Medium,20.14
+Immensea,4MY-AB,D-BAMJ,D-BAMJ III,Industrial Fibers,Medium,6.17
+Immensea,4MY-AB,D-BAMJ,D-BAMJ III,Smartfab Units,Medium,15.51
+Immensea,4MY-AB,D-BAMJ,D-BAMJ III,Liquid Ozone,Medium,26.36
+Immensea,4MY-AB,D-BAMJ,D-BAMJ IV,Gleaming Alloy,Poor,19.00
+Immensea,4MY-AB,D-BAMJ,D-BAMJ IV,Construction Blocks,Rich,27.68
+Immensea,4MY-AB,D-BAMJ,D-BAMJ IV,Oxygen Isotopes,Perfect,5.05
+Immensea,4MY-AB,D-BAMJ,D-BAMJ V,Lustering Alloy,Medium,23.54
+Immensea,4MY-AB,D-BAMJ,D-BAMJ V,Sheen Compound,Perfect,33.66
+Immensea,4MY-AB,D-BAMJ,D-BAMJ V,Reactive Gas,Medium,26.50
+Immensea,4MY-AB,D-BAMJ,D-BAMJ V,Coolant,Rich,20.13
+Immensea,4MY-AB,D-BAMJ,D-BAMJ V,Ionic Solutions,Medium,9.58
+Immensea,4MY-AB,D-BAMJ,D-BAMJ VI,Lustering Alloy,Rich,31.04
+Immensea,4MY-AB,D-BAMJ,D-BAMJ VI,Glossy Compound,Rich,31.77
+Immensea,4MY-AB,D-BAMJ,D-BAMJ VI,Reactive Gas,Poor,19.34
+Immensea,4MY-AB,D-BAMJ,D-BAMJ VI,Base Metals,Rich,8.30
+Immensea,4MY-AB,D-BAMJ,D-BAMJ VI,Ionic Solutions,Medium,8.13
+Immensea,4MY-AB,D-BAMJ,D-BAMJ VII,Condensed Alloy,Perfect,34.31
+Immensea,4MY-AB,D-BAMJ,D-BAMJ VII,Fiber Composite,Medium,22.05
+Immensea,4MY-AB,D-BAMJ,D-BAMJ VII,Opulent Compound,Perfect,35.89
+Immensea,4MY-AB,D-BAMJ,D-BAMJ VII,Reactive Gas,Perfect,37.55
+Immensea,4MY-AB,D-BAMJ,D-BAMJ VII,Liquid Ozone,Rich,37.72
+Immensea,4MY-AB,JKWP-U,JKWP-U I,Lustering Alloy,Poor,14.98
+Immensea,4MY-AB,JKWP-U,JKWP-U I,Precious Alloy,Poor,16.57
+Immensea,4MY-AB,JKWP-U,JKWP-U I,Supertensile Plastics,Poor,13.10
+Immensea,4MY-AB,JKWP-U,JKWP-U I,Silicate Glass,Medium,10.41
+Immensea,4MY-AB,JKWP-U,JKWP-U II,Lustering Alloy,Medium,23.50
+Immensea,4MY-AB,JKWP-U,JKWP-U II,Dark Compound,Medium,21.91
+Immensea,4MY-AB,JKWP-U,JKWP-U II,Supertensile Plastics,Medium,14.27
+Immensea,4MY-AB,JKWP-U,JKWP-U II,Plasmoids,Poor,0.85
+Immensea,4MY-AB,JKWP-U,JKWP-U III,Reactive Gas,Medium,25.96
+Immensea,4MY-AB,JKWP-U,JKWP-U III,Reactive Metals,Rich,9.01
+Immensea,4MY-AB,JKWP-U,JKWP-U III,Toxic Metals,Perfect,9.27
+Immensea,4MY-AB,JKWP-U,JKWP-U III,Nanites,Rich,8.66
+Immensea,4MY-AB,JKWP-U,JKWP-U IV,Lustering Alloy,Poor,16.04
+Immensea,4MY-AB,JKWP-U,JKWP-U IV,Dark Compound,Medium,24.20
+Immensea,4MY-AB,JKWP-U,JKWP-U IV,Supertensile Plastics,Medium,16.38
+Immensea,4MY-AB,JKWP-U,JKWP-U IV,Oxygen Isotopes,Medium,3.72
+Immensea,4MY-AB,JKWP-U,JKWP-U V,Dark Compound,Poor,14.59
+Immensea,4MY-AB,JKWP-U,JKWP-U V,Supertensile Plastics,Medium,16.60
+Immensea,4MY-AB,JKWP-U,JKWP-U V,Construction Blocks,Medium,23.78
+Immensea,4MY-AB,JKWP-U,JKWP-U V,Silicate Glass,Poor,9.50
+Immensea,4MY-AB,JKWP-U,JKWP-U VI,Sheen Compound,Rich,34.28
+Immensea,4MY-AB,JKWP-U,JKWP-U VI,Fiber Composite,Medium,27.15
+Immensea,4MY-AB,JKWP-U,JKWP-U VI,Reactive Gas,Rich,29.41
+Immensea,4MY-AB,JKWP-U,JKWP-U VI,Reactive Metals,Medium,6.54
+Immensea,4MY-AB,JKWP-U,JKWP-U VI,Polyaramids,Medium,17.70
+Immensea,4MY-AB,JKWP-U,JKWP-U VII,Condensed Alloy,Medium,27.28
+Immensea,4MY-AB,JKWP-U,JKWP-U VII,Crystal Compound,Poor,20.06
+Immensea,4MY-AB,JKWP-U,JKWP-U VII,Polyaramids,Poor,13.70
+Immensea,4MY-AB,JKWP-U,JKWP-U VII,Coolant,Medium,15.53
+Immensea,4MY-AB,JKWP-U,JKWP-U VII,Liquid Ozone,Rich,36.96
+Immensea,4MY-AB,JKWP-U,JKWP-U VIII,Glossy Compound,Perfect,35.22
+Immensea,4MY-AB,JKWP-U,JKWP-U VIII,Reactive Gas,Rich,29.33
+Immensea,4MY-AB,JKWP-U,JKWP-U VIII,Noble Gas,Poor,19.56
+Immensea,4MY-AB,JKWP-U,JKWP-U VIII,Reactive Metals,Perfect,9.44
+Immensea,4MY-AB,JKWP-U,JKWP-U VIII,Coolant,Perfect,24.13
+Immensea,4MY-AB,JKWP-U,JKWP-U IX,Lustering Alloy,Perfect,35.27
+Immensea,4MY-AB,JKWP-U,JKWP-U IX,Reactive Gas,Rich,31.64
+Immensea,4MY-AB,JKWP-U,JKWP-U IX,Reactive Metals,Perfect,9.44
+Immensea,4MY-AB,JKWP-U,JKWP-U IX,Coolant,Rich,20.14
+Immensea,4MY-AB,JKWP-U,JKWP-U IX,Ionic Solutions,Rich,13.77
+Immensea,4MY-AB,JKWP-U,JKWP-U X,Sheen Compound,Medium,22.11
+Immensea,4MY-AB,JKWP-U,JKWP-U X,Fiber Composite,Medium,23.39
+Immensea,4MY-AB,JKWP-U,JKWP-U X,Reactive Gas,Perfect,35.88
+Immensea,4MY-AB,JKWP-U,JKWP-U X,Base Metals,Medium,7.23
+Immensea,4MY-AB,JKWP-U,JKWP-U X,Polyaramids,Medium,17.28
+Immensea,4MY-AB,JKWP-U,JKWP-U XI,Crystal Compound,Medium,21.49
+Immensea,4MY-AB,JKWP-U,JKWP-U XI,Reactive Gas,Rich,30.67
+Immensea,4MY-AB,JKWP-U,JKWP-U XI,Reactive Metals,Rich,7.98
+Immensea,4MY-AB,JKWP-U,JKWP-U XI,Nanites,Rich,7.37
+Immensea,4MY-AB,RHE7-W,RHE7-W I,Lustering Alloy,Poor,17.56
+Immensea,4MY-AB,RHE7-W,RHE7-W I,Precious Alloy,Poor,18.78
+Immensea,4MY-AB,RHE7-W,RHE7-W I,Toxic Metals,Poor,4.44
+Immensea,4MY-AB,RHE7-W,RHE7-W I,Supertensile Plastics,Poor,11.45
+Immensea,4MY-AB,RHE7-W,RHE7-W II,Condensed Alloy,Medium,19.60
+Immensea,4MY-AB,RHE7-W,RHE7-W II,Opulent Compound,Medium,25.00
+Immensea,4MY-AB,RHE7-W,RHE7-W II,Toxic Metals,Perfect,9.14
+Immensea,4MY-AB,RHE7-W,RHE7-W II,Silicate Glass,Medium,9.52
+Immensea,4MY-AB,RHE7-W,RHE7-W II,Liquid Ozone,Rich,33.20
+Immensea,4MY-AB,RHE7-W,RHE7-W III,Condensed Alloy,Perfect,32.36
+Immensea,4MY-AB,RHE7-W,RHE7-W III,Fiber Composite,Poor,18.82
+Immensea,4MY-AB,RHE7-W,RHE7-W III,Condensates,Perfect,24.03
+Immensea,4MY-AB,RHE7-W,RHE7-W III,Heavy Water,Rich,317.60
+Immensea,4MY-AB,RHE7-W,RHE7-W III,Liquid Ozone,Medium,30.32
+Immensea,4MY-AB,RHE7-W,RHE7-W IV,Gleaming Alloy,Medium,21.22
+Immensea,4MY-AB,RHE7-W,RHE7-W IV,Reactive Gas,Medium,24.28
+Immensea,4MY-AB,RHE7-W,RHE7-W IV,Reactive Metals,Perfect,8.46
+Immensea,4MY-AB,RHE7-W,RHE7-W IV,Toxic Metals,Medium,6.09
+Immensea,4MY-AB,RHE7-W,RHE7-W V,Lustering Alloy,Medium,23.18
+Immensea,4MY-AB,RHE7-W,RHE7-W V,Base Metals,Poor,4.71
+Immensea,4MY-AB,RHE7-W,RHE7-W V,Supertensile Plastics,Poor,9.67
+Immensea,4MY-AB,RHE7-W,RHE7-W V,Construction Blocks,Medium,20.70
+Immensea,4MY-AB,RHE7-W,RHE7-W VI,Lustering Alloy,Medium,22.10
+Immensea,4MY-AB,RHE7-W,RHE7-W VI,Supertensile Plastics,Medium,12.88
+Immensea,4MY-AB,RHE7-W,RHE7-W VI,Oxygen Isotopes,Poor,2.56
+Immensea,4MY-AB,RHE7-W,RHE7-W VI,Plasmoids,Poor,0.92
+Immensea,4MY-AB,F76-8Q,F76-8Q I,Lustering Alloy,Poor,14.10
+Immensea,4MY-AB,F76-8Q,F76-8Q I,Toxic Metals,Poor,4.78
+Immensea,4MY-AB,F76-8Q,F76-8Q I,Supertensile Plastics,Medium,16.01
+Immensea,4MY-AB,F76-8Q,F76-8Q I,Construction Blocks,Poor,17.64
+Immensea,4MY-AB,F76-8Q,F76-8Q II,Reactive Gas,Rich,26.90
+Immensea,4MY-AB,F76-8Q,F76-8Q II,Industrial Fibers,Rich,8.11
+Immensea,4MY-AB,F76-8Q,F76-8Q II,Smartfab Units,Perfect,22.51
+Immensea,4MY-AB,F76-8Q,F76-8Q II,Heavy Water,Medium,190.80
+Immensea,4MY-AB,F76-8Q,F76-8Q II,Liquid Ozone,Medium,27.82
+Immensea,4MY-AB,F76-8Q,F76-8Q III,Opulent Compound,Perfect,34.08
+Immensea,4MY-AB,F76-8Q,F76-8Q III,Reactive Gas,Medium,22.22
+Immensea,4MY-AB,F76-8Q,F76-8Q III,Condensates,Rich,20.52
+Immensea,4MY-AB,F76-8Q,F76-8Q III,Heavy Water,Perfect,335.80
+Immensea,4MY-AB,F76-8Q,F76-8Q III,Liquid Ozone,Perfect,44.98
+Immensea,4MY-AB,F76-8Q,F76-8Q IV,Fiber Composite,Medium,20.74
+Immensea,4MY-AB,F76-8Q,F76-8Q IV,Glossy Compound,Poor,18.08
+Immensea,4MY-AB,F76-8Q,F76-8Q IV,Reactive Gas,Rich,27.86
+Immensea,4MY-AB,F76-8Q,F76-8Q IV,Reactive Metals,Rich,8.03
+Immensea,4MY-AB,F76-8Q,F76-8Q IV,Polyaramids,Medium,12.63
+Immensea,4MY-AB,F76-8Q,F76-8Q V,Lustering Alloy,Medium,22.40
+Immensea,4MY-AB,F76-8Q,F76-8Q V,Fiber Composite,Rich,29.52
+Immensea,4MY-AB,F76-8Q,F76-8Q V,Reactive Gas,Rich,29.40
+Immensea,4MY-AB,F76-8Q,F76-8Q V,Reactive Metals,Medium,6.29
+Immensea,4MY-AB,F76-8Q,F76-8Q V,Coolant,Rich,17.51
+Immensea,4MY-AB,F76-8Q,F76-8Q VI,Lustering Alloy,Rich,28.74
+Immensea,4MY-AB,F76-8Q,F76-8Q VI,Heavy Metals,Poor,14.52
+Immensea,4MY-AB,F76-8Q,F76-8Q VI,Condensates,Medium,13.99
+Immensea,4MY-AB,F76-8Q,F76-8Q VI,Suspended Plasma,Poor,59.47
+Immensea,Y46-EN,O3Z5-G,O3Z5-G I,Glossy Compound,Medium,31.15
+Immensea,Y46-EN,O3Z5-G,O3Z5-G I,Construction Blocks,Perfect,41.76
+Immensea,Y46-EN,O3Z5-G,O3Z5-G I,Smartfab Units,Rich,24.08
+Immensea,Y46-EN,O3Z5-G,O3Z5-G I,Plasmoids,Rich,2.23
+Immensea,Y46-EN,O3Z5-G,O3Z5-G II,Condensed Alloy,Poor,24.47
+Immensea,Y46-EN,O3Z5-G,O3Z5-G II,Crystal Compound,Perfect,42.64
+Immensea,Y46-EN,O3Z5-G,O3Z5-G II,Noble Metals,Rich,37.15
+Immensea,Y46-EN,O3Z5-G,O3Z5-G II,Polyaramids,Medium,21.08
+Immensea,Y46-EN,O3Z5-G,O3Z5-G II,Coolant,Rich,26.02
+Immensea,Y46-EN,O3Z5-G,O3Z5-G II,Liquid Ozone,Perfect,55.90
+Immensea,Y46-EN,O3Z5-G,O3Z5-G III,Gleaming Alloy,Rich,37.31
+Immensea,Y46-EN,O3Z5-G,O3Z5-G III,Crystal Compound,Rich,41.18
+Immensea,Y46-EN,O3Z5-G,O3Z5-G III,Reactive Gas,Rich,40.92
+Immensea,Y46-EN,O3Z5-G,O3Z5-G III,Toxic Metals,Poor,5.65
+Immensea,Y46-EN,O3Z5-G,O3Z5-G III,Construction Blocks,Medium,24.99
+Immensea,Y46-EN,O3Z5-G,O3Z5-G IV,Lustering Alloy,Medium,31.10
+Immensea,Y46-EN,O3Z5-G,O3Z5-G IV,Dark Compound,Medium,26.91
+Immensea,Y46-EN,O3Z5-G,O3Z5-G IV,Construction Blocks,Poor,20.72
+Immensea,Y46-EN,O3Z5-G,O3Z5-G IV,Oxygen Isotopes,Medium,3.81
+Immensea,Y46-EN,O3Z5-G,O3Z5-G IV,Plasmoids,Poor,1.25
+Immensea,Y46-EN,O3Z5-G,O3Z5-G V,Lustering Alloy,Poor,20.59
+Immensea,Y46-EN,O3Z5-G,O3Z5-G V,Precious Alloy,Medium,30.47
+Immensea,Y46-EN,O3Z5-G,O3Z5-G V,Dark Compound,Medium,30.97
+Immensea,Y46-EN,O3Z5-G,O3Z5-G V,Toxic Metals,Medium,6.82
+Immensea,Y46-EN,O3Z5-G,O3Z5-G V,Silicate Glass,Medium,13.04
+Immensea,Y46-EN,O3Z5-G,O3Z5-G VI,Condensed Alloy,Perfect,46.23
+Immensea,Y46-EN,O3Z5-G,O3Z5-G VI,Reactive Gas,Rich,36.22
+Immensea,Y46-EN,O3Z5-G,O3Z5-G VI,Base Metals,Perfect,12.69
+Immensea,Y46-EN,O3Z5-G,O3Z5-G VI,Industrial Fibers,Perfect,12.94
+Immensea,Y46-EN,O3Z5-G,O3Z5-G VI,Smartfab Units,Perfect,32.24
+Immensea,Y46-EN,O3Z5-G,O3Z5-G VI,Liquid Ozone,Medium,38.97
+Immensea,Y46-EN,O3Z5-G,O3Z5-G VII,Lustering Alloy,Rich,36.69
+Immensea,Y46-EN,O3Z5-G,O3Z5-G VII,Sheen Compound,Medium,30.55
+Immensea,Y46-EN,O3Z5-G,O3Z5-G VII,Glossy Compound,Medium,29.48
+Immensea,Y46-EN,O3Z5-G,O3Z5-G VII,Reactive Gas,Rich,38.87
+Immensea,Y46-EN,O3Z5-G,O3Z5-G VII,Base Metals,Poor,5.99
+Immensea,Y46-EN,O3Z5-G,O3Z5-G VII,Polyaramids,Medium,19.41
+Immensea,Y46-EN,4DV-1T,4DV-1T I,Lucent Compound,Perfect,42.00
+Immensea,Y46-EN,4DV-1T,4DV-1T I,Dark Compound,Rich,34.17
+Immensea,Y46-EN,4DV-1T,4DV-1T I,Noble Gas,Medium,30.60
+Immensea,Y46-EN,4DV-1T,4DV-1T I,Heavy Metals,Poor,23.50
+Immensea,Y46-EN,4DV-1T,4DV-1T I,Nanites,Medium,6.84
+Immensea,Y46-EN,4DV-1T,4DV-1T I,Ionic Solutions,Rich,13.73
+Immensea,Y46-EN,4DV-1T,4DV-1T II,Gleaming Alloy,Rich,35.65
+Immensea,Y46-EN,4DV-1T,4DV-1T II,Glossy Compound,Rich,39.45
+Immensea,Y46-EN,4DV-1T,4DV-1T II,Noble Gas,Poor,20.13
+Immensea,Y46-EN,4DV-1T,4DV-1T II,Heavy Metals,Poor,23.23
+Immensea,Y46-EN,4DV-1T,4DV-1T III,Lustering Alloy,Poor,17.70
+Immensea,Y46-EN,4DV-1T,4DV-1T III,Precious Alloy,Medium,27.18
+Immensea,Y46-EN,4DV-1T,4DV-1T III,Dark Compound,Medium,30.55
+Immensea,Y46-EN,4DV-1T,4DV-1T III,Base Metals,Poor,5.72
+Immensea,Y46-EN,4DV-1T,4DV-1T III,Supertensile Plastics,Medium,17.88
+Immensea,Y46-EN,4DV-1T,4DV-1T IV,Lustering Alloy,Medium,25.50
+Immensea,Y46-EN,4DV-1T,4DV-1T IV,Sheen Compound,Medium,28.90
+Immensea,Y46-EN,4DV-1T,4DV-1T IV,Fiber Composite,Medium,28.73
+Immensea,Y46-EN,4DV-1T,4DV-1T IV,Reactive Gas,Rich,36.15
+Immensea,Y46-EN,4DV-1T,4DV-1T IV,Base Metals,Rich,9.38
+Immensea,Y46-EN,4DV-1T,4DV-1T IV,Polyaramids,Perfect,27.25
+Immensea,Y46-EN,4DV-1T,4DV-1T V,Lustering Alloy,Poor,21.68
+Immensea,Y46-EN,4DV-1T,4DV-1T V,Precious Alloy,Poor,17.45
+Immensea,Y46-EN,4DV-1T,4DV-1T V,Dark Compound,Poor,22.02
+Immensea,Y46-EN,4DV-1T,4DV-1T V,Toxic Metals,Poor,4.61
+Immensea,Y46-EN,4DV-1T,4DV-1T V,Oxygen Isotopes,Poor,2.71
+Immensea,Y46-EN,4DV-1T,4DV-1T VI,Dark Compound,Poor,18.13
+Immensea,Y46-EN,4DV-1T,4DV-1T VI,Toxic Metals,Poor,5.01
+Immensea,Y46-EN,4DV-1T,4DV-1T VI,Supertensile Plastics,Poor,12.33
+Immensea,Y46-EN,4DV-1T,4DV-1T VI,Oxygen Isotopes,Medium,3.73
+Immensea,Y46-EN,4DV-1T,4DV-1T VI,Plasmoids,Medium,1.73
+Immensea,Y46-EN,4DV-1T,4DV-1T VII,Lustering Alloy,Perfect,41.23
+Immensea,Y46-EN,4DV-1T,4DV-1T VII,Sheen Compound,Rich,33.83
+Immensea,Y46-EN,4DV-1T,4DV-1T VII,Reactive Metals,Rich,10.32
+Immensea,Y46-EN,4DV-1T,4DV-1T VII,Polyaramids,Rich,25.88
+Immensea,Y46-EN,4DV-1T,4DV-1T VII,Coolant,Medium,16.87
+Immensea,Y46-EN,4DV-1T,4DV-1T VII,Ionic Solutions,Rich,14.13
+Immensea,Y46-EN,4DV-1T,4DV-1T VIII,Condensed Alloy,Medium,24.73
+Immensea,Y46-EN,4DV-1T,4DV-1T VIII,Toxic Metals,Medium,7.11
+Immensea,Y46-EN,4DV-1T,4DV-1T VIII,Polyaramids,Rich,25.88
+Immensea,Y46-EN,4DV-1T,4DV-1T VIII,Silicate Glass,Rich,19.11
+Immensea,Y46-EN,4DV-1T,4DV-1T VIII,Heavy Water,Rich,352.50
+Immensea,Y46-EN,4DV-1T,4DV-1T VIII,Ionic Solutions,Medium,10.49
+Immensea,Y46-EN,4DV-1T,4DV-1T IX,Gleaming Alloy,Medium,29.88
+Immensea,Y46-EN,4DV-1T,4DV-1T IX,Crystal Compound,Medium,25.50
+Immensea,Y46-EN,4DV-1T,4DV-1T IX,Reactive Gas,Medium,24.35
+Immensea,Y46-EN,4DV-1T,4DV-1T IX,Construction Blocks,Rich,38.65
+Immensea,Y46-EN,4DV-1T,4DV-1T IX,Suspended Plasma,Poor,84.24
+Immensea,Y46-EN,XS-K1O,XS-K1O I,Glossy Compound,Medium,28.73
+Immensea,Y46-EN,XS-K1O,XS-K1O I,Heavy Metals,Rich,36.80
+Immensea,Y46-EN,XS-K1O,XS-K1O I,Oxygen Isotopes,Poor,3.03
+Immensea,Y46-EN,XS-K1O,XS-K1O I,Plasmoids,Rich,2.38
+Immensea,Y46-EN,XS-K1O,XS-K1O II,Lustering Alloy,Poor,17.50
+Immensea,Y46-EN,XS-K1O,XS-K1O II,Precious Alloy,Medium,28.30
+Immensea,Y46-EN,XS-K1O,XS-K1O II,Dark Compound,Medium,30.40
+Immensea,Y46-EN,XS-K1O,XS-K1O II,Industrial Fibers,Medium,7.58
+Immensea,Y46-EN,XS-K1O,XS-K1O II,Construction Blocks,Poor,23.25
+Immensea,Y46-EN,XS-K1O,XS-K1O III,Lucent Compound,Medium,28.48
+Immensea,Y46-EN,XS-K1O,XS-K1O III,Crystal Compound,Poor,20.18
+Immensea,Y46-EN,XS-K1O,XS-K1O III,Reactive Metals,Poor,5.55
+Immensea,Y46-EN,XS-K1O,XS-K1O III,Supertensile Plastics,Medium,19.85
+Immensea,Y46-EN,XS-K1O,XS-K1O III,Oxygen Isotopes,Medium,4.72
+Immensea,Y46-EN,XS-K1O,XS-K1O IV,Condensed Alloy,Perfect,46.92
+Immensea,Y46-EN,XS-K1O,XS-K1O IV,Fiber Composite,Medium,29.65
+Immensea,Y46-EN,XS-K1O,XS-K1O IV,Opulent Compound,Medium,27.00
+Immensea,Y46-EN,XS-K1O,XS-K1O IV,Reactive Gas,Perfect,39.75
+Immensea,Y46-EN,XS-K1O,XS-K1O IV,Noble Metals,Perfect,46.80
+Immensea,Y46-EN,XS-K1O,XS-K1O IV,Smartfab Units,Perfect,26.58
+Immensea,Y46-EN,XS-K1O,XS-K1O V,Lustering Alloy,Poor,22.57
+Immensea,Y46-EN,XS-K1O,XS-K1O V,Fiber Composite,Medium,28.93
+Immensea,Y46-EN,XS-K1O,XS-K1O V,Glossy Compound,Rich,32.85
+Immensea,Y46-EN,XS-K1O,XS-K1O V,Noble Gas,Rich,32.48
+Immensea,Y46-EN,XS-K1O,XS-K1O V,Polyaramids,Medium,18.50
+Immensea,Y46-EN,XS-K1O,XS-K1O V,Ionic Solutions,Poor,8.84
+Immensea,Y46-EN,XS-K1O,XS-K1O VI,Lustering Alloy,Perfect,39.80
+Immensea,Y46-EN,XS-K1O,XS-K1O VI,Fiber Composite,Rich,37.23
+Immensea,Y46-EN,XS-K1O,XS-K1O VI,Base Metals,Medium,7.83
+Immensea,Y46-EN,XS-K1O,XS-K1O VI,Polyaramids,Medium,19.68
+Immensea,Y46-EN,XS-K1O,XS-K1O VI,Coolant,Perfect,27.15
+Immensea,Y46-EN,XS-K1O,XS-K1O VI,Ionic Solutions,Medium,9.78
+Immensea,Y46-EN,XS-K1O,XS-K1O VII,Lustering Alloy,Rich,38.63
+Immensea,Y46-EN,XS-K1O,XS-K1O VII,Fiber Composite,Medium,30.15
+Immensea,Y46-EN,XS-K1O,XS-K1O VII,Glossy Compound,Perfect,39.90
+Immensea,Y46-EN,XS-K1O,XS-K1O VII,Noble Gas,Rich,34.23
+Immensea,Y46-EN,XS-K1O,XS-K1O VII,Base Metals,Poor,5.51
+Immensea,Y46-EN,XS-K1O,XS-K1O VII,Ionic Solutions,Medium,9.83
+Immensea,Y46-EN,XS-K1O,XS-K1O VIII,Precious Alloy,Medium,30.27
+Immensea,Y46-EN,XS-K1O,XS-K1O VIII,Base Metals,Poor,4.80
+Immensea,Y46-EN,XS-K1O,XS-K1O VIII,Supertensile Plastics,Rich,24.12
+Immensea,Y46-EN,XS-K1O,XS-K1O VIII,Condensates,Medium,19.87
+Immensea,Y46-EN,XS-K1O,XS-K1O VIII,Suspended Plasma,Poor,78.21
+Immensea,Y46-EN,XS-K1O,XS-K1O IX,Precious Alloy,Poor,18.40
+Immensea,Y46-EN,XS-K1O,XS-K1O IX,Dark Compound,Poor,17.13
+Immensea,Y46-EN,XS-K1O,XS-K1O IX,Base Metals,Poor,6.01
+Immensea,Y46-EN,XS-K1O,XS-K1O IX,Industrial Fibers,Poor,4.26
+Immensea,Y46-EN,XS-K1O,XS-K1O IX,Oxygen Isotopes,Medium,4.50
+Immensea,Y46-EN,FN-DSR,FN-DSR I,Lucent Compound,Medium,27.90
+Immensea,Y46-EN,FN-DSR,FN-DSR I,Heavy Metals,Medium,29.07
+Immensea,Y46-EN,FN-DSR,FN-DSR I,Reactive Metals,Medium,6.62
+Immensea,Y46-EN,FN-DSR,FN-DSR I,Condensates,Medium,18.20
+Immensea,Y46-EN,FN-DSR,FN-DSR I,Nanites,Poor,5.70
+Immensea,Y46-EN,FN-DSR,FN-DSR II,Gleaming Alloy,Medium,22.68
+Immensea,Y46-EN,FN-DSR,FN-DSR II,Polyaramids,Poor,13.88
+Immensea,Y46-EN,FN-DSR,FN-DSR II,Construction Blocks,Medium,25.16
+Immensea,Y46-EN,FN-DSR,FN-DSR III,Reactive Metals,Poor,5.07
+Immensea,Y46-EN,FN-DSR,FN-DSR III,Nanites,Poor,5.30
+Immensea,Y46-EN,FN-DSR,FN-DSR III,Suspended Plasma,Poor,68.39
+Immensea,Y46-EN,FN-DSR,FN-DSR III,Oxygen Isotopes,Medium,3.87
+Immensea,Y46-EN,FN-DSR,FN-DSR IV,Lustering Alloy,Rich,33.65
+Immensea,Y46-EN,FN-DSR,FN-DSR IV,Glossy Compound,Rich,35.28
+Immensea,Y46-EN,FN-DSR,FN-DSR IV,Reactive Gas,Rich,35.17
+Immensea,Y46-EN,FN-DSR,FN-DSR IV,Reactive Metals,Perfect,9.93
+Immensea,Y46-EN,FN-DSR,FN-DSR IV,Coolant,Rich,23.67
+Immensea,Y46-EN,FN-DSR,FN-DSR V,Glossy Compound,Rich,31.23
+Immensea,Y46-EN,FN-DSR,FN-DSR V,Reactive Gas,Perfect,37.97
+Immensea,Y46-EN,FN-DSR,FN-DSR V,Base Metals,Medium,6.58
+Immensea,Y46-EN,FN-DSR,FN-DSR V,Polyaramids,Rich,22.25
+Immensea,Y46-EN,FN-DSR,FN-DSR V,Ionic Solutions,Perfect,15.08
+Immensea,Y46-EN,FN-DSR,FN-DSR VI,Lustering Alloy,Rich,33.14
+Immensea,Y46-EN,FN-DSR,FN-DSR VI,Industrial Fibers,Medium,7.59
+Immensea,Y46-EN,FN-DSR,FN-DSR VI,Condensates,Rich,19.87
+Immensea,Y46-EN,FN-DSR,FN-DSR VI,Liquid Ozone,Medium,31.97
+Immensea,Y46-EN,FN-DSR,FN-DSR VII,Lustering Alloy,Medium,27.42
+Immensea,Y46-EN,FN-DSR,FN-DSR VII,Industrial Fibers,Medium,7.04
+Immensea,Y46-EN,FN-DSR,FN-DSR VII,Supertensile Plastics,Poor,12.80
+Immensea,Y46-EN,FN-DSR,FN-DSR VII,Construction Blocks,Poor,18.22
+Immensea,Y46-EN,B-R5RB,B-R5RB I,Lucent Compound,Rich,36.34
+Immensea,Y46-EN,B-R5RB,B-R5RB I,Dark Compound,Poor,24.46
+Immensea,Y46-EN,B-R5RB,B-R5RB I,Heavy Metals,Rich,36.86
+Immensea,Y46-EN,B-R5RB,B-R5RB I,Reactive Metals,Medium,7.45
+Immensea,Y46-EN,B-R5RB,B-R5RB I,Nanites,Rich,9.49
+Immensea,Y46-EN,B-R5RB,B-R5RB I,Ionic Solutions,Rich,14.15
+Immensea,Y46-EN,B-R5RB,B-R5RB II,Glossy Compound,Medium,33.05
+Immensea,Y46-EN,B-R5RB,B-R5RB II,Noble Gas,Poor,22.98
+Immensea,Y46-EN,B-R5RB,B-R5RB II,Heavy Metals,Rich,35.07
+Immensea,Y46-EN,B-R5RB,B-R5RB II,Noble Metals,Rich,36.45
+Immensea,Y46-EN,B-R5RB,B-R5RB III,Lustering Alloy,Poor,20.39
+Immensea,Y46-EN,B-R5RB,B-R5RB III,Precious Alloy,Poor,25.06
+Immensea,Y46-EN,B-R5RB,B-R5RB III,Dark Compound,Poor,20.30
+Immensea,Y46-EN,B-R5RB,B-R5RB III,Toxic Metals,Medium,6.98
+Immensea,Y46-EN,B-R5RB,B-R5RB III,Construction Blocks,Poor,18.09
+Immensea,Y46-EN,B-R5RB,B-R5RB IV,Gleaming Alloy,Medium,31.16
+Immensea,Y46-EN,B-R5RB,B-R5RB IV,Crystal Compound,Rich,42.42
+Immensea,Y46-EN,B-R5RB,B-R5RB IV,Reactive Gas,Rich,34.70
+Immensea,Y46-EN,B-R5RB,B-R5RB IV,Construction Blocks,Medium,32.32
+Immensea,Y46-EN,B-R5RB,B-R5RB IV,Suspended Plasma,Medium,114.89
+Immensea,Y46-EN,B-R5RB,B-R5RB V,Condensed Alloy,Perfect,43.71
+Immensea,Y46-EN,B-R5RB,B-R5RB V,Fiber Composite,Rich,34.97
+Immensea,Y46-EN,B-R5RB,B-R5RB V,Opulent Compound,Rich,41.36
+Immensea,Y46-EN,B-R5RB,B-R5RB V,Reactive Gas,Medium,27.00
+Immensea,Y46-EN,B-R5RB,B-R5RB V,Smartfab Units,Medium,20.84
+Immensea,Y46-EN,B-R5RB,B-R5RB V,Heavy Water,Perfect,484.11
+Immensea,Y46-EN,B-R5RB,B-R5RB VI,Lustering Alloy,Poor,24.38
+Immensea,Y46-EN,B-R5RB,B-R5RB VI,Sheen Compound,Rich,41.15
+Immensea,Y46-EN,B-R5RB,B-R5RB VI,Glossy Compound,Poor,24.43
+Immensea,Y46-EN,B-R5RB,B-R5RB VI,Noble Gas,Rich,42.36
+Immensea,Y46-EN,B-R5RB,B-R5RB VI,Reactive Metals,Poor,6.67
+Immensea,Y46-EN,B-R5RB,B-R5RB VI,Ionic Solutions,Rich,16.86
+Immensea,Y46-EN,B-R5RB,B-R5RB VII,Sheen Compound,Poor,22.44
+Immensea,Y46-EN,B-R5RB,B-R5RB VII,Fiber Composite,Rich,40.93
+Immensea,Y46-EN,B-R5RB,B-R5RB VII,Glossy Compound,Medium,34.16
+Immensea,Y46-EN,B-R5RB,B-R5RB VII,Noble Gas,Rich,39.42
+Immensea,Y46-EN,B-R5RB,B-R5RB VII,Base Metals,Rich,9.98
+Immensea,Y46-EN,B-R5RB,B-R5RB VII,Reactive Metals,Rich,10.13
+Immensea,Y46-EN,B-R5RB,B-R5RB VIII,Lustering Alloy,Perfect,44.15
+Immensea,Y46-EN,B-R5RB,B-R5RB VIII,Glossy Compound,Medium,30.05
+Immensea,Y46-EN,B-R5RB,B-R5RB VIII,Reactive Gas,Rich,35.59
+Immensea,Y46-EN,B-R5RB,B-R5RB VIII,Noble Gas,Medium,31.29
+Immensea,Y46-EN,B-R5RB,B-R5RB VIII,Coolant,Medium,18.67
+Immensea,Y46-EN,B-R5RB,B-R5RB VIII,Ionic Solutions,Poor,9.61
+Immensea,Y46-EN,B-R5RB,B-R5RB IX,Lustering Alloy,Perfect,44.28
+Immensea,Y46-EN,B-R5RB,B-R5RB IX,Sheen Compound,Medium,30.75
+Immensea,Y46-EN,B-R5RB,B-R5RB IX,Fiber Composite,Rich,34.29
+Immensea,Y46-EN,B-R5RB,B-R5RB IX,Glossy Compound,Poor,25.30
+Immensea,Y46-EN,B-R5RB,B-R5RB IX,Noble Gas,Medium,30.38
+Immensea,Y46-EN,B-R5RB,B-R5RB IX,Reactive Metals,Medium,8.79
+Immensea,Y46-EN,7-ZT1Y,7-ZT1Y I,Lustering Alloy,Medium,25.60
+Immensea,Y46-EN,7-ZT1Y,7-ZT1Y I,Precious Alloy,Medium,27.00
+Immensea,Y46-EN,7-ZT1Y,7-ZT1Y I,Supertensile Plastics,Medium,17.77
+Immensea,Y46-EN,7-ZT1Y,7-ZT1Y I,Oxygen Isotopes,Poor,2.38
+Immensea,Y46-EN,7-ZT1Y,7-ZT1Y II,Gleaming Alloy,Poor,19.34
+Immensea,Y46-EN,7-ZT1Y,7-ZT1Y II,Construction Blocks,Rich,35.76
+Immensea,Y46-EN,7-ZT1Y,7-ZT1Y II,Plasmoids,Poor,1.27
+Immensea,Y46-EN,7-ZT1Y,7-ZT1Y III,Toxic Metals,Medium,7.43
+Immensea,Y46-EN,7-ZT1Y,7-ZT1Y III,Industrial Fibers,Poor,5.40
+Immensea,Y46-EN,7-ZT1Y,7-ZT1Y III,Supertensile Plastics,Medium,18.63
+Immensea,Y46-EN,7-ZT1Y,7-ZT1Y III,Silicate Glass,Medium,13.36
+Immensea,Y46-EN,7-ZT1Y,7-ZT1Y IV,Lustering Alloy,Poor,15.13
+Immensea,Y46-EN,7-ZT1Y,7-ZT1Y IV,Dark Compound,Poor,18.86
+Immensea,Y46-EN,7-ZT1Y,7-ZT1Y IV,Supertensile Plastics,Medium,16.21
+Immensea,Y46-EN,7-ZT1Y,7-ZT1Y IV,Oxygen Isotopes,Poor,3.22
+Immensea,Y46-EN,7-ZT1Y,7-ZT1Y V,Reactive Metals,Rich,9.07
+Immensea,Y46-EN,7-ZT1Y,7-ZT1Y V,Supertensile Plastics,Poor,13.40
+Immensea,Y46-EN,7-ZT1Y,7-ZT1Y V,Suspended Plasma,Rich,127.43
+Immensea,Y46-EN,7-ZT1Y,7-ZT1Y V,Oxygen Isotopes,Medium,3.40
+Immensea,Y46-EN,7-ZT1Y,7-ZT1Y VI,Lustering Alloy,Perfect,37.40
+Immensea,Y46-EN,7-ZT1Y,7-ZT1Y VI,Reactive Gas,Perfect,37.21
+Immensea,Y46-EN,7-ZT1Y,7-ZT1Y VI,Noble Gas,Rich,30.57
+Immensea,Y46-EN,7-ZT1Y,7-ZT1Y VI,Base Metals,Medium,7.35
+Immensea,Y46-EN,7-ZT1Y,7-ZT1Y VI,Ionic Solutions,Medium,11.23
+Immensea,Y46-EN,7-ZT1Y,7-ZT1Y VII,Condensed Alloy,Medium,23.09
+Immensea,Y46-EN,7-ZT1Y,7-ZT1Y VII,Reactive Gas,Perfect,37.58
+Immensea,Y46-EN,7-ZT1Y,7-ZT1Y VII,Noble Metals,Perfect,38.29
+Immensea,Y46-EN,7-ZT1Y,7-ZT1Y VII,Condensates,Perfect,26.71
+Immensea,Y46-EN,7-ZT1Y,7-ZT1Y VII,Liquid Ozone,Rich,42.18
+Immensea,Y46-EN,7-ZT1Y,7-ZT1Y VIII,Sheen Compound,Medium,24.36
+Immensea,Y46-EN,7-ZT1Y,7-ZT1Y VIII,Fiber Composite,Poor,20.61
+Immensea,Y46-EN,7-ZT1Y,7-ZT1Y VIII,Reactive Gas,Rich,34.18
+Immensea,Y46-EN,7-ZT1Y,7-ZT1Y VIII,Reactive Metals,Medium,5.74
+Immensea,Y46-EN,7-ZT1Y,7-ZT1Y VIII,Coolant,Medium,18.28
+Immensea,Y46-EN,7-ZT1Y,7-ZT1Y IX,Base Metals,Rich,8.23
+Immensea,Y46-EN,7-ZT1Y,7-ZT1Y IX,Industrial Fibers,Rich,8.98
+Immensea,Y46-EN,7-ZT1Y,7-ZT1Y IX,Condensates,Rich,22.62
+Immensea,Y46-EN,7-ZT1Y,7-ZT1Y IX,Suspended Plasma,Poor,77.91
+Immensea,EL8Z-M,9-XN3F,9-XN3F I,Lustering Alloy,Poor,19.57
+Immensea,EL8Z-M,9-XN3F,9-XN3F I,Base Metals,Medium,5.85
+Immensea,EL8Z-M,9-XN3F,9-XN3F I,Toxic Metals,Poor,5.23
+Immensea,EL8Z-M,9-XN3F,9-XN3F I,Supertensile Plastics,Poor,10.63
+Immensea,EL8Z-M,9-XN3F,9-XN3F II,Crystal Compound,Medium,23.67
+Immensea,EL8Z-M,9-XN3F,9-XN3F II,Reactive Gas,Rich,33.46
+Immensea,EL8Z-M,9-XN3F,9-XN3F II,Reactive Metals,Rich,8.49
+Immensea,EL8Z-M,9-XN3F,9-XN3F II,Oxygen Isotopes,Perfect,5.58
+Immensea,EL8Z-M,9-XN3F,9-XN3F III,Precious Alloy,Medium,23.18
+Immensea,EL8Z-M,9-XN3F,9-XN3F III,Supertensile Plastics,Poor,11.21
+Immensea,EL8Z-M,9-XN3F,9-XN3F III,Construction Blocks,Medium,24.73
+Immensea,EL8Z-M,9-XN3F,9-XN3F III,Oxygen Isotopes,Poor,2.83
+Immensea,EL8Z-M,9-XN3F,9-XN3F IV,Lustering Alloy,Poor,18.61
+Immensea,EL8Z-M,9-XN3F,9-XN3F IV,Dark Compound,Poor,16.93
+Immensea,EL8Z-M,9-XN3F,9-XN3F IV,Supertensile Plastics,Medium,16.42
+Immensea,EL8Z-M,9-XN3F,9-XN3F IV,Silicate Glass,Poor,8.85
+Immensea,EL8Z-M,9-XN3F,9-XN3F V,Gleaming Alloy,Poor,20.24
+Immensea,EL8Z-M,9-XN3F,9-XN3F V,Polyaramids,Rich,23.06
+Immensea,EL8Z-M,9-XN3F,9-XN3F V,Oxygen Isotopes,Rich,5.29
+Immensea,EL8Z-M,9-XN3F,9-XN3F VI,Lustering Alloy,Medium,22.52
+Immensea,EL8Z-M,9-XN3F,9-XN3F VI,Fiber Composite,Rich,32.66
+Immensea,EL8Z-M,9-XN3F,9-XN3F VI,Reactive Gas,Medium,27.07
+Immensea,EL8Z-M,9-XN3F,9-XN3F VI,Noble Gas,Medium,23.34
+Immensea,EL8Z-M,9-XN3F,9-XN3F VI,Coolant,Rich,22.72
+Immensea,EL8Z-M,9-XN3F,9-XN3F VII,Lustering Alloy,Medium,23.05
+Immensea,EL8Z-M,9-XN3F,9-XN3F VII,Fiber Composite,Poor,19.32
+Immensea,EL8Z-M,9-XN3F,9-XN3F VII,Reactive Gas,Rich,33.28
+Immensea,EL8Z-M,9-XN3F,9-XN3F VII,Reactive Metals,Rich,7.83
+Immensea,EL8Z-M,9-XN3F,9-XN3F VII,Polyaramids,Rich,22.98
+Immensea,EL8Z-M,9-XN3F,9-XN3F VIII,Fiber Composite,Rich,31.21
+Immensea,EL8Z-M,9-XN3F,9-XN3F VIII,Glossy Compound,Poor,20.17
+Immensea,EL8Z-M,9-XN3F,9-XN3F VIII,Reactive Gas,Medium,22.70
+Immensea,EL8Z-M,9-XN3F,9-XN3F VIII,Base Metals,Rich,8.46
+Immensea,EL8Z-M,9-XN3F,9-XN3F VIII,Polyaramids,Rich,22.80
+Immensea,EL8Z-M,9-XN3F,9-XN3F IX,Reactive Gas,Rich,33.07
+Immensea,EL8Z-M,9-XN3F,9-XN3F IX,Noble Gas,Medium,24.36
+Immensea,EL8Z-M,9-XN3F,9-XN3F IX,Base Metals,Rich,7.73
+Immensea,EL8Z-M,9-XN3F,9-XN3F IX,Polyaramids,Medium,19.20
+Immensea,EL8Z-M,9-XN3F,9-XN3F IX,Ionic Solutions,Rich,12.79
+Immensea,EL8Z-M,9-XN3F,9-XN3F X,Supertensile Plastics,Medium,17.02
+Immensea,EL8Z-M,9-XN3F,9-XN3F X,Coolant,Medium,18.97
+Immensea,EL8Z-M,9-XN3F,9-XN3F X,Condensates,Medium,18.84
+Immensea,EL8Z-M,9-XN3F,9-XN3F X,Suspended Plasma,Medium,86.19
+Immensea,EL8Z-M,AC-7LZ,AC-7LZ I,Toxic Metals,Medium,7.28
+Immensea,EL8Z-M,AC-7LZ,AC-7LZ I,Industrial Fibers,Medium,6.21
+Immensea,EL8Z-M,AC-7LZ,AC-7LZ I,Supertensile Plastics,Poor,11.53
+Immensea,EL8Z-M,AC-7LZ,AC-7LZ I,Oxygen Isotopes,Medium,3.79
+Immensea,EL8Z-M,AC-7LZ,AC-7LZ II,Precious Alloy,Poor,18.26
+Immensea,EL8Z-M,AC-7LZ,AC-7LZ II,Base Metals,Medium,5.99
+Immensea,EL8Z-M,AC-7LZ,AC-7LZ II,Supertensile Plastics,Medium,16.08
+Immensea,EL8Z-M,AC-7LZ,AC-7LZ II,Plasmoids,Medium,1.45
+Immensea,EL8Z-M,AC-7LZ,AC-7LZ III,Industrial Fibers,Poor,5.21
+Immensea,EL8Z-M,AC-7LZ,AC-7LZ III,Supertensile Plastics,Poor,13.57
+Immensea,EL8Z-M,AC-7LZ,AC-7LZ III,Construction Blocks,Medium,26.13
+Immensea,EL8Z-M,AC-7LZ,AC-7LZ III,Oxygen Isotopes,Poor,2.70
+Immensea,EL8Z-M,AC-7LZ,AC-7LZ IV,Opulent Compound,Medium,27.14
+Immensea,EL8Z-M,AC-7LZ,AC-7LZ IV,Noble Metals,Medium,28.43
+Immensea,EL8Z-M,AC-7LZ,AC-7LZ IV,Condensates,Medium,17.50
+Immensea,EL8Z-M,AC-7LZ,AC-7LZ IV,Smartfab Units,Perfect,26.60
+Immensea,EL8Z-M,AC-7LZ,AC-7LZ IV,Liquid Ozone,Rich,37.12
+Immensea,EL8Z-M,AC-7LZ,AC-7LZ V,Gleaming Alloy,Medium,22.98
+Immensea,EL8Z-M,AC-7LZ,AC-7LZ V,Crystal Compound,Rich,34.75
+Immensea,EL8Z-M,AC-7LZ,AC-7LZ V,Reactive Metals,Rich,9.43
+Immensea,EL8Z-M,AC-7LZ,AC-7LZ V,Supertensile Plastics,Poor,12.37
+Immensea,EL8Z-M,AC-7LZ,AC-7LZ VI,Glossy Compound,Medium,23.87
+Immensea,EL8Z-M,AC-7LZ,AC-7LZ VI,Reactive Gas,Rich,36.13
+Immensea,EL8Z-M,AC-7LZ,AC-7LZ VI,Noble Gas,Poor,20.95
+Immensea,EL8Z-M,AC-7LZ,AC-7LZ VI,Polyaramids,Medium,15.16
+Immensea,EL8Z-M,AC-7LZ,AC-7LZ VI,Coolant,Poor,14.26
+Immensea,EL8Z-M,AC-7LZ,AC-7LZ VII,Lucent Compound,Rich,33.30
+Immensea,EL8Z-M,AC-7LZ,AC-7LZ VII,Reactive Gas,Rich,32.96
+Immensea,EL8Z-M,AC-7LZ,AC-7LZ VII,Reactive Metals,Rich,9.19
+Immensea,EL8Z-M,AC-7LZ,AC-7LZ VII,Toxic Metals,Medium,5.81
+Immensea,EL8Z-M,AC-7LZ,AC-7LZ VIII,Lustering Alloy,Rich,29.62
+Immensea,EL8Z-M,AC-7LZ,AC-7LZ VIII,Sheen Compound,Medium,24.79
+Immensea,EL8Z-M,AC-7LZ,AC-7LZ VIII,Glossy Compound,Perfect,36.75
+Immensea,EL8Z-M,AC-7LZ,AC-7LZ VIII,Reactive Gas,Medium,25.62
+Immensea,EL8Z-M,AC-7LZ,AC-7LZ VIII,Reactive Metals,Medium,7.66
+Immensea,EL8Z-M,AC-7LZ,AC-7LZ IX,Sheen Compound,Perfect,37.65
+Immensea,EL8Z-M,AC-7LZ,AC-7LZ IX,Fiber Composite,Rich,31.81
+Immensea,EL8Z-M,AC-7LZ,AC-7LZ IX,Glossy Compound,Rich,32.91
+Immensea,EL8Z-M,AC-7LZ,AC-7LZ IX,Reactive Gas,Rich,36.48
+Immensea,EL8Z-M,AC-7LZ,AC-7LZ IX,Reactive Metals,Rich,7.72
+Immensea,EL8Z-M,AC-7LZ,AC-7LZ X,Lustering Alloy,Medium,25.02
+Immensea,EL8Z-M,AC-7LZ,AC-7LZ X,Fiber Composite,Rich,33.60
+Immensea,EL8Z-M,AC-7LZ,AC-7LZ X,Reactive Gas,Medium,25.78
+Immensea,EL8Z-M,AC-7LZ,AC-7LZ X,Noble Gas,Perfect,36.78
+Immensea,EL8Z-M,AC-7LZ,AC-7LZ X,Polyaramids,Rich,21.27
+Immensea,EL8Z-M,AC-7LZ,AC-7LZ XI,Precious Alloy,Medium,27.74
+Immensea,EL8Z-M,AC-7LZ,AC-7LZ XI,Base Metals,Medium,6.39
+Immensea,EL8Z-M,AC-7LZ,AC-7LZ XI,Condensates,Medium,15.58
+Immensea,EL8Z-M,AC-7LZ,AC-7LZ XI,Suspended Plasma,Medium,102.92
+Immensea,EL8Z-M,AC-7LZ,AC-7LZ XII,Precious Alloy,Poor,20.82
+Immensea,EL8Z-M,AC-7LZ,AC-7LZ XII,Supertensile Plastics,Medium,14.52
+Immensea,EL8Z-M,AC-7LZ,AC-7LZ XII,Construction Blocks,Poor,20.52
+Immensea,EL8Z-M,AC-7LZ,AC-7LZ XII,Silicate Glass,Medium,11.87
+Immensea,EL8Z-M,LBA-SO,LBA-SO I,Gleaming Alloy,Rich,32.87
+Immensea,EL8Z-M,LBA-SO,LBA-SO I,Lucent Compound,Rich,30.27
+Immensea,EL8Z-M,LBA-SO,LBA-SO I,Reactive Metals,Rich,8.41
+Immensea,EL8Z-M,LBA-SO,LBA-SO I,Oxygen Isotopes,Medium,4.05
+Immensea,EL8Z-M,LBA-SO,LBA-SO II,Fiber Composite,Medium,23.28
+Immensea,EL8Z-M,LBA-SO,LBA-SO II,Reactive Gas,Rich,29.77
+Immensea,EL8Z-M,LBA-SO,LBA-SO II,Noble Metals,Medium,23.19
+Immensea,EL8Z-M,LBA-SO,LBA-SO II,Condensates,Medium,15.63
+Immensea,EL8Z-M,LBA-SO,LBA-SO II,Liquid Ozone,Perfect,51.62
+Immensea,EL8Z-M,LBA-SO,LBA-SO III,Toxic Metals,Medium,5.80
+Immensea,EL8Z-M,LBA-SO,LBA-SO III,Supertensile Plastics,Poor,10.79
+Immensea,EL8Z-M,LBA-SO,LBA-SO III,Silicate Glass,Medium,12.76
+Immensea,EL8Z-M,LBA-SO,LBA-SO III,Oxygen Isotopes,Medium,3.55
+Immensea,EL8Z-M,LBA-SO,LBA-SO IV,Lustering Alloy,Poor,18.81
+Immensea,EL8Z-M,LBA-SO,LBA-SO IV,Precious Alloy,Poor,17.73
+Immensea,EL8Z-M,LBA-SO,LBA-SO IV,Supertensile Plastics,Poor,10.68
+Immensea,EL8Z-M,LBA-SO,LBA-SO IV,Silicate Glass,Medium,12.51
+Immensea,EL8Z-M,LBA-SO,LBA-SO V,Fiber Composite,Medium,27.26
+Immensea,EL8Z-M,LBA-SO,LBA-SO V,Reactive Gas,Rich,30.10
+Immensea,EL8Z-M,LBA-SO,LBA-SO V,Reactive Metals,Medium,5.82
+Immensea,EL8Z-M,LBA-SO,LBA-SO V,Coolant,Poor,13.57
+Immensea,EL8Z-M,LBA-SO,LBA-SO V,Ionic Solutions,Medium,8.38
+Immensea,EL8Z-M,LBA-SO,LBA-SO VI,Reactive Gas,Rich,34.89
+Immensea,EL8Z-M,LBA-SO,LBA-SO VI,Noble Gas,Medium,25.72
+Immensea,EL8Z-M,LBA-SO,LBA-SO VI,Polyaramids,Medium,15.49
+Immensea,EL8Z-M,LBA-SO,LBA-SO VI,Coolant,Medium,13.85
+Immensea,EL8Z-M,LBA-SO,LBA-SO VI,Ionic Solutions,Medium,9.07
+Immensea,EL8Z-M,LBA-SO,LBA-SO VII,Sheen Compound,Perfect,36.39
+Immensea,EL8Z-M,LBA-SO,LBA-SO VII,Reactive Gas,Rich,30.45
+Immensea,EL8Z-M,LBA-SO,LBA-SO VII,Noble Gas,Medium,25.54
+Immensea,EL8Z-M,LBA-SO,LBA-SO VII,Reactive Metals,Medium,6.21
+Immensea,EL8Z-M,LBA-SO,LBA-SO VII,Polyaramids,Medium,15.90
+Immensea,EL8Z-M,LBA-SO,LBA-SO VIII,Lucent Compound,Medium,25.70
+Immensea,EL8Z-M,LBA-SO,LBA-SO VIII,Reactive Metals,Medium,5.63
+Immensea,EL8Z-M,LBA-SO,LBA-SO VIII,Supertensile Plastics,Medium,14.04
+Immensea,EL8Z-M,LBA-SO,LBA-SO VIII,Construction Blocks,Medium,24.66
+Immensea,EL8Z-M,LBA-SO,LBA-SO IX,Motley Compound,Medium,27.72
+Immensea,EL8Z-M,LBA-SO,LBA-SO IX,Industrial Fibers,Medium,7.01
+Immensea,EL8Z-M,LBA-SO,LBA-SO IX,Condensates,Poor,10.75
+Immensea,EL8Z-M,LBA-SO,LBA-SO IX,Suspended Plasma,Poor,71.83
+Immensea,EL8Z-M,LBA-SO,LBA-SO X,Condensed Alloy,Medium,21.96
+Immensea,EL8Z-M,LBA-SO,LBA-SO X,Crystal Compound,Perfect,38.39
+Immensea,EL8Z-M,LBA-SO,LBA-SO X,Polyaramids,Rich,22.65
+Immensea,EL8Z-M,LBA-SO,LBA-SO X,Heavy Water,Medium,216.70
+Immensea,EL8Z-M,LBA-SO,LBA-SO X,Liquid Ozone,Rich,42.46
+Immensea,EL8Z-M,Y-FZ5N,Y-FZ5N I,Lustering Alloy,Medium,29.28
+Immensea,EL8Z-M,Y-FZ5N,Y-FZ5N I,Supertensile Plastics,Medium,17.92
+Immensea,EL8Z-M,Y-FZ5N,Y-FZ5N I,Silicate Glass,Poor,8.35
+Immensea,EL8Z-M,Y-FZ5N,Y-FZ5N I,Plasmoids,Poor,0.96
+Immensea,EL8Z-M,Y-FZ5N,Y-FZ5N II,Dark Compound,Medium,29.33
+Immensea,EL8Z-M,Y-FZ5N,Y-FZ5N II,Supertensile Plastics,Poor,12.99
+Immensea,EL8Z-M,Y-FZ5N,Y-FZ5N II,Construction Blocks,Medium,28.46
+Immensea,EL8Z-M,Y-FZ5N,Y-FZ5N II,Plasmoids,Poor,0.91
+Immensea,EL8Z-M,Y-FZ5N,Y-FZ5N III,Gleaming Alloy,Rich,37.10
+Immensea,EL8Z-M,Y-FZ5N,Y-FZ5N III,Lucent Compound,Rich,36.17
+Immensea,EL8Z-M,Y-FZ5N,Y-FZ5N III,Reactive Metals,Rich,8.64
+Immensea,EL8Z-M,Y-FZ5N,Y-FZ5N III,Suspended Plasma,Rich,125.88
+Immensea,EL8Z-M,Y-FZ5N,Y-FZ5N IV,Condensed Alloy,Perfect,40.58
+Immensea,EL8Z-M,Y-FZ5N,Y-FZ5N IV,Base Metals,Perfect,11.53
+Immensea,EL8Z-M,Y-FZ5N,Y-FZ5N IV,Smartfab Units,Rich,21.79
+Immensea,EL8Z-M,Y-FZ5N,Y-FZ5N IV,Heavy Water,Medium,274.80
+Immensea,EL8Z-M,Y-FZ5N,Y-FZ5N IV,Liquid Ozone,Poor,27.66
+Immensea,EL8Z-M,Y-FZ5N,Y-FZ5N V,Industrial Fibers,Poor,5.72
+Immensea,EL8Z-M,Y-FZ5N,Y-FZ5N V,Supertensile Plastics,Poor,10.02
+Immensea,EL8Z-M,Y-FZ5N,Y-FZ5N V,Construction Blocks,Medium,23.40
+Immensea,EL8Z-M,Y-FZ5N,Y-FZ5N V,Plasmoids,Poor,1.00
+Immensea,EL8Z-M,Y-FZ5N,Y-FZ5N VI,Lustering Alloy,Poor,20.95
+Immensea,EL8Z-M,Y-FZ5N,Y-FZ5N VI,Glossy Compound,Rich,37.27
+Immensea,EL8Z-M,Y-FZ5N,Y-FZ5N VI,Reactive Gas,Medium,23.14
+Immensea,EL8Z-M,Y-FZ5N,Y-FZ5N VI,Reactive Metals,Rich,9.81
+Immensea,EL8Z-M,Y-FZ5N,Y-FZ5N VI,Polyaramids,Medium,16.72
+Immensea,EL8Z-M,Y-FZ5N,Y-FZ5N VII,Gleaming Alloy,Medium,29.38
+Immensea,EL8Z-M,Y-FZ5N,Y-FZ5N VII,Crystal Compound,Medium,24.86
+Immensea,EL8Z-M,Y-FZ5N,Y-FZ5N VII,Reactive Metals,Poor,5.44
+Immensea,EL8Z-M,Y-FZ5N,Y-FZ5N VII,Oxygen Isotopes,Poor,3.12
+Immensea,EL8Z-M,Y-FZ5N,Y-FZ5N VIII,Fiber Composite,Medium,25.82
+Immensea,EL8Z-M,Y-FZ5N,Y-FZ5N VIII,Reactive Gas,Rich,30.86
+Immensea,EL8Z-M,Y-FZ5N,Y-FZ5N VIII,Base Metals,Medium,7.57
+Immensea,EL8Z-M,Y-FZ5N,Y-FZ5N VIII,Reactive Metals,Perfect,10.45
+Immensea,EL8Z-M,Y-FZ5N,Y-FZ5N VIII,Coolant,Medium,16.58
+Immensea,EL8Z-M,Y-FZ5N,Y-FZ5N IX,Fiber Composite,Medium,25.37
+Immensea,EL8Z-M,Y-FZ5N,Y-FZ5N IX,Reactive Gas,Medium,27.53
+Immensea,EL8Z-M,Y-FZ5N,Y-FZ5N IX,Noble Gas,Poor,20.09
+Immensea,EL8Z-M,Y-FZ5N,Y-FZ5N IX,Reactive Metals,Medium,6.52
+Immensea,EL8Z-M,Y-FZ5N,Y-FZ5N IX,Polyaramids,Rich,23.39
+Immensea,EL8Z-M,E8-YS9,E8-YS9 I,Gleaming Alloy,Perfect,37.97
+Immensea,EL8Z-M,E8-YS9,E8-YS9 I,Motley Compound,Medium,23.97
+Immensea,EL8Z-M,E8-YS9,E8-YS9 I,Noble Metals,Poor,18.51
+Immensea,EL8Z-M,E8-YS9,E8-YS9 II,Base Metals,Medium,7.08
+Immensea,EL8Z-M,E8-YS9,E8-YS9 II,Industrial Fibers,Medium,7.12
+Immensea,EL8Z-M,E8-YS9,E8-YS9 II,Supertensile Plastics,Poor,12.63
+Immensea,EL8Z-M,E8-YS9,E8-YS9 II,Silicate Glass,Medium,11.22
+Immensea,EL8Z-M,E8-YS9,E8-YS9 III,Condensed Alloy,Perfect,36.87
+Immensea,EL8Z-M,E8-YS9,E8-YS9 III,Reactive Gas,Rich,31.83
+Immensea,EL8Z-M,E8-YS9,E8-YS9 III,Noble Metals,Poor,21.41
+Immensea,EL8Z-M,E8-YS9,E8-YS9 III,Smartfab Units,Poor,14.23
+Immensea,EL8Z-M,E8-YS9,E8-YS9 III,Liquid Ozone,Medium,29.50
+Immensea,EL8Z-M,E8-YS9,E8-YS9 IV,Condensed Alloy,Rich,29.58
+Immensea,EL8Z-M,E8-YS9,E8-YS9 IV,Reactive Gas,Medium,28.43
+Immensea,EL8Z-M,E8-YS9,E8-YS9 IV,Base Metals,Perfect,11.32
+Immensea,EL8Z-M,E8-YS9,E8-YS9 IV,Smartfab Units,Medium,19.20
+Immensea,EL8Z-M,E8-YS9,E8-YS9 IV,Liquid Ozone,Medium,30.07
+Immensea,EL8Z-M,E8-YS9,E8-YS9 V,Lustering Alloy,Rich,30.34
+Immensea,EL8Z-M,E8-YS9,E8-YS9 V,Sheen Compound,Poor,21.14
+Immensea,EL8Z-M,E8-YS9,E8-YS9 V,Reactive Gas,Medium,23.30
+Immensea,EL8Z-M,E8-YS9,E8-YS9 V,Noble Gas,Rich,32.31
+Immensea,EL8Z-M,E8-YS9,E8-YS9 V,Coolant,Medium,18.38
+Immensea,EL8Z-M,E8-YS9,E8-YS9 VI,Lustering Alloy,Medium,22.13
+Immensea,EL8Z-M,E8-YS9,E8-YS9 VI,Reactive Gas,Medium,23.74
+Immensea,EL8Z-M,E8-YS9,E8-YS9 VI,Noble Gas,Rich,30.47
+Immensea,EL8Z-M,E8-YS9,E8-YS9 VI,Reactive Metals,Poor,5.22
+Immensea,EL8Z-M,E8-YS9,E8-YS9 VI,Polyaramids,Medium,17.39
+Immensea,EL8Z-M,E8-YS9,E8-YS9 VII,Base Metals,Medium,6.07
+Immensea,EL8Z-M,E8-YS9,E8-YS9 VII,Industrial Fibers,Medium,7.61
+Immensea,EL8Z-M,E8-YS9,E8-YS9 VII,Supertensile Plastics,Rich,20.41
+Immensea,EL8Z-M,E8-YS9,E8-YS9 VII,Condensates,Medium,18.05
+Immensea,EL8Z-M,U79-JF,U79-JF I,Glossy Compound,Medium,31.32
+Immensea,EL8Z-M,U79-JF,U79-JF I,Noble Gas,Poor,21.20
+Immensea,EL8Z-M,U79-JF,U79-JF I,Heavy Metals,Perfect,41.67
+Immensea,EL8Z-M,U79-JF,U79-JF I,Oxygen Isotopes,Medium,4.71
+Immensea,EL8Z-M,U79-JF,U79-JF II,Lustering Alloy,Medium,25.00
+Immensea,EL8Z-M,U79-JF,U79-JF II,Dark Compound,Poor,16.45
+Immensea,EL8Z-M,U79-JF,U79-JF II,Base Metals,Poor,4.50
+Immensea,EL8Z-M,U79-JF,U79-JF II,Construction Blocks,Poor,15.75
+Immensea,EL8Z-M,U79-JF,U79-JF II,Oxygen Isotopes,Medium,4.60
+Immensea,EL8Z-M,U79-JF,U79-JF III,Motley Compound,Poor,21.32
+Immensea,EL8Z-M,U79-JF,U79-JF III,Glossy Compound,Medium,30.75
+Immensea,EL8Z-M,U79-JF,U79-JF III,Noble Metals,Medium,24.73
+Immensea,EL8Z-M,U79-JF,U79-JF III,Oxygen Isotopes,Perfect,6.30
+Immensea,EL8Z-M,U79-JF,U79-JF IV,Precious Alloy,Medium,27.07
+Immensea,EL8Z-M,U79-JF,U79-JF IV,Dark Compound,Poor,22.73
+Immensea,EL8Z-M,U79-JF,U79-JF IV,Base Metals,Poor,4.53
+Immensea,EL8Z-M,U79-JF,U79-JF IV,Toxic Metals,Medium,6.72
+Immensea,EL8Z-M,U79-JF,U79-JF IV,Supertensile Plastics,Medium,17.40
+Immensea,EL8Z-M,U79-JF,U79-JF V,Motley Compound,Medium,25.63
+Immensea,EL8Z-M,U79-JF,U79-JF V,Glossy Compound,Rich,33.88
+Immensea,EL8Z-M,U79-JF,U79-JF V,Polyaramids,Medium,17.07
+Immensea,EL8Z-M,U79-JF,U79-JF V,Oxygen Isotopes,Medium,4.03
+Immensea,EL8Z-M,U79-JF,U79-JF VI,Condensed Alloy,Perfect,47.20
+Immensea,EL8Z-M,U79-JF,U79-JF VI,Fiber Composite,Rich,39.48
+Immensea,EL8Z-M,U79-JF,U79-JF VI,Opulent Compound,Perfect,46.65
+Immensea,EL8Z-M,U79-JF,U79-JF VI,Noble Metals,Rich,32.63
+Immensea,EL8Z-M,U79-JF,U79-JF VI,Smartfab Units,Rich,22.72
+Immensea,EL8Z-M,U79-JF,U79-JF VI,Liquid Ozone,Perfect,51.16
+Immensea,EL8Z-M,U79-JF,U79-JF VII,Lustering Alloy,Medium,28.68
+Immensea,EL8Z-M,U79-JF,U79-JF VII,Fiber Composite,Perfect,40.48
+Immensea,EL8Z-M,U79-JF,U79-JF VII,Glossy Compound,Rich,31.75
+Immensea,EL8Z-M,U79-JF,U79-JF VII,Reactive Gas,Rich,37.83
+Immensea,EL8Z-M,U79-JF,U79-JF VII,Reactive Metals,Rich,9.57
+Immensea,EL8Z-M,U79-JF,U79-JF VII,Polyaramids,Rich,21.42
+Immensea,EL8Z-M,U79-JF,U79-JF VIII,Lustering Alloy,Medium,31.45
+Immensea,EL8Z-M,U79-JF,U79-JF VIII,Sheen Compound,Rich,38.85
+Immensea,EL8Z-M,U79-JF,U79-JF VIII,Noble Gas,Medium,27.95
+Immensea,EL8Z-M,U79-JF,U79-JF VIII,Base Metals,Medium,7.51
+Immensea,EL8Z-M,U79-JF,U79-JF VIII,Polyaramids,Medium,20.50
+Immensea,EL8Z-M,U79-JF,U79-JF VIII,Coolant,Rich,26.18
+Immensea,EL8Z-M,U79-JF,U79-JF IX,Lustering Alloy,Poor,21.57
+Immensea,EL8Z-M,U79-JF,U79-JF IX,Glossy Compound,Medium,30.68
+Immensea,EL8Z-M,U79-JF,U79-JF IX,Reactive Gas,Rich,35.02
+Immensea,EL8Z-M,U79-JF,U79-JF IX,Base Metals,Poor,6.11
+Immensea,EL8Z-M,U79-JF,U79-JF IX,Reactive Metals,Medium,6.76
+Immensea,EL8Z-M,U79-JF,U79-JF IX,Ionic Solutions,Medium,11.50
+Immensea,EL8Z-M,U79-JF,U79-JF X,Precious Alloy,Medium,27.52
+Immensea,EL8Z-M,U79-JF,U79-JF X,Motley Compound,Medium,24.65
+Immensea,EL8Z-M,U79-JF,U79-JF X,Base Metals,Rich,9.76
+Immensea,EL8Z-M,U79-JF,U79-JF X,Condensates,Rich,23.47
+Immensea,EL8Z-M,U79-JF,U79-JF X,Suspended Plasma,Poor,67.05
+Immensea,YENX-U,B2-UQW,B2-UQW I,Reactive Metals,Perfect,9.71
+Immensea,YENX-U,B2-UQW,B2-UQW I,Toxic Metals,Perfect,9.71
+Immensea,YENX-U,B2-UQW,B2-UQW I,Suspended Plasma,Medium,86.94
+Immensea,YENX-U,B2-UQW,B2-UQW I,Oxygen Isotopes,Rich,5.39
+Immensea,YENX-U,B2-UQW,B2-UQW II,Dark Compound,Poor,14.38
+Immensea,YENX-U,B2-UQW,B2-UQW II,Toxic Metals,Medium,6.07
+Immensea,YENX-U,B2-UQW,B2-UQW II,Supertensile Plastics,Medium,18.35
+Immensea,YENX-U,B2-UQW,B2-UQW II,Oxygen Isotopes,Poor,3.19
+Immensea,YENX-U,B2-UQW,B2-UQW III,Base Metals,Poor,4.36
+Immensea,YENX-U,B2-UQW,B2-UQW III,Toxic Metals,Medium,7.11
+Immensea,YENX-U,B2-UQW,B2-UQW III,Supertensile Plastics,Medium,14.51
+Immensea,YENX-U,B2-UQW,B2-UQW III,Plasmoids,Medium,1.41
+Immensea,YENX-U,B2-UQW,B2-UQW IV,Crystal Compound,Perfect,36.87
+Immensea,YENX-U,B2-UQW,B2-UQW IV,Noble Metals,Perfect,37.56
+Immensea,YENX-U,B2-UQW,B2-UQW IV,Toxic Metals,Rich,8.08
+Immensea,YENX-U,B2-UQW,B2-UQW IV,Heavy Water,Rich,325.45
+Immensea,YENX-U,B2-UQW,B2-UQW IV,Liquid Ozone,Rich,44.16
+Immensea,YENX-U,B2-UQW,B2-UQW V,Sheen Compound,Poor,21.48
+Immensea,YENX-U,B2-UQW,B2-UQW V,Reactive Gas,Rich,33.37
+Immensea,YENX-U,B2-UQW,B2-UQW V,Base Metals,Poor,5.22
+Immensea,YENX-U,B2-UQW,B2-UQW V,Polyaramids,Rich,23.21
+Immensea,YENX-U,B2-UQW,B2-UQW V,Coolant,Medium,18.22
+Immensea,YENX-U,B2-UQW,B2-UQW VI,Sheen Compound,Medium,28.31
+Immensea,YENX-U,B2-UQW,B2-UQW VI,Glossy Compound,Medium,24.82
+Immensea,YENX-U,B2-UQW,B2-UQW VI,Reactive Gas,Poor,21.14
+Immensea,YENX-U,B2-UQW,B2-UQW VI,Noble Gas,Medium,26.29
+Immensea,YENX-U,B2-UQW,B2-UQW VI,Ionic Solutions,Perfect,14.94
+Immensea,YENX-U,B2-UQW,B2-UQW VII,Precious Alloy,Rich,32.89
+Immensea,YENX-U,B2-UQW,B2-UQW VII,Supertensile Plastics,Medium,18.80
+Immensea,YENX-U,B2-UQW,B2-UQW VII,Condensates,Medium,16.85
+Immensea,YENX-U,B2-UQW,B2-UQW VII,Suspended Plasma,Medium,93.90
+Immensea,YENX-U,B2-UQW,B2-UQW VIII,Opulent Compound,Rich,34.57
+Immensea,YENX-U,B2-UQW,B2-UQW VIII,Noble Metals,Rich,35.47
+Immensea,YENX-U,B2-UQW,B2-UQW VIII,Toxic Metals,Perfect,9.86
+Immensea,YENX-U,B2-UQW,B2-UQW VIII,Silicate Glass,Rich,14.74
+Immensea,YENX-U,B2-UQW,B2-UQW VIII,Liquid Ozone,Rich,40.16
+Immensea,YENX-U,B2-UQW,B2-UQW IX,Toxic Metals,Medium,6.82
+Immensea,YENX-U,B2-UQW,B2-UQW IX,Supertensile Plastics,Medium,15.00
+Immensea,YENX-U,B2-UQW,B2-UQW IX,Oxygen Isotopes,Poor,3.02
+Immensea,YENX-U,B2-UQW,B2-UQW IX,Plasmoids,Medium,1.35
+Immensea,YENX-U,U9U-TQ,U9U-TQ I,Lustering Alloy,Medium,25.28
+Immensea,YENX-U,U9U-TQ,U9U-TQ I,Toxic Metals,Poor,5.52
+Immensea,YENX-U,U9U-TQ,U9U-TQ I,Industrial Fibers,Poor,5.20
+Immensea,YENX-U,U9U-TQ,U9U-TQ I,Supertensile Plastics,Medium,14.52
+Immensea,YENX-U,U9U-TQ,U9U-TQ II,Reactive Gas,Perfect,39.97
+Immensea,YENX-U,U9U-TQ,U9U-TQ II,Base Metals,Rich,7.75
+Immensea,YENX-U,U9U-TQ,U9U-TQ II,Condensates,Rich,22.52
+Immensea,YENX-U,U9U-TQ,U9U-TQ II,Heavy Water,Rich,296.93
+Immensea,YENX-U,U9U-TQ,U9U-TQ II,Liquid Ozone,Perfect,53.07
+Immensea,YENX-U,U9U-TQ,U9U-TQ III,Fiber Composite,Perfect,39.15
+Immensea,YENX-U,U9U-TQ,U9U-TQ III,Opulent Compound,Perfect,39.54
+Immensea,YENX-U,U9U-TQ,U9U-TQ III,Reactive Gas,Rich,29.42
+Immensea,YENX-U,U9U-TQ,U9U-TQ III,Smartfab Units,Perfect,26.63
+Immensea,YENX-U,U9U-TQ,U9U-TQ III,Liquid Ozone,Medium,30.70
+Immensea,YENX-U,U9U-TQ,U9U-TQ IV,Condensed Alloy,Rich,35.30
+Immensea,YENX-U,U9U-TQ,U9U-TQ IV,Opulent Compound,Rich,36.13
+Immensea,YENX-U,U9U-TQ,U9U-TQ IV,Industrial Fibers,Rich,8.53
+Immensea,YENX-U,U9U-TQ,U9U-TQ IV,Heavy Water,Perfect,386.86
+Immensea,YENX-U,U9U-TQ,U9U-TQ IV,Liquid Ozone,Medium,36.31
+Immensea,YENX-U,U9U-TQ,U9U-TQ V,Fiber Composite,Perfect,39.05
+Immensea,YENX-U,U9U-TQ,U9U-TQ V,Base Metals,Rich,9.39
+Immensea,YENX-U,U9U-TQ,U9U-TQ V,Noble Metals,Rich,35.70
+Immensea,YENX-U,U9U-TQ,U9U-TQ V,Condensates,Rich,21.44
+Immensea,YENX-U,U9U-TQ,U9U-TQ V,Liquid Ozone,Medium,30.33
+Immensea,YENX-U,U9U-TQ,U9U-TQ VI,Gleaming Alloy,Poor,21.46
+Immensea,YENX-U,U9U-TQ,U9U-TQ VI,Crystal Compound,Poor,20.03
+Immensea,YENX-U,U9U-TQ,U9U-TQ VI,Reactive Metals,Medium,7.32
+Immensea,YENX-U,U9U-TQ,U9U-TQ VI,Construction Blocks,Medium,23.87
+Immensea,YENX-U,6-I162,6-I162 I,Lucent Compound,Medium,24.53
+Immensea,YENX-U,6-I162,6-I162 I,Heavy Metals,Medium,24.19
+Immensea,YENX-U,6-I162,6-I162 I,Reactive Metals,Medium,7.89
+Immensea,YENX-U,6-I162,6-I162 I,Condensates,Medium,17.86
+Immensea,YENX-U,6-I162,6-I162 I,Suspended Plasma,Perfect,143.34
+Immensea,YENX-U,6-I162,6-I162 II,Precious Alloy,Medium,28.78
+Immensea,YENX-U,6-I162,6-I162 II,Dark Compound,Poor,16.10
+Immensea,YENX-U,6-I162,6-I162 II,Supertensile Plastics,Poor,10.74
+Immensea,YENX-U,6-I162,6-I162 II,Plasmoids,Poor,1.01
+Immensea,YENX-U,6-I162,6-I162 III,Fiber Composite,Perfect,45.43
+Immensea,YENX-U,6-I162,6-I162 III,Opulent Compound,Medium,27.98
+Immensea,YENX-U,6-I162,6-I162 III,Base Metals,Rich,8.17
+Immensea,YENX-U,6-I162,6-I162 III,Noble Metals,Perfect,45.26
+Immensea,YENX-U,6-I162,6-I162 III,Liquid Ozone,Rich,43.56
+Immensea,YENX-U,6-I162,6-I162 IV,Condensed Alloy,Rich,34.75
+Immensea,YENX-U,6-I162,6-I162 IV,Silicate Glass,Medium,14.75
+Immensea,YENX-U,6-I162,6-I162 IV,Heavy Water,Rich,311.28
+Immensea,YENX-U,6-I162,6-I162 IV,Liquid Ozone,Medium,32.79
+Immensea,YENX-U,6-I162,6-I162 IV,Ionic Solutions,Perfect,15.47
+Immensea,YENX-U,6-I162,6-I162 V,Lustering Alloy,Medium,28.99
+Immensea,YENX-U,6-I162,6-I162 V,Supertensile Plastics,Poor,13.22
+Immensea,YENX-U,6-I162,6-I162 V,Oxygen Isotopes,Poor,2.26
+Immensea,YENX-U,6-I162,6-I162 V,Plasmoids,Poor,0.91
+Immensea,YENX-U,6-I162,6-I162 VI,Reactive Metals,Poor,5.58
+Immensea,YENX-U,6-I162,6-I162 VI,Construction Blocks,Rich,33.58
+Immensea,YENX-U,6-I162,6-I162 VI,Suspended Plasma,Rich,126.58
+Immensea,YENX-U,6-I162,6-I162 VI,Oxygen Isotopes,Medium,3.83
+Immensea,YENX-U,6-I162,6-I162 VII,Lucent Compound,Perfect,38.40
+Immensea,YENX-U,6-I162,6-I162 VII,Crystal Compound,Rich,34.03
+Immensea,YENX-U,6-I162,6-I162 VII,Reactive Metals,Rich,9.13
+Immensea,YENX-U,6-I162,6-I162 VII,Nanites,Rich,8.15
+Immensea,YENX-U,08-N7Q,08-N7Q I,Lustering Alloy,Medium,26.19
+Immensea,YENX-U,08-N7Q,08-N7Q I,Sheen Compound,Rich,34.37
+Immensea,YENX-U,08-N7Q,08-N7Q I,Glossy Compound,Rich,40.55
+Immensea,YENX-U,08-N7Q,08-N7Q I,Base Metals,Rich,9.51
+Immensea,YENX-U,08-N7Q,08-N7Q I,Reactive Metals,Rich,9.17
+Immensea,YENX-U,08-N7Q,08-N7Q I,Polyaramids,Poor,16.18
+Immensea,YENX-U,08-N7Q,08-N7Q II,Gleaming Alloy,Perfect,43.36
+Immensea,YENX-U,08-N7Q,08-N7Q II,Crystal Compound,Rich,36.53
+Immensea,YENX-U,08-N7Q,08-N7Q II,Reactive Metals,Rich,10.61
+Immensea,YENX-U,08-N7Q,08-N7Q II,Construction Blocks,Rich,35.72
+Immensea,YENX-U,08-N7Q,08-N7Q II,Nanites,Medium,6.93
+Immensea,YENX-U,08-N7Q,08-N7Q III,Fiber Composite,Medium,26.84
+Immensea,YENX-U,08-N7Q,08-N7Q III,Glossy Compound,Rich,42.85
+Immensea,YENX-U,08-N7Q,08-N7Q III,Reactive Gas,Rich,39.42
+Immensea,YENX-U,08-N7Q,08-N7Q III,Noble Gas,Poor,25.27
+Immensea,YENX-U,08-N7Q,08-N7Q III,Polyaramids,Rich,25.24
+Immensea,YENX-U,08-N7Q,08-N7Q III,Coolant,Rich,23.11
+Immensea,YENX-U,08-N7Q,08-N7Q IV,Precious Alloy,Poor,23.79
+Immensea,YENX-U,08-N7Q,08-N7Q IV,Heavy Metals,Medium,31.73
+Immensea,YENX-U,08-N7Q,08-N7Q IV,Industrial Fibers,Poor,5.35
+Immensea,YENX-U,08-N7Q,08-N7Q IV,Suspended Plasma,Poor,90.59
+Immensea,YENX-U,08-N7Q,08-N7Q IV,Liquid Ozone,Medium,40.13
+Immensea,YENX-U,Y-C4AL,Y-C4AL I,Lustering Alloy,Medium,30.50
+Immensea,YENX-U,Y-C4AL,Y-C4AL I,Precious Alloy,Poor,17.63
+Immensea,YENX-U,Y-C4AL,Y-C4AL I,Dark Compound,Medium,29.09
+Immensea,YENX-U,Y-C4AL,Y-C4AL I,Construction Blocks,Medium,30.13
+Immensea,YENX-U,Y-C4AL,Y-C4AL I,Silicate Glass,Poor,10.88
+Immensea,YENX-U,Y-C4AL,Y-C4AL II,Lustering Alloy,Poor,18.72
+Immensea,YENX-U,Y-C4AL,Y-C4AL II,Dark Compound,Medium,30.37
+Immensea,YENX-U,Y-C4AL,Y-C4AL II,Base Metals,Poor,5.83
+Immensea,YENX-U,Y-C4AL,Y-C4AL II,Toxic Metals,Poor,4.28
+Immensea,YENX-U,Y-C4AL,Y-C4AL II,Industrial Fibers,Poor,6.34
+Immensea,YENX-U,Y-C4AL,Y-C4AL III,Gleaming Alloy,Rich,40.74
+Immensea,YENX-U,Y-C4AL,Y-C4AL III,Glossy Compound,Rich,34.71
+Immensea,YENX-U,Y-C4AL,Y-C4AL III,Noble Metals,Medium,31.88
+Immensea,YENX-U,Y-C4AL,Y-C4AL III,Construction Blocks,Perfect,44.02
+Immensea,YENX-U,Y-C4AL,Y-C4AL IV,Condensed Alloy,Rich,40.12
+Immensea,YENX-U,Y-C4AL,Y-C4AL IV,Fiber Composite,Rich,40.46
+Immensea,YENX-U,Y-C4AL,Y-C4AL IV,Base Metals,Rich,8.68
+Immensea,YENX-U,Y-C4AL,Y-C4AL IV,Noble Metals,Perfect,41.78
+Immensea,YENX-U,Y-C4AL,Y-C4AL IV,Industrial Fibers,Medium,8.20
+Immensea,YENX-U,Y-C4AL,Y-C4AL IV,Heavy Water,Perfect,468.00
+Immensea,YENX-U,Y-C4AL,Y-C4AL V,Crystal Compound,Medium,29.12
+Immensea,YENX-U,Y-C4AL,Y-C4AL V,Noble Metals,Medium,29.30
+Immensea,YENX-U,Y-C4AL,Y-C4AL V,Toxic Metals,Medium,7.29
+Immensea,YENX-U,Y-C4AL,Y-C4AL V,Polyaramids,Medium,16.73
+Immensea,YENX-U,Y-C4AL,Y-C4AL V,Silicate Glass,Perfect,21.35
+Immensea,YENX-U,Y-C4AL,Y-C4AL V,Ionic Solutions,Medium,12.92
+Immensea,YENX-U,Y-C4AL,Y-C4AL VI,Gleaming Alloy,Perfect,42.46
+Immensea,YENX-U,Y-C4AL,Y-C4AL VI,Crystal Compound,Medium,32.40
+Immensea,YENX-U,Y-C4AL,Y-C4AL VI,Reactive Gas,Rich,39.44
+Immensea,YENX-U,Y-C4AL,Y-C4AL VI,Supertensile Plastics,Medium,20.89
+Immensea,YENX-U,Y-C4AL,Y-C4AL VI,Oxygen Isotopes,Rich,5.26
+Immensea,YENX-U,Y-C4AL,Y-C4AL VII,Lucent Compound,Medium,28.00
+Immensea,YENX-U,Y-C4AL,Y-C4AL VII,Crystal Compound,Rich,41.18
+Immensea,YENX-U,Y-C4AL,Y-C4AL VII,Supertensile Plastics,Medium,18.67
+Immensea,YENX-U,Y-C4AL,Y-C4AL VII,Nanites,Medium,8.27
+Immensea,YENX-U,Y-C4AL,Y-C4AL VII,Suspended Plasma,Rich,132.16
+Immensea,YENX-U,Y-C4AL,Y-C4AL VIII,Lustering Alloy,Medium,25.06
+Immensea,YENX-U,Y-C4AL,Y-C4AL VIII,Glossy Compound,Medium,29.80
+Immensea,YENX-U,Y-C4AL,Y-C4AL VIII,Reactive Gas,Medium,30.50
+Immensea,YENX-U,Y-C4AL,Y-C4AL VIII,Noble Gas,Poor,24.05
+Immensea,YENX-U,Y-C4AL,Y-C4AL VIII,Polyaramids,Poor,15.89
+Immensea,YENX-U,Y-C4AL,Y-C4AL VIII,Ionic Solutions,Perfect,16.86
+Immensea,YENX-U,Y-C4AL,Y-C4AL IX,Precious Alloy,Poor,18.69
+Immensea,YENX-U,Y-C4AL,Y-C4AL IX,Dark Compound,Medium,29.20
+Immensea,YENX-U,Y-C4AL,Y-C4AL IX,Base Metals,Medium,7.33
+Immensea,YENX-U,Y-C4AL,Y-C4AL IX,Supertensile Plastics,Poor,11.65
+Immensea,YENX-U,Y-C4AL,Y-C4AL IX,Construction Blocks,Poor,17.89
+Immensea,YENX-U,Y-C4AL,Y-C4AL X,Gleaming Alloy,Rich,33.28
+Immensea,YENX-U,Y-C4AL,Y-C4AL X,Lucent Compound,Rich,33.05
+Immensea,YENX-U,Y-C4AL,Y-C4AL X,Crystal Compound,Rich,36.97
+Immensea,YENX-U,Y-C4AL,Y-C4AL X,Nanites,Medium,6.96
+Immensea,YENX-U,Y-C4AL,Y-C4AL X,Oxygen Isotopes,Perfect,6.39
+Immensea,YENX-U,Y-C4AL,Y-C4AL XI,Lustering Alloy,Rich,34.58
+Immensea,YENX-U,Y-C4AL,Y-C4AL XI,Fiber Composite,Medium,31.90
+Immensea,YENX-U,Y-C4AL,Y-C4AL XI,Noble Gas,Rich,34.89
+Immensea,YENX-U,Y-C4AL,Y-C4AL XI,Polyaramids,Medium,20.23
+Immensea,YENX-U,Y-C4AL,Y-C4AL XI,Coolant,Medium,19.12
+Immensea,YENX-U,Y-C4AL,Y-C4AL XI,Ionic Solutions,Perfect,16.86
+Immensea,YENX-U,Y-C4AL,Y-C4AL XII,Precious Alloy,Medium,26.13
+Immensea,YENX-U,Y-C4AL,Y-C4AL XII,Base Metals,Rich,10.13
+Immensea,YENX-U,Y-C4AL,Y-C4AL XII,Heavy Metals,Rich,33.98
+Immensea,YENX-U,Y-C4AL,Y-C4AL XII,Industrial Fibers,Poor,5.85
+Immensea,YENX-U,Y-C4AL,Y-C4AL XII,Supertensile Plastics,Medium,19.86
+Immensea,YENX-U,CKX-RW,CKX-RW I,Glossy Compound,Rich,36.58
+Immensea,YENX-U,CKX-RW,CKX-RW I,Heavy Metals,Poor,24.02
+Immensea,YENX-U,CKX-RW,CKX-RW I,Noble Metals,Poor,22.72
+Immensea,YENX-U,CKX-RW,CKX-RW I,Oxygen Isotopes,Rich,4.96
+Immensea,YENX-U,CKX-RW,CKX-RW II,Dark Compound,Medium,27.53
+Immensea,YENX-U,CKX-RW,CKX-RW II,Base Metals,Poor,5.53
+Immensea,YENX-U,CKX-RW,CKX-RW II,Toxic Metals,Medium,6.55
+Immensea,YENX-U,CKX-RW,CKX-RW II,Industrial Fibers,Medium,7.84
+Immensea,YENX-U,CKX-RW,CKX-RW II,Construction Blocks,Poor,17.73
+Immensea,YENX-U,CKX-RW,CKX-RW III,Crystal Compound,Medium,31.04
+Immensea,YENX-U,CKX-RW,CKX-RW III,Reactive Metals,Poor,5.92
+Immensea,YENX-U,CKX-RW,CKX-RW III,Construction Blocks,Rich,35.78
+Immensea,YENX-U,CKX-RW,CKX-RW III,Nanites,Medium,6.47
+Immensea,YENX-U,CKX-RW,CKX-RW III,Suspended Plasma,Medium,93.88
+Immensea,YENX-U,CKX-RW,CKX-RW IV,Lustering Alloy,Medium,25.53
+Immensea,YENX-U,CKX-RW,CKX-RW IV,Fiber Composite,Medium,30.19
+Immensea,YENX-U,CKX-RW,CKX-RW IV,Noble Gas,Rich,33.54
+Immensea,YENX-U,CKX-RW,CKX-RW IV,Base Metals,Medium,7.01
+Immensea,YENX-U,CKX-RW,CKX-RW IV,Polyaramids,Poor,15.62
+Immensea,YENX-U,CKX-RW,CKX-RW IV,Ionic Solutions,Medium,11.43
+Immensea,YENX-U,CKX-RW,CKX-RW V,Lustering Alloy,Rich,40.38
+Immensea,YENX-U,CKX-RW,CKX-RW V,Sheen Compound,Perfect,43.06
+Immensea,YENX-U,CKX-RW,CKX-RW V,Reactive Gas,Rich,37.15
+Immensea,YENX-U,CKX-RW,CKX-RW V,Noble Gas,Medium,27.56
+Immensea,YENX-U,CKX-RW,CKX-RW V,Base Metals,Medium,6.72
+Immensea,YENX-U,CKX-RW,CKX-RW V,Ionic Solutions,Medium,10.89
+Immensea,YENX-U,CKX-RW,CKX-RW VI,Opulent Compound,Medium,29.72
+Immensea,YENX-U,CKX-RW,CKX-RW VI,Crystal Compound,Medium,27.20
+Immensea,YENX-U,CKX-RW,CKX-RW VI,Polyaramids,Rich,23.57
+Immensea,YENX-U,CKX-RW,CKX-RW VI,Heavy Water,Medium,249.34
+Immensea,YENX-U,CKX-RW,CKX-RW VI,Liquid Ozone,Medium,30.65
+Immensea,YENX-U,CKX-RW,CKX-RW VI,Ionic Solutions,Medium,12.83
+Immensea,YENX-U,CKX-RW,CKX-RW VII,Glossy Compound,Medium,24.67
+Immensea,YENX-U,CKX-RW,CKX-RW VII,Noble Gas,Poor,24.15
+Immensea,YENX-U,CKX-RW,CKX-RW VII,Base Metals,Medium,7.97
+Immensea,YENX-U,CKX-RW,CKX-RW VII,Polyaramids,Medium,20.12
+Immensea,YENX-U,CKX-RW,CKX-RW VII,Coolant,Rich,26.94
+Immensea,YENX-U,CKX-RW,CKX-RW VII,Ionic Solutions,Rich,16.45
+Immensea,YENX-U,CKX-RW,CKX-RW VIII,Sheen Compound,Rich,39.44
+Immensea,YENX-U,CKX-RW,CKX-RW VIII,Lucent Compound,Poor,24.21
+Immensea,YENX-U,CKX-RW,CKX-RW VIII,Dark Compound,Perfect,43.34
+Immensea,YENX-U,CKX-RW,CKX-RW VIII,Heavy Metals,Medium,30.73
+Immensea,YENX-U,CKX-RW,CKX-RW VIII,Reactive Metals,Poor,6.19
+Immensea,YENX-U,CKX-RW,CKX-RW VIII,Ionic Solutions,Rich,15.91
+Immensea,YENX-U,8X6T-8,8X6T-8 I,Dark Compound,Poor,19.32
+Immensea,YENX-U,8X6T-8,8X6T-8 I,Supertensile Plastics,Medium,19.48
+Immensea,YENX-U,8X6T-8,8X6T-8 I,Construction Blocks,Medium,31.75
+Immensea,YENX-U,8X6T-8,8X6T-8 I,Silicate Glass,Medium,13.16
+Immensea,YENX-U,8X6T-8,8X6T-8 I,Plasmoids,Poor,1.00
+Immensea,YENX-U,8X6T-8,8X6T-8 II,Dark Compound,Poor,24.26
+Immensea,YENX-U,8X6T-8,8X6T-8 II,Toxic Metals,Medium,6.88
+Immensea,YENX-U,8X6T-8,8X6T-8 II,Industrial Fibers,Poor,5.86
+Immensea,YENX-U,8X6T-8,8X6T-8 II,Supertensile Plastics,Medium,20.09
+Immensea,YENX-U,8X6T-8,8X6T-8 II,Plasmoids,Poor,1.31
+Immensea,YENX-U,8X6T-8,8X6T-8 III,Lucent Compound,Poor,23.58
+Immensea,YENX-U,8X6T-8,8X6T-8 III,Crystal Compound,Medium,26.42
+Immensea,YENX-U,8X6T-8,8X6T-8 III,Reactive Metals,Medium,6.99
+Immensea,YENX-U,8X6T-8,8X6T-8 III,Nanites,Poor,6.01
+Immensea,YENX-U,8X6T-8,8X6T-8 III,Suspended Plasma,Medium,99.22
+Immensea,YENX-U,8X6T-8,8X6T-8 IV,Lucent Compound,Rich,36.61
+Immensea,YENX-U,8X6T-8,8X6T-8 IV,Crystal Compound,Rich,39.81
+Immensea,YENX-U,8X6T-8,8X6T-8 IV,Reactive Gas,Medium,31.93
+Immensea,YENX-U,8X6T-8,8X6T-8 IV,Reactive Metals,Rich,9.80
+Immensea,YENX-U,8X6T-8,8X6T-8 IV,Toxic Metals,Poor,5.58
+Immensea,YENX-U,8X6T-8,8X6T-8 V,Lustering Alloy,Rich,37.62
+Immensea,YENX-U,8X6T-8,8X6T-8 V,Sheen Compound,Perfect,43.03
+Immensea,YENX-U,8X6T-8,8X6T-8 V,Glossy Compound,Medium,28.78
+Immensea,YENX-U,8X6T-8,8X6T-8 V,Noble Gas,Medium,28.99
+Immensea,YENX-U,8X6T-8,8X6T-8 V,Reactive Metals,Rich,9.83
+Immensea,YENX-U,8X6T-8,8X6T-8 V,Ionic Solutions,Rich,14.31
+Immensea,YENX-U,8X6T-8,8X6T-8 VI,Sheen Compound,Medium,30.65
+Immensea,YENX-U,8X6T-8,8X6T-8 VI,Glossy Compound,Poor,22.75
+Immensea,YENX-U,8X6T-8,8X6T-8 VI,Reactive Gas,Medium,26.00
+Immensea,YENX-U,8X6T-8,8X6T-8 VI,Base Metals,Poor,6.27
+Immensea,YENX-U,8X6T-8,8X6T-8 VI,Reactive Metals,Rich,8.88
+Immensea,YENX-U,8X6T-8,8X6T-8 VI,Coolant,Medium,18.60
+Immensea,YENX-U,8X6T-8,8X6T-8 VII,Lustering Alloy,Rich,41.00
+Immensea,YENX-U,8X6T-8,8X6T-8 VII,Sheen Compound,Medium,27.74
+Immensea,YENX-U,8X6T-8,8X6T-8 VII,Fiber Composite,Rich,33.57
+Immensea,YENX-U,8X6T-8,8X6T-8 VII,Glossy Compound,Rich,36.79
+Immensea,YENX-U,8X6T-8,8X6T-8 VII,Reactive Metals,Rich,8.66
+Immensea,YENX-U,8X6T-8,8X6T-8 VII,Coolant,Medium,21.03
+Immensea,YENX-U,8X6T-8,8X6T-8 VIII,Lustering Alloy,Rich,36.79
+Immensea,YENX-U,8X6T-8,8X6T-8 VIII,Precious Alloy,Rich,35.13
+Immensea,YENX-U,8X6T-8,8X6T-8 VIII,Supertensile Plastics,Medium,19.64
+Immensea,YENX-U,8X6T-8,8X6T-8 VIII,Coolant,Rich,23.64
+Immensea,YENX-U,8X6T-8,8X6T-8 VIII,Suspended Plasma,Medium,109.51
+Immensea,WTE-CK,W4E-IT,W4E-IT I,Glossy Compound,Medium,24.68
+Immensea,WTE-CK,W4E-IT,W4E-IT I,Heavy Metals,Poor,22.80
+Immensea,WTE-CK,W4E-IT,W4E-IT I,Noble Metals,Medium,31.57
+Immensea,WTE-CK,W4E-IT,W4E-IT I,Smartfab Units,Medium,18.68
+Immensea,WTE-CK,W4E-IT,W4E-IT II,Opulent Compound,Medium,27.73
+Immensea,WTE-CK,W4E-IT,W4E-IT II,Toxic Metals,Rich,9.29
+Immensea,WTE-CK,W4E-IT,W4E-IT II,Polyaramids,Poor,14.87
+Immensea,WTE-CK,W4E-IT,W4E-IT II,Coolant,Rich,21.60
+Immensea,WTE-CK,W4E-IT,W4E-IT II,Silicate Glass,Rich,17.25
+Immensea,WTE-CK,W4E-IT,W4E-IT II,Heavy Water,Rich,338.25
+Immensea,WTE-CK,W4E-IT,W4E-IT III,Lucent Compound,Rich,31.70
+Immensea,WTE-CK,W4E-IT,W4E-IT III,Crystal Compound,Medium,27.88
+Immensea,WTE-CK,W4E-IT,W4E-IT III,Reactive Metals,Medium,7.32
+Immensea,WTE-CK,W4E-IT,W4E-IT III,Supertensile Plastics,Medium,17.08
+Immensea,WTE-CK,W4E-IT,W4E-IT III,Oxygen Isotopes,Medium,4.33
+Immensea,WTE-CK,W4E-IT,W4E-IT IV,Precious Alloy,Medium,27.35
+Immensea,WTE-CK,W4E-IT,W4E-IT IV,Dark Compound,Medium,28.00
+Immensea,WTE-CK,W4E-IT,W4E-IT IV,Base Metals,Medium,6.32
+Immensea,WTE-CK,W4E-IT,W4E-IT IV,Supertensile Plastics,Medium,18.97
+Immensea,WTE-CK,W4E-IT,W4E-IT IV,Oxygen Isotopes,Medium,4.49
+Immensea,WTE-CK,W4E-IT,W4E-IT V,Glossy Compound,Poor,21.02
+Immensea,WTE-CK,W4E-IT,W4E-IT V,Heavy Metals,Medium,28.68
+Immensea,WTE-CK,W4E-IT,W4E-IT V,Noble Metals,Medium,24.70
+Immensea,WTE-CK,W4E-IT,W4E-IT V,Plasmoids,Poor,1.28
+Immensea,WTE-CK,W4E-IT,W4E-IT VI,Lustering Alloy,Medium,27.32
+Immensea,WTE-CK,W4E-IT,W4E-IT VI,Fiber Composite,Rich,34.65
+Immensea,WTE-CK,W4E-IT,W4E-IT VI,Reactive Gas,Poor,21.10
+Immensea,WTE-CK,W4E-IT,W4E-IT VI,Base Metals,Medium,7.20
+Immensea,WTE-CK,W4E-IT,W4E-IT VI,Coolant,Perfect,27.15
+Immensea,WTE-CK,W4E-IT,W4E-IT VI,Ionic Solutions,Medium,10.80
+Immensea,WTE-CK,W4E-IT,W4E-IT VII,Lustering Alloy,Medium,25.05
+Immensea,WTE-CK,W4E-IT,W4E-IT VII,Sheen Compound,Rich,35.00
+Immensea,WTE-CK,W4E-IT,W4E-IT VII,Noble Gas,Poor,22.65
+Immensea,WTE-CK,W4E-IT,W4E-IT VII,Base Metals,Medium,7.47
+Immensea,WTE-CK,W4E-IT,W4E-IT VII,Reactive Metals,Poor,5.47
+Immensea,WTE-CK,W4E-IT,W4E-IT VII,Polyaramids,Rich,24.10
+Immensea,WTE-CK,W4E-IT,W4E-IT VIII,Lustering Alloy,Rich,32.05
+Immensea,WTE-CK,W4E-IT,W4E-IT VIII,Reactive Gas,Poor,22.13
+Immensea,WTE-CK,W4E-IT,W4E-IT VIII,Noble Gas,Rich,34.10
+Immensea,WTE-CK,W4E-IT,W4E-IT VIII,Base Metals,Perfect,10.82
+Immensea,WTE-CK,W4E-IT,W4E-IT VIII,Polyaramids,Medium,15.87
+Immensea,WTE-CK,W4E-IT,W4E-IT VIII,Coolant,Medium,19.48
+Immensea,WTE-CK,W4E-IT,W4E-IT IX,Sheen Compound,Medium,29.90
+Immensea,WTE-CK,W4E-IT,W4E-IT IX,Glossy Compound,Rich,34.92
+Immensea,WTE-CK,W4E-IT,W4E-IT IX,Noble Gas,Medium,26.88
+Immensea,WTE-CK,W4E-IT,W4E-IT IX,Base Metals,Poor,5.97
+Immensea,WTE-CK,W4E-IT,W4E-IT IX,Reactive Metals,Medium,7.39
+Immensea,WTE-CK,W4E-IT,W4E-IT IX,Coolant,Poor,14.95
+Immensea,WTE-CK,OP9L-F,OP9L-F I,Lustering Alloy,Poor,21.18
+Immensea,WTE-CK,OP9L-F,OP9L-F I,Dark Compound,Poor,18.40
+Immensea,WTE-CK,OP9L-F,OP9L-F I,Base Metals,Medium,7.91
+Immensea,WTE-CK,OP9L-F,OP9L-F I,Construction Blocks,Medium,27.63
+Immensea,WTE-CK,OP9L-F,OP9L-F I,Oxygen Isotopes,Poor,3.02
+Immensea,WTE-CK,OP9L-F,OP9L-F II,Gleaming Alloy,Medium,29.90
+Immensea,WTE-CK,OP9L-F,OP9L-F II,Motley Compound,Rich,36.85
+Immensea,WTE-CK,OP9L-F,OP9L-F II,Glossy Compound,Rich,37.25
+Immensea,WTE-CK,OP9L-F,OP9L-F II,Noble Metals,Medium,26.93
+Immensea,WTE-CK,OP9L-F,OP9L-F III,Lustering Alloy,Poor,18.90
+Immensea,WTE-CK,OP9L-F,OP9L-F III,Dark Compound,Medium,23.60
+Immensea,WTE-CK,OP9L-F,OP9L-F III,Industrial Fibers,Poor,5.67
+Immensea,WTE-CK,OP9L-F,OP9L-F III,Construction Blocks,Poor,17.90
+Immensea,WTE-CK,OP9L-F,OP9L-F III,Silicate Glass,Medium,13.90
+Immensea,WTE-CK,OP9L-F,OP9L-F IV,Condensed Alloy,Rich,35.48
+Immensea,WTE-CK,OP9L-F,OP9L-F IV,Opulent Compound,Perfect,44.23
+Immensea,WTE-CK,OP9L-F,OP9L-F IV,Reactive Gas,Perfect,45.83
+Immensea,WTE-CK,OP9L-F,OP9L-F IV,Industrial Fibers,Medium,6.31
+Immensea,WTE-CK,OP9L-F,OP9L-F IV,Heavy Water,Poor,231.25
+Immensea,WTE-CK,OP9L-F,OP9L-F IV,Liquid Ozone,Perfect,58.56
+Immensea,WTE-CK,OP9L-F,OP9L-F V,Condensed Alloy,Perfect,42.30
+Immensea,WTE-CK,OP9L-F,OP9L-F V,Opulent Compound,Rich,38.48
+Immensea,WTE-CK,OP9L-F,OP9L-F V,Toxic Metals,Perfect,10.93
+Immensea,WTE-CK,OP9L-F,OP9L-F V,Polyaramids,Rich,21.53
+Immensea,WTE-CK,OP9L-F,OP9L-F V,Heavy Water,Rich,394.75
+Immensea,WTE-CK,OP9L-F,OP9L-F V,Liquid Ozone,Rich,46.25
+Immensea,WTE-CK,OP9L-F,OP9L-F VI,Condensed Alloy,Rich,38.15
+Immensea,WTE-CK,OP9L-F,OP9L-F VI,Opulent Compound,Rich,39.55
+Immensea,WTE-CK,OP9L-F,OP9L-F VI,Noble Metals,Rich,35.85
+Immensea,WTE-CK,OP9L-F,OP9L-F VI,Industrial Fibers,Rich,9.39
+Immensea,WTE-CK,OP9L-F,OP9L-F VI,Condensates,Medium,16.80
+Immensea,WTE-CK,OP9L-F,OP9L-F VI,Liquid Ozone,Medium,30.09
+Immensea,WTE-CK,OP9L-F,OP9L-F VII,Lustering Alloy,Poor,21.68
+Immensea,WTE-CK,OP9L-F,OP9L-F VII,Fiber Composite,Medium,24.82
+Immensea,WTE-CK,OP9L-F,OP9L-F VII,Reactive Gas,Medium,23.82
+Immensea,WTE-CK,OP9L-F,OP9L-F VII,Noble Gas,Medium,30.45
+Immensea,WTE-CK,OP9L-F,OP9L-F VII,Base Metals,Rich,9.50
+Immensea,WTE-CK,OP9L-F,OP9L-F VII,Ionic Solutions,Poor,9.16
+Immensea,WTE-CK,OP9L-F,OP9L-F VIII,Glossy Compound,Rich,37.23
+Immensea,WTE-CK,OP9L-F,OP9L-F VIII,Reactive Gas,Medium,30.90
+Immensea,WTE-CK,OP9L-F,OP9L-F VIII,Noble Gas,Rich,33.25
+Immensea,WTE-CK,OP9L-F,OP9L-F VIII,Reactive Metals,Medium,7.61
+Immensea,WTE-CK,OP9L-F,OP9L-F VIII,Polyaramids,Medium,17.85
+Immensea,WTE-CK,OP9L-F,OP9L-F VIII,Ionic Solutions,Poor,8.28
+Immensea,WTE-CK,OP9L-F,OP9L-F IX,Sheen Compound,Rich,39.00
+Immensea,WTE-CK,OP9L-F,OP9L-F IX,Fiber Composite,Medium,26.85
+Immensea,WTE-CK,OP9L-F,OP9L-F IX,Reactive Gas,Medium,26.85
+Immensea,WTE-CK,OP9L-F,OP9L-F IX,Noble Gas,Rich,31.70
+Immensea,WTE-CK,OP9L-F,OP9L-F IX,Reactive Metals,Medium,7.95
+Immensea,WTE-CK,OP9L-F,OP9L-F IX,Ionic Solutions,Medium,10.25
+Immensea,WTE-CK,J-QA7I,J-QA7I I,Lustering Alloy,Poor,20.64
+Immensea,WTE-CK,J-QA7I,J-QA7I I,Dark Compound,Poor,21.62
+Immensea,WTE-CK,J-QA7I,J-QA7I I,Industrial Fibers,Medium,7.59
+Immensea,WTE-CK,J-QA7I,J-QA7I I,Supertensile Plastics,Poor,13.01
+Immensea,WTE-CK,J-QA7I,J-QA7I II,Base Metals,Poor,4.47
+Immensea,WTE-CK,J-QA7I,J-QA7I II,Toxic Metals,Poor,5.80
+Immensea,WTE-CK,J-QA7I,J-QA7I II,Supertensile Plastics,Poor,13.25
+Immensea,WTE-CK,J-QA7I,J-QA7I II,Silicate Glass,Medium,12.79
+Immensea,WTE-CK,J-QA7I,J-QA7I III,Precious Alloy,Poor,21.55
+Immensea,WTE-CK,J-QA7I,J-QA7I III,Supertensile Plastics,Poor,10.80
+Immensea,WTE-CK,J-QA7I,J-QA7I III,Oxygen Isotopes,Poor,2.45
+Immensea,WTE-CK,J-QA7I,J-QA7I III,Plasmoids,Medium,1.62
+Immensea,WTE-CK,J-QA7I,J-QA7I IV,Lustering Alloy,Poor,15.43
+Immensea,WTE-CK,J-QA7I,J-QA7I IV,Toxic Metals,Medium,6.68
+Immensea,WTE-CK,J-QA7I,J-QA7I IV,Supertensile Plastics,Medium,16.51
+Immensea,WTE-CK,J-QA7I,J-QA7I IV,Construction Blocks,Poor,18.70
+Immensea,WTE-CK,J-QA7I,J-QA7I V,Gleaming Alloy,Rich,33.82
+Immensea,WTE-CK,J-QA7I,J-QA7I V,Lucent Compound,Poor,19.61
+Immensea,WTE-CK,J-QA7I,J-QA7I V,Reactive Metals,Medium,7.52
+Immensea,WTE-CK,J-QA7I,J-QA7I V,Construction Blocks,Rich,31.73
+Immensea,WTE-CK,J-QA7I,J-QA7I VI,Reactive Gas,Rich,34.01
+Immensea,WTE-CK,J-QA7I,J-QA7I VI,Base Metals,Medium,7.81
+Immensea,WTE-CK,J-QA7I,J-QA7I VI,Polyaramids,Rich,23.34
+Immensea,WTE-CK,J-QA7I,J-QA7I VI,Coolant,Medium,19.92
+Immensea,WTE-CK,J-QA7I,J-QA7I VI,Ionic Solutions,Rich,13.15
+Immensea,WTE-CK,J-QA7I,J-QA7I VII,Reactive Gas,Medium,22.66
+Immensea,WTE-CK,J-QA7I,J-QA7I VII,Noble Gas,Poor,22.42
+Immensea,WTE-CK,J-QA7I,J-QA7I VII,Base Metals,Medium,6.52
+Immensea,WTE-CK,J-QA7I,J-QA7I VII,Reactive Metals,Medium,7.88
+Immensea,WTE-CK,J-QA7I,J-QA7I VII,Coolant,Rich,23.34
+Immensea,WTE-CK,J-QA7I,J-QA7I VIII,Glossy Compound,Rich,30.53
+Immensea,WTE-CK,J-QA7I,J-QA7I VIII,Reactive Gas,Rich,30.55
+Immensea,WTE-CK,J-QA7I,J-QA7I VIII,Noble Gas,Medium,26.38
+Immensea,WTE-CK,J-QA7I,J-QA7I VIII,Base Metals,Medium,7.24
+Immensea,WTE-CK,J-QA7I,J-QA7I VIII,Reactive Metals,Medium,6.84
+Immensea,WTE-CK,J-QA7I,J-QA7I IX,Supertensile Plastics,Medium,16.27
+Immensea,WTE-CK,J-QA7I,J-QA7I IX,Construction Blocks,Medium,28.15
+Immensea,WTE-CK,J-QA7I,J-QA7I IX,Silicate Glass,Poor,9.94
+Immensea,WTE-CK,J-QA7I,J-QA7I IX,Plasmoids,Medium,1.36
+Immensea,WTE-CK,J-QA7I,J-QA7I X,Base Metals,Poor,4.95
+Immensea,WTE-CK,J-QA7I,J-QA7I X,Supertensile Plastics,Medium,16.34
+Immensea,WTE-CK,J-QA7I,J-QA7I X,Coolant,Poor,13.01
+Immensea,WTE-CK,J-QA7I,J-QA7I X,Condensates,Rich,22.19
+Immensea,WTE-CK,2O-EEW,2O-EEW I,Motley Compound,Medium,30.11
+Immensea,WTE-CK,2O-EEW,2O-EEW I,Glossy Compound,Perfect,45.47
+Immensea,WTE-CK,2O-EEW,2O-EEW I,Construction Blocks,Medium,30.89
+Immensea,WTE-CK,2O-EEW,2O-EEW I,Oxygen Isotopes,Poor,3.54
+Immensea,WTE-CK,2O-EEW,2O-EEW II,Dark Compound,Medium,31.18
+Immensea,WTE-CK,2O-EEW,2O-EEW II,Base Metals,Poor,6.49
+Immensea,WTE-CK,2O-EEW,2O-EEW II,Toxic Metals,Medium,7.32
+Immensea,WTE-CK,2O-EEW,2O-EEW II,Construction Blocks,Poor,24.41
+Immensea,WTE-CK,2O-EEW,2O-EEW II,Plasmoids,Poor,1.37
+Immensea,WTE-CK,2O-EEW,2O-EEW III,Glossy Compound,Medium,28.73
+Immensea,WTE-CK,2O-EEW,2O-EEW III,Heavy Metals,Poor,22.63
+Immensea,WTE-CK,2O-EEW,2O-EEW III,Construction Blocks,Medium,27.35
+Immensea,WTE-CK,2O-EEW,2O-EEW III,Smartfab Units,Rich,25.00
+Immensea,WTE-CK,2O-EEW,2O-EEW IV,Sheen Compound,Perfect,44.71
+Immensea,WTE-CK,2O-EEW,2O-EEW IV,Fiber Composite,Rich,36.37
+Immensea,WTE-CK,2O-EEW,2O-EEW IV,Glossy Compound,Medium,26.59
+Immensea,WTE-CK,2O-EEW,2O-EEW IV,Reactive Gas,Rich,37.34
+Immensea,WTE-CK,2O-EEW,2O-EEW IV,Polyaramids,Medium,21.15
+Immensea,WTE-CK,2O-EEW,2O-EEW IV,Coolant,Rich,28.24
+Immensea,WTE-CK,2O-EEW,2O-EEW V,Lustering Alloy,Perfect,43.01
+Immensea,WTE-CK,2O-EEW,2O-EEW V,Sheen Compound,Rich,38.39
+Immensea,WTE-CK,2O-EEW,2O-EEW V,Reactive Gas,Poor,23.71
+Immensea,WTE-CK,2O-EEW,2O-EEW V,Reactive Metals,Medium,6.91
+Immensea,WTE-CK,2O-EEW,2O-EEW V,Polyaramids,Poor,15.89
+Immensea,WTE-CK,2O-EEW,2O-EEW V,Ionic Solutions,Medium,12.92
+Immensea,WTE-CK,2O-EEW,2O-EEW VI,Sheen Compound,Rich,34.37
+Immensea,WTE-CK,2O-EEW,2O-EEW VI,Glossy Compound,Poor,22.36
+Immensea,WTE-CK,2O-EEW,2O-EEW VI,Noble Gas,Rich,35.29
+Immensea,WTE-CK,2O-EEW,2O-EEW VI,Reactive Metals,Perfect,11.72
+Immensea,WTE-CK,2O-EEW,2O-EEW VI,Polyaramids,Medium,20.70
+Immensea,WTE-CK,2O-EEW,2O-EEW VI,Coolant,Rich,23.11
+Immensea,WTE-CK,Y-N4EF,Y-N4EF I,Dark Compound,Poor,19.39
+Immensea,WTE-CK,Y-N4EF,Y-N4EF I,Toxic Metals,Poor,5.89
+Immensea,WTE-CK,Y-N4EF,Y-N4EF I,Supertensile Plastics,Medium,19.85
+Immensea,WTE-CK,Y-N4EF,Y-N4EF I,Construction Blocks,Medium,26.00
+Immensea,WTE-CK,Y-N4EF,Y-N4EF I,Oxygen Isotopes,Poor,3.66
+Immensea,WTE-CK,Y-N4EF,Y-N4EF II,Gleaming Alloy,Rich,40.53
+Immensea,WTE-CK,Y-N4EF,Y-N4EF II,Lucent Compound,Medium,29.32
+Immensea,WTE-CK,Y-N4EF,Y-N4EF II,Crystal Compound,Rich,37.34
+Immensea,WTE-CK,Y-N4EF,Y-N4EF II,Construction Blocks,Rich,36.61
+Immensea,WTE-CK,Y-N4EF,Y-N4EF II,Suspended Plasma,Rich,128.30
+Immensea,WTE-CK,Y-N4EF,Y-N4EF III,Lustering Alloy,Rich,39.56
+Immensea,WTE-CK,Y-N4EF,Y-N4EF III,Sheen Compound,Rich,42.15
+Immensea,WTE-CK,Y-N4EF,Y-N4EF III,Fiber Composite,Medium,28.03
+Immensea,WTE-CK,Y-N4EF,Y-N4EF III,Glossy Compound,Medium,25.76
+Immensea,WTE-CK,Y-N4EF,Y-N4EF III,Reactive Gas,Rich,34.42
+Immensea,WTE-CK,Y-N4EF,Y-N4EF III,Coolant,Rich,23.98
+Immensea,WTE-CK,Y-N4EF,Y-N4EF IV,Lustering Alloy,Rich,39.50
+Immensea,WTE-CK,Y-N4EF,Y-N4EF IV,Sheen Compound,Rich,37.50
+Immensea,WTE-CK,Y-N4EF,Y-N4EF IV,Reactive Gas,Medium,25.54
+Immensea,WTE-CK,Y-N4EF,Y-N4EF IV,Base Metals,Medium,7.36
+Immensea,WTE-CK,Y-N4EF,Y-N4EF IV,Reactive Metals,Poor,6.59
+Immensea,WTE-CK,Y-N4EF,Y-N4EF IV,Coolant,Rich,27.67
+Immensea,WTE-CK,Y-N4EF,Y-N4EF V,Precious Alloy,Rich,35.13
+Immensea,WTE-CK,Y-N4EF,Y-N4EF V,Motley Compound,Medium,34.02
+Immensea,WTE-CK,Y-N4EF,Y-N4EF V,Supertensile Plastics,Medium,21.73
+Immensea,WTE-CK,Y-N4EF,Y-N4EF V,Condensates,Rich,24.88
+Immensea,WTE-CK,Y-N4EF,Y-N4EF V,Liquid Ozone,Poor,29.13
+Immensea,WTE-CK,Y-N4EF,Y-N4EF VI,Precious Alloy,Poor,19.76
+Immensea,WTE-CK,Y-N4EF,Y-N4EF VI,Base Metals,Rich,9.03
+Immensea,WTE-CK,Y-N4EF,Y-N4EF VI,Industrial Fibers,Medium,8.80
+Immensea,WTE-CK,Y-N4EF,Y-N4EF VI,Suspended Plasma,Poor,90.40
+Immensea,WTE-CK,Y-N4EF,Y-N4EF VI,Liquid Ozone,Poor,26.26
+Immensea,WTE-CK,7YSF-E,7YSF-E I,Dark Compound,Poor,18.58
+Immensea,WTE-CK,7YSF-E,7YSF-E I,Industrial Fibers,Poor,5.25
+Immensea,WTE-CK,7YSF-E,7YSF-E I,Supertensile Plastics,Poor,10.06
+Immensea,WTE-CK,7YSF-E,7YSF-E I,Plasmoids,Medium,1.68
+Immensea,WTE-CK,7YSF-E,7YSF-E II,Precious Alloy,Poor,14.70
+Immensea,WTE-CK,7YSF-E,7YSF-E II,Dark Compound,Medium,26.06
+Immensea,WTE-CK,7YSF-E,7YSF-E II,Industrial Fibers,Poor,5.28
+Immensea,WTE-CK,7YSF-E,7YSF-E II,Supertensile Plastics,Medium,17.00
+Immensea,WTE-CK,7YSF-E,7YSF-E III,Industrial Fibers,Poor,4.79
+Immensea,WTE-CK,7YSF-E,7YSF-E III,Supertensile Plastics,Poor,13.85
+Immensea,WTE-CK,7YSF-E,7YSF-E III,Construction Blocks,Poor,18.26
+Immensea,WTE-CK,7YSF-E,7YSF-E III,Oxygen Isotopes,Medium,4.08
+Immensea,WTE-CK,7YSF-E,7YSF-E IV,Fiber Composite,Rich,29.28
+Immensea,WTE-CK,7YSF-E,7YSF-E IV,Opulent Compound,Perfect,41.98
+Immensea,WTE-CK,7YSF-E,7YSF-E IV,Industrial Fibers,Perfect,9.64
+Immensea,WTE-CK,7YSF-E,7YSF-E IV,Heavy Water,Perfect,385.25
+Immensea,WTE-CK,7YSF-E,7YSF-E IV,Liquid Ozone,Poor,27.08
+Immensea,WTE-CK,7YSF-E,7YSF-E V,Glossy Compound,Medium,27.67
+Immensea,WTE-CK,7YSF-E,7YSF-E V,Reactive Gas,Medium,29.03
+Immensea,WTE-CK,7YSF-E,7YSF-E V,Reactive Metals,Poor,5.39
+Immensea,WTE-CK,7YSF-E,7YSF-E V,Polyaramids,Rich,23.72
+Immensea,WTE-CK,7YSF-E,7YSF-E V,Coolant,Rich,20.26
+Immensea,WTE-CK,7YSF-E,7YSF-E VI,Lustering Alloy,Poor,20.82
+Immensea,WTE-CK,7YSF-E,7YSF-E VI,Reactive Gas,Medium,24.70
+Immensea,WTE-CK,7YSF-E,7YSF-E VI,Base Metals,Poor,5.26
+Immensea,WTE-CK,7YSF-E,7YSF-E VI,Coolant,Medium,17.07
+Immensea,WTE-CK,7YSF-E,7YSF-E VI,Ionic Solutions,Medium,10.91
+Immensea,IJE6-J,KCDX-7,KCDX-7 I,Glossy Compound,Poor,22.57
+Immensea,IJE6-J,KCDX-7,KCDX-7 I,Noble Gas,Medium,27.70
+Immensea,IJE6-J,KCDX-7,KCDX-7 I,Polyaramids,Rich,21.27
+Immensea,IJE6-J,KCDX-7,KCDX-7 I,Oxygen Isotopes,Medium,3.71
+Immensea,IJE6-J,KCDX-7,KCDX-7 II,Dark Compound,Poor,22.68
+Immensea,IJE6-J,KCDX-7,KCDX-7 II,Base Metals,Poor,5.67
+Immensea,IJE6-J,KCDX-7,KCDX-7 II,Construction Blocks,Medium,27.65
+Immensea,IJE6-J,KCDX-7,KCDX-7 II,Silicate Glass,Medium,15.05
+Immensea,IJE6-J,KCDX-7,KCDX-7 II,Oxygen Isotopes,Poor,2.84
+Immensea,IJE6-J,KCDX-7,KCDX-7 III,Condensed Alloy,Perfect,44.50
+Immensea,IJE6-J,KCDX-7,KCDX-7 III,Fiber Composite,Rich,32.90
+Immensea,IJE6-J,KCDX-7,KCDX-7 III,Reactive Gas,Medium,28.73
+Immensea,IJE6-J,KCDX-7,KCDX-7 III,Noble Metals,Medium,30.75
+Immensea,IJE6-J,KCDX-7,KCDX-7 III,Condensates,Medium,16.40
+Immensea,IJE6-J,KCDX-7,KCDX-7 III,Heavy Water,Rich,360.25
+Immensea,IJE6-J,KCDX-7,KCDX-7 IV,Lustering Alloy,Poor,18.50
+Immensea,IJE6-J,KCDX-7,KCDX-7 IV,Dark Compound,Poor,16.52
+Immensea,IJE6-J,KCDX-7,KCDX-7 IV,Base Metals,Medium,7.17
+Immensea,IJE6-J,KCDX-7,KCDX-7 IV,Silicate Glass,Medium,14.10
+Immensea,IJE6-J,KCDX-7,KCDX-7 IV,Plasmoids,Poor,1.20
+Immensea,IJE6-J,KCDX-7,KCDX-7 V,Fiber Composite,Rich,39.45
+Immensea,IJE6-J,KCDX-7,KCDX-7 V,Glossy Compound,Poor,23.30
+Immensea,IJE6-J,KCDX-7,KCDX-7 V,Base Metals,Rich,8.86
+Immensea,IJE6-J,KCDX-7,KCDX-7 V,Reactive Metals,Poor,5.86
+Immensea,IJE6-J,KCDX-7,KCDX-7 V,Polyaramids,Perfect,26.83
+Immensea,IJE6-J,KCDX-7,KCDX-7 V,Coolant,Rich,21.95
+Immensea,IJE6-J,KCDX-7,KCDX-7 VI,Sheen Compound,Medium,30.73
+Immensea,IJE6-J,KCDX-7,KCDX-7 VI,Fiber Composite,Medium,29.90
+Immensea,IJE6-J,KCDX-7,KCDX-7 VI,Glossy Compound,Medium,27.20
+Immensea,IJE6-J,KCDX-7,KCDX-7 VI,Noble Gas,Rich,35.88
+Immensea,IJE6-J,KCDX-7,KCDX-7 VI,Base Metals,Rich,10.36
+Immensea,IJE6-J,KCDX-7,KCDX-7 VI,Reactive Metals,Medium,6.45
+Immensea,IJE6-J,KCDX-7,KCDX-7 VII,Lustering Alloy,Rich,33.58
+Immensea,IJE6-J,KCDX-7,KCDX-7 VII,Reactive Gas,Perfect,40.85
+Immensea,IJE6-J,KCDX-7,KCDX-7 VII,Noble Gas,Rich,38.88
+Immensea,IJE6-J,KCDX-7,KCDX-7 VII,Polyaramids,Medium,17.82
+Immensea,IJE6-J,KCDX-7,KCDX-7 VII,Coolant,Rich,25.08
+Immensea,IJE6-J,KCDX-7,KCDX-7 VII,Ionic Solutions,Perfect,16.36
+Immensea,IJE6-J,KCDX-7,KCDX-7 VIII,Precious Alloy,Medium,27.15
+Immensea,IJE6-J,KCDX-7,KCDX-7 VIII,Heavy Metals,Medium,24.55
+Immensea,IJE6-J,KCDX-7,KCDX-7 VIII,Industrial Fibers,Poor,5.20
+Immensea,IJE6-J,KCDX-7,KCDX-7 VIII,Supertensile Plastics,Rich,23.13
+Immensea,IJE6-J,KCDX-7,KCDX-7 VIII,Suspended Plasma,Medium,91.35
+Immensea,IJE6-J,KCDX-7,KCDX-7 IX,Precious Alloy,Poor,18.55
+Immensea,IJE6-J,KCDX-7,KCDX-7 IX,Industrial Fibers,Rich,8.70
+Immensea,IJE6-J,KCDX-7,KCDX-7 IX,Coolant,Rich,24.10
+Immensea,IJE6-J,KCDX-7,KCDX-7 IX,Condensates,Poor,13.12
+Immensea,IJE6-J,KCDX-7,KCDX-7 IX,Suspended Plasma,Rich,114.39
+Immensea,IJE6-J,O7-VJ5,O7-VJ5 I,Precious Alloy,Medium,25.85
+Immensea,IJE6-J,O7-VJ5,O7-VJ5 I,Dark Compound,Poor,22.95
+Immensea,IJE6-J,O7-VJ5,O7-VJ5 I,Industrial Fibers,Medium,7.86
+Immensea,IJE6-J,O7-VJ5,O7-VJ5 I,Construction Blocks,Poor,19.35
+Immensea,IJE6-J,O7-VJ5,O7-VJ5 I,Plasmoids,Medium,1.58
+Immensea,IJE6-J,O7-VJ5,O7-VJ5 II,Dark Compound,Medium,29.02
+Immensea,IJE6-J,O7-VJ5,O7-VJ5 II,Base Metals,Medium,7.57
+Immensea,IJE6-J,O7-VJ5,O7-VJ5 II,Supertensile Plastics,Medium,16.63
+Immensea,IJE6-J,O7-VJ5,O7-VJ5 II,Oxygen Isotopes,Poor,2.97
+Immensea,IJE6-J,O7-VJ5,O7-VJ5 II,Plasmoids,Poor,1.01
+Immensea,IJE6-J,O7-VJ5,O7-VJ5 III,Lustering Alloy,Medium,30.40
+Immensea,IJE6-J,O7-VJ5,O7-VJ5 III,Precious Alloy,Poor,18.50
+Immensea,IJE6-J,O7-VJ5,O7-VJ5 III,Dark Compound,Medium,25.18
+Immensea,IJE6-J,O7-VJ5,O7-VJ5 III,Base Metals,Medium,7.05
+Immensea,IJE6-J,O7-VJ5,O7-VJ5 III,Construction Blocks,Poor,20.95
+Immensea,IJE6-J,O7-VJ5,O7-VJ5 IV,Crystal Compound,Rich,35.70
+Immensea,IJE6-J,O7-VJ5,O7-VJ5 IV,Reactive Gas,Poor,20.65
+Immensea,IJE6-J,O7-VJ5,O7-VJ5 IV,Toxic Metals,Medium,8.13
+Immensea,IJE6-J,O7-VJ5,O7-VJ5 IV,Construction Blocks,Poor,21.88
+Immensea,IJE6-J,O7-VJ5,O7-VJ5 IV,Suspended Plasma,Medium,88.74
+Immensea,IJE6-J,O7-VJ5,O7-VJ5 V,Lustering Alloy,Medium,24.38
+Immensea,IJE6-J,O7-VJ5,O7-VJ5 V,Dark Compound,Poor,18.48
+Immensea,IJE6-J,O7-VJ5,O7-VJ5 V,Supertensile Plastics,Poor,14.80
+Immensea,IJE6-J,O7-VJ5,O7-VJ5 V,Silicate Glass,Poor,8.69
+Immensea,IJE6-J,O7-VJ5,O7-VJ5 V,Oxygen Isotopes,Medium,4.16
+Immensea,IJE6-J,O7-VJ5,O7-VJ5 VI,Glossy Compound,Medium,25.10
+Immensea,IJE6-J,O7-VJ5,O7-VJ5 VI,Noble Metals,Rich,35.02
+Immensea,IJE6-J,O7-VJ5,O7-VJ5 VI,Construction Blocks,Medium,28.68
+Immensea,IJE6-J,O7-VJ5,O7-VJ5 VI,Oxygen Isotopes,Poor,3.28
+Immensea,IJE6-J,O7-VJ5,O7-VJ5 VII,Lustering Alloy,Poor,16.48
+Immensea,IJE6-J,O7-VJ5,O7-VJ5 VII,Precious Alloy,Medium,26.57
+Immensea,IJE6-J,O7-VJ5,O7-VJ5 VII,Dark Compound,Medium,24.65
+Immensea,IJE6-J,O7-VJ5,O7-VJ5 VII,Construction Blocks,Poor,20.07
+Immensea,IJE6-J,O7-VJ5,O7-VJ5 VII,Plasmoids,Poor,1.00
+Immensea,IJE6-J,O7-VJ5,O7-VJ5 VIII,Condensed Alloy,Medium,23.80
+Immensea,IJE6-J,O7-VJ5,O7-VJ5 VIII,Opulent Compound,Rich,35.60
+Immensea,IJE6-J,O7-VJ5,O7-VJ5 VIII,Base Metals,Medium,8.06
+Immensea,IJE6-J,O7-VJ5,O7-VJ5 VIII,Industrial Fibers,Rich,8.76
+Immensea,IJE6-J,O7-VJ5,O7-VJ5 VIII,Smartfab Units,Rich,24.15
+Immensea,IJE6-J,O7-VJ5,O7-VJ5 VIII,Liquid Ozone,Perfect,52.88
+Immensea,IJE6-J,FRTC-5,FRTC-5 I,Precious Alloy,Poor,20.38
+Immensea,IJE6-J,FRTC-5,FRTC-5 I,Dark Compound,Poor,19.86
+Immensea,IJE6-J,FRTC-5,FRTC-5 I,Base Metals,Medium,8.10
+Immensea,IJE6-J,FRTC-5,FRTC-5 I,Industrial Fibers,Poor,4.47
+Immensea,IJE6-J,FRTC-5,FRTC-5 I,Plasmoids,Medium,1.70
+Immensea,IJE6-J,FRTC-5,FRTC-5 II,Gleaming Alloy,Poor,22.96
+Immensea,IJE6-J,FRTC-5,FRTC-5 II,Lucent Compound,Poor,21.22
+Immensea,IJE6-J,FRTC-5,FRTC-5 II,Crystal Compound,Medium,26.75
+Immensea,IJE6-J,FRTC-5,FRTC-5 II,Toxic Metals,Perfect,11.22
+Immensea,IJE6-J,FRTC-5,FRTC-5 II,Construction Blocks,Perfect,42.51
+Immensea,IJE6-J,FRTC-5,FRTC-5 III,Condensed Alloy,Rich,40.61
+Immensea,IJE6-J,FRTC-5,FRTC-5 III,Opulent Compound,Poor,24.08
+Immensea,IJE6-J,FRTC-5,FRTC-5 III,Noble Metals,Rich,38.43
+Immensea,IJE6-J,FRTC-5,FRTC-5 III,Condensates,Rich,26.35
+Immensea,IJE6-J,FRTC-5,FRTC-5 III,Smartfab Units,Perfect,29.43
+Immensea,IJE6-J,FRTC-5,FRTC-5 III,Heavy Water,Rich,349.18
+Immensea,IJE6-J,FRTC-5,FRTC-5 IV,Condensed Alloy,Medium,29.72
+Immensea,IJE6-J,FRTC-5,FRTC-5 IV,Fiber Composite,Perfect,43.37
+Immensea,IJE6-J,FRTC-5,FRTC-5 IV,Opulent Compound,Medium,27.66
+Immensea,IJE6-J,FRTC-5,FRTC-5 IV,Condensates,Medium,21.49
+Immensea,IJE6-J,FRTC-5,FRTC-5 IV,Heavy Water,Rich,360.88
+Immensea,IJE6-J,FRTC-5,FRTC-5 IV,Liquid Ozone,Medium,38.64
+Immensea,IJE6-J,FRTC-5,FRTC-5 V,Condensed Alloy,Perfect,44.02
+Immensea,IJE6-J,FRTC-5,FRTC-5 V,Opulent Compound,Medium,26.94
+Immensea,IJE6-J,FRTC-5,FRTC-5 V,Reactive Gas,Perfect,49.66
+Immensea,IJE6-J,FRTC-5,FRTC-5 V,Noble Metals,Medium,30.34
+Immensea,IJE6-J,FRTC-5,FRTC-5 V,Industrial Fibers,Medium,7.12
+Immensea,IJE6-J,FRTC-5,FRTC-5 V,Liquid Ozone,Perfect,54.31
+Immensea,IJE6-J,M-ZJWJ,M-ZJWJ I,Lustering Alloy,Medium,27.46
+Immensea,IJE6-J,M-ZJWJ,M-ZJWJ I,Supertensile Plastics,Medium,19.31
+Immensea,IJE6-J,M-ZJWJ,M-ZJWJ I,Construction Blocks,Medium,26.18
+Immensea,IJE6-J,M-ZJWJ,M-ZJWJ I,Plasmoids,Medium,1.39
+Immensea,IJE6-J,M-ZJWJ,M-ZJWJ II,Reactive Gas,Perfect,38.69
+Immensea,IJE6-J,M-ZJWJ,M-ZJWJ II,Condensates,Medium,16.05
+Immensea,IJE6-J,M-ZJWJ,M-ZJWJ II,Smartfab Units,Medium,17.62
+Immensea,IJE6-J,M-ZJWJ,M-ZJWJ II,Heavy Water,Rich,305.28
+Immensea,IJE6-J,M-ZJWJ,M-ZJWJ II,Liquid Ozone,Medium,34.77
+Immensea,IJE6-J,M-ZJWJ,M-ZJWJ III,Lustering Alloy,Medium,23.38
+Immensea,IJE6-J,M-ZJWJ,M-ZJWJ III,Dark Compound,Medium,28.44
+Immensea,IJE6-J,M-ZJWJ,M-ZJWJ III,Base Metals,Medium,7.23
+Immensea,IJE6-J,M-ZJWJ,M-ZJWJ III,Supertensile Plastics,Poor,10.58
+Immensea,IJE6-J,M-ZJWJ,M-ZJWJ IV,Reactive Gas,Rich,32.38
+Immensea,IJE6-J,M-ZJWJ,M-ZJWJ IV,Reactive Metals,Rich,10.02
+Immensea,IJE6-J,M-ZJWJ,M-ZJWJ IV,Supertensile Plastics,Medium,16.64
+Immensea,IJE6-J,M-ZJWJ,M-ZJWJ IV,Suspended Plasma,Rich,133.23
+Immensea,IJE6-J,M-ZJWJ,M-ZJWJ V,Crystal Compound,Perfect,39.79
+Immensea,IJE6-J,M-ZJWJ,M-ZJWJ V,Toxic Metals,Rich,9.32
+Immensea,IJE6-J,M-ZJWJ,M-ZJWJ V,Polyaramids,Rich,22.22
+Immensea,IJE6-J,M-ZJWJ,M-ZJWJ V,Heavy Water,Poor,211.44
+Immensea,IJE6-J,M-ZJWJ,M-ZJWJ V,Liquid Ozone,Perfect,52.05
+Immensea,IJE6-J,M-ZJWJ,M-ZJWJ VI,Reactive Metals,Poor,5.49
+Immensea,IJE6-J,M-ZJWJ,M-ZJWJ VI,Supertensile Plastics,Medium,17.09
+Immensea,IJE6-J,M-ZJWJ,M-ZJWJ VI,Construction Blocks,Medium,25.08
+Immensea,IJE6-J,M-ZJWJ,M-ZJWJ VI,Nanites,Medium,6.29
+Immensea,IJE6-J,M-ZJWJ,M-ZJWJ VII,Fiber Composite,Perfect,38.86
+Immensea,IJE6-J,M-ZJWJ,M-ZJWJ VII,Base Metals,Medium,7.79
+Immensea,IJE6-J,M-ZJWJ,M-ZJWJ VII,Noble Metals,Medium,29.16
+Immensea,IJE6-J,M-ZJWJ,M-ZJWJ VII,Condensates,Medium,17.55
+Immensea,IJE6-J,M-ZJWJ,M-ZJWJ VII,Liquid Ozone,Medium,31.68
+Immensea,IJE6-J,R-ORB7,R-ORB7 I,Crystal Compound,Poor,20.43
+Immensea,IJE6-J,R-ORB7,R-ORB7 I,Reactive Gas,Medium,26.10
+Immensea,IJE6-J,R-ORB7,R-ORB7 I,Reactive Metals,Rich,9.19
+Immensea,IJE6-J,R-ORB7,R-ORB7 I,Nanites,Poor,5.39
+Immensea,IJE6-J,R-ORB7,R-ORB7 I,Suspended Plasma,Rich,139.41
+Immensea,IJE6-J,R-ORB7,R-ORB7 II,Lustering Alloy,Perfect,39.77
+Immensea,IJE6-J,R-ORB7,R-ORB7 II,Sheen Compound,Perfect,40.23
+Immensea,IJE6-J,R-ORB7,R-ORB7 II,Fiber Composite,Poor,21.13
+Immensea,IJE6-J,R-ORB7,R-ORB7 II,Glossy Compound,Rich,31.77
+Immensea,IJE6-J,R-ORB7,R-ORB7 II,Noble Gas,Medium,29.15
+Immensea,IJE6-J,R-ORB7,R-ORB7 II,Reactive Metals,Rich,9.68
+Immensea,IJE6-J,R-ORB7,R-ORB7 III,Glossy Compound,Rich,34.20
+Immensea,IJE6-J,R-ORB7,R-ORB7 III,Reactive Gas,Rich,39.23
+Immensea,IJE6-J,R-ORB7,R-ORB7 III,Reactive Metals,Poor,5.80
+Immensea,IJE6-J,R-ORB7,R-ORB7 III,Polyaramids,Medium,20.00
+Immensea,IJE6-J,R-ORB7,R-ORB7 III,Coolant,Medium,17.02
+Immensea,IJE6-J,R-ORB7,R-ORB7 III,Ionic Solutions,Rich,12.89
+Immensea,IJE6-J,R-ORB7,R-ORB7 IV,Lustering Alloy,Rich,34.98
+Immensea,IJE6-J,R-ORB7,R-ORB7 IV,Precious Alloy,Rich,35.67
+Immensea,IJE6-J,R-ORB7,R-ORB7 IV,Base Metals,Rich,8.88
+Immensea,IJE6-J,R-ORB7,R-ORB7 IV,Coolant,Poor,14.78
+Immensea,IJE6-J,R-ORB7,R-ORB7 IV,Suspended Plasma,Rich,123.03
+Immensea,IJE6-J,R-ORB7,R-ORB7 V,Precious Alloy,Poor,21.40
+Immensea,IJE6-J,R-ORB7,R-ORB7 V,Motley Compound,Poor,23.43
+Immensea,IJE6-J,R-ORB7,R-ORB7 V,Industrial Fibers,Poor,5.32
+Immensea,IJE6-J,R-ORB7,R-ORB7 V,Supertensile Plastics,Poor,13.42
+Immensea,IJE6-J,R-ORB7,R-ORB7 V,Condensates,Rich,23.78
+Immensea,IJE6-J,R-ORB7,R-ORB7 VI,Lustering Alloy,Poor,16.60
+Immensea,IJE6-J,R-ORB7,R-ORB7 VI,Precious Alloy,Medium,30.68
+Immensea,IJE6-J,R-ORB7,R-ORB7 VI,Dark Compound,Medium,28.00
+Immensea,IJE6-J,R-ORB7,R-ORB7 VI,Base Metals,Medium,6.28
+Immensea,IJE6-J,R-ORB7,R-ORB7 VI,Toxic Metals,Poor,4.99
+Immensea,IJE6-J,RU-PT9,RU-PT9 I,Precious Alloy,Medium,30.60
+Immensea,IJE6-J,RU-PT9,RU-PT9 I,Dark Compound,Medium,30.13
+Immensea,IJE6-J,RU-PT9,RU-PT9 I,Base Metals,Medium,6.78
+Immensea,IJE6-J,RU-PT9,RU-PT9 I,Silicate Glass,Medium,12.52
+Immensea,IJE6-J,RU-PT9,RU-PT9 I,Plasmoids,Medium,1.74
+Immensea,IJE6-J,RU-PT9,RU-PT9 II,Lustering Alloy,Poor,18.64
+Immensea,IJE6-J,RU-PT9,RU-PT9 II,Dark Compound,Poor,20.85
+Immensea,IJE6-J,RU-PT9,RU-PT9 II,Industrial Fibers,Poor,4.82
+Immensea,IJE6-J,RU-PT9,RU-PT9 II,Construction Blocks,Medium,29.43
+Immensea,IJE6-J,RU-PT9,RU-PT9 II,Silicate Glass,Medium,14.73
+Immensea,IJE6-J,RU-PT9,RU-PT9 III,Dark Compound,Poor,22.83
+Immensea,IJE6-J,RU-PT9,RU-PT9 III,Supertensile Plastics,Medium,17.18
+Immensea,IJE6-J,RU-PT9,RU-PT9 III,Construction Blocks,Poor,16.69
+Immensea,IJE6-J,RU-PT9,RU-PT9 III,Silicate Glass,Poor,10.07
+Immensea,IJE6-J,RU-PT9,RU-PT9 III,Oxygen Isotopes,Medium,4.30
+Immensea,IJE6-J,RU-PT9,RU-PT9 IV,Sheen Compound,Medium,28.08
+Immensea,IJE6-J,RU-PT9,RU-PT9 IV,Fiber Composite,Rich,33.02
+Immensea,IJE6-J,RU-PT9,RU-PT9 IV,Glossy Compound,Medium,24.57
+Immensea,IJE6-J,RU-PT9,RU-PT9 IV,Reactive Gas,Rich,34.63
+Immensea,IJE6-J,RU-PT9,RU-PT9 IV,Noble Gas,Medium,29.98
+Immensea,IJE6-J,RU-PT9,RU-PT9 IV,Coolant,Poor,16.29
+Immensea,IJE6-J,RU-PT9,RU-PT9 V,Lustering Alloy,Medium,30.06
+Immensea,IJE6-J,RU-PT9,RU-PT9 V,Dark Compound,Medium,26.47
+Immensea,IJE6-J,RU-PT9,RU-PT9 V,Base Metals,Medium,7.64
+Immensea,IJE6-J,RU-PT9,RU-PT9 V,Construction Blocks,Poor,20.31
+Immensea,IJE6-J,RU-PT9,RU-PT9 V,Silicate Glass,Medium,14.13
+Immensea,IJE6-J,RU-PT9,RU-PT9 VI,Fiber Composite,Rich,33.02
+Immensea,IJE6-J,RU-PT9,RU-PT9 VI,Noble Gas,Rich,40.46
+Immensea,IJE6-J,RU-PT9,RU-PT9 VI,Base Metals,Rich,9.87
+Immensea,IJE6-J,RU-PT9,RU-PT9 VI,Polyaramids,Rich,22.79
+Immensea,IJE6-J,RU-PT9,RU-PT9 VI,Coolant,Rich,22.93
+Immensea,IJE6-J,RU-PT9,RU-PT9 VI,Ionic Solutions,Rich,14.00
+Immensea,IJE6-J,RU-PT9,RU-PT9 VII,Condensed Alloy,Medium,27.33
+Immensea,IJE6-J,RU-PT9,RU-PT9 VII,Opulent Compound,Medium,29.51
+Immensea,IJE6-J,RU-PT9,RU-PT9 VII,Polyaramids,Medium,21.01
+Immensea,IJE6-J,RU-PT9,RU-PT9 VII,Coolant,Rich,22.12
+Immensea,IJE6-J,RU-PT9,RU-PT9 VII,Liquid Ozone,Perfect,53.14
+Immensea,IJE6-J,RU-PT9,RU-PT9 VII,Ionic Solutions,Rich,13.84
+Immensea,IJE6-J,RU-PT9,RU-PT9 VIII,Lustering Alloy,Medium,28.08
+Immensea,IJE6-J,RU-PT9,RU-PT9 VIII,Dark Compound,Medium,26.00
+Immensea,IJE6-J,RU-PT9,RU-PT9 VIII,Industrial Fibers,Medium,7.14
+Immensea,IJE6-J,RU-PT9,RU-PT9 VIII,Silicate Glass,Poor,8.23
+Immensea,IJE6-J,RU-PT9,RU-PT9 VIII,Plasmoids,Poor,1.36
+Immensea,IJE6-J,DR-427,DR-427 I,Glossy Compound,Rich,37.13
+Immensea,IJE6-J,DR-427,DR-427 I,Heavy Metals,Rich,33.70
+Immensea,IJE6-J,DR-427,DR-427 I,Construction Blocks,Medium,24.83
+Immensea,IJE6-J,DR-427,DR-427 I,Oxygen Isotopes,Perfect,6.28
+Immensea,IJE6-J,DR-427,DR-427 II,Lustering Alloy,Poor,16.22
+Immensea,IJE6-J,DR-427,DR-427 II,Dark Compound,Poor,23.97
+Immensea,IJE6-J,DR-427,DR-427 II,Industrial Fibers,Poor,5.32
+Immensea,IJE6-J,DR-427,DR-427 II,Construction Blocks,Medium,26.42
+Immensea,IJE6-J,DR-427,DR-427 II,Silicate Glass,Poor,9.74
+Immensea,IJE6-J,DR-427,DR-427 III,Precious Alloy,Poor,18.04
+Immensea,IJE6-J,DR-427,DR-427 III,Dark Compound,Medium,30.50
+Immensea,IJE6-J,DR-427,DR-427 III,Industrial Fibers,Poor,6.26
+Immensea,IJE6-J,DR-427,DR-427 III,Supertensile Plastics,Medium,17.49
+Immensea,IJE6-J,DR-427,DR-427 III,Plasmoids,Poor,1.21
+Immensea,IJE6-J,DR-427,DR-427 IV,Lustering Alloy,Medium,32.01
+Immensea,IJE6-J,DR-427,DR-427 IV,Sheen Compound,Rich,38.51
+Immensea,IJE6-J,DR-427,DR-427 IV,Glossy Compound,Rich,38.27
+Immensea,IJE6-J,DR-427,DR-427 IV,Noble Gas,Rich,40.95
+Immensea,IJE6-J,DR-427,DR-427 IV,Base Metals,Rich,10.50
+Immensea,IJE6-J,DR-427,DR-427 IV,Polyaramids,Rich,22.57
+Immensea,IJE6-J,DR-427,DR-427 V,Dark Compound,Medium,27.66
+Immensea,IJE6-J,DR-427,DR-427 V,Toxic Metals,Poor,5.23
+Immensea,IJE6-J,DR-427,DR-427 V,Construction Blocks,Medium,27.77
+Immensea,IJE6-J,DR-427,DR-427 V,Silicate Glass,Medium,15.35
+Immensea,IJE6-J,DR-427,DR-427 V,Oxygen Isotopes,Medium,4.43
+Immensea,IJE6-J,DR-427,DR-427 VI,Condensed Alloy,Rich,39.83
+Immensea,IJE6-J,DR-427,DR-427 VI,Opulent Compound,Poor,24.15
+Immensea,IJE6-J,DR-427,DR-427 VI,Base Metals,Perfect,11.93
+Immensea,IJE6-J,DR-427,DR-427 VI,Industrial Fibers,Medium,6.76
+Immensea,IJE6-J,DR-427,DR-427 VI,Condensates,Rich,22.76
+Immensea,IJE6-J,DR-427,DR-427 VI,Heavy Water,Perfect,418.08
+Immensea,IJE6-J,DR-427,DR-427 VII,Sheen Compound,Medium,30.71
+Immensea,IJE6-J,DR-427,DR-427 VII,Fiber Composite,Medium,28.03
+Immensea,IJE6-J,DR-427,DR-427 VII,Reactive Gas,Poor,22.88
+Immensea,IJE6-J,DR-427,DR-427 VII,Base Metals,Rich,10.09
+Immensea,IJE6-J,DR-427,DR-427 VII,Coolant,Rich,25.12
+Immensea,IJE6-J,DR-427,DR-427 VII,Ionic Solutions,Poor,9.24
+Immensea,IJE6-J,DR-427,DR-427 VIII,Lustering Alloy,Rich,33.75
+Immensea,IJE6-J,DR-427,DR-427 VIII,Reactive Gas,Poor,22.28
+Immensea,IJE6-J,DR-427,DR-427 VIII,Reactive Metals,Medium,8.37
+Immensea,IJE6-J,DR-427,DR-427 VIII,Polyaramids,Medium,18.63
+Immensea,IJE6-J,DR-427,DR-427 VIII,Coolant,Poor,15.05
+Immensea,IJE6-J,DR-427,DR-427 VIII,Ionic Solutions,Medium,12.92
+Immensea,IJE6-J,DR-427,DR-427 IX,Gleaming Alloy,Rich,33.93
+Immensea,IJE6-J,DR-427,DR-427 IX,Glossy Compound,Medium,26.00
+Immensea,IJE6-J,DR-427,DR-427 IX,Heavy Metals,Rich,36.30
+Immensea,IJE6-J,DR-427,DR-427 IX,Noble Metals,Rich,36.06
+Immensea,IJE6-J,NI-J0B,NI-J0B I,Sheen Compound,Medium,22.94
+Immensea,IJE6-J,NI-J0B,NI-J0B I,Glossy Compound,Rich,33.91
+Immensea,IJE6-J,NI-J0B,NI-J0B I,Reactive Gas,Medium,23.14
+Immensea,IJE6-J,NI-J0B,NI-J0B I,Polyaramids,Medium,19.12
+Immensea,IJE6-J,NI-J0B,NI-J0B I,Ionic Solutions,Rich,14.83
+Immensea,IJE6-J,NI-J0B,NI-J0B II,Sheen Compound,Medium,29.14
+Immensea,IJE6-J,NI-J0B,NI-J0B II,Reactive Gas,Medium,25.66
+Immensea,IJE6-J,NI-J0B,NI-J0B II,Noble Gas,Rich,33.19
+Immensea,IJE6-J,NI-J0B,NI-J0B II,Base Metals,Poor,5.65
+Immensea,IJE6-J,NI-J0B,NI-J0B II,Coolant,Rich,22.19
+Immensea,IJE6-J,NI-J0B,NI-J0B III,Precious Alloy,Medium,23.28
+Immensea,IJE6-J,NI-J0B,NI-J0B III,Base Metals,Poor,4.45
+Immensea,IJE6-J,NI-J0B,NI-J0B III,Supertensile Plastics,Poor,11.92
+Immensea,IJE6-J,NI-J0B,NI-J0B III,Construction Blocks,Medium,24.12
+Immensea,IJE6-J,QN-6J2,QN-6J2 I,Dark Compound,Poor,23.76
+Immensea,IJE6-J,QN-6J2,QN-6J2 I,Toxic Metals,Medium,6.91
+Immensea,IJE6-J,QN-6J2,QN-6J2 I,Construction Blocks,Poor,21.38
+Immensea,IJE6-J,QN-6J2,QN-6J2 I,Silicate Glass,Poor,9.60
+Immensea,IJE6-J,QN-6J2,QN-6J2 I,Oxygen Isotopes,Medium,4.77
+Immensea,IJE6-J,QN-6J2,QN-6J2 II,Dark Compound,Poor,18.33
+Immensea,IJE6-J,QN-6J2,QN-6J2 II,Toxic Metals,Medium,8.41
+Immensea,IJE6-J,QN-6J2,QN-6J2 II,Silicate Glass,Medium,12.74
+Immensea,IJE6-J,QN-6J2,QN-6J2 II,Oxygen Isotopes,Poor,3.17
+Immensea,IJE6-J,QN-6J2,QN-6J2 II,Plasmoids,Poor,1.40
+Immensea,IJE6-J,QN-6J2,QN-6J2 III,Lucent Compound,Rich,41.55
+Immensea,IJE6-J,QN-6J2,QN-6J2 III,Crystal Compound,Medium,30.67
+Immensea,IJE6-J,QN-6J2,QN-6J2 III,Reactive Gas,Perfect,42.96
+Immensea,IJE6-J,QN-6J2,QN-6J2 III,Toxic Metals,Rich,11.08
+Immensea,IJE6-J,QN-6J2,QN-6J2 III,Supertensile Plastics,Poor,15.01
+Immensea,IJE6-J,QN-6J2,QN-6J2 IV,Condensed Alloy,Rich,34.45
+Immensea,IJE6-J,QN-6J2,QN-6J2 IV,Noble Metals,Rich,40.12
+Immensea,IJE6-J,QN-6J2,QN-6J2 IV,Polyaramids,Rich,23.20
+Immensea,IJE6-J,QN-6J2,QN-6J2 IV,Heavy Water,Medium,305.64
+Immensea,IJE6-J,QN-6J2,QN-6J2 IV,Liquid Ozone,Rich,44.95
+Immensea,IJE6-J,QN-6J2,QN-6J2 IV,Ionic Solutions,Medium,13.35
+Immensea,IJE6-J,QN-6J2,QN-6J2 V,Lustering Alloy,Poor,19.55
+Immensea,IJE6-J,QN-6J2,QN-6J2 V,Precious Alloy,Medium,31.56
+Immensea,IJE6-J,QN-6J2,QN-6J2 V,Dark Compound,Poor,18.36
+Immensea,IJE6-J,QN-6J2,QN-6J2 V,Toxic Metals,Medium,7.70
+Immensea,IJE6-J,QN-6J2,QN-6J2 V,Silicate Glass,Medium,14.22
+Immensea,IJE6-J,QN-6J2,QN-6J2 VI,Condensed Alloy,Medium,26.78
+Immensea,IJE6-J,QN-6J2,QN-6J2 VI,Fiber Composite,Perfect,44.82
+Immensea,IJE6-J,QN-6J2,QN-6J2 VI,Base Metals,Rich,10.66
+Immensea,IJE6-J,QN-6J2,QN-6J2 VI,Noble Metals,Rich,36.37
+Immensea,IJE6-J,QN-6J2,QN-6J2 VI,Condensates,Rich,22.79
+Immensea,IJE6-J,QN-6J2,QN-6J2 VI,Smartfab Units,Perfect,34.09
+Immensea,IJE6-J,QN-6J2,QN-6J2 VII,Sheen Compound,Perfect,44.06
+Immensea,IJE6-J,QN-6J2,QN-6J2 VII,Fiber Composite,Rich,35.37
+Immensea,IJE6-J,QN-6J2,QN-6J2 VII,Base Metals,Rich,9.07
+Immensea,IJE6-J,QN-6J2,QN-6J2 VII,Reactive Metals,Rich,10.17
+Immensea,IJE6-J,QN-6J2,QN-6J2 VII,Polyaramids,Rich,24.95
+Immensea,IJE6-J,QN-6J2,QN-6J2 VII,Ionic Solutions,Medium,12.17
+Immensea,IJE6-J,QN-6J2,QN-6J2 VIII,Lustering Alloy,Rich,34.26
+Immensea,IJE6-J,QN-6J2,QN-6J2 VIII,Glossy Compound,Poor,22.38
+Immensea,IJE6-J,QN-6J2,QN-6J2 VIII,Reactive Gas,Rich,38.61
+Immensea,IJE6-J,QN-6J2,QN-6J2 VIII,Noble Gas,Medium,34.07
+Immensea,IJE6-J,QN-6J2,QN-6J2 VIII,Reactive Metals,Rich,10.15
+Immensea,IJE6-J,QN-6J2,QN-6J2 VIII,Ionic Solutions,Perfect,17.79
+Immensea,IJE6-J,QN-6J2,QN-6J2 IX,Lustering Alloy,Rich,35.61
+Immensea,IJE6-J,QN-6J2,QN-6J2 IX,Sheen Compound,Medium,30.05
+Immensea,IJE6-J,QN-6J2,QN-6J2 IX,Fiber Composite,Medium,25.57
+Immensea,IJE6-J,QN-6J2,QN-6J2 IX,Glossy Compound,Medium,33.78
+Immensea,IJE6-J,QN-6J2,QN-6J2 IX,Coolant,Rich,24.10
+Immensea,IJE6-J,QN-6J2,QN-6J2 IX,Ionic Solutions,Medium,12.17
+Immensea,IJE6-J,QN-6J2,QN-6J2 X,Lustering Alloy,Medium,31.51
+Immensea,IJE6-J,QN-6J2,QN-6J2 X,Precious Alloy,Poor,24.73
+Immensea,IJE6-J,QN-6J2,QN-6J2 X,Base Metals,Medium,7.64
+Immensea,IJE6-J,QN-6J2,QN-6J2 X,Coolant,Poor,15.97
+Immensea,IJE6-J,QN-6J2,QN-6J2 X,Condensates,Medium,20.29

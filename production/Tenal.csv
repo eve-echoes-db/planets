@@ -1,0 +1,2546 @@
+Region,Constellation,System,Name,Item,Rate,Output
+Tenal,M-J57M,H1-ESN,H1-ESN I,Supertensile Plastics,Poor,10.89
+Tenal,M-J57M,H1-ESN,H1-ESN I,Construction Blocks,Medium,20.05
+Tenal,M-J57M,H1-ESN,H1-ESN I,Silicate Glass,Medium,10.11
+Tenal,M-J57M,H1-ESN,H1-ESN I,Oxygen Isotopes,Medium,3.00
+Tenal,M-J57M,H1-ESN,H1-ESN II,Noble Gas,Medium,21.15
+Tenal,M-J57M,H1-ESN,H1-ESN II,Reactive Metals,Medium,5.61
+Tenal,M-J57M,H1-ESN,H1-ESN II,Condensates,Poor,12.96
+Tenal,M-J57M,H1-ESN,H1-ESN II,Nanites,Medium,6.20
+Tenal,M-J57M,H1-ESN,H1-ESN II,Suspended Plasma,Medium,94.95
+Tenal,M-J57M,H1-ESN,H1-ESN III,Lucent Compound,Medium,22.41
+Tenal,M-J57M,H1-ESN,H1-ESN III,Dark Compound,Perfect,33.73
+Tenal,M-J57M,H1-ESN,H1-ESN III,Heavy Metals,Rich,30.60
+Tenal,M-J57M,H1-ESN,H1-ESN III,Condensates,Medium,14.66
+Tenal,M-J57M,H1-ESN,H1-ESN III,Nanites,Medium,6.89
+Tenal,M-J57M,H1-ESN,H1-ESN IV,Lustering Alloy,Poor,16.95
+Tenal,M-J57M,H1-ESN,H1-ESN IV,Precious Alloy,Poor,19.49
+Tenal,M-J57M,H1-ESN,H1-ESN IV,Supertensile Plastics,Medium,13.29
+Tenal,M-J57M,H1-ESN,H1-ESN IV,Construction Blocks,Poor,16.09
+Tenal,M-J57M,H1-ESN,H1-ESN V,Gleaming Alloy,Medium,20.87
+Tenal,M-J57M,H1-ESN,H1-ESN V,Noble Gas,Medium,20.79
+Tenal,M-J57M,H1-ESN,H1-ESN V,Polyaramids,Perfect,22.53
+Tenal,M-J57M,H1-ESN,H1-ESN VI,Condensed Alloy,Medium,25.70
+Tenal,M-J57M,H1-ESN,H1-ESN VI,Toxic Metals,Rich,7.21
+Tenal,M-J57M,H1-ESN,H1-ESN VI,Silicate Glass,Medium,13.19
+Tenal,M-J57M,H1-ESN,H1-ESN VI,Liquid Ozone,Medium,27.04
+Tenal,M-J57M,H1-ESN,H1-ESN VI,Ionic Solutions,Medium,8.53
+Tenal,M-J57M,H1-ESN,H1-ESN VII,Condensed Alloy,Medium,21.69
+Tenal,M-J57M,H1-ESN,H1-ESN VII,Fiber Composite,Perfect,36.67
+Tenal,M-J57M,H1-ESN,H1-ESN VII,Reactive Gas,Perfect,33.75
+Tenal,M-J57M,H1-ESN,H1-ESN VII,Base Metals,Rich,8.09
+Tenal,M-J57M,H1-ESN,H1-ESN VII,Liquid Ozone,Medium,28.67
+Tenal,M-J57M,H1-ESN,H1-ESN VIII,Reactive Gas,Rich,30.11
+Tenal,M-J57M,H1-ESN,H1-ESN VIII,Noble Gas,Medium,25.91
+Tenal,M-J57M,H1-ESN,H1-ESN VIII,Reactive Metals,Medium,5.83
+Tenal,M-J57M,H1-ESN,H1-ESN VIII,Polyaramids,Rich,20.80
+Tenal,M-J57M,H1-ESN,H1-ESN VIII,Coolant,Rich,20.51
+Tenal,M-J57M,3DR-CR,3DR-CR I,Toxic Metals,Poor,4.22
+Tenal,M-J57M,3DR-CR,3DR-CR I,Supertensile Plastics,Medium,16.09
+Tenal,M-J57M,3DR-CR,3DR-CR I,Construction Blocks,Poor,14.22
+Tenal,M-J57M,3DR-CR,3DR-CR I,Oxygen Isotopes,Poor,1.98
+Tenal,M-J57M,3DR-CR,3DR-CR II,Gleaming Alloy,Rich,31.58
+Tenal,M-J57M,3DR-CR,3DR-CR II,Noble Metals,Medium,20.01
+Tenal,M-J57M,3DR-CR,3DR-CR II,Polyaramids,Rich,22.18
+Tenal,M-J57M,3DR-CR,3DR-CR III,Precious Alloy,Poor,16.97
+Tenal,M-J57M,3DR-CR,3DR-CR III,Industrial Fibers,Medium,5.41
+Tenal,M-J57M,3DR-CR,3DR-CR III,Supertensile Plastics,Medium,16.06
+Tenal,M-J57M,3DR-CR,3DR-CR III,Oxygen Isotopes,Poor,2.25
+Tenal,M-J57M,3DR-CR,3DR-CR IV,Gleaming Alloy,Rich,30.98
+Tenal,M-J57M,3DR-CR,3DR-CR IV,Motley Compound,Poor,17.56
+Tenal,M-J57M,3DR-CR,3DR-CR IV,Construction Blocks,Medium,21.50
+Tenal,M-J57M,3DR-CR,3DR-CR V,Condensed Alloy,Perfect,37.23
+Tenal,M-J57M,3DR-CR,3DR-CR V,Fiber Composite,Perfect,39.56
+Tenal,M-J57M,3DR-CR,3DR-CR V,Condensates,Perfect,25.10
+Tenal,M-J57M,3DR-CR,3DR-CR V,Smartfab Units,Perfect,23.46
+Tenal,M-J57M,3DR-CR,3DR-CR V,Liquid Ozone,Rich,33.70
+Tenal,M-J57M,3DR-CR,3DR-CR VI,Fiber Composite,Perfect,33.87
+Tenal,M-J57M,3DR-CR,3DR-CR VI,Reactive Gas,Poor,17.39
+Tenal,M-J57M,3DR-CR,3DR-CR VI,Reactive Metals,Medium,6.58
+Tenal,M-J57M,3DR-CR,3DR-CR VI,Coolant,Perfect,22.75
+Tenal,M-J57M,3DR-CR,3DR-CR VI,Ionic Solutions,Rich,10.81
+Tenal,M-J57M,3DR-CR,3DR-CR VII,Glossy Compound,Rich,27.17
+Tenal,M-J57M,3DR-CR,3DR-CR VII,Reactive Gas,Medium,25.30
+Tenal,M-J57M,3DR-CR,3DR-CR VII,Reactive Metals,Poor,4.71
+Tenal,M-J57M,3DR-CR,3DR-CR VII,Polyaramids,Medium,15.95
+Tenal,M-J57M,3DR-CR,3DR-CR VII,Ionic Solutions,Medium,10.03
+Tenal,M-J57M,RLTG-3,RLTG-3 I,Lustering Alloy,Poor,17.40
+Tenal,M-J57M,RLTG-3,RLTG-3 I,Precious Alloy,Poor,13.30
+Tenal,M-J57M,RLTG-3,RLTG-3 I,Supertensile Plastics,Medium,14.69
+Tenal,M-J57M,RLTG-3,RLTG-3 I,Oxygen Isotopes,Medium,3.13
+Tenal,M-J57M,RLTG-3,RLTG-3 II,Gleaming Alloy,Medium,24.98
+Tenal,M-J57M,RLTG-3,RLTG-3 II,Noble Metals,Rich,31.62
+Tenal,M-J57M,RLTG-3,RLTG-3 II,Plasmoids,Rich,1.62
+Tenal,M-J57M,RLTG-3,RLTG-3 III,Opulent Compound,Medium,21.90
+Tenal,M-J57M,RLTG-3,RLTG-3 III,Reactive Gas,Medium,23.70
+Tenal,M-J57M,RLTG-3,RLTG-3 III,Noble Metals,Rich,28.90
+Tenal,M-J57M,RLTG-3,RLTG-3 III,Smartfab Units,Perfect,23.56
+Tenal,M-J57M,RLTG-3,RLTG-3 III,Liquid Ozone,Rich,37.40
+Tenal,M-J57M,RLTG-3,RLTG-3 IV,Lustering Alloy,Perfect,33.16
+Tenal,M-J57M,RLTG-3,RLTG-3 IV,Sheen Compound,Poor,17.46
+Tenal,M-J57M,RLTG-3,RLTG-3 IV,Fiber Composite,Medium,21.16
+Tenal,M-J57M,RLTG-3,RLTG-3 IV,Glossy Compound,Medium,23.60
+Tenal,M-J57M,RLTG-3,RLTG-3 IV,Reactive Gas,Medium,22.30
+Tenal,M-J57M,RLTG-3,RLTG-3 V,Fiber Composite,Medium,22.48
+Tenal,M-J57M,RLTG-3,RLTG-3 V,Reactive Gas,Medium,24.14
+Tenal,M-J57M,RLTG-3,RLTG-3 V,Base Metals,Medium,5.80
+Tenal,M-J57M,RLTG-3,RLTG-3 V,Polyaramids,Medium,15.79
+Tenal,M-J57M,RLTG-3,RLTG-3 V,Ionic Solutions,Rich,12.08
+Tenal,M-J57M,RLTG-3,RLTG-3 VI,Glossy Compound,Medium,20.04
+Tenal,M-J57M,RLTG-3,RLTG-3 VI,Reactive Gas,Medium,20.86
+Tenal,M-J57M,RLTG-3,RLTG-3 VI,Noble Gas,Medium,21.44
+Tenal,M-J57M,RLTG-3,RLTG-3 VI,Base Metals,Medium,6.42
+Tenal,M-J57M,RLTG-3,RLTG-3 VI,Reactive Metals,Rich,7.71
+Tenal,M-J57M,RLTG-3,RLTG-3 VII,Sheen Compound,Rich,31.42
+Tenal,M-J57M,RLTG-3,RLTG-3 VII,Reactive Gas,Perfect,32.24
+Tenal,M-J57M,RLTG-3,RLTG-3 VII,Reactive Metals,Rich,8.28
+Tenal,M-J57M,RLTG-3,RLTG-3 VII,Polyaramids,Perfect,21.48
+Tenal,M-J57M,RLTG-3,RLTG-3 VII,Coolant,Medium,15.05
+Tenal,M-J57M,RLTG-3,RLTG-3 VIII,Lustering Alloy,Poor,16.08
+Tenal,M-J57M,RLTG-3,RLTG-3 VIII,Motley Compound,Medium,25.08
+Tenal,M-J57M,RLTG-3,RLTG-3 VIII,Industrial Fibers,Medium,6.52
+Tenal,M-J57M,RLTG-3,RLTG-3 VIII,Condensates,Poor,11.72
+Tenal,M-J57M,S-EVIQ,S-EVIQ I,Gleaming Alloy,Rich,27.82
+Tenal,M-J57M,S-EVIQ,S-EVIQ I,Polyaramids,Medium,12.95
+Tenal,M-J57M,S-EVIQ,S-EVIQ I,Construction Blocks,Medium,24.38
+Tenal,M-J57M,S-EVIQ,S-EVIQ II,Base Metals,Medium,5.64
+Tenal,M-J57M,S-EVIQ,S-EVIQ II,Supertensile Plastics,Poor,10.79
+Tenal,M-J57M,S-EVIQ,S-EVIQ II,Silicate Glass,Medium,11.58
+Tenal,M-J57M,S-EVIQ,S-EVIQ II,Plasmoids,Medium,1.22
+Tenal,M-J57M,S-EVIQ,S-EVIQ III,Crystal Compound,Rich,27.16
+Tenal,M-J57M,S-EVIQ,S-EVIQ III,Reactive Gas,Rich,31.06
+Tenal,M-J57M,S-EVIQ,S-EVIQ III,Reactive Metals,Medium,5.95
+Tenal,M-J57M,S-EVIQ,S-EVIQ III,Nanites,Poor,4.25
+Tenal,M-J57M,S-EVIQ,S-EVIQ IV,Gleaming Alloy,Medium,22.04
+Tenal,M-J57M,S-EVIQ,S-EVIQ IV,Lucent Compound,Poor,16.78
+Tenal,M-J57M,S-EVIQ,S-EVIQ IV,Reactive Metals,Perfect,8.40
+Tenal,M-J57M,S-EVIQ,S-EVIQ IV,Suspended Plasma,Medium,76.25
+Tenal,M-J57M,S-EVIQ,S-EVIQ V,Precious Alloy,Medium,20.76
+Tenal,M-J57M,S-EVIQ,S-EVIQ V,Industrial Fibers,Poor,4.41
+Tenal,M-J57M,S-EVIQ,S-EVIQ V,Supertensile Plastics,Poor,9.92
+Tenal,M-J57M,S-EVIQ,S-EVIQ V,Silicate Glass,Medium,9.68
+Tenal,M-J57M,S-EVIQ,S-EVIQ VI,Crystal Compound,Rich,27.84
+Tenal,M-J57M,S-EVIQ,S-EVIQ VI,Polyaramids,Rich,18.27
+Tenal,M-J57M,S-EVIQ,S-EVIQ VI,Heavy Water,Poor,179.80
+Tenal,M-J57M,S-EVIQ,S-EVIQ VI,Liquid Ozone,Poor,22.82
+Tenal,M-J57M,S-EVIQ,S-EVIQ VI,Ionic Solutions,Poor,7.43
+Tenal,M-J57M,S-EVIQ,S-EVIQ VII,Fiber Composite,Rich,28.58
+Tenal,M-J57M,S-EVIQ,S-EVIQ VII,Base Metals,Perfect,8.48
+Tenal,M-J57M,S-EVIQ,S-EVIQ VII,Industrial Fibers,Rich,6.83
+Tenal,M-J57M,S-EVIQ,S-EVIQ VII,Smartfab Units,Perfect,25.33
+Tenal,M-J57M,S-EVIQ,S-EVIQ VII,Liquid Ozone,Medium,24.45
+Tenal,M-J57M,EOY-BG,EOY-BG I,Fiber Composite,Perfect,32.08
+Tenal,M-J57M,EOY-BG,EOY-BG I,Opulent Compound,Perfect,35.20
+Tenal,M-J57M,EOY-BG,EOY-BG I,Reactive Gas,Perfect,36.92
+Tenal,M-J57M,EOY-BG,EOY-BG I,Industrial Fibers,Poor,4.88
+Tenal,M-J57M,EOY-BG,EOY-BG I,Liquid Ozone,Medium,27.93
+Tenal,M-J57M,EOY-BG,EOY-BG II,Reactive Gas,Medium,20.38
+Tenal,M-J57M,EOY-BG,EOY-BG II,Base Metals,Medium,6.12
+Tenal,M-J57M,EOY-BG,EOY-BG II,Condensates,Medium,14.53
+Tenal,M-J57M,EOY-BG,EOY-BG II,Smartfab Units,Medium,13.51
+Tenal,M-J57M,EOY-BG,EOY-BG II,Liquid Ozone,Rich,39.40
+Tenal,M-J57M,EOY-BG,EOY-BG III,Base Metals,Poor,4.35
+Tenal,M-J57M,EOY-BG,EOY-BG III,Supertensile Plastics,Poor,11.59
+Tenal,M-J57M,EOY-BG,EOY-BG III,Silicate Glass,Poor,8.86
+Tenal,M-J57M,EOY-BG,EOY-BG III,Plasmoids,Medium,1.36
+Tenal,M-J57M,EOY-BG,EOY-BG IV,Glossy Compound,Medium,24.98
+Tenal,M-J57M,EOY-BG,EOY-BG IV,Reactive Gas,Poor,16.46
+Tenal,M-J57M,EOY-BG,EOY-BG IV,Noble Gas,Medium,21.42
+Tenal,M-J57M,EOY-BG,EOY-BG IV,Coolant,Medium,12.65
+Tenal,M-J57M,EOY-BG,EOY-BG IV,Ionic Solutions,Medium,8.72
+Tenal,M-J57M,EOY-BG,EOY-BG V,Lustering Alloy,Medium,20.78
+Tenal,M-J57M,EOY-BG,EOY-BG V,Precious Alloy,Poor,12.66
+Tenal,M-J57M,EOY-BG,EOY-BG V,Dark Compound,Poor,12.92
+Tenal,M-J57M,EOY-BG,EOY-BG V,Supertensile Plastics,Medium,13.03
+Tenal,M-J57M,PNS7-J,PNS7-J I,Gleaming Alloy,Medium,22.26
+Tenal,M-J57M,PNS7-J,PNS7-J I,Reactive Metals,Medium,5.36
+Tenal,M-J57M,PNS7-J,PNS7-J I,Supertensile Plastics,Rich,18.21
+Tenal,M-J57M,PNS7-J,PNS7-J I,Suspended Plasma,Medium,89.42
+Tenal,M-J57M,PNS7-J,PNS7-J II,Precious Alloy,Medium,19.26
+Tenal,M-J57M,PNS7-J,PNS7-J II,Toxic Metals,Medium,6.47
+Tenal,M-J57M,PNS7-J,PNS7-J II,Supertensile Plastics,Poor,10.48
+Tenal,M-J57M,PNS7-J,PNS7-J II,Silicate Glass,Medium,11.45
+Tenal,M-J57M,PNS7-J,PNS7-J III,Lustering Alloy,Medium,23.20
+Tenal,M-J57M,PNS7-J,PNS7-J III,Supertensile Plastics,Medium,13.36
+Tenal,M-J57M,PNS7-J,PNS7-J III,Silicate Glass,Poor,7.29
+Tenal,M-J57M,PNS7-J,PNS7-J III,Plasmoids,Poor,0.77
+Tenal,M-J57M,PNS7-J,PNS7-J IV,Lustering Alloy,Rich,30.68
+Tenal,M-J57M,PNS7-J,PNS7-J IV,Reactive Gas,Rich,30.10
+Tenal,M-J57M,PNS7-J,PNS7-J IV,Polyaramids,Medium,16.51
+Tenal,M-J57M,PNS7-J,PNS7-J IV,Coolant,Poor,11.83
+Tenal,M-J57M,PNS7-J,PNS7-J IV,Ionic Solutions,Medium,8.52
+Tenal,M-J57M,PNS7-J,PNS7-J V,Lustering Alloy,Rich,27.94
+Tenal,M-J57M,PNS7-J,PNS7-J V,Reactive Gas,Rich,27.80
+Tenal,M-J57M,PNS7-J,PNS7-J V,Reactive Metals,Poor,4.37
+Tenal,M-J57M,PNS7-J,PNS7-J V,Coolant,Rich,17.29
+Tenal,M-J57M,PNS7-J,PNS7-J V,Ionic Solutions,Medium,8.45
+Tenal,M-J57M,PNS7-J,PNS7-J VI,Lustering Alloy,Medium,23.50
+Tenal,M-J57M,PNS7-J,PNS7-J VI,Sheen Compound,Rich,30.84
+Tenal,M-J57M,PNS7-J,PNS7-J VI,Fiber Composite,Rich,31.28
+Tenal,M-J57M,PNS7-J,PNS7-J VI,Reactive Gas,Poor,16.98
+Tenal,M-J57M,PNS7-J,PNS7-J VI,Base Metals,Rich,7.61
+Tenal,M-J57M,PNS7-J,PNS7-J VII,Lustering Alloy,Rich,29.64
+Tenal,M-J57M,PNS7-J,PNS7-J VII,Sheen Compound,Medium,21.24
+Tenal,M-J57M,PNS7-J,PNS7-J VII,Reactive Gas,Medium,19.62
+Tenal,M-J57M,PNS7-J,PNS7-J VII,Coolant,Medium,15.45
+Tenal,M-J57M,PNS7-J,PNS7-J VII,Ionic Solutions,Poor,7.06
+Tenal,M-J57M,PNS7-J,PNS7-J VIII,Reactive Metals,Medium,5.65
+Tenal,M-J57M,PNS7-J,PNS7-J VIII,Toxic Metals,Medium,6.35
+Tenal,M-J57M,PNS7-J,PNS7-J VIII,Nanites,Medium,5.34
+Tenal,M-J57M,PNS7-J,PNS7-J VIII,Oxygen Isotopes,Medium,2.93
+Tenal,M-J57M,IG-ZAM,IG-ZAM I,Lustering Alloy,Poor,15.86
+Tenal,M-J57M,IG-ZAM,IG-ZAM I,Dark Compound,Medium,24.26
+Tenal,M-J57M,IG-ZAM,IG-ZAM I,Industrial Fibers,Poor,3.89
+Tenal,M-J57M,IG-ZAM,IG-ZAM I,Supertensile Plastics,Medium,15.25
+Tenal,M-J57M,IG-ZAM,IG-ZAM II,Gleaming Alloy,Perfect,33.80
+Tenal,M-J57M,IG-ZAM,IG-ZAM II,Motley Compound,Rich,27.12
+Tenal,M-J57M,IG-ZAM,IG-ZAM II,Heavy Metals,Poor,16.70
+Tenal,M-J57M,IG-ZAM,IG-ZAM III,Base Metals,Poor,3.37
+Tenal,M-J57M,IG-ZAM,IG-ZAM III,Supertensile Plastics,Poor,8.32
+Tenal,M-J57M,IG-ZAM,IG-ZAM III,Construction Blocks,Poor,13.78
+Tenal,M-J57M,IG-ZAM,IG-ZAM III,Oxygen Isotopes,Medium,3.68
+Tenal,M-J57M,IG-ZAM,IG-ZAM IV,Base Metals,Perfect,8.67
+Tenal,M-J57M,IG-ZAM,IG-ZAM IV,Condensates,Rich,17.56
+Tenal,M-J57M,IG-ZAM,IG-ZAM IV,Smartfab Units,Rich,19.88
+Tenal,M-J57M,IG-ZAM,IG-ZAM IV,Heavy Water,Rich,283.00
+Tenal,M-J57M,IG-ZAM,IG-ZAM IV,Liquid Ozone,Medium,28.10
+Tenal,M-J57M,IG-ZAM,IG-ZAM V,Glossy Compound,Poor,16.86
+Tenal,M-J57M,IG-ZAM,IG-ZAM V,Reactive Gas,Rich,29.96
+Tenal,M-J57M,IG-ZAM,IG-ZAM V,Noble Gas,Medium,22.64
+Tenal,M-J57M,IG-ZAM,IG-ZAM V,Polyaramids,Medium,15.35
+Tenal,M-J57M,IG-ZAM,IG-ZAM V,Ionic Solutions,Rich,11.42
+Tenal,M-J57M,IG-ZAM,IG-ZAM VI,Reactive Gas,Rich,29.16
+Tenal,M-J57M,IG-ZAM,IG-ZAM VI,Base Metals,Poor,4.62
+Tenal,M-J57M,IG-ZAM,IG-ZAM VI,Polyaramids,Poor,12.49
+Tenal,M-J57M,IG-ZAM,IG-ZAM VI,Coolant,Perfect,21.93
+Tenal,M-J57M,IG-ZAM,IG-ZAM VI,Ionic Solutions,Poor,7.26
+Tenal,M-J57M,IG-ZAM,IG-ZAM VII,Sheen Compound,Poor,16.42
+Tenal,M-J57M,IG-ZAM,IG-ZAM VII,Glossy Compound,Rich,31.16
+Tenal,M-J57M,IG-ZAM,IG-ZAM VII,Reactive Gas,Poor,16.64
+Tenal,M-J57M,IG-ZAM,IG-ZAM VII,Reactive Metals,Medium,6.09
+Tenal,M-J57M,IG-ZAM,IG-ZAM VII,Ionic Solutions,Medium,9.31
+Tenal,M-J57M,IG-ZAM,IG-ZAM VIII,Base Metals,Medium,6.19
+Tenal,M-J57M,IG-ZAM,IG-ZAM VIII,Supertensile Plastics,Poor,9.59
+Tenal,M-J57M,IG-ZAM,IG-ZAM VIII,Silicate Glass,Medium,10.29
+Tenal,M-J57M,IG-ZAM,IG-ZAM VIII,Plasmoids,Poor,0.80
+Tenal,M-J57M,IG-ZAM,IG-ZAM IX,Reactive Gas,Medium,24.72
+Tenal,M-J57M,IG-ZAM,IG-ZAM IX,Reactive Metals,Medium,6.18
+Tenal,M-J57M,IG-ZAM,IG-ZAM IX,Toxic Metals,Poor,4.62
+Tenal,M-J57M,IG-ZAM,IG-ZAM IX,Supertensile Plastics,Rich,17.64
+Tenal,M-J57M,IG-ZAM,IG-ZAM X,Fiber Composite,Perfect,32.36
+Tenal,M-J57M,IG-ZAM,IG-ZAM X,Reactive Gas,Poor,16.90
+Tenal,M-J57M,IG-ZAM,IG-ZAM X,Noble Gas,Medium,19.08
+Tenal,M-J57M,IG-ZAM,IG-ZAM X,Coolant,Medium,14.52
+Tenal,M-J57M,IG-ZAM,IG-ZAM X,Ionic Solutions,Poor,6.78
+Tenal,M-J57M,0-UVHJ,0-UVHJ I,Precious Alloy,Medium,22.28
+Tenal,M-J57M,0-UVHJ,0-UVHJ I,Base Metals,Poor,3.32
+Tenal,M-J57M,0-UVHJ,0-UVHJ I,Supertensile Plastics,Poor,8.88
+Tenal,M-J57M,0-UVHJ,0-UVHJ I,Construction Blocks,Poor,14.58
+Tenal,M-J57M,0-UVHJ,0-UVHJ II,Dark Compound,Poor,18.22
+Tenal,M-J57M,0-UVHJ,0-UVHJ II,Supertensile Plastics,Poor,12.21
+Tenal,M-J57M,0-UVHJ,0-UVHJ II,Oxygen Isotopes,Poor,2.51
+Tenal,M-J57M,0-UVHJ,0-UVHJ II,Plasmoids,Poor,0.85
+Tenal,M-J57M,0-UVHJ,0-UVHJ III,Gleaming Alloy,Rich,28.94
+Tenal,M-J57M,0-UVHJ,0-UVHJ III,Heavy Metals,Medium,22.70
+Tenal,M-J57M,0-UVHJ,0-UVHJ III,Noble Metals,Poor,18.24
+Tenal,M-J57M,0-UVHJ,0-UVHJ IV,Fiber Composite,Medium,21.24
+Tenal,M-J57M,0-UVHJ,0-UVHJ IV,Reactive Gas,Rich,29.46
+Tenal,M-J57M,0-UVHJ,0-UVHJ IV,Base Metals,Perfect,9.71
+Tenal,M-J57M,0-UVHJ,0-UVHJ IV,Noble Metals,Perfect,35.08
+Tenal,M-J57M,0-UVHJ,0-UVHJ IV,Liquid Ozone,Medium,27.25
+Tenal,M-J57M,0-UVHJ,0-UVHJ V,Opulent Compound,Medium,22.78
+Tenal,M-J57M,0-UVHJ,0-UVHJ V,Coolant,Medium,12.67
+Tenal,M-J57M,0-UVHJ,0-UVHJ V,Silicate Glass,Poor,9.12
+Tenal,M-J57M,0-UVHJ,0-UVHJ V,Heavy Water,Poor,181.60
+Tenal,M-J57M,0-UVHJ,0-UVHJ V,Liquid Ozone,Rich,35.08
+Tenal,M-J57M,0-UVHJ,0-UVHJ VI,Sheen Compound,Medium,19.80
+Tenal,M-J57M,0-UVHJ,0-UVHJ VI,Reactive Gas,Medium,22.90
+Tenal,M-J57M,0-UVHJ,0-UVHJ VI,Noble Gas,Medium,20.64
+Tenal,M-J57M,0-UVHJ,0-UVHJ VI,Base Metals,Poor,4.94
+Tenal,M-J57M,0-UVHJ,0-UVHJ VI,Ionic Solutions,Medium,8.03
+Tenal,M-J57M,0-UVHJ,0-UVHJ VII,Sheen Compound,Medium,21.76
+Tenal,M-J57M,0-UVHJ,0-UVHJ VII,Fiber Composite,Perfect,33.18
+Tenal,M-J57M,0-UVHJ,0-UVHJ VII,Reactive Gas,Medium,21.46
+Tenal,M-J57M,0-UVHJ,0-UVHJ VII,Reactive Metals,Medium,5.55
+Tenal,M-J57M,0-UVHJ,0-UVHJ VII,Ionic Solutions,Medium,7.82
+Tenal,M-J57M,0-UVHJ,0-UVHJ VIII,Fiber Composite,Poor,17.30
+Tenal,M-J57M,0-UVHJ,0-UVHJ VIII,Reactive Gas,Medium,22.82
+Tenal,M-J57M,0-UVHJ,0-UVHJ VIII,Noble Gas,Medium,19.78
+Tenal,M-J57M,0-UVHJ,0-UVHJ VIII,Reactive Metals,Rich,7.64
+Tenal,M-J57M,0-UVHJ,0-UVHJ VIII,Ionic Solutions,Rich,10.16
+Tenal,M-J57M,0-UVHJ,0-UVHJ IX,Condensed Alloy,Medium,22.44
+Tenal,M-J57M,0-UVHJ,0-UVHJ IX,Toxic Metals,Rich,7.38
+Tenal,M-J57M,0-UVHJ,0-UVHJ IX,Polyaramids,Medium,13.61
+Tenal,M-J57M,0-UVHJ,0-UVHJ IX,Heavy Water,Rich,264.80
+Tenal,M-J57M,0-UVHJ,0-UVHJ IX,Liquid Ozone,Perfect,41.15
+Tenal,M-J57M,NCG-PW,NCG-PW I,Lustering Alloy,Poor,18.31
+Tenal,M-J57M,NCG-PW,NCG-PW I,Supertensile Plastics,Poor,9.91
+Tenal,M-J57M,NCG-PW,NCG-PW I,Silicate Glass,Poor,8.54
+Tenal,M-J57M,NCG-PW,NCG-PW I,Oxygen Isotopes,Medium,3.11
+Tenal,M-J57M,NCG-PW,NCG-PW II,Gleaming Alloy,Medium,22.43
+Tenal,M-J57M,NCG-PW,NCG-PW II,Noble Gas,Medium,21.38
+Tenal,M-J57M,NCG-PW,NCG-PW II,Oxygen Isotopes,Rich,4.59
+Tenal,M-J57M,NCG-PW,NCG-PW III,Reactive Gas,Rich,29.23
+Tenal,M-J57M,NCG-PW,NCG-PW III,Reactive Metals,Rich,8.48
+Tenal,M-J57M,NCG-PW,NCG-PW III,Toxic Metals,Medium,6.99
+Tenal,M-J57M,NCG-PW,NCG-PW III,Nanites,Perfect,8.99
+Tenal,M-J57M,NCG-PW,NCG-PW IV,Lustering Alloy,Poor,18.19
+Tenal,M-J57M,NCG-PW,NCG-PW IV,Toxic Metals,Poor,4.29
+Tenal,M-J57M,NCG-PW,NCG-PW IV,Supertensile Plastics,Poor,10.37
+Tenal,M-J57M,NCG-PW,NCG-PW IV,Construction Blocks,Medium,20.75
+Tenal,M-J57M,NCG-PW,NCG-PW V,Reactive Metals,Medium,6.30
+Tenal,M-J57M,NCG-PW,NCG-PW V,Toxic Metals,Rich,7.61
+Tenal,M-J57M,NCG-PW,NCG-PW V,Construction Blocks,Medium,22.32
+Tenal,M-J57M,NCG-PW,NCG-PW V,Oxygen Isotopes,Medium,3.61
+Tenal,M-J57M,NCG-PW,NCG-PW VI,Dark Compound,Poor,19.13
+Tenal,M-J57M,NCG-PW,NCG-PW VI,Industrial Fibers,Poor,4.26
+Tenal,M-J57M,NCG-PW,NCG-PW VI,Supertensile Plastics,Poor,13.03
+Tenal,M-J57M,NCG-PW,NCG-PW VI,Silicate Glass,Poor,9.41
+Tenal,M-J57M,NCG-PW,NCG-PW VII,Base Metals,Poor,4.34
+Tenal,M-J57M,NCG-PW,NCG-PW VII,Toxic Metals,Poor,4.48
+Tenal,M-J57M,NCG-PW,NCG-PW VII,Supertensile Plastics,Medium,15.89
+Tenal,M-J57M,NCG-PW,NCG-PW VII,Oxygen Isotopes,Poor,2.55
+Tenal,M-J57M,NCG-PW,NCG-PW VIII,Glossy Compound,Poor,18.44
+Tenal,M-J57M,NCG-PW,NCG-PW VIII,Reactive Gas,Medium,20.64
+Tenal,M-J57M,NCG-PW,NCG-PW VIII,Reactive Metals,Medium,5.62
+Tenal,M-J57M,NCG-PW,NCG-PW VIII,Polyaramids,Medium,13.68
+Tenal,M-J57M,NCG-PW,NCG-PW VIII,Ionic Solutions,Rich,10.64
+Tenal,M-J57M,NCG-PW,NCG-PW IX,Supertensile Plastics,Medium,15.82
+Tenal,M-J57M,NCG-PW,NCG-PW IX,Construction Blocks,Poor,14.55
+Tenal,M-J57M,NCG-PW,NCG-PW IX,Silicate Glass,Medium,12.40
+Tenal,M-J57M,NCG-PW,NCG-PW IX,Oxygen Isotopes,Poor,2.90
+Tenal,M-J57M,NCG-PW,NCG-PW X,Condensed Alloy,Perfect,33.75
+Tenal,M-J57M,NCG-PW,NCG-PW X,Polyaramids,Rich,21.78
+Tenal,M-J57M,NCG-PW,NCG-PW X,Coolant,Rich,22.19
+Tenal,M-J57M,NCG-PW,NCG-PW X,Silicate Glass,Poor,9.66
+Tenal,M-J57M,NCG-PW,NCG-PW X,Liquid Ozone,Rich,33.65
+Tenal,09-4XW,1QH-0K,1QH-0K I,Toxic Metals,Medium,6.25
+Tenal,09-4XW,1QH-0K,1QH-0K I,Supertensile Plastics,Poor,11.57
+Tenal,09-4XW,1QH-0K,1QH-0K I,Construction Blocks,Poor,17.56
+Tenal,09-4XW,1QH-0K,1QH-0K I,Oxygen Isotopes,Medium,3.56
+Tenal,09-4XW,1QH-0K,1QH-0K II,Dark Compound,Medium,20.24
+Tenal,09-4XW,1QH-0K,1QH-0K II,Supertensile Plastics,Poor,11.41
+Tenal,09-4XW,1QH-0K,1QH-0K II,Construction Blocks,Poor,13.58
+Tenal,09-4XW,1QH-0K,1QH-0K II,Plasmoids,Medium,1.16
+Tenal,09-4XW,1QH-0K,1QH-0K III,Sheen Compound,Rich,29.18
+Tenal,09-4XW,1QH-0K,1QH-0K III,Noble Gas,Poor,18.72
+Tenal,09-4XW,1QH-0K,1QH-0K III,Heavy Metals,Medium,24.26
+Tenal,09-4XW,1QH-0K,1QH-0K III,Condensates,Perfect,21.61
+Tenal,09-4XW,1QH-0K,1QH-0K III,Suspended Plasma,Medium,77.83
+Tenal,09-4XW,1QH-0K,1QH-0K IV,Toxic Metals,Poor,3.27
+Tenal,09-4XW,1QH-0K,1QH-0K IV,Industrial Fibers,Poor,4.94
+Tenal,09-4XW,1QH-0K,1QH-0K IV,Supertensile Plastics,Medium,12.95
+Tenal,09-4XW,1QH-0K,1QH-0K IV,Silicate Glass,Poor,7.15
+Tenal,09-4XW,1QH-0K,1QH-0K V,Crystal Compound,Medium,23.28
+Tenal,09-4XW,1QH-0K,1QH-0K V,Reactive Metals,Rich,8.08
+Tenal,09-4XW,1QH-0K,1QH-0K V,Suspended Plasma,Rich,96.48
+Tenal,09-4XW,1QH-0K,1QH-0K V,Oxygen Isotopes,Rich,4.55
+Tenal,09-4XW,1QH-0K,1QH-0K VI,Lustering Alloy,Rich,29.28
+Tenal,09-4XW,1QH-0K,1QH-0K VI,Fiber Composite,Rich,25.64
+Tenal,09-4XW,1QH-0K,1QH-0K VI,Reactive Gas,Medium,25.24
+Tenal,09-4XW,1QH-0K,1QH-0K VI,Polyaramids,Poor,11.32
+Tenal,09-4XW,1QH-0K,1QH-0K VI,Ionic Solutions,Medium,8.22
+Tenal,09-4XW,1QH-0K,1QH-0K VII,Fiber Composite,Rich,26.36
+Tenal,09-4XW,1QH-0K,1QH-0K VII,Reactive Gas,Medium,20.46
+Tenal,09-4XW,1QH-0K,1QH-0K VII,Noble Gas,Rich,27.46
+Tenal,09-4XW,1QH-0K,1QH-0K VII,Reactive Metals,Rich,7.03
+Tenal,09-4XW,1QH-0K,1QH-0K VII,Ionic Solutions,Medium,8.07
+Tenal,09-4XW,1QH-0K,1QH-0K VIII,Fiber Composite,Rich,25.72
+Tenal,09-4XW,1QH-0K,1QH-0K VIII,Glossy Compound,Poor,16.84
+Tenal,09-4XW,1QH-0K,1QH-0K VIII,Reactive Gas,Rich,25.86
+Tenal,09-4XW,1QH-0K,1QH-0K VIII,Base Metals,Poor,4.32
+Tenal,09-4XW,1QH-0K,1QH-0K VIII,Reactive Metals,Medium,6.57
+Tenal,09-4XW,1QH-0K,1QH-0K IX,Motley Compound,Rich,26.38
+Tenal,09-4XW,1QH-0K,1QH-0K IX,Supertensile Plastics,Medium,12.76
+Tenal,09-4XW,1QH-0K,1QH-0K IX,Condensates,Poor,11.25
+Tenal,09-4XW,1QH-0K,1QH-0K IX,Suspended Plasma,Rich,95.26
+Tenal,09-4XW,ZH3-BS,ZH3-BS I,Precious Alloy,Poor,14.80
+Tenal,09-4XW,ZH3-BS,ZH3-BS I,Toxic Metals,Poor,4.63
+Tenal,09-4XW,ZH3-BS,ZH3-BS I,Supertensile Plastics,Medium,16.01
+Tenal,09-4XW,ZH3-BS,ZH3-BS I,Plasmoids,Poor,0.89
+Tenal,09-4XW,ZH3-BS,ZH3-BS II,Industrial Fibers,Poor,4.81
+Tenal,09-4XW,ZH3-BS,ZH3-BS II,Supertensile Plastics,Medium,12.67
+Tenal,09-4XW,ZH3-BS,ZH3-BS II,Construction Blocks,Medium,19.86
+Tenal,09-4XW,ZH3-BS,ZH3-BS II,Silicate Glass,Poor,8.14
+Tenal,09-4XW,ZH3-BS,ZH3-BS III,Crystal Compound,Perfect,31.78
+Tenal,09-4XW,ZH3-BS,ZH3-BS III,Silicate Glass,Perfect,16.29
+Tenal,09-4XW,ZH3-BS,ZH3-BS III,Heavy Water,Poor,176.40
+Tenal,09-4XW,ZH3-BS,ZH3-BS III,Liquid Ozone,Medium,26.43
+Tenal,09-4XW,ZH3-BS,ZH3-BS III,Ionic Solutions,Medium,9.46
+Tenal,09-4XW,ZH3-BS,ZH3-BS IV,Gleaming Alloy,Rich,30.80
+Tenal,09-4XW,ZH3-BS,ZH3-BS IV,Glossy Compound,Medium,19.34
+Tenal,09-4XW,ZH3-BS,ZH3-BS IV,Smartfab Units,Rich,20.29
+Tenal,09-4XW,ZH3-BS,ZH3-BS V,Base Metals,Poor,4.33
+Tenal,09-4XW,ZH3-BS,ZH3-BS V,Industrial Fibers,Medium,6.02
+Tenal,09-4XW,ZH3-BS,ZH3-BS V,Supertensile Plastics,Poor,11.80
+Tenal,09-4XW,ZH3-BS,ZH3-BS V,Silicate Glass,Medium,9.81
+Tenal,09-4XW,ZH3-BS,ZH3-BS VI,Condensed Alloy,Rich,26.16
+Tenal,09-4XW,ZH3-BS,ZH3-BS VI,Opulent Compound,Perfect,33.10
+Tenal,09-4XW,ZH3-BS,ZH3-BS VI,Reactive Gas,Perfect,37.92
+Tenal,09-4XW,ZH3-BS,ZH3-BS VI,Base Metals,Medium,5.19
+Tenal,09-4XW,ZH3-BS,ZH3-BS VI,Liquid Ozone,Perfect,39.92
+Tenal,09-4XW,ZH3-BS,ZH3-BS VII,Fiber Composite,Perfect,32.84
+Tenal,09-4XW,ZH3-BS,ZH3-BS VII,Glossy Compound,Medium,24.56
+Tenal,09-4XW,ZH3-BS,ZH3-BS VII,Reactive Gas,Medium,22.08
+Tenal,09-4XW,ZH3-BS,ZH3-BS VII,Base Metals,Medium,5.31
+Tenal,09-4XW,ZH3-BS,ZH3-BS VII,Reactive Metals,Rich,7.43
+Tenal,09-4XW,ZH3-BS,ZH3-BS VIII,Lustering Alloy,Rich,30.24
+Tenal,09-4XW,ZH3-BS,ZH3-BS VIII,Fiber Composite,Rich,30.00
+Tenal,09-4XW,ZH3-BS,ZH3-BS VIII,Reactive Gas,Rich,30.86
+Tenal,09-4XW,ZH3-BS,ZH3-BS VIII,Coolant,Rich,18.25
+Tenal,09-4XW,ZH3-BS,ZH3-BS VIII,Ionic Solutions,Rich,10.70
+Tenal,09-4XW,ZH3-BS,ZH3-BS IX,Sheen Compound,Poor,18.58
+Tenal,09-4XW,ZH3-BS,ZH3-BS IX,Glossy Compound,Medium,21.88
+Tenal,09-4XW,ZH3-BS,ZH3-BS IX,Reactive Gas,Medium,21.74
+Tenal,09-4XW,ZH3-BS,ZH3-BS IX,Noble Gas,Rich,31.64
+Tenal,09-4XW,ZH3-BS,ZH3-BS IX,Ionic Solutions,Rich,11.70
+Tenal,09-4XW,ZJ-QOO,ZJ-QOO I,Base Metals,Medium,6.21
+Tenal,09-4XW,ZJ-QOO,ZJ-QOO I,Toxic Metals,Poor,3.92
+Tenal,09-4XW,ZJ-QOO,ZJ-QOO I,Supertensile Plastics,Poor,12.64
+Tenal,09-4XW,ZJ-QOO,ZJ-QOO I,Oxygen Isotopes,Poor,3.07
+Tenal,09-4XW,ZJ-QOO,ZJ-QOO II,Gleaming Alloy,Rich,32.49
+Tenal,09-4XW,ZJ-QOO,ZJ-QOO II,Glossy Compound,Medium,24.42
+Tenal,09-4XW,ZJ-QOO,ZJ-QOO II,Heavy Metals,Rich,34.30
+Tenal,09-4XW,ZJ-QOO,ZJ-QOO III,Opulent Compound,Medium,27.08
+Tenal,09-4XW,ZJ-QOO,ZJ-QOO III,Condensates,Perfect,27.94
+Tenal,09-4XW,ZJ-QOO,ZJ-QOO III,Smartfab Units,Rich,21.44
+Tenal,09-4XW,ZJ-QOO,ZJ-QOO III,Heavy Water,Medium,254.76
+Tenal,09-4XW,ZJ-QOO,ZJ-QOO III,Liquid Ozone,Perfect,47.99
+Tenal,09-4XW,ZJ-QOO,ZJ-QOO IV,Sheen Compound,Rich,31.15
+Tenal,09-4XW,ZJ-QOO,ZJ-QOO IV,Fiber Composite,Perfect,36.21
+Tenal,09-4XW,ZJ-QOO,ZJ-QOO IV,Reactive Gas,Medium,27.15
+Tenal,09-4XW,ZJ-QOO,ZJ-QOO IV,Base Metals,Medium,5.69
+Tenal,09-4XW,ZJ-QOO,ZJ-QOO IV,Reactive Metals,Medium,5.99
+Tenal,09-4XW,ZXA-V6,ZXA-V6 I,Sheen Compound,Rich,32.04
+Tenal,09-4XW,ZXA-V6,ZXA-V6 I,Heavy Metals,Rich,35.07
+Tenal,09-4XW,ZXA-V6,ZXA-V6 I,Reactive Metals,Rich,7.92
+Tenal,09-4XW,ZXA-V6,ZXA-V6 I,Condensates,Perfect,26.57
+Tenal,09-4XW,ZXA-V6,ZXA-V6 I,Ionic Solutions,Medium,11.22
+Tenal,09-4XW,ZXA-V6,ZXA-V6 II,Precious Alloy,Medium,25.71
+Tenal,09-4XW,ZXA-V6,ZXA-V6 II,Industrial Fibers,Poor,5.33
+Tenal,09-4XW,ZXA-V6,ZXA-V6 II,Supertensile Plastics,Poor,13.66
+Tenal,09-4XW,ZXA-V6,ZXA-V6 II,Plasmoids,Poor,1.02
+Tenal,09-4XW,ZXA-V6,ZXA-V6 III,Fiber Composite,Perfect,38.89
+Tenal,09-4XW,ZXA-V6,ZXA-V6 III,Industrial Fibers,Rich,8.64
+Tenal,09-4XW,ZXA-V6,ZXA-V6 III,Condensates,Rich,21.70
+Tenal,09-4XW,ZXA-V6,ZXA-V6 III,Smartfab Units,Medium,18.43
+Tenal,09-4XW,ZXA-V6,ZXA-V6 III,Liquid Ozone,Perfect,49.48
+Tenal,09-4XW,ZXA-V6,ZXA-V6 IV,Condensed Alloy,Perfect,36.85
+Tenal,09-4XW,ZXA-V6,ZXA-V6 IV,Fiber Composite,Rich,35.35
+Tenal,09-4XW,ZXA-V6,ZXA-V6 IV,Reactive Gas,Rich,31.60
+Tenal,09-4XW,ZXA-V6,ZXA-V6 IV,Base Metals,Rich,9.36
+Tenal,09-4XW,ZXA-V6,ZXA-V6 IV,Liquid Ozone,Perfect,51.69
+Tenal,09-4XW,ZXA-V6,ZXA-V6 V,Reactive Gas,Perfect,41.42
+Tenal,09-4XW,ZXA-V6,ZXA-V6 V,Base Metals,Rich,8.56
+Tenal,09-4XW,ZXA-V6,ZXA-V6 V,Industrial Fibers,Perfect,9.91
+Tenal,09-4XW,ZXA-V6,ZXA-V6 V,Heavy Water,Medium,222.18
+Tenal,09-4XW,ZXA-V6,ZXA-V6 V,Liquid Ozone,Perfect,52.33
+Tenal,09-4XW,ZXA-V6,ZXA-V6 VI,Noble Metals,Medium,26.80
+Tenal,09-4XW,ZXA-V6,ZXA-V6 VI,Polyaramids,Perfect,26.88
+Tenal,09-4XW,ZXA-V6,ZXA-V6 VI,Silicate Glass,Medium,11.56
+Tenal,09-4XW,ZXA-V6,ZXA-V6 VI,Heavy Water,Medium,263.35
+Tenal,09-4XW,ZXA-V6,ZXA-V6 VI,Liquid Ozone,Medium,32.98
+Tenal,09-4XW,ZXA-V6,ZXA-V6 VII,Gleaming Alloy,Poor,20.63
+Tenal,09-4XW,ZXA-V6,ZXA-V6 VII,Reactive Metals,Poor,5.26
+Tenal,09-4XW,ZXA-V6,ZXA-V6 VII,Toxic Metals,Medium,5.91
+Tenal,09-4XW,ZXA-V6,ZXA-V6 VII,Supertensile Plastics,Poor,13.25
+Tenal,09-4XW,ZXA-V6,ZXA-V6 VIII,Gleaming Alloy,Poor,20.84
+Tenal,09-4XW,ZXA-V6,ZXA-V6 VIII,Reactive Metals,Medium,7.00
+Tenal,09-4XW,ZXA-V6,ZXA-V6 VIII,Supertensile Plastics,Rich,20.64
+Tenal,09-4XW,ZXA-V6,ZXA-V6 VIII,Nanites,Poor,5.48
+Tenal,09-4XW,ZXA-V6,ZXA-V6 IX,Glossy Compound,Medium,22.24
+Tenal,09-4XW,ZXA-V6,ZXA-V6 IX,Reactive Gas,Rich,31.44
+Tenal,09-4XW,ZXA-V6,ZXA-V6 IX,Base Metals,Medium,6.01
+Tenal,09-4XW,ZXA-V6,ZXA-V6 IX,Reactive Metals,Rich,8.07
+Tenal,09-4XW,ZXA-V6,ZXA-V6 IX,Polyaramids,Rich,19.96
+Tenal,09-4XW,ZXA-V6,ZXA-V6 X,Fiber Composite,Rich,35.17
+Tenal,09-4XW,ZXA-V6,ZXA-V6 X,Reactive Gas,Rich,35.28
+Tenal,09-4XW,ZXA-V6,ZXA-V6 X,Noble Gas,Poor,19.57
+Tenal,09-4XW,ZXA-V6,ZXA-V6 X,Base Metals,Medium,6.37
+Tenal,09-4XW,ZXA-V6,ZXA-V6 X,Polyaramids,Medium,14.92
+Tenal,09-4XW,ZXA-V6,ZXA-V6 XI,Lucent Compound,Rich,32.77
+Tenal,09-4XW,ZXA-V6,ZXA-V6 XI,Reactive Metals,Medium,7.38
+Tenal,09-4XW,ZXA-V6,ZXA-V6 XI,Toxic Metals,Rich,7.75
+Tenal,09-4XW,ZXA-V6,ZXA-V6 XI,Oxygen Isotopes,Rich,5.21
+Tenal,09-4XW,I1-BE8,I1-BE8 I,Gleaming Alloy,Poor,18.50
+Tenal,09-4XW,I1-BE8,I1-BE8 I,Construction Blocks,Rich,29.83
+Tenal,09-4XW,I1-BE8,I1-BE8 I,Oxygen Isotopes,Rich,4.78
+Tenal,09-4XW,I1-BE8,I1-BE8 II,Precious Alloy,Poor,17.84
+Tenal,09-4XW,I1-BE8,I1-BE8 II,Toxic Metals,Poor,3.72
+Tenal,09-4XW,I1-BE8,I1-BE8 II,Supertensile Plastics,Medium,14.99
+Tenal,09-4XW,I1-BE8,I1-BE8 II,Plasmoids,Medium,1.42
+Tenal,09-4XW,I1-BE8,I1-BE8 III,Lustering Alloy,Medium,22.15
+Tenal,09-4XW,I1-BE8,I1-BE8 III,Base Metals,Poor,4.10
+Tenal,09-4XW,I1-BE8,I1-BE8 III,Supertensile Plastics,Poor,11.44
+Tenal,09-4XW,I1-BE8,I1-BE8 III,Silicate Glass,Poor,10.11
+Tenal,09-4XW,I1-BE8,I1-BE8 IV,Gleaming Alloy,Poor,18.92
+Tenal,09-4XW,I1-BE8,I1-BE8 IV,Motley Compound,Rich,29.70
+Tenal,09-4XW,I1-BE8,I1-BE8 IV,Oxygen Isotopes,Rich,5.15
+Tenal,09-4XW,I1-BE8,I1-BE8 V,Dark Compound,Poor,13.68
+Tenal,09-4XW,I1-BE8,I1-BE8 V,Toxic Metals,Poor,3.77
+Tenal,09-4XW,I1-BE8,I1-BE8 V,Supertensile Plastics,Medium,17.69
+Tenal,09-4XW,I1-BE8,I1-BE8 V,Construction Blocks,Medium,26.73
+Tenal,09-4XW,I1-BE8,I1-BE8 VI,Crystal Compound,Medium,23.34
+Tenal,09-4XW,I1-BE8,I1-BE8 VI,Noble Metals,Rich,34.14
+Tenal,09-4XW,I1-BE8,I1-BE8 VI,Polyaramids,Medium,14.58
+Tenal,09-4XW,I1-BE8,I1-BE8 VI,Liquid Ozone,Rich,41.85
+Tenal,09-4XW,I1-BE8,I1-BE8 VI,Ionic Solutions,Perfect,14.27
+Tenal,09-4XW,I1-BE8,I1-BE8 VII,Dark Compound,Poor,14.15
+Tenal,09-4XW,I1-BE8,I1-BE8 VII,Supertensile Plastics,Poor,11.47
+Tenal,09-4XW,I1-BE8,I1-BE8 VII,Silicate Glass,Poor,7.83
+Tenal,09-4XW,I1-BE8,I1-BE8 VII,Plasmoids,Poor,0.90
+Tenal,09-4XW,I1-BE8,I1-BE8 VIII,Sheen Compound,Medium,26.75
+Tenal,09-4XW,I1-BE8,I1-BE8 VIII,Fiber Composite,Rich,34.41
+Tenal,09-4XW,I1-BE8,I1-BE8 VIII,Reactive Gas,Rich,33.55
+Tenal,09-4XW,I1-BE8,I1-BE8 VIII,Base Metals,Medium,5.91
+Tenal,09-4XW,I1-BE8,I1-BE8 VIII,Ionic Solutions,Medium,10.10
+Tenal,09-4XW,I1-BE8,I1-BE8 IX,Lustering Alloy,Medium,21.14
+Tenal,09-4XW,I1-BE8,I1-BE8 IX,Sheen Compound,Medium,25.43
+Tenal,09-4XW,I1-BE8,I1-BE8 IX,Glossy Compound,Medium,21.21
+Tenal,09-4XW,I1-BE8,I1-BE8 IX,Reactive Gas,Rich,31.61
+Tenal,09-4XW,I1-BE8,I1-BE8 IX,Reactive Metals,Medium,6.81
+Tenal,09-4XW,I1-BE8,I1-BE8 X,Reactive Gas,Medium,25.23
+Tenal,09-4XW,I1-BE8,I1-BE8 X,Noble Gas,Perfect,36.32
+Tenal,09-4XW,I1-BE8,I1-BE8 X,Reactive Metals,Medium,6.03
+Tenal,09-4XW,I1-BE8,I1-BE8 X,Polyaramids,Perfect,24.10
+Tenal,09-4XW,I1-BE8,I1-BE8 X,Ionic Solutions,Rich,11.48
+Tenal,09-4XW,I1-BE8,I1-BE8 XI,Sheen Compound,Medium,23.63
+Tenal,09-4XW,I1-BE8,I1-BE8 XI,Reactive Gas,Poor,18.37
+Tenal,09-4XW,I1-BE8,I1-BE8 XI,Base Metals,Perfect,9.48
+Tenal,09-4XW,I1-BE8,I1-BE8 XI,Coolant,Medium,15.30
+Tenal,09-4XW,I1-BE8,I1-BE8 XI,Ionic Solutions,Medium,9.30
+Tenal,09-4XW,I1-BE8,I1-BE8 XII,Base Metals,Poor,4.23
+Tenal,09-4XW,I1-BE8,I1-BE8 XII,Toxic Metals,Poor,4.87
+Tenal,09-4XW,I1-BE8,I1-BE8 XII,Industrial Fibers,Poor,5.12
+Tenal,09-4XW,I1-BE8,I1-BE8 XII,Supertensile Plastics,Medium,16.50
+Tenal,09-4XW,W8O-19,W8O-19 I,Base Metals,Poor,4.58
+Tenal,09-4XW,W8O-19,W8O-19 I,Supertensile Plastics,Poor,12.31
+Tenal,09-4XW,W8O-19,W8O-19 I,Construction Blocks,Poor,17.11
+Tenal,09-4XW,W8O-19,W8O-19 I,Silicate Glass,Poor,9.55
+Tenal,09-4XW,W8O-19,W8O-19 II,Dark Compound,Medium,24.63
+Tenal,09-4XW,W8O-19,W8O-19 II,Industrial Fibers,Poor,3.92
+Tenal,09-4XW,W8O-19,W8O-19 II,Supertensile Plastics,Poor,10.67
+Tenal,09-4XW,W8O-19,W8O-19 II,Silicate Glass,Medium,10.11
+Tenal,09-4XW,W8O-19,W8O-19 III,Condensed Alloy,Medium,26.04
+Tenal,09-4XW,W8O-19,W8O-19 III,Fiber Composite,Perfect,35.55
+Tenal,09-4XW,W8O-19,W8O-19 III,Base Metals,Rich,7.07
+Tenal,09-4XW,W8O-19,W8O-19 III,Industrial Fibers,Medium,6.10
+Tenal,09-4XW,W8O-19,W8O-19 III,Liquid Ozone,Medium,26.12
+Tenal,09-4XW,W8O-19,W8O-19 IV,Gleaming Alloy,Poor,18.25
+Tenal,09-4XW,W8O-19,W8O-19 IV,Construction Blocks,Medium,20.10
+Tenal,09-4XW,W8O-19,W8O-19 IV,Plasmoids,Medium,1.20
+Tenal,09-4XW,W8O-19,W8O-19 V,Fiber Composite,Medium,22.68
+Tenal,09-4XW,W8O-19,W8O-19 V,Glossy Compound,Rich,31.82
+Tenal,09-4XW,W8O-19,W8O-19 V,Reactive Gas,Medium,19.82
+Tenal,09-4XW,W8O-19,W8O-19 V,Noble Gas,Perfect,34.08
+Tenal,09-4XW,W8O-19,W8O-19 V,Base Metals,Perfect,8.85
+Tenal,09-4XW,W8O-19,W8O-19 VI,Sheen Compound,Rich,30.85
+Tenal,09-4XW,W8O-19,W8O-19 VI,Glossy Compound,Medium,24.53
+Tenal,09-4XW,W8O-19,W8O-19 VI,Reactive Gas,Medium,25.43
+Tenal,09-4XW,W8O-19,W8O-19 VI,Noble Gas,Medium,24.55
+Tenal,09-4XW,W8O-19,W8O-19 VI,Base Metals,Medium,6.83
+Tenal,9P57-V,U1TX-A,U1TX-A I,Precious Alloy,Medium,21.00
+Tenal,9P57-V,U1TX-A,U1TX-A I,Base Metals,Medium,6.33
+Tenal,9P57-V,U1TX-A,U1TX-A I,Toxic Metals,Poor,4.46
+Tenal,9P57-V,U1TX-A,U1TX-A I,Supertensile Plastics,Poor,10.04
+Tenal,9P57-V,U1TX-A,U1TX-A II,Condensed Alloy,Medium,22.81
+Tenal,9P57-V,U1TX-A,U1TX-A II,Fiber Composite,Rich,31.04
+Tenal,9P57-V,U1TX-A,U1TX-A II,Industrial Fibers,Perfect,9.91
+Tenal,9P57-V,U1TX-A,U1TX-A II,Heavy Water,Rich,269.43
+Tenal,9P57-V,U1TX-A,U1TX-A II,Liquid Ozone,Medium,31.47
+Tenal,9P57-V,U1TX-A,U1TX-A III,Lustering Alloy,Rich,27.82
+Tenal,9P57-V,U1TX-A,U1TX-A III,Sheen Compound,Poor,18.88
+Tenal,9P57-V,U1TX-A,U1TX-A III,Reactive Gas,Rich,26.80
+Tenal,9P57-V,U1TX-A,U1TX-A III,Base Metals,Rich,8.65
+Tenal,9P57-V,U1TX-A,U1TX-A III,Polyaramids,Rich,19.39
+Tenal,9P57-V,U1TX-A,U1TX-A IV,Sheen Compound,Medium,20.48
+Tenal,9P57-V,U1TX-A,U1TX-A IV,Fiber Composite,Perfect,34.50
+Tenal,9P57-V,U1TX-A,U1TX-A IV,Glossy Compound,Perfect,34.65
+Tenal,9P57-V,U1TX-A,U1TX-A IV,Reactive Gas,Medium,22.26
+Tenal,9P57-V,U1TX-A,U1TX-A IV,Base Metals,Poor,5.17
+Tenal,9P57-V,U1TX-A,U1TX-A V,Lustering Alloy,Perfect,33.85
+Tenal,9P57-V,U1TX-A,U1TX-A V,Fiber Composite,Medium,22.64
+Tenal,9P57-V,U1TX-A,U1TX-A V,Reactive Gas,Rich,26.63
+Tenal,9P57-V,U1TX-A,U1TX-A V,Noble Gas,Poor,17.60
+Tenal,9P57-V,U1TX-A,U1TX-A V,Base Metals,Rich,7.33
+Tenal,9P57-V,1BWK-S,1BWK-S I,Dark Compound,Medium,22.95
+Tenal,9P57-V,1BWK-S,1BWK-S I,Toxic Metals,Poor,3.98
+Tenal,9P57-V,1BWK-S,1BWK-S I,Supertensile Plastics,Poor,9.24
+Tenal,9P57-V,1BWK-S,1BWK-S I,Silicate Glass,Poor,7.01
+Tenal,9P57-V,1BWK-S,1BWK-S II,Dark Compound,Medium,26.36
+Tenal,9P57-V,1BWK-S,1BWK-S II,Supertensile Plastics,Poor,9.42
+Tenal,9P57-V,1BWK-S,1BWK-S II,Construction Blocks,Poor,18.19
+Tenal,9P57-V,1BWK-S,1BWK-S II,Plasmoids,Medium,1.42
+Tenal,9P57-V,1BWK-S,1BWK-S III,Reactive Gas,Medium,25.65
+Tenal,9P57-V,1BWK-S,1BWK-S III,Reactive Metals,Medium,6.49
+Tenal,9P57-V,1BWK-S,1BWK-S III,Toxic Metals,Perfect,9.39
+Tenal,9P57-V,1BWK-S,1BWK-S III,Construction Blocks,Medium,23.78
+Tenal,9P57-V,1BWK-S,1BWK-S IV,Lustering Alloy,Perfect,35.49
+Tenal,9P57-V,1BWK-S,1BWK-S IV,Reactive Gas,Rich,34.30
+Tenal,9P57-V,1BWK-S,1BWK-S IV,Noble Gas,Medium,21.80
+Tenal,9P57-V,1BWK-S,1BWK-S IV,Base Metals,Medium,6.17
+Tenal,9P57-V,1BWK-S,1BWK-S IV,Reactive Metals,Rich,8.35
+Tenal,9P57-V,1BWK-S,1BWK-S V,Sheen Compound,Rich,34.65
+Tenal,9P57-V,1BWK-S,1BWK-S V,Reactive Gas,Medium,25.96
+Tenal,9P57-V,1BWK-S,1BWK-S V,Base Metals,Perfect,9.55
+Tenal,9P57-V,1BWK-S,1BWK-S V,Coolant,Poor,12.77
+Tenal,9P57-V,1BWK-S,1BWK-S V,Ionic Solutions,Rich,12.31
+Tenal,9P57-V,1BWK-S,1BWK-S VI,Base Metals,Medium,6.83
+Tenal,9P57-V,1BWK-S,1BWK-S VI,Supertensile Plastics,Medium,15.17
+Tenal,9P57-V,1BWK-S,1BWK-S VI,Construction Blocks,Poor,15.16
+Tenal,9P57-V,1BWK-S,1BWK-S VI,Silicate Glass,Poor,8.56
+Tenal,9P57-V,1BWK-S,1BWK-S VII,Base Metals,Medium,6.68
+Tenal,9P57-V,1BWK-S,1BWK-S VII,Supertensile Plastics,Poor,13.55
+Tenal,9P57-V,1BWK-S,1BWK-S VII,Construction Blocks,Poor,18.24
+Tenal,9P57-V,1BWK-S,1BWK-S VII,Silicate Glass,Medium,12.13
+Tenal,9P57-V,1BWK-S,1BWK-S VIII,Sheen Compound,Rich,31.70
+Tenal,9P57-V,1BWK-S,1BWK-S VIII,Reactive Gas,Medium,25.23
+Tenal,9P57-V,1BWK-S,1BWK-S VIII,Base Metals,Rich,8.24
+Tenal,9P57-V,1BWK-S,1BWK-S VIII,Polyaramids,Medium,16.41
+Tenal,9P57-V,1BWK-S,1BWK-S VIII,Coolant,Perfect,24.01
+Tenal,9P57-V,KMV-CQ,KMV-CQ I,Gleaming Alloy,Medium,21.80
+Tenal,9P57-V,KMV-CQ,KMV-CQ I,Smartfab Units,Medium,14.41
+Tenal,9P57-V,KMV-CQ,KMV-CQ I,Oxygen Isotopes,Rich,3.99
+Tenal,9P57-V,KMV-CQ,KMV-CQ II,Base Metals,Poor,4.95
+Tenal,9P57-V,KMV-CQ,KMV-CQ II,Supertensile Plastics,Medium,15.96
+Tenal,9P57-V,KMV-CQ,KMV-CQ II,Oxygen Isotopes,Medium,3.10
+Tenal,9P57-V,KMV-CQ,KMV-CQ II,Plasmoids,Medium,1.46
+Tenal,9P57-V,KMV-CQ,KMV-CQ III,Gleaming Alloy,Medium,19.86
+Tenal,9P57-V,KMV-CQ,KMV-CQ III,Noble Metals,Medium,23.92
+Tenal,9P57-V,KMV-CQ,KMV-CQ III,Polyaramids,Medium,15.16
+Tenal,9P57-V,KMV-CQ,KMV-CQ IV,Opulent Compound,Medium,23.64
+Tenal,9P57-V,KMV-CQ,KMV-CQ IV,Noble Metals,Rich,27.10
+Tenal,9P57-V,KMV-CQ,KMV-CQ IV,Polyaramids,Rich,19.79
+Tenal,9P57-V,KMV-CQ,KMV-CQ IV,Coolant,Perfect,22.60
+Tenal,9P57-V,KMV-CQ,KMV-CQ IV,Liquid Ozone,Perfect,43.35
+Tenal,9P57-V,KMV-CQ,KMV-CQ V,Condensed Alloy,Perfect,37.16
+Tenal,9P57-V,KMV-CQ,KMV-CQ V,Opulent Compound,Poor,18.62
+Tenal,9P57-V,KMV-CQ,KMV-CQ V,Reactive Gas,Perfect,32.32
+Tenal,9P57-V,KMV-CQ,KMV-CQ V,Noble Metals,Medium,21.92
+Tenal,9P57-V,KMV-CQ,KMV-CQ V,Liquid Ozone,Rich,35.20
+Tenal,9P57-V,KMV-CQ,KMV-CQ VI,Condensed Alloy,Rich,27.18
+Tenal,9P57-V,KMV-CQ,KMV-CQ VI,Condensates,Rich,16.93
+Tenal,9P57-V,KMV-CQ,KMV-CQ VI,Smartfab Units,Perfect,23.20
+Tenal,9P57-V,KMV-CQ,KMV-CQ VI,Heavy Water,Perfect,354.00
+Tenal,9P57-V,KMV-CQ,KMV-CQ VI,Liquid Ozone,Perfect,40.55
+Tenal,9P57-V,KMV-CQ,KMV-CQ VII,Base Metals,Poor,4.81
+Tenal,9P57-V,KMV-CQ,KMV-CQ VII,Supertensile Plastics,Medium,13.04
+Tenal,9P57-V,KMV-CQ,KMV-CQ VII,Oxygen Isotopes,Medium,2.83
+Tenal,9P57-V,KMV-CQ,KMV-CQ VII,Plasmoids,Medium,1.28
+Tenal,9P57-V,KMV-CQ,KMV-CQ VIII,Precious Alloy,Medium,24.12
+Tenal,9P57-V,KMV-CQ,KMV-CQ VIII,Base Metals,Poor,4.01
+Tenal,9P57-V,KMV-CQ,KMV-CQ VIII,Supertensile Plastics,Medium,12.88
+Tenal,9P57-V,KMV-CQ,KMV-CQ VIII,Silicate Glass,Medium,10.09
+Tenal,9P57-V,KMV-CQ,KMV-CQ IX,Condensed Alloy,Rich,29.60
+Tenal,9P57-V,KMV-CQ,KMV-CQ IX,Crystal Compound,Rich,25.88
+Tenal,9P57-V,KMV-CQ,KMV-CQ IX,Polyaramids,Rich,18.88
+Tenal,9P57-V,KMV-CQ,KMV-CQ IX,Coolant,Rich,17.21
+Tenal,9P57-V,KMV-CQ,KMV-CQ IX,Liquid Ozone,Medium,30.40
+Tenal,9P57-V,KMV-CQ,KMV-CQ X,Opulent Compound,Rich,31.22
+Tenal,9P57-V,KMV-CQ,KMV-CQ X,Noble Metals,Rich,26.66
+Tenal,9P57-V,KMV-CQ,KMV-CQ X,Coolant,Medium,13.95
+Tenal,9P57-V,KMV-CQ,KMV-CQ X,Silicate Glass,Medium,12.51
+Tenal,9P57-V,KMV-CQ,KMV-CQ X,Liquid Ozone,Rich,37.75
+Tenal,9P57-V,KMV-CQ,KMV-CQ XI,Gleaming Alloy,Medium,25.28
+Tenal,9P57-V,KMV-CQ,KMV-CQ XI,Polyaramids,Rich,17.47
+Tenal,9P57-V,KMV-CQ,KMV-CQ XI,Smartfab Units,Rich,19.51
+Tenal,9P57-V,KMV-CQ,KMV-CQ XII,Lustering Alloy,Rich,27.36
+Tenal,9P57-V,KMV-CQ,KMV-CQ XII,Sheen Compound,Medium,19.82
+Tenal,9P57-V,KMV-CQ,KMV-CQ XII,Glossy Compound,Medium,21.98
+Tenal,9P57-V,KMV-CQ,KMV-CQ XII,Reactive Gas,Perfect,32.80
+Tenal,9P57-V,KMV-CQ,KMV-CQ XII,Coolant,Medium,15.41
+Tenal,9P57-V,RKE-CP,RKE-CP I,Gleaming Alloy,Poor,20.42
+Tenal,9P57-V,RKE-CP,RKE-CP I,Motley Compound,Perfect,37.05
+Tenal,9P57-V,RKE-CP,RKE-CP I,Glossy Compound,Rich,34.61
+Tenal,9P57-V,RKE-CP,RKE-CP II,Lustering Alloy,Poor,19.95
+Tenal,9P57-V,RKE-CP,RKE-CP II,Supertensile Plastics,Medium,16.16
+Tenal,9P57-V,RKE-CP,RKE-CP II,Construction Blocks,Medium,21.80
+Tenal,9P57-V,RKE-CP,RKE-CP II,Plasmoids,Poor,0.91
+Tenal,9P57-V,RKE-CP,RKE-CP III,Gleaming Alloy,Rich,32.56
+Tenal,9P57-V,RKE-CP,RKE-CP III,Construction Blocks,Perfect,35.27
+Tenal,9P57-V,RKE-CP,RKE-CP III,Oxygen Isotopes,Rich,4.88
+Tenal,9P57-V,RKE-CP,RKE-CP IV,Dark Compound,Poor,18.81
+Tenal,9P57-V,RKE-CP,RKE-CP IV,Industrial Fibers,Medium,5.75
+Tenal,9P57-V,RKE-CP,RKE-CP IV,Supertensile Plastics,Medium,14.14
+Tenal,9P57-V,RKE-CP,RKE-CP IV,Construction Blocks,Poor,18.66
+Tenal,9P57-V,RKE-CP,RKE-CP V,Gleaming Alloy,Medium,26.20
+Tenal,9P57-V,RKE-CP,RKE-CP V,Glossy Compound,Rich,33.95
+Tenal,9P57-V,RKE-CP,RKE-CP V,Noble Gas,Medium,25.32
+Tenal,9P57-V,RKE-CP,RKE-CP VI,Gleaming Alloy,Rich,28.69
+Tenal,9P57-V,RKE-CP,RKE-CP VI,Polyaramids,Rich,21.09
+Tenal,9P57-V,RKE-CP,RKE-CP VI,Smartfab Units,Rich,19.10
+Tenal,9P57-V,RKE-CP,RKE-CP VII,Fiber Composite,Perfect,36.32
+Tenal,9P57-V,RKE-CP,RKE-CP VII,Reactive Gas,Perfect,38.39
+Tenal,9P57-V,RKE-CP,RKE-CP VII,Industrial Fibers,Perfect,9.76
+Tenal,9P57-V,RKE-CP,RKE-CP VII,Condensates,Rich,19.67
+Tenal,9P57-V,RKE-CP,RKE-CP VII,Liquid Ozone,Medium,26.87
+Tenal,9P57-V,RKE-CP,RKE-CP VIII,Reactive Gas,Perfect,35.42
+Tenal,9P57-V,RKE-CP,RKE-CP VIII,Condensates,Perfect,25.61
+Tenal,9P57-V,RKE-CP,RKE-CP VIII,Smartfab Units,Perfect,27.84
+Tenal,9P57-V,RKE-CP,RKE-CP VIII,Heavy Water,Rich,319.66
+Tenal,9P57-V,RKE-CP,RKE-CP VIII,Liquid Ozone,Medium,28.96
+Tenal,9P57-V,NV-3KA,NV-3KA I,Dark Compound,Medium,20.73
+Tenal,9P57-V,NV-3KA,NV-3KA I,Supertensile Plastics,Medium,14.84
+Tenal,9P57-V,NV-3KA,NV-3KA I,Construction Blocks,Poor,16.42
+Tenal,9P57-V,NV-3KA,NV-3KA I,Plasmoids,Medium,1.30
+Tenal,9P57-V,NV-3KA,NV-3KA II,Precious Alloy,Poor,14.07
+Tenal,9P57-V,NV-3KA,NV-3KA II,Supertensile Plastics,Medium,16.95
+Tenal,9P57-V,NV-3KA,NV-3KA II,Construction Blocks,Poor,19.68
+Tenal,9P57-V,NV-3KA,NV-3KA II,Plasmoids,Medium,1.25
+Tenal,9P57-V,NV-3KA,NV-3KA III,Lucent Compound,Rich,30.72
+Tenal,9P57-V,NV-3KA,NV-3KA III,Reactive Metals,Poor,4.60
+Tenal,9P57-V,NV-3KA,NV-3KA III,Supertensile Plastics,Rich,18.55
+Tenal,9P57-V,NV-3KA,NV-3KA III,Oxygen Isotopes,Poor,2.89
+Tenal,9P57-V,NV-3KA,NV-3KA IV,Sheen Compound,Medium,24.21
+Tenal,9P57-V,NV-3KA,NV-3KA IV,Lucent Compound,Medium,23.14
+Tenal,9P57-V,NV-3KA,NV-3KA IV,Condensates,Rich,20.13
+Tenal,9P57-V,NV-3KA,NV-3KA IV,Ionic Solutions,Perfect,13.96
+Tenal,9P57-V,NV-3KA,NV-3KA IV,Plasmoids,Perfect,2.23
+Tenal,9P57-V,NV-3KA,NV-3KA V,Fiber Composite,Medium,20.58
+Tenal,9P57-V,NV-3KA,NV-3KA V,Glossy Compound,Medium,22.22
+Tenal,9P57-V,NV-3KA,NV-3KA V,Reactive Gas,Rich,30.98
+Tenal,9P57-V,NV-3KA,NV-3KA V,Noble Gas,Rich,28.69
+Tenal,9P57-V,NV-3KA,NV-3KA V,Ionic Solutions,Medium,9.73
+Tenal,9P57-V,NV-3KA,NV-3KA VI,Condensed Alloy,Poor,19.72
+Tenal,9P57-V,NV-3KA,NV-3KA VI,Toxic Metals,Rich,7.43
+Tenal,9P57-V,NV-3KA,NV-3KA VI,Coolant,Medium,14.28
+Tenal,9P57-V,NV-3KA,NV-3KA VI,Heavy Water,Perfect,356.37
+Tenal,9P57-V,NV-3KA,NV-3KA VI,Liquid Ozone,Perfect,45.39
+Tenal,9P57-V,NV-3KA,NV-3KA VII,Sheen Compound,Perfect,34.59
+Tenal,9P57-V,NV-3KA,NV-3KA VII,Fiber Composite,Poor,18.88
+Tenal,9P57-V,NV-3KA,NV-3KA VII,Reactive Gas,Rich,29.78
+Tenal,9P57-V,NV-3KA,NV-3KA VII,Coolant,Perfect,22.90
+Tenal,9P57-V,NV-3KA,NV-3KA VII,Ionic Solutions,Rich,12.48
+Tenal,9P57-V,NV-3KA,NV-3KA VIII,Noble Metals,Medium,23.08
+Tenal,9P57-V,NV-3KA,NV-3KA VIII,Condensates,Medium,14.84
+Tenal,9P57-V,NV-3KA,NV-3KA VIII,Smartfab Units,Rich,22.19
+Tenal,9P57-V,NV-3KA,NV-3KA VIII,Heavy Water,Perfect,382.62
+Tenal,9P57-V,NV-3KA,NV-3KA VIII,Liquid Ozone,Rich,33.65
+Tenal,9P57-V,NV-3KA,NV-3KA IX,Lustering Alloy,Medium,21.90
+Tenal,9P57-V,NV-3KA,NV-3KA IX,Reactive Gas,Medium,20.05
+Tenal,9P57-V,NV-3KA,NV-3KA IX,Noble Gas,Medium,24.93
+Tenal,9P57-V,NV-3KA,NV-3KA IX,Reactive Metals,Rich,7.13
+Tenal,9P57-V,NV-3KA,NV-3KA IX,Polyaramids,Poor,11.63
+Tenal,9P57-V,NV-3KA,NV-3KA X,Gleaming Alloy,Rich,32.99
+Tenal,9P57-V,NV-3KA,NV-3KA X,Crystal Compound,Medium,23.39
+Tenal,9P57-V,NV-3KA,NV-3KA X,Reactive Metals,Medium,6.92
+Tenal,9P57-V,NV-3KA,NV-3KA X,Toxic Metals,Rich,8.55
+Tenal,9P57-V,S-1LIO,S-1LIO I,Dark Compound,Poor,17.30
+Tenal,9P57-V,S-1LIO,S-1LIO I,Toxic Metals,Poor,4.59
+Tenal,9P57-V,S-1LIO,S-1LIO I,Supertensile Plastics,Medium,16.51
+Tenal,9P57-V,S-1LIO,S-1LIO I,Plasmoids,Medium,1.45
+Tenal,9P57-V,S-1LIO,S-1LIO II,Sheen Compound,Medium,26.06
+Tenal,9P57-V,S-1LIO,S-1LIO II,Fiber Composite,Rich,29.86
+Tenal,9P57-V,S-1LIO,S-1LIO II,Glossy Compound,Rich,31.10
+Tenal,9P57-V,S-1LIO,S-1LIO II,Reactive Gas,Poor,17.24
+Tenal,9P57-V,S-1LIO,S-1LIO II,Polyaramids,Medium,13.38
+Tenal,TJ10-O,S-KSWL,S-KSWL I,Toxic Metals,Medium,7.62
+Tenal,TJ10-O,S-KSWL,S-KSWL I,Industrial Fibers,Poor,4.39
+Tenal,TJ10-O,S-KSWL,S-KSWL I,Supertensile Plastics,Medium,18.22
+Tenal,TJ10-O,S-KSWL,S-KSWL I,Construction Blocks,Poor,22.15
+Tenal,TJ10-O,S-KSWL,S-KSWL II,Toxic Metals,Medium,6.19
+Tenal,TJ10-O,S-KSWL,S-KSWL II,Industrial Fibers,Poor,4.38
+Tenal,TJ10-O,S-KSWL,S-KSWL II,Supertensile Plastics,Poor,14.45
+Tenal,TJ10-O,S-KSWL,S-KSWL II,Construction Blocks,Poor,17.21
+Tenal,TJ10-O,S-KSWL,S-KSWL III,Crystal Compound,Medium,28.80
+Tenal,TJ10-O,S-KSWL,S-KSWL III,Toxic Metals,Medium,6.55
+Tenal,TJ10-O,S-KSWL,S-KSWL III,Heavy Water,Perfect,418.08
+Tenal,TJ10-O,S-KSWL,S-KSWL III,Liquid Ozone,Rich,42.09
+Tenal,TJ10-O,S-KSWL,S-KSWL III,Ionic Solutions,Perfect,16.66
+Tenal,TJ10-O,S-KSWL,S-KSWL IV,Noble Metals,Poor,22.54
+Tenal,TJ10-O,S-KSWL,S-KSWL IV,Industrial Fibers,Rich,8.49
+Tenal,TJ10-O,S-KSWL,S-KSWL IV,Smartfab Units,Perfect,26.11
+Tenal,TJ10-O,S-KSWL,S-KSWL IV,Heavy Water,Medium,248.88
+Tenal,TJ10-O,S-KSWL,S-KSWL IV,Liquid Ozone,Rich,42.06
+Tenal,TJ10-O,S-KSWL,S-KSWL V,Gleaming Alloy,Rich,32.04
+Tenal,TJ10-O,S-KSWL,S-KSWL V,Lucent Compound,Rich,31.39
+Tenal,TJ10-O,S-KSWL,S-KSWL V,Reactive Metals,Rich,8.46
+Tenal,TJ10-O,S-KSWL,S-KSWL V,Supertensile Plastics,Rich,22.62
+Tenal,TJ10-O,S-KSWL,S-KSWL VI,Condensed Alloy,Rich,37.37
+Tenal,TJ10-O,S-KSWL,S-KSWL VI,Fiber Composite,Rich,34.51
+Tenal,TJ10-O,S-KSWL,S-KSWL VI,Reactive Gas,Perfect,41.09
+Tenal,TJ10-O,S-KSWL,S-KSWL VI,Noble Metals,Rich,34.37
+Tenal,TJ10-O,S-KSWL,S-KSWL VI,Liquid Ozone,Medium,31.71
+Tenal,TJ10-O,S-KSWL,S-KSWL VII,Condensed Alloy,Rich,30.96
+Tenal,TJ10-O,S-KSWL,S-KSWL VII,Opulent Compound,Medium,28.32
+Tenal,TJ10-O,S-KSWL,S-KSWL VII,Noble Metals,Medium,23.21
+Tenal,TJ10-O,S-KSWL,S-KSWL VII,Heavy Water,Perfect,443.28
+Tenal,TJ10-O,S-KSWL,S-KSWL VII,Liquid Ozone,Medium,28.68
+Tenal,TJ10-O,S-KSWL,S-KSWL VIII,Glossy Compound,Medium,25.08
+Tenal,TJ10-O,S-KSWL,S-KSWL VIII,Reactive Gas,Rich,33.12
+Tenal,TJ10-O,S-KSWL,S-KSWL VIII,Base Metals,Rich,9.62
+Tenal,TJ10-O,S-KSWL,S-KSWL VIII,Reactive Metals,Poor,5.69
+Tenal,TJ10-O,S-KSWL,S-KSWL VIII,Ionic Solutions,Rich,12.69
+Tenal,TJ10-O,S-KSWL,S-KSWL IX,Lustering Alloy,Rich,33.14
+Tenal,TJ10-O,S-KSWL,S-KSWL IX,Glossy Compound,Poor,21.46
+Tenal,TJ10-O,S-KSWL,S-KSWL IX,Reactive Gas,Poor,21.26
+Tenal,TJ10-O,S-KSWL,S-KSWL IX,Base Metals,Rich,8.86
+Tenal,TJ10-O,S-KSWL,S-KSWL IX,Reactive Metals,Rich,8.86
+Tenal,TJ10-O,5-O8B1,5-O8B1 I,Toxic Metals,Poor,4.45
+Tenal,TJ10-O,5-O8B1,5-O8B1 I,Supertensile Plastics,Poor,13.52
+Tenal,TJ10-O,5-O8B1,5-O8B1 I,Construction Blocks,Poor,13.93
+Tenal,TJ10-O,5-O8B1,5-O8B1 I,Oxygen Isotopes,Poor,2.18
+Tenal,TJ10-O,5-O8B1,5-O8B1 II,Fiber Composite,Rich,30.34
+Tenal,TJ10-O,5-O8B1,5-O8B1 II,Glossy Compound,Poor,18.92
+Tenal,TJ10-O,5-O8B1,5-O8B1 II,Reactive Gas,Rich,30.12
+Tenal,TJ10-O,5-O8B1,5-O8B1 II,Noble Gas,Perfect,35.95
+Tenal,TJ10-O,5-O8B1,5-O8B1 II,Polyaramids,Poor,12.41
+Tenal,TJ10-O,5-O8B1,5-O8B1 III,Sheen Compound,Rich,31.37
+Tenal,TJ10-O,5-O8B1,5-O8B1 III,Reactive Gas,Medium,22.62
+Tenal,TJ10-O,5-O8B1,5-O8B1 III,Base Metals,Rich,8.77
+Tenal,TJ10-O,5-O8B1,5-O8B1 III,Polyaramids,Medium,18.19
+Tenal,TJ10-O,5-O8B1,5-O8B1 III,Coolant,Rich,19.71
+Tenal,TJ10-O,5-O8B1,5-O8B1 IV,Lustering Alloy,Poor,18.55
+Tenal,TJ10-O,5-O8B1,5-O8B1 IV,Dark Compound,Poor,20.39
+Tenal,TJ10-O,5-O8B1,5-O8B1 IV,Supertensile Plastics,Medium,15.17
+Tenal,TJ10-O,5-O8B1,5-O8B1 IV,Oxygen Isotopes,Medium,3.24
+Tenal,TJ10-O,5-O8B1,5-O8B1 V,Lucent Compound,Rich,33.73
+Tenal,TJ10-O,5-O8B1,5-O8B1 V,Reactive Metals,Medium,6.37
+Tenal,TJ10-O,5-O8B1,5-O8B1 V,Supertensile Plastics,Rich,21.77
+Tenal,TJ10-O,5-O8B1,5-O8B1 V,Oxygen Isotopes,Medium,3.37
+Tenal,TJ10-O,R-YWID,R-YWID I,Dark Compound,Medium,28.19
+Tenal,TJ10-O,R-YWID,R-YWID I,Base Metals,Medium,8.32
+Tenal,TJ10-O,R-YWID,R-YWID I,Silicate Glass,Medium,14.59
+Tenal,TJ10-O,R-YWID,R-YWID I,Oxygen Isotopes,Medium,4.67
+Tenal,TJ10-O,R-YWID,R-YWID I,Plasmoids,Medium,1.74
+Tenal,TJ10-O,R-YWID,R-YWID II,Lucent Compound,Rich,35.96
+Tenal,TJ10-O,R-YWID,R-YWID II,Crystal Compound,Rich,36.21
+Tenal,TJ10-O,R-YWID,R-YWID II,Construction Blocks,Medium,28.75
+Tenal,TJ10-O,R-YWID,R-YWID II,Nanites,Poor,6.44
+Tenal,TJ10-O,R-YWID,R-YWID II,Oxygen Isotopes,Rich,6.35
+Tenal,TJ10-O,R-YWID,R-YWID III,Lustering Alloy,Poor,24.22
+Tenal,TJ10-O,R-YWID,R-YWID III,Dark Compound,Poor,17.79
+Tenal,TJ10-O,R-YWID,R-YWID III,Base Metals,Medium,8.17
+Tenal,TJ10-O,R-YWID,R-YWID III,Industrial Fibers,Medium,7.43
+Tenal,TJ10-O,R-YWID,R-YWID III,Silicate Glass,Poor,10.88
+Tenal,TJ10-O,R-YWID,R-YWID IV,Condensed Alloy,Perfect,45.20
+Tenal,TJ10-O,R-YWID,R-YWID IV,Base Metals,Medium,7.85
+Tenal,TJ10-O,R-YWID,R-YWID IV,Noble Metals,Poor,24.76
+Tenal,TJ10-O,R-YWID,R-YWID IV,Condensates,Medium,20.77
+Tenal,TJ10-O,R-YWID,R-YWID IV,Smartfab Units,Rich,25.90
+Tenal,TJ10-O,R-YWID,R-YWID IV,Heavy Water,Perfect,480.33
+Tenal,TJ10-O,R-YWID,R-YWID V,Gleaming Alloy,Perfect,44.20
+Tenal,TJ10-O,R-YWID,R-YWID V,Lucent Compound,Perfect,44.06
+Tenal,TJ10-O,R-YWID,R-YWID V,Crystal Compound,Perfect,44.23
+Tenal,TJ10-O,R-YWID,R-YWID V,Construction Blocks,Medium,30.59
+Tenal,TJ10-O,R-YWID,R-YWID V,Oxygen Isotopes,Rich,6.32
+Tenal,TJ10-O,R-YWID,R-YWID VI,Sheen Compound,Poor,24.60
+Tenal,TJ10-O,R-YWID,R-YWID VI,Glossy Compound,Medium,32.59
+Tenal,TJ10-O,R-YWID,R-YWID VI,Reactive Gas,Poor,25.08
+Tenal,TJ10-O,R-YWID,R-YWID VI,Noble Gas,Rich,35.32
+Tenal,TJ10-O,R-YWID,R-YWID VI,Polyaramids,Rich,26.41
+Tenal,TJ10-O,R-YWID,R-YWID VI,Coolant,Perfect,29.81
+Tenal,TJ10-O,R-YWID,R-YWID VII,Condensed Alloy,Medium,28.08
+Tenal,TJ10-O,R-YWID,R-YWID VII,Base Metals,Perfect,11.57
+Tenal,TJ10-O,R-YWID,R-YWID VII,Condensates,Medium,21.62
+Tenal,TJ10-O,R-YWID,R-YWID VII,Smartfab Units,Poor,16.90
+Tenal,TJ10-O,R-YWID,R-YWID VII,Heavy Water,Perfect,432.54
+Tenal,TJ10-O,R-YWID,R-YWID VII,Liquid Ozone,Perfect,53.80
+Tenal,TJ10-O,R-YWID,R-YWID VIII,Lustering Alloy,Poor,24.89
+Tenal,TJ10-O,R-YWID,R-YWID VIII,Glossy Compound,Rich,37.75
+Tenal,TJ10-O,R-YWID,R-YWID VIII,Reactive Gas,Medium,28.03
+Tenal,TJ10-O,R-YWID,R-YWID VIII,Reactive Metals,Rich,11.12
+Tenal,TJ10-O,R-YWID,R-YWID VIII,Polyaramids,Rich,25.51
+Tenal,TJ10-O,R-YWID,R-YWID VIII,Ionic Solutions,Rich,15.84
+Tenal,TJ10-O,R-YWID,R-YWID IX,Lustering Alloy,Rich,38.88
+Tenal,TJ10-O,R-YWID,R-YWID IX,Precious Alloy,Poor,20.66
+Tenal,TJ10-O,R-YWID,R-YWID IX,Heavy Metals,Medium,27.03
+Tenal,TJ10-O,R-YWID,R-YWID IX,Industrial Fibers,Medium,8.92
+Tenal,TJ10-O,R-YWID,R-YWID IX,Liquid Ozone,Medium,41.48
+Tenal,TJ10-O,30-D5G,30-D5G I,Precious Alloy,Poor,27.17
+Tenal,TJ10-O,30-D5G,30-D5G I,Dark Compound,Poor,21.95
+Tenal,TJ10-O,30-D5G,30-D5G I,Base Metals,Poor,6.12
+Tenal,TJ10-O,30-D5G,30-D5G I,Industrial Fibers,Medium,9.13
+Tenal,TJ10-O,30-D5G,30-D5G I,Oxygen Isotopes,Poor,2.74
+Tenal,TJ10-O,30-D5G,30-D5G II,Dark Compound,Poor,20.33
+Tenal,TJ10-O,30-D5G,30-D5G II,Construction Blocks,Poor,25.84
+Tenal,TJ10-O,30-D5G,30-D5G II,Silicate Glass,Medium,16.75
+Tenal,TJ10-O,30-D5G,30-D5G II,Oxygen Isotopes,Medium,5.12
+Tenal,TJ10-O,30-D5G,30-D5G II,Plasmoids,Poor,1.58
+Tenal,TJ10-O,30-D5G,30-D5G III,Condensed Alloy,Medium,29.09
+Tenal,TJ10-O,30-D5G,30-D5G III,Opulent Compound,Perfect,54.69
+Tenal,TJ10-O,30-D5G,30-D5G III,Reactive Gas,Medium,36.25
+Tenal,TJ10-O,30-D5G,30-D5G III,Noble Metals,Medium,28.25
+Tenal,TJ10-O,30-D5G,30-D5G III,Industrial Fibers,Rich,11.03
+Tenal,TJ10-O,30-D5G,30-D5G III,Smartfab Units,Perfect,30.86
+Tenal,TJ10-O,30-D5G,30-D5G IV,Gleaming Alloy,Medium,31.09
+Tenal,TJ10-O,30-D5G,30-D5G IV,Lucent Compound,Medium,30.22
+Tenal,TJ10-O,30-D5G,30-D5G IV,Crystal Compound,Medium,29.84
+Tenal,TJ10-O,30-D5G,30-D5G IV,Supertensile Plastics,Poor,15.76
+Tenal,TJ10-O,30-D5G,30-D5G IV,Nanites,Rich,9.91
+Tenal,TJ10-O,30-D5G,30-D5G V,Crystal Compound,Medium,30.94
+Tenal,TJ10-O,30-D5G,30-D5G V,Reactive Gas,Medium,29.55
+Tenal,TJ10-O,30-D5G,30-D5G V,Construction Blocks,Medium,27.67
+Tenal,TJ10-O,30-D5G,30-D5G V,Suspended Plasma,Rich,156.70
+Tenal,TJ10-O,30-D5G,30-D5G V,Oxygen Isotopes,Medium,4.66
+Tenal,TJ10-O,30-D5G,30-D5G VI,Lucent Compound,Poor,25.35
+Tenal,TJ10-O,30-D5G,30-D5G VI,Crystal Compound,Poor,24.04
+Tenal,TJ10-O,30-D5G,30-D5G VI,Reactive Gas,Rich,38.25
+Tenal,TJ10-O,30-D5G,30-D5G VI,Toxic Metals,Medium,8.90
+Tenal,TJ10-O,30-D5G,30-D5G VI,Oxygen Isotopes,Medium,5.02
+Tenal,TJ10-O,30-D5G,30-D5G VII,Sheen Compound,Medium,28.39
+Tenal,TJ10-O,30-D5G,30-D5G VII,Reactive Gas,Poor,26.39
+Tenal,TJ10-O,30-D5G,30-D5G VII,Noble Gas,Rich,38.08
+Tenal,TJ10-O,30-D5G,30-D5G VII,Polyaramids,Medium,19.02
+Tenal,TJ10-O,30-D5G,30-D5G VII,Coolant,Poor,17.98
+Tenal,TJ10-O,30-D5G,30-D5G VII,Ionic Solutions,Rich,17.06
+Tenal,TJ10-O,30-D5G,30-D5G VIII,Sheen Compound,Medium,28.68
+Tenal,TJ10-O,30-D5G,30-D5G VIII,Reactive Gas,Rich,41.62
+Tenal,TJ10-O,30-D5G,30-D5G VIII,Noble Gas,Rich,44.92
+Tenal,TJ10-O,30-D5G,30-D5G VIII,Reactive Metals,Rich,10.59
+Tenal,TJ10-O,30-D5G,30-D5G VIII,Coolant,Medium,18.58
+Tenal,TJ10-O,30-D5G,30-D5G VIII,Ionic Solutions,Medium,12.27
+Tenal,TJ10-O,HB-FSO,HB-FSO I,Glossy Compound,Rich,40.33
+Tenal,TJ10-O,HB-FSO,HB-FSO I,Noble Gas,Perfect,42.87
+Tenal,TJ10-O,HB-FSO,HB-FSO I,Heavy Metals,Rich,34.81
+Tenal,TJ10-O,HB-FSO,HB-FSO I,Polyaramids,Rich,26.36
+Tenal,TJ10-O,HB-FSO,HB-FSO II,Sheen Compound,Medium,31.15
+Tenal,TJ10-O,HB-FSO,HB-FSO II,Lucent Compound,Poor,24.26
+Tenal,TJ10-O,HB-FSO,HB-FSO II,Dark Compound,Rich,38.09
+Tenal,TJ10-O,HB-FSO,HB-FSO II,Condensates,Perfect,28.18
+Tenal,TJ10-O,HB-FSO,HB-FSO II,Nanites,Perfect,11.25
+Tenal,TJ10-O,HB-FSO,HB-FSO II,Ionic Solutions,Rich,15.97
+Tenal,TJ10-O,HB-FSO,HB-FSO III,Motley Compound,Medium,32.32
+Tenal,TJ10-O,HB-FSO,HB-FSO III,Glossy Compound,Rich,33.15
+Tenal,TJ10-O,HB-FSO,HB-FSO III,Noble Gas,Rich,40.79
+Tenal,TJ10-O,HB-FSO,HB-FSO III,Polyaramids,Medium,19.81
+Tenal,TJ10-O,HB-FSO,HB-FSO IV,Lustering Alloy,Rich,34.35
+Tenal,TJ10-O,HB-FSO,HB-FSO IV,Sheen Compound,Poor,24.41
+Tenal,TJ10-O,HB-FSO,HB-FSO IV,Glossy Compound,Medium,28.08
+Tenal,TJ10-O,HB-FSO,HB-FSO IV,Noble Gas,Medium,32.19
+Tenal,TJ10-O,HB-FSO,HB-FSO IV,Base Metals,Rich,9.72
+Tenal,TJ10-O,HB-FSO,HB-FSO IV,Ionic Solutions,Medium,10.71
+Tenal,TJ10-O,HB-FSO,HB-FSO V,Lustering Alloy,Medium,25.06
+Tenal,TJ10-O,HB-FSO,HB-FSO V,Fiber Composite,Rich,37.41
+Tenal,TJ10-O,HB-FSO,HB-FSO V,Noble Gas,Poor,21.48
+Tenal,TJ10-O,HB-FSO,HB-FSO V,Polyaramids,Medium,18.81
+Tenal,TJ10-O,HB-FSO,HB-FSO V,Coolant,Medium,20.64
+Tenal,TJ10-O,HB-FSO,HB-FSO V,Ionic Solutions,Medium,12.46
+Tenal,TJ10-O,HB-FSO,HB-FSO VI,Dark Compound,Poor,22.18
+Tenal,TJ10-O,HB-FSO,HB-FSO VI,Supertensile Plastics,Poor,13.12
+Tenal,TJ10-O,HB-FSO,HB-FSO VI,Silicate Glass,Poor,11.24
+Tenal,TJ10-O,HB-FSO,HB-FSO VI,Oxygen Isotopes,Medium,4.21
+Tenal,TJ10-O,HB-FSO,HB-FSO VI,Plasmoids,Poor,0.98
+Tenal,TJ10-O,HB-FSO,HB-FSO VII,Gleaming Alloy,Rich,39.99
+Tenal,TJ10-O,HB-FSO,HB-FSO VII,Lucent Compound,Rich,37.70
+Tenal,TJ10-O,HB-FSO,HB-FSO VII,Crystal Compound,Rich,39.78
+Tenal,TJ10-O,HB-FSO,HB-FSO VII,Construction Blocks,Rich,38.87
+Tenal,TJ10-O,HB-FSO,HB-FSO VII,Suspended Plasma,Medium,105.21
+Tenal,TJ10-O,HB-FSO,HB-FSO VIII,Precious Alloy,Medium,27.92
+Tenal,TJ10-O,HB-FSO,HB-FSO VIII,Dark Compound,Medium,29.56
+Tenal,TJ10-O,HB-FSO,HB-FSO VIII,Base Metals,Medium,6.71
+Tenal,TJ10-O,HB-FSO,HB-FSO VIII,Supertensile Plastics,Poor,12.74
+Tenal,TJ10-O,HB-FSO,HB-FSO VIII,Construction Blocks,Medium,24.70
+Tenal,TJ10-O,HB-FSO,HB-FSO IX,Lustering Alloy,Medium,28.94
+Tenal,TJ10-O,HB-FSO,HB-FSO IX,Precious Alloy,Poor,16.15
+Tenal,TJ10-O,HB-FSO,HB-FSO IX,Dark Compound,Poor,17.42
+Tenal,TJ10-O,HB-FSO,HB-FSO IX,Oxygen Isotopes,Medium,4.45
+Tenal,TJ10-O,HB-FSO,HB-FSO IX,Plasmoids,Poor,1.28
+Tenal,TJ10-O,J1-KJP,J1-KJP I,Precious Alloy,Poor,22.02
+Tenal,TJ10-O,J1-KJP,J1-KJP I,Dark Compound,Poor,17.39
+Tenal,TJ10-O,J1-KJP,J1-KJP I,Base Metals,Poor,5.51
+Tenal,TJ10-O,J1-KJP,J1-KJP I,Toxic Metals,Medium,6.86
+Tenal,TJ10-O,J1-KJP,J1-KJP I,Oxygen Isotopes,Medium,4.70
+Tenal,TJ10-O,J1-KJP,J1-KJP II,Motley Compound,Medium,30.34
+Tenal,TJ10-O,J1-KJP,J1-KJP II,Glossy Compound,Medium,28.91
+Tenal,TJ10-O,J1-KJP,J1-KJP II,Noble Metals,Perfect,43.52
+Tenal,TJ10-O,J1-KJP,J1-KJP II,Construction Blocks,Medium,31.36
+Tenal,TJ10-O,J1-KJP,J1-KJP III,Lustering Alloy,Medium,26.47
+Tenal,TJ10-O,J1-KJP,J1-KJP III,Dark Compound,Poor,17.11
+Tenal,TJ10-O,J1-KJP,J1-KJP III,Toxic Metals,Poor,5.91
+Tenal,TJ10-O,J1-KJP,J1-KJP III,Construction Blocks,Medium,29.61
+Tenal,TJ10-O,J1-KJP,J1-KJP III,Plasmoids,Medium,1.91
+Tenal,TJ10-O,J1-KJP,J1-KJP IV,Lustering Alloy,Poor,21.42
+Tenal,TJ10-O,J1-KJP,J1-KJP IV,Glossy Compound,Medium,26.18
+Tenal,TJ10-O,J1-KJP,J1-KJP IV,Reactive Gas,Medium,31.43
+Tenal,TJ10-O,J1-KJP,J1-KJP IV,Noble Gas,Rich,39.52
+Tenal,TJ10-O,J1-KJP,J1-KJP IV,Polyaramids,Medium,19.78
+Tenal,TJ10-O,J1-KJP,J1-KJP IV,Ionic Solutions,Perfect,16.65
+Tenal,TJ10-O,J1-KJP,J1-KJP V,Lustering Alloy,Medium,26.57
+Tenal,TJ10-O,J1-KJP,J1-KJP V,Sheen Compound,Medium,29.77
+Tenal,TJ10-O,J1-KJP,J1-KJP V,Fiber Composite,Poor,23.11
+Tenal,TJ10-O,J1-KJP,J1-KJP V,Noble Gas,Poor,22.78
+Tenal,TJ10-O,J1-KJP,J1-KJP V,Base Metals,Perfect,10.94
+Tenal,TJ10-O,J1-KJP,J1-KJP V,Ionic Solutions,Rich,16.00
+Tenal,TJ10-O,J1-KJP,J1-KJP VI,Lucent Compound,Medium,28.76
+Tenal,TJ10-O,J1-KJP,J1-KJP VI,Crystal Compound,Poor,24.18
+Tenal,TJ10-O,J1-KJP,J1-KJP VI,Reactive Metals,Poor,5.72
+Tenal,TJ10-O,J1-KJP,J1-KJP VI,Toxic Metals,Rich,10.19
+Tenal,TJ10-O,J1-KJP,J1-KJP VI,Nanites,Rich,10.54
+Tenal,TJ10-O,J1-KJP,J1-KJP VII,Condensed Alloy,Rich,40.04
+Tenal,TJ10-O,J1-KJP,J1-KJP VII,Opulent Compound,Medium,26.39
+Tenal,TJ10-O,J1-KJP,J1-KJP VII,Crystal Compound,Rich,37.36
+Tenal,TJ10-O,J1-KJP,J1-KJP VII,Toxic Metals,Perfect,11.01
+Tenal,TJ10-O,J1-KJP,J1-KJP VII,Polyaramids,Medium,19.93
+Tenal,TJ10-O,J1-KJP,J1-KJP VII,Liquid Ozone,Rich,45.08
+Tenal,TJ10-O,J1-KJP,J1-KJP VIII,Precious Alloy,Poor,20.23
+Tenal,TJ10-O,J1-KJP,J1-KJP VIII,Motley Compound,Poor,22.36
+Tenal,TJ10-O,J1-KJP,J1-KJP VIII,Base Metals,Poor,5.86
+Tenal,TJ10-O,J1-KJP,J1-KJP VIII,Coolant,Medium,19.86
+Tenal,TJ10-O,J1-KJP,J1-KJP VIII,Suspended Plasma,Rich,122.24
+Tenal,TJ10-O,KW-1MV,KW-1MV I,Toxic Metals,Poor,4.60
+Tenal,TJ10-O,KW-1MV,KW-1MV I,Industrial Fibers,Poor,5.29
+Tenal,TJ10-O,KW-1MV,KW-1MV I,Supertensile Plastics,Medium,14.49
+Tenal,TJ10-O,KW-1MV,KW-1MV I,Plasmoids,Poor,0.91
+Tenal,TJ10-O,KW-1MV,KW-1MV II,Supertensile Plastics,Medium,17.08
+Tenal,TJ10-O,KW-1MV,KW-1MV II,Construction Blocks,Poor,20.75
+Tenal,TJ10-O,KW-1MV,KW-1MV II,Silicate Glass,Medium,11.74
+Tenal,TJ10-O,KW-1MV,KW-1MV II,Plasmoids,Medium,1.68
+Tenal,TJ10-O,KW-1MV,KW-1MV III,Opulent Compound,Perfect,37.60
+Tenal,TJ10-O,KW-1MV,KW-1MV III,Noble Metals,Perfect,41.88
+Tenal,TJ10-O,KW-1MV,KW-1MV III,Condensates,Rich,20.53
+Tenal,TJ10-O,KW-1MV,KW-1MV III,Smartfab Units,Medium,15.16
+Tenal,TJ10-O,KW-1MV,KW-1MV III,Liquid Ozone,Perfect,54.34
+Tenal,TJ10-O,KW-1MV,KW-1MV IV,Lustering Alloy,Medium,24.95
+Tenal,TJ10-O,KW-1MV,KW-1MV IV,Sheen Compound,Rich,31.69
+Tenal,TJ10-O,KW-1MV,KW-1MV IV,Reactive Gas,Medium,25.44
+Tenal,TJ10-O,KW-1MV,KW-1MV IV,Noble Gas,Medium,28.38
+Tenal,TJ10-O,KW-1MV,KW-1MV IV,Polyaramids,Rich,20.07
+Tenal,TJ10-O,KW-1MV,KW-1MV V,Lucent Compound,Medium,27.21
+Tenal,TJ10-O,KW-1MV,KW-1MV V,Dark Compound,Rich,34.89
+Tenal,TJ10-O,KW-1MV,KW-1MV V,Heavy Metals,Perfect,39.54
+Tenal,TJ10-O,KW-1MV,KW-1MV V,Condensates,Medium,17.17
+Tenal,TJ10-O,KW-1MV,KW-1MV V,Plasmoids,Rich,2.14
+Tenal,TJ10-O,KW-1MV,KW-1MV VI,Lustering Alloy,Medium,27.53
+Tenal,TJ10-O,KW-1MV,KW-1MV VI,Precious Alloy,Medium,24.45
+Tenal,TJ10-O,KW-1MV,KW-1MV VI,Supertensile Plastics,Medium,15.72
+Tenal,TJ10-O,KW-1MV,KW-1MV VI,Plasmoids,Poor,1.28
+Tenal,TJ10-O,KW-1MV,KW-1MV VII,Reactive Gas,Medium,24.75
+Tenal,TJ10-O,KW-1MV,KW-1MV VII,Noble Gas,Perfect,36.98
+Tenal,TJ10-O,KW-1MV,KW-1MV VII,Reactive Metals,Rich,8.99
+Tenal,TJ10-O,KW-1MV,KW-1MV VII,Coolant,Rich,21.30
+Tenal,TJ10-O,KW-1MV,KW-1MV VII,Ionic Solutions,Rich,14.60
+Tenal,TJ10-O,KW-1MV,KW-1MV VIII,Lustering Alloy,Medium,27.95
+Tenal,TJ10-O,KW-1MV,KW-1MV VIII,Reactive Gas,Medium,25.35
+Tenal,TJ10-O,KW-1MV,KW-1MV VIII,Base Metals,Rich,8.86
+Tenal,TJ10-O,KW-1MV,KW-1MV VIII,Reactive Metals,Rich,8.15
+Tenal,TJ10-O,KW-1MV,KW-1MV VIII,Polyaramids,Poor,13.02
+Tenal,TJ10-O,KW-1MV,KW-1MV IX,Precious Alloy,Poor,16.84
+Tenal,TJ10-O,KW-1MV,KW-1MV IX,Supertensile Plastics,Poor,11.13
+Tenal,TJ10-O,KW-1MV,KW-1MV IX,Coolant,Medium,14.97
+Tenal,TJ10-O,KW-1MV,KW-1MV IX,Condensates,Poor,14.09
+Tenal,X-FHU3,G06-8Y,G06-8Y I,Gleaming Alloy,Poor,18.68
+Tenal,X-FHU3,G06-8Y,G06-8Y I,Glossy Compound,Medium,25.88
+Tenal,X-FHU3,G06-8Y,G06-8Y I,Noble Gas,Medium,24.84
+Tenal,X-FHU3,G06-8Y,G06-8Y II,Precious Alloy,Medium,25.97
+Tenal,X-FHU3,G06-8Y,G06-8Y II,Dark Compound,Medium,26.73
+Tenal,X-FHU3,G06-8Y,G06-8Y II,Base Metals,Medium,7.32
+Tenal,X-FHU3,G06-8Y,G06-8Y II,Supertensile Plastics,Poor,13.43
+Tenal,X-FHU3,G06-8Y,G06-8Y III,Gleaming Alloy,Rich,30.57
+Tenal,X-FHU3,G06-8Y,G06-8Y III,Glossy Compound,Medium,28.45
+Tenal,X-FHU3,G06-8Y,G06-8Y III,Plasmoids,Perfect,2.25
+Tenal,X-FHU3,G06-8Y,G06-8Y IV,Reactive Gas,Rich,33.97
+Tenal,X-FHU3,G06-8Y,G06-8Y IV,Reactive Metals,Medium,6.51
+Tenal,X-FHU3,G06-8Y,G06-8Y IV,Toxic Metals,Rich,8.12
+Tenal,X-FHU3,G06-8Y,G06-8Y IV,Nanites,Rich,9.45
+Tenal,X-FHU3,G06-8Y,G06-8Y V,Fiber Composite,Perfect,42.46
+Tenal,X-FHU3,G06-8Y,G06-8Y V,Reactive Gas,Perfect,38.69
+Tenal,X-FHU3,G06-8Y,G06-8Y V,Industrial Fibers,Perfect,9.69
+Tenal,X-FHU3,G06-8Y,G06-8Y V,Condensates,Medium,17.53
+Tenal,X-FHU3,G06-8Y,G06-8Y V,Liquid Ozone,Rich,39.67
+Tenal,X-FHU3,G06-8Y,G06-8Y VI,Gleaming Alloy,Medium,29.09
+Tenal,X-FHU3,G06-8Y,G06-8Y VI,Noble Gas,Medium,27.28
+Tenal,X-FHU3,G06-8Y,G06-8Y VI,Oxygen Isotopes,Rich,5.31
+Tenal,X-FHU3,G06-8Y,G06-8Y VII,Lustering Alloy,Poor,16.01
+Tenal,X-FHU3,G06-8Y,G06-8Y VII,Toxic Metals,Medium,5.89
+Tenal,X-FHU3,G06-8Y,G06-8Y VII,Supertensile Plastics,Medium,18.26
+Tenal,X-FHU3,G06-8Y,G06-8Y VII,Plasmoids,Medium,1.46
+Tenal,X-FHU3,G06-8Y,G06-8Y VIII,Lustering Alloy,Rich,34.18
+Tenal,X-FHU3,G06-8Y,G06-8Y VIII,Fiber Composite,Rich,34.18
+Tenal,X-FHU3,G06-8Y,G06-8Y VIII,Reactive Gas,Rich,29.74
+Tenal,X-FHU3,G06-8Y,G06-8Y VIII,Reactive Metals,Medium,7.18
+Tenal,X-FHU3,G06-8Y,G06-8Y VIII,Coolant,Medium,16.62
+Tenal,X-FHU3,G06-8Y,G06-8Y IX,Supertensile Plastics,Rich,21.54
+Tenal,X-FHU3,G06-8Y,G06-8Y IX,Coolant,Medium,15.00
+Tenal,X-FHU3,G06-8Y,G06-8Y IX,Condensates,Medium,15.67
+Tenal,X-FHU3,G06-8Y,G06-8Y IX,Liquid Ozone,Poor,25.73
+Tenal,X-FHU3,G06-8Y,G06-8Y X,Lustering Alloy,Poor,20.40
+Tenal,X-FHU3,G06-8Y,G06-8Y X,Glossy Compound,Medium,26.82
+Tenal,X-FHU3,G06-8Y,G06-8Y X,Reactive Gas,Rich,31.97
+Tenal,X-FHU3,G06-8Y,G06-8Y X,Noble Gas,Perfect,37.37
+Tenal,X-FHU3,G06-8Y,G06-8Y X,Coolant,Medium,17.77
+Tenal,X-FHU3,U-O2DA,U-O2DA I,Gleaming Alloy,Rich,27.05
+Tenal,X-FHU3,U-O2DA,U-O2DA I,Motley Compound,Rich,31.42
+Tenal,X-FHU3,U-O2DA,U-O2DA I,Glossy Compound,Poor,18.12
+Tenal,X-FHU3,U-O2DA,U-O2DA II,Precious Alloy,Poor,13.34
+Tenal,X-FHU3,U-O2DA,U-O2DA II,Base Metals,Poor,4.48
+Tenal,X-FHU3,U-O2DA,U-O2DA II,Toxic Metals,Poor,4.36
+Tenal,X-FHU3,U-O2DA,U-O2DA II,Supertensile Plastics,Poor,9.38
+Tenal,X-FHU3,U-O2DA,U-O2DA III,Condensed Alloy,Medium,24.53
+Tenal,X-FHU3,U-O2DA,U-O2DA III,Base Metals,Perfect,9.79
+Tenal,X-FHU3,U-O2DA,U-O2DA III,Industrial Fibers,Perfect,9.78
+Tenal,X-FHU3,U-O2DA,U-O2DA III,Heavy Water,Rich,313.32
+Tenal,X-FHU3,U-O2DA,U-O2DA III,Liquid Ozone,Perfect,49.06
+Tenal,X-FHU3,U-O2DA,U-O2DA IV,Toxic Metals,Medium,6.12
+Tenal,X-FHU3,U-O2DA,U-O2DA IV,Supertensile Plastics,Medium,15.47
+Tenal,X-FHU3,U-O2DA,U-O2DA IV,Silicate Glass,Poor,8.86
+Tenal,X-FHU3,U-O2DA,U-O2DA IV,Oxygen Isotopes,Poor,2.78
+Tenal,X-FHU3,U-O2DA,U-O2DA V,Base Metals,Poor,3.86
+Tenal,X-FHU3,U-O2DA,U-O2DA V,Supertensile Plastics,Poor,10.05
+Tenal,X-FHU3,U-O2DA,U-O2DA V,Construction Blocks,Medium,20.60
+Tenal,X-FHU3,U-O2DA,U-O2DA V,Silicate Glass,Medium,10.25
+Tenal,X-FHU3,U-O2DA,U-O2DA VI,Reactive Gas,Poor,17.98
+Tenal,X-FHU3,U-O2DA,U-O2DA VI,Noble Gas,Poor,18.25
+Tenal,X-FHU3,U-O2DA,U-O2DA VI,Base Metals,Rich,8.11
+Tenal,X-FHU3,U-O2DA,U-O2DA VI,Polyaramids,Rich,19.25
+Tenal,X-FHU3,U-O2DA,U-O2DA VI,Ionic Solutions,Perfect,13.58
+Tenal,X-FHU3,U-O2DA,U-O2DA VII,Fiber Composite,Rich,33.14
+Tenal,X-FHU3,U-O2DA,U-O2DA VII,Reactive Gas,Perfect,33.68
+Tenal,X-FHU3,U-O2DA,U-O2DA VII,Noble Gas,Rich,27.28
+Tenal,X-FHU3,U-O2DA,U-O2DA VII,Base Metals,Rich,8.08
+Tenal,X-FHU3,U-O2DA,U-O2DA VII,Reactive Metals,Medium,5.95
+Tenal,X-FHU3,U-O2DA,U-O2DA VIII,Precious Alloy,Medium,21.02
+Tenal,X-FHU3,U-O2DA,U-O2DA VIII,Industrial Fibers,Poor,4.30
+Tenal,X-FHU3,U-O2DA,U-O2DA VIII,Supertensile Plastics,Medium,16.62
+Tenal,X-FHU3,U-O2DA,U-O2DA VIII,Silicate Glass,Medium,10.68
+Tenal,X-FHU3,WV-0R2,WV-0R2 I,Lustering Alloy,Medium,26.85
+Tenal,X-FHU3,WV-0R2,WV-0R2 I,Dark Compound,Medium,29.46
+Tenal,X-FHU3,WV-0R2,WV-0R2 I,Toxic Metals,Poor,5.66
+Tenal,X-FHU3,WV-0R2,WV-0R2 I,Silicate Glass,Poor,11.75
+Tenal,X-FHU3,WV-0R2,WV-0R2 I,Oxygen Isotopes,Poor,2.93
+Tenal,X-FHU3,WV-0R2,WV-0R2 II,Sheen Compound,Rich,38.95
+Tenal,X-FHU3,WV-0R2,WV-0R2 II,Glossy Compound,Medium,31.95
+Tenal,X-FHU3,WV-0R2,WV-0R2 II,Noble Gas,Rich,41.50
+Tenal,X-FHU3,WV-0R2,WV-0R2 II,Base Metals,Rich,9.92
+Tenal,X-FHU3,WV-0R2,WV-0R2 II,Reactive Metals,Rich,10.12
+Tenal,X-FHU3,WV-0R2,WV-0R2 II,Polyaramids,Rich,27.94
+Tenal,X-FHU3,WV-0R2,WV-0R2 III,Condensed Alloy,Medium,29.40
+Tenal,X-FHU3,WV-0R2,WV-0R2 III,Reactive Gas,Rich,37.41
+Tenal,X-FHU3,WV-0R2,WV-0R2 III,Noble Metals,Medium,33.60
+Tenal,X-FHU3,WV-0R2,WV-0R2 III,Condensates,Rich,29.44
+Tenal,X-FHU3,WV-0R2,WV-0R2 III,Heavy Water,Perfect,501.20
+Tenal,X-FHU3,WV-0R2,WV-0R2 III,Liquid Ozone,Perfect,63.07
+Tenal,X-FHU3,WV-0R2,WV-0R2 IV,Condensed Alloy,Medium,33.24
+Tenal,X-FHU3,WV-0R2,WV-0R2 IV,Fiber Composite,Rich,36.20
+Tenal,X-FHU3,WV-0R2,WV-0R2 IV,Industrial Fibers,Rich,11.49
+Tenal,X-FHU3,WV-0R2,WV-0R2 IV,Condensates,Perfect,32.76
+Tenal,X-FHU3,WV-0R2,WV-0R2 IV,Smartfab Units,Medium,20.09
+Tenal,X-FHU3,WV-0R2,WV-0R2 IV,Liquid Ozone,Perfect,60.41
+Tenal,X-FHU3,WV-0R2,WV-0R2 V,Lustering Alloy,Poor,26.01
+Tenal,X-FHU3,WV-0R2,WV-0R2 V,Precious Alloy,Poor,20.58
+Tenal,X-FHU3,WV-0R2,WV-0R2 V,Base Metals,Medium,7.34
+Tenal,X-FHU3,WV-0R2,WV-0R2 V,Industrial Fibers,Medium,7.99
+Tenal,X-FHU3,WV-0R2,WV-0R2 V,Liquid Ozone,Rich,44.63
+Tenal,X-FHU3,WV-0R2,WV-0R2 VI,Lustering Alloy,Medium,27.05
+Tenal,X-FHU3,WV-0R2,WV-0R2 VI,Dark Compound,Medium,28.56
+Tenal,X-FHU3,WV-0R2,WV-0R2 VI,Toxic Metals,Poor,5.40
+Tenal,X-FHU3,WV-0R2,WV-0R2 VI,Industrial Fibers,Poor,5.71
+Tenal,X-FHU3,WV-0R2,WV-0R2 VI,Silicate Glass,Medium,16.30
+Tenal,X-FHU3,SZ6-TA,SZ6-TA I,Precious Alloy,Poor,13.77
+Tenal,X-FHU3,SZ6-TA,SZ6-TA I,Industrial Fibers,Poor,4.49
+Tenal,X-FHU3,SZ6-TA,SZ6-TA I,Supertensile Plastics,Poor,13.68
+Tenal,X-FHU3,SZ6-TA,SZ6-TA I,Plasmoids,Poor,1.14
+Tenal,X-FHU3,SZ6-TA,SZ6-TA II,Gleaming Alloy,Perfect,35.22
+Tenal,X-FHU3,SZ6-TA,SZ6-TA II,Polyaramids,Poor,12.11
+Tenal,X-FHU3,SZ6-TA,SZ6-TA II,Smartfab Units,Perfect,24.38
+Tenal,X-FHU3,SZ6-TA,SZ6-TA III,Lucent Compound,Rich,34.91
+Tenal,X-FHU3,SZ6-TA,SZ6-TA III,Reactive Metals,Medium,6.06
+Tenal,X-FHU3,SZ6-TA,SZ6-TA III,Condensates,Medium,15.58
+Tenal,X-FHU3,SZ6-TA,SZ6-TA III,Ionic Solutions,Poor,8.23
+Tenal,X-FHU3,SZ6-TA,SZ6-TA III,Plasmoids,Medium,1.55
+Tenal,X-FHU3,SZ6-TA,SZ6-TA IV,Reactive Gas,Medium,21.89
+Tenal,X-FHU3,SZ6-TA,SZ6-TA IV,Noble Gas,Rich,28.53
+Tenal,X-FHU3,SZ6-TA,SZ6-TA IV,Reactive Metals,Medium,5.47
+Tenal,X-FHU3,SZ6-TA,SZ6-TA IV,Polyaramids,Perfect,23.97
+Tenal,X-FHU3,SZ6-TA,SZ6-TA IV,Ionic Solutions,Rich,13.09
+Tenal,X-FHU3,SZ6-TA,SZ6-TA V,Gleaming Alloy,Perfect,36.76
+Tenal,X-FHU3,SZ6-TA,SZ6-TA V,Motley Compound,Poor,17.82
+Tenal,X-FHU3,SZ6-TA,SZ6-TA V,Construction Blocks,Perfect,36.39
+Tenal,X-FHU3,SZ6-TA,SZ6-TA VI,Sheen Compound,Medium,21.63
+Tenal,X-FHU3,SZ6-TA,SZ6-TA VI,Glossy Compound,Rich,34.10
+Tenal,X-FHU3,SZ6-TA,SZ6-TA VI,Reactive Gas,Perfect,35.33
+Tenal,X-FHU3,SZ6-TA,SZ6-TA VI,Polyaramids,Rich,22.22
+Tenal,X-FHU3,SZ6-TA,SZ6-TA VI,Coolant,Rich,19.89
+Tenal,X-FHU3,SZ6-TA,SZ6-TA VII,Precious Alloy,Medium,25.26
+Tenal,X-FHU3,SZ6-TA,SZ6-TA VII,Coolant,Poor,13.71
+Tenal,X-FHU3,SZ6-TA,SZ6-TA VII,Condensates,Poor,12.39
+Tenal,X-FHU3,SZ6-TA,SZ6-TA VII,Suspended Plasma,Rich,102.56
+Tenal,X-FHU3,6-AOLS,6-AOLS I,Gleaming Alloy,Rich,35.78
+Tenal,X-FHU3,6-AOLS,6-AOLS I,Heavy Metals,Rich,36.41
+Tenal,X-FHU3,6-AOLS,6-AOLS I,Construction Blocks,Rich,34.61
+Tenal,X-FHU3,6-AOLS,6-AOLS II,Lustering Alloy,Poor,16.37
+Tenal,X-FHU3,6-AOLS,6-AOLS II,Base Metals,Poor,5.24
+Tenal,X-FHU3,6-AOLS,6-AOLS II,Industrial Fibers,Medium,6.74
+Tenal,X-FHU3,6-AOLS,6-AOLS II,Supertensile Plastics,Medium,17.86
+Tenal,X-FHU3,6-AOLS,6-AOLS III,Noble Metals,Rich,35.14
+Tenal,X-FHU3,6-AOLS,6-AOLS III,Toxic Metals,Rich,8.24
+Tenal,X-FHU3,6-AOLS,6-AOLS III,Polyaramids,Rich,22.13
+Tenal,X-FHU3,6-AOLS,6-AOLS III,Liquid Ozone,Medium,30.45
+Tenal,X-FHU3,6-AOLS,6-AOLS III,Ionic Solutions,Perfect,15.70
+Tenal,X-FHU3,6-AOLS,6-AOLS IV,Gleaming Alloy,Medium,28.06
+Tenal,X-FHU3,6-AOLS,6-AOLS IV,Motley Compound,Rich,34.27
+Tenal,X-FHU3,6-AOLS,6-AOLS IV,Noble Metals,Perfect,38.76
+Tenal,X-FHU3,6-AOLS,6-AOLS V,Lucent Compound,Medium,29.78
+Tenal,X-FHU3,6-AOLS,6-AOLS V,Reactive Gas,Medium,28.56
+Tenal,X-FHU3,6-AOLS,6-AOLS V,Reactive Metals,Rich,8.45
+Tenal,X-FHU3,6-AOLS,6-AOLS V,Oxygen Isotopes,Perfect,5.84
+Tenal,X-FHU3,6-AOLS,6-AOLS VI,Lustering Alloy,Rich,32.64
+Tenal,X-FHU3,6-AOLS,6-AOLS VI,Glossy Compound,Medium,26.54
+Tenal,X-FHU3,6-AOLS,6-AOLS VI,Reactive Gas,Poor,20.26
+Tenal,X-FHU3,6-AOLS,6-AOLS VI,Noble Gas,Medium,27.50
+Tenal,X-FHU3,6-AOLS,6-AOLS VI,Reactive Metals,Medium,7.94
+Tenal,X-FHU3,6-AOLS,6-AOLS VII,Fiber Composite,Rich,30.70
+Tenal,X-FHU3,6-AOLS,6-AOLS VII,Noble Metals,Medium,29.18
+Tenal,X-FHU3,6-AOLS,6-AOLS VII,Industrial Fibers,Perfect,10.76
+Tenal,X-FHU3,6-AOLS,6-AOLS VII,Heavy Water,Medium,299.76
+Tenal,X-FHU3,6-AOLS,6-AOLS VII,Liquid Ozone,Perfect,51.81
+Tenal,X-FHU3,6-AOLS,6-AOLS VIII,Lustering Alloy,Medium,26.57
+Tenal,X-FHU3,6-AOLS,6-AOLS VIII,Sheen Compound,Rich,37.58
+Tenal,X-FHU3,6-AOLS,6-AOLS VIII,Reactive Gas,Rich,31.22
+Tenal,X-FHU3,6-AOLS,6-AOLS VIII,Noble Gas,Perfect,38.71
+Tenal,X-FHU3,6-AOLS,6-AOLS VIII,Ionic Solutions,Medium,9.60
+Tenal,X-FHU3,6-AOLS,6-AOLS IX,Dark Compound,Medium,29.09
+Tenal,X-FHU3,6-AOLS,6-AOLS IX,Condensates,Rich,20.94
+Tenal,X-FHU3,6-AOLS,6-AOLS IX,Nanites,Rich,8.49
+Tenal,X-FHU3,6-AOLS,6-AOLS IX,Ionic Solutions,Medium,11.91
+Tenal,X-FHU3,6-AOLS,6-AOLS IX,Plasmoids,Rich,1.92
+Tenal,X-FHU3,6-AOLS,6-AOLS X,Glossy Compound,Medium,27.58
+Tenal,X-FHU3,6-AOLS,6-AOLS X,Reactive Gas,Medium,30.22
+Tenal,X-FHU3,6-AOLS,6-AOLS X,Polyaramids,Medium,16.34
+Tenal,X-FHU3,6-AOLS,6-AOLS X,Coolant,Rich,23.57
+Tenal,X-FHU3,6-AOLS,6-AOLS X,Ionic Solutions,Medium,10.16
+Tenal,X-FHU3,IKTD-P,IKTD-P I,Lustering Alloy,Poor,15.26
+Tenal,X-FHU3,IKTD-P,IKTD-P I,Supertensile Plastics,Poor,10.70
+Tenal,X-FHU3,IKTD-P,IKTD-P I,Construction Blocks,Medium,23.54
+Tenal,X-FHU3,IKTD-P,IKTD-P I,Silicate Glass,Poor,7.86
+Tenal,X-FHU3,IKTD-P,IKTD-P II,Base Metals,Medium,6.79
+Tenal,X-FHU3,IKTD-P,IKTD-P II,Industrial Fibers,Medium,6.83
+Tenal,X-FHU3,IKTD-P,IKTD-P II,Supertensile Plastics,Poor,13.89
+Tenal,X-FHU3,IKTD-P,IKTD-P II,Plasmoids,Medium,1.61
+Tenal,X-FHU3,IKTD-P,IKTD-P III,Sheen Compound,Perfect,41.76
+Tenal,X-FHU3,IKTD-P,IKTD-P III,Noble Gas,Rich,36.02
+Tenal,X-FHU3,IKTD-P,IKTD-P III,Reactive Metals,Perfect,10.55
+Tenal,X-FHU3,IKTD-P,IKTD-P III,Condensates,Rich,20.72
+Tenal,X-FHU3,IKTD-P,IKTD-P III,Suspended Plasma,Medium,88.47
+Tenal,X-FHU3,IKTD-P,IKTD-P IV,Lustering Alloy,Perfect,38.54
+Tenal,X-FHU3,IKTD-P,IKTD-P IV,Reactive Gas,Medium,27.53
+Tenal,X-FHU3,IKTD-P,IKTD-P IV,Noble Gas,Medium,24.96
+Tenal,X-FHU3,IKTD-P,IKTD-P IV,Reactive Metals,Medium,7.28
+Tenal,X-FHU3,IKTD-P,IKTD-P IV,Coolant,Medium,17.63
+Tenal,X-FHU3,IKTD-P,IKTD-P V,Lustering Alloy,Rich,34.70
+Tenal,X-FHU3,IKTD-P,IKTD-P V,Fiber Composite,Poor,20.11
+Tenal,X-FHU3,IKTD-P,IKTD-P V,Reactive Gas,Perfect,39.07
+Tenal,X-FHU3,IKTD-P,IKTD-P V,Base Metals,Rich,9.94
+Tenal,X-FHU3,IKTD-P,IKTD-P V,Polyaramids,Medium,17.58
+Tenal,X-FHU3,IKTD-P,IKTD-P VI,Condensed Alloy,Medium,24.43
+Tenal,X-FHU3,IKTD-P,IKTD-P VI,Crystal Compound,Medium,29.35
+Tenal,X-FHU3,IKTD-P,IKTD-P VI,Coolant,Perfect,26.02
+Tenal,X-FHU3,IKTD-P,IKTD-P VI,Liquid Ozone,Rich,47.28
+Tenal,X-FHU3,IKTD-P,IKTD-P VI,Ionic Solutions,Medium,10.26
+Tenal,X-FHU3,IKTD-P,IKTD-P VII,Base Metals,Medium,6.87
+Tenal,X-FHU3,IKTD-P,IKTD-P VII,Supertensile Plastics,Medium,16.24
+Tenal,X-FHU3,IKTD-P,IKTD-P VII,Construction Blocks,Medium,24.86
+Tenal,X-FHU3,IKTD-P,IKTD-P VII,Plasmoids,Poor,1.07
+Tenal,X-FHU3,IKTD-P,IKTD-P VIII,Glossy Compound,Medium,27.10
+Tenal,X-FHU3,IKTD-P,IKTD-P VIII,Reactive Gas,Rich,31.01
+Tenal,X-FHU3,IKTD-P,IKTD-P VIII,Noble Gas,Poor,22.03
+Tenal,X-FHU3,IKTD-P,IKTD-P VIII,Base Metals,Rich,8.44
+Tenal,X-FHU3,IKTD-P,IKTD-P VIII,Coolant,Poor,13.76
+Tenal,X-FHU3,IKTD-P,IKTD-P IX,Heavy Metals,Poor,22.06
+Tenal,X-FHU3,IKTD-P,IKTD-P IX,Supertensile Plastics,Rich,22.66
+Tenal,X-FHU3,IKTD-P,IKTD-P IX,Coolant,Rich,22.53
+Tenal,X-FHU3,IKTD-P,IKTD-P IX,Condensates,Poor,11.95
+Tenal,X-FHU3,33CE-7,33CE-7 I,Precious Alloy,Poor,18.40
+Tenal,X-FHU3,33CE-7,33CE-7 I,Supertensile Plastics,Poor,11.13
+Tenal,X-FHU3,33CE-7,33CE-7 I,Oxygen Isotopes,Poor,3.20
+Tenal,X-FHU3,33CE-7,33CE-7 I,Plasmoids,Poor,0.92
+Tenal,X-FHU3,33CE-7,33CE-7 II,Precious Alloy,Poor,14.65
+Tenal,X-FHU3,33CE-7,33CE-7 II,Dark Compound,Poor,16.63
+Tenal,X-FHU3,33CE-7,33CE-7 II,Industrial Fibers,Poor,3.83
+Tenal,X-FHU3,33CE-7,33CE-7 II,Supertensile Plastics,Poor,14.21
+Tenal,X-FHU3,33CE-7,33CE-7 III,Condensed Alloy,Perfect,43.81
+Tenal,X-FHU3,33CE-7,33CE-7 III,Opulent Compound,Poor,21.21
+Tenal,X-FHU3,33CE-7,33CE-7 III,Base Metals,Perfect,9.93
+Tenal,X-FHU3,33CE-7,33CE-7 III,Heavy Water,Rich,344.77
+Tenal,X-FHU3,33CE-7,33CE-7 III,Liquid Ozone,Rich,38.61
+Tenal,X-FHU3,33CE-7,33CE-7 IV,Gleaming Alloy,Rich,36.39
+Tenal,X-FHU3,33CE-7,33CE-7 IV,Glossy Compound,Rich,29.30
+Tenal,X-FHU3,33CE-7,33CE-7 IV,Noble Metals,Rich,31.49
+Tenal,X-FHU3,33CE-7,33CE-7 V,Precious Alloy,Poor,17.80
+Tenal,X-FHU3,33CE-7,33CE-7 V,Supertensile Plastics,Poor,10.49
+Tenal,X-FHU3,33CE-7,33CE-7 V,Construction Blocks,Poor,19.04
+Tenal,X-FHU3,33CE-7,33CE-7 V,Plasmoids,Medium,1.45
+Tenal,X-FHU3,33CE-7,33CE-7 VI,Lustering Alloy,Poor,20.10
+Tenal,X-FHU3,33CE-7,33CE-7 VI,Reactive Gas,Perfect,37.74
+Tenal,X-FHU3,33CE-7,33CE-7 VI,Base Metals,Medium,5.75
+Tenal,X-FHU3,33CE-7,33CE-7 VI,Reactive Metals,Medium,5.87
+Tenal,X-FHU3,33CE-7,33CE-7 VI,Coolant,Medium,16.87
+Tenal,X-FHU3,33CE-7,33CE-7 VII,Sheen Compound,Medium,29.07
+Tenal,X-FHU3,33CE-7,33CE-7 VII,Reactive Gas,Poor,18.91
+Tenal,X-FHU3,33CE-7,33CE-7 VII,Base Metals,Rich,8.95
+Tenal,X-FHU3,33CE-7,33CE-7 VII,Reactive Metals,Medium,7.34
+Tenal,X-FHU3,33CE-7,33CE-7 VII,Polyaramids,Rich,19.75
+Tenal,X-FHU3,33CE-7,33CE-7 VIII,Fiber Composite,Rich,29.28
+Tenal,X-FHU3,33CE-7,33CE-7 VIII,Reactive Gas,Medium,23.39
+Tenal,X-FHU3,33CE-7,33CE-7 VIII,Noble Gas,Poor,19.20
+Tenal,X-FHU3,33CE-7,33CE-7 VIII,Coolant,Rich,19.64
+Tenal,X-FHU3,33CE-7,33CE-7 VIII,Ionic Solutions,Medium,9.90
+Tenal,X-FHU3,33CE-7,33CE-7 IX,Heavy Metals,Rich,30.04
+Tenal,X-FHU3,33CE-7,33CE-7 IX,Supertensile Plastics,Medium,17.66
+Tenal,X-FHU3,33CE-7,33CE-7 IX,Condensates,Rich,21.62
+Tenal,X-FHU3,33CE-7,33CE-7 IX,Liquid Ozone,Rich,40.62
+Tenal,X-FHU3,L-P3XM,L-P3XM I,Dark Compound,Poor,19.22
+Tenal,X-FHU3,L-P3XM,L-P3XM I,Base Metals,Medium,7.14
+Tenal,X-FHU3,L-P3XM,L-P3XM I,Supertensile Plastics,Medium,16.13
+Tenal,X-FHU3,L-P3XM,L-P3XM I,Construction Blocks,Medium,23.02
+Tenal,X-FHU3,L-P3XM,L-P3XM II,Industrial Fibers,Medium,7.61
+Tenal,X-FHU3,L-P3XM,L-P3XM II,Supertensile Plastics,Medium,19.41
+Tenal,X-FHU3,L-P3XM,L-P3XM II,Silicate Glass,Medium,11.62
+Tenal,X-FHU3,L-P3XM,L-P3XM II,Plasmoids,Poor,0.96
+Tenal,X-FHU3,L-P3XM,L-P3XM III,Precious Alloy,Medium,23.42
+Tenal,X-FHU3,L-P3XM,L-P3XM III,Industrial Fibers,Medium,6.23
+Tenal,X-FHU3,L-P3XM,L-P3XM III,Supertensile Plastics,Poor,14.54
+Tenal,X-FHU3,L-P3XM,L-P3XM III,Plasmoids,Poor,0.93
+Tenal,X-FHU3,L-P3XM,L-P3XM IV,Lucent Compound,Rich,30.84
+Tenal,X-FHU3,L-P3XM,L-P3XM IV,Reactive Gas,Rich,31.54
+Tenal,X-FHU3,L-P3XM,L-P3XM IV,Reactive Metals,Rich,8.40
+Tenal,X-FHU3,L-P3XM,L-P3XM IV,Toxic Metals,Perfect,10.24
+Tenal,X-FHU3,L-P3XM,L-P3XM V,Sheen Compound,Perfect,39.41
+Tenal,X-FHU3,L-P3XM,L-P3XM V,Fiber Composite,Rich,34.90
+Tenal,X-FHU3,L-P3XM,L-P3XM V,Glossy Compound,Rich,38.02
+Tenal,X-FHU3,L-P3XM,L-P3XM V,Reactive Gas,Rich,32.42
+Tenal,X-FHU3,L-P3XM,L-P3XM V,Polyaramids,Rich,20.66
+Tenal,X-FHU3,L-P3XM,L-P3XM VI,Lustering Alloy,Rich,31.39
+Tenal,X-FHU3,L-P3XM,L-P3XM VI,Sheen Compound,Medium,29.57
+Tenal,X-FHU3,L-P3XM,L-P3XM VI,Reactive Gas,Medium,28.46
+Tenal,X-FHU3,L-P3XM,L-P3XM VI,Base Metals,Medium,7.35
+Tenal,X-FHU3,L-P3XM,L-P3XM VI,Ionic Solutions,Medium,10.92
+Tenal,X-FHU3,L-P3XM,L-P3XM VII,Sheen Compound,Medium,24.29
+Tenal,X-FHU3,L-P3XM,L-P3XM VII,Fiber Composite,Medium,28.54
+Tenal,X-FHU3,L-P3XM,L-P3XM VII,Glossy Compound,Medium,23.38
+Tenal,X-FHU3,L-P3XM,L-P3XM VII,Reactive Gas,Rich,37.39
+Tenal,X-FHU3,L-P3XM,L-P3XM VII,Reactive Metals,Rich,8.33
+Tenal,X-FHU3,L-P3XM,L-P3XM VIII,Base Metals,Rich,8.46
+Tenal,X-FHU3,L-P3XM,L-P3XM VIII,Heavy Metals,Poor,20.11
+Tenal,X-FHU3,L-P3XM,L-P3XM VIII,Supertensile Plastics,Rich,21.31
+Tenal,X-FHU3,L-P3XM,L-P3XM VIII,Condensates,Medium,18.05
+Tenal,GFE-SS,DCJ-ZT,DCJ-ZT I,Dark Compound,Medium,25.77
+Tenal,GFE-SS,DCJ-ZT,DCJ-ZT I,Industrial Fibers,Poor,4.46
+Tenal,GFE-SS,DCJ-ZT,DCJ-ZT I,Supertensile Plastics,Poor,12.29
+Tenal,GFE-SS,DCJ-ZT,DCJ-ZT I,Construction Blocks,Poor,14.47
+Tenal,GFE-SS,DCJ-ZT,DCJ-ZT II,Lustering Alloy,Medium,20.83
+Tenal,GFE-SS,DCJ-ZT,DCJ-ZT II,Supertensile Plastics,Poor,10.84
+Tenal,GFE-SS,DCJ-ZT,DCJ-ZT II,Oxygen Isotopes,Medium,3.71
+Tenal,GFE-SS,DCJ-ZT,DCJ-ZT II,Plasmoids,Medium,1.37
+Tenal,GFE-SS,DCJ-ZT,DCJ-ZT III,Condensed Alloy,Rich,33.12
+Tenal,GFE-SS,DCJ-ZT,DCJ-ZT III,Base Metals,Medium,6.40
+Tenal,GFE-SS,DCJ-ZT,DCJ-ZT III,Condensates,Rich,20.16
+Tenal,GFE-SS,DCJ-ZT,DCJ-ZT III,Heavy Water,Rich,311.22
+Tenal,GFE-SS,DCJ-ZT,DCJ-ZT III,Liquid Ozone,Perfect,41.84
+Tenal,GFE-SS,DCJ-ZT,DCJ-ZT IV,Condensed Alloy,Medium,22.81
+Tenal,GFE-SS,DCJ-ZT,DCJ-ZT IV,Base Metals,Rich,8.00
+Tenal,GFE-SS,DCJ-ZT,DCJ-ZT IV,Noble Metals,Medium,21.06
+Tenal,GFE-SS,DCJ-ZT,DCJ-ZT IV,Industrial Fibers,Perfect,9.11
+Tenal,GFE-SS,DCJ-ZT,DCJ-ZT IV,Liquid Ozone,Rich,38.53
+Tenal,GFE-SS,DCJ-ZT,DCJ-ZT V,Sheen Compound,Rich,31.71
+Tenal,GFE-SS,DCJ-ZT,DCJ-ZT V,Fiber Composite,Medium,22.70
+Tenal,GFE-SS,DCJ-ZT,DCJ-ZT V,Glossy Compound,Rich,28.83
+Tenal,GFE-SS,DCJ-ZT,DCJ-ZT V,Reactive Gas,Rich,29.69
+Tenal,GFE-SS,DCJ-ZT,DCJ-ZT V,Noble Gas,Poor,19.47
+Tenal,GFE-SS,DCJ-ZT,DCJ-ZT VI,Lustering Alloy,Medium,24.30
+Tenal,GFE-SS,DCJ-ZT,DCJ-ZT VI,Sheen Compound,Rich,30.32
+Tenal,GFE-SS,DCJ-ZT,DCJ-ZT VI,Fiber Composite,Perfect,34.40
+Tenal,GFE-SS,DCJ-ZT,DCJ-ZT VI,Glossy Compound,Perfect,34.02
+Tenal,GFE-SS,DCJ-ZT,DCJ-ZT VI,Reactive Gas,Medium,20.31
+Tenal,GFE-SS,DCJ-ZT,DCJ-ZT VII,Sheen Compound,Medium,21.55
+Tenal,GFE-SS,DCJ-ZT,DCJ-ZT VII,Glossy Compound,Rich,30.51
+Tenal,GFE-SS,DCJ-ZT,DCJ-ZT VII,Reactive Gas,Rich,28.85
+Tenal,GFE-SS,DCJ-ZT,DCJ-ZT VII,Base Metals,Medium,5.47
+Tenal,GFE-SS,DCJ-ZT,DCJ-ZT VII,Coolant,Poor,12.67
+Tenal,GFE-SS,DCJ-ZT,DCJ-ZT VIII,Lustering Alloy,Poor,19.24
+Tenal,GFE-SS,DCJ-ZT,DCJ-ZT VIII,Precious Alloy,Rich,27.97
+Tenal,GFE-SS,DCJ-ZT,DCJ-ZT VIII,Heavy Metals,Medium,25.77
+Tenal,GFE-SS,DCJ-ZT,DCJ-ZT VIII,Condensates,Medium,15.39
+Tenal,GFE-SS,O36A-P,O36A-P I,Base Metals,Medium,6.09
+Tenal,GFE-SS,O36A-P,O36A-P I,Noble Metals,Perfect,34.88
+Tenal,GFE-SS,O36A-P,O36A-P I,Industrial Fibers,Medium,5.65
+Tenal,GFE-SS,O36A-P,O36A-P I,Heavy Water,Perfect,340.00
+Tenal,GFE-SS,O36A-P,O36A-P I,Liquid Ozone,Perfect,46.40
+Tenal,GFE-SS,O36A-P,O36A-P II,Gleaming Alloy,Poor,16.44
+Tenal,GFE-SS,O36A-P,O36A-P II,Glossy Compound,Perfect,33.22
+Tenal,GFE-SS,O36A-P,O36A-P II,Oxygen Isotopes,Rich,4.26
+Tenal,GFE-SS,O36A-P,O36A-P III,Dark Compound,Rich,31.42
+Tenal,GFE-SS,O36A-P,O36A-P III,Noble Gas,Perfect,34.78
+Tenal,GFE-SS,O36A-P,O36A-P III,Heavy Metals,Perfect,34.28
+Tenal,GFE-SS,O36A-P,O36A-P III,Condensates,Rich,20.65
+Tenal,GFE-SS,O36A-P,O36A-P III,Plasmoids,Poor,1.11
+Tenal,GFE-SS,O36A-P,O36A-P IV,Fiber Composite,Poor,18.58
+Tenal,GFE-SS,O36A-P,O36A-P IV,Glossy Compound,Perfect,32.62
+Tenal,GFE-SS,O36A-P,O36A-P IV,Reactive Gas,Poor,16.90
+Tenal,GFE-SS,O36A-P,O36A-P IV,Base Metals,Medium,4.96
+Tenal,GFE-SS,O36A-P,O36A-P IV,Polyaramids,Medium,13.25
+Tenal,GFE-SS,O36A-P,O36A-P V,Lucent Compound,Rich,26.56
+Tenal,GFE-SS,O36A-P,O36A-P V,Reactive Gas,Rich,31.12
+Tenal,GFE-SS,O36A-P,O36A-P V,Reactive Metals,Medium,6.35
+Tenal,GFE-SS,O36A-P,O36A-P V,Suspended Plasma,Medium,75.17
+Tenal,GFE-SS,O36A-P,O36A-P VI,Fiber Composite,Rich,30.84
+Tenal,GFE-SS,O36A-P,O36A-P VI,Reactive Gas,Rich,28.40
+Tenal,GFE-SS,O36A-P,O36A-P VI,Noble Gas,Rich,29.88
+Tenal,GFE-SS,O36A-P,O36A-P VI,Base Metals,Perfect,8.38
+Tenal,GFE-SS,O36A-P,O36A-P VI,Reactive Metals,Rich,7.24
+Tenal,GFE-SS,O36A-P,O36A-P VII,Precious Alloy,Medium,24.72
+Tenal,GFE-SS,O36A-P,O36A-P VII,Base Metals,Rich,7.79
+Tenal,GFE-SS,O36A-P,O36A-P VII,Heavy Metals,Poor,14.64
+Tenal,GFE-SS,O36A-P,O36A-P VII,Condensates,Medium,12.84
+Tenal,GFE-SS,Z-LO6I,Z-LO6I I,Lustering Alloy,Medium,26.93
+Tenal,GFE-SS,Z-LO6I,Z-LO6I I,Precious Alloy,Medium,22.57
+Tenal,GFE-SS,Z-LO6I,Z-LO6I I,Toxic Metals,Medium,5.62
+Tenal,GFE-SS,Z-LO6I,Z-LO6I I,Supertensile Plastics,Medium,15.69
+Tenal,GFE-SS,Z-LO6I,Z-LO6I II,Reactive Gas,Medium,24.99
+Tenal,GFE-SS,Z-LO6I,Z-LO6I II,Reactive Metals,Medium,5.50
+Tenal,GFE-SS,Z-LO6I,Z-LO6I II,Construction Blocks,Medium,27.04
+Tenal,GFE-SS,Z-LO6I,Z-LO6I II,Suspended Plasma,Medium,97.57
+Tenal,GFE-SS,Z-LO6I,Z-LO6I III,Crystal Compound,Rich,34.54
+Tenal,GFE-SS,Z-LO6I,Z-LO6I III,Reactive Gas,Medium,25.19
+Tenal,GFE-SS,Z-LO6I,Z-LO6I III,Reactive Metals,Perfect,9.26
+Tenal,GFE-SS,Z-LO6I,Z-LO6I III,Nanites,Medium,7.31
+Tenal,GFE-SS,Z-LO6I,Z-LO6I IV,Condensed Alloy,Medium,21.05
+Tenal,GFE-SS,Z-LO6I,Z-LO6I IV,Noble Metals,Medium,22.77
+Tenal,GFE-SS,Z-LO6I,Z-LO6I IV,Polyaramids,Perfect,23.50
+Tenal,GFE-SS,Z-LO6I,Z-LO6I IV,Heavy Water,Rich,314.82
+Tenal,GFE-SS,Z-LO6I,Z-LO6I IV,Liquid Ozone,Medium,28.08
+Tenal,GFE-SS,Z-LO6I,Z-LO6I V,Industrial Fibers,Medium,5.81
+Tenal,GFE-SS,Z-LO6I,Z-LO6I V,Supertensile Plastics,Poor,9.53
+Tenal,GFE-SS,Z-LO6I,Z-LO6I V,Construction Blocks,Poor,14.39
+Tenal,GFE-SS,Z-LO6I,Z-LO6I V,Plasmoids,Medium,1.29
+Tenal,GFE-SS,Z-LO6I,Z-LO6I VI,Sheen Compound,Rich,32.65
+Tenal,GFE-SS,Z-LO6I,Z-LO6I VI,Fiber Composite,Medium,26.93
+Tenal,GFE-SS,Z-LO6I,Z-LO6I VI,Reactive Gas,Rich,30.49
+Tenal,GFE-SS,Z-LO6I,Z-LO6I VI,Reactive Metals,Rich,8.88
+Tenal,GFE-SS,Z-LO6I,Z-LO6I VI,Coolant,Rich,19.10
+Tenal,GFE-SS,Z-LO6I,Z-LO6I VII,Sheen Compound,Poor,19.49
+Tenal,GFE-SS,Z-LO6I,Z-LO6I VII,Glossy Compound,Perfect,35.60
+Tenal,GFE-SS,Z-LO6I,Z-LO6I VII,Reactive Gas,Rich,32.14
+Tenal,GFE-SS,Z-LO6I,Z-LO6I VII,Base Metals,Medium,6.28
+Tenal,GFE-SS,Z-LO6I,Z-LO6I VII,Coolant,Poor,12.22
+Tenal,GFE-SS,Z-LO6I,Z-LO6I VIII,Lustering Alloy,Poor,16.48
+Tenal,GFE-SS,Z-LO6I,Z-LO6I VIII,Coolant,Medium,14.11
+Tenal,GFE-SS,Z-LO6I,Z-LO6I VIII,Condensates,Rich,21.25
+Tenal,GFE-SS,Z-LO6I,Z-LO6I VIII,Suspended Plasma,Poor,69.62
+Tenal,GFE-SS,Z-LO6I,Z-LO6I IX,Gleaming Alloy,Perfect,36.67
+Tenal,GFE-SS,Z-LO6I,Z-LO6I IX,Noble Gas,Rich,28.31
+Tenal,GFE-SS,Z-LO6I,Z-LO6I IX,Polyaramids,Perfect,23.83
+Tenal,GFE-SS,0M-103,0M-103 I,Precious Alloy,Poor,20.49
+Tenal,GFE-SS,0M-103,0M-103 I,Base Metals,Poor,5.24
+Tenal,GFE-SS,0M-103,0M-103 I,Toxic Metals,Medium,5.96
+Tenal,GFE-SS,0M-103,0M-103 I,Supertensile Plastics,Poor,10.43
+Tenal,GFE-SS,0M-103,0M-103 II,Dark Compound,Poor,18.95
+Tenal,GFE-SS,0M-103,0M-103 II,Base Metals,Medium,5.91
+Tenal,GFE-SS,0M-103,0M-103 II,Industrial Fibers,Poor,5.54
+Tenal,GFE-SS,0M-103,0M-103 II,Supertensile Plastics,Poor,10.78
+Tenal,GFE-SS,0M-103,0M-103 III,Lustering Alloy,Medium,23.41
+Tenal,GFE-SS,0M-103,0M-103 III,Precious Alloy,Medium,22.36
+Tenal,GFE-SS,0M-103,0M-103 III,Industrial Fibers,Poor,4.51
+Tenal,GFE-SS,0M-103,0M-103 III,Supertensile Plastics,Medium,16.39
+Tenal,GFE-SS,0M-103,0M-103 IV,Industrial Fibers,Poor,4.46
+Tenal,GFE-SS,0M-103,0M-103 IV,Supertensile Plastics,Medium,18.29
+Tenal,GFE-SS,0M-103,0M-103 IV,Silicate Glass,Medium,11.63
+Tenal,GFE-SS,0M-103,0M-103 IV,Oxygen Isotopes,Poor,2.73
+Tenal,GFE-SS,0M-103,0M-103 V,Gleaming Alloy,Poor,19.55
+Tenal,GFE-SS,0M-103,0M-103 V,Noble Gas,Medium,22.79
+Tenal,GFE-SS,0M-103,0M-103 V,Oxygen Isotopes,Poor,3.18
+Tenal,GFE-SS,0M-103,0M-103 VI,Precious Alloy,Poor,19.69
+Tenal,GFE-SS,0M-103,0M-103 VI,Industrial Fibers,Medium,5.73
+Tenal,GFE-SS,0M-103,0M-103 VI,Supertensile Plastics,Poor,13.55
+Tenal,GFE-SS,0M-103,0M-103 VI,Plasmoids,Medium,1.62
+Tenal,GFE-SS,0M-103,0M-103 VII,Lucent Compound,Medium,24.84
+Tenal,GFE-SS,0M-103,0M-103 VII,Reactive Metals,Rich,7.81
+Tenal,GFE-SS,0M-103,0M-103 VII,Nanites,Medium,5.71
+Tenal,GFE-SS,0M-103,0M-103 VII,Oxygen Isotopes,Medium,4.03
+Tenal,GFE-SS,0M-103,0M-103 VIII,Lustering Alloy,Poor,19.09
+Tenal,GFE-SS,0M-103,0M-103 VIII,Reactive Gas,Medium,25.62
+Tenal,GFE-SS,0M-103,0M-103 VIII,Reactive Metals,Medium,7.60
+Tenal,GFE-SS,0M-103,0M-103 VIII,Polyaramids,Rich,21.31
+Tenal,GFE-SS,0M-103,0M-103 VIII,Coolant,Medium,19.01
+Tenal,GFE-SS,0M-103,0M-103 IX,Lustering Alloy,Perfect,37.03
+Tenal,GFE-SS,0M-103,0M-103 IX,Sheen Compound,Medium,22.33
+Tenal,GFE-SS,0M-103,0M-103 IX,Glossy Compound,Rich,30.54
+Tenal,GFE-SS,0M-103,0M-103 IX,Reactive Gas,Poor,19.46
+Tenal,GFE-SS,0M-103,0M-103 IX,Polyaramids,Poor,13.43
+Tenal,GFE-SS,0M-103,0M-103 X,Opulent Compound,Medium,24.20
+Tenal,GFE-SS,0M-103,0M-103 X,Toxic Metals,Medium,6.43
+Tenal,GFE-SS,0M-103,0M-103 X,Polyaramids,Medium,15.99
+Tenal,GFE-SS,0M-103,0M-103 X,Heavy Water,Poor,215.97
+Tenal,GFE-SS,0M-103,0M-103 X,Liquid Ozone,Perfect,49.22
+Tenal,GFE-SS,0M-103,0M-103 XI,Gleaming Alloy,Medium,24.61
+Tenal,GFE-SS,0M-103,0M-103 XI,Reactive Metals,Rich,8.09
+Tenal,GFE-SS,0M-103,0M-103 XI,Supertensile Plastics,Medium,15.56
+Tenal,GFE-SS,0M-103,0M-103 XI,Suspended Plasma,Rich,116.09
+Tenal,GFE-SS,6OYQ-Z,6OYQ-Z I,Dark Compound,Poor,18.63
+Tenal,GFE-SS,6OYQ-Z,6OYQ-Z I,Toxic Metals,Medium,6.41
+Tenal,GFE-SS,6OYQ-Z,6OYQ-Z I,Industrial Fibers,Poor,4.30
+Tenal,GFE-SS,6OYQ-Z,6OYQ-Z I,Supertensile Plastics,Poor,9.12
+Tenal,GFE-SS,6OYQ-Z,6OYQ-Z II,Dark Compound,Poor,14.48
+Tenal,GFE-SS,6OYQ-Z,6OYQ-Z II,Toxic Metals,Poor,3.99
+Tenal,GFE-SS,6OYQ-Z,6OYQ-Z II,Supertensile Plastics,Poor,13.11
+Tenal,GFE-SS,6OYQ-Z,6OYQ-Z II,Plasmoids,Poor,1.13
+Tenal,GFE-SS,6OYQ-Z,6OYQ-Z III,Dark Compound,Medium,24.16
+Tenal,GFE-SS,6OYQ-Z,6OYQ-Z III,Toxic Metals,Poor,5.45
+Tenal,GFE-SS,6OYQ-Z,6OYQ-Z III,Supertensile Plastics,Medium,16.90
+Tenal,GFE-SS,6OYQ-Z,6OYQ-Z III,Silicate Glass,Poor,9.82
+Tenal,GFE-SS,6OYQ-Z,6OYQ-Z IV,Lustering Alloy,Medium,25.85
+Tenal,GFE-SS,6OYQ-Z,6OYQ-Z IV,Reactive Gas,Medium,25.45
+Tenal,GFE-SS,6OYQ-Z,6OYQ-Z IV,Reactive Metals,Poor,5.17
+Tenal,GFE-SS,6OYQ-Z,6OYQ-Z IV,Polyaramids,Medium,13.83
+Tenal,GFE-SS,6OYQ-Z,6OYQ-Z IV,Coolant,Medium,16.07
+Tenal,GFE-SS,6OYQ-Z,6OYQ-Z V,Sheen Compound,Rich,34.32
+Tenal,GFE-SS,6OYQ-Z,6OYQ-Z V,Fiber Composite,Poor,18.50
+Tenal,GFE-SS,6OYQ-Z,6OYQ-Z V,Reactive Gas,Rich,33.02
+Tenal,GFE-SS,6OYQ-Z,6OYQ-Z V,Base Metals,Rich,8.52
+Tenal,GFE-SS,6OYQ-Z,6OYQ-Z V,Reactive Metals,Rich,8.55
+Tenal,GFE-SS,6OYQ-Z,6OYQ-Z VI,Glossy Compound,Poor,19.60
+Tenal,GFE-SS,6OYQ-Z,6OYQ-Z VI,Reactive Gas,Poor,19.18
+Tenal,GFE-SS,6OYQ-Z,6OYQ-Z VI,Noble Gas,Medium,25.10
+Tenal,GFE-SS,6OYQ-Z,6OYQ-Z VI,Reactive Metals,Rich,7.87
+Tenal,GFE-SS,6OYQ-Z,6OYQ-Z VI,Coolant,Medium,17.51
+Tenal,GFE-SS,6OYQ-Z,6OYQ-Z VII,Lucent Compound,Medium,23.08
+Tenal,GFE-SS,6OYQ-Z,6OYQ-Z VII,Reactive Metals,Medium,6.41
+Tenal,GFE-SS,6OYQ-Z,6OYQ-Z VII,Supertensile Plastics,Medium,13.93
+Tenal,GFE-SS,6OYQ-Z,6OYQ-Z VII,Nanites,Medium,5.94
+Tenal,GFE-SS,6OYQ-Z,6OYQ-Z VIII,Dark Compound,Medium,25.61
+Tenal,GFE-SS,6OYQ-Z,6OYQ-Z VIII,Base Metals,Poor,4.30
+Tenal,GFE-SS,6OYQ-Z,6OYQ-Z VIII,Supertensile Plastics,Medium,15.21
+Tenal,GFE-SS,6OYQ-Z,6OYQ-Z VIII,Oxygen Isotopes,Poor,2.53
+Tenal,GFE-SS,HE5T-A,HE5T-A I,Lucent Compound,Medium,26.11
+Tenal,GFE-SS,HE5T-A,HE5T-A I,Reactive Metals,Rich,8.06
+Tenal,GFE-SS,HE5T-A,HE5T-A I,Condensates,Rich,21.13
+Tenal,GFE-SS,HE5T-A,HE5T-A I,Ionic Solutions,Rich,13.71
+Tenal,GFE-SS,HE5T-A,HE5T-A I,Plasmoids,Rich,1.75
+Tenal,GFE-SS,HE5T-A,HE5T-A II,Gleaming Alloy,Rich,34.57
+Tenal,GFE-SS,HE5T-A,HE5T-A II,Reactive Gas,Rich,35.10
+Tenal,GFE-SS,HE5T-A,HE5T-A II,Reactive Metals,Rich,8.49
+Tenal,GFE-SS,HE5T-A,HE5T-A II,Suspended Plasma,Medium,97.21
+Tenal,GFE-SS,HE5T-A,HE5T-A III,Precious Alloy,Poor,21.46
+Tenal,GFE-SS,HE5T-A,HE5T-A III,Base Metals,Poor,5.01
+Tenal,GFE-SS,HE5T-A,HE5T-A III,Supertensile Plastics,Poor,13.94
+Tenal,GFE-SS,HE5T-A,HE5T-A III,Construction Blocks,Medium,27.90
+Tenal,GFE-SS,HE5T-A,HE5T-A IV,Noble Metals,Medium,23.23
+Tenal,GFE-SS,HE5T-A,HE5T-A IV,Polyaramids,Rich,22.62
+Tenal,GFE-SS,HE5T-A,HE5T-A IV,Coolant,Medium,17.69
+Tenal,GFE-SS,HE5T-A,HE5T-A IV,Silicate Glass,Perfect,20.00
+Tenal,GFE-SS,HE5T-A,HE5T-A IV,Liquid Ozone,Perfect,47.44
+Tenal,GFE-SS,HE5T-A,HE5T-A V,Lustering Alloy,Medium,27.37
+Tenal,GFE-SS,HE5T-A,HE5T-A V,Base Metals,Poor,4.17
+Tenal,GFE-SS,HE5T-A,HE5T-A V,Industrial Fibers,Poor,3.86
+Tenal,GFE-SS,HE5T-A,HE5T-A V,Supertensile Plastics,Medium,17.22
+Tenal,2-ZRM0,A-1IJ9,A-1IJ9 I,Condensed Alloy,Perfect,37.03
+Tenal,2-ZRM0,A-1IJ9,A-1IJ9 I,Fiber Composite,Rich,28.62
+Tenal,2-ZRM0,A-1IJ9,A-1IJ9 I,Base Metals,Rich,8.12
+Tenal,2-ZRM0,A-1IJ9,A-1IJ9 I,Noble Metals,Medium,23.94
+Tenal,2-ZRM0,A-1IJ9,A-1IJ9 I,Liquid Ozone,Medium,30.75
+Tenal,2-ZRM0,A-1IJ9,A-1IJ9 II,Condensed Alloy,Perfect,39.01
+Tenal,2-ZRM0,A-1IJ9,A-1IJ9 II,Fiber Composite,Medium,26.71
+Tenal,2-ZRM0,A-1IJ9,A-1IJ9 II,Noble Metals,Perfect,35.49
+Tenal,2-ZRM0,A-1IJ9,A-1IJ9 II,Condensates,Rich,18.71
+Tenal,2-ZRM0,A-1IJ9,A-1IJ9 II,Liquid Ozone,Medium,28.35
+Tenal,2-ZRM0,A-1IJ9,A-1IJ9 III,Sheen Compound,Rich,34.80
+Tenal,2-ZRM0,A-1IJ9,A-1IJ9 III,Fiber Composite,Medium,23.10
+Tenal,2-ZRM0,A-1IJ9,A-1IJ9 III,Reactive Gas,Medium,25.72
+Tenal,2-ZRM0,A-1IJ9,A-1IJ9 III,Polyaramids,Medium,13.99
+Tenal,2-ZRM0,A-1IJ9,A-1IJ9 III,Ionic Solutions,Medium,9.53
+Tenal,2-ZRM0,Y-YHZQ,Y-YHZQ I,Reactive Metals,Medium,6.56
+Tenal,2-ZRM0,Y-YHZQ,Y-YHZQ I,Toxic Metals,Medium,7.69
+Tenal,2-ZRM0,Y-YHZQ,Y-YHZQ I,Supertensile Plastics,Medium,19.42
+Tenal,2-ZRM0,Y-YHZQ,Y-YHZQ I,Nanites,Poor,5.74
+Tenal,2-ZRM0,Y-YHZQ,Y-YHZQ II,Sheen Compound,Perfect,41.71
+Tenal,2-ZRM0,Y-YHZQ,Y-YHZQ II,Heavy Metals,Perfect,39.96
+Tenal,2-ZRM0,Y-YHZQ,Y-YHZQ II,Reactive Metals,Medium,6.75
+Tenal,2-ZRM0,Y-YHZQ,Y-YHZQ II,Condensates,Rich,23.70
+Tenal,2-ZRM0,Y-YHZQ,Y-YHZQ II,Nanites,Medium,7.80
+Tenal,2-ZRM0,Y-YHZQ,Y-YHZQ III,Sheen Compound,Poor,21.14
+Tenal,2-ZRM0,Y-YHZQ,Y-YHZQ III,Fiber Composite,Rich,36.29
+Tenal,2-ZRM0,Y-YHZQ,Y-YHZQ III,Glossy Compound,Medium,24.10
+Tenal,2-ZRM0,Y-YHZQ,Y-YHZQ III,Reactive Gas,Perfect,39.38
+Tenal,2-ZRM0,Y-YHZQ,Y-YHZQ III,Ionic Solutions,Rich,15.17
+Tenal,2-ZRM0,Y-YHZQ,Y-YHZQ IV,Lucent Compound,Rich,37.78
+Tenal,2-ZRM0,Y-YHZQ,Y-YHZQ IV,Noble Gas,Medium,29.78
+Tenal,2-ZRM0,Y-YHZQ,Y-YHZQ IV,Reactive Metals,Medium,7.03
+Tenal,2-ZRM0,Y-YHZQ,Y-YHZQ IV,Condensates,Perfect,28.11
+Tenal,2-ZRM0,Y-YHZQ,Y-YHZQ IV,Nanites,Rich,9.23
+Tenal,2-ZRM0,Y-YHZQ,Y-YHZQ V,Sheen Compound,Poor,19.70
+Tenal,2-ZRM0,Y-YHZQ,Y-YHZQ V,Fiber Composite,Medium,23.02
+Tenal,2-ZRM0,Y-YHZQ,Y-YHZQ V,Reactive Gas,Perfect,38.83
+Tenal,2-ZRM0,Y-YHZQ,Y-YHZQ V,Reactive Metals,Rich,9.63
+Tenal,2-ZRM0,Y-YHZQ,Y-YHZQ V,Polyaramids,Medium,19.76
+Tenal,2-ZRM0,Y-YHZQ,Y-YHZQ VI,Sheen Compound,Poor,21.38
+Tenal,2-ZRM0,Y-YHZQ,Y-YHZQ VI,Fiber Composite,Medium,29.74
+Tenal,2-ZRM0,Y-YHZQ,Y-YHZQ VI,Reactive Gas,Poor,19.73
+Tenal,2-ZRM0,Y-YHZQ,Y-YHZQ VI,Base Metals,Poor,5.25
+Tenal,2-ZRM0,Y-YHZQ,Y-YHZQ VI,Reactive Metals,Medium,7.78
+Tenal,2-ZRM0,Y-YHZQ,Y-YHZQ VII,Sheen Compound,Rich,34.32
+Tenal,2-ZRM0,Y-YHZQ,Y-YHZQ VII,Fiber Composite,Rich,35.71
+Tenal,2-ZRM0,Y-YHZQ,Y-YHZQ VII,Reactive Gas,Medium,23.71
+Tenal,2-ZRM0,Y-YHZQ,Y-YHZQ VII,Base Metals,Medium,7.52
+Tenal,2-ZRM0,Y-YHZQ,Y-YHZQ VII,Ionic Solutions,Perfect,15.88
+Tenal,2-ZRM0,Y-YHZQ,Y-YHZQ VIII,Lustering Alloy,Poor,20.74
+Tenal,2-ZRM0,Y-YHZQ,Y-YHZQ VIII,Precious Alloy,Poor,19.42
+Tenal,2-ZRM0,Y-YHZQ,Y-YHZQ VIII,Supertensile Plastics,Poor,10.46
+Tenal,2-ZRM0,Y-YHZQ,Y-YHZQ VIII,Oxygen Isotopes,Poor,2.80
+Tenal,2-ZRM0,Z-SR1I,Z-SR1I I,Lustering Alloy,Poor,20.64
+Tenal,2-ZRM0,Z-SR1I,Z-SR1I I,Dark Compound,Medium,29.90
+Tenal,2-ZRM0,Z-SR1I,Z-SR1I I,Industrial Fibers,Poor,5.84
+Tenal,2-ZRM0,Z-SR1I,Z-SR1I I,Supertensile Plastics,Poor,14.80
+Tenal,2-ZRM0,Z-SR1I,Z-SR1I I,Oxygen Isotopes,Medium,3.72
+Tenal,2-ZRM0,Z-SR1I,Z-SR1I II,Dark Compound,Medium,30.24
+Tenal,2-ZRM0,Z-SR1I,Z-SR1I II,Supertensile Plastics,Poor,11.20
+Tenal,2-ZRM0,Z-SR1I,Z-SR1I II,Construction Blocks,Poor,16.41
+Tenal,2-ZRM0,Z-SR1I,Z-SR1I II,Silicate Glass,Poor,8.09
+Tenal,2-ZRM0,Z-SR1I,Z-SR1I II,Oxygen Isotopes,Poor,3.17
+Tenal,2-ZRM0,Z-SR1I,Z-SR1I III,Condensed Alloy,Rich,34.97
+Tenal,2-ZRM0,Z-SR1I,Z-SR1I III,Base Metals,Medium,8.55
+Tenal,2-ZRM0,Z-SR1I,Z-SR1I III,Industrial Fibers,Perfect,11.86
+Tenal,2-ZRM0,Z-SR1I,Z-SR1I III,Condensates,Rich,24.21
+Tenal,2-ZRM0,Z-SR1I,Z-SR1I III,Smartfab Units,Rich,23.26
+Tenal,2-ZRM0,Z-SR1I,Z-SR1I III,Liquid Ozone,Medium,31.23
+Tenal,2-ZRM0,Z-SR1I,Z-SR1I IV,Precious Alloy,Poor,22.44
+Tenal,2-ZRM0,Z-SR1I,Z-SR1I IV,Dark Compound,Medium,29.07
+Tenal,2-ZRM0,Z-SR1I,Z-SR1I IV,Supertensile Plastics,Medium,20.44
+Tenal,2-ZRM0,Z-SR1I,Z-SR1I IV,Oxygen Isotopes,Medium,4.60
+Tenal,2-ZRM0,Z-SR1I,Z-SR1I IV,Plasmoids,Poor,1.13
+Tenal,2-ZRM0,Z-SR1I,Z-SR1I V,Opulent Compound,Medium,31.62
+Tenal,2-ZRM0,Z-SR1I,Z-SR1I V,Toxic Metals,Medium,7.56
+Tenal,2-ZRM0,Z-SR1I,Z-SR1I V,Polyaramids,Medium,19.67
+Tenal,2-ZRM0,Z-SR1I,Z-SR1I V,Silicate Glass,Medium,16.04
+Tenal,2-ZRM0,Z-SR1I,Z-SR1I V,Heavy Water,Medium,319.80
+Tenal,2-ZRM0,Z-SR1I,Z-SR1I V,Liquid Ozone,Medium,37.86
+Tenal,2-ZRM0,Z-SR1I,Z-SR1I VI,Lustering Alloy,Rich,38.84
+Tenal,2-ZRM0,Z-SR1I,Z-SR1I VI,Glossy Compound,Medium,27.85
+Tenal,2-ZRM0,Z-SR1I,Z-SR1I VI,Base Metals,Poor,6.25
+Tenal,2-ZRM0,Z-SR1I,Z-SR1I VI,Reactive Metals,Perfect,11.05
+Tenal,2-ZRM0,Z-SR1I,Z-SR1I VI,Polyaramids,Medium,20.28
+Tenal,2-ZRM0,Z-SR1I,Z-SR1I VI,Ionic Solutions,Medium,9.89
+Tenal,2-ZRM0,Z-SR1I,Z-SR1I VII,Condensed Alloy,Medium,25.22
+Tenal,2-ZRM0,Z-SR1I,Z-SR1I VII,Fiber Composite,Medium,27.38
+Tenal,2-ZRM0,Z-SR1I,Z-SR1I VII,Noble Metals,Poor,24.18
+Tenal,2-ZRM0,Z-SR1I,Z-SR1I VII,Industrial Fibers,Rich,9.91
+Tenal,2-ZRM0,Z-SR1I,Z-SR1I VII,Heavy Water,Rich,363.74
+Tenal,2-ZRM0,Z-SR1I,Z-SR1I VII,Liquid Ozone,Perfect,60.38
+Tenal,2-ZRM0,Z-SR1I,Z-SR1I VIII,Lustering Alloy,Rich,34.35
+Tenal,2-ZRM0,Z-SR1I,Z-SR1I VIII,Sheen Compound,Medium,28.44
+Tenal,2-ZRM0,Z-SR1I,Z-SR1I VIII,Noble Gas,Poor,23.95
+Tenal,2-ZRM0,Z-SR1I,Z-SR1I VIII,Base Metals,Perfect,11.15
+Tenal,2-ZRM0,Z-SR1I,Z-SR1I VIII,Coolant,Poor,14.66
+Tenal,2-ZRM0,Z-SR1I,Z-SR1I VIII,Ionic Solutions,Perfect,17.10
+Tenal,2-ZRM0,GW7P-8,GW7P-8 I,Gleaming Alloy,Rich,38.58
+Tenal,2-ZRM0,GW7P-8,GW7P-8 I,Glossy Compound,Medium,27.61
+Tenal,2-ZRM0,GW7P-8,GW7P-8 I,Construction Blocks,Poor,22.65
+Tenal,2-ZRM0,GW7P-8,GW7P-8 I,Plasmoids,Poor,1.29
+Tenal,2-ZRM0,GW7P-8,GW7P-8 II,Lustering Alloy,Medium,30.84
+Tenal,2-ZRM0,GW7P-8,GW7P-8 II,Dark Compound,Poor,22.67
+Tenal,2-ZRM0,GW7P-8,GW7P-8 II,Supertensile Plastics,Medium,19.97
+Tenal,2-ZRM0,GW7P-8,GW7P-8 II,Oxygen Isotopes,Medium,4.01
+Tenal,2-ZRM0,GW7P-8,GW7P-8 II,Plasmoids,Medium,1.54
+Tenal,2-ZRM0,GW7P-8,GW7P-8 III,Motley Compound,Poor,23.82
+Tenal,2-ZRM0,GW7P-8,GW7P-8 III,Glossy Compound,Medium,24.75
+Tenal,2-ZRM0,GW7P-8,GW7P-8 III,Heavy Metals,Medium,26.68
+Tenal,2-ZRM0,GW7P-8,GW7P-8 III,Smartfab Units,Rich,26.43
+Tenal,2-ZRM0,GW7P-8,GW7P-8 IV,Crystal Compound,Poor,20.96
+Tenal,2-ZRM0,GW7P-8,GW7P-8 IV,Reactive Gas,Rich,36.76
+Tenal,2-ZRM0,GW7P-8,GW7P-8 IV,Reactive Metals,Medium,7.90
+Tenal,2-ZRM0,GW7P-8,GW7P-8 IV,Toxic Metals,Medium,7.90
+Tenal,2-ZRM0,GW7P-8,GW7P-8 IV,Suspended Plasma,Rich,148.17
+Tenal,2-ZRM0,GW7P-8,GW7P-8 V,Condensed Alloy,Rich,34.55
+Tenal,2-ZRM0,GW7P-8,GW7P-8 V,Fiber Composite,Perfect,41.68
+Tenal,2-ZRM0,GW7P-8,GW7P-8 V,Opulent Compound,Rich,33.57
+Tenal,2-ZRM0,GW7P-8,GW7P-8 V,Base Metals,Perfect,12.53
+Tenal,2-ZRM0,GW7P-8,GW7P-8 V,Heavy Water,Perfect,494.52
+Tenal,2-ZRM0,GW7P-8,GW7P-8 V,Liquid Ozone,Perfect,56.13
+Tenal,2-ZRM0,GW7P-8,GW7P-8 VI,Sheen Compound,Poor,24.10
+Tenal,2-ZRM0,GW7P-8,GW7P-8 VI,Glossy Compound,Medium,30.24
+Tenal,2-ZRM0,GW7P-8,GW7P-8 VI,Noble Gas,Medium,27.74
+Tenal,2-ZRM0,GW7P-8,GW7P-8 VI,Base Metals,Rich,8.81
+Tenal,2-ZRM0,GW7P-8,GW7P-8 VI,Reactive Metals,Medium,8.63
+Tenal,2-ZRM0,GW7P-8,GW7P-8 VI,Polyaramids,Rich,25.62
+Tenal,2-ZRM0,GW7P-8,GW7P-8 VII,Lustering Alloy,Medium,25.82
+Tenal,2-ZRM0,GW7P-8,GW7P-8 VII,Fiber Composite,Rich,35.39
+Tenal,2-ZRM0,GW7P-8,GW7P-8 VII,Reactive Gas,Poor,22.96
+Tenal,2-ZRM0,GW7P-8,GW7P-8 VII,Noble Gas,Medium,31.51
+Tenal,2-ZRM0,GW7P-8,GW7P-8 VII,Polyaramids,Rich,25.32
+Tenal,2-ZRM0,GW7P-8,GW7P-8 VII,Ionic Solutions,Medium,10.76
+Tenal,2-ZRM0,GW7P-8,GW7P-8 VIII,Lustering Alloy,Poor,22.67
+Tenal,2-ZRM0,GW7P-8,GW7P-8 VIII,Fiber Composite,Poor,22.78
+Tenal,2-ZRM0,GW7P-8,GW7P-8 VIII,Glossy Compound,Medium,24.60
+Tenal,2-ZRM0,GW7P-8,GW7P-8 VIII,Noble Gas,Poor,22.80
+Tenal,2-ZRM0,GW7P-8,GW7P-8 VIII,Base Metals,Medium,7.65
+Tenal,2-ZRM0,GW7P-8,GW7P-8 VIII,Polyaramids,Rich,24.04
+Tenal,2-ZRM0,GW7P-8,GW7P-8 IX,Dark Compound,Poor,16.95
+Tenal,2-ZRM0,GW7P-8,GW7P-8 IX,Industrial Fibers,Medium,8.05
+Tenal,2-ZRM0,GW7P-8,GW7P-8 IX,Silicate Glass,Medium,14.55
+Tenal,2-ZRM0,GW7P-8,GW7P-8 IX,Oxygen Isotopes,Poor,3.24
+Tenal,2-ZRM0,GW7P-8,GW7P-8 IX,Plasmoids,Poor,1.30
+Tenal,2-ZRM0,GW7P-8,GW7P-8 X,Lustering Alloy,Medium,26.49
+Tenal,2-ZRM0,GW7P-8,GW7P-8 X,Precious Alloy,Medium,31.64
+Tenal,2-ZRM0,GW7P-8,GW7P-8 X,Heavy Metals,Medium,32.66
+Tenal,2-ZRM0,GW7P-8,GW7P-8 X,Condensates,Rich,25.69
+Tenal,2-ZRM0,GW7P-8,GW7P-8 X,Suspended Plasma,Rich,127.67
+Tenal,2-ZRM0,SF-XJS,SF-XJS I,Reactive Metals,Medium,6.60
+Tenal,2-ZRM0,SF-XJS,SF-XJS I,Condensates,Medium,16.28
+Tenal,2-ZRM0,SF-XJS,SF-XJS I,Nanites,Rich,9.00
+Tenal,2-ZRM0,SF-XJS,SF-XJS I,Suspended Plasma,Medium,90.83
+Tenal,2-ZRM0,SF-XJS,SF-XJS I,Ionic Solutions,Medium,11.64
+Tenal,2-ZRM0,SF-XJS,SF-XJS II,Lustering Alloy,Medium,22.24
+Tenal,2-ZRM0,SF-XJS,SF-XJS II,Precious Alloy,Poor,14.97
+Tenal,2-ZRM0,SF-XJS,SF-XJS II,Toxic Metals,Medium,7.39
+Tenal,2-ZRM0,SF-XJS,SF-XJS II,Supertensile Plastics,Medium,18.35
+Tenal,2-ZRM0,SF-XJS,SF-XJS III,Precious Alloy,Medium,26.68
+Tenal,2-ZRM0,SF-XJS,SF-XJS III,Dark Compound,Poor,18.15
+Tenal,2-ZRM0,SF-XJS,SF-XJS III,Base Metals,Poor,4.12
+Tenal,2-ZRM0,SF-XJS,SF-XJS III,Supertensile Plastics,Medium,18.57
+Tenal,2-ZRM0,SF-XJS,SF-XJS IV,Reactive Gas,Medium,23.60
+Tenal,2-ZRM0,SF-XJS,SF-XJS IV,Base Metals,Medium,6.33
+Tenal,2-ZRM0,SF-XJS,SF-XJS IV,Reactive Metals,Rich,8.30
+Tenal,2-ZRM0,SF-XJS,SF-XJS IV,Polyaramids,Rich,22.91
+Tenal,2-ZRM0,SF-XJS,SF-XJS IV,Coolant,Poor,13.52
+Tenal,2-ZRM0,SF-XJS,SF-XJS V,Condensed Alloy,Perfect,41.52
+Tenal,2-ZRM0,SF-XJS,SF-XJS V,Opulent Compound,Perfect,39.74
+Tenal,2-ZRM0,SF-XJS,SF-XJS V,Reactive Gas,Rich,35.95
+Tenal,2-ZRM0,SF-XJS,SF-XJS V,Condensates,Rich,21.94
+Tenal,2-ZRM0,SF-XJS,SF-XJS V,Liquid Ozone,Medium,34.59
+Tenal,2-ZRM0,SF-XJS,SF-XJS VI,Gleaming Alloy,Medium,24.31
+Tenal,2-ZRM0,SF-XJS,SF-XJS VI,Construction Blocks,Perfect,36.91
+Tenal,2-ZRM0,SF-XJS,SF-XJS VI,Plasmoids,Poor,1.17
+Tenal,2-ZRM0,SF-XJS,SF-XJS VII,Sheen Compound,Rich,30.20
+Tenal,2-ZRM0,SF-XJS,SF-XJS VII,Fiber Composite,Medium,25.46
+Tenal,2-ZRM0,SF-XJS,SF-XJS VII,Reactive Gas,Poor,20.75
+Tenal,2-ZRM0,SF-XJS,SF-XJS VII,Base Metals,Medium,5.98
+Tenal,2-ZRM0,SF-XJS,SF-XJS VII,Polyaramids,Medium,19.15
+Tenal,2-ZRM0,SF-XJS,SF-XJS VIII,Crystal Compound,Rich,35.49
+Tenal,2-ZRM0,SF-XJS,SF-XJS VIII,Reactive Gas,Rich,33.03
+Tenal,2-ZRM0,SF-XJS,SF-XJS VIII,Reactive Metals,Poor,5.02
+Tenal,2-ZRM0,SF-XJS,SF-XJS VIII,Nanites,Rich,9.51
+Tenal,2-ZRM0,SF-XJS,SF-XJS IX,Sheen Compound,Medium,25.32
+Tenal,2-ZRM0,SF-XJS,SF-XJS IX,Fiber Composite,Rich,34.78
+Tenal,2-ZRM0,SF-XJS,SF-XJS IX,Reactive Gas,Rich,30.96
+Tenal,2-ZRM0,SF-XJS,SF-XJS IX,Reactive Metals,Medium,6.63
+Tenal,2-ZRM0,SF-XJS,SF-XJS IX,Ionic Solutions,Medium,8.90
+Tenal,2-ZRM0,SF-XJS,SF-XJS X,Lustering Alloy,Rich,32.94
+Tenal,2-ZRM0,SF-XJS,SF-XJS X,Fiber Composite,Medium,24.29
+Tenal,2-ZRM0,SF-XJS,SF-XJS X,Glossy Compound,Medium,22.84
+Tenal,2-ZRM0,SF-XJS,SF-XJS X,Reactive Gas,Medium,23.28
+Tenal,2-ZRM0,SF-XJS,SF-XJS X,Coolant,Rich,23.77
+Tenal,2-ZRM0,SF-XJS,SF-XJS XI,Base Metals,Poor,5.10
+Tenal,2-ZRM0,SF-XJS,SF-XJS XI,Coolant,Poor,12.37
+Tenal,2-ZRM0,SF-XJS,SF-XJS XI,Condensates,Medium,19.21
+Tenal,2-ZRM0,SF-XJS,SF-XJS XI,Suspended Plasma,Poor,60.69
+Tenal,2-ZRM0,A1RR-M,A1RR-M I,Sheen Compound,Medium,27.44
+Tenal,2-ZRM0,A1RR-M,A1RR-M I,Dark Compound,Rich,36.15
+Tenal,2-ZRM0,A1RR-M,A1RR-M I,Reactive Metals,Rich,9.44
+Tenal,2-ZRM0,A1RR-M,A1RR-M I,Condensates,Medium,22.06
+Tenal,2-ZRM0,A1RR-M,A1RR-M I,Suspended Plasma,Rich,158.56
+Tenal,2-ZRM0,A1RR-M,A1RR-M I,Ionic Solutions,Medium,11.50
+Tenal,2-ZRM0,A1RR-M,A1RR-M II,Glossy Compound,Medium,28.50
+Tenal,2-ZRM0,A1RR-M,A1RR-M II,Noble Metals,Poor,25.87
+Tenal,2-ZRM0,A1RR-M,A1RR-M II,Polyaramids,Perfect,30.93
+Tenal,2-ZRM0,A1RR-M,A1RR-M II,Construction Blocks,Perfect,44.58
+Tenal,2-ZRM0,A1RR-M,A1RR-M III,Condensed Alloy,Medium,29.40
+Tenal,2-ZRM0,A1RR-M,A1RR-M III,Fiber Composite,Perfect,47.63
+Tenal,2-ZRM0,A1RR-M,A1RR-M III,Opulent Compound,Medium,29.62
+Tenal,2-ZRM0,A1RR-M,A1RR-M III,Noble Metals,Perfect,51.35
+Tenal,2-ZRM0,A1RR-M,A1RR-M III,Condensates,Rich,29.49
+Tenal,2-ZRM0,A1RR-M,A1RR-M III,Liquid Ozone,Medium,35.80
+Tenal,2-ZRM0,A1RR-M,A1RR-M IV,Gleaming Alloy,Rich,38.53
+Tenal,2-ZRM0,A1RR-M,A1RR-M IV,Crystal Compound,Medium,34.92
+Tenal,2-ZRM0,A1RR-M,A1RR-M IV,Construction Blocks,Rich,43.88
+Tenal,2-ZRM0,A1RR-M,A1RR-M IV,Nanites,Rich,10.32
+Tenal,2-ZRM0,A1RR-M,A1RR-M IV,Suspended Plasma,Medium,96.77
+Tenal,2-ZRM0,A1RR-M,A1RR-M V,Lustering Alloy,Poor,25.42
+Tenal,2-ZRM0,A1RR-M,A1RR-M V,Dark Compound,Poor,19.74
+Tenal,2-ZRM0,A1RR-M,A1RR-M V,Toxic Metals,Medium,7.48
+Tenal,2-ZRM0,A1RR-M,A1RR-M V,Industrial Fibers,Poor,5.85
+Tenal,2-ZRM0,A1RR-M,A1RR-M V,Construction Blocks,Poor,17.42
+Tenal,2-ZRM0,A1RR-M,A1RR-M VI,Motley Compound,Medium,32.06
+Tenal,2-ZRM0,A1RR-M,A1RR-M VI,Glossy Compound,Medium,29.60
+Tenal,2-ZRM0,A1RR-M,A1RR-M VI,Heavy Metals,Rich,36.20
+Tenal,2-ZRM0,A1RR-M,A1RR-M VI,Oxygen Isotopes,Rich,6.34
+Tenal,2-ZRM0,A1RR-M,A1RR-M VII,Lustering Alloy,Perfect,45.22
+Tenal,2-ZRM0,A1RR-M,A1RR-M VII,Reactive Gas,Medium,29.60
+Tenal,2-ZRM0,A1RR-M,A1RR-M VII,Reactive Metals,Medium,7.32
+Tenal,2-ZRM0,A1RR-M,A1RR-M VII,Polyaramids,Rich,26.58
+Tenal,2-ZRM0,A1RR-M,A1RR-M VII,Coolant,Rich,25.69
+Tenal,2-ZRM0,A1RR-M,A1RR-M VII,Ionic Solutions,Medium,10.57
+Tenal,2-ZRM0,A1RR-M,A1RR-M VIII,Lustering Alloy,Rich,36.62
+Tenal,2-ZRM0,A1RR-M,A1RR-M VIII,Sheen Compound,Poor,23.41
+Tenal,2-ZRM0,A1RR-M,A1RR-M VIII,Glossy Compound,Rich,40.24
+Tenal,2-ZRM0,A1RR-M,A1RR-M VIII,Reactive Gas,Rich,36.71
+Tenal,2-ZRM0,A1RR-M,A1RR-M VIII,Reactive Metals,Perfect,12.11
+Tenal,2-ZRM0,A1RR-M,A1RR-M VIII,Polyaramids,Rich,25.44
+Tenal,2-ZRM0,A1RR-M,A1RR-M IX,Sheen Compound,Rich,41.38
+Tenal,2-ZRM0,A1RR-M,A1RR-M IX,Fiber Composite,Medium,28.45
+Tenal,2-ZRM0,A1RR-M,A1RR-M IX,Glossy Compound,Poor,24.84
+Tenal,2-ZRM0,A1RR-M,A1RR-M IX,Reactive Gas,Rich,41.86
+Tenal,2-ZRM0,A1RR-M,A1RR-M IX,Base Metals,Rich,10.62
+Tenal,2-ZRM0,A1RR-M,A1RR-M IX,Coolant,Medium,17.75
+Tenal,2-ZRM0,A1RR-M,A1RR-M X,Gleaming Alloy,Medium,26.46
+Tenal,2-ZRM0,A1RR-M,A1RR-M X,Glossy Compound,Rich,35.53
+Tenal,2-ZRM0,A1RR-M,A1RR-M X,Construction Blocks,Rich,37.74
+Tenal,2-ZRM0,A1RR-M,A1RR-M X,Plasmoids,Rich,2.14
+Tenal,2-ZRM0,A1RR-M,A1RR-M XI,Dark Compound,Poor,21.00
+Tenal,2-ZRM0,A1RR-M,A1RR-M XI,Base Metals,Poor,4.70
+Tenal,2-ZRM0,A1RR-M,A1RR-M XI,Toxic Metals,Medium,7.36
+Tenal,2-ZRM0,A1RR-M,A1RR-M XI,Oxygen Isotopes,Medium,4.62
+Tenal,2-ZRM0,A1RR-M,A1RR-M XI,Plasmoids,Medium,1.86
+Tenal,2-ZRM0,A1RR-M,A1RR-M XII,Polyaramids,Medium,20.35
+Tenal,2-ZRM0,A1RR-M,A1RR-M XII,Coolant,Rich,26.23
+Tenal,2-ZRM0,A1RR-M,A1RR-M XII,Silicate Glass,Rich,19.87
+Tenal,2-ZRM0,A1RR-M,A1RR-M XII,Heavy Water,Medium,294.28
+Tenal,2-ZRM0,A1RR-M,A1RR-M XII,Liquid Ozone,Poor,32.34
+Tenal,2-ZRM0,A1RR-M,A1RR-M XII,Ionic Solutions,Rich,17.23
+Tenal,2-ZRM0,AR-5SY,AR-5SY I,Precious Alloy,Medium,34.13
+Tenal,2-ZRM0,AR-5SY,AR-5SY I,Dark Compound,Poor,19.89
+Tenal,2-ZRM0,AR-5SY,AR-5SY I,Toxic Metals,Medium,7.20
+Tenal,2-ZRM0,AR-5SY,AR-5SY I,Oxygen Isotopes,Medium,4.19
+Tenal,2-ZRM0,AR-5SY,AR-5SY I,Plasmoids,Medium,2.07
+Tenal,2-ZRM0,AR-5SY,AR-5SY II,Dark Compound,Medium,34.89
+Tenal,2-ZRM0,AR-5SY,AR-5SY II,Toxic Metals,Poor,5.86
+Tenal,2-ZRM0,AR-5SY,AR-5SY II,Industrial Fibers,Medium,7.64
+Tenal,2-ZRM0,AR-5SY,AR-5SY II,Construction Blocks,Medium,28.33
+Tenal,2-ZRM0,AR-5SY,AR-5SY II,Oxygen Isotopes,Poor,4.05
+Tenal,2-ZRM0,AR-5SY,AR-5SY III,Lucent Compound,Poor,23.81
+Tenal,2-ZRM0,AR-5SY,AR-5SY III,Crystal Compound,Rich,42.83
+Tenal,2-ZRM0,AR-5SY,AR-5SY III,Supertensile Plastics,Rich,29.17
+Tenal,2-ZRM0,AR-5SY,AR-5SY III,Suspended Plasma,Medium,129.66
+Tenal,2-ZRM0,AR-5SY,AR-5SY III,Oxygen Isotopes,Medium,4.32
+Tenal,2-ZRM0,AR-5SY,AR-5SY IV,Condensed Alloy,Rich,37.84
+Tenal,2-ZRM0,AR-5SY,AR-5SY IV,Opulent Compound,Rich,41.24
+Tenal,2-ZRM0,AR-5SY,AR-5SY IV,Noble Metals,Medium,27.81
+Tenal,2-ZRM0,AR-5SY,AR-5SY IV,Toxic Metals,Medium,9.10
+Tenal,2-ZRM0,AR-5SY,AR-5SY IV,Polyaramids,Perfect,32.02
+Tenal,2-ZRM0,AR-5SY,AR-5SY IV,Ionic Solutions,Rich,15.79
+Tenal,2-ZRM0,AR-5SY,AR-5SY V,Lustering Alloy,Medium,30.13
+Tenal,2-ZRM0,AR-5SY,AR-5SY V,Sheen Compound,Medium,36.51
+Tenal,2-ZRM0,AR-5SY,AR-5SY V,Noble Gas,Medium,31.67
+Tenal,2-ZRM0,AR-5SY,AR-5SY V,Base Metals,Medium,8.91
+Tenal,2-ZRM0,AR-5SY,AR-5SY V,Reactive Metals,Perfect,12.55
+Tenal,2-ZRM0,AR-5SY,AR-5SY V,Ionic Solutions,Medium,10.99
+Tenal,2-ZRM0,AR-5SY,AR-5SY VI,Fiber Composite,Perfect,46.20
+Tenal,2-ZRM0,AR-5SY,AR-5SY VI,Glossy Compound,Poor,26.51
+Tenal,2-ZRM0,AR-5SY,AR-5SY VI,Base Metals,Rich,11.32
+Tenal,2-ZRM0,AR-5SY,AR-5SY VI,Reactive Metals,Medium,8.50
+Tenal,2-ZRM0,AR-5SY,AR-5SY VI,Polyaramids,Poor,17.01
+Tenal,2-ZRM0,AR-5SY,AR-5SY VI,Ionic Solutions,Medium,12.61
+Tenal,2-ZRM0,AR-5SY,AR-5SY VII,Lustering Alloy,Medium,32.77
+Tenal,2-ZRM0,AR-5SY,AR-5SY VII,Fiber Composite,Rich,40.31
+Tenal,2-ZRM0,AR-5SY,AR-5SY VII,Reactive Gas,Rich,45.24
+Tenal,2-ZRM0,AR-5SY,AR-5SY VII,Noble Gas,Rich,42.37
+Tenal,2-ZRM0,AR-5SY,AR-5SY VII,Base Metals,Medium,7.39
+Tenal,2-ZRM0,AR-5SY,AR-5SY VII,Ionic Solutions,Perfect,18.54
+Tenal,2-ZRM0,AR-5SY,AR-5SY VIII,Precious Alloy,Poor,23.90
+Tenal,2-ZRM0,AR-5SY,AR-5SY VIII,Heavy Metals,Medium,29.90
+Tenal,2-ZRM0,AR-5SY,AR-5SY VIII,Industrial Fibers,Medium,9.62
+Tenal,2-ZRM0,AR-5SY,AR-5SY VIII,Supertensile Plastics,Medium,23.70
+Tenal,2-ZRM0,AR-5SY,AR-5SY VIII,Coolant,Poor,15.06
+Tenal,2-ZRM0,OE-4HB,OE-4HB I,Lustering Alloy,Medium,34.05
+Tenal,2-ZRM0,OE-4HB,OE-4HB I,Precious Alloy,Poor,21.63
+Tenal,2-ZRM0,OE-4HB,OE-4HB I,Dark Compound,Medium,31.74
+Tenal,2-ZRM0,OE-4HB,OE-4HB I,Toxic Metals,Poor,7.13
+Tenal,2-ZRM0,OE-4HB,OE-4HB I,Plasmoids,Medium,1.99
+Tenal,2-ZRM0,OE-4HB,OE-4HB II,Condensed Alloy,Rich,40.68
+Tenal,2-ZRM0,OE-4HB,OE-4HB II,Opulent Compound,Poor,28.20
+Tenal,2-ZRM0,OE-4HB,OE-4HB II,Base Metals,Perfect,13.17
+Tenal,2-ZRM0,OE-4HB,OE-4HB II,Condensates,Medium,24.82
+Tenal,2-ZRM0,OE-4HB,OE-4HB II,Heavy Water,Medium,375.30
+Tenal,2-ZRM0,OE-4HB,OE-4HB II,Liquid Ozone,Rich,54.15
+Tenal,2-ZRM0,OE-4HB,OE-4HB III,Gleaming Alloy,Poor,24.18
+Tenal,2-ZRM0,OE-4HB,OE-4HB III,Lucent Compound,Rich,44.67
+Tenal,2-ZRM0,OE-4HB,OE-4HB III,Crystal Compound,Rich,41.82
+Tenal,2-ZRM0,OE-4HB,OE-4HB III,Toxic Metals,Rich,11.01
+Tenal,2-ZRM0,OE-4HB,OE-4HB III,Suspended Plasma,Rich,162.11
+Tenal,2-ZRM0,OE-4HB,OE-4HB IV,Sheen Compound,Rich,44.70
+Tenal,2-ZRM0,OE-4HB,OE-4HB IV,Reactive Gas,Rich,39.33
+Tenal,2-ZRM0,OE-4HB,OE-4HB IV,Noble Gas,Rich,44.16
+Tenal,2-ZRM0,OE-4HB,OE-4HB IV,Base Metals,Medium,9.67
+Tenal,2-ZRM0,OE-4HB,OE-4HB IV,Coolant,Rich,29.14
+Tenal,2-ZRM0,OE-4HB,OE-4HB IV,Ionic Solutions,Perfect,19.81
+Tenal,2-ZRM0,OE-4HB,OE-4HB V,Condensed Alloy,Medium,35.22
+Tenal,2-ZRM0,OE-4HB,OE-4HB V,Fiber Composite,Perfect,57.06
+Tenal,2-ZRM0,OE-4HB,OE-4HB V,Opulent Compound,Rich,42.93
+Tenal,2-ZRM0,OE-4HB,OE-4HB V,Base Metals,Rich,11.49
+Tenal,2-ZRM0,OE-4HB,OE-4HB V,Noble Metals,Medium,33.90
+Tenal,2-ZRM0,OE-4HB,OE-4HB V,Industrial Fibers,Perfect,14.14
+Tenal,2-ZRM0,OE-4HB,OE-4HB VI,Fiber Composite,Rich,40.65
+Tenal,2-ZRM0,OE-4HB,OE-4HB VI,Glossy Compound,Rich,44.64
+Tenal,2-ZRM0,OE-4HB,OE-4HB VI,Reactive Gas,Medium,36.69
+Tenal,2-ZRM0,OE-4HB,OE-4HB VI,Base Metals,Rich,11.22
+Tenal,2-ZRM0,OE-4HB,OE-4HB VI,Reactive Metals,Medium,9.07
+Tenal,2-ZRM0,OE-4HB,OE-4HB VI,Ionic Solutions,Rich,16.57
+Tenal,O-EOI9,ZK-YQ3,ZK-YQ3 I,Gleaming Alloy,Rich,29.49
+Tenal,O-EOI9,ZK-YQ3,ZK-YQ3 I,Motley Compound,Rich,34.94
+Tenal,O-EOI9,ZK-YQ3,ZK-YQ3 I,Smartfab Units,Rich,21.77
+Tenal,O-EOI9,ZK-YQ3,ZK-YQ3 II,Precious Alloy,Medium,26.91
+Tenal,O-EOI9,ZK-YQ3,ZK-YQ3 II,Dark Compound,Medium,22.61
+Tenal,O-EOI9,ZK-YQ3,ZK-YQ3 II,Supertensile Plastics,Poor,12.19
+Tenal,O-EOI9,ZK-YQ3,ZK-YQ3 II,Silicate Glass,Poor,7.41
+Tenal,O-EOI9,ZK-YQ3,ZK-YQ3 III,Sheen Compound,Rich,32.31
+Tenal,O-EOI9,ZK-YQ3,ZK-YQ3 III,Fiber Composite,Rich,32.41
+Tenal,O-EOI9,ZK-YQ3,ZK-YQ3 III,Glossy Compound,Medium,26.01
+Tenal,O-EOI9,ZK-YQ3,ZK-YQ3 III,Reactive Gas,Medium,28.84
+Tenal,O-EOI9,ZK-YQ3,ZK-YQ3 III,Base Metals,Medium,7.57
+Tenal,O-EOI9,ZK-YQ3,ZK-YQ3 IV,Fiber Composite,Medium,25.39
+Tenal,O-EOI9,ZK-YQ3,ZK-YQ3 IV,Glossy Compound,Rich,33.67
+Tenal,O-EOI9,ZK-YQ3,ZK-YQ3 IV,Reactive Gas,Rich,30.15
+Tenal,O-EOI9,ZK-YQ3,ZK-YQ3 IV,Base Metals,Poor,5.25
+Tenal,O-EOI9,ZK-YQ3,ZK-YQ3 IV,Reactive Metals,Poor,5.14
+Tenal,O-EOI9,ZK-YQ3,ZK-YQ3 V,Sheen Compound,Rich,32.29
+Tenal,O-EOI9,ZK-YQ3,ZK-YQ3 V,Fiber Composite,Rich,31.69
+Tenal,O-EOI9,ZK-YQ3,ZK-YQ3 V,Glossy Compound,Rich,33.92
+Tenal,O-EOI9,ZK-YQ3,ZK-YQ3 V,Reactive Gas,Medium,22.22
+Tenal,O-EOI9,ZK-YQ3,ZK-YQ3 V,Reactive Metals,Medium,6.79
+Tenal,O-EOI9,ZK-YQ3,ZK-YQ3 VI,Fiber Composite,Rich,29.81
+Tenal,O-EOI9,ZK-YQ3,ZK-YQ3 VI,Reactive Gas,Rich,31.92
+Tenal,O-EOI9,ZK-YQ3,ZK-YQ3 VI,Noble Gas,Rich,32.52
+Tenal,O-EOI9,ZK-YQ3,ZK-YQ3 VI,Base Metals,Medium,5.85
+Tenal,O-EOI9,ZK-YQ3,ZK-YQ3 VI,Ionic Solutions,Rich,14.43
+Tenal,O-EOI9,MZPH-W,MZPH-W I,Dark Compound,Medium,27.55
+Tenal,O-EOI9,MZPH-W,MZPH-W I,Industrial Fibers,Medium,7.21
+Tenal,O-EOI9,MZPH-W,MZPH-W I,Supertensile Plastics,Medium,15.96
+Tenal,O-EOI9,MZPH-W,MZPH-W I,Construction Blocks,Medium,23.07
+Tenal,O-EOI9,MZPH-W,MZPH-W II,Precious Alloy,Poor,16.79
+Tenal,O-EOI9,MZPH-W,MZPH-W II,Dark Compound,Medium,22.03
+Tenal,O-EOI9,MZPH-W,MZPH-W II,Base Metals,Poor,5.64
+Tenal,O-EOI9,MZPH-W,MZPH-W II,Supertensile Plastics,Poor,12.70
+Tenal,O-EOI9,MZPH-W,MZPH-W III,Condensed Alloy,Poor,20.24
+Tenal,O-EOI9,MZPH-W,MZPH-W III,Coolant,Rich,23.97
+Tenal,O-EOI9,MZPH-W,MZPH-W III,Heavy Water,Medium,290.26
+Tenal,O-EOI9,MZPH-W,MZPH-W III,Liquid Ozone,Poor,25.85
+Tenal,O-EOI9,MZPH-W,MZPH-W III,Ionic Solutions,Perfect,15.18
+Tenal,O-EOI9,MZPH-W,MZPH-W IV,Condensed Alloy,Medium,24.86
+Tenal,O-EOI9,MZPH-W,MZPH-W IV,Opulent Compound,Perfect,39.54
+Tenal,O-EOI9,MZPH-W,MZPH-W IV,Reactive Gas,Rich,33.12
+Tenal,O-EOI9,MZPH-W,MZPH-W IV,Heavy Water,Medium,266.57
+Tenal,O-EOI9,MZPH-W,MZPH-W IV,Liquid Ozone,Rich,38.81
+Tenal,O-EOI9,MZPH-W,MZPH-W V,Sheen Compound,Rich,34.18
+Tenal,O-EOI9,MZPH-W,MZPH-W V,Glossy Compound,Rich,30.82
+Tenal,O-EOI9,MZPH-W,MZPH-W V,Reactive Gas,Rich,31.72
+Tenal,O-EOI9,MZPH-W,MZPH-W V,Noble Gas,Rich,29.83
+Tenal,O-EOI9,MZPH-W,MZPH-W V,Ionic Solutions,Poor,8.35
+Tenal,O-EOI9,W0X-MG,W0X-MG I,Base Metals,Medium,6.91
+Tenal,O-EOI9,W0X-MG,W0X-MG I,Toxic Metals,Medium,6.36
+Tenal,O-EOI9,W0X-MG,W0X-MG I,Industrial Fibers,Medium,6.31
+Tenal,O-EOI9,W0X-MG,W0X-MG I,Supertensile Plastics,Poor,10.56
+Tenal,O-EOI9,W0X-MG,W0X-MG II,Crystal Compound,Medium,21.43
+Tenal,O-EOI9,W0X-MG,W0X-MG II,Reactive Gas,Rich,32.47
+Tenal,O-EOI9,W0X-MG,W0X-MG II,Reactive Metals,Poor,4.89
+Tenal,O-EOI9,W0X-MG,W0X-MG II,Supertensile Plastics,Medium,17.89
+Tenal,O-EOI9,W0X-MG,W0X-MG III,Lustering Alloy,Medium,25.63
+Tenal,O-EOI9,W0X-MG,W0X-MG III,Precious Alloy,Poor,14.37
+Tenal,O-EOI9,W0X-MG,W0X-MG III,Industrial Fibers,Poor,5.06
+Tenal,O-EOI9,W0X-MG,W0X-MG III,Supertensile Plastics,Poor,12.97
+Tenal,O-EOI9,W0X-MG,W0X-MG IV,Lustering Alloy,Perfect,35.73
+Tenal,O-EOI9,W0X-MG,W0X-MG IV,Reactive Gas,Rich,29.04
+Tenal,O-EOI9,W0X-MG,W0X-MG IV,Noble Gas,Rich,30.49
+Tenal,O-EOI9,W0X-MG,W0X-MG IV,Coolant,Rich,21.08
+Tenal,O-EOI9,W0X-MG,W0X-MG IV,Ionic Solutions,Rich,12.72
+Tenal,O-EOI9,W0X-MG,W0X-MG V,Lustering Alloy,Rich,28.51
+Tenal,O-EOI9,W0X-MG,W0X-MG V,Fiber Composite,Poor,19.54
+Tenal,O-EOI9,W0X-MG,W0X-MG V,Reactive Gas,Medium,21.65
+Tenal,O-EOI9,W0X-MG,W0X-MG V,Base Metals,Medium,6.40
+Tenal,O-EOI9,W0X-MG,W0X-MG V,Reactive Metals,Rich,8.79
+Tenal,O-EOI9,W0X-MG,W0X-MG VI,Sheen Compound,Rich,32.60
+Tenal,O-EOI9,W0X-MG,W0X-MG VI,Glossy Compound,Medium,22.07
+Tenal,O-EOI9,W0X-MG,W0X-MG VI,Reactive Gas,Rich,32.80
+Tenal,O-EOI9,W0X-MG,W0X-MG VI,Reactive Metals,Rich,9.04
+Tenal,O-EOI9,W0X-MG,W0X-MG VI,Ionic Solutions,Poor,7.24
+Tenal,O-EOI9,W0X-MG,W0X-MG VII,Motley Compound,Poor,19.10
+Tenal,O-EOI9,W0X-MG,W0X-MG VII,Industrial Fibers,Medium,5.71
+Tenal,O-EOI9,W0X-MG,W0X-MG VII,Condensates,Poor,12.47
+Tenal,O-EOI9,W0X-MG,W0X-MG VII,Liquid Ozone,Medium,34.29
+Tenal,O-EOI9,JI-1UQ,JI-1UQ I,Base Metals,Poor,4.03
+Tenal,O-EOI9,JI-1UQ,JI-1UQ I,Industrial Fibers,Medium,6.98
+Tenal,O-EOI9,JI-1UQ,JI-1UQ I,Supertensile Plastics,Poor,12.63
+Tenal,O-EOI9,JI-1UQ,JI-1UQ I,Plasmoids,Poor,1.07
+Tenal,O-EOI9,JI-1UQ,JI-1UQ II,Fiber Composite,Poor,21.16
+Tenal,O-EOI9,JI-1UQ,JI-1UQ II,Condensates,Medium,19.40
+Tenal,O-EOI9,JI-1UQ,JI-1UQ II,Smartfab Units,Rich,23.71
+Tenal,O-EOI9,JI-1UQ,JI-1UQ II,Heavy Water,Perfect,375.13
+Tenal,O-EOI9,JI-1UQ,JI-1UQ II,Liquid Ozone,Rich,39.73
+Tenal,O-EOI9,JI-1UQ,JI-1UQ III,Reactive Gas,Poor,20.29
+Tenal,O-EOI9,JI-1UQ,JI-1UQ III,Base Metals,Rich,8.49
+Tenal,O-EOI9,JI-1UQ,JI-1UQ III,Reactive Metals,Poor,5.67
+Tenal,O-EOI9,JI-1UQ,JI-1UQ III,Polyaramids,Perfect,25.12
+Tenal,O-EOI9,JI-1UQ,JI-1UQ III,Ionic Solutions,Rich,14.36
+Tenal,O-EOI9,JI-1UQ,JI-1UQ IV,Sheen Compound,Rich,29.30
+Tenal,O-EOI9,JI-1UQ,JI-1UQ IV,Glossy Compound,Rich,32.98
+Tenal,O-EOI9,JI-1UQ,JI-1UQ IV,Reactive Gas,Rich,31.58
+Tenal,O-EOI9,JI-1UQ,JI-1UQ IV,Polyaramids,Perfect,24.72
+Tenal,O-EOI9,JI-1UQ,JI-1UQ IV,Coolant,Rich,21.27
+Tenal,O-EOI9,JI-1UQ,JI-1UQ V,Precious Alloy,Medium,27.16
+Tenal,O-EOI9,JI-1UQ,JI-1UQ V,Dark Compound,Medium,27.25
+Tenal,O-EOI9,JI-1UQ,JI-1UQ V,Base Metals,Medium,6.59
+Tenal,O-EOI9,JI-1UQ,JI-1UQ V,Supertensile Plastics,Medium,18.71
+Tenal,O-EOI9,JI-1UQ,JI-1UQ VI,Lustering Alloy,Poor,17.55
+Tenal,O-EOI9,JI-1UQ,JI-1UQ VI,Dark Compound,Poor,20.82
+Tenal,O-EOI9,JI-1UQ,JI-1UQ VI,Supertensile Plastics,Medium,16.35
+Tenal,O-EOI9,JI-1UQ,JI-1UQ VI,Construction Blocks,Poor,17.39
+Tenal,O-EOI9,JI-1UQ,JI-1UQ VII,Heavy Metals,Poor,19.27
+Tenal,O-EOI9,JI-1UQ,JI-1UQ VII,Industrial Fibers,Rich,8.20
+Tenal,O-EOI9,JI-1UQ,JI-1UQ VII,Condensates,Poor,14.44
+Tenal,O-EOI9,JI-1UQ,JI-1UQ VII,Suspended Plasma,Poor,66.41
+Tenal,O-EOI9,EN-GTB,EN-GTB I,Gleaming Alloy,Poor,21.55
+Tenal,O-EOI9,EN-GTB,EN-GTB I,Heavy Metals,Poor,20.77
+Tenal,O-EOI9,EN-GTB,EN-GTB I,Oxygen Isotopes,Rich,4.71
+Tenal,O-EOI9,EN-GTB,EN-GTB II,Lustering Alloy,Medium,27.35
+Tenal,O-EOI9,EN-GTB,EN-GTB II,Supertensile Plastics,Poor,9.60
+Tenal,O-EOI9,EN-GTB,EN-GTB II,Construction Blocks,Poor,21.44
+Tenal,O-EOI9,EN-GTB,EN-GTB II,Plasmoids,Medium,1.68
+Tenal,O-EOI9,EN-GTB,EN-GTB III,Gleaming Alloy,Medium,26.45
+Tenal,O-EOI9,EN-GTB,EN-GTB III,Crystal Compound,Poor,20.49
+Tenal,O-EOI9,EN-GTB,EN-GTB III,Reactive Metals,Medium,6.92
+Tenal,O-EOI9,EN-GTB,EN-GTB III,Construction Blocks,Medium,26.54
+Tenal,O-EOI9,EN-GTB,EN-GTB IV,Condensed Alloy,Rich,31.97
+Tenal,O-EOI9,EN-GTB,EN-GTB IV,Noble Metals,Medium,26.45
+Tenal,O-EOI9,EN-GTB,EN-GTB IV,Industrial Fibers,Poor,5.60
+Tenal,O-EOI9,EN-GTB,EN-GTB IV,Condensates,Perfect,24.84
+Tenal,O-EOI9,EN-GTB,EN-GTB IV,Liquid Ozone,Medium,30.70
+Tenal,O-EOI9,EN-GTB,EN-GTB V,Lustering Alloy,Poor,21.05
+Tenal,O-EOI9,EN-GTB,EN-GTB V,Reactive Gas,Medium,25.92
+Tenal,O-EOI9,EN-GTB,EN-GTB V,Polyaramids,Medium,17.71
+Tenal,O-EOI9,EN-GTB,EN-GTB V,Coolant,Medium,15.82
+Tenal,O-EOI9,EN-GTB,EN-GTB V,Ionic Solutions,Rich,11.70
+Tenal,O-EOI9,EN-GTB,EN-GTB VI,Reactive Gas,Medium,22.49
+Tenal,O-EOI9,EN-GTB,EN-GTB VI,Noble Gas,Medium,21.85
+Tenal,O-EOI9,EN-GTB,EN-GTB VI,Base Metals,Rich,7.79
+Tenal,O-EOI9,EN-GTB,EN-GTB VI,Reactive Metals,Rich,8.29
+Tenal,O-EOI9,EN-GTB,EN-GTB VI,Coolant,Medium,17.08
+Tenal,O-EOI9,EN-GTB,EN-GTB VII,Lustering Alloy,Medium,21.96
+Tenal,O-EOI9,EN-GTB,EN-GTB VII,Reactive Gas,Poor,20.91
+Tenal,O-EOI9,EN-GTB,EN-GTB VII,Polyaramids,Rich,21.67
+Tenal,O-EOI9,EN-GTB,EN-GTB VII,Coolant,Perfect,25.28
+Tenal,O-EOI9,EN-GTB,EN-GTB VII,Ionic Solutions,Poor,8.27
+Tenal,O-EOI9,U5-XW7,U5-XW7 I,Gleaming Alloy,Perfect,39.60
+Tenal,O-EOI9,U5-XW7,U5-XW7 I,Motley Compound,Medium,28.73
+Tenal,O-EOI9,U5-XW7,U5-XW7 I,Oxygen Isotopes,Medium,4.52
+Tenal,O-EOI9,U5-XW7,U5-XW7 II,Noble Metals,Rich,30.65
+Tenal,O-EOI9,U5-XW7,U5-XW7 II,Toxic Metals,Medium,7.86
+Tenal,O-EOI9,U5-XW7,U5-XW7 II,Coolant,Poor,14.56
+Tenal,O-EOI9,U5-XW7,U5-XW7 II,Heavy Water,Medium,266.40
+Tenal,O-EOI9,U5-XW7,U5-XW7 II,Liquid Ozone,Rich,38.88
+Tenal,O-EOI9,U5-XW7,U5-XW7 III,Gleaming Alloy,Rich,31.75
+Tenal,O-EOI9,U5-XW7,U5-XW7 III,Motley Compound,Rich,31.46
+Tenal,O-EOI9,U5-XW7,U5-XW7 III,Plasmoids,Medium,1.74
+Tenal,O-EOI9,U5-XW7,U5-XW7 IV,Fiber Composite,Rich,36.94
+Tenal,O-EOI9,U5-XW7,U5-XW7 IV,Base Metals,Perfect,11.24
+Tenal,O-EOI9,U5-XW7,U5-XW7 IV,Smartfab Units,Rich,23.07
+Tenal,O-EOI9,U5-XW7,U5-XW7 IV,Heavy Water,Rich,357.36
+Tenal,O-EOI9,U5-XW7,U5-XW7 IV,Liquid Ozone,Medium,28.38
+Tenal,O-EOI9,U5-XW7,U5-XW7 V,Precious Alloy,Poor,21.19
+Tenal,O-EOI9,U5-XW7,U5-XW7 V,Base Metals,Medium,6.25
+Tenal,O-EOI9,U5-XW7,U5-XW7 V,Supertensile Plastics,Poor,12.16
+Tenal,O-EOI9,U5-XW7,U5-XW7 V,Plasmoids,Poor,1.31
+Tenal,1D-65L,JSI-LL,JSI-LL I,Lustering Alloy,Medium,26.40
+Tenal,1D-65L,JSI-LL,JSI-LL I,Dark Compound,Medium,28.85
+Tenal,1D-65L,JSI-LL,JSI-LL I,Construction Blocks,Medium,24.43
+Tenal,1D-65L,JSI-LL,JSI-LL I,Oxygen Isotopes,Poor,2.92
+Tenal,1D-65L,JSI-LL,JSI-LL I,Plasmoids,Poor,1.26
+Tenal,1D-65L,JSI-LL,JSI-LL II,Lustering Alloy,Medium,25.63
+Tenal,1D-65L,JSI-LL,JSI-LL II,Dark Compound,Poor,17.57
+Tenal,1D-65L,JSI-LL,JSI-LL II,Industrial Fibers,Medium,7.84
+Tenal,1D-65L,JSI-LL,JSI-LL II,Supertensile Plastics,Medium,19.87
+Tenal,1D-65L,JSI-LL,JSI-LL II,Oxygen Isotopes,Poor,2.90
+Tenal,1D-65L,JSI-LL,JSI-LL III,Condensed Alloy,Rich,35.15
+Tenal,1D-65L,JSI-LL,JSI-LL III,Opulent Compound,Perfect,43.95
+Tenal,1D-65L,JSI-LL,JSI-LL III,Base Metals,Rich,10.32
+Tenal,1D-65L,JSI-LL,JSI-LL III,Noble Metals,Rich,38.83
+Tenal,1D-65L,JSI-LL,JSI-LL III,Heavy Water,Rich,393.50
+Tenal,1D-65L,JSI-LL,JSI-LL III,Liquid Ozone,Rich,41.56
+Tenal,1D-65L,JSI-LL,JSI-LL IV,Dark Compound,Poor,20.73
+Tenal,1D-65L,JSI-LL,JSI-LL IV,Supertensile Plastics,Medium,20.03
+Tenal,1D-65L,JSI-LL,JSI-LL IV,Construction Blocks,Medium,24.48
+Tenal,1D-65L,JSI-LL,JSI-LL IV,Silicate Glass,Medium,14.54
+Tenal,1D-65L,JSI-LL,JSI-LL IV,Oxygen Isotopes,Medium,4.43
+Tenal,1D-65L,JSI-LL,JSI-LL V,Sheen Compound,Rich,38.88
+Tenal,1D-65L,JSI-LL,JSI-LL V,Fiber Composite,Medium,23.73
+Tenal,1D-65L,JSI-LL,JSI-LL V,Reactive Metals,Rich,9.32
+Tenal,1D-65L,JSI-LL,JSI-LL V,Polyaramids,Rich,21.98
+Tenal,1D-65L,JSI-LL,JSI-LL V,Coolant,Poor,15.30
+Tenal,1D-65L,JSI-LL,JSI-LL V,Ionic Solutions,Medium,11.64
+Tenal,1D-65L,JSI-LL,JSI-LL VI,Dark Compound,Poor,16.68
+Tenal,1D-65L,JSI-LL,JSI-LL VI,Toxic Metals,Poor,5.42
+Tenal,1D-65L,JSI-LL,JSI-LL VI,Industrial Fibers,Poor,5.66
+Tenal,1D-65L,JSI-LL,JSI-LL VI,Construction Blocks,Poor,22.75
+Tenal,1D-65L,JSI-LL,JSI-LL VI,Plasmoids,Medium,1.57
+Tenal,1D-65L,JSI-LL,JSI-LL VII,Precious Alloy,Medium,28.13
+Tenal,1D-65L,JSI-LL,JSI-LL VII,Dark Compound,Medium,24.68
+Tenal,1D-65L,JSI-LL,JSI-LL VII,Industrial Fibers,Medium,6.50
+Tenal,1D-65L,JSI-LL,JSI-LL VII,Supertensile Plastics,Medium,19.37
+Tenal,1D-65L,JSI-LL,JSI-LL VII,Silicate Glass,Poor,11.76
+Tenal,1D-65L,M-UC0S,M-UC0S I,Glossy Compound,Medium,31.17
+Tenal,1D-65L,M-UC0S,M-UC0S I,Polyaramids,Poor,14.20
+Tenal,1D-65L,M-UC0S,M-UC0S I,Oxygen Isotopes,Medium,4.79
+Tenal,1D-65L,M-UC0S,M-UC0S I,Plasmoids,Rich,2.23
+Tenal,1D-65L,M-UC0S,M-UC0S II,Dark Compound,Poor,19.47
+Tenal,1D-65L,M-UC0S,M-UC0S II,Toxic Metals,Poor,4.54
+Tenal,1D-65L,M-UC0S,M-UC0S II,Industrial Fibers,Medium,7.77
+Tenal,1D-65L,M-UC0S,M-UC0S II,Construction Blocks,Medium,31.02
+Tenal,1D-65L,M-UC0S,M-UC0S II,Oxygen Isotopes,Poor,2.75
+Tenal,1D-65L,M-UC0S,M-UC0S III,Polyaramids,Perfect,28.65
+Tenal,1D-65L,M-UC0S,M-UC0S III,Coolant,Medium,18.43
+Tenal,1D-65L,M-UC0S,M-UC0S III,Silicate Glass,Rich,20.24
+Tenal,1D-65L,M-UC0S,M-UC0S III,Heavy Water,Rich,357.50
+Tenal,1D-65L,M-UC0S,M-UC0S III,Liquid Ozone,Medium,39.39
+Tenal,1D-65L,M-UC0S,M-UC0S III,Ionic Solutions,Perfect,17.87
+Tenal,1D-65L,M-UC0S,M-UC0S IV,Glossy Compound,Rich,34.74
+Tenal,1D-65L,M-UC0S,M-UC0S IV,Noble Gas,Rich,38.71
+Tenal,1D-65L,M-UC0S,M-UC0S IV,Heavy Metals,Rich,38.04
+Tenal,1D-65L,M-UC0S,M-UC0S IV,Smartfab Units,Poor,15.13
+Tenal,1D-65L,M-UC0S,M-UC0S V,Lustering Alloy,Medium,29.09
+Tenal,1D-65L,M-UC0S,M-UC0S V,Precious Alloy,Medium,29.72
+Tenal,1D-65L,M-UC0S,M-UC0S V,Dark Compound,Medium,28.70
+Tenal,1D-65L,M-UC0S,M-UC0S V,Base Metals,Medium,7.68
+Tenal,1D-65L,M-UC0S,M-UC0S V,Silicate Glass,Poor,9.83
+Tenal,1D-65L,M-UC0S,M-UC0S VI,Lucent Compound,Medium,32.24
+Tenal,1D-65L,M-UC0S,M-UC0S VI,Crystal Compound,Medium,31.77
+Tenal,1D-65L,M-UC0S,M-UC0S VI,Toxic Metals,Rich,10.61
+Tenal,1D-65L,M-UC0S,M-UC0S VI,Suspended Plasma,Rich,140.96
+Tenal,1D-65L,M-UC0S,M-UC0S VI,Oxygen Isotopes,Perfect,6.35
+Tenal,1D-65L,M-UC0S,M-UC0S VII,Condensed Alloy,Medium,25.17
+Tenal,1D-65L,M-UC0S,M-UC0S VII,Fiber Composite,Perfect,44.02
+Tenal,1D-65L,M-UC0S,M-UC0S VII,Base Metals,Perfect,12.36
+Tenal,1D-65L,M-UC0S,M-UC0S VII,Noble Metals,Medium,30.81
+Tenal,1D-65L,M-UC0S,M-UC0S VII,Condensates,Medium,17.28
+Tenal,1D-65L,M-UC0S,M-UC0S VII,Smartfab Units,Rich,27.20
+Tenal,1D-65L,M-UC0S,M-UC0S VIII,Lustering Alloy,Rich,35.57
+Tenal,1D-65L,M-UC0S,M-UC0S VIII,Fiber Composite,Rich,40.30
+Tenal,1D-65L,M-UC0S,M-UC0S VIII,Glossy Compound,Poor,22.36
+Tenal,1D-65L,M-UC0S,M-UC0S VIII,Noble Gas,Rich,36.50
+Tenal,1D-65L,M-UC0S,M-UC0S VIII,Reactive Metals,Medium,7.81
+Tenal,1D-65L,M-UC0S,M-UC0S VIII,Ionic Solutions,Medium,10.29
+Tenal,1D-65L,V7-MID,V7-MID I,Dark Compound,Poor,19.31
+Tenal,1D-65L,V7-MID,V7-MID I,Base Metals,Medium,8.38
+Tenal,1D-65L,V7-MID,V7-MID I,Toxic Metals,Poor,6.01
+Tenal,1D-65L,V7-MID,V7-MID I,Industrial Fibers,Medium,9.20
+Tenal,1D-65L,V7-MID,V7-MID I,Supertensile Plastics,Medium,22.58
+Tenal,1D-65L,V7-MID,V7-MID II,Glossy Compound,Rich,43.65
+Tenal,1D-65L,V7-MID,V7-MID II,Noble Metals,Perfect,48.43
+Tenal,1D-65L,V7-MID,V7-MID II,Polyaramids,Perfect,32.62
+Tenal,1D-65L,V7-MID,V7-MID II,Construction Blocks,Medium,30.04
+Tenal,1D-65L,V7-MID,V7-MID III,Dark Compound,Medium,34.08
+Tenal,1D-65L,V7-MID,V7-MID III,Industrial Fibers,Medium,8.60
+Tenal,1D-65L,V7-MID,V7-MID III,Construction Blocks,Medium,27.78
+Tenal,1D-65L,V7-MID,V7-MID III,Silicate Glass,Medium,16.81
+Tenal,1D-65L,V7-MID,V7-MID III,Plasmoids,Poor,1.10
+Tenal,1D-65L,V7-MID,V7-MID IV,Lucent Compound,Rich,41.12
+Tenal,1D-65L,V7-MID,V7-MID IV,Crystal Compound,Perfect,46.89
+Tenal,1D-65L,V7-MID,V7-MID IV,Toxic Metals,Medium,9.10
+Tenal,1D-65L,V7-MID,V7-MID IV,Supertensile Plastics,Poor,18.02
+Tenal,1D-65L,V7-MID,V7-MID IV,Oxygen Isotopes,Rich,6.79
+Tenal,1D-65L,V7-MID,V7-MID V,Condensed Alloy,Perfect,48.66
+Tenal,1D-65L,V7-MID,V7-MID V,Fiber Composite,Rich,40.54
+Tenal,1D-65L,V7-MID,V7-MID V,Opulent Compound,Rich,43.24
+Tenal,1D-65L,V7-MID,V7-MID V,Industrial Fibers,Perfect,13.54
+Tenal,1D-65L,V7-MID,V7-MID V,Smartfab Units,Medium,21.13
+Tenal,1D-65L,V7-MID,V7-MID V,Liquid Ozone,Rich,55.43
+Tenal,1D-65L,V7-MID,V7-MID VI,Lustering Alloy,Medium,32.65
+Tenal,1D-65L,V7-MID,V7-MID VI,Sheen Compound,Medium,32.48
+Tenal,1D-65L,V7-MID,V7-MID VI,Fiber Composite,Rich,42.08
+Tenal,1D-65L,V7-MID,V7-MID VI,Reactive Gas,Medium,32.77
+Tenal,1D-65L,V7-MID,V7-MID VI,Noble Gas,Rich,38.40
+Tenal,1D-65L,V7-MID,V7-MID VI,Ionic Solutions,Rich,16.63
+Tenal,1D-65L,V7-MID,V7-MID VII,Lustering Alloy,Perfect,46.14
+Tenal,1D-65L,V7-MID,V7-MID VII,Reactive Gas,Rich,41.01
+Tenal,1D-65L,V7-MID,V7-MID VII,Noble Gas,Medium,31.46
+Tenal,1D-65L,V7-MID,V7-MID VII,Base Metals,Medium,8.68
+Tenal,1D-65L,V7-MID,V7-MID VII,Polyaramids,Medium,19.29
+Tenal,1D-65L,V7-MID,V7-MID VII,Coolant,Rich,26.74
+Tenal,1D-65L,V7-MID,V7-MID VIII,Sheen Compound,Perfect,46.78
+Tenal,1D-65L,V7-MID,V7-MID VIII,Fiber Composite,Medium,34.28
+Tenal,1D-65L,V7-MID,V7-MID VIII,Reactive Gas,Poor,26.88
+Tenal,1D-65L,V7-MID,V7-MID VIII,Noble Gas,Medium,29.99
+Tenal,1D-65L,V7-MID,V7-MID VIII,Base Metals,Rich,11.71
+Tenal,1D-65L,V7-MID,V7-MID VIII,Coolant,Perfect,31.86
+Tenal,1D-65L,V7-MID,V7-MID IX,Fiber Composite,Rich,45.27
+Tenal,1D-65L,V7-MID,V7-MID IX,Noble Gas,Medium,31.70
+Tenal,1D-65L,V7-MID,V7-MID IX,Base Metals,Poor,6.43
+Tenal,1D-65L,V7-MID,V7-MID IX,Reactive Metals,Medium,8.93
+Tenal,1D-65L,V7-MID,V7-MID IX,Polyaramids,Rich,26.85
+Tenal,1D-65L,V7-MID,V7-MID IX,Coolant,Medium,20.32
+Tenal,1D-65L,SY0W-2,SY0W-2 I,Dark Compound,Rich,38.75
+Tenal,1D-65L,SY0W-2,SY0W-2 I,Condensates,Medium,20.92
+Tenal,1D-65L,SY0W-2,SY0W-2 I,Nanites,Rich,8.95
+Tenal,1D-65L,SY0W-2,SY0W-2 I,Suspended Plasma,Rich,116.01
+Tenal,1D-65L,SY0W-2,SY0W-2 I,Ionic Solutions,Medium,9.82
+Tenal,1D-65L,SY0W-2,SY0W-2 I,Plasmoids,Rich,1.92
+Tenal,1D-65L,SY0W-2,SY0W-2 II,Gleaming Alloy,Medium,28.95
+Tenal,1D-65L,SY0W-2,SY0W-2 II,Motley Compound,Medium,29.77
+Tenal,1D-65L,SY0W-2,SY0W-2 II,Glossy Compound,Rich,33.67
+Tenal,1D-65L,SY0W-2,SY0W-2 II,Polyaramids,Medium,20.98
+Tenal,1D-65L,SY0W-2,SY0W-2 III,Lustering Alloy,Rich,32.92
+Tenal,1D-65L,SY0W-2,SY0W-2 III,Fiber Composite,Medium,28.48
+Tenal,1D-65L,SY0W-2,SY0W-2 III,Reactive Gas,Medium,28.70
+Tenal,1D-65L,SY0W-2,SY0W-2 III,Noble Gas,Perfect,39.85
+Tenal,1D-65L,SY0W-2,SY0W-2 III,Base Metals,Rich,10.45
+Tenal,1D-65L,SY0W-2,SY0W-2 III,Coolant,Poor,14.45
+Tenal,1D-65L,SY0W-2,SY0W-2 IV,Precious Alloy,Poor,23.00
+Tenal,1D-65L,SY0W-2,SY0W-2 IV,Dark Compound,Poor,21.02
+Tenal,1D-65L,SY0W-2,SY0W-2 IV,Toxic Metals,Poor,5.31
+Tenal,1D-65L,SY0W-2,SY0W-2 IV,Supertensile Plastics,Medium,19.22
+Tenal,1D-65L,SY0W-2,SY0W-2 IV,Silicate Glass,Medium,11.97
+Tenal,1D-65L,SY0W-2,SY0W-2 V,Lustering Alloy,Poor,22.38
+Tenal,1D-65L,SY0W-2,SY0W-2 V,Fiber Composite,Rich,36.40
+Tenal,1D-65L,SY0W-2,SY0W-2 V,Reactive Gas,Medium,26.40
+Tenal,1D-65L,SY0W-2,SY0W-2 V,Noble Gas,Medium,26.60
+Tenal,1D-65L,SY0W-2,SY0W-2 V,Reactive Metals,Rich,9.63
+Tenal,1D-65L,SY0W-2,SY0W-2 V,Polyaramids,Medium,18.68
+Tenal,1D-65L,SY0W-2,SY0W-2 VI,Fiber Composite,Rich,38.55
+Tenal,1D-65L,SY0W-2,SY0W-2 VI,Glossy Compound,Medium,28.43
+Tenal,1D-65L,SY0W-2,SY0W-2 VI,Reactive Gas,Rich,37.38
+Tenal,1D-65L,SY0W-2,SY0W-2 VI,Base Metals,Medium,7.76
+Tenal,1D-65L,SY0W-2,SY0W-2 VI,Polyaramids,Medium,20.20
+Tenal,1D-65L,SY0W-2,SY0W-2 VI,Ionic Solutions,Medium,11.78
+Tenal,1D-65L,SY0W-2,SY0W-2 VII,Lustering Alloy,Medium,28.77
+Tenal,1D-65L,SY0W-2,SY0W-2 VII,Dark Compound,Poor,21.30
+Tenal,1D-65L,SY0W-2,SY0W-2 VII,Supertensile Plastics,Poor,15.05
+Tenal,1D-65L,SY0W-2,SY0W-2 VII,Silicate Glass,Poor,7.84
+Tenal,1D-65L,SY0W-2,SY0W-2 VII,Oxygen Isotopes,Poor,3.42
+Tenal,1D-65L,2-3Q2G,2-3Q2G I,Precious Alloy,Poor,19.26
+Tenal,1D-65L,2-3Q2G,2-3Q2G I,Dark Compound,Poor,24.57
+Tenal,1D-65L,2-3Q2G,2-3Q2G I,Industrial Fibers,Medium,8.46
+Tenal,1D-65L,2-3Q2G,2-3Q2G I,Construction Blocks,Poor,21.84
+Tenal,1D-65L,2-3Q2G,2-3Q2G I,Oxygen Isotopes,Medium,4.99
+Tenal,1D-65L,2-3Q2G,2-3Q2G II,Gleaming Alloy,Medium,37.23
+Tenal,1D-65L,2-3Q2G,2-3Q2G II,Glossy Compound,Rich,40.71
+Tenal,1D-65L,2-3Q2G,2-3Q2G II,Noble Gas,Poor,26.01
+Tenal,1D-65L,2-3Q2G,2-3Q2G II,Noble Metals,Perfect,50.85
+Tenal,1D-65L,2-3Q2G,2-3Q2G III,Fiber Composite,Medium,37.14
+Tenal,1D-65L,2-3Q2G,2-3Q2G III,Glossy Compound,Rich,43.05
+Tenal,1D-65L,2-3Q2G,2-3Q2G III,Reactive Gas,Rich,46.02
+Tenal,1D-65L,2-3Q2G,2-3Q2G III,Base Metals,Rich,10.78
+Tenal,1D-65L,2-3Q2G,2-3Q2G III,Polyaramids,Perfect,33.04
+Tenal,1D-65L,2-3Q2G,2-3Q2G III,Coolant,Medium,19.26
+Tenal,1D-65L,2-3Q2G,2-3Q2G IV,Sheen Compound,Poor,28.17
+Tenal,1D-65L,2-3Q2G,2-3Q2G IV,Glossy Compound,Rich,47.10
+Tenal,1D-65L,2-3Q2G,2-3Q2G IV,Reactive Gas,Poor,27.24
+Tenal,1D-65L,2-3Q2G,2-3Q2G IV,Noble Gas,Medium,29.82
+Tenal,1D-65L,2-3Q2G,2-3Q2G IV,Base Metals,Medium,8.41
+Tenal,1D-65L,2-3Q2G,2-3Q2G IV,Ionic Solutions,Poor,10.96
+Tenal,1D-65L,2-3Q2G,2-3Q2G V,Sheen Compound,Rich,39.09
+Tenal,1D-65L,2-3Q2G,2-3Q2G V,Fiber Composite,Rich,45.75
+Tenal,1D-65L,2-3Q2G,2-3Q2G V,Noble Gas,Medium,28.89
+Tenal,1D-65L,2-3Q2G,2-3Q2G V,Base Metals,Medium,8.02
+Tenal,1D-65L,2-3Q2G,2-3Q2G V,Coolant,Medium,23.12
+Tenal,1D-65L,2-3Q2G,2-3Q2G V,Ionic Solutions,Medium,13.21
+Tenal,1D-65L,2-3Q2G,2-3Q2G VI,Precious Alloy,Poor,27.93
+Tenal,1D-65L,2-3Q2G,2-3Q2G VI,Base Metals,Rich,10.24
+Tenal,1D-65L,2-3Q2G,2-3Q2G VI,Coolant,Medium,23.84
+Tenal,1D-65L,2-3Q2G,2-3Q2G VI,Condensates,Rich,28.46
+Tenal,1D-65L,2-3Q2G,2-3Q2G VI,Suspended Plasma,Medium,123.98
+Tenal,1D-65L,Q1U-IU,Q1U-IU I,Gleaming Alloy,Perfect,40.54
+Tenal,1D-65L,Q1U-IU,Q1U-IU I,Smartfab Units,Rich,22.77
+Tenal,1D-65L,Q1U-IU,Q1U-IU I,Oxygen Isotopes,Rich,5.52
+Tenal,1D-65L,Q1U-IU,Q1U-IU II,Precious Alloy,Medium,22.66
+Tenal,1D-65L,Q1U-IU,Q1U-IU II,Toxic Metals,Poor,5.53
+Tenal,1D-65L,Q1U-IU,Q1U-IU II,Supertensile Plastics,Medium,15.31
+Tenal,1D-65L,Q1U-IU,Q1U-IU II,Plasmoids,Poor,0.93
+Tenal,1D-65L,Q1U-IU,Q1U-IU III,Precious Alloy,Medium,25.32
+Tenal,1D-65L,Q1U-IU,Q1U-IU III,Supertensile Plastics,Poor,11.33
+Tenal,1D-65L,Q1U-IU,Q1U-IU III,Construction Blocks,Medium,22.66
+Tenal,1D-65L,Q1U-IU,Q1U-IU III,Silicate Glass,Poor,8.86
+Tenal,1D-65L,Q1U-IU,Q1U-IU IV,Condensed Alloy,Medium,26.45
+Tenal,1D-65L,Q1U-IU,Q1U-IU IV,Industrial Fibers,Rich,9.01
+Tenal,1D-65L,Q1U-IU,Q1U-IU IV,Smartfab Units,Perfect,30.53
+Tenal,1D-65L,Q1U-IU,Q1U-IU IV,Heavy Water,Rich,307.44
+Tenal,1D-65L,Q1U-IU,Q1U-IU IV,Liquid Ozone,Medium,31.86
+Tenal,1D-65L,Q1U-IU,Q1U-IU V,Fiber Composite,Rich,37.54
+Tenal,1D-65L,Q1U-IU,Q1U-IU V,Glossy Compound,Rich,32.52
+Tenal,1D-65L,Q1U-IU,Q1U-IU V,Reactive Gas,Medium,24.12
+Tenal,1D-65L,Q1U-IU,Q1U-IU V,Base Metals,Poor,5.89
+Tenal,1D-65L,Q1U-IU,Q1U-IU V,Coolant,Rich,23.36
+Tenal,1D-65L,Q1U-IU,Q1U-IU VI,Lustering Alloy,Poor,22.56
+Tenal,1D-65L,Q1U-IU,Q1U-IU VI,Supertensile Plastics,Medium,15.33
+Tenal,1D-65L,Q1U-IU,Q1U-IU VI,Oxygen Isotopes,Poor,2.69
+Tenal,1D-65L,Q1U-IU,Q1U-IU VI,Plasmoids,Medium,1.63
+Tenal,1D-65L,Q1U-IU,Q1U-IU VII,Condensed Alloy,Rich,32.98
+Tenal,1D-65L,Q1U-IU,Q1U-IU VII,Crystal Compound,Perfect,41.69
+Tenal,1D-65L,Q1U-IU,Q1U-IU VII,Polyaramids,Perfect,28.16
+Tenal,1D-65L,Q1U-IU,Q1U-IU VII,Coolant,Rich,25.02
+Tenal,1D-65L,Q1U-IU,Q1U-IU VII,Liquid Ozone,Medium,35.76
+Tenal,1D-65L,Q1U-IU,Q1U-IU VIII,Reactive Gas,Medium,24.55
+Tenal,1D-65L,Q1U-IU,Q1U-IU VIII,Base Metals,Medium,6.61
+Tenal,1D-65L,Q1U-IU,Q1U-IU VIII,Reactive Metals,Rich,8.79
+Tenal,1D-65L,Q1U-IU,Q1U-IU VIII,Polyaramids,Perfect,25.92
+Tenal,1D-65L,Q1U-IU,Q1U-IU VIII,Ionic Solutions,Medium,9.67
+Tenal,1D-65L,Q1U-IU,Q1U-IU IX,Lustering Alloy,Poor,20.66
+Tenal,1D-65L,Q1U-IU,Q1U-IU IX,Coolant,Rich,21.07
+Tenal,1D-65L,Q1U-IU,Q1U-IU IX,Condensates,Medium,16.16
+Tenal,1D-65L,Q1U-IU,Q1U-IU IX,Liquid Ozone,Poor,23.19
+Tenal,1D-65L,Q1U-IU,Q1U-IU X,Lustering Alloy,Rich,31.68
+Tenal,1D-65L,Q1U-IU,Q1U-IU X,Precious Alloy,Poor,21.22
+Tenal,1D-65L,Q1U-IU,Q1U-IU X,Condensates,Medium,20.10
+Tenal,1D-65L,Q1U-IU,Q1U-IU X,Suspended Plasma,Poor,65.40
+Tenal,E-72A3,C-XNUA,C-XNUA I,Lustering Alloy,Medium,30.71
+Tenal,E-72A3,C-XNUA,C-XNUA I,Dark Compound,Medium,27.40
+Tenal,E-72A3,C-XNUA,C-XNUA I,Toxic Metals,Medium,6.71
+Tenal,E-72A3,C-XNUA,C-XNUA I,Industrial Fibers,Medium,7.68
+Tenal,E-72A3,C-XNUA,C-XNUA I,Silicate Glass,Poor,11.82
+Tenal,E-72A3,C-XNUA,C-XNUA II,Glossy Compound,Medium,32.16
+Tenal,E-72A3,C-XNUA,C-XNUA II,Heavy Metals,Medium,31.82
+Tenal,E-72A3,C-XNUA,C-XNUA II,Noble Metals,Poor,22.72
+Tenal,E-72A3,C-XNUA,C-XNUA II,Plasmoids,Poor,1.27
+Tenal,E-72A3,C-XNUA,C-XNUA III,Condensed Alloy,Medium,28.34
+Tenal,E-72A3,C-XNUA,C-XNUA III,Fiber Composite,Poor,24.47
+Tenal,E-72A3,C-XNUA,C-XNUA III,Reactive Gas,Medium,30.32
+Tenal,E-72A3,C-XNUA,C-XNUA III,Base Metals,Perfect,11.35
+Tenal,E-72A3,C-XNUA,C-XNUA III,Noble Metals,Rich,33.46
+Tenal,E-72A3,C-XNUA,C-XNUA III,Liquid Ozone,Perfect,59.09
+Tenal,E-72A3,C-XNUA,C-XNUA IV,Lustering Alloy,Poor,17.00
+Tenal,E-72A3,C-XNUA,C-XNUA IV,Precious Alloy,Poor,17.13
+Tenal,E-72A3,C-XNUA,C-XNUA IV,Dark Compound,Poor,23.56
+Tenal,E-72A3,C-XNUA,C-XNUA IV,Oxygen Isotopes,Poor,3.08
+Tenal,E-72A3,C-XNUA,C-XNUA IV,Plasmoids,Poor,1.38
+Tenal,E-72A3,C-XNUA,C-XNUA V,Dark Compound,Medium,25.38
+Tenal,E-72A3,C-XNUA,C-XNUA V,Base Metals,Poor,6.10
+Tenal,E-72A3,C-XNUA,C-XNUA V,Construction Blocks,Medium,24.91
+Tenal,E-72A3,C-XNUA,C-XNUA V,Silicate Glass,Medium,15.21
+Tenal,E-72A3,C-XNUA,C-XNUA V,Oxygen Isotopes,Poor,3.27
+Tenal,E-72A3,C-XNUA,C-XNUA VI,Fiber Composite,Medium,31.77
+Tenal,E-72A3,C-XNUA,C-XNUA VI,Glossy Compound,Rich,36.35
+Tenal,E-72A3,C-XNUA,C-XNUA VI,Reactive Gas,Rich,39.05
+Tenal,E-72A3,C-XNUA,C-XNUA VI,Noble Gas,Poor,23.17
+Tenal,E-72A3,C-XNUA,C-XNUA VI,Reactive Metals,Medium,6.59
+Tenal,E-72A3,C-XNUA,C-XNUA VI,Coolant,Medium,20.11
+Tenal,E-72A3,C-XNUA,C-XNUA VII,Lustering Alloy,Rich,36.97
+Tenal,E-72A3,C-XNUA,C-XNUA VII,Sheen Compound,Rich,40.48
+Tenal,E-72A3,C-XNUA,C-XNUA VII,Glossy Compound,Rich,33.33
+Tenal,E-72A3,C-XNUA,C-XNUA VII,Reactive Gas,Medium,29.48
+Tenal,E-72A3,C-XNUA,C-XNUA VII,Reactive Metals,Perfect,11.04
+Tenal,E-72A3,C-XNUA,C-XNUA VII,Polyaramids,Poor,15.86
+Tenal,E-72A3,C-XNUA,C-XNUA VIII,Precious Alloy,Medium,28.81
+Tenal,E-72A3,C-XNUA,C-XNUA VIII,Base Metals,Medium,7.70
+Tenal,E-72A3,C-XNUA,C-XNUA VIII,Heavy Metals,Medium,25.09
+Tenal,E-72A3,C-XNUA,C-XNUA VIII,Condensates,Rich,24.68
+Tenal,E-72A3,C-XNUA,C-XNUA VIII,Suspended Plasma,Poor,74.60
+Tenal,E-72A3,7D-PAT,7D-PAT I,Motley Compound,Perfect,43.16
+Tenal,E-72A3,7D-PAT,7D-PAT I,Glossy Compound,Perfect,41.50
+Tenal,E-72A3,7D-PAT,7D-PAT I,Noble Gas,Medium,32.11
+Tenal,E-72A3,7D-PAT,7D-PAT I,Oxygen Isotopes,Rich,5.57
+Tenal,E-72A3,7D-PAT,7D-PAT II,Precious Alloy,Poor,24.13
+Tenal,E-72A3,7D-PAT,7D-PAT II,Dark Compound,Medium,27.04
+Tenal,E-72A3,7D-PAT,7D-PAT II,Construction Blocks,Poor,21.09
+Tenal,E-72A3,7D-PAT,7D-PAT II,Silicate Glass,Poor,8.18
+Tenal,E-72A3,7D-PAT,7D-PAT II,Oxygen Isotopes,Medium,4.28
+Tenal,E-72A3,7D-PAT,7D-PAT III,Lustering Alloy,Poor,21.42
+Tenal,E-72A3,7D-PAT,7D-PAT III,Precious Alloy,Poor,19.53
+Tenal,E-72A3,7D-PAT,7D-PAT III,Dark Compound,Poor,22.46
+Tenal,E-72A3,7D-PAT,7D-PAT III,Base Metals,Poor,5.84
+Tenal,E-72A3,7D-PAT,7D-PAT III,Plasmoids,Medium,1.48
+Tenal,E-72A3,7D-PAT,7D-PAT IV,Dark Compound,Poor,19.86
+Tenal,E-72A3,7D-PAT,7D-PAT IV,Base Metals,Medium,8.21
+Tenal,E-72A3,7D-PAT,7D-PAT IV,Industrial Fibers,Poor,5.93
+Tenal,E-72A3,7D-PAT,7D-PAT IV,Silicate Glass,Medium,12.53
+Tenal,E-72A3,7D-PAT,7D-PAT IV,Oxygen Isotopes,Medium,4.79
+Tenal,E-72A3,7D-PAT,7D-PAT V,Dark Compound,Poor,22.46
+Tenal,E-72A3,7D-PAT,7D-PAT V,Industrial Fibers,Medium,8.15
+Tenal,E-72A3,7D-PAT,7D-PAT V,Supertensile Plastics,Medium,19.92
+Tenal,E-72A3,7D-PAT,7D-PAT V,Silicate Glass,Medium,15.54
+Tenal,E-72A3,7D-PAT,7D-PAT V,Oxygen Isotopes,Poor,2.66
+Tenal,E-72A3,7D-PAT,7D-PAT VI,Condensed Alloy,Rich,38.79
+Tenal,E-72A3,7D-PAT,7D-PAT VI,Fiber Composite,Medium,26.68
+Tenal,E-72A3,7D-PAT,7D-PAT VI,Reactive Gas,Medium,26.91
+Tenal,E-72A3,7D-PAT,7D-PAT VI,Noble Metals,Rich,36.87
+Tenal,E-72A3,7D-PAT,7D-PAT VI,Industrial Fibers,Perfect,12.60
+Tenal,E-72A3,7D-PAT,7D-PAT VI,Liquid Ozone,Rich,50.31
+Tenal,E-72A3,7D-PAT,7D-PAT VII,Condensed Alloy,Medium,27.35
+Tenal,E-72A3,7D-PAT,7D-PAT VII,Fiber Composite,Rich,38.95
+Tenal,E-72A3,7D-PAT,7D-PAT VII,Reactive Gas,Perfect,47.29
+Tenal,E-72A3,7D-PAT,7D-PAT VII,Base Metals,Medium,6.90
+Tenal,E-72A3,7D-PAT,7D-PAT VII,Condensates,Rich,22.17
+Tenal,E-72A3,7D-PAT,7D-PAT VII,Heavy Water,Perfect,416.00
+Tenal,E-72A3,7D-PAT,7D-PAT VIII,Fiber Composite,Poor,21.50
+Tenal,E-72A3,7D-PAT,7D-PAT VIII,Glossy Compound,Rich,36.69
+Tenal,E-72A3,7D-PAT,7D-PAT VIII,Reactive Gas,Rich,35.98
+Tenal,E-72A3,7D-PAT,7D-PAT VIII,Noble Gas,Medium,25.71
+Tenal,E-72A3,7D-PAT,7D-PAT VIII,Coolant,Medium,19.71
+Tenal,E-72A3,7D-PAT,7D-PAT VIII,Ionic Solutions,Poor,9.67
+Tenal,E-72A3,7D-PAT,7D-PAT IX,Lustering Alloy,Rich,33.70
+Tenal,E-72A3,7D-PAT,7D-PAT IX,Sheen Compound,Perfect,41.68
+Tenal,E-72A3,7D-PAT,7D-PAT IX,Glossy Compound,Poor,23.30
+Tenal,E-72A3,7D-PAT,7D-PAT IX,Reactive Gas,Perfect,41.70
+Tenal,E-72A3,7D-PAT,7D-PAT IX,Coolant,Medium,16.38
+Tenal,E-72A3,7D-PAT,7D-PAT IX,Ionic Solutions,Medium,12.40
+Tenal,E-72A3,7D-PAT,7D-PAT X,Reactive Gas,Medium,26.26
+Tenal,E-72A3,7D-PAT,7D-PAT X,Noble Gas,Medium,26.78
+Tenal,E-72A3,7D-PAT,7D-PAT X,Base Metals,Rich,10.61
+Tenal,E-72A3,7D-PAT,7D-PAT X,Reactive Metals,Rich,9.20
+Tenal,E-72A3,7D-PAT,7D-PAT X,Coolant,Poor,14.77
+Tenal,E-72A3,7D-PAT,7D-PAT X,Ionic Solutions,Poor,9.17
+Tenal,E-72A3,V-LDEJ,V-LDEJ I,Lustering Alloy,Poor,21.79
+Tenal,E-72A3,V-LDEJ,V-LDEJ I,Dark Compound,Medium,25.60
+Tenal,E-72A3,V-LDEJ,V-LDEJ I,Industrial Fibers,Medium,7.99
+Tenal,E-72A3,V-LDEJ,V-LDEJ I,Silicate Glass,Poor,10.21
+Tenal,E-72A3,V-LDEJ,V-LDEJ I,Plasmoids,Poor,1.16
+Tenal,E-72A3,V-LDEJ,V-LDEJ II,Condensed Alloy,Medium,30.02
+Tenal,E-72A3,V-LDEJ,V-LDEJ II,Fiber Composite,Rich,42.07
+Tenal,E-72A3,V-LDEJ,V-LDEJ II,Noble Metals,Medium,32.24
+Tenal,E-72A3,V-LDEJ,V-LDEJ II,Condensates,Medium,22.41
+Tenal,E-72A3,V-LDEJ,V-LDEJ II,Smartfab Units,Rich,26.41
+Tenal,E-72A3,V-LDEJ,V-LDEJ II,Heavy Water,Medium,282.96
+Tenal,E-72A3,V-LDEJ,V-LDEJ III,Gleaming Alloy,Poor,21.68
+Tenal,E-72A3,V-LDEJ,V-LDEJ III,Glossy Compound,Poor,23.57
+Tenal,E-72A3,V-LDEJ,V-LDEJ III,Noble Gas,Rich,37.61
+Tenal,E-72A3,V-LDEJ,V-LDEJ III,Noble Metals,Medium,31.10
+Tenal,E-72A3,V-LDEJ,V-LDEJ IV,Condensed Alloy,Rich,41.26
+Tenal,E-72A3,V-LDEJ,V-LDEJ IV,Fiber Composite,Medium,29.78
+Tenal,E-72A3,V-LDEJ,V-LDEJ IV,Opulent Compound,Medium,31.97
+Tenal,E-72A3,V-LDEJ,V-LDEJ IV,Reactive Gas,Medium,26.59
+Tenal,E-72A3,V-LDEJ,V-LDEJ IV,Condensates,Rich,27.88
+Tenal,E-72A3,V-LDEJ,V-LDEJ IV,Heavy Water,Perfect,444.69
+Tenal,E-72A3,V-LDEJ,V-LDEJ V,Gleaming Alloy,Rich,35.13
+Tenal,E-72A3,V-LDEJ,V-LDEJ V,Crystal Compound,Rich,35.02
+Tenal,E-72A3,V-LDEJ,V-LDEJ V,Reactive Gas,Medium,27.81
+Tenal,E-72A3,V-LDEJ,V-LDEJ V,Reactive Metals,Rich,11.20
+Tenal,E-72A3,V-LDEJ,V-LDEJ V,Toxic Metals,Rich,11.14
+Tenal,E-72A3,V-LDEJ,V-LDEJ VI,Crystal Compound,Poor,22.79
+Tenal,E-72A3,V-LDEJ,V-LDEJ VI,Reactive Gas,Medium,28.89
+Tenal,E-72A3,V-LDEJ,V-LDEJ VI,Supertensile Plastics,Perfect,29.38
+Tenal,E-72A3,V-LDEJ,V-LDEJ VI,Nanites,Rich,9.98
+Tenal,E-72A3,V-LDEJ,V-LDEJ VI,Suspended Plasma,Rich,130.05
+Tenal,E-72A3,V-LDEJ,V-LDEJ VII,Lustering Alloy,Perfect,43.85
+Tenal,E-72A3,V-LDEJ,V-LDEJ VII,Sheen Compound,Perfect,44.09
+Tenal,E-72A3,V-LDEJ,V-LDEJ VII,Noble Gas,Medium,29.75
+Tenal,E-72A3,V-LDEJ,V-LDEJ VII,Base Metals,Medium,8.87
+Tenal,E-72A3,V-LDEJ,V-LDEJ VII,Polyaramids,Rich,25.02
+Tenal,E-72A3,V-LDEJ,V-LDEJ VII,Ionic Solutions,Rich,13.69
+Tenal,E-72A3,T-K10W,T-K10W I,Dark Compound,Poor,19.33
+Tenal,E-72A3,T-K10W,T-K10W I,Industrial Fibers,Poor,4.92
+Tenal,E-72A3,T-K10W,T-K10W I,Supertensile Plastics,Poor,14.58
+Tenal,E-72A3,T-K10W,T-K10W I,Construction Blocks,Medium,28.46
+Tenal,E-72A3,T-K10W,T-K10W I,Plasmoids,Medium,1.92
+Tenal,E-72A3,T-K10W,T-K10W II,Dark Compound,Poor,22.38
+Tenal,E-72A3,T-K10W,T-K10W II,Base Metals,Poor,6.20
+Tenal,E-72A3,T-K10W,T-K10W II,Industrial Fibers,Poor,6.39
+Tenal,E-72A3,T-K10W,T-K10W II,Supertensile Plastics,Poor,16.85
+Tenal,E-72A3,T-K10W,T-K10W II,Plasmoids,Medium,1.56
+Tenal,E-72A3,T-K10W,T-K10W III,Lustering Alloy,Poor,22.38
+Tenal,E-72A3,T-K10W,T-K10W III,Precious Alloy,Poor,18.63
+Tenal,E-72A3,T-K10W,T-K10W III,Dark Compound,Poor,20.47
+Tenal,E-72A3,T-K10W,T-K10W III,Toxic Metals,Poor,5.39
+Tenal,E-72A3,T-K10W,T-K10W III,Plasmoids,Medium,1.81
+Tenal,E-72A3,T-K10W,T-K10W IV,Glossy Compound,Rich,38.50
+Tenal,E-72A3,T-K10W,T-K10W IV,Heavy Metals,Medium,32.05
+Tenal,E-72A3,T-K10W,T-K10W IV,Noble Metals,Poor,25.08
+Tenal,E-72A3,T-K10W,T-K10W IV,Oxygen Isotopes,Rich,6.00
+Tenal,E-72A3,T-K10W,T-K10W V,Condensed Alloy,Perfect,47.03
+Tenal,E-72A3,T-K10W,T-K10W V,Fiber Composite,Rich,35.18
+Tenal,E-72A3,T-K10W,T-K10W V,Opulent Compound,Rich,39.45
+Tenal,E-72A3,T-K10W,T-K10W V,Reactive Gas,Poor,25.38
+Tenal,E-72A3,T-K10W,T-K10W V,Smartfab Units,Medium,21.31
+Tenal,E-72A3,T-K10W,T-K10W V,Liquid Ozone,Medium,38.31
+Tenal,E-72A3,T-K10W,T-K10W VI,Sheen Compound,Rich,37.13
+Tenal,E-72A3,T-K10W,T-K10W VI,Glossy Compound,Medium,25.87
+Tenal,E-72A3,T-K10W,T-K10W VI,Reactive Gas,Poor,24.70
+Tenal,E-72A3,T-K10W,T-K10W VI,Base Metals,Rich,9.97
+Tenal,E-72A3,T-K10W,T-K10W VI,Polyaramids,Medium,18.70
+Tenal,E-72A3,T-K10W,T-K10W VI,Ionic Solutions,Rich,13.91
+Tenal,E-72A3,T-K10W,T-K10W VII,Lustering Alloy,Medium,25.92
+Tenal,E-72A3,T-K10W,T-K10W VII,Reactive Gas,Rich,35.26
+Tenal,E-72A3,T-K10W,T-K10W VII,Noble Gas,Rich,37.72
+Tenal,E-72A3,T-K10W,T-K10W VII,Base Metals,Rich,10.13
+Tenal,E-72A3,T-K10W,T-K10W VII,Coolant,Perfect,29.41
+Tenal,E-72A3,T-K10W,T-K10W VII,Ionic Solutions,Medium,13.54
+Tenal,E-72A3,T-K10W,T-K10W VIII,Condensed Alloy,Medium,33.34
+Tenal,E-72A3,T-K10W,T-K10W VIII,Crystal Compound,Rich,42.39
+Tenal,E-72A3,T-K10W,T-K10W VIII,Noble Metals,Perfect,47.28
+Tenal,E-72A3,T-K10W,T-K10W VIII,Polyaramids,Perfect,30.47
+Tenal,E-72A3,T-K10W,T-K10W VIII,Coolant,Rich,26.01
+Tenal,E-72A3,T-K10W,T-K10W VIII,Silicate Glass,Medium,14.32
+Tenal,E-72A3,T-K10W,T-K10W IX,Condensed Alloy,Rich,39.39
+Tenal,E-72A3,T-K10W,T-K10W IX,Opulent Compound,Medium,31.13
+Tenal,E-72A3,T-K10W,T-K10W IX,Crystal Compound,Medium,26.73
+Tenal,E-72A3,T-K10W,T-K10W IX,Noble Metals,Rich,36.88
+Tenal,E-72A3,T-K10W,T-K10W IX,Toxic Metals,Perfect,11.47
+Tenal,E-72A3,T-K10W,T-K10W IX,Polyaramids,Poor,16.33
+Tenal,E-72A3,P-UCRP,P-UCRP I,Lustering Alloy,Medium,30.66
+Tenal,E-72A3,P-UCRP,P-UCRP I,Dark Compound,Medium,29.88
+Tenal,E-72A3,P-UCRP,P-UCRP I,Base Metals,Poor,6.49
+Tenal,E-72A3,P-UCRP,P-UCRP I,Construction Blocks,Poor,22.37
+Tenal,E-72A3,P-UCRP,P-UCRP I,Silicate Glass,Medium,14.73
+Tenal,E-72A3,P-UCRP,P-UCRP II,Lustering Alloy,Medium,33.94
+Tenal,E-72A3,P-UCRP,P-UCRP II,Dark Compound,Poor,24.39
+Tenal,E-72A3,P-UCRP,P-UCRP II,Base Metals,Poor,6.12
+Tenal,E-72A3,P-UCRP,P-UCRP II,Industrial Fibers,Medium,7.26
+Tenal,E-72A3,P-UCRP,P-UCRP II,Construction Blocks,Poor,25.14
+Tenal,E-72A3,P-UCRP,P-UCRP III,Condensed Alloy,Rich,38.00
+Tenal,E-72A3,P-UCRP,P-UCRP III,Fiber Composite,Rich,40.66
+Tenal,E-72A3,P-UCRP,P-UCRP III,Opulent Compound,Rich,40.01
+Tenal,E-72A3,P-UCRP,P-UCRP III,Base Metals,Rich,11.22
+Tenal,E-72A3,P-UCRP,P-UCRP III,Condensates,Medium,18.69
+Tenal,E-72A3,P-UCRP,P-UCRP III,Smartfab Units,Perfect,30.24
+Tenal,E-72A3,P-UCRP,P-UCRP IV,Condensed Alloy,Rich,41.10
+Tenal,E-72A3,P-UCRP,P-UCRP IV,Opulent Compound,Rich,43.46
+Tenal,E-72A3,P-UCRP,P-UCRP IV,Base Metals,Rich,9.66
+Tenal,E-72A3,P-UCRP,P-UCRP IV,Noble Metals,Rich,42.78
+Tenal,E-72A3,P-UCRP,P-UCRP IV,Industrial Fibers,Rich,9.42
+Tenal,E-72A3,P-UCRP,P-UCRP IV,Smartfab Units,Medium,20.25
+Tenal,E-72A3,P-UCRP,P-UCRP V,Dark Compound,Medium,32.56
+Tenal,E-72A3,P-UCRP,P-UCRP V,Toxic Metals,Poor,6.37
+Tenal,E-72A3,P-UCRP,P-UCRP V,Industrial Fibers,Poor,5.61
+Tenal,E-72A3,P-UCRP,P-UCRP V,Supertensile Plastics,Poor,13.89
+Tenal,E-72A3,P-UCRP,P-UCRP V,Oxygen Isotopes,Poor,3.80
+Tenal,E-72A3,P-UCRP,P-UCRP VI,Sheen Compound,Medium,34.24
+Tenal,E-72A3,P-UCRP,P-UCRP VI,Fiber Composite,Medium,34.02
+Tenal,E-72A3,P-UCRP,P-UCRP VI,Glossy Compound,Medium,34.80
+Tenal,E-72A3,P-UCRP,P-UCRP VI,Reactive Gas,Poor,24.22
+Tenal,E-72A3,P-UCRP,P-UCRP VI,Noble Gas,Medium,33.63
+Tenal,E-72A3,P-UCRP,P-UCRP VI,Ionic Solutions,Medium,13.74
+Tenal,E-72A3,P-UCRP,P-UCRP VII,Lustering Alloy,Poor,24.89
+Tenal,E-72A3,P-UCRP,P-UCRP VII,Glossy Compound,Medium,33.46
+Tenal,E-72A3,P-UCRP,P-UCRP VII,Base Metals,Rich,10.07
+Tenal,E-72A3,P-UCRP,P-UCRP VII,Reactive Metals,Medium,7.42
+Tenal,E-72A3,P-UCRP,P-UCRP VII,Polyaramids,Rich,26.00
+Tenal,E-72A3,P-UCRP,P-UCRP VII,Ionic Solutions,Medium,11.72
+Tenal,E-72A3,P-UCRP,P-UCRP VIII,Condensed Alloy,Medium,31.33
+Tenal,E-72A3,P-UCRP,P-UCRP VIII,Reactive Gas,Perfect,51.46
+Tenal,E-72A3,P-UCRP,P-UCRP VIII,Base Metals,Rich,11.51
+Tenal,E-72A3,P-UCRP,P-UCRP VIII,Noble Metals,Medium,33.10
+Tenal,E-72A3,P-UCRP,P-UCRP VIII,Industrial Fibers,Rich,9.87
+Tenal,E-72A3,P-UCRP,P-UCRP VIII,Smartfab Units,Perfect,31.86
+Tenal,E-72A3,3-QYVE,3-QYVE I,Glossy Compound,Medium,36.54
+Tenal,E-72A3,3-QYVE,3-QYVE I,Noble Gas,Medium,29.13
+Tenal,E-72A3,3-QYVE,3-QYVE I,Heavy Metals,Perfect,50.79
+Tenal,E-72A3,3-QYVE,3-QYVE I,Polyaramids,Medium,24.62
+Tenal,E-72A3,3-QYVE,3-QYVE II,Motley Compound,Perfect,50.01
+Tenal,E-72A3,3-QYVE,3-QYVE II,Glossy Compound,Medium,29.88
+Tenal,E-72A3,3-QYVE,3-QYVE II,Heavy Metals,Medium,29.40
+Tenal,E-72A3,3-QYVE,3-QYVE II,Plasmoids,Rich,2.55
+Tenal,E-72A3,3-QYVE,3-QYVE III,Precious Alloy,Medium,32.25
+Tenal,E-72A3,3-QYVE,3-QYVE III,Dark Compound,Medium,35.88
+Tenal,E-72A3,3-QYVE,3-QYVE III,Base Metals,Poor,5.86
+Tenal,E-72A3,3-QYVE,3-QYVE III,Supertensile Plastics,Medium,22.00
+Tenal,E-72A3,3-QYVE,3-QYVE III,Silicate Glass,Poor,11.19
+Tenal,E-72A3,3-QYVE,3-QYVE IV,Crystal Compound,Rich,44.13
+Tenal,E-72A3,3-QYVE,3-QYVE IV,Reactive Gas,Medium,34.71
+Tenal,E-72A3,3-QYVE,3-QYVE IV,Supertensile Plastics,Medium,23.82
+Tenal,E-72A3,3-QYVE,3-QYVE IV,Construction Blocks,Perfect,47.85
+Tenal,E-72A3,3-QYVE,3-QYVE IV,Nanites,Medium,7.77
+Tenal,E-72A3,3-QYVE,3-QYVE V,Dark Compound,Poor,24.84
+Tenal,E-72A3,3-QYVE,3-QYVE V,Industrial Fibers,Poor,5.76
+Tenal,E-72A3,3-QYVE,3-QYVE V,Supertensile Plastics,Poor,18.28
+Tenal,E-72A3,3-QYVE,3-QYVE V,Construction Blocks,Poor,24.75
+Tenal,E-72A3,3-QYVE,3-QYVE V,Plasmoids,Poor,1.57
+Tenal,E-72A3,3-QYVE,3-QYVE VI,Lustering Alloy,Rich,40.92
+Tenal,E-72A3,3-QYVE,3-QYVE VI,Sheen Compound,Medium,32.55
+Tenal,E-72A3,3-QYVE,3-QYVE VI,Glossy Compound,Poor,25.92
+Tenal,E-72A3,3-QYVE,3-QYVE VI,Reactive Gas,Poor,26.61
+Tenal,E-72A3,3-QYVE,3-QYVE VI,Base Metals,Perfect,12.69
+Tenal,E-72A3,3-QYVE,3-QYVE VI,Polyaramids,Medium,23.66
+Tenal,E-72A3,3-QYVE,3-QYVE VII,Lustering Alloy,Poor,26.01
+Tenal,E-72A3,3-QYVE,3-QYVE VII,Dark Compound,Poor,25.77
+Tenal,E-72A3,3-QYVE,3-QYVE VII,Base Metals,Medium,9.58
+Tenal,E-72A3,3-QYVE,3-QYVE VII,Toxic Metals,Medium,9.26
+Tenal,E-72A3,3-QYVE,3-QYVE VII,Supertensile Plastics,Poor,12.58
+Tenal,E-72A3,3-QYVE,3-QYVE VIII,Lustering Alloy,Medium,30.00
+Tenal,E-72A3,3-QYVE,3-QYVE VIII,Fiber Composite,Perfect,49.05
+Tenal,E-72A3,3-QYVE,3-QYVE VIII,Glossy Compound,Rich,39.24
+Tenal,E-72A3,3-QYVE,3-QYVE VIII,Reactive Gas,Rich,47.16
+Tenal,E-72A3,3-QYVE,3-QYVE VIII,Polyaramids,Medium,23.06
+Tenal,E-72A3,3-QYVE,3-QYVE VIII,Ionic Solutions,Medium,15.04
+Tenal,E-72A3,3-QYVE,3-QYVE IX,Reactive Gas,Medium,34.71
+Tenal,E-72A3,3-QYVE,3-QYVE IX,Noble Gas,Poor,25.20
+Tenal,E-72A3,3-QYVE,3-QYVE IX,Base Metals,Medium,8.87
+Tenal,E-72A3,3-QYVE,3-QYVE IX,Reactive Metals,Medium,8.34
+Tenal,E-72A3,3-QYVE,3-QYVE IX,Polyaramids,Medium,22.54
+Tenal,E-72A3,3-QYVE,3-QYVE IX,Ionic Solutions,Rich,16.97
+Tenal,E-72A3,3-QYVE,3-QYVE X,Precious Alloy,Poor,22.50
+Tenal,E-72A3,3-QYVE,3-QYVE X,Dark Compound,Medium,28.95
+Tenal,E-72A3,3-QYVE,3-QYVE X,Toxic Metals,Medium,9.36
+Tenal,E-72A3,3-QYVE,3-QYVE X,Supertensile Plastics,Medium,23.68
+Tenal,E-72A3,3-QYVE,3-QYVE X,Oxygen Isotopes,Poor,4.09

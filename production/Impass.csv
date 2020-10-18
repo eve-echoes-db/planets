@@ -1,0 +1,1795 @@
+Region,Constellation,System,Name,Item,Rate,Output
+Impass,5J-SSP,1-7KWU,1-7KWU I,Base Metals,Medium,6.41
+Impass,5J-SSP,1-7KWU,1-7KWU I,Supertensile Plastics,Medium,17.66
+Impass,5J-SSP,1-7KWU,1-7KWU I,Construction Blocks,Poor,19.25
+Impass,5J-SSP,1-7KWU,1-7KWU I,Silicate Glass,Poor,8.32
+Impass,5J-SSP,1-7KWU,1-7KWU II,Dark Compound,Medium,24.96
+Impass,5J-SSP,1-7KWU,1-7KWU II,Supertensile Plastics,Poor,13.66
+Impass,5J-SSP,1-7KWU,1-7KWU II,Oxygen Isotopes,Medium,4.04
+Impass,5J-SSP,1-7KWU,1-7KWU II,Plasmoids,Poor,1.30
+Impass,5J-SSP,1-7KWU,1-7KWU III,Fiber Composite,Medium,26.02
+Impass,5J-SSP,1-7KWU,1-7KWU III,Glossy Compound,Medium,29.21
+Impass,5J-SSP,1-7KWU,1-7KWU III,Reactive Gas,Medium,29.04
+Impass,5J-SSP,1-7KWU,1-7KWU III,Reactive Metals,Medium,7.81
+Impass,5J-SSP,1-7KWU,1-7KWU III,Polyaramids,Perfect,25.57
+Impass,5J-SSP,1-7KWU,1-7KWU IV,Sheen Compound,Medium,27.26
+Impass,5J-SSP,1-7KWU,1-7KWU IV,Fiber Composite,Medium,26.74
+Impass,5J-SSP,1-7KWU,1-7KWU IV,Reactive Gas,Perfect,39.31
+Impass,5J-SSP,1-7KWU,1-7KWU IV,Polyaramids,Poor,14.19
+Impass,5J-SSP,1-7KWU,1-7KWU IV,Ionic Solutions,Poor,9.03
+Impass,5J-SSP,1-7KWU,1-7KWU V,Lustering Alloy,Medium,23.64
+Impass,5J-SSP,1-7KWU,1-7KWU V,Fiber Composite,Poor,20.23
+Impass,5J-SSP,1-7KWU,1-7KWU V,Reactive Gas,Poor,20.35
+Impass,5J-SSP,1-7KWU,1-7KWU V,Base Metals,Rich,9.81
+Impass,5J-SSP,1-7KWU,1-7KWU V,Coolant,Medium,19.17
+Impass,5J-SSP,1-7KWU,1-7KWU VI,Reactive Gas,Poor,21.05
+Impass,5J-SSP,1-7KWU,1-7KWU VI,Base Metals,Rich,9.46
+Impass,5J-SSP,1-7KWU,1-7KWU VI,Reactive Metals,Rich,9.90
+Impass,5J-SSP,1-7KWU,1-7KWU VI,Coolant,Rich,23.79
+Impass,5J-SSP,1-7KWU,1-7KWU VI,Ionic Solutions,Rich,13.97
+Impass,5J-SSP,1-7KWU,1-7KWU VII,Lustering Alloy,Perfect,39.26
+Impass,5J-SSP,1-7KWU,1-7KWU VII,Sheen Compound,Medium,27.34
+Impass,5J-SSP,1-7KWU,1-7KWU VII,Fiber Composite,Rich,32.71
+Impass,5J-SSP,1-7KWU,1-7KWU VII,Reactive Gas,Medium,26.71
+Impass,5J-SSP,1-7KWU,1-7KWU VII,Reactive Metals,Medium,7.30
+Impass,5J-SSP,1-7KWU,1-7KWU VIII,Precious Alloy,Poor,21.31
+Impass,5J-SSP,1-7KWU,1-7KWU VIII,Condensates,Poor,12.43
+Impass,5J-SSP,1-7KWU,1-7KWU VIII,Suspended Plasma,Rich,114.39
+Impass,5J-SSP,1-7KWU,1-7KWU VIII,Liquid Ozone,Poor,22.17
+Impass,5J-SSP,3-UCBF,3-UCBF I,Industrial Fibers,Medium,6.66
+Impass,5J-SSP,3-UCBF,3-UCBF I,Supertensile Plastics,Poor,14.32
+Impass,5J-SSP,3-UCBF,3-UCBF I,Silicate Glass,Poor,10.03
+Impass,5J-SSP,3-UCBF,3-UCBF I,Oxygen Isotopes,Poor,3.16
+Impass,5J-SSP,3-UCBF,3-UCBF II,Gleaming Alloy,Rich,31.54
+Impass,5J-SSP,3-UCBF,3-UCBF II,Heavy Metals,Medium,24.02
+Impass,5J-SSP,3-UCBF,3-UCBF II,Smartfab Units,Medium,19.39
+Impass,5J-SSP,3-UCBF,3-UCBF III,Dark Compound,Poor,16.90
+Impass,5J-SSP,3-UCBF,3-UCBF III,Industrial Fibers,Poor,5.37
+Impass,5J-SSP,3-UCBF,3-UCBF III,Supertensile Plastics,Poor,13.90
+Impass,5J-SSP,3-UCBF,3-UCBF III,Oxygen Isotopes,Poor,2.35
+Impass,5J-SSP,3-UCBF,3-UCBF IV,Toxic Metals,Medium,7.26
+Impass,5J-SSP,3-UCBF,3-UCBF IV,Industrial Fibers,Poor,4.43
+Impass,5J-SSP,3-UCBF,3-UCBF IV,Supertensile Plastics,Poor,13.92
+Impass,5J-SSP,3-UCBF,3-UCBF IV,Construction Blocks,Medium,27.00
+Impass,5J-SSP,3-UCBF,3-UCBF V,Condensed Alloy,Perfect,38.78
+Impass,5J-SSP,3-UCBF,3-UCBF V,Opulent Compound,Medium,29.81
+Impass,5J-SSP,3-UCBF,3-UCBF V,Reactive Gas,Perfect,40.80
+Impass,5J-SSP,3-UCBF,3-UCBF V,Noble Metals,Perfect,44.64
+Impass,5J-SSP,3-UCBF,3-UCBF V,Liquid Ozone,Medium,29.10
+Impass,5J-SSP,3-UCBF,3-UCBF VI,Base Metals,Medium,6.09
+Impass,5J-SSP,3-UCBF,3-UCBF VI,Industrial Fibers,Poor,4.88
+Impass,5J-SSP,3-UCBF,3-UCBF VI,Supertensile Plastics,Medium,17.73
+Impass,5J-SSP,3-UCBF,3-UCBF VI,Oxygen Isotopes,Poor,3.10
+Impass,5J-SSP,3-UCBF,3-UCBF VII,Sheen Compound,Poor,20.35
+Impass,5J-SSP,3-UCBF,3-UCBF VII,Fiber Composite,Rich,37.39
+Impass,5J-SSP,3-UCBF,3-UCBF VII,Reactive Gas,Rich,31.46
+Impass,5J-SSP,3-UCBF,3-UCBF VII,Reactive Metals,Medium,6.99
+Impass,5J-SSP,3-UCBF,3-UCBF VII,Polyaramids,Medium,18.00
+Impass,5J-SSP,3-UCBF,3-UCBF VIII,Lustering Alloy,Rich,36.89
+Impass,5J-SSP,3-UCBF,3-UCBF VIII,Reactive Gas,Rich,33.91
+Impass,5J-SSP,3-UCBF,3-UCBF VIII,Noble Gas,Rich,33.36
+Impass,5J-SSP,3-UCBF,3-UCBF VIII,Base Metals,Rich,8.68
+Impass,5J-SSP,3-UCBF,3-UCBF VIII,Ionic Solutions,Medium,10.41
+Impass,5J-SSP,3-UCBF,3-UCBF IX,Supertensile Plastics,Poor,11.54
+Impass,5J-SSP,3-UCBF,3-UCBF IX,Silicate Glass,Medium,11.33
+Impass,5J-SSP,3-UCBF,3-UCBF IX,Oxygen Isotopes,Medium,3.68
+Impass,5J-SSP,3-UCBF,3-UCBF IX,Plasmoids,Medium,1.45
+Impass,5J-SSP,N-CREL,N-CREL I,Gleaming Alloy,Rich,33.34
+Impass,5J-SSP,N-CREL,N-CREL I,Reactive Gas,Medium,27.19
+Impass,5J-SSP,N-CREL,N-CREL I,Reactive Metals,Rich,8.79
+Impass,5J-SSP,N-CREL,N-CREL I,Toxic Metals,Poor,5.49
+Impass,5J-SSP,N-CREL,N-CREL II,Glossy Compound,Medium,29.59
+Impass,5J-SSP,N-CREL,N-CREL II,Reactive Gas,Rich,37.22
+Impass,5J-SSP,N-CREL,N-CREL II,Reactive Metals,Poor,5.71
+Impass,5J-SSP,N-CREL,N-CREL II,Polyaramids,Rich,21.17
+Impass,5J-SSP,N-CREL,N-CREL II,Ionic Solutions,Poor,8.93
+Impass,5J-SSP,N-CREL,N-CREL III,Base Metals,Rich,9.33
+Impass,5J-SSP,N-CREL,N-CREL III,Heavy Metals,Medium,25.75
+Impass,5J-SSP,N-CREL,N-CREL III,Condensates,Medium,16.02
+Impass,5J-SSP,N-CREL,N-CREL III,Suspended Plasma,Poor,75.34
+Impass,5J-SSP,TM-0P2,TM-0P2 I,Gleaming Alloy,Poor,18.70
+Impass,5J-SSP,TM-0P2,TM-0P2 I,Heavy Metals,Rich,34.98
+Impass,5J-SSP,TM-0P2,TM-0P2 I,Noble Metals,Medium,27.71
+Impass,5J-SSP,TM-0P2,TM-0P2 II,Base Metals,Medium,6.63
+Impass,5J-SSP,TM-0P2,TM-0P2 II,Supertensile Plastics,Poor,11.53
+Impass,5J-SSP,TM-0P2,TM-0P2 II,Silicate Glass,Medium,13.01
+Impass,5J-SSP,TM-0P2,TM-0P2 II,Plasmoids,Poor,1.25
+Impass,5J-SSP,TM-0P2,TM-0P2 III,Lustering Alloy,Poor,15.41
+Impass,5J-SSP,TM-0P2,TM-0P2 III,Precious Alloy,Medium,28.08
+Impass,5J-SSP,TM-0P2,TM-0P2 III,Supertensile Plastics,Poor,12.86
+Impass,5J-SSP,TM-0P2,TM-0P2 III,Plasmoids,Poor,0.92
+Impass,5J-SSP,TM-0P2,TM-0P2 IV,Condensed Alloy,Perfect,39.77
+Impass,5J-SSP,TM-0P2,TM-0P2 IV,Fiber Composite,Medium,22.59
+Impass,5J-SSP,TM-0P2,TM-0P2 IV,Condensates,Medium,18.58
+Impass,5J-SSP,TM-0P2,TM-0P2 IV,Heavy Water,Medium,282.90
+Impass,5J-SSP,TM-0P2,TM-0P2 IV,Liquid Ozone,Perfect,53.48
+Impass,5J-SSP,TM-0P2,TM-0P2 V,Condensed Alloy,Perfect,37.05
+Impass,5J-SSP,TM-0P2,TM-0P2 V,Base Metals,Rich,7.71
+Impass,5J-SSP,TM-0P2,TM-0P2 V,Smartfab Units,Perfect,26.70
+Impass,5J-SSP,TM-0P2,TM-0P2 V,Heavy Water,Perfect,385.71
+Impass,5J-SSP,TM-0P2,TM-0P2 V,Liquid Ozone,Medium,34.01
+Impass,5J-SSP,TM-0P2,TM-0P2 VI,Sheen Compound,Medium,23.64
+Impass,5J-SSP,TM-0P2,TM-0P2 VI,Fiber Composite,Medium,27.35
+Impass,5J-SSP,TM-0P2,TM-0P2 VI,Reactive Gas,Perfect,36.71
+Impass,5J-SSP,TM-0P2,TM-0P2 VI,Polyaramids,Medium,18.77
+Impass,5J-SSP,TM-0P2,TM-0P2 VI,Coolant,Rich,21.82
+Impass,5J-SSP,TM-0P2,TM-0P2 VII,Lustering Alloy,Medium,27.14
+Impass,5J-SSP,TM-0P2,TM-0P2 VII,Sheen Compound,Medium,28.22
+Impass,5J-SSP,TM-0P2,TM-0P2 VII,Glossy Compound,Rich,30.01
+Impass,5J-SSP,TM-0P2,TM-0P2 VII,Reactive Gas,Medium,24.61
+Impass,5J-SSP,TM-0P2,TM-0P2 VII,Ionic Solutions,Medium,9.51
+Impass,5J-SSP,4OIV-X,4OIV-X I,Lustering Alloy,Poor,19.65
+Impass,5J-SSP,4OIV-X,4OIV-X I,Base Metals,Poor,4.09
+Impass,5J-SSP,4OIV-X,4OIV-X I,Supertensile Plastics,Poor,12.14
+Impass,5J-SSP,4OIV-X,4OIV-X I,Construction Blocks,Medium,26.86
+Impass,5J-SSP,4OIV-X,4OIV-X II,Gleaming Alloy,Medium,26.51
+Impass,5J-SSP,4OIV-X,4OIV-X II,Smartfab Units,Perfect,24.65
+Impass,5J-SSP,4OIV-X,4OIV-X II,Plasmoids,Poor,1.16
+Impass,5J-SSP,4OIV-X,4OIV-X III,Lustering Alloy,Medium,27.32
+Impass,5J-SSP,4OIV-X,4OIV-X III,Fiber Composite,Rich,31.88
+Impass,5J-SSP,4OIV-X,4OIV-X III,Reactive Gas,Poor,18.22
+Impass,5J-SSP,4OIV-X,4OIV-X III,Base Metals,Medium,6.63
+Impass,5J-SSP,4OIV-X,4OIV-X III,Polyaramids,Medium,17.86
+Impass,5J-SSP,4OIV-X,4OIV-X IV,Condensed Alloy,Medium,21.56
+Impass,5J-SSP,4OIV-X,4OIV-X IV,Polyaramids,Rich,19.21
+Impass,5J-SSP,4OIV-X,4OIV-X IV,Coolant,Perfect,25.30
+Impass,5J-SSP,4OIV-X,4OIV-X IV,Heavy Water,Rich,298.98
+Impass,5J-SSP,4OIV-X,4OIV-X IV,Liquid Ozone,Perfect,45.02
+Impass,5J-SSP,4OIV-X,4OIV-X V,Lustering Alloy,Poor,18.30
+Impass,5J-SSP,4OIV-X,4OIV-X V,Reactive Gas,Rich,30.18
+Impass,5J-SSP,4OIV-X,4OIV-X V,Base Metals,Perfect,9.36
+Impass,5J-SSP,4OIV-X,4OIV-X V,Reactive Metals,Medium,6.78
+Impass,5J-SSP,4OIV-X,4OIV-X V,Coolant,Rich,21.19
+Impass,5J-SSP,4OIV-X,4OIV-X VI,Lustering Alloy,Medium,23.03
+Impass,5J-SSP,4OIV-X,4OIV-X VI,Reactive Gas,Medium,24.00
+Impass,5J-SSP,4OIV-X,4OIV-X VI,Noble Gas,Rich,30.29
+Impass,5J-SSP,4OIV-X,4OIV-X VI,Reactive Metals,Rich,8.12
+Impass,5J-SSP,4OIV-X,4OIV-X VI,Coolant,Rich,19.15
+Impass,5J-SSP,4OIV-X,4OIV-X VII,Lustering Alloy,Rich,28.60
+Impass,5J-SSP,4OIV-X,4OIV-X VII,Fiber Composite,Poor,18.52
+Impass,5J-SSP,4OIV-X,4OIV-X VII,Glossy Compound,Rich,30.40
+Impass,5J-SSP,4OIV-X,4OIV-X VII,Reactive Gas,Medium,25.81
+Impass,5J-SSP,4OIV-X,4OIV-X VII,Ionic Solutions,Perfect,14.49
+Impass,5J-SSP,4OIV-X,4OIV-X VIII,Fiber Composite,Rich,29.08
+Impass,5J-SSP,4OIV-X,4OIV-X VIII,Glossy Compound,Medium,23.87
+Impass,5J-SSP,4OIV-X,4OIV-X VIII,Reactive Gas,Medium,24.11
+Impass,5J-SSP,4OIV-X,4OIV-X VIII,Noble Gas,Medium,24.68
+Impass,5J-SSP,4OIV-X,4OIV-X VIII,Base Metals,Medium,6.77
+Impass,5J-SSP,4OIV-X,4OIV-X IX,Lustering Alloy,Poor,15.58
+Impass,5J-SSP,4OIV-X,4OIV-X IX,Precious Alloy,Medium,22.46
+Impass,5J-SSP,4OIV-X,4OIV-X IX,Supertensile Plastics,Poor,9.81
+Impass,5J-SSP,4OIV-X,4OIV-X IX,Oxygen Isotopes,Medium,4.04
+Impass,5J-SSP,Y-JKJ8,Y-JKJ8 I,Gleaming Alloy,Perfect,36.52
+Impass,5J-SSP,Y-JKJ8,Y-JKJ8 I,Glossy Compound,Rich,29.81
+Impass,5J-SSP,Y-JKJ8,Y-JKJ8 I,Smartfab Units,Rich,19.40
+Impass,5J-SSP,Y-JKJ8,Y-JKJ8 II,Precious Alloy,Poor,20.37
+Impass,5J-SSP,Y-JKJ8,Y-JKJ8 II,Toxic Metals,Poor,4.48
+Impass,5J-SSP,Y-JKJ8,Y-JKJ8 II,Supertensile Plastics,Poor,9.90
+Impass,5J-SSP,Y-JKJ8,Y-JKJ8 II,Plasmoids,Poor,0.86
+Impass,5J-SSP,Y-JKJ8,Y-JKJ8 III,Toxic Metals,Medium,6.29
+Impass,5J-SSP,Y-JKJ8,Y-JKJ8 III,Industrial Fibers,Medium,6.24
+Impass,5J-SSP,Y-JKJ8,Y-JKJ8 III,Supertensile Plastics,Medium,15.78
+Impass,5J-SSP,Y-JKJ8,Y-JKJ8 III,Oxygen Isotopes,Medium,3.98
+Impass,5J-SSP,Y-JKJ8,Y-JKJ8 IV,Condensed Alloy,Medium,26.20
+Impass,5J-SSP,Y-JKJ8,Y-JKJ8 IV,Opulent Compound,Poor,20.22
+Impass,5J-SSP,Y-JKJ8,Y-JKJ8 IV,Noble Metals,Medium,20.83
+Impass,5J-SSP,Y-JKJ8,Y-JKJ8 IV,Heavy Water,Medium,241.34
+Impass,5J-SSP,Y-JKJ8,Y-JKJ8 IV,Liquid Ozone,Perfect,49.69
+Impass,5J-SSP,Y-JKJ8,Y-JKJ8 V,Fiber Composite,Rich,31.48
+Impass,5J-SSP,Y-JKJ8,Y-JKJ8 V,Opulent Compound,Perfect,36.48
+Impass,5J-SSP,Y-JKJ8,Y-JKJ8 V,Base Metals,Medium,5.64
+Impass,5J-SSP,Y-JKJ8,Y-JKJ8 V,Industrial Fibers,Rich,8.61
+Impass,5J-SSP,Y-JKJ8,Y-JKJ8 V,Liquid Ozone,Rich,39.55
+Impass,5J-SSP,Y-JKJ8,Y-JKJ8 VI,Base Metals,Medium,6.73
+Impass,5J-SSP,Y-JKJ8,Y-JKJ8 VI,Supertensile Plastics,Medium,17.19
+Impass,5J-SSP,Y-JKJ8,Y-JKJ8 VI,Silicate Glass,Poor,8.82
+Impass,5J-SSP,Y-JKJ8,Y-JKJ8 VI,Oxygen Isotopes,Medium,3.64
+Impass,5J-SSP,Y-JKJ8,Y-JKJ8 VII,Dark Compound,Medium,24.71
+Impass,5J-SSP,Y-JKJ8,Y-JKJ8 VII,Supertensile Plastics,Poor,11.21
+Impass,5J-SSP,Y-JKJ8,Y-JKJ8 VII,Construction Blocks,Medium,23.47
+Impass,5J-SSP,Y-JKJ8,Y-JKJ8 VII,Silicate Glass,Medium,12.20
+Impass,5J-SSP,Y-JKJ8,Y-JKJ8 VIII,Reactive Gas,Rich,32.16
+Impass,5J-SSP,Y-JKJ8,Y-JKJ8 VIII,Noble Metals,Medium,22.18
+Impass,5J-SSP,Y-JKJ8,Y-JKJ8 VIII,Condensates,Rich,20.11
+Impass,5J-SSP,Y-JKJ8,Y-JKJ8 VIII,Smartfab Units,Perfect,24.65
+Impass,5J-SSP,Y-JKJ8,Y-JKJ8 VIII,Liquid Ozone,Perfect,46.97
+Impass,5J-SSP,Y-JKJ8,Y-JKJ8 IX,Lustering Alloy,Medium,23.69
+Impass,5J-SSP,Y-JKJ8,Y-JKJ8 IX,Reactive Gas,Perfect,36.34
+Impass,5J-SSP,Y-JKJ8,Y-JKJ8 IX,Base Metals,Rich,7.74
+Impass,5J-SSP,Y-JKJ8,Y-JKJ8 IX,Polyaramids,Medium,14.93
+Impass,5J-SSP,Y-JKJ8,Y-JKJ8 IX,Coolant,Perfect,24.16
+Impass,5J-SSP,Y-JKJ8,Y-JKJ8 X,Fiber Composite,Rich,32.03
+Impass,5J-SSP,Y-JKJ8,Y-JKJ8 X,Reactive Gas,Rich,33.59
+Impass,5J-SSP,Y-JKJ8,Y-JKJ8 X,Reactive Metals,Perfect,9.27
+Impass,5J-SSP,Y-JKJ8,Y-JKJ8 X,Polyaramids,Medium,14.81
+Impass,5J-SSP,Y-JKJ8,Y-JKJ8 X,Ionic Solutions,Perfect,14.18
+Impass,5J-SSP,Y-JKJ8,Y-JKJ8 XI,Reactive Gas,Rich,29.50
+Impass,5J-SSP,Y-JKJ8,Y-JKJ8 XI,Noble Gas,Medium,22.92
+Impass,5J-SSP,Y-JKJ8,Y-JKJ8 XI,Base Metals,Rich,8.70
+Impass,5J-SSP,Y-JKJ8,Y-JKJ8 XI,Polyaramids,Rich,19.42
+Impass,5J-SSP,Y-JKJ8,Y-JKJ8 XI,Ionic Solutions,Medium,10.65
+Impass,5J-SSP,Y-JKJ8,Y-JKJ8 XII,Lustering Alloy,Poor,18.83
+Impass,5J-SSP,Y-JKJ8,Y-JKJ8 XII,Glossy Compound,Medium,21.25
+Impass,5J-SSP,Y-JKJ8,Y-JKJ8 XII,Reactive Gas,Medium,25.76
+Impass,5J-SSP,Y-JKJ8,Y-JKJ8 XII,Reactive Metals,Rich,9.06
+Impass,5J-SSP,Y-JKJ8,Y-JKJ8 XII,Ionic Solutions,Medium,8.49
+Impass,5J-SSP,AFJ-NB,AFJ-NB I,Supertensile Plastics,Medium,13.75
+Impass,5J-SSP,AFJ-NB,AFJ-NB I,Construction Blocks,Poor,14.83
+Impass,5J-SSP,AFJ-NB,AFJ-NB I,Oxygen Isotopes,Medium,3.38
+Impass,5J-SSP,AFJ-NB,AFJ-NB I,Plasmoids,Medium,1.22
+Impass,5J-SSP,AFJ-NB,AFJ-NB II,Lustering Alloy,Medium,22.79
+Impass,5J-SSP,AFJ-NB,AFJ-NB II,Toxic Metals,Medium,6.73
+Impass,5J-SSP,AFJ-NB,AFJ-NB II,Supertensile Plastics,Poor,9.67
+Impass,5J-SSP,AFJ-NB,AFJ-NB II,Construction Blocks,Poor,17.81
+Impass,5J-SSP,AFJ-NB,AFJ-NB III,Opulent Compound,Perfect,38.89
+Impass,5J-SSP,AFJ-NB,AFJ-NB III,Reactive Gas,Poor,19.76
+Impass,5J-SSP,AFJ-NB,AFJ-NB III,Base Metals,Rich,8.44
+Impass,5J-SSP,AFJ-NB,AFJ-NB III,Industrial Fibers,Medium,6.16
+Impass,5J-SSP,AFJ-NB,AFJ-NB III,Liquid Ozone,Rich,37.22
+Impass,5J-SSP,AFJ-NB,AFJ-NB IV,Opulent Compound,Perfect,34.97
+Impass,5J-SSP,AFJ-NB,AFJ-NB IV,Crystal Compound,Rich,27.07
+Impass,5J-SSP,AFJ-NB,AFJ-NB IV,Polyaramids,Rich,18.94
+Impass,5J-SSP,AFJ-NB,AFJ-NB IV,Silicate Glass,Rich,14.30
+Impass,5J-SSP,AFJ-NB,AFJ-NB IV,Liquid Ozone,Perfect,42.21
+Impass,5J-SSP,AFJ-NB,AFJ-NB V,Fiber Composite,Medium,23.04
+Impass,5J-SSP,AFJ-NB,AFJ-NB V,Reactive Gas,Rich,27.68
+Impass,5J-SSP,AFJ-NB,AFJ-NB V,Noble Gas,Medium,24.49
+Impass,5J-SSP,AFJ-NB,AFJ-NB V,Base Metals,Rich,7.17
+Impass,5J-SSP,AFJ-NB,AFJ-NB V,Polyaramids,Rich,19.74
+Impass,5J-SSP,AFJ-NB,AFJ-NB VI,Sheen Compound,Poor,18.71
+Impass,5J-SSP,AFJ-NB,AFJ-NB VI,Fiber Composite,Poor,18.98
+Impass,5J-SSP,AFJ-NB,AFJ-NB VI,Reactive Gas,Rich,28.79
+Impass,5J-SSP,AFJ-NB,AFJ-NB VI,Noble Gas,Rich,31.31
+Impass,5J-SSP,AFJ-NB,AFJ-NB VI,Ionic Solutions,Medium,10.47
+Impass,5J-SSP,AFJ-NB,AFJ-NB VII,Fiber Composite,Medium,19.99
+Impass,5J-SSP,AFJ-NB,AFJ-NB VII,Reactive Gas,Medium,23.14
+Impass,5J-SSP,AFJ-NB,AFJ-NB VII,Noble Gas,Rich,28.08
+Impass,5J-SSP,AFJ-NB,AFJ-NB VII,Polyaramids,Medium,14.01
+Impass,5J-SSP,AFJ-NB,AFJ-NB VII,Coolant,Medium,15.79
+Impass,5J-SSP,AFJ-NB,AFJ-NB VIII,Condensed Alloy,Perfect,37.09
+Impass,5J-SSP,AFJ-NB,AFJ-NB VIII,Opulent Compound,Perfect,35.95
+Impass,5J-SSP,AFJ-NB,AFJ-NB VIII,Crystal Compound,Rich,28.60
+Impass,5J-SSP,AFJ-NB,AFJ-NB VIII,Liquid Ozone,Perfect,45.73
+Impass,5J-SSP,AFJ-NB,AFJ-NB VIII,Ionic Solutions,Perfect,14.83
+Impass,ZYR-NF,H-64KI,H-64KI I,Lustering Alloy,Medium,25.58
+Impass,ZYR-NF,H-64KI,H-64KI I,Toxic Metals,Poor,3.98
+Impass,ZYR-NF,H-64KI,H-64KI I,Supertensile Plastics,Medium,14.95
+Impass,ZYR-NF,H-64KI,H-64KI I,Silicate Glass,Medium,11.41
+Impass,ZYR-NF,H-64KI,H-64KI II,Gleaming Alloy,Medium,24.23
+Impass,ZYR-NF,H-64KI,H-64KI II,Glossy Compound,Medium,25.73
+Impass,ZYR-NF,H-64KI,H-64KI II,Plasmoids,Medium,1.42
+Impass,ZYR-NF,H-64KI,H-64KI III,Condensed Alloy,Rich,32.40
+Impass,ZYR-NF,H-64KI,H-64KI III,Crystal Compound,Perfect,33.85
+Impass,ZYR-NF,H-64KI,H-64KI III,Coolant,Medium,15.25
+Impass,ZYR-NF,H-64KI,H-64KI III,Liquid Ozone,Medium,30.50
+Impass,ZYR-NF,H-64KI,H-64KI III,Ionic Solutions,Rich,12.90
+Impass,ZYR-NF,H-64KI,H-64KI IV,Fiber Composite,Medium,25.75
+Impass,ZYR-NF,H-64KI,H-64KI IV,Reactive Gas,Rich,32.15
+Impass,ZYR-NF,H-64KI,H-64KI IV,Noble Gas,Medium,23.31
+Impass,ZYR-NF,H-64KI,H-64KI IV,Reactive Metals,Rich,7.30
+Impass,ZYR-NF,H-64KI,H-64KI IV,Ionic Solutions,Medium,9.26
+Impass,ZYR-NF,H-64KI,H-64KI V,Base Metals,Medium,6.48
+Impass,ZYR-NF,H-64KI,H-64KI V,Toxic Metals,Medium,6.57
+Impass,ZYR-NF,H-64KI,H-64KI V,Supertensile Plastics,Medium,17.09
+Impass,ZYR-NF,H-64KI,H-64KI V,Construction Blocks,Poor,17.35
+Impass,ZYR-NF,H-64KI,H-64KI VI,Sheen Compound,Medium,26.38
+Impass,ZYR-NF,H-64KI,H-64KI VI,Reactive Gas,Perfect,34.02
+Impass,ZYR-NF,H-64KI,H-64KI VI,Polyaramids,Rich,20.22
+Impass,ZYR-NF,H-64KI,H-64KI VI,Coolant,Poor,11.87
+Impass,ZYR-NF,H-64KI,H-64KI VI,Ionic Solutions,Poor,7.55
+Impass,ZYR-NF,H-64KI,H-64KI VII,Sheen Compound,Medium,21.65
+Impass,ZYR-NF,H-64KI,H-64KI VII,Reactive Gas,Medium,22.45
+Impass,ZYR-NF,H-64KI,H-64KI VII,Base Metals,Medium,6.89
+Impass,ZYR-NF,H-64KI,H-64KI VII,Polyaramids,Perfect,22.47
+Impass,ZYR-NF,H-64KI,H-64KI VII,Ionic Solutions,Medium,7.95
+Impass,ZYR-NF,H-64KI,H-64KI VIII,Fiber Composite,Perfect,38.83
+Impass,ZYR-NF,H-64KI,H-64KI VIII,Opulent Compound,Medium,21.69
+Impass,ZYR-NF,H-64KI,H-64KI VIII,Smartfab Units,Perfect,22.62
+Impass,ZYR-NF,H-64KI,H-64KI VIII,Heavy Water,Perfect,388.50
+Impass,ZYR-NF,H-64KI,H-64KI VIII,Liquid Ozone,Medium,29.79
+Impass,ZYR-NF,H-64KI,H-64KI IX,Opulent Compound,Medium,22.57
+Impass,ZYR-NF,H-64KI,H-64KI IX,Toxic Metals,Perfect,9.13
+Impass,ZYR-NF,H-64KI,H-64KI IX,Silicate Glass,Perfect,17.60
+Impass,ZYR-NF,H-64KI,H-64KI IX,Liquid Ozone,Perfect,42.16
+Impass,ZYR-NF,H-64KI,H-64KI IX,Ionic Solutions,Medium,10.06
+Impass,ZYR-NF,9I-SRF,9I-SRF I,Gleaming Alloy,Rich,33.13
+Impass,ZYR-NF,9I-SRF,9I-SRF I,Smartfab Units,Rich,18.96
+Impass,ZYR-NF,9I-SRF,9I-SRF I,Oxygen Isotopes,Rich,5.11
+Impass,ZYR-NF,9I-SRF,9I-SRF II,Lustering Alloy,Poor,19.38
+Impass,ZYR-NF,9I-SRF,9I-SRF II,Precious Alloy,Poor,20.61
+Impass,ZYR-NF,9I-SRF,9I-SRF II,Toxic Metals,Poor,4.78
+Impass,ZYR-NF,9I-SRF,9I-SRF II,Supertensile Plastics,Poor,13.42
+Impass,ZYR-NF,9I-SRF,9I-SRF III,Lustering Alloy,Rich,31.24
+Impass,ZYR-NF,9I-SRF,9I-SRF III,Sheen Compound,Rich,34.12
+Impass,ZYR-NF,9I-SRF,9I-SRF III,Fiber Composite,Medium,24.35
+Impass,ZYR-NF,9I-SRF,9I-SRF III,Reactive Gas,Medium,25.54
+Impass,ZYR-NF,9I-SRF,9I-SRF III,Polyaramids,Medium,14.89
+Impass,ZYR-NF,9I-SRF,9I-SRF IV,Fiber Composite,Rich,33.02
+Impass,ZYR-NF,9I-SRF,9I-SRF IV,Glossy Compound,Poor,19.93
+Impass,ZYR-NF,9I-SRF,9I-SRF IV,Reactive Gas,Poor,19.36
+Impass,ZYR-NF,9I-SRF,9I-SRF IV,Reactive Metals,Rich,8.33
+Impass,ZYR-NF,9I-SRF,9I-SRF IV,Ionic Solutions,Rich,12.59
+Impass,ZYR-NF,9I-SRF,9I-SRF V,Fiber Composite,Medium,27.72
+Impass,ZYR-NF,9I-SRF,9I-SRF V,Glossy Compound,Medium,24.20
+Impass,ZYR-NF,9I-SRF,9I-SRF V,Reactive Gas,Medium,22.11
+Impass,ZYR-NF,9I-SRF,9I-SRF V,Noble Gas,Rich,31.97
+Impass,ZYR-NF,9I-SRF,9I-SRF V,Base Metals,Medium,5.98
+Impass,ZYR-NF,9I-SRF,9I-SRF VI,Lustering Alloy,Medium,22.31
+Impass,ZYR-NF,9I-SRF,9I-SRF VI,Precious Alloy,Poor,19.58
+Impass,ZYR-NF,9I-SRF,9I-SRF VI,Condensates,Poor,13.63
+Impass,ZYR-NF,9I-SRF,9I-SRF VI,Suspended Plasma,Medium,90.92
+Impass,ZYR-NF,9I-SRF,9I-SRF VII,Lustering Alloy,Medium,21.60
+Impass,ZYR-NF,9I-SRF,9I-SRF VII,Supertensile Plastics,Poor,13.29
+Impass,ZYR-NF,9I-SRF,9I-SRF VII,Construction Blocks,Poor,14.26
+Impass,ZYR-NF,9I-SRF,9I-SRF VII,Plasmoids,Medium,1.45
+Impass,ZYR-NF,9-IIBL,9-IIBL I,Base Metals,Medium,6.31
+Impass,ZYR-NF,9-IIBL,9-IIBL I,Industrial Fibers,Poor,3.29
+Impass,ZYR-NF,9-IIBL,9-IIBL I,Supertensile Plastics,Poor,12.55
+Impass,ZYR-NF,9-IIBL,9-IIBL I,Plasmoids,Medium,1.43
+Impass,ZYR-NF,9-IIBL,9-IIBL II,Gleaming Alloy,Medium,23.90
+Impass,ZYR-NF,9-IIBL,9-IIBL II,Motley Compound,Medium,24.42
+Impass,ZYR-NF,9-IIBL,9-IIBL II,Polyaramids,Poor,12.39
+Impass,ZYR-NF,9-IIBL,9-IIBL III,Reactive Metals,Medium,5.50
+Impass,ZYR-NF,9-IIBL,9-IIBL III,Construction Blocks,Medium,19.88
+Impass,ZYR-NF,9-IIBL,9-IIBL III,Nanites,Rich,7.70
+Impass,ZYR-NF,9-IIBL,9-IIBL III,Suspended Plasma,Medium,76.03
+Impass,ZYR-NF,9-IIBL,9-IIBL IV,Sheen Compound,Rich,28.24
+Impass,ZYR-NF,9-IIBL,9-IIBL IV,Fiber Composite,Medium,20.72
+Impass,ZYR-NF,9-IIBL,9-IIBL IV,Reactive Gas,Medium,24.82
+Impass,ZYR-NF,9-IIBL,9-IIBL IV,Noble Gas,Rich,28.56
+Impass,ZYR-NF,9-IIBL,9-IIBL IV,Polyaramids,Poor,11.63
+Impass,ZYR-NF,9-IIBL,9-IIBL V,Fiber Composite,Poor,17.20
+Impass,ZYR-NF,9-IIBL,9-IIBL V,Glossy Compound,Medium,21.34
+Impass,ZYR-NF,9-IIBL,9-IIBL V,Reactive Gas,Medium,21.76
+Impass,ZYR-NF,9-IIBL,9-IIBL V,Noble Gas,Medium,20.88
+Impass,ZYR-NF,9-IIBL,9-IIBL V,Base Metals,Medium,5.77
+Impass,ZYR-NF,9-IIBL,9-IIBL VI,Fiber Composite,Rich,25.90
+Impass,ZYR-NF,9-IIBL,9-IIBL VI,Glossy Compound,Rich,26.48
+Impass,ZYR-NF,9-IIBL,9-IIBL VI,Reactive Gas,Poor,17.48
+Impass,ZYR-NF,9-IIBL,9-IIBL VI,Base Metals,Poor,4.34
+Impass,ZYR-NF,9-IIBL,9-IIBL VI,Coolant,Rich,18.47
+Impass,ZYR-NF,9-IIBL,9-IIBL VII,Glossy Compound,Rich,29.44
+Impass,ZYR-NF,9-IIBL,9-IIBL VII,Reactive Gas,Medium,24.22
+Impass,ZYR-NF,9-IIBL,9-IIBL VII,Noble Gas,Poor,17.38
+Impass,ZYR-NF,9-IIBL,9-IIBL VII,Reactive Metals,Rich,8.16
+Impass,ZYR-NF,9-IIBL,9-IIBL VII,Coolant,Perfect,21.88
+Impass,ZYR-NF,9-IIBL,9-IIBL VIII,Lustering Alloy,Rich,25.64
+Impass,ZYR-NF,9-IIBL,9-IIBL VIII,Precious Alloy,Medium,24.06
+Impass,ZYR-NF,9-IIBL,9-IIBL VIII,Heavy Metals,Medium,18.86
+Impass,ZYR-NF,9-IIBL,9-IIBL VIII,Condensates,Rich,18.20
+Impass,ZYR-NF,5GQ-S9,5GQ-S9 I,Gleaming Alloy,Perfect,32.18
+Impass,ZYR-NF,5GQ-S9,5GQ-S9 I,Glossy Compound,Medium,22.80
+Impass,ZYR-NF,5GQ-S9,5GQ-S9 I,Noble Gas,Rich,28.72
+Impass,ZYR-NF,5GQ-S9,5GQ-S9 II,Precious Alloy,Poor,15.38
+Impass,ZYR-NF,5GQ-S9,5GQ-S9 II,Base Metals,Medium,5.80
+Impass,ZYR-NF,5GQ-S9,5GQ-S9 II,Supertensile Plastics,Medium,14.84
+Impass,ZYR-NF,5GQ-S9,5GQ-S9 II,Plasmoids,Poor,0.95
+Impass,ZYR-NF,5GQ-S9,5GQ-S9 III,Lustering Alloy,Medium,24.30
+Impass,ZYR-NF,5GQ-S9,5GQ-S9 III,Reactive Gas,Poor,18.32
+Impass,ZYR-NF,5GQ-S9,5GQ-S9 III,Reactive Metals,Poor,4.95
+Impass,ZYR-NF,5GQ-S9,5GQ-S9 III,Polyaramids,Poor,11.44
+Impass,ZYR-NF,5GQ-S9,5GQ-S9 III,Coolant,Rich,20.76
+Impass,ZYR-NF,5GQ-S9,5GQ-S9 IV,Lustering Alloy,Medium,19.76
+Impass,ZYR-NF,5GQ-S9,5GQ-S9 IV,Glossy Compound,Medium,22.54
+Impass,ZYR-NF,5GQ-S9,5GQ-S9 IV,Reactive Gas,Poor,17.30
+Impass,ZYR-NF,5GQ-S9,5GQ-S9 IV,Coolant,Rich,17.56
+Impass,ZYR-NF,5GQ-S9,5GQ-S9 IV,Ionic Solutions,Rich,12.49
+Impass,ZYR-NF,5GQ-S9,5GQ-S9 V,Lustering Alloy,Medium,25.24
+Impass,ZYR-NF,5GQ-S9,5GQ-S9 V,Sheen Compound,Rich,31.56
+Impass,ZYR-NF,5GQ-S9,5GQ-S9 V,Reactive Gas,Medium,21.10
+Impass,ZYR-NF,5GQ-S9,5GQ-S9 V,Noble Gas,Rich,27.76
+Impass,ZYR-NF,5GQ-S9,5GQ-S9 V,Coolant,Medium,14.93
+Impass,ZYR-NF,5GQ-S9,5GQ-S9 VI,Lustering Alloy,Perfect,31.80
+Impass,ZYR-NF,5GQ-S9,5GQ-S9 VI,Reactive Gas,Rich,31.54
+Impass,ZYR-NF,5GQ-S9,5GQ-S9 VI,Noble Gas,Rich,26.02
+Impass,ZYR-NF,5GQ-S9,5GQ-S9 VI,Base Metals,Medium,6.24
+Impass,ZYR-NF,5GQ-S9,5GQ-S9 VI,Ionic Solutions,Medium,8.74
+Impass,ZYR-NF,YALR-F,YALR-F I,Lucent Compound,Perfect,37.10
+Impass,ZYR-NF,YALR-F,YALR-F I,Reactive Gas,Rich,35.83
+Impass,ZYR-NF,YALR-F,YALR-F I,Reactive Metals,Medium,6.33
+Impass,ZYR-NF,YALR-F,YALR-F I,Construction Blocks,Medium,28.36
+Impass,ZYR-NF,YALR-F,YALR-F II,Opulent Compound,Rich,31.28
+Impass,ZYR-NF,YALR-F,YALR-F II,Reactive Gas,Medium,25.16
+Impass,ZYR-NF,YALR-F,YALR-F II,Noble Metals,Perfect,43.68
+Impass,ZYR-NF,YALR-F,YALR-F II,Condensates,Rich,22.29
+Impass,ZYR-NF,YALR-F,YALR-F II,Liquid Ozone,Rich,45.08
+Impass,ZYR-NF,YALR-F,YALR-F III,Gleaming Alloy,Rich,33.42
+Impass,ZYR-NF,YALR-F,YALR-F III,Motley Compound,Medium,28.22
+Impass,ZYR-NF,YALR-F,YALR-F III,Polyaramids,Medium,17.51
+Impass,ZYR-NF,YALR-F,YALR-F IV,Lustering Alloy,Rich,33.86
+Impass,ZYR-NF,YALR-F,YALR-F IV,Fiber Composite,Rich,33.14
+Impass,ZYR-NF,YALR-F,YALR-F IV,Reactive Gas,Medium,29.03
+Impass,ZYR-NF,YALR-F,YALR-F IV,Base Metals,Perfect,9.68
+Impass,ZYR-NF,YALR-F,YALR-F IV,Reactive Metals,Poor,5.47
+Impass,ZYR-NF,YALR-F,YALR-F V,Toxic Metals,Medium,5.79
+Impass,ZYR-NF,YALR-F,YALR-F V,Industrial Fibers,Poor,5.41
+Impass,ZYR-NF,YALR-F,YALR-F V,Supertensile Plastics,Medium,16.42
+Impass,ZYR-NF,YALR-F,YALR-F V,Construction Blocks,Poor,18.84
+Impass,ZYR-NF,68FT-6,68FT-6 I,Dark Compound,Medium,22.13
+Impass,ZYR-NF,68FT-6,68FT-6 I,Toxic Metals,Medium,5.67
+Impass,ZYR-NF,68FT-6,68FT-6 I,Supertensile Plastics,Medium,16.16
+Impass,ZYR-NF,68FT-6,68FT-6 I,Construction Blocks,Medium,25.21
+Impass,ZYR-NF,68FT-6,68FT-6 II,Lucent Compound,Poor,18.33
+Impass,ZYR-NF,68FT-6,68FT-6 II,Reactive Metals,Poor,5.41
+Impass,ZYR-NF,68FT-6,68FT-6 II,Toxic Metals,Medium,6.14
+Impass,ZYR-NF,68FT-6,68FT-6 II,Construction Blocks,Rich,27.96
+Impass,ZYR-NF,68FT-6,68FT-6 III,Sheen Compound,Poor,19.91
+Impass,ZYR-NF,68FT-6,68FT-6 III,Reactive Gas,Medium,20.90
+Impass,ZYR-NF,68FT-6,68FT-6 III,Base Metals,Rich,8.04
+Impass,ZYR-NF,68FT-6,68FT-6 III,Reactive Metals,Rich,8.91
+Impass,ZYR-NF,68FT-6,68FT-6 III,Ionic Solutions,Medium,9.89
+Impass,ZYR-NF,68FT-6,68FT-6 IV,Fiber Composite,Rich,28.05
+Impass,ZYR-NF,68FT-6,68FT-6 IV,Reactive Gas,Rich,29.24
+Impass,ZYR-NF,68FT-6,68FT-6 IV,Base Metals,Rich,8.29
+Impass,ZYR-NF,68FT-6,68FT-6 IV,Polyaramids,Rich,18.82
+Impass,ZYR-NF,68FT-6,68FT-6 IV,Ionic Solutions,Poor,7.77
+Impass,ZYR-NF,68FT-6,68FT-6 V,Lustering Alloy,Medium,27.63
+Impass,ZYR-NF,68FT-6,68FT-6 V,Sheen Compound,Rich,34.56
+Impass,ZYR-NF,68FT-6,68FT-6 V,Reactive Gas,Perfect,36.15
+Impass,ZYR-NF,68FT-6,68FT-6 V,Polyaramids,Poor,12.10
+Impass,ZYR-NF,68FT-6,68FT-6 V,Coolant,Medium,15.84
+Impass,ZYR-NF,68FT-6,68FT-6 VI,Supertensile Plastics,Medium,14.02
+Impass,ZYR-NF,68FT-6,68FT-6 VI,Coolant,Medium,17.66
+Impass,ZYR-NF,68FT-6,68FT-6 VI,Condensates,Rich,19.86
+Impass,ZYR-NF,68FT-6,68FT-6 VI,Liquid Ozone,Medium,27.75
+Impass,ZYR-NF,68FT-6,68FT-6 VII,Dark Compound,Medium,23.56
+Impass,ZYR-NF,68FT-6,68FT-6 VII,Base Metals,Medium,6.93
+Impass,ZYR-NF,68FT-6,68FT-6 VII,Supertensile Plastics,Medium,14.53
+Impass,ZYR-NF,68FT-6,68FT-6 VII,Construction Blocks,Poor,19.87
+Impass,ZYR-NF,IV-UNR,IV-UNR I,Base Metals,Poor,5.83
+Impass,ZYR-NF,IV-UNR,IV-UNR I,Supertensile Plastics,Poor,15.04
+Impass,ZYR-NF,IV-UNR,IV-UNR I,Construction Blocks,Poor,14.98
+Impass,ZYR-NF,IV-UNR,IV-UNR I,Plasmoids,Poor,1.16
+Impass,ZYR-NF,IV-UNR,IV-UNR II,Precious Alloy,Medium,27.65
+Impass,ZYR-NF,IV-UNR,IV-UNR II,Base Metals,Poor,4.24
+Impass,ZYR-NF,IV-UNR,IV-UNR II,Supertensile Plastics,Poor,13.98
+Impass,ZYR-NF,IV-UNR,IV-UNR II,Silicate Glass,Poor,10.72
+Impass,ZYR-NF,IV-UNR,IV-UNR III,Lustering Alloy,Medium,23.81
+Impass,ZYR-NF,IV-UNR,IV-UNR III,Supertensile Plastics,Medium,16.86
+Impass,ZYR-NF,IV-UNR,IV-UNR III,Construction Blocks,Poor,21.70
+Impass,ZYR-NF,IV-UNR,IV-UNR III,Silicate Glass,Medium,13.54
+Impass,ZYR-NF,IV-UNR,IV-UNR IV,Lucent Compound,Rich,32.04
+Impass,ZYR-NF,IV-UNR,IV-UNR IV,Reactive Gas,Medium,23.40
+Impass,ZYR-NF,IV-UNR,IV-UNR IV,Reactive Metals,Medium,6.36
+Impass,ZYR-NF,IV-UNR,IV-UNR IV,Toxic Metals,Rich,9.35
+Impass,ZYR-NF,IV-UNR,IV-UNR V,Lustering Alloy,Medium,26.74
+Impass,ZYR-NF,IV-UNR,IV-UNR V,Precious Alloy,Poor,17.62
+Impass,ZYR-NF,IV-UNR,IV-UNR V,Toxic Metals,Poor,3.97
+Impass,ZYR-NF,IV-UNR,IV-UNR V,Supertensile Plastics,Medium,19.22
+Impass,ZYR-NF,IV-UNR,IV-UNR VI,Lustering Alloy,Rich,35.71
+Impass,ZYR-NF,IV-UNR,IV-UNR VI,Fiber Composite,Medium,29.38
+Impass,ZYR-NF,IV-UNR,IV-UNR VI,Glossy Compound,Rich,32.02
+Impass,ZYR-NF,IV-UNR,IV-UNR VI,Reactive Gas,Rich,32.59
+Impass,ZYR-NF,IV-UNR,IV-UNR VI,Noble Gas,Rich,31.99
+Impass,ZYR-NF,IV-UNR,IV-UNR VII,Gleaming Alloy,Rich,31.92
+Impass,ZYR-NF,IV-UNR,IV-UNR VII,Heavy Metals,Rich,37.66
+Impass,ZYR-NF,IV-UNR,IV-UNR VII,Polyaramids,Poor,14.45
+Impass,ZYR-NF,IRE-98,IRE-98 I,Dark Compound,Poor,19.76
+Impass,ZYR-NF,IRE-98,IRE-98 I,Supertensile Plastics,Poor,13.29
+Impass,ZYR-NF,IRE-98,IRE-98 I,Oxygen Isotopes,Poor,2.19
+Impass,ZYR-NF,IRE-98,IRE-98 I,Plasmoids,Medium,1.30
+Impass,ZYR-NF,IRE-98,IRE-98 II,Fiber Composite,Medium,21.91
+Impass,ZYR-NF,IRE-98,IRE-98 II,Reactive Gas,Medium,27.06
+Impass,ZYR-NF,IRE-98,IRE-98 II,Noble Metals,Medium,24.11
+Impass,ZYR-NF,IRE-98,IRE-98 II,Heavy Water,Rich,322.74
+Impass,ZYR-NF,IRE-98,IRE-98 II,Liquid Ozone,Perfect,45.29
+Impass,ZYR-NF,IRE-98,IRE-98 III,Reactive Gas,Poor,18.17
+Impass,ZYR-NF,IRE-98,IRE-98 III,Noble Gas,Rich,33.57
+Impass,ZYR-NF,IRE-98,IRE-98 III,Base Metals,Poor,4.75
+Impass,ZYR-NF,IRE-98,IRE-98 III,Reactive Metals,Medium,5.87
+Impass,ZYR-NF,IRE-98,IRE-98 III,Polyaramids,Medium,15.77
+Impass,ZYR-NF,IRE-98,IRE-98 IV,Fiber Composite,Poor,18.11
+Impass,ZYR-NF,IRE-98,IRE-98 IV,Reactive Gas,Perfect,35.07
+Impass,ZYR-NF,IRE-98,IRE-98 IV,Noble Gas,Rich,29.17
+Impass,ZYR-NF,IRE-98,IRE-98 IV,Base Metals,Medium,7.01
+Impass,ZYR-NF,IRE-98,IRE-98 IV,Reactive Metals,Poor,5.45
+Impass,ZYR-NF,IRE-98,IRE-98 V,Glossy Compound,Rich,34.72
+Impass,ZYR-NF,IRE-98,IRE-98 V,Reactive Gas,Rich,34.83
+Impass,ZYR-NF,IRE-98,IRE-98 V,Noble Gas,Medium,23.25
+Impass,ZYR-NF,IRE-98,IRE-98 V,Base Metals,Poor,4.94
+Impass,ZYR-NF,IRE-98,IRE-98 V,Polyaramids,Perfect,24.08
+Impass,ZYR-NF,IRE-98,IRE-98 VI,Sheen Compound,Poor,18.68
+Impass,ZYR-NF,IRE-98,IRE-98 VI,Glossy Compound,Poor,20.06
+Impass,ZYR-NF,IRE-98,IRE-98 VI,Reactive Gas,Rich,31.75
+Impass,ZYR-NF,IRE-98,IRE-98 VI,Noble Gas,Medium,24.00
+Impass,ZYR-NF,IRE-98,IRE-98 VI,Base Metals,Medium,6.89
+Impass,ZYR-NF,IRE-98,IRE-98 VII,Dark Compound,Poor,17.73
+Impass,ZYR-NF,IRE-98,IRE-98 VII,Base Metals,Poor,4.35
+Impass,ZYR-NF,IRE-98,IRE-98 VII,Supertensile Plastics,Poor,12.31
+Impass,ZYR-NF,IRE-98,IRE-98 VII,Plasmoids,Poor,1.10
+Impass,ZYR-NF,IRE-98,IRE-98 VIII,Sheen Compound,Rich,32.82
+Impass,ZYR-NF,IRE-98,IRE-98 VIII,Glossy Compound,Medium,27.83
+Impass,ZYR-NF,IRE-98,IRE-98 VIII,Reactive Gas,Medium,25.06
+Impass,ZYR-NF,IRE-98,IRE-98 VIII,Reactive Metals,Medium,6.19
+Impass,ZYR-NF,IRE-98,IRE-98 VIII,Polyaramids,Medium,17.66
+Impass,ZYR-NF,IRE-98,IRE-98 IX,Opulent Compound,Medium,23.10
+Impass,ZYR-NF,IRE-98,IRE-98 IX,Crystal Compound,Medium,23.30
+Impass,ZYR-NF,IRE-98,IRE-98 IX,Coolant,Perfect,25.93
+Impass,ZYR-NF,IRE-98,IRE-98 IX,Silicate Glass,Rich,15.32
+Impass,ZYR-NF,IRE-98,IRE-98 IX,Liquid Ozone,Medium,27.20
+Impass,ZYR-NF,HOHF-B,HOHF-B I,Lustering Alloy,Medium,22.72
+Impass,ZYR-NF,HOHF-B,HOHF-B I,Dark Compound,Poor,17.37
+Impass,ZYR-NF,HOHF-B,HOHF-B I,Industrial Fibers,Poor,5.20
+Impass,ZYR-NF,HOHF-B,HOHF-B I,Supertensile Plastics,Poor,12.43
+Impass,ZYR-NF,HOHF-B,HOHF-B II,Gleaming Alloy,Medium,22.03
+Impass,ZYR-NF,HOHF-B,HOHF-B II,Noble Metals,Poor,18.31
+Impass,ZYR-NF,HOHF-B,HOHF-B II,Construction Blocks,Medium,26.57
+Impass,ZYR-NF,HOHF-B,HOHF-B III,Fiber Composite,Medium,22.55
+Impass,ZYR-NF,HOHF-B,HOHF-B III,Opulent Compound,Perfect,34.25
+Impass,ZYR-NF,HOHF-B,HOHF-B III,Base Metals,Perfect,10.12
+Impass,ZYR-NF,HOHF-B,HOHF-B III,Smartfab Units,Rich,19.52
+Impass,ZYR-NF,HOHF-B,HOHF-B III,Liquid Ozone,Rich,34.02
+Impass,ZYR-NF,HOHF-B,HOHF-B IV,Base Metals,Medium,6.05
+Impass,ZYR-NF,HOHF-B,HOHF-B IV,Supertensile Plastics,Poor,12.70
+Impass,ZYR-NF,HOHF-B,HOHF-B IV,Silicate Glass,Medium,11.82
+Impass,ZYR-NF,HOHF-B,HOHF-B IV,Oxygen Isotopes,Medium,3.43
+Impass,ZYR-NF,HOHF-B,HOHF-B V,Glossy Compound,Medium,20.81
+Impass,ZYR-NF,HOHF-B,HOHF-B V,Reactive Gas,Medium,22.57
+Impass,ZYR-NF,HOHF-B,HOHF-B V,Noble Gas,Medium,23.37
+Impass,ZYR-NF,HOHF-B,HOHF-B V,Coolant,Medium,13.58
+Impass,ZYR-NF,HOHF-B,HOHF-B V,Ionic Solutions,Medium,8.07
+Impass,ZYR-NF,HOHF-B,HOHF-B VI,Glossy Compound,Rich,28.73
+Impass,ZYR-NF,HOHF-B,HOHF-B VI,Reactive Gas,Poor,18.96
+Impass,ZYR-NF,HOHF-B,HOHF-B VI,Base Metals,Rich,7.86
+Impass,ZYR-NF,HOHF-B,HOHF-B VI,Polyaramids,Medium,14.67
+Impass,ZYR-NF,HOHF-B,HOHF-B VI,Ionic Solutions,Rich,10.74
+Impass,ZYR-NF,HOHF-B,HOHF-B VII,Lustering Alloy,Rich,27.43
+Impass,ZYR-NF,HOHF-B,HOHF-B VII,Base Metals,Poor,4.61
+Impass,ZYR-NF,HOHF-B,HOHF-B VII,Condensates,Medium,14.85
+Impass,ZYR-NF,HOHF-B,HOHF-B VII,Suspended Plasma,Poor,56.32
+Impass,ZYR-NF,Y-6B0E,Y-6B0E I,Toxic Metals,Poor,4.04
+Impass,ZYR-NF,Y-6B0E,Y-6B0E I,Supertensile Plastics,Poor,12.92
+Impass,ZYR-NF,Y-6B0E,Y-6B0E I,Silicate Glass,Poor,9.45
+Impass,ZYR-NF,Y-6B0E,Y-6B0E I,Plasmoids,Poor,1.01
+Impass,ZYR-NF,Y-6B0E,Y-6B0E II,Base Metals,Medium,5.98
+Impass,ZYR-NF,Y-6B0E,Y-6B0E II,Toxic Metals,Poor,5.31
+Impass,ZYR-NF,Y-6B0E,Y-6B0E II,Industrial Fibers,Medium,6.06
+Impass,ZYR-NF,Y-6B0E,Y-6B0E II,Supertensile Plastics,Medium,17.66
+Impass,ZYR-NF,Y-6B0E,Y-6B0E III,Base Metals,Medium,6.50
+Impass,ZYR-NF,Y-6B0E,Y-6B0E III,Industrial Fibers,Medium,7.10
+Impass,ZYR-NF,Y-6B0E,Y-6B0E III,Supertensile Plastics,Medium,16.44
+Impass,ZYR-NF,Y-6B0E,Y-6B0E III,Oxygen Isotopes,Poor,2.50
+Impass,ZYR-NF,Y-6B0E,Y-6B0E IV,Heavy Metals,Rich,28.40
+Impass,ZYR-NF,Y-6B0E,Y-6B0E IV,Condensates,Rich,21.00
+Impass,ZYR-NF,Y-6B0E,Y-6B0E IV,Nanites,Perfect,9.32
+Impass,ZYR-NF,Y-6B0E,Y-6B0E IV,Suspended Plasma,Rich,112.62
+Impass,ZYR-NF,Y-6B0E,Y-6B0E IV,Ionic Solutions,Medium,10.91
+Impass,ZYR-NF,Y-6B0E,Y-6B0E V,Dark Compound,Medium,25.15
+Impass,ZYR-NF,Y-6B0E,Y-6B0E V,Supertensile Plastics,Medium,17.01
+Impass,ZYR-NF,Y-6B0E,Y-6B0E V,Silicate Glass,Medium,10.79
+Impass,ZYR-NF,Y-6B0E,Y-6B0E V,Oxygen Isotopes,Medium,3.82
+Impass,ZYR-NF,Y-6B0E,Y-6B0E VI,Lustering Alloy,Rich,29.59
+Impass,ZYR-NF,Y-6B0E,Y-6B0E VI,Sheen Compound,Rich,28.23
+Impass,ZYR-NF,Y-6B0E,Y-6B0E VI,Reactive Gas,Perfect,35.73
+Impass,ZYR-NF,Y-6B0E,Y-6B0E VI,Noble Gas,Medium,27.35
+Impass,ZYR-NF,Y-6B0E,Y-6B0E VI,Polyaramids,Medium,16.98
+Impass,ZYR-NF,Y-6B0E,Y-6B0E VII,Lustering Alloy,Rich,28.20
+Impass,ZYR-NF,Y-6B0E,Y-6B0E VII,Glossy Compound,Medium,25.87
+Impass,ZYR-NF,Y-6B0E,Y-6B0E VII,Reactive Gas,Rich,34.14
+Impass,ZYR-NF,Y-6B0E,Y-6B0E VII,Polyaramids,Poor,12.31
+Impass,ZYR-NF,Y-6B0E,Y-6B0E VII,Coolant,Perfect,23.73
+Impass,ZYR-NF,Y-6B0E,Y-6B0E VIII,Lustering Alloy,Perfect,36.30
+Impass,ZYR-NF,Y-6B0E,Y-6B0E VIII,Glossy Compound,Rich,34.19
+Impass,ZYR-NF,Y-6B0E,Y-6B0E VIII,Reactive Gas,Rich,34.54
+Impass,ZYR-NF,Y-6B0E,Y-6B0E VIII,Coolant,Medium,15.15
+Impass,ZYR-NF,Y-6B0E,Y-6B0E VIII,Ionic Solutions,Medium,10.31
+Impass,ZYR-NF,Y-6B0E,Y-6B0E IX,Lustering Alloy,Medium,23.25
+Impass,ZYR-NF,Y-6B0E,Y-6B0E IX,Base Metals,Medium,6.44
+Impass,ZYR-NF,Y-6B0E,Y-6B0E IX,Supertensile Plastics,Poor,12.70
+Impass,ZYR-NF,Y-6B0E,Y-6B0E IX,Condensates,Poor,12.41
+Impass,ZYR-NF,F-3H2P,F-3H2P I,Sheen Compound,Perfect,37.12
+Impass,ZYR-NF,F-3H2P,F-3H2P I,Noble Gas,Perfect,37.70
+Impass,ZYR-NF,F-3H2P,F-3H2P I,Condensates,Perfect,25.38
+Impass,ZYR-NF,F-3H2P,F-3H2P I,Suspended Plasma,Medium,96.79
+Impass,ZYR-NF,F-3H2P,F-3H2P I,Plasmoids,Medium,1.41
+Impass,ZYR-NF,F-3H2P,F-3H2P II,Gleaming Alloy,Medium,23.18
+Impass,ZYR-NF,F-3H2P,F-3H2P II,Noble Metals,Medium,21.99
+Impass,ZYR-NF,F-3H2P,F-3H2P II,Polyaramids,Medium,15.75
+Impass,ZYR-NF,F-3H2P,F-3H2P III,Gleaming Alloy,Medium,25.51
+Impass,ZYR-NF,F-3H2P,F-3H2P III,Heavy Metals,Rich,36.22
+Impass,ZYR-NF,F-3H2P,F-3H2P III,Smartfab Units,Medium,15.98
+Impass,ZYR-NF,F-3H2P,F-3H2P IV,Crystal Compound,Poor,19.94
+Impass,ZYR-NF,F-3H2P,F-3H2P IV,Reactive Metals,Medium,7.09
+Impass,ZYR-NF,F-3H2P,F-3H2P IV,Toxic Metals,Poor,5.10
+Impass,ZYR-NF,F-3H2P,F-3H2P IV,Suspended Plasma,Medium,97.21
+Impass,ZYR-NF,F-3H2P,F-3H2P V,Reactive Gas,Rich,30.52
+Impass,ZYR-NF,F-3H2P,F-3H2P V,Reactive Metals,Medium,6.05
+Impass,ZYR-NF,F-3H2P,F-3H2P V,Toxic Metals,Medium,6.40
+Impass,ZYR-NF,F-3H2P,F-3H2P V,Supertensile Plastics,Rich,22.20
+Impass,ZYR-NF,F-3H2P,F-3H2P VI,Lustering Alloy,Rich,30.11
+Impass,ZYR-NF,F-3H2P,F-3H2P VI,Reactive Gas,Medium,21.76
+Impass,ZYR-NF,F-3H2P,F-3H2P VI,Noble Gas,Medium,28.45
+Impass,ZYR-NF,F-3H2P,F-3H2P VI,Base Metals,Poor,5.10
+Impass,ZYR-NF,F-3H2P,F-3H2P VI,Reactive Metals,Rich,8.32
+Impass,ZYR-NF,F-3H2P,F-3H2P VII,Fiber Composite,Rich,35.26
+Impass,ZYR-NF,F-3H2P,F-3H2P VII,Reactive Gas,Rich,34.73
+Impass,ZYR-NF,F-3H2P,F-3H2P VII,Noble Gas,Poor,21.14
+Impass,ZYR-NF,F-3H2P,F-3H2P VII,Polyaramids,Poor,12.71
+Impass,ZYR-NF,F-3H2P,F-3H2P VII,Ionic Solutions,Rich,12.01
+Impass,ZYR-NF,F-3H2P,F-3H2P VIII,Sheen Compound,Rich,36.22
+Impass,ZYR-NF,F-3H2P,F-3H2P VIII,Reactive Gas,Medium,22.93
+Impass,ZYR-NF,F-3H2P,F-3H2P VIII,Base Metals,Rich,7.87
+Impass,ZYR-NF,F-3H2P,F-3H2P VIII,Polyaramids,Rich,19.93
+Impass,ZYR-NF,F-3H2P,F-3H2P VIII,Ionic Solutions,Medium,8.85
+Impass,ZYR-NF,F-3H2P,F-3H2P IX,Crystal Compound,Rich,36.06
+Impass,ZYR-NF,F-3H2P,F-3H2P IX,Reactive Metals,Poor,5.36
+Impass,ZYR-NF,F-3H2P,F-3H2P IX,Supertensile Plastics,Perfect,24.38
+Impass,ZYR-NF,F-3H2P,F-3H2P IX,Oxygen Isotopes,Rich,5.29
+Impass,ZYR-NF,F-3H2P,F-3H2P X,Lustering Alloy,Medium,27.07
+Impass,ZYR-NF,F-3H2P,F-3H2P X,Dark Compound,Poor,14.38
+Impass,ZYR-NF,F-3H2P,F-3H2P X,Supertensile Plastics,Medium,17.68
+Impass,ZYR-NF,F-3H2P,F-3H2P X,Silicate Glass,Poor,7.61
+Impass,1A-WYQ,DY-40Z,DY-40Z I,Gleaming Alloy,Medium,23.12
+Impass,1A-WYQ,DY-40Z,DY-40Z I,Motley Compound,Medium,23.96
+Impass,1A-WYQ,DY-40Z,DY-40Z I,Plasmoids,Medium,1.54
+Impass,1A-WYQ,DY-40Z,DY-40Z II,Lustering Alloy,Medium,26.75
+Impass,1A-WYQ,DY-40Z,DY-40Z II,Supertensile Plastics,Poor,11.23
+Impass,1A-WYQ,DY-40Z,DY-40Z II,Construction Blocks,Medium,26.75
+Impass,1A-WYQ,DY-40Z,DY-40Z II,Plasmoids,Poor,1.22
+Impass,1A-WYQ,DY-40Z,DY-40Z III,Opulent Compound,Perfect,40.41
+Impass,1A-WYQ,DY-40Z,DY-40Z III,Noble Metals,Perfect,41.16
+Impass,1A-WYQ,DY-40Z,DY-40Z III,Condensates,Perfect,24.82
+Impass,1A-WYQ,DY-40Z,DY-40Z III,Smartfab Units,Medium,17.32
+Impass,1A-WYQ,DY-40Z,DY-40Z III,Liquid Ozone,Perfect,45.98
+Impass,1A-WYQ,DY-40Z,DY-40Z IV,Lustering Alloy,Rich,33.46
+Impass,1A-WYQ,DY-40Z,DY-40Z IV,Fiber Composite,Medium,24.77
+Impass,1A-WYQ,DY-40Z,DY-40Z IV,Glossy Compound,Medium,26.55
+Impass,1A-WYQ,DY-40Z,DY-40Z IV,Reactive Gas,Medium,24.60
+Impass,1A-WYQ,DY-40Z,DY-40Z IV,Base Metals,Rich,8.62
+Impass,1A-WYQ,DY-40Z,DY-40Z V,Lustering Alloy,Medium,26.31
+Impass,1A-WYQ,DY-40Z,DY-40Z V,Precious Alloy,Poor,15.99
+Impass,1A-WYQ,DY-40Z,DY-40Z V,Supertensile Plastics,Poor,11.22
+Impass,1A-WYQ,DY-40Z,DY-40Z V,Construction Blocks,Poor,18.19
+Impass,1A-WYQ,DY-40Z,DY-40Z VI,Glossy Compound,Rich,29.55
+Impass,1A-WYQ,DY-40Z,DY-40Z VI,Reactive Gas,Rich,28.53
+Impass,1A-WYQ,DY-40Z,DY-40Z VI,Noble Gas,Medium,27.52
+Impass,1A-WYQ,DY-40Z,DY-40Z VI,Reactive Metals,Rich,7.99
+Impass,1A-WYQ,DY-40Z,DY-40Z VI,Ionic Solutions,Rich,11.58
+Impass,1A-WYQ,DY-40Z,DY-40Z VII,Condensed Alloy,Perfect,38.94
+Impass,1A-WYQ,DY-40Z,DY-40Z VII,Industrial Fibers,Medium,5.97
+Impass,1A-WYQ,DY-40Z,DY-40Z VII,Condensates,Rich,19.32
+Impass,1A-WYQ,DY-40Z,DY-40Z VII,Smartfab Units,Rich,18.79
+Impass,1A-WYQ,DY-40Z,DY-40Z VII,Liquid Ozone,Perfect,49.47
+Impass,1A-WYQ,XWY-YM,XWY-YM I,Lucent Compound,Poor,20.02
+Impass,1A-WYQ,XWY-YM,XWY-YM I,Dark Compound,Rich,32.96
+Impass,1A-WYQ,XWY-YM,XWY-YM I,Condensates,Medium,15.31
+Impass,1A-WYQ,XWY-YM,XWY-YM I,Nanites,Rich,9.10
+Impass,1A-WYQ,XWY-YM,XWY-YM I,Ionic Solutions,Medium,8.78
+Impass,1A-WYQ,XWY-YM,XWY-YM II,Sheen Compound,Medium,26.00
+Impass,1A-WYQ,XWY-YM,XWY-YM II,Glossy Compound,Rich,30.95
+Impass,1A-WYQ,XWY-YM,XWY-YM II,Reactive Gas,Medium,21.63
+Impass,1A-WYQ,XWY-YM,XWY-YM II,Noble Gas,Rich,33.13
+Impass,1A-WYQ,XWY-YM,XWY-YM II,Reactive Metals,Medium,6.78
+Impass,1A-WYQ,XWY-YM,XWY-YM III,Condensed Alloy,Perfect,36.52
+Impass,1A-WYQ,XWY-YM,XWY-YM III,Reactive Gas,Perfect,37.22
+Impass,1A-WYQ,XWY-YM,XWY-YM III,Industrial Fibers,Perfect,10.91
+Impass,1A-WYQ,XWY-YM,XWY-YM III,Heavy Water,Perfect,399.30
+Impass,1A-WYQ,XWY-YM,XWY-YM III,Liquid Ozone,Perfect,47.38
+Impass,1A-WYQ,XWY-YM,XWY-YM IV,Lustering Alloy,Medium,21.34
+Impass,1A-WYQ,XWY-YM,XWY-YM IV,Sheen Compound,Rich,30.95
+Impass,1A-WYQ,XWY-YM,XWY-YM IV,Reactive Gas,Rich,29.55
+Impass,1A-WYQ,XWY-YM,XWY-YM IV,Polyaramids,Rich,18.93
+Impass,1A-WYQ,XWY-YM,XWY-YM IV,Ionic Solutions,Perfect,14.29
+Impass,1A-WYQ,XWY-YM,XWY-YM V,Base Metals,Poor,4.75
+Impass,1A-WYQ,XWY-YM,XWY-YM V,Heavy Metals,Medium,26.82
+Impass,1A-WYQ,XWY-YM,XWY-YM V,Coolant,Poor,12.80
+Impass,1A-WYQ,XWY-YM,XWY-YM V,Condensates,Medium,17.59
+Impass,1A-WYQ,XWY-YM,XWY-YM VI,Precious Alloy,Medium,24.64
+Impass,1A-WYQ,XWY-YM,XWY-YM VI,Supertensile Plastics,Medium,16.34
+Impass,1A-WYQ,XWY-YM,XWY-YM VI,Silicate Glass,Medium,13.20
+Impass,1A-WYQ,XWY-YM,XWY-YM VI,Oxygen Isotopes,Medium,3.55
+Impass,1A-WYQ,XWY-YM,XWY-YM VII,Lustering Alloy,Poor,18.02
+Impass,1A-WYQ,XWY-YM,XWY-YM VII,Supertensile Plastics,Medium,14.87
+Impass,1A-WYQ,XWY-YM,XWY-YM VII,Oxygen Isotopes,Medium,3.74
+Impass,1A-WYQ,XWY-YM,XWY-YM VII,Plasmoids,Medium,1.42
+Impass,1A-WYQ,XWY-YM,XWY-YM VIII,Base Metals,Medium,6.60
+Impass,1A-WYQ,XWY-YM,XWY-YM VIII,Industrial Fibers,Medium,5.46
+Impass,1A-WYQ,XWY-YM,XWY-YM VIII,Condensates,Medium,14.34
+Impass,1A-WYQ,XWY-YM,XWY-YM VIII,Suspended Plasma,Medium,96.15
+Impass,1A-WYQ,M-9V5D,M-9V5D I,Lustering Alloy,Rich,33.42
+Impass,1A-WYQ,M-9V5D,M-9V5D I,Glossy Compound,Rich,34.03
+Impass,1A-WYQ,M-9V5D,M-9V5D I,Reactive Gas,Rich,34.69
+Impass,1A-WYQ,M-9V5D,M-9V5D I,Reactive Metals,Rich,7.53
+Impass,1A-WYQ,M-9V5D,M-9V5D I,Coolant,Medium,13.98
+Impass,1A-WYQ,M-9V5D,M-9V5D II,Glossy Compound,Rich,31.99
+Impass,1A-WYQ,M-9V5D,M-9V5D II,Reactive Gas,Rich,30.73
+Impass,1A-WYQ,M-9V5D,M-9V5D II,Noble Gas,Rich,29.39
+Impass,1A-WYQ,M-9V5D,M-9V5D II,Reactive Metals,Medium,5.85
+Impass,1A-WYQ,M-9V5D,M-9V5D II,Polyaramids,Rich,20.45
+Impass,1A-WYQ,M-9V5D,M-9V5D III,Lustering Alloy,Medium,26.62
+Impass,1A-WYQ,M-9V5D,M-9V5D III,Fiber Composite,Medium,25.76
+Impass,1A-WYQ,M-9V5D,M-9V5D III,Glossy Compound,Poor,18.26
+Impass,1A-WYQ,M-9V5D,M-9V5D III,Reactive Gas,Rich,30.80
+Impass,1A-WYQ,M-9V5D,M-9V5D III,Ionic Solutions,Medium,10.70
+Impass,1A-WYQ,M-9V5D,M-9V5D IV,Lustering Alloy,Poor,17.97
+Impass,1A-WYQ,M-9V5D,M-9V5D IV,Coolant,Medium,16.94
+Impass,1A-WYQ,M-9V5D,M-9V5D IV,Condensates,Rich,20.65
+Impass,1A-WYQ,M-9V5D,M-9V5D IV,Suspended Plasma,Medium,81.97
+Impass,1A-WYQ,O2-39S,O2-39S I,Gleaming Alloy,Poor,19.91
+Impass,1A-WYQ,O2-39S,O2-39S I,Noble Gas,Medium,25.21
+Impass,1A-WYQ,O2-39S,O2-39S I,Plasmoids,Medium,1.41
+Impass,1A-WYQ,O2-39S,O2-39S II,Dark Compound,Poor,13.95
+Impass,1A-WYQ,O2-39S,O2-39S II,Toxic Metals,Poor,3.94
+Impass,1A-WYQ,O2-39S,O2-39S II,Supertensile Plastics,Poor,12.97
+Impass,1A-WYQ,O2-39S,O2-39S II,Construction Blocks,Medium,21.63
+Impass,1A-WYQ,O2-39S,O2-39S III,Precious Alloy,Poor,15.22
+Impass,1A-WYQ,O2-39S,O2-39S III,Supertensile Plastics,Medium,15.09
+Impass,1A-WYQ,O2-39S,O2-39S III,Construction Blocks,Medium,24.02
+Impass,1A-WYQ,O2-39S,O2-39S III,Oxygen Isotopes,Poor,3.05
+Impass,1A-WYQ,O2-39S,O2-39S IV,Gleaming Alloy,Rich,30.67
+Impass,1A-WYQ,O2-39S,O2-39S IV,Noble Gas,Medium,26.07
+Impass,1A-WYQ,O2-39S,O2-39S IV,Polyaramids,Poor,11.98
+Impass,1A-WYQ,O2-39S,O2-39S V,Reactive Gas,Rich,28.56
+Impass,1A-WYQ,O2-39S,O2-39S V,Noble Gas,Medium,24.93
+Impass,1A-WYQ,O2-39S,O2-39S V,Reactive Metals,Rich,7.68
+Impass,1A-WYQ,O2-39S,O2-39S V,Coolant,Medium,15.59
+Impass,1A-WYQ,O2-39S,O2-39S V,Ionic Solutions,Rich,13.47
+Impass,1A-WYQ,O2-39S,O2-39S VI,Sheen Compound,Medium,26.80
+Impass,1A-WYQ,O2-39S,O2-39S VI,Fiber Composite,Rich,32.23
+Impass,1A-WYQ,O2-39S,O2-39S VI,Reactive Gas,Medium,27.48
+Impass,1A-WYQ,O2-39S,O2-39S VI,Noble Gas,Perfect,35.66
+Impass,1A-WYQ,O2-39S,O2-39S VI,Coolant,Rich,18.88
+Impass,1A-WYQ,O2-39S,O2-39S VII,Fiber Composite,Poor,19.36
+Impass,1A-WYQ,O2-39S,O2-39S VII,Reactive Gas,Rich,33.35
+Impass,1A-WYQ,O2-39S,O2-39S VII,Noble Gas,Medium,26.51
+Impass,1A-WYQ,O2-39S,O2-39S VII,Base Metals,Rich,9.14
+Impass,1A-WYQ,O2-39S,O2-39S VII,Reactive Metals,Medium,5.76
+Impass,1A-WYQ,O2-39S,O2-39S VIII,Lustering Alloy,Poor,19.84
+Impass,1A-WYQ,O2-39S,O2-39S VIII,Glossy Compound,Poor,19.56
+Impass,1A-WYQ,O2-39S,O2-39S VIII,Reactive Gas,Rich,31.13
+Impass,1A-WYQ,O2-39S,O2-39S VIII,Reactive Metals,Perfect,9.26
+Impass,1A-WYQ,O2-39S,O2-39S VIII,Coolant,Rich,23.25
+Impass,1A-WYQ,O2-39S,O2-39S IX,Lustering Alloy,Medium,20.90
+Impass,1A-WYQ,O2-39S,O2-39S IX,Glossy Compound,Medium,26.82
+Impass,1A-WYQ,O2-39S,O2-39S IX,Reactive Gas,Medium,25.19
+Impass,1A-WYQ,O2-39S,O2-39S IX,Reactive Metals,Medium,6.90
+Impass,1A-WYQ,O2-39S,O2-39S IX,Ionic Solutions,Rich,11.88
+Impass,1A-WYQ,O2-39S,O2-39S X,Motley Compound,Rich,30.87
+Impass,1A-WYQ,O2-39S,O2-39S X,Coolant,Medium,16.71
+Impass,1A-WYQ,O2-39S,O2-39S X,Condensates,Rich,21.05
+Impass,1A-WYQ,O2-39S,O2-39S X,Liquid Ozone,Rich,37.04
+Impass,1A-WYQ,O2-39S,O2-39S XI,Base Metals,Poor,5.31
+Impass,1A-WYQ,O2-39S,O2-39S XI,Heavy Metals,Rich,32.58
+Impass,1A-WYQ,O2-39S,O2-39S XI,Condensates,Poor,12.60
+Impass,1A-WYQ,O2-39S,O2-39S XI,Liquid Ozone,Poor,21.89
+Impass,1A-WYQ,M-VEJZ,M-VEJZ I,Base Metals,Poor,3.98
+Impass,1A-WYQ,M-VEJZ,M-VEJZ I,Supertensile Plastics,Poor,10.66
+Impass,1A-WYQ,M-VEJZ,M-VEJZ I,Construction Blocks,Poor,19.85
+Impass,1A-WYQ,M-VEJZ,M-VEJZ I,Silicate Glass,Medium,11.06
+Impass,1A-WYQ,M-VEJZ,M-VEJZ II,Gleaming Alloy,Medium,24.56
+Impass,1A-WYQ,M-VEJZ,M-VEJZ II,Polyaramids,Rich,21.21
+Impass,1A-WYQ,M-VEJZ,M-VEJZ II,Construction Blocks,Medium,25.64
+Impass,1A-WYQ,M-VEJZ,M-VEJZ III,Lustering Alloy,Poor,14.42
+Impass,1A-WYQ,M-VEJZ,M-VEJZ III,Toxic Metals,Poor,5.27
+Impass,1A-WYQ,M-VEJZ,M-VEJZ III,Supertensile Plastics,Medium,18.80
+Impass,1A-WYQ,M-VEJZ,M-VEJZ III,Construction Blocks,Poor,20.72
+Impass,1A-WYQ,M-VEJZ,M-VEJZ IV,Reactive Gas,Medium,27.35
+Impass,1A-WYQ,M-VEJZ,M-VEJZ IV,Reactive Metals,Medium,6.64
+Impass,1A-WYQ,M-VEJZ,M-VEJZ IV,Polyaramids,Perfect,25.45
+Impass,1A-WYQ,M-VEJZ,M-VEJZ IV,Coolant,Medium,14.84
+Impass,1A-WYQ,M-VEJZ,M-VEJZ IV,Ionic Solutions,Rich,14.42
+Impass,1A-WYQ,M-VEJZ,M-VEJZ V,Glossy Compound,Poor,20.75
+Impass,1A-WYQ,M-VEJZ,M-VEJZ V,Reactive Gas,Rich,30.20
+Impass,1A-WYQ,M-VEJZ,M-VEJZ V,Base Metals,Rich,9.48
+Impass,1A-WYQ,M-VEJZ,M-VEJZ V,Polyaramids,Medium,17.96
+Impass,1A-WYQ,M-VEJZ,M-VEJZ V,Coolant,Poor,13.94
+Impass,1A-WYQ,M-VEJZ,M-VEJZ VI,Sheen Compound,Rich,33.53
+Impass,1A-WYQ,M-VEJZ,M-VEJZ VI,Fiber Composite,Medium,26.11
+Impass,1A-WYQ,M-VEJZ,M-VEJZ VI,Reactive Gas,Rich,32.50
+Impass,1A-WYQ,M-VEJZ,M-VEJZ VI,Reactive Metals,Medium,5.96
+Impass,1A-WYQ,M-VEJZ,M-VEJZ VI,Polyaramids,Rich,21.93
+Impass,1A-WYQ,M-VEJZ,M-VEJZ VII,Condensed Alloy,Perfect,37.24
+Impass,1A-WYQ,M-VEJZ,M-VEJZ VII,Opulent Compound,Medium,23.07
+Impass,1A-WYQ,M-VEJZ,M-VEJZ VII,Reactive Gas,Perfect,43.65
+Impass,1A-WYQ,M-VEJZ,M-VEJZ VII,Base Metals,Medium,6.51
+Impass,1A-WYQ,M-VEJZ,M-VEJZ VII,Liquid Ozone,Rich,45.05
+Impass,1A-WYQ,LJK-T0,LJK-T0 I,Sheen Compound,Perfect,35.86
+Impass,1A-WYQ,LJK-T0,LJK-T0 I,Noble Gas,Perfect,35.16
+Impass,1A-WYQ,LJK-T0,LJK-T0 I,Condensates,Rich,20.89
+Impass,1A-WYQ,LJK-T0,LJK-T0 I,Nanites,Rich,8.59
+Impass,1A-WYQ,LJK-T0,LJK-T0 I,Plasmoids,Poor,1.24
+Impass,1A-WYQ,LJK-T0,LJK-T0 II,Lustering Alloy,Poor,15.29
+Impass,1A-WYQ,LJK-T0,LJK-T0 II,Base Metals,Poor,3.96
+Impass,1A-WYQ,LJK-T0,LJK-T0 II,Industrial Fibers,Poor,4.76
+Impass,1A-WYQ,LJK-T0,LJK-T0 II,Supertensile Plastics,Medium,15.87
+Impass,1A-WYQ,LJK-T0,LJK-T0 III,Gleaming Alloy,Medium,23.12
+Impass,1A-WYQ,LJK-T0,LJK-T0 III,Heavy Metals,Rich,34.08
+Impass,1A-WYQ,LJK-T0,LJK-T0 III,Noble Metals,Rich,29.88
+Impass,1A-WYQ,LJK-T0,LJK-T0 IV,Lustering Alloy,Poor,19.54
+Impass,1A-WYQ,LJK-T0,LJK-T0 IV,Sheen Compound,Rich,33.04
+Impass,1A-WYQ,LJK-T0,LJK-T0 IV,Glossy Compound,Rich,29.74
+Impass,1A-WYQ,LJK-T0,LJK-T0 IV,Reactive Gas,Medium,24.42
+Impass,1A-WYQ,LJK-T0,LJK-T0 IV,Reactive Metals,Rich,8.92
+Impass,1A-WYQ,LJK-T0,LJK-T0 V,Condensed Alloy,Medium,21.03
+Impass,1A-WYQ,LJK-T0,LJK-T0 V,Opulent Compound,Perfect,39.31
+Impass,1A-WYQ,LJK-T0,LJK-T0 V,Condensates,Medium,18.32
+Impass,1A-WYQ,LJK-T0,LJK-T0 V,Smartfab Units,Perfect,25.30
+Impass,1A-WYQ,LJK-T0,LJK-T0 V,Liquid Ozone,Rich,39.19
+Impass,1A-WYQ,LJK-T0,LJK-T0 VI,Sheen Compound,Rich,32.47
+Impass,1A-WYQ,LJK-T0,LJK-T0 VI,Glossy Compound,Rich,34.03
+Impass,1A-WYQ,LJK-T0,LJK-T0 VI,Reactive Gas,Medium,26.29
+Impass,1A-WYQ,LJK-T0,LJK-T0 VI,Noble Gas,Rich,32.67
+Impass,1A-WYQ,LJK-T0,LJK-T0 VI,Ionic Solutions,Poor,7.77
+Impass,1A-WYQ,LJK-T0,LJK-T0 VII,Lustering Alloy,Medium,23.74
+Impass,1A-WYQ,LJK-T0,LJK-T0 VII,Reactive Gas,Rich,31.48
+Impass,1A-WYQ,LJK-T0,LJK-T0 VII,Reactive Metals,Medium,5.86
+Impass,1A-WYQ,LJK-T0,LJK-T0 VII,Polyaramids,Poor,12.97
+Impass,1A-WYQ,LJK-T0,LJK-T0 VII,Ionic Solutions,Perfect,14.33
+Impass,1A-WYQ,LJK-T0,LJK-T0 VIII,Dark Compound,Medium,21.16
+Impass,1A-WYQ,LJK-T0,LJK-T0 VIII,Supertensile Plastics,Medium,14.65
+Impass,1A-WYQ,LJK-T0,LJK-T0 VIII,Construction Blocks,Medium,25.10
+Impass,1A-WYQ,LJK-T0,LJK-T0 VIII,Plasmoids,Medium,1.46
+Impass,05M-I1,E7VE-V,E7VE-V I,Gleaming Alloy,Rich,29.93
+Impass,05M-I1,E7VE-V,E7VE-V I,Noble Metals,Rich,28.04
+Impass,05M-I1,E7VE-V,E7VE-V I,Plasmoids,Rich,1.62
+Impass,05M-I1,E7VE-V,E7VE-V II,Dark Compound,Poor,19.21
+Impass,05M-I1,E7VE-V,E7VE-V II,Noble Gas,Medium,24.55
+Impass,05M-I1,E7VE-V,E7VE-V II,Reactive Metals,Medium,6.45
+Impass,05M-I1,E7VE-V,E7VE-V II,Condensates,Medium,13.82
+Impass,05M-I1,E7VE-V,E7VE-V II,Ionic Solutions,Perfect,13.84
+Impass,05M-I1,E7VE-V,E7VE-V III,Industrial Fibers,Medium,5.74
+Impass,05M-I1,E7VE-V,E7VE-V III,Supertensile Plastics,Poor,13.03
+Impass,05M-I1,E7VE-V,E7VE-V III,Construction Blocks,Poor,14.57
+Impass,05M-I1,E7VE-V,E7VE-V III,Silicate Glass,Medium,10.51
+Impass,05M-I1,E7VE-V,E7VE-V IV,Lustering Alloy,Medium,20.01
+Impass,05M-I1,E7VE-V,E7VE-V IV,Precious Alloy,Medium,20.05
+Impass,05M-I1,E7VE-V,E7VE-V IV,Dark Compound,Medium,22.60
+Impass,05M-I1,E7VE-V,E7VE-V IV,Supertensile Plastics,Medium,14.25
+Impass,05M-I1,E7VE-V,E7VE-V V,Dark Compound,Poor,14.55
+Impass,05M-I1,E7VE-V,E7VE-V V,Supertensile Plastics,Poor,11.59
+Impass,05M-I1,E7VE-V,E7VE-V V,Silicate Glass,Poor,7.80
+Impass,05M-I1,E7VE-V,E7VE-V V,Plasmoids,Poor,0.95
+Impass,05M-I1,E7VE-V,E7VE-V VI,Lustering Alloy,Poor,18.73
+Impass,05M-I1,E7VE-V,E7VE-V VI,Industrial Fibers,Medium,6.54
+Impass,05M-I1,E7VE-V,E7VE-V VI,Supertensile Plastics,Poor,10.16
+Impass,05M-I1,E7VE-V,E7VE-V VI,Plasmoids,Medium,1.32
+Impass,05M-I1,E7VE-V,E7VE-V VII,Fiber Composite,Medium,25.18
+Impass,05M-I1,E7VE-V,E7VE-V VII,Reactive Gas,Medium,25.83
+Impass,05M-I1,E7VE-V,E7VE-V VII,Smartfab Units,Rich,18.33
+Impass,05M-I1,E7VE-V,E7VE-V VII,Heavy Water,Perfect,381.15
+Impass,05M-I1,E7VE-V,E7VE-V VII,Liquid Ozone,Rich,36.36
+Impass,05M-I1,E7VE-V,E7VE-V VIII,Sheen Compound,Poor,18.75
+Impass,05M-I1,E7VE-V,E7VE-V VIII,Glossy Compound,Perfect,33.37
+Impass,05M-I1,E7VE-V,E7VE-V VIII,Reactive Gas,Poor,18.33
+Impass,05M-I1,E7VE-V,E7VE-V VIII,Base Metals,Medium,6.22
+Impass,05M-I1,E7VE-V,E7VE-V VIII,Polyaramids,Poor,13.02
+Impass,05M-I1,E7VE-V,E7VE-V IX,Fiber Composite,Rich,33.35
+Impass,05M-I1,E7VE-V,E7VE-V IX,Reactive Gas,Rich,28.41
+Impass,05M-I1,E7VE-V,E7VE-V IX,Noble Metals,Rich,31.42
+Impass,05M-I1,E7VE-V,E7VE-V IX,Condensates,Medium,14.31
+Impass,05M-I1,E7VE-V,E7VE-V IX,Liquid Ozone,Rich,41.13
+Impass,05M-I1,E7VE-V,E7VE-V X,Lustering Alloy,Rich,31.08
+Impass,05M-I1,E7VE-V,E7VE-V X,Glossy Compound,Poor,19.74
+Impass,05M-I1,E7VE-V,E7VE-V X,Reactive Gas,Medium,23.73
+Impass,05M-I1,E7VE-V,E7VE-V X,Noble Gas,Perfect,33.58
+Impass,05M-I1,E7VE-V,E7VE-V X,Polyaramids,Rich,22.22
+Impass,05M-I1,E7VE-V,E7VE-V XI,Reactive Metals,Rich,7.15
+Impass,05M-I1,E7VE-V,E7VE-V XI,Toxic Metals,Rich,8.26
+Impass,05M-I1,E7VE-V,E7VE-V XI,Construction Blocks,Medium,19.99
+Impass,05M-I1,E7VE-V,E7VE-V XI,Suspended Plasma,Medium,77.34
+Impass,05M-I1,NUG-OF,NUG-OF I,Fiber Composite,Poor,17.83
+Impass,05M-I1,NUG-OF,NUG-OF I,Glossy Compound,Rich,33.01
+Impass,05M-I1,NUG-OF,NUG-OF I,Reactive Gas,Rich,28.60
+Impass,05M-I1,NUG-OF,NUG-OF I,Noble Gas,Rich,29.97
+Impass,05M-I1,NUG-OF,NUG-OF I,Base Metals,Rich,7.57
+Impass,05M-I1,NUG-OF,NUG-OF II,Glossy Compound,Medium,20.37
+Impass,05M-I1,NUG-OF,NUG-OF II,Reactive Gas,Rich,27.55
+Impass,05M-I1,NUG-OF,NUG-OF II,Noble Gas,Poor,18.02
+Impass,05M-I1,NUG-OF,NUG-OF II,Coolant,Medium,15.86
+Impass,05M-I1,NUG-OF,NUG-OF II,Ionic Solutions,Medium,9.60
+Impass,05M-I1,NUG-OF,NUG-OF III,Lustering Alloy,Rich,31.10
+Impass,05M-I1,NUG-OF,NUG-OF III,Sheen Compound,Medium,24.42
+Impass,05M-I1,NUG-OF,NUG-OF III,Fiber Composite,Medium,23.67
+Impass,05M-I1,NUG-OF,NUG-OF III,Glossy Compound,Rich,27.85
+Impass,05M-I1,NUG-OF,NUG-OF III,Reactive Gas,Poor,17.60
+Impass,05M-I1,NUG-OF,NUG-OF IV,Dark Compound,Medium,25.52
+Impass,05M-I1,NUG-OF,NUG-OF IV,Toxic Metals,Medium,6.02
+Impass,05M-I1,NUG-OF,NUG-OF IV,Supertensile Plastics,Medium,14.74
+Impass,05M-I1,NUG-OF,NUG-OF IV,Plasmoids,Poor,1.03
+Impass,05M-I1,L6BY-P,L6BY-P I,Base Metals,Poor,3.80
+Impass,05M-I1,L6BY-P,L6BY-P I,Industrial Fibers,Poor,4.89
+Impass,05M-I1,L6BY-P,L6BY-P I,Supertensile Plastics,Poor,9.88
+Impass,05M-I1,L6BY-P,L6BY-P I,Plasmoids,Medium,1.20
+Impass,05M-I1,L6BY-P,L6BY-P II,Dark Compound,Poor,16.80
+Impass,05M-I1,L6BY-P,L6BY-P II,Industrial Fibers,Medium,5.89
+Impass,05M-I1,L6BY-P,L6BY-P II,Supertensile Plastics,Poor,10.00
+Impass,05M-I1,L6BY-P,L6BY-P II,Plasmoids,Poor,0.97
+Impass,05M-I1,L6BY-P,L6BY-P III,Fiber Composite,Perfect,33.62
+Impass,05M-I1,L6BY-P,L6BY-P III,Base Metals,Perfect,10.47
+Impass,05M-I1,L6BY-P,L6BY-P III,Smartfab Units,Perfect,24.81
+Impass,05M-I1,L6BY-P,L6BY-P III,Heavy Water,Perfect,379.68
+Impass,05M-I1,L6BY-P,L6BY-P III,Liquid Ozone,Perfect,45.62
+Impass,05M-I1,L6BY-P,L6BY-P IV,Lustering Alloy,Poor,13.44
+Impass,05M-I1,L6BY-P,L6BY-P IV,Dark Compound,Poor,18.80
+Impass,05M-I1,L6BY-P,L6BY-P IV,Toxic Metals,Medium,6.08
+Impass,05M-I1,L6BY-P,L6BY-P IV,Supertensile Plastics,Medium,15.86
+Impass,05M-I1,L6BY-P,L6BY-P V,Reactive Gas,Rich,29.00
+Impass,05M-I1,L6BY-P,L6BY-P V,Reactive Metals,Rich,7.78
+Impass,05M-I1,L6BY-P,L6BY-P V,Toxic Metals,Rich,7.69
+Impass,05M-I1,L6BY-P,L6BY-P V,Supertensile Plastics,Medium,13.54
+Impass,05M-I1,L6BY-P,L6BY-P VI,Lustering Alloy,Medium,25.09
+Impass,05M-I1,L6BY-P,L6BY-P VI,Reactive Gas,Medium,24.76
+Impass,05M-I1,L6BY-P,L6BY-P VI,Reactive Metals,Rich,8.33
+Impass,05M-I1,L6BY-P,L6BY-P VI,Polyaramids,Rich,20.12
+Impass,05M-I1,L6BY-P,L6BY-P VI,Coolant,Perfect,22.83
+Impass,05M-I1,L6BY-P,L6BY-P VII,Lustering Alloy,Rich,26.73
+Impass,05M-I1,L6BY-P,L6BY-P VII,Reactive Gas,Rich,30.66
+Impass,05M-I1,L6BY-P,L6BY-P VII,Polyaramids,Rich,20.72
+Impass,05M-I1,L6BY-P,L6BY-P VII,Coolant,Rich,21.57
+Impass,05M-I1,L6BY-P,L6BY-P VII,Ionic Solutions,Rich,11.34
+Impass,05M-I1,L6BY-P,L6BY-P VIII,Condensed Alloy,Rich,26.61
+Impass,05M-I1,L6BY-P,L6BY-P VIII,Fiber Composite,Rich,29.63
+Impass,05M-I1,L6BY-P,L6BY-P VIII,Base Metals,Rich,7.72
+Impass,05M-I1,L6BY-P,L6BY-P VIII,Noble Metals,Perfect,35.80
+Impass,05M-I1,L6BY-P,L6BY-P VIII,Liquid Ozone,Perfect,47.17
+Impass,05M-I1,L6BY-P,L6BY-P IX,Lustering Alloy,Medium,25.49
+Impass,05M-I1,L6BY-P,L6BY-P IX,Precious Alloy,Medium,26.12
+Impass,05M-I1,L6BY-P,L6BY-P IX,Condensates,Rich,20.73
+Impass,05M-I1,L6BY-P,L6BY-P IX,Liquid Ozone,Medium,25.59
+Impass,05M-I1,U3SQ-X,U3SQ-X I,Gleaming Alloy,Perfect,35.05
+Impass,05M-I1,U3SQ-X,U3SQ-X I,Heavy Metals,Poor,18.33
+Impass,05M-I1,U3SQ-X,U3SQ-X I,Polyaramids,Rich,18.37
+Impass,05M-I1,U3SQ-X,U3SQ-X II,Base Metals,Medium,6.53
+Impass,05M-I1,U3SQ-X,U3SQ-X II,Supertensile Plastics,Medium,16.80
+Impass,05M-I1,U3SQ-X,U3SQ-X II,Silicate Glass,Medium,10.01
+Impass,05M-I1,U3SQ-X,U3SQ-X II,Plasmoids,Poor,1.05
+Impass,05M-I1,U3SQ-X,U3SQ-X III,Precious Alloy,Poor,13.25
+Impass,05M-I1,U3SQ-X,U3SQ-X III,Supertensile Plastics,Medium,16.51
+Impass,05M-I1,U3SQ-X,U3SQ-X III,Construction Blocks,Poor,17.83
+Impass,05M-I1,U3SQ-X,U3SQ-X III,Silicate Glass,Medium,12.15
+Impass,05M-I1,U3SQ-X,U3SQ-X IV,Fiber Composite,Perfect,35.49
+Impass,05M-I1,U3SQ-X,U3SQ-X IV,Opulent Compound,Perfect,33.64
+Impass,05M-I1,U3SQ-X,U3SQ-X IV,Condensates,Perfect,24.85
+Impass,05M-I1,U3SQ-X,U3SQ-X IV,Smartfab Units,Medium,13.82
+Impass,05M-I1,U3SQ-X,U3SQ-X IV,Liquid Ozone,Medium,29.11
+Impass,05M-I1,U3SQ-X,U3SQ-X V,Reactive Gas,Rich,32.57
+Impass,05M-I1,U3SQ-X,U3SQ-X V,Reactive Metals,Perfect,9.04
+Impass,05M-I1,U3SQ-X,U3SQ-X V,Construction Blocks,Rich,29.15
+Impass,05M-I1,U3SQ-X,U3SQ-X V,Nanites,Medium,6.31
+Impass,05M-I1,01TG-J,01TG-J I,Dark Compound,Medium,22.93
+Impass,05M-I1,01TG-J,01TG-J I,Industrial Fibers,Poor,4.31
+Impass,05M-I1,01TG-J,01TG-J I,Supertensile Plastics,Poor,10.57
+Impass,05M-I1,01TG-J,01TG-J I,Construction Blocks,Medium,22.95
+Impass,05M-I1,01TG-J,01TG-J II,Base Metals,Medium,5.70
+Impass,05M-I1,01TG-J,01TG-J II,Supertensile Plastics,Poor,12.11
+Impass,05M-I1,01TG-J,01TG-J II,Oxygen Isotopes,Poor,2.62
+Impass,05M-I1,01TG-J,01TG-J II,Plasmoids,Poor,0.91
+Impass,05M-I1,01TG-J,01TG-J III,Lucent Compound,Medium,26.54
+Impass,05M-I1,01TG-J,01TG-J III,Reactive Metals,Rich,7.64
+Impass,05M-I1,01TG-J,01TG-J III,Toxic Metals,Poor,4.51
+Impass,05M-I1,01TG-J,01TG-J III,Oxygen Isotopes,Rich,4.67
+Impass,05M-I1,01TG-J,01TG-J IV,Dark Compound,Medium,22.60
+Impass,05M-I1,01TG-J,01TG-J IV,Supertensile Plastics,Poor,11.90
+Impass,05M-I1,01TG-J,01TG-J IV,Silicate Glass,Medium,11.94
+Impass,05M-I1,01TG-J,01TG-J IV,Plasmoids,Poor,0.78
+Impass,05M-I1,01TG-J,01TG-J V,Glossy Compound,Medium,23.20
+Impass,05M-I1,01TG-J,01TG-J V,Reactive Gas,Rich,27.22
+Impass,05M-I1,01TG-J,01TG-J V,Noble Gas,Rich,30.91
+Impass,05M-I1,01TG-J,01TG-J V,Coolant,Rich,21.31
+Impass,05M-I1,01TG-J,01TG-J V,Ionic Solutions,Rich,10.82
+Impass,05M-I1,01TG-J,01TG-J VI,Lustering Alloy,Medium,23.10
+Impass,05M-I1,01TG-J,01TG-J VI,Fiber Composite,Rich,28.69
+Impass,05M-I1,01TG-J,01TG-J VI,Reactive Gas,Medium,25.96
+Impass,05M-I1,01TG-J,01TG-J VI,Base Metals,Perfect,9.17
+Impass,05M-I1,01TG-J,01TG-J VI,Ionic Solutions,Poor,7.38
+Impass,05M-I1,01TG-J,01TG-J VII,Lustering Alloy,Medium,25.03
+Impass,05M-I1,01TG-J,01TG-J VII,Sheen Compound,Rich,30.66
+Impass,05M-I1,01TG-J,01TG-J VII,Fiber Composite,Medium,22.74
+Impass,05M-I1,01TG-J,01TG-J VII,Reactive Gas,Medium,25.75
+Impass,05M-I1,01TG-J,01TG-J VII,Ionic Solutions,Rich,13.25
+Impass,05M-I1,01TG-J,01TG-J VIII,Lustering Alloy,Medium,26.48
+Impass,05M-I1,01TG-J,01TG-J VIII,Sheen Compound,Medium,21.46
+Impass,05M-I1,01TG-J,01TG-J VIII,Reactive Gas,Perfect,33.77
+Impass,05M-I1,01TG-J,01TG-J VIII,Base Metals,Rich,8.29
+Impass,05M-I1,01TG-J,01TG-J VIII,Reactive Metals,Poor,5.06
+Impass,05M-I1,01TG-J,01TG-J IX,Motley Compound,Medium,21.97
+Impass,05M-I1,01TG-J,01TG-J IX,Industrial Fibers,Rich,7.12
+Impass,05M-I1,01TG-J,01TG-J IX,Condensates,Rich,18.26
+Impass,05M-I1,01TG-J,01TG-J IX,Suspended Plasma,Poor,70.08
+Impass,05M-I1,UK-SHL,UK-SHL I,Precious Alloy,Medium,22.42
+Impass,05M-I1,UK-SHL,UK-SHL I,Toxic Metals,Poor,4.34
+Impass,05M-I1,UK-SHL,UK-SHL I,Industrial Fibers,Poor,3.59
+Impass,05M-I1,UK-SHL,UK-SHL I,Supertensile Plastics,Poor,11.44
+Impass,05M-I1,UK-SHL,UK-SHL II,Lustering Alloy,Medium,23.54
+Impass,05M-I1,UK-SHL,UK-SHL II,Dark Compound,Poor,14.98
+Impass,05M-I1,UK-SHL,UK-SHL II,Supertensile Plastics,Medium,14.07
+Impass,05M-I1,UK-SHL,UK-SHL II,Oxygen Isotopes,Poor,2.50
+Impass,05M-I1,UK-SHL,UK-SHL III,Gleaming Alloy,Rich,30.18
+Impass,05M-I1,UK-SHL,UK-SHL III,Motley Compound,Poor,18.72
+Impass,05M-I1,UK-SHL,UK-SHL III,Noble Gas,Poor,19.51
+Impass,05M-I1,UK-SHL,UK-SHL IV,Toxic Metals,Poor,3.69
+Impass,05M-I1,UK-SHL,UK-SHL IV,Supertensile Plastics,Medium,14.49
+Impass,05M-I1,UK-SHL,UK-SHL IV,Construction Blocks,Poor,17.01
+Impass,05M-I1,UK-SHL,UK-SHL IV,Plasmoids,Medium,1.61
+Impass,05M-I1,UK-SHL,UK-SHL V,Fiber Composite,Poor,19.40
+Impass,05M-I1,UK-SHL,UK-SHL V,Glossy Compound,Rich,28.67
+Impass,05M-I1,UK-SHL,UK-SHL V,Reactive Gas,Rich,33.59
+Impass,05M-I1,UK-SHL,UK-SHL V,Polyaramids,Medium,15.19
+Impass,05M-I1,UK-SHL,UK-SHL V,Ionic Solutions,Poor,7.36
+Impass,05M-I1,UK-SHL,UK-SHL VI,Lustering Alloy,Rich,32.32
+Impass,05M-I1,UK-SHL,UK-SHL VI,Sheen Compound,Rich,29.33
+Impass,05M-I1,UK-SHL,UK-SHL VI,Fiber Composite,Perfect,36.50
+Impass,05M-I1,UK-SHL,UK-SHL VI,Reactive Gas,Rich,29.74
+Impass,05M-I1,UK-SHL,UK-SHL VI,Base Metals,Poor,4.81
+Impass,05M-I1,UK-SHL,UK-SHL VII,Sheen Compound,Poor,19.32
+Impass,05M-I1,UK-SHL,UK-SHL VII,Fiber Composite,Poor,19.84
+Impass,05M-I1,UK-SHL,UK-SHL VII,Reactive Gas,Perfect,35.27
+Impass,05M-I1,UK-SHL,UK-SHL VII,Reactive Metals,Medium,6.59
+Impass,05M-I1,UK-SHL,UK-SHL VII,Ionic Solutions,Rich,13.83
+Impass,05M-I1,UK-SHL,UK-SHL VIII,Lustering Alloy,Poor,19.76
+Impass,05M-I1,UK-SHL,UK-SHL VIII,Dark Compound,Poor,20.59
+Impass,05M-I1,UK-SHL,UK-SHL VIII,Supertensile Plastics,Medium,16.68
+Impass,05M-I1,UK-SHL,UK-SHL VIII,Construction Blocks,Poor,20.17
+Impass,05M-I1,A1BK-A,A1BK-A I,Gleaming Alloy,Rich,28.98
+Impass,05M-I1,A1BK-A,A1BK-A I,Smartfab Units,Medium,13.51
+Impass,05M-I1,A1BK-A,A1BK-A I,Oxygen Isotopes,Perfect,5.07
+Impass,05M-I1,A1BK-A,A1BK-A II,Sheen Compound,Medium,21.54
+Impass,05M-I1,A1BK-A,A1BK-A II,Glossy Compound,Medium,20.32
+Impass,05M-I1,A1BK-A,A1BK-A II,Reactive Gas,Medium,20.10
+Impass,05M-I1,A1BK-A,A1BK-A II,Noble Gas,Medium,23.42
+Impass,05M-I1,A1BK-A,A1BK-A II,Reactive Metals,Medium,6.17
+Impass,05M-I1,A1BK-A,A1BK-A III,Glossy Compound,Rich,26.60
+Impass,05M-I1,A1BK-A,A1BK-A III,Reactive Gas,Medium,23.26
+Impass,05M-I1,A1BK-A,A1BK-A III,Base Metals,Medium,5.28
+Impass,05M-I1,A1BK-A,A1BK-A III,Polyaramids,Medium,12.69
+Impass,05M-I1,A1BK-A,A1BK-A III,Coolant,Medium,13.47
+Impass,05M-I1,A1BK-A,A1BK-A IV,Fiber Composite,Rich,28.76
+Impass,05M-I1,A1BK-A,A1BK-A IV,Reactive Gas,Medium,21.08
+Impass,05M-I1,A1BK-A,A1BK-A IV,Noble Gas,Medium,22.18
+Impass,05M-I1,A1BK-A,A1BK-A IV,Base Metals,Perfect,8.67
+Impass,05M-I1,A1BK-A,A1BK-A IV,Reactive Metals,Perfect,8.42
+Impass,05M-I1,A1BK-A,A1BK-A V,Lustering Alloy,Rich,26.48
+Impass,05M-I1,A1BK-A,A1BK-A V,Industrial Fibers,Poor,4.02
+Impass,05M-I1,A1BK-A,A1BK-A V,Coolant,Medium,16.69
+Impass,05M-I1,A1BK-A,A1BK-A V,Condensates,Medium,13.79
+Impass,05M-I1,A1BK-A,A1BK-A VI,Lustering Alloy,Rich,28.40
+Impass,05M-I1,A1BK-A,A1BK-A VI,Base Metals,Rich,7.76
+Impass,05M-I1,A1BK-A,A1BK-A VI,Supertensile Plastics,Rich,19.84
+Impass,05M-I1,A1BK-A,A1BK-A VI,Condensates,Poor,10.93
+Impass,05M-I1,A1BK-A,A1BK-A VII,Lustering Alloy,Poor,15.40
+Impass,05M-I1,A1BK-A,A1BK-A VII,Precious Alloy,Medium,22.20
+Impass,05M-I1,A1BK-A,A1BK-A VII,Supertensile Plastics,Poor,9.77
+Impass,05M-I1,A1BK-A,A1BK-A VII,Silicate Glass,Medium,11.44
+Impass,EK-NQ2,N-7ECY,N-7ECY I,Gleaming Alloy,Medium,22.93
+Impass,EK-NQ2,N-7ECY,N-7ECY I,Noble Gas,Rich,29.92
+Impass,EK-NQ2,N-7ECY,N-7ECY I,Oxygen Isotopes,Rich,4.62
+Impass,EK-NQ2,N-7ECY,N-7ECY II,Reactive Metals,Medium,6.22
+Impass,EK-NQ2,N-7ECY,N-7ECY II,Nanites,Medium,7.27
+Impass,EK-NQ2,N-7ECY,N-7ECY II,Suspended Plasma,Rich,116.50
+Impass,EK-NQ2,N-7ECY,N-7ECY II,Oxygen Isotopes,Rich,4.40
+Impass,EK-NQ2,N-7ECY,N-7ECY III,Gleaming Alloy,Medium,22.13
+Impass,EK-NQ2,N-7ECY,N-7ECY III,Motley Compound,Rich,33.76
+Impass,EK-NQ2,N-7ECY,N-7ECY III,Heavy Metals,Rich,36.06
+Impass,EK-NQ2,N-7ECY,N-7ECY IV,Sheen Compound,Rich,34.98
+Impass,EK-NQ2,N-7ECY,N-7ECY IV,Fiber Composite,Rich,31.67
+Impass,EK-NQ2,N-7ECY,N-7ECY IV,Glossy Compound,Perfect,38.11
+Impass,EK-NQ2,N-7ECY,N-7ECY IV,Reactive Gas,Medium,23.83
+Impass,EK-NQ2,N-7ECY,N-7ECY IV,Noble Gas,Medium,25.48
+Impass,EK-NQ2,N-7ECY,N-7ECY V,Fiber Composite,Rich,31.35
+Impass,EK-NQ2,N-7ECY,N-7ECY V,Reactive Gas,Medium,24.77
+Impass,EK-NQ2,N-7ECY,N-7ECY V,Noble Gas,Medium,22.10
+Impass,EK-NQ2,N-7ECY,N-7ECY V,Coolant,Perfect,24.92
+Impass,EK-NQ2,N-7ECY,N-7ECY V,Ionic Solutions,Poor,8.25
+Impass,EK-NQ2,N-7ECY,N-7ECY VI,Sheen Compound,Medium,28.41
+Impass,EK-NQ2,N-7ECY,N-7ECY VI,Reactive Gas,Rich,29.21
+Impass,EK-NQ2,N-7ECY,N-7ECY VI,Base Metals,Medium,6.48
+Impass,EK-NQ2,N-7ECY,N-7ECY VI,Reactive Metals,Poor,5.48
+Impass,EK-NQ2,N-7ECY,N-7ECY VI,Ionic Solutions,Medium,10.29
+Impass,EK-NQ2,N-7ECY,N-7ECY VII,Sheen Compound,Medium,26.11
+Impass,EK-NQ2,N-7ECY,N-7ECY VII,Reactive Gas,Medium,24.01
+Impass,EK-NQ2,N-7ECY,N-7ECY VII,Base Metals,Medium,6.45
+Impass,EK-NQ2,N-7ECY,N-7ECY VII,Coolant,Medium,17.82
+Impass,EK-NQ2,N-7ECY,N-7ECY VII,Ionic Solutions,Medium,11.32
+Impass,EK-NQ2,N-7ECY,N-7ECY VIII,Precious Alloy,Medium,24.04
+Impass,EK-NQ2,N-7ECY,N-7ECY VIII,Motley Compound,Medium,23.71
+Impass,EK-NQ2,N-7ECY,N-7ECY VIII,Condensates,Medium,16.67
+Impass,EK-NQ2,N-7ECY,N-7ECY VIII,Suspended Plasma,Rich,114.76
+Impass,EK-NQ2,4-MPSJ,4-MPSJ I,Reactive Metals,Medium,7.54
+Impass,EK-NQ2,4-MPSJ,4-MPSJ I,Toxic Metals,Medium,5.97
+Impass,EK-NQ2,4-MPSJ,4-MPSJ I,Supertensile Plastics,Poor,15.04
+Impass,EK-NQ2,4-MPSJ,4-MPSJ I,Nanites,Rich,9.61
+Impass,EK-NQ2,4-MPSJ,4-MPSJ II,Reactive Gas,Medium,26.98
+Impass,EK-NQ2,4-MPSJ,4-MPSJ II,Reactive Metals,Medium,7.26
+Impass,EK-NQ2,4-MPSJ,4-MPSJ II,Toxic Metals,Rich,8.37
+Impass,EK-NQ2,4-MPSJ,4-MPSJ II,Nanites,Perfect,10.05
+Impass,EK-NQ2,4-MPSJ,4-MPSJ III,Sheen Compound,Poor,21.77
+Impass,EK-NQ2,4-MPSJ,4-MPSJ III,Noble Gas,Rich,32.62
+Impass,EK-NQ2,4-MPSJ,4-MPSJ III,Reactive Metals,Medium,6.68
+Impass,EK-NQ2,4-MPSJ,4-MPSJ III,Condensates,Medium,18.38
+Impass,EK-NQ2,4-MPSJ,4-MPSJ III,Ionic Solutions,Rich,13.44
+Impass,EK-NQ2,4-MPSJ,4-MPSJ IV,Reactive Gas,Rich,31.20
+Impass,EK-NQ2,4-MPSJ,4-MPSJ IV,Reactive Metals,Medium,7.55
+Impass,EK-NQ2,4-MPSJ,4-MPSJ IV,Polyaramids,Perfect,26.42
+Impass,EK-NQ2,4-MPSJ,4-MPSJ IV,Coolant,Poor,14.30
+Impass,EK-NQ2,4-MPSJ,4-MPSJ IV,Ionic Solutions,Medium,9.49
+Impass,EK-NQ2,4-MPSJ,4-MPSJ V,Lustering Alloy,Perfect,39.46
+Impass,EK-NQ2,4-MPSJ,4-MPSJ V,Sheen Compound,Rich,31.22
+Impass,EK-NQ2,4-MPSJ,4-MPSJ V,Reactive Gas,Rich,34.20
+Impass,EK-NQ2,4-MPSJ,4-MPSJ V,Polyaramids,Rich,22.90
+Impass,EK-NQ2,4-MPSJ,4-MPSJ V,Coolant,Rich,23.84
+Impass,EK-NQ2,4-MPSJ,4-MPSJ VI,Sheen Compound,Medium,23.81
+Impass,EK-NQ2,4-MPSJ,4-MPSJ VI,Glossy Compound,Medium,26.04
+Impass,EK-NQ2,4-MPSJ,4-MPSJ VI,Reactive Gas,Rich,37.61
+Impass,EK-NQ2,4-MPSJ,4-MPSJ VI,Coolant,Medium,16.05
+Impass,EK-NQ2,4-MPSJ,4-MPSJ VI,Ionic Solutions,Medium,10.68
+Impass,EK-NQ2,4-MPSJ,4-MPSJ VII,Lustering Alloy,Poor,19.97
+Impass,EK-NQ2,4-MPSJ,4-MPSJ VII,Motley Compound,Poor,18.02
+Impass,EK-NQ2,4-MPSJ,4-MPSJ VII,Base Metals,Poor,5.69
+Impass,EK-NQ2,4-MPSJ,4-MPSJ VII,Condensates,Rich,23.78
+Impass,EK-NQ2,TWJ-AW,TWJ-AW I,Lustering Alloy,Poor,21.13
+Impass,EK-NQ2,TWJ-AW,TWJ-AW I,Precious Alloy,Poor,17.77
+Impass,EK-NQ2,TWJ-AW,TWJ-AW I,Dark Compound,Poor,17.65
+Impass,EK-NQ2,TWJ-AW,TWJ-AW I,Silicate Glass,Poor,11.26
+Impass,EK-NQ2,TWJ-AW,TWJ-AW I,Oxygen Isotopes,Poor,2.48
+Impass,EK-NQ2,TWJ-AW,TWJ-AW II,Glossy Compound,Medium,24.80
+Impass,EK-NQ2,TWJ-AW,TWJ-AW II,Polyaramids,Poor,14.68
+Impass,EK-NQ2,TWJ-AW,TWJ-AW II,Smartfab Units,Medium,18.95
+Impass,EK-NQ2,TWJ-AW,TWJ-AW II,Plasmoids,Rich,2.05
+Impass,EK-NQ2,TWJ-AW,TWJ-AW III,Lustering Alloy,Poor,19.98
+Impass,EK-NQ2,TWJ-AW,TWJ-AW III,Dark Compound,Medium,30.48
+Impass,EK-NQ2,TWJ-AW,TWJ-AW III,Base Metals,Poor,6.12
+Impass,EK-NQ2,TWJ-AW,TWJ-AW III,Industrial Fibers,Medium,6.90
+Impass,EK-NQ2,TWJ-AW,TWJ-AW III,Plasmoids,Poor,0.98
+Impass,EK-NQ2,TWJ-AW,TWJ-AW IV,Dark Compound,Medium,29.60
+Impass,EK-NQ2,TWJ-AW,TWJ-AW IV,Base Metals,Medium,7.47
+Impass,EK-NQ2,TWJ-AW,TWJ-AW IV,Construction Blocks,Medium,24.70
+Impass,EK-NQ2,TWJ-AW,TWJ-AW IV,Silicate Glass,Poor,11.16
+Impass,EK-NQ2,TWJ-AW,TWJ-AW IV,Plasmoids,Poor,1.34
+Impass,EK-NQ2,TWJ-AW,TWJ-AW V,Sheen Compound,Perfect,40.55
+Impass,EK-NQ2,TWJ-AW,TWJ-AW V,Glossy Compound,Medium,28.98
+Impass,EK-NQ2,TWJ-AW,TWJ-AW V,Reactive Gas,Medium,31.32
+Impass,EK-NQ2,TWJ-AW,TWJ-AW V,Noble Gas,Rich,34.65
+Impass,EK-NQ2,TWJ-AW,TWJ-AW V,Polyaramids,Rich,21.20
+Impass,EK-NQ2,TWJ-AW,TWJ-AW V,Ionic Solutions,Medium,11.67
+Impass,EK-NQ2,TWJ-AW,TWJ-AW VI,Crystal Compound,Poor,21.27
+Impass,EK-NQ2,TWJ-AW,TWJ-AW VI,Supertensile Plastics,Poor,14.75
+Impass,EK-NQ2,TWJ-AW,TWJ-AW VI,Construction Blocks,Medium,31.15
+Impass,EK-NQ2,TWJ-AW,TWJ-AW VI,Suspended Plasma,Perfect,145.44
+Impass,EK-NQ2,TWJ-AW,TWJ-AW VI,Oxygen Isotopes,Poor,3.27
+Impass,EK-NQ2,TWJ-AW,TWJ-AW VII,Glossy Compound,Rich,33.40
+Impass,EK-NQ2,TWJ-AW,TWJ-AW VII,Noble Gas,Medium,26.65
+Impass,EK-NQ2,TWJ-AW,TWJ-AW VII,Polyaramids,Rich,24.65
+Impass,EK-NQ2,TWJ-AW,TWJ-AW VII,Construction Blocks,Rich,32.23
+Impass,EK-NQ2,TWJ-AW,TWJ-AW VIII,Gleaming Alloy,Rich,37.25
+Impass,EK-NQ2,TWJ-AW,TWJ-AW VIII,Motley Compound,Medium,28.57
+Impass,EK-NQ2,TWJ-AW,TWJ-AW VIII,Glossy Compound,Medium,31.38
+Impass,EK-NQ2,TWJ-AW,TWJ-AW VIII,Polyaramids,Rich,24.57
+Impass,EK-NQ2,TWJ-AW,TWJ-AW IX,Condensed Alloy,Perfect,41.15
+Impass,EK-NQ2,TWJ-AW,TWJ-AW IX,Opulent Compound,Perfect,40.33
+Impass,EK-NQ2,TWJ-AW,TWJ-AW IX,Reactive Gas,Perfect,43.80
+Impass,EK-NQ2,TWJ-AW,TWJ-AW IX,Base Metals,Rich,10.24
+Impass,EK-NQ2,TWJ-AW,TWJ-AW IX,Industrial Fibers,Medium,7.93
+Impass,EK-NQ2,TWJ-AW,TWJ-AW IX,Heavy Water,Poor,233.25
+Impass,EK-NQ2,TWJ-AW,TWJ-AW X,Condensed Alloy,Rich,35.48
+Impass,EK-NQ2,TWJ-AW,TWJ-AW X,Base Metals,Perfect,11.89
+Impass,EK-NQ2,TWJ-AW,TWJ-AW X,Noble Metals,Perfect,44.25
+Impass,EK-NQ2,TWJ-AW,TWJ-AW X,Industrial Fibers,Medium,7.04
+Impass,EK-NQ2,TWJ-AW,TWJ-AW X,Smartfab Units,Perfect,30.78
+Impass,EK-NQ2,TWJ-AW,TWJ-AW X,Heavy Water,Medium,266.25
+Impass,EK-NQ2,TWJ-AW,TWJ-AW XI,Lustering Alloy,Medium,31.52
+Impass,EK-NQ2,TWJ-AW,TWJ-AW XI,Fiber Composite,Medium,27.40
+Impass,EK-NQ2,TWJ-AW,TWJ-AW XI,Reactive Gas,Rich,37.48
+Impass,EK-NQ2,TWJ-AW,TWJ-AW XI,Noble Gas,Rich,36.67
+Impass,EK-NQ2,TWJ-AW,TWJ-AW XI,Base Metals,Rich,9.51
+Impass,EK-NQ2,TWJ-AW,TWJ-AW XI,Ionic Solutions,Rich,15.43
+Impass,EK-NQ2,TWJ-AW,TWJ-AW XII,Condensed Alloy,Medium,26.07
+Impass,EK-NQ2,TWJ-AW,TWJ-AW XII,Fiber Composite,Perfect,43.90
+Impass,EK-NQ2,TWJ-AW,TWJ-AW XII,Opulent Compound,Perfect,47.30
+Impass,EK-NQ2,TWJ-AW,TWJ-AW XII,Noble Metals,Rich,35.40
+Impass,EK-NQ2,TWJ-AW,TWJ-AW XII,Condensates,Perfect,30.70
+Impass,EK-NQ2,TWJ-AW,TWJ-AW XII,Smartfab Units,Medium,20.03
+Impass,EK-NQ2,PZMA-E,PZMA-E I,Precious Alloy,Medium,23.90
+Impass,EK-NQ2,PZMA-E,PZMA-E I,Industrial Fibers,Medium,7.06
+Impass,EK-NQ2,PZMA-E,PZMA-E I,Supertensile Plastics,Medium,16.29
+Impass,EK-NQ2,PZMA-E,PZMA-E I,Construction Blocks,Poor,21.74
+Impass,EK-NQ2,PZMA-E,PZMA-E II,Base Metals,Medium,7.18
+Impass,EK-NQ2,PZMA-E,PZMA-E II,Supertensile Plastics,Medium,19.02
+Impass,EK-NQ2,PZMA-E,PZMA-E II,Construction Blocks,Poor,20.09
+Impass,EK-NQ2,PZMA-E,PZMA-E II,Oxygen Isotopes,Poor,3.27
+Impass,EK-NQ2,PZMA-E,PZMA-E III,Gleaming Alloy,Medium,27.05
+Impass,EK-NQ2,PZMA-E,PZMA-E III,Heavy Metals,Medium,24.38
+Impass,EK-NQ2,PZMA-E,PZMA-E III,Smartfab Units,Rich,20.56
+Impass,EK-NQ2,PZMA-E,PZMA-E IV,Gleaming Alloy,Rich,37.99
+Impass,EK-NQ2,PZMA-E,PZMA-E IV,Reactive Metals,Poor,5.25
+Impass,EK-NQ2,PZMA-E,PZMA-E IV,Suspended Plasma,Rich,126.49
+Impass,EK-NQ2,PZMA-E,PZMA-E IV,Oxygen Isotopes,Poor,3.08
+Impass,EK-NQ2,PZMA-E,PZMA-E V,Lucent Compound,Medium,29.90
+Impass,EK-NQ2,PZMA-E,PZMA-E V,Reactive Metals,Medium,6.22
+Impass,EK-NQ2,PZMA-E,PZMA-E V,Nanites,Rich,9.22
+Impass,EK-NQ2,PZMA-E,PZMA-E V,Oxygen Isotopes,Rich,4.64
+Impass,EK-NQ2,PZMA-E,PZMA-E VI,Toxic Metals,Poor,5.16
+Impass,EK-NQ2,PZMA-E,PZMA-E VI,Industrial Fibers,Poor,4.86
+Impass,EK-NQ2,PZMA-E,PZMA-E VI,Supertensile Plastics,Medium,18.37
+Impass,EK-NQ2,PZMA-E,PZMA-E VI,Construction Blocks,Medium,24.86
+Impass,EK-NQ2,PZMA-E,PZMA-E VII,Base Metals,Perfect,10.79
+Impass,EK-NQ2,PZMA-E,PZMA-E VII,Noble Metals,Rich,31.80
+Impass,EK-NQ2,PZMA-E,PZMA-E VII,Industrial Fibers,Medium,7.24
+Impass,EK-NQ2,PZMA-E,PZMA-E VII,Condensates,Medium,15.70
+Impass,EK-NQ2,PZMA-E,PZMA-E VII,Liquid Ozone,Perfect,55.56
+Impass,EK-NQ2,PZMA-E,PZMA-E VIII,Crystal Compound,Medium,29.71
+Impass,EK-NQ2,PZMA-E,PZMA-E VIII,Polyaramids,Medium,17.98
+Impass,EK-NQ2,PZMA-E,PZMA-E VIII,Coolant,Rich,23.95
+Impass,EK-NQ2,PZMA-E,PZMA-E VIII,Liquid Ozone,Rich,40.95
+Impass,EK-NQ2,PZMA-E,PZMA-E VIII,Ionic Solutions,Rich,13.91
+Impass,EK-NQ2,442-CS,442-CS I,Gleaming Alloy,Perfect,44.74
+Impass,EK-NQ2,442-CS,442-CS I,Glossy Compound,Rich,37.23
+Impass,EK-NQ2,442-CS,442-CS I,Noble Gas,Rich,36.18
+Impass,EK-NQ2,442-CS,442-CS I,Noble Metals,Rich,35.34
+Impass,EK-NQ2,442-CS,442-CS II,Glossy Compound,Rich,34.53
+Impass,EK-NQ2,442-CS,442-CS II,Noble Gas,Perfect,43.55
+Impass,EK-NQ2,442-CS,442-CS II,Noble Metals,Rich,36.21
+Impass,EK-NQ2,442-CS,442-CS II,Construction Blocks,Rich,35.32
+Impass,EK-NQ2,442-CS,442-CS III,Dark Compound,Medium,32.21
+Impass,EK-NQ2,442-CS,442-CS III,Base Metals,Poor,5.96
+Impass,EK-NQ2,442-CS,442-CS III,Supertensile Plastics,Poor,15.77
+Impass,EK-NQ2,442-CS,442-CS III,Construction Blocks,Medium,28.38
+Impass,EK-NQ2,442-CS,442-CS III,Silicate Glass,Medium,12.87
+Impass,EK-NQ2,442-CS,442-CS IV,Condensed Alloy,Rich,42.44
+Impass,EK-NQ2,442-CS,442-CS IV,Fiber Composite,Poor,24.73
+Impass,EK-NQ2,442-CS,442-CS IV,Industrial Fibers,Medium,7.03
+Impass,EK-NQ2,442-CS,442-CS IV,Condensates,Medium,19.06
+Impass,EK-NQ2,442-CS,442-CS IV,Smartfab Units,Rich,28.49
+Impass,EK-NQ2,442-CS,442-CS IV,Heavy Water,Medium,302.40
+Impass,EK-NQ2,442-CS,442-CS V,Precious Alloy,Medium,30.48
+Impass,EK-NQ2,442-CS,442-CS V,Dark Compound,Medium,30.48
+Impass,EK-NQ2,442-CS,442-CS V,Base Metals,Medium,8.43
+Impass,EK-NQ2,442-CS,442-CS V,Silicate Glass,Poor,12.39
+Impass,EK-NQ2,442-CS,442-CS V,Plasmoids,Medium,1.82
+Impass,EK-NQ2,442-CS,442-CS VI,Sheen Compound,Rich,34.26
+Impass,EK-NQ2,442-CS,442-CS VI,Reactive Gas,Medium,28.62
+Impass,EK-NQ2,442-CS,442-CS VI,Reactive Metals,Perfect,11.60
+Impass,EK-NQ2,442-CS,442-CS VI,Polyaramids,Medium,19.98
+Impass,EK-NQ2,442-CS,442-CS VI,Coolant,Medium,18.50
+Impass,EK-NQ2,442-CS,442-CS VI,Ionic Solutions,Perfect,17.16
+Impass,EK-NQ2,442-CS,442-CS VII,Fiber Composite,Poor,23.71
+Impass,EK-NQ2,442-CS,442-CS VII,Reactive Gas,Poor,23.25
+Impass,EK-NQ2,442-CS,442-CS VII,Noble Gas,Rich,41.93
+Impass,EK-NQ2,442-CS,442-CS VII,Reactive Metals,Perfect,11.71
+Impass,EK-NQ2,442-CS,442-CS VII,Polyaramids,Medium,18.00
+Impass,EK-NQ2,442-CS,442-CS VII,Ionic Solutions,Medium,10.36
+Impass,EK-NQ2,442-CS,442-CS VIII,Condensed Alloy,Rich,39.53
+Impass,EK-NQ2,442-CS,442-CS VIII,Opulent Compound,Rich,37.96
+Impass,EK-NQ2,442-CS,442-CS VIII,Polyaramids,Medium,19.01
+Impass,EK-NQ2,442-CS,442-CS VIII,Coolant,Perfect,30.29
+Impass,EK-NQ2,442-CS,442-CS VIII,Heavy Water,Medium,302.67
+Impass,EK-NQ2,442-CS,442-CS VIII,Ionic Solutions,Medium,10.85
+Impass,EK-NQ2,Z-N9IP,Z-N9IP I,Lustering Alloy,Medium,31.53
+Impass,EK-NQ2,Z-N9IP,Z-N9IP I,Precious Alloy,Medium,27.44
+Impass,EK-NQ2,Z-N9IP,Z-N9IP I,Dark Compound,Medium,26.91
+Impass,EK-NQ2,Z-N9IP,Z-N9IP I,Construction Blocks,Poor,21.20
+Impass,EK-NQ2,Z-N9IP,Z-N9IP I,Silicate Glass,Medium,16.39
+Impass,EK-NQ2,Z-N9IP,Z-N9IP II,Dark Compound,Medium,27.89
+Impass,EK-NQ2,Z-N9IP,Z-N9IP II,Toxic Metals,Medium,8.79
+Impass,EK-NQ2,Z-N9IP,Z-N9IP II,Industrial Fibers,Poor,5.77
+Impass,EK-NQ2,Z-N9IP,Z-N9IP II,Oxygen Isotopes,Poor,3.86
+Impass,EK-NQ2,Z-N9IP,Z-N9IP II,Plasmoids,Medium,1.66
+Impass,EK-NQ2,Z-N9IP,Z-N9IP III,Condensed Alloy,Rich,42.20
+Impass,EK-NQ2,Z-N9IP,Z-N9IP III,Fiber Composite,Perfect,52.39
+Impass,EK-NQ2,Z-N9IP,Z-N9IP III,Opulent Compound,Perfect,52.50
+Impass,EK-NQ2,Z-N9IP,Z-N9IP III,Base Metals,Medium,9.15
+Impass,EK-NQ2,Z-N9IP,Z-N9IP III,Condensates,Medium,19.23
+Impass,EK-NQ2,Z-N9IP,Z-N9IP III,Smartfab Units,Perfect,33.67
+Impass,EK-NQ2,Z-N9IP,Z-N9IP IV,Lustering Alloy,Poor,18.59
+Impass,EK-NQ2,Z-N9IP,Z-N9IP IV,Dark Compound,Medium,28.45
+Impass,EK-NQ2,Z-N9IP,Z-N9IP IV,Base Metals,Medium,7.70
+Impass,EK-NQ2,Z-N9IP,Z-N9IP IV,Supertensile Plastics,Medium,20.51
+Impass,EK-NQ2,Z-N9IP,Z-N9IP IV,Oxygen Isotopes,Poor,3.31
+Impass,EK-NQ2,Z-N9IP,Z-N9IP V,Lucent Compound,Medium,28.34
+Impass,EK-NQ2,Z-N9IP,Z-N9IP V,Crystal Compound,Perfect,45.92
+Impass,EK-NQ2,Z-N9IP,Z-N9IP V,Reactive Gas,Rich,38.14
+Impass,EK-NQ2,Z-N9IP,Z-N9IP V,Supertensile Plastics,Rich,24.64
+Impass,EK-NQ2,Z-N9IP,Z-N9IP V,Nanites,Medium,7.45
+Impass,EK-NQ2,Z-N9IP,Z-N9IP VI,Fiber Composite,Medium,29.88
+Impass,EK-NQ2,Z-N9IP,Z-N9IP VI,Base Metals,Rich,9.94
+Impass,EK-NQ2,Z-N9IP,Z-N9IP VI,Reactive Metals,Rich,10.49
+Impass,EK-NQ2,Z-N9IP,Z-N9IP VI,Polyaramids,Medium,21.22
+Impass,EK-NQ2,Z-N9IP,Z-N9IP VI,Coolant,Rich,24.75
+Impass,EK-NQ2,Z-N9IP,Z-N9IP VI,Ionic Solutions,Medium,12.86
+Impass,EK-NQ2,Z-N9IP,Z-N9IP VII,Fiber Composite,Rich,39.28
+Impass,EK-NQ2,Z-N9IP,Z-N9IP VII,Glossy Compound,Rich,40.57
+Impass,EK-NQ2,Z-N9IP,Z-N9IP VII,Noble Gas,Medium,33.32
+Impass,EK-NQ2,Z-N9IP,Z-N9IP VII,Base Metals,Rich,9.97
+Impass,EK-NQ2,Z-N9IP,Z-N9IP VII,Reactive Metals,Rich,11.38
+Impass,EK-NQ2,Z-N9IP,Z-N9IP VII,Polyaramids,Medium,18.01
+Impass,EK-NQ2,Z-N9IP,Z-N9IP VIII,Lustering Alloy,Rich,38.89
+Impass,EK-NQ2,Z-N9IP,Z-N9IP VIII,Precious Alloy,Poor,21.53
+Impass,EK-NQ2,Z-N9IP,Z-N9IP VIII,Industrial Fibers,Rich,10.29
+Impass,EK-NQ2,Z-N9IP,Z-N9IP VIII,Coolant,Poor,13.93
+Impass,EK-NQ2,Z-N9IP,Z-N9IP VIII,Condensates,Rich,26.28
+Impass,EK-NQ2,Z-N9IP,Z-N9IP IX,Gleaming Alloy,Medium,27.41
+Impass,EK-NQ2,Z-N9IP,Z-N9IP IX,Crystal Compound,Poor,23.74
+Impass,EK-NQ2,Z-N9IP,Z-N9IP IX,Reactive Gas,Medium,34.10
+Impass,EK-NQ2,Z-N9IP,Z-N9IP IX,Suspended Plasma,Rich,131.44
+Impass,EK-NQ2,Z-N9IP,Z-N9IP IX,Oxygen Isotopes,Medium,4.51
+Impass,EK-NQ2,9ZFH-Z,9ZFH-Z I,Gleaming Alloy,Poor,24.41
+Impass,EK-NQ2,9ZFH-Z,9ZFH-Z I,Glossy Compound,Poor,24.41
+Impass,EK-NQ2,9ZFH-Z,9ZFH-Z I,Smartfab Units,Medium,16.97
+Impass,EK-NQ2,9ZFH-Z,9ZFH-Z I,Oxygen Isotopes,Rich,5.71
+Impass,EK-NQ2,9ZFH-Z,9ZFH-Z II,Lustering Alloy,Poor,18.15
+Impass,EK-NQ2,9ZFH-Z,9ZFH-Z II,Dark Compound,Poor,19.34
+Impass,EK-NQ2,9ZFH-Z,9ZFH-Z II,Supertensile Plastics,Poor,15.25
+Impass,EK-NQ2,9ZFH-Z,9ZFH-Z II,Oxygen Isotopes,Medium,4.25
+Impass,EK-NQ2,9ZFH-Z,9ZFH-Z II,Plasmoids,Poor,1.40
+Impass,EK-NQ2,9ZFH-Z,9ZFH-Z III,Lustering Alloy,Medium,26.88
+Impass,EK-NQ2,9ZFH-Z,9ZFH-Z III,Dark Compound,Poor,19.29
+Impass,EK-NQ2,9ZFH-Z,9ZFH-Z III,Supertensile Plastics,Medium,17.30
+Impass,EK-NQ2,9ZFH-Z,9ZFH-Z III,Construction Blocks,Medium,31.15
+Impass,EK-NQ2,9ZFH-Z,9ZFH-Z III,Plasmoids,Medium,1.73
+Impass,EK-NQ2,9ZFH-Z,9ZFH-Z IV,Opulent Compound,Perfect,42.15
+Impass,EK-NQ2,9ZFH-Z,9ZFH-Z IV,Toxic Metals,Medium,7.48
+Impass,EK-NQ2,9ZFH-Z,9ZFH-Z IV,Polyaramids,Medium,18.29
+Impass,EK-NQ2,9ZFH-Z,9ZFH-Z IV,Coolant,Perfect,28.39
+Impass,EK-NQ2,9ZFH-Z,9ZFH-Z IV,Silicate Glass,Rich,19.95
+Impass,EK-NQ2,9ZFH-Z,9ZFH-Z IV,Liquid Ozone,Rich,50.15
+Impass,EK-NQ2,9ZFH-Z,9ZFH-Z V,Condensed Alloy,Perfect,46.33
+Impass,EK-NQ2,9ZFH-Z,9ZFH-Z V,Fiber Composite,Medium,26.94
+Impass,EK-NQ2,9ZFH-Z,9ZFH-Z V,Opulent Compound,Rich,36.37
+Impass,EK-NQ2,9ZFH-Z,9ZFH-Z V,Reactive Gas,Rich,35.88
+Impass,EK-NQ2,9ZFH-Z,9ZFH-Z V,Noble Metals,Rich,36.19
+Impass,EK-NQ2,9ZFH-Z,9ZFH-Z V,Smartfab Units,Rich,23.68
+Impass,EK-NQ2,9ZFH-Z,9ZFH-Z VI,Sheen Compound,Perfect,43.13
+Impass,EK-NQ2,9ZFH-Z,9ZFH-Z VI,Glossy Compound,Medium,26.75
+Impass,EK-NQ2,9ZFH-Z,9ZFH-Z VI,Noble Gas,Medium,31.04
+Impass,EK-NQ2,9ZFH-Z,9ZFH-Z VI,Reactive Metals,Medium,6.84
+Impass,EK-NQ2,9ZFH-Z,9ZFH-Z VI,Polyaramids,Perfect,27.82
+Impass,EK-NQ2,9ZFH-Z,9ZFH-Z VI,Ionic Solutions,Rich,15.96
+Impass,EK-NQ2,9ZFH-Z,9ZFH-Z VII,Sheen Compound,Medium,28.94
+Impass,EK-NQ2,9ZFH-Z,9ZFH-Z VII,Fiber Composite,Rich,35.98
+Impass,EK-NQ2,9ZFH-Z,9ZFH-Z VII,Glossy Compound,Rich,40.72
+Impass,EK-NQ2,9ZFH-Z,9ZFH-Z VII,Reactive Gas,Rich,41.08
+Impass,EK-NQ2,9ZFH-Z,9ZFH-Z VII,Reactive Metals,Medium,7.88
+Impass,EK-NQ2,9ZFH-Z,9ZFH-Z VII,Coolant,Rich,25.81
+Impass,EK-NQ2,9ZFH-Z,9ZFH-Z VIII,Dark Compound,Medium,24.96
+Impass,EK-NQ2,9ZFH-Z,9ZFH-Z VIII,Supertensile Plastics,Medium,16.62
+Impass,EK-NQ2,9ZFH-Z,9ZFH-Z VIII,Silicate Glass,Poor,11.84
+Impass,EK-NQ2,9ZFH-Z,9ZFH-Z VIII,Oxygen Isotopes,Poor,2.94
+Impass,EK-NQ2,9ZFH-Z,9ZFH-Z VIII,Plasmoids,Medium,1.54
+Impass,O6W-QE,6E-MOW,6E-MOW I,Base Metals,Poor,4.87
+Impass,O6W-QE,6E-MOW,6E-MOW I,Industrial Fibers,Medium,5.86
+Impass,O6W-QE,6E-MOW,6E-MOW I,Supertensile Plastics,Medium,17.60
+Impass,O6W-QE,6E-MOW,6E-MOW I,Plasmoids,Medium,1.42
+Impass,O6W-QE,6E-MOW,6E-MOW II,Precious Alloy,Poor,20.22
+Impass,O6W-QE,6E-MOW,6E-MOW II,Supertensile Plastics,Poor,13.78
+Impass,O6W-QE,6E-MOW,6E-MOW II,Silicate Glass,Poor,9.63
+Impass,O6W-QE,6E-MOW,6E-MOW II,Plasmoids,Medium,1.57
+Impass,O6W-QE,6E-MOW,6E-MOW III,Lucent Compound,Medium,24.56
+Impass,O6W-QE,6E-MOW,6E-MOW III,Noble Gas,Perfect,39.79
+Impass,O6W-QE,6E-MOW,6E-MOW III,Heavy Metals,Rich,33.56
+Impass,O6W-QE,6E-MOW,6E-MOW III,Condensates,Perfect,26.47
+Impass,O6W-QE,6E-MOW,6E-MOW III,Suspended Plasma,Medium,81.72
+Impass,O6W-QE,6E-MOW,6E-MOW IV,Reactive Metals,Medium,5.84
+Impass,O6W-QE,6E-MOW,6E-MOW IV,Toxic Metals,Rich,9.59
+Impass,O6W-QE,6E-MOW,6E-MOW IV,Supertensile Plastics,Poor,12.96
+Impass,O6W-QE,6E-MOW,6E-MOW IV,Nanites,Poor,5.24
+Impass,O6W-QE,6E-MOW,6E-MOW V,Crystal Compound,Rich,31.69
+Impass,O6W-QE,6E-MOW,6E-MOW V,Reactive Metals,Rich,8.63
+Impass,O6W-QE,6E-MOW,6E-MOW V,Toxic Metals,Medium,6.55
+Impass,O6W-QE,6E-MOW,6E-MOW V,Supertensile Plastics,Medium,17.42
+Impass,O6W-QE,6E-MOW,6E-MOW VI,Lustering Alloy,Rich,36.16
+Impass,O6W-QE,6E-MOW,6E-MOW VI,Sheen Compound,Medium,22.26
+Impass,O6W-QE,6E-MOW,6E-MOW VI,Fiber Composite,Rich,30.80
+Impass,O6W-QE,6E-MOW,6E-MOW VI,Glossy Compound,Rich,34.91
+Impass,O6W-QE,6E-MOW,6E-MOW VI,Reactive Gas,Rich,35.90
+Impass,O6W-QE,6E-MOW,6E-MOW VII,Fiber Composite,Poor,21.16
+Impass,O6W-QE,6E-MOW,6E-MOW VII,Reactive Gas,Medium,22.70
+Impass,O6W-QE,6E-MOW,6E-MOW VII,Base Metals,Poor,5.49
+Impass,O6W-QE,6E-MOW,6E-MOW VII,Reactive Metals,Medium,7.56
+Impass,O6W-QE,6E-MOW,6E-MOW VII,Ionic Solutions,Medium,9.08
+Impass,O6W-QE,6E-MOW,6E-MOW VIII,Fiber Composite,Medium,24.13
+Impass,O6W-QE,6E-MOW,6E-MOW VIII,Glossy Compound,Rich,32.52
+Impass,O6W-QE,6E-MOW,6E-MOW VIII,Reactive Gas,Medium,26.77
+Impass,O6W-QE,6E-MOW,6E-MOW VIII,Base Metals,Rich,9.04
+Impass,O6W-QE,6E-MOW,6E-MOW VIII,Reactive Metals,Medium,7.34
+Impass,O6W-QE,6E-MOW,6E-MOW IX,Condensed Alloy,Rich,32.11
+Impass,O6W-QE,6E-MOW,6E-MOW IX,Coolant,Medium,14.67
+Impass,O6W-QE,6E-MOW,6E-MOW IX,Heavy Water,Perfect,377.66
+Impass,O6W-QE,6E-MOW,6E-MOW IX,Liquid Ozone,Rich,42.55
+Impass,O6W-QE,6E-MOW,6E-MOW IX,Ionic Solutions,Medium,11.09
+Impass,O6W-QE,6E-MOW,6E-MOW X,Industrial Fibers,Poor,5.61
+Impass,O6W-QE,6E-MOW,6E-MOW X,Supertensile Plastics,Poor,12.82
+Impass,O6W-QE,6E-MOW,6E-MOW X,Silicate Glass,Medium,11.89
+Impass,O6W-QE,6E-MOW,6E-MOW X,Oxygen Isotopes,Medium,4.05
+Impass,O6W-QE,GBT4-J,GBT4-J I,Lustering Alloy,Poor,17.04
+Impass,O6W-QE,GBT4-J,GBT4-J I,Precious Alloy,Poor,18.26
+Impass,O6W-QE,GBT4-J,GBT4-J I,Dark Compound,Medium,24.15
+Impass,O6W-QE,GBT4-J,GBT4-J I,Supertensile Plastics,Poor,11.10
+Impass,O6W-QE,GBT4-J,GBT4-J II,Noble Gas,Rich,31.42
+Impass,O6W-QE,GBT4-J,GBT4-J II,Reactive Metals,Rich,8.58
+Impass,O6W-QE,GBT4-J,GBT4-J II,Condensates,Medium,19.40
+Impass,O6W-QE,GBT4-J,GBT4-J II,Ionic Solutions,Rich,11.69
+Impass,O6W-QE,GBT4-J,GBT4-J II,Plasmoids,Rich,1.81
+Impass,O6W-QE,GBT4-J,GBT4-J III,Gleaming Alloy,Rich,35.07
+Impass,O6W-QE,GBT4-J,GBT4-J III,Reactive Metals,Medium,7.39
+Impass,O6W-QE,GBT4-J,GBT4-J III,Toxic Metals,Medium,6.38
+Impass,O6W-QE,GBT4-J,GBT4-J III,Supertensile Plastics,Rich,21.19
+Impass,O6W-QE,GBT4-J,GBT4-J IV,Reactive Gas,Rich,29.46
+Impass,O6W-QE,GBT4-J,GBT4-J IV,Noble Gas,Perfect,37.70
+Impass,O6W-QE,GBT4-J,GBT4-J IV,Base Metals,Medium,7.37
+Impass,O6W-QE,GBT4-J,GBT4-J IV,Polyaramids,Rich,22.02
+Impass,O6W-QE,GBT4-J,GBT4-J IV,Ionic Solutions,Poor,8.50
+Impass,O6W-QE,GBT4-J,GBT4-J V,Lustering Alloy,Rich,30.80
+Impass,O6W-QE,GBT4-J,GBT4-J V,Fiber Composite,Medium,23.44
+Impass,O6W-QE,GBT4-J,GBT4-J V,Reactive Gas,Medium,25.23
+Impass,O6W-QE,GBT4-J,GBT4-J V,Base Metals,Medium,6.44
+Impass,O6W-QE,GBT4-J,GBT4-J V,Polyaramids,Poor,12.96
+Impass,O6W-QE,GBT4-J,GBT4-J VI,Sheen Compound,Medium,22.43
+Impass,O6W-QE,GBT4-J,GBT4-J VI,Glossy Compound,Rich,30.54
+Impass,O6W-QE,GBT4-J,GBT4-J VI,Reactive Gas,Medium,25.51
+Impass,O6W-QE,GBT4-J,GBT4-J VI,Reactive Metals,Rich,8.90
+Impass,O6W-QE,GBT4-J,GBT4-J VI,Coolant,Medium,16.38
+Impass,O6W-QE,GBT4-J,GBT4-J VII,Sheen Compound,Medium,25.46
+Impass,O6W-QE,GBT4-J,GBT4-J VII,Reactive Gas,Rich,29.60
+Impass,O6W-QE,GBT4-J,GBT4-J VII,Noble Gas,Rich,34.48
+Impass,O6W-QE,GBT4-J,GBT4-J VII,Reactive Metals,Medium,6.17
+Impass,O6W-QE,GBT4-J,GBT4-J VII,Polyaramids,Poor,13.94
+Impass,O6W-QE,GBT4-J,GBT4-J VIII,Toxic Metals,Poor,4.28
+Impass,O6W-QE,GBT4-J,GBT4-J VIII,Supertensile Plastics,Medium,15.56
+Impass,O6W-QE,GBT4-J,GBT4-J VIII,Oxygen Isotopes,Poor,3.03
+Impass,O6W-QE,GBT4-J,GBT4-J VIII,Plasmoids,Poor,1.29
+Impass,O6W-QE,GBT4-J,GBT4-J IX,Dark Compound,Medium,27.09
+Impass,O6W-QE,GBT4-J,GBT4-J IX,Base Metals,Poor,4.37
+Impass,O6W-QE,GBT4-J,GBT4-J IX,Industrial Fibers,Poor,5.09
+Impass,O6W-QE,GBT4-J,GBT4-J IX,Supertensile Plastics,Poor,11.48
+Impass,O6W-QE,GZ1-A1,GZ1-A1 I,Gleaming Alloy,Poor,19.92
+Impass,O6W-QE,GZ1-A1,GZ1-A1 I,Smartfab Units,Medium,15.62
+Impass,O6W-QE,GZ1-A1,GZ1-A1 I,Oxygen Isotopes,Perfect,6.00
+Impass,O6W-QE,GZ1-A1,GZ1-A1 II,Sheen Compound,Medium,23.02
+Impass,O6W-QE,GZ1-A1,GZ1-A1 II,Noble Gas,Medium,27.82
+Impass,O6W-QE,GZ1-A1,GZ1-A1 II,Heavy Metals,Perfect,40.68
+Impass,O6W-QE,GZ1-A1,GZ1-A1 II,Condensates,Medium,18.67
+Impass,O6W-QE,GZ1-A1,GZ1-A1 II,Plasmoids,Poor,1.32
+Impass,O6W-QE,GZ1-A1,GZ1-A1 III,Gleaming Alloy,Poor,20.06
+Impass,O6W-QE,GZ1-A1,GZ1-A1 III,Heavy Metals,Rich,31.15
+Impass,O6W-QE,GZ1-A1,GZ1-A1 III,Oxygen Isotopes,Rich,4.58
+Impass,O6W-QE,GZ1-A1,GZ1-A1 IV,Lustering Alloy,Rich,37.56
+Impass,O6W-QE,GZ1-A1,GZ1-A1 IV,Fiber Composite,Perfect,39.14
+Impass,O6W-QE,GZ1-A1,GZ1-A1 IV,Reactive Gas,Medium,28.44
+Impass,O6W-QE,GZ1-A1,GZ1-A1 IV,Noble Gas,Medium,29.23
+Impass,O6W-QE,GZ1-A1,GZ1-A1 IV,Reactive Metals,Medium,7.19
+Impass,O6W-QE,GZ1-A1,GZ1-A1 V,Lustering Alloy,Medium,25.58
+Impass,O6W-QE,GZ1-A1,GZ1-A1 V,Fiber Composite,Perfect,39.05
+Impass,O6W-QE,GZ1-A1,GZ1-A1 V,Reactive Gas,Rich,32.78
+Impass,O6W-QE,GZ1-A1,GZ1-A1 V,Noble Gas,Medium,24.05
+Impass,O6W-QE,GZ1-A1,GZ1-A1 V,Ionic Solutions,Rich,12.49
+Impass,O6W-QE,GZ1-A1,GZ1-A1 VI,Fiber Composite,Poor,20.90
+Impass,O6W-QE,GZ1-A1,GZ1-A1 VI,Glossy Compound,Medium,29.09
+Impass,O6W-QE,GZ1-A1,GZ1-A1 VI,Reactive Gas,Rich,37.46
+Impass,O6W-QE,GZ1-A1,GZ1-A1 VI,Noble Gas,Medium,29.33
+Impass,O6W-QE,GZ1-A1,GZ1-A1 VI,Coolant,Rich,23.18
+Impass,O6W-QE,X-0CKQ,X-0CKQ I,Precious Alloy,Medium,26.59
+Impass,O6W-QE,X-0CKQ,X-0CKQ I,Dark Compound,Medium,22.99
+Impass,O6W-QE,X-0CKQ,X-0CKQ I,Supertensile Plastics,Medium,19.18
+Impass,O6W-QE,X-0CKQ,X-0CKQ I,Construction Blocks,Poor,22.13
+Impass,O6W-QE,X-0CKQ,X-0CKQ II,Gleaming Alloy,Perfect,40.25
+Impass,O6W-QE,X-0CKQ,X-0CKQ II,Motley Compound,Medium,28.73
+Impass,O6W-QE,X-0CKQ,X-0CKQ II,Noble Metals,Rich,32.86
+Impass,O6W-QE,X-0CKQ,X-0CKQ III,Base Metals,Medium,7.58
+Impass,O6W-QE,X-0CKQ,X-0CKQ III,Supertensile Plastics,Poor,13.57
+Impass,O6W-QE,X-0CKQ,X-0CKQ III,Construction Blocks,Poor,19.10
+Impass,O6W-QE,X-0CKQ,X-0CKQ III,Plasmoids,Medium,1.39
+Impass,O6W-QE,X-0CKQ,X-0CKQ IV,Reactive Metals,Medium,7.73
+Impass,O6W-QE,X-0CKQ,X-0CKQ IV,Toxic Metals,Rich,9.42
+Impass,O6W-QE,X-0CKQ,X-0CKQ IV,Supertensile Plastics,Rich,23.01
+Impass,O6W-QE,X-0CKQ,X-0CKQ IV,Construction Blocks,Perfect,38.42
+Impass,O6W-QE,X-0CKQ,X-0CKQ V,Sheen Compound,Medium,25.27
+Impass,O6W-QE,X-0CKQ,X-0CKQ V,Glossy Compound,Medium,27.91
+Impass,O6W-QE,X-0CKQ,X-0CKQ V,Reactive Gas,Medium,30.26
+Impass,O6W-QE,X-0CKQ,X-0CKQ V,Base Metals,Medium,7.64
+Impass,O6W-QE,X-0CKQ,X-0CKQ V,Reactive Metals,Medium,6.19
+Impass,O6W-QE,X-0CKQ,X-0CKQ VI,Glossy Compound,Medium,25.30
+Impass,O6W-QE,X-0CKQ,X-0CKQ VI,Reactive Gas,Rich,34.82
+Impass,O6W-QE,X-0CKQ,X-0CKQ VI,Noble Gas,Rich,32.42
+Impass,O6W-QE,X-0CKQ,X-0CKQ VI,Base Metals,Rich,9.08
+Impass,O6W-QE,X-0CKQ,X-0CKQ VI,Reactive Metals,Rich,8.87
+Impass,O6W-QE,X-0CKQ,X-0CKQ VII,Glossy Compound,Medium,23.76
+Impass,O6W-QE,X-0CKQ,X-0CKQ VII,Reactive Gas,Rich,30.94
+Impass,O6W-QE,X-0CKQ,X-0CKQ VII,Noble Gas,Perfect,38.30
+Impass,O6W-QE,X-0CKQ,X-0CKQ VII,Polyaramids,Rich,22.78
+Impass,O6W-QE,X-0CKQ,X-0CKQ VII,Ionic Solutions,Rich,14.36
+Impass,O6W-QE,X-0CKQ,X-0CKQ VIII,Sheen Compound,Medium,30.10
+Impass,O6W-QE,X-0CKQ,X-0CKQ VIII,Lucent Compound,Rich,37.51
+Impass,O6W-QE,X-0CKQ,X-0CKQ VIII,Dark Compound,Medium,28.42
+Impass,O6W-QE,X-0CKQ,X-0CKQ VIII,Reactive Metals,Rich,9.95
+Impass,O6W-QE,X-0CKQ,X-0CKQ VIII,Condensates,Medium,19.15
+Impass,O6W-QE,X-0CKQ,X-0CKQ IX,Reactive Gas,Rich,37.70
+Impass,O6W-QE,X-0CKQ,X-0CKQ IX,Base Metals,Rich,8.93
+Impass,O6W-QE,X-0CKQ,X-0CKQ IX,Reactive Metals,Poor,5.68
+Impass,O6W-QE,X-0CKQ,X-0CKQ IX,Polyaramids,Rich,24.64
+Impass,O6W-QE,X-0CKQ,X-0CKQ IX,Ionic Solutions,Rich,15.21
+Impass,O6W-QE,X-0CKQ,X-0CKQ X,Glossy Compound,Rich,32.33
+Impass,O6W-QE,X-0CKQ,X-0CKQ X,Reactive Gas,Medium,23.66
+Impass,O6W-QE,X-0CKQ,X-0CKQ X,Noble Gas,Rich,33.50
+Impass,O6W-QE,X-0CKQ,X-0CKQ X,Base Metals,Perfect,10.18
+Impass,O6W-QE,X-0CKQ,X-0CKQ X,Ionic Solutions,Medium,11.00
+Impass,O6W-QE,X-0CKQ,X-0CKQ XI,Lustering Alloy,Medium,28.10
+Impass,O6W-QE,X-0CKQ,X-0CKQ XI,Coolant,Rich,21.49
+Impass,O6W-QE,X-0CKQ,X-0CKQ XI,Condensates,Poor,12.30
+Impass,O6W-QE,X-0CKQ,X-0CKQ XI,Liquid Ozone,Poor,22.35
+Impass,O6W-QE,6B-GKA,6B-GKA I,Dark Compound,Poor,16.32
+Impass,O6W-QE,6B-GKA,6B-GKA I,Industrial Fibers,Poor,6.03
+Impass,O6W-QE,6B-GKA,6B-GKA I,Supertensile Plastics,Medium,19.53
+Impass,O6W-QE,6B-GKA,6B-GKA I,Construction Blocks,Medium,28.98
+Impass,O6W-QE,6B-GKA,6B-GKA I,Silicate Glass,Medium,14.14
+Impass,O6W-QE,6B-GKA,6B-GKA II,Precious Alloy,Medium,30.13
+Impass,O6W-QE,6B-GKA,6B-GKA II,Dark Compound,Poor,20.07
+Impass,O6W-QE,6B-GKA,6B-GKA II,Construction Blocks,Medium,27.35
+Impass,O6W-QE,6B-GKA,6B-GKA II,Silicate Glass,Medium,12.01
+Impass,O6W-QE,6B-GKA,6B-GKA II,Oxygen Isotopes,Poor,2.61
+Impass,O6W-QE,6B-GKA,6B-GKA III,Gleaming Alloy,Rich,39.70
+Impass,O6W-QE,6B-GKA,6B-GKA III,Crystal Compound,Perfect,39.77
+Impass,O6W-QE,6B-GKA,6B-GKA III,Reactive Metals,Medium,7.29
+Impass,O6W-QE,6B-GKA,6B-GKA III,Toxic Metals,Medium,6.31
+Impass,O6W-QE,6B-GKA,6B-GKA III,Construction Blocks,Medium,30.63
+Impass,O6W-QE,6B-GKA,6B-GKA IV,Sheen Compound,Rich,33.42
+Impass,O6W-QE,6B-GKA,6B-GKA IV,Fiber Composite,Medium,29.10
+Impass,O6W-QE,6B-GKA,6B-GKA IV,Glossy Compound,Medium,27.30
+Impass,O6W-QE,6B-GKA,6B-GKA IV,Reactive Gas,Medium,25.05
+Impass,O6W-QE,6B-GKA,6B-GKA IV,Reactive Metals,Medium,6.30
+Impass,O6W-QE,6B-GKA,6B-GKA IV,Coolant,Rich,23.65
+Impass,O6W-QE,6B-GKA,6B-GKA V,Noble Gas,Poor,20.98
+Impass,O6W-QE,6B-GKA,6B-GKA V,Base Metals,Rich,8.39
+Impass,O6W-QE,6B-GKA,6B-GKA V,Reactive Metals,Poor,5.68
+Impass,O6W-QE,6B-GKA,6B-GKA V,Polyaramids,Medium,18.72
+Impass,O6W-QE,6B-GKA,6B-GKA V,Coolant,Medium,19.83
+Impass,O6W-QE,6B-GKA,6B-GKA V,Ionic Solutions,Poor,9.25
+Impass,O6W-QE,6B-GKA,6B-GKA VI,Lustering Alloy,Rich,32.10
+Impass,O6W-QE,6B-GKA,6B-GKA VI,Fiber Composite,Rich,36.50
+Impass,O6W-QE,6B-GKA,6B-GKA VI,Glossy Compound,Poor,23.35
+Impass,O6W-QE,6B-GKA,6B-GKA VI,Reactive Gas,Poor,21.55
+Impass,O6W-QE,6B-GKA,6B-GKA VI,Reactive Metals,Poor,5.79
+Impass,O6W-QE,6B-GKA,6B-GKA VI,Coolant,Medium,16.27
+Impass,O6W-QE,6B-GKA,6B-GKA VII,Lustering Alloy,Poor,16.00
+Impass,O6W-QE,6B-GKA,6B-GKA VII,Dark Compound,Medium,28.25
+Impass,O6W-QE,6B-GKA,6B-GKA VII,Toxic Metals,Medium,7.97
+Impass,O6W-QE,6B-GKA,6B-GKA VII,Silicate Glass,Medium,13.44
+Impass,O6W-QE,6B-GKA,6B-GKA VII,Oxygen Isotopes,Poor,2.99
+Impass,O6W-QE,6B-GKA,6B-GKA VIII,Condensed Alloy,Rich,37.13
+Impass,O6W-QE,6B-GKA,6B-GKA VIII,Opulent Compound,Rich,33.83
+Impass,O6W-QE,6B-GKA,6B-GKA VIII,Base Metals,Perfect,11.76
+Impass,O6W-QE,6B-GKA,6B-GKA VIII,Condensates,Perfect,27.72
+Impass,O6W-QE,6B-GKA,6B-GKA VIII,Smartfab Units,Perfect,28.25
+Impass,O6W-QE,6B-GKA,6B-GKA VIII,Liquid Ozone,Medium,36.28
+Impass,O6W-QE,6B-GKA,6B-GKA IX,Precious Alloy,Rich,35.70
+Impass,O6W-QE,6B-GKA,6B-GKA IX,Supertensile Plastics,Poor,12.83
+Impass,O6W-QE,6B-GKA,6B-GKA IX,Condensates,Rich,23.60
+Impass,O6W-QE,6B-GKA,6B-GKA IX,Suspended Plasma,Rich,125.64
+Impass,O6W-QE,6B-GKA,6B-GKA IX,Liquid Ozone,Rich,44.72
+Impass,O6W-QE,LHGA-W,LHGA-W I,Toxic Metals,Medium,7.72
+Impass,O6W-QE,LHGA-W,LHGA-W I,Industrial Fibers,Poor,5.44
+Impass,O6W-QE,LHGA-W,LHGA-W I,Supertensile Plastics,Medium,15.46
+Impass,O6W-QE,LHGA-W,LHGA-W I,Construction Blocks,Poor,15.60
+Impass,O6W-QE,LHGA-W,LHGA-W II,Precious Alloy,Poor,19.18
+Impass,O6W-QE,LHGA-W,LHGA-W II,Supertensile Plastics,Poor,13.28
+Impass,O6W-QE,LHGA-W,LHGA-W II,Construction Blocks,Poor,21.65
+Impass,O6W-QE,LHGA-W,LHGA-W II,Plasmoids,Poor,1.10
+Impass,O6W-QE,LHGA-W,LHGA-W III,Base Metals,Medium,6.19
+Impass,O6W-QE,LHGA-W,LHGA-W III,Toxic Metals,Medium,5.99
+Impass,O6W-QE,LHGA-W,LHGA-W III,Supertensile Plastics,Poor,13.95
+Impass,O6W-QE,LHGA-W,LHGA-W III,Construction Blocks,Poor,18.19
+Impass,O6W-QE,LHGA-W,LHGA-W IV,Dark Compound,Medium,27.94
+Impass,O6W-QE,LHGA-W,LHGA-W IV,Supertensile Plastics,Poor,13.02
+Impass,O6W-QE,LHGA-W,LHGA-W IV,Construction Blocks,Poor,20.88
+Impass,O6W-QE,LHGA-W,LHGA-W IV,Oxygen Isotopes,Medium,3.57
+Impass,O6W-QE,LHGA-W,LHGA-W V,Fiber Composite,Medium,29.71
+Impass,O6W-QE,LHGA-W,LHGA-W V,Opulent Compound,Perfect,45.50
+Impass,O6W-QE,LHGA-W,LHGA-W V,Noble Metals,Rich,35.78
+Impass,O6W-QE,LHGA-W,LHGA-W V,Smartfab Units,Rich,24.94
+Impass,O6W-QE,LHGA-W,LHGA-W V,Liquid Ozone,Perfect,51.93
+Impass,O6W-QE,LHGA-W,LHGA-W VI,Lustering Alloy,Rich,31.99
+Impass,O6W-QE,LHGA-W,LHGA-W VI,Glossy Compound,Poor,20.30
+Impass,O6W-QE,LHGA-W,LHGA-W VI,Reactive Gas,Medium,22.94
+Impass,O6W-QE,LHGA-W,LHGA-W VI,Base Metals,Rich,9.96
+Impass,O6W-QE,LHGA-W,LHGA-W VI,Reactive Metals,Poor,5.30
+Impass,O6W-QE,LHGA-W,LHGA-W VII,Lustering Alloy,Perfect,39.14
+Impass,O6W-QE,LHGA-W,LHGA-W VII,Sheen Compound,Medium,30.26
+Impass,O6W-QE,LHGA-W,LHGA-W VII,Fiber Composite,Perfect,38.54
+Impass,O6W-QE,LHGA-W,LHGA-W VII,Reactive Gas,Rich,35.90
+Impass,O6W-QE,LHGA-W,LHGA-W VII,Noble Gas,Medium,28.70
+Impass,O6W-QE,4RS-L1,4RS-L1 I,Gleaming Alloy,Rich,33.81
+Impass,O6W-QE,4RS-L1,4RS-L1 I,Construction Blocks,Medium,23.39
+Impass,O6W-QE,4RS-L1,4RS-L1 I,Smartfab Units,Poor,12.62
+Impass,O6W-QE,4RS-L1,4RS-L1 II,Crystal Compound,Medium,22.54
+Impass,O6W-QE,4RS-L1,4RS-L1 II,Coolant,Medium,16.36
+Impass,O6W-QE,4RS-L1,4RS-L1 II,Heavy Water,Perfect,397.44
+Impass,O6W-QE,4RS-L1,4RS-L1 II,Liquid Ozone,Rich,43.41
+Impass,O6W-QE,4RS-L1,4RS-L1 II,Ionic Solutions,Medium,10.23
+Impass,O6W-QE,4RS-L1,4RS-L1 III,Lustering Alloy,Medium,28.01
+Impass,O6W-QE,4RS-L1,4RS-L1 III,Fiber Composite,Rich,35.60
+Impass,O6W-QE,4RS-L1,4RS-L1 III,Glossy Compound,Medium,26.52
+Impass,O6W-QE,4RS-L1,4RS-L1 III,Reactive Gas,Poor,21.25
+Impass,O6W-QE,4RS-L1,4RS-L1 III,Coolant,Medium,14.72
+Impass,O6W-QE,4RS-L1,4RS-L1 IV,Condensed Alloy,Medium,24.31
+Impass,O6W-QE,4RS-L1,4RS-L1 IV,Crystal Compound,Rich,30.50
+Impass,O6W-QE,4RS-L1,4RS-L1 IV,Toxic Metals,Medium,6.77
+Impass,O6W-QE,4RS-L1,4RS-L1 IV,Liquid Ozone,Rich,40.57
+Impass,O6W-QE,4RS-L1,4RS-L1 IV,Ionic Solutions,Rich,14.16
+Impass,O6W-QE,4RS-L1,4RS-L1 V,Lucent Compound,Medium,25.14
+Impass,O6W-QE,4RS-L1,4RS-L1 V,Crystal Compound,Medium,24.63
+Impass,O6W-QE,4RS-L1,4RS-L1 V,Reactive Metals,Medium,6.85
+Impass,O6W-QE,4RS-L1,4RS-L1 V,Nanites,Medium,6.33
+Impass,QZJ-FL,D-L4H0,D-L4H0 I,Dark Compound,Medium,20.72
+Impass,QZJ-FL,D-L4H0,D-L4H0 I,Industrial Fibers,Poor,3.51
+Impass,QZJ-FL,D-L4H0,D-L4H0 I,Supertensile Plastics,Medium,15.68
+Impass,QZJ-FL,D-L4H0,D-L4H0 I,Oxygen Isotopes,Medium,3.31
+Impass,QZJ-FL,D-L4H0,D-L4H0 II,Lustering Alloy,Medium,22.58
+Impass,QZJ-FL,D-L4H0,D-L4H0 II,Toxic Metals,Poor,4.93
+Impass,QZJ-FL,D-L4H0,D-L4H0 II,Supertensile Plastics,Medium,13.72
+Impass,QZJ-FL,D-L4H0,D-L4H0 II,Silicate Glass,Medium,11.45
+Impass,QZJ-FL,D-L4H0,D-L4H0 III,Lustering Alloy,Medium,21.52
+Impass,QZJ-FL,D-L4H0,D-L4H0 III,Reactive Gas,Rich,30.66
+Impass,QZJ-FL,D-L4H0,D-L4H0 III,Base Metals,Rich,7.67
+Impass,QZJ-FL,D-L4H0,D-L4H0 III,Reactive Metals,Medium,5.94
+Impass,QZJ-FL,D-L4H0,D-L4H0 III,Polyaramids,Medium,12.57
+Impass,QZJ-FL,D-L4H0,D-L4H0 IV,Base Metals,Medium,5.11
+Impass,QZJ-FL,D-L4H0,D-L4H0 IV,Noble Metals,Perfect,31.82
+Impass,QZJ-FL,D-L4H0,D-L4H0 IV,Industrial Fibers,Perfect,9.57
+Impass,QZJ-FL,D-L4H0,D-L4H0 IV,Smartfab Units,Perfect,24.51
+Impass,QZJ-FL,D-L4H0,D-L4H0 IV,Liquid Ozone,Medium,26.65
+Impass,QZJ-FL,D-L4H0,D-L4H0 V,Precious Alloy,Medium,19.24
+Impass,QZJ-FL,D-L4H0,D-L4H0 V,Industrial Fibers,Poor,3.29
+Impass,QZJ-FL,D-L4H0,D-L4H0 V,Supertensile Plastics,Medium,14.25
+Impass,QZJ-FL,D-L4H0,D-L4H0 V,Construction Blocks,Medium,20.84
+Impass,QZJ-FL,D-L4H0,D-L4H0 VI,Gleaming Alloy,Rich,30.58
+Impass,QZJ-FL,D-L4H0,D-L4H0 VI,Motley Compound,Medium,22.00
+Impass,QZJ-FL,D-L4H0,D-L4H0 VI,Smartfab Units,Rich,19.89
+Impass,QZJ-FL,D-L4H0,D-L4H0 VII,Glossy Compound,Poor,17.82
+Impass,QZJ-FL,D-L4H0,D-L4H0 VII,Reactive Gas,Medium,22.00
+Impass,QZJ-FL,D-L4H0,D-L4H0 VII,Noble Gas,Rich,29.46
+Impass,QZJ-FL,D-L4H0,D-L4H0 VII,Base Metals,Medium,6.29
+Impass,QZJ-FL,D-L4H0,D-L4H0 VII,Reactive Metals,Perfect,8.61
+Impass,QZJ-FL,D-L4H0,D-L4H0 VIII,Sheen Compound,Rich,27.22
+Impass,QZJ-FL,D-L4H0,D-L4H0 VIII,Reactive Gas,Rich,30.36
+Impass,QZJ-FL,D-L4H0,D-L4H0 VIII,Base Metals,Perfect,8.45
+Impass,QZJ-FL,D-L4H0,D-L4H0 VIII,Reactive Metals,Poor,4.69
+Impass,QZJ-FL,D-L4H0,D-L4H0 VIII,Polyaramids,Medium,13.20
+Impass,QZJ-FL,GU-9F4,GU-9F4 I,Industrial Fibers,Medium,6.34
+Impass,QZJ-FL,GU-9F4,GU-9F4 I,Supertensile Plastics,Poor,8.97
+Impass,QZJ-FL,GU-9F4,GU-9F4 I,Construction Blocks,Medium,22.04
+Impass,QZJ-FL,GU-9F4,GU-9F4 I,Plasmoids,Medium,1.45
+Impass,QZJ-FL,GU-9F4,GU-9F4 II,Reactive Gas,Poor,18.12
+Impass,QZJ-FL,GU-9F4,GU-9F4 II,Reactive Metals,Perfect,8.59
+Impass,QZJ-FL,GU-9F4,GU-9F4 II,Toxic Metals,Perfect,8.56
+Impass,QZJ-FL,GU-9F4,GU-9F4 II,Suspended Plasma,Rich,112.10
+Impass,QZJ-FL,GU-9F4,GU-9F4 III,Gleaming Alloy,Rich,26.44
+Impass,QZJ-FL,GU-9F4,GU-9F4 III,Reactive Metals,Perfect,8.53
+Impass,QZJ-FL,GU-9F4,GU-9F4 III,Suspended Plasma,Medium,79.99
+Impass,QZJ-FL,GU-9F4,GU-9F4 III,Oxygen Isotopes,Medium,3.26
+Impass,QZJ-FL,GU-9F4,GU-9F4 IV,Condensed Alloy,Rich,30.86
+Impass,QZJ-FL,GU-9F4,GU-9F4 IV,Crystal Compound,Perfect,34.50
+Impass,QZJ-FL,GU-9F4,GU-9F4 IV,Coolant,Medium,14.23
+Impass,QZJ-FL,GU-9F4,GU-9F4 IV,Liquid Ozone,Rich,32.25
+Impass,QZJ-FL,GU-9F4,GU-9F4 IV,Ionic Solutions,Perfect,13.00
+Impass,QZJ-FL,GU-9F4,GU-9F4 V,Sheen Compound,Rich,29.58
+Impass,QZJ-FL,GU-9F4,GU-9F4 V,Fiber Composite,Medium,23.70
+Impass,QZJ-FL,GU-9F4,GU-9F4 V,Reactive Gas,Rich,27.16
+Impass,QZJ-FL,GU-9F4,GU-9F4 V,Reactive Metals,Rich,6.72
+Impass,QZJ-FL,GU-9F4,GU-9F4 V,Ionic Solutions,Medium,9.79
+Impass,QZJ-FL,GU-9F4,GU-9F4 VI,Lustering Alloy,Medium,20.16
+Impass,QZJ-FL,GU-9F4,GU-9F4 VI,Reactive Gas,Poor,17.10
+Impass,QZJ-FL,GU-9F4,GU-9F4 VI,Base Metals,Perfect,8.46
+Impass,QZJ-FL,GU-9F4,GU-9F4 VI,Reactive Metals,Perfect,8.51
+Impass,QZJ-FL,GU-9F4,GU-9F4 VI,Ionic Solutions,Medium,9.85
+Impass,QZJ-FL,FG-1GH,FG-1GH I,Precious Alloy,Poor,17.16
+Impass,QZJ-FL,FG-1GH,FG-1GH I,Supertensile Plastics,Medium,13.28
+Impass,QZJ-FL,FG-1GH,FG-1GH I,Silicate Glass,Poor,7.50
+Impass,QZJ-FL,FG-1GH,FG-1GH I,Plasmoids,Medium,1.45
+Impass,QZJ-FL,FG-1GH,FG-1GH II,Lustering Alloy,Medium,21.90
+Impass,QZJ-FL,FG-1GH,FG-1GH II,Precious Alloy,Poor,12.64
+Impass,QZJ-FL,FG-1GH,FG-1GH II,Dark Compound,Medium,19.52
+Impass,QZJ-FL,FG-1GH,FG-1GH II,Supertensile Plastics,Medium,15.29
+Impass,QZJ-FL,FG-1GH,FG-1GH III,Lustering Alloy,Rich,29.38
+Impass,QZJ-FL,FG-1GH,FG-1GH III,Fiber Composite,Medium,25.00
+Impass,QZJ-FL,FG-1GH,FG-1GH III,Glossy Compound,Medium,23.82
+Impass,QZJ-FL,FG-1GH,FG-1GH III,Reactive Gas,Poor,18.24
+Impass,QZJ-FL,FG-1GH,FG-1GH III,Coolant,Medium,13.92
+Impass,QZJ-FL,FG-1GH,FG-1GH IV,Condensed Alloy,Rich,27.32
+Impass,QZJ-FL,FG-1GH,FG-1GH IV,Fiber Composite,Medium,22.92
+Impass,QZJ-FL,FG-1GH,FG-1GH IV,Noble Metals,Medium,18.98
+Impass,QZJ-FL,FG-1GH,FG-1GH IV,Smartfab Units,Perfect,23.01
+Impass,QZJ-FL,FG-1GH,FG-1GH IV,Liquid Ozone,Rich,39.58
+Impass,QZJ-FL,FG-1GH,FG-1GH V,Lustering Alloy,Rich,29.96
+Impass,QZJ-FL,FG-1GH,FG-1GH V,Sheen Compound,Rich,30.22
+Impass,QZJ-FL,FG-1GH,FG-1GH V,Glossy Compound,Poor,17.30
+Impass,QZJ-FL,FG-1GH,FG-1GH V,Reactive Gas,Rich,28.90
+Impass,QZJ-FL,FG-1GH,FG-1GH V,Noble Gas,Rich,31.38
+Impass,QZJ-FL,FG-1GH,FG-1GH VI,Base Metals,Medium,5.91
+Impass,QZJ-FL,FG-1GH,FG-1GH VI,Industrial Fibers,Medium,5.94
+Impass,QZJ-FL,FG-1GH,FG-1GH VI,Supertensile Plastics,Rich,18.45
+Impass,QZJ-FL,FG-1GH,FG-1GH VI,Condensates,Medium,12.61
+Impass,QZJ-FL,WFYM-0,WFYM-0 I,Lustering Alloy,Poor,17.37
+Impass,QZJ-FL,WFYM-0,WFYM-0 I,Precious Alloy,Medium,21.69
+Impass,QZJ-FL,WFYM-0,WFYM-0 I,Base Metals,Medium,6.69
+Impass,QZJ-FL,WFYM-0,WFYM-0 I,Supertensile Plastics,Poor,10.22
+Impass,QZJ-FL,WFYM-0,WFYM-0 II,Sheen Compound,Medium,26.38
+Impass,QZJ-FL,WFYM-0,WFYM-0 II,Lucent Compound,Rich,30.18
+Impass,QZJ-FL,WFYM-0,WFYM-0 II,Heavy Metals,Medium,21.27
+Impass,QZJ-FL,WFYM-0,WFYM-0 II,Reactive Metals,Perfect,9.52
+Impass,QZJ-FL,WFYM-0,WFYM-0 II,Condensates,Rich,17.96
+Impass,QZJ-FL,WFYM-0,WFYM-0 III,Opulent Compound,Rich,33.01
+Impass,QZJ-FL,WFYM-0,WFYM-0 III,Reactive Gas,Perfect,37.84
+Impass,QZJ-FL,WFYM-0,WFYM-0 III,Base Metals,Perfect,9.07
+Impass,QZJ-FL,WFYM-0,WFYM-0 III,Industrial Fibers,Rich,7.15
+Impass,QZJ-FL,WFYM-0,WFYM-0 III,Liquid Ozone,Medium,25.07
+Impass,QZJ-FL,WFYM-0,WFYM-0 IV,Lustering Alloy,Poor,18.82
+Impass,QZJ-FL,WFYM-0,WFYM-0 IV,Sheen Compound,Medium,26.00
+Impass,QZJ-FL,WFYM-0,WFYM-0 IV,Reactive Gas,Rich,27.20
+Impass,QZJ-FL,WFYM-0,WFYM-0 IV,Base Metals,Rich,7.51
+Impass,QZJ-FL,WFYM-0,WFYM-0 IV,Coolant,Rich,17.95
+Impass,QZJ-FL,WFYM-0,WFYM-0 V,Lustering Alloy,Rich,28.60
+Impass,QZJ-FL,WFYM-0,WFYM-0 V,Fiber Composite,Rich,29.88
+Impass,QZJ-FL,WFYM-0,WFYM-0 V,Glossy Compound,Medium,23.81
+Impass,QZJ-FL,WFYM-0,WFYM-0 V,Reactive Gas,Rich,28.04
+Impass,QZJ-FL,WFYM-0,WFYM-0 V,Base Metals,Rich,7.69
+Impass,QZJ-FL,WFYM-0,WFYM-0 VI,Sheen Compound,Medium,23.02
+Impass,QZJ-FL,WFYM-0,WFYM-0 VI,Glossy Compound,Medium,24.46
+Impass,QZJ-FL,WFYM-0,WFYM-0 VI,Reactive Gas,Perfect,33.45
+Impass,QZJ-FL,WFYM-0,WFYM-0 VI,Polyaramids,Medium,16.94
+Impass,QZJ-FL,WFYM-0,WFYM-0 VI,Coolant,Perfect,22.71
+Impass,QZJ-FL,FR-B1H,FR-B1H I,Toxic Metals,Medium,6.67
+Impass,QZJ-FL,FR-B1H,FR-B1H I,Supertensile Plastics,Poor,12.01
+Impass,QZJ-FL,FR-B1H,FR-B1H I,Silicate Glass,Poor,8.41
+Impass,QZJ-FL,FR-B1H,FR-B1H I,Plasmoids,Poor,0.79
+Impass,QZJ-FL,FR-B1H,FR-B1H II,Condensed Alloy,Rich,29.82
+Impass,QZJ-FL,FR-B1H,FR-B1H II,Reactive Gas,Medium,24.93
+Impass,QZJ-FL,FR-B1H,FR-B1H II,Condensates,Medium,14.90
+Impass,QZJ-FL,FR-B1H,FR-B1H II,Smartfab Units,Medium,14.13
+Impass,QZJ-FL,FR-B1H,FR-B1H II,Liquid Ozone,Medium,25.99
+Impass,QZJ-FL,FR-B1H,FR-B1H III,Lustering Alloy,Poor,17.47
+Impass,QZJ-FL,FR-B1H,FR-B1H III,Supertensile Plastics,Medium,13.92
+Impass,QZJ-FL,FR-B1H,FR-B1H III,Construction Blocks,Medium,21.38
+Impass,QZJ-FL,FR-B1H,FR-B1H III,Silicate Glass,Poor,9.83
+Impass,QZJ-FL,FR-B1H,FR-B1H IV,Opulent Compound,Medium,23.90
+Impass,QZJ-FL,FR-B1H,FR-B1H IV,Industrial Fibers,Perfect,9.09
+Impass,QZJ-FL,FR-B1H,FR-B1H IV,Smartfab Units,Medium,13.79
+Impass,QZJ-FL,FR-B1H,FR-B1H IV,Heavy Water,Perfect,371.28
+Impass,QZJ-FL,FR-B1H,FR-B1H IV,Liquid Ozone,Poor,24.49
+Impass,QZJ-FL,FR-B1H,FR-B1H V,Reactive Gas,Rich,29.23
+Impass,QZJ-FL,FR-B1H,FR-B1H V,Noble Gas,Rich,28.73
+Impass,QZJ-FL,FR-B1H,FR-B1H V,Base Metals,Poor,4.71
+Impass,QZJ-FL,FR-B1H,FR-B1H V,Polyaramids,Rich,20.58
+Impass,QZJ-FL,FR-B1H,FR-B1H V,Coolant,Medium,17.42
+Impass,QZJ-FL,FR-B1H,FR-B1H VI,Sheen Compound,Medium,23.29
+Impass,QZJ-FL,FR-B1H,FR-B1H VI,Glossy Compound,Rich,27.82
+Impass,QZJ-FL,FR-B1H,FR-B1H VI,Reactive Gas,Medium,19.89
+Impass,QZJ-FL,FR-B1H,FR-B1H VI,Base Metals,Medium,5.78
+Impass,QZJ-FL,FR-B1H,FR-B1H VI,Reactive Metals,Medium,6.33
+Impass,QZJ-FL,FR-B1H,FR-B1H VII,Lucent Compound,Poor,18.12
+Impass,QZJ-FL,FR-B1H,FR-B1H VII,Reactive Metals,Rich,7.80
+Impass,QZJ-FL,FR-B1H,FR-B1H VII,Suspended Plasma,Rich,103.65
+Impass,QZJ-FL,FR-B1H,FR-B1H VII,Oxygen Isotopes,Medium,3.98
+Impass,QZJ-FL,DDI-B7,DDI-B7 I,Precious Alloy,Medium,22.62
+Impass,QZJ-FL,DDI-B7,DDI-B7 I,Dark Compound,Medium,22.83
+Impass,QZJ-FL,DDI-B7,DDI-B7 I,Supertensile Plastics,Medium,14.97
+Impass,QZJ-FL,DDI-B7,DDI-B7 I,Oxygen Isotopes,Medium,3.66
+Impass,QZJ-FL,DDI-B7,DDI-B7 II,Opulent Compound,Rich,27.17
+Impass,QZJ-FL,DDI-B7,DDI-B7 II,Noble Metals,Perfect,39.61
+Impass,QZJ-FL,DDI-B7,DDI-B7 II,Smartfab Units,Medium,14.80
+Impass,QZJ-FL,DDI-B7,DDI-B7 II,Heavy Water,Medium,206.22
+Impass,QZJ-FL,DDI-B7,DDI-B7 II,Liquid Ozone,Perfect,44.63
+Impass,QZJ-FL,DDI-B7,DDI-B7 III,Lucent Compound,Rich,29.84
+Impass,QZJ-FL,DDI-B7,DDI-B7 III,Reactive Metals,Medium,5.80
+Impass,QZJ-FL,DDI-B7,DDI-B7 III,Construction Blocks,Poor,19.64
+Impass,QZJ-FL,DDI-B7,DDI-B7 III,Oxygen Isotopes,Poor,2.67
+Impass,QZJ-FL,DDI-B7,DDI-B7 IV,Condensed Alloy,Rich,27.15
+Impass,QZJ-FL,DDI-B7,DDI-B7 IV,Fiber Composite,Rich,32.63
+Impass,QZJ-FL,DDI-B7,DDI-B7 IV,Reactive Gas,Perfect,39.23
+Impass,QZJ-FL,DDI-B7,DDI-B7 IV,Smartfab Units,Rich,21.74
+Impass,QZJ-FL,DDI-B7,DDI-B7 IV,Liquid Ozone,Perfect,47.20
+Impass,QZJ-FL,DDI-B7,DDI-B7 V,Gleaming Alloy,Rich,32.55
+Impass,QZJ-FL,DDI-B7,DDI-B7 V,Polyaramids,Medium,16.67
+Impass,QZJ-FL,DDI-B7,DDI-B7 V,Plasmoids,Medium,1.41
+Impass,QZJ-FL,DDI-B7,DDI-B7 VI,Condensed Alloy,Rich,30.68
+Impass,QZJ-FL,DDI-B7,DDI-B7 VI,Noble Metals,Medium,24.84
+Impass,QZJ-FL,DDI-B7,DDI-B7 VI,Condensates,Medium,13.94
+Impass,QZJ-FL,DDI-B7,DDI-B7 VI,Heavy Water,Perfect,363.51
+Impass,QZJ-FL,DDI-B7,DDI-B7 VI,Liquid Ozone,Poor,24.31
+Impass,QZJ-FL,DDI-B7,DDI-B7 VII,Condensed Alloy,Perfect,37.57
+Impass,QZJ-FL,DDI-B7,DDI-B7 VII,Reactive Gas,Medium,22.72
+Impass,QZJ-FL,DDI-B7,DDI-B7 VII,Base Metals,Perfect,9.82
+Impass,QZJ-FL,DDI-B7,DDI-B7 VII,Noble Metals,Medium,22.62
+Impass,QZJ-FL,DDI-B7,DDI-B7 VII,Liquid Ozone,Rich,35.46
+Impass,QZJ-FL,DDI-B7,DDI-B7 VIII,Lustering Alloy,Rich,30.98
+Impass,QZJ-FL,DDI-B7,DDI-B7 VIII,Sheen Compound,Rich,32.09
+Impass,QZJ-FL,DDI-B7,DDI-B7 VIII,Reactive Gas,Medium,26.02
+Impass,QZJ-FL,DDI-B7,DDI-B7 VIII,Reactive Metals,Perfect,9.17
+Impass,QZJ-FL,DDI-B7,DDI-B7 VIII,Ionic Solutions,Medium,9.61

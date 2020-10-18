@@ -1,0 +1,1050 @@
+Region,Constellation,System,Name,Item,Rate,Output
+Solitude,Braille,Conomette,Conomette I,Base Metals,Poor,3.02
+Solitude,Braille,Conomette,Conomette I,Toxic Metals,Poor,3.12
+Solitude,Braille,Conomette,Conomette I,Industrial Fibers,Medium,5.15
+Solitude,Braille,Conomette,Conomette II,Dark Compound,Medium,17.86
+Solitude,Braille,Conomette,Conomette II,Industrial Fibers,Poor,3.45
+Solitude,Braille,Conomette,Conomette II,Plasmoids,Medium,1.03
+Solitude,Braille,Conomette,Conomette III,Sheen Compound,Rich,22.93
+Solitude,Braille,Conomette,Conomette III,Reactive Gas,Rich,27.56
+Solitude,Braille,Conomette,Conomette III,Noble Gas,Medium,20.20
+Solitude,Braille,Conomette,Conomette III,Base Metals,Medium,5.50
+Solitude,Braille,Conomette,Conomette IV,Lustering Alloy,Medium,21.20
+Solitude,Braille,Conomette,Conomette IV,Sheen Compound,Poor,14.96
+Solitude,Braille,Conomette,Conomette IV,Noble Gas,Rich,26.86
+Solitude,Braille,Conomette,Conomette IV,Base Metals,Rich,6.76
+Solitude,Braille,Conomette,Conomette V,Lustering Alloy,Medium,21.20
+Solitude,Braille,Conomette,Conomette V,Heavy Metals,Rich,25.06
+Solitude,Braille,Conomette,Conomette V,Coolant,Medium,12.05
+Solitude,Braille,Aimoguier,Aimoguier I,Lustering Alloy,Medium,18.14
+Solitude,Braille,Aimoguier,Aimoguier I,Industrial Fibers,Poor,4.64
+Solitude,Braille,Aimoguier,Aimoguier I,Silicate Glass,Medium,10.25
+Solitude,Braille,Aimoguier,Aimoguier II,Condensed Alloy,Perfect,34.81
+Solitude,Braille,Aimoguier,Aimoguier II,Fiber Composite,Perfect,32.59
+Solitude,Braille,Aimoguier,Aimoguier II,Base Metals,Perfect,8.21
+Solitude,Braille,Aimoguier,Aimoguier II,Liquid Ozone,Medium,25.79
+Solitude,Braille,Aimoguier,Aimoguier III,Noble Gas,Poor,17.78
+Solitude,Braille,Aimoguier,Aimoguier III,Plasmoids,Medium,1.08
+Solitude,Braille,Aimoguier,Aimoguier IV,Toxic Metals,Poor,3.83
+Solitude,Braille,Aimoguier,Aimoguier IV,Industrial Fibers,Medium,5.25
+Solitude,Braille,Aimoguier,Aimoguier IV,Oxygen Isotopes,Poor,1.97
+Solitude,Braille,Aimoguier,Aimoguier V,Base Metals,Poor,3.26
+Solitude,Braille,Aimoguier,Aimoguier V,Industrial Fibers,Medium,5.20
+Solitude,Braille,Aimoguier,Aimoguier V,Plasmoids,Medium,1.14
+Solitude,Braille,Aimoguier,Aimoguier VI,Crystal Compound,Poor,17.40
+Solitude,Braille,Aimoguier,Aimoguier VI,Construction Blocks,Rich,29.75
+Solitude,Braille,Aimoguier,Aimoguier VI,Nanites,Rich,7.51
+Solitude,Braille,Aimoguier,Aimoguier VII,Supertensile Plastics,Medium,13.62
+Solitude,Braille,Aimoguier,Aimoguier VII,Construction Blocks,Rich,27.34
+Solitude,Braille,Aimoguier,Aimoguier VII,Suspended Plasma,Poor,64.02
+Solitude,Braille,Aimoguier,Aimoguier VIII,Fiber Composite,Perfect,34.03
+Solitude,Braille,Aimoguier,Aimoguier VIII,Base Metals,Medium,6.24
+Solitude,Braille,Aimoguier,Aimoguier VIII,Noble Metals,Medium,22.29
+Solitude,Braille,Aimoguier,Aimoguier VIII,Condensates,Medium,15.48
+Solitude,Braille,Aimoguier,Aimoguier IX,Fiber Composite,Rich,29.62
+Solitude,Braille,Aimoguier,Aimoguier IX,Base Metals,Rich,7.76
+Solitude,Braille,Aimoguier,Aimoguier IX,Noble Metals,Medium,18.56
+Solitude,Braille,Aimoguier,Aimoguier IX,Smartfab Units,Rich,16.47
+Solitude,Braille,Yveve,Yveve I,Noble Gas,Poor,15.42
+Solitude,Braille,Yveve,Yveve I,Noble Metals,Poor,15.91
+Solitude,Braille,Yveve,Yveve II,Fiber Composite,Rich,25.18
+Solitude,Braille,Yveve,Yveve II,Opulent Compound,Perfect,29.78
+Solitude,Braille,Yveve,Yveve II,Industrial Fibers,Rich,5.93
+Solitude,Braille,Yveve,Yveve II,Smartfab Units,Rich,14.88
+Solitude,Braille,Yveve,Yveve III,Fiber Composite,Poor,14.89
+Solitude,Braille,Yveve,Yveve III,Glossy Compound,Poor,15.64
+Solitude,Braille,Yveve,Yveve III,Noble Gas,Rich,25.84
+Solitude,Braille,Yveve,Yveve III,Reactive Metals,Rich,5.66
+Solitude,Braille,Yveve,Yveve IV,Reactive Gas,Poor,14.77
+Solitude,Braille,Yveve,Yveve IV,Noble Gas,Rich,25.04
+Solitude,Braille,Yveve,Yveve IV,Base Metals,Poor,3.72
+Solitude,Braille,Yveve,Yveve IV,Coolant,Medium,11.16
+Solitude,Braille,Yveve,Yveve V,Reactive Gas,Rich,22.93
+Solitude,Braille,Yveve,Yveve V,Noble Gas,Rich,22.13
+Solitude,Braille,Yveve,Yveve V,Reactive Metals,Rich,6.14
+Solitude,Braille,Yveve,Yveve V,Polyaramids,Poor,10.48
+Solitude,Braille,Yveve,Yveve VI,Lustering Alloy,Medium,18.14
+Solitude,Braille,Yveve,Yveve VI,Reactive Gas,Rich,23.29
+Solitude,Braille,Yveve,Yveve VI,Noble Gas,Medium,16.51
+Solitude,Braille,Yveve,Yveve VI,Polyaramids,Rich,16.42
+Solitude,Braille,Yveve,Yveve VII,Lustering Alloy,Poor,15.61
+Solitude,Braille,Yveve,Yveve VII,Coolant,Medium,14.11
+Solitude,Braille,Yveve,Yveve VII,Suspended Plasma,Rich,83.42
+Solitude,Braille,Meunvon,Meunvon I,Noble Gas,Rich,27.34
+Solitude,Braille,Meunvon,Meunvon I,Smartfab Units,Medium,12.73
+Solitude,Braille,Meunvon,Meunvon II,Gleaming Alloy,Rich,24.44
+Solitude,Braille,Meunvon,Meunvon II,Supertensile Plastics,Rich,15.72
+Solitude,Braille,Meunvon,Meunvon II,Construction Blocks,Medium,20.88
+Solitude,Braille,Meunvon,Meunvon III,Lustering Alloy,Medium,20.14
+Solitude,Braille,Meunvon,Meunvon III,Sheen Compound,Rich,25.07
+Solitude,Braille,Meunvon,Meunvon III,Noble Gas,Perfect,28.87
+Solitude,Braille,Meunvon,Meunvon III,Polyaramids,Rich,16.80
+Solitude,Braille,Meunvon,Meunvon IV,Fiber Composite,Poor,15.05
+Solitude,Braille,Meunvon,Meunvon IV,Noble Gas,Rich,28.26
+Solitude,Braille,Meunvon,Meunvon IV,Polyaramids,Rich,17.10
+Solitude,Braille,Meunvon,Meunvon IV,Ionic Solutions,Rich,9.28
+Solitude,Braille,Meunvon,Meunvon V,Lustering Alloy,Poor,16.33
+Solitude,Braille,Meunvon,Meunvon V,Sheen Compound,Rich,22.79
+Solitude,Braille,Meunvon,Meunvon V,Reactive Gas,Poor,16.13
+Solitude,Braille,Meunvon,Meunvon V,Noble Gas,Rich,23.42
+Solitude,Braille,Meunvon,Meunvon VI,Sheen Compound,Rich,25.20
+Solitude,Braille,Meunvon,Meunvon VI,Heavy Metals,Medium,17.87
+Solitude,Braille,Meunvon,Meunvon VI,Nanites,Medium,4.85
+Solitude,Braille,Meunvon,Meunvon VI,Suspended Plasma,Medium,71.02
+Solitude,Braille,Meunvon,Meunvon VII,Crystal Compound,Medium,18.58
+Solitude,Braille,Meunvon,Meunvon VII,Construction Blocks,Perfect,29.09
+Solitude,Braille,Meunvon,Meunvon VII,Suspended Plasma,Rich,83.79
+Solitude,Braille,Cadelanne,Cadelanne I,Lustering Alloy,Medium,22.82
+Solitude,Braille,Cadelanne,Cadelanne I,Industrial Fibers,Poor,4.43
+Solitude,Braille,Cadelanne,Cadelanne I,Construction Blocks,Poor,12.90
+Solitude,Braille,Cadelanne,Cadelanne II,Noble Gas,Poor,15.28
+Solitude,Braille,Cadelanne,Cadelanne II,Oxygen Isotopes,Poor,2.40
+Solitude,Braille,Cadelanne,Cadelanne III,Noble Gas,Poor,15.33
+Solitude,Braille,Cadelanne,Cadelanne III,Noble Metals,Medium,18.35
+Solitude,Braille,Cadelanne,Cadelanne IV,Supertensile Plastics,Medium,12.74
+Solitude,Braille,Cadelanne,Cadelanne IV,Construction Blocks,Medium,23.58
+Solitude,Braille,Cadelanne,Cadelanne IV,Suspended Plasma,Medium,86.05
+Solitude,Braille,Cadelanne,Cadelanne V,Sheen Compound,Medium,21.38
+Solitude,Braille,Cadelanne,Cadelanne V,Fiber Composite,Rich,28.46
+Solitude,Braille,Cadelanne,Cadelanne V,Noble Gas,Perfect,31.25
+Solitude,Braille,Cadelanne,Cadelanne V,Base Metals,Rich,7.88
+Solitude,Braille,Cadelanne,Cadelanne VI,Lustering Alloy,Poor,14.31
+Solitude,Braille,Cadelanne,Cadelanne VI,Industrial Fibers,Poor,4.53
+Solitude,Braille,Cadelanne,Cadelanne VI,Oxygen Isotopes,Medium,2.97
+Solitude,Braille,Cadelanne,Cadelanne VII,Condensed Alloy,Rich,29.11
+Solitude,Braille,Cadelanne,Cadelanne VII,Fiber Composite,Medium,21.09
+Solitude,Braille,Cadelanne,Cadelanne VII,Opulent Compound,Perfect,34.47
+Solitude,Braille,Cadelanne,Cadelanne VII,Industrial Fibers,Perfect,8.64
+Solitude,Braille,Cadelanne,Cadelanne VIII,Glossy Compound,Rich,27.47
+Solitude,Braille,Cadelanne,Cadelanne VIII,Noble Gas,Perfect,30.68
+Solitude,Braille,Cadelanne,Cadelanne VIII,Polyaramids,Medium,12.64
+Solitude,Braille,Cadelanne,Cadelanne VIII,Coolant,Medium,14.14
+Solitude,Braille,Elore,Elore I,Gleaming Alloy,Medium,22.01
+Solitude,Braille,Elore,Elore I,Noble Gas,Rich,23.40
+Solitude,Braille,Elore,Elore II,Sheen Compound,Rich,28.19
+Solitude,Braille,Elore,Elore II,Noble Gas,Medium,18.13
+Solitude,Braille,Elore,Elore II,Nanites,Medium,5.84
+Solitude,Braille,Elore,Elore II,Ionic Solutions,Medium,8.65
+Solitude,Braille,Elore,Elore III,Gleaming Alloy,Medium,22.57
+Solitude,Braille,Elore,Elore III,Noble Gas,Medium,17.98
+Solitude,Braille,Elore,Elore IV,Condensed Alloy,Rich,26.17
+Solitude,Braille,Elore,Elore IV,Fiber Composite,Perfect,29.56
+Solitude,Braille,Elore,Elore IV,Base Metals,Medium,5.54
+Solitude,Braille,Elore,Elore IV,Smartfab Units,Rich,16.90
+Solitude,Braille,Elore,Elore V,Lustering Alloy,Rich,26.51
+Solitude,Braille,Elore,Elore V,Noble Gas,Rich,23.09
+Solitude,Braille,Elore,Elore V,Coolant,Medium,13.37
+Solitude,Braille,Elore,Elore V,Ionic Solutions,Poor,6.47
+Solitude,Braille,Elore,Elore VI,Glossy Compound,Medium,20.30
+Solitude,Braille,Elore,Elore VI,Reactive Gas,Perfect,29.03
+Solitude,Braille,Elore,Elore VI,Noble Gas,Rich,27.56
+Solitude,Braille,Elore,Elore VI,Ionic Solutions,Medium,8.55
+Solitude,Braille,Elore,Elore VII,Reactive Gas,Medium,17.77
+Solitude,Braille,Elore,Elore VII,Construction Blocks,Rich,26.89
+Solitude,Braille,Elore,Elore VII,Oxygen Isotopes,Rich,3.82
+Solitude,Braille,Anckee,Anckee I,Noble Gas,Poor,16.87
+Solitude,Braille,Anckee,Anckee I,Oxygen Isotopes,Rich,3.66
+Solitude,Braille,Anckee,Anckee II,Fiber Composite,Perfect,29.12
+Solitude,Braille,Anckee,Anckee II,Reactive Gas,Medium,20.36
+Solitude,Braille,Anckee,Anckee II,Base Metals,Rich,6.98
+Solitude,Braille,Anckee,Anckee II,Heavy Water,Medium,175.86
+Solitude,Braille,Anckee,Anckee III,Fiber Composite,Perfect,29.43
+Solitude,Braille,Anckee,Anckee III,Industrial Fibers,Perfect,8.55
+Solitude,Braille,Anckee,Anckee III,Heavy Water,Perfect,296.10
+Solitude,Braille,Anckee,Anckee III,Liquid Ozone,Perfect,42.62
+Solitude,Braille,Anckee,Anckee IV,Glossy Compound,Medium,17.87
+Solitude,Braille,Anckee,Anckee IV,Noble Gas,Rich,25.22
+Solitude,Braille,Anckee,Anckee IV,Polyaramids,Medium,14.63
+Solitude,Braille,Anckee,Anckee IV,Ionic Solutions,Perfect,11.74
+Solitude,Braille,Anckee,Anckee V,Sheen Compound,Rich,27.41
+Solitude,Braille,Anckee,Anckee V,Glossy Compound,Medium,19.22
+Solitude,Braille,Anckee,Anckee V,Noble Gas,Medium,21.31
+Solitude,Braille,Anckee,Anckee V,Reactive Metals,Perfect,7.74
+Solitude,Braille,Anckee,Anckee VI,Lustering Alloy,Poor,15.19
+Solitude,Braille,Anckee,Anckee VI,Fiber Composite,Medium,22.09
+Solitude,Braille,Anckee,Anckee VI,Noble Gas,Rich,24.39
+Solitude,Braille,Anckee,Anckee VI,Coolant,Poor,10.10
+Solitude,Braille,Vevelonel,Vevelonel I,Precious Alloy,Poor,13.45
+Solitude,Braille,Vevelonel,Vevelonel I,Industrial Fibers,Poor,3.40
+Solitude,Braille,Vevelonel,Vevelonel I,Oxygen Isotopes,Poor,2.30
+Solitude,Braille,Vevelonel,Vevelonel II,Lustering Alloy,Poor,17.29
+Solitude,Braille,Vevelonel,Vevelonel II,Dark Compound,Poor,17.31
+Solitude,Braille,Vevelonel,Vevelonel II,Industrial Fibers,Medium,5.58
+Solitude,Braille,Vevelonel,Vevelonel III,Condensates,Rich,19.72
+Solitude,Braille,Vevelonel,Vevelonel III,Nanites,Medium,6.19
+Solitude,Braille,Vevelonel,Vevelonel III,Ionic Solutions,Rich,10.55
+Solitude,Braille,Vevelonel,Vevelonel III,Plasmoids,Medium,1.24
+Solitude,Braille,Vevelonel,Vevelonel IV,Lustering Alloy,Medium,23.16
+Solitude,Braille,Vevelonel,Vevelonel IV,Industrial Fibers,Poor,3.15
+Solitude,Braille,Vevelonel,Vevelonel IV,Plasmoids,Medium,1.35
+Solitude,Braille,Vevelonel,Vevelonel V,Fiber Composite,Medium,22.48
+Solitude,Braille,Vevelonel,Vevelonel V,Base Metals,Perfect,8.55
+Solitude,Braille,Vevelonel,Vevelonel V,Condensates,Rich,17.85
+Solitude,Braille,Vevelonel,Vevelonel V,Heavy Water,Perfect,306.28
+Solitude,Braille,Vevelonel,Vevelonel VI,Sheen Compound,Rich,28.06
+Solitude,Braille,Vevelonel,Vevelonel VI,Glossy Compound,Poor,16.00
+Solitude,Braille,Vevelonel,Vevelonel VI,Noble Gas,Medium,19.04
+Solitude,Braille,Vevelonel,Vevelonel VI,Reactive Metals,Rich,7.36
+Solitude,Braille,Vevelonel,Vevelonel VII,Fiber Composite,Perfect,33.59
+Solitude,Braille,Vevelonel,Vevelonel VII,Base Metals,Rich,6.86
+Solitude,Braille,Vevelonel,Vevelonel VII,Noble Metals,Rich,25.04
+Solitude,Braille,Vevelonel,Vevelonel VII,Liquid Ozone,Rich,35.36
+Solitude,Braille,Vevelonel,Vevelonel VIII,Sheen Compound,Rich,26.75
+Solitude,Braille,Vevelonel,Vevelonel VIII,Fiber Composite,Rich,30.13
+Solitude,Braille,Vevelonel,Vevelonel VIII,Reactive Gas,Medium,22.59
+Solitude,Braille,Vevelonel,Vevelonel VIII,Noble Gas,Rich,27.91
+Solitude,Braille,Vevelonel,Vevelonel IX,Lustering Alloy,Rich,27.04
+Solitude,Braille,Vevelonel,Vevelonel IX,Reactive Gas,Medium,21.74
+Solitude,Braille,Vevelonel,Vevelonel IX,Noble Gas,Medium,21.22
+Solitude,Braille,Vevelonel,Vevelonel IX,Reactive Metals,Medium,5.28
+Solitude,Braille,Vevelonel,Vevelonel X,Noble Gas,Medium,22.14
+Solitude,Braille,Vevelonel,Vevelonel X,Plasmoids,Rich,1.63
+Solitude,Elose,Pertnineere,Pertnineere I,Noble Gas,Rich,21.62
+Solitude,Elose,Pertnineere,Pertnineere I,Polyaramids,Poor,9.37
+Solitude,Elose,Pertnineere,Pertnineere II,Dark Compound,Poor,14.67
+Solitude,Elose,Pertnineere,Pertnineere II,Base Metals,Medium,4.76
+Solitude,Elose,Pertnineere,Pertnineere II,Industrial Fibers,Medium,4.91
+Solitude,Elose,Pertnineere,Pertnineere III,Precious Alloy,Medium,16.14
+Solitude,Elose,Pertnineere,Pertnineere III,Industrial Fibers,Medium,4.71
+Solitude,Elose,Pertnineere,Pertnineere III,Oxygen Isotopes,Poor,2.23
+Solitude,Elose,Pertnineere,Pertnineere IV,Industrial Fibers,Poor,3.45
+Solitude,Elose,Pertnineere,Pertnineere IV,Construction Blocks,Poor,12.61
+Solitude,Elose,Pertnineere,Pertnineere IV,Oxygen Isotopes,Medium,2.71
+Solitude,Elose,Pertnineere,Pertnineere V,Condensed Alloy,Rich,23.81
+Solitude,Elose,Pertnineere,Pertnineere V,Crystal Compound,Medium,16.00
+Solitude,Elose,Pertnineere,Pertnineere V,Noble Metals,Medium,20.11
+Solitude,Elose,Pertnineere,Pertnineere V,Coolant,Perfect,18.52
+Solitude,Elose,Pertnineere,Pertnineere VI,Fiber Composite,Rich,23.46
+Solitude,Elose,Pertnineere,Pertnineere VI,Reactive Gas,Medium,19.55
+Solitude,Elose,Pertnineere,Pertnineere VI,Noble Gas,Poor,13.52
+Solitude,Elose,Pertnineere,Pertnineere VI,Base Metals,Rich,6.64
+Solitude,Elose,Pertnineere,Pertnineere VII,Fiber Composite,Perfect,26.93
+Solitude,Elose,Pertnineere,Pertnineere VII,Reactive Gas,Medium,16.66
+Solitude,Elose,Pertnineere,Pertnineere VII,Base Metals,Rich,5.85
+Solitude,Elose,Pertnineere,Pertnineere VII,Industrial Fibers,Rich,5.76
+Solitude,Elose,Pertnineere,Pertnineere VIII,Glossy Compound,Medium,15.60
+Solitude,Elose,Pertnineere,Pertnineere VIII,Noble Gas,Medium,16.08
+Solitude,Elose,Pertnineere,Pertnineere VIII,Reactive Metals,Medium,4.72
+Solitude,Elose,Pertnineere,Pertnineere VIII,Coolant,Medium,13.00
+Solitude,Elose,Boystin,Boystin I,Reactive Gas,Medium,18.77
+Solitude,Elose,Boystin,Boystin I,Suspended Plasma,Perfect,87.05
+Solitude,Elose,Boystin,Boystin II,Lustering Alloy,Medium,18.73
+Solitude,Elose,Boystin,Boystin II,Fiber Composite,Medium,17.57
+Solitude,Elose,Boystin,Boystin II,Base Metals,Medium,3.90
+Solitude,Elose,Boystin,Boystin III,Lustering Alloy,Medium,18.77
+Solitude,Elose,Boystin,Boystin III,Sheen Compound,Medium,14.93
+Solitude,Elose,Boystin,Boystin III,Base Metals,Medium,4.04
+Solitude,Elose,Boystin,Boystin IV,Lustering Alloy,Rich,20.61
+Solitude,Elose,Boystin,Boystin IV,Base Metals,Rich,5.89
+Solitude,Elose,Boystin,Boystin IV,Coolant,Perfect,16.18
+Solitude,Elose,Boystin,Boystin V,Lustering Alloy,Poor,13.99
+Solitude,Elose,Boystin,Boystin V,Reactive Gas,Medium,15.09
+Solitude,Elose,Boystin,Boystin V,Base Metals,Medium,4.01
+Solitude,Elose,Boystin,Boystin VI,Lustering Alloy,Medium,15.27
+Solitude,Elose,Boystin,Boystin VI,Base Metals,Medium,4.71
+Solitude,Elose,Lour,Lour I,Lustering Alloy,Poor,13.08
+Solitude,Elose,Lour,Lour I,Base Metals,Medium,3.67
+Solitude,Elose,Lour,Lour II,Opulent Compound,Perfect,26.01
+Solitude,Elose,Lour,Lour II,Reactive Gas,Perfect,24.65
+Solitude,Elose,Lour,Lour II,Heavy Water,Rich,195.30
+Solitude,Elose,Lour,Lour III,Reactive Gas,Rich,19.85
+Solitude,Elose,Lour,Lour III,Base Metals,Medium,3.47
+Solitude,Elose,Lour,Lour III,Heavy Water,Rich,206.64
+Solitude,Elose,Lour,Lour IV,Lustering Alloy,Poor,12.08
+Solitude,Elose,Lour,Lour IV,Base Metals,Poor,2.69
+Solitude,Elose,Lour,Lour V,Lustering Alloy,Medium,14.43
+Solitude,Elose,Lour,Lour V,Glossy Compound,Medium,15.74
+Solitude,Elose,Lour,Lour V,Base Metals,Rich,4.91
+Solitude,Elose,Lour,Lour VI,Lustering Alloy,Medium,14.48
+Solitude,Elose,Lour,Lour VI,Base Metals,Rich,5.57
+Solitude,Elose,Lour,Lour VI,Polyaramids,Medium,11.71
+Solitude,Elose,Lour,Lour VII,Lustering Alloy,Perfect,22.72
+Solitude,Elose,Lour,Lour VII,Base Metals,Perfect,5.87
+Solitude,Elose,Lour,Lour VII,Coolant,Medium,9.99
+Solitude,Elose,Lour,Lour VIII,Lustering Alloy,Perfect,23.06
+Solitude,Elose,Lour,Lour VIII,Base Metals,Medium,4.19
+Solitude,Elose,Lour,Lour VIII,Ionic Solutions,Rich,8.21
+Solitude,Elose,Lour,Lour IX,Lustering Alloy,Medium,16.39
+Solitude,Elose,Lour,Lour IX,Base Metals,Medium,3.61
+Solitude,Elose,Maire,Maire I,Motley Compound,Rich,17.79
+Solitude,Elose,Maire,Maire I,Smartfab Units,Rich,12.45
+Solitude,Elose,Maire,Maire II,Lustering Alloy,Poor,9.45
+Solitude,Elose,Maire,Maire II,Base Metals,Medium,3.75
+Solitude,Elose,Maire,Maire III,Lustering Alloy,Poor,11.69
+Solitude,Elose,Maire,Maire III,Base Metals,Poor,2.44
+Solitude,Elose,Maire,Maire IV,Lustering Alloy,Rich,21.27
+Solitude,Elose,Maire,Maire IV,Base Metals,Rich,5.68
+Solitude,Elose,Maire,Maire IV,Ionic Solutions,Rich,8.50
+Solitude,Elose,Maire,Maire V,Lustering Alloy,Medium,13.92
+Solitude,Elose,Maire,Maire V,Sheen Compound,Rich,21.17
+Solitude,Elose,Maire,Maire V,Base Metals,Rich,5.05
+Solitude,Elose,Maire,Maire VI,Lustering Alloy,Medium,13.82
+Solitude,Elose,Maire,Maire VI,Fiber Composite,Rich,18.90
+Solitude,Elose,Maire,Maire VI,Base Metals,Medium,4.04
+Solitude,Elose,Maire,Maire VII,Lustering Alloy,Rich,18.40
+Solitude,Elose,Maire,Maire VII,Base Metals,Rich,4.66
+Solitude,Elose,Oerse,Oerse I,Lustering Alloy,Poor,10.16
+Solitude,Elose,Oerse,Oerse I,Base Metals,Medium,3.93
+Solitude,Elose,Oerse,Oerse II,Lustering Alloy,Poor,10.21
+Solitude,Elose,Oerse,Oerse II,Base Metals,Medium,4.08
+Solitude,Elose,Oerse,Oerse III,Lustering Alloy,Poor,10.53
+Solitude,Elose,Oerse,Oerse III,Base Metals,Poor,2.52
+Solitude,Elose,Oerse,Oerse IV,Opulent Compound,Poor,12.92
+Solitude,Elose,Oerse,Oerse IV,Smartfab Units,Rich,13.62
+Solitude,Elose,Oerse,Oerse IV,Heavy Water,Rich,177.80
+Solitude,Elose,Oerse,Oerse V,Lustering Alloy,Medium,16.95
+Solitude,Elose,Oerse,Oerse V,Base Metals,Perfect,5.91
+Solitude,Elose,Oerse,Oerse V,Ionic Solutions,Poor,4.69
+Solitude,Elose,Oerse,Oerse VI,Lustering Alloy,Medium,15.16
+Solitude,Elose,Oerse,Oerse VI,Reactive Gas,Rich,21.94
+Solitude,Elose,Oerse,Oerse VI,Base Metals,Medium,4.02
+Solitude,Elose,Oerse,Oerse VII,Lustering Alloy,Rich,20.06
+Solitude,Elose,Oerse,Oerse VII,Sheen Compound,Medium,16.95
+Solitude,Elose,Oerse,Oerse VII,Base Metals,Poor,3.31
+Solitude,Elose,Oerse,Oerse VIII,Lustering Alloy,Medium,17.65
+Solitude,Elose,Oerse,Oerse VIII,Base Metals,Rich,4.73
+Solitude,Elose,Oerse,Oerse IX,Lustering Alloy,Poor,12.43
+Solitude,Elose,Oerse,Oerse IX,Base Metals,Medium,3.65
+Solitude,Elose,Octanneve,Octanneve I,Lustering Alloy,Medium,16.34
+Solitude,Elose,Octanneve,Octanneve I,Base Metals,Medium,4.16
+Solitude,Elose,Octanneve,Octanneve II,Industrial Fibers,Rich,5.28
+Solitude,Elose,Octanneve,Octanneve II,Heavy Water,Perfect,228.90
+Solitude,Elose,Octanneve,Octanneve II,Liquid Ozone,Perfect,29.36
+Solitude,Elose,Octanneve,Octanneve III,Lustering Alloy,Poor,9.03
+Solitude,Elose,Octanneve,Octanneve III,Base Metals,Poor,2.98
+Solitude,Elose,Octanneve,Octanneve IV,Motley Compound,Medium,14.43
+Solitude,Elose,Octanneve,Octanneve IV,Noble Gas,Poor,11.72
+Solitude,Elose,Octanneve,Octanneve V,Opulent Compound,Rich,18.70
+Solitude,Elose,Octanneve,Octanneve V,Base Metals,Perfect,6.55
+Solitude,Elose,Octanneve,Octanneve V,Heavy Water,Rich,187.74
+Solitude,Elose,Octanneve,Octanneve VI,Reactive Gas,Rich,21.99
+Solitude,Elose,Octanneve,Octanneve VI,Suspended Plasma,Rich,69.75
+Solitude,Orvanne,Larryn,Larryn I,Motley Compound,Medium,17.52
+Solitude,Orvanne,Larryn,Larryn I,Plasmoids,Rich,1.39
+Solitude,Orvanne,Larryn,Larryn II,Lustering Alloy,Poor,9.75
+Solitude,Orvanne,Larryn,Larryn II,Base Metals,Poor,3.44
+Solitude,Orvanne,Larryn,Larryn III,Lucent Compound,Perfect,24.02
+Solitude,Orvanne,Larryn,Larryn III,Suspended Plasma,Poor,49.46
+Solitude,Orvanne,Larryn,Larryn III,Plasmoids,Medium,0.89
+Solitude,Orvanne,Larryn,Larryn IV,Noble Metals,Medium,15.84
+Solitude,Orvanne,Larryn,Larryn IV,Industrial Fibers,Medium,4.50
+Solitude,Orvanne,Larryn,Larryn IV,Heavy Water,Perfect,246.60
+Solitude,Orvanne,Larryn,Larryn V,Condensates,Rich,13.85
+Solitude,Orvanne,Larryn,Larryn V,Heavy Water,Perfect,256.20
+Solitude,Orvanne,Larryn,Larryn V,Liquid Ozone,Medium,17.94
+Solitude,Orvanne,Larryn,Larryn VI,Motley Compound,Medium,17.94
+Solitude,Orvanne,Larryn,Larryn VI,Noble Metals,Rich,23.13
+Solitude,Orvanne,Larryn,Larryn VII,Lustering Alloy,Rich,19.96
+Solitude,Orvanne,Larryn,Larryn VII,Base Metals,Medium,4.21
+Solitude,Orvanne,Larryn,Larryn VII,Coolant,Rich,13.67
+Solitude,Orvanne,Larryn,Larryn VIII,Noble Metals,Perfect,26.85
+Solitude,Orvanne,Larryn,Larryn VIII,Heavy Water,Rich,228.75
+Solitude,Orvanne,Larryn,Larryn VIII,Liquid Ozone,Rich,28.82
+Solitude,Orvanne,Larryn,Larryn IX,Lustering Alloy,Rich,19.09
+Solitude,Orvanne,Larryn,Larryn IX,Base Metals,Poor,3.62
+Solitude,Orvanne,Larryn,Larryn IX,Reactive Metals,Perfect,6.32
+Solitude,Orvanne,Niballe,Niballe I,Lustering Alloy,Medium,16.10
+Solitude,Orvanne,Niballe,Niballe I,Base Metals,Medium,4.24
+Solitude,Orvanne,Niballe,Niballe II,Lustering Alloy,Poor,10.14
+Solitude,Orvanne,Niballe,Niballe II,Base Metals,Poor,3.30
+Solitude,Orvanne,Niballe,Niballe III,Nanites,Perfect,6.08
+Solitude,Orvanne,Niballe,Niballe III,Suspended Plasma,Perfect,81.75
+Solitude,Orvanne,Niballe,Niballe III,Ionic Solutions,Rich,7.10
+Solitude,Orvanne,Niballe,Niballe IV,Noble Gas,Rich,19.75
+Solitude,Orvanne,Niballe,Niballe IV,Reactive Metals,Medium,3.60
+Solitude,Orvanne,Niballe,Niballe IV,Suspended Plasma,Perfect,83.01
+Solitude,Orvanne,Niballe,Niballe V,Gleaming Alloy,Medium,16.31
+Solitude,Orvanne,Niballe,Niballe V,Motley Compound,Rich,21.84
+Solitude,Orvanne,Niballe,Niballe VI,Toxic Metals,Rich,5.18
+Solitude,Orvanne,Niballe,Niballe VI,Suspended Plasma,Rich,72.37
+Solitude,Orvanne,Niballe,Niballe VII,Lustering Alloy,Poor,11.70
+Solitude,Orvanne,Niballe,Niballe VII,Fiber Composite,Rich,19.82
+Solitude,Orvanne,Niballe,Niballe VII,Base Metals,Rich,5.35
+Solitude,Orvanne,Niballe,Niballe VIII,Lustering Alloy,Perfect,23.17
+Solitude,Orvanne,Niballe,Niballe VIII,Base Metals,Medium,3.50
+Solitude,Orvanne,Niballe,Niballe VIII,Polyaramids,Rich,14.53
+Solitude,Orvanne,Niballe,Niballe IX,Lustering Alloy,Rich,18.96
+Solitude,Orvanne,Niballe,Niballe IX,Base Metals,Medium,3.67
+Solitude,Orvanne,Postouvin,Postouvin I,Lustering Alloy,Medium,16.46
+Solitude,Orvanne,Postouvin,Postouvin I,Base Metals,Medium,3.49
+Solitude,Orvanne,Postouvin,Postouvin II,Lustering Alloy,Poor,8.88
+Solitude,Orvanne,Postouvin,Postouvin II,Base Metals,Medium,4.12
+Solitude,Orvanne,Postouvin,Postouvin III,Lustering Alloy,Poor,11.79
+Solitude,Orvanne,Postouvin,Postouvin III,Base Metals,Medium,4.23
+Solitude,Orvanne,Postouvin,Postouvin IV,Fiber Composite,Perfect,22.48
+Solitude,Orvanne,Postouvin,Postouvin IV,Condensates,Poor,8.70
+Solitude,Orvanne,Postouvin,Postouvin IV,Heavy Water,Rich,196.70
+Solitude,Orvanne,Postouvin,Postouvin V,Lustering Alloy,Medium,14.85
+Solitude,Orvanne,Postouvin,Postouvin V,Fiber Composite,Medium,15.74
+Solitude,Orvanne,Postouvin,Postouvin V,Base Metals,Poor,3.03
+Solitude,Orvanne,Postouvin,Postouvin VI,Lustering Alloy,Medium,15.13
+Solitude,Orvanne,Postouvin,Postouvin VI,Base Metals,Poor,3.42
+Solitude,Orvanne,Postouvin,Postouvin VI,Polyaramids,Poor,8.13
+Solitude,Orvanne,Postouvin,Postouvin VII,Lustering Alloy,Medium,15.27
+Solitude,Orvanne,Postouvin,Postouvin VII,Base Metals,Rich,5.46
+Solitude,Orvanne,Postouvin,Postouvin VII,Coolant,Medium,10.18
+Solitude,Orvanne,Odinesyn,Odinesyn I,Lustering Alloy,Medium,14.57
+Solitude,Orvanne,Odinesyn,Odinesyn I,Base Metals,Poor,2.63
+Solitude,Orvanne,Odinesyn,Odinesyn II,Lustering Alloy,Poor,11.80
+Solitude,Orvanne,Odinesyn,Odinesyn II,Base Metals,Medium,3.60
+Solitude,Orvanne,Odinesyn,Odinesyn III,Lustering Alloy,Poor,11.89
+Solitude,Orvanne,Odinesyn,Odinesyn III,Base Metals,Medium,4.19
+Solitude,Orvanne,Odinesyn,Odinesyn IV,Lustering Alloy,Poor,11.49
+Solitude,Orvanne,Odinesyn,Odinesyn IV,Base Metals,Poor,3.35
+Solitude,Orvanne,Odinesyn,Odinesyn V,Condensed Alloy,Medium,14.73
+Solitude,Orvanne,Odinesyn,Odinesyn V,Industrial Fibers,Medium,4.39
+Solitude,Orvanne,Odinesyn,Odinesyn V,Heavy Water,Medium,151.34
+Solitude,Orvanne,Odinesyn,Odinesyn VI,Lustering Alloy,Rich,20.97
+Solitude,Orvanne,Odinesyn,Odinesyn VI,Base Metals,Medium,4.59
+Solitude,Orvanne,Odinesyn,Odinesyn VI,Polyaramids,Rich,14.49
+Solitude,Orvanne,Odinesyn,Odinesyn VII,Polyaramids,Perfect,16.31
+Solitude,Orvanne,Odinesyn,Odinesyn VII,Heavy Water,Rich,193.62
+Solitude,Orvanne,Odinesyn,Odinesyn VII,Ionic Solutions,Rich,7.32
+Solitude,Orvanne,Odinesyn,Odinesyn VIII,Lustering Alloy,Medium,16.11
+Solitude,Orvanne,Odinesyn,Odinesyn VIII,Glossy Compound,Medium,15.16
+Solitude,Orvanne,Odinesyn,Odinesyn VIII,Base Metals,Medium,3.98
+Solitude,Orvanne,Odinesyn,Odinesyn IX,Lustering Alloy,Medium,16.53
+Solitude,Orvanne,Odinesyn,Odinesyn IX,Base Metals,Medium,4.16
+Solitude,Orvanne,Weraroix,Weraroix I,Lustering Alloy,Poor,11.19
+Solitude,Orvanne,Weraroix,Weraroix I,Base Metals,Medium,4.76
+Solitude,Orvanne,Weraroix,Weraroix II,Fiber Composite,Perfect,27.03
+Solitude,Orvanne,Weraroix,Weraroix II,Industrial Fibers,Perfect,6.72
+Solitude,Orvanne,Weraroix,Weraroix II,Heavy Water,Medium,186.15
+Solitude,Orvanne,Weraroix,Weraroix III,Lustering Alloy,Medium,15.69
+Solitude,Orvanne,Weraroix,Weraroix III,Noble Gas,Medium,18.33
+Solitude,Orvanne,Weraroix,Weraroix III,Base Metals,Rich,5.32
+Solitude,Orvanne,Weraroix,Weraroix IV,Lustering Alloy,Poor,14.13
+Solitude,Orvanne,Weraroix,Weraroix IV,Base Metals,Rich,6.07
+Solitude,Orvanne,Weraroix,Weraroix IV,Reactive Metals,Rich,5.36
+Solitude,Orvanne,Weraroix,Weraroix V,Lustering Alloy,Rich,23.63
+Solitude,Orvanne,Weraroix,Weraroix V,Glossy Compound,Rich,21.51
+Solitude,Orvanne,Weraroix,Weraroix V,Base Metals,Medium,4.46
+Solitude,Orvanne,Weraroix,Weraroix VI,Lustering Alloy,Rich,20.45
+Solitude,Orvanne,Weraroix,Weraroix VI,Base Metals,Perfect,6.46
+Solitude,Orvanne,Weraroix,Weraroix VI,Coolant,Medium,12.20
+Solitude,Orvanne,Weraroix,Weraroix VII,Lustering Alloy,Medium,15.30
+Solitude,Orvanne,Weraroix,Weraroix VII,Base Metals,Medium,3.73
+Solitude,Orvanne,Sarline,Sarline I,Lustering Alloy,Poor,14.45
+Solitude,Orvanne,Sarline,Sarline I,Precious Alloy,Poor,14.26
+Solitude,Orvanne,Sarline,Sarline I,Industrial Fibers,Poor,3.95
+Solitude,Orvanne,Sarline,Sarline II,Condensates,Perfect,17.23
+Solitude,Orvanne,Sarline,Sarline II,Nanites,Perfect,7.07
+Solitude,Orvanne,Sarline,Sarline II,Ionic Solutions,Medium,6.76
+Solitude,Orvanne,Sarline,Sarline II,Plasmoids,Rich,1.30
+Solitude,Orvanne,Sarline,Sarline III,Industrial Fibers,Poor,2.70
+Solitude,Orvanne,Sarline,Sarline III,Oxygen Isotopes,Poor,1.68
+Solitude,Orvanne,Sarline,Sarline III,Plasmoids,Medium,1.14
+Solitude,Orvanne,Sarline,Sarline IV,Precious Alloy,Poor,10.13
+Solitude,Orvanne,Sarline,Sarline IV,Industrial Fibers,Poor,2.72
+Solitude,Orvanne,Sarline,Sarline IV,Supertensile Plastics,Poor,8.78
+Solitude,Orvanne,Sarline,Sarline V,Glossy Compound,Medium,19.23
+Solitude,Orvanne,Sarline,Sarline V,Noble Gas,Poor,13.02
+Solitude,Orvanne,Sarline,Sarline VI,Sheen Compound,Poor,13.68
+Solitude,Orvanne,Sarline,Sarline VI,Glossy Compound,Rich,21.09
+Solitude,Orvanne,Sarline,Sarline VI,Noble Gas,Medium,17.14
+Solitude,Orvanne,Sarline,Sarline VI,Base Metals,Medium,4.55
+Solitude,Orvanne,Sarline,Sarline VII,Fiber Composite,Medium,17.17
+Solitude,Orvanne,Sarline,Sarline VII,Glossy Compound,Medium,18.82
+Solitude,Orvanne,Sarline,Sarline VII,Reactive Gas,Rich,21.36
+Solitude,Orvanne,Sarline,Sarline VII,Noble Gas,Rich,21.12
+Solitude,Orvanne,Sarline,Sarline VIII,Reactive Gas,Perfect,25.49
+Solitude,Orvanne,Sarline,Sarline VIII,Noble Gas,Rich,25.07
+Solitude,Orvanne,Sarline,Sarline VIII,Polyaramids,Rich,13.64
+Solitude,Orvanne,Sarline,Sarline VIII,Coolant,Poor,9.03
+Solitude,Orvanne,Sarline,Sarline IX,Lustering Alloy,Medium,15.57
+Solitude,Orvanne,Sarline,Sarline IX,Noble Gas,Rich,24.91
+Solitude,Orvanne,Sarline,Sarline IX,Base Metals,Rich,6.17
+Solitude,Orvanne,Sarline,Sarline IX,Coolant,Medium,11.70
+Solitude,Orvanne,Aeter,Aeter I,Gleaming Alloy,Perfect,27.57
+Solitude,Orvanne,Aeter,Aeter I,Construction Blocks,Poor,15.28
+Solitude,Orvanne,Aeter,Aeter I,Nanites,Rich,6.18
+Solitude,Orvanne,Aeter,Aeter II,Lustering Alloy,Medium,19.18
+Solitude,Orvanne,Aeter,Aeter II,Glossy Compound,Medium,16.12
+Solitude,Orvanne,Aeter,Aeter II,Reactive Gas,Medium,19.11
+Solitude,Orvanne,Aeter,Aeter II,Noble Gas,Medium,20.50
+Solitude,Orvanne,Aeter,Aeter III,Fiber Composite,Medium,21.05
+Solitude,Orvanne,Aeter,Aeter III,Reactive Gas,Medium,21.15
+Solitude,Orvanne,Aeter,Aeter III,Noble Gas,Rich,23.36
+Solitude,Orvanne,Aeter,Aeter III,Coolant,Poor,10.31
+Solitude,Orvanne,Aeter,Aeter IV,Lustering Alloy,Medium,16.29
+Solitude,Orvanne,Aeter,Aeter IV,Sheen Compound,Poor,14.86
+Solitude,Orvanne,Aeter,Aeter IV,Noble Gas,Rich,22.27
+Solitude,Orvanne,Aeter,Aeter IV,Coolant,Poor,9.95
+Solitude,Orvanne,Aeter,Aeter V,Lustering Alloy,Poor,12.70
+Solitude,Orvanne,Aeter,Aeter V,Toxic Metals,Poor,3.06
+Solitude,Orvanne,Aeter,Aeter V,Industrial Fibers,Poor,3.96
+Solitude,Orvanne,Aeter,Aeter VI,Fiber Composite,Perfect,27.91
+Solitude,Orvanne,Aeter,Aeter VI,Glossy Compound,Medium,18.46
+Solitude,Orvanne,Aeter,Aeter VI,Noble Gas,Rich,26.67
+Solitude,Orvanne,Aeter,Aeter VI,Reactive Metals,Perfect,7.35
+Solitude,Orvanne,Aeter,Aeter VII,Toxic Metals,Poor,4.21
+Solitude,Orvanne,Aeter,Aeter VII,Industrial Fibers,Medium,4.47
+Solitude,Orvanne,Aeter,Aeter VII,Plasmoids,Poor,0.91
+Solitude,Orvanne,Gererique,Gererique I,Motley Compound,Rich,17.81
+Solitude,Orvanne,Gererique,Gererique I,Smartfab Units,Perfect,15.26
+Solitude,Orvanne,Gererique,Gererique II,Reactive Gas,Perfect,25.35
+Solitude,Orvanne,Gererique,Gererique II,Industrial Fibers,Perfect,6.38
+Solitude,Orvanne,Gererique,Gererique II,Heavy Water,Perfect,242.62
+Solitude,Orvanne,Gererique,Gererique III,Opulent Compound,Rich,19.82
+Solitude,Orvanne,Gererique,Gererique III,Noble Metals,Rich,21.55
+Solitude,Orvanne,Gererique,Gererique III,Heavy Water,Medium,145.18
+Solitude,Orvanne,Gererique,Gererique IV,Lustering Alloy,Perfect,22.36
+Solitude,Orvanne,Gererique,Gererique IV,Base Metals,Medium,4.09
+Solitude,Orvanne,Gererique,Gererique IV,Ionic Solutions,Medium,6.74
+Solitude,Orvanne,Gererique,Gererique V,Reactive Gas,Medium,14.14
+Solitude,Orvanne,Gererique,Gererique V,Smartfab Units,Medium,8.94
+Solitude,Orvanne,Gererique,Gererique V,Heavy Water,Rich,217.28
+Solitude,Orvanne,Gererique,Gererique VI,Lustering Alloy,Rich,19.54
+Solitude,Orvanne,Gererique,Gererique VI,Base Metals,Rich,5.42
+Solitude,Orvanne,Gererique,Gererique VI,Ionic Solutions,Medium,5.41
+Solitude,Orvanne,Harner,Harner I,Base Metals,Poor,3.47
+Solitude,Orvanne,Harner,Harner I,Industrial Fibers,Poor,3.77
+Solitude,Orvanne,Harner,Harner I,Oxygen Isotopes,Medium,2.85
+Solitude,Orvanne,Harner,Harner II,Dark Compound,Medium,19.09
+Solitude,Orvanne,Harner,Harner II,Toxic Metals,Medium,4.95
+Solitude,Orvanne,Harner,Harner II,Industrial Fibers,Medium,5.78
+Solitude,Orvanne,Harner,Harner III,Lustering Alloy,Poor,17.86
+Solitude,Orvanne,Harner,Harner III,Sheen Compound,Medium,20.46
+Solitude,Orvanne,Harner,Harner III,Reactive Gas,Poor,16.59
+Solitude,Orvanne,Harner,Harner III,Noble Gas,Rich,30.04
+Solitude,Goins,Yvaeroure,Yvaeroure I,Lustering Alloy,Medium,12.56
+Solitude,Goins,Yvaeroure,Yvaeroure I,Base Metals,Medium,3.28
+Solitude,Goins,Yvaeroure,Yvaeroure II,Lustering Alloy,Medium,13.48
+Solitude,Goins,Yvaeroure,Yvaeroure II,Base Metals,Poor,2.60
+Solitude,Goins,Yvaeroure,Yvaeroure III,Lustering Alloy,Medium,12.61
+Solitude,Goins,Yvaeroure,Yvaeroure III,Base Metals,Medium,3.40
+Solitude,Goins,Yvaeroure,Yvaeroure IV,Lustering Alloy,Medium,15.51
+Solitude,Goins,Yvaeroure,Yvaeroure IV,Base Metals,Poor,2.74
+Solitude,Goins,Yvaeroure,Yvaeroure V,Condensates,Rich,11.20
+Solitude,Goins,Yvaeroure,Yvaeroure V,Smartfab Units,Rich,12.12
+Solitude,Goins,Yvaeroure,Yvaeroure V,Heavy Water,Rich,186.29
+Solitude,Goins,Yvaeroure,Yvaeroure VI,Lustering Alloy,Medium,14.07
+Solitude,Goins,Yvaeroure,Yvaeroure VI,Base Metals,Poor,2.14
+Solitude,Goins,Yvaeroure,Yvaeroure VII,Lustering Alloy,Perfect,21.18
+Solitude,Goins,Yvaeroure,Yvaeroure VII,Fiber Composite,Rich,19.53
+Solitude,Goins,Yvaeroure,Yvaeroure VII,Base Metals,Medium,3.37
+Solitude,Goins,Yvaeroure,Yvaeroure VIII,Lustering Alloy,Poor,9.55
+Solitude,Goins,Yvaeroure,Yvaeroure VIII,Base Metals,Medium,4.08
+Solitude,Goins,Yvaeroure,Yvaeroure IX,Lustering Alloy,Poor,12.08
+Solitude,Goins,Yvaeroure,Yvaeroure IX,Base Metals,Poor,2.70
+Solitude,Goins,Yvaeroure,Yvaeroure X,Lustering Alloy,Rich,18.45
+Solitude,Goins,Yvaeroure,Yvaeroure X,Base Metals,Rich,4.68
+Solitude,Goins,Yvaeroure,Yvaeroure X,Polyaramids,Rich,11.53
+Solitude,Goins,Yvaeroure,Yvaeroure XI,Lustering Alloy,Medium,13.27
+Solitude,Goins,Yvaeroure,Yvaeroure XI,Reactive Gas,Medium,14.69
+Solitude,Goins,Yvaeroure,Yvaeroure XI,Base Metals,Medium,3.24
+Solitude,Goins,Yvaeroure,Yvaeroure XII,Lustering Alloy,Medium,12.71
+Solitude,Goins,Yvaeroure,Yvaeroure XII,Base Metals,Rich,4.63
+Solitude,Goins,Yvaeroure,Yvaeroure XII,Ionic Solutions,Medium,5.74
+Solitude,Goins,Yvaeroure,Yvaeroure XIII,Lustering Alloy,Poor,9.50
+Solitude,Goins,Yvaeroure,Yvaeroure XIII,Base Metals,Medium,3.93
+Solitude,Goins,Yvaeroure,Yvaeroure XIV,Lustering Alloy,Medium,13.27
+Solitude,Goins,Yvaeroure,Yvaeroure XIV,Base Metals,Rich,4.40
+Solitude,Goins,Vecodie,Vecodie I,Motley Compound,Poor,11.56
+Solitude,Goins,Vecodie,Vecodie I,Oxygen Isotopes,Rich,3.05
+Solitude,Goins,Vecodie,Vecodie II,Lustering Alloy,Poor,10.35
+Solitude,Goins,Vecodie,Vecodie II,Base Metals,Poor,2.37
+Solitude,Goins,Vecodie,Vecodie III,Lustering Alloy,Poor,10.09
+Solitude,Goins,Vecodie,Vecodie III,Base Metals,Medium,3.67
+Solitude,Goins,Vecodie,Vecodie IV,Opulent Compound,Perfect,21.19
+Solitude,Goins,Vecodie,Vecodie IV,Crystal Compound,Perfect,22.85
+Solitude,Goins,Vecodie,Vecodie IV,Heavy Water,Rich,195.13
+Solitude,Goins,Vecodie,Vecodie V,Lustering Alloy,Perfect,20.77
+Solitude,Goins,Vecodie,Vecodie V,Base Metals,Rich,4.73
+Solitude,Goins,Vecodie,Vecodie V,Polyaramids,Medium,9.39
+Solitude,Goins,Vecodie,Vecodie VI,Lustering Alloy,Rich,17.89
+Solitude,Goins,Vecodie,Vecodie VI,Noble Gas,Medium,12.34
+Solitude,Goins,Vecodie,Vecodie VI,Base Metals,Rich,4.57
+Solitude,Goins,Vecodie,Vecodie VII,Lustering Alloy,Rich,18.79
+Solitude,Goins,Vecodie,Vecodie VII,Base Metals,Medium,4.08
+Solitude,Goins,Vecodie,Vecodie VII,Polyaramids,Perfect,14.14
+Solitude,Goins,Vecodie,Vecodie VIII,Lustering Alloy,Poor,9.65
+Solitude,Goins,Vecodie,Vecodie VIII,Base Metals,Poor,2.62
+Solitude,Goins,Vecodie,Vecodie IX,Lustering Alloy,Medium,12.52
+Solitude,Goins,Vecodie,Vecodie IX,Base Metals,Poor,3.21
+Solitude,Goins,Vecodie,Vecodie X,Lustering Alloy,Poor,11.75
+Solitude,Goins,Vecodie,Vecodie X,Base Metals,Medium,3.94
+Solitude,Goins,Arasare,Arasare I,Lustering Alloy,Poor,10.57
+Solitude,Goins,Arasare,Arasare I,Base Metals,Medium,3.62
+Solitude,Goins,Arasare,Arasare II,Lustering Alloy,Medium,14.02
+Solitude,Goins,Arasare,Arasare II,Base Metals,Medium,3.51
+Solitude,Goins,Arasare,Arasare III,Condensed Alloy,Medium,13.85
+Solitude,Goins,Arasare,Arasare III,Reactive Gas,Rich,17.70
+Solitude,Goins,Arasare,Arasare III,Heavy Water,Perfect,216.48
+Solitude,Goins,Arasare,Arasare IV,Lustering Alloy,Poor,9.26
+Solitude,Goins,Arasare,Arasare IV,Base Metals,Poor,2.51
+Solitude,Goins,Arasare,Arasare V,Lustering Alloy,Medium,13.76
+Solitude,Goins,Arasare,Arasare V,Reactive Gas,Poor,10.02
+Solitude,Goins,Arasare,Arasare V,Base Metals,Poor,2.90
+Solitude,Goins,Arasare,Arasare VI,Heavy Water,Rich,187.08
+Solitude,Goins,Arasare,Arasare VI,Liquid Ozone,Medium,17.25
+Solitude,Goins,Arasare,Arasare VI,Ionic Solutions,Perfect,8.28
+Solitude,Goins,Arasare,Arasare VII,Noble Metals,Medium,13.96
+Solitude,Goins,Arasare,Arasare VII,Heavy Water,Rich,166.92
+Solitude,Goins,Arasare,Arasare VII,Liquid Ozone,Perfect,26.43
+Solitude,Goins,Yvelet,Yvelet I,Lustering Alloy,Poor,10.58
+Solitude,Goins,Yvelet,Yvelet I,Base Metals,Medium,3.36
+Solitude,Goins,Yvelet,Yvelet II,Lustering Alloy,Poor,11.52
+Solitude,Goins,Yvelet,Yvelet II,Base Metals,Poor,2.82
+Solitude,Goins,Yvelet,Yvelet III,Lustering Alloy,Poor,11.95
+Solitude,Goins,Yvelet,Yvelet III,Base Metals,Poor,3.16
+Solitude,Goins,Yvelet,Yvelet IV,Reactive Gas,Rich,17.73
+Solitude,Goins,Yvelet,Yvelet IV,Noble Metals,Medium,13.79
+Solitude,Goins,Yvelet,Yvelet IV,Heavy Water,Poor,119.60
+Solitude,Goins,Yvelet,Yvelet V,Condensed Alloy,Rich,17.76
+Solitude,Goins,Yvelet,Yvelet V,Base Metals,Medium,4.30
+Solitude,Goins,Yvelet,Yvelet V,Heavy Water,Medium,152.23
+Solitude,Goins,Yvelet,Yvelet VI,Lustering Alloy,Medium,14.74
+Solitude,Goins,Yvelet,Yvelet VI,Glossy Compound,Poor,10.98
+Solitude,Goins,Yvelet,Yvelet VI,Base Metals,Rich,5.01
+Solitude,Goins,Yvelet,Yvelet VII,Lustering Alloy,Perfect,20.72
+Solitude,Goins,Yvelet,Yvelet VII,Sheen Compound,Medium,12.75
+Solitude,Goins,Yvelet,Yvelet VII,Base Metals,Medium,3.64
+Solitude,Goins,Yvelet,Yvelet VIII,Lustering Alloy,Medium,16.25
+Solitude,Goins,Yvelet,Yvelet VIII,Base Metals,Poor,3.04
+Solitude,Goins,Yvelet,Yvelet IX,Lustering Alloy,Medium,16.02
+Solitude,Goins,Yvelet,Yvelet IX,Base Metals,Poor,2.87
+Solitude,Goins,Lazer,Lazer I,Lustering Alloy,Poor,8.97
+Solitude,Goins,Lazer,Lazer I,Base Metals,Medium,3.92
+Solitude,Goins,Lazer,Lazer II,Motley Compound,Rich,19.37
+Solitude,Goins,Lazer,Lazer II,Plasmoids,Medium,0.75
+Solitude,Goins,Lazer,Lazer III,Lustering Alloy,Medium,14.55
+Solitude,Goins,Lazer,Lazer III,Base Metals,Medium,4.16
+Solitude,Goins,Lazer,Lazer IV,Lustering Alloy,Medium,14.85
+Solitude,Goins,Lazer,Lazer IV,Base Metals,Poor,3.07
+Solitude,Goins,Lazer,Lazer V,Lustering Alloy,Medium,15.95
+Solitude,Goins,Lazer,Lazer V,Base Metals,Poor,2.91
+Solitude,Goins,Lazer,Lazer VI,Lustering Alloy,Medium,15.03
+Solitude,Goins,Lazer,Lazer VI,Base Metals,Poor,2.96
+Solitude,Goins,Lazer,Lazer VII,Noble Metals,Rich,18.54
+Solitude,Goins,Lazer,Lazer VII,Heavy Water,Medium,136.76
+Solitude,Goins,Lazer,Lazer VII,Liquid Ozone,Medium,19.76
+Solitude,Goins,Lazer,Lazer VIII,Lustering Alloy,Rich,19.12
+Solitude,Goins,Lazer,Lazer VIII,Fiber Composite,Rich,18.20
+Solitude,Goins,Lazer,Lazer VIII,Base Metals,Poor,3.10
+Solitude,Goins,Lazer,Lazer IX,Lustering Alloy,Rich,20.64
+Solitude,Goins,Lazer,Lazer IX,Base Metals,Rich,4.76
+Solitude,Goins,Lazer,Lazer IX,Ionic Solutions,Medium,6.40
+Solitude,Goins,Lazer,Lazer X,Lustering Alloy,Medium,13.78
+Solitude,Goins,Lazer,Lazer X,Fiber Composite,Medium,16.35
+Solitude,Goins,Lazer,Lazer X,Base Metals,Medium,4.06
+Solitude,Goins,Lazer,Lazer XI,Lustering Alloy,Poor,10.54
+Solitude,Goins,Lazer,Lazer XI,Base Metals,Medium,3.51
+Solitude,Goins,Lazer,Lazer XII,Lustering Alloy,Medium,13.05
+Solitude,Goins,Lazer,Lazer XII,Base Metals,Poor,2.13
+Solitude,Goins,Stoure,Stoure I,Lustering Alloy,Medium,14.22
+Solitude,Goins,Stoure,Stoure I,Base Metals,Medium,3.31
+Solitude,Goins,Stoure,Stoure II,Heavy Metals,Perfect,22.14
+Solitude,Goins,Stoure,Stoure II,Reactive Metals,Medium,3.44
+Solitude,Goins,Stoure,Stoure II,Suspended Plasma,Medium,51.53
+Solitude,Goins,Stoure,Stoure III,Opulent Compound,Perfect,24.23
+Solitude,Goins,Stoure,Stoure III,Noble Metals,Medium,13.91
+Solitude,Goins,Stoure,Stoure III,Heavy Water,Perfect,235.17
+Solitude,Goins,Stoure,Stoure IV,Industrial Fibers,Perfect,5.88
+Solitude,Goins,Stoure,Stoure IV,Smartfab Units,Perfect,15.06
+Solitude,Goins,Stoure,Stoure IV,Heavy Water,Perfect,209.56
+Solitude,Goins,Stoure,Stoure V,Lustering Alloy,Medium,13.81
+Solitude,Goins,Stoure,Stoure V,Base Metals,Poor,2.21
+Solitude,Goins,Stoure,Stoure VI,Lustering Alloy,Rich,17.51
+Solitude,Goins,Stoure,Stoure VI,Base Metals,Rich,5.37
+Solitude,Goins,Stoure,Stoure VI,Ionic Solutions,Medium,5.42
+Solitude,Goins,Stoure,Stoure VII,Opulent Compound,Medium,14.79
+Solitude,Goins,Stoure,Stoure VII,Reactive Gas,Rich,19.27
+Solitude,Goins,Stoure,Stoure VII,Heavy Water,Medium,159.77
+Solitude,Goins,Stoure,Stoure VIII,Lustering Alloy,Medium,12.47
+Solitude,Goins,Stoure,Stoure VIII,Fiber Composite,Rich,20.44
+Solitude,Goins,Stoure,Stoure VIII,Base Metals,Medium,4.16
+Solitude,Goins,Stoure,Stoure IX,Lustering Alloy,Medium,14.94
+Solitude,Goins,Stoure,Stoure IX,Base Metals,Medium,3.83
+Solitude,Elerelle,Heluene,Heluene I,Precious Alloy,Medium,18.29
+Solitude,Elerelle,Heluene,Heluene I,Industrial Fibers,Poor,3.15
+Solitude,Elerelle,Heluene,Heluene I,Silicate Glass,Poor,7.70
+Solitude,Elerelle,Heluene,Heluene II,Industrial Fibers,Medium,5.23
+Solitude,Elerelle,Heluene,Heluene II,Supertensile Plastics,Medium,13.07
+Solitude,Elerelle,Heluene,Heluene II,Silicate Glass,Medium,9.20
+Solitude,Elerelle,Heluene,Heluene III,Lustering Alloy,Medium,19.13
+Solitude,Elerelle,Heluene,Heluene III,Toxic Metals,Poor,3.84
+Solitude,Elerelle,Heluene,Heluene III,Industrial Fibers,Poor,3.07
+Solitude,Elerelle,Heluene,Heluene IV,Lucent Compound,Medium,21.10
+Solitude,Elerelle,Heluene,Heluene IV,Construction Blocks,Medium,22.64
+Solitude,Elerelle,Heluene,Heluene IV,Nanites,Medium,5.78
+Solitude,Elerelle,Heluene,Heluene V,Industrial Fibers,Poor,3.32
+Solitude,Elerelle,Heluene,Heluene V,Silicate Glass,Poor,7.16
+Solitude,Elerelle,Heluene,Heluene V,Oxygen Isotopes,Poor,2.25
+Solitude,Elerelle,Heluene,Heluene VI,Toxic Metals,Poor,3.91
+Solitude,Elerelle,Heluene,Heluene VI,Construction Blocks,Medium,18.85
+Solitude,Elerelle,Heluene,Heluene VI,Suspended Plasma,Medium,64.80
+Solitude,Elerelle,Heluene,Heluene VII,Precious Alloy,Poor,14.13
+Solitude,Elerelle,Heluene,Heluene VII,Toxic Metals,Medium,5.74
+Solitude,Elerelle,Heluene,Heluene VII,Industrial Fibers,Medium,5.59
+Solitude,Elerelle,Heluene,Heluene VIII,Toxic Metals,Poor,4.15
+Solitude,Elerelle,Heluene,Heluene VIII,Construction Blocks,Poor,16.18
+Solitude,Elerelle,Heluene,Heluene VIII,Suspended Plasma,Poor,60.72
+Solitude,Elerelle,Heluene,Heluene IX,Fiber Composite,Rich,27.92
+Solitude,Elerelle,Heluene,Heluene IX,Opulent Compound,Rich,26.75
+Solitude,Elerelle,Heluene,Heluene IX,Reactive Gas,Rich,27.45
+Solitude,Elerelle,Heluene,Heluene IX,Industrial Fibers,Rich,7.45
+Solitude,Elerelle,Heluene,Heluene X,Fiber Composite,Rich,25.74
+Solitude,Elerelle,Heluene,Heluene X,Reactive Gas,Perfect,31.01
+Solitude,Elerelle,Heluene,Heluene X,Condensates,Rich,16.14
+Solitude,Elerelle,Heluene,Heluene X,Heavy Water,Rich,260.10
+Solitude,Elerelle,Arittant,Arittant I,Dark Compound,Medium,19.93
+Solitude,Elerelle,Arittant,Arittant I,Industrial Fibers,Poor,3.83
+Solitude,Elerelle,Arittant,Arittant I,Plasmoids,Poor,0.68
+Solitude,Elerelle,Arittant,Arittant II,Base Metals,Medium,4.63
+Solitude,Elerelle,Arittant,Arittant II,Toxic Metals,Medium,4.81
+Solitude,Elerelle,Arittant,Arittant II,Industrial Fibers,Poor,4.46
+Solitude,Elerelle,Arittant,Arittant III,Industrial Fibers,Poor,4.46
+Solitude,Elerelle,Arittant,Arittant III,Supertensile Plastics,Medium,12.55
+Solitude,Elerelle,Arittant,Arittant III,Construction Blocks,Medium,17.03
+Solitude,Elerelle,Arittant,Arittant IV,Lustering Alloy,Medium,18.95
+Solitude,Elerelle,Arittant,Arittant IV,Precious Alloy,Poor,16.92
+Solitude,Elerelle,Arittant,Arittant IV,Industrial Fibers,Poor,3.60
+Solitude,Elerelle,Arittant,Arittant V,Crystal Compound,Rich,25.85
+Solitude,Elerelle,Arittant,Arittant V,Coolant,Rich,17.18
+Solitude,Elerelle,Arittant,Arittant V,Heavy Water,Medium,172.44
+Solitude,Elerelle,Arittant,Arittant V,Liquid Ozone,Medium,24.23
+Solitude,Elerelle,Arittant,Arittant VI,Lustering Alloy,Medium,20.30
+Solitude,Elerelle,Arittant,Arittant VI,Glossy Compound,Poor,14.96
+Solitude,Elerelle,Arittant,Arittant VI,Noble Gas,Poor,16.49
+Solitude,Elerelle,Arittant,Arittant VI,Polyaramids,Rich,18.88
+Solitude,Elerelle,Arittant,Arittant VII,Lustering Alloy,Rich,27.99
+Solitude,Elerelle,Arittant,Arittant VII,Noble Gas,Medium,22.54
+Solitude,Elerelle,Arittant,Arittant VII,Coolant,Medium,11.69
+Solitude,Elerelle,Arittant,Arittant VII,Ionic Solutions,Medium,7.21
+Solitude,Elerelle,Arittant,Arittant VIII,Sheen Compound,Medium,21.67
+Solitude,Elerelle,Arittant,Arittant VIII,Reactive Gas,Perfect,29.81
+Solitude,Elerelle,Arittant,Arittant VIII,Noble Gas,Medium,20.68
+Solitude,Elerelle,Arittant,Arittant VIII,Reactive Metals,Rich,7.08
+Solitude,Elerelle,Arittant,Arittant IX,Precious Alloy,Poor,14.58
+Solitude,Elerelle,Arittant,Arittant IX,Base Metals,Poor,3.98
+Solitude,Elerelle,Arittant,Arittant IX,Coolant,Medium,14.60
+Solitude,Elerelle,Arittant,Arittant X,Crystal Compound,Medium,17.75
+Solitude,Elerelle,Arittant,Arittant X,Reactive Metals,Rich,7.20
+Solitude,Elerelle,Arittant,Arittant X,Construction Blocks,Rich,27.88
+Solitude,Elerelle,Oruse,Oruse I,Industrial Fibers,Medium,4.88
+Solitude,Elerelle,Oruse,Oruse I,Oxygen Isotopes,Poor,2.55
+Solitude,Elerelle,Oruse,Oruse I,Plasmoids,Medium,1.22
+Solitude,Elerelle,Oruse,Oruse II,Fiber Composite,Medium,23.43
+Solitude,Elerelle,Oruse,Oruse II,Noble Metals,Perfect,32.64
+Solitude,Elerelle,Oruse,Oruse II,Smartfab Units,Perfect,22.27
+Solitude,Elerelle,Oruse,Oruse II,Liquid Ozone,Rich,33.30
+Solitude,Elerelle,Oruse,Oruse III,Lustering Alloy,Medium,22.99
+Solitude,Elerelle,Oruse,Oruse III,Glossy Compound,Rich,29.51
+Solitude,Elerelle,Oruse,Oruse III,Noble Gas,Medium,23.90
+Solitude,Elerelle,Oruse,Oruse III,Ionic Solutions,Medium,9.26
+Solitude,Elerelle,Oruse,Oruse IV,Glossy Compound,Rich,26.68
+Solitude,Elerelle,Oruse,Oruse IV,Noble Gas,Medium,19.36
+Solitude,Elerelle,Oruse,Oruse IV,Coolant,Rich,18.85
+Solitude,Elerelle,Oruse,Oruse IV,Ionic Solutions,Rich,12.07
+Solitude,Elerelle,Oruse,Oruse V,Fiber Composite,Medium,19.13
+Solitude,Elerelle,Oruse,Oruse V,Glossy Compound,Rich,28.63
+Solitude,Elerelle,Oruse,Oruse V,Reactive Gas,Rich,24.89
+Solitude,Elerelle,Oruse,Oruse V,Noble Gas,Poor,17.69
+Solitude,Elerelle,Hare,Hare I,Dark Compound,Medium,23.14
+Solitude,Elerelle,Hare,Hare I,Industrial Fibers,Medium,5.72
+Solitude,Elerelle,Hare,Hare I,Plasmoids,Poor,0.73
+Solitude,Elerelle,Hare,Hare II,Dark Compound,Medium,19.49
+Solitude,Elerelle,Hare,Hare II,Base Metals,Medium,6.14
+Solitude,Elerelle,Hare,Hare II,Industrial Fibers,Poor,3.31
+Solitude,Elerelle,Hare,Hare III,Dark Compound,Medium,21.18
+Solitude,Elerelle,Hare,Hare III,Industrial Fibers,Medium,5.56
+Solitude,Elerelle,Hare,Hare III,Silicate Glass,Medium,9.87
+Solitude,Elerelle,Hare,Hare IV,Toxic Metals,Perfect,8.06
+Solitude,Elerelle,Hare,Hare IV,Construction Blocks,Poor,16.28
+Solitude,Elerelle,Hare,Hare IV,Oxygen Isotopes,Rich,4.08
+Solitude,Elerelle,Hare,Hare V,Reactive Gas,Rich,28.12
+Solitude,Elerelle,Hare,Hare V,Supertensile Plastics,Medium,11.97
+Solitude,Elerelle,Hare,Hare V,Construction Blocks,Rich,28.80
+Solitude,Elerelle,Hare,Hare VI,Reactive Gas,Rich,27.76
+Solitude,Elerelle,Hare,Hare VI,Reactive Metals,Rich,6.83
+Solitude,Elerelle,Hare,Hare VI,Construction Blocks,Rich,29.07
+Solitude,Elerelle,Hare,Hare VII,Precious Alloy,Poor,12.41
+Solitude,Elerelle,Hare,Hare VII,Industrial Fibers,Poor,4.11
+Solitude,Elerelle,Hare,Hare VII,Plasmoids,Medium,1.24
+Solitude,Elerelle,Hare,Hare VIII,Sheen Compound,Poor,15.77
+Solitude,Elerelle,Hare,Hare VIII,Glossy Compound,Medium,22.80
+Solitude,Elerelle,Hare,Hare VIII,Noble Gas,Medium,19.78
+Solitude,Elerelle,Hare,Hare VIII,Coolant,Medium,13.39
+Solitude,Elerelle,Hare,Hare IX,Sheen Compound,Perfect,30.57
+Solitude,Elerelle,Hare,Hare IX,Noble Gas,Rich,27.32
+Solitude,Elerelle,Hare,Hare IX,Reactive Metals,Poor,4.20
+Solitude,Elerelle,Hare,Hare IX,Ionic Solutions,Rich,11.88
+Solitude,Elerelle,Hare,Hare X,Sheen Compound,Medium,20.69
+Solitude,Elerelle,Hare,Hare X,Glossy Compound,Medium,18.07
+Solitude,Elerelle,Hare,Hare X,Noble Gas,Perfect,31.18
+Solitude,Elerelle,Hare,Hare X,Coolant,Poor,11.35
+Solitude,Elerelle,Hare,Hare XI,Precious Alloy,Medium,20.41
+Solitude,Elerelle,Hare,Hare XI,Industrial Fibers,Rich,7.12
+Solitude,Elerelle,Hare,Hare XI,Coolant,Medium,13.76
+Solitude,Elerelle,Ogaria,Ogaria I,Industrial Fibers,Medium,5.38
+Solitude,Elerelle,Ogaria,Ogaria I,Supertensile Plastics,Poor,9.18
+Solitude,Elerelle,Ogaria,Ogaria I,Plasmoids,Medium,1.19
+Solitude,Elerelle,Ogaria,Ogaria II,Fiber Composite,Rich,28.82
+Solitude,Elerelle,Ogaria,Ogaria II,Opulent Compound,Rich,27.42
+Solitude,Elerelle,Ogaria,Ogaria II,Industrial Fibers,Perfect,8.14
+Solitude,Elerelle,Ogaria,Ogaria II,Liquid Ozone,Perfect,39.31
+Solitude,Elerelle,Ogaria,Ogaria III,Fiber Composite,Medium,22.04
+Solitude,Elerelle,Ogaria,Ogaria III,Reactive Gas,Rich,26.09
+Solitude,Elerelle,Ogaria,Ogaria III,Noble Gas,Poor,16.74
+Solitude,Elerelle,Ogaria,Ogaria III,Base Metals,Medium,5.64
+Solitude,Elerelle,Ogaria,Ogaria IV,Lustering Alloy,Medium,17.94
+Solitude,Elerelle,Ogaria,Ogaria IV,Reactive Gas,Medium,23.94
+Solitude,Elerelle,Ogaria,Ogaria IV,Noble Gas,Medium,19.13
+Solitude,Elerelle,Ogaria,Ogaria IV,Base Metals,Medium,6.26
+Solitude,Elerelle,Ogaria,Ogaria V,Fiber Composite,Rich,28.31
+Solitude,Elerelle,Ogaria,Ogaria V,Noble Gas,Medium,18.68
+Solitude,Elerelle,Ogaria,Ogaria V,Coolant,Perfect,20.24
+Solitude,Elerelle,Ogaria,Ogaria V,Ionic Solutions,Rich,9.73
+Solitude,Elerelle,Ogaria,Ogaria VI,Fiber Composite,Rich,25.90
+Solitude,Elerelle,Ogaria,Ogaria VI,Base Metals,Perfect,9.46
+Solitude,Elerelle,Ogaria,Ogaria VI,Condensates,Perfect,21.47
+Solitude,Elerelle,Ogaria,Ogaria VI,Heavy Water,Rich,245.67
+Solitude,Elerelle,Faurulle,Faurulle I,Lustering Alloy,Medium,19.25
+Solitude,Elerelle,Faurulle,Faurulle I,Industrial Fibers,Medium,5.83
+Solitude,Elerelle,Faurulle,Faurulle I,Plasmoids,Poor,1.02
+Solitude,Elerelle,Faurulle,Faurulle II,Noble Gas,Rich,28.16
+Solitude,Elerelle,Faurulle,Faurulle II,Construction Blocks,Poor,15.71
+Solitude,Elerelle,Faurulle,Faurulle III,Condensed Alloy,Perfect,34.05
+Solitude,Elerelle,Faurulle,Faurulle III,Fiber Composite,Perfect,35.00
+Solitude,Elerelle,Faurulle,Faurulle III,Reactive Gas,Perfect,35.81
+Solitude,Elerelle,Faurulle,Faurulle III,Liquid Ozone,Rich,36.31
+Solitude,Elerelle,Faurulle,Faurulle IV,Gleaming Alloy,Medium,21.22
+Solitude,Elerelle,Faurulle,Faurulle IV,Crystal Compound,Rich,29.83
+Solitude,Elerelle,Faurulle,Faurulle IV,Construction Blocks,Perfect,30.30
+Solitude,Elerelle,Faurulle,Faurulle V,Crystal Compound,Rich,25.35
+Solitude,Elerelle,Faurulle,Faurulle V,Construction Blocks,Poor,15.64
+Solitude,Elerelle,Faurulle,Faurulle V,Suspended Plasma,Perfect,110.53
+Solitude,Elerelle,Faurulle,Faurulle VI,Glossy Compound,Rich,28.92
+Solitude,Elerelle,Faurulle,Faurulle VI,Noble Gas,Medium,17.97
+Solitude,Elerelle,Faurulle,Faurulle VI,Base Metals,Rich,7.78
+Solitude,Elerelle,Faurulle,Faurulle VI,Coolant,Perfect,20.70
+Solitude,Elerelle,Faurulle,Faurulle VII,Glossy Compound,Rich,29.89
+Solitude,Elerelle,Faurulle,Faurulle VII,Reactive Gas,Rich,27.63
+Solitude,Elerelle,Faurulle,Faurulle VII,Noble Gas,Medium,19.19
+Solitude,Elerelle,Faurulle,Faurulle VII,Base Metals,Medium,4.91
+Solitude,Elerelle,Faurulle,Faurulle VIII,Fiber Composite,Perfect,30.95
+Solitude,Elerelle,Faurulle,Faurulle VIII,Noble Gas,Poor,16.13
+Solitude,Elerelle,Faurulle,Faurulle VIII,Coolant,Rich,19.42
+Solitude,Elerelle,Faurulle,Faurulle VIII,Ionic Solutions,Medium,9.58
+Solitude,Elerelle,Faurulle,Faurulle IX,Industrial Fibers,Medium,5.28
+Solitude,Elerelle,Faurulle,Faurulle IX,Oxygen Isotopes,Poor,2.50
+Solitude,Elerelle,Faurulle,Faurulle IX,Plasmoids,Poor,1.00
+Solitude,Elerelle,Agaullores,Agaullores I,Base Metals,Poor,4.38
+Solitude,Elerelle,Agaullores,Agaullores I,Toxic Metals,Medium,5.05
+Solitude,Elerelle,Agaullores,Agaullores I,Industrial Fibers,Poor,4.91
+Solitude,Elerelle,Agaullores,Agaullores I,Supertensile Plastics,Medium,13.17
+Solitude,Elerelle,Agaullores,Agaullores II,Lustering Alloy,Medium,20.80
+Solitude,Elerelle,Agaullores,Agaullores II,Industrial Fibers,Poor,4.18
+Solitude,Elerelle,Agaullores,Agaullores II,Supertensile Plastics,Medium,13.84
+Solitude,Elerelle,Agaullores,Agaullores II,Silicate Glass,Poor,6.72
+Solitude,Elerelle,Agaullores,Agaullores III,Lustering Alloy,Rich,31.08
+Solitude,Elerelle,Agaullores,Agaullores III,Sheen Compound,Medium,19.34
+Solitude,Elerelle,Agaullores,Agaullores III,Glossy Compound,Poor,17.34
+Solitude,Elerelle,Agaullores,Agaullores III,Reactive Gas,Medium,25.16
+Solitude,Elerelle,Agaullores,Agaullores III,Base Metals,Medium,5.05
+Solitude,Elerelle,Agaullores,Agaullores IV,Reactive Gas,Poor,17.90
+Solitude,Elerelle,Agaullores,Agaullores IV,Noble Gas,Rich,31.64
+Solitude,Elerelle,Agaullores,Agaullores IV,Base Metals,Rich,7.86
+Solitude,Elerelle,Agaullores,Agaullores IV,Polyaramids,Medium,16.41
+Solitude,Elerelle,Agaullores,Agaullores IV,Coolant,Rich,18.40
+Solitude,Elerelle,Agaullores,Agaullores V,Lustering Alloy,Medium,25.00
+Solitude,Elerelle,Agaullores,Agaullores V,Reactive Gas,Medium,23.50
+Solitude,Elerelle,Agaullores,Agaullores V,Noble Gas,Poor,18.16
+Solitude,Elerelle,Agaullores,Agaullores V,Polyaramids,Rich,17.21
+Solitude,Elerelle,Agaullores,Agaullores V,Ionic Solutions,Medium,8.20
+Solitude,Elerelle,Agaullores,Agaullores VI,Sheen Compound,Medium,25.08
+Solitude,Elerelle,Agaullores,Agaullores VI,Glossy Compound,Medium,22.86
+Solitude,Elerelle,Agaullores,Agaullores VI,Reactive Gas,Medium,23.72
+Solitude,Elerelle,Agaullores,Agaullores VI,Polyaramids,Medium,12.92
+Solitude,Elerelle,Agaullores,Agaullores VI,Coolant,Medium,14.19
+Solitude,Elerelle,Babirmoult,Babirmoult I,Dark Compound,Medium,20.94
+Solitude,Elerelle,Babirmoult,Babirmoult I,Industrial Fibers,Poor,4.70
+Solitude,Elerelle,Babirmoult,Babirmoult I,Supertensile Plastics,Poor,10.44
+Solitude,Elerelle,Babirmoult,Babirmoult II,Lustering Alloy,Medium,18.16
+Solitude,Elerelle,Babirmoult,Babirmoult II,Base Metals,Medium,4.80
+Solitude,Elerelle,Babirmoult,Babirmoult II,Industrial Fibers,Poor,3.72
+Solitude,Elerelle,Babirmoult,Babirmoult III,Reactive Metals,Rich,6.34
+Solitude,Elerelle,Babirmoult,Babirmoult III,Supertensile Plastics,Medium,13.41
+Solitude,Elerelle,Babirmoult,Babirmoult III,Construction Blocks,Medium,22.32
+Solitude,Elerelle,Babirmoult,Babirmoult IV,Opulent Compound,Medium,22.38
+Solitude,Elerelle,Babirmoult,Babirmoult IV,Crystal Compound,Rich,29.73
+Solitude,Elerelle,Babirmoult,Babirmoult IV,Coolant,Rich,17.06
+Solitude,Elerelle,Babirmoult,Babirmoult IV,Heavy Water,Rich,274.55
+Solitude,Elerelle,Babirmoult,Babirmoult V,Opulent Compound,Medium,23.07
+Solitude,Elerelle,Babirmoult,Babirmoult V,Polyaramids,Medium,15.68
+Solitude,Elerelle,Babirmoult,Babirmoult V,Coolant,Rich,18.73
+Solitude,Elerelle,Babirmoult,Babirmoult V,Heavy Water,Perfect,302.48
+Solitude,Elerelle,Babirmoult,Babirmoult VI,Lustering Alloy,Medium,23.96
+Solitude,Elerelle,Babirmoult,Babirmoult VI,Sheen Compound,Medium,20.08
+Solitude,Elerelle,Babirmoult,Babirmoult VI,Noble Gas,Medium,18.45
+Solitude,Elerelle,Babirmoult,Babirmoult VI,Base Metals,Rich,6.92
+Solitude,Elerelle,Babirmoult,Babirmoult VII,Lustering Alloy,Rich,24.09
+Solitude,Elerelle,Babirmoult,Babirmoult VII,Noble Gas,Medium,18.52
+Solitude,Elerelle,Babirmoult,Babirmoult VII,Base Metals,Rich,6.76
+Solitude,Elerelle,Babirmoult,Babirmoult VII,Polyaramids,Rich,17.80
+Solitude,Elerelle,Babirmoult,Babirmoult VIII,Glossy Compound,Rich,29.03
+Solitude,Elerelle,Babirmoult,Babirmoult VIII,Noble Gas,Poor,17.73
+Solitude,Elerelle,Babirmoult,Babirmoult VIII,Polyaramids,Medium,14.82
+Solitude,Elerelle,Babirmoult,Babirmoult VIII,Coolant,Medium,14.77
+Solitude,Elerelle,Babirmoult,Babirmoult IX,Heavy Metals,Rich,27.78
+Solitude,Elerelle,Babirmoult,Babirmoult IX,Coolant,Rich,18.81
+Solitude,Elerelle,Babirmoult,Babirmoult IX,Condensates,Medium,12.65
+Solitude,Elerelle,Babirmoult,Babirmoult X,Heavy Metals,Medium,21.81
+Solitude,Elerelle,Babirmoult,Babirmoult X,Industrial Fibers,Poor,4.33
+Solitude,Elerelle,Babirmoult,Babirmoult X,Coolant,Poor,11.65
+Solitude,Mobrault,Ratillose,Ratillose I,Base Metals,Poor,3.58
+Solitude,Mobrault,Ratillose,Ratillose I,Industrial Fibers,Medium,5.34
+Solitude,Mobrault,Ratillose,Ratillose I,Plasmoids,Medium,1.17
+Solitude,Mobrault,Ratillose,Ratillose II,Motley Compound,Poor,14.21
+Solitude,Mobrault,Ratillose,Ratillose II,Noble Gas,Rich,26.50
+Solitude,Mobrault,Ratillose,Ratillose III,Fiber Composite,Medium,18.90
+Solitude,Mobrault,Ratillose,Ratillose III,Noble Gas,Rich,23.41
+Solitude,Mobrault,Ratillose,Ratillose III,Coolant,Rich,15.41
+Solitude,Mobrault,Ratillose,Ratillose III,Ionic Solutions,Rich,9.51
+Solitude,Mobrault,Ratillose,Ratillose IV,Lustering Alloy,Poor,14.09
+Solitude,Mobrault,Ratillose,Ratillose IV,Noble Gas,Rich,25.99
+Solitude,Mobrault,Ratillose,Ratillose IV,Base Metals,Medium,4.72
+Solitude,Mobrault,Ratillose,Ratillose IV,Reactive Metals,Perfect,7.27
+Solitude,Mobrault,Ratillose,Ratillose V,Reactive Gas,Medium,18.53
+Solitude,Mobrault,Ratillose,Ratillose V,Noble Gas,Poor,14.03
+Solitude,Mobrault,Ratillose,Ratillose V,Polyaramids,Rich,15.83
+Solitude,Mobrault,Ratillose,Ratillose V,Ionic Solutions,Medium,7.28
+Solitude,Mobrault,Ratillose,Ratillose VI,Lustering Alloy,Poor,14.25
+Solitude,Mobrault,Ratillose,Ratillose VI,Noble Gas,Rich,23.46
+Solitude,Mobrault,Ratillose,Ratillose VI,Base Metals,Rich,7.01
+Solitude,Mobrault,Ratillose,Ratillose VI,Coolant,Medium,13.18
+Solitude,Mobrault,Ondree,Ondree I,Motley Compound,Rich,22.84
+Solitude,Mobrault,Ondree,Ondree I,Polyaramids,Rich,15.68
+Solitude,Mobrault,Ondree,Ondree II,Lustering Alloy,Medium,15.13
+Solitude,Mobrault,Ondree,Ondree II,Base Metals,Poor,3.43
+Solitude,Mobrault,Ondree,Ondree III,Lustering Alloy,Poor,10.68
+Solitude,Mobrault,Ondree,Ondree III,Base Metals,Medium,4.42
+Solitude,Mobrault,Ondree,Ondree IV,Condensates,Medium,11.98
+Solitude,Mobrault,Ondree,Ondree IV,Smartfab Units,Rich,13.45
+Solitude,Mobrault,Ondree,Ondree IV,Heavy Water,Medium,146.40
+Solitude,Mobrault,Ondree,Ondree V,Lustering Alloy,Medium,17.50
+Solitude,Mobrault,Ondree,Ondree V,Fiber Composite,Rich,22.44
+Solitude,Mobrault,Ondree,Ondree V,Base Metals,Medium,4.59
+Solitude,Mobrault,Ondree,Ondree VI,Lustering Alloy,Rich,20.49
+Solitude,Mobrault,Ondree,Ondree VI,Fiber Composite,Rich,23.01
+Solitude,Mobrault,Ondree,Ondree VI,Base Metals,Rich,6.16
+Solitude,Mobrault,Ondree,Ondree VII,Lustering Alloy,Poor,12.73
+Solitude,Mobrault,Ondree,Ondree VII,Base Metals,Medium,4.17
+Solitude,Mobrault,Ondree,Ondree VIII,Lustering Alloy,Medium,17.85
+Solitude,Mobrault,Ondree,Ondree VIII,Base Metals,Medium,4.49
+Solitude,Mobrault,Ondree,Ondree IX,Lustering Alloy,Poor,12.21
+Solitude,Mobrault,Ondree,Ondree IX,Base Metals,Poor,3.54
+Solitude,Mobrault,Pochelympe,Pochelympe I,Lustering Alloy,Poor,12.67
+Solitude,Mobrault,Pochelympe,Pochelympe I,Base Metals,Poor,3.43
+Solitude,Mobrault,Pochelympe,Pochelympe II,Lustering Alloy,Poor,10.26
+Solitude,Mobrault,Pochelympe,Pochelympe II,Base Metals,Poor,3.44
+Solitude,Mobrault,Pochelympe,Pochelympe III,Coolant,Rich,12.87
+Solitude,Mobrault,Pochelympe,Pochelympe III,Heavy Water,Medium,171.36
+Solitude,Mobrault,Pochelympe,Pochelympe III,Ionic Solutions,Perfect,9.04
+Solitude,Mobrault,Pochelympe,Pochelympe IV,Lustering Alloy,Poor,9.76
+Solitude,Mobrault,Pochelympe,Pochelympe IV,Base Metals,Poor,3.16
+Solitude,Mobrault,Pochelympe,Pochelympe V,Condensed Alloy,Perfect,25.06
+Solitude,Mobrault,Pochelympe,Pochelympe V,Heavy Water,Perfect,251.58
+Solitude,Mobrault,Pochelympe,Pochelympe V,Liquid Ozone,Rich,25.86
+Solitude,Mobrault,Pochelympe,Pochelympe VI,Lustering Alloy,Poor,12.84
+Solitude,Mobrault,Pochelympe,Pochelympe VI,Base Metals,Perfect,5.87
+Solitude,Mobrault,Pochelympe,Pochelympe VI,Ionic Solutions,Medium,6.67
+Solitude,Mobrault,Pochelympe,Pochelympe VII,Lustering Alloy,Medium,15.15
+Solitude,Mobrault,Pochelympe,Pochelympe VII,Base Metals,Poor,2.59
+Solitude,Mobrault,Pochelympe,Pochelympe VIII,Lustering Alloy,Medium,13.54
+Solitude,Mobrault,Pochelympe,Pochelympe VIII,Base Metals,Medium,3.89
+Solitude,Mobrault,Pochelympe,Pochelympe VIII,Ionic Solutions,Perfect,9.14
+Solitude,Mobrault,Pochelympe,Pochelympe IX,Base Metals,Rich,5.39
+Solitude,Mobrault,Pochelympe,Pochelympe IX,Industrial Fibers,Perfect,6.53
+Solitude,Mobrault,Pochelympe,Pochelympe IX,Heavy Water,Medium,175.00
+Solitude,Mobrault,Eggheron,Eggheron I,Lustering Alloy,Poor,11.23
+Solitude,Mobrault,Eggheron,Eggheron I,Base Metals,Medium,4.82
+Solitude,Mobrault,Eggheron,Eggheron II,Lustering Alloy,Poor,13.63
+Solitude,Mobrault,Eggheron,Eggheron II,Base Metals,Medium,4.67
+Solitude,Mobrault,Eggheron,Eggheron III,Lustering Alloy,Medium,15.88
+Solitude,Mobrault,Eggheron,Eggheron III,Base Metals,Medium,4.14
+Solitude,Mobrault,Eggheron,Eggheron IV,Gleaming Alloy,Rich,21.59
+Solitude,Mobrault,Eggheron,Eggheron IV,Suspended Plasma,Poor,49.63
+Solitude,Mobrault,Eggheron,Eggheron V,Lustering Alloy,Medium,14.28
+Solitude,Mobrault,Eggheron,Eggheron V,Sheen Compound,Medium,18.61
+Solitude,Mobrault,Eggheron,Eggheron V,Base Metals,Medium,4.42
+Solitude,Mobrault,Eggheron,Eggheron VI,Lustering Alloy,Rich,23.00
+Solitude,Mobrault,Eggheron,Eggheron VI,Sheen Compound,Poor,13.48
+Solitude,Mobrault,Eggheron,Eggheron VI,Base Metals,Rich,5.98
+Solitude,Mobrault,Eggheron,Eggheron VII,Fiber Composite,Rich,19.13
+Solitude,Mobrault,Eggheron,Eggheron VII,Heavy Water,Perfect,270.00
+Solitude,Mobrault,Eggheron,Eggheron VII,Liquid Ozone,Medium,22.63
+Solitude,Mobrault,Eggheron,Eggheron VIII,Condensed Alloy,Rich,20.66
+Solitude,Mobrault,Eggheron,Eggheron VIII,Smartfab Units,Perfect,16.33
+Solitude,Mobrault,Eggheron,Eggheron VIII,Heavy Water,Perfect,249.90
+Solitude,Mobrault,Toustain,Toustain I,Dark Compound,Poor,10.75
+Solitude,Mobrault,Toustain,Toustain I,Base Metals,Poor,2.81
+Solitude,Mobrault,Toustain,Toustain I,Industrial Fibers,Medium,4.63
+Solitude,Mobrault,Toustain,Toustain II,Sheen Compound,Rich,24.58
+Solitude,Mobrault,Toustain,Toustain II,Reactive Metals,Rich,5.34
+Solitude,Mobrault,Toustain,Toustain II,Condensates,Perfect,18.23
+Solitude,Mobrault,Toustain,Toustain II,Nanites,Rich,6.22
+Solitude,Mobrault,Toustain,Toustain III,Toxic Metals,Medium,4.26
+Solitude,Mobrault,Toustain,Toustain III,Construction Blocks,Poor,14.02
+Solitude,Mobrault,Toustain,Toustain III,Oxygen Isotopes,Poor,2.24
+Solitude,Mobrault,Toustain,Toustain IV,Sheen Compound,Poor,14.98
+Solitude,Mobrault,Toustain,Toustain IV,Noble Gas,Poor,14.38
+Solitude,Mobrault,Toustain,Toustain IV,Base Metals,Rich,6.67
+Solitude,Mobrault,Toustain,Toustain IV,Coolant,Rich,14.28
+Solitude,Mobrault,Toustain,Toustain V,Fiber Composite,Poor,14.86
+Solitude,Mobrault,Toustain,Toustain V,Glossy Compound,Medium,18.93
+Solitude,Mobrault,Toustain,Toustain V,Noble Gas,Poor,13.54
+Solitude,Mobrault,Toustain,Toustain V,Base Metals,Rich,5.92
+Solitude,Mobrault,Toustain,Toustain VI,Lustering Alloy,Medium,20.03
+Solitude,Mobrault,Toustain,Toustain VI,Reactive Gas,Rich,23.17
+Solitude,Mobrault,Toustain,Toustain VI,Noble Gas,Poor,13.17
+Solitude,Mobrault,Toustain,Toustain VI,Coolant,Poor,9.90
+Solitude,Mobrault,Toustain,Toustain VII,Noble Gas,Rich,20.74
+Solitude,Mobrault,Toustain,Toustain VII,Construction Blocks,Perfect,26.91
+Solitude,Mobrault,Toustain,Toustain VIII,Toxic Metals,Medium,4.80
+Solitude,Mobrault,Toustain,Toustain VIII,Coolant,Rich,14.19
+Solitude,Mobrault,Toustain,Toustain VIII,Silicate Glass,Medium,7.81
+Solitude,Mobrault,Toustain,Toustain VIII,Liquid Ozone,Rich,25.70
+Solitude,Mobrault,Straloin,Straloin I,Lustering Alloy,Medium,19.17
+Solitude,Mobrault,Straloin,Straloin I,Precious Alloy,Poor,11.63
+Solitude,Mobrault,Straloin,Straloin I,Industrial Fibers,Medium,4.80
+Solitude,Mobrault,Straloin,Straloin II,Lustering Alloy,Medium,18.81
+Solitude,Mobrault,Straloin,Straloin II,Industrial Fibers,Medium,5.48
+Solitude,Mobrault,Straloin,Straloin II,Oxygen Isotopes,Medium,2.95
+Solitude,Mobrault,Straloin,Straloin III,Fiber Composite,Medium,17.50
+Solitude,Mobrault,Straloin,Straloin III,Noble Metals,Perfect,32.04
+Solitude,Mobrault,Straloin,Straloin III,Condensates,Perfect,22.21
+Solitude,Mobrault,Straloin,Straloin III,Liquid Ozone,Rich,32.38
+Solitude,Mobrault,Straloin,Straloin IV,Industrial Fibers,Medium,5.12
+Solitude,Mobrault,Straloin,Straloin IV,Silicate Glass,Poor,8.15
+Solitude,Mobrault,Straloin,Straloin IV,Plasmoids,Poor,0.93
+Solitude,Mobrault,Straloin,Straloin V,Glossy Compound,Rich,25.74
+Solitude,Mobrault,Straloin,Straloin V,Reactive Gas,Rich,26.91
+Solitude,Mobrault,Straloin,Straloin V,Noble Gas,Perfect,29.25
+Solitude,Mobrault,Straloin,Straloin V,Reactive Metals,Poor,3.89
+Solitude,Mobrault,Straloin,Straloin VI,Lustering Alloy,Rich,28.37
+Solitude,Mobrault,Straloin,Straloin VI,Glossy Compound,Rich,24.03
+Solitude,Mobrault,Straloin,Straloin VI,Noble Gas,Poor,15.97
+Solitude,Mobrault,Straloin,Straloin VI,Reactive Metals,Poor,4.42
+Solitude,Mobrault,Straloin,Straloin VII,Condensed Alloy,Perfect,31.68
+Solitude,Mobrault,Straloin,Straloin VII,Fiber Composite,Medium,19.17
+Solitude,Mobrault,Straloin,Straloin VII,Noble Metals,Perfect,34.40
+Solitude,Mobrault,Straloin,Straloin VII,Heavy Water,Medium,222.48
+Solitude,Mobrault,Straloin,Straloin VIII,Base Metals,Poor,4.22
+Solitude,Mobrault,Straloin,Straloin VIII,Industrial Fibers,Medium,4.98
+Solitude,Mobrault,Straloin,Straloin VIII,Construction Blocks,Poor,11.21
+Solitude,Mobrault,Straloin,Straloin IX,Sheen Compound,Rich,27.02
+Solitude,Mobrault,Straloin,Straloin IX,Glossy Compound,Medium,21.71
+Solitude,Mobrault,Straloin,Straloin IX,Noble Gas,Poor,16.15
+Solitude,Mobrault,Straloin,Straloin IX,Ionic Solutions,Rich,9.85
+Solitude,Mobrault,Straloin,Straloin X,Lustering Alloy,Medium,21.37
+Solitude,Mobrault,Straloin,Straloin X,Industrial Fibers,Poor,3.97
+Solitude,Mobrault,Straloin,Straloin X,Oxygen Isotopes,Poor,1.76
+Solitude,Mobrault,Straloin,Straloin XI,Base Metals,Poor,3.92
+Solitude,Mobrault,Straloin,Straloin XI,Coolant,Medium,14.90
+Solitude,Mobrault,Straloin,Straloin XI,Condensates,Rich,15.76
+Solitude,Mobrault,Straloin,Straloin XII,Condensed Alloy,Rich,26.28
+Solitude,Mobrault,Straloin,Straloin XII,Noble Metals,Perfect,29.05
+Solitude,Mobrault,Straloin,Straloin XII,Toxic Metals,Rich,6.53
+Solitude,Mobrault,Straloin,Straloin XII,Coolant,Medium,13.04

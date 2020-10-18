@@ -1,0 +1,2220 @@
+Region,Constellation,System,Name,Item,Rate,Output
+Outer Ring,Crown,C0T-77,C0T-77 I,Gleaming Alloy,Poor,17.52
+Outer Ring,Crown,C0T-77,C0T-77 I,Motley Compound,Rich,30.12
+Outer Ring,Crown,C0T-77,C0T-77 I,Noble Gas,Rich,31.70
+Outer Ring,Crown,C0T-77,C0T-77 II,Base Metals,Poor,4.08
+Outer Ring,Crown,C0T-77,C0T-77 II,Industrial Fibers,Poor,3.98
+Outer Ring,Crown,C0T-77,C0T-77 II,Supertensile Plastics,Medium,13.09
+Outer Ring,Crown,C0T-77,C0T-77 II,Construction Blocks,Medium,20.26
+Outer Ring,Crown,C0T-77,C0T-77 III,Opulent Compound,Medium,22.54
+Outer Ring,Crown,C0T-77,C0T-77 III,Reactive Gas,Perfect,36.34
+Outer Ring,Crown,C0T-77,C0T-77 III,Base Metals,Perfect,10.04
+Outer Ring,Crown,C0T-77,C0T-77 III,Noble Metals,Medium,21.32
+Outer Ring,Crown,C0T-77,C0T-77 III,Liquid Ozone,Medium,29.25
+Outer Ring,Crown,C0T-77,C0T-77 IV,Condensed Alloy,Medium,23.40
+Outer Ring,Crown,C0T-77,C0T-77 IV,Noble Metals,Poor,18.04
+Outer Ring,Crown,C0T-77,C0T-77 IV,Silicate Glass,Medium,11.27
+Outer Ring,Crown,C0T-77,C0T-77 IV,Liquid Ozone,Medium,24.32
+Outer Ring,Crown,C0T-77,C0T-77 IV,Ionic Solutions,Rich,10.44
+Outer Ring,Crown,C0T-77,C0T-77 V,Gleaming Alloy,Rich,30.64
+Outer Ring,Crown,C0T-77,C0T-77 V,Motley Compound,Medium,23.16
+Outer Ring,Crown,C0T-77,C0T-77 V,Construction Blocks,Medium,19.24
+Outer Ring,Crown,C0T-77,C0T-77 VI,Lustering Alloy,Medium,20.94
+Outer Ring,Crown,C0T-77,C0T-77 VI,Glossy Compound,Medium,24.16
+Outer Ring,Crown,C0T-77,C0T-77 VI,Reactive Gas,Rich,27.92
+Outer Ring,Crown,C0T-77,C0T-77 VI,Noble Gas,Poor,17.28
+Outer Ring,Crown,C0T-77,C0T-77 VI,Coolant,Medium,16.12
+Outer Ring,Crown,C0T-77,C0T-77 VII,Glossy Compound,Poor,18.20
+Outer Ring,Crown,C0T-77,C0T-77 VII,Reactive Gas,Rich,28.26
+Outer Ring,Crown,C0T-77,C0T-77 VII,Base Metals,Perfect,8.42
+Outer Ring,Crown,C0T-77,C0T-77 VII,Reactive Metals,Poor,4.54
+Outer Ring,Crown,C0T-77,C0T-77 VII,Ionic Solutions,Rich,12.16
+Outer Ring,Crown,C0T-77,C0T-77 VIII,Fiber Composite,Rich,26.86
+Outer Ring,Crown,C0T-77,C0T-77 VIII,Reactive Gas,Poor,18.08
+Outer Ring,Crown,C0T-77,C0T-77 VIII,Reactive Metals,Medium,5.53
+Outer Ring,Crown,C0T-77,C0T-77 VIII,Polyaramids,Medium,14.61
+Outer Ring,Crown,C0T-77,C0T-77 VIII,Coolant,Rich,18.21
+Outer Ring,Crown,C0T-77,C0T-77 IX,Opulent Compound,Rich,26.58
+Outer Ring,Crown,C0T-77,C0T-77 IX,Coolant,Perfect,23.21
+Outer Ring,Crown,C0T-77,C0T-77 IX,Silicate Glass,Perfect,16.10
+Outer Ring,Crown,C0T-77,C0T-77 IX,Liquid Ozone,Medium,26.63
+Outer Ring,Crown,C0T-77,C0T-77 IX,Ionic Solutions,Medium,9.35
+Outer Ring,Crown,C0T-77,C0T-77 X,Opulent Compound,Medium,22.28
+Outer Ring,Crown,C0T-77,C0T-77 X,Noble Metals,Perfect,32.90
+Outer Ring,Crown,C0T-77,C0T-77 X,Toxic Metals,Poor,4.80
+Outer Ring,Crown,C0T-77,C0T-77 X,Coolant,Perfect,22.61
+Outer Ring,Crown,C0T-77,C0T-77 X,Liquid Ozone,Poor,22.40
+Outer Ring,Crown,RL-KT0,RL-KT0 I,Gleaming Alloy,Perfect,32.32
+Outer Ring,Crown,RL-KT0,RL-KT0 I,Heavy Metals,Medium,20.56
+Outer Ring,Crown,RL-KT0,RL-KT0 I,Oxygen Isotopes,Medium,3.46
+Outer Ring,Crown,RL-KT0,RL-KT0 II,Gleaming Alloy,Medium,20.96
+Outer Ring,Crown,RL-KT0,RL-KT0 II,Construction Blocks,Medium,20.44
+Outer Ring,Crown,RL-KT0,RL-KT0 II,Oxygen Isotopes,Medium,3.51
+Outer Ring,Crown,RL-KT0,RL-KT0 III,Lustering Alloy,Medium,20.92
+Outer Ring,Crown,RL-KT0,RL-KT0 III,Dark Compound,Medium,19.14
+Outer Ring,Crown,RL-KT0,RL-KT0 III,Supertensile Plastics,Medium,13.01
+Outer Ring,Crown,RL-KT0,RL-KT0 III,Plasmoids,Poor,1.11
+Outer Ring,Crown,RL-KT0,RL-KT0 IV,Condensed Alloy,Perfect,32.20
+Outer Ring,Crown,RL-KT0,RL-KT0 IV,Opulent Compound,Medium,24.10
+Outer Ring,Crown,RL-KT0,RL-KT0 IV,Reactive Gas,Medium,22.12
+Outer Ring,Crown,RL-KT0,RL-KT0 IV,Smartfab Units,Perfect,23.28
+Outer Ring,Crown,RL-KT0,RL-KT0 IV,Liquid Ozone,Medium,29.38
+Outer Ring,Crown,RL-KT0,RL-KT0 V,Precious Alloy,Medium,23.02
+Outer Ring,Crown,RL-KT0,RL-KT0 V,Base Metals,Medium,5.08
+Outer Ring,Crown,RL-KT0,RL-KT0 V,Supertensile Plastics,Poor,10.07
+Outer Ring,Crown,RL-KT0,RL-KT0 V,Oxygen Isotopes,Medium,3.47
+Outer Ring,Crown,RL-KT0,RL-KT0 VI,Reactive Gas,Rich,31.46
+Outer Ring,Crown,RL-KT0,RL-KT0 VI,Base Metals,Perfect,8.49
+Outer Ring,Crown,RL-KT0,RL-KT0 VI,Noble Metals,Rich,27.42
+Outer Ring,Crown,RL-KT0,RL-KT0 VI,Condensates,Rich,18.00
+Outer Ring,Crown,RL-KT0,RL-KT0 VI,Liquid Ozone,Rich,38.42
+Outer Ring,Crown,RL-KT0,RL-KT0 VII,Reactive Gas,Poor,18.02
+Outer Ring,Crown,RL-KT0,RL-KT0 VII,Base Metals,Rich,8.34
+Outer Ring,Crown,RL-KT0,RL-KT0 VII,Reactive Metals,Perfect,8.45
+Outer Ring,Crown,RL-KT0,RL-KT0 VII,Polyaramids,Medium,16.09
+Outer Ring,Crown,RL-KT0,RL-KT0 VII,Coolant,Rich,18.20
+Outer Ring,Crown,RL-KT0,RL-KT0 VIII,Lustering Alloy,Medium,23.60
+Outer Ring,Crown,RL-KT0,RL-KT0 VIII,Sheen Compound,Medium,21.38
+Outer Ring,Crown,RL-KT0,RL-KT0 VIII,Reactive Gas,Poor,16.82
+Outer Ring,Crown,RL-KT0,RL-KT0 VIII,Noble Gas,Medium,23.50
+Outer Ring,Crown,RL-KT0,RL-KT0 VIII,Polyaramids,Medium,16.60
+Outer Ring,Crown,RL-KT0,RL-KT0 IX,Fiber Composite,Medium,19.70
+Outer Ring,Crown,RL-KT0,RL-KT0 IX,Industrial Fibers,Poor,4.92
+Outer Ring,Crown,RL-KT0,RL-KT0 IX,Smartfab Units,Rich,17.35
+Outer Ring,Crown,RL-KT0,RL-KT0 IX,Heavy Water,Perfect,363.20
+Outer Ring,Crown,RL-KT0,RL-KT0 IX,Liquid Ozone,Medium,30.77
+Outer Ring,Crown,RL-KT0,RL-KT0 X,Fiber Composite,Medium,23.60
+Outer Ring,Crown,RL-KT0,RL-KT0 X,Reactive Gas,Rich,31.68
+Outer Ring,Crown,RL-KT0,RL-KT0 X,Noble Gas,Rich,28.44
+Outer Ring,Crown,RL-KT0,RL-KT0 X,Polyaramids,Rich,18.72
+Outer Ring,Crown,RL-KT0,RL-KT0 X,Coolant,Medium,16.41
+Outer Ring,Crown,RL-KT0,RL-KT0 XI,Sheen Compound,Medium,23.06
+Outer Ring,Crown,RL-KT0,RL-KT0 XI,Reactive Gas,Rich,27.86
+Outer Ring,Crown,RL-KT0,RL-KT0 XI,Noble Gas,Medium,22.34
+Outer Ring,Crown,RL-KT0,RL-KT0 XI,Coolant,Medium,14.53
+Outer Ring,Crown,RL-KT0,RL-KT0 XI,Ionic Solutions,Rich,12.12
+Outer Ring,Crown,RL-KT0,RL-KT0 XII,Lustering Alloy,Rich,27.64
+Outer Ring,Crown,RL-KT0,RL-KT0 XII,Coolant,Medium,13.63
+Outer Ring,Crown,RL-KT0,RL-KT0 XII,Condensates,Rich,17.20
+Outer Ring,Crown,RL-KT0,RL-KT0 XII,Liquid Ozone,Poor,21.93
+Outer Ring,Crown,UO9-YG,UO9-YG I,Crystal Compound,Medium,24.70
+Outer Ring,Crown,UO9-YG,UO9-YG I,Reactive Metals,Poor,4.85
+Outer Ring,Crown,UO9-YG,UO9-YG I,Toxic Metals,Rich,7.66
+Outer Ring,Crown,UO9-YG,UO9-YG I,Suspended Plasma,Medium,79.27
+Outer Ring,Crown,UO9-YG,UO9-YG II,Precious Alloy,Poor,17.30
+Outer Ring,Crown,UO9-YG,UO9-YG II,Dark Compound,Poor,18.40
+Outer Ring,Crown,UO9-YG,UO9-YG II,Industrial Fibers,Poor,4.52
+Outer Ring,Crown,UO9-YG,UO9-YG II,Supertensile Plastics,Medium,15.25
+Outer Ring,Crown,UO9-YG,UO9-YG III,Reactive Gas,Medium,23.72
+Outer Ring,Crown,UO9-YG,UO9-YG III,Noble Metals,Perfect,32.90
+Outer Ring,Crown,UO9-YG,UO9-YG III,Industrial Fibers,Perfect,9.53
+Outer Ring,Crown,UO9-YG,UO9-YG III,Smartfab Units,Rich,18.63
+Outer Ring,Crown,UO9-YG,UO9-YG III,Liquid Ozone,Perfect,47.77
+Outer Ring,Crown,UO9-YG,UO9-YG IV,Opulent Compound,Medium,21.92
+Outer Ring,Crown,UO9-YG,UO9-YG IV,Base Metals,Perfect,9.66
+Outer Ring,Crown,UO9-YG,UO9-YG IV,Industrial Fibers,Perfect,9.93
+Outer Ring,Crown,UO9-YG,UO9-YG IV,Condensates,Perfect,24.13
+Outer Ring,Crown,UO9-YG,UO9-YG IV,Liquid Ozone,Perfect,43.17
+Outer Ring,Crown,UO9-YG,UO9-YG V,Lustering Alloy,Medium,19.70
+Outer Ring,Crown,UO9-YG,UO9-YG V,Industrial Fibers,Poor,4.22
+Outer Ring,Crown,UO9-YG,UO9-YG V,Supertensile Plastics,Poor,11.93
+Outer Ring,Crown,UO9-YG,UO9-YG V,Construction Blocks,Poor,12.94
+Outer Ring,Crown,UO9-YG,UO9-YG VI,Lustering Alloy,Poor,13.20
+Outer Ring,Crown,UO9-YG,UO9-YG VI,Precious Alloy,Medium,20.78
+Outer Ring,Crown,UO9-YG,UO9-YG VI,Supertensile Plastics,Medium,13.25
+Outer Ring,Crown,UO9-YG,UO9-YG VI,Oxygen Isotopes,Medium,3.37
+Outer Ring,Crown,UO9-YG,UO9-YG VII,Reactive Metals,Perfect,8.47
+Outer Ring,Crown,UO9-YG,UO9-YG VII,Nanites,Rich,6.86
+Outer Ring,Crown,UO9-YG,UO9-YG VII,Suspended Plasma,Rich,91.51
+Outer Ring,Crown,UO9-YG,UO9-YG VII,Oxygen Isotopes,Rich,4.34
+Outer Ring,Crown,ZQP-QV,ZQP-QV I,Reactive Metals,Rich,7.81
+Outer Ring,Crown,ZQP-QV,ZQP-QV I,Condensates,Perfect,21.25
+Outer Ring,Crown,ZQP-QV,ZQP-QV I,Suspended Plasma,Rich,91.15
+Outer Ring,Crown,ZQP-QV,ZQP-QV I,Ionic Solutions,Perfect,13.65
+Outer Ring,Crown,ZQP-QV,ZQP-QV I,Plasmoids,Perfect,2.07
+Outer Ring,Crown,ZQP-QV,ZQP-QV II,Dark Compound,Medium,23.84
+Outer Ring,Crown,ZQP-QV,ZQP-QV II,Toxic Metals,Medium,5.31
+Outer Ring,Crown,ZQP-QV,ZQP-QV II,Supertensile Plastics,Poor,8.67
+Outer Ring,Crown,ZQP-QV,ZQP-QV II,Silicate Glass,Poor,8.41
+Outer Ring,Crown,ZQP-QV,ZQP-QV III,Base Metals,Medium,6.36
+Outer Ring,Crown,ZQP-QV,ZQP-QV III,Toxic Metals,Poor,4.78
+Outer Ring,Crown,ZQP-QV,ZQP-QV III,Industrial Fibers,Poor,4.64
+Outer Ring,Crown,ZQP-QV,ZQP-QV III,Supertensile Plastics,Poor,11.68
+Outer Ring,Crown,ZQP-QV,ZQP-QV IV,Reactive Gas,Perfect,35.16
+Outer Ring,Crown,ZQP-QV,ZQP-QV IV,Base Metals,Rich,7.09
+Outer Ring,Crown,ZQP-QV,ZQP-QV IV,Industrial Fibers,Rich,7.86
+Outer Ring,Crown,ZQP-QV,ZQP-QV IV,Smartfab Units,Rich,20.56
+Outer Ring,Crown,ZQP-QV,ZQP-QV IV,Liquid Ozone,Medium,30.68
+Outer Ring,Crown,ZQP-QV,ZQP-QV V,Fiber Composite,Perfect,36.32
+Outer Ring,Crown,ZQP-QV,ZQP-QV V,Condensates,Perfect,24.64
+Outer Ring,Crown,ZQP-QV,ZQP-QV V,Smartfab Units,Rich,19.52
+Outer Ring,Crown,ZQP-QV,ZQP-QV V,Heavy Water,Rich,281.40
+Outer Ring,Crown,ZQP-QV,ZQP-QV V,Liquid Ozone,Perfect,40.25
+Outer Ring,Crown,ZQP-QV,ZQP-QV VI,Precious Alloy,Medium,22.40
+Outer Ring,Crown,ZQP-QV,ZQP-QV VI,Toxic Metals,Medium,5.82
+Outer Ring,Crown,ZQP-QV,ZQP-QV VI,Supertensile Plastics,Poor,11.95
+Outer Ring,Crown,ZQP-QV,ZQP-QV VI,Plasmoids,Medium,1.16
+Outer Ring,Crown,ZQP-QV,ZQP-QV VII,Sheen Compound,Poor,17.44
+Outer Ring,Crown,ZQP-QV,ZQP-QV VII,Glossy Compound,Rich,28.10
+Outer Ring,Crown,ZQP-QV,ZQP-QV VII,Reactive Gas,Rich,26.88
+Outer Ring,Crown,ZQP-QV,ZQP-QV VII,Polyaramids,Perfect,21.87
+Outer Ring,Crown,ZQP-QV,ZQP-QV VII,Coolant,Rich,17.01
+Outer Ring,Crown,ZQP-QV,ZQP-QV VIII,Glossy Compound,Medium,24.60
+Outer Ring,Crown,ZQP-QV,ZQP-QV VIII,Reactive Gas,Poor,16.80
+Outer Ring,Crown,ZQP-QV,ZQP-QV VIII,Base Metals,Rich,7.89
+Outer Ring,Crown,ZQP-QV,ZQP-QV VIII,Polyaramids,Rich,20.15
+Outer Ring,Crown,ZQP-QV,ZQP-QV VIII,Ionic Solutions,Rich,12.20
+Outer Ring,Crown,ZQP-QV,ZQP-QV IX,Heavy Metals,Medium,21.52
+Outer Ring,Crown,ZQP-QV,ZQP-QV IX,Supertensile Plastics,Medium,14.84
+Outer Ring,Crown,ZQP-QV,ZQP-QV IX,Condensates,Rich,18.15
+Outer Ring,Crown,ZQP-QV,ZQP-QV IX,Liquid Ozone,Medium,26.07
+Outer Ring,Crown,P-NUWP,P-NUWP I,Dark Compound,Poor,18.80
+Outer Ring,Crown,P-NUWP,P-NUWP I,Toxic Metals,Poor,3.66
+Outer Ring,Crown,P-NUWP,P-NUWP I,Supertensile Plastics,Medium,15.69
+Outer Ring,Crown,P-NUWP,P-NUWP I,Oxygen Isotopes,Medium,3.35
+Outer Ring,Crown,P-NUWP,P-NUWP II,Lustering Alloy,Poor,13.22
+Outer Ring,Crown,P-NUWP,P-NUWP II,Precious Alloy,Poor,17.12
+Outer Ring,Crown,P-NUWP,P-NUWP II,Industrial Fibers,Medium,5.74
+Outer Ring,Crown,P-NUWP,P-NUWP II,Supertensile Plastics,Medium,13.36
+Outer Ring,Crown,P-NUWP,P-NUWP III,Lustering Alloy,Poor,17.64
+Outer Ring,Crown,P-NUWP,P-NUWP III,Supertensile Plastics,Medium,12.87
+Outer Ring,Crown,P-NUWP,P-NUWP III,Construction Blocks,Medium,19.70
+Outer Ring,Crown,P-NUWP,P-NUWP III,Plasmoids,Poor,0.88
+Outer Ring,Crown,P-NUWP,P-NUWP IV,Lustering Alloy,Rich,26.88
+Outer Ring,Crown,P-NUWP,P-NUWP IV,Glossy Compound,Medium,21.94
+Outer Ring,Crown,P-NUWP,P-NUWP IV,Reactive Gas,Medium,19.22
+Outer Ring,Crown,P-NUWP,P-NUWP IV,Reactive Metals,Rich,7.14
+Outer Ring,Crown,P-NUWP,P-NUWP IV,Ionic Solutions,Rich,11.02
+Outer Ring,Crown,P-NUWP,P-NUWP V,Lustering Alloy,Rich,30.66
+Outer Ring,Crown,P-NUWP,P-NUWP V,Glossy Compound,Medium,25.12
+Outer Ring,Crown,P-NUWP,P-NUWP V,Reactive Gas,Rich,31.60
+Outer Ring,Crown,P-NUWP,P-NUWP V,Polyaramids,Rich,18.27
+Outer Ring,Crown,P-NUWP,P-NUWP V,Coolant,Rich,20.65
+Outer Ring,Crown,P-NUWP,P-NUWP VI,Lustering Alloy,Rich,28.42
+Outer Ring,Crown,P-NUWP,P-NUWP VI,Glossy Compound,Medium,25.16
+Outer Ring,Crown,P-NUWP,P-NUWP VI,Reactive Gas,Poor,17.68
+Outer Ring,Crown,P-NUWP,P-NUWP VI,Base Metals,Medium,6.19
+Outer Ring,Crown,P-NUWP,P-NUWP VI,Polyaramids,Rich,19.96
+Outer Ring,Crown,ZJQH-S,ZJQH-S I,Gleaming Alloy,Poor,18.72
+Outer Ring,Crown,ZJQH-S,ZJQH-S I,Motley Compound,Medium,20.10
+Outer Ring,Crown,ZJQH-S,ZJQH-S I,Construction Blocks,Rich,31.24
+Outer Ring,Crown,ZJQH-S,ZJQH-S II,Industrial Fibers,Poor,4.25
+Outer Ring,Crown,ZJQH-S,ZJQH-S II,Supertensile Plastics,Poor,11.72
+Outer Ring,Crown,ZJQH-S,ZJQH-S II,Construction Blocks,Medium,21.74
+Outer Ring,Crown,ZJQH-S,ZJQH-S II,Plasmoids,Poor,0.81
+Outer Ring,Crown,ZJQH-S,ZJQH-S III,Opulent Compound,Perfect,33.34
+Outer Ring,Crown,ZJQH-S,ZJQH-S III,Condensates,Perfect,22.25
+Outer Ring,Crown,ZJQH-S,ZJQH-S III,Smartfab Units,Rich,20.88
+Outer Ring,Crown,ZJQH-S,ZJQH-S III,Heavy Water,Rich,307.40
+Outer Ring,Crown,ZJQH-S,ZJQH-S III,Liquid Ozone,Medium,27.77
+Outer Ring,Crown,ZJQH-S,ZJQH-S IV,Fiber Composite,Rich,26.48
+Outer Ring,Crown,ZJQH-S,ZJQH-S IV,Glossy Compound,Medium,19.44
+Outer Ring,Crown,ZJQH-S,ZJQH-S IV,Reactive Gas,Perfect,32.08
+Outer Ring,Crown,ZJQH-S,ZJQH-S IV,Noble Gas,Medium,25.18
+Outer Ring,Crown,ZJQH-S,ZJQH-S IV,Polyaramids,Medium,14.45
+Outer Ring,Crown,ZJQH-S,ZJQH-S V,Sheen Compound,Rich,30.82
+Outer Ring,Crown,ZJQH-S,ZJQH-S V,Fiber Composite,Medium,19.22
+Outer Ring,Crown,ZJQH-S,ZJQH-S V,Glossy Compound,Medium,20.54
+Outer Ring,Crown,ZJQH-S,ZJQH-S V,Reactive Gas,Medium,20.52
+Outer Ring,Crown,ZJQH-S,ZJQH-S V,Ionic Solutions,Medium,8.37
+Outer Ring,Crown,ZJQH-S,ZJQH-S VI,Reactive Gas,Medium,25.16
+Outer Ring,Crown,ZJQH-S,ZJQH-S VI,Noble Gas,Poor,17.36
+Outer Ring,Crown,ZJQH-S,ZJQH-S VI,Polyaramids,Rich,19.76
+Outer Ring,Crown,ZJQH-S,ZJQH-S VI,Coolant,Rich,21.09
+Outer Ring,Crown,ZJQH-S,ZJQH-S VI,Ionic Solutions,Perfect,12.95
+Outer Ring,Crown,ZJQH-S,ZJQH-S VII,Dark Compound,Medium,22.84
+Outer Ring,Crown,ZJQH-S,ZJQH-S VII,Supertensile Plastics,Poor,12.15
+Outer Ring,Crown,ZJQH-S,ZJQH-S VII,Silicate Glass,Medium,9.95
+Outer Ring,Crown,ZJQH-S,ZJQH-S VII,Oxygen Isotopes,Medium,3.21
+Outer Ring,Crown,E9G-MT,E9G-MT I,Toxic Metals,Poor,4.10
+Outer Ring,Crown,E9G-MT,E9G-MT I,Industrial Fibers,Medium,6.25
+Outer Ring,Crown,E9G-MT,E9G-MT I,Supertensile Plastics,Medium,15.87
+Outer Ring,Crown,E9G-MT,E9G-MT I,Construction Blocks,Medium,19.44
+Outer Ring,Crown,E9G-MT,E9G-MT II,Lustering Alloy,Poor,15.32
+Outer Ring,Crown,E9G-MT,E9G-MT II,Precious Alloy,Poor,13.06
+Outer Ring,Crown,E9G-MT,E9G-MT II,Dark Compound,Medium,24.34
+Outer Ring,Crown,E9G-MT,E9G-MT II,Supertensile Plastics,Medium,16.37
+Outer Ring,Crown,E9G-MT,E9G-MT III,Sheen Compound,Poor,17.44
+Outer Ring,Crown,E9G-MT,E9G-MT III,Fiber Composite,Perfect,32.20
+Outer Ring,Crown,E9G-MT,E9G-MT III,Glossy Compound,Medium,19.12
+Outer Ring,Crown,E9G-MT,E9G-MT III,Reactive Gas,Rich,26.82
+Outer Ring,Crown,E9G-MT,E9G-MT III,Reactive Metals,Rich,7.13
+Outer Ring,Crown,E9G-MT,E9G-MT IV,Sheen Compound,Medium,24.18
+Outer Ring,Crown,E9G-MT,E9G-MT IV,Fiber Composite,Poor,16.44
+Outer Ring,Crown,E9G-MT,E9G-MT IV,Glossy Compound,Rich,28.92
+Outer Ring,Crown,E9G-MT,E9G-MT IV,Reactive Gas,Medium,24.80
+Outer Ring,Crown,E9G-MT,E9G-MT IV,Ionic Solutions,Medium,8.52
+Outer Ring,Crown,E9G-MT,E9G-MT V,Lustering Alloy,Medium,18.88
+Outer Ring,Crown,E9G-MT,E9G-MT V,Fiber Composite,Rich,28.88
+Outer Ring,Crown,E9G-MT,E9G-MT V,Reactive Gas,Medium,19.18
+Outer Ring,Crown,E9G-MT,E9G-MT V,Base Metals,Poor,4.93
+Outer Ring,Crown,E9G-MT,E9G-MT V,Polyaramids,Medium,15.81
+Outer Ring,Crown,E9G-MT,E9G-MT VI,Reactive Gas,Rich,25.82
+Outer Ring,Crown,E9G-MT,E9G-MT VI,Noble Gas,Rich,25.54
+Outer Ring,Crown,E9G-MT,E9G-MT VI,Polyaramids,Medium,12.72
+Outer Ring,Crown,E9G-MT,E9G-MT VI,Coolant,Rich,18.75
+Outer Ring,Crown,E9G-MT,E9G-MT VI,Ionic Solutions,Rich,12.48
+Outer Ring,Crown,E9G-MT,E9G-MT VII,Fiber Composite,Medium,19.76
+Outer Ring,Crown,E9G-MT,E9G-MT VII,Glossy Compound,Medium,22.40
+Outer Ring,Crown,E9G-MT,E9G-MT VII,Reactive Gas,Rich,31.38
+Outer Ring,Crown,E9G-MT,E9G-MT VII,Base Metals,Poor,4.34
+Outer Ring,Crown,E9G-MT,E9G-MT VII,Ionic Solutions,Poor,7.50
+Outer Ring,Crown,E9G-MT,E9G-MT VIII,Lustering Alloy,Rich,25.64
+Outer Ring,Crown,E9G-MT,E9G-MT VIII,Industrial Fibers,Poor,4.37
+Outer Ring,Crown,E9G-MT,E9G-MT VIII,Condensates,Medium,15.25
+Outer Ring,Crown,E9G-MT,E9G-MT VIII,Liquid Ozone,Medium,25.65
+Outer Ring,Crown,TQ-RR8,TQ-RR8 I,Industrial Fibers,Poor,4.77
+Outer Ring,Crown,TQ-RR8,TQ-RR8 I,Supertensile Plastics,Medium,13.75
+Outer Ring,Crown,TQ-RR8,TQ-RR8 I,Silicate Glass,Poor,8.31
+Outer Ring,Crown,TQ-RR8,TQ-RR8 I,Plasmoids,Medium,1.36
+Outer Ring,Crown,TQ-RR8,TQ-RR8 II,Dark Compound,Medium,23.46
+Outer Ring,Crown,TQ-RR8,TQ-RR8 II,Toxic Metals,Medium,5.79
+Outer Ring,Crown,TQ-RR8,TQ-RR8 II,Supertensile Plastics,Poor,9.49
+Outer Ring,Crown,TQ-RR8,TQ-RR8 II,Silicate Glass,Medium,12.06
+Outer Ring,Crown,TQ-RR8,TQ-RR8 III,Gleaming Alloy,Medium,23.76
+Outer Ring,Crown,TQ-RR8,TQ-RR8 III,Smartfab Units,Medium,13.31
+Outer Ring,Crown,TQ-RR8,TQ-RR8 III,Plasmoids,Rich,1.78
+Outer Ring,Crown,TQ-RR8,TQ-RR8 IV,Glossy Compound,Medium,19.68
+Outer Ring,Crown,TQ-RR8,TQ-RR8 IV,Reactive Gas,Rich,27.32
+Outer Ring,Crown,TQ-RR8,TQ-RR8 IV,Reactive Metals,Perfect,8.44
+Outer Ring,Crown,TQ-RR8,TQ-RR8 IV,Coolant,Rich,21.17
+Outer Ring,Crown,TQ-RR8,TQ-RR8 IV,Ionic Solutions,Poor,7.10
+Outer Ring,Crown,TQ-RR8,TQ-RR8 V,Lustering Alloy,Poor,17.88
+Outer Ring,Crown,TQ-RR8,TQ-RR8 V,Sheen Compound,Medium,19.70
+Outer Ring,Crown,TQ-RR8,TQ-RR8 V,Glossy Compound,Perfect,33.08
+Outer Ring,Crown,TQ-RR8,TQ-RR8 V,Reactive Gas,Rich,31.20
+Outer Ring,Crown,TQ-RR8,TQ-RR8 V,Coolant,Medium,15.72
+Outer Ring,Crown,TQ-RR8,TQ-RR8 VI,Lustering Alloy,Rich,30.54
+Outer Ring,Crown,TQ-RR8,TQ-RR8 VI,Sheen Compound,Rich,29.98
+Outer Ring,Crown,TQ-RR8,TQ-RR8 VI,Reactive Gas,Medium,22.58
+Outer Ring,Crown,TQ-RR8,TQ-RR8 VI,Coolant,Rich,17.45
+Outer Ring,Crown,TQ-RR8,TQ-RR8 VI,Ionic Solutions,Rich,12.18
+Outer Ring,Crown,TQ-RR8,TQ-RR8 VII,Lustering Alloy,Medium,21.00
+Outer Ring,Crown,TQ-RR8,TQ-RR8 VII,Dark Compound,Medium,23.48
+Outer Ring,Crown,TQ-RR8,TQ-RR8 VII,Supertensile Plastics,Poor,11.27
+Outer Ring,Crown,TQ-RR8,TQ-RR8 VII,Oxygen Isotopes,Poor,2.42
+Outer Ring,Crown,TQ-RR8,TQ-RR8 VIII,Motley Compound,Rich,27.32
+Outer Ring,Crown,TQ-RR8,TQ-RR8 VIII,Base Metals,Poor,4.21
+Outer Ring,Crown,TQ-RR8,TQ-RR8 VIII,Heavy Metals,Rich,26.48
+Outer Ring,Crown,TQ-RR8,TQ-RR8 VIII,Condensates,Medium,14.83
+Outer Ring,Crown,TQ-RR8,TQ-RR8 IX,Gleaming Alloy,Rich,28.52
+Outer Ring,Crown,TQ-RR8,TQ-RR8 IX,Crystal Compound,Medium,22.84
+Outer Ring,Crown,TQ-RR8,TQ-RR8 IX,Reactive Gas,Medium,25.10
+Outer Ring,Crown,TQ-RR8,TQ-RR8 IX,Reactive Metals,Rich,6.94
+Outer Ring,Heart,1L-BHT,1L-BHT I,Gleaming Alloy,Rich,28.70
+Outer Ring,Heart,1L-BHT,1L-BHT I,Smartfab Units,Medium,13.07
+Outer Ring,Heart,1L-BHT,1L-BHT I,Oxygen Isotopes,Rich,4.44
+Outer Ring,Heart,1L-BHT,1L-BHT II,Lustering Alloy,Medium,23.72
+Outer Ring,Heart,1L-BHT,1L-BHT II,Fiber Composite,Rich,26.88
+Outer Ring,Heart,1L-BHT,1L-BHT II,Glossy Compound,Rich,28.90
+Outer Ring,Heart,1L-BHT,1L-BHT II,Reactive Gas,Medium,25.24
+Outer Ring,Heart,1L-BHT,1L-BHT II,Ionic Solutions,Medium,7.64
+Outer Ring,Heart,1L-BHT,1L-BHT III,Lustering Alloy,Medium,25.20
+Outer Ring,Heart,1L-BHT,1L-BHT III,Glossy Compound,Medium,23.16
+Outer Ring,Heart,1L-BHT,1L-BHT III,Reactive Gas,Medium,22.62
+Outer Ring,Heart,1L-BHT,1L-BHT III,Reactive Metals,Rich,8.16
+Outer Ring,Heart,1L-BHT,1L-BHT III,Coolant,Rich,18.05
+Outer Ring,Heart,1L-BHT,1L-BHT IV,Condensed Alloy,Rich,26.40
+Outer Ring,Heart,1L-BHT,1L-BHT IV,Base Metals,Medium,6.63
+Outer Ring,Heart,1L-BHT,1L-BHT IV,Noble Metals,Perfect,35.42
+Outer Ring,Heart,1L-BHT,1L-BHT IV,Smartfab Units,Rich,17.05
+Outer Ring,Heart,1L-BHT,1L-BHT IV,Liquid Ozone,Medium,28.57
+Outer Ring,Heart,1L-BHT,1L-BHT V,Heavy Metals,Rich,26.00
+Outer Ring,Heart,1L-BHT,1L-BHT V,Coolant,Medium,14.89
+Outer Ring,Heart,1L-BHT,1L-BHT V,Condensates,Rich,18.93
+Outer Ring,Heart,1L-BHT,1L-BHT V,Suspended Plasma,Poor,64.30
+Outer Ring,Heart,D5IW-F,D5IW-F I,Lustering Alloy,Medium,22.62
+Outer Ring,Heart,D5IW-F,D5IW-F I,Precious Alloy,Poor,14.50
+Outer Ring,Heart,D5IW-F,D5IW-F I,Supertensile Plastics,Poor,11.59
+Outer Ring,Heart,D5IW-F,D5IW-F I,Oxygen Isotopes,Medium,3.04
+Outer Ring,Heart,D5IW-F,D5IW-F II,Gleaming Alloy,Medium,21.82
+Outer Ring,Heart,D5IW-F,D5IW-F II,Glossy Compound,Rich,27.34
+Outer Ring,Heart,D5IW-F,D5IW-F II,Polyaramids,Medium,16.84
+Outer Ring,Heart,D5IW-F,D5IW-F III,Precious Alloy,Poor,15.14
+Outer Ring,Heart,D5IW-F,D5IW-F III,Industrial Fibers,Poor,3.67
+Outer Ring,Heart,D5IW-F,D5IW-F III,Supertensile Plastics,Medium,14.55
+Outer Ring,Heart,D5IW-F,D5IW-F III,Construction Blocks,Poor,13.22
+Outer Ring,Heart,D5IW-F,D5IW-F IV,Gleaming Alloy,Medium,24.28
+Outer Ring,Heart,D5IW-F,D5IW-F IV,Oxygen Isotopes,Rich,4.64
+Outer Ring,Heart,D5IW-F,D5IW-F IV,Plasmoids,Rich,1.54
+Outer Ring,Heart,D5IW-F,D5IW-F V,Fiber Composite,Perfect,35.86
+Outer Ring,Heart,D5IW-F,D5IW-F V,Reactive Gas,Poor,18.74
+Outer Ring,Heart,D5IW-F,D5IW-F V,Noble Metals,Rich,26.62
+Outer Ring,Heart,D5IW-F,D5IW-F V,Heavy Water,Rich,308.80
+Outer Ring,Heart,D5IW-F,D5IW-F V,Liquid Ozone,Perfect,42.38
+Outer Ring,Heart,D5IW-F,D5IW-F VI,Crystal Compound,Poor,17.44
+Outer Ring,Heart,D5IW-F,D5IW-F VI,Reactive Metals,Rich,7.59
+Outer Ring,Heart,D5IW-F,D5IW-F VI,Nanites,Medium,5.34
+Outer Ring,Heart,D5IW-F,D5IW-F VI,Suspended Plasma,Medium,73.22
+Outer Ring,Heart,D5IW-F,D5IW-F VII,Dark Compound,Perfect,33.14
+Outer Ring,Heart,D5IW-F,D5IW-F VII,Heavy Metals,Medium,22.16
+Outer Ring,Heart,D5IW-F,D5IW-F VII,Condensates,Medium,15.92
+Outer Ring,Heart,D5IW-F,D5IW-F VII,Nanites,Rich,7.02
+Outer Ring,Heart,D5IW-F,D5IW-F VII,Plasmoids,Rich,1.68
+Outer Ring,Heart,D5IW-F,D5IW-F VIII,Sheen Compound,Perfect,33.04
+Outer Ring,Heart,D5IW-F,D5IW-F VIII,Reactive Gas,Rich,31.34
+Outer Ring,Heart,D5IW-F,D5IW-F VIII,Base Metals,Rich,6.83
+Outer Ring,Heart,D5IW-F,D5IW-F VIII,Reactive Metals,Rich,7.03
+Outer Ring,Heart,D5IW-F,D5IW-F VIII,Ionic Solutions,Medium,7.77
+Outer Ring,Heart,D5IW-F,D5IW-F IX,Sheen Compound,Rich,26.42
+Outer Ring,Heart,D5IW-F,D5IW-F IX,Reactive Gas,Medium,19.02
+Outer Ring,Heart,D5IW-F,D5IW-F IX,Noble Gas,Rich,29.88
+Outer Ring,Heart,D5IW-F,D5IW-F IX,Reactive Metals,Perfect,8.45
+Outer Ring,Heart,D5IW-F,D5IW-F IX,Ionic Solutions,Poor,7.02
+Outer Ring,Heart,D5IW-F,D5IW-F X,Lustering Alloy,Poor,16.68
+Outer Ring,Heart,D5IW-F,D5IW-F X,Sheen Compound,Rich,25.62
+Outer Ring,Heart,D5IW-F,D5IW-F X,Reactive Gas,Rich,31.26
+Outer Ring,Heart,D5IW-F,D5IW-F X,Noble Gas,Perfect,32.44
+Outer Ring,Heart,D5IW-F,D5IW-F X,Coolant,Rich,17.72
+Outer Ring,Heart,D5IW-F,D5IW-F XI,Reactive Gas,Medium,25.18
+Outer Ring,Heart,D5IW-F,D5IW-F XI,Reactive Metals,Poor,4.94
+Outer Ring,Heart,D5IW-F,D5IW-F XI,Construction Blocks,Rich,28.46
+Outer Ring,Heart,D5IW-F,D5IW-F XI,Nanites,Perfect,8.42
+Outer Ring,Heart,D5IW-F,D5IW-F XII,Lustering Alloy,Medium,21.74
+Outer Ring,Heart,D5IW-F,D5IW-F XII,Precious Alloy,Poor,12.74
+Outer Ring,Heart,D5IW-F,D5IW-F XII,Supertensile Plastics,Medium,13.83
+Outer Ring,Heart,D5IW-F,D5IW-F XII,Construction Blocks,Poor,13.36
+Outer Ring,Heart,D5IW-F,D5IW-F XIII,Condensed Alloy,Medium,20.54
+Outer Ring,Heart,D5IW-F,D5IW-F XIII,Noble Metals,Rich,25.38
+Outer Ring,Heart,D5IW-F,D5IW-F XIII,Toxic Metals,Perfect,8.60
+Outer Ring,Heart,D5IW-F,D5IW-F XIII,Heavy Water,Poor,179.40
+Outer Ring,Heart,D5IW-F,D5IW-F XIII,Liquid Ozone,Medium,24.43
+Outer Ring,Heart,F-XWIN,F-XWIN I,Gleaming Alloy,Rich,30.02
+Outer Ring,Heart,F-XWIN,F-XWIN I,Noble Metals,Medium,21.74
+Outer Ring,Heart,F-XWIN,F-XWIN I,Oxygen Isotopes,Rich,4.08
+Outer Ring,Heart,F-XWIN,F-XWIN II,Gleaming Alloy,Medium,23.24
+Outer Ring,Heart,F-XWIN,F-XWIN II,Reactive Metals,Medium,5.48
+Outer Ring,Heart,F-XWIN,F-XWIN II,Toxic Metals,Rich,8.21
+Outer Ring,Heart,F-XWIN,F-XWIN II,Supertensile Plastics,Medium,13.15
+Outer Ring,Heart,F-XWIN,F-XWIN III,Lustering Alloy,Medium,21.56
+Outer Ring,Heart,F-XWIN,F-XWIN III,Precious Alloy,Medium,24.40
+Outer Ring,Heart,F-XWIN,F-XWIN III,Dark Compound,Poor,16.18
+Outer Ring,Heart,F-XWIN,F-XWIN III,Supertensile Plastics,Poor,10.76
+Outer Ring,Heart,F-XWIN,F-XWIN IV,Fiber Composite,Rich,28.86
+Outer Ring,Heart,F-XWIN,F-XWIN IV,Reactive Gas,Medium,24.70
+Outer Ring,Heart,F-XWIN,F-XWIN IV,Noble Gas,Poor,17.40
+Outer Ring,Heart,F-XWIN,F-XWIN IV,Base Metals,Medium,6.56
+Outer Ring,Heart,F-XWIN,F-XWIN IV,Ionic Solutions,Medium,8.55
+Outer Ring,Heart,F-XWIN,F-XWIN V,Sheen Compound,Medium,20.04
+Outer Ring,Heart,F-XWIN,F-XWIN V,Fiber Composite,Perfect,31.78
+Outer Ring,Heart,F-XWIN,F-XWIN V,Reactive Gas,Medium,23.76
+Outer Ring,Heart,F-XWIN,F-XWIN V,Base Metals,Medium,5.26
+Outer Ring,Heart,F-XWIN,F-XWIN V,Coolant,Rich,18.12
+Outer Ring,Heart,F-XWIN,F-XWIN VI,Lustering Alloy,Rich,29.88
+Outer Ring,Heart,F-XWIN,F-XWIN VI,Fiber Composite,Rich,26.48
+Outer Ring,Heart,F-XWIN,F-XWIN VI,Glossy Compound,Medium,24.10
+Outer Ring,Heart,F-XWIN,F-XWIN VI,Reactive Gas,Poor,17.20
+Outer Ring,Heart,F-XWIN,F-XWIN VI,Polyaramids,Medium,16.73
+Outer Ring,Heart,F-XWIN,F-XWIN VII,Lustering Alloy,Medium,24.54
+Outer Ring,Heart,F-XWIN,F-XWIN VII,Sheen Compound,Medium,24.16
+Outer Ring,Heart,F-XWIN,F-XWIN VII,Fiber Composite,Rich,27.58
+Outer Ring,Heart,F-XWIN,F-XWIN VII,Reactive Gas,Perfect,32.32
+Outer Ring,Heart,F-XWIN,F-XWIN VII,Polyaramids,Rich,17.27
+Outer Ring,Heart,F-XWIN,F-XWIN VIII,Precious Alloy,Medium,22.42
+Outer Ring,Heart,F-XWIN,F-XWIN VIII,Dark Compound,Poor,14.92
+Outer Ring,Heart,F-XWIN,F-XWIN VIII,Supertensile Plastics,Medium,14.89
+Outer Ring,Heart,F-XWIN,F-XWIN VIII,Silicate Glass,Medium,11.43
+Outer Ring,Heart,F-XWIN,F-XWIN IX,Lustering Alloy,Medium,20.52
+Outer Ring,Heart,F-XWIN,F-XWIN IX,Dark Compound,Medium,21.68
+Outer Ring,Heart,F-XWIN,F-XWIN IX,Supertensile Plastics,Medium,14.39
+Outer Ring,Heart,F-XWIN,F-XWIN IX,Silicate Glass,Medium,11.38
+Outer Ring,Heart,4C-B7X,4C-B7X I,Sheen Compound,Perfect,31.78
+Outer Ring,Heart,4C-B7X,4C-B7X I,Heavy Metals,Medium,24.34
+Outer Ring,Heart,4C-B7X,4C-B7X I,Condensates,Rich,17.93
+Outer Ring,Heart,4C-B7X,4C-B7X I,Suspended Plasma,Medium,79.63
+Outer Ring,Heart,4C-B7X,4C-B7X I,Ionic Solutions,Rich,10.74
+Outer Ring,Heart,4C-B7X,4C-B7X II,Industrial Fibers,Poor,4.68
+Outer Ring,Heart,4C-B7X,4C-B7X II,Supertensile Plastics,Medium,14.79
+Outer Ring,Heart,4C-B7X,4C-B7X II,Silicate Glass,Poor,6.36
+Outer Ring,Heart,4C-B7X,4C-B7X II,Plasmoids,Medium,1.33
+Outer Ring,Heart,4C-B7X,4C-B7X III,Gleaming Alloy,Medium,18.98
+Outer Ring,Heart,4C-B7X,4C-B7X III,Polyaramids,Rich,20.89
+Outer Ring,Heart,4C-B7X,4C-B7X III,Smartfab Units,Medium,14.29
+Outer Ring,Heart,4C-B7X,4C-B7X IV,Precious Alloy,Poor,12.74
+Outer Ring,Heart,4C-B7X,4C-B7X IV,Dark Compound,Poor,12.62
+Outer Ring,Heart,4C-B7X,4C-B7X IV,Supertensile Plastics,Poor,9.93
+Outer Ring,Heart,4C-B7X,4C-B7X IV,Construction Blocks,Medium,19.76
+Outer Ring,Heart,4C-B7X,4C-B7X V,Sheen Compound,Medium,19.80
+Outer Ring,Heart,4C-B7X,4C-B7X V,Reactive Gas,Medium,24.30
+Outer Ring,Heart,4C-B7X,4C-B7X V,Noble Gas,Rich,31.48
+Outer Ring,Heart,4C-B7X,4C-B7X V,Polyaramids,Medium,16.15
+Outer Ring,Heart,4C-B7X,4C-B7X V,Coolant,Medium,13.57
+Outer Ring,Heart,4C-B7X,4C-B7X VI,Noble Metals,Rich,26.88
+Outer Ring,Heart,4C-B7X,4C-B7X VI,Toxic Metals,Poor,4.88
+Outer Ring,Heart,4C-B7X,4C-B7X VI,Coolant,Rich,18.49
+Outer Ring,Heart,4C-B7X,4C-B7X VI,Liquid Ozone,Rich,33.90
+Outer Ring,Heart,4C-B7X,4C-B7X VI,Ionic Solutions,Rich,12.12
+Outer Ring,Heart,4C-B7X,4C-B7X VII,Lustering Alloy,Medium,19.38
+Outer Ring,Heart,4C-B7X,4C-B7X VII,Sheen Compound,Rich,29.06
+Outer Ring,Heart,4C-B7X,4C-B7X VII,Glossy Compound,Poor,16.48
+Outer Ring,Heart,4C-B7X,4C-B7X VII,Reactive Gas,Rich,30.14
+Outer Ring,Heart,4C-B7X,4C-B7X VII,Base Metals,Medium,5.48
+Outer Ring,Heart,4C-B7X,4C-B7X VIII,Heavy Metals,Poor,15.02
+Outer Ring,Heart,4C-B7X,4C-B7X VIII,Supertensile Plastics,Medium,13.69
+Outer Ring,Heart,4C-B7X,4C-B7X VIII,Condensates,Poor,10.55
+Outer Ring,Heart,4C-B7X,4C-B7X VIII,Suspended Plasma,Medium,76.54
+Outer Ring,Heart,4C-B7X,4C-B7X IX,Dark Compound,Poor,15.00
+Outer Ring,Heart,4C-B7X,4C-B7X IX,Toxic Metals,Medium,5.97
+Outer Ring,Heart,4C-B7X,4C-B7X IX,Industrial Fibers,Medium,6.28
+Outer Ring,Heart,4C-B7X,4C-B7X IX,Supertensile Plastics,Medium,15.52
+Outer Ring,Heart,LGUZ-1,LGUZ-1 I,Gleaming Alloy,Perfect,32.86
+Outer Ring,Heart,LGUZ-1,LGUZ-1 I,Noble Metals,Rich,26.44
+Outer Ring,Heart,LGUZ-1,LGUZ-1 I,Construction Blocks,Medium,19.82
+Outer Ring,Heart,LGUZ-1,LGUZ-1 II,Dark Compound,Medium,21.72
+Outer Ring,Heart,LGUZ-1,LGUZ-1 II,Toxic Metals,Medium,5.43
+Outer Ring,Heart,LGUZ-1,LGUZ-1 II,Supertensile Plastics,Medium,14.45
+Outer Ring,Heart,LGUZ-1,LGUZ-1 II,Oxygen Isotopes,Poor,2.70
+Outer Ring,Heart,LGUZ-1,LGUZ-1 III,Lustering Alloy,Medium,22.76
+Outer Ring,Heart,LGUZ-1,LGUZ-1 III,Industrial Fibers,Medium,5.43
+Outer Ring,Heart,LGUZ-1,LGUZ-1 III,Supertensile Plastics,Poor,12.05
+Outer Ring,Heart,LGUZ-1,LGUZ-1 III,Silicate Glass,Poor,6.28
+Outer Ring,Heart,LGUZ-1,LGUZ-1 IV,Gleaming Alloy,Rich,26.50
+Outer Ring,Heart,LGUZ-1,LGUZ-1 IV,Heavy Metals,Rich,28.88
+Outer Ring,Heart,LGUZ-1,LGUZ-1 IV,Smartfab Units,Medium,14.52
+Outer Ring,Heart,LGUZ-1,LGUZ-1 V,Lucent Compound,Rich,27.30
+Outer Ring,Heart,LGUZ-1,LGUZ-1 V,Crystal Compound,Poor,16.40
+Outer Ring,Heart,LGUZ-1,LGUZ-1 V,Reactive Metals,Medium,5.24
+Outer Ring,Heart,LGUZ-1,LGUZ-1 V,Supertensile Plastics,Medium,13.11
+Outer Ring,Heart,LGUZ-1,LGUZ-1 VI,Condensed Alloy,Perfect,33.88
+Outer Ring,Heart,LGUZ-1,LGUZ-1 VI,Opulent Compound,Medium,22.70
+Outer Ring,Heart,LGUZ-1,LGUZ-1 VI,Smartfab Units,Rich,19.03
+Outer Ring,Heart,LGUZ-1,LGUZ-1 VI,Heavy Water,Rich,298.20
+Outer Ring,Heart,LGUZ-1,LGUZ-1 VI,Liquid Ozone,Rich,32.95
+Outer Ring,Heart,LGUZ-1,LGUZ-1 VII,Precious Alloy,Medium,19.44
+Outer Ring,Heart,LGUZ-1,LGUZ-1 VII,Base Metals,Medium,5.24
+Outer Ring,Heart,LGUZ-1,LGUZ-1 VII,Industrial Fibers,Medium,6.07
+Outer Ring,Heart,LGUZ-1,LGUZ-1 VII,Supertensile Plastics,Poor,9.05
+Outer Ring,Heart,LGUZ-1,LGUZ-1 VIII,Lustering Alloy,Rich,30.76
+Outer Ring,Heart,LGUZ-1,LGUZ-1 VIII,Sheen Compound,Medium,19.36
+Outer Ring,Heart,LGUZ-1,LGUZ-1 VIII,Glossy Compound,Rich,29.22
+Outer Ring,Heart,LGUZ-1,LGUZ-1 VIII,Reactive Gas,Medium,24.26
+Outer Ring,Heart,LGUZ-1,LGUZ-1 VIII,Ionic Solutions,Rich,11.26
+Outer Ring,Heart,LGUZ-1,LGUZ-1 IX,Sheen Compound,Rich,30.18
+Outer Ring,Heart,LGUZ-1,LGUZ-1 IX,Reactive Gas,Rich,29.06
+Outer Ring,Heart,LGUZ-1,LGUZ-1 IX,Noble Gas,Medium,20.22
+Outer Ring,Heart,LGUZ-1,LGUZ-1 IX,Reactive Metals,Medium,6.49
+Outer Ring,Heart,LGUZ-1,LGUZ-1 IX,Polyaramids,Rich,19.83
+Outer Ring,Heart,LGUZ-1,LGUZ-1 X,Fiber Composite,Perfect,32.88
+Outer Ring,Heart,LGUZ-1,LGUZ-1 X,Opulent Compound,Medium,18.98
+Outer Ring,Heart,LGUZ-1,LGUZ-1 X,Noble Metals,Rich,31.06
+Outer Ring,Heart,LGUZ-1,LGUZ-1 X,Smartfab Units,Perfect,21.79
+Outer Ring,Heart,LGUZ-1,LGUZ-1 X,Liquid Ozone,Perfect,40.08
+Outer Ring,Heart,LGUZ-1,LGUZ-1 XI,Lustering Alloy,Medium,21.74
+Outer Ring,Heart,LGUZ-1,LGUZ-1 XI,Sheen Compound,Poor,17.14
+Outer Ring,Heart,LGUZ-1,LGUZ-1 XI,Reactive Gas,Medium,25.18
+Outer Ring,Heart,LGUZ-1,LGUZ-1 XI,Base Metals,Rich,7.06
+Outer Ring,Heart,LGUZ-1,LGUZ-1 XI,Ionic Solutions,Rich,11.90
+Outer Ring,Heart,LGUZ-1,LGUZ-1 XII,Lustering Alloy,Poor,18.26
+Outer Ring,Heart,LGUZ-1,LGUZ-1 XII,Precious Alloy,Poor,18.62
+Outer Ring,Heart,LGUZ-1,LGUZ-1 XII,Supertensile Plastics,Poor,9.00
+Outer Ring,Heart,LGUZ-1,LGUZ-1 XII,Silicate Glass,Medium,11.19
+Outer Ring,Heart,LGUZ-1,LGUZ-1 XIII,Crystal Compound,Medium,19.60
+Outer Ring,Heart,LGUZ-1,LGUZ-1 XIII,Noble Metals,Perfect,35.00
+Outer Ring,Heart,LGUZ-1,LGUZ-1 XIII,Polyaramids,Medium,13.55
+Outer Ring,Heart,LGUZ-1,LGUZ-1 XIII,Heavy Water,Rich,286.00
+Outer Ring,Heart,LGUZ-1,LGUZ-1 XIII,Liquid Ozone,Rich,33.48
+Outer Ring,Heart,BF-SDP,BF-SDP I,Precious Alloy,Poor,16.08
+Outer Ring,Heart,BF-SDP,BF-SDP I,Toxic Metals,Poor,3.75
+Outer Ring,Heart,BF-SDP,BF-SDP I,Supertensile Plastics,Poor,8.91
+Outer Ring,Heart,BF-SDP,BF-SDP I,Plasmoids,Medium,1.21
+Outer Ring,Heart,BF-SDP,BF-SDP II,Toxic Metals,Poor,4.76
+Outer Ring,Heart,BF-SDP,BF-SDP II,Supertensile Plastics,Poor,8.73
+Outer Ring,Heart,BF-SDP,BF-SDP II,Construction Blocks,Poor,18.02
+Outer Ring,Heart,BF-SDP,BF-SDP II,Plasmoids,Medium,1.33
+Outer Ring,Heart,BF-SDP,BF-SDP III,Reactive Metals,Rich,7.60
+Outer Ring,Heart,BF-SDP,BF-SDP III,Toxic Metals,Poor,4.45
+Outer Ring,Heart,BF-SDP,BF-SDP III,Supertensile Plastics,Medium,13.28
+Outer Ring,Heart,BF-SDP,BF-SDP III,Oxygen Isotopes,Poor,2.59
+Outer Ring,Heart,BF-SDP,BF-SDP IV,Toxic Metals,Poor,4.17
+Outer Ring,Heart,BF-SDP,BF-SDP IV,Industrial Fibers,Poor,3.51
+Outer Ring,Heart,BF-SDP,BF-SDP IV,Supertensile Plastics,Poor,11.71
+Outer Ring,Heart,BF-SDP,BF-SDP IV,Plasmoids,Poor,0.88
+Outer Ring,Heart,BF-SDP,BF-SDP V,Lustering Alloy,Rich,28.48
+Outer Ring,Heart,BF-SDP,BF-SDP V,Fiber Composite,Perfect,32.64
+Outer Ring,Heart,BF-SDP,BF-SDP V,Reactive Gas,Poor,17.60
+Outer Ring,Heart,BF-SDP,BF-SDP V,Base Metals,Rich,7.95
+Outer Ring,Heart,BF-SDP,BF-SDP V,Polyaramids,Rich,18.31
+Outer Ring,Heart,BF-SDP,BF-SDP VI,Lustering Alloy,Medium,22.12
+Outer Ring,Heart,BF-SDP,BF-SDP VI,Sheen Compound,Rich,26.08
+Outer Ring,Heart,BF-SDP,BF-SDP VI,Reactive Gas,Rich,27.04
+Outer Ring,Heart,BF-SDP,BF-SDP VI,Noble Gas,Rich,29.30
+Outer Ring,Heart,BF-SDP,BF-SDP VI,Reactive Metals,Medium,5.24
+Outer Ring,Heart,BF-SDP,BF-SDP VII,Fiber Composite,Medium,22.74
+Outer Ring,Heart,BF-SDP,BF-SDP VII,Reactive Gas,Medium,22.06
+Outer Ring,Heart,BF-SDP,BF-SDP VII,Noble Gas,Medium,19.42
+Outer Ring,Heart,BF-SDP,BF-SDP VII,Reactive Metals,Rich,8.17
+Outer Ring,Heart,BF-SDP,BF-SDP VII,Ionic Solutions,Poor,7.12
+Outer Ring,Heart,BF-SDP,BF-SDP VIII,Crystal Compound,Rich,25.84
+Outer Ring,Heart,BF-SDP,BF-SDP VIII,Noble Metals,Poor,18.14
+Outer Ring,Heart,BF-SDP,BF-SDP VIII,Silicate Glass,Medium,10.79
+Outer Ring,Heart,BF-SDP,BF-SDP VIII,Liquid Ozone,Poor,22.25
+Outer Ring,Heart,BF-SDP,BF-SDP VIII,Ionic Solutions,Medium,8.91
+Outer Ring,Heart,F5FO-U,F5FO-U I,Gleaming Alloy,Medium,20.90
+Outer Ring,Heart,F5FO-U,F5FO-U I,Noble Gas,Medium,24.52
+Outer Ring,Heart,F5FO-U,F5FO-U I,Smartfab Units,Perfect,22.43
+Outer Ring,Heart,F5FO-U,F5FO-U II,Toxic Metals,Medium,6.36
+Outer Ring,Heart,F5FO-U,F5FO-U II,Supertensile Plastics,Poor,11.92
+Outer Ring,Heart,F5FO-U,F5FO-U II,Silicate Glass,Poor,8.28
+Outer Ring,Heart,F5FO-U,F5FO-U II,Plasmoids,Poor,0.84
+Outer Ring,Heart,F5FO-U,F5FO-U III,Fiber Composite,Rich,30.16
+Outer Ring,Heart,F5FO-U,F5FO-U III,Opulent Compound,Perfect,36.98
+Outer Ring,Heart,F5FO-U,F5FO-U III,Reactive Gas,Rich,26.84
+Outer Ring,Heart,F5FO-U,F5FO-U III,Noble Metals,Perfect,32.22
+Outer Ring,Heart,F5FO-U,F5FO-U III,Liquid Ozone,Perfect,42.08
+Outer Ring,Heart,F5FO-U,F5FO-U IV,Reactive Gas,Rich,26.68
+Outer Ring,Heart,F5FO-U,F5FO-U IV,Reactive Metals,Rich,8.08
+Outer Ring,Heart,F5FO-U,F5FO-U IV,Polyaramids,Medium,16.55
+Outer Ring,Heart,F5FO-U,F5FO-U IV,Coolant,Perfect,21.69
+Outer Ring,Heart,F5FO-U,F5FO-U IV,Ionic Solutions,Rich,10.68
+Outer Ring,Heart,F5FO-U,F5FO-U V,Lustering Alloy,Poor,16.10
+Outer Ring,Heart,F5FO-U,F5FO-U V,Precious Alloy,Medium,21.56
+Outer Ring,Heart,F5FO-U,F5FO-U V,Toxic Metals,Medium,5.33
+Outer Ring,Heart,F5FO-U,F5FO-U V,Supertensile Plastics,Poor,10.75
+Outer Ring,Heart,F5FO-U,F5FO-U VI,Crystal Compound,Medium,22.44
+Outer Ring,Heart,F5FO-U,F5FO-U VI,Reactive Metals,Medium,5.63
+Outer Ring,Heart,F5FO-U,F5FO-U VI,Construction Blocks,Medium,22.20
+Outer Ring,Heart,F5FO-U,F5FO-U VI,Oxygen Isotopes,Perfect,4.91
+Outer Ring,Heart,F5FO-U,F5FO-U VII,Dark Compound,Medium,21.68
+Outer Ring,Heart,F5FO-U,F5FO-U VII,Supertensile Plastics,Poor,10.27
+Outer Ring,Heart,F5FO-U,F5FO-U VII,Oxygen Isotopes,Medium,3.65
+Outer Ring,Heart,F5FO-U,F5FO-U VII,Plasmoids,Poor,0.78
+Outer Ring,Heart,F5FO-U,F5FO-U VIII,Lucent Compound,Medium,23.30
+Outer Ring,Heart,F5FO-U,F5FO-U VIII,Reactive Metals,Poor,4.26
+Outer Ring,Heart,F5FO-U,F5FO-U VIII,Toxic Metals,Rich,8.24
+Outer Ring,Heart,F5FO-U,F5FO-U VIII,Oxygen Isotopes,Medium,2.84
+Outer Ring,Heart,F5FO-U,F5FO-U IX,Lustering Alloy,Medium,24.30
+Outer Ring,Heart,F5FO-U,F5FO-U IX,Fiber Composite,Medium,19.50
+Outer Ring,Heart,F5FO-U,F5FO-U IX,Glossy Compound,Rich,29.14
+Outer Ring,Heart,F5FO-U,F5FO-U IX,Reactive Gas,Rich,27.46
+Outer Ring,Heart,F5FO-U,F5FO-U IX,Coolant,Rich,20.01
+Outer Ring,Heart,F5FO-U,F5FO-U X,Lustering Alloy,Poor,17.46
+Outer Ring,Heart,F5FO-U,F5FO-U X,Precious Alloy,Medium,20.96
+Outer Ring,Heart,F5FO-U,F5FO-U X,Coolant,Poor,11.84
+Outer Ring,Heart,F5FO-U,F5FO-U X,Condensates,Poor,12.51
+Outer Ring,Belt,5WAE-M,5WAE-M I,Gleaming Alloy,Rich,30.74
+Outer Ring,Belt,5WAE-M,5WAE-M I,Construction Blocks,Medium,21.72
+Outer Ring,Belt,5WAE-M,5WAE-M I,Smartfab Units,Medium,14.12
+Outer Ring,Belt,5WAE-M,5WAE-M II,Dark Compound,Medium,19.06
+Outer Ring,Belt,5WAE-M,5WAE-M II,Base Metals,Poor,4.21
+Outer Ring,Belt,5WAE-M,5WAE-M II,Supertensile Plastics,Poor,10.12
+Outer Ring,Belt,5WAE-M,5WAE-M II,Oxygen Isotopes,Medium,3.46
+Outer Ring,Belt,5WAE-M,5WAE-M III,Dark Compound,Medium,23.64
+Outer Ring,Belt,5WAE-M,5WAE-M III,Supertensile Plastics,Poor,12.51
+Outer Ring,Belt,5WAE-M,5WAE-M III,Construction Blocks,Medium,23.14
+Outer Ring,Belt,5WAE-M,5WAE-M III,Oxygen Isotopes,Poor,2.80
+Outer Ring,Belt,5WAE-M,5WAE-M IV,Base Metals,Medium,6.11
+Outer Ring,Belt,5WAE-M,5WAE-M IV,Supertensile Plastics,Medium,13.37
+Outer Ring,Belt,5WAE-M,5WAE-M IV,Oxygen Isotopes,Poor,2.79
+Outer Ring,Belt,5WAE-M,5WAE-M IV,Plasmoids,Medium,1.37
+Outer Ring,Belt,5WAE-M,5WAE-M V,Sheen Compound,Medium,22.12
+Outer Ring,Belt,5WAE-M,5WAE-M V,Reactive Gas,Medium,24.68
+Outer Ring,Belt,5WAE-M,5WAE-M V,Reactive Metals,Rich,7.96
+Outer Ring,Belt,5WAE-M,5WAE-M V,Polyaramids,Rich,19.97
+Outer Ring,Belt,5WAE-M,5WAE-M V,Ionic Solutions,Medium,7.77
+Outer Ring,Belt,5WAE-M,5WAE-M VI,Fiber Composite,Perfect,32.48
+Outer Ring,Belt,5WAE-M,5WAE-M VI,Reactive Gas,Medium,20.46
+Outer Ring,Belt,5WAE-M,5WAE-M VI,Base Metals,Rich,7.78
+Outer Ring,Belt,5WAE-M,5WAE-M VI,Reactive Metals,Rich,6.99
+Outer Ring,Belt,5WAE-M,5WAE-M VI,Ionic Solutions,Poor,7.12
+Outer Ring,Belt,5WAE-M,5WAE-M VII,Reactive Gas,Rich,31.72
+Outer Ring,Belt,5WAE-M,5WAE-M VII,Noble Gas,Poor,18.76
+Outer Ring,Belt,5WAE-M,5WAE-M VII,Base Metals,Poor,4.45
+Outer Ring,Belt,5WAE-M,5WAE-M VII,Polyaramids,Poor,11.52
+Outer Ring,Belt,5WAE-M,5WAE-M VII,Ionic Solutions,Perfect,13.10
+Outer Ring,Belt,5WAE-M,5WAE-M VIII,Lustering Alloy,Poor,18.80
+Outer Ring,Belt,5WAE-M,5WAE-M VIII,Heavy Metals,Poor,17.10
+Outer Ring,Belt,5WAE-M,5WAE-M VIII,Industrial Fibers,Medium,5.56
+Outer Ring,Belt,5WAE-M,5WAE-M VIII,Condensates,Poor,11.57
+Outer Ring,Belt,5WAE-M,5WAE-M IX,Precious Alloy,Medium,19.82
+Outer Ring,Belt,5WAE-M,5WAE-M IX,Toxic Metals,Medium,6.23
+Outer Ring,Belt,5WAE-M,5WAE-M IX,Supertensile Plastics,Medium,13.23
+Outer Ring,Belt,5WAE-M,5WAE-M IX,Oxygen Isotopes,Poor,2.60
+Outer Ring,Belt,5WAE-M,5WAE-M X,Gleaming Alloy,Rich,27.60
+Outer Ring,Belt,5WAE-M,5WAE-M X,Heavy Metals,Rich,26.30
+Outer Ring,Belt,5WAE-M,5WAE-M X,Plasmoids,Poor,1.04
+Outer Ring,Belt,0-WVQS,0-WVQS I,Lustering Alloy,Poor,12.92
+Outer Ring,Belt,0-WVQS,0-WVQS I,Precious Alloy,Poor,18.22
+Outer Ring,Belt,0-WVQS,0-WVQS I,Supertensile Plastics,Poor,10.80
+Outer Ring,Belt,0-WVQS,0-WVQS I,Construction Blocks,Medium,20.40
+Outer Ring,Belt,0-WVQS,0-WVQS II,Lucent Compound,Rich,25.78
+Outer Ring,Belt,0-WVQS,0-WVQS II,Crystal Compound,Rich,26.38
+Outer Ring,Belt,0-WVQS,0-WVQS II,Reactive Metals,Poor,4.63
+Outer Ring,Belt,0-WVQS,0-WVQS II,Construction Blocks,Rich,30.08
+Outer Ring,Belt,0-WVQS,0-WVQS III,Gleaming Alloy,Poor,16.80
+Outer Ring,Belt,0-WVQS,0-WVQS III,Motley Compound,Medium,22.78
+Outer Ring,Belt,0-WVQS,0-WVQS III,Heavy Metals,Rich,25.88
+Outer Ring,Belt,0-WVQS,0-WVQS IV,Crystal Compound,Rich,28.26
+Outer Ring,Belt,0-WVQS,0-WVQS IV,Reactive Metals,Poor,4.32
+Outer Ring,Belt,0-WVQS,0-WVQS IV,Supertensile Plastics,Medium,15.61
+Outer Ring,Belt,0-WVQS,0-WVQS IV,Oxygen Isotopes,Medium,3.00
+Outer Ring,Belt,0-WVQS,0-WVQS V,Reactive Metals,Rich,7.12
+Outer Ring,Belt,0-WVQS,0-WVQS V,Toxic Metals,Poor,4.86
+Outer Ring,Belt,0-WVQS,0-WVQS V,Supertensile Plastics,Rich,18.73
+Outer Ring,Belt,0-WVQS,0-WVQS V,Construction Blocks,Rich,31.68
+Outer Ring,Belt,0-WVQS,0-WVQS VI,Condensed Alloy,Medium,21.40
+Outer Ring,Belt,0-WVQS,0-WVQS VI,Coolant,Medium,12.91
+Outer Ring,Belt,0-WVQS,0-WVQS VI,Silicate Glass,Rich,13.55
+Outer Ring,Belt,0-WVQS,0-WVQS VI,Heavy Water,Medium,202.60
+Outer Ring,Belt,0-WVQS,0-WVQS VI,Liquid Ozone,Perfect,44.17
+Outer Ring,Belt,0-WVQS,0-WVQS VII,Gleaming Alloy,Perfect,32.26
+Outer Ring,Belt,0-WVQS,0-WVQS VII,Noble Metals,Rich,27.92
+Outer Ring,Belt,0-WVQS,0-WVQS VII,Construction Blocks,Medium,21.68
+Outer Ring,Belt,0-9UHT,0-9UHT I,Dark Compound,Poor,12.56
+Outer Ring,Belt,0-9UHT,0-9UHT I,Base Metals,Poor,4.87
+Outer Ring,Belt,0-9UHT,0-9UHT I,Supertensile Plastics,Poor,11.53
+Outer Ring,Belt,0-9UHT,0-9UHT I,Silicate Glass,Medium,10.63
+Outer Ring,Belt,0-9UHT,0-9UHT II,Lustering Alloy,Poor,12.56
+Outer Ring,Belt,0-9UHT,0-9UHT II,Supertensile Plastics,Medium,16.09
+Outer Ring,Belt,0-9UHT,0-9UHT II,Construction Blocks,Poor,17.58
+Outer Ring,Belt,0-9UHT,0-9UHT II,Plasmoids,Medium,1.36
+Outer Ring,Belt,0-9UHT,0-9UHT III,Condensed Alloy,Rich,30.04
+Outer Ring,Belt,0-9UHT,0-9UHT III,Base Metals,Perfect,9.52
+Outer Ring,Belt,0-9UHT,0-9UHT III,Condensates,Medium,14.13
+Outer Ring,Belt,0-9UHT,0-9UHT III,Heavy Water,Medium,230.80
+Outer Ring,Belt,0-9UHT,0-9UHT III,Liquid Ozone,Rich,36.80
+Outer Ring,Belt,0-9UHT,0-9UHT IV,Crystal Compound,Medium,24.10
+Outer Ring,Belt,0-9UHT,0-9UHT IV,Reactive Metals,Medium,5.22
+Outer Ring,Belt,0-9UHT,0-9UHT IV,Supertensile Plastics,Rich,18.01
+Outer Ring,Belt,0-9UHT,0-9UHT IV,Nanites,Medium,6.10
+Outer Ring,Belt,0-9UHT,0-9UHT V,Lustering Alloy,Rich,30.10
+Outer Ring,Belt,0-9UHT,0-9UHT V,Sheen Compound,Medium,23.10
+Outer Ring,Belt,0-9UHT,0-9UHT V,Fiber Composite,Perfect,33.06
+Outer Ring,Belt,0-9UHT,0-9UHT V,Reactive Gas,Medium,22.66
+Outer Ring,Belt,0-9UHT,0-9UHT V,Ionic Solutions,Rich,11.00
+Outer Ring,Belt,0-9UHT,0-9UHT VI,Gleaming Alloy,Medium,21.44
+Outer Ring,Belt,0-9UHT,0-9UHT VI,Noble Gas,Medium,22.00
+Outer Ring,Belt,0-9UHT,0-9UHT VI,Polyaramids,Medium,15.33
+Outer Ring,Belt,0-9UHT,0-9UHT VII,Gleaming Alloy,Rich,30.64
+Outer Ring,Belt,0-9UHT,0-9UHT VII,Glossy Compound,Medium,21.14
+Outer Ring,Belt,0-9UHT,0-9UHT VII,Noble Gas,Perfect,32.52
+Outer Ring,Belt,0-9UHT,0-9UHT VIII,Lustering Alloy,Rich,29.50
+Outer Ring,Belt,0-9UHT,0-9UHT VIII,Glossy Compound,Rich,25.96
+Outer Ring,Belt,0-9UHT,0-9UHT VIII,Reactive Gas,Medium,21.28
+Outer Ring,Belt,0-9UHT,0-9UHT VIII,Noble Gas,Medium,19.64
+Outer Ring,Belt,0-9UHT,0-9UHT VIII,Coolant,Medium,16.53
+Outer Ring,Belt,0-9UHT,0-9UHT IX,Lustering Alloy,Poor,13.16
+Outer Ring,Belt,0-9UHT,0-9UHT IX,Base Metals,Medium,5.31
+Outer Ring,Belt,0-9UHT,0-9UHT IX,Supertensile Plastics,Poor,11.21
+Outer Ring,Belt,0-9UHT,0-9UHT IX,Plasmoids,Medium,1.31
+Outer Ring,Belt,M-NKZM,M-NKZM I,Sheen Compound,Medium,21.80
+Outer Ring,Belt,M-NKZM,M-NKZM I,Noble Gas,Perfect,32.98
+Outer Ring,Belt,M-NKZM,M-NKZM I,Heavy Metals,Rich,27.76
+Outer Ring,Belt,M-NKZM,M-NKZM I,Reactive Metals,Rich,6.84
+Outer Ring,Belt,M-NKZM,M-NKZM I,Condensates,Medium,13.17
+Outer Ring,Belt,M-NKZM,M-NKZM II,Lustering Alloy,Poor,12.96
+Outer Ring,Belt,M-NKZM,M-NKZM II,Toxic Metals,Poor,4.83
+Outer Ring,Belt,M-NKZM,M-NKZM II,Supertensile Plastics,Poor,10.64
+Outer Ring,Belt,M-NKZM,M-NKZM II,Construction Blocks,Poor,16.38
+Outer Ring,Belt,M-NKZM,M-NKZM III,Gleaming Alloy,Poor,17.26
+Outer Ring,Belt,M-NKZM,M-NKZM III,Smartfab Units,Medium,15.33
+Outer Ring,Belt,M-NKZM,M-NKZM III,Oxygen Isotopes,Medium,3.75
+Outer Ring,Belt,M-NKZM,M-NKZM IV,Precious Alloy,Poor,16.80
+Outer Ring,Belt,M-NKZM,M-NKZM IV,Industrial Fibers,Medium,6.35
+Outer Ring,Belt,M-NKZM,M-NKZM IV,Supertensile Plastics,Poor,10.72
+Outer Ring,Belt,M-NKZM,M-NKZM IV,Construction Blocks,Medium,24.00
+Outer Ring,Belt,M-NKZM,M-NKZM V,Lustering Alloy,Poor,18.42
+Outer Ring,Belt,M-NKZM,M-NKZM V,Base Metals,Poor,3.90
+Outer Ring,Belt,M-NKZM,M-NKZM V,Industrial Fibers,Poor,4.87
+Outer Ring,Belt,M-NKZM,M-NKZM V,Supertensile Plastics,Medium,14.71
+Outer Ring,Belt,M-NKZM,M-NKZM VI,Lustering Alloy,Medium,23.48
+Outer Ring,Belt,M-NKZM,M-NKZM VI,Dark Compound,Poor,15.76
+Outer Ring,Belt,M-NKZM,M-NKZM VI,Supertensile Plastics,Poor,11.09
+Outer Ring,Belt,M-NKZM,M-NKZM VI,Silicate Glass,Poor,6.36
+Outer Ring,Belt,M-NKZM,M-NKZM VII,Reactive Metals,Rich,7.53
+Outer Ring,Belt,M-NKZM,M-NKZM VII,Supertensile Plastics,Medium,14.16
+Outer Ring,Belt,M-NKZM,M-NKZM VII,Nanites,Medium,5.57
+Outer Ring,Belt,M-NKZM,M-NKZM VII,Oxygen Isotopes,Rich,4.01
+Outer Ring,Belt,M-NKZM,M-NKZM VIII,Condensed Alloy,Rich,29.74
+Outer Ring,Belt,M-NKZM,M-NKZM VIII,Reactive Gas,Rich,26.76
+Outer Ring,Belt,M-NKZM,M-NKZM VIII,Industrial Fibers,Rich,7.33
+Outer Ring,Belt,M-NKZM,M-NKZM VIII,Condensates,Medium,12.87
+Outer Ring,Belt,M-NKZM,M-NKZM VIII,Liquid Ozone,Perfect,44.27
+Outer Ring,Belt,M-NKZM,M-NKZM IX,Gleaming Alloy,Rich,29.02
+Outer Ring,Belt,M-NKZM,M-NKZM IX,Reactive Metals,Medium,6.05
+Outer Ring,Belt,M-NKZM,M-NKZM IX,Construction Blocks,Rich,28.50
+Outer Ring,Belt,M-NKZM,M-NKZM IX,Suspended Plasma,Medium,76.10
+Outer Ring,Belt,M-NKZM,M-NKZM X,Sheen Compound,Medium,24.64
+Outer Ring,Belt,M-NKZM,M-NKZM X,Reactive Gas,Rich,27.74
+Outer Ring,Belt,M-NKZM,M-NKZM X,Base Metals,Poor,4.54
+Outer Ring,Belt,M-NKZM,M-NKZM X,Polyaramids,Medium,13.05
+Outer Ring,Belt,M-NKZM,M-NKZM X,Coolant,Medium,12.97
+Outer Ring,Belt,M-NKZM,M-NKZM XI,Precious Alloy,Medium,24.38
+Outer Ring,Belt,M-NKZM,M-NKZM XI,Toxic Metals,Medium,5.09
+Outer Ring,Belt,M-NKZM,M-NKZM XI,Supertensile Plastics,Medium,14.01
+Outer Ring,Belt,M-NKZM,M-NKZM XI,Construction Blocks,Medium,23.98
+Outer Ring,Belt,H-M1BY,H-M1BY I,Precious Alloy,Medium,23.74
+Outer Ring,Belt,H-M1BY,H-M1BY I,Base Metals,Poor,3.45
+Outer Ring,Belt,H-M1BY,H-M1BY I,Supertensile Plastics,Medium,13.63
+Outer Ring,Belt,H-M1BY,H-M1BY I,Construction Blocks,Poor,15.22
+Outer Ring,Belt,H-M1BY,H-M1BY II,Lustering Alloy,Poor,17.90
+Outer Ring,Belt,H-M1BY,H-M1BY II,Base Metals,Poor,3.99
+Outer Ring,Belt,H-M1BY,H-M1BY II,Supertensile Plastics,Poor,10.44
+Outer Ring,Belt,H-M1BY,H-M1BY II,Oxygen Isotopes,Poor,2.72
+Outer Ring,Belt,H-M1BY,H-M1BY III,Lucent Compound,Medium,20.80
+Outer Ring,Belt,H-M1BY,H-M1BY III,Reactive Metals,Medium,6.52
+Outer Ring,Belt,H-M1BY,H-M1BY III,Suspended Plasma,Poor,59.69
+Outer Ring,Belt,H-M1BY,H-M1BY III,Oxygen Isotopes,Medium,3.77
+Outer Ring,Belt,H-M1BY,H-M1BY IV,Condensed Alloy,Medium,19.96
+Outer Ring,Belt,H-M1BY,H-M1BY IV,Noble Metals,Perfect,32.80
+Outer Ring,Belt,H-M1BY,H-M1BY IV,Heavy Water,Rich,310.80
+Outer Ring,Belt,H-M1BY,H-M1BY IV,Liquid Ozone,Rich,33.35
+Outer Ring,Belt,H-M1BY,H-M1BY IV,Ionic Solutions,Perfect,13.29
+Outer Ring,Belt,H-M1BY,H-M1BY V,Reactive Gas,Medium,22.58
+Outer Ring,Belt,H-M1BY,H-M1BY V,Base Metals,Rich,7.26
+Outer Ring,Belt,H-M1BY,H-M1BY V,Smartfab Units,Perfect,21.75
+Outer Ring,Belt,H-M1BY,H-M1BY V,Heavy Water,Perfect,344.00
+Outer Ring,Belt,H-M1BY,H-M1BY V,Liquid Ozone,Perfect,44.88
+Outer Ring,Belt,H-M1BY,H-M1BY VI,Reactive Gas,Poor,17.06
+Outer Ring,Belt,H-M1BY,H-M1BY VI,Noble Gas,Poor,18.78
+Outer Ring,Belt,H-M1BY,H-M1BY VI,Base Metals,Rich,6.67
+Outer Ring,Belt,H-M1BY,H-M1BY VI,Reactive Metals,Poor,4.61
+Outer Ring,Belt,H-M1BY,H-M1BY VI,Polyaramids,Medium,14.87
+Outer Ring,Belt,H-M1BY,H-M1BY VII,Dark Compound,Medium,23.38
+Outer Ring,Belt,H-M1BY,H-M1BY VII,Supertensile Plastics,Medium,13.55
+Outer Ring,Belt,H-M1BY,H-M1BY VII,Silicate Glass,Poor,7.94
+Outer Ring,Belt,H-M1BY,H-M1BY VII,Oxygen Isotopes,Poor,2.52
+Outer Ring,Belt,J1H-R4,J1H-R4 I,Gleaming Alloy,Rich,29.16
+Outer Ring,Belt,J1H-R4,J1H-R4 I,Glossy Compound,Medium,22.76
+Outer Ring,Belt,J1H-R4,J1H-R4 I,Noble Metals,Rich,28.78
+Outer Ring,Belt,J1H-R4,J1H-R4 II,Dark Compound,Medium,23.68
+Outer Ring,Belt,J1H-R4,J1H-R4 II,Supertensile Plastics,Medium,14.57
+Outer Ring,Belt,J1H-R4,J1H-R4 II,Construction Blocks,Poor,13.74
+Outer Ring,Belt,J1H-R4,J1H-R4 II,Oxygen Isotopes,Poor,2.23
+Outer Ring,Belt,J1H-R4,J1H-R4 III,Dark Compound,Medium,19.30
+Outer Ring,Belt,J1H-R4,J1H-R4 III,Base Metals,Poor,4.47
+Outer Ring,Belt,J1H-R4,J1H-R4 III,Supertensile Plastics,Poor,11.80
+Outer Ring,Belt,J1H-R4,J1H-R4 III,Construction Blocks,Poor,12.62
+Outer Ring,Belt,J1H-R4,J1H-R4 IV,Precious Alloy,Poor,16.04
+Outer Ring,Belt,J1H-R4,J1H-R4 IV,Supertensile Plastics,Medium,14.71
+Outer Ring,Belt,J1H-R4,J1H-R4 IV,Oxygen Isotopes,Poor,2.78
+Outer Ring,Belt,J1H-R4,J1H-R4 IV,Plasmoids,Poor,0.86
+Outer Ring,Belt,J1H-R4,J1H-R4 V,Gleaming Alloy,Rich,28.40
+Outer Ring,Belt,J1H-R4,J1H-R4 V,Reactive Gas,Rich,30.14
+Outer Ring,Belt,J1H-R4,J1H-R4 V,Reactive Metals,Medium,6.02
+Outer Ring,Belt,J1H-R4,J1H-R4 V,Oxygen Isotopes,Medium,3.24
+Outer Ring,Belt,J1H-R4,J1H-R4 VI,Dark Compound,Poor,16.42
+Outer Ring,Belt,J1H-R4,J1H-R4 VI,Supertensile Plastics,Poor,10.52
+Outer Ring,Belt,J1H-R4,J1H-R4 VI,Silicate Glass,Medium,10.02
+Outer Ring,Belt,J1H-R4,J1H-R4 VI,Oxygen Isotopes,Medium,3.60
+Outer Ring,Belt,J1H-R4,J1H-R4 VII,Dark Compound,Poor,12.56
+Outer Ring,Belt,J1H-R4,J1H-R4 VII,Base Metals,Poor,3.91
+Outer Ring,Belt,J1H-R4,J1H-R4 VII,Supertensile Plastics,Poor,12.27
+Outer Ring,Belt,J1H-R4,J1H-R4 VII,Oxygen Isotopes,Poor,2.10
+Outer Ring,Belt,J1H-R4,J1H-R4 VIII,Sheen Compound,Poor,16.60
+Outer Ring,Belt,J1H-R4,J1H-R4 VIII,Fiber Composite,Rich,30.70
+Outer Ring,Belt,J1H-R4,J1H-R4 VIII,Reactive Gas,Rich,29.14
+Outer Ring,Belt,J1H-R4,J1H-R4 VIII,Noble Gas,Rich,25.46
+Outer Ring,Belt,J1H-R4,J1H-R4 VIII,Reactive Metals,Rich,7.20
+Outer Ring,Belt,J1H-R4,J1H-R4 IX,Lustering Alloy,Poor,17.86
+Outer Ring,Belt,J1H-R4,J1H-R4 IX,Fiber Composite,Perfect,33.12
+Outer Ring,Belt,J1H-R4,J1H-R4 IX,Reactive Gas,Medium,22.48
+Outer Ring,Belt,J1H-R4,J1H-R4 IX,Base Metals,Medium,6.58
+Outer Ring,Belt,J1H-R4,J1H-R4 IX,Ionic Solutions,Rich,10.82
+Outer Ring,Belt,J1H-R4,J1H-R4 X,Precious Alloy,Poor,16.62
+Outer Ring,Belt,J1H-R4,J1H-R4 X,Supertensile Plastics,Medium,16.12
+Outer Ring,Belt,J1H-R4,J1H-R4 X,Coolant,Poor,10.49
+Outer Ring,Belt,J1H-R4,J1H-R4 X,Condensates,Poor,10.05
+Outer Ring,Wield,J9SH-A,J9SH-A I,Industrial Fibers,Poor,4.42
+Outer Ring,Wield,J9SH-A,J9SH-A I,Supertensile Plastics,Poor,12.49
+Outer Ring,Wield,J9SH-A,J9SH-A I,Oxygen Isotopes,Poor,2.58
+Outer Ring,Wield,J9SH-A,J9SH-A I,Plasmoids,Poor,1.08
+Outer Ring,Wield,J9SH-A,J9SH-A II,Gleaming Alloy,Medium,21.46
+Outer Ring,Wield,J9SH-A,J9SH-A II,Noble Gas,Poor,18.70
+Outer Ring,Wield,J9SH-A,J9SH-A II,Heavy Metals,Rich,26.32
+Outer Ring,Wield,J9SH-A,J9SH-A III,Lucent Compound,Medium,21.22
+Outer Ring,Wield,J9SH-A,J9SH-A III,Heavy Metals,Medium,22.40
+Outer Ring,Wield,J9SH-A,J9SH-A III,Reactive Metals,Medium,6.23
+Outer Ring,Wield,J9SH-A,J9SH-A III,Condensates,Perfect,23.35
+Outer Ring,Wield,J9SH-A,J9SH-A III,Suspended Plasma,Medium,71.71
+Outer Ring,Wield,J9SH-A,J9SH-A IV,Toxic Metals,Poor,4.74
+Outer Ring,Wield,J9SH-A,J9SH-A IV,Industrial Fibers,Medium,5.55
+Outer Ring,Wield,J9SH-A,J9SH-A IV,Supertensile Plastics,Poor,11.23
+Outer Ring,Wield,J9SH-A,J9SH-A IV,Silicate Glass,Medium,9.97
+Outer Ring,Wield,J9SH-A,J9SH-A V,Reactive Metals,Rich,7.74
+Outer Ring,Wield,J9SH-A,J9SH-A V,Toxic Metals,Rich,8.18
+Outer Ring,Wield,J9SH-A,J9SH-A V,Supertensile Plastics,Medium,15.33
+Outer Ring,Wield,J9SH-A,J9SH-A V,Suspended Plasma,Rich,98.57
+Outer Ring,Wield,J9SH-A,J9SH-A VI,Dark Compound,Poor,15.16
+Outer Ring,Wield,J9SH-A,J9SH-A VI,Industrial Fibers,Poor,4.88
+Outer Ring,Wield,J9SH-A,J9SH-A VI,Supertensile Plastics,Medium,14.84
+Outer Ring,Wield,J9SH-A,J9SH-A VI,Plasmoids,Medium,1.23
+Outer Ring,Wield,J9SH-A,J9SH-A VII,Lustering Alloy,Poor,18.40
+Outer Ring,Wield,J9SH-A,J9SH-A VII,Reactive Gas,Medium,20.64
+Outer Ring,Wield,J9SH-A,J9SH-A VII,Reactive Metals,Rich,7.58
+Outer Ring,Wield,J9SH-A,J9SH-A VII,Coolant,Medium,16.23
+Outer Ring,Wield,J9SH-A,J9SH-A VII,Ionic Solutions,Poor,7.18
+Outer Ring,Wield,J9SH-A,J9SH-A VIII,Precious Alloy,Medium,22.94
+Outer Ring,Wield,J9SH-A,J9SH-A VIII,Industrial Fibers,Poor,4.50
+Outer Ring,Wield,J9SH-A,J9SH-A VIII,Supertensile Plastics,Poor,8.31
+Outer Ring,Wield,J9SH-A,J9SH-A VIII,Construction Blocks,Medium,23.44
+Outer Ring,Wield,J9SH-A,J9SH-A IX,Sheen Compound,Rich,31.56
+Outer Ring,Wield,J9SH-A,J9SH-A IX,Fiber Composite,Medium,22.60
+Outer Ring,Wield,J9SH-A,J9SH-A IX,Reactive Gas,Rich,30.36
+Outer Ring,Wield,J9SH-A,J9SH-A IX,Base Metals,Medium,6.14
+Outer Ring,Wield,J9SH-A,J9SH-A IX,Reactive Metals,Poor,4.74
+Outer Ring,Wield,J9SH-A,J9SH-A X,Heavy Metals,Poor,16.36
+Outer Ring,Wield,J9SH-A,J9SH-A X,Industrial Fibers,Poor,4.39
+Outer Ring,Wield,J9SH-A,J9SH-A X,Condensates,Poor,10.75
+Outer Ring,Wield,J9SH-A,J9SH-A X,Liquid Ozone,Rich,32.50
+Outer Ring,Wield,J9SH-A,J9SH-A XI,Lustering Alloy,Poor,15.50
+Outer Ring,Wield,J9SH-A,J9SH-A XI,Industrial Fibers,Poor,3.60
+Outer Ring,Wield,J9SH-A,J9SH-A XI,Supertensile Plastics,Medium,13.99
+Outer Ring,Wield,J9SH-A,J9SH-A XI,Construction Blocks,Poor,17.54
+Outer Ring,Wield,JKJ-VJ,JKJ-VJ I,Precious Alloy,Medium,25.56
+Outer Ring,Wield,JKJ-VJ,JKJ-VJ I,Supertensile Plastics,Poor,9.02
+Outer Ring,Wield,JKJ-VJ,JKJ-VJ I,Construction Blocks,Medium,23.08
+Outer Ring,Wield,JKJ-VJ,JKJ-VJ I,Oxygen Isotopes,Poor,2.74
+Outer Ring,Wield,JKJ-VJ,JKJ-VJ II,Condensed Alloy,Medium,24.23
+Outer Ring,Wield,JKJ-VJ,JKJ-VJ II,Polyaramids,Perfect,23.30
+Outer Ring,Wield,JKJ-VJ,JKJ-VJ II,Silicate Glass,Rich,14.23
+Outer Ring,Wield,JKJ-VJ,JKJ-VJ II,Liquid Ozone,Rich,35.83
+Outer Ring,Wield,JKJ-VJ,JKJ-VJ II,Ionic Solutions,Medium,9.13
+Outer Ring,Wield,JKJ-VJ,JKJ-VJ III,Crystal Compound,Rich,26.77
+Outer Ring,Wield,JKJ-VJ,JKJ-VJ III,Reactive Gas,Poor,17.41
+Outer Ring,Wield,JKJ-VJ,JKJ-VJ III,Reactive Metals,Rich,7.35
+Outer Ring,Wield,JKJ-VJ,JKJ-VJ III,Oxygen Isotopes,Rich,4.42
+Outer Ring,Wield,JKJ-VJ,JKJ-VJ IV,Precious Alloy,Poor,18.40
+Outer Ring,Wield,JKJ-VJ,JKJ-VJ IV,Industrial Fibers,Poor,5.10
+Outer Ring,Wield,JKJ-VJ,JKJ-VJ IV,Supertensile Plastics,Poor,11.34
+Outer Ring,Wield,JKJ-VJ,JKJ-VJ IV,Construction Blocks,Medium,23.02
+Outer Ring,Wield,JKJ-VJ,JKJ-VJ V,Fiber Composite,Poor,17.75
+Outer Ring,Wield,JKJ-VJ,JKJ-VJ V,Glossy Compound,Medium,21.27
+Outer Ring,Wield,JKJ-VJ,JKJ-VJ V,Reactive Gas,Rich,26.71
+Outer Ring,Wield,JKJ-VJ,JKJ-VJ V,Reactive Metals,Rich,7.79
+Outer Ring,Wield,JKJ-VJ,JKJ-VJ V,Ionic Solutions,Rich,10.94
+Outer Ring,Wield,JKJ-VJ,JKJ-VJ VI,Glossy Compound,Rich,27.32
+Outer Ring,Wield,JKJ-VJ,JKJ-VJ VI,Reactive Gas,Rich,30.55
+Outer Ring,Wield,JKJ-VJ,JKJ-VJ VI,Noble Gas,Rich,26.61
+Outer Ring,Wield,JKJ-VJ,JKJ-VJ VI,Base Metals,Perfect,8.83
+Outer Ring,Wield,JKJ-VJ,JKJ-VJ VI,Coolant,Medium,14.00
+Outer Ring,Wield,JKJ-VJ,JKJ-VJ VII,Glossy Compound,Rich,31.88
+Outer Ring,Wield,JKJ-VJ,JKJ-VJ VII,Reactive Gas,Poor,18.75
+Outer Ring,Wield,JKJ-VJ,JKJ-VJ VII,Base Metals,Rich,7.25
+Outer Ring,Wield,JKJ-VJ,JKJ-VJ VII,Reactive Metals,Medium,6.91
+Outer Ring,Wield,JKJ-VJ,JKJ-VJ VII,Polyaramids,Medium,15.39
+Outer Ring,Wield,RTX0-S,RTX0-S I,Dark Compound,Poor,20.31
+Outer Ring,Wield,RTX0-S,RTX0-S I,Heavy Metals,Poor,19.84
+Outer Ring,Wield,RTX0-S,RTX0-S I,Condensates,Rich,22.53
+Outer Ring,Wield,RTX0-S,RTX0-S I,Nanites,Medium,6.19
+Outer Ring,Wield,RTX0-S,RTX0-S I,Ionic Solutions,Medium,8.69
+Outer Ring,Wield,RTX0-S,RTX0-S II,Toxic Metals,Medium,6.11
+Outer Ring,Wield,RTX0-S,RTX0-S II,Supertensile Plastics,Poor,11.15
+Outer Ring,Wield,RTX0-S,RTX0-S II,Construction Blocks,Medium,23.41
+Outer Ring,Wield,RTX0-S,RTX0-S II,Oxygen Isotopes,Poor,2.69
+Outer Ring,Wield,RTX0-S,RTX0-S III,Gleaming Alloy,Medium,23.78
+Outer Ring,Wield,RTX0-S,RTX0-S III,Noble Metals,Rich,33.31
+Outer Ring,Wield,RTX0-S,RTX0-S III,Oxygen Isotopes,Rich,4.99
+Outer Ring,Wield,RTX0-S,RTX0-S IV,Lustering Alloy,Medium,24.68
+Outer Ring,Wield,RTX0-S,RTX0-S IV,Toxic Metals,Medium,6.05
+Outer Ring,Wield,RTX0-S,RTX0-S IV,Supertensile Plastics,Medium,13.99
+Outer Ring,Wield,RTX0-S,RTX0-S IV,Silicate Glass,Medium,12.95
+Outer Ring,Wield,RTX0-S,RTX0-S V,Precious Alloy,Medium,22.31
+Outer Ring,Wield,RTX0-S,RTX0-S V,Base Metals,Poor,3.91
+Outer Ring,Wield,RTX0-S,RTX0-S V,Supertensile Plastics,Medium,15.74
+Outer Ring,Wield,RTX0-S,RTX0-S V,Oxygen Isotopes,Medium,3.82
+Outer Ring,Wield,RTX0-S,RTX0-S VI,Reactive Gas,Rich,28.86
+Outer Ring,Wield,RTX0-S,RTX0-S VI,Base Metals,Rich,8.96
+Outer Ring,Wield,RTX0-S,RTX0-S VI,Industrial Fibers,Perfect,10.71
+Outer Ring,Wield,RTX0-S,RTX0-S VI,Smartfab Units,Rich,21.96
+Outer Ring,Wield,RTX0-S,RTX0-S VI,Liquid Ozone,Perfect,45.32
+Outer Ring,Wield,RTX0-S,RTX0-S VII,Base Metals,Poor,5.04
+Outer Ring,Wield,RTX0-S,RTX0-S VII,Supertensile Plastics,Poor,12.28
+Outer Ring,Wield,RTX0-S,RTX0-S VII,Construction Blocks,Medium,25.59
+Outer Ring,Wield,RTX0-S,RTX0-S VII,Oxygen Isotopes,Poor,2.39
+Outer Ring,Wield,RTX0-S,RTX0-S VIII,Reactive Metals,Medium,7.27
+Outer Ring,Wield,RTX0-S,RTX0-S VIII,Supertensile Plastics,Medium,16.38
+Outer Ring,Wield,RTX0-S,RTX0-S VIII,Suspended Plasma,Medium,88.70
+Outer Ring,Wield,RTX0-S,RTX0-S VIII,Oxygen Isotopes,Rich,5.11
+Outer Ring,Wield,RTX0-S,RTX0-S IX,Precious Alloy,Medium,23.87
+Outer Ring,Wield,RTX0-S,RTX0-S IX,Supertensile Plastics,Medium,16.78
+Outer Ring,Wield,RTX0-S,RTX0-S IX,Construction Blocks,Poor,17.91
+Outer Ring,Wield,RTX0-S,RTX0-S IX,Silicate Glass,Poor,9.15
+Outer Ring,Wield,RTX0-S,RTX0-S X,Lustering Alloy,Medium,25.19
+Outer Ring,Wield,RTX0-S,RTX0-S X,Glossy Compound,Medium,23.21
+Outer Ring,Wield,RTX0-S,RTX0-S X,Reactive Gas,Poor,18.15
+Outer Ring,Wield,RTX0-S,RTX0-S X,Polyaramids,Perfect,23.94
+Outer Ring,Wield,RTX0-S,RTX0-S X,Ionic Solutions,Medium,10.84
+Outer Ring,Wield,RTX0-S,RTX0-S XI,Crystal Compound,Medium,21.38
+Outer Ring,Wield,RTX0-S,RTX0-S XI,Reactive Metals,Rich,7.34
+Outer Ring,Wield,RTX0-S,RTX0-S XI,Suspended Plasma,Medium,76.51
+Outer Ring,Wield,RTX0-S,RTX0-S XI,Oxygen Isotopes,Medium,3.80
+Outer Ring,Wield,33FN-P,33FN-P I,Lustering Alloy,Medium,25.58
+Outer Ring,Wield,33FN-P,33FN-P I,Precious Alloy,Medium,24.61
+Outer Ring,Wield,33FN-P,33FN-P I,Supertensile Plastics,Poor,12.50
+Outer Ring,Wield,33FN-P,33FN-P I,Plasmoids,Poor,1.19
+Outer Ring,Wield,33FN-P,33FN-P II,Precious Alloy,Poor,17.76
+Outer Ring,Wield,33FN-P,33FN-P II,Industrial Fibers,Poor,4.02
+Outer Ring,Wield,33FN-P,33FN-P II,Supertensile Plastics,Poor,12.68
+Outer Ring,Wield,33FN-P,33FN-P II,Construction Blocks,Poor,17.92
+Outer Ring,Wield,33FN-P,33FN-P III,Fiber Composite,Perfect,37.05
+Outer Ring,Wield,33FN-P,33FN-P III,Glossy Compound,Medium,22.17
+Outer Ring,Wield,33FN-P,33FN-P III,Reactive Gas,Rich,33.86
+Outer Ring,Wield,33FN-P,33FN-P III,Base Metals,Rich,9.16
+Outer Ring,Wield,33FN-P,33FN-P III,Ionic Solutions,Medium,8.83
+Outer Ring,Wield,33FN-P,33FN-P IV,Sheen Compound,Rich,30.59
+Outer Ring,Wield,33FN-P,33FN-P IV,Glossy Compound,Rich,32.59
+Outer Ring,Wield,33FN-P,33FN-P IV,Reactive Gas,Rich,33.28
+Outer Ring,Wield,33FN-P,33FN-P IV,Reactive Metals,Rich,7.87
+Outer Ring,Wield,33FN-P,33FN-P IV,Polyaramids,Medium,14.57
+Outer Ring,Wield,33FN-P,33FN-P V,Motley Compound,Poor,20.42
+Outer Ring,Wield,33FN-P,33FN-P V,Heavy Metals,Medium,24.22
+Outer Ring,Wield,33FN-P,33FN-P V,Coolant,Medium,16.90
+Outer Ring,Wield,33FN-P,33FN-P V,Condensates,Poor,14.17
+Outer Ring,Wield,33FN-P,33FN-P VI,Toxic Metals,Poor,5.20
+Outer Ring,Wield,33FN-P,33FN-P VI,Industrial Fibers,Medium,6.52
+Outer Ring,Wield,33FN-P,33FN-P VI,Supertensile Plastics,Medium,18.42
+Outer Ring,Wield,33FN-P,33FN-P VI,Plasmoids,Medium,1.65
+Outer Ring,Wield,NM-OEA,NM-OEA I,Gleaming Alloy,Rich,35.54
+Outer Ring,Wield,NM-OEA,NM-OEA I,Smartfab Units,Medium,15.31
+Outer Ring,Wield,NM-OEA,NM-OEA I,Plasmoids,Perfect,2.39
+Outer Ring,Wield,NM-OEA,NM-OEA II,Precious Alloy,Medium,24.91
+Outer Ring,Wield,NM-OEA,NM-OEA II,Dark Compound,Medium,23.28
+Outer Ring,Wield,NM-OEA,NM-OEA II,Industrial Fibers,Poor,4.52
+Outer Ring,Wield,NM-OEA,NM-OEA II,Supertensile Plastics,Medium,16.67
+Outer Ring,Wield,NM-OEA,NM-OEA III,Gleaming Alloy,Medium,29.28
+Outer Ring,Wield,NM-OEA,NM-OEA III,Glossy Compound,Poor,19.82
+Outer Ring,Wield,NM-OEA,NM-OEA III,Noble Metals,Medium,22.94
+Outer Ring,Wield,NM-OEA,NM-OEA IV,Fiber Composite,Perfect,44.30
+Outer Ring,Wield,NM-OEA,NM-OEA IV,Base Metals,Perfect,10.66
+Outer Ring,Wield,NM-OEA,NM-OEA IV,Noble Metals,Rich,37.99
+Outer Ring,Wield,NM-OEA,NM-OEA IV,Industrial Fibers,Perfect,10.70
+Outer Ring,Wield,NM-OEA,NM-OEA IV,Liquid Ozone,Perfect,52.44
+Outer Ring,Wield,NM-OEA,NM-OEA V,Lustering Alloy,Medium,25.30
+Outer Ring,Wield,NM-OEA,NM-OEA V,Glossy Compound,Rich,33.24
+Outer Ring,Wield,NM-OEA,NM-OEA V,Reactive Gas,Medium,27.70
+Outer Ring,Wield,NM-OEA,NM-OEA V,Base Metals,Medium,6.29
+Outer Ring,Wield,NM-OEA,NM-OEA V,Reactive Metals,Rich,8.25
+Outer Ring,Wield,NM-OEA,NM-OEA VI,Fiber Composite,Poor,20.59
+Outer Ring,Wield,NM-OEA,NM-OEA VI,Glossy Compound,Medium,27.38
+Outer Ring,Wield,NM-OEA,NM-OEA VI,Reactive Gas,Perfect,39.79
+Outer Ring,Wield,NM-OEA,NM-OEA VI,Polyaramids,Medium,19.38
+Outer Ring,Wield,NM-OEA,NM-OEA VI,Ionic Solutions,Poor,8.93
+Outer Ring,Wield,MT-2VJ,MT-2VJ I,Base Metals,Poor,5.11
+Outer Ring,Wield,MT-2VJ,MT-2VJ I,Supertensile Plastics,Poor,8.79
+Outer Ring,Wield,MT-2VJ,MT-2VJ I,Construction Blocks,Medium,24.30
+Outer Ring,Wield,MT-2VJ,MT-2VJ I,Oxygen Isotopes,Poor,2.17
+Outer Ring,Wield,MT-2VJ,MT-2VJ II,Dark Compound,Medium,25.14
+Outer Ring,Wield,MT-2VJ,MT-2VJ II,Heavy Metals,Rich,27.45
+Outer Ring,Wield,MT-2VJ,MT-2VJ II,Reactive Metals,Perfect,8.80
+Outer Ring,Wield,MT-2VJ,MT-2VJ II,Condensates,Rich,20.15
+Outer Ring,Wield,MT-2VJ,MT-2VJ II,Plasmoids,Rich,1.88
+Outer Ring,Wield,MT-2VJ,MT-2VJ III,Toxic Metals,Poor,3.84
+Outer Ring,Wield,MT-2VJ,MT-2VJ III,Supertensile Plastics,Medium,17.09
+Outer Ring,Wield,MT-2VJ,MT-2VJ III,Silicate Glass,Poor,6.69
+Outer Ring,Wield,MT-2VJ,MT-2VJ III,Plasmoids,Medium,1.23
+Outer Ring,Wield,MT-2VJ,MT-2VJ IV,Base Metals,Poor,4.75
+Outer Ring,Wield,MT-2VJ,MT-2VJ IV,Industrial Fibers,Medium,5.38
+Outer Ring,Wield,MT-2VJ,MT-2VJ IV,Supertensile Plastics,Poor,13.13
+Outer Ring,Wield,MT-2VJ,MT-2VJ IV,Oxygen Isotopes,Medium,3.06
+Outer Ring,Wield,MT-2VJ,MT-2VJ V,Gleaming Alloy,Medium,24.70
+Outer Ring,Wield,MT-2VJ,MT-2VJ V,Motley Compound,Rich,31.52
+Outer Ring,Wield,MT-2VJ,MT-2VJ V,Heavy Metals,Medium,25.49
+Outer Ring,Wield,MT-2VJ,MT-2VJ VI,Opulent Compound,Perfect,35.28
+Outer Ring,Wield,MT-2VJ,MT-2VJ VI,Noble Metals,Medium,25.62
+Outer Ring,Wield,MT-2VJ,MT-2VJ VI,Condensates,Rich,19.54
+Outer Ring,Wield,MT-2VJ,MT-2VJ VI,Smartfab Units,Rich,20.19
+Outer Ring,Wield,MT-2VJ,MT-2VJ VI,Liquid Ozone,Perfect,45.33
+Outer Ring,Wield,MT-2VJ,MT-2VJ VII,Condensed Alloy,Poor,19.47
+Outer Ring,Wield,MT-2VJ,MT-2VJ VII,Reactive Gas,Rich,30.32
+Outer Ring,Wield,MT-2VJ,MT-2VJ VII,Industrial Fibers,Perfect,9.39
+Outer Ring,Wield,MT-2VJ,MT-2VJ VII,Heavy Water,Perfect,354.90
+Outer Ring,Wield,MT-2VJ,MT-2VJ VII,Liquid Ozone,Rich,40.56
+Outer Ring,Wield,MT-2VJ,MT-2VJ VIII,Gleaming Alloy,Poor,17.79
+Outer Ring,Wield,MT-2VJ,MT-2VJ VIII,Reactive Metals,Poor,5.00
+Outer Ring,Wield,MT-2VJ,MT-2VJ VIII,Supertensile Plastics,Medium,14.45
+Outer Ring,Wield,MT-2VJ,MT-2VJ VIII,Oxygen Isotopes,Poor,2.64
+Outer Ring,Wield,MT-2VJ,MT-2VJ IX,Fiber Composite,Medium,22.36
+Outer Ring,Wield,MT-2VJ,MT-2VJ IX,Reactive Gas,Rich,33.05
+Outer Ring,Wield,MT-2VJ,MT-2VJ IX,Noble Gas,Rich,28.43
+Outer Ring,Wield,MT-2VJ,MT-2VJ IX,Polyaramids,Perfect,22.48
+Outer Ring,Wield,MT-2VJ,MT-2VJ IX,Coolant,Rich,18.07
+Outer Ring,Sword,3HQC-6,3HQC-6 II,Gleaming Alloy,Medium,25.24
+Outer Ring,Sword,3HQC-6,3HQC-6 II,Reactive Gas,Medium,19.96
+Outer Ring,Sword,3HQC-6,3HQC-6 II,Reactive Metals,Medium,5.24
+Outer Ring,Sword,3HQC-6,3HQC-6 II,Toxic Metals,Medium,6.36
+Outer Ring,Sword,3HQC-6,3HQC-6 III,Gleaming Alloy,Poor,16.88
+Outer Ring,Sword,3HQC-6,3HQC-6 III,Lucent Compound,Rich,29.00
+Outer Ring,Sword,3HQC-6,3HQC-6 III,Reactive Metals,Medium,6.28
+Outer Ring,Sword,3HQC-6,3HQC-6 III,Construction Blocks,Rich,31.42
+Outer Ring,Sword,3HQC-6,3HQC-6 IV,Reactive Gas,Perfect,32.48
+Outer Ring,Sword,3HQC-6,3HQC-6 IV,Noble Gas,Medium,21.84
+Outer Ring,Sword,3HQC-6,3HQC-6 IV,Base Metals,Medium,5.09
+Outer Ring,Sword,3HQC-6,3HQC-6 IV,Polyaramids,Medium,15.55
+Outer Ring,Sword,3HQC-6,3HQC-6 IV,Coolant,Medium,12.95
+Outer Ring,Sword,3HQC-6,3HQC-6 V,Dark Compound,Poor,17.26
+Outer Ring,Sword,3HQC-6,3HQC-6 V,Industrial Fibers,Poor,3.78
+Outer Ring,Sword,3HQC-6,3HQC-6 V,Supertensile Plastics,Poor,9.57
+Outer Ring,Sword,3HQC-6,3HQC-6 V,Construction Blocks,Poor,17.62
+Outer Ring,Sword,3HQC-6,3HQC-6 VI,Lustering Alloy,Rich,28.72
+Outer Ring,Sword,3HQC-6,3HQC-6 VI,Reactive Gas,Perfect,32.08
+Outer Ring,Sword,3HQC-6,3HQC-6 VI,Noble Gas,Rich,30.54
+Outer Ring,Sword,3HQC-6,3HQC-6 VI,Reactive Metals,Medium,6.32
+Outer Ring,Sword,3HQC-6,3HQC-6 VI,Polyaramids,Poor,12.35
+Outer Ring,Sword,3HQC-6,3HQC-6 VII,Lucent Compound,Rich,26.68
+Outer Ring,Sword,3HQC-6,3HQC-6 VII,Reactive Metals,Medium,5.95
+Outer Ring,Sword,3HQC-6,3HQC-6 VII,Suspended Plasma,Rich,96.70
+Outer Ring,Sword,3HQC-6,3HQC-6 VII,Oxygen Isotopes,Medium,2.91
+Outer Ring,Sword,3HQC-6,3HQC-6 VIII,Dark Compound,Poor,12.62
+Outer Ring,Sword,3HQC-6,3HQC-6 VIII,Base Metals,Medium,5.97
+Outer Ring,Sword,3HQC-6,3HQC-6 VIII,Toxic Metals,Poor,4.14
+Outer Ring,Sword,3HQC-6,3HQC-6 VIII,Supertensile Plastics,Medium,13.07
+Outer Ring,Sword,OX-RGN,OX-RGN I,Lustering Alloy,Medium,24.26
+Outer Ring,Sword,OX-RGN,OX-RGN I,Precious Alloy,Poor,13.28
+Outer Ring,Sword,OX-RGN,OX-RGN I,Industrial Fibers,Medium,5.49
+Outer Ring,Sword,OX-RGN,OX-RGN I,Supertensile Plastics,Poor,12.49
+Outer Ring,Sword,OX-RGN,OX-RGN II,Dark Compound,Medium,23.34
+Outer Ring,Sword,OX-RGN,OX-RGN II,Noble Gas,Rich,29.42
+Outer Ring,Sword,OX-RGN,OX-RGN II,Heavy Metals,Medium,19.46
+Outer Ring,Sword,OX-RGN,OX-RGN II,Condensates,Medium,16.33
+Outer Ring,Sword,OX-RGN,OX-RGN II,Ionic Solutions,Medium,8.24
+Outer Ring,Sword,OX-RGN,OX-RGN III,Gleaming Alloy,Medium,21.00
+Outer Ring,Sword,OX-RGN,OX-RGN III,Noble Gas,Rich,26.84
+Outer Ring,Sword,OX-RGN,OX-RGN III,Polyaramids,Perfect,22.09
+Outer Ring,Sword,OX-RGN,OX-RGN IV,Reactive Gas,Poor,16.54
+Outer Ring,Sword,OX-RGN,OX-RGN IV,Reactive Metals,Rich,6.70
+Outer Ring,Sword,OX-RGN,OX-RGN IV,Supertensile Plastics,Medium,14.41
+Outer Ring,Sword,OX-RGN,OX-RGN IV,Oxygen Isotopes,Poor,2.42
+Outer Ring,Sword,OX-RGN,OX-RGN V,Sheen Compound,Rich,28.70
+Outer Ring,Sword,OX-RGN,OX-RGN V,Glossy Compound,Poor,17.18
+Outer Ring,Sword,OX-RGN,OX-RGN V,Reactive Gas,Rich,28.76
+Outer Ring,Sword,OX-RGN,OX-RGN V,Noble Gas,Rich,28.24
+Outer Ring,Sword,OX-RGN,OX-RGN V,Polyaramids,Rich,20.89
+Outer Ring,Sword,OX-RGN,OX-RGN VI,Reactive Metals,Rich,8.11
+Outer Ring,Sword,OX-RGN,OX-RGN VI,Construction Blocks,Rich,30.30
+Outer Ring,Sword,OX-RGN,OX-RGN VI,Suspended Plasma,Rich,103.25
+Outer Ring,Sword,OX-RGN,OX-RGN VI,Oxygen Isotopes,Perfect,4.80
+Outer Ring,Sword,OX-RGN,OX-RGN VII,Base Metals,Poor,4.78
+Outer Ring,Sword,OX-RGN,OX-RGN VII,Toxic Metals,Poor,3.63
+Outer Ring,Sword,OX-RGN,OX-RGN VII,Supertensile Plastics,Medium,15.28
+Outer Ring,Sword,OX-RGN,OX-RGN VII,Silicate Glass,Medium,10.86
+Outer Ring,Sword,OX-RGN,OX-RGN VIII,Lustering Alloy,Rich,26.22
+Outer Ring,Sword,OX-RGN,OX-RGN VIII,Fiber Composite,Medium,23.26
+Outer Ring,Sword,OX-RGN,OX-RGN VIII,Reactive Gas,Medium,19.90
+Outer Ring,Sword,OX-RGN,OX-RGN VIII,Base Metals,Rich,7.46
+Outer Ring,Sword,OX-RGN,OX-RGN VIII,Reactive Metals,Rich,7.54
+Outer Ring,Sword,OX-RGN,OX-RGN IX,Sheen Compound,Rich,31.48
+Outer Ring,Sword,OX-RGN,OX-RGN IX,Reactive Gas,Rich,26.84
+Outer Ring,Sword,OX-RGN,OX-RGN IX,Noble Gas,Rich,26.78
+Outer Ring,Sword,OX-RGN,OX-RGN IX,Reactive Metals,Rich,6.78
+Outer Ring,Sword,OX-RGN,OX-RGN IX,Polyaramids,Medium,13.77
+Outer Ring,Sword,R-OCBA,R-OCBA I,Supertensile Plastics,Poor,11.60
+Outer Ring,Sword,R-OCBA,R-OCBA I,Construction Blocks,Poor,15.64
+Outer Ring,Sword,R-OCBA,R-OCBA I,Silicate Glass,Medium,9.71
+Outer Ring,Sword,R-OCBA,R-OCBA I,Plasmoids,Poor,0.76
+Outer Ring,Sword,R-OCBA,R-OCBA II,Crystal Compound,Medium,22.82
+Outer Ring,Sword,R-OCBA,R-OCBA II,Toxic Metals,Medium,6.32
+Outer Ring,Sword,R-OCBA,R-OCBA II,Coolant,Medium,15.16
+Outer Ring,Sword,R-OCBA,R-OCBA II,Liquid Ozone,Rich,34.52
+Outer Ring,Sword,R-OCBA,R-OCBA II,Ionic Solutions,Rich,10.60
+Outer Ring,Sword,R-OCBA,R-OCBA III,Condensed Alloy,Perfect,32.10
+Outer Ring,Sword,R-OCBA,R-OCBA III,Opulent Compound,Perfect,38.20
+Outer Ring,Sword,R-OCBA,R-OCBA III,Reactive Gas,Rich,25.34
+Outer Ring,Sword,R-OCBA,R-OCBA III,Industrial Fibers,Medium,5.65
+Outer Ring,Sword,R-OCBA,R-OCBA III,Liquid Ozone,Medium,25.48
+Outer Ring,Sword,R-OCBA,R-OCBA IV,Opulent Compound,Rich,27.16
+Outer Ring,Sword,R-OCBA,R-OCBA IV,Crystal Compound,Rich,31.22
+Outer Ring,Sword,R-OCBA,R-OCBA IV,Noble Metals,Poor,18.78
+Outer Ring,Sword,R-OCBA,R-OCBA IV,Toxic Metals,Poor,4.79
+Outer Ring,Sword,R-OCBA,R-OCBA IV,Liquid Ozone,Perfect,42.77
+Outer Ring,Sword,R-OCBA,R-OCBA V,Gleaming Alloy,Rich,26.08
+Outer Ring,Sword,R-OCBA,R-OCBA V,Motley Compound,Perfect,32.20
+Outer Ring,Sword,R-OCBA,R-OCBA V,Oxygen Isotopes,Medium,3.57
+Outer Ring,Sword,R-OCBA,R-OCBA VI,Condensed Alloy,Rich,30.64
+Outer Ring,Sword,R-OCBA,R-OCBA VI,Fiber Composite,Perfect,33.78
+Outer Ring,Sword,R-OCBA,R-OCBA VI,Reactive Gas,Perfect,37.94
+Outer Ring,Sword,R-OCBA,R-OCBA VI,Smartfab Units,Medium,12.75
+Outer Ring,Sword,R-OCBA,R-OCBA VI,Liquid Ozone,Medium,24.80
+Outer Ring,Sword,R-OCBA,R-OCBA VII,Gleaming Alloy,Rich,29.08
+Outer Ring,Sword,R-OCBA,R-OCBA VII,Glossy Compound,Rich,28.62
+Outer Ring,Sword,R-OCBA,R-OCBA VII,Polyaramids,Rich,17.11
+Outer Ring,Sword,R-OCBA,R-OCBA VIII,Dark Compound,Poor,17.68
+Outer Ring,Sword,R-OCBA,R-OCBA VIII,Base Metals,Poor,4.29
+Outer Ring,Sword,R-OCBA,R-OCBA VIII,Supertensile Plastics,Poor,10.04
+Outer Ring,Sword,R-OCBA,R-OCBA VIII,Construction Blocks,Medium,20.88
+Outer Ring,Sword,R-OCBA,R-OCBA IX,Sheen Compound,Rich,28.26
+Outer Ring,Sword,R-OCBA,R-OCBA IX,Fiber Composite,Medium,19.28
+Outer Ring,Sword,R-OCBA,R-OCBA IX,Reactive Gas,Rich,30.22
+Outer Ring,Sword,R-OCBA,R-OCBA IX,Polyaramids,Medium,15.24
+Outer Ring,Sword,R-OCBA,R-OCBA IX,Coolant,Rich,21.12
+Outer Ring,Sword,R-OCBA,R-OCBA X,Lustering Alloy,Medium,23.86
+Outer Ring,Sword,R-OCBA,R-OCBA X,Supertensile Plastics,Poor,12.23
+Outer Ring,Sword,R-OCBA,R-OCBA X,Silicate Glass,Poor,7.69
+Outer Ring,Sword,R-OCBA,R-OCBA X,Oxygen Isotopes,Poor,2.18
+Outer Ring,Sword,GA-2V7,GA-2V7 I,Gleaming Alloy,Rich,27.10
+Outer Ring,Sword,GA-2V7,GA-2V7 I,Noble Gas,Rich,25.58
+Outer Ring,Sword,GA-2V7,GA-2V7 I,Construction Blocks,Medium,21.74
+Outer Ring,Sword,GA-2V7,GA-2V7 II,Lustering Alloy,Rich,27.56
+Outer Ring,Sword,GA-2V7,GA-2V7 II,Sheen Compound,Rich,29.60
+Outer Ring,Sword,GA-2V7,GA-2V7 II,Reactive Gas,Medium,23.40
+Outer Ring,Sword,GA-2V7,GA-2V7 II,Noble Gas,Medium,23.30
+Outer Ring,Sword,GA-2V7,GA-2V7 II,Reactive Metals,Rich,6.96
+Outer Ring,Sword,GA-2V7,GA-2V7 III,Reactive Metals,Poor,4.42
+Outer Ring,Sword,GA-2V7,GA-2V7 III,Supertensile Plastics,Medium,16.39
+Outer Ring,Sword,GA-2V7,GA-2V7 III,Construction Blocks,Rich,27.62
+Outer Ring,Sword,GA-2V7,GA-2V7 III,Nanites,Poor,4.29
+Outer Ring,Sword,GA-2V7,GA-2V7 IV,Condensed Alloy,Medium,21.98
+Outer Ring,Sword,GA-2V7,GA-2V7 IV,Opulent Compound,Medium,22.10
+Outer Ring,Sword,GA-2V7,GA-2V7 IV,Reactive Gas,Medium,22.00
+Outer Ring,Sword,GA-2V7,GA-2V7 IV,Condensates,Perfect,22.21
+Outer Ring,Sword,GA-2V7,GA-2V7 IV,Liquid Ozone,Rich,33.23
+Outer Ring,Sword,GA-2V7,GA-2V7 V,Lustering Alloy,Rich,30.30
+Outer Ring,Sword,GA-2V7,GA-2V7 V,Glossy Compound,Medium,21.10
+Outer Ring,Sword,GA-2V7,GA-2V7 V,Reactive Gas,Rich,27.00
+Outer Ring,Sword,GA-2V7,GA-2V7 V,Noble Gas,Medium,23.42
+Outer Ring,Sword,GA-2V7,GA-2V7 V,Base Metals,Rich,7.08
+Outer Ring,Sword,GA-2V7,GA-2V7 VI,Glossy Compound,Poor,17.80
+Outer Ring,Sword,GA-2V7,GA-2V7 VI,Reactive Gas,Medium,24.90
+Outer Ring,Sword,GA-2V7,GA-2V7 VI,Base Metals,Poor,4.33
+Outer Ring,Sword,GA-2V7,GA-2V7 VI,Polyaramids,Rich,18.24
+Outer Ring,Sword,GA-2V7,GA-2V7 VI,Coolant,Medium,13.97
+Outer Ring,Sword,GA-2V7,GA-2V7 VII,Lustering Alloy,Poor,16.10
+Outer Ring,Sword,GA-2V7,GA-2V7 VII,Supertensile Plastics,Poor,12.15
+Outer Ring,Sword,GA-2V7,GA-2V7 VII,Coolant,Medium,14.25
+Outer Ring,Sword,GA-2V7,GA-2V7 VII,Condensates,Poor,10.07
+Outer Ring,Sword,DB-6W4,DB-6W4 I,Gleaming Alloy,Medium,21.76
+Outer Ring,Sword,DB-6W4,DB-6W4 I,Noble Gas,Rich,25.78
+Outer Ring,Sword,DB-6W4,DB-6W4 I,Construction Blocks,Medium,20.80
+Outer Ring,Sword,DB-6W4,DB-6W4 II,Gleaming Alloy,Rich,29.18
+Outer Ring,Sword,DB-6W4,DB-6W4 II,Motley Compound,Medium,23.20
+Outer Ring,Sword,DB-6W4,DB-6W4 II,Construction Blocks,Perfect,33.14
+Outer Ring,Sword,DB-6W4,DB-6W4 III,Dark Compound,Medium,22.00
+Outer Ring,Sword,DB-6W4,DB-6W4 III,Supertensile Plastics,Medium,14.07
+Outer Ring,Sword,DB-6W4,DB-6W4 III,Construction Blocks,Medium,20.34
+Outer Ring,Sword,DB-6W4,DB-6W4 III,Plasmoids,Poor,0.94
+Outer Ring,Sword,DB-6W4,DB-6W4 IV,Lustering Alloy,Medium,22.62
+Outer Ring,Sword,DB-6W4,DB-6W4 IV,Industrial Fibers,Medium,5.91
+Outer Ring,Sword,DB-6W4,DB-6W4 IV,Supertensile Plastics,Poor,8.84
+Outer Ring,Sword,DB-6W4,DB-6W4 IV,Construction Blocks,Medium,19.12
+Outer Ring,Sword,DB-6W4,DB-6W4 V,Glossy Compound,Medium,21.88
+Outer Ring,Sword,DB-6W4,DB-6W4 V,Reactive Gas,Rich,29.00
+Outer Ring,Sword,DB-6W4,DB-6W4 V,Base Metals,Medium,5.92
+Outer Ring,Sword,DB-6W4,DB-6W4 V,Coolant,Medium,15.45
+Outer Ring,Sword,DB-6W4,DB-6W4 V,Ionic Solutions,Poor,6.57
+Outer Ring,Sword,DB-6W4,DB-6W4 VI,Industrial Fibers,Medium,5.53
+Outer Ring,Sword,DB-6W4,DB-6W4 VI,Condensates,Perfect,22.05
+Outer Ring,Sword,DB-6W4,DB-6W4 VI,Smartfab Units,Perfect,25.39
+Outer Ring,Sword,DB-6W4,DB-6W4 VI,Heavy Water,Rich,253.40
+Outer Ring,Sword,DB-6W4,DB-6W4 VI,Liquid Ozone,Medium,29.52
+Outer Ring,Sword,DB-6W4,DB-6W4 VII,Reactive Gas,Rich,28.54
+Outer Ring,Sword,DB-6W4,DB-6W4 VII,Base Metals,Perfect,9.89
+Outer Ring,Sword,DB-6W4,DB-6W4 VII,Industrial Fibers,Rich,7.82
+Outer Ring,Sword,DB-6W4,DB-6W4 VII,Heavy Water,Medium,235.80
+Outer Ring,Sword,DB-6W4,DB-6W4 VII,Liquid Ozone,Rich,37.33
+Outer Ring,Sword,DB-6W4,DB-6W4 VIII,Sheen Compound,Poor,16.86
+Outer Ring,Sword,DB-6W4,DB-6W4 VIII,Fiber Composite,Poor,16.62
+Outer Ring,Sword,DB-6W4,DB-6W4 VIII,Reactive Gas,Rich,25.36
+Outer Ring,Sword,DB-6W4,DB-6W4 VIII,Base Metals,Poor,4.64
+Outer Ring,Sword,DB-6W4,DB-6W4 VIII,Polyaramids,Rich,19.65
+Outer Ring,Sword,DB-6W4,DB-6W4 IX,Gleaming Alloy,Rich,25.92
+Outer Ring,Sword,DB-6W4,DB-6W4 IX,Crystal Compound,Medium,21.20
+Outer Ring,Sword,DB-6W4,DB-6W4 IX,Reactive Metals,Medium,5.88
+Outer Ring,Sword,DB-6W4,DB-6W4 IX,Oxygen Isotopes,Medium,2.84
+Outer Ring,Sword,7-692B,7-692B I,Base Metals,Poor,3.56
+Outer Ring,Sword,7-692B,7-692B I,Toxic Metals,Medium,5.91
+Outer Ring,Sword,7-692B,7-692B I,Supertensile Plastics,Poor,10.96
+Outer Ring,Sword,7-692B,7-692B I,Plasmoids,Medium,1.28
+Outer Ring,Sword,7-692B,7-692B II,Gleaming Alloy,Medium,23.90
+Outer Ring,Sword,7-692B,7-692B II,Noble Metals,Rich,25.72
+Outer Ring,Sword,7-692B,7-692B II,Construction Blocks,Rich,27.82
+Outer Ring,Sword,7-692B,7-692B III,Gleaming Alloy,Poor,17.10
+Outer Ring,Sword,7-692B,7-692B III,Lucent Compound,Medium,23.50
+Outer Ring,Sword,7-692B,7-692B III,Reactive Gas,Medium,20.50
+Outer Ring,Sword,7-692B,7-692B III,Reactive Metals,Perfect,8.54
+Outer Ring,Sword,7-692B,7-692B IV,Sheen Compound,Medium,23.92
+Outer Ring,Sword,7-692B,7-692B IV,Fiber Composite,Rich,31.38
+Outer Ring,Sword,7-692B,7-692B IV,Reactive Gas,Rich,29.74
+Outer Ring,Sword,7-692B,7-692B IV,Polyaramids,Rich,17.97
+Outer Ring,Sword,7-692B,7-692B IV,Coolant,Rich,17.35
+Outer Ring,Sword,7-692B,7-692B V,Lustering Alloy,Medium,22.56
+Outer Ring,Sword,7-692B,7-692B V,Sheen Compound,Poor,17.58
+Outer Ring,Sword,7-692B,7-692B V,Reactive Gas,Medium,21.78
+Outer Ring,Sword,7-692B,7-692B V,Reactive Metals,Rich,7.65
+Outer Ring,Sword,7-692B,7-692B V,Ionic Solutions,Poor,7.46
+Outer Ring,Sword,7-692B,7-692B VI,Fiber Composite,Perfect,32.30
+Outer Ring,Sword,7-692B,7-692B VI,Reactive Gas,Poor,17.54
+Outer Ring,Sword,7-692B,7-692B VI,Noble Gas,Perfect,33.12
+Outer Ring,Sword,7-692B,7-692B VI,Base Metals,Medium,6.01
+Outer Ring,Sword,7-692B,7-692B VI,Reactive Metals,Perfect,8.60
+Outer Ring,Sword,7-692B,7-692B VII,Industrial Fibers,Medium,5.50
+Outer Ring,Sword,7-692B,7-692B VII,Coolant,Poor,10.04
+Outer Ring,Sword,7-692B,7-692B VII,Condensates,Rich,19.43
+Outer Ring,Sword,7-692B,7-692B VII,Suspended Plasma,Poor,62.64
+Outer Ring,Sword,7-692B,7-692B VIII,Lustering Alloy,Poor,17.78
+Outer Ring,Sword,7-692B,7-692B VIII,Precious Alloy,Poor,15.90
+Outer Ring,Sword,7-692B,7-692B VIII,Supertensile Plastics,Poor,8.67
+Outer Ring,Sword,7-692B,7-692B VIII,Construction Blocks,Medium,23.30
+Outer Ring,Sword,7-692B,7-692B IX,Lustering Alloy,Poor,18.44
+Outer Ring,Sword,7-692B,7-692B IX,Base Metals,Poor,3.27
+Outer Ring,Sword,7-692B,7-692B IX,Supertensile Plastics,Medium,13.51
+Outer Ring,Sword,7-692B,7-692B IX,Oxygen Isotopes,Medium,3.09
+Outer Ring,Regalia,L3-XYO,L3-XYO I,Gleaming Alloy,Rich,31.04
+Outer Ring,Regalia,L3-XYO,L3-XYO I,Motley Compound,Medium,25.01
+Outer Ring,Regalia,L3-XYO,L3-XYO I,Smartfab Units,Medium,14.78
+Outer Ring,Regalia,L3-XYO,L3-XYO II,Lustering Alloy,Medium,22.95
+Outer Ring,Regalia,L3-XYO,L3-XYO II,Toxic Metals,Poor,3.66
+Outer Ring,Regalia,L3-XYO,L3-XYO II,Industrial Fibers,Medium,5.54
+Outer Ring,Regalia,L3-XYO,L3-XYO II,Supertensile Plastics,Medium,16.49
+Outer Ring,Regalia,L3-XYO,L3-XYO III,Condensed Alloy,Perfect,37.40
+Outer Ring,Regalia,L3-XYO,L3-XYO III,Reactive Gas,Medium,22.26
+Outer Ring,Regalia,L3-XYO,L3-XYO III,Condensates,Perfect,25.77
+Outer Ring,Regalia,L3-XYO,L3-XYO III,Heavy Water,Perfect,341.88
+Outer Ring,Regalia,L3-XYO,L3-XYO III,Liquid Ozone,Rich,38.01
+Outer Ring,Regalia,L3-XYO,L3-XYO IV,Industrial Fibers,Rich,8.18
+Outer Ring,Regalia,L3-XYO,L3-XYO IV,Condensates,Medium,14.25
+Outer Ring,Regalia,L3-XYO,L3-XYO IV,Smartfab Units,Perfect,23.07
+Outer Ring,Regalia,L3-XYO,L3-XYO IV,Heavy Water,Medium,250.53
+Outer Ring,Regalia,L3-XYO,L3-XYO IV,Liquid Ozone,Rich,38.01
+Outer Ring,Regalia,AN-G54,AN-G54 I,Gleaming Alloy,Medium,24.21
+Outer Ring,Regalia,AN-G54,AN-G54 I,Noble Gas,Medium,20.45
+Outer Ring,Regalia,AN-G54,AN-G54 I,Heavy Metals,Medium,23.81
+Outer Ring,Regalia,AN-G54,AN-G54 II,Dark Compound,Poor,16.09
+Outer Ring,Regalia,AN-G54,AN-G54 II,Toxic Metals,Medium,6.13
+Outer Ring,Regalia,AN-G54,AN-G54 II,Supertensile Plastics,Poor,9.66
+Outer Ring,Regalia,AN-G54,AN-G54 II,Plasmoids,Poor,0.98
+Outer Ring,Regalia,AN-G54,AN-G54 III,Reactive Metals,Medium,5.45
+Outer Ring,Regalia,AN-G54,AN-G54 III,Toxic Metals,Poor,5.08
+Outer Ring,Regalia,AN-G54,AN-G54 III,Suspended Plasma,Rich,96.47
+Outer Ring,Regalia,AN-G54,AN-G54 III,Oxygen Isotopes,Rich,4.12
+Outer Ring,Regalia,AN-G54,AN-G54 IV,Sheen Compound,Rich,30.55
+Outer Ring,Regalia,AN-G54,AN-G54 IV,Lucent Compound,Perfect,35.74
+Outer Ring,Regalia,AN-G54,AN-G54 IV,Noble Gas,Rich,30.22
+Outer Ring,Regalia,AN-G54,AN-G54 IV,Heavy Metals,Rich,29.84
+Outer Ring,Regalia,AN-G54,AN-G54 IV,Condensates,Medium,15.19
+Outer Ring,Regalia,AN-G54,AN-G54 V,Sheen Compound,Rich,28.33
+Outer Ring,Regalia,AN-G54,AN-G54 V,Glossy Compound,Rich,31.71
+Outer Ring,Regalia,AN-G54,AN-G54 V,Reactive Gas,Poor,17.39
+Outer Ring,Regalia,AN-G54,AN-G54 V,Noble Gas,Rich,26.82
+Outer Ring,Regalia,AN-G54,AN-G54 V,Polyaramids,Medium,16.94
+Outer Ring,Regalia,AN-G54,AN-G54 VI,Sheen Compound,Rich,27.61
+Outer Ring,Regalia,AN-G54,AN-G54 VI,Fiber Composite,Rich,30.18
+Outer Ring,Regalia,AN-G54,AN-G54 VI,Reactive Gas,Poor,18.52
+Outer Ring,Regalia,AN-G54,AN-G54 VI,Base Metals,Rich,7.93
+Outer Ring,Regalia,AN-G54,AN-G54 VI,Reactive Metals,Rich,7.74
+Outer Ring,Regalia,AN-G54,AN-G54 VII,Dark Compound,Medium,21.95
+Outer Ring,Regalia,AN-G54,AN-G54 VII,Industrial Fibers,Medium,6.50
+Outer Ring,Regalia,AN-G54,AN-G54 VII,Supertensile Plastics,Poor,12.07
+Outer Ring,Regalia,AN-G54,AN-G54 VII,Silicate Glass,Poor,9.23
+Outer Ring,Regalia,AN-G54,AN-G54 VIII,Motley Compound,Rich,30.49
+Outer Ring,Regalia,AN-G54,AN-G54 VIII,Industrial Fibers,Poor,4.40
+Outer Ring,Regalia,AN-G54,AN-G54 VIII,Condensates,Rich,19.14
+Outer Ring,Regalia,AN-G54,AN-G54 VIII,Liquid Ozone,Medium,31.05
+Outer Ring,Regalia,AN-G54,AN-G54 IX,Lustering Alloy,Medium,21.61
+Outer Ring,Regalia,AN-G54,AN-G54 IX,Dark Compound,Medium,21.76
+Outer Ring,Regalia,AN-G54,AN-G54 IX,Base Metals,Medium,6.20
+Outer Ring,Regalia,AN-G54,AN-G54 IX,Supertensile Plastics,Poor,9.02
+Outer Ring,Regalia,ZXI-K2,ZXI-K2 I,Gleaming Alloy,Medium,24.42
+Outer Ring,Regalia,ZXI-K2,ZXI-K2 I,Heavy Metals,Medium,24.86
+Outer Ring,Regalia,ZXI-K2,ZXI-K2 I,Smartfab Units,Rich,19.44
+Outer Ring,Regalia,ZXI-K2,ZXI-K2 II,Condensed Alloy,Rich,27.34
+Outer Ring,Regalia,ZXI-K2,ZXI-K2 II,Fiber Composite,Perfect,36.80
+Outer Ring,Regalia,ZXI-K2,ZXI-K2 II,Industrial Fibers,Medium,5.18
+Outer Ring,Regalia,ZXI-K2,ZXI-K2 II,Condensates,Perfect,24.23
+Outer Ring,Regalia,ZXI-K2,ZXI-K2 II,Liquid Ozone,Rich,38.65
+Outer Ring,Regalia,ZXI-K2,ZXI-K2 III,Lustering Alloy,Rich,28.78
+Outer Ring,Regalia,ZXI-K2,ZXI-K2 III,Reactive Gas,Rich,27.62
+Outer Ring,Regalia,ZXI-K2,ZXI-K2 III,Reactive Metals,Medium,6.17
+Outer Ring,Regalia,ZXI-K2,ZXI-K2 III,Polyaramids,Rich,18.79
+Outer Ring,Regalia,ZXI-K2,ZXI-K2 III,Coolant,Rich,17.69
+Outer Ring,Regalia,ZXI-K2,ZXI-K2 IV,Glossy Compound,Medium,23.80
+Outer Ring,Regalia,ZXI-K2,ZXI-K2 IV,Reactive Gas,Rich,31.30
+Outer Ring,Regalia,ZXI-K2,ZXI-K2 IV,Base Metals,Medium,6.26
+Outer Ring,Regalia,ZXI-K2,ZXI-K2 IV,Reactive Metals,Rich,6.86
+Outer Ring,Regalia,ZXI-K2,ZXI-K2 IV,Coolant,Medium,15.45
+Outer Ring,Regalia,ZXI-K2,ZXI-K2 V,Sheen Compound,Rich,27.52
+Outer Ring,Regalia,ZXI-K2,ZXI-K2 V,Glossy Compound,Rich,29.40
+Outer Ring,Regalia,ZXI-K2,ZXI-K2 V,Reactive Gas,Rich,26.02
+Outer Ring,Regalia,ZXI-K2,ZXI-K2 V,Noble Gas,Rich,26.92
+Outer Ring,Regalia,ZXI-K2,ZXI-K2 V,Polyaramids,Rich,18.56
+Outer Ring,Regalia,ZXI-K2,ZXI-K2 VI,Gleaming Alloy,Rich,29.44
+Outer Ring,Regalia,ZXI-K2,ZXI-K2 VI,Crystal Compound,Medium,24.56
+Outer Ring,Regalia,ZXI-K2,ZXI-K2 VI,Reactive Metals,Rich,6.98
+Outer Ring,Regalia,ZXI-K2,ZXI-K2 VI,Construction Blocks,Rich,31.50
+Outer Ring,Regalia,ZXI-K2,ZXI-K2 VII,Lucent Compound,Perfect,32.66
+Outer Ring,Regalia,ZXI-K2,ZXI-K2 VII,Reactive Metals,Rich,7.42
+Outer Ring,Regalia,ZXI-K2,ZXI-K2 VII,Supertensile Plastics,Rich,19.65
+Outer Ring,Regalia,ZXI-K2,ZXI-K2 VII,Suspended Plasma,Poor,62.86
+Outer Ring,Regalia,ZXI-K2,ZXI-K2 VIII,Condensed Alloy,Perfect,32.24
+Outer Ring,Regalia,ZXI-K2,ZXI-K2 VIII,Opulent Compound,Perfect,33.28
+Outer Ring,Regalia,ZXI-K2,ZXI-K2 VIII,Crystal Compound,Medium,20.68
+Outer Ring,Regalia,ZXI-K2,ZXI-K2 VIII,Coolant,Rich,20.72
+Outer Ring,Regalia,ZXI-K2,ZXI-K2 VIII,Liquid Ozone,Rich,34.60
+Outer Ring,Regalia,T-Z6J2,T-Z6J2 I,Gleaming Alloy,Poor,19.03
+Outer Ring,Regalia,T-Z6J2,T-Z6J2 I,Motley Compound,Rich,32.13
+Outer Ring,Regalia,T-Z6J2,T-Z6J2 I,Polyaramids,Rich,22.18
+Outer Ring,Regalia,T-Z6J2,T-Z6J2 II,Lustering Alloy,Poor,18.27
+Outer Ring,Regalia,T-Z6J2,T-Z6J2 II,Precious Alloy,Medium,20.16
+Outer Ring,Regalia,T-Z6J2,T-Z6J2 II,Supertensile Plastics,Poor,11.00
+Outer Ring,Regalia,T-Z6J2,T-Z6J2 II,Construction Blocks,Poor,17.41
+Outer Ring,Regalia,T-Z6J2,T-Z6J2 III,Gleaming Alloy,Rich,31.23
+Outer Ring,Regalia,T-Z6J2,T-Z6J2 III,Noble Gas,Poor,19.17
+Outer Ring,Regalia,T-Z6J2,T-Z6J2 III,Construction Blocks,Rich,27.61
+Outer Ring,Regalia,T-Z6J2,T-Z6J2 IV,Toxic Metals,Medium,6.08
+Outer Ring,Regalia,T-Z6J2,T-Z6J2 IV,Industrial Fibers,Medium,6.71
+Outer Ring,Regalia,T-Z6J2,T-Z6J2 IV,Supertensile Plastics,Poor,13.12
+Outer Ring,Regalia,T-Z6J2,T-Z6J2 IV,Silicate Glass,Poor,8.64
+Outer Ring,Regalia,T-Z6J2,T-Z6J2 V,Lucent Compound,Medium,25.91
+Outer Ring,Regalia,T-Z6J2,T-Z6J2 V,Crystal Compound,Poor,16.99
+Outer Ring,Regalia,T-Z6J2,T-Z6J2 V,Reactive Metals,Rich,8.09
+Outer Ring,Regalia,T-Z6J2,T-Z6J2 V,Nanites,Rich,8.55
+Outer Ring,Regalia,T-Z6J2,T-Z6J2 VI,Condensed Alloy,Rich,33.03
+Outer Ring,Regalia,T-Z6J2,T-Z6J2 VI,Reactive Gas,Medium,24.49
+Outer Ring,Regalia,T-Z6J2,T-Z6J2 VI,Base Metals,Perfect,9.40
+Outer Ring,Regalia,T-Z6J2,T-Z6J2 VI,Condensates,Rich,21.74
+Outer Ring,Regalia,T-Z6J2,T-Z6J2 VI,Liquid Ozone,Rich,40.48
+Outer Ring,Regalia,T-Z6J2,T-Z6J2 VII,Lucent Compound,Medium,24.34
+Outer Ring,Regalia,T-Z6J2,T-Z6J2 VII,Reactive Gas,Rich,32.32
+Outer Ring,Regalia,T-Z6J2,T-Z6J2 VII,Reactive Metals,Poor,4.47
+Outer Ring,Regalia,T-Z6J2,T-Z6J2 VII,Suspended Plasma,Perfect,123.98
+Outer Ring,Regalia,T-Z6J2,T-Z6J2 VIII,Reactive Gas,Medium,23.50
+Outer Ring,Regalia,T-Z6J2,T-Z6J2 VIII,Base Metals,Rich,7.91
+Outer Ring,Regalia,T-Z6J2,T-Z6J2 VIII,Noble Metals,Rich,33.05
+Outer Ring,Regalia,T-Z6J2,T-Z6J2 VIII,Heavy Water,Perfect,391.23
+Outer Ring,Regalia,T-Z6J2,T-Z6J2 VIII,Liquid Ozone,Medium,30.82
+Outer Ring,Regalia,T-Z6J2,T-Z6J2 IX,Crystal Compound,Medium,25.64
+Outer Ring,Regalia,T-Z6J2,T-Z6J2 IX,Noble Metals,Medium,25.28
+Outer Ring,Regalia,T-Z6J2,T-Z6J2 IX,Toxic Metals,Rich,7.69
+Outer Ring,Regalia,T-Z6J2,T-Z6J2 IX,Liquid Ozone,Rich,39.03
+Outer Ring,Regalia,T-Z6J2,T-Z6J2 IX,Ionic Solutions,Poor,7.74
+Outer Ring,Regalia,T-Z6J2,T-Z6J2 X,Sheen Compound,Rich,32.84
+Outer Ring,Regalia,T-Z6J2,T-Z6J2 X,Fiber Composite,Medium,25.58
+Outer Ring,Regalia,T-Z6J2,T-Z6J2 X,Reactive Gas,Medium,19.80
+Outer Ring,Regalia,T-Z6J2,T-Z6J2 X,Noble Gas,Medium,24.89
+Outer Ring,Regalia,T-Z6J2,T-Z6J2 X,Base Metals,Rich,8.65
+Outer Ring,Regalia,T-Z6J2,T-Z6J2 XI,Sheen Compound,Rich,30.93
+Outer Ring,Regalia,T-Z6J2,T-Z6J2 XI,Fiber Composite,Rich,31.42
+Outer Ring,Regalia,T-Z6J2,T-Z6J2 XI,Reactive Gas,Medium,23.39
+Outer Ring,Regalia,T-Z6J2,T-Z6J2 XI,Noble Gas,Rich,33.08
+Outer Ring,Regalia,T-Z6J2,T-Z6J2 XI,Base Metals,Poor,4.56
+Outer Ring,Regalia,CT7-5V,CT7-5V I,Gleaming Alloy,Medium,26.62
+Outer Ring,Regalia,CT7-5V,CT7-5V I,Motley Compound,Rich,38.06
+Outer Ring,Regalia,CT7-5V,CT7-5V I,Glossy Compound,Medium,24.41
+Outer Ring,Regalia,CT7-5V,CT7-5V II,Crystal Compound,Rich,34.01
+Outer Ring,Regalia,CT7-5V,CT7-5V II,Reactive Metals,Rich,10.00
+Outer Ring,Regalia,CT7-5V,CT7-5V II,Toxic Metals,Rich,8.84
+Outer Ring,Regalia,CT7-5V,CT7-5V II,Construction Blocks,Medium,30.34
+Outer Ring,Regalia,CT7-5V,CT7-5V III,Condensed Alloy,Perfect,42.53
+Outer Ring,Regalia,CT7-5V,CT7-5V III,Fiber Composite,Rich,32.69
+Outer Ring,Regalia,CT7-5V,CT7-5V III,Smartfab Units,Perfect,26.75
+Outer Ring,Regalia,CT7-5V,CT7-5V III,Heavy Water,Medium,236.88
+Outer Ring,Regalia,CT7-5V,CT7-5V III,Liquid Ozone,Medium,37.11
+Outer Ring,Regalia,CT7-5V,CT7-5V IV,Gleaming Alloy,Medium,22.97
+Outer Ring,Regalia,CT7-5V,CT7-5V IV,Glossy Compound,Perfect,38.42
+Outer Ring,Regalia,CT7-5V,CT7-5V IV,Smartfab Units,Poor,14.90
+Outer Ring,Regalia,CT7-5V,CT7-5V V,Lustering Alloy,Medium,24.60
+Outer Ring,Regalia,CT7-5V,CT7-5V V,Glossy Compound,Rich,35.78
+Outer Ring,Regalia,CT7-5V,CT7-5V V,Reactive Gas,Perfect,39.17
+Outer Ring,Regalia,CT7-5V,CT7-5V V,Base Metals,Medium,7.81
+Outer Ring,Regalia,CT7-5V,CT7-5V V,Ionic Solutions,Poor,8.44
+Outer Ring,Regalia,CT7-5V,CT7-5V VI,Sheen Compound,Medium,28.73
+Outer Ring,Regalia,CT7-5V,CT7-5V VI,Fiber Composite,Poor,21.82
+Outer Ring,Regalia,CT7-5V,CT7-5V VI,Glossy Compound,Rich,34.92
+Outer Ring,Regalia,CT7-5V,CT7-5V VI,Reactive Gas,Medium,24.48
+Outer Ring,Regalia,CT7-5V,CT7-5V VI,Coolant,Medium,17.65
+Outer Ring,Regalia,CT7-5V,CT7-5V VII,Glossy Compound,Perfect,39.77
+Outer Ring,Regalia,CT7-5V,CT7-5V VII,Reactive Gas,Rich,37.03
+Outer Ring,Regalia,CT7-5V,CT7-5V VII,Noble Gas,Rich,33.05
+Outer Ring,Regalia,CT7-5V,CT7-5V VII,Polyaramids,Rich,21.42
+Outer Ring,Regalia,CT7-5V,CT7-5V VII,Coolant,Medium,15.87
+Outer Ring,Regalia,CT7-5V,CT7-5V VIII,Fiber Composite,Poor,22.13
+Outer Ring,Regalia,CT7-5V,CT7-5V VIII,Reactive Gas,Rich,37.44
+Outer Ring,Regalia,CT7-5V,CT7-5V VIII,Noble Gas,Perfect,38.28
+Outer Ring,Regalia,CT7-5V,CT7-5V VIII,Reactive Metals,Rich,9.22
+Outer Ring,Regalia,CT7-5V,CT7-5V VIII,Ionic Solutions,Rich,13.12
+Outer Ring,Regalia,CT7-5V,CT7-5V IX,Lustering Alloy,Medium,24.05
+Outer Ring,Regalia,CT7-5V,CT7-5V IX,Fiber Composite,Poor,20.59
+Outer Ring,Regalia,CT7-5V,CT7-5V IX,Reactive Gas,Rich,34.42
+Outer Ring,Regalia,CT7-5V,CT7-5V IX,Reactive Metals,Medium,6.10
+Outer Ring,Regalia,CT7-5V,CT7-5V IX,Coolant,Medium,16.16
+Outer Ring,Regalia,CT7-5V,CT7-5V X,Lustering Alloy,Medium,24.94
+Outer Ring,Regalia,CT7-5V,CT7-5V X,Base Metals,Medium,6.75
+Outer Ring,Regalia,CT7-5V,CT7-5V X,Supertensile Plastics,Poor,12.58
+Outer Ring,Regalia,CT7-5V,CT7-5V X,Plasmoids,Medium,1.73
+Outer Ring,Regalia,2JJ-0E,2JJ-0E I,Lustering Alloy,Medium,28.70
+Outer Ring,Regalia,2JJ-0E,2JJ-0E I,Precious Alloy,Medium,27.40
+Outer Ring,Regalia,2JJ-0E,2JJ-0E I,Dark Compound,Poor,20.12
+Outer Ring,Regalia,2JJ-0E,2JJ-0E I,Toxic Metals,Medium,8.29
+Outer Ring,Regalia,2JJ-0E,2JJ-0E I,Construction Blocks,Medium,31.04
+Outer Ring,Regalia,2JJ-0E,2JJ-0E II,Precious Alloy,Medium,30.76
+Outer Ring,Regalia,2JJ-0E,2JJ-0E II,Dark Compound,Poor,21.55
+Outer Ring,Regalia,2JJ-0E,2JJ-0E II,Supertensile Plastics,Medium,17.14
+Outer Ring,Regalia,2JJ-0E,2JJ-0E II,Oxygen Isotopes,Medium,4.38
+Outer Ring,Regalia,2JJ-0E,2JJ-0E II,Plasmoids,Poor,1.10
+Outer Ring,Regalia,2JJ-0E,2JJ-0E III,Lustering Alloy,Medium,24.96
+Outer Ring,Regalia,2JJ-0E,2JJ-0E III,Dark Compound,Medium,29.15
+Outer Ring,Regalia,2JJ-0E,2JJ-0E III,Toxic Metals,Poor,5.22
+Outer Ring,Regalia,2JJ-0E,2JJ-0E III,Construction Blocks,Medium,31.51
+Outer Ring,Regalia,2JJ-0E,2JJ-0E III,Oxygen Isotopes,Poor,2.86
+Outer Ring,Regalia,2JJ-0E,2JJ-0E IV,Dark Compound,Medium,27.77
+Outer Ring,Regalia,2JJ-0E,2JJ-0E IV,Industrial Fibers,Medium,7.41
+Outer Ring,Regalia,2JJ-0E,2JJ-0E IV,Supertensile Plastics,Medium,18.25
+Outer Ring,Regalia,2JJ-0E,2JJ-0E IV,Silicate Glass,Poor,10.56
+Outer Ring,Regalia,2JJ-0E,2JJ-0E IV,Plasmoids,Medium,1.71
+Outer Ring,Regalia,2JJ-0E,2JJ-0E V,Lustering Alloy,Poor,16.74
+Outer Ring,Regalia,2JJ-0E,2JJ-0E V,Precious Alloy,Poor,20.44
+Outer Ring,Regalia,2JJ-0E,2JJ-0E V,Dark Compound,Medium,24.52
+Outer Ring,Regalia,2JJ-0E,2JJ-0E V,Industrial Fibers,Poor,4.90
+Outer Ring,Regalia,2JJ-0E,2JJ-0E V,Plasmoids,Medium,1.64
+Outer Ring,Regalia,2JJ-0E,2JJ-0E VI,Lucent Compound,Rich,35.44
+Outer Ring,Regalia,2JJ-0E,2JJ-0E VI,Crystal Compound,Rich,39.68
+Outer Ring,Regalia,2JJ-0E,2JJ-0E VI,Reactive Gas,Rich,34.97
+Outer Ring,Regalia,2JJ-0E,2JJ-0E VI,Reactive Metals,Rich,9.43
+Outer Ring,Regalia,2JJ-0E,2JJ-0E VI,Suspended Plasma,Rich,133.01
+Outer Ring,Regalia,2JJ-0E,2JJ-0E VII,Sheen Compound,Medium,28.99
+Outer Ring,Regalia,2JJ-0E,2JJ-0E VII,Fiber Composite,Medium,30.89
+Outer Ring,Regalia,2JJ-0E,2JJ-0E VII,Noble Gas,Medium,28.91
+Outer Ring,Regalia,2JJ-0E,2JJ-0E VII,Base Metals,Rich,9.19
+Outer Ring,Regalia,2JJ-0E,2JJ-0E VII,Polyaramids,Medium,18.96
+Outer Ring,Regalia,2JJ-0E,2JJ-0E VII,Ionic Solutions,Medium,12.98
+Outer Ring,Regalia,2JJ-0E,2JJ-0E VIII,Condensed Alloy,Perfect,48.28
+Outer Ring,Regalia,2JJ-0E,2JJ-0E VIII,Opulent Compound,Perfect,42.98
+Outer Ring,Regalia,2JJ-0E,2JJ-0E VIII,Reactive Gas,Rich,37.00
+Outer Ring,Regalia,2JJ-0E,2JJ-0E VIII,Condensates,Rich,25.95
+Outer Ring,Regalia,2JJ-0E,2JJ-0E VIII,Smartfab Units,Rich,25.90
+Outer Ring,Regalia,2JJ-0E,2JJ-0E VIII,Heavy Water,Perfect,443.04
+Outer Ring,Regalia,2JJ-0E,2JJ-0E IX,Lustering Alloy,Poor,23.17
+Outer Ring,Regalia,2JJ-0E,2JJ-0E IX,Fiber Composite,Medium,26.96
+Outer Ring,Regalia,2JJ-0E,2JJ-0E IX,Reactive Gas,Perfect,42.87
+Outer Ring,Regalia,2JJ-0E,2JJ-0E IX,Base Metals,Rich,8.93
+Outer Ring,Regalia,2JJ-0E,2JJ-0E IX,Polyaramids,Medium,19.00
+Outer Ring,Regalia,2JJ-0E,2JJ-0E IX,Coolant,Medium,17.91
+Outer Ring,Regalia,2JJ-0E,2JJ-0E X,Lustering Alloy,Poor,16.82
+Outer Ring,Regalia,2JJ-0E,2JJ-0E X,Dark Compound,Poor,18.82
+Outer Ring,Regalia,2JJ-0E,2JJ-0E X,Industrial Fibers,Poor,5.58
+Outer Ring,Regalia,2JJ-0E,2JJ-0E X,Supertensile Plastics,Medium,16.95
+Outer Ring,Regalia,2JJ-0E,2JJ-0E X,Construction Blocks,Medium,29.33
+Outer Ring,Scepter,B0C-LD,B0C-LD I,Toxic Metals,Medium,5.69
+Outer Ring,Scepter,B0C-LD,B0C-LD I,Supertensile Plastics,Medium,14.58
+Outer Ring,Scepter,B0C-LD,B0C-LD I,Silicate Glass,Poor,10.36
+Outer Ring,Scepter,B0C-LD,B0C-LD I,Oxygen Isotopes,Medium,3.33
+Outer Ring,Scepter,B0C-LD,B0C-LD II,Crystal Compound,Medium,23.80
+Outer Ring,Scepter,B0C-LD,B0C-LD II,Toxic Metals,Rich,8.67
+Outer Ring,Scepter,B0C-LD,B0C-LD II,Polyaramids,Rich,23.01
+Outer Ring,Scepter,B0C-LD,B0C-LD II,Liquid Ozone,Rich,42.95
+Outer Ring,Scepter,B0C-LD,B0C-LD II,Ionic Solutions,Rich,12.77
+Outer Ring,Scepter,B0C-LD,B0C-LD III,Lustering Alloy,Poor,14.10
+Outer Ring,Scepter,B0C-LD,B0C-LD III,Precious Alloy,Medium,22.51
+Outer Ring,Scepter,B0C-LD,B0C-LD III,Supertensile Plastics,Poor,11.97
+Outer Ring,Scepter,B0C-LD,B0C-LD III,Construction Blocks,Medium,24.05
+Outer Ring,Scepter,B0C-LD,B0C-LD IV,Condensed Alloy,Perfect,39.78
+Outer Ring,Scepter,B0C-LD,B0C-LD IV,Base Metals,Perfect,9.95
+Outer Ring,Scepter,B0C-LD,B0C-LD IV,Smartfab Units,Perfect,25.62
+Outer Ring,Scepter,B0C-LD,B0C-LD IV,Heavy Water,Medium,223.96
+Outer Ring,Scepter,B0C-LD,B0C-LD IV,Liquid Ozone,Rich,35.83
+Outer Ring,Scepter,NP6-38,NP6-38 I,Base Metals,Poor,4.60
+Outer Ring,Scepter,NP6-38,NP6-38 I,Toxic Metals,Poor,4.46
+Outer Ring,Scepter,NP6-38,NP6-38 I,Industrial Fibers,Medium,6.53
+Outer Ring,Scepter,NP6-38,NP6-38 I,Supertensile Plastics,Medium,16.56
+Outer Ring,Scepter,NP6-38,NP6-38 II,Gleaming Alloy,Perfect,33.58
+Outer Ring,Scepter,NP6-38,NP6-38 II,Noble Gas,Rich,28.12
+Outer Ring,Scepter,NP6-38,NP6-38 II,Oxygen Isotopes,Rich,4.66
+Outer Ring,Scepter,NP6-38,NP6-38 III,Condensed Alloy,Medium,26.44
+Outer Ring,Scepter,NP6-38,NP6-38 III,Crystal Compound,Medium,21.97
+Outer Ring,Scepter,NP6-38,NP6-38 III,Noble Metals,Poor,19.43
+Outer Ring,Scepter,NP6-38,NP6-38 III,Silicate Glass,Rich,14.18
+Outer Ring,Scepter,NP6-38,NP6-38 III,Liquid Ozone,Medium,26.41
+Outer Ring,Scepter,NP6-38,NP6-38 IV,Polyaramids,Medium,13.61
+Outer Ring,Scepter,NP6-38,NP6-38 IV,Coolant,Medium,15.57
+Outer Ring,Scepter,NP6-38,NP6-38 IV,Heavy Water,Rich,302.61
+Outer Ring,Scepter,NP6-38,NP6-38 IV,Liquid Ozone,Medium,30.29
+Outer Ring,Scepter,NP6-38,NP6-38 IV,Ionic Solutions,Rich,12.91
+Outer Ring,Scepter,NP6-38,NP6-38 V,Gleaming Alloy,Rich,31.77
+Outer Ring,Scepter,NP6-38,NP6-38 V,Motley Compound,Rich,29.21
+Outer Ring,Scepter,NP6-38,NP6-38 V,Noble Metals,Rich,33.28
+Outer Ring,Scepter,NP6-38,NP6-38 VI,Gleaming Alloy,Rich,26.69
+Outer Ring,Scepter,NP6-38,NP6-38 VI,Noble Metals,Medium,25.41
+Outer Ring,Scepter,NP6-38,NP6-38 VI,Oxygen Isotopes,Rich,4.48
+Outer Ring,Scepter,NP6-38,NP6-38 VII,Reactive Gas,Perfect,33.73
+Outer Ring,Scepter,NP6-38,NP6-38 VII,Noble Gas,Rich,27.89
+Outer Ring,Scepter,NP6-38,NP6-38 VII,Base Metals,Medium,5.78
+Outer Ring,Scepter,NP6-38,NP6-38 VII,Reactive Metals,Medium,6.30
+Outer Ring,Scepter,NP6-38,NP6-38 VII,Ionic Solutions,Medium,9.51
+Outer Ring,Scepter,NP6-38,NP6-38 VIII,Crystal Compound,Medium,20.01
+Outer Ring,Scepter,NP6-38,NP6-38 VIII,Reactive Metals,Rich,8.39
+Outer Ring,Scepter,NP6-38,NP6-38 VIII,Toxic Metals,Rich,8.21
+Outer Ring,Scepter,NP6-38,NP6-38 VIII,Oxygen Isotopes,Medium,3.24
+Outer Ring,Scepter,G-YT55,G-YT55 I,Toxic Metals,Medium,5.36
+Outer Ring,Scepter,G-YT55,G-YT55 I,Industrial Fibers,Poor,4.55
+Outer Ring,Scepter,G-YT55,G-YT55 I,Supertensile Plastics,Medium,15.48
+Outer Ring,Scepter,G-YT55,G-YT55 I,Construction Blocks,Poor,15.54
+Outer Ring,Scepter,G-YT55,G-YT55 II,Lucent Compound,Medium,22.96
+Outer Ring,Scepter,G-YT55,G-YT55 II,Heavy Metals,Rich,28.24
+Outer Ring,Scepter,G-YT55,G-YT55 II,Reactive Metals,Medium,6.06
+Outer Ring,Scepter,G-YT55,G-YT55 II,Condensates,Rich,20.29
+Outer Ring,Scepter,G-YT55,G-YT55 II,Ionic Solutions,Perfect,14.07
+Outer Ring,Scepter,G-YT55,G-YT55 III,Lucent Compound,Perfect,32.46
+Outer Ring,Scepter,G-YT55,G-YT55 III,Reactive Metals,Poor,4.63
+Outer Ring,Scepter,G-YT55,G-YT55 III,Supertensile Plastics,Medium,13.53
+Outer Ring,Scepter,G-YT55,G-YT55 III,Nanites,Medium,5.71
+Outer Ring,Scepter,G-YT55,G-YT55 IV,Precious Alloy,Poor,18.68
+Outer Ring,Scepter,G-YT55,G-YT55 IV,Industrial Fibers,Medium,5.88
+Outer Ring,Scepter,G-YT55,G-YT55 IV,Supertensile Plastics,Medium,13.61
+Outer Ring,Scepter,G-YT55,G-YT55 IV,Silicate Glass,Medium,10.51
+Outer Ring,Scepter,G-YT55,G-YT55 V,Toxic Metals,Medium,5.66
+Outer Ring,Scepter,G-YT55,G-YT55 V,Industrial Fibers,Medium,5.49
+Outer Ring,Scepter,G-YT55,G-YT55 V,Supertensile Plastics,Poor,11.92
+Outer Ring,Scepter,G-YT55,G-YT55 V,Silicate Glass,Poor,7.02
+Outer Ring,Scepter,G-YT55,G-YT55 VI,Gleaming Alloy,Medium,25.02
+Outer Ring,Scepter,G-YT55,G-YT55 VI,Noble Metals,Perfect,33.54
+Outer Ring,Scepter,G-YT55,G-YT55 VI,Plasmoids,Poor,1.05
+Outer Ring,Scepter,G-YT55,G-YT55 VII,Lustering Alloy,Medium,21.46
+Outer Ring,Scepter,G-YT55,G-YT55 VII,Reactive Gas,Medium,22.88
+Outer Ring,Scepter,G-YT55,G-YT55 VII,Base Metals,Rich,6.88
+Outer Ring,Scepter,G-YT55,G-YT55 VII,Polyaramids,Poor,12.35
+Outer Ring,Scepter,G-YT55,G-YT55 VII,Coolant,Rich,20.36
+Outer Ring,Scepter,G-YT55,G-YT55 VIII,Base Metals,Medium,5.87
+Outer Ring,Scepter,G-YT55,G-YT55 VIII,Supertensile Plastics,Poor,11.03
+Outer Ring,Scepter,G-YT55,G-YT55 VIII,Construction Blocks,Poor,15.24
+Outer Ring,Scepter,G-YT55,G-YT55 VIII,Plasmoids,Medium,1.43
+Outer Ring,Scepter,G-YT55,G-YT55 IX,Lucent Compound,Rich,29.58
+Outer Ring,Scepter,G-YT55,G-YT55 IX,Reactive Metals,Medium,6.62
+Outer Ring,Scepter,G-YT55,G-YT55 IX,Supertensile Plastics,Perfect,21.71
+Outer Ring,Scepter,G-YT55,G-YT55 IX,Nanites,Medium,5.74
+Outer Ring,Scepter,G-YT55,G-YT55 X,Lustering Alloy,Rich,29.34
+Outer Ring,Scepter,G-YT55,G-YT55 X,Sheen Compound,Rich,31.44
+Outer Ring,Scepter,G-YT55,G-YT55 X,Fiber Composite,Medium,24.20
+Outer Ring,Scepter,G-YT55,G-YT55 X,Reactive Gas,Perfect,32.44
+Outer Ring,Scepter,G-YT55,G-YT55 X,Base Metals,Rich,8.26
+Outer Ring,Scepter,IZ-AOB,IZ-AOB I,Reactive Metals,Medium,5.44
+Outer Ring,Scepter,IZ-AOB,IZ-AOB I,Toxic Metals,Medium,5.15
+Outer Ring,Scepter,IZ-AOB,IZ-AOB I,Nanites,Rich,7.96
+Outer Ring,Scepter,IZ-AOB,IZ-AOB I,Suspended Plasma,Poor,65.88
+Outer Ring,Scepter,IZ-AOB,IZ-AOB II,Lucent Compound,Poor,17.46
+Outer Ring,Scepter,IZ-AOB,IZ-AOB II,Reactive Metals,Poor,4.47
+Outer Ring,Scepter,IZ-AOB,IZ-AOB II,Toxic Metals,Medium,6.53
+Outer Ring,Scepter,IZ-AOB,IZ-AOB II,Nanites,Medium,5.23
+Outer Ring,Scepter,IZ-AOB,IZ-AOB III,Gleaming Alloy,Rich,29.90
+Outer Ring,Scepter,IZ-AOB,IZ-AOB III,Glossy Compound,Rich,29.42
+Outer Ring,Scepter,IZ-AOB,IZ-AOB III,Noble Gas,Rich,27.94
+Outer Ring,Scepter,IZ-AOB,IZ-AOB IV,Lustering Alloy,Rich,28.66
+Outer Ring,Scepter,IZ-AOB,IZ-AOB IV,Reactive Gas,Rich,27.54
+Outer Ring,Scepter,IZ-AOB,IZ-AOB IV,Noble Gas,Rich,26.90
+Outer Ring,Scepter,IZ-AOB,IZ-AOB IV,Base Metals,Medium,6.01
+Outer Ring,Scepter,IZ-AOB,IZ-AOB IV,Reactive Metals,Rich,8.07
+Outer Ring,Scepter,IZ-AOB,IZ-AOB V,Fiber Composite,Medium,22.96
+Outer Ring,Scepter,IZ-AOB,IZ-AOB V,Glossy Compound,Rich,31.62
+Outer Ring,Scepter,IZ-AOB,IZ-AOB V,Reactive Gas,Rich,30.78
+Outer Ring,Scepter,IZ-AOB,IZ-AOB V,Noble Gas,Medium,22.58
+Outer Ring,Scepter,IZ-AOB,IZ-AOB V,Reactive Metals,Medium,6.04
+Outer Ring,Scepter,IZ-AOB,IZ-AOB VI,Lustering Alloy,Rich,28.58
+Outer Ring,Scepter,IZ-AOB,IZ-AOB VI,Sheen Compound,Medium,19.68
+Outer Ring,Scepter,IZ-AOB,IZ-AOB VI,Reactive Gas,Perfect,32.44
+Outer Ring,Scepter,IZ-AOB,IZ-AOB VI,Polyaramids,Medium,16.77
+Outer Ring,Scepter,IZ-AOB,IZ-AOB VI,Coolant,Rich,17.07
+Outer Ring,Scepter,IZ-AOB,IZ-AOB VII,Lustering Alloy,Medium,21.34
+Outer Ring,Scepter,IZ-AOB,IZ-AOB VII,Motley Compound,Poor,14.76
+Outer Ring,Scepter,IZ-AOB,IZ-AOB VII,Heavy Metals,Medium,22.54
+Outer Ring,Scepter,IZ-AOB,IZ-AOB VII,Condensates,Rich,19.04
+Outer Ring,Scepter,G5-EN3,G5-EN3 I,Gleaming Alloy,Perfect,33.62
+Outer Ring,Scepter,G5-EN3,G5-EN3 I,Motley Compound,Rich,25.46
+Outer Ring,Scepter,G5-EN3,G5-EN3 I,Noble Metals,Rich,27.24
+Outer Ring,Scepter,G5-EN3,G5-EN3 II,Lustering Alloy,Medium,24.08
+Outer Ring,Scepter,G5-EN3,G5-EN3 II,Base Metals,Medium,5.55
+Outer Ring,Scepter,G5-EN3,G5-EN3 II,Supertensile Plastics,Medium,16.19
+Outer Ring,Scepter,G5-EN3,G5-EN3 II,Silicate Glass,Poor,8.50
+Outer Ring,Scepter,G5-EN3,G5-EN3 III,Fiber Composite,Rich,30.12
+Outer Ring,Scepter,G5-EN3,G5-EN3 III,Noble Metals,Rich,29.74
+Outer Ring,Scepter,G5-EN3,G5-EN3 III,Smartfab Units,Perfect,23.73
+Outer Ring,Scepter,G5-EN3,G5-EN3 III,Heavy Water,Rich,262.40
+Outer Ring,Scepter,G5-EN3,G5-EN3 III,Liquid Ozone,Rich,34.08
+Outer Ring,Scepter,G5-EN3,G5-EN3 IV,Glossy Compound,Rich,27.82
+Outer Ring,Scepter,G5-EN3,G5-EN3 IV,Reactive Gas,Medium,21.78
+Outer Ring,Scepter,G5-EN3,G5-EN3 IV,Polyaramids,Rich,18.64
+Outer Ring,Scepter,G5-EN3,G5-EN3 IV,Coolant,Poor,11.44
+Outer Ring,Scepter,G5-EN3,G5-EN3 IV,Ionic Solutions,Rich,11.12
+Outer Ring,Scepter,G5-EN3,G5-EN3 V,Glossy Compound,Medium,22.42
+Outer Ring,Scepter,G5-EN3,G5-EN3 V,Reactive Gas,Poor,16.78
+Outer Ring,Scepter,G5-EN3,G5-EN3 V,Noble Gas,Rich,31.16
+Outer Ring,Scepter,G5-EN3,G5-EN3 V,Base Metals,Medium,5.65
+Outer Ring,Scepter,G5-EN3,G5-EN3 V,Coolant,Rich,19.09
+Outer Ring,Scepter,G5-EN3,G5-EN3 VI,Sheen Compound,Rich,29.00
+Outer Ring,Scepter,G5-EN3,G5-EN3 VI,Reactive Gas,Medium,20.52
+Outer Ring,Scepter,G5-EN3,G5-EN3 VI,Noble Gas,Medium,23.48
+Outer Ring,Scepter,G5-EN3,G5-EN3 VI,Reactive Metals,Medium,5.21
+Outer Ring,Scepter,G5-EN3,G5-EN3 VI,Ionic Solutions,Medium,9.58
+Outer Ring,Scepter,G5-EN3,G5-EN3 VII,Lustering Alloy,Rich,27.42
+Outer Ring,Scepter,G5-EN3,G5-EN3 VII,Base Metals,Rich,7.52
+Outer Ring,Scepter,G5-EN3,G5-EN3 VII,Supertensile Plastics,Poor,10.35
+Outer Ring,Scepter,G5-EN3,G5-EN3 VII,Condensates,Poor,10.81
+Outer Ring,Scepter,W-Z3HW,W-Z3HW I,Industrial Fibers,Medium,5.01
+Outer Ring,Scepter,W-Z3HW,W-Z3HW I,Supertensile Plastics,Poor,11.41
+Outer Ring,Scepter,W-Z3HW,W-Z3HW I,Oxygen Isotopes,Poor,2.27
+Outer Ring,Scepter,W-Z3HW,W-Z3HW I,Plasmoids,Medium,1.34
+Outer Ring,Scepter,W-Z3HW,W-Z3HW II,Gleaming Alloy,Perfect,32.24
+Outer Ring,Scepter,W-Z3HW,W-Z3HW II,Noble Metals,Medium,21.80
+Outer Ring,Scepter,W-Z3HW,W-Z3HW II,Polyaramids,Perfect,22.51
+Outer Ring,Scepter,W-Z3HW,W-Z3HW III,Lustering Alloy,Medium,19.58
+Outer Ring,Scepter,W-Z3HW,W-Z3HW III,Precious Alloy,Medium,19.88
+Outer Ring,Scepter,W-Z3HW,W-Z3HW III,Supertensile Plastics,Medium,13.67
+Outer Ring,Scepter,W-Z3HW,W-Z3HW III,Oxygen Isotopes,Poor,2.40
+Outer Ring,Scepter,W-Z3HW,W-Z3HW IV,Lustering Alloy,Rich,25.84
+Outer Ring,Scepter,W-Z3HW,W-Z3HW IV,Sheen Compound,Rich,28.02
+Outer Ring,Scepter,W-Z3HW,W-Z3HW IV,Glossy Compound,Rich,28.04
+Outer Ring,Scepter,W-Z3HW,W-Z3HW IV,Reactive Gas,Rich,25.90
+Outer Ring,Scepter,W-Z3HW,W-Z3HW IV,Noble Gas,Rich,30.30
+Outer Ring,Scepter,W-Z3HW,W-Z3HW V,Lustering Alloy,Poor,18.76
+Outer Ring,Scepter,W-Z3HW,W-Z3HW V,Glossy Compound,Rich,30.74
+Outer Ring,Scepter,W-Z3HW,W-Z3HW V,Reactive Gas,Rich,29.00
+Outer Ring,Scepter,W-Z3HW,W-Z3HW V,Base Metals,Rich,8.18
+Outer Ring,Scepter,W-Z3HW,W-Z3HW V,Reactive Metals,Rich,7.89
+Outer Ring,Scepter,W-Z3HW,W-Z3HW VI,Lustering Alloy,Perfect,33.08
+Outer Ring,Scepter,W-Z3HW,W-Z3HW VI,Fiber Composite,Rich,27.80
+Outer Ring,Scepter,W-Z3HW,W-Z3HW VI,Reactive Gas,Medium,22.12
+Outer Ring,Scepter,W-Z3HW,W-Z3HW VI,Base Metals,Medium,6.35
+Outer Ring,Scepter,W-Z3HW,W-Z3HW VI,Polyaramids,Medium,14.60
+Outer Ring,Scepter,W-Z3HW,W-Z3HW VII,Lustering Alloy,Poor,13.44
+Outer Ring,Scepter,W-Z3HW,W-Z3HW VII,Precious Alloy,Poor,16.54
+Outer Ring,Scepter,W-Z3HW,W-Z3HW VII,Supertensile Plastics,Poor,11.85
+Outer Ring,Scepter,W-Z3HW,W-Z3HW VII,Silicate Glass,Poor,6.61
+Outer Ring,Scepter,W-Z3HW,W-Z3HW VIII,Lustering Alloy,Rich,25.54
+Outer Ring,Scepter,W-Z3HW,W-Z3HW VIII,Precious Alloy,Rich,26.74
+Outer Ring,Scepter,W-Z3HW,W-Z3HW VIII,Heavy Metals,Poor,16.02
+Outer Ring,Scepter,W-Z3HW,W-Z3HW VIII,Condensates,Rich,19.51
+Outer Ring,Velvet,W2F-ZH,W2F-ZH I,Dark Compound,Medium,24.38
+Outer Ring,Velvet,W2F-ZH,W2F-ZH I,Industrial Fibers,Poor,3.71
+Outer Ring,Velvet,W2F-ZH,W2F-ZH I,Supertensile Plastics,Medium,14.43
+Outer Ring,Velvet,W2F-ZH,W2F-ZH I,Silicate Glass,Medium,9.75
+Outer Ring,Velvet,W2F-ZH,W2F-ZH II,Base Metals,Poor,3.29
+Outer Ring,Velvet,W2F-ZH,W2F-ZH II,Supertensile Plastics,Medium,13.40
+Outer Ring,Velvet,W2F-ZH,W2F-ZH II,Construction Blocks,Poor,16.06
+Outer Ring,Velvet,W2F-ZH,W2F-ZH II,Silicate Glass,Poor,8.44
+Outer Ring,Velvet,W2F-ZH,W2F-ZH III,Condensed Alloy,Rich,26.30
+Outer Ring,Velvet,W2F-ZH,W2F-ZH III,Fiber Composite,Rich,31.64
+Outer Ring,Velvet,W2F-ZH,W2F-ZH III,Base Metals,Rich,7.83
+Outer Ring,Velvet,W2F-ZH,W2F-ZH III,Industrial Fibers,Medium,5.24
+Outer Ring,Velvet,W2F-ZH,W2F-ZH III,Liquid Ozone,Medium,24.15
+Outer Ring,Velvet,W2F-ZH,W2F-ZH IV,Condensed Alloy,Perfect,32.00
+Outer Ring,Velvet,W2F-ZH,W2F-ZH IV,Opulent Compound,Poor,18.78
+Outer Ring,Velvet,W2F-ZH,W2F-ZH IV,Noble Metals,Perfect,33.80
+Outer Ring,Velvet,W2F-ZH,W2F-ZH IV,Condensates,Perfect,22.87
+Outer Ring,Velvet,W2F-ZH,W2F-ZH IV,Liquid Ozone,Medium,28.05
+Outer Ring,Velvet,W2F-ZH,W2F-ZH V,Crystal Compound,Rich,30.02
+Outer Ring,Velvet,W2F-ZH,W2F-ZH V,Reactive Metals,Rich,6.96
+Outer Ring,Velvet,W2F-ZH,W2F-ZH V,Supertensile Plastics,Perfect,21.77
+Outer Ring,Velvet,W2F-ZH,W2F-ZH V,Nanites,Rich,7.96
+Outer Ring,Velvet,W2F-ZH,W2F-ZH VI,Opulent Compound,Perfect,36.00
+Outer Ring,Velvet,W2F-ZH,W2F-ZH VI,Base Metals,Rich,8.21
+Outer Ring,Velvet,W2F-ZH,W2F-ZH VI,Industrial Fibers,Medium,5.67
+Outer Ring,Velvet,W2F-ZH,W2F-ZH VI,Heavy Water,Rich,306.20
+Outer Ring,Velvet,W2F-ZH,W2F-ZH VI,Liquid Ozone,Perfect,40.23
+Outer Ring,Velvet,W2F-ZH,W2F-ZH VII,Lustering Alloy,Rich,29.80
+Outer Ring,Velvet,W2F-ZH,W2F-ZH VII,Glossy Compound,Medium,20.84
+Outer Ring,Velvet,W2F-ZH,W2F-ZH VII,Reactive Gas,Medium,24.44
+Outer Ring,Velvet,W2F-ZH,W2F-ZH VII,Noble Gas,Rich,29.22
+Outer Ring,Velvet,W2F-ZH,W2F-ZH VII,Base Metals,Medium,6.41
+Outer Ring,Velvet,W2F-ZH,W2F-ZH VIII,Fiber Composite,Rich,27.94
+Outer Ring,Velvet,W2F-ZH,W2F-ZH VIII,Glossy Compound,Medium,24.88
+Outer Ring,Velvet,W2F-ZH,W2F-ZH VIII,Reactive Gas,Perfect,31.86
+Outer Ring,Velvet,W2F-ZH,W2F-ZH VIII,Polyaramids,Rich,19.55
+Outer Ring,Velvet,W2F-ZH,W2F-ZH VIII,Ionic Solutions,Rich,10.38
+Outer Ring,Velvet,W2F-ZH,W2F-ZH IX,Motley Compound,Medium,21.62
+Outer Ring,Velvet,W2F-ZH,W2F-ZH IX,Base Metals,Rich,6.90
+Outer Ring,Velvet,W2F-ZH,W2F-ZH IX,Heavy Metals,Poor,15.56
+Outer Ring,Velvet,W2F-ZH,W2F-ZH IX,Condensates,Poor,12.07
+Outer Ring,Velvet,W2F-ZH,W2F-ZH X,Lustering Alloy,Poor,18.02
+Outer Ring,Velvet,W2F-ZH,W2F-ZH X,Dark Compound,Poor,13.74
+Outer Ring,Velvet,W2F-ZH,W2F-ZH X,Toxic Metals,Medium,5.84
+Outer Ring,Velvet,W2F-ZH,W2F-ZH X,Supertensile Plastics,Medium,14.65
+Outer Ring,Velvet,BMU-V1,BMU-V1 I,Lucent Compound,Medium,24.70
+Outer Ring,Velvet,BMU-V1,BMU-V1 I,Reactive Metals,Rich,6.72
+Outer Ring,Velvet,BMU-V1,BMU-V1 I,Condensates,Medium,13.79
+Outer Ring,Velvet,BMU-V1,BMU-V1 I,Nanites,Medium,6.28
+Outer Ring,Velvet,BMU-V1,BMU-V1 I,Plasmoids,Rich,1.70
+Outer Ring,Velvet,BMU-V1,BMU-V1 II,Gleaming Alloy,Rich,28.88
+Outer Ring,Velvet,BMU-V1,BMU-V1 II,Noble Gas,Rich,28.22
+Outer Ring,Velvet,BMU-V1,BMU-V1 II,Construction Blocks,Medium,23.50
+Outer Ring,Velvet,BMU-V1,BMU-V1 III,Dark Compound,Medium,20.06
+Outer Ring,Velvet,BMU-V1,BMU-V1 III,Toxic Metals,Poor,4.63
+Outer Ring,Velvet,BMU-V1,BMU-V1 III,Industrial Fibers,Medium,5.52
+Outer Ring,Velvet,BMU-V1,BMU-V1 III,Supertensile Plastics,Poor,12.25
+Outer Ring,Velvet,BMU-V1,BMU-V1 IV,Gleaming Alloy,Medium,20.94
+Outer Ring,Velvet,BMU-V1,BMU-V1 IV,Heavy Metals,Poor,18.66
+Outer Ring,Velvet,BMU-V1,BMU-V1 IV,Smartfab Units,Medium,15.71
+Outer Ring,Velvet,BMU-V1,BMU-V1 V,Lustering Alloy,Poor,16.66
+Outer Ring,Velvet,BMU-V1,BMU-V1 V,Dark Compound,Poor,14.66
+Outer Ring,Velvet,BMU-V1,BMU-V1 V,Toxic Metals,Medium,6.23
+Outer Ring,Velvet,BMU-V1,BMU-V1 V,Supertensile Plastics,Poor,12.07
+Outer Ring,Velvet,BMU-V1,BMU-V1 VI,Lustering Alloy,Medium,20.86
+Outer Ring,Velvet,BMU-V1,BMU-V1 VI,Glossy Compound,Medium,21.22
+Outer Ring,Velvet,BMU-V1,BMU-V1 VI,Reactive Gas,Rich,27.50
+Outer Ring,Velvet,BMU-V1,BMU-V1 VI,Polyaramids,Medium,14.96
+Outer Ring,Velvet,BMU-V1,BMU-V1 VI,Coolant,Rich,17.47
+Outer Ring,Velvet,BMU-V1,BMU-V1 VII,Condensed Alloy,Rich,27.62
+Outer Ring,Velvet,BMU-V1,BMU-V1 VII,Reactive Gas,Rich,30.16
+Outer Ring,Velvet,BMU-V1,BMU-V1 VII,Base Metals,Rich,7.57
+Outer Ring,Velvet,BMU-V1,BMU-V1 VII,Noble Metals,Rich,28.76
+Outer Ring,Velvet,BMU-V1,BMU-V1 VII,Liquid Ozone,Perfect,47.38
+Outer Ring,Velvet,BMU-V1,BMU-V1 VIII,Lustering Alloy,Rich,29.48
+Outer Ring,Velvet,BMU-V1,BMU-V1 VIII,Sheen Compound,Medium,19.58
+Outer Ring,Velvet,BMU-V1,BMU-V1 VIII,Reactive Gas,Rich,27.34
+Outer Ring,Velvet,BMU-V1,BMU-V1 VIII,Reactive Metals,Rich,8.12
+Outer Ring,Velvet,BMU-V1,BMU-V1 VIII,Coolant,Medium,12.57
+Outer Ring,Velvet,BMU-V1,BMU-V1 IX,Glossy Compound,Poor,18.54
+Outer Ring,Velvet,BMU-V1,BMU-V1 IX,Reactive Gas,Rich,26.84
+Outer Ring,Velvet,BMU-V1,BMU-V1 IX,Base Metals,Perfect,8.68
+Outer Ring,Velvet,BMU-V1,BMU-V1 IX,Coolant,Medium,14.19
+Outer Ring,Velvet,BMU-V1,BMU-V1 IX,Ionic Solutions,Poor,7.21
+Outer Ring,Velvet,BMU-V1,BMU-V1 X,Sheen Compound,Medium,19.12
+Outer Ring,Velvet,BMU-V1,BMU-V1 X,Fiber Composite,Rich,31.46
+Outer Ring,Velvet,BMU-V1,BMU-V1 X,Glossy Compound,Medium,23.76
+Outer Ring,Velvet,BMU-V1,BMU-V1 X,Reactive Gas,Rich,26.22
+Outer Ring,Velvet,BMU-V1,BMU-V1 X,Ionic Solutions,Rich,11.86
+Outer Ring,Velvet,ZXC8-1,ZXC8-1 I,Lustering Alloy,Medium,20.08
+Outer Ring,Velvet,ZXC8-1,ZXC8-1 I,Sheen Compound,Rich,30.94
+Outer Ring,Velvet,ZXC8-1,ZXC8-1 I,Fiber Composite,Rich,27.44
+Outer Ring,Velvet,ZXC8-1,ZXC8-1 I,Reactive Gas,Rich,31.70
+Outer Ring,Velvet,ZXC8-1,ZXC8-1 I,Coolant,Medium,14.40
+Outer Ring,Velvet,ZXC8-1,ZXC8-1 II,Glossy Compound,Poor,17.14
+Outer Ring,Velvet,ZXC8-1,ZXC8-1 II,Reactive Gas,Rich,30.38
+Outer Ring,Velvet,ZXC8-1,ZXC8-1 II,Base Metals,Perfect,8.45
+Outer Ring,Velvet,ZXC8-1,ZXC8-1 II,Polyaramids,Medium,13.12
+Outer Ring,Velvet,ZXC8-1,ZXC8-1 II,Ionic Solutions,Perfect,13.10
+Outer Ring,Velvet,ZXC8-1,ZXC8-1 III,Sheen Compound,Rich,30.94
+Outer Ring,Velvet,ZXC8-1,ZXC8-1 III,Glossy Compound,Rich,27.32
+Outer Ring,Velvet,ZXC8-1,ZXC8-1 III,Reactive Gas,Rich,29.74
+Outer Ring,Velvet,ZXC8-1,ZXC8-1 III,Reactive Metals,Rich,7.08
+Outer Ring,Velvet,ZXC8-1,ZXC8-1 III,Ionic Solutions,Medium,8.82
+Outer Ring,Velvet,ZXC8-1,ZXC8-1 IV,Sheen Compound,Medium,24.12
+Outer Ring,Velvet,ZXC8-1,ZXC8-1 IV,Fiber Composite,Medium,21.96
+Outer Ring,Velvet,ZXC8-1,ZXC8-1 IV,Glossy Compound,Medium,20.16
+Outer Ring,Velvet,ZXC8-1,ZXC8-1 IV,Reactive Gas,Medium,21.36
+Outer Ring,Velvet,ZXC8-1,ZXC8-1 IV,Reactive Metals,Medium,5.28
+Outer Ring,Velvet,ZXC8-1,ZXC8-1 V,Glossy Compound,Medium,20.56
+Outer Ring,Velvet,ZXC8-1,ZXC8-1 V,Reactive Gas,Perfect,33.02
+Outer Ring,Velvet,ZXC8-1,ZXC8-1 V,Base Metals,Perfect,8.48
+Outer Ring,Velvet,ZXC8-1,ZXC8-1 V,Reactive Metals,Medium,5.52
+Outer Ring,Velvet,ZXC8-1,ZXC8-1 V,Coolant,Medium,13.33
+Outer Ring,Velvet,ZXC8-1,ZXC8-1 VI,Fiber Composite,Rich,26.90
+Outer Ring,Velvet,ZXC8-1,ZXC8-1 VI,Glossy Compound,Poor,17.18
+Outer Ring,Velvet,ZXC8-1,ZXC8-1 VI,Reactive Gas,Rich,25.46
+Outer Ring,Velvet,ZXC8-1,ZXC8-1 VI,Base Metals,Rich,8.03
+Outer Ring,Velvet,ZXC8-1,ZXC8-1 VI,Reactive Metals,Rich,7.69
+Outer Ring,Velvet,ZXC8-1,ZXC8-1 VII,Gleaming Alloy,Rich,25.86
+Outer Ring,Velvet,ZXC8-1,ZXC8-1 VII,Lucent Compound,Medium,21.62
+Outer Ring,Velvet,ZXC8-1,ZXC8-1 VII,Reactive Metals,Perfect,8.52
+Outer Ring,Velvet,ZXC8-1,ZXC8-1 VII,Supertensile Plastics,Medium,13.53
+Outer Ring,Velvet,LBV-Q1,LBV-Q1 I,Gleaming Alloy,Poor,17.40
+Outer Ring,Velvet,LBV-Q1,LBV-Q1 I,Glossy Compound,Poor,17.26
+Outer Ring,Velvet,LBV-Q1,LBV-Q1 I,Oxygen Isotopes,Medium,3.18
+Outer Ring,Velvet,LBV-Q1,LBV-Q1 II,Precious Alloy,Medium,20.24
+Outer Ring,Velvet,LBV-Q1,LBV-Q1 II,Dark Compound,Poor,16.24
+Outer Ring,Velvet,LBV-Q1,LBV-Q1 II,Supertensile Plastics,Medium,15.71
+Outer Ring,Velvet,LBV-Q1,LBV-Q1 II,Oxygen Isotopes,Poor,2.80
+Outer Ring,Velvet,LBV-Q1,LBV-Q1 III,Gleaming Alloy,Poor,18.66
+Outer Ring,Velvet,LBV-Q1,LBV-Q1 III,Glossy Compound,Rich,27.56
+Outer Ring,Velvet,LBV-Q1,LBV-Q1 III,Noble Gas,Medium,23.36
+Outer Ring,Velvet,LBV-Q1,LBV-Q1 IV,Fiber Composite,Medium,24.96
+Outer Ring,Velvet,LBV-Q1,LBV-Q1 IV,Industrial Fibers,Perfect,9.13
+Outer Ring,Velvet,LBV-Q1,LBV-Q1 IV,Condensates,Perfect,24.13
+Outer Ring,Velvet,LBV-Q1,LBV-Q1 IV,Smartfab Units,Perfect,24.75
+Outer Ring,Velvet,LBV-Q1,LBV-Q1 IV,Liquid Ozone,Perfect,41.08
+Outer Ring,Velvet,LBV-Q1,LBV-Q1 V,Reactive Gas,Medium,24.64
+Outer Ring,Velvet,LBV-Q1,LBV-Q1 V,Reactive Metals,Rich,7.42
+Outer Ring,Velvet,LBV-Q1,LBV-Q1 V,Supertensile Plastics,Poor,11.19
+Outer Ring,Velvet,LBV-Q1,LBV-Q1 V,Construction Blocks,Medium,24.12
+Outer Ring,Velvet,LBV-Q1,LBV-Q1 VI,Lucent Compound,Rich,30.30
+Outer Ring,Velvet,LBV-Q1,LBV-Q1 VI,Crystal Compound,Poor,17.18
+Outer Ring,Velvet,LBV-Q1,LBV-Q1 VI,Reactive Metals,Poor,4.56
+Outer Ring,Velvet,LBV-Q1,LBV-Q1 VI,Oxygen Isotopes,Medium,3.35
+Outer Ring,Velvet,LBV-Q1,LBV-Q1 VII,Fiber Composite,Medium,23.08
+Outer Ring,Velvet,LBV-Q1,LBV-Q1 VII,Reactive Gas,Rich,31.28
+Outer Ring,Velvet,LBV-Q1,LBV-Q1 VII,Noble Gas,Poor,18.22
+Outer Ring,Velvet,LBV-Q1,LBV-Q1 VII,Reactive Metals,Medium,5.48
+Outer Ring,Velvet,LBV-Q1,LBV-Q1 VII,Coolant,Perfect,21.35
+Outer Ring,Velvet,LBV-Q1,LBV-Q1 VIII,Fiber Composite,Rich,29.08
+Outer Ring,Velvet,LBV-Q1,LBV-Q1 VIII,Condensates,Rich,18.43
+Outer Ring,Velvet,LBV-Q1,LBV-Q1 VIII,Smartfab Units,Perfect,24.44
+Outer Ring,Velvet,LBV-Q1,LBV-Q1 VIII,Heavy Water,Perfect,370.00
+Outer Ring,Velvet,LBV-Q1,LBV-Q1 VIII,Liquid Ozone,Medium,25.32
+Outer Ring,Velvet,LBV-Q1,LBV-Q1 IX,Lustering Alloy,Rich,30.08
+Outer Ring,Velvet,LBV-Q1,LBV-Q1 IX,Fiber Composite,Rich,31.24
+Outer Ring,Velvet,LBV-Q1,LBV-Q1 IX,Glossy Compound,Medium,24.38
+Outer Ring,Velvet,LBV-Q1,LBV-Q1 IX,Reactive Gas,Medium,25.18
+Outer Ring,Velvet,LBV-Q1,LBV-Q1 IX,Polyaramids,Poor,11.44
+Outer Ring,Velvet,LBV-Q1,LBV-Q1 X,Sheen Compound,Medium,23.52
+Outer Ring,Velvet,LBV-Q1,LBV-Q1 X,Reactive Gas,Rich,26.70
+Outer Ring,Velvet,LBV-Q1,LBV-Q1 X,Noble Gas,Rich,30.64
+Outer Ring,Velvet,LBV-Q1,LBV-Q1 X,Reactive Metals,Rich,6.68
+Outer Ring,Velvet,LBV-Q1,LBV-Q1 X,Coolant,Medium,13.97
+Outer Ring,Velvet,LBV-Q1,LBV-Q1 XI,Precious Alloy,Medium,21.26
+Outer Ring,Velvet,LBV-Q1,LBV-Q1 XI,Motley Compound,Rich,27.78
+Outer Ring,Velvet,LBV-Q1,LBV-Q1 XI,Industrial Fibers,Rich,7.02
+Outer Ring,Velvet,LBV-Q1,LBV-Q1 XI,Condensates,Medium,13.45
+Outer Ring,Velvet,Z-40CG,Z-40CG I,Toxic Metals,Medium,6.19
+Outer Ring,Velvet,Z-40CG,Z-40CG I,Industrial Fibers,Medium,5.72
+Outer Ring,Velvet,Z-40CG,Z-40CG I,Supertensile Plastics,Poor,11.88
+Outer Ring,Velvet,Z-40CG,Z-40CG I,Oxygen Isotopes,Medium,2.92
+Outer Ring,Velvet,Z-40CG,Z-40CG II,Gleaming Alloy,Rich,30.58
+Outer Ring,Velvet,Z-40CG,Z-40CG II,Reactive Metals,Rich,7.28
+Outer Ring,Velvet,Z-40CG,Z-40CG II,Toxic Metals,Rich,7.75
+Outer Ring,Velvet,Z-40CG,Z-40CG II,Nanites,Rich,7.02
+Outer Ring,Velvet,Z-40CG,Z-40CG III,Sheen Compound,Rich,28.60
+Outer Ring,Velvet,Z-40CG,Z-40CG III,Noble Gas,Medium,22.54
+Outer Ring,Velvet,Z-40CG,Z-40CG III,Reactive Metals,Medium,5.31
+Outer Ring,Velvet,Z-40CG,Z-40CG III,Condensates,Rich,18.05
+Outer Ring,Velvet,Z-40CG,Z-40CG III,Nanites,Rich,8.16
+Outer Ring,Velvet,Z-40CG,Z-40CG IV,Gleaming Alloy,Medium,22.60
+Outer Ring,Velvet,Z-40CG,Z-40CG IV,Glossy Compound,Medium,21.56
+Outer Ring,Velvet,Z-40CG,Z-40CG IV,Noble Gas,Poor,18.66
+Outer Ring,Velvet,Z-40CG,Z-40CG V,Reactive Gas,Poor,17.90
+Outer Ring,Velvet,Z-40CG,Z-40CG V,Reactive Metals,Rich,7.36
+Outer Ring,Velvet,Z-40CG,Z-40CG V,Construction Blocks,Poor,17.72
+Outer Ring,Velvet,Z-40CG,Z-40CG V,Nanites,Rich,7.12
+Outer Ring,Velvet,Z-40CG,Z-40CG VI,Condensed Alloy,Rich,28.04
+Outer Ring,Velvet,Z-40CG,Z-40CG VI,Crystal Compound,Perfect,34.46
+Outer Ring,Velvet,Z-40CG,Z-40CG VI,Coolant,Perfect,23.56
+Outer Ring,Velvet,Z-40CG,Z-40CG VI,Heavy Water,Medium,194.80
+Outer Ring,Velvet,Z-40CG,Z-40CG VI,Liquid Ozone,Medium,26.38
+Outer Ring,Velvet,Z-40CG,Z-40CG VII,Lustering Alloy,Rich,25.74
+Outer Ring,Velvet,Z-40CG,Z-40CG VII,Reactive Gas,Rich,31.42
+Outer Ring,Velvet,Z-40CG,Z-40CG VII,Polyaramids,Poor,11.43
+Outer Ring,Velvet,Z-40CG,Z-40CG VII,Coolant,Medium,15.92
+Outer Ring,Velvet,Z-40CG,Z-40CG VII,Ionic Solutions,Poor,6.73
+Outer Ring,Velvet,Z-40CG,Z-40CG VIII,Lustering Alloy,Poor,18.10
+Outer Ring,Velvet,Z-40CG,Z-40CG VIII,Reactive Gas,Poor,16.52
+Outer Ring,Velvet,Z-40CG,Z-40CG VIII,Noble Gas,Medium,18.92
+Outer Ring,Velvet,Z-40CG,Z-40CG VIII,Reactive Metals,Poor,4.93
+Outer Ring,Velvet,Z-40CG,Z-40CG VIII,Coolant,Medium,13.13
+Outer Ring,Velvet,Z-40CG,Z-40CG IX,Lustering Alloy,Rich,30.56
+Outer Ring,Velvet,Z-40CG,Z-40CG IX,Glossy Compound,Poor,16.66
+Outer Ring,Velvet,Z-40CG,Z-40CG IX,Reactive Gas,Rich,26.66
+Outer Ring,Velvet,Z-40CG,Z-40CG IX,Noble Gas,Rich,27.46
+Outer Ring,Velvet,Z-40CG,Z-40CG IX,Polyaramids,Rich,17.55
+Outer Ring,Velvet,Z-40CG,Z-40CG X,Lustering Alloy,Medium,21.50
+Outer Ring,Velvet,Z-40CG,Z-40CG X,Fiber Composite,Poor,18.82
+Outer Ring,Velvet,Z-40CG,Z-40CG X,Reactive Gas,Medium,24.16
+Outer Ring,Velvet,Z-40CG,Z-40CG X,Base Metals,Rich,6.91
+Outer Ring,Velvet,Z-40CG,Z-40CG X,Reactive Metals,Perfect,8.49
+Outer Ring,Velvet,Z-40CG,Z-40CG XI,Lustering Alloy,Medium,24.66
+Outer Ring,Velvet,Z-40CG,Z-40CG XI,Industrial Fibers,Medium,5.81
+Outer Ring,Velvet,Z-40CG,Z-40CG XI,Condensates,Rich,18.19
+Outer Ring,Velvet,Z-40CG,Z-40CG XI,Suspended Plasma,Rich,96.19
+Outer Ring,Velvet,O-RIDF,O-RIDF I,Lustering Alloy,Medium,21.42
+Outer Ring,Velvet,O-RIDF,O-RIDF I,Industrial Fibers,Medium,5.01
+Outer Ring,Velvet,O-RIDF,O-RIDF I,Supertensile Plastics,Poor,11.71
+Outer Ring,Velvet,O-RIDF,O-RIDF I,Plasmoids,Medium,1.15
+Outer Ring,Velvet,O-RIDF,O-RIDF II,Reactive Gas,Perfect,33.22
+Outer Ring,Velvet,O-RIDF,O-RIDF II,Industrial Fibers,Medium,5.57
+Outer Ring,Velvet,O-RIDF,O-RIDF II,Condensates,Rich,18.95
+Outer Ring,Velvet,O-RIDF,O-RIDF II,Heavy Water,Perfect,370.40
+Outer Ring,Velvet,O-RIDF,O-RIDF II,Liquid Ozone,Rich,37.83
+Outer Ring,Velvet,O-RIDF,O-RIDF III,Lustering Alloy,Rich,27.02
+Outer Ring,Velvet,O-RIDF,O-RIDF III,Reactive Gas,Medium,20.12
+Outer Ring,Velvet,O-RIDF,O-RIDF III,Base Metals,Rich,7.11
+Outer Ring,Velvet,O-RIDF,O-RIDF III,Reactive Metals,Medium,6.11
+Outer Ring,Velvet,O-RIDF,O-RIDF III,Coolant,Perfect,21.72
+Outer Ring,Velvet,O-RIDF,O-RIDF IV,Lustering Alloy,Poor,18.16
+Outer Ring,Velvet,O-RIDF,O-RIDF IV,Sheen Compound,Perfect,33.16
+Outer Ring,Velvet,O-RIDF,O-RIDF IV,Fiber Composite,Perfect,33.10
+Outer Ring,Velvet,O-RIDF,O-RIDF IV,Reactive Gas,Perfect,32.00
+Outer Ring,Velvet,O-RIDF,O-RIDF IV,Base Metals,Rich,7.98
+Outer Ring,Velvet,O-RIDF,O-RIDF V,Condensed Alloy,Rich,30.64
+Outer Ring,Velvet,O-RIDF,O-RIDF V,Fiber Composite,Medium,23.64
+Outer Ring,Velvet,O-RIDF,O-RIDF V,Industrial Fibers,Perfect,9.85
+Outer Ring,Velvet,O-RIDF,O-RIDF V,Heavy Water,Rich,255.20
+Outer Ring,Velvet,O-RIDF,O-RIDF V,Liquid Ozone,Rich,31.98
+Outer Ring,Velvet,O-RIDF,O-RIDF VI,Fiber Composite,Poor,18.60
+Outer Ring,Velvet,O-RIDF,O-RIDF VI,Reactive Gas,Medium,19.00
+Outer Ring,Velvet,O-RIDF,O-RIDF VI,Base Metals,Medium,5.99
+Outer Ring,Velvet,O-RIDF,O-RIDF VI,Reactive Metals,Rich,8.02
+Outer Ring,Velvet,O-RIDF,O-RIDF VI,Ionic Solutions,Rich,11.74
+Outer Ring,Velvet,O-RIDF,O-RIDF VII,Reactive Gas,Rich,30.44
+Outer Ring,Velvet,O-RIDF,O-RIDF VII,Noble Gas,Poor,18.46
+Outer Ring,Velvet,O-RIDF,O-RIDF VII,Base Metals,Medium,6.21
+Outer Ring,Velvet,O-RIDF,O-RIDF VII,Polyaramids,Poor,12.33
+Outer Ring,Velvet,O-RIDF,O-RIDF VII,Coolant,Rich,20.64
+Outer Ring,Velvet,O-RIDF,O-RIDF VIII,Condensed Alloy,Medium,24.62
+Outer Ring,Velvet,O-RIDF,O-RIDF VIII,Polyaramids,Medium,15.21
+Outer Ring,Velvet,O-RIDF,O-RIDF VIII,Coolant,Rich,21.05
+Outer Ring,Velvet,O-RIDF,O-RIDF VIII,Liquid Ozone,Medium,23.75
+Outer Ring,Velvet,O-RIDF,O-RIDF VIII,Ionic Solutions,Rich,11.42
+Outer Ring,Sole,A-5M31,A-5M31 I,Lustering Alloy,Medium,25.83
+Outer Ring,Sole,A-5M31,A-5M31 I,Precious Alloy,Poor,16.67
+Outer Ring,Sole,A-5M31,A-5M31 I,Dark Compound,Poor,15.86
+Outer Ring,Sole,A-5M31,A-5M31 I,Supertensile Plastics,Poor,9.84
+Outer Ring,Sole,A-5M31,A-5M31 II,Gleaming Alloy,Perfect,35.45
+Outer Ring,Sole,A-5M31,A-5M31 II,Motley Compound,Poor,18.65
+Outer Ring,Sole,A-5M31,A-5M31 II,Noble Metals,Medium,25.07
+Outer Ring,Sole,A-5M31,A-5M31 III,Base Metals,Perfect,10.05
+Outer Ring,Sole,A-5M31,A-5M31 III,Noble Metals,Medium,21.80
+Outer Ring,Sole,A-5M31,A-5M31 III,Industrial Fibers,Medium,6.69
+Outer Ring,Sole,A-5M31,A-5M31 III,Heavy Water,Perfect,338.94
+Outer Ring,Sole,A-5M31,A-5M31 III,Liquid Ozone,Perfect,47.25
+Outer Ring,Sole,A-5M31,A-5M31 IV,Opulent Compound,Rich,33.33
+Outer Ring,Sole,A-5M31,A-5M31 IV,Reactive Gas,Medium,19.95
+Outer Ring,Sole,A-5M31,A-5M31 IV,Base Metals,Medium,6.27
+Outer Ring,Sole,A-5M31,A-5M31 IV,Condensates,Medium,13.37
+Outer Ring,Sole,A-5M31,A-5M31 IV,Liquid Ozone,Perfect,43.05
+Outer Ring,Sole,A-5M31,A-5M31 V,Precious Alloy,Poor,16.74
+Outer Ring,Sole,A-5M31,A-5M31 V,Base Metals,Poor,3.50
+Outer Ring,Sole,A-5M31,A-5M31 V,Industrial Fibers,Poor,3.54
+Outer Ring,Sole,A-5M31,A-5M31 V,Supertensile Plastics,Poor,12.04
+Outer Ring,Sole,A-5M31,A-5M31 VI,Fiber Composite,Medium,24.13
+Outer Ring,Sole,A-5M31,A-5M31 VI,Base Metals,Perfect,10.17
+Outer Ring,Sole,A-5M31,A-5M31 VI,Industrial Fibers,Perfect,9.37
+Outer Ring,Sole,A-5M31,A-5M31 VI,Smartfab Units,Rich,18.79
+Outer Ring,Sole,A-5M31,A-5M31 VI,Liquid Ozone,Medium,28.40
+Outer Ring,Sole,A-5M31,A-5M31 VII,Condensed Alloy,Rich,27.03
+Outer Ring,Sole,A-5M31,A-5M31 VII,Base Metals,Medium,6.13
+Outer Ring,Sole,A-5M31,A-5M31 VII,Industrial Fibers,Medium,6.69
+Outer Ring,Sole,A-5M31,A-5M31 VII,Smartfab Units,Medium,13.73
+Outer Ring,Sole,A-5M31,A-5M31 VII,Liquid Ozone,Perfect,47.04
+Outer Ring,Sole,BOE7-P,BOE7-P I,Lustering Alloy,Medium,21.82
+Outer Ring,Sole,BOE7-P,BOE7-P I,Sheen Compound,Perfect,32.20
+Outer Ring,Sole,BOE7-P,BOE7-P I,Reactive Gas,Medium,23.20
+Outer Ring,Sole,BOE7-P,BOE7-P I,Noble Gas,Rich,26.90
+Outer Ring,Sole,BOE7-P,BOE7-P I,Reactive Metals,Medium,6.27
+Outer Ring,Sole,BOE7-P,BOE7-P II,Base Metals,Poor,4.48
+Outer Ring,Sole,BOE7-P,BOE7-P II,Toxic Metals,Poor,4.57
+Outer Ring,Sole,BOE7-P,BOE7-P II,Supertensile Plastics,Medium,13.15
+Outer Ring,Sole,BOE7-P,BOE7-P II,Construction Blocks,Poor,16.78
+Outer Ring,Sole,BOE7-P,BOE7-P III,Sheen Compound,Medium,20.58
+Outer Ring,Sole,BOE7-P,BOE7-P III,Glossy Compound,Rich,28.66
+Outer Ring,Sole,BOE7-P,BOE7-P III,Reactive Gas,Medium,23.24
+Outer Ring,Sole,BOE7-P,BOE7-P III,Base Metals,Medium,6.08
+Outer Ring,Sole,BOE7-P,BOE7-P III,Coolant,Poor,11.39
+Outer Ring,Sole,BOE7-P,BOE7-P IV,Lustering Alloy,Medium,21.34
+Outer Ring,Sole,BOE7-P,BOE7-P IV,Fiber Composite,Rich,28.30
+Outer Ring,Sole,BOE7-P,BOE7-P IV,Reactive Gas,Rich,25.62
+Outer Ring,Sole,BOE7-P,BOE7-P IV,Reactive Metals,Perfect,8.44
+Outer Ring,Sole,BOE7-P,BOE7-P IV,Coolant,Poor,11.15
+Outer Ring,Sole,BOE7-P,BOE7-P V,Sheen Compound,Rich,28.52
+Outer Ring,Sole,BOE7-P,BOE7-P V,Glossy Compound,Rich,27.58
+Outer Ring,Sole,BOE7-P,BOE7-P V,Reactive Gas,Rich,27.28
+Outer Ring,Sole,BOE7-P,BOE7-P V,Coolant,Rich,18.53
+Outer Ring,Sole,BOE7-P,BOE7-P V,Ionic Solutions,Rich,10.79
+Outer Ring,Sole,BOE7-P,BOE7-P VI,Lustering Alloy,Rich,26.72
+Outer Ring,Sole,BOE7-P,BOE7-P VI,Sheen Compound,Rich,29.14
+Outer Ring,Sole,BOE7-P,BOE7-P VI,Fiber Composite,Rich,31.34
+Outer Ring,Sole,BOE7-P,BOE7-P VI,Reactive Gas,Medium,21.10
+Outer Ring,Sole,BOE7-P,BOE7-P VI,Polyaramids,Rich,18.16
+Outer Ring,Sole,BOE7-P,BOE7-P VII,Lustering Alloy,Medium,21.44
+Outer Ring,Sole,BOE7-P,BOE7-P VII,Base Metals,Medium,5.89
+Outer Ring,Sole,BOE7-P,BOE7-P VII,Supertensile Plastics,Poor,10.51
+Outer Ring,Sole,BOE7-P,BOE7-P VII,Construction Blocks,Medium,20.86
+Outer Ring,Sole,E-GCX0,E-GCX0 I,Lustering Alloy,Medium,24.42
+Outer Ring,Sole,E-GCX0,E-GCX0 I,Dark Compound,Poor,17.24
+Outer Ring,Sole,E-GCX0,E-GCX0 I,Supertensile Plastics,Medium,14.12
+Outer Ring,Sole,E-GCX0,E-GCX0 I,Construction Blocks,Medium,23.20
+Outer Ring,Sole,E-GCX0,E-GCX0 II,Noble Metals,Medium,25.02
+Outer Ring,Sole,E-GCX0,E-GCX0 II,Toxic Metals,Rich,6.90
+Outer Ring,Sole,E-GCX0,E-GCX0 II,Coolant,Perfect,23.09
+Outer Ring,Sole,E-GCX0,E-GCX0 II,Liquid Ozone,Poor,22.50
+Outer Ring,Sole,E-GCX0,E-GCX0 II,Ionic Solutions,Rich,11.30
+Outer Ring,Sole,E-GCX0,E-GCX0 III,Crystal Compound,Poor,18.42
+Outer Ring,Sole,E-GCX0,E-GCX0 III,Reactive Metals,Medium,6.05
+Outer Ring,Sole,E-GCX0,E-GCX0 III,Construction Blocks,Rich,28.20
+Outer Ring,Sole,E-GCX0,E-GCX0 III,Nanites,Rich,7.30
+Outer Ring,Sole,E-GCX0,E-GCX0 IV,Condensed Alloy,Rich,27.94
+Outer Ring,Sole,E-GCX0,E-GCX0 IV,Fiber Composite,Perfect,38.22
+Outer Ring,Sole,E-GCX0,E-GCX0 IV,Base Metals,Rich,8.04
+Outer Ring,Sole,E-GCX0,E-GCX0 IV,Smartfab Units,Rich,19.99
+Outer Ring,Sole,E-GCX0,E-GCX0 IV,Liquid Ozone,Rich,32.83
+Outer Ring,Sole,E-GCX0,E-GCX0 V,Precious Alloy,Medium,23.96
+Outer Ring,Sole,E-GCX0,E-GCX0 V,Toxic Metals,Poor,3.41
+Outer Ring,Sole,E-GCX0,E-GCX0 V,Industrial Fibers,Poor,3.53
+Outer Ring,Sole,E-GCX0,E-GCX0 V,Supertensile Plastics,Medium,15.16
+Outer Ring,Sole,VBFC-8,VBFC-8 I,Gleaming Alloy,Poor,17.07
+Outer Ring,Sole,VBFC-8,VBFC-8 I,Noble Gas,Medium,21.11
+Outer Ring,Sole,VBFC-8,VBFC-8 I,Polyaramids,Medium,16.20
+Outer Ring,Sole,VBFC-8,VBFC-8 II,Lustering Alloy,Poor,16.93
+Outer Ring,Sole,VBFC-8,VBFC-8 II,Supertensile Plastics,Medium,15.40
+Outer Ring,Sole,VBFC-8,VBFC-8 II,Silicate Glass,Medium,10.07
+Outer Ring,Sole,VBFC-8,VBFC-8 II,Plasmoids,Poor,0.89
+Outer Ring,Sole,VBFC-8,VBFC-8 III,Condensed Alloy,Rich,27.70
+Outer Ring,Sole,VBFC-8,VBFC-8 III,Opulent Compound,Perfect,34.67
+Outer Ring,Sole,VBFC-8,VBFC-8 III,Coolant,Rich,20.44
+Outer Ring,Sole,VBFC-8,VBFC-8 III,Liquid Ozone,Rich,33.91
+Outer Ring,Sole,VBFC-8,VBFC-8 III,Ionic Solutions,Perfect,14.77
+Outer Ring,Sole,VBFC-8,VBFC-8 IV,Sheen Compound,Medium,23.02
+Outer Ring,Sole,VBFC-8,VBFC-8 IV,Fiber Composite,Medium,26.29
+Outer Ring,Sole,VBFC-8,VBFC-8 IV,Reactive Gas,Medium,22.51
+Outer Ring,Sole,VBFC-8,VBFC-8 IV,Polyaramids,Medium,15.81
+Outer Ring,Sole,VBFC-8,VBFC-8 IV,Ionic Solutions,Medium,8.31
+Outer Ring,Sole,VBFC-8,VBFC-8 V,Glossy Compound,Rich,32.32
+Outer Ring,Sole,VBFC-8,VBFC-8 V,Reactive Gas,Medium,24.23
+Outer Ring,Sole,VBFC-8,VBFC-8 V,Noble Gas,Rich,28.81
+Outer Ring,Sole,VBFC-8,VBFC-8 V,Reactive Metals,Medium,5.28
+Outer Ring,Sole,VBFC-8,VBFC-8 V,Ionic Solutions,Medium,8.26
+Outer Ring,Sole,VBFC-8,VBFC-8 VI,Lustering Alloy,Medium,25.01
+Outer Ring,Sole,VBFC-8,VBFC-8 VI,Fiber Composite,Medium,21.92
+Outer Ring,Sole,VBFC-8,VBFC-8 VI,Glossy Compound,Rich,31.84
+Outer Ring,Sole,VBFC-8,VBFC-8 VI,Reactive Gas,Poor,18.50
+Outer Ring,Sole,VBFC-8,VBFC-8 VI,Reactive Metals,Rich,7.67
+Outer Ring,Sole,VBFC-8,VBFC-8 VII,Lustering Alloy,Poor,18.82
+Outer Ring,Sole,VBFC-8,VBFC-8 VII,Fiber Composite,Poor,18.98
+Outer Ring,Sole,VBFC-8,VBFC-8 VII,Reactive Gas,Rich,27.38
+Outer Ring,Sole,VBFC-8,VBFC-8 VII,Polyaramids,Medium,13.45
+Outer Ring,Sole,VBFC-8,VBFC-8 VII,Coolant,Poor,12.47
+Outer Ring,Sole,VBFC-8,VBFC-8 VIII,Lustering Alloy,Rich,33.08
+Outer Ring,Sole,VBFC-8,VBFC-8 VIII,Reactive Gas,Medium,24.72
+Outer Ring,Sole,VBFC-8,VBFC-8 VIII,Reactive Metals,Perfect,9.01
+Outer Ring,Sole,VBFC-8,VBFC-8 VIII,Coolant,Rich,17.98
+Outer Ring,Sole,VBFC-8,VBFC-8 VIII,Ionic Solutions,Rich,12.11
+Outer Ring,Sole,YVA-F0,YVA-F0 I,Motley Compound,Rich,40.72
+Outer Ring,Sole,YVA-F0,YVA-F0 I,Glossy Compound,Rich,35.96
+Outer Ring,Sole,YVA-F0,YVA-F0 I,Heavy Metals,Rich,36.76
+Outer Ring,Sole,YVA-F0,YVA-F0 I,Plasmoids,Perfect,2.64
+Outer Ring,Sole,YVA-F0,YVA-F0 II,Gleaming Alloy,Rich,39.03
+Outer Ring,Sole,YVA-F0,YVA-F0 II,Crystal Compound,Rich,34.01
+Outer Ring,Sole,YVA-F0,YVA-F0 II,Reactive Gas,Medium,32.79
+Outer Ring,Sole,YVA-F0,YVA-F0 II,Reactive Metals,Rich,8.81
+Outer Ring,Sole,YVA-F0,YVA-F0 II,Oxygen Isotopes,Rich,5.30
+Outer Ring,Sole,YVA-F0,YVA-F0 III,Lucent Compound,Rich,34.11
+Outer Ring,Sole,YVA-F0,YVA-F0 III,Crystal Compound,Medium,30.13
+Outer Ring,Sole,YVA-F0,YVA-F0 III,Reactive Gas,Medium,25.17
+Outer Ring,Sole,YVA-F0,YVA-F0 III,Nanites,Rich,10.30
+Outer Ring,Sole,YVA-F0,YVA-F0 III,Oxygen Isotopes,Medium,4.25
+Outer Ring,Sole,YVA-F0,YVA-F0 IV,Lustering Alloy,Poor,23.19
+Outer Ring,Sole,YVA-F0,YVA-F0 IV,Sheen Compound,Medium,25.97
+Outer Ring,Sole,YVA-F0,YVA-F0 IV,Reactive Gas,Rich,39.96
+Outer Ring,Sole,YVA-F0,YVA-F0 IV,Noble Gas,Medium,25.43
+Outer Ring,Sole,YVA-F0,YVA-F0 IV,Base Metals,Poor,5.95
+Outer Ring,Sole,YVA-F0,YVA-F0 IV,Ionic Solutions,Rich,16.27
+Outer Ring,Sole,YVA-F0,YVA-F0 V,Sheen Compound,Perfect,42.09
+Outer Ring,Sole,YVA-F0,YVA-F0 V,Fiber Composite,Rich,39.08
+Outer Ring,Sole,YVA-F0,YVA-F0 V,Glossy Compound,Medium,29.67
+Outer Ring,Sole,YVA-F0,YVA-F0 V,Noble Gas,Rich,35.36
+Outer Ring,Sole,YVA-F0,YVA-F0 V,Base Metals,Poor,6.14
+Outer Ring,Sole,YVA-F0,YVA-F0 V,Coolant,Medium,21.86
+Outer Ring,Sole,YVA-F0,YVA-F0 VI,Dark Compound,Medium,27.59
+Outer Ring,Sole,YVA-F0,YVA-F0 VI,Base Metals,Medium,7.33
+Outer Ring,Sole,YVA-F0,YVA-F0 VI,Toxic Metals,Medium,8.40
+Outer Ring,Sole,YVA-F0,YVA-F0 VI,Industrial Fibers,Poor,4.37
+Outer Ring,Sole,YVA-F0,YVA-F0 VI,Construction Blocks,Medium,30.63
+Outer Ring,Sole,YVA-F0,YVA-F0 VII,Precious Alloy,Rich,32.97
+Outer Ring,Sole,YVA-F0,YVA-F0 VII,Motley Compound,Poor,23.71
+Outer Ring,Sole,YVA-F0,YVA-F0 VII,Base Metals,Rich,9.79
+Outer Ring,Sole,YVA-F0,YVA-F0 VII,Heavy Metals,Rich,36.66
+Outer Ring,Sole,YVA-F0,YVA-F0 VII,Coolant,Poor,14.07
+Outer Ring,Sole,YVA-F0,YVA-F0 VIII,Crystal Compound,Rich,33.51
+Outer Ring,Sole,YVA-F0,YVA-F0 VIII,Reactive Gas,Medium,30.55
+Outer Ring,Sole,YVA-F0,YVA-F0 VIII,Reactive Metals,Rich,8.98
+Outer Ring,Sole,YVA-F0,YVA-F0 VIII,Nanites,Rich,9.59
+Outer Ring,Sole,YVA-F0,YVA-F0 VIII,Suspended Plasma,Medium,106.89
+Outer Ring,Sole,YVA-F0,YVA-F0 IX,Precious Alloy,Rich,35.59
+Outer Ring,Sole,YVA-F0,YVA-F0 IX,Base Metals,Rich,9.96
+Outer Ring,Sole,YVA-F0,YVA-F0 IX,Industrial Fibers,Poor,5.26
+Outer Ring,Sole,YVA-F0,YVA-F0 IX,Suspended Plasma,Medium,94.26
+Outer Ring,Sole,YVA-F0,YVA-F0 IX,Liquid Ozone,Poor,25.19
+Outer Ring,Sole,0D-CHA,0D-CHA I,Dark Compound,Medium,30.83
+Outer Ring,Sole,0D-CHA,0D-CHA I,Toxic Metals,Medium,7.02
+Outer Ring,Sole,0D-CHA,0D-CHA I,Industrial Fibers,Poor,6.54
+Outer Ring,Sole,0D-CHA,0D-CHA I,Supertensile Plastics,Poor,16.74
+Outer Ring,Sole,0D-CHA,0D-CHA I,Construction Blocks,Medium,31.94
+Outer Ring,Sole,0D-CHA,0D-CHA II,Lustering Alloy,Medium,32.10
+Outer Ring,Sole,0D-CHA,0D-CHA II,Dark Compound,Medium,29.24
+Outer Ring,Sole,0D-CHA,0D-CHA II,Supertensile Plastics,Poor,14.33
+Outer Ring,Sole,0D-CHA,0D-CHA II,Construction Blocks,Medium,27.54
+Outer Ring,Sole,0D-CHA,0D-CHA II,Oxygen Isotopes,Poor,3.35
+Outer Ring,Sole,0D-CHA,0D-CHA III,Precious Alloy,Poor,21.84
+Outer Ring,Sole,0D-CHA,0D-CHA III,Dark Compound,Poor,19.01
+Outer Ring,Sole,0D-CHA,0D-CHA III,Base Metals,Medium,8.48
+Outer Ring,Sole,0D-CHA,0D-CHA III,Supertensile Plastics,Poor,12.46
+Outer Ring,Sole,0D-CHA,0D-CHA III,Oxygen Isotopes,Poor,3.75
+Outer Ring,Sole,0D-CHA,0D-CHA IV,Precious Alloy,Medium,29.57
+Outer Ring,Sole,0D-CHA,0D-CHA IV,Dark Compound,Poor,24.89
+Outer Ring,Sole,0D-CHA,0D-CHA IV,Toxic Metals,Poor,6.19
+Outer Ring,Sole,0D-CHA,0D-CHA IV,Oxygen Isotopes,Poor,3.03
+Outer Ring,Sole,0D-CHA,0D-CHA IV,Plasmoids,Medium,1.67
+Outer Ring,Sole,0D-CHA,0D-CHA V,Condensed Alloy,Perfect,45.12
+Outer Ring,Sole,0D-CHA,0D-CHA V,Toxic Metals,Rich,9.54
+Outer Ring,Sole,0D-CHA,0D-CHA V,Polyaramids,Perfect,29.30
+Outer Ring,Sole,0D-CHA,0D-CHA V,Coolant,Medium,17.64
+Outer Ring,Sole,0D-CHA,0D-CHA V,Silicate Glass,Medium,14.36
+Outer Ring,Sole,0D-CHA,0D-CHA V,Heavy Water,Perfect,447.39
+Outer Ring,Sole,0D-CHA,0D-CHA VI,Precious Alloy,Poor,18.01
+Outer Ring,Sole,0D-CHA,0D-CHA VI,Dark Compound,Poor,22.63
+Outer Ring,Sole,0D-CHA,0D-CHA VI,Base Metals,Medium,7.29
+Outer Ring,Sole,0D-CHA,0D-CHA VI,Industrial Fibers,Poor,6.30
+Outer Ring,Sole,0D-CHA,0D-CHA VI,Supertensile Plastics,Medium,17.12
+Outer Ring,Sole,0D-CHA,0D-CHA VII,Glossy Compound,Poor,24.33
+Outer Ring,Sole,0D-CHA,0D-CHA VII,Reactive Gas,Poor,24.65
+Outer Ring,Sole,0D-CHA,0D-CHA VII,Noble Gas,Rich,35.94
+Outer Ring,Sole,0D-CHA,0D-CHA VII,Base Metals,Rich,9.26
+Outer Ring,Sole,0D-CHA,0D-CHA VII,Reactive Metals,Rich,9.79
+Outer Ring,Sole,0D-CHA,0D-CHA VII,Ionic Solutions,Poor,9.49
+Outer Ring,Sole,0D-CHA,0D-CHA VIII,Sheen Compound,Perfect,43.25
+Outer Ring,Sole,0D-CHA,0D-CHA VIII,Glossy Compound,Medium,29.11
+Outer Ring,Sole,0D-CHA,0D-CHA VIII,Reactive Gas,Poor,23.81
+Outer Ring,Sole,0D-CHA,0D-CHA VIII,Base Metals,Poor,6.22
+Outer Ring,Sole,0D-CHA,0D-CHA VIII,Reactive Metals,Rich,10.62
+Outer Ring,Sole,0D-CHA,0D-CHA VIII,Polyaramids,Perfect,29.52
+Outer Ring,Sole,0D-CHA,0D-CHA IX,Opulent Compound,Rich,36.86
+Outer Ring,Sole,0D-CHA,0D-CHA IX,Crystal Compound,Medium,27.41
+Outer Ring,Sole,0D-CHA,0D-CHA IX,Noble Metals,Medium,29.13
+Outer Ring,Sole,0D-CHA,0D-CHA IX,Toxic Metals,Rich,9.51
+Outer Ring,Sole,0D-CHA,0D-CHA IX,Polyaramids,Medium,17.08
+Outer Ring,Sole,0D-CHA,0D-CHA IX,Silicate Glass,Perfect,22.05
+Outer Ring,Sole,A2V6-6,A2V6-6 I,Glossy Compound,Rich,41.97
+Outer Ring,Sole,A2V6-6,A2V6-6 I,Heavy Metals,Poor,25.09
+Outer Ring,Sole,A2V6-6,A2V6-6 I,Noble Metals,Medium,30.58
+Outer Ring,Sole,A2V6-6,A2V6-6 I,Construction Blocks,Medium,29.60
+Outer Ring,Sole,A2V6-6,A2V6-6 II,Lustering Alloy,Medium,31.67
+Outer Ring,Sole,A2V6-6,A2V6-6 II,Precious Alloy,Medium,28.39
+Outer Ring,Sole,A2V6-6,A2V6-6 II,Dark Compound,Medium,28.08
+Outer Ring,Sole,A2V6-6,A2V6-6 II,Industrial Fibers,Medium,8.99
+Outer Ring,Sole,A2V6-6,A2V6-6 II,Supertensile Plastics,Medium,20.51
+Outer Ring,Sole,A2V6-6,A2V6-6 III,Condensed Alloy,Rich,39.59
+Outer Ring,Sole,A2V6-6,A2V6-6 III,Fiber Composite,Perfect,47.40
+Outer Ring,Sole,A2V6-6,A2V6-6 III,Reactive Gas,Rich,42.22
+Outer Ring,Sole,A2V6-6,A2V6-6 III,Base Metals,Medium,9.03
+Outer Ring,Sole,A2V6-6,A2V6-6 III,Noble Metals,Perfect,52.58
+Outer Ring,Sole,A2V6-6,A2V6-6 III,Heavy Water,Medium,309.12
+Outer Ring,Sole,A2V6-6,A2V6-6 IV,Precious Alloy,Medium,32.70
+Outer Ring,Sole,A2V6-6,A2V6-6 IV,Dark Compound,Poor,19.10
+Outer Ring,Sole,A2V6-6,A2V6-6 IV,Construction Blocks,Medium,31.58
+Outer Ring,Sole,A2V6-6,A2V6-6 IV,Silicate Glass,Poor,10.50
+Outer Ring,Sole,A2V6-6,A2V6-6 IV,Plasmoids,Medium,1.62
+Outer Ring,Sole,A2V6-6,A2V6-6 V,Condensed Alloy,Perfect,50.57
+Outer Ring,Sole,A2V6-6,A2V6-6 V,Base Metals,Medium,8.83
+Outer Ring,Sole,A2V6-6,A2V6-6 V,Noble Metals,Perfect,45.19
+Outer Ring,Sole,A2V6-6,A2V6-6 V,Industrial Fibers,Perfect,12.11
+Outer Ring,Sole,A2V6-6,A2V6-6 V,Condensates,Medium,18.89
+Outer Ring,Sole,A2V6-6,A2V6-6 V,Liquid Ozone,Rich,52.43
+Outer Ring,Sole,A2V6-6,A2V6-6 VI,Lustering Alloy,Medium,33.85
+Outer Ring,Sole,A2V6-6,A2V6-6 VI,Sheen Compound,Poor,24.92
+Outer Ring,Sole,A2V6-6,A2V6-6 VI,Fiber Composite,Rich,40.01
+Outer Ring,Sole,A2V6-6,A2V6-6 VI,Reactive Gas,Medium,31.75
+Outer Ring,Sole,A2V6-6,A2V6-6 VI,Polyaramids,Medium,20.85
+Outer Ring,Sole,A2V6-6,A2V6-6 VI,Coolant,Medium,17.99
+Outer Ring,Sole,A2V6-6,A2V6-6 VII,Glossy Compound,Rich,35.73
+Outer Ring,Sole,A2V6-6,A2V6-6 VII,Reactive Gas,Rich,40.68
+Outer Ring,Sole,A2V6-6,A2V6-6 VII,Noble Gas,Poor,25.90
+Outer Ring,Sole,A2V6-6,A2V6-6 VII,Reactive Metals,Medium,7.91
+Outer Ring,Sole,A2V6-6,A2V6-6 VII,Coolant,Rich,24.55
+Outer Ring,Sole,A2V6-6,A2V6-6 VII,Ionic Solutions,Perfect,18.21
+Outer Ring,Sole,A2V6-6,A2V6-6 VIII,Precious Alloy,Medium,35.20
+Outer Ring,Sole,A2V6-6,A2V6-6 VIII,Motley Compound,Rich,36.51
+Outer Ring,Sole,A2V6-6,A2V6-6 VIII,Heavy Metals,Poor,24.61
+Outer Ring,Sole,A2V6-6,A2V6-6 VIII,Coolant,Rich,24.98
+Outer Ring,Sole,A2V6-6,A2V6-6 VIII,Suspended Plasma,Rich,140.31
+Outer Ring,Sole,VJ0-81,VJ0-81 I,Supertensile Plastics,Poor,10.75
+Outer Ring,Sole,VJ0-81,VJ0-81 I,Construction Blocks,Medium,23.96
+Outer Ring,Sole,VJ0-81,VJ0-81 I,Silicate Glass,Poor,7.32
+Outer Ring,Sole,VJ0-81,VJ0-81 I,Plasmoids,Medium,1.30
+Outer Ring,Sole,VJ0-81,VJ0-81 II,Gleaming Alloy,Medium,20.62
+Outer Ring,Sole,VJ0-81,VJ0-81 II,Polyaramids,Poor,12.23
+Outer Ring,Sole,VJ0-81,VJ0-81 II,Smartfab Units,Rich,17.76
+Outer Ring,Sole,VJ0-81,VJ0-81 III,Reactive Metals,Rich,8.27
+Outer Ring,Sole,VJ0-81,VJ0-81 III,Construction Blocks,Medium,21.62
+Outer Ring,Sole,VJ0-81,VJ0-81 III,Nanites,Poor,4.45
+Outer Ring,Sole,VJ0-81,VJ0-81 III,Suspended Plasma,Medium,85.32
+Outer Ring,Sole,VJ0-81,VJ0-81 IV,Sheen Compound,Poor,17.52
+Outer Ring,Sole,VJ0-81,VJ0-81 IV,Fiber Composite,Medium,23.20
+Outer Ring,Sole,VJ0-81,VJ0-81 IV,Reactive Gas,Rich,31.76
+Outer Ring,Sole,VJ0-81,VJ0-81 IV,Noble Gas,Medium,20.50
+Outer Ring,Sole,VJ0-81,VJ0-81 IV,Base Metals,Perfect,8.44
+Outer Ring,Sole,VJ0-81,VJ0-81 V,Reactive Metals,Poor,4.72
+Outer Ring,Sole,VJ0-81,VJ0-81 V,Supertensile Plastics,Rich,18.56
+Outer Ring,Sole,VJ0-81,VJ0-81 V,Nanites,Medium,5.47
+Outer Ring,Sole,VJ0-81,VJ0-81 V,Suspended Plasma,Rich,113.18
+Outer Ring,Sole,VJ0-81,VJ0-81 VI,Lustering Alloy,Medium,23.28
+Outer Ring,Sole,VJ0-81,VJ0-81 VI,Sheen Compound,Medium,19.78
+Outer Ring,Sole,VJ0-81,VJ0-81 VI,Fiber Composite,Rich,28.88
+Outer Ring,Sole,VJ0-81,VJ0-81 VI,Reactive Gas,Perfect,32.24
+Outer Ring,Sole,VJ0-81,VJ0-81 VI,Base Metals,Rich,7.55
+Outer Ring,Sole,VJ0-81,VJ0-81 VII,Lustering Alloy,Rich,29.22
+Outer Ring,Sole,VJ0-81,VJ0-81 VII,Reactive Gas,Medium,19.38
+Outer Ring,Sole,VJ0-81,VJ0-81 VII,Noble Gas,Poor,18.58
+Outer Ring,Sole,VJ0-81,VJ0-81 VII,Reactive Metals,Medium,5.16
+Outer Ring,Sole,VJ0-81,VJ0-81 VII,Ionic Solutions,Perfect,13.23

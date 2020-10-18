@@ -1,0 +1,3020 @@
+Region,Constellation,System,Name,Item,Rate,Output
+Derelik,San Matar,Tanoo,Tanoo I,Base Metals,Medium,3.55
+Derelik,San Matar,Tanoo,Tanoo I,Condensates,Medium,9.90
+Derelik,San Matar,Tanoo,Tanoo I,Heavy Water,Rich,154.20
+Derelik,San Matar,Tanoo,Tanoo II,Fiber Composite,Rich,16.16
+Derelik,San Matar,Tanoo,Tanoo II,Smartfab Units,Perfect,15.22
+Derelik,San Matar,Tanoo,Tanoo II,Heavy Water,Medium,115.68
+Derelik,San Matar,Tanoo,Tanoo III,Lustering Alloy,Poor,10.97
+Derelik,San Matar,Tanoo,Tanoo III,Base Metals,Medium,3.25
+Derelik,San Matar,Tanoo,Tanoo IV,Toxic Metals,Rich,4.87
+Derelik,San Matar,Tanoo,Tanoo IV,Coolant,Perfect,13.56
+Derelik,San Matar,Tanoo,Tanoo IV,Heavy Water,Rich,158.28
+Derelik,San Matar,Tanoo,Tanoo V,Lustering Alloy,Poor,10.04
+Derelik,San Matar,Tanoo,Tanoo V,Noble Gas,Medium,14.46
+Derelik,San Matar,Tanoo,Tanoo V,Base Metals,Rich,4.52
+Derelik,San Matar,Tanoo,Tanoo VI,Opulent Compound,Rich,17.05
+Derelik,San Matar,Tanoo,Tanoo VI,Silicate Glass,Poor,5.38
+Derelik,San Matar,Tanoo,Tanoo VI,Heavy Water,Medium,131.16
+Derelik,San Matar,Lashesih,Lashesih I,Lustering Alloy,Medium,13.31
+Derelik,San Matar,Lashesih,Lashesih I,Base Metals,Medium,4.02
+Derelik,San Matar,Lashesih,Lashesih II,Lustering Alloy,Medium,15.02
+Derelik,San Matar,Lashesih,Lashesih II,Base Metals,Poor,3.07
+Derelik,San Matar,Lashesih,Lashesih III,Motley Compound,Rich,20.58
+Derelik,San Matar,Lashesih,Lashesih III,Heavy Metals,Rich,16.61
+Derelik,San Matar,Lashesih,Lashesih IV,Fiber Composite,Medium,13.40
+Derelik,San Matar,Lashesih,Lashesih IV,Smartfab Units,Perfect,15.57
+Derelik,San Matar,Lashesih,Lashesih IV,Heavy Water,Medium,128.44
+Derelik,San Matar,Lashesih,Lashesih V,Reactive Gas,Medium,12.70
+Derelik,San Matar,Lashesih,Lashesih V,Base Metals,Perfect,5.57
+Derelik,San Matar,Lashesih,Lashesih V,Heavy Water,Medium,128.70
+Derelik,San Matar,Lashesih,Lashesih VI,Opulent Compound,Rich,18.29
+Derelik,San Matar,Lashesih,Lashesih VI,Noble Metals,Medium,15.69
+Derelik,San Matar,Lashesih,Lashesih VI,Heavy Water,Perfect,227.50
+Derelik,San Matar,Lashesih,Lashesih VII,Condensed Alloy,Perfect,22.67
+Derelik,San Matar,Lashesih,Lashesih VII,Noble Metals,Perfect,22.32
+Derelik,San Matar,Lashesih,Lashesih VII,Heavy Water,Rich,164.84
+Derelik,San Matar,Akpivem,Akpivem I,Lustering Alloy,Medium,14.44
+Derelik,San Matar,Akpivem,Akpivem I,Base Metals,Poor,2.67
+Derelik,San Matar,Akpivem,Akpivem II,Toxic Metals,Rich,4.53
+Derelik,San Matar,Akpivem,Akpivem II,Silicate Glass,Perfect,9.86
+Derelik,San Matar,Akpivem,Akpivem II,Heavy Water,Medium,133.20
+Derelik,San Matar,Akpivem,Akpivem III,Lustering Alloy,Medium,13.62
+Derelik,San Matar,Akpivem,Akpivem III,Sheen Compound,Rich,16.48
+Derelik,San Matar,Akpivem,Akpivem III,Base Metals,Medium,3.52
+Derelik,San Matar,Akpivem,Akpivem IV,Lustering Alloy,Perfect,19.84
+Derelik,San Matar,Akpivem,Akpivem IV,Sheen Compound,Medium,13.69
+Derelik,San Matar,Akpivem,Akpivem IV,Base Metals,Rich,4.92
+Derelik,San Matar,Akpivem,Akpivem V,Lustering Alloy,Poor,10.56
+Derelik,San Matar,Akpivem,Akpivem V,Sheen Compound,Medium,14.63
+Derelik,San Matar,Akpivem,Akpivem V,Base Metals,Medium,3.08
+Derelik,San Matar,Akpivem,Akpivem VI,Lustering Alloy,Medium,12.46
+Derelik,San Matar,Akpivem,Akpivem VI,Fiber Composite,Poor,10.68
+Derelik,San Matar,Akpivem,Akpivem VI,Base Metals,Medium,3.27
+Derelik,San Matar,Akpivem,Akpivem VII,Lustering Alloy,Medium,14.04
+Derelik,San Matar,Akpivem,Akpivem VII,Base Metals,Poor,2.48
+Derelik,San Matar,Jark,Jark I,Supertensile Plastics,Rich,11.33
+Derelik,San Matar,Jark,Jark I,Suspended Plasma,Medium,41.30
+Derelik,San Matar,Jark,Jark II,Industrial Fibers,Rich,4.47
+Derelik,San Matar,Jark,Jark II,Condensates,Perfect,14.17
+Derelik,San Matar,Jark,Jark II,Heavy Water,Rich,189.48
+Derelik,San Matar,Jark,Jark III,Lucent Compound,Rich,18.64
+Derelik,San Matar,Jark,Jark III,Suspended Plasma,Medium,48.51
+Derelik,San Matar,Jark,Jark IV,Condensed Alloy,Poor,11.03
+Derelik,San Matar,Jark,Jark IV,Heavy Water,Medium,122.28
+Derelik,San Matar,Jark,Jark IV,Liquid Ozone,Rich,20.48
+Derelik,San Matar,Jark,Jark V,Lustering Alloy,Rich,18.73
+Derelik,San Matar,Jark,Jark V,Fiber Composite,Rich,15.62
+Derelik,San Matar,Jark,Jark V,Base Metals,Medium,3.24
+Derelik,San Matar,Jark,Jark VI,Lustering Alloy,Rich,17.28
+Derelik,San Matar,Jark,Jark VI,Sheen Compound,Medium,11.90
+Derelik,San Matar,Jark,Jark VI,Base Metals,Poor,2.63
+Derelik,San Matar,Jark,Jark VII,Lustering Alloy,Medium,11.66
+Derelik,San Matar,Jark,Jark VII,Base Metals,Medium,3.87
+Derelik,San Matar,Jark,Jark VII,Polyaramids,Rich,11.07
+Derelik,San Matar,Sasta,Sasta I,Lustering Alloy,Poor,11.15
+Derelik,San Matar,Sasta,Sasta I,Base Metals,Poor,2.75
+Derelik,San Matar,Sasta,Sasta II,Motley Compound,Perfect,20.18
+Derelik,San Matar,Sasta,Sasta II,Construction Blocks,Rich,15.36
+Derelik,San Matar,Sasta,Sasta III,Lustering Alloy,Medium,14.63
+Derelik,San Matar,Sasta,Sasta III,Base Metals,Rich,4.04
+Derelik,San Matar,Sasta,Sasta III,Reactive Metals,Medium,3.22
+Derelik,San Matar,Sasta,Sasta IV,Lustering Alloy,Rich,16.12
+Derelik,San Matar,Sasta,Sasta IV,Fiber Composite,Poor,11.20
+Derelik,San Matar,Sasta,Sasta IV,Base Metals,Rich,4.68
+Derelik,San Matar,Sasta,Sasta V,Lustering Alloy,Poor,10.40
+Derelik,San Matar,Sasta,Sasta V,Base Metals,Rich,4.05
+Derelik,San Matar,Sasta,Sasta V,Polyaramids,Medium,8.75
+Derelik,San Matar,Sasta,Sasta VI,Lustering Alloy,Medium,14.18
+Derelik,San Matar,Sasta,Sasta VI,Base Metals,Medium,3.46
+Derelik,San Matar,Sasta,Sasta VI,Coolant,Perfect,13.09
+Derelik,San Matar,Sasta,Sasta VII,Lustering Alloy,Rich,17.12
+Derelik,San Matar,Sasta,Sasta VII,Fiber Composite,Poor,10.88
+Derelik,San Matar,Sasta,Sasta VII,Base Metals,Rich,4.89
+Derelik,San Matar,Sasta,Sasta VIII,Lustering Alloy,Rich,15.19
+Derelik,San Matar,Sasta,Sasta VIII,Base Metals,Perfect,5.19
+Derelik,San Matar,Sasta,Sasta VIII,Polyaramids,Medium,7.94
+Derelik,San Matar,Sasta,Sasta IX,Lustering Alloy,Medium,12.06
+Derelik,San Matar,Sasta,Sasta IX,Base Metals,Rich,4.59
+Derelik,San Matar,Zaid,Zaid I,Motley Compound,Poor,10.74
+Derelik,San Matar,Zaid,Zaid I,Plasmoids,Rich,1.00
+Derelik,San Matar,Zaid,Zaid II,Lustering Alloy,Medium,13.27
+Derelik,San Matar,Zaid,Zaid II,Base Metals,Poor,2.47
+Derelik,San Matar,Zaid,Zaid III,Lustering Alloy,Poor,7.63
+Derelik,San Matar,Zaid,Zaid III,Base Metals,Medium,3.01
+Derelik,San Matar,Zaid,Zaid IV,Lustering Alloy,Medium,12.86
+Derelik,San Matar,Zaid,Zaid IV,Base Metals,Medium,3.29
+Derelik,San Matar,Zaid,Zaid V,Gleaming Alloy,Rich,18.70
+Derelik,San Matar,Zaid,Zaid V,Suspended Plasma,Medium,41.52
+Derelik,San Matar,Zaid,Zaid VI,Noble Metals,Rich,17.63
+Derelik,San Matar,Zaid,Zaid VI,Coolant,Rich,12.21
+Derelik,San Matar,Zaid,Zaid VI,Heavy Water,Perfect,191.04
+Derelik,San Matar,Zaid,Zaid VII,Lustering Alloy,Rich,18.86
+Derelik,San Matar,Zaid,Zaid VII,Base Metals,Medium,3.49
+Derelik,San Matar,Zaid,Zaid VII,Reactive Metals,Rich,4.59
+Derelik,San Matar,Zaid,Zaid VIII,Lustering Alloy,Medium,13.62
+Derelik,San Matar,Zaid,Zaid VIII,Base Metals,Medium,3.45
+Derelik,San Matar,Zaid,Zaid IX,Lustering Alloy,Medium,12.08
+Derelik,San Matar,Zaid,Zaid IX,Reactive Gas,Perfect,19.40
+Derelik,San Matar,Zaid,Zaid IX,Base Metals,Perfect,5.13
+Derelik,San Matar,Yuzier,Yuzier I,Lustering Alloy,Poor,6.88
+Derelik,San Matar,Yuzier,Yuzier I,Base Metals,Medium,3.44
+Derelik,San Matar,Yuzier,Yuzier II,Fiber Composite,Medium,10.49
+Derelik,San Matar,Yuzier,Yuzier II,Smartfab Units,Rich,10.62
+Derelik,San Matar,Yuzier,Yuzier II,Heavy Water,Medium,127.93
+Derelik,San Matar,Yuzier,Yuzier III,Base Metals,Perfect,5.37
+Derelik,San Matar,Yuzier,Yuzier III,Heavy Water,Rich,152.68
+Derelik,San Matar,Yuzier,Yuzier III,Liquid Ozone,Perfect,24.19
+Derelik,San Matar,Yuzier,Yuzier IV,Motley Compound,Poor,8.94
+Derelik,San Matar,Yuzier,Yuzier IV,Plasmoids,Medium,0.63
+Derelik,San Matar,Yuzier,Yuzier V,Lustering Alloy,Perfect,18.07
+Derelik,San Matar,Yuzier,Yuzier V,Fiber Composite,Perfect,17.91
+Derelik,San Matar,Yuzier,Yuzier V,Base Metals,Poor,2.69
+Derelik,San Matar,Yuzier,Yuzier VI,Crystal Compound,Rich,16.97
+Derelik,San Matar,Yuzier,Yuzier VI,Suspended Plasma,Medium,37.82
+Derelik,San Matar,Yuzier,Yuzier VII,Lustering Alloy,Medium,11.77
+Derelik,San Matar,Yuzier,Yuzier VII,Base Metals,Poor,2.48
+Derelik,San Matar,Yuzier,Yuzier VIII,Lustering Alloy,Poor,10.26
+Derelik,San Matar,Yuzier,Yuzier VIII,Reactive Gas,Rich,17.20
+Derelik,San Matar,Yuzier,Yuzier VIII,Base Metals,Medium,2.91
+Derelik,San Matar,Nirbhi,Nirbhi I,Lustering Alloy,Poor,9.76
+Derelik,San Matar,Nirbhi,Nirbhi I,Base Metals,Poor,2.37
+Derelik,San Matar,Nirbhi,Nirbhi II,Lustering Alloy,Poor,10.20
+Derelik,San Matar,Nirbhi,Nirbhi II,Base Metals,Medium,3.15
+Derelik,San Matar,Nirbhi,Nirbhi III,Fiber Composite,Perfect,22.02
+Derelik,San Matar,Nirbhi,Nirbhi III,Heavy Water,Perfect,224.88
+Derelik,San Matar,Nirbhi,Nirbhi III,Liquid Ozone,Rich,23.41
+Derelik,San Matar,Nirbhi,Nirbhi IV,Smartfab Units,Medium,8.21
+Derelik,San Matar,Nirbhi,Nirbhi IV,Heavy Water,Medium,144.36
+Derelik,San Matar,Nirbhi,Nirbhi IV,Liquid Ozone,Rich,19.07
+Derelik,San Matar,Nirbhi,Nirbhi V,Lustering Alloy,Rich,16.88
+Derelik,San Matar,Nirbhi,Nirbhi V,Glossy Compound,Poor,10.26
+Derelik,San Matar,Nirbhi,Nirbhi V,Base Metals,Medium,3.76
+Derelik,San Matar,Nirbhi,Nirbhi VI,Lustering Alloy,Medium,12.60
+Derelik,San Matar,Nirbhi,Nirbhi VI,Base Metals,Rich,4.52
+Derelik,San Matar,Nirbhi,Nirbhi VI,Coolant,Rich,11.26
+Derelik,San Matar,Nirbhi,Nirbhi VII,Lustering Alloy,Rich,17.63
+Derelik,San Matar,Nirbhi,Nirbhi VII,Base Metals,Medium,3.61
+Derelik,San Matar,Nirbhi,Nirbhi VII,Polyaramids,Poor,7.31
+Derelik,San Matar,Nirbhi,Nirbhi VIII,Lustering Alloy,Medium,14.22
+Derelik,San Matar,Nirbhi,Nirbhi VIII,Base Metals,Rich,4.68
+Derelik,San Matar,Nirbhi,Nirbhi VIII,Ionic Solutions,Medium,5.25
+Derelik,San Matar,Nirbhi,Nirbhi IX,Lustering Alloy,Rich,17.32
+Derelik,San Matar,Nirbhi,Nirbhi IX,Base Metals,Poor,2.41
+Derelik,San Matar,Nirbhi,Nirbhi X,Lustering Alloy,Medium,11.50
+Derelik,San Matar,Nirbhi,Nirbhi X,Base Metals,Medium,3.01
+Derelik,Anares,Sooma,Sooma I,Lustering Alloy,Medium,14.85
+Derelik,Anares,Sooma,Sooma I,Base Metals,Medium,4.38
+Derelik,Anares,Sooma,Sooma II,Lustering Alloy,Poor,10.47
+Derelik,Anares,Sooma,Sooma II,Base Metals,Poor,2.78
+Derelik,Anares,Sooma,Sooma III,Fiber Composite,Perfect,27.43
+Derelik,Anares,Sooma,Sooma III,Industrial Fibers,Medium,4.84
+Derelik,Anares,Sooma,Sooma III,Heavy Water,Perfect,283.35
+Derelik,Anares,Sooma,Sooma IV,Noble Metals,Medium,14.14
+Derelik,Anares,Sooma,Sooma IV,Heavy Water,Perfect,250.80
+Derelik,Anares,Sooma,Sooma IV,Liquid Ozone,Medium,21.81
+Derelik,Anares,Sooma,Sooma V,Condensed Alloy,Poor,14.04
+Derelik,Anares,Sooma,Sooma V,Smartfab Units,Perfect,17.43
+Derelik,Anares,Sooma,Sooma V,Heavy Water,Rich,237.90
+Derelik,Anares,Sooma,Sooma VI,Lustering Alloy,Medium,17.07
+Derelik,Anares,Sooma,Sooma VI,Base Metals,Poor,2.85
+Derelik,Anares,Sooma,Sooma VII,Lustering Alloy,Rich,20.67
+Derelik,Anares,Sooma,Sooma VII,Glossy Compound,Medium,16.74
+Derelik,Anares,Sooma,Sooma VII,Base Metals,Rich,5.22
+Derelik,Anares,Sooma,Sooma VIII,Lustering Alloy,Medium,17.57
+Derelik,Anares,Sooma,Sooma VIII,Reactive Gas,Medium,15.62
+Derelik,Anares,Sooma,Sooma VIII,Base Metals,Poor,3.70
+Derelik,Anares,Sooma,Sooma IX,Lustering Alloy,Medium,18.41
+Derelik,Anares,Sooma,Sooma IX,Reactive Gas,Rich,20.16
+Derelik,Anares,Sooma,Sooma IX,Base Metals,Rich,6.22
+Derelik,Anares,Sooma,Sooma X,Lustering Alloy,Medium,16.93
+Derelik,Anares,Sooma,Sooma X,Base Metals,Medium,4.76
+Derelik,Anares,Chidah,Chidah I,Lustering Alloy,Poor,9.55
+Derelik,Anares,Chidah,Chidah I,Base Metals,Medium,4.26
+Derelik,Anares,Chidah,Chidah II,Lustering Alloy,Poor,12.11
+Derelik,Anares,Chidah,Chidah II,Base Metals,Medium,4.63
+Derelik,Anares,Chidah,Chidah III,Lustering Alloy,Poor,12.73
+Derelik,Anares,Chidah,Chidah III,Base Metals,Medium,3.73
+Derelik,Anares,Chidah,Chidah IV,Lustering Alloy,Poor,13.21
+Derelik,Anares,Chidah,Chidah IV,Base Metals,Poor,2.58
+Derelik,Anares,Chidah,Chidah V,Lustering Alloy,Medium,18.45
+Derelik,Anares,Chidah,Chidah V,Noble Gas,Poor,13.47
+Derelik,Anares,Chidah,Chidah V,Base Metals,Poor,3.47
+Derelik,Anares,Chidah,Chidah VI,Lustering Alloy,Poor,12.53
+Derelik,Anares,Chidah,Chidah VI,Base Metals,Poor,3.43
+Derelik,Anares,Chidah,Chidah VII,Lustering Alloy,Medium,18.73
+Derelik,Anares,Chidah,Chidah VII,Base Metals,Poor,3.26
+Derelik,Anares,Chidah,Chidah VII,Polyaramids,Perfect,16.20
+Derelik,Anares,Chidah,Chidah VIII,Lustering Alloy,Rich,20.32
+Derelik,Anares,Chidah,Chidah VIII,Fiber Composite,Medium,18.86
+Derelik,Anares,Chidah,Chidah VIII,Base Metals,Medium,3.81
+Derelik,Anares,Chidah,Chidah IX,Motley Compound,Rich,21.03
+Derelik,Anares,Chidah,Chidah IX,Noble Gas,Perfect,24.82
+Derelik,Anares,Chidah,Chidah X,Lustering Alloy,Poor,10.79
+Derelik,Anares,Chidah,Chidah X,Base Metals,Medium,4.46
+Derelik,Anares,Shenela,Shenela I,Lustering Alloy,Poor,14.42
+Derelik,Anares,Shenela,Shenela I,Dark Compound,Poor,10.03
+Derelik,Anares,Shenela,Shenela I,Industrial Fibers,Poor,2.81
+Derelik,Anares,Shenela,Shenela II,Precious Alloy,Medium,18.16
+Derelik,Anares,Shenela,Shenela II,Industrial Fibers,Medium,4.27
+Derelik,Anares,Shenela,Shenela II,Oxygen Isotopes,Poor,1.73
+Derelik,Anares,Shenela,Shenela III,Dark Compound,Medium,19.34
+Derelik,Anares,Shenela,Shenela III,Toxic Metals,Medium,4.16
+Derelik,Anares,Shenela,Shenela III,Industrial Fibers,Poor,2.68
+Derelik,Anares,Shenela,Shenela IV,Lustering Alloy,Medium,18.34
+Derelik,Anares,Shenela,Shenela IV,Noble Gas,Rich,23.42
+Derelik,Anares,Shenela,Shenela IV,Polyaramids,Medium,10.60
+Derelik,Anares,Shenela,Shenela IV,Ionic Solutions,Rich,8.90
+Derelik,Anares,Shenela,Shenela V,Condensed Alloy,Rich,24.75
+Derelik,Anares,Shenela,Shenela V,Fiber Composite,Perfect,30.29
+Derelik,Anares,Shenela,Shenela V,Opulent Compound,Perfect,28.42
+Derelik,Anares,Shenela,Shenela V,Heavy Water,Perfect,267.20
+Derelik,Anares,Shenela,Shenela VI,Lustering Alloy,Rich,23.86
+Derelik,Anares,Shenela,Shenela VI,Glossy Compound,Rich,20.29
+Derelik,Anares,Shenela,Shenela VI,Noble Gas,Perfect,25.50
+Derelik,Anares,Shenela,Shenela VI,Reactive Metals,Medium,5.10
+Derelik,Anares,Asabona,Asabona I,Precious Alloy,Medium,16.95
+Derelik,Anares,Asabona,Asabona I,Toxic Metals,Poor,3.87
+Derelik,Anares,Asabona,Asabona I,Industrial Fibers,Medium,5.26
+Derelik,Anares,Asabona,Asabona II,Motley Compound,Rich,22.36
+Derelik,Anares,Asabona,Asabona II,Noble Gas,Rich,22.07
+Derelik,Anares,Asabona,Asabona III,Fiber Composite,Rich,26.59
+Derelik,Anares,Asabona,Asabona III,Reactive Gas,Perfect,27.69
+Derelik,Anares,Asabona,Asabona III,Base Metals,Perfect,7.56
+Derelik,Anares,Asabona,Asabona III,Heavy Water,Perfect,323.17
+Derelik,Anares,Asabona,Asabona IV,Fiber Composite,Perfect,29.09
+Derelik,Anares,Asabona,Asabona IV,Opulent Compound,Rich,24.12
+Derelik,Anares,Asabona,Asabona IV,Industrial Fibers,Medium,5.36
+Derelik,Anares,Asabona,Asabona IV,Liquid Ozone,Perfect,36.57
+Derelik,Anares,Asabona,Asabona V,Noble Gas,Poor,15.64
+Derelik,Anares,Asabona,Asabona V,Base Metals,Rich,6.80
+Derelik,Anares,Asabona,Asabona V,Reactive Metals,Rich,5.70
+Derelik,Anares,Asabona,Asabona V,Ionic Solutions,Rich,9.98
+Derelik,Anares,Asabona,Asabona VI,Sheen Compound,Perfect,27.69
+Derelik,Anares,Asabona,Asabona VI,Noble Gas,Rich,22.71
+Derelik,Anares,Asabona,Asabona VI,Reactive Metals,Medium,4.46
+Derelik,Anares,Asabona,Asabona VI,Coolant,Medium,14.31
+Derelik,Anares,Asabona,Asabona VII,Crystal Compound,Rich,26.93
+Derelik,Anares,Asabona,Asabona VII,Reactive Metals,Rich,6.16
+Derelik,Anares,Asabona,Asabona VII,Construction Blocks,Rich,23.31
+Derelik,Anares,Asabona,Asabona VIII,Lustering Alloy,Perfect,27.49
+Derelik,Anares,Asabona,Asabona VIII,Noble Gas,Medium,19.64
+Derelik,Anares,Asabona,Asabona VIII,Base Metals,Poor,3.88
+Derelik,Anares,Asabona,Asabona VIII,Coolant,Rich,17.56
+Derelik,Anares,Asabona,Asabona IX,Lustering Alloy,Medium,18.82
+Derelik,Anares,Asabona,Asabona IX,Noble Gas,Medium,18.53
+Derelik,Anares,Asabona,Asabona IX,Base Metals,Poor,3.76
+Derelik,Anares,Asabona,Asabona IX,Ionic Solutions,Medium,8.27
+Derelik,Anares,Asabona,Asabona X,Sheen Compound,Rich,24.77
+Derelik,Anares,Asabona,Asabona X,Noble Gas,Perfect,28.05
+Derelik,Anares,Asabona,Asabona X,Polyaramids,Rich,14.59
+Derelik,Anares,Asabona,Asabona X,Ionic Solutions,Rich,10.17
+Derelik,Anares,Asabona,Asabona XI,Precious Alloy,Medium,16.07
+Derelik,Anares,Asabona,Asabona XI,Industrial Fibers,Medium,4.82
+Derelik,Anares,Asabona,Asabona XI,Oxygen Isotopes,Poor,1.75
+Derelik,Anares,Onsooh,Onsooh I,Reactive Metals,Medium,4.85
+Derelik,Anares,Onsooh,Onsooh I,Nanites,Rich,6.19
+Derelik,Anares,Onsooh,Onsooh I,Ionic Solutions,Medium,7.30
+Derelik,Anares,Onsooh,Onsooh I,Plasmoids,Perfect,1.62
+Derelik,Anares,Onsooh,Onsooh II,Noble Gas,Medium,19.42
+Derelik,Anares,Onsooh,Onsooh II,Construction Blocks,Perfect,25.55
+Derelik,Anares,Onsooh,Onsooh III,Precious Alloy,Medium,18.64
+Derelik,Anares,Onsooh,Onsooh III,Industrial Fibers,Poor,3.29
+Derelik,Anares,Onsooh,Onsooh III,Supertensile Plastics,Medium,12.01
+Derelik,Anares,Onsooh,Onsooh IV,Fiber Composite,Perfect,30.32
+Derelik,Anares,Onsooh,Onsooh IV,Base Metals,Perfect,7.17
+Derelik,Anares,Onsooh,Onsooh IV,Noble Metals,Perfect,29.71
+Derelik,Anares,Onsooh,Onsooh IV,Liquid Ozone,Rich,30.02
+Derelik,Anares,Onsooh,Onsooh V,Fiber Composite,Medium,16.62
+Derelik,Anares,Onsooh,Onsooh V,Industrial Fibers,Rich,6.69
+Derelik,Anares,Onsooh,Onsooh V,Condensates,Perfect,17.60
+Derelik,Anares,Onsooh,Onsooh V,Smartfab Units,Medium,12.96
+Derelik,Anares,Onsooh,Onsooh VI,Fiber Composite,Medium,18.56
+Derelik,Anares,Onsooh,Onsooh VI,Reactive Gas,Rich,21.74
+Derelik,Anares,Onsooh,Onsooh VI,Smartfab Units,Rich,15.67
+Derelik,Anares,Onsooh,Onsooh VI,Heavy Water,Medium,188.64
+Derelik,Anares,Onsooh,Onsooh VII,Glossy Compound,Rich,23.76
+Derelik,Anares,Onsooh,Onsooh VII,Reactive Gas,Medium,16.90
+Derelik,Anares,Onsooh,Onsooh VII,Noble Gas,Medium,18.14
+Derelik,Anares,Onsooh,Onsooh VII,Ionic Solutions,Rich,9.18
+Derelik,Anares,Onsooh,Onsooh VIII,Lustering Alloy,Medium,19.33
+Derelik,Anares,Onsooh,Onsooh VIII,Sheen Compound,Medium,16.91
+Derelik,Anares,Onsooh,Onsooh VIII,Noble Gas,Rich,20.61
+Derelik,Anares,Onsooh,Onsooh VIII,Reactive Metals,Rich,5.89
+Derelik,Anares,Onsooh,Onsooh IX,Base Metals,Rich,5.58
+Derelik,Anares,Onsooh,Onsooh IX,Supertensile Plastics,Medium,13.09
+Derelik,Anares,Onsooh,Onsooh IX,Coolant,Medium,13.49
+Derelik,Anares,Onsooh,Onsooh X,Toxic Metals,Medium,4.66
+Derelik,Anares,Onsooh,Onsooh X,Industrial Fibers,Medium,4.35
+Derelik,Anares,Onsooh,Onsooh X,Construction Blocks,Poor,10.70
+Derelik,Anares,Shamahi,Shamahi I,Dark Compound,Medium,17.51
+Derelik,Anares,Shamahi,Shamahi I,Industrial Fibers,Poor,3.26
+Derelik,Anares,Shamahi,Shamahi I,Oxygen Isotopes,Medium,2.75
+Derelik,Anares,Shamahi,Shamahi II,Noble Gas,Rich,25.98
+Derelik,Anares,Shamahi,Shamahi II,Plasmoids,Medium,1.25
+Derelik,Anares,Shamahi,Shamahi III,Glossy Compound,Medium,20.48
+Derelik,Anares,Shamahi,Shamahi III,Noble Gas,Rich,23.44
+Derelik,Anares,Shamahi,Shamahi IV,Lustering Alloy,Poor,15.76
+Derelik,Anares,Shamahi,Shamahi IV,Dark Compound,Medium,19.23
+Derelik,Anares,Shamahi,Shamahi IV,Industrial Fibers,Poor,4.01
+Derelik,Anares,Shamahi,Shamahi V,Motley Compound,Medium,20.96
+Derelik,Anares,Shamahi,Shamahi V,Noble Gas,Medium,17.49
+Derelik,Anares,Shamahi,Shamahi VI,Sheen Compound,Medium,16.22
+Derelik,Anares,Shamahi,Shamahi VI,Reactive Gas,Medium,16.27
+Derelik,Anares,Shamahi,Shamahi VI,Noble Gas,Perfect,27.42
+Derelik,Anares,Shamahi,Shamahi VI,Base Metals,Rich,5.79
+Derelik,Anares,Shamahi,Shamahi VII,Reactive Gas,Medium,20.86
+Derelik,Anares,Shamahi,Shamahi VII,Noble Gas,Medium,18.89
+Derelik,Anares,Shamahi,Shamahi VII,Reactive Metals,Medium,4.48
+Derelik,Anares,Shamahi,Shamahi VII,Polyaramids,Perfect,18.01
+Derelik,Anares,Shamahi,Shamahi VIII,Reactive Gas,Rich,26.64
+Derelik,Anares,Shamahi,Shamahi VIII,Supertensile Plastics,Rich,16.29
+Derelik,Anares,Shamahi,Shamahi VIII,Construction Blocks,Medium,20.86
+Derelik,Anares,Shamahi,Shamahi IX,Base Metals,Rich,6.45
+Derelik,Anares,Shamahi,Shamahi IX,Coolant,Poor,9.19
+Derelik,Anares,Shamahi,Shamahi IX,Liquid Ozone,Medium,25.44
+Derelik,Anares,Shamahi,Shamahi X,Industrial Fibers,Medium,5.48
+Derelik,Anares,Shamahi,Shamahi X,Construction Blocks,Poor,14.89
+Derelik,Anares,Shamahi,Shamahi X,Silicate Glass,Poor,6.84
+Derelik,Anares,Sendaya,Sendaya I,Glossy Compound,Rich,25.16
+Derelik,Anares,Sendaya,Sendaya I,Noble Gas,Medium,20.27
+Derelik,Anares,Sendaya,Sendaya II,Lustering Alloy,Medium,18.56
+Derelik,Anares,Sendaya,Sendaya II,Industrial Fibers,Medium,4.51
+Derelik,Anares,Sendaya,Sendaya II,Silicate Glass,Medium,9.54
+Derelik,Anares,Sendaya,Sendaya III,Base Metals,Poor,3.34
+Derelik,Anares,Sendaya,Sendaya III,Industrial Fibers,Poor,4.09
+Derelik,Anares,Sendaya,Sendaya III,Construction Blocks,Medium,17.91
+Derelik,Anares,Sendaya,Sendaya IV,Lucent Compound,Rich,28.53
+Derelik,Anares,Sendaya,Sendaya IV,Construction Blocks,Medium,18.76
+Derelik,Anares,Sendaya,Sendaya IV,Suspended Plasma,Medium,62.66
+Derelik,Anares,Sendaya,Sendaya V,Fiber Composite,Medium,17.62
+Derelik,Anares,Sendaya,Sendaya V,Opulent Compound,Rich,25.00
+Derelik,Anares,Sendaya,Sendaya V,Noble Metals,Rich,24.12
+Derelik,Anares,Sendaya,Sendaya V,Smartfab Units,Medium,14.72
+Derelik,Anares,Sendaya,Sendaya VI,Fiber Composite,Medium,20.97
+Derelik,Anares,Sendaya,Sendaya VI,Noble Gas,Medium,22.45
+Derelik,Anares,Sendaya,Sendaya VI,Base Metals,Rich,6.10
+Derelik,Anares,Sendaya,Sendaya VI,Reactive Metals,Rich,6.59
+Derelik,Anares,Sendaya,Sendaya VII,Glossy Compound,Rich,25.45
+Derelik,Anares,Sendaya,Sendaya VII,Noble Gas,Rich,24.14
+Derelik,Anares,Sendaya,Sendaya VII,Coolant,Rich,18.94
+Derelik,Anares,Sendaya,Sendaya VII,Ionic Solutions,Poor,5.94
+Derelik,Anares,Sendaya,Sendaya VIII,Base Metals,Medium,4.50
+Derelik,Anares,Sendaya,Sendaya VIII,Industrial Fibers,Poor,3.50
+Derelik,Anares,Sendaya,Sendaya VIII,Construction Blocks,Poor,12.60
+Derelik,Anares,Sendaya,Sendaya IX,Dark Compound,Medium,18.94
+Derelik,Anares,Sendaya,Sendaya IX,Industrial Fibers,Poor,3.41
+Derelik,Anares,Sendaya,Sendaya IX,Silicate Glass,Medium,10.61
+Derelik,Anares,Nazhgete,Nazhgete I,Precious Alloy,Poor,11.27
+Derelik,Anares,Nazhgete,Nazhgete I,Industrial Fibers,Poor,3.15
+Derelik,Anares,Nazhgete,Nazhgete I,Oxygen Isotopes,Medium,2.66
+Derelik,Anares,Nazhgete,Nazhgete II,Industrial Fibers,Poor,3.64
+Derelik,Anares,Nazhgete,Nazhgete II,Silicate Glass,Medium,10.40
+Derelik,Anares,Nazhgete,Nazhgete II,Oxygen Isotopes,Poor,1.83
+Derelik,Anares,Nazhgete,Nazhgete III,Condensed Alloy,Perfect,27.64
+Derelik,Anares,Nazhgete,Nazhgete III,Fiber Composite,Rich,22.10
+Derelik,Anares,Nazhgete,Nazhgete III,Reactive Gas,Medium,16.32
+Derelik,Anares,Nazhgete,Nazhgete III,Industrial Fibers,Rich,6.08
+Derelik,Anares,Nazhgete,Nazhgete IV,Toxic Metals,Poor,3.73
+Derelik,Anares,Nazhgete,Nazhgete IV,Construction Blocks,Rich,22.49
+Derelik,Anares,Nazhgete,Nazhgete IV,Nanites,Rich,6.73
+Derelik,Anares,Nazhgete,Nazhgete V,Glossy Compound,Medium,21.28
+Derelik,Anares,Nazhgete,Nazhgete V,Noble Gas,Rich,26.74
+Derelik,Anares,Nazhgete,Nazhgete V,Base Metals,Perfect,7.16
+Derelik,Anares,Nazhgete,Nazhgete V,Coolant,Rich,15.14
+Derelik,Anares,Nazhgete,Nazhgete VI,Condensed Alloy,Perfect,29.39
+Derelik,Anares,Nazhgete,Nazhgete VI,Fiber Composite,Perfect,28.85
+Derelik,Anares,Nazhgete,Nazhgete VI,Opulent Compound,Rich,23.75
+Derelik,Anares,Nazhgete,Nazhgete VI,Heavy Water,Medium,196.18
+Derelik,Anares,Nazhgete,Nazhgete VII,Lustering Alloy,Rich,25.89
+Derelik,Anares,Nazhgete,Nazhgete VII,Noble Gas,Poor,15.64
+Derelik,Anares,Nazhgete,Nazhgete VII,Polyaramids,Rich,17.73
+Derelik,Anares,Nazhgete,Nazhgete VII,Coolant,Medium,13.48
+Derelik,Anares,Nazhgete,Nazhgete VIII,Sheen Compound,Rich,21.84
+Derelik,Anares,Nazhgete,Nazhgete VIII,Noble Gas,Rich,27.00
+Derelik,Anares,Nazhgete,Nazhgete VIII,Base Metals,Medium,5.57
+Derelik,Anares,Nazhgete,Nazhgete VIII,Ionic Solutions,Medium,8.29
+Derelik,Anares,Nazhgete,Nazhgete IX,Noble Gas,Rich,26.59
+Derelik,Anares,Nazhgete,Nazhgete IX,Reactive Metals,Perfect,7.23
+Derelik,Anares,Nazhgete,Nazhgete IX,Polyaramids,Rich,15.57
+Derelik,Anares,Nazhgete,Nazhgete IX,Ionic Solutions,Medium,8.08
+Derelik,Anares,Nazhgete,Nazhgete X,Motley Compound,Medium,19.16
+Derelik,Anares,Nazhgete,Nazhgete X,Coolant,Rich,15.04
+Derelik,Anares,Nazhgete,Nazhgete X,Suspended Plasma,Poor,48.65
+Derelik,Mamouna,Futzchag,Futzchag I,Industrial Fibers,Poor,3.58
+Derelik,Mamouna,Futzchag,Futzchag I,Construction Blocks,Poor,11.86
+Derelik,Mamouna,Futzchag,Futzchag I,Silicate Glass,Medium,9.26
+Derelik,Mamouna,Futzchag,Futzchag II,Lustering Alloy,Medium,17.99
+Derelik,Mamouna,Futzchag,Futzchag II,Industrial Fibers,Poor,4.04
+Derelik,Mamouna,Futzchag,Futzchag II,Oxygen Isotopes,Medium,3.29
+Derelik,Mamouna,Futzchag,Futzchag III,Lucent Compound,Poor,17.16
+Derelik,Mamouna,Futzchag,Futzchag III,Reactive Metals,Medium,5.12
+Derelik,Mamouna,Futzchag,Futzchag III,Construction Blocks,Rich,29.55
+Derelik,Mamouna,Futzchag,Futzchag IV,Noble Gas,Medium,22.52
+Derelik,Mamouna,Futzchag,Futzchag IV,Noble Metals,Medium,19.21
+Derelik,Mamouna,Futzchag,Futzchag V,Sheen Compound,Rich,27.49
+Derelik,Mamouna,Futzchag,Futzchag V,Fiber Composite,Medium,18.64
+Derelik,Mamouna,Futzchag,Futzchag V,Noble Gas,Medium,18.68
+Derelik,Mamouna,Futzchag,Futzchag V,Reactive Metals,Medium,5.32
+Derelik,Mamouna,Futzchag,Futzchag VI,Glossy Compound,Rich,26.52
+Derelik,Mamouna,Futzchag,Futzchag VI,Noble Gas,Medium,19.74
+Derelik,Mamouna,Futzchag,Futzchag VII,Fiber Composite,Perfect,32.53
+Derelik,Mamouna,Futzchag,Futzchag VII,Base Metals,Medium,6.17
+Derelik,Mamouna,Futzchag,Futzchag VII,Industrial Fibers,Medium,6.32
+Derelik,Mamouna,Futzchag,Futzchag VII,Smartfab Units,Perfect,24.02
+Derelik,Mamouna,Futzchag,Futzchag VIII,Glossy Compound,Rich,24.78
+Derelik,Mamouna,Futzchag,Futzchag VIII,Reactive Gas,Medium,19.51
+Derelik,Mamouna,Futzchag,Futzchag VIII,Noble Gas,Rich,24.66
+Derelik,Mamouna,Futzchag,Futzchag VIII,Coolant,Rich,19.84
+Derelik,Mamouna,Futzchag,Futzchag IX,Lustering Alloy,Poor,17.88
+Derelik,Mamouna,Futzchag,Futzchag IX,Reactive Gas,Poor,16.04
+Derelik,Mamouna,Futzchag,Futzchag IX,Noble Gas,Perfect,31.35
+Derelik,Mamouna,Futzchag,Futzchag IX,Polyaramids,Rich,16.29
+Derelik,Mamouna,Futzchag,Futzchag X,Noble Gas,Rich,29.26
+Derelik,Mamouna,Futzchag,Futzchag X,Base Metals,Rich,7.19
+Derelik,Mamouna,Futzchag,Futzchag X,Reactive Metals,Medium,5.88
+Derelik,Mamouna,Futzchag,Futzchag X,Ionic Solutions,Rich,12.02
+Derelik,Mamouna,Futzchag,Futzchag XI,Lucent Compound,Rich,26.18
+Derelik,Mamouna,Futzchag,Futzchag XI,Construction Blocks,Rich,26.62
+Derelik,Mamouna,Futzchag,Futzchag XI,Nanites,Rich,6.38
+Derelik,Mamouna,Kazna,Kazna I,Toxic Metals,Medium,5.40
+Derelik,Mamouna,Kazna,Kazna I,Construction Blocks,Rich,26.26
+Derelik,Mamouna,Kazna,Kazna I,Oxygen Isotopes,Rich,4.27
+Derelik,Mamouna,Kazna,Kazna II,Gleaming Alloy,Medium,22.57
+Derelik,Mamouna,Kazna,Kazna II,Noble Gas,Medium,17.14
+Derelik,Mamouna,Kazna,Kazna III,Lustering Alloy,Poor,16.22
+Derelik,Mamouna,Kazna,Kazna III,Glossy Compound,Rich,23.53
+Derelik,Mamouna,Kazna,Kazna III,Reactive Gas,Medium,20.72
+Derelik,Mamouna,Kazna,Kazna III,Noble Gas,Poor,16.63
+Derelik,Mamouna,Kazna,Kazna IV,Condensed Alloy,Medium,21.73
+Derelik,Mamouna,Kazna,Kazna IV,Noble Metals,Medium,20.25
+Derelik,Mamouna,Kazna,Kazna IV,Coolant,Rich,17.81
+Derelik,Mamouna,Kazna,Kazna IV,Liquid Ozone,Rich,29.20
+Derelik,Mamouna,Kazna,Kazna V,Lustering Alloy,Rich,26.48
+Derelik,Mamouna,Kazna,Kazna V,Sheen Compound,Medium,19.73
+Derelik,Mamouna,Kazna,Kazna V,Noble Gas,Rich,25.67
+Derelik,Mamouna,Kazna,Kazna V,Reactive Metals,Poor,4.07
+Derelik,Mamouna,Kazna,Kazna VI,Glossy Compound,Rich,27.27
+Derelik,Mamouna,Kazna,Kazna VI,Noble Gas,Rich,26.91
+Derelik,Mamouna,Kazna,Kazna VI,Base Metals,Medium,5.62
+Derelik,Mamouna,Kazna,Kazna VI,Coolant,Rich,17.56
+Derelik,Mamouna,Kazna,Kazna VII,Supertensile Plastics,Medium,13.08
+Derelik,Mamouna,Kazna,Kazna VII,Coolant,Medium,13.09
+Derelik,Mamouna,Kazna,Kazna VII,Condensates,Poor,9.34
+Derelik,Mamouna,Podion,Podion I,Gleaming Alloy,Medium,22.40
+Derelik,Mamouna,Podion,Podion I,Noble Gas,Poor,17.77
+Derelik,Mamouna,Podion,Podion II,Industrial Fibers,Medium,6.13
+Derelik,Mamouna,Podion,Podion II,Supertensile Plastics,Medium,15.40
+Derelik,Mamouna,Podion,Podion II,Oxygen Isotopes,Poor,2.16
+Derelik,Mamouna,Podion,Podion III,Condensed Alloy,Rich,27.72
+Derelik,Mamouna,Podion,Podion III,Polyaramids,Medium,14.01
+Derelik,Mamouna,Podion,Podion III,Coolant,Rich,20.03
+Derelik,Mamouna,Podion,Podion III,Ionic Solutions,Rich,11.96
+Derelik,Mamouna,Podion,Podion IV,Precious Alloy,Medium,23.01
+Derelik,Mamouna,Podion,Podion IV,Dark Compound,Medium,19.36
+Derelik,Mamouna,Podion,Podion IV,Industrial Fibers,Poor,3.64
+Derelik,Mamouna,Podion,Podion V,Sheen Compound,Medium,20.58
+Derelik,Mamouna,Podion,Podion V,Glossy Compound,Rich,24.28
+Derelik,Mamouna,Podion,Podion V,Noble Gas,Medium,22.25
+Derelik,Mamouna,Podion,Podion V,Ionic Solutions,Rich,11.24
+Derelik,Mamouna,Podion,Podion VI,Lustering Alloy,Medium,19.95
+Derelik,Mamouna,Podion,Podion VI,Fiber Composite,Rich,25.55
+Derelik,Mamouna,Podion,Podion VI,Noble Gas,Medium,18.07
+Derelik,Mamouna,Podion,Podion VI,Polyaramids,Rich,16.71
+Derelik,Mamouna,Podion,Podion VII,Noble Gas,Medium,20.14
+Derelik,Mamouna,Podion,Podion VII,Base Metals,Medium,5.63
+Derelik,Mamouna,Podion,Podion VII,Polyaramids,Perfect,20.36
+Derelik,Mamouna,Podion,Podion VII,Ionic Solutions,Medium,8.43
+Derelik,Mamouna,Podion,Podion VIII,Sheen Compound,Medium,18.92
+Derelik,Mamouna,Podion,Podion VIII,Glossy Compound,Rich,26.24
+Derelik,Mamouna,Podion,Podion VIII,Noble Gas,Rich,26.01
+Derelik,Mamouna,Podion,Podion VIII,Ionic Solutions,Medium,9.40
+Derelik,Mamouna,Podion,Podion IX,Lustering Alloy,Poor,15.90
+Derelik,Mamouna,Podion,Podion IX,Industrial Fibers,Poor,3.78
+Derelik,Mamouna,Podion,Podion IX,Oxygen Isotopes,Medium,3.19
+Derelik,Mamouna,Lilmad,Lilmad I,Toxic Metals,Rich,7.13
+Derelik,Mamouna,Lilmad,Lilmad I,Supertensile Plastics,Medium,12.84
+Derelik,Mamouna,Lilmad,Lilmad I,Construction Blocks,Rich,26.49
+Derelik,Mamouna,Lilmad,Lilmad II,Heavy Metals,Medium,19.53
+Derelik,Mamouna,Lilmad,Lilmad II,Reactive Metals,Rich,6.82
+Derelik,Mamouna,Lilmad,Lilmad II,Condensates,Rich,17.92
+Derelik,Mamouna,Lilmad,Lilmad II,Nanites,Rich,7.70
+Derelik,Mamouna,Lilmad,Lilmad III,Gleaming Alloy,Perfect,31.46
+Derelik,Mamouna,Lilmad,Lilmad III,Noble Gas,Poor,16.11
+Derelik,Mamouna,Lilmad,Lilmad IV,Lustering Alloy,Medium,18.89
+Derelik,Mamouna,Lilmad,Lilmad IV,Reactive Gas,Poor,16.64
+Derelik,Mamouna,Lilmad,Lilmad IV,Noble Gas,Poor,17.90
+Derelik,Mamouna,Lilmad,Lilmad IV,Polyaramids,Rich,16.90
+Derelik,Mamouna,Lilmad,Lilmad V,Sheen Compound,Medium,22.72
+Derelik,Mamouna,Lilmad,Lilmad V,Noble Gas,Rich,24.81
+Derelik,Mamouna,Lilmad,Lilmad V,Base Metals,Poor,4.44
+Derelik,Mamouna,Lilmad,Lilmad V,Ionic Solutions,Medium,7.84
+Derelik,Mamouna,Lilmad,Lilmad VI,Condensed Alloy,Rich,28.86
+Derelik,Mamouna,Lilmad,Lilmad VI,Fiber Composite,Perfect,31.39
+Derelik,Mamouna,Lilmad,Lilmad VI,Opulent Compound,Medium,22.55
+Derelik,Mamouna,Lilmad,Lilmad VI,Reactive Gas,Perfect,32.41
+Derelik,Mamouna,Lilmad,Lilmad VII,Lustering Alloy,Poor,16.80
+Derelik,Mamouna,Lilmad,Lilmad VII,Glossy Compound,Medium,22.67
+Derelik,Mamouna,Lilmad,Lilmad VII,Noble Gas,Medium,20.16
+Derelik,Mamouna,Lilmad,Lilmad VII,Polyaramids,Poor,11.78
+Derelik,Mamouna,Lilmad,Lilmad VIII,Base Metals,Rich,7.12
+Derelik,Mamouna,Lilmad,Lilmad VIII,Coolant,Poor,11.16
+Derelik,Mamouna,Lilmad,Lilmad VIII,Suspended Plasma,Medium,78.73
+Derelik,Mamouna,Kuharah,Kuharah I,Toxic Metals,Poor,3.46
+Derelik,Mamouna,Kuharah,Kuharah I,Industrial Fibers,Poor,4.41
+Derelik,Mamouna,Kuharah,Kuharah I,Plasmoids,Medium,1.27
+Derelik,Mamouna,Kuharah,Kuharah II,Gleaming Alloy,Medium,21.57
+Derelik,Mamouna,Kuharah,Kuharah II,Supertensile Plastics,Perfect,20.15
+Derelik,Mamouna,Kuharah,Kuharah II,Construction Blocks,Perfect,30.25
+Derelik,Mamouna,Kuharah,Kuharah III,Lucent Compound,Rich,27.57
+Derelik,Mamouna,Kuharah,Kuharah III,Condensates,Perfect,20.60
+Derelik,Mamouna,Kuharah,Kuharah III,Nanites,Poor,4.55
+Derelik,Mamouna,Kuharah,Kuharah III,Plasmoids,Medium,1.33
+Derelik,Mamouna,Kuharah,Kuharah IV,Sheen Compound,Medium,19.82
+Derelik,Mamouna,Kuharah,Kuharah IV,Fiber Composite,Medium,23.62
+Derelik,Mamouna,Kuharah,Kuharah IV,Noble Gas,Rich,29.47
+Derelik,Mamouna,Kuharah,Kuharah IV,Ionic Solutions,Rich,11.61
+Derelik,Mamouna,Kuharah,Kuharah V,Lustering Alloy,Perfect,30.63
+Derelik,Mamouna,Kuharah,Kuharah V,Noble Gas,Poor,17.08
+Derelik,Mamouna,Kuharah,Kuharah V,Base Metals,Medium,4.97
+Derelik,Mamouna,Kuharah,Kuharah V,Coolant,Medium,14.67
+Derelik,Mamouna,Kuharah,Kuharah VI,Fiber Composite,Medium,21.01
+Derelik,Mamouna,Kuharah,Kuharah VI,Noble Gas,Rich,24.98
+Derelik,Mamouna,Kuharah,Kuharah VI,Base Metals,Medium,5.83
+Derelik,Mamouna,Kuharah,Kuharah VI,Polyaramids,Rich,16.66
+Derelik,Mamouna,Kuharah,Kuharah VII,Crystal Compound,Rich,24.32
+Derelik,Mamouna,Kuharah,Kuharah VII,Noble Metals,Medium,20.06
+Derelik,Mamouna,Kuharah,Kuharah VII,Coolant,Rich,19.38
+Derelik,Mamouna,Kuharah,Kuharah VII,Heavy Water,Rich,251.94
+Derelik,Mamouna,Kuharah,Kuharah VIII,Supertensile Plastics,Poor,11.21
+Derelik,Mamouna,Kuharah,Kuharah VIII,Coolant,Medium,14.21
+Derelik,Mamouna,Kuharah,Kuharah VIII,Liquid Ozone,Poor,21.47
+Derelik,Mamouna,Jayneleb,Jayneleb I,Noble Gas,Rich,28.63
+Derelik,Mamouna,Jayneleb,Jayneleb I,Smartfab Units,Medium,13.59
+Derelik,Mamouna,Jayneleb,Jayneleb II,Precious Alloy,Poor,11.82
+Derelik,Mamouna,Jayneleb,Jayneleb II,Dark Compound,Poor,11.82
+Derelik,Mamouna,Jayneleb,Jayneleb II,Industrial Fibers,Medium,5.67
+Derelik,Mamouna,Jayneleb,Jayneleb III,Sheen Compound,Rich,24.23
+Derelik,Mamouna,Jayneleb,Jayneleb III,Reactive Gas,Poor,15.62
+Derelik,Mamouna,Jayneleb,Jayneleb III,Noble Gas,Poor,16.70
+Derelik,Mamouna,Jayneleb,Jayneleb III,Coolant,Medium,14.12
+Derelik,Mamouna,Jayneleb,Jayneleb IV,Lustering Alloy,Perfect,30.61
+Derelik,Mamouna,Jayneleb,Jayneleb IV,Fiber Composite,Medium,19.72
+Derelik,Mamouna,Jayneleb,Jayneleb IV,Noble Gas,Medium,22.61
+Derelik,Mamouna,Jayneleb,Jayneleb IV,Base Metals,Perfect,7.99
+Derelik,Mamouna,Jayneleb,Jayneleb V,Noble Gas,Poor,16.49
+Derelik,Mamouna,Jayneleb,Jayneleb V,Base Metals,Rich,7.58
+Derelik,Mamouna,Jayneleb,Jayneleb V,Coolant,Rich,17.61
+Derelik,Mamouna,Jayneleb,Jayneleb V,Ionic Solutions,Rich,10.18
+Derelik,Mamouna,Jayneleb,Jayneleb VI,Noble Gas,Perfect,31.31
+Derelik,Mamouna,Jayneleb,Jayneleb VI,Base Metals,Medium,5.08
+Derelik,Mamouna,Jayneleb,Jayneleb VI,Polyaramids,Medium,16.02
+Derelik,Mamouna,Jayneleb,Jayneleb VI,Ionic Solutions,Poor,6.47
+Derelik,Mamouna,Jayneleb,Jayneleb VII,Noble Metals,Medium,22.04
+Derelik,Mamouna,Jayneleb,Jayneleb VII,Toxic Metals,Rich,7.44
+Derelik,Mamouna,Jayneleb,Jayneleb VII,Coolant,Medium,14.35
+Derelik,Mamouna,Jayneleb,Jayneleb VII,Silicate Glass,Medium,10.63
+Derelik,Mamouna,Jayneleb,Jayneleb VIII,Crystal Compound,Rich,28.04
+Derelik,Mamouna,Jayneleb,Jayneleb VIII,Construction Blocks,Poor,16.45
+Derelik,Mamouna,Jayneleb,Jayneleb VIII,Oxygen Isotopes,Medium,3.26
+Derelik,Mamouna,Jayneleb,Jayneleb IX,Dark Compound,Poor,12.16
+Derelik,Mamouna,Jayneleb,Jayneleb IX,Industrial Fibers,Medium,5.48
+Derelik,Mamouna,Jayneleb,Jayneleb IX,Construction Blocks,Poor,14.48
+Derelik,Kalangin,Fovihi,Fovihi I,Lustering Alloy,Medium,13.49
+Derelik,Kalangin,Fovihi,Fovihi I,Base Metals,Poor,2.92
+Derelik,Kalangin,Fovihi,Fovihi II,Supertensile Plastics,Medium,9.98
+Derelik,Kalangin,Fovihi,Fovihi II,Suspended Plasma,Perfect,70.42
+Derelik,Kalangin,Fovihi,Fovihi III,Condensates,Rich,10.70
+Derelik,Kalangin,Fovihi,Fovihi III,Suspended Plasma,Medium,45.23
+Derelik,Kalangin,Fovihi,Fovihi III,Ionic Solutions,Rich,6.59
+Derelik,Kalangin,Fovihi,Fovihi IV,Lustering Alloy,Rich,15.56
+Derelik,Kalangin,Fovihi,Fovihi IV,Fiber Composite,Medium,14.00
+Derelik,Kalangin,Fovihi,Fovihi IV,Base Metals,Medium,3.30
+Derelik,Kalangin,Fovihi,Fovihi V,Lustering Alloy,Medium,14.59
+Derelik,Kalangin,Fovihi,Fovihi V,Reactive Gas,Perfect,19.33
+Derelik,Kalangin,Fovihi,Fovihi V,Base Metals,Medium,3.08
+Derelik,Kalangin,Fovihi,Fovihi VI,Lustering Alloy,Poor,10.62
+Derelik,Kalangin,Fovihi,Fovihi VI,Noble Gas,Rich,17.42
+Derelik,Kalangin,Fovihi,Fovihi VI,Base Metals,Rich,4.28
+Derelik,Kalangin,Fovihi,Fovihi VII,Lustering Alloy,Medium,13.86
+Derelik,Kalangin,Fovihi,Fovihi VII,Base Metals,Medium,3.85
+Derelik,Kalangin,Fovihi,Fovihi VII,Reactive Metals,Rich,4.85
+Derelik,Kalangin,Kiereend,Kiereend I,Lustering Alloy,Medium,11.41
+Derelik,Kalangin,Kiereend,Kiereend I,Base Metals,Medium,3.50
+Derelik,Kalangin,Kiereend,Kiereend II,Lustering Alloy,Poor,10.15
+Derelik,Kalangin,Kiereend,Kiereend II,Base Metals,Medium,3.55
+Derelik,Kalangin,Kiereend,Kiereend III,Sheen Compound,Medium,12.36
+Derelik,Kalangin,Kiereend,Kiereend III,Dark Compound,Perfect,19.69
+Derelik,Kalangin,Kiereend,Kiereend III,Suspended Plasma,Perfect,72.84
+Derelik,Kalangin,Kiereend,Kiereend IV,Lustering Alloy,Medium,11.98
+Derelik,Kalangin,Kiereend,Kiereend IV,Base Metals,Poor,2.49
+Derelik,Kalangin,Kiereend,Kiereend V,Base Metals,Medium,3.23
+Derelik,Kalangin,Kiereend,Kiereend V,Smartfab Units,Medium,8.81
+Derelik,Kalangin,Kiereend,Kiereend V,Heavy Water,Perfect,228.24
+Derelik,Kalangin,Kiereend,Kiereend VI,Toxic Metals,Rich,4.34
+Derelik,Kalangin,Kiereend,Kiereend VI,Suspended Plasma,Rich,57.28
+Derelik,Kalangin,Kiereend,Kiereend VII,Lustering Alloy,Medium,13.09
+Derelik,Kalangin,Kiereend,Kiereend VII,Glossy Compound,Poor,11.20
+Derelik,Kalangin,Kiereend,Kiereend VII,Base Metals,Medium,3.21
+Derelik,Kalangin,Kiereend,Kiereend VIII,Lustering Alloy,Rich,16.46
+Derelik,Kalangin,Kiereend,Kiereend VIII,Base Metals,Rich,4.94
+Derelik,Kalangin,Kiereend,Kiereend VIII,Polyaramids,Perfect,13.09
+Derelik,Kalangin,Rashy,Rashy I,Lustering Alloy,Medium,12.02
+Derelik,Kalangin,Rashy,Rashy I,Base Metals,Medium,3.34
+Derelik,Kalangin,Rashy,Rashy II,Condensed Alloy,Medium,12.85
+Derelik,Kalangin,Rashy,Rashy II,Noble Metals,Rich,15.19
+Derelik,Kalangin,Rashy,Rashy II,Heavy Water,Rich,163.20
+Derelik,Kalangin,Rashy,Rashy III,Lustering Alloy,Poor,10.37
+Derelik,Kalangin,Rashy,Rashy III,Reactive Gas,Perfect,19.54
+Derelik,Kalangin,Rashy,Rashy III,Base Metals,Rich,4.76
+Derelik,Kalangin,Rashy,Rashy IV,Lustering Alloy,Rich,18.98
+Derelik,Kalangin,Rashy,Rashy IV,Reactive Gas,Rich,18.98
+Derelik,Kalangin,Rashy,Rashy IV,Base Metals,Medium,3.58
+Derelik,Kalangin,Rashy,Rashy V,Lustering Alloy,Rich,18.54
+Derelik,Kalangin,Rashy,Rashy V,Base Metals,Medium,3.60
+Derelik,Kalangin,Rashy,Rashy V,Reactive Metals,Medium,3.20
+Derelik,Kalangin,Rashy,Rashy VI,Condensates,Medium,9.22
+Derelik,Kalangin,Rashy,Rashy VI,Suspended Plasma,Rich,58.67
+Derelik,Kalangin,Rashy,Rashy VI,Ionic Solutions,Perfect,8.32
+Derelik,Kalangin,Ordize,Ordize I,Motley Compound,Rich,21.34
+Derelik,Kalangin,Ordize,Ordize I,Oxygen Isotopes,Perfect,3.56
+Derelik,Kalangin,Ordize,Ordize II,Fiber Composite,Medium,17.01
+Derelik,Kalangin,Ordize,Ordize II,Heavy Water,Perfect,234.08
+Derelik,Kalangin,Ordize,Ordize II,Liquid Ozone,Perfect,31.38
+Derelik,Kalangin,Ordize,Ordize III,Lustering Alloy,Medium,13.52
+Derelik,Kalangin,Ordize,Ordize III,Base Metals,Medium,4.27
+Derelik,Kalangin,Ordize,Ordize III,Polyaramids,Poor,8.31
+Derelik,Kalangin,Ordize,Ordize IV,Lustering Alloy,Medium,14.85
+Derelik,Kalangin,Ordize,Ordize IV,Fiber Composite,Poor,12.39
+Derelik,Kalangin,Ordize,Ordize IV,Base Metals,Poor,3.10
+Derelik,Kalangin,Ordize,Ordize V,Lustering Alloy,Rich,17.82
+Derelik,Kalangin,Ordize,Ordize V,Base Metals,Medium,4.23
+Derelik,Kalangin,Ordize,Ordize VI,Opulent Compound,Perfect,22.62
+Derelik,Kalangin,Ordize,Ordize VI,Heavy Water,Rich,180.46
+Derelik,Kalangin,Ordize,Ordize VI,Liquid Ozone,Medium,21.88
+Derelik,Kalangin,Ordize,Ordize VII,Lustering Alloy,Poor,10.33
+Derelik,Kalangin,Ordize,Ordize VII,Base Metals,Medium,4.06
+Derelik,Kalangin,Psasa,Psasa I,Lustering Alloy,Poor,11.09
+Derelik,Kalangin,Psasa,Psasa I,Base Metals,Medium,3.77
+Derelik,Kalangin,Psasa,Psasa I,Coolant,Rich,12.26
+Derelik,Kalangin,Psasa,Psasa II,Lustering Alloy,Rich,19.16
+Derelik,Kalangin,Psasa,Psasa II,Sheen Compound,Medium,15.94
+Derelik,Kalangin,Psasa,Psasa II,Base Metals,Rich,5.16
+Derelik,Kalangin,Psasa,Psasa III,Lustering Alloy,Medium,13.26
+Derelik,Kalangin,Psasa,Psasa III,Base Metals,Rich,4.77
+Derelik,Kalangin,Eshtah,Eshtah I,Motley Compound,Poor,11.74
+Derelik,Kalangin,Eshtah,Eshtah I,Smartfab Units,Medium,9.88
+Derelik,Kalangin,Eshtah,Eshtah II,Opulent Compound,Medium,16.45
+Derelik,Kalangin,Eshtah,Eshtah II,Reactive Gas,Poor,12.15
+Derelik,Kalangin,Eshtah,Eshtah II,Heavy Water,Rich,166.01
+Derelik,Kalangin,Eshtah,Eshtah III,Crystal Compound,Perfect,20.76
+Derelik,Kalangin,Eshtah,Eshtah III,Suspended Plasma,Poor,43.66
+Derelik,Kalangin,Eshtah,Eshtah IV,Lustering Alloy,Poor,8.76
+Derelik,Kalangin,Eshtah,Eshtah IV,Base Metals,Medium,3.76
+Derelik,Kalangin,Eshtah,Eshtah V,Lustering Alloy,Medium,15.33
+Derelik,Kalangin,Eshtah,Eshtah V,Base Metals,Poor,3.20
+Derelik,Kalangin,Eshtah,Eshtah V,Ionic Solutions,Medium,6.49
+Derelik,Kalangin,Eshtah,Eshtah VI,Noble Metals,Medium,13.62
+Derelik,Kalangin,Eshtah,Eshtah VI,Industrial Fibers,Medium,3.26
+Derelik,Kalangin,Eshtah,Eshtah VI,Heavy Water,Perfect,246.74
+Derelik,Kalangin,Eshtah,Eshtah VII,Lustering Alloy,Rich,17.88
+Derelik,Kalangin,Eshtah,Eshtah VII,Reactive Gas,Rich,17.00
+Derelik,Kalangin,Eshtah,Eshtah VII,Base Metals,Rich,5.36
+Derelik,Kalangin,Eshtah,Eshtah VIII,Lustering Alloy,Rich,17.43
+Derelik,Kalangin,Eshtah,Eshtah VIII,Noble Gas,Rich,18.08
+Derelik,Kalangin,Eshtah,Eshtah VIII,Base Metals,Rich,5.19
+Derelik,Kalangin,Eshtah,Eshtah IX,Lustering Alloy,Poor,11.32
+Derelik,Kalangin,Eshtah,Eshtah IX,Sheen Compound,Medium,14.39
+Derelik,Kalangin,Eshtah,Eshtah IX,Base Metals,Rich,4.45
+Derelik,Kalangin,Eshtah,Eshtah X,Crystal Compound,Rich,17.80
+Derelik,Kalangin,Eshtah,Eshtah X,Suspended Plasma,Medium,46.61
+Derelik,Kalangin,Lachailes,Lachailes I,Lustering Alloy,Poor,12.26
+Derelik,Kalangin,Lachailes,Lachailes I,Base Metals,Poor,3.19
+Derelik,Kalangin,Lachailes,Lachailes II,Lustering Alloy,Poor,12.09
+Derelik,Kalangin,Lachailes,Lachailes II,Base Metals,Poor,3.52
+Derelik,Kalangin,Lachailes,Lachailes III,Lustering Alloy,Poor,12.72
+Derelik,Kalangin,Lachailes,Lachailes III,Base Metals,Poor,3.21
+Derelik,Kalangin,Lachailes,Lachailes IV,Noble Metals,Perfect,24.77
+Derelik,Kalangin,Lachailes,Lachailes IV,Heavy Water,Rich,205.05
+Derelik,Kalangin,Lachailes,Lachailes IV,Liquid Ozone,Rich,26.10
+Derelik,Kalangin,Lachailes,Lachailes V,Lustering Alloy,Medium,16.00
+Derelik,Kalangin,Lachailes,Lachailes V,Base Metals,Poor,3.48
+Derelik,Kalangin,Lachailes,Lachailes V,Ionic Solutions,Rich,7.78
+Derelik,Kalangin,Lachailes,Lachailes VI,Lustering Alloy,Perfect,24.52
+Derelik,Kalangin,Lachailes,Lachailes VI,Glossy Compound,Poor,13.95
+Derelik,Kalangin,Lachailes,Lachailes VI,Base Metals,Medium,4.82
+Derelik,Kalangin,Kasrasi,Kasrasi I,Lustering Alloy,Poor,9.59
+Derelik,Kalangin,Kasrasi,Kasrasi I,Base Metals,Medium,4.07
+Derelik,Kalangin,Kasrasi,Kasrasi II,Motley Compound,Perfect,24.00
+Derelik,Kalangin,Kasrasi,Kasrasi II,Construction Blocks,Rich,20.77
+Derelik,Kalangin,Kasrasi,Kasrasi III,Lustering Alloy,Medium,16.45
+Derelik,Kalangin,Kasrasi,Kasrasi III,Base Metals,Medium,4.47
+Derelik,Kalangin,Kasrasi,Kasrasi IV,Lustering Alloy,Poor,13.44
+Derelik,Kalangin,Kasrasi,Kasrasi IV,Base Metals,Poor,2.59
+Derelik,Kalangin,Kasrasi,Kasrasi V,Lustering Alloy,Poor,10.39
+Derelik,Kalangin,Kasrasi,Kasrasi V,Base Metals,Poor,3.56
+Derelik,Kalangin,Kasrasi,Kasrasi VI,Lustering Alloy,Medium,17.45
+Derelik,Kalangin,Kasrasi,Kasrasi VI,Base Metals,Poor,3.30
+Derelik,Kalangin,Kasrasi,Kasrasi VI,Ionic Solutions,Rich,7.90
+Derelik,Kalangin,Kasrasi,Kasrasi VII,Reactive Gas,Medium,17.79
+Derelik,Kalangin,Kasrasi,Kasrasi VII,Suspended Plasma,Medium,65.88
+Derelik,Kalangin,Kasrasi,Kasrasi VIII,Lustering Alloy,Medium,15.69
+Derelik,Kalangin,Kasrasi,Kasrasi VIII,Base Metals,Medium,4.06
+Derelik,Kalangin,Kasrasi,Kasrasi VIII,Reactive Metals,Rich,5.25
+Derelik,Kalangin,Kasrasi,Kasrasi IX,Lustering Alloy,Poor,13.79
+Derelik,Kalangin,Kasrasi,Kasrasi IX,Glossy Compound,Perfect,23.85
+Derelik,Kalangin,Kasrasi,Kasrasi IX,Base Metals,Medium,4.15
+Derelik,Kalangin,Kasrasi,Kasrasi X,Lustering Alloy,Rich,20.54
+Derelik,Kalangin,Kasrasi,Kasrasi X,Reactive Gas,Rich,21.48
+Derelik,Kalangin,Kasrasi,Kasrasi X,Base Metals,Rich,5.98
+Derelik,Hevaka,Mohas,Mohas I,Gleaming Alloy,Rich,20.71
+Derelik,Hevaka,Mohas,Mohas I,Motley Compound,Medium,15.18
+Derelik,Hevaka,Mohas,Mohas II,Motley Compound,Rich,18.73
+Derelik,Hevaka,Mohas,Mohas II,Noble Gas,Medium,13.78
+Derelik,Hevaka,Mohas,Mohas III,Fiber Composite,Rich,20.62
+Derelik,Hevaka,Mohas,Mohas III,Base Metals,Medium,4.47
+Derelik,Hevaka,Mohas,Mohas III,Heavy Water,Rich,189.56
+Derelik,Hevaka,Mohas,Mohas IV,Motley Compound,Rich,19.31
+Derelik,Hevaka,Mohas,Mohas IV,Glossy Compound,Poor,11.35
+Derelik,Hevaka,Mohas,Mohas V,Lustering Alloy,Poor,12.21
+Derelik,Hevaka,Mohas,Mohas V,Base Metals,Poor,2.39
+Derelik,Hevaka,Mohas,Mohas VI,Lustering Alloy,Medium,14.38
+Derelik,Hevaka,Mohas,Mohas VI,Base Metals,Medium,3.55
+Derelik,Hevaka,Mohas,Mohas VII,Fiber Composite,Medium,16.24
+Derelik,Hevaka,Mohas,Mohas VII,Opulent Compound,Medium,16.79
+Derelik,Hevaka,Mohas,Mohas VII,Heavy Water,Rich,218.12
+Derelik,Hevaka,Mohas,Mohas VIII,Lustering Alloy,Rich,21.07
+Derelik,Hevaka,Mohas,Mohas VIII,Reactive Gas,Rich,18.24
+Derelik,Hevaka,Mohas,Mohas VIII,Base Metals,Perfect,5.87
+Derelik,Hevaka,Mohas,Mohas IX,Lustering Alloy,Medium,13.31
+Derelik,Hevaka,Mohas,Mohas IX,Sheen Compound,Medium,17.47
+Derelik,Hevaka,Mohas,Mohas IX,Base Metals,Rich,5.04
+Derelik,Hevaka,Hasiari,Hasiari I,Lustering Alloy,Poor,12.05
+Derelik,Hevaka,Hasiari,Hasiari I,Base Metals,Poor,2.26
+Derelik,Hevaka,Hasiari,Hasiari II,Motley Compound,Poor,11.15
+Derelik,Hevaka,Hasiari,Hasiari II,Noble Gas,Rich,18.84
+Derelik,Hevaka,Hasiari,Hasiari III,Lustering Alloy,Medium,13.49
+Derelik,Hevaka,Hasiari,Hasiari III,Base Metals,Medium,3.97
+Derelik,Hevaka,Hasiari,Hasiari IV,Lustering Alloy,Poor,10.49
+Derelik,Hevaka,Hasiari,Hasiari IV,Base Metals,Poor,3.20
+Derelik,Hevaka,Hasiari,Hasiari V,Reactive Gas,Rich,18.84
+Derelik,Hevaka,Hasiari,Hasiari V,Base Metals,Medium,3.77
+Derelik,Hevaka,Hasiari,Hasiari V,Heavy Water,Rich,166.27
+Derelik,Hevaka,Hasiari,Hasiari VI,Lustering Alloy,Poor,11.00
+Derelik,Hevaka,Hasiari,Hasiari VI,Base Metals,Medium,3.27
+Derelik,Hevaka,Hasiari,Hasiari VII,Lustering Alloy,Perfect,21.57
+Derelik,Hevaka,Hasiari,Hasiari VII,Reactive Gas,Medium,12.41
+Derelik,Hevaka,Hasiari,Hasiari VII,Base Metals,Poor,2.93
+Derelik,Hevaka,Hasiari,Hasiari VIII,Lustering Alloy,Medium,12.60
+Derelik,Hevaka,Hasiari,Hasiari VIII,Base Metals,Medium,3.40
+Derelik,Hevaka,Hasiari,Hasiari VIII,Reactive Metals,Medium,3.24
+Derelik,Hevaka,Hasiari,Hasiari IX,Lustering Alloy,Medium,12.65
+Derelik,Hevaka,Hasiari,Hasiari IX,Base Metals,Poor,2.87
+Derelik,Hevaka,Radima,Radima I,Lustering Alloy,Poor,11.65
+Derelik,Hevaka,Radima,Radima I,Base Metals,Poor,2.84
+Derelik,Hevaka,Radima,Radima II,Lustering Alloy,Medium,13.90
+Derelik,Hevaka,Radima,Radima II,Base Metals,Medium,4.04
+Derelik,Hevaka,Radima,Radima III,Lustering Alloy,Poor,12.23
+Derelik,Hevaka,Radima,Radima III,Base Metals,Poor,2.60
+Derelik,Hevaka,Radima,Radima IV,Lustering Alloy,Poor,11.87
+Derelik,Hevaka,Radima,Radima IV,Base Metals,Poor,2.86
+Derelik,Hevaka,Radima,Radima V,Motley Compound,Rich,18.29
+Derelik,Hevaka,Radima,Radima V,Heavy Metals,Medium,14.23
+Derelik,Hevaka,Radima,Radima VI,Lustering Alloy,Rich,20.53
+Derelik,Hevaka,Radima,Radima VI,Glossy Compound,Rich,20.23
+Derelik,Hevaka,Radima,Radima VI,Base Metals,Perfect,5.64
+Derelik,Hevaka,Radima,Radima VII,Lustering Alloy,Medium,14.59
+Derelik,Hevaka,Radima,Radima VII,Base Metals,Poor,2.14
+Derelik,Hevaka,Radima,Radima VIII,Lustering Alloy,Medium,12.40
+Derelik,Hevaka,Radima,Radima VIII,Base Metals,Poor,2.84
+Derelik,Hevaka,Radima,Radima IX,Lustering Alloy,Poor,11.47
+Derelik,Hevaka,Radima,Radima IX,Glossy Compound,Rich,18.39
+Derelik,Hevaka,Radima,Radima IX,Base Metals,Medium,3.79
+Derelik,Hevaka,Radima,Radima X,Lustering Alloy,Medium,15.51
+Derelik,Hevaka,Radima,Radima X,Glossy Compound,Medium,14.13
+Derelik,Hevaka,Radima,Radima X,Base Metals,Rich,5.42
+Derelik,Hevaka,Radima,Radima XI,Lustering Alloy,Medium,13.52
+Derelik,Hevaka,Radima,Radima XI,Glossy Compound,Medium,13.18
+Derelik,Hevaka,Radima,Radima XI,Base Metals,Medium,3.75
+Derelik,Hevaka,Radima,Radima XII,Lustering Alloy,Medium,14.87
+Derelik,Hevaka,Radima,Radima XII,Base Metals,Poor,3.07
+Derelik,Hevaka,Alkez,Alkez I,Motley Compound,Rich,20.33
+Derelik,Hevaka,Alkez,Alkez I,Construction Blocks,Rich,18.46
+Derelik,Hevaka,Alkez,Alkez II,Lustering Alloy,Medium,12.91
+Derelik,Hevaka,Alkez,Alkez II,Base Metals,Poor,2.20
+Derelik,Hevaka,Alkez,Alkez III,Lustering Alloy,Poor,10.58
+Derelik,Hevaka,Alkez,Alkez III,Base Metals,Poor,2.60
+Derelik,Hevaka,Alkez,Alkez IV,Lustering Alloy,Perfect,20.94
+Derelik,Hevaka,Alkez,Alkez IV,Base Metals,Medium,4.14
+Derelik,Hevaka,Alkez,Alkez IV,Polyaramids,Rich,12.10
+Derelik,Hevaka,Alkez,Alkez V,Suspended Plasma,Poor,43.99
+Derelik,Hevaka,Alkez,Alkez V,Oxygen Isotopes,Perfect,3.18
+Derelik,Hevaka,Alkez,Alkez VI,Lustering Alloy,Poor,10.13
+Derelik,Hevaka,Alkez,Alkez VI,Base Metals,Poor,2.14
+Derelik,Hevaka,Alkez,Alkez VII,Lustering Alloy,Medium,12.47
+Derelik,Hevaka,Alkez,Alkez VII,Glossy Compound,Rich,20.64
+Derelik,Hevaka,Alkez,Alkez VII,Base Metals,Medium,3.48
+Derelik,Hevaka,Alkez,Alkez VIII,Lustering Alloy,Medium,14.04
+Derelik,Hevaka,Alkez,Alkez VIII,Base Metals,Medium,3.92
+Derelik,Hevaka,Nimambal,Nimambal I,Lustering Alloy,Medium,18.06
+Derelik,Hevaka,Nimambal,Nimambal I,Base Metals,Medium,4.75
+Derelik,Hevaka,Nimambal,Nimambal II,Motley Compound,Rich,20.80
+Derelik,Hevaka,Nimambal,Nimambal II,Polyaramids,Medium,11.34
+Derelik,Hevaka,Nimambal,Nimambal III,Lustering Alloy,Poor,12.53
+Derelik,Hevaka,Nimambal,Nimambal III,Base Metals,Medium,4.49
+Derelik,Hevaka,Nimambal,Nimambal IV,Reactive Metals,Rich,5.61
+Derelik,Hevaka,Nimambal,Nimambal IV,Condensates,Medium,11.87
+Derelik,Hevaka,Nimambal,Nimambal IV,Suspended Plasma,Perfect,91.42
+Derelik,Hevaka,Nimambal,Nimambal V,Lustering Alloy,Poor,13.68
+Derelik,Hevaka,Nimambal,Nimambal V,Base Metals,Medium,4.70
+Derelik,Hevaka,Nimambal,Nimambal VI,Lustering Alloy,Poor,12.30
+Derelik,Hevaka,Nimambal,Nimambal VI,Noble Gas,Poor,13.88
+Derelik,Hevaka,Nimambal,Nimambal VI,Base Metals,Medium,4.89
+Derelik,Hevaka,Nimambal,Nimambal VII,Lustering Alloy,Rich,20.68
+Derelik,Hevaka,Nimambal,Nimambal VII,Base Metals,Medium,4.56
+Derelik,Hevaka,Nimambal,Nimambal VII,Ionic Solutions,Rich,8.57
+Derelik,Hevaka,Nimambal,Nimambal VIII,Lustering Alloy,Rich,20.34
+Derelik,Hevaka,Nimambal,Nimambal VIII,Reactive Gas,Rich,20.07
+Derelik,Hevaka,Nimambal,Nimambal VIII,Base Metals,Rich,5.86
+Derelik,Hevaka,Nimambal,Nimambal IX,Lustering Alloy,Medium,15.13
+Derelik,Hevaka,Nimambal,Nimambal IX,Reactive Gas,Rich,19.45
+Derelik,Hevaka,Nimambal,Nimambal IX,Base Metals,Poor,3.25
+Derelik,Hevaka,Nimambal,Nimambal X,Reactive Gas,Perfect,23.93
+Derelik,Hevaka,Nimambal,Nimambal X,Suspended Plasma,Poor,48.71
+Derelik,Hevaka,Yishinoon,Yishinoon I,Toxic Metals,Medium,4.43
+Derelik,Hevaka,Yishinoon,Yishinoon I,Construction Blocks,Medium,15.78
+Derelik,Hevaka,Yishinoon,Yishinoon I,Suspended Plasma,Medium,61.17
+Derelik,Hevaka,Yishinoon,Yishinoon II,Condensed Alloy,Perfect,28.99
+Derelik,Hevaka,Yishinoon,Yishinoon II,Fiber Composite,Rich,22.90
+Derelik,Hevaka,Yishinoon,Yishinoon II,Opulent Compound,Medium,16.06
+Derelik,Hevaka,Yishinoon,Yishinoon II,Heavy Water,Perfect,267.04
+Derelik,Hevaka,Yishinoon,Yishinoon III,Noble Gas,Poor,14.03
+Derelik,Hevaka,Yishinoon,Yishinoon III,Plasmoids,Poor,0.84
+Derelik,Hevaka,Yishinoon,Yishinoon IV,Lustering Alloy,Poor,13.55
+Derelik,Hevaka,Yishinoon,Yishinoon IV,Fiber Composite,Medium,16.27
+Derelik,Hevaka,Yishinoon,Yishinoon IV,Noble Gas,Medium,19.26
+Derelik,Hevaka,Yishinoon,Yishinoon IV,Base Metals,Rich,5.81
+Derelik,Hevaka,Yishinoon,Yishinoon V,Sheen Compound,Rich,20.64
+Derelik,Hevaka,Yishinoon,Yishinoon V,Fiber Composite,Rich,21.65
+Derelik,Hevaka,Yishinoon,Yishinoon V,Noble Gas,Medium,17.38
+Derelik,Hevaka,Yishinoon,Yishinoon V,Ionic Solutions,Rich,8.19
+Derelik,Hevaka,Yishinoon,Yishinoon VI,Fiber Composite,Perfect,25.78
+Derelik,Hevaka,Yishinoon,Yishinoon VI,Noble Gas,Medium,15.50
+Derelik,Hevaka,Yishinoon,Yishinoon VI,Polyaramids,Medium,11.53
+Derelik,Hevaka,Yishinoon,Yishinoon VI,Coolant,Poor,9.90
+Derelik,Hevaka,Yishinoon,Yishinoon VII,Precious Alloy,Poor,10.45
+Derelik,Hevaka,Yishinoon,Yishinoon VII,Industrial Fibers,Medium,5.15
+Derelik,Hevaka,Yishinoon,Yishinoon VII,Silicate Glass,Medium,8.04
+Derelik,Hevaka,Uplingur,Uplingur I,Base Metals,Medium,3.99
+Derelik,Hevaka,Uplingur,Uplingur I,Industrial Fibers,Poor,3.15
+Derelik,Hevaka,Uplingur,Uplingur I,Plasmoids,Poor,0.68
+Derelik,Hevaka,Uplingur,Uplingur II,Lustering Alloy,Perfect,26.40
+Derelik,Hevaka,Uplingur,Uplingur II,Noble Gas,Medium,15.89
+Derelik,Hevaka,Uplingur,Uplingur II,Base Metals,Medium,4.95
+Derelik,Hevaka,Uplingur,Uplingur II,Coolant,Rich,16.67
+Derelik,Hevaka,Uplingur,Uplingur III,Sheen Compound,Rich,21.55
+Derelik,Hevaka,Uplingur,Uplingur III,Noble Gas,Medium,17.84
+Derelik,Hevaka,Uplingur,Uplingur III,Reactive Metals,Medium,4.14
+Derelik,Hevaka,Uplingur,Uplingur III,Polyaramids,Poor,9.86
+Derelik,Hevaka,Uplingur,Uplingur IV,Base Metals,Poor,3.45
+Derelik,Hevaka,Uplingur,Uplingur IV,Coolant,Rich,15.55
+Derelik,Hevaka,Uplingur,Uplingur IV,Condensates,Rich,14.22
+Derelik,Sazdih,Dooz,Dooz I,Dark Compound,Poor,12.08
+Derelik,Sazdih,Dooz,Dooz I,Toxic Metals,Medium,4.40
+Derelik,Sazdih,Dooz,Dooz I,Industrial Fibers,Poor,3.66
+Derelik,Sazdih,Dooz,Dooz II,Precious Alloy,Poor,10.98
+Derelik,Sazdih,Dooz,Dooz II,Industrial Fibers,Poor,2.86
+Derelik,Sazdih,Dooz,Dooz II,Oxygen Isotopes,Medium,2.89
+Derelik,Sazdih,Dooz,Dooz III,Noble Gas,Poor,14.72
+Derelik,Sazdih,Dooz,Dooz III,Polyaramids,Medium,12.41
+Derelik,Sazdih,Dooz,Dooz IV,Condensed Alloy,Perfect,30.56
+Derelik,Sazdih,Dooz,Dooz IV,Fiber Composite,Rich,24.10
+Derelik,Sazdih,Dooz,Dooz IV,Industrial Fibers,Rich,6.64
+Derelik,Sazdih,Dooz,Dooz IV,Condensates,Medium,11.24
+Derelik,Sazdih,Dooz,Dooz V,Lustering Alloy,Rich,23.76
+Derelik,Sazdih,Dooz,Dooz V,Noble Gas,Rich,21.12
+Derelik,Sazdih,Dooz,Dooz V,Reactive Metals,Medium,4.86
+Derelik,Sazdih,Dooz,Dooz V,Polyaramids,Medium,11.27
+Derelik,Sazdih,Dooz,Dooz VI,Condensed Alloy,Medium,15.95
+Derelik,Sazdih,Dooz,Dooz VI,Coolant,Perfect,17.59
+Derelik,Sazdih,Dooz,Dooz VI,Heavy Water,Medium,174.88
+Derelik,Sazdih,Dooz,Dooz VI,Liquid Ozone,Medium,21.94
+Derelik,Sazdih,Bayuka,Bayuka I,Noble Gas,Rich,24.58
+Derelik,Sazdih,Bayuka,Bayuka I,Heavy Metals,Poor,12.94
+Derelik,Sazdih,Bayuka,Bayuka II,Lustering Alloy,Poor,9.95
+Derelik,Sazdih,Bayuka,Bayuka II,Toxic Metals,Medium,4.40
+Derelik,Sazdih,Bayuka,Bayuka II,Industrial Fibers,Poor,3.72
+Derelik,Sazdih,Bayuka,Bayuka III,Noble Gas,Medium,17.82
+Derelik,Sazdih,Bayuka,Bayuka III,Smartfab Units,Poor,9.58
+Derelik,Sazdih,Bayuka,Bayuka IV,Base Metals,Medium,5.06
+Derelik,Sazdih,Bayuka,Bayuka IV,Industrial Fibers,Poor,3.67
+Derelik,Sazdih,Bayuka,Bayuka IV,Oxygen Isotopes,Poor,2.15
+Derelik,Sazdih,Bayuka,Bayuka V,Sheen Compound,Rich,21.01
+Derelik,Sazdih,Bayuka,Bayuka V,Noble Gas,Perfect,25.79
+Derelik,Sazdih,Bayuka,Bayuka V,Polyaramids,Rich,16.51
+Derelik,Sazdih,Bayuka,Bayuka V,Coolant,Poor,9.03
+Derelik,Sazdih,Bayuka,Bayuka VI,Lustering Alloy,Medium,18.98
+Derelik,Sazdih,Bayuka,Bayuka VI,Noble Gas,Rich,21.18
+Derelik,Sazdih,Bayuka,Bayuka VI,Base Metals,Rich,6.44
+Derelik,Sazdih,Bayuka,Bayuka VI,Polyaramids,Medium,12.98
+Derelik,Sazdih,Bayuka,Bayuka VII,Lustering Alloy,Rich,24.00
+Derelik,Sazdih,Bayuka,Bayuka VII,Noble Gas,Medium,18.51
+Derelik,Sazdih,Bayuka,Bayuka VII,Reactive Metals,Medium,4.47
+Derelik,Sazdih,Bayuka,Bayuka VII,Ionic Solutions,Perfect,10.56
+Derelik,Sazdih,Bayuka,Bayuka VIII,Reactive Metals,Rich,5.94
+Derelik,Sazdih,Bayuka,Bayuka VIII,Construction Blocks,Medium,16.27
+Derelik,Sazdih,Bayuka,Bayuka VIII,Suspended Plasma,Poor,50.69
+Derelik,Sazdih,Bayuka,Bayuka IX,Dark Compound,Medium,17.47
+Derelik,Sazdih,Bayuka,Bayuka IX,Industrial Fibers,Poor,2.88
+Derelik,Sazdih,Bayuka,Bayuka IX,Construction Blocks,Medium,17.04
+Derelik,Sazdih,Bayuka,Bayuka X,Motley Compound,Poor,11.62
+Derelik,Sazdih,Bayuka,Bayuka X,Industrial Fibers,Medium,5.29
+Derelik,Sazdih,Bayuka,Bayuka X,Coolant,Rich,14.82
+Derelik,Sazdih,Uzistoon,Uzistoon I,Precious Alloy,Medium,17.90
+Derelik,Sazdih,Uzistoon,Uzistoon I,Dark Compound,Medium,19.11
+Derelik,Sazdih,Uzistoon,Uzistoon I,Industrial Fibers,Medium,4.78
+Derelik,Sazdih,Uzistoon,Uzistoon II,Noble Gas,Rich,23.89
+Derelik,Sazdih,Uzistoon,Uzistoon II,Construction Blocks,Rich,24.99
+Derelik,Sazdih,Uzistoon,Uzistoon III,Base Metals,Poor,3.87
+Derelik,Sazdih,Uzistoon,Uzistoon III,Industrial Fibers,Poor,3.09
+Derelik,Sazdih,Uzistoon,Uzistoon III,Supertensile Plastics,Poor,7.81
+Derelik,Sazdih,Uzistoon,Uzistoon IV,Fiber Composite,Medium,17.32
+Derelik,Sazdih,Uzistoon,Uzistoon IV,Reactive Gas,Perfect,29.29
+Derelik,Sazdih,Uzistoon,Uzistoon IV,Industrial Fibers,Medium,5.61
+Derelik,Sazdih,Uzistoon,Uzistoon IV,Condensates,Medium,11.39
+Derelik,Sazdih,Uzistoon,Uzistoon V,Fiber Composite,Rich,24.31
+Derelik,Sazdih,Uzistoon,Uzistoon V,Base Metals,Rich,6.55
+Derelik,Sazdih,Uzistoon,Uzistoon V,Industrial Fibers,Perfect,7.58
+Derelik,Sazdih,Uzistoon,Uzistoon V,Heavy Water,Perfect,303.79
+Derelik,Sazdih,Uzistoon,Uzistoon VI,Lustering Alloy,Perfect,27.29
+Derelik,Sazdih,Uzistoon,Uzistoon VI,Sheen Compound,Medium,16.69
+Derelik,Sazdih,Uzistoon,Uzistoon VI,Noble Gas,Perfect,27.54
+Derelik,Sazdih,Uzistoon,Uzistoon VI,Polyaramids,Rich,17.11
+Derelik,Sazdih,Uzistoon,Uzistoon VII,Lustering Alloy,Medium,17.97
+Derelik,Sazdih,Uzistoon,Uzistoon VII,Noble Gas,Rich,23.85
+Derelik,Sazdih,Uzistoon,Uzistoon VII,Reactive Metals,Rich,6.24
+Derelik,Sazdih,Uzistoon,Uzistoon VII,Ionic Solutions,Rich,9.77
+Derelik,Sazdih,Uzistoon,Uzistoon VIII,Opulent Compound,Perfect,27.47
+Derelik,Sazdih,Uzistoon,Uzistoon VIII,Coolant,Perfect,19.11
+Derelik,Sazdih,Uzistoon,Uzistoon VIII,Silicate Glass,Medium,10.19
+Derelik,Sazdih,Uzistoon,Uzistoon VIII,Liquid Ozone,Perfect,35.23
+Derelik,Sazdih,Bairshir,Bairshir I,Lustering Alloy,Poor,13.06
+Derelik,Sazdih,Bairshir,Bairshir I,Industrial Fibers,Medium,4.61
+Derelik,Sazdih,Bairshir,Bairshir I,Silicate Glass,Poor,5.85
+Derelik,Sazdih,Bairshir,Bairshir II,Dark Compound,Medium,16.20
+Derelik,Sazdih,Bairshir,Bairshir II,Industrial Fibers,Poor,3.94
+Derelik,Sazdih,Bairshir,Bairshir II,Plasmoids,Poor,0.67
+Derelik,Sazdih,Bairshir,Bairshir III,Noble Gas,Medium,19.94
+Derelik,Sazdih,Bairshir,Bairshir III,Base Metals,Rich,6.38
+Derelik,Sazdih,Bairshir,Bairshir III,Polyaramids,Medium,11.41
+Derelik,Sazdih,Bairshir,Bairshir III,Ionic Solutions,Medium,6.54
+Derelik,Sazdih,Bairshir,Bairshir IV,Sheen Compound,Rich,24.67
+Derelik,Sazdih,Bairshir,Bairshir IV,Fiber Composite,Rich,21.79
+Derelik,Sazdih,Bairshir,Bairshir IV,Noble Gas,Rich,25.11
+Derelik,Sazdih,Bairshir,Bairshir IV,Base Metals,Rich,6.46
+Derelik,Sazdih,Bairshir,Bairshir V,Glossy Compound,Medium,17.44
+Derelik,Sazdih,Bairshir,Bairshir V,Noble Gas,Perfect,27.39
+Derelik,Sazdih,Bairshir,Bairshir V,Reactive Metals,Rich,7.06
+Derelik,Sazdih,Bairshir,Bairshir V,Coolant,Medium,11.88
+Derelik,Sazdih,Bairshir,Bairshir VI,Precious Alloy,Medium,20.64
+Derelik,Sazdih,Bairshir,Bairshir VI,Coolant,Rich,14.46
+Derelik,Sazdih,Bairshir,Bairshir VI,Condensates,Medium,12.89
+Derelik,Sazdih,Moh,Moh I,Noble Gas,Rich,23.38
+Derelik,Sazdih,Moh,Moh I,Smartfab Units,Poor,8.80
+Derelik,Sazdih,Moh,Moh II,Dark Compound,Poor,10.40
+Derelik,Sazdih,Moh,Moh II,Industrial Fibers,Medium,4.98
+Derelik,Sazdih,Moh,Moh II,Construction Blocks,Medium,17.86
+Derelik,Sazdih,Moh,Moh III,Motley Compound,Medium,16.18
+Derelik,Sazdih,Moh,Moh III,Noble Gas,Medium,16.35
+Derelik,Sazdih,Moh,Moh IV,Condensed Alloy,Medium,16.61
+Derelik,Sazdih,Moh,Moh IV,Polyaramids,Medium,12.42
+Derelik,Sazdih,Moh,Moh IV,Coolant,Perfect,18.08
+Derelik,Sazdih,Moh,Moh IV,Ionic Solutions,Rich,10.12
+Derelik,Sazdih,Moh,Moh V,Sheen Compound,Rich,21.04
+Derelik,Sazdih,Moh,Moh V,Fiber Composite,Medium,16.54
+Derelik,Sazdih,Moh,Moh V,Noble Gas,Medium,15.63
+Derelik,Sazdih,Moh,Moh V,Ionic Solutions,Rich,8.46
+Derelik,Sazdih,Moh,Moh VI,Toxic Metals,Medium,4.23
+Derelik,Sazdih,Moh,Moh VI,Industrial Fibers,Poor,3.79
+Derelik,Sazdih,Moh,Moh VI,Construction Blocks,Medium,16.66
+Derelik,Sazdih,Moh,Moh VII,Supertensile Plastics,Poor,9.33
+Derelik,Sazdih,Moh,Moh VII,Construction Blocks,Rich,24.80
+Derelik,Sazdih,Moh,Moh VII,Nanites,Medium,5.02
+Derelik,Sazdih,Sari,Sari I,Noble Gas,Rich,22.42
+Derelik,Sazdih,Sari,Sari I,Heavy Metals,Rich,23.26
+Derelik,Sazdih,Sari,Sari II,Noble Gas,Rich,23.56
+Derelik,Sazdih,Sari,Sari II,Construction Blocks,Poor,15.16
+Derelik,Sazdih,Sari,Sari III,Dark Compound,Poor,12.31
+Derelik,Sazdih,Sari,Sari III,Industrial Fibers,Poor,3.10
+Derelik,Sazdih,Sari,Sari III,Oxygen Isotopes,Poor,2.09
+Derelik,Sazdih,Sari,Sari IV,Fiber Composite,Perfect,28.63
+Derelik,Sazdih,Sari,Sari IV,Reactive Gas,Rich,22.64
+Derelik,Sazdih,Sari,Sari IV,Condensates,Medium,13.60
+Derelik,Sazdih,Sari,Sari IV,Liquid Ozone,Medium,26.67
+Derelik,Sazdih,Sari,Sari V,Lustering Alloy,Medium,20.13
+Derelik,Sazdih,Sari,Sari V,Fiber Composite,Medium,17.77
+Derelik,Sazdih,Sari,Sari V,Noble Gas,Poor,14.98
+Derelik,Sazdih,Sari,Sari V,Polyaramids,Medium,11.21
+Derelik,Sazdih,Sari,Sari VI,Lustering Alloy,Medium,18.02
+Derelik,Sazdih,Sari,Sari VI,Noble Gas,Medium,17.59
+Derelik,Sazdih,Sari,Sari VI,Base Metals,Rich,6.14
+Derelik,Sazdih,Sari,Sari VI,Ionic Solutions,Perfect,11.04
+Derelik,Sazdih,Sari,Sari VII,Condensed Alloy,Rich,23.90
+Derelik,Sazdih,Sari,Sari VII,Fiber Composite,Medium,17.71
+Derelik,Sazdih,Sari,Sari VII,Base Metals,Perfect,8.24
+Derelik,Sazdih,Sari,Sari VII,Condensates,Medium,12.47
+Derelik,Sazdih,Sari,Sari VIII,Lustering Alloy,Poor,12.61
+Derelik,Sazdih,Sari,Sari VIII,Precious Alloy,Poor,13.02
+Derelik,Sazdih,Sari,Sari VIII,Industrial Fibers,Medium,4.61
+Derelik,Sazdih,Sari,Sari IX,Motley Compound,Rich,24.75
+Derelik,Sazdih,Sari,Sari IX,Base Metals,Poor,3.36
+Derelik,Sazdih,Sari,Sari IX,Coolant,Medium,12.30
+Derelik,Ananah,Faspera,Faspera I,Motley Compound,Rich,27.30
+Derelik,Ananah,Faspera,Faspera I,Noble Gas,Rich,24.80
+Derelik,Ananah,Faspera,Faspera II,Industrial Fibers,Poor,4.52
+Derelik,Ananah,Faspera,Faspera II,Silicate Glass,Poor,6.46
+Derelik,Ananah,Faspera,Faspera II,Plasmoids,Medium,1.25
+Derelik,Ananah,Faspera,Faspera III,Polyaramids,Rich,18.57
+Derelik,Ananah,Faspera,Faspera III,Coolant,Perfect,21.43
+Derelik,Ananah,Faspera,Faspera III,Silicate Glass,Rich,12.84
+Derelik,Ananah,Faspera,Faspera III,Ionic Solutions,Perfect,12.70
+Derelik,Ananah,Faspera,Faspera IV,Noble Gas,Medium,21.77
+Derelik,Ananah,Faspera,Faspera IV,Plasmoids,Poor,1.06
+Derelik,Ananah,Faspera,Faspera V,Lustering Alloy,Poor,14.97
+Derelik,Ananah,Faspera,Faspera V,Toxic Metals,Poor,3.69
+Derelik,Ananah,Faspera,Faspera V,Industrial Fibers,Medium,5.26
+Derelik,Ananah,Faspera,Faspera VI,Industrial Fibers,Poor,4.32
+Derelik,Ananah,Faspera,Faspera VI,Supertensile Plastics,Medium,12.68
+Derelik,Ananah,Faspera,Faspera VI,Construction Blocks,Medium,19.06
+Derelik,Ananah,Faspera,Faspera VII,Condensed Alloy,Perfect,33.44
+Derelik,Ananah,Faspera,Faspera VII,Noble Metals,Rich,29.07
+Derelik,Ananah,Faspera,Faspera VII,Polyaramids,Poor,11.78
+Derelik,Ananah,Faspera,Faspera VII,Coolant,Rich,17.10
+Derelik,Ananah,Faspera,Faspera VIII,Toxic Metals,Perfect,8.04
+Derelik,Ananah,Faspera,Faspera VIII,Construction Blocks,Medium,21.74
+Derelik,Ananah,Faspera,Faspera VIII,Suspended Plasma,Medium,77.70
+Derelik,Ananah,Jaymass,Jaymass I,Dark Compound,Poor,14.24
+Derelik,Ananah,Jaymass,Jaymass I,Industrial Fibers,Medium,4.50
+Derelik,Ananah,Jaymass,Jaymass I,Construction Blocks,Medium,21.94
+Derelik,Ananah,Jaymass,Jaymass II,Crystal Compound,Rich,26.48
+Derelik,Ananah,Jaymass,Jaymass II,Reactive Gas,Rich,25.09
+Derelik,Ananah,Jaymass,Jaymass II,Construction Blocks,Medium,21.06
+Derelik,Ananah,Jaymass,Jaymass III,Opulent Compound,Poor,16.51
+Derelik,Ananah,Jaymass,Jaymass III,Coolant,Medium,14.86
+Derelik,Ananah,Jaymass,Jaymass III,Silicate Glass,Rich,11.49
+Derelik,Ananah,Jaymass,Jaymass III,Ionic Solutions,Medium,7.55
+Derelik,Ananah,Jaymass,Jaymass IV,Reactive Gas,Rich,27.45
+Derelik,Ananah,Jaymass,Jaymass IV,Noble Gas,Medium,17.14
+Derelik,Ananah,Jaymass,Jaymass IV,Reactive Metals,Rich,6.45
+Derelik,Ananah,Jaymass,Jaymass IV,Ionic Solutions,Rich,9.27
+Derelik,Ananah,Jaymass,Jaymass V,Sheen Compound,Medium,22.14
+Derelik,Ananah,Jaymass,Jaymass V,Noble Gas,Perfect,29.32
+Derelik,Ananah,Jaymass,Jaymass V,Polyaramids,Medium,13.86
+Derelik,Ananah,Jaymass,Jaymass V,Coolant,Rich,17.94
+Derelik,Ananah,Jaymass,Jaymass VI,Sheen Compound,Perfect,29.61
+Derelik,Ananah,Jaymass,Jaymass VI,Fiber Composite,Rich,23.63
+Derelik,Ananah,Jaymass,Jaymass VI,Noble Gas,Poor,16.72
+Derelik,Ananah,Jaymass,Jaymass VI,Base Metals,Perfect,7.74
+Derelik,Ananah,Jaymass,Jaymass VII,Condensed Alloy,Medium,20.88
+Derelik,Ananah,Jaymass,Jaymass VII,Noble Metals,Poor,15.98
+Derelik,Ananah,Jaymass,Jaymass VII,Coolant,Rich,16.63
+Derelik,Ananah,Jaymass,Jaymass VII,Heavy Water,Rich,273.96
+Derelik,Ananah,Mifrata,Mifrata I,Dark Compound,Poor,11.24
+Derelik,Ananah,Mifrata,Mifrata I,Industrial Fibers,Medium,5.24
+Derelik,Ananah,Mifrata,Mifrata I,Construction Blocks,Medium,20.30
+Derelik,Ananah,Mifrata,Mifrata II,Noble Gas,Rich,22.88
+Derelik,Ananah,Mifrata,Mifrata II,Reactive Metals,Perfect,7.83
+Derelik,Ananah,Mifrata,Mifrata II,Nanites,Medium,5.35
+Derelik,Ananah,Mifrata,Mifrata II,Suspended Plasma,Rich,96.21
+Derelik,Ananah,Mifrata,Mifrata III,Supertensile Plastics,Poor,10.10
+Derelik,Ananah,Mifrata,Mifrata III,Construction Blocks,Medium,17.85
+Derelik,Ananah,Mifrata,Mifrata III,Suspended Plasma,Medium,60.47
+Derelik,Ananah,Mifrata,Mifrata IV,Noble Gas,Poor,15.45
+Derelik,Ananah,Mifrata,Mifrata IV,Polyaramids,Medium,13.37
+Derelik,Ananah,Mifrata,Mifrata IV,Coolant,Medium,12.63
+Derelik,Ananah,Mifrata,Mifrata IV,Ionic Solutions,Poor,5.87
+Derelik,Ananah,Mifrata,Mifrata V,Noble Gas,Medium,21.00
+Derelik,Ananah,Mifrata,Mifrata V,Base Metals,Poor,4.01
+Derelik,Ananah,Mifrata,Mifrata V,Coolant,Rich,16.32
+Derelik,Ananah,Mifrata,Mifrata V,Ionic Solutions,Medium,7.02
+Derelik,Ananah,Mifrata,Mifrata VI,Precious Alloy,Poor,15.59
+Derelik,Ananah,Mifrata,Mifrata VI,Motley Compound,Medium,18.97
+Derelik,Ananah,Mifrata,Mifrata VI,Coolant,Medium,12.53
+Derelik,Ananah,Mifrata,Mifrata VII,Condensed Alloy,Rich,23.05
+Derelik,Ananah,Mifrata,Mifrata VII,Crystal Compound,Rich,25.18
+Derelik,Ananah,Mifrata,Mifrata VII,Noble Metals,Perfect,27.63
+Derelik,Ananah,Mifrata,Mifrata VII,Coolant,Poor,10.28
+Derelik,Ananah,Majamar,Majamar I,Dark Compound,Rich,25.77
+Derelik,Ananah,Majamar,Majamar I,Noble Gas,Poor,15.67
+Derelik,Ananah,Majamar,Majamar I,Condensates,Rich,14.96
+Derelik,Ananah,Majamar,Majamar I,Nanites,Rich,6.63
+Derelik,Ananah,Majamar,Majamar II,Glossy Compound,Medium,20.82
+Derelik,Ananah,Majamar,Majamar II,Noble Gas,Poor,15.25
+Derelik,Ananah,Majamar,Majamar III,Reactive Gas,Rich,24.70
+Derelik,Ananah,Majamar,Majamar III,Construction Blocks,Medium,19.65
+Derelik,Ananah,Majamar,Majamar III,Suspended Plasma,Medium,71.97
+Derelik,Ananah,Majamar,Majamar IV,Gleaming Alloy,Medium,19.33
+Derelik,Ananah,Majamar,Majamar IV,Supertensile Plastics,Rich,17.68
+Derelik,Ananah,Majamar,Majamar IV,Construction Blocks,Medium,17.10
+Derelik,Ananah,Majamar,Majamar V,Supertensile Plastics,Medium,12.05
+Derelik,Ananah,Majamar,Majamar V,Construction Blocks,Medium,21.06
+Derelik,Ananah,Majamar,Majamar V,Oxygen Isotopes,Medium,2.49
+Derelik,Ananah,Majamar,Majamar VI,Sheen Compound,Rich,25.50
+Derelik,Ananah,Majamar,Majamar VI,Reactive Gas,Medium,19.80
+Derelik,Ananah,Majamar,Majamar VI,Noble Gas,Medium,16.08
+Derelik,Ananah,Majamar,Majamar VI,Polyaramids,Poor,9.30
+Derelik,Ananah,Majamar,Majamar VII,Lustering Alloy,Rich,23.77
+Derelik,Ananah,Majamar,Majamar VII,Glossy Compound,Rich,25.11
+Derelik,Ananah,Majamar,Majamar VII,Noble Gas,Medium,18.61
+Derelik,Ananah,Majamar,Majamar VII,Reactive Metals,Medium,5.00
+Derelik,Ananah,Majamar,Majamar VIII,Motley Compound,Poor,12.78
+Derelik,Ananah,Majamar,Majamar VIII,Coolant,Medium,11.89
+Derelik,Ananah,Majamar,Majamar VIII,Condensates,Medium,11.04
+Derelik,Ananah,Majamar,Majamar IX,Base Metals,Rich,5.83
+Derelik,Ananah,Majamar,Majamar IX,Coolant,Rich,15.81
+Derelik,Ananah,Majamar,Majamar IX,Suspended Plasma,Rich,81.89
+Derelik,Ananah,Majamar,Majamar X,Toxic Metals,Medium,5.19
+Derelik,Ananah,Majamar,Majamar X,Industrial Fibers,Medium,5.38
+Derelik,Ananah,Majamar,Majamar X,Oxygen Isotopes,Medium,3.13
+Derelik,Ananah,Ihal,Ihal I,Noble Gas,Medium,16.53
+Derelik,Ananah,Ihal,Ihal I,Noble Metals,Rich,21.38
+Derelik,Ananah,Ihal,Ihal II,Noble Gas,Poor,13.66
+Derelik,Ananah,Ihal,Ihal II,Heavy Metals,Rich,22.93
+Derelik,Ananah,Ihal,Ihal III,Fiber Composite,Medium,19.33
+Derelik,Ananah,Ihal,Ihal III,Noble Gas,Rich,24.93
+Derelik,Ananah,Ihal,Ihal III,Reactive Metals,Rich,6.33
+Derelik,Ananah,Ihal,Ihal III,Coolant,Rich,16.78
+Derelik,Ananah,Ihal,Ihal IV,Reactive Gas,Medium,15.97
+Derelik,Ananah,Ihal,Ihal IV,Toxic Metals,Rich,5.46
+Derelik,Ananah,Ihal,Ihal IV,Construction Blocks,Medium,15.71
+Derelik,Ananah,Ihal,Ihal V,Lustering Alloy,Rich,21.46
+Derelik,Ananah,Ihal,Ihal V,Reactive Gas,Rich,22.34
+Derelik,Ananah,Ihal,Ihal V,Noble Gas,Medium,20.00
+Derelik,Ananah,Ihal,Ihal V,Coolant,Rich,14.42
+Derelik,Ananah,Ihal,Ihal VI,Sheen Compound,Medium,19.74
+Derelik,Ananah,Ihal,Ihal VI,Reactive Gas,Medium,17.74
+Derelik,Ananah,Ihal,Ihal VI,Noble Gas,Perfect,25.44
+Derelik,Ananah,Ihal,Ihal VI,Polyaramids,Rich,15.26
+Derelik,Ananah,Ihal,Ihal VII,Noble Gas,Rich,21.12
+Derelik,Ananah,Ihal,Ihal VII,Reactive Metals,Medium,4.77
+Derelik,Ananah,Ihal,Ihal VII,Coolant,Rich,15.83
+Derelik,Ananah,Ihal,Ihal VII,Ionic Solutions,Medium,6.62
+Derelik,Ananah,Ihal,Ihal VIII,Fiber Composite,Rich,21.36
+Derelik,Ananah,Ihal,Ihal VIII,Reactive Gas,Medium,18.56
+Derelik,Ananah,Ihal,Ihal VIII,Noble Gas,Poor,13.76
+Derelik,Ananah,Ihal,Ihal VIII,Polyaramids,Medium,10.99
+Derelik,Ananah,Ihal,Ihal IX,Industrial Fibers,Poor,3.93
+Derelik,Ananah,Ihal,Ihal IX,Construction Blocks,Poor,13.44
+Derelik,Ananah,Ihal,Ihal IX,Plasmoids,Medium,1.01
+Derelik,Ananah,Ihal,Ihal X,Lucent Compound,Medium,19.58
+Derelik,Ananah,Ihal,Ihal X,Crystal Compound,Medium,16.05
+Derelik,Ananah,Ihal,Ihal X,Construction Blocks,Poor,14.26
+Derelik,Ananah,Camal,Camal I,Motley Compound,Perfect,29.16
+Derelik,Ananah,Camal,Camal I,Noble Gas,Poor,14.90
+Derelik,Ananah,Camal,Camal II,Base Metals,Poor,3.18
+Derelik,Ananah,Camal,Camal II,Industrial Fibers,Poor,3.89
+Derelik,Ananah,Camal,Camal II,Silicate Glass,Poor,6.47
+Derelik,Ananah,Camal,Camal III,Toxic Metals,Rich,7.43
+Derelik,Ananah,Camal,Camal III,Polyaramids,Medium,13.85
+Derelik,Ananah,Camal,Camal III,Coolant,Rich,18.47
+Derelik,Ananah,Camal,Camal III,Liquid Ozone,Medium,27.43
+Derelik,Ananah,Camal,Camal IV,Fiber Composite,Medium,19.37
+Derelik,Ananah,Camal,Camal IV,Noble Metals,Rich,26.23
+Derelik,Ananah,Camal,Camal IV,Heavy Water,Medium,173.34
+Derelik,Ananah,Camal,Camal IV,Liquid Ozone,Medium,22.73
+Derelik,Ananah,Camal,Camal V,Industrial Fibers,Poor,3.04
+Derelik,Ananah,Camal,Camal V,Construction Blocks,Poor,12.73
+Derelik,Ananah,Camal,Camal V,Silicate Glass,Medium,10.29
+Derelik,Ananah,Camal,Camal VI,Noble Gas,Medium,17.75
+Derelik,Ananah,Camal,Camal VI,Base Metals,Rich,6.41
+Derelik,Ananah,Camal,Camal VI,Coolant,Rich,18.16
+Derelik,Ananah,Camal,Camal VI,Ionic Solutions,Poor,5.95
+Derelik,Ananah,Camal,Camal VII,Reactive Gas,Medium,20.72
+Derelik,Ananah,Camal,Camal VII,Noble Gas,Medium,18.85
+Derelik,Ananah,Camal,Camal VII,Base Metals,Rich,6.44
+Derelik,Ananah,Camal,Camal VII,Polyaramids,Medium,11.63
+Derelik,Ananah,Camal,Camal VIII,Toxic Metals,Medium,4.62
+Derelik,Ananah,Camal,Camal VIII,Industrial Fibers,Medium,4.93
+Derelik,Ananah,Camal,Camal VIII,Construction Blocks,Medium,18.38
+Derelik,Ananah,Camal,Camal IX,Fiber Composite,Rich,27.94
+Derelik,Ananah,Camal,Camal IX,Opulent Compound,Medium,17.41
+Derelik,Ananah,Camal,Camal IX,Smartfab Units,Perfect,22.18
+Derelik,Ananah,Camal,Camal IX,Heavy Water,Medium,218.70
+Derelik,Ananah,Fera,Fera I,Dark Compound,Poor,10.14
+Derelik,Ananah,Fera,Fera I,Industrial Fibers,Medium,4.58
+Derelik,Ananah,Fera,Fera I,Construction Blocks,Poor,11.58
+Derelik,Ananah,Fera,Fera II,Sheen Compound,Perfect,27.31
+Derelik,Ananah,Fera,Fera II,Noble Gas,Rich,24.98
+Derelik,Ananah,Fera,Fera II,Heavy Metals,Medium,18.13
+Derelik,Ananah,Fera,Fera II,Nanites,Rich,6.24
+Derelik,Ananah,Fera,Fera III,Lucent Compound,Poor,14.72
+Derelik,Ananah,Fera,Fera III,Construction Blocks,Medium,15.47
+Derelik,Ananah,Fera,Fera III,Suspended Plasma,Rich,89.80
+Derelik,Ananah,Fera,Fera IV,Construction Blocks,Medium,15.76
+Derelik,Ananah,Fera,Fera IV,Nanites,Medium,4.68
+Derelik,Ananah,Fera,Fera IV,Suspended Plasma,Rich,85.02
+Derelik,Mossas,Juddi,Juddi I,Lustering Alloy,Medium,15.29
+Derelik,Mossas,Juddi,Juddi I,Base Metals,Medium,4.37
+Derelik,Mossas,Juddi,Juddi II,Lustering Alloy,Poor,12.38
+Derelik,Mossas,Juddi,Juddi II,Base Metals,Medium,4.34
+Derelik,Mossas,Juddi,Juddi III,Gleaming Alloy,Rich,19.26
+Derelik,Mossas,Juddi,Juddi III,Motley Compound,Medium,13.50
+Derelik,Mossas,Juddi,Juddi IV,Construction Blocks,Rich,21.55
+Derelik,Mossas,Juddi,Juddi IV,Suspended Plasma,Poor,41.03
+Derelik,Mossas,Juddi,Juddi V,Lustering Alloy,Medium,13.94
+Derelik,Mossas,Juddi,Juddi V,Base Metals,Medium,3.71
+Derelik,Mossas,Juddi,Juddi VI,Opulent Compound,Medium,13.51
+Derelik,Mossas,Juddi,Juddi VI,Condensates,Perfect,17.55
+Derelik,Mossas,Juddi,Juddi VI,Heavy Water,Perfect,240.24
+Derelik,Mossas,Juddi,Juddi VII,Lustering Alloy,Medium,15.97
+Derelik,Mossas,Juddi,Juddi VII,Glossy Compound,Rich,18.86
+Derelik,Mossas,Juddi,Juddi VII,Base Metals,Medium,4.30
+Derelik,Mossas,Juddi,Juddi VIII,Lustering Alloy,Rich,17.82
+Derelik,Mossas,Juddi,Juddi VIII,Noble Gas,Poor,11.69
+Derelik,Mossas,Juddi,Juddi VIII,Base Metals,Poor,3.18
+Derelik,Mossas,Juddi,Juddi IX,Lustering Alloy,Rich,18.30
+Derelik,Mossas,Juddi,Juddi IX,Glossy Compound,Rich,21.76
+Derelik,Mossas,Juddi,Juddi IX,Base Metals,Medium,4.35
+Derelik,Mossas,Juddi,Juddi X,Lustering Alloy,Rich,20.52
+Derelik,Mossas,Juddi,Juddi X,Base Metals,Rich,5.54
+Derelik,Mossas,Juddi,Juddi X,Polyaramids,Medium,10.97
+Derelik,Mossas,Juddi,Juddi XI,Lustering Alloy,Poor,13.16
+Derelik,Mossas,Juddi,Juddi XI,Base Metals,Medium,4.47
+Derelik,Mossas,Maspah,Maspah I,Lucent Compound,Medium,14.16
+Derelik,Mossas,Maspah,Maspah I,Suspended Plasma,Medium,47.55
+Derelik,Mossas,Maspah,Maspah I,Plasmoids,Perfect,1.34
+Derelik,Mossas,Maspah,Maspah II,Lustering Alloy,Poor,9.09
+Derelik,Mossas,Maspah,Maspah II,Base Metals,Medium,3.95
+Derelik,Mossas,Maspah,Maspah III,Noble Metals,Perfect,24.71
+Derelik,Mossas,Maspah,Maspah III,Industrial Fibers,Medium,3.45
+Derelik,Mossas,Maspah,Maspah III,Heavy Water,Medium,125.06
+Derelik,Mossas,Maspah,Maspah IV,Lustering Alloy,Rich,19.24
+Derelik,Mossas,Maspah,Maspah IV,Noble Gas,Rich,18.23
+Derelik,Mossas,Maspah,Maspah IV,Base Metals,Rich,5.37
+Derelik,Mossas,Maspah,Maspah V,Lustering Alloy,Poor,12.23
+Derelik,Mossas,Maspah,Maspah V,Fiber Composite,Poor,10.71
+Derelik,Mossas,Maspah,Maspah V,Base Metals,Rich,4.75
+Derelik,Mossas,Maspah,Maspah VI,Lustering Alloy,Medium,14.79
+Derelik,Mossas,Maspah,Maspah VI,Base Metals,Medium,3.59
+Derelik,Mossas,Maspah,Maspah VI,Reactive Metals,Perfect,5.64
+Derelik,Mossas,Maspah,Maspah VII,Lustering Alloy,Medium,14.76
+Derelik,Mossas,Maspah,Maspah VII,Base Metals,Medium,3.50
+Derelik,Mossas,Ibaria,Ibaria I,Lustering Alloy,Medium,12.80
+Derelik,Mossas,Ibaria,Ibaria I,Base Metals,Poor,2.52
+Derelik,Mossas,Ibaria,Ibaria II,Noble Metals,Perfect,22.14
+Derelik,Mossas,Ibaria,Ibaria II,Silicate Glass,Perfect,11.45
+Derelik,Mossas,Ibaria,Ibaria II,Heavy Water,Perfect,209.43
+Derelik,Mossas,Ibaria,Ibaria III,Motley Compound,Perfect,21.96
+Derelik,Mossas,Ibaria,Ibaria III,Noble Gas,Medium,12.96
+Derelik,Mossas,Ibaria,Ibaria IV,Condensed Alloy,Rich,16.54
+Derelik,Mossas,Ibaria,Ibaria IV,Reactive Gas,Rich,18.15
+Derelik,Mossas,Ibaria,Ibaria IV,Heavy Water,Medium,138.19
+Derelik,Mossas,Shala,Shala I,Motley Compound,Rich,17.89
+Derelik,Mossas,Shala,Shala I,Plasmoids,Poor,0.63
+Derelik,Mossas,Shala,Shala II,Lucent Compound,Rich,16.96
+Derelik,Mossas,Shala,Shala II,Suspended Plasma,Medium,51.48
+Derelik,Mossas,Shala,Shala III,Lustering Alloy,Rich,18.82
+Derelik,Mossas,Shala,Shala III,Reactive Gas,Poor,11.82
+Derelik,Mossas,Shala,Shala III,Base Metals,Perfect,5.60
+Derelik,Mossas,Shala,Shala IV,Lustering Alloy,Medium,16.34
+Derelik,Mossas,Shala,Shala IV,Base Metals,Rich,4.63
+Derelik,Mossas,Shala,Shala IV,Polyaramids,Poor,7.83
+Derelik,Mossas,Shala,Shala V,Lustering Alloy,Medium,15.90
+Derelik,Mossas,Shala,Shala V,Base Metals,Rich,5.43
+Derelik,Mossas,Shala,Shala V,Reactive Metals,Rich,4.60
+Derelik,Mossas,Shala,Shala VI,Lustering Alloy,Poor,11.60
+Derelik,Mossas,Shala,Shala VI,Base Metals,Medium,3.81
+Derelik,Mossas,Shala,Shala VII,Suspended Plasma,Rich,72.91
+Derelik,Mossas,Shala,Shala VII,Oxygen Isotopes,Poor,1.72
+Derelik,Mossas,Shala,Shala VIII,Noble Metals,Perfect,22.54
+Derelik,Mossas,Shala,Shala VIII,Silicate Glass,Rich,9.77
+Derelik,Mossas,Shala,Shala VIII,Heavy Water,Rich,202.02
+Derelik,Mossas,Zemalu,Zemalu I,Motley Compound,Medium,12.44
+Derelik,Mossas,Zemalu,Zemalu I,Heavy Metals,Perfect,21.72
+Derelik,Mossas,Zemalu,Zemalu II,Motley Compound,Rich,19.82
+Derelik,Mossas,Zemalu,Zemalu II,Construction Blocks,Rich,20.09
+Derelik,Mossas,Zemalu,Zemalu III,Lustering Alloy,Poor,8.84
+Derelik,Mossas,Zemalu,Zemalu III,Base Metals,Poor,2.81
+Derelik,Mossas,Zemalu,Zemalu IV,Lustering Alloy,Poor,8.90
+Derelik,Mossas,Zemalu,Zemalu IV,Base Metals,Medium,3.26
+Derelik,Mossas,Zemalu,Zemalu V,Noble Metals,Rich,19.93
+Derelik,Mossas,Zemalu,Zemalu V,Toxic Metals,Rich,5.13
+Derelik,Mossas,Zemalu,Zemalu V,Heavy Water,Medium,138.97
+Derelik,Mossas,Zemalu,Zemalu VI,Lustering Alloy,Poor,9.52
+Derelik,Mossas,Zemalu,Zemalu VI,Base Metals,Poor,3.00
+Derelik,Mossas,Zemalu,Zemalu VII,Lustering Alloy,Medium,15.07
+Derelik,Mossas,Zemalu,Zemalu VII,Base Metals,Poor,3.06
+Derelik,Mossas,Zemalu,Zemalu VIII,Lustering Alloy,Medium,15.91
+Derelik,Mossas,Zemalu,Zemalu VIII,Glossy Compound,Rich,19.03
+Derelik,Mossas,Zemalu,Zemalu VIII,Base Metals,Medium,3.73
+Derelik,Mossas,Zemalu,Zemalu IX,Fiber Composite,Medium,14.81
+Derelik,Mossas,Zemalu,Zemalu IX,Base Metals,Medium,4.09
+Derelik,Mossas,Zemalu,Zemalu IX,Heavy Water,Rich,177.19
+Derelik,Mossas,Khankenirdia,Khankenirdia I,Crystal Compound,Rich,18.19
+Derelik,Mossas,Khankenirdia,Khankenirdia I,Suspended Plasma,Perfect,82.40
+Derelik,Mossas,Khankenirdia,Khankenirdia II,Fiber Composite,Poor,12.96
+Derelik,Mossas,Khankenirdia,Khankenirdia II,Condensates,Perfect,15.53
+Derelik,Mossas,Khankenirdia,Khankenirdia II,Heavy Water,Rich,211.26
+Derelik,Mossas,Khankenirdia,Khankenirdia III,Lustering Alloy,Poor,11.51
+Derelik,Mossas,Khankenirdia,Khankenirdia III,Sheen Compound,Medium,17.63
+Derelik,Mossas,Khankenirdia,Khankenirdia III,Base Metals,Rich,5.68
+Derelik,Mossas,Khankenirdia,Khankenirdia IV,Noble Metals,Rich,20.58
+Derelik,Mossas,Khankenirdia,Khankenirdia IV,Smartfab Units,Rich,13.55
+Derelik,Mossas,Khankenirdia,Khankenirdia IV,Heavy Water,Rich,198.24
+Derelik,Mossas,Khankenirdia,Khankenirdia V,Lustering Alloy,Poor,12.64
+Derelik,Mossas,Khankenirdia,Khankenirdia V,Base Metals,Perfect,6.06
+Derelik,Mossas,Khankenirdia,Khankenirdia V,Coolant,Perfect,14.89
+Derelik,Mossas,Khankenirdia,Khankenirdia VI,Lustering Alloy,Poor,12.81
+Derelik,Mossas,Khankenirdia,Khankenirdia VI,Base Metals,Medium,4.30
+Derelik,Mossas,Khankenirdia,Khankenirdia VII,Lustering Alloy,Medium,15.39
+Derelik,Mossas,Khankenirdia,Khankenirdia VII,Base Metals,Medium,3.54
+Derelik,Mossas,Khankenirdia,Khankenirdia VIII,Lustering Alloy,Medium,16.48
+Derelik,Mossas,Khankenirdia,Khankenirdia VIII,Base Metals,Poor,2.84
+Derelik,Mossas,Khankenirdia,Khankenirdia IX,Lustering Alloy,Medium,16.16
+Derelik,Mossas,Khankenirdia,Khankenirdia IX,Base Metals,Medium,4.03
+Derelik,Mossas,Khankenirdia,Khankenirdia X,Motley Compound,Rich,21.41
+Derelik,Mossas,Khankenirdia,Khankenirdia X,Construction Blocks,Medium,17.61
+Derelik,Mekashtad,Nikh,Nikh I,Lustering Alloy,Poor,8.24
+Derelik,Mekashtad,Nikh,Nikh I,Base Metals,Poor,3.03
+Derelik,Mekashtad,Nikh,Nikh II,Reactive Gas,Medium,14.78
+Derelik,Mekashtad,Nikh,Nikh II,Suspended Plasma,Medium,56.77
+Derelik,Mekashtad,Nikh,Nikh III,Condensed Alloy,Medium,15.12
+Derelik,Mekashtad,Nikh,Nikh III,Noble Metals,Medium,14.23
+Derelik,Mekashtad,Nikh,Nikh III,Heavy Water,Rich,202.54
+Derelik,Mekashtad,Nikh,Nikh IV,Lustering Alloy,Poor,10.98
+Derelik,Mekashtad,Nikh,Nikh IV,Fiber Composite,Medium,15.59
+Derelik,Mekashtad,Nikh,Nikh IV,Base Metals,Poor,3.04
+Derelik,Mekashtad,Nikh,Nikh V,Lustering Alloy,Perfect,21.15
+Derelik,Mekashtad,Nikh,Nikh V,Sheen Compound,Medium,15.02
+Derelik,Mekashtad,Nikh,Nikh V,Base Metals,Medium,3.80
+Derelik,Mekashtad,Nikh,Nikh VI,Lustering Alloy,Rich,20.61
+Derelik,Mekashtad,Nikh,Nikh VI,Sheen Compound,Rich,16.48
+Derelik,Mekashtad,Nikh,Nikh VI,Base Metals,Rich,4.77
+Derelik,Mekashtad,Nikh,Nikh VII,Lustering Alloy,Poor,9.55
+Derelik,Mekashtad,Nikh,Nikh VII,Base Metals,Rich,4.87
+Derelik,Mekashtad,Nikh,Nikh VIII,Lustering Alloy,Poor,11.78
+Derelik,Mekashtad,Nikh,Nikh VIII,Base Metals,Rich,4.92
+Derelik,Mekashtad,Amphar,Amphar I,Lustering Alloy,Poor,8.93
+Derelik,Mekashtad,Amphar,Amphar I,Base Metals,Poor,2.27
+Derelik,Mekashtad,Amphar,Amphar II,Lustering Alloy,Poor,8.53
+Derelik,Mekashtad,Amphar,Amphar II,Base Metals,Poor,2.39
+Derelik,Mekashtad,Amphar,Amphar III,Lustering Alloy,Medium,14.86
+Derelik,Mekashtad,Amphar,Amphar III,Base Metals,Poor,2.89
+Derelik,Mekashtad,Amphar,Amphar IV,Construction Blocks,Medium,15.79
+Derelik,Mekashtad,Amphar,Amphar IV,Suspended Plasma,Medium,50.73
+Derelik,Mekashtad,Amphar,Amphar V,Reactive Gas,Perfect,21.09
+Derelik,Mekashtad,Amphar,Amphar V,Suspended Plasma,Medium,57.66
+Derelik,Mekashtad,Amphar,Amphar VI,Lustering Alloy,Poor,11.14
+Derelik,Mekashtad,Amphar,Amphar VI,Base Metals,Poor,3.18
+Derelik,Mekashtad,Amphar,Amphar VI,Reactive Metals,Medium,3.43
+Derelik,Mekashtad,Amphar,Amphar VII,Lustering Alloy,Poor,11.84
+Derelik,Mekashtad,Amphar,Amphar VII,Base Metals,Medium,3.83
+Derelik,Mekashtad,Amphar,Amphar VII,Coolant,Perfect,13.89
+Derelik,Mekashtad,Amphar,Amphar VIII,Lustering Alloy,Rich,17.09
+Derelik,Mekashtad,Amphar,Amphar VIII,Reactive Gas,Rich,17.32
+Derelik,Mekashtad,Amphar,Amphar VIII,Base Metals,Rich,4.68
+Derelik,Mekashtad,Amphar,Amphar IX,Lustering Alloy,Medium,15.16
+Derelik,Mekashtad,Amphar,Amphar IX,Noble Gas,Medium,15.55
+Derelik,Mekashtad,Amphar,Amphar IX,Base Metals,Medium,3.34
+Derelik,Mekashtad,Salashayama,Salashayama I,Lustering Alloy,Poor,11.07
+Derelik,Mekashtad,Salashayama,Salashayama I,Base Metals,Medium,3.88
+Derelik,Mekashtad,Salashayama,Salashayama II,Lustering Alloy,Poor,9.60
+Derelik,Mekashtad,Salashayama,Salashayama II,Base Metals,Medium,3.69
+Derelik,Mekashtad,Salashayama,Salashayama III,Lustering Alloy,Medium,14.55
+Derelik,Mekashtad,Salashayama,Salashayama III,Base Metals,Medium,4.00
+Derelik,Mekashtad,Salashayama,Salashayama IV,Crystal Compound,Medium,13.27
+Derelik,Mekashtad,Salashayama,Salashayama IV,Suspended Plasma,Medium,57.25
+Derelik,Mekashtad,Salashayama,Salashayama V,Lustering Alloy,Poor,10.44
+Derelik,Mekashtad,Salashayama,Salashayama V,Base Metals,Medium,3.61
+Derelik,Mekashtad,Salashayama,Salashayama VI,Lustering Alloy,Poor,12.22
+Derelik,Mekashtad,Salashayama,Salashayama VI,Reactive Gas,Rich,18.68
+Derelik,Mekashtad,Salashayama,Salashayama VI,Base Metals,Poor,3.11
+Derelik,Mekashtad,Salashayama,Salashayama VII,Lustering Alloy,Medium,14.46
+Derelik,Mekashtad,Salashayama,Salashayama VII,Reactive Gas,Perfect,22.46
+Derelik,Mekashtad,Salashayama,Salashayama VII,Base Metals,Medium,3.58
+Derelik,Mekashtad,Salashayama,Salashayama VIII,Lustering Alloy,Medium,17.11
+Derelik,Mekashtad,Salashayama,Salashayama VIII,Base Metals,Medium,3.79
+Derelik,Mekashtad,Salashayama,Salashayama VIII,Coolant,Rich,12.08
+Derelik,Mekashtad,Janus,Janus I,Motley Compound,Perfect,24.45
+Derelik,Mekashtad,Janus,Janus I,Glossy Compound,Medium,14.21
+Derelik,Mekashtad,Janus,Janus II,Lustering Alloy,Medium,17.25
+Derelik,Mekashtad,Janus,Janus II,Base Metals,Poor,2.79
+Derelik,Mekashtad,Janus,Janus III,Lustering Alloy,Medium,15.36
+Derelik,Mekashtad,Janus,Janus III,Base Metals,Medium,3.83
+Derelik,Mekashtad,Janus,Janus IV,Lustering Alloy,Poor,12.75
+Derelik,Mekashtad,Janus,Janus IV,Base Metals,Medium,4.18
+Derelik,Mekashtad,Janus,Janus V,Polyaramids,Perfect,16.43
+Derelik,Mekashtad,Janus,Janus V,Heavy Water,Medium,161.55
+Derelik,Mekashtad,Janus,Janus V,Liquid Ozone,Perfect,32.25
+Derelik,Mekashtad,Janus,Janus VI,Gleaming Alloy,Perfect,24.15
+Derelik,Mekashtad,Janus,Janus VI,Motley Compound,Poor,13.88
+Derelik,Mekashtad,Janus,Janus VII,Lustering Alloy,Medium,16.25
+Derelik,Mekashtad,Janus,Janus VII,Noble Gas,Rich,22.23
+Derelik,Mekashtad,Janus,Janus VII,Base Metals,Rich,5.43
+Derelik,Mekashtad,Janus,Janus VIII,Lustering Alloy,Medium,15.39
+Derelik,Mekashtad,Janus,Janus VIII,Reactive Gas,Rich,19.32
+Derelik,Mekashtad,Janus,Janus VIII,Base Metals,Medium,4.00
+Derelik,Mekashtad,Janus,Janus IX,Lustering Alloy,Rich,20.30
+Derelik,Mekashtad,Janus,Janus IX,Noble Gas,Poor,12.96
+Derelik,Mekashtad,Janus,Janus IX,Base Metals,Medium,3.92
+Derelik,Mekashtad,Janus,Janus X,Noble Gas,Perfect,25.98
+Derelik,Mekashtad,Janus,Janus X,Suspended Plasma,Rich,73.55
+Derelik,Mekashtad,Janus,Janus X,Ionic Solutions,Rich,7.84
+Derelik,Mekashtad,Agha,Agha I,Lustering Alloy,Medium,13.95
+Derelik,Mekashtad,Agha,Agha I,Base Metals,Poor,2.89
+Derelik,Mekashtad,Agha,Agha II,Lustering Alloy,Medium,14.60
+Derelik,Mekashtad,Agha,Agha II,Base Metals,Poor,3.21
+Derelik,Mekashtad,Agha,Agha III,Lustering Alloy,Medium,15.68
+Derelik,Mekashtad,Agha,Agha III,Base Metals,Poor,3.20
+Derelik,Mekashtad,Agha,Agha IV,Lustering Alloy,Poor,9.10
+Derelik,Mekashtad,Agha,Agha IV,Base Metals,Medium,3.91
+Derelik,Mekashtad,Agha,Agha V,Condensed Alloy,Medium,16.34
+Derelik,Mekashtad,Agha,Agha V,Industrial Fibers,Medium,3.34
+Derelik,Mekashtad,Agha,Agha V,Heavy Water,Medium,128.57
+Derelik,Mekashtad,Agha,Agha VI,Base Metals,Medium,4.31
+Derelik,Mekashtad,Agha,Agha VI,Condensates,Medium,9.06
+Derelik,Mekashtad,Agha,Agha VI,Heavy Water,Medium,135.07
+Derelik,Mekashtad,Agha,Agha VII,Lustering Alloy,Medium,13.36
+Derelik,Mekashtad,Agha,Agha VII,Noble Gas,Rich,17.32
+Derelik,Mekashtad,Agha,Agha VII,Base Metals,Rich,5.30
+Derelik,Mekashtad,Agha,Agha VIII,Lustering Alloy,Medium,12.31
+Derelik,Mekashtad,Agha,Agha VIII,Noble Gas,Poor,11.48
+Derelik,Mekashtad,Agha,Agha VIII,Base Metals,Perfect,5.61
+Derelik,Mekashtad,Agha,Agha IX,Lustering Alloy,Perfect,21.27
+Derelik,Mekashtad,Agha,Agha IX,Base Metals,Poor,2.93
+Derelik,Mekashtad,Agha,Agha IX,Polyaramids,Medium,9.67
+Derelik,Mekashtad,Agha,Agha X,Lustering Alloy,Rich,17.42
+Derelik,Mekashtad,Agha,Agha X,Base Metals,Rich,4.64
+Derelik,Mekashtad,Agha,Agha X,Coolant,Medium,9.58
+Derelik,Mekashtad,Iosantin,Iosantin I,Noble Gas,Rich,23.82
+Derelik,Mekashtad,Iosantin,Iosantin I,Noble Metals,Perfect,26.34
+Derelik,Mekashtad,Iosantin,Iosantin II,Industrial Fibers,Medium,4.93
+Derelik,Mekashtad,Iosantin,Iosantin II,Supertensile Plastics,Medium,10.07
+Derelik,Mekashtad,Iosantin,Iosantin II,Construction Blocks,Poor,14.58
+Derelik,Mekashtad,Iosantin,Iosantin III,Precious Alloy,Medium,19.36
+Derelik,Mekashtad,Iosantin,Iosantin III,Industrial Fibers,Poor,3.16
+Derelik,Mekashtad,Iosantin,Iosantin III,Oxygen Isotopes,Poor,1.84
+Derelik,Mekashtad,Iosantin,Iosantin IV,Lucent Compound,Rich,20.85
+Derelik,Mekashtad,Iosantin,Iosantin IV,Construction Blocks,Rich,20.64
+Derelik,Mekashtad,Iosantin,Iosantin IV,Nanites,Rich,6.51
+Derelik,Mekashtad,Iosantin,Iosantin V,Reactive Gas,Medium,18.62
+Derelik,Mekashtad,Iosantin,Iosantin V,Noble Gas,Medium,18.56
+Derelik,Mekashtad,Iosantin,Iosantin V,Polyaramids,Rich,16.75
+Derelik,Mekashtad,Iosantin,Iosantin V,Ionic Solutions,Medium,6.04
+Derelik,Mekashtad,Iosantin,Iosantin VI,Fiber Composite,Perfect,28.32
+Derelik,Mekashtad,Iosantin,Iosantin VI,Reactive Gas,Medium,18.38
+Derelik,Mekashtad,Iosantin,Iosantin VI,Noble Metals,Rich,21.60
+Derelik,Mekashtad,Iosantin,Iosantin VI,Liquid Ozone,Perfect,35.74
+Derelik,Mekashtad,Iosantin,Iosantin VII,Reactive Gas,Perfect,26.46
+Derelik,Mekashtad,Iosantin,Iosantin VII,Noble Gas,Poor,13.87
+Derelik,Mekashtad,Iosantin,Iosantin VII,Base Metals,Medium,4.62
+Derelik,Mekashtad,Iosantin,Iosantin VII,Reactive Metals,Poor,3.54
+Derelik,Mekashtad,Iosantin,Iosantin VIII,Lustering Alloy,Rich,25.25
+Derelik,Mekashtad,Iosantin,Iosantin VIII,Reactive Gas,Poor,15.02
+Derelik,Mekashtad,Iosantin,Iosantin VIII,Noble Gas,Medium,18.59
+Derelik,Mekashtad,Iosantin,Iosantin VIII,Coolant,Poor,9.98
+Derelik,Mekashtad,Orva,Orva I,Lustering Alloy,Poor,11.91
+Derelik,Mekashtad,Orva,Orva I,Base Metals,Medium,3.80
+Derelik,Mekashtad,Orva,Orva II,Lustering Alloy,Poor,10.26
+Derelik,Mekashtad,Orva,Orva II,Base Metals,Poor,2.92
+Derelik,Mekashtad,Orva,Orva III,Fiber Composite,Medium,16.04
+Derelik,Mekashtad,Orva,Orva III,Industrial Fibers,Rich,5.62
+Derelik,Mekashtad,Orva,Orva III,Heavy Water,Perfect,258.90
+Derelik,Mekashtad,Orva,Orva IV,Motley Compound,Rich,23.09
+Derelik,Mekashtad,Orva,Orva IV,Heavy Metals,Rich,21.61
+Derelik,Mekashtad,Orva,Orva V,Lustering Alloy,Medium,16.43
+Derelik,Mekashtad,Orva,Orva V,Reactive Gas,Rich,20.43
+Derelik,Mekashtad,Orva,Orva V,Base Metals,Medium,4.81
+Derelik,Mekashtad,Orva,Orva VI,Lustering Alloy,Rich,19.53
+Derelik,Mekashtad,Orva,Orva VI,Glossy Compound,Rich,20.64
+Derelik,Mekashtad,Orva,Orva VI,Base Metals,Perfect,6.47
+Derelik,Mekashtad,Orva,Orva VII,Lustering Alloy,Rich,22.68
+Derelik,Mekashtad,Orva,Orva VII,Fiber Composite,Perfect,23.97
+Derelik,Mekashtad,Orva,Orva VII,Base Metals,Medium,3.83
+Derelik,Mekashtad,Orva,Orva VIII,Lustering Alloy,Rich,19.55
+Derelik,Mekashtad,Orva,Orva VIII,Glossy Compound,Rich,19.02
+Derelik,Mekashtad,Orva,Orva VIII,Base Metals,Poor,3.26
+Derelik,Mekashtad,Orva,Orva IX,Lustering Alloy,Rich,20.55
+Derelik,Mekashtad,Orva,Orva IX,Base Metals,Medium,3.98
+Derelik,Mekashtad,Orva,Orva X,Suspended Plasma,Medium,52.87
+Derelik,Mekashtad,Orva,Orva X,Oxygen Isotopes,Rich,3.47
+Derelik,Mekashtad,Zet,Zet I,Lustering Alloy,Poor,10.48
+Derelik,Mekashtad,Zet,Zet I,Base Metals,Medium,4.41
+Derelik,Mekashtad,Zet,Zet II,Lustering Alloy,Medium,14.60
+Derelik,Mekashtad,Zet,Zet II,Base Metals,Medium,4.14
+Derelik,Mekashtad,Zet,Zet III,Lustering Alloy,Rich,22.91
+Derelik,Mekashtad,Zet,Zet III,Noble Gas,Poor,13.66
+Derelik,Mekashtad,Zet,Zet III,Base Metals,Medium,4.76
+Derelik,Mekashtad,Zet,Zet IV,Lustering Alloy,Poor,13.32
+Derelik,Mekashtad,Zet,Zet IV,Base Metals,Rich,5.74
+Derelik,Mekashtad,Zet,Zet IV,Ionic Solutions,Poor,5.44
+Derelik,Mekashtad,Zet,Zet V,Motley Compound,Rich,21.09
+Derelik,Mekashtad,Zet,Zet V,Noble Metals,Poor,12.93
+Derelik,Mekashtad,Zet,Zet VI,Lustering Alloy,Poor,13.29
+Derelik,Mekashtad,Zet,Zet VI,Base Metals,Medium,4.70
+Derelik,Mekashtad,Zet,Zet VII,Lustering Alloy,Rich,20.67
+Derelik,Mekashtad,Zet,Zet VII,Reactive Gas,Rich,23.32
+Derelik,Mekashtad,Zet,Zet VII,Base Metals,Medium,4.76
+Derelik,Mekashtad,Zet,Zet VIII,Lustering Alloy,Medium,17.61
+Derelik,Mekashtad,Zet,Zet VIII,Base Metals,Poor,2.87
+Derelik,Mekashtad,Akhrad,Akhrad I,Noble Gas,Perfect,27.03
+Derelik,Mekashtad,Akhrad,Akhrad I,Heavy Metals,Poor,14.23
+Derelik,Mekashtad,Akhrad,Akhrad II,Lustering Alloy,Poor,10.74
+Derelik,Mekashtad,Akhrad,Akhrad II,Industrial Fibers,Poor,3.34
+Derelik,Mekashtad,Akhrad,Akhrad II,Construction Blocks,Medium,20.25
+Derelik,Mekashtad,Akhrad,Akhrad III,Noble Gas,Medium,20.67
+Derelik,Mekashtad,Akhrad,Akhrad III,Nanites,Rich,6.76
+Derelik,Mekashtad,Akhrad,Akhrad III,Suspended Plasma,Medium,67.87
+Derelik,Mekashtad,Akhrad,Akhrad III,Ionic Solutions,Medium,7.36
+Derelik,Mekashtad,Akhrad,Akhrad IV,Motley Compound,Perfect,28.25
+Derelik,Mekashtad,Akhrad,Akhrad IV,Noble Gas,Rich,21.76
+Derelik,Mekashtad,Akhrad,Akhrad V,Condensed Alloy,Medium,16.30
+Derelik,Mekashtad,Akhrad,Akhrad V,Fiber Composite,Medium,20.11
+Derelik,Mekashtad,Akhrad,Akhrad V,Industrial Fibers,Perfect,7.60
+Derelik,Mekashtad,Akhrad,Akhrad V,Smartfab Units,Rich,15.74
+Derelik,Mekashtad,Akhrad,Akhrad VI,Base Metals,Poor,3.22
+Derelik,Mekashtad,Akhrad,Akhrad VI,Industrial Fibers,Medium,4.95
+Derelik,Mekashtad,Akhrad,Akhrad VI,Plasmoids,Poor,0.84
+Derelik,Mekashtad,Akhrad,Akhrad VII,Sheen Compound,Rich,23.32
+Derelik,Mekashtad,Akhrad,Akhrad VII,Noble Gas,Rich,24.97
+Derelik,Mekashtad,Akhrad,Akhrad VII,Coolant,Rich,15.84
+Derelik,Mekashtad,Akhrad,Akhrad VII,Ionic Solutions,Rich,10.57
+Derelik,Mekashtad,Akhrad,Akhrad VIII,Lustering Alloy,Rich,25.11
+Derelik,Mekashtad,Akhrad,Akhrad VIII,Reactive Gas,Medium,16.76
+Derelik,Mekashtad,Akhrad,Akhrad VIII,Noble Gas,Rich,22.68
+Derelik,Mekashtad,Akhrad,Akhrad VIII,Reactive Metals,Rich,6.43
+Derelik,Mekashtad,Akhrad,Akhrad IX,Glossy Compound,Rich,21.54
+Derelik,Mekashtad,Akhrad,Akhrad IX,Noble Gas,Rich,26.38
+Derelik,Mekashtad,Akhrad,Akhrad IX,Base Metals,Rich,5.84
+Derelik,Mekashtad,Akhrad,Akhrad IX,Polyaramids,Medium,10.95
+Derelik,Mekashtad,Akhrad,Akhrad X,Lustering Alloy,Poor,15.49
+Derelik,Mekashtad,Akhrad,Akhrad X,Reactive Gas,Poor,15.89
+Derelik,Mekashtad,Akhrad,Akhrad X,Noble Gas,Medium,17.88
+Derelik,Mekashtad,Akhrad,Akhrad X,Ionic Solutions,Perfect,11.11
+Derelik,Mekashtad,Akhrad,Akhrad XI,Crystal Compound,Perfect,28.14
+Derelik,Mekashtad,Akhrad,Akhrad XI,Toxic Metals,Medium,5.06
+Derelik,Mekashtad,Akhrad,Akhrad XI,Coolant,Rich,15.36
+Derelik,Mekashtad,Akhrad,Akhrad XI,Ionic Solutions,Rich,9.16
+Derelik,Mekashtad,Akhrad,Akhrad XII,Noble Metals,Medium,18.17
+Derelik,Mekashtad,Akhrad,Akhrad XII,Coolant,Perfect,19.46
+Derelik,Mekashtad,Akhrad,Akhrad XII,Silicate Glass,Perfect,14.60
+Derelik,Mekashtad,Akhrad,Akhrad XII,Heavy Water,Perfect,293.25
+Derelik,Mekashtad,Pirohdim,Pirohdim I,Lustering Alloy,Medium,16.38
+Derelik,Mekashtad,Pirohdim,Pirohdim I,Sheen Compound,Rich,18.27
+Derelik,Mekashtad,Pirohdim,Pirohdim I,Base Metals,Rich,5.50
+Derelik,Mekashtad,Pirohdim,Pirohdim II,Lustering Alloy,Rich,19.39
+Derelik,Mekashtad,Pirohdim,Pirohdim II,Base Metals,Rich,5.08
+Derelik,Mekashtad,Pirohdim,Pirohdim II,Reactive Metals,Medium,4.05
+Derelik,Mekashtad,Pirohdim,Pirohdim III,Lustering Alloy,Medium,13.58
+Derelik,Mekashtad,Pirohdim,Pirohdim III,Glossy Compound,Medium,15.75
+Derelik,Mekashtad,Pirohdim,Pirohdim III,Base Metals,Rich,4.70
+Derelik,Mekashtad,Pirohdim,Pirohdim IV,Lustering Alloy,Medium,13.24
+Derelik,Mekashtad,Pirohdim,Pirohdim IV,Sheen Compound,Medium,13.44
+Derelik,Mekashtad,Pirohdim,Pirohdim IV,Base Metals,Rich,5.70
+Derelik,Mekashtad,Pirohdim,Pirohdim V,Lustering Alloy,Rich,17.79
+Derelik,Mekashtad,Pirohdim,Pirohdim V,Base Metals,Rich,5.17
+Derelik,Mekashtad,Pirohdim,Pirohdim V,Coolant,Rich,12.03
+Derelik,Mekashtad,Pirohdim,Pirohdim VI,Lustering Alloy,Poor,11.55
+Derelik,Mekashtad,Pirohdim,Pirohdim VI,Base Metals,Medium,4.53
+Derelik,Mekashtad,Pirohdim,Pirohdim VII,Lustering Alloy,Poor,8.68
+Derelik,Mekashtad,Pirohdim,Pirohdim VII,Base Metals,Poor,2.51
+Derelik,Mekashtad,Pirohdim,Pirohdim VIII,Lustering Alloy,Medium,14.10
+Derelik,Mekashtad,Pirohdim,Pirohdim VIII,Base Metals,Medium,3.99
+Derelik,Mekashtad,Sharir,Sharir I,Dark Compound,Medium,18.90
+Derelik,Mekashtad,Sharir,Sharir I,Industrial Fibers,Poor,2.83
+Derelik,Mekashtad,Sharir,Sharir I,Supertensile Plastics,Poor,9.12
+Derelik,Mekashtad,Sharir,Sharir II,Lustering Alloy,Poor,12.27
+Derelik,Mekashtad,Sharir,Sharir II,Industrial Fibers,Medium,4.53
+Derelik,Mekashtad,Sharir,Sharir II,Silicate Glass,Poor,6.39
+Derelik,Mekashtad,Sharir,Sharir III,Noble Gas,Poor,15.76
+Derelik,Mekashtad,Sharir,Sharir III,Plasmoids,Perfect,1.72
+Derelik,Mekashtad,Sharir,Sharir IV,Dark Compound,Poor,12.10
+Derelik,Mekashtad,Sharir,Sharir IV,Industrial Fibers,Medium,5.29
+Derelik,Mekashtad,Sharir,Sharir IV,Plasmoids,Medium,1.20
+Derelik,Mekashtad,Sharir,Sharir V,Fiber Composite,Medium,18.16
+Derelik,Mekashtad,Sharir,Sharir V,Opulent Compound,Rich,25.91
+Derelik,Mekashtad,Sharir,Sharir V,Condensates,Rich,15.35
+Derelik,Mekashtad,Sharir,Sharir V,Liquid Ozone,Medium,21.27
+Derelik,Mekashtad,Sharir,Sharir VI,Fiber Composite,Rich,23.58
+Derelik,Mekashtad,Sharir,Sharir VI,Opulent Compound,Perfect,29.75
+Derelik,Mekashtad,Sharir,Sharir VI,Heavy Water,Perfect,283.22
+Derelik,Mekashtad,Sharir,Sharir VI,Liquid Ozone,Rich,29.96
+Derelik,Mekashtad,Sharir,Sharir VII,Sheen Compound,Medium,21.37
+Derelik,Mekashtad,Sharir,Sharir VII,Noble Gas,Rich,22.63
+Derelik,Mekashtad,Sharir,Sharir VII,Reactive Metals,Medium,5.03
+Derelik,Mekashtad,Sharir,Sharir VII,Polyaramids,Poor,10.44
+Derelik,Mekashtad,Sharir,Sharir VIII,Sheen Compound,Rich,21.69
+Derelik,Mekashtad,Sharir,Sharir VIII,Reactive Gas,Poor,15.16
+Derelik,Mekashtad,Sharir,Sharir VIII,Noble Gas,Medium,16.78
+Derelik,Mekashtad,Sharir,Sharir VIII,Polyaramids,Medium,11.00
+Derelik,Mekashtad,Sharir,Sharir IX,Glossy Compound,Perfect,27.06
+Derelik,Mekashtad,Sharir,Sharir IX,Noble Gas,Medium,20.33
+Derelik,Mekashtad,Sharir,Sharir IX,Reactive Metals,Medium,4.87
+Derelik,Mekashtad,Sharir,Sharir IX,Polyaramids,Medium,13.68
+Derelik,Mekashtad,Sharir,Sharir X,Opulent Compound,Rich,22.93
+Derelik,Mekashtad,Sharir,Sharir X,Polyaramids,Rich,14.73
+Derelik,Mekashtad,Sharir,Sharir X,Coolant,Medium,10.78
+Derelik,Mekashtad,Sharir,Sharir X,Silicate Glass,Perfect,13.95
+Derelik,Mekashtad,Usroh,Usroh I,Motley Compound,Rich,23.27
+Derelik,Mekashtad,Usroh,Usroh I,Heavy Metals,Rich,23.05
+Derelik,Mekashtad,Usroh,Usroh II,Lustering Alloy,Medium,17.85
+Derelik,Mekashtad,Usroh,Usroh II,Base Metals,Medium,4.05
+Derelik,Mekashtad,Usroh,Usroh III,Lustering Alloy,Medium,18.06
+Derelik,Mekashtad,Usroh,Usroh III,Base Metals,Poor,2.62
+Derelik,Mekashtad,Usroh,Usroh IV,Motley Compound,Perfect,24.54
+Derelik,Mekashtad,Usroh,Usroh IV,Smartfab Units,Medium,12.32
+Derelik,Mekashtad,Usroh,Usroh V,Base Metals,Perfect,6.88
+Derelik,Mekashtad,Usroh,Usroh V,Noble Metals,Medium,15.12
+Derelik,Mekashtad,Usroh,Usroh V,Heavy Water,Rich,210.45
+Derelik,Mekashtad,Usroh,Usroh VI,Motley Compound,Perfect,24.86
+Derelik,Mekashtad,Usroh,Usroh VI,Noble Gas,Medium,17.52
+Derelik,Mekashtad,Usroh,Usroh VII,Lustering Alloy,Poor,12.29
+Derelik,Mekashtad,Usroh,Usroh VII,Base Metals,Medium,3.80
+Derelik,Mekashtad,Usroh,Usroh VIII,Lustering Alloy,Medium,16.88
+Derelik,Mekashtad,Usroh,Usroh VIII,Reactive Gas,Rich,22.36
+Derelik,Mekashtad,Usroh,Usroh VIII,Base Metals,Rich,5.72
+Derelik,Mekashtad,Usroh,Usroh IX,Smartfab Units,Perfect,18.64
+Derelik,Mekashtad,Usroh,Usroh IX,Heavy Water,Perfect,273.15
+Derelik,Mekashtad,Usroh,Usroh IX,Liquid Ozone,Medium,22.82
+Derelik,Mekashtad,Usroh,Usroh X,Reactive Gas,Rich,23.77
+Derelik,Mekashtad,Usroh,Usroh X,Noble Metals,Medium,18.03
+Derelik,Mekashtad,Usroh,Usroh X,Heavy Water,Rich,217.20
+Derelik,Mekashtad,Thiarer,Thiarer I,Motley Compound,Rich,19.08
+Derelik,Mekashtad,Thiarer,Thiarer I,Smartfab Units,Rich,14.97
+Derelik,Mekashtad,Thiarer,Thiarer II,Heavy Metals,Medium,17.95
+Derelik,Mekashtad,Thiarer,Thiarer II,Nanites,Perfect,6.34
+Derelik,Mekashtad,Thiarer,Thiarer II,Suspended Plasma,Rich,82.84
+Derelik,Mekashtad,Thiarer,Thiarer III,Motley Compound,Perfect,24.03
+Derelik,Mekashtad,Thiarer,Thiarer III,Construction Blocks,Rich,23.50
+Derelik,Mekashtad,Thiarer,Thiarer IV,Noble Metals,Rich,22.79
+Derelik,Mekashtad,Thiarer,Thiarer IV,Condensates,Medium,11.12
+Derelik,Mekashtad,Thiarer,Thiarer IV,Heavy Water,Perfect,268.05
+Derelik,Mekashtad,Thiarer,Thiarer V,Lustering Alloy,Medium,17.49
+Derelik,Mekashtad,Thiarer,Thiarer V,Base Metals,Poor,2.70
+Derelik,Mekashtad,Thiarer,Thiarer VI,Lustering Alloy,Medium,17.58
+Derelik,Mekashtad,Thiarer,Thiarer VI,Base Metals,Poor,3.70
+Derelik,Mekashtad,Thiarer,Thiarer VII,Lustering Alloy,Medium,17.09
+Derelik,Mekashtad,Thiarer,Thiarer VII,Reactive Gas,Rich,23.18
+Derelik,Mekashtad,Thiarer,Thiarer VII,Base Metals,Perfect,6.41
+Derelik,Mekashtad,Thiarer,Thiarer VIII,Lustering Alloy,Medium,14.64
+Derelik,Mekashtad,Thiarer,Thiarer VIII,Base Metals,Medium,4.15
+Derelik,Mekashtad,Thiarer,Thiarer VIII,Reactive Metals,Medium,4.70
+Derelik,Mekashtad,Thiarer,Thiarer IX,Lustering Alloy,Medium,16.48
+Derelik,Mekashtad,Thiarer,Thiarer IX,Base Metals,Medium,4.90
+Derelik,Mekashtad,Thiarer,Thiarer IX,Reactive Metals,Rich,5.97
+Derelik,Bedaleya,Gomati,Gomati I,Noble Gas,Rich,23.26
+Derelik,Bedaleya,Gomati,Gomati I,Nanites,Perfect,7.61
+Derelik,Bedaleya,Gomati,Gomati I,Suspended Plasma,Rich,84.76
+Derelik,Bedaleya,Gomati,Gomati I,Plasmoids,Medium,1.11
+Derelik,Bedaleya,Gomati,Gomati II,Precious Alloy,Medium,16.98
+Derelik,Bedaleya,Gomati,Gomati II,Industrial Fibers,Poor,4.17
+Derelik,Bedaleya,Gomati,Gomati II,Silicate Glass,Medium,8.57
+Derelik,Bedaleya,Gomati,Gomati III,Condensed Alloy,Perfect,29.68
+Derelik,Bedaleya,Gomati,Gomati III,Fiber Composite,Rich,24.58
+Derelik,Bedaleya,Gomati,Gomati III,Industrial Fibers,Medium,4.39
+Derelik,Bedaleya,Gomati,Gomati III,Heavy Water,Rich,259.59
+Derelik,Bedaleya,Gomati,Gomati IV,Fiber Composite,Medium,21.20
+Derelik,Bedaleya,Gomati,Gomati IV,Base Metals,Poor,4.20
+Derelik,Bedaleya,Gomati,Gomati IV,Industrial Fibers,Perfect,8.50
+Derelik,Bedaleya,Gomati,Gomati IV,Heavy Water,Poor,156.74
+Derelik,Bedaleya,Gomati,Gomati V,Crystal Compound,Rich,21.78
+Derelik,Bedaleya,Gomati,Gomati V,Construction Blocks,Medium,17.10
+Derelik,Bedaleya,Gomati,Gomati V,Suspended Plasma,Medium,66.71
+Derelik,Bedaleya,Gomati,Gomati VI,Fiber Composite,Rich,24.94
+Derelik,Bedaleya,Gomati,Gomati VI,Base Metals,Medium,5.05
+Derelik,Bedaleya,Gomati,Gomati VI,Condensates,Medium,13.80
+Derelik,Bedaleya,Gomati,Gomati VI,Smartfab Units,Medium,11.93
+Derelik,Bedaleya,Gomati,Gomati VII,Sheen Compound,Perfect,28.20
+Derelik,Bedaleya,Gomati,Gomati VII,Glossy Compound,Rich,26.20
+Derelik,Bedaleya,Gomati,Gomati VII,Reactive Gas,Rich,25.33
+Derelik,Bedaleya,Gomati,Gomati VII,Noble Gas,Rich,26.32
+Derelik,Bedaleya,Gomati,Gomati VIII,Condensed Alloy,Rich,24.77
+Derelik,Bedaleya,Gomati,Gomati VIII,Fiber Composite,Perfect,31.62
+Derelik,Bedaleya,Gomati,Gomati VIII,Opulent Compound,Perfect,30.11
+Derelik,Bedaleya,Gomati,Gomati VIII,Condensates,Rich,17.54
+Derelik,Bedaleya,Gomati,Gomati IX,Sheen Compound,Rich,24.63
+Derelik,Bedaleya,Gomati,Gomati IX,Glossy Compound,Rich,24.79
+Derelik,Bedaleya,Gomati,Gomati IX,Noble Gas,Medium,20.89
+Derelik,Bedaleya,Gomati,Gomati IX,Reactive Metals,Rich,5.74
+Derelik,Bedaleya,Gomati,Gomati X,Lustering Alloy,Medium,18.04
+Derelik,Bedaleya,Gomati,Gomati X,Industrial Fibers,Medium,5.25
+Derelik,Bedaleya,Gomati,Gomati X,Plasmoids,Poor,0.76
+Derelik,Bedaleya,Jangar,Jangar I,Gleaming Alloy,Medium,18.36
+Derelik,Bedaleya,Jangar,Jangar I,Motley Compound,Medium,16.09
+Derelik,Bedaleya,Jangar,Jangar II,Lustering Alloy,Poor,13.11
+Derelik,Bedaleya,Jangar,Jangar II,Base Metals,Poor,3.72
+Derelik,Bedaleya,Jangar,Jangar III,Lustering Alloy,Poor,12.33
+Derelik,Bedaleya,Jangar,Jangar III,Base Metals,Poor,3.42
+Derelik,Bedaleya,Jangar,Jangar IV,Lustering Alloy,Poor,13.74
+Derelik,Bedaleya,Jangar,Jangar IV,Base Metals,Poor,3.56
+Derelik,Bedaleya,Jangar,Jangar V,Reactive Gas,Poor,14.09
+Derelik,Bedaleya,Jangar,Jangar V,Smartfab Units,Medium,11.64
+Derelik,Bedaleya,Jangar,Jangar V,Heavy Water,Rich,234.15
+Derelik,Bedaleya,Jangar,Jangar VI,Toxic Metals,Medium,4.84
+Derelik,Bedaleya,Jangar,Jangar VI,Suspended Plasma,Medium,52.70
+Derelik,Bedaleya,Jangar,Jangar VII,Toxic Metals,Rich,6.21
+Derelik,Bedaleya,Jangar,Jangar VII,Suspended Plasma,Perfect,88.56
+Derelik,Bedaleya,Jangar,Jangar VIII,Lustering Alloy,Medium,18.51
+Derelik,Bedaleya,Jangar,Jangar VIII,Base Metals,Rich,5.38
+Derelik,Bedaleya,Jangar,Jangar VIII,Polyaramids,Medium,11.71
+Derelik,Bedaleya,Nakah,Nakah I,Lustering Alloy,Medium,19.38
+Derelik,Bedaleya,Nakah,Nakah I,Toxic Metals,Medium,4.38
+Derelik,Bedaleya,Nakah,Nakah I,Industrial Fibers,Poor,3.83
+Derelik,Bedaleya,Nakah,Nakah II,Condensed Alloy,Medium,19.91
+Derelik,Bedaleya,Nakah,Nakah II,Toxic Metals,Medium,5.19
+Derelik,Bedaleya,Nakah,Nakah II,Coolant,Rich,16.95
+Derelik,Bedaleya,Nakah,Nakah II,Ionic Solutions,Medium,6.64
+Derelik,Bedaleya,Nakah,Nakah III,Noble Gas,Poor,15.72
+Derelik,Bedaleya,Nakah,Nakah III,Polyaramids,Rich,15.42
+Derelik,Bedaleya,Nakah,Nakah IV,Precious Alloy,Medium,19.65
+Derelik,Bedaleya,Nakah,Nakah IV,Dark Compound,Poor,12.90
+Derelik,Bedaleya,Nakah,Nakah IV,Industrial Fibers,Poor,4.13
+Derelik,Bedaleya,Nakah,Nakah V,Industrial Fibers,Poor,3.75
+Derelik,Bedaleya,Nakah,Nakah V,Construction Blocks,Medium,16.23
+Derelik,Bedaleya,Nakah,Nakah V,Oxygen Isotopes,Poor,1.80
+Derelik,Bedaleya,Nakah,Nakah VI,Fiber Composite,Perfect,28.58
+Derelik,Bedaleya,Nakah,Nakah VI,Opulent Compound,Rich,24.62
+Derelik,Bedaleya,Nakah,Nakah VI,Reactive Gas,Perfect,31.94
+Derelik,Bedaleya,Nakah,Nakah VI,Condensates,Rich,14.87
+Derelik,Bedaleya,Irshah,Irshah I,Toxic Metals,Poor,3.16
+Derelik,Bedaleya,Irshah,Irshah I,Industrial Fibers,Medium,4.91
+Derelik,Bedaleya,Irshah,Irshah I,Oxygen Isotopes,Poor,1.62
+Derelik,Bedaleya,Irshah,Irshah II,Noble Gas,Medium,17.92
+Derelik,Bedaleya,Irshah,Irshah II,Construction Blocks,Medium,15.86
+Derelik,Bedaleya,Irshah,Irshah III,Base Metals,Poor,3.37
+Derelik,Bedaleya,Irshah,Irshah III,Industrial Fibers,Medium,4.07
+Derelik,Bedaleya,Irshah,Irshah III,Supertensile Plastics,Medium,10.08
+Derelik,Bedaleya,Irshah,Irshah IV,Fiber Composite,Rich,21.89
+Derelik,Bedaleya,Irshah,Irshah IV,Opulent Compound,Rich,22.99
+Derelik,Bedaleya,Irshah,Irshah IV,Noble Metals,Medium,19.79
+Derelik,Bedaleya,Irshah,Irshah IV,Industrial Fibers,Perfect,7.37
+Derelik,Bedaleya,Irshah,Irshah V,Toxic Metals,Medium,4.54
+Derelik,Bedaleya,Irshah,Irshah V,Supertensile Plastics,Medium,12.81
+Derelik,Bedaleya,Irshah,Irshah V,Construction Blocks,Rich,24.77
+Derelik,Bedaleya,Irshah,Irshah VI,Sheen Compound,Rich,23.97
+Derelik,Bedaleya,Irshah,Irshah VI,Reactive Gas,Rich,22.77
+Derelik,Bedaleya,Irshah,Irshah VI,Noble Gas,Medium,19.71
+Derelik,Bedaleya,Irshah,Irshah VI,Base Metals,Perfect,6.75
+Derelik,Bedaleya,Irshah,Irshah VII,Lustering Alloy,Medium,18.21
+Derelik,Bedaleya,Irshah,Irshah VII,Noble Gas,Medium,18.58
+Derelik,Bedaleya,Irshah,Irshah VII,Base Metals,Poor,3.89
+Derelik,Bedaleya,Irshah,Irshah VII,Reactive Metals,Medium,4.28
+Derelik,Bedaleya,Irshah,Irshah VIII,Glossy Compound,Medium,16.13
+Derelik,Bedaleya,Irshah,Irshah VIII,Noble Gas,Poor,14.27
+Derelik,Bedaleya,Irshah,Irshah VIII,Reactive Metals,Medium,4.09
+Derelik,Bedaleya,Irshah,Irshah VIII,Coolant,Rich,15.10
+Derelik,Bedaleya,Irshah,Irshah IX,Precious Alloy,Medium,19.68
+Derelik,Bedaleya,Irshah,Irshah IX,Industrial Fibers,Medium,4.19
+Derelik,Bedaleya,Irshah,Irshah IX,Coolant,Medium,13.48
+Derelik,Bedaleya,Irshah,Irshah X,Dark Compound,Medium,19.60
+Derelik,Bedaleya,Irshah,Irshah X,Industrial Fibers,Poor,3.25
+Derelik,Bedaleya,Irshah,Irshah X,Construction Blocks,Poor,14.40
+Derelik,Bedaleya,Hasateem,Hasateem I,Noble Gas,Rich,25.07
+Derelik,Bedaleya,Hasateem,Hasateem I,Construction Blocks,Medium,18.14
+Derelik,Bedaleya,Hasateem,Hasateem II,Base Metals,Medium,5.05
+Derelik,Bedaleya,Hasateem,Hasateem II,Industrial Fibers,Poor,3.52
+Derelik,Bedaleya,Hasateem,Hasateem II,Construction Blocks,Poor,12.61
+Derelik,Bedaleya,Hasateem,Hasateem III,Glossy Compound,Perfect,26.26
+Derelik,Bedaleya,Hasateem,Hasateem III,Noble Gas,Rich,21.82
+Derelik,Bedaleya,Hasateem,Hasateem IV,Condensed Alloy,Perfect,27.33
+Derelik,Bedaleya,Hasateem,Hasateem IV,Fiber Composite,Medium,17.25
+Derelik,Bedaleya,Hasateem,Hasateem IV,Heavy Water,Rich,210.56
+Derelik,Bedaleya,Hasateem,Hasateem IV,Liquid Ozone,Rich,28.76
+Derelik,Bedaleya,Hasateem,Hasateem V,Lustering Alloy,Medium,15.82
+Derelik,Bedaleya,Hasateem,Hasateem V,Reactive Gas,Rich,20.78
+Derelik,Bedaleya,Hasateem,Hasateem V,Noble Gas,Medium,18.85
+Derelik,Bedaleya,Hasateem,Hasateem V,Polyaramids,Medium,11.18
+Derelik,Bedaleya,Hasateem,Hasateem VI,Sheen Compound,Rich,24.35
+Derelik,Bedaleya,Hasateem,Hasateem VI,Noble Gas,Medium,19.90
+Derelik,Bedaleya,Hasateem,Hasateem VI,Reactive Metals,Rich,5.41
+Derelik,Bedaleya,Hasateem,Hasateem VI,Polyaramids,Poor,9.92
+Derelik,Bedaleya,Hasateem,Hasateem VII,Lustering Alloy,Rich,23.78
+Derelik,Bedaleya,Hasateem,Hasateem VII,Industrial Fibers,Medium,3.98
+Derelik,Bedaleya,Hasateem,Hasateem VII,Coolant,Medium,13.12
+Derelik,Bedaleya,Assah,Assah I,Dark Compound,Poor,13.36
+Derelik,Bedaleya,Assah,Assah I,Toxic Metals,Poor,3.60
+Derelik,Bedaleya,Assah,Assah I,Industrial Fibers,Medium,5.54
+Derelik,Bedaleya,Assah,Assah II,Crystal Compound,Rich,24.19
+Derelik,Bedaleya,Assah,Assah II,Toxic Metals,Medium,5.76
+Derelik,Bedaleya,Assah,Assah II,Construction Blocks,Perfect,29.16
+Derelik,Bedaleya,Assah,Assah III,Toxic Metals,Medium,4.62
+Derelik,Bedaleya,Assah,Assah III,Industrial Fibers,Poor,2.95
+Derelik,Bedaleya,Assah,Assah III,Oxygen Isotopes,Poor,2.28
+Derelik,Bedaleya,Assah,Assah IV,Lustering Alloy,Poor,11.86
+Derelik,Bedaleya,Assah,Assah IV,Industrial Fibers,Medium,5.45
+Derelik,Bedaleya,Assah,Assah IV,Plasmoids,Medium,1.20
+Derelik,Bedaleya,Assah,Assah V,Lustering Alloy,Medium,20.57
+Derelik,Bedaleya,Assah,Assah V,Fiber Composite,Rich,26.68
+Derelik,Bedaleya,Assah,Assah V,Glossy Compound,Poor,16.63
+Derelik,Bedaleya,Assah,Assah V,Noble Gas,Medium,20.27
+Derelik,Bedaleya,Assah,Assah VI,Lustering Alloy,Medium,21.42
+Derelik,Bedaleya,Assah,Assah VI,Noble Gas,Rich,25.09
+Derelik,Bedaleya,Assah,Assah VI,Base Metals,Medium,5.50
+Derelik,Bedaleya,Assah,Assah VI,Polyaramids,Medium,15.17
+Derelik,Bedaleya,Assah,Assah VII,Noble Gas,Medium,21.44
+Derelik,Bedaleya,Assah,Assah VII,Base Metals,Medium,5.29
+Derelik,Bedaleya,Assah,Assah VII,Polyaramids,Poor,10.69
+Derelik,Bedaleya,Assah,Assah VII,Coolant,Rich,16.90
+Derelik,Bedaleya,Assah,Assah VIII,Sheen Compound,Poor,16.04
+Derelik,Bedaleya,Assah,Assah VIII,Noble Gas,Poor,14.87
+Derelik,Bedaleya,Assah,Assah VIII,Base Metals,Poor,4.09
+Derelik,Bedaleya,Assah,Assah VIII,Ionic Solutions,Medium,8.45
+Derelik,Bedaleya,Assah,Assah IX,Lustering Alloy,Medium,19.94
+Derelik,Bedaleya,Assah,Assah IX,Industrial Fibers,Medium,4.63
+Derelik,Bedaleya,Assah,Assah IX,Supertensile Plastics,Poor,8.17
+Derelik,Orshed,Tidacha,Tidacha I,Lustering Alloy,Poor,10.22
+Derelik,Orshed,Tidacha,Tidacha I,Base Metals,Medium,2.98
+Derelik,Orshed,Tidacha,Tidacha II,Lustering Alloy,Poor,9.48
+Derelik,Orshed,Tidacha,Tidacha II,Base Metals,Poor,2.71
+Derelik,Orshed,Tidacha,Tidacha III,Motley Compound,Rich,15.95
+Derelik,Orshed,Tidacha,Tidacha III,Construction Blocks,Perfect,20.11
+Derelik,Orshed,Tidacha,Tidacha IV,Lustering Alloy,Poor,10.60
+Derelik,Orshed,Tidacha,Tidacha IV,Reactive Gas,Rich,18.54
+Derelik,Orshed,Tidacha,Tidacha IV,Base Metals,Rich,4.99
+Derelik,Orshed,Tidacha,Tidacha V,Lustering Alloy,Rich,17.64
+Derelik,Orshed,Tidacha,Tidacha V,Base Metals,Rich,4.07
+Derelik,Orshed,Tidacha,Tidacha V,Ionic Solutions,Perfect,7.68
+Derelik,Orshed,Tidacha,Tidacha VI,Smartfab Units,Medium,8.54
+Derelik,Orshed,Tidacha,Tidacha VI,Heavy Water,Rich,183.48
+Derelik,Orshed,Tidacha,Tidacha VI,Liquid Ozone,Perfect,28.43
+Derelik,Orshed,Tidacha,Tidacha VII,Lustering Alloy,Perfect,19.28
+Derelik,Orshed,Tidacha,Tidacha VII,Sheen Compound,Rich,17.62
+Derelik,Orshed,Tidacha,Tidacha VII,Base Metals,Medium,3.48
+Derelik,Orshed,Tidacha,Tidacha VIII,Lustering Alloy,Poor,11.10
+Derelik,Orshed,Tidacha,Tidacha VIII,Fiber Composite,Rich,15.38
+Derelik,Orshed,Tidacha,Tidacha VIII,Base Metals,Rich,4.43
+Derelik,Orshed,Tidacha,Tidacha IX,Lustering Alloy,Rich,16.60
+Derelik,Orshed,Tidacha,Tidacha IX,Base Metals,Poor,2.31
+Derelik,Orshed,Odlib,Odlib I,Lustering Alloy,Poor,7.84
+Derelik,Orshed,Odlib,Odlib I,Base Metals,Medium,2.98
+Derelik,Orshed,Odlib,Odlib II,Lustering Alloy,Medium,14.71
+Derelik,Orshed,Odlib,Odlib II,Base Metals,Medium,3.00
+Derelik,Orshed,Odlib,Odlib III,Gleaming Alloy,Medium,12.47
+Derelik,Orshed,Odlib,Odlib III,Motley Compound,Rich,18.92
+Derelik,Orshed,Odlib,Odlib IV,Reactive Gas,Perfect,19.36
+Derelik,Orshed,Odlib,Odlib IV,Base Metals,Medium,3.08
+Derelik,Orshed,Odlib,Odlib IV,Heavy Water,Medium,121.80
+Derelik,Orshed,Odlib,Odlib V,Condensed Alloy,Perfect,19.88
+Derelik,Orshed,Odlib,Odlib V,Polyaramids,Perfect,12.88
+Derelik,Orshed,Odlib,Odlib V,Heavy Water,Rich,177.48
+Derelik,Orshed,Odlib,Odlib VI,Reactive Gas,Rich,15.30
+Derelik,Orshed,Odlib,Odlib VI,Industrial Fibers,Perfect,5.10
+Derelik,Orshed,Odlib,Odlib VI,Heavy Water,Medium,125.52
+Derelik,Orshed,Odlib,Odlib VII,Polyaramids,Rich,12.04
+Derelik,Orshed,Odlib,Odlib VII,Silicate Glass,Medium,5.72
+Derelik,Orshed,Odlib,Odlib VII,Heavy Water,Medium,137.76
+Derelik,Orshed,Odlib,Odlib VIII,Lustering Alloy,Poor,9.91
+Derelik,Orshed,Odlib,Odlib VIII,Base Metals,Medium,3.09
+Derelik,Orshed,Odlib,Odlib IX,Fiber Composite,Rich,16.39
+Derelik,Orshed,Odlib,Odlib IX,Base Metals,Perfect,5.98
+Derelik,Orshed,Odlib,Odlib IX,Heavy Water,Rich,155.64
+Derelik,Orshed,Odlib,Odlib X,Lustering Alloy,Perfect,19.13
+Derelik,Orshed,Odlib,Odlib X,Base Metals,Medium,3.85
+Derelik,Orshed,Odlib,Odlib X,Reactive Metals,Medium,3.23
+Derelik,Orshed,Odlib,Odlib XI,Reactive Gas,Rich,15.79
+Derelik,Orshed,Odlib,Odlib XI,Suspended Plasma,Poor,36.37
+Derelik,Orshed,Odlib,Odlib XII,Lustering Alloy,Medium,11.87
+Derelik,Orshed,Odlib,Odlib XII,Noble Gas,Medium,13.30
+Derelik,Orshed,Odlib,Odlib XII,Base Metals,Medium,2.98
+Derelik,Orshed,Odlib,Odlib XIII,Heavy Water,Medium,145.56
+Derelik,Orshed,Odlib,Odlib XIII,Liquid Ozone,Perfect,26.43
+Derelik,Orshed,Odlib,Odlib XIII,Ionic Solutions,Medium,5.31
+Derelik,Orshed,Jofan,Jofan I,Lustering Alloy,Medium,12.91
+Derelik,Orshed,Jofan,Jofan I,Base Metals,Medium,3.26
+Derelik,Orshed,Jofan,Jofan II,Motley Compound,Perfect,20.93
+Derelik,Orshed,Jofan,Jofan II,Noble Metals,Rich,19.45
+Derelik,Orshed,Jofan,Jofan III,Lustering Alloy,Poor,8.63
+Derelik,Orshed,Jofan,Jofan III,Base Metals,Poor,2.19
+Derelik,Orshed,Jofan,Jofan IV,Gleaming Alloy,Medium,15.11
+Derelik,Orshed,Jofan,Jofan IV,Suspended Plasma,Poor,42.54
+Derelik,Orshed,Jofan,Jofan V,Construction Blocks,Rich,20.54
+Derelik,Orshed,Jofan,Jofan V,Suspended Plasma,Poor,43.85
+Derelik,Orshed,Jofan,Jofan VI,Industrial Fibers,Rich,5.29
+Derelik,Orshed,Jofan,Jofan VI,Smartfab Units,Perfect,15.19
+Derelik,Orshed,Jofan,Jofan VI,Heavy Water,Rich,182.39
+Derelik,Orshed,Jofan,Jofan VII,Lustering Alloy,Medium,14.56
+Derelik,Orshed,Jofan,Jofan VII,Fiber Composite,Rich,19.49
+Derelik,Orshed,Jofan,Jofan VII,Base Metals,Poor,3.03
+Derelik,Orshed,Jofan,Jofan VIII,Lustering Alloy,Rich,20.61
+Derelik,Orshed,Jofan,Jofan VIII,Base Metals,Medium,4.26
+Derelik,Orshed,Jofan,Jofan VIII,Reactive Metals,Rich,4.48
+Derelik,Orshed,Jofan,Jofan IX,Lustering Alloy,Poor,11.48
+Derelik,Orshed,Jofan,Jofan IX,Base Metals,Poor,3.10
+Derelik,Orshed,Jofan,Jofan X,Coolant,Rich,12.71
+Derelik,Orshed,Jofan,Jofan X,Silicate Glass,Rich,9.47
+Derelik,Orshed,Jofan,Jofan X,Heavy Water,Medium,131.43
+Derelik,Orshed,Milu,Milu I,Lustering Alloy,Poor,8.55
+Derelik,Orshed,Milu,Milu I,Base Metals,Medium,3.63
+Derelik,Orshed,Milu,Milu II,Lustering Alloy,Poor,8.09
+Derelik,Orshed,Milu,Milu II,Base Metals,Medium,4.17
+Derelik,Orshed,Milu,Milu III,Gleaming Alloy,Poor,12.18
+Derelik,Orshed,Milu,Milu III,Motley Compound,Poor,10.76
+Derelik,Orshed,Milu,Milu IV,Noble Metals,Medium,13.91
+Derelik,Orshed,Milu,Milu IV,Industrial Fibers,Rich,5.35
+Derelik,Orshed,Milu,Milu IV,Heavy Water,Rich,171.73
+Derelik,Orshed,Milu,Milu V,Lustering Alloy,Medium,14.91
+Derelik,Orshed,Milu,Milu V,Reactive Gas,Rich,19.42
+Derelik,Orshed,Milu,Milu V,Base Metals,Medium,3.65
+Derelik,Orshed,Milu,Milu VI,Suspended Plasma,Rich,63.74
+Derelik,Orshed,Milu,Milu VI,Oxygen Isotopes,Medium,2.43
+Derelik,Orshed,Milu,Milu VII,Condensed Alloy,Medium,15.56
+Derelik,Orshed,Milu,Milu VII,Crystal Compound,Medium,15.66
+Derelik,Orshed,Milu,Milu VII,Heavy Water,Rich,186.03
+Derelik,Orshed,Milu,Milu VIII,Lustering Alloy,Perfect,21.05
+Derelik,Orshed,Milu,Milu VIII,Base Metals,Medium,3.31
+Derelik,Orshed,Milu,Milu VIII,Ionic Solutions,Medium,5.30
+Derelik,Orshed,Milu,Milu IX,Lustering Alloy,Rich,18.27
+Derelik,Orshed,Milu,Milu IX,Base Metals,Rich,4.95
+Derelik,Orshed,Milu,Milu IX,Coolant,Rich,12.95
+Derelik,Orshed,Milu,Milu X,Reactive Gas,Perfect,21.23
+Derelik,Orshed,Milu,Milu X,Base Metals,Medium,4.32
+Derelik,Orshed,Milu,Milu X,Heavy Water,Perfect,239.46
+Derelik,Orshed,Milu,Milu XI,Lustering Alloy,Medium,16.41
+Derelik,Orshed,Milu,Milu XI,Noble Gas,Rich,20.10
+Derelik,Orshed,Milu,Milu XI,Base Metals,Poor,2.98
+Derelik,Orshed,Yadi,Yadi I,Dark Compound,Rich,19.27
+Derelik,Orshed,Yadi,Yadi I,Suspended Plasma,Rich,68.75
+Derelik,Orshed,Yadi,Yadi I,Plasmoids,Perfect,1.27
+Derelik,Orshed,Yadi,Yadi II,Lustering Alloy,Poor,8.92
+Derelik,Orshed,Yadi,Yadi II,Base Metals,Poor,2.24
+Derelik,Orshed,Yadi,Yadi III,Lustering Alloy,Poor,10.60
+Derelik,Orshed,Yadi,Yadi III,Base Metals,Medium,3.44
+Derelik,Orshed,Yadi,Yadi IV,Lustering Alloy,Poor,9.02
+Derelik,Orshed,Yadi,Yadi IV,Base Metals,Poor,2.52
+Derelik,Orshed,Yadi,Yadi V,Lustering Alloy,Perfect,21.24
+Derelik,Orshed,Yadi,Yadi V,Glossy Compound,Rich,17.88
+Derelik,Orshed,Yadi,Yadi V,Base Metals,Rich,4.67
+Derelik,Orshed,Yadi,Yadi VI,Lustering Alloy,Poor,12.19
+Derelik,Orshed,Yadi,Yadi VI,Sheen Compound,Medium,14.39
+Derelik,Orshed,Yadi,Yadi VI,Base Metals,Poor,2.87
+Derelik,Orshed,Yadi,Yadi VII,Lustering Alloy,Medium,14.70
+Derelik,Orshed,Yadi,Yadi VII,Fiber Composite,Rich,17.02
+Derelik,Orshed,Yadi,Yadi VII,Base Metals,Rich,5.19
+Derelik,Orshed,Yadi,Yadi VIII,Lustering Alloy,Medium,16.35
+Derelik,Orshed,Yadi,Yadi VIII,Base Metals,Rich,4.71
+Derelik,Orshed,Buftiar,Buftiar I,Sheen Compound,Rich,17.28
+Derelik,Orshed,Buftiar,Buftiar I,Lucent Compound,Rich,18.82
+Derelik,Orshed,Buftiar,Buftiar I,Suspended Plasma,Medium,50.50
+Derelik,Orshed,Buftiar,Buftiar II,Lustering Alloy,Medium,13.31
+Derelik,Orshed,Buftiar,Buftiar II,Base Metals,Poor,2.24
+Derelik,Orshed,Buftiar,Buftiar III,Noble Metals,Medium,13.59
+Derelik,Orshed,Buftiar,Buftiar III,Condensates,Perfect,14.67
+Derelik,Orshed,Buftiar,Buftiar III,Heavy Water,Medium,157.82
+Derelik,Orshed,Buftiar,Buftiar IV,Lustering Alloy,Perfect,21.55
+Derelik,Orshed,Buftiar,Buftiar IV,Noble Gas,Poor,11.84
+Derelik,Orshed,Buftiar,Buftiar IV,Base Metals,Medium,4.00
+Derelik,Orshed,Buftiar,Buftiar V,Lustering Alloy,Medium,13.59
+Derelik,Orshed,Buftiar,Buftiar V,Base Metals,Medium,3.59
+Derelik,Orshed,Buftiar,Buftiar V,Ionic Solutions,Rich,7.88
+Derelik,Orshed,Buftiar,Buftiar VI,Lustering Alloy,Rich,19.20
+Derelik,Orshed,Buftiar,Buftiar VI,Base Metals,Perfect,5.54
+Derelik,Orshed,Buftiar,Buftiar VI,Reactive Metals,Rich,4.86
+Derelik,Orshed,Buftiar,Buftiar VII,Lustering Alloy,Poor,12.23
+Derelik,Orshed,Buftiar,Buftiar VII,Base Metals,Poor,2.90
+Derelik,Oraron,Jarizza,Jarizza I,Lustering Alloy,Poor,10.88
+Derelik,Oraron,Jarizza,Jarizza I,Base Metals,Medium,3.45
+Derelik,Oraron,Jarizza,Jarizza II,Motley Compound,Rich,17.48
+Derelik,Oraron,Jarizza,Jarizza II,Noble Metals,Rich,19.58
+Derelik,Oraron,Jarizza,Jarizza III,Lustering Alloy,Poor,8.45
+Derelik,Oraron,Jarizza,Jarizza III,Base Metals,Medium,4.05
+Derelik,Oraron,Jarizza,Jarizza IV,Lustering Alloy,Medium,15.11
+Derelik,Oraron,Jarizza,Jarizza IV,Base Metals,Poor,2.24
+Derelik,Oraron,Jarizza,Jarizza V,Smartfab Units,Rich,13.73
+Derelik,Oraron,Jarizza,Jarizza V,Heavy Water,Rich,179.92
+Derelik,Oraron,Jarizza,Jarizza V,Liquid Ozone,Poor,15.06
+Derelik,Oraron,Jarizza,Jarizza VI,Smartfab Units,Medium,9.27
+Derelik,Oraron,Jarizza,Jarizza VI,Heavy Water,Medium,131.95
+Derelik,Oraron,Jarizza,Jarizza VI,Liquid Ozone,Perfect,29.87
+Derelik,Oraron,Jarizza,Jarizza VII,Lustering Alloy,Rich,19.70
+Derelik,Oraron,Jarizza,Jarizza VII,Noble Gas,Medium,12.31
+Derelik,Oraron,Jarizza,Jarizza VII,Base Metals,Medium,4.30
+Derelik,Oraron,Jarizza,Jarizza VIII,Lustering Alloy,Medium,14.94
+Derelik,Oraron,Jarizza,Jarizza VIII,Base Metals,Rich,4.79
+Derelik,Oraron,Jarizza,Jarizza VIII,Ionic Solutions,Rich,7.41
+Derelik,Oraron,Jarizza,Jarizza IX,Lustering Alloy,Medium,16.07
+Derelik,Oraron,Jarizza,Jarizza IX,Base Metals,Rich,4.34
+Derelik,Oraron,Jarizza,Jarizza IX,Coolant,Rich,12.81
+Derelik,Oraron,Jarizza,Jarizza X,Lustering Alloy,Medium,14.27
+Derelik,Oraron,Jarizza,Jarizza X,Base Metals,Perfect,5.45
+Derelik,Oraron,Jarizza,Jarizza X,Polyaramids,Medium,10.43
+Derelik,Oraron,Jarizza,Jarizza XI,Lustering Alloy,Medium,13.79
+Derelik,Oraron,Jarizza,Jarizza XI,Base Metals,Medium,4.30
+Derelik,Oraron,Jarizza,Jarizza XII,Lustering Alloy,Poor,8.79
+Derelik,Oraron,Jarizza,Jarizza XII,Base Metals,Poor,3.08
+Derelik,Oraron,Ejahi,Ejahi I,Sheen Compound,Medium,13.49
+Derelik,Oraron,Ejahi,Ejahi I,Condensates,Poor,8.12
+Derelik,Oraron,Ejahi,Ejahi I,Suspended Plasma,Rich,67.35
+Derelik,Oraron,Ejahi,Ejahi II,Lustering Alloy,Poor,8.98
+Derelik,Oraron,Ejahi,Ejahi II,Base Metals,Poor,2.87
+Derelik,Oraron,Ejahi,Ejahi III,Crystal Compound,Medium,14.51
+Derelik,Oraron,Ejahi,Ejahi III,Toxic Metals,Perfect,5.93
+Derelik,Oraron,Ejahi,Ejahi III,Heavy Water,Perfect,222.17
+Derelik,Oraron,Ejahi,Ejahi IV,Suspended Plasma,Poor,39.92
+Derelik,Oraron,Ejahi,Ejahi IV,Oxygen Isotopes,Rich,2.83
+Derelik,Oraron,Ejahi,Ejahi V,Reactive Gas,Medium,15.90
+Derelik,Oraron,Ejahi,Ejahi V,Suspended Plasma,Perfect,76.10
+Derelik,Oraron,Ejahi,Ejahi VI,Condensed Alloy,Rich,19.47
+Derelik,Oraron,Ejahi,Ejahi VI,Fiber Composite,Rich,20.58
+Derelik,Oraron,Ejahi,Ejahi VI,Heavy Water,Medium,147.16
+Derelik,Oraron,Asghatil,Asghatil I,Gleaming Alloy,Rich,16.77
+Derelik,Oraron,Asghatil,Asghatil I,Motley Compound,Medium,14.72
+Derelik,Oraron,Asghatil,Asghatil II,Lustering Alloy,Medium,13.77
+Derelik,Oraron,Asghatil,Asghatil II,Base Metals,Poor,2.27
+Derelik,Oraron,Asghatil,Asghatil III,Noble Metals,Rich,19.03
+Derelik,Oraron,Asghatil,Asghatil III,Condensates,Rich,11.07
+Derelik,Oraron,Asghatil,Asghatil III,Heavy Water,Rich,185.51
+Derelik,Oraron,Asghatil,Asghatil IV,Reactive Gas,Medium,13.12
+Derelik,Oraron,Asghatil,Asghatil IV,Noble Metals,Rich,19.62
+Derelik,Oraron,Asghatil,Asghatil IV,Heavy Water,Medium,138.32
+Derelik,Oraron,Asghatil,Asghatil V,Industrial Fibers,Medium,3.85
+Derelik,Oraron,Asghatil,Asghatil V,Condensates,Perfect,16.33
+Derelik,Oraron,Asghatil,Asghatil V,Heavy Water,Poor,122.07
+Derelik,Oraron,Asghatil,Asghatil VI,Industrial Fibers,Poor,3.14
+Derelik,Oraron,Asghatil,Asghatil VI,Smartfab Units,Medium,9.26
+Derelik,Oraron,Asghatil,Asghatil VI,Heavy Water,Medium,132.60
+Derelik,Oraron,Asghatil,Asghatil VII,Lustering Alloy,Poor,11.53
+Derelik,Oraron,Asghatil,Asghatil VII,Base Metals,Medium,3.88
+Derelik,Oraron,Asghatil,Asghatil VIII,Lustering Alloy,Poor,10.52
+Derelik,Oraron,Asghatil,Asghatil VIII,Base Metals,Poor,2.40
+Derelik,Oraron,Asghatil,Asghatil IX,Lustering Alloy,Medium,13.86
+Derelik,Oraron,Asghatil,Asghatil IX,Reactive Gas,Rich,17.04
+Derelik,Oraron,Asghatil,Asghatil IX,Base Metals,Medium,3.59
+Derelik,Oraron,Bar,Bar I,Lustering Alloy,Poor,10.33
+Derelik,Oraron,Bar,Bar I,Base Metals,Poor,2.64
+Derelik,Oraron,Bar,Bar II,Motley Compound,Medium,13.54
+Derelik,Oraron,Bar,Bar II,Construction Blocks,Medium,14.70
+Derelik,Oraron,Bar,Bar III,Toxic Metals,Rich,5.14
+Derelik,Oraron,Bar,Bar III,Suspended Plasma,Rich,79.48
+Derelik,Oraron,Bar,Bar IV,Base Metals,Rich,5.29
+Derelik,Oraron,Bar,Bar IV,Condensates,Medium,9.08
+Derelik,Oraron,Bar,Bar IV,Heavy Water,Perfect,250.04
+Derelik,Oraron,Bar,Bar V,Lustering Alloy,Medium,17.23
+Derelik,Oraron,Bar,Bar V,Reactive Gas,Rich,19.12
+Derelik,Oraron,Bar,Bar V,Base Metals,Rich,5.22
+Derelik,Oraron,Bar,Bar VI,Lustering Alloy,Medium,15.22
+Derelik,Oraron,Bar,Bar VI,Noble Gas,Rich,17.92
+Derelik,Oraron,Bar,Bar VI,Base Metals,Medium,4.12
+Derelik,Oraron,Bar,Bar VII,Lustering Alloy,Rich,20.50
+Derelik,Oraron,Bar,Bar VII,Reactive Gas,Rich,19.45
+Derelik,Oraron,Bar,Bar VII,Base Metals,Poor,3.29
+Derelik,Oraron,Bar,Bar VIII,Crystal Compound,Medium,17.15
+Derelik,Oraron,Bar,Bar VIII,Heavy Water,Perfect,237.30
+Derelik,Oraron,Bar,Bar VIII,Liquid Ozone,Rich,23.52
+Derelik,Oraron,Bar,Bar IX,Construction Blocks,Rich,22.02
+Derelik,Oraron,Bar,Bar IX,Suspended Plasma,Rich,79.43
+Derelik,Oraron,Bar,Bar X,Lustering Alloy,Poor,9.91
+Derelik,Oraron,Bar,Bar X,Base Metals,Medium,4.18
+Derelik,Oraron,Sucha,Sucha I,Lustering Alloy,Medium,16.17
+Derelik,Oraron,Sucha,Sucha I,Base Metals,Poor,3.33
+Derelik,Oraron,Sucha,Sucha II,Lustering Alloy,Medium,17.08
+Derelik,Oraron,Sucha,Sucha II,Base Metals,Poor,2.63
+Derelik,Oraron,Sucha,Sucha III,Lucent Compound,Medium,14.10
+Derelik,Oraron,Sucha,Sucha III,Suspended Plasma,Rich,69.60
+Derelik,Oraron,Sucha,Sucha IV,Condensed Alloy,Rich,21.31
+Derelik,Oraron,Sucha,Sucha IV,Base Metals,Perfect,6.20
+Derelik,Oraron,Sucha,Sucha IV,Heavy Water,Medium,168.00
+Derelik,Oraron,Sucha,Sucha V,Lustering Alloy,Poor,9.17
+Derelik,Oraron,Sucha,Sucha V,Base Metals,Medium,3.96
+Derelik,Oraron,Sucha,Sucha VI,Lustering Alloy,Rich,19.59
+Derelik,Oraron,Sucha,Sucha VI,Base Metals,Medium,4.38
+Derelik,Oraron,Sucha,Sucha VI,Ionic Solutions,Rich,7.25
+Derelik,Oraron,Sucha,Sucha VII,Lustering Alloy,Rich,20.02
+Derelik,Oraron,Sucha,Sucha VII,Base Metals,Medium,3.61
+Derelik,Oraron,Sucha,Sucha VII,Ionic Solutions,Rich,8.63
+Derelik,Oraron,Sucha,Sucha VIII,Lustering Alloy,Medium,15.62
+Derelik,Oraron,Sucha,Sucha VIII,Noble Gas,Poor,13.03
+Derelik,Oraron,Sucha,Sucha VIII,Base Metals,Rich,5.81
+Derelik,Oraron,Sucha,Sucha IX,Lustering Alloy,Medium,17.36
+Derelik,Oraron,Sucha,Sucha IX,Glossy Compound,Rich,18.37
+Derelik,Oraron,Sucha,Sucha IX,Base Metals,Poor,3.16
+Derelik,Oraron,Sucha,Sucha X,Lustering Alloy,Medium,13.59
+Derelik,Oraron,Sucha,Sucha X,Base Metals,Rich,4.87
+Derelik,Oraron,Gelhan,Gelhan I,Lustering Alloy,Medium,12.34
+Derelik,Oraron,Gelhan,Gelhan I,Base Metals,Poor,3.05
+Derelik,Oraron,Gelhan,Gelhan II,Motley Compound,Medium,13.22
+Derelik,Oraron,Gelhan,Gelhan II,Heavy Metals,Rich,20.40
+Derelik,Oraron,Gelhan,Gelhan III,Construction Blocks,Medium,13.88
+Derelik,Oraron,Gelhan,Gelhan III,Suspended Plasma,Rich,70.01
+Derelik,Oraron,Gelhan,Gelhan IV,Lustering Alloy,Medium,13.92
+Derelik,Oraron,Gelhan,Gelhan IV,Base Metals,Medium,3.90
+Derelik,Oraron,Gelhan,Gelhan V,Lustering Alloy,Rich,17.47
+Derelik,Oraron,Gelhan,Gelhan V,Base Metals,Poor,2.95
+Derelik,Oraron,Gelhan,Gelhan V,Ionic Solutions,Medium,4.93
+Derelik,Oraron,Gelhan,Gelhan VI,Lustering Alloy,Poor,11.96
+Derelik,Oraron,Gelhan,Gelhan VI,Base Metals,Medium,3.53
+Derelik,Oraron,Gelhan,Gelhan VII,Lustering Alloy,Rich,17.11
+Derelik,Oraron,Gelhan,Gelhan VII,Base Metals,Medium,3.75
+Derelik,Oraron,Gelhan,Gelhan VII,Ionic Solutions,Poor,4.32
+Derelik,Oraron,Gelhan,Gelhan VIII,Lustering Alloy,Perfect,21.05
+Derelik,Oraron,Gelhan,Gelhan VIII,Base Metals,Rich,4.99
+Derelik,Oraron,Gelhan,Gelhan VIII,Polyaramids,Medium,9.00
+Derelik,Oraron,Gelhan,Gelhan IX,Reactive Metals,Rich,5.04
+Derelik,Oraron,Gelhan,Gelhan IX,Suspended Plasma,Medium,45.07
+Derelik,Oraron,Gelhan,Gelhan X,Lustering Alloy,Poor,10.15
+Derelik,Oraron,Gelhan,Gelhan X,Base Metals,Poor,3.14
+Derelik,Oraron,Gelhan,Gelhan XI,Lustering Alloy,Poor,11.77
+Derelik,Oraron,Gelhan,Gelhan XI,Base Metals,Poor,3.16
+Derelik,Oraron,Gelhan,Gelhan XI,Polyaramids,Rich,12.60
+Derelik,Oraron,Akeva,Akeva I,Fiber Composite,Medium,15.25
+Derelik,Oraron,Akeva,Akeva I,Heavy Water,Medium,140.84
+Derelik,Oraron,Akeva,Akeva I,Liquid Ozone,Perfect,33.37
+Derelik,Oraron,Akeva,Akeva II,Lustering Alloy,Rich,18.42
+Derelik,Oraron,Akeva,Akeva II,Base Metals,Medium,3.95
+Derelik,Oraron,Akeva,Akeva II,Ionic Solutions,Poor,5.23
+Derelik,Oraron,Akeva,Akeva III,Lustering Alloy,Rich,19.59
+Derelik,Oraron,Akeva,Akeva III,Noble Gas,Rich,19.15
+Derelik,Oraron,Akeva,Akeva III,Base Metals,Rich,5.73
+Derelik,Oraron,Akeva,Akeva IV,Lustering Alloy,Rich,19.22
+Derelik,Oraron,Akeva,Akeva IV,Base Metals,Medium,3.63
+Derelik,Aguh,Sosa,Sosa I,Motley Compound,Medium,20.66
+Derelik,Aguh,Sosa,Sosa I,Noble Gas,Medium,16.54
+Derelik,Aguh,Sosa,Sosa II,Dark Compound,Poor,12.78
+Derelik,Aguh,Sosa,Sosa II,Industrial Fibers,Poor,3.13
+Derelik,Aguh,Sosa,Sosa II,Plasmoids,Medium,1.02
+Derelik,Aguh,Sosa,Sosa III,Toxic Metals,Medium,4.85
+Derelik,Aguh,Sosa,Sosa III,Industrial Fibers,Medium,4.75
+Derelik,Aguh,Sosa,Sosa III,Plasmoids,Medium,1.08
+Derelik,Aguh,Sosa,Sosa IV,Gleaming Alloy,Poor,14.33
+Derelik,Aguh,Sosa,Sosa IV,Noble Gas,Medium,20.20
+Derelik,Aguh,Sosa,Sosa V,Sheen Compound,Rich,24.50
+Derelik,Aguh,Sosa,Sosa V,Noble Gas,Rich,24.38
+Derelik,Aguh,Sosa,Sosa V,Base Metals,Poor,3.84
+Derelik,Aguh,Sosa,Sosa V,Coolant,Rich,17.02
+Derelik,Aguh,Sosa,Sosa VI,Sheen Compound,Medium,19.48
+Derelik,Aguh,Sosa,Sosa VI,Fiber Composite,Medium,17.37
+Derelik,Aguh,Sosa,Sosa VI,Noble Gas,Poor,14.28
+Derelik,Aguh,Sosa,Sosa VI,Base Metals,Medium,5.34
+Derelik,Aguh,Sosa,Sosa VII,Noble Gas,Perfect,28.20
+Derelik,Aguh,Sosa,Sosa VII,Base Metals,Medium,5.04
+Derelik,Aguh,Sosa,Sosa VII,Polyaramids,Poor,10.31
+Derelik,Aguh,Sosa,Sosa VII,Coolant,Rich,17.24
+Derelik,Aguh,Sosa,Sosa VIII,Fiber Composite,Rich,23.63
+Derelik,Aguh,Sosa,Sosa VIII,Glossy Compound,Rich,23.75
+Derelik,Aguh,Sosa,Sosa VIII,Noble Gas,Medium,17.15
+Derelik,Aguh,Sosa,Sosa VIII,Reactive Metals,Medium,5.44
+Derelik,Aguh,Sosa,Sosa IX,Industrial Fibers,Poor,3.84
+Derelik,Aguh,Sosa,Sosa IX,Supertensile Plastics,Poor,8.39
+Derelik,Aguh,Sosa,Sosa IX,Coolant,Poor,8.39
+Derelik,Aguh,Sosa,Sosa X,Heavy Metals,Rich,22.34
+Derelik,Aguh,Sosa,Sosa X,Coolant,Rich,16.64
+Derelik,Aguh,Sosa,Sosa X,Liquid Ozone,Rich,28.96
+Derelik,Aguh,Ilahed,Ilahed I,Base Metals,Poor,3.03
+Derelik,Aguh,Ilahed,Ilahed I,Industrial Fibers,Medium,4.42
+Derelik,Aguh,Ilahed,Ilahed I,Plasmoids,Poor,0.75
+Derelik,Aguh,Ilahed,Ilahed II,Dark Compound,Poor,11.93
+Derelik,Aguh,Ilahed,Ilahed II,Industrial Fibers,Medium,5.49
+Derelik,Aguh,Ilahed,Ilahed II,Construction Blocks,Medium,17.24
+Derelik,Aguh,Ilahed,Ilahed III,Reactive Gas,Medium,19.04
+Derelik,Aguh,Ilahed,Ilahed III,Construction Blocks,Perfect,27.45
+Derelik,Aguh,Ilahed,Ilahed III,Nanites,Medium,4.66
+Derelik,Aguh,Ilahed,Ilahed IV,Lustering Alloy,Rich,23.68
+Derelik,Aguh,Ilahed,Ilahed IV,Glossy Compound,Medium,21.20
+Derelik,Aguh,Ilahed,Ilahed IV,Noble Gas,Medium,18.63
+Derelik,Aguh,Ilahed,Ilahed IV,Base Metals,Medium,4.70
+Derelik,Aguh,Ilahed,Ilahed V,Sheen Compound,Medium,18.24
+Derelik,Aguh,Ilahed,Ilahed V,Noble Gas,Medium,16.51
+Derelik,Aguh,Ilahed,Ilahed V,Polyaramids,Medium,10.93
+Derelik,Aguh,Ilahed,Ilahed V,Coolant,Rich,16.03
+Derelik,Aguh,Ilahed,Ilahed VI,Sheen Compound,Rich,26.88
+Derelik,Aguh,Ilahed,Ilahed VI,Fiber Composite,Rich,23.95
+Derelik,Aguh,Ilahed,Ilahed VI,Noble Gas,Poor,15.83
+Derelik,Aguh,Ilahed,Ilahed VI,Base Metals,Medium,5.32
+Derelik,Aguh,Ilahed,Ilahed VII,Lustering Alloy,Medium,17.03
+Derelik,Aguh,Ilahed,Ilahed VII,Industrial Fibers,Poor,4.14
+Derelik,Aguh,Ilahed,Ilahed VII,Construction Blocks,Poor,10.83
+Derelik,Aguh,Ilahed,Ilahed VIII,Toxic Metals,Poor,3.30
+Derelik,Aguh,Ilahed,Ilahed VIII,Industrial Fibers,Poor,3.80
+Derelik,Aguh,Ilahed,Ilahed VIII,Supertensile Plastics,Poor,8.81
+Derelik,Aguh,Eshwil,Eshwil I,Industrial Fibers,Poor,4.24
+Derelik,Aguh,Eshwil,Eshwil I,Supertensile Plastics,Poor,8.00
+Derelik,Aguh,Eshwil,Eshwil I,Oxygen Isotopes,Poor,2.44
+Derelik,Aguh,Eshwil,Eshwil II,Lustering Alloy,Medium,19.26
+Derelik,Aguh,Eshwil,Eshwil II,Industrial Fibers,Poor,3.98
+Derelik,Aguh,Eshwil,Eshwil II,Silicate Glass,Medium,9.77
+Derelik,Aguh,Eshwil,Eshwil III,Reactive Gas,Medium,17.42
+Derelik,Aguh,Eshwil,Eshwil III,Noble Gas,Rich,27.56
+Derelik,Aguh,Eshwil,Eshwil III,Base Metals,Medium,4.69
+Derelik,Aguh,Eshwil,Eshwil III,Reactive Metals,Rich,6.12
+Derelik,Aguh,Eshwil,Eshwil IV,Sheen Compound,Medium,22.32
+Derelik,Aguh,Eshwil,Eshwil IV,Fiber Composite,Rich,27.63
+Derelik,Aguh,Eshwil,Eshwil IV,Noble Gas,Rich,22.82
+Derelik,Aguh,Eshwil,Eshwil IV,Coolant,Rich,18.98
+Derelik,Aguh,Eshwil,Eshwil V,Reactive Gas,Perfect,28.87
+Derelik,Aguh,Eshwil,Eshwil V,Reactive Metals,Rich,7.48
+Derelik,Aguh,Eshwil,Eshwil V,Construction Blocks,Medium,18.56
+Derelik,Aguh,Aranir,Aranir I,Toxic Metals,Medium,5.25
+Derelik,Aguh,Aranir,Aranir I,Industrial Fibers,Poor,3.11
+Derelik,Aguh,Aranir,Aranir I,Plasmoids,Poor,0.98
+Derelik,Aguh,Aranir,Aranir II,Motley Compound,Rich,25.52
+Derelik,Aguh,Aranir,Aranir II,Noble Gas,Rich,27.49
+Derelik,Aguh,Aranir,Aranir III,Gleaming Alloy,Rich,24.80
+Derelik,Aguh,Aranir,Aranir III,Construction Blocks,Poor,15.64
+Derelik,Aguh,Aranir,Aranir III,Suspended Plasma,Rich,85.73
+Derelik,Aguh,Aranir,Aranir IV,Fiber Composite,Perfect,30.19
+Derelik,Aguh,Aranir,Aranir IV,Industrial Fibers,Rich,6.46
+Derelik,Aguh,Aranir,Aranir IV,Smartfab Units,Medium,13.63
+Derelik,Aguh,Aranir,Aranir IV,Liquid Ozone,Perfect,42.03
+Derelik,Aguh,Aranir,Aranir V,Reactive Gas,Perfect,29.21
+Derelik,Aguh,Aranir,Aranir V,Noble Gas,Medium,19.30
+Derelik,Aguh,Aranir,Aranir V,Reactive Metals,Medium,5.81
+Derelik,Aguh,Aranir,Aranir V,Coolant,Poor,10.49
+Derelik,Aguh,Aranir,Aranir VI,Crystal Compound,Medium,19.40
+Derelik,Aguh,Aranir,Aranir VI,Construction Blocks,Poor,15.95
+Derelik,Aguh,Aranir,Aranir VI,Nanites,Medium,5.48
+Derelik,Aguh,Aranir,Aranir VII,Sheen Compound,Perfect,29.86
+Derelik,Aguh,Aranir,Aranir VII,Glossy Compound,Medium,20.29
+Derelik,Aguh,Aranir,Aranir VII,Noble Gas,Perfect,29.27
+Derelik,Aguh,Aranir,Aranir VII,Ionic Solutions,Perfect,11.58
+Derelik,Aguh,Aranir,Aranir VIII,Lustering Alloy,Perfect,29.88
+Derelik,Aguh,Aranir,Aranir VIII,Noble Gas,Poor,15.57
+Derelik,Aguh,Aranir,Aranir VIII,Coolant,Perfect,19.19
+Derelik,Aguh,Aranir,Aranir VIII,Ionic Solutions,Medium,8.19
+Derelik,Aguh,Aranir,Aranir IX,Opulent Compound,Medium,20.20
+Derelik,Aguh,Aranir,Aranir IX,Crystal Compound,Medium,19.55
+Derelik,Aguh,Aranir,Aranir IX,Noble Metals,Rich,25.16
+Derelik,Aguh,Aranir,Aranir IX,Coolant,Perfect,20.30
+Derelik,Aguh,Ishkad,Ishkad I,Precious Alloy,Medium,17.27
+Derelik,Aguh,Ishkad,Ishkad I,Industrial Fibers,Poor,3.66
+Derelik,Aguh,Ishkad,Ishkad I,Construction Blocks,Poor,11.87
+Derelik,Aguh,Ishkad,Ishkad II,Precious Alloy,Medium,18.67
+Derelik,Aguh,Ishkad,Ishkad II,Dark Compound,Poor,15.01
+Derelik,Aguh,Ishkad,Ishkad II,Industrial Fibers,Poor,2.86
+Derelik,Aguh,Ishkad,Ishkad III,Glossy Compound,Poor,15.21
+Derelik,Aguh,Ishkad,Ishkad III,Noble Gas,Perfect,28.29
+Derelik,Aguh,Ishkad,Ishkad IV,Fiber Composite,Perfect,32.20
+Derelik,Aguh,Ishkad,Ishkad IV,Opulent Compound,Rich,23.19
+Derelik,Aguh,Ishkad,Ishkad IV,Condensates,Medium,11.72
+Derelik,Aguh,Ishkad,Ishkad IV,Heavy Water,Rich,241.06
+Derelik,Aguh,Ishkad,Ishkad V,Lustering Alloy,Poor,15.50
+Derelik,Aguh,Ishkad,Ishkad V,Noble Gas,Medium,20.25
+Derelik,Aguh,Ishkad,Ishkad V,Reactive Metals,Poor,3.74
+Derelik,Aguh,Ishkad,Ishkad V,Ionic Solutions,Medium,6.90
+Derelik,Aguh,Ishkad,Ishkad VI,Condensed Alloy,Rich,23.82
+Derelik,Aguh,Ishkad,Ishkad VI,Crystal Compound,Rich,21.78
+Derelik,Aguh,Ishkad,Ishkad VI,Toxic Metals,Perfect,7.81
+Derelik,Aguh,Ishkad,Ishkad VI,Coolant,Medium,12.30
+Derelik,Aguh,Ishkad,Ishkad VII,Condensed Alloy,Medium,18.65
+Derelik,Aguh,Ishkad,Ishkad VII,Fiber Composite,Perfect,29.56
+Derelik,Aguh,Ishkad,Ishkad VII,Opulent Compound,Perfect,28.66
+Derelik,Aguh,Ishkad,Ishkad VII,Base Metals,Poor,4.14
+Derelik,Aguh,Ishkad,Ishkad VIII,Fiber Composite,Rich,24.34
+Derelik,Aguh,Ishkad,Ishkad VIII,Noble Gas,Rich,26.38
+Derelik,Aguh,Ishkad,Ishkad VIII,Base Metals,Medium,4.70
+Derelik,Aguh,Ishkad,Ishkad VIII,Polyaramids,Rich,17.39
+Derelik,Aguh,Ishkad,Ishkad IX,Condensed Alloy,Medium,17.99
+Derelik,Aguh,Ishkad,Ishkad IX,Coolant,Perfect,19.19
+Derelik,Aguh,Ishkad,Ishkad IX,Liquid Ozone,Medium,26.09
+Derelik,Aguh,Ishkad,Ishkad IX,Ionic Solutions,Medium,8.38
+Derelik,Aguh,Hahyil,Hahyil I,Precious Alloy,Poor,13.45
+Derelik,Aguh,Hahyil,Hahyil I,Toxic Metals,Medium,5.28
+Derelik,Aguh,Hahyil,Hahyil I,Industrial Fibers,Poor,4.15
+Derelik,Aguh,Hahyil,Hahyil II,Lustering Alloy,Medium,17.53
+Derelik,Aguh,Hahyil,Hahyil II,Base Metals,Poor,3.92
+Derelik,Aguh,Hahyil,Hahyil II,Industrial Fibers,Medium,5.03
+Derelik,Aguh,Hahyil,Hahyil III,Dark Compound,Medium,21.96
+Derelik,Aguh,Hahyil,Hahyil III,Base Metals,Medium,4.57
+Derelik,Aguh,Hahyil,Hahyil III,Industrial Fibers,Poor,4.38
+Derelik,Aguh,Hahyil,Hahyil IV,Sheen Compound,Rich,27.88
+Derelik,Aguh,Hahyil,Hahyil IV,Fiber Composite,Rich,23.81
+Derelik,Aguh,Hahyil,Hahyil IV,Noble Gas,Poor,15.70
+Derelik,Aguh,Hahyil,Hahyil IV,Reactive Metals,Rich,6.84
+Derelik,Aguh,Hahyil,Hahyil V,Lustering Alloy,Medium,21.46
+Derelik,Aguh,Hahyil,Hahyil V,Reactive Gas,Poor,16.51
+Derelik,Aguh,Hahyil,Hahyil V,Noble Gas,Medium,19.62
+Derelik,Aguh,Hahyil,Hahyil V,Reactive Metals,Rich,6.12
+Derelik,Aguh,Hahyil,Hahyil VI,Reactive Gas,Rich,26.84
+Derelik,Aguh,Hahyil,Hahyil VI,Noble Gas,Medium,20.05
+Derelik,Aguh,Hahyil,Hahyil VI,Reactive Metals,Medium,4.92
+Derelik,Aguh,Hahyil,Hahyil VI,Coolant,Medium,11.71
+Derelik,Aguh,Hahyil,Hahyil VII,Industrial Fibers,Poor,4.31
+Derelik,Aguh,Hahyil,Hahyil VII,Supertensile Plastics,Rich,16.24
+Derelik,Aguh,Hahyil,Hahyil VII,Coolant,Poor,11.12
+Derelik,Aguh,Hahyil,Hahyil VIII,Condensed Alloy,Medium,17.37
+Derelik,Aguh,Hahyil,Hahyil VIII,Toxic Metals,Poor,4.32
+Derelik,Aguh,Hahyil,Hahyil VIII,Coolant,Medium,13.57
+Derelik,Aguh,Hahyil,Hahyil VIII,Silicate Glass,Medium,10.18
+Derelik,Aguh,Hahyil,Hahyil IX,Precious Alloy,Poor,14.83
+Derelik,Aguh,Hahyil,Hahyil IX,Industrial Fibers,Poor,3.71
+Derelik,Aguh,Hahyil,Hahyil IX,Supertensile Plastics,Poor,10.33
+Derelik,Mal,Asilem,Asilem I,Noble Gas,Poor,16.69
+Derelik,Mal,Asilem,Asilem I,Noble Metals,Poor,16.88
+Derelik,Mal,Asilem,Asilem II,Base Metals,Medium,5.70
+Derelik,Mal,Asilem,Asilem II,Industrial Fibers,Poor,3.32
+Derelik,Mal,Asilem,Asilem II,Construction Blocks,Poor,15.55
+Derelik,Mal,Asilem,Asilem III,Dark Compound,Poor,12.67
+Derelik,Mal,Asilem,Asilem III,Industrial Fibers,Poor,3.79
+Derelik,Mal,Asilem,Asilem III,Oxygen Isotopes,Poor,1.88
+Derelik,Mal,Asilem,Asilem IV,Fiber Composite,Perfect,31.81
+Derelik,Mal,Asilem,Asilem IV,Reactive Gas,Perfect,32.06
+Derelik,Mal,Asilem,Asilem IV,Base Metals,Rich,6.95
+Derelik,Mal,Asilem,Asilem IV,Heavy Water,Perfect,296.28
+Derelik,Mal,Asilem,Asilem V,Sheen Compound,Rich,27.86
+Derelik,Mal,Asilem,Asilem V,Noble Gas,Rich,23.96
+Derelik,Mal,Asilem,Asilem V,Coolant,Rich,15.61
+Derelik,Mal,Asilem,Asilem V,Ionic Solutions,Medium,6.90
+Derelik,Mal,Asilem,Asilem VI,Fiber Composite,Rich,26.80
+Derelik,Mal,Asilem,Asilem VI,Noble Gas,Medium,22.00
+Derelik,Mal,Asilem,Asilem VI,Polyaramids,Medium,14.11
+Derelik,Mal,Asilem,Asilem VI,Coolant,Perfect,19.31
+Derelik,Mal,Asilem,Asilem VII,Fiber Composite,Poor,15.32
+Derelik,Mal,Asilem,Asilem VII,Glossy Compound,Medium,19.28
+Derelik,Mal,Asilem,Asilem VII,Noble Gas,Medium,22.59
+Derelik,Mal,Asilem,Asilem VII,Base Metals,Poor,4.20
+Derelik,Mal,Asilem,Asilem VIII,Reactive Metals,Perfect,7.66
+Derelik,Mal,Asilem,Asilem VIII,Supertensile Plastics,Poor,10.62
+Derelik,Mal,Asilem,Asilem VIII,Construction Blocks,Medium,22.12
+Derelik,Mal,Asilem,Asilem IX,Base Metals,Poor,3.61
+Derelik,Mal,Asilem,Asilem IX,Coolant,Medium,14.27
+Derelik,Mal,Asilem,Asilem IX,Condensates,Rich,16.74
+Derelik,Mal,Mahnagh,Mahnagh I,Toxic Metals,Poor,3.30
+Derelik,Mal,Mahnagh,Mahnagh I,Industrial Fibers,Poor,3.42
+Derelik,Mal,Mahnagh,Mahnagh I,Supertensile Plastics,Poor,11.18
+Derelik,Mal,Mahnagh,Mahnagh II,Noble Gas,Rich,27.52
+Derelik,Mal,Mahnagh,Mahnagh II,Construction Blocks,Rich,26.35
+Derelik,Mal,Mahnagh,Mahnagh III,Dark Compound,Medium,16.97
+Derelik,Mal,Mahnagh,Mahnagh III,Toxic Metals,Medium,5.81
+Derelik,Mal,Mahnagh,Mahnagh III,Industrial Fibers,Poor,4.36
+Derelik,Mal,Mahnagh,Mahnagh IV,Lucent Compound,Medium,20.90
+Derelik,Mal,Mahnagh,Mahnagh IV,Dark Compound,Rich,27.29
+Derelik,Mal,Mahnagh,Mahnagh IV,Nanites,Rich,7.25
+Derelik,Mal,Mahnagh,Mahnagh IV,Plasmoids,Medium,1.34
+Derelik,Mal,Mahnagh,Mahnagh V,Glossy Compound,Perfect,28.82
+Derelik,Mal,Mahnagh,Mahnagh V,Noble Gas,Rich,27.31
+Derelik,Mal,Mahnagh,Mahnagh VI,Industrial Fibers,Medium,4.84
+Derelik,Mal,Mahnagh,Mahnagh VI,Silicate Glass,Medium,8.92
+Derelik,Mal,Mahnagh,Mahnagh VI,Plasmoids,Poor,0.75
+Derelik,Mal,Mahnagh,Mahnagh VII,Opulent Compound,Poor,16.36
+Derelik,Mal,Mahnagh,Mahnagh VII,Polyaramids,Poor,10.99
+Derelik,Mal,Mahnagh,Mahnagh VII,Coolant,Rich,17.41
+Derelik,Mal,Mahnagh,Mahnagh VII,Heavy Water,Perfect,303.30
+Derelik,Mal,Mahnagh,Mahnagh VIII,Lustering Alloy,Medium,22.03
+Derelik,Mal,Mahnagh,Mahnagh VIII,Dark Compound,Poor,13.18
+Derelik,Mal,Mahnagh,Mahnagh VIII,Industrial Fibers,Medium,5.30
+Derelik,Mal,Mahnagh,Mahnagh IX,Sheen Compound,Medium,19.67
+Derelik,Mal,Mahnagh,Mahnagh IX,Noble Gas,Perfect,29.84
+Derelik,Mal,Mahnagh,Mahnagh IX,Reactive Metals,Medium,5.12
+Derelik,Mal,Mahnagh,Mahnagh IX,Coolant,Poor,9.90
+Derelik,Mal,Mahnagh,Mahnagh X,Sheen Compound,Rich,27.68
+Derelik,Mal,Mahnagh,Mahnagh X,Noble Gas,Medium,22.12
+Derelik,Mal,Mahnagh,Mahnagh X,Reactive Metals,Medium,5.44
+Derelik,Mal,Mahnagh,Mahnagh X,Coolant,Medium,14.99
+Derelik,Mal,Mahnagh,Mahnagh XI,Lustering Alloy,Medium,22.10
+Derelik,Mal,Mahnagh,Mahnagh XI,Fiber Composite,Poor,16.61
+Derelik,Mal,Mahnagh,Mahnagh XI,Glossy Compound,Rich,24.68
+Derelik,Mal,Mahnagh,Mahnagh XI,Noble Gas,Medium,17.62
+Derelik,Mal,Mahnagh,Mahnagh XII,Noble Gas,Medium,17.10
+Derelik,Mal,Mahnagh,Mahnagh XII,Polyaramids,Rich,16.42
+Derelik,Mal,Shach,Shach I,Noble Gas,Perfect,28.02
+Derelik,Mal,Shach,Shach I,Smartfab Units,Medium,14.01
+Derelik,Mal,Shach,Shach II,Fiber Composite,Rich,24.43
+Derelik,Mal,Shach,Shach II,Reactive Gas,Perfect,28.51
+Derelik,Mal,Shach,Shach II,Industrial Fibers,Rich,6.46
+Derelik,Mal,Shach,Shach II,Smartfab Units,Medium,10.85
+Derelik,Mal,Shach,Shach III,Fiber Composite,Perfect,30.50
+Derelik,Mal,Shach,Shach III,Opulent Compound,Perfect,27.37
+Derelik,Mal,Shach,Shach III,Noble Metals,Perfect,28.82
+Derelik,Mal,Shach,Shach III,Industrial Fibers,Rich,6.83
+Derelik,Mal,Shach,Shach IV,Lustering Alloy,Medium,19.18
+Derelik,Mal,Shach,Shach IV,Toxic Metals,Poor,3.74
+Derelik,Mal,Shach,Shach IV,Industrial Fibers,Poor,4.06
+Derelik,Mal,Shach,Shach V,Gleaming Alloy,Poor,13.75
+Derelik,Mal,Shach,Shach V,Toxic Metals,Rich,6.45
+Derelik,Mal,Shach,Shach V,Construction Blocks,Medium,17.93
+Derelik,Mal,Shach,Shach VI,Lustering Alloy,Medium,17.24
+Derelik,Mal,Shach,Shach VI,Toxic Metals,Poor,3.04
+Derelik,Mal,Shach,Shach VI,Industrial Fibers,Poor,3.40
+Derelik,Mal,Shach,Shach VII,Lustering Alloy,Poor,14.47
+Derelik,Mal,Shach,Shach VII,Reactive Gas,Medium,17.36
+Derelik,Mal,Shach,Shach VII,Noble Gas,Medium,17.77
+Derelik,Mal,Shach,Shach VII,Reactive Metals,Medium,5.03
+Derelik,Mal,Shach,Shach VIII,Fiber Composite,Rich,26.83
+Derelik,Mal,Shach,Shach VIII,Reactive Gas,Rich,22.88
+Derelik,Mal,Shach,Shach VIII,Noble Gas,Rich,21.54
+Derelik,Mal,Shach,Shach VIII,Base Metals,Medium,4.56
+Derelik,Mal,Shach,Shach IX,Condensed Alloy,Rich,25.70
+Derelik,Mal,Shach,Shach IX,Fiber Composite,Medium,16.39
+Derelik,Mal,Shach,Shach IX,Noble Metals,Rich,22.22
+Derelik,Mal,Shach,Shach IX,Liquid Ozone,Medium,24.91
+Derelik,Mal,Kehrara,Kehrara I,Sheen Compound,Rich,26.72
+Derelik,Mal,Kehrara,Kehrara I,Heavy Metals,Medium,17.22
+Derelik,Mal,Kehrara,Kehrara I,Nanites,Perfect,7.15
+Derelik,Mal,Kehrara,Kehrara I,Plasmoids,Perfect,1.74
+Derelik,Mal,Kehrara,Kehrara II,Toxic Metals,Poor,3.40
+Derelik,Mal,Kehrara,Kehrara II,Industrial Fibers,Poor,3.96
+Derelik,Mal,Kehrara,Kehrara II,Oxygen Isotopes,Medium,2.97
+Derelik,Mal,Kehrara,Kehrara III,Toxic Metals,Poor,3.64
+Derelik,Mal,Kehrara,Kehrara III,Industrial Fibers,Poor,3.40
+Derelik,Mal,Kehrara,Kehrara III,Construction Blocks,Poor,10.91
+Derelik,Mal,Kehrara,Kehrara IV,Lustering Alloy,Poor,10.71
+Derelik,Mal,Kehrara,Kehrara IV,Base Metals,Poor,3.00
+Derelik,Mal,Kehrara,Kehrara IV,Industrial Fibers,Poor,3.65
+Derelik,Mal,Kehrara,Kehrara V,Glossy Compound,Medium,16.54
+Derelik,Mal,Kehrara,Kehrara V,Reactive Gas,Medium,17.65
+Derelik,Mal,Kehrara,Kehrara V,Noble Gas,Rich,25.35
+Derelik,Mal,Kehrara,Kehrara V,Coolant,Rich,17.20
+Derelik,Mal,Kehrara,Kehrara VI,Reactive Gas,Medium,21.37
+Derelik,Mal,Kehrara,Kehrara VI,Noble Gas,Rich,26.20
+Derelik,Mal,Kehrara,Kehrara VI,Polyaramids,Poor,9.36
+Derelik,Mal,Kehrara,Kehrara VI,Ionic Solutions,Perfect,11.12
+Derelik,Mal,Kehrara,Kehrara VII,Lustering Alloy,Rich,26.79
+Derelik,Mal,Kehrara,Kehrara VII,Sheen Compound,Medium,21.32
+Derelik,Mal,Kehrara,Kehrara VII,Fiber Composite,Medium,16.71
+Derelik,Mal,Kehrara,Kehrara VII,Noble Gas,Medium,17.20
+Derelik,Mal,Arena,Arena I,Toxic Metals,Medium,4.96
+Derelik,Mal,Arena,Arena I,Industrial Fibers,Poor,3.57
+Derelik,Mal,Arena,Arena I,Oxygen Isotopes,Medium,2.49
+Derelik,Mal,Arena,Arena II,Precious Alloy,Poor,11.66
+Derelik,Mal,Arena,Arena II,Industrial Fibers,Medium,4.97
+Derelik,Mal,Arena,Arena II,Oxygen Isotopes,Poor,1.65
+Derelik,Mal,Arena,Arena III,Supertensile Plastics,Medium,11.93
+Derelik,Mal,Arena,Arena III,Construction Blocks,Rich,22.69
+Derelik,Mal,Arena,Arena III,Nanites,Medium,4.61
+Derelik,Mal,Arena,Arena IV,Fiber Composite,Medium,16.11
+Derelik,Mal,Arena,Arena IV,Reactive Gas,Poor,13.87
+Derelik,Mal,Arena,Arena IV,Noble Gas,Medium,15.25
+Derelik,Mal,Arena,Arena IV,Base Metals,Rich,6.01
+Derelik,Mal,Arena,Arena V,Sheen Compound,Medium,18.83
+Derelik,Mal,Arena,Arena V,Noble Gas,Medium,18.75
+Derelik,Mal,Arena,Arena V,Coolant,Medium,13.39
+Derelik,Mal,Arena,Arena V,Ionic Solutions,Poor,5.88
+Derelik,Mal,Arena,Arena VI,Sheen Compound,Rich,25.30
+Derelik,Mal,Arena,Arena VI,Glossy Compound,Medium,17.84
+Derelik,Mal,Arena,Arena VI,Noble Gas,Medium,17.38
+Derelik,Mal,Arena,Arena VI,Reactive Metals,Medium,4.18
+Derelik,Mal,Arena,Arena VII,Precious Alloy,Medium,16.96
+Derelik,Mal,Arena,Arena VII,Industrial Fibers,Medium,4.82
+Derelik,Mal,Arena,Arena VII,Silicate Glass,Poor,6.56
+Derelik,Mal,Arena,Arena VIII,Reactive Gas,Medium,16.46
+Derelik,Mal,Arena,Arena VIII,Toxic Metals,Rich,5.89
+Derelik,Mal,Arena,Arena VIII,Construction Blocks,Poor,14.45
+Derelik,Mal,Timeor,Timeor I,Motley Compound,Medium,17.93
+Derelik,Mal,Timeor,Timeor I,Noble Gas,Perfect,28.46
+Derelik,Mal,Timeor,Timeor II,Toxic Metals,Poor,3.86
+Derelik,Mal,Timeor,Timeor II,Industrial Fibers,Medium,4.45
+Derelik,Mal,Timeor,Timeor II,Plasmoids,Poor,0.71
+Derelik,Mal,Timeor,Timeor III,Industrial Fibers,Poor,3.72
+Derelik,Mal,Timeor,Timeor III,Construction Blocks,Poor,13.07
+Derelik,Mal,Timeor,Timeor III,Plasmoids,Medium,1.18
+Derelik,Mal,Timeor,Timeor IV,Reactive Metals,Rich,6.82
+Derelik,Mal,Timeor,Timeor IV,Construction Blocks,Medium,20.40
+Derelik,Mal,Timeor,Timeor IV,Oxygen Isotopes,Medium,2.97
+Derelik,Mal,Timeor,Timeor V,Condensed Alloy,Rich,25.40
+Derelik,Mal,Timeor,Timeor V,Fiber Composite,Rich,23.73
+Derelik,Mal,Timeor,Timeor V,Reactive Gas,Rich,25.30
+Derelik,Mal,Timeor,Timeor V,Noble Metals,Rich,22.49
+Derelik,Mal,Timeor,Timeor VI,Sheen Compound,Perfect,27.49
+Derelik,Mal,Timeor,Timeor VI,Reactive Gas,Medium,20.23
+Derelik,Mal,Timeor,Timeor VI,Noble Gas,Rich,26.64
+Derelik,Mal,Timeor,Timeor VI,Base Metals,Poor,4.00
+Derelik,Mal,Timeor,Timeor VII,Base Metals,Poor,3.07
+Derelik,Mal,Timeor,Timeor VII,Industrial Fibers,Poor,3.61
+Derelik,Mal,Timeor,Timeor VII,Construction Blocks,Medium,19.41
+Derelik,Mal,Timeor,Timeor VIII,Sheen Compound,Medium,16.34
+Derelik,Mal,Timeor,Timeor VIII,Fiber Composite,Medium,19.82
+Derelik,Mal,Timeor,Timeor VIII,Noble Gas,Rich,23.49
+Derelik,Mal,Timeor,Timeor VIII,Reactive Metals,Rich,6.08
+Derelik,Mal,Timeor,Timeor IX,Noble Gas,Rich,24.84
+Derelik,Mal,Timeor,Timeor IX,Base Metals,Rich,6.76
+Derelik,Mal,Timeor,Timeor IX,Reactive Metals,Medium,4.77
+Derelik,Mal,Timeor,Timeor IX,Ionic Solutions,Medium,6.85
+Derelik,Mal,Timeor,Timeor X,Lustering Alloy,Medium,20.30
+Derelik,Mal,Timeor,Timeor X,Glossy Compound,Rich,24.60
+Derelik,Mal,Timeor,Timeor X,Noble Gas,Rich,22.29
+Derelik,Mal,Timeor,Timeor X,Reactive Metals,Perfect,7.25
+Derelik,Mal,Timeor,Timeor XI,Base Metals,Rich,6.63
+Derelik,Mal,Timeor,Timeor XI,Heavy Metals,Rich,22.18
+Derelik,Mal,Timeor,Timeor XI,Coolant,Medium,12.19
+Derelik,Mal,Timeor,Timeor XII,Base Metals,Rich,6.23
+Derelik,Mal,Timeor,Timeor XII,Coolant,Poor,8.56
+Derelik,Mal,Timeor,Timeor XII,Condensates,Rich,15.12
+Derelik,Mal,Uhtafal,Uhtafal I,Sheen Compound,Perfect,26.42
+Derelik,Mal,Uhtafal,Uhtafal I,Dark Compound,Perfect,27.57
+Derelik,Mal,Uhtafal,Uhtafal I,Nanites,Medium,4.01
+Derelik,Mal,Uhtafal,Uhtafal I,Ionic Solutions,Rich,8.56
+Derelik,Mal,Uhtafal,Uhtafal II,Noble Gas,Rich,21.33
+Derelik,Mal,Uhtafal,Uhtafal II,Reactive Metals,Medium,4.58
+Derelik,Mal,Uhtafal,Uhtafal II,Coolant,Rich,13.59
+Derelik,Mal,Uhtafal,Uhtafal II,Ionic Solutions,Medium,7.94
+Derelik,Mal,Uhtafal,Uhtafal III,Glossy Compound,Perfect,25.63
+Derelik,Mal,Uhtafal,Uhtafal III,Noble Gas,Medium,16.10
+Derelik,Mal,Uhtafal,Uhtafal III,Base Metals,Rich,6.15
+Derelik,Mal,Uhtafal,Uhtafal III,Coolant,Medium,11.18
+Derelik,Mal,Uhtafal,Uhtafal IV,Base Metals,Medium,5.23
+Derelik,Mal,Uhtafal,Uhtafal IV,Coolant,Rich,15.30
+Derelik,Mal,Uhtafal,Uhtafal IV,Liquid Ozone,Medium,25.12
+Derelik,Mal,Uhtafal,Uhtafal V,Industrial Fibers,Poor,2.88
+Derelik,Mal,Uhtafal,Uhtafal V,Supertensile Plastics,Medium,12.70
+Derelik,Mal,Uhtafal,Uhtafal V,Oxygen Isotopes,Medium,2.49
+Derelik,Mal,Dysa,Dysa I,Base Metals,Medium,5.50
+Derelik,Mal,Dysa,Dysa I,Industrial Fibers,Poor,4.11
+Derelik,Mal,Dysa,Dysa I,Silicate Glass,Poor,7.93
+Derelik,Mal,Dysa,Dysa II,Lustering Alloy,Medium,17.42
+Derelik,Mal,Dysa,Dysa II,Base Metals,Poor,4.03
+Derelik,Mal,Dysa,Dysa II,Industrial Fibers,Poor,4.12
+Derelik,Mal,Dysa,Dysa III,Crystal Compound,Perfect,29.36
+Derelik,Mal,Dysa,Dysa III,Reactive Metals,Rich,6.54
+Derelik,Mal,Dysa,Dysa III,Construction Blocks,Rich,27.72
+Derelik,Mal,Dysa,Dysa IV,Precious Alloy,Medium,21.96
+Derelik,Mal,Dysa,Dysa IV,Industrial Fibers,Medium,4.82
+Derelik,Mal,Dysa,Dysa IV,Oxygen Isotopes,Poor,1.78
+Derelik,Mal,Dysa,Dysa V,Lustering Alloy,Rich,24.98
+Derelik,Mal,Dysa,Dysa V,Sheen Compound,Medium,21.04
+Derelik,Mal,Dysa,Dysa V,Noble Gas,Poor,15.41
+Derelik,Mal,Dysa,Dysa V,Coolant,Medium,13.19
+Derelik,Mal,Dysa,Dysa VI,Lustering Alloy,Medium,18.00
+Derelik,Mal,Dysa,Dysa VI,Glossy Compound,Medium,17.64
+Derelik,Mal,Dysa,Dysa VI,Noble Gas,Medium,20.30
+Derelik,Mal,Dysa,Dysa VI,Reactive Metals,Perfect,7.65
+Derelik,Mal,Dysa,Dysa VII,Lustering Alloy,Medium,21.55
+Derelik,Mal,Dysa,Dysa VII,Noble Gas,Medium,18.38
+Derelik,Mal,Dysa,Dysa VII,Polyaramids,Medium,14.89
+Derelik,Mal,Dysa,Dysa VII,Ionic Solutions,Poor,6.16
+Derelik,Mal,Dysa,Dysa VIII,Sheen Compound,Medium,20.45
+Derelik,Mal,Dysa,Dysa VIII,Noble Gas,Poor,15.97
+Derelik,Mal,Dysa,Dysa VIII,Reactive Metals,Rich,6.53
+Derelik,Mal,Dysa,Dysa VIII,Ionic Solutions,Medium,7.62
+Derelik,Mal,Serad,Serad I,Lucent Compound,Medium,17.85
+Derelik,Mal,Serad,Serad I,Suspended Plasma,Medium,52.22
+Derelik,Mal,Serad,Serad II,Lustering Alloy,Rich,23.27
+Derelik,Mal,Serad,Serad II,Base Metals,Medium,4.69
+Derelik,Mal,Serad,Serad II,Polyaramids,Rich,15.70
+Derelik,Mal,Serad,Serad III,Lustering Alloy,Rich,21.14
+Derelik,Mal,Serad,Serad III,Base Metals,Medium,3.77
+Derelik,Mal,Serad,Serad III,Ionic Solutions,Rich,8.92
+Derelik,Mal,Serad,Serad IV,Lustering Alloy,Poor,12.35
+Derelik,Mal,Serad,Serad IV,Base Metals,Rich,5.14
+Derelik,Mal,Serad,Serad IV,Polyaramids,Medium,12.56
+Derelik,Mal,Serad,Serad V,Lustering Alloy,Medium,15.45
+Derelik,Mal,Serad,Serad V,Base Metals,Medium,4.44
+Derelik,Mal,Serad,Serad V,Reactive Metals,Medium,3.75
+Derelik,Mal,Serad,Serad VI,Lustering Alloy,Poor,10.61
+Derelik,Mal,Serad,Serad VI,Base Metals,Medium,4.13
+Derelik,Mal,Mahti,Mahti I,Noble Gas,Poor,16.56
+Derelik,Mal,Mahti,Mahti I,Noble Metals,Rich,27.20
+Derelik,Mal,Mahti,Mahti II,Dark Compound,Medium,20.54
+Derelik,Mal,Mahti,Mahti II,Industrial Fibers,Medium,5.13
+Derelik,Mal,Mahti,Mahti II,Plasmoids,Medium,1.06
+Derelik,Mal,Mahti,Mahti III,Precious Alloy,Poor,13.32
+Derelik,Mal,Mahti,Mahti III,Base Metals,Medium,5.06
+Derelik,Mal,Mahti,Mahti III,Industrial Fibers,Medium,5.20
+Derelik,Mal,Mahti,Mahti IV,Noble Gas,Rich,25.92
+Derelik,Mal,Mahti,Mahti IV,Construction Blocks,Poor,16.49
+Derelik,Mal,Mahti,Mahti V,Toxic Metals,Perfect,7.71
+Derelik,Mal,Mahti,Mahti V,Construction Blocks,Perfect,29.14
+Derelik,Mal,Mahti,Mahti V,Oxygen Isotopes,Perfect,4.38
+Derelik,Mal,Mahti,Mahti VI,Lustering Alloy,Poor,12.80
+Derelik,Mal,Mahti,Mahti VI,Industrial Fibers,Poor,4.23
+Derelik,Mal,Mahti,Mahti VI,Construction Blocks,Poor,11.54
+Derelik,Mal,Mahti,Mahti VII,Sheen Compound,Rich,27.94
+Derelik,Mal,Mahti,Mahti VII,Noble Gas,Perfect,28.93
+Derelik,Mal,Mahti,Mahti VII,Base Metals,Rich,6.77
+Derelik,Mal,Mahti,Mahti VII,Polyaramids,Rich,15.37
+Derelik,Mal,Mahti,Mahti VIII,Sheen Compound,Poor,14.81
+Derelik,Mal,Mahti,Mahti VIII,Noble Gas,Medium,22.75
+Derelik,Mal,Mahti,Mahti VIII,Polyaramids,Medium,11.70
+Derelik,Mal,Mahti,Mahti VIII,Coolant,Rich,17.95
+Derelik,Mal,Mahti,Mahti IX,Lustering Alloy,Medium,17.98
+Derelik,Mal,Mahti,Mahti IX,Glossy Compound,Poor,16.33
+Derelik,Mal,Mahti,Mahti IX,Noble Gas,Perfect,29.81
+Derelik,Mal,Mahti,Mahti IX,Reactive Metals,Medium,5.54
+Derelik,Mal,Mahti,Mahti X,Fiber Composite,Medium,22.19
+Derelik,Mal,Mahti,Mahti X,Reactive Gas,Rich,27.50
+Derelik,Mal,Mahti,Mahti X,Noble Gas,Perfect,29.20
+Derelik,Mal,Mahti,Mahti X,Reactive Metals,Rich,6.82
+Derelik,Mal,Mahti,Mahti XI,Lustering Alloy,Rich,25.00
+Derelik,Mal,Mahti,Mahti XI,Noble Gas,Rich,25.58
+Derelik,Mal,Mahti,Mahti XI,Reactive Metals,Rich,7.30
+Derelik,Mal,Mahti,Mahti XI,Polyaramids,Medium,14.39
+Derelik,Mal,Mahti,Mahti XII,Heavy Metals,Medium,17.73
+Derelik,Mal,Mahti,Mahti XII,Coolant,Medium,12.42
+Derelik,Mal,Mahti,Mahti XII,Suspended Plasma,Poor,48.79
+Derelik,Mal,Mahti,Mahti XIII,Dark Compound,Poor,14.18
+Derelik,Mal,Mahti,Mahti XIII,Industrial Fibers,Poor,4.12
+Derelik,Mal,Mahti,Mahti XIII,Silicate Glass,Poor,7.02
+Derelik,Mal,Abha,Abha I,Precious Alloy,Medium,16.86
+Derelik,Mal,Abha,Abha I,Toxic Metals,Medium,5.07
+Derelik,Mal,Abha,Abha I,Industrial Fibers,Poor,3.04
+Derelik,Mal,Abha,Abha II,Toxic Metals,Poor,3.32
+Derelik,Mal,Abha,Abha II,Industrial Fibers,Medium,4.88
+Derelik,Mal,Abha,Abha II,Oxygen Isotopes,Poor,2.10
+Derelik,Mal,Abha,Abha III,Fiber Composite,Rich,25.22
+Derelik,Mal,Abha,Abha III,Reactive Gas,Perfect,26.59
+Derelik,Mal,Abha,Abha III,Noble Metals,Medium,17.62
+Derelik,Mal,Abha,Abha III,Condensates,Medium,10.83
+Derelik,Mal,Abha,Abha IV,Fiber Composite,Perfect,27.39
+Derelik,Mal,Abha,Abha IV,Reactive Gas,Perfect,29.68
+Derelik,Mal,Abha,Abha IV,Industrial Fibers,Rich,6.24
+Derelik,Mal,Abha,Abha IV,Smartfab Units,Medium,11.24
+Derelik,Mal,Abha,Abha V,Fiber Composite,Perfect,29.58
+Derelik,Mal,Abha,Abha V,Reactive Gas,Medium,18.53
+Derelik,Mal,Abha,Abha V,Noble Metals,Medium,16.02
+Derelik,Mal,Abha,Abha V,Smartfab Units,Rich,15.51
+Derelik,Mal,Abha,Abha VI,Noble Gas,Rich,24.14
+Derelik,Mal,Abha,Abha VI,Noble Metals,Rich,23.95
+Derelik,Mal,Abha,Abha VII,Reactive Gas,Rich,23.12
+Derelik,Mal,Abha,Abha VII,Noble Gas,Medium,17.87
+Derelik,Mal,Abha,Abha VII,Base Metals,Perfect,6.87
+Derelik,Mal,Abha,Abha VII,Reactive Metals,Medium,4.13
+Derelik,Mal,Abha,Abha VIII,Fiber Composite,Medium,16.56
+Derelik,Mal,Abha,Abha VIII,Glossy Compound,Medium,15.44
+Derelik,Mal,Abha,Abha VIII,Noble Gas,Poor,14.58
+Derelik,Mal,Abha,Abha VIII,Reactive Metals,Perfect,6.87
+Derelik,Mal,Abha,Abha IX,Lustering Alloy,Poor,13.04
+Derelik,Mal,Abha,Abha IX,Base Metals,Medium,4.85
+Derelik,Mal,Abha,Abha IX,Industrial Fibers,Medium,4.86
+Derelik,Subi,Shedoo,Shedoo I,Lustering Alloy,Poor,11.76
+Derelik,Subi,Shedoo,Shedoo I,Base Metals,Medium,4.67
+Derelik,Subi,Shedoo,Shedoo II,Motley Compound,Rich,19.43
+Derelik,Subi,Shedoo,Shedoo II,Heavy Metals,Rich,19.34
+Derelik,Subi,Shedoo,Shedoo III,Lustering Alloy,Poor,12.21
+Derelik,Subi,Shedoo,Shedoo III,Base Metals,Poor,2.85
+Derelik,Subi,Shedoo,Shedoo IV,Supertensile Plastics,Rich,15.67
+Derelik,Subi,Shedoo,Shedoo IV,Suspended Plasma,Medium,57.13
+Derelik,Subi,Shedoo,Shedoo V,Crystal Compound,Rich,21.02
+Derelik,Subi,Shedoo,Shedoo V,Suspended Plasma,Rich,70.96
+Derelik,Subi,Shedoo,Shedoo VI,Condensed Alloy,Rich,19.59
+Derelik,Subi,Shedoo,Shedoo VI,Reactive Gas,Rich,19.98
+Derelik,Subi,Shedoo,Shedoo VI,Heavy Water,Medium,175.35
+Derelik,Subi,Shedoo,Shedoo VII,Reactive Gas,Rich,22.65
+Derelik,Subi,Shedoo,Shedoo VII,Heavy Water,Perfect,267.15
+Derelik,Subi,Shedoo,Shedoo VII,Liquid Ozone,Medium,20.96
+Derelik,Subi,Shedoo,Shedoo VIII,Lustering Alloy,Perfect,24.34
+Derelik,Subi,Shedoo,Shedoo VIII,Base Metals,Medium,4.47
+Derelik,Subi,Shedoo,Shedoo VIII,Reactive Metals,Rich,6.19
+Derelik,Subi,Shedoo,Shedoo IX,Lustering Alloy,Poor,13.21
+Derelik,Subi,Shedoo,Shedoo IX,Sheen Compound,Medium,14.58
+Derelik,Subi,Shedoo,Shedoo IX,Base Metals,Rich,5.52
+Derelik,Subi,Shedoo,Shedoo X,Lustering Alloy,Poor,12.60
+Derelik,Subi,Shedoo,Shedoo X,Base Metals,Medium,4.66
+Derelik,Subi,Shedoo,Shedoo X,Ionic Solutions,Rich,8.41
+Derelik,Subi,Shedoo,Shedoo XI,Lustering Alloy,Poor,12.31
+Derelik,Subi,Shedoo,Shedoo XI,Base Metals,Medium,4.23
+Derelik,Subi,Shedoo,Shedoo XII,Motley Compound,Perfect,25.18
+Derelik,Subi,Shedoo,Shedoo XII,Construction Blocks,Rich,22.32
+Derelik,Subi,Shedoo,Shedoo XIII,Polyaramids,Perfect,17.40
+Derelik,Subi,Shedoo,Shedoo XIII,Heavy Water,Medium,161.40
+Derelik,Subi,Shedoo,Shedoo XIII,Ionic Solutions,Rich,8.56
+Derelik,Subi,Gamis,Gamis I,Noble Gas,Rich,24.83
+Derelik,Subi,Gamis,Gamis I,Heavy Metals,Rich,24.24
+Derelik,Subi,Gamis,Gamis I,Condensates,Poor,9.70
+Derelik,Subi,Gamis,Gamis I,Nanites,Poor,3.85
+Derelik,Subi,Gamis,Gamis II,Base Metals,Medium,4.51
+Derelik,Subi,Gamis,Gamis II,Industrial Fibers,Poor,3.67
+Derelik,Subi,Gamis,Gamis II,Construction Blocks,Poor,12.83
+Derelik,Subi,Gamis,Gamis III,Motley Compound,Poor,14.40
+Derelik,Subi,Gamis,Gamis III,Noble Gas,Rich,20.51
+Derelik,Subi,Gamis,Gamis IV,Condensed Alloy,Medium,18.29
+Derelik,Subi,Gamis,Gamis IV,Crystal Compound,Medium,18.43
+Derelik,Subi,Gamis,Gamis IV,Toxic Metals,Perfect,7.35
+Derelik,Subi,Gamis,Gamis IV,Coolant,Medium,13.16
+Derelik,Subi,Gamis,Gamis V,Base Metals,Poor,2.88
+Derelik,Subi,Gamis,Gamis V,Toxic Metals,Poor,2.84
+Derelik,Subi,Gamis,Gamis V,Industrial Fibers,Poor,3.47
+Derelik,Subi,Gamis,Gamis VI,Supertensile Plastics,Rich,13.91
+Derelik,Subi,Gamis,Gamis VI,Construction Blocks,Poor,14.34
+Derelik,Subi,Gamis,Gamis VI,Nanites,Perfect,6.88
+Derelik,Subi,Gamis,Gamis VII,Fiber Composite,Perfect,28.00
+Derelik,Subi,Gamis,Gamis VII,Opulent Compound,Rich,21.17
+Derelik,Subi,Gamis,Gamis VII,Noble Metals,Rich,23.82
+Derelik,Subi,Gamis,Gamis VII,Smartfab Units,Medium,12.65
+Derelik,Subi,Gamis,Gamis VIII,Fiber Composite,Medium,19.33
+Derelik,Subi,Gamis,Gamis VIII,Reactive Gas,Medium,15.58
+Derelik,Subi,Gamis,Gamis VIII,Condensates,Medium,11.54
+Derelik,Subi,Gamis,Gamis VIII,Heavy Water,Rich,205.28
+Derelik,Subi,Gamis,Gamis IX,Fiber Composite,Medium,15.65
+Derelik,Subi,Gamis,Gamis IX,Opulent Compound,Medium,18.58
+Derelik,Subi,Gamis,Gamis IX,Noble Metals,Rich,22.11
+Derelik,Subi,Gamis,Gamis IX,Heavy Water,Poor,150.72
+Derelik,Subi,Gamis,Gamis X,Lustering Alloy,Medium,15.62
+Derelik,Subi,Gamis,Gamis X,Sheen Compound,Rich,20.34
+Derelik,Subi,Gamis,Gamis X,Noble Gas,Poor,14.74
+Derelik,Subi,Gamis,Gamis X,Polyaramids,Poor,8.89
+Derelik,Subi,Gamis,Gamis XI,Dark Compound,Poor,11.22
+Derelik,Subi,Gamis,Gamis XI,Toxic Metals,Poor,3.59
+Derelik,Subi,Gamis,Gamis XI,Industrial Fibers,Medium,4.72
+Derelik,Subi,Gamis,Gamis XII,Gleaming Alloy,Rich,21.17
+Derelik,Subi,Gamis,Gamis XII,Noble Gas,Medium,19.63
+Derelik,Subi,Gamis,Gamis XIII,Glossy Compound,Medium,17.74
+Derelik,Subi,Gamis,Gamis XIII,Noble Gas,Medium,15.50
+Derelik,Subi,Gamis,Gamis XIII,Base Metals,Medium,5.15
+Derelik,Subi,Gamis,Gamis XIII,Ionic Solutions,Medium,8.09
+Derelik,Subi,Nieril,Nieril I,Lustering Alloy,Poor,12.51
+Derelik,Subi,Nieril,Nieril I,Dark Compound,Medium,18.60
+Derelik,Subi,Nieril,Nieril I,Industrial Fibers,Poor,3.26
+Derelik,Subi,Nieril,Nieril II,Motley Compound,Medium,20.33
+Derelik,Subi,Nieril,Nieril II,Noble Gas,Medium,17.59
+Derelik,Subi,Nieril,Nieril III,Dark Compound,Medium,18.41
+Derelik,Subi,Nieril,Nieril III,Industrial Fibers,Poor,2.83
+Derelik,Subi,Nieril,Nieril III,Silicate Glass,Medium,9.30
+Derelik,Subi,Nieril,Nieril IV,Fiber Composite,Medium,20.76
+Derelik,Subi,Nieril,Nieril IV,Opulent Compound,Rich,23.04
+Derelik,Subi,Nieril,Nieril IV,Noble Metals,Rich,21.90
+Derelik,Subi,Nieril,Nieril IV,Heavy Water,Rich,231.88
+Derelik,Subi,Nieril,Nieril V,Gleaming Alloy,Perfect,27.80
+Derelik,Subi,Nieril,Nieril V,Lucent Compound,Medium,16.52
+Derelik,Subi,Nieril,Nieril V,Construction Blocks,Rich,26.88
+Derelik,Subi,Nieril,Nieril VI,Glossy Compound,Perfect,27.37
+Derelik,Subi,Nieril,Nieril VI,Noble Gas,Rich,25.04
+Derelik,Subi,Nieril,Nieril VI,Base Metals,Rich,6.20
+Derelik,Subi,Nieril,Nieril VI,Coolant,Perfect,18.05
+Derelik,Subi,Nieril,Nieril VII,Heavy Metals,Medium,16.05
+Derelik,Subi,Nieril,Nieril VII,Coolant,Poor,10.00
+Derelik,Subi,Nieril,Nieril VII,Suspended Plasma,Poor,51.47
+Derelik,Subi,Nieril,Nieril VIII,Dark Compound,Medium,17.07
+Derelik,Subi,Nieril,Nieril VIII,Industrial Fibers,Poor,3.15
+Derelik,Subi,Nieril,Nieril VIII,Supertensile Plastics,Medium,12.02
+Derelik,Subi,Berta,Berta I,Toxic Metals,Medium,4.13
+Derelik,Subi,Berta,Berta I,Industrial Fibers,Medium,5.02
+Derelik,Subi,Berta,Berta I,Silicate Glass,Medium,7.61
+Derelik,Subi,Berta,Berta II,Base Metals,Poor,3.50
+Derelik,Subi,Berta,Berta II,Industrial Fibers,Poor,3.56
+Derelik,Subi,Berta,Berta II,Plasmoids,Medium,1.16
+Derelik,Subi,Berta,Berta III,Lustering Alloy,Poor,12.88
+Derelik,Subi,Berta,Berta III,Industrial Fibers,Poor,3.94
+Derelik,Subi,Berta,Berta III,Silicate Glass,Medium,9.30
+Derelik,Subi,Berta,Berta IV,Fiber Composite,Medium,18.59
+Derelik,Subi,Berta,Berta IV,Industrial Fibers,Perfect,7.99
+Derelik,Subi,Berta,Berta IV,Condensates,Medium,12.70
+Derelik,Subi,Berta,Berta IV,Liquid Ozone,Perfect,34.78
+Derelik,Subi,Berta,Berta V,Noble Gas,Medium,17.97
+Derelik,Subi,Berta,Berta V,Reactive Metals,Perfect,6.98
+Derelik,Subi,Berta,Berta V,Coolant,Poor,9.18
+Derelik,Subi,Berta,Berta V,Ionic Solutions,Medium,7.42
+Derelik,Subi,Berta,Berta VI,Sheen Compound,Medium,16.43
+Derelik,Subi,Berta,Berta VI,Noble Gas,Medium,19.55
+Derelik,Subi,Berta,Berta VI,Base Metals,Poor,3.50
+Derelik,Subi,Berta,Berta VI,Reactive Metals,Medium,4.06
+Derelik,Subi,Bekirdod,Bekirdod I,Noble Gas,Poor,13.79
+Derelik,Subi,Bekirdod,Bekirdod I,Smartfab Units,Medium,13.01
+Derelik,Subi,Bekirdod,Bekirdod II,Industrial Fibers,Poor,2.90
+Derelik,Subi,Bekirdod,Bekirdod II,Supertensile Plastics,Poor,7.53
+Derelik,Subi,Bekirdod,Bekirdod II,Construction Blocks,Medium,16.38
+Derelik,Subi,Bekirdod,Bekirdod III,Precious Alloy,Medium,15.26
+Derelik,Subi,Bekirdod,Bekirdod III,Industrial Fibers,Poor,3.05
+Derelik,Subi,Bekirdod,Bekirdod III,Plasmoids,Poor,0.87
+Derelik,Subi,Bekirdod,Bekirdod IV,Construction Blocks,Rich,21.98
+Derelik,Subi,Bekirdod,Bekirdod IV,Suspended Plasma,Rich,80.12
+Derelik,Subi,Bekirdod,Bekirdod IV,Oxygen Isotopes,Medium,3.02
+Derelik,Subi,Bekirdod,Bekirdod V,Noble Gas,Medium,19.07
+Derelik,Subi,Bekirdod,Bekirdod V,Smartfab Units,Rich,16.44
+Derelik,Subi,Bekirdod,Bekirdod VI,Fiber Composite,Perfect,28.75
+Derelik,Subi,Bekirdod,Bekirdod VI,Noble Metals,Medium,18.37
+Derelik,Subi,Bekirdod,Bekirdod VI,Industrial Fibers,Medium,4.86
+Derelik,Subi,Bekirdod,Bekirdod VI,Heavy Water,Rich,216.80
+Derelik,Subi,Bekirdod,Bekirdod VII,Reactive Gas,Medium,17.78
+Derelik,Subi,Bekirdod,Bekirdod VII,Noble Gas,Medium,18.94
+Derelik,Subi,Bekirdod,Bekirdod VII,Reactive Metals,Medium,4.07
+Derelik,Subi,Bekirdod,Bekirdod VII,Coolant,Medium,11.57
+Derelik,Subi,Bekirdod,Bekirdod VIII,Sheen Compound,Rich,20.67
+Derelik,Subi,Bekirdod,Bekirdod VIII,Noble Gas,Medium,17.23
+Derelik,Subi,Bekirdod,Bekirdod VIII,Coolant,Rich,16.67
+Derelik,Subi,Bekirdod,Bekirdod VIII,Ionic Solutions,Rich,8.23
+Derelik,Subi,Bekirdod,Bekirdod IX,Lustering Alloy,Rich,23.89
+Derelik,Subi,Bekirdod,Bekirdod IX,Glossy Compound,Perfect,26.16
+Derelik,Subi,Bekirdod,Bekirdod IX,Noble Gas,Poor,13.89
+Derelik,Subi,Bekirdod,Bekirdod IX,Base Metals,Poor,3.76
+Derelik,Subi,Hothomouh,Hothomouh I,Lustering Alloy,Poor,13.01
+Derelik,Subi,Hothomouh,Hothomouh I,Toxic Metals,Poor,3.01
+Derelik,Subi,Hothomouh,Hothomouh I,Industrial Fibers,Medium,5.18
+Derelik,Subi,Hothomouh,Hothomouh II,Reactive Gas,Rich,23.94
+Derelik,Subi,Hothomouh,Hothomouh II,Construction Blocks,Medium,19.74
+Derelik,Subi,Hothomouh,Hothomouh II,Suspended Plasma,Poor,53.74
+Derelik,Subi,Hothomouh,Hothomouh III,Reactive Metals,Poor,3.79
+Derelik,Subi,Hothomouh,Hothomouh III,Toxic Metals,Poor,3.81
+Derelik,Subi,Hothomouh,Hothomouh III,Construction Blocks,Medium,15.65
+Derelik,Subi,Hothomouh,Hothomouh IV,Industrial Fibers,Poor,3.65
+Derelik,Subi,Hothomouh,Hothomouh IV,Supertensile Plastics,Poor,9.32
+Derelik,Subi,Hothomouh,Hothomouh IV,Construction Blocks,Medium,16.13
+Derelik,Subi,Hothomouh,Hothomouh V,Fiber Composite,Medium,17.02
+Derelik,Subi,Hothomouh,Hothomouh V,Reactive Gas,Medium,18.11
+Derelik,Subi,Hothomouh,Hothomouh V,Base Metals,Medium,5.20
+Derelik,Subi,Hothomouh,Hothomouh V,Liquid Ozone,Rich,26.26
+Derelik,Subi,Hothomouh,Hothomouh VI,Lustering Alloy,Perfect,26.11
+Derelik,Subi,Hothomouh,Hothomouh VI,Fiber Composite,Rich,21.86
+Derelik,Subi,Hothomouh,Hothomouh VI,Reactive Gas,Medium,15.15
+Derelik,Subi,Hothomouh,Hothomouh VI,Noble Gas,Rich,20.30
+Derelik,Subi,Hothomouh,Hothomouh VII,Fiber Composite,Rich,24.64
+Derelik,Subi,Hothomouh,Hothomouh VII,Glossy Compound,Perfect,25.68
+Derelik,Subi,Hothomouh,Hothomouh VII,Noble Gas,Medium,16.85
+Derelik,Subi,Hothomouh,Hothomouh VII,Polyaramids,Medium,12.48
+Derelik,Subi,Hothomouh,Hothomouh VIII,Lustering Alloy,Rich,23.50
+Derelik,Subi,Hothomouh,Hothomouh VIII,Glossy Compound,Medium,18.56
+Derelik,Subi,Hothomouh,Hothomouh VIII,Noble Gas,Rich,20.42
+Derelik,Subi,Hothomouh,Hothomouh VIII,Polyaramids,Medium,11.54
+Derelik,Subi,Hothomouh,Hothomouh IX,Fiber Composite,Rich,20.26
+Derelik,Subi,Hothomouh,Hothomouh IX,Reactive Gas,Perfect,29.47
+Derelik,Subi,Hothomouh,Hothomouh IX,Smartfab Units,Medium,10.79
+Derelik,Subi,Hothomouh,Hothomouh IX,Liquid Ozone,Medium,23.16
+Derelik,Subi,Hothomouh,Hothomouh X,Base Metals,Rich,5.87
+Derelik,Subi,Hothomouh,Hothomouh X,Heavy Metals,Rich,22.93
+Derelik,Subi,Hothomouh,Hothomouh X,Coolant,Rich,14.56
+Derelik,Joas,Arnola,Arnola I,Industrial Fibers,Poor,3.09
+Derelik,Joas,Arnola,Arnola I,Supertensile Plastics,Poor,7.15
+Derelik,Joas,Arnola,Arnola I,Plasmoids,Poor,0.74
+Derelik,Joas,Arnola,Arnola II,Fiber Composite,Perfect,26.59
+Derelik,Joas,Arnola,Arnola II,Reactive Gas,Rich,23.90
+Derelik,Joas,Arnola,Arnola II,Condensates,Perfect,19.83
+Derelik,Joas,Arnola,Arnola II,Heavy Water,Rich,230.56
+Derelik,Joas,Arnola,Arnola III,Industrial Fibers,Poor,3.23
+Derelik,Joas,Arnola,Arnola III,Supertensile Plastics,Medium,12.95
+Derelik,Joas,Arnola,Arnola III,Construction Blocks,Poor,10.10
+Derelik,Joas,Arnola,Arnola IV,Industrial Fibers,Medium,4.80
+Derelik,Joas,Arnola,Arnola IV,Supertensile Plastics,Poor,7.29
+Derelik,Joas,Arnola,Arnola IV,Silicate Glass,Medium,8.62
+Derelik,Joas,Arnola,Arnola V,Dark Compound,Poor,12.40
+Derelik,Joas,Arnola,Arnola V,Industrial Fibers,Medium,4.43
+Derelik,Joas,Arnola,Arnola V,Silicate Glass,Medium,8.48
+Derelik,Joas,Arnola,Arnola VI,Fiber Composite,Poor,14.66
+Derelik,Joas,Arnola,Arnola VI,Noble Metals,Medium,18.06
+Derelik,Joas,Arnola,Arnola VI,Smartfab Units,Rich,16.82
+Derelik,Joas,Arnola,Arnola VI,Heavy Water,Rich,222.24
+Derelik,Joas,Arnola,Arnola VII,Sheen Compound,Medium,16.11
+Derelik,Joas,Arnola,Arnola VII,Reactive Gas,Rich,22.67
+Derelik,Joas,Arnola,Arnola VII,Noble Gas,Perfect,26.06
+Derelik,Joas,Arnola,Arnola VII,Ionic Solutions,Medium,6.55
+Derelik,Joas,Astabih,Astabih I,Condensates,Perfect,17.13
+Derelik,Joas,Astabih,Astabih I,Nanites,Medium,4.89
+Derelik,Joas,Astabih,Astabih I,Suspended Plasma,Medium,59.62
+Derelik,Joas,Astabih,Astabih I,Plasmoids,Medium,1.01
+Derelik,Joas,Astabih,Astabih II,Motley Compound,Rich,21.06
+Derelik,Joas,Astabih,Astabih II,Noble Gas,Medium,19.12
+Derelik,Joas,Astabih,Astabih III,Reactive Metals,Medium,4.04
+Derelik,Joas,Astabih,Astabih III,Construction Blocks,Rich,20.40
+Derelik,Joas,Astabih,Astabih III,Nanites,Medium,4.06
+Derelik,Joas,Astabih,Astabih IV,Fiber Composite,Medium,19.95
+Derelik,Joas,Astabih,Astabih IV,Opulent Compound,Medium,17.73
+Derelik,Joas,Astabih,Astabih IV,Condensates,Perfect,18.17
+Derelik,Joas,Astabih,Astabih IV,Liquid Ozone,Rich,29.14
+Derelik,Joas,Astabih,Astabih V,Sheen Compound,Rich,20.51
+Derelik,Joas,Astabih,Astabih V,Noble Gas,Rich,24.14
+Derelik,Joas,Astabih,Astabih V,Reactive Metals,Poor,3.45
+Derelik,Joas,Astabih,Astabih V,Polyaramids,Rich,14.62
+Derelik,Joas,Astabih,Astabih VI,Glossy Compound,Rich,20.70
+Derelik,Joas,Astabih,Astabih VI,Reactive Gas,Rich,22.75
+Derelik,Joas,Astabih,Astabih VI,Noble Gas,Poor,14.51
+Derelik,Joas,Astabih,Astabih VI,Coolant,Poor,8.84
+Derelik,Joas,Astabih,Astabih VII,Condensed Alloy,Rich,23.26
+Derelik,Joas,Astabih,Astabih VII,Fiber Composite,Medium,19.97
+Derelik,Joas,Astabih,Astabih VII,Reactive Gas,Poor,14.99
+Derelik,Joas,Astabih,Astabih VII,Noble Metals,Medium,17.07
+Derelik,Joas,Astabih,Astabih VIII,Base Metals,Poor,2.62
+Derelik,Joas,Astabih,Astabih VIII,Toxic Metals,Poor,2.99
+Derelik,Joas,Astabih,Astabih VIII,Industrial Fibers,Medium,4.96
+Derelik,Joas,Ubtes,Ubtes I,Noble Gas,Poor,15.67
+Derelik,Joas,Ubtes,Ubtes I,Plasmoids,Perfect,1.71
+Derelik,Joas,Ubtes,Ubtes II,Lustering Alloy,Medium,19.21
+Derelik,Joas,Ubtes,Ubtes II,Industrial Fibers,Medium,4.70
+Derelik,Joas,Ubtes,Ubtes II,Oxygen Isotopes,Poor,1.93
+Derelik,Joas,Ubtes,Ubtes III,Precious Alloy,Medium,20.55
+Derelik,Joas,Ubtes,Ubtes III,Dark Compound,Medium,19.16
+Derelik,Joas,Ubtes,Ubtes III,Industrial Fibers,Medium,4.97
+Derelik,Joas,Ubtes,Ubtes IV,Glossy Compound,Rich,23.07
+Derelik,Joas,Ubtes,Ubtes IV,Reactive Gas,Rich,23.94
+Derelik,Joas,Ubtes,Ubtes IV,Noble Gas,Medium,16.98
+Derelik,Joas,Ubtes,Ubtes IV,Ionic Solutions,Medium,8.23
+Derelik,Joas,Ubtes,Ubtes V,Opulent Compound,Perfect,27.78
+Derelik,Joas,Ubtes,Ubtes V,Toxic Metals,Poor,4.16
+Derelik,Joas,Ubtes,Ubtes V,Coolant,Rich,17.94
+Derelik,Joas,Ubtes,Ubtes V,Silicate Glass,Medium,8.74
+Derelik,Joas,Ubtes,Ubtes VI,Base Metals,Poor,3.25
+Derelik,Joas,Ubtes,Ubtes VI,Industrial Fibers,Medium,5.31
+Derelik,Joas,Ubtes,Ubtes VI,Silicate Glass,Poor,7.88
+Derelik,Joas,Ubtes,Ubtes VII,Reactive Gas,Rich,23.15
+Derelik,Joas,Ubtes,Ubtes VII,Construction Blocks,Poor,14.14
+Derelik,Joas,Ubtes,Ubtes VII,Nanites,Poor,3.62
+Derelik,Joas,Ubtes,Ubtes VIII,Sheen Compound,Rich,26.62
+Derelik,Joas,Ubtes,Ubtes VIII,Fiber Composite,Rich,25.38
+Derelik,Joas,Ubtes,Ubtes VIII,Reactive Gas,Medium,20.06
+Derelik,Joas,Ubtes,Ubtes VIII,Noble Gas,Rich,22.85
+Derelik,Joas,Ubtes,Ubtes IX,Reactive Gas,Poor,15.83
+Derelik,Joas,Ubtes,Ubtes IX,Noble Gas,Rich,26.27
+Derelik,Joas,Ubtes,Ubtes IX,Reactive Metals,Rich,6.06
+Derelik,Joas,Ubtes,Ubtes IX,Coolant,Poor,10.28
+Derelik,Joas,Ubtes,Ubtes X,Base Metals,Poor,3.44
+Derelik,Joas,Ubtes,Ubtes X,Industrial Fibers,Poor,3.71
+Derelik,Joas,Ubtes,Ubtes X,Plasmoids,Poor,0.86
+Derelik,Joas,Bimener,Bimener I,Sheen Compound,Medium,18.90
+Derelik,Joas,Bimener,Bimener I,Fiber Composite,Rich,25.18
+Derelik,Joas,Bimener,Bimener I,Reactive Gas,Rich,25.11
+Derelik,Joas,Bimener,Bimener I,Noble Gas,Medium,22.32
+Derelik,Joas,Bimener,Bimener II,Reactive Gas,Rich,23.09
+Derelik,Joas,Bimener,Bimener II,Construction Blocks,Rich,26.19
+Derelik,Joas,Bimener,Bimener II,Nanites,Rich,6.68
+Derelik,Joas,Bimener,Bimener III,Sheen Compound,Rich,27.83
+Derelik,Joas,Bimener,Bimener III,Reactive Gas,Medium,18.65
+Derelik,Joas,Bimener,Bimener III,Noble Gas,Rich,27.38
+Derelik,Joas,Bimener,Bimener III,Polyaramids,Medium,13.55
+Derelik,Joas,Bimener,Bimener IV,Glossy Compound,Rich,24.59
+Derelik,Joas,Bimener,Bimener IV,Reactive Gas,Rich,26.84
+Derelik,Joas,Bimener,Bimener IV,Noble Gas,Poor,16.22
+Derelik,Joas,Bimener,Bimener IV,Polyaramids,Medium,14.15
+Derelik,Joas,Bimener,Bimener V,Industrial Fibers,Medium,5.22
+Derelik,Joas,Bimener,Bimener V,Silicate Glass,Poor,7.96
+Derelik,Joas,Bimener,Bimener V,Oxygen Isotopes,Medium,2.82
+Derelik,Joas,Bimener,Bimener VI,Precious Alloy,Medium,20.02
+Derelik,Joas,Bimener,Bimener VI,Industrial Fibers,Poor,4.19
+Derelik,Joas,Bimener,Bimener VI,Construction Blocks,Poor,14.98
+Derelik,Joas,Kenobanala,Kenobanala I,Motley Compound,Medium,21.71
+Derelik,Joas,Kenobanala,Kenobanala I,Noble Gas,Poor,15.57
+Derelik,Joas,Kenobanala,Kenobanala II,Lustering Alloy,Poor,11.61
+Derelik,Joas,Kenobanala,Kenobanala II,Precious Alloy,Medium,22.03
+Derelik,Joas,Kenobanala,Kenobanala II,Industrial Fibers,Medium,5.58
+Derelik,Joas,Kenobanala,Kenobanala III,Noble Gas,Medium,22.39
+Derelik,Joas,Kenobanala,Kenobanala III,Construction Blocks,Poor,16.06
+Derelik,Joas,Kenobanala,Kenobanala IV,Condensed Alloy,Medium,17.06
+Derelik,Joas,Kenobanala,Kenobanala IV,Crystal Compound,Medium,19.03
+Derelik,Joas,Kenobanala,Kenobanala IV,Coolant,Poor,11.09
+Derelik,Joas,Kenobanala,Kenobanala IV,Heavy Water,Medium,196.20
+Derelik,Joas,Kenobanala,Kenobanala V,Lustering Alloy,Medium,19.22
+Derelik,Joas,Kenobanala,Kenobanala V,Industrial Fibers,Poor,4.05
+Derelik,Joas,Kenobanala,Kenobanala V,Plasmoids,Medium,1.10
+Derelik,Joas,Kenobanala,Kenobanala VI,Fiber Composite,Medium,18.79
+Derelik,Joas,Kenobanala,Kenobanala VI,Noble Metals,Medium,20.11
+Derelik,Joas,Kenobanala,Kenobanala VI,Industrial Fibers,Medium,5.86
+Derelik,Joas,Kenobanala,Kenobanala VI,Liquid Ozone,Rich,34.54
+Derelik,Joas,Kenobanala,Kenobanala VII,Fiber Composite,Medium,22.59
+Derelik,Joas,Kenobanala,Kenobanala VII,Noble Metals,Perfect,33.19
+Derelik,Joas,Kenobanala,Kenobanala VII,Industrial Fibers,Medium,5.23
+Derelik,Joas,Kenobanala,Kenobanala VII,Smartfab Units,Perfect,19.61
+Derelik,Joas,Kenobanala,Kenobanala VIII,Toxic Metals,Medium,5.06
+Derelik,Joas,Kenobanala,Kenobanala VIII,Industrial Fibers,Medium,4.79
+Derelik,Joas,Kenobanala,Kenobanala VIII,Silicate Glass,Medium,8.85
+Derelik,Joas,Kenobanala,Kenobanala IX,Toxic Metals,Poor,4.11
+Derelik,Joas,Kenobanala,Kenobanala IX,Industrial Fibers,Medium,5.23
+Derelik,Joas,Kenobanala,Kenobanala IX,Oxygen Isotopes,Poor,1.98
+Derelik,Joas,Khabi,Khabi I,Heavy Metals,Medium,19.28
+Derelik,Joas,Khabi,Khabi I,Reactive Metals,Perfect,8.29
+Derelik,Joas,Khabi,Khabi I,Nanites,Rich,6.45
+Derelik,Joas,Khabi,Khabi I,Ionic Solutions,Rich,9.30
+Derelik,Joas,Khabi,Khabi II,Toxic Metals,Poor,4.08
+Derelik,Joas,Khabi,Khabi II,Industrial Fibers,Medium,4.50
+Derelik,Joas,Khabi,Khabi II,Supertensile Plastics,Medium,11.70
+Derelik,Joas,Khabi,Khabi III,Sheen Compound,Medium,17.96
+Derelik,Joas,Khabi,Khabi III,Condensates,Rich,17.16
+Derelik,Joas,Khabi,Khabi III,Nanites,Perfect,8.37
+Derelik,Joas,Khabi,Khabi III,Suspended Plasma,Rich,83.14
+Derelik,Joas,Khabi,Khabi IV,Lustering Alloy,Poor,14.78
+Derelik,Joas,Khabi,Khabi IV,Precious Alloy,Poor,12.10
+Derelik,Joas,Khabi,Khabi IV,Industrial Fibers,Poor,4.15
+Derelik,Joas,Khabi,Khabi V,Gleaming Alloy,Rich,23.76
+Derelik,Joas,Khabi,Khabi V,Noble Gas,Rich,28.48
+Derelik,Joas,Khabi,Khabi VI,Gleaming Alloy,Poor,15.66
+Derelik,Joas,Khabi,Khabi VI,Supertensile Plastics,Rich,18.35
+Derelik,Joas,Khabi,Khabi VI,Construction Blocks,Rich,25.47
+Derelik,Joas,Khabi,Khabi VII,Crystal Compound,Medium,21.91
+Derelik,Joas,Khabi,Khabi VII,Coolant,Medium,12.24
+Derelik,Joas,Khabi,Khabi VII,Liquid Ozone,Poor,20.99
+Derelik,Joas,Khabi,Khabi VII,Ionic Solutions,Medium,9.11
+Derelik,Joas,Khabi,Khabi VIII,Fiber Composite,Rich,27.50
+Derelik,Joas,Khabi,Khabi VIII,Base Metals,Rich,6.95
+Derelik,Joas,Khabi,Khabi VIII,Industrial Fibers,Perfect,9.02
+Derelik,Joas,Khabi,Khabi VIII,Heavy Water,Rich,268.74
+Derelik,Joas,Khabi,Khabi IX,Lustering Alloy,Rich,26.82
+Derelik,Joas,Khabi,Khabi IX,Sheen Compound,Rich,24.71
+Derelik,Joas,Khabi,Khabi IX,Noble Gas,Poor,15.44
+Derelik,Joas,Khabi,Khabi IX,Reactive Metals,Rich,6.70
+Derelik,Joas,Khabi,Khabi X,Sheen Compound,Rich,24.97
+Derelik,Joas,Khabi,Khabi X,Noble Gas,Rich,27.68
+Derelik,Joas,Khabi,Khabi X,Reactive Metals,Medium,5.62
+Derelik,Joas,Khabi,Khabi X,Polyaramids,Perfect,19.52
+Derelik,Joas,Khabi,Khabi XI,Fiber Composite,Poor,15.10
+Derelik,Joas,Khabi,Khabi XI,Noble Gas,Poor,15.32
+Derelik,Joas,Khabi,Khabi XI,Base Metals,Medium,4.69
+Derelik,Joas,Khabi,Khabi XI,Ionic Solutions,Medium,7.49
+Derelik,Joas,Khabi,Khabi XII,Lustering Alloy,Rich,27.25
+Derelik,Joas,Khabi,Khabi XII,Noble Gas,Rich,24.48
+Derelik,Joas,Khabi,Khabi XII,Polyaramids,Poor,10.78
+Derelik,Joas,Khabi,Khabi XII,Ionic Solutions,Poor,6.35
+Derelik,Joas,Khabi,Khabi XIII,Industrial Fibers,Poor,3.08
+Derelik,Joas,Khabi,Khabi XIII,Silicate Glass,Poor,6.83
+Derelik,Joas,Khabi,Khabi XIII,Plasmoids,Poor,0.85
+Derelik,Joas,Khabi,Khabi XIV,Sheen Compound,Medium,20.39
+Derelik,Joas,Khabi,Khabi XIV,Glossy Compound,Medium,18.22
+Derelik,Joas,Khabi,Khabi XIV,Noble Gas,Medium,21.51
+Derelik,Joas,Khabi,Khabi XIV,Base Metals,Medium,5.03
+Derelik,Joas,Uanzin,Uanzin I,Industrial Fibers,Poor,3.63
+Derelik,Joas,Uanzin,Uanzin I,Construction Blocks,Poor,12.18
+Derelik,Joas,Uanzin,Uanzin I,Oxygen Isotopes,Poor,2.13
+Derelik,Joas,Uanzin,Uanzin II,Nanites,Medium,4.68
+Derelik,Joas,Uanzin,Uanzin II,Suspended Plasma,Poor,53.51
+Derelik,Joas,Uanzin,Uanzin II,Ionic Solutions,Perfect,11.03
+Derelik,Joas,Uanzin,Uanzin II,Plasmoids,Rich,1.23
+Derelik,Joas,Uanzin,Uanzin III,Glossy Compound,Rich,24.26
+Derelik,Joas,Uanzin,Uanzin III,Noble Gas,Rich,21.74
+Derelik,Joas,Uanzin,Uanzin IV,Sheen Compound,Perfect,25.46
+Derelik,Joas,Uanzin,Uanzin IV,Glossy Compound,Rich,25.41
+Derelik,Joas,Uanzin,Uanzin IV,Reactive Gas,Medium,18.59
+Derelik,Joas,Uanzin,Uanzin IV,Noble Gas,Poor,13.50
+Derelik,Joas,Uanzin,Uanzin V,Reactive Gas,Medium,18.67
+Derelik,Joas,Uanzin,Uanzin V,Noble Gas,Perfect,26.27
+Derelik,Joas,Uanzin,Uanzin V,Base Metals,Rich,5.38
+Derelik,Joas,Uanzin,Uanzin V,Ionic Solutions,Medium,7.51
+Derelik,Joas,Uanzin,Uanzin VI,Industrial Fibers,Poor,3.63
+Derelik,Joas,Uanzin,Uanzin VI,Silicate Glass,Medium,9.38
+Derelik,Joas,Uanzin,Uanzin VI,Plasmoids,Medium,1.00
+Derelik,Joas,Uanzin,Uanzin VII,Lustering Alloy,Medium,18.21
+Derelik,Joas,Uanzin,Uanzin VII,Industrial Fibers,Poor,3.14
+Derelik,Joas,Uanzin,Uanzin VII,Supertensile Plastics,Medium,10.45
+Derelik,Joas,Uanzin,Uanzin VIII,Lustering Alloy,Poor,14.99
+Derelik,Joas,Uanzin,Uanzin VIII,Motley Compound,Poor,12.37
+Derelik,Joas,Uanzin,Uanzin VIII,Coolant,Medium,12.19

@@ -1,0 +1,2687 @@
+Region,Constellation,System,Name,Item,Rate,Output
+Genesis,Nazdirer,Shera,Shera I,Lustering Alloy,Medium,14.65
+Genesis,Nazdirer,Shera,Shera I,Base Metals,Poor,2.91
+Genesis,Nazdirer,Shera,Shera II,Lustering Alloy,Medium,17.98
+Genesis,Nazdirer,Shera,Shera II,Base Metals,Medium,4.24
+Genesis,Nazdirer,Shera,Shera III,Lustering Alloy,Poor,13.80
+Genesis,Nazdirer,Shera,Shera III,Base Metals,Medium,3.97
+Genesis,Nazdirer,Shera,Shera IV,Gleaming Alloy,Medium,16.74
+Genesis,Nazdirer,Shera,Shera IV,Motley Compound,Rich,23.07
+Genesis,Nazdirer,Shera,Shera V,Opulent Compound,Poor,13.52
+Genesis,Nazdirer,Shera,Shera V,Noble Metals,Perfect,26.43
+Genesis,Nazdirer,Shera,Shera V,Heavy Water,Rich,192.00
+Genesis,Nazdirer,Shera,Shera VI,Industrial Fibers,Rich,5.78
+Genesis,Nazdirer,Shera,Shera VI,Heavy Water,Medium,177.45
+Genesis,Nazdirer,Shera,Shera VI,Liquid Ozone,Rich,26.76
+Genesis,Nazdirer,Shera,Shera VII,Lustering Alloy,Medium,15.51
+Genesis,Nazdirer,Shera,Shera VII,Noble Gas,Poor,13.29
+Genesis,Nazdirer,Shera,Shera VII,Base Metals,Medium,4.66
+Genesis,Nazdirer,Shera,Shera VIII,Lustering Alloy,Medium,18.23
+Genesis,Nazdirer,Shera,Shera VIII,Base Metals,Poor,3.13
+Genesis,Nazdirer,Shera,Shera IX,Crystal Compound,Medium,14.97
+Genesis,Nazdirer,Shera,Shera IX,Suspended Plasma,Poor,50.11
+Genesis,Nazdirer,Shera,Shera X,Lustering Alloy,Rich,19.83
+Genesis,Nazdirer,Shera,Shera X,Base Metals,Medium,4.67
+Genesis,Nazdirer,Shera,Shera X,Polyaramids,Poor,8.55
+Genesis,Nazdirer,Shera,Shera XI,Lustering Alloy,Medium,17.63
+Genesis,Nazdirer,Shera,Shera XI,Base Metals,Medium,4.35
+Genesis,Nazdirer,Lor,Lor I,Lustering Alloy,Poor,12.62
+Genesis,Nazdirer,Lor,Lor I,Base Metals,Medium,4.49
+Genesis,Nazdirer,Lor,Lor II,Lustering Alloy,Medium,18.41
+Genesis,Nazdirer,Lor,Lor II,Base Metals,Poor,3.71
+Genesis,Nazdirer,Lor,Lor III,Condensed Alloy,Medium,15.29
+Genesis,Nazdirer,Lor,Lor III,Opulent Compound,Rich,19.36
+Genesis,Nazdirer,Lor,Lor III,Heavy Water,Medium,170.25
+Genesis,Nazdirer,Lor,Lor IV,Coolant,Rich,13.65
+Genesis,Nazdirer,Lor,Lor IV,Heavy Water,Perfect,249.30
+Genesis,Nazdirer,Lor,Lor IV,Liquid Ozone,Perfect,31.89
+Genesis,Nazdirer,Lor,Lor V,Lustering Alloy,Poor,12.62
+Genesis,Nazdirer,Lor,Lor V,Noble Gas,Rich,22.64
+Genesis,Nazdirer,Lor,Lor V,Base Metals,Rich,5.47
+Genesis,Nazdirer,Lor,Lor VI,Motley Compound,Medium,18.23
+Genesis,Nazdirer,Lor,Lor VI,Glossy Compound,Medium,15.36
+Genesis,Nazdirer,Lor,Lor VII,Lustering Alloy,Poor,13.32
+Genesis,Nazdirer,Lor,Lor VII,Sheen Compound,Perfect,24.69
+Genesis,Nazdirer,Lor,Lor VII,Base Metals,Rich,5.76
+Genesis,Nazdirer,Lor,Lor VIII,Lustering Alloy,Poor,11.98
+Genesis,Nazdirer,Lor,Lor VIII,Base Metals,Medium,3.89
+Genesis,Nazdirer,Lor,Lor IX,Lustering Alloy,Poor,13.71
+Genesis,Nazdirer,Lor,Lor IX,Base Metals,Medium,3.89
+Genesis,Nazdirer,Cleyd,Cleyd I,Dark Compound,Poor,13.33
+Genesis,Nazdirer,Cleyd,Cleyd I,Industrial Fibers,Medium,3.99
+Genesis,Nazdirer,Cleyd,Cleyd I,Plasmoids,Medium,1.09
+Genesis,Nazdirer,Cleyd,Cleyd II,Industrial Fibers,Medium,4.18
+Genesis,Nazdirer,Cleyd,Cleyd II,Construction Blocks,Poor,10.27
+Genesis,Nazdirer,Cleyd,Cleyd II,Plasmoids,Poor,0.88
+Genesis,Nazdirer,Cleyd,Cleyd III,Crystal Compound,Rich,22.29
+Genesis,Nazdirer,Cleyd,Cleyd III,Toxic Metals,Medium,5.00
+Genesis,Nazdirer,Cleyd,Cleyd III,Construction Blocks,Medium,20.05
+Genesis,Nazdirer,Cleyd,Cleyd IV,Reactive Gas,Poor,13.82
+Genesis,Nazdirer,Cleyd,Cleyd IV,Noble Gas,Rich,22.90
+Genesis,Nazdirer,Cleyd,Cleyd IV,Reactive Metals,Medium,4.48
+Genesis,Nazdirer,Cleyd,Cleyd IV,Polyaramids,Medium,11.85
+Genesis,Nazdirer,Cleyd,Cleyd V,Noble Gas,Medium,17.23
+Genesis,Nazdirer,Cleyd,Cleyd V,Base Metals,Medium,4.25
+Genesis,Nazdirer,Cleyd,Cleyd V,Reactive Metals,Perfect,6.96
+Genesis,Nazdirer,Cleyd,Cleyd V,Coolant,Rich,16.13
+Genesis,Nazdirer,Cleyd,Cleyd VI,Heavy Metals,Rich,23.76
+Genesis,Nazdirer,Cleyd,Cleyd VI,Coolant,Rich,15.77
+Genesis,Nazdirer,Cleyd,Cleyd VI,Condensates,Poor,8.18
+Genesis,Nazdirer,Vecamia,Vecamia I,Noble Gas,Poor,14.54
+Genesis,Nazdirer,Vecamia,Vecamia I,Polyaramids,Poor,9.10
+Genesis,Nazdirer,Vecamia,Vecamia II,Gleaming Alloy,Rich,22.18
+Genesis,Nazdirer,Vecamia,Vecamia II,Noble Gas,Rich,24.86
+Genesis,Nazdirer,Vecamia,Vecamia III,Lustering Alloy,Poor,14.80
+Genesis,Nazdirer,Vecamia,Vecamia III,Industrial Fibers,Poor,3.48
+Genesis,Nazdirer,Vecamia,Vecamia III,Plasmoids,Medium,1.14
+Genesis,Nazdirer,Vecamia,Vecamia IV,Dark Compound,Poor,10.29
+Genesis,Nazdirer,Vecamia,Vecamia IV,Toxic Metals,Poor,3.63
+Genesis,Nazdirer,Vecamia,Vecamia IV,Industrial Fibers,Poor,3.31
+Genesis,Nazdirer,Vecamia,Vecamia V,Toxic Metals,Medium,4.33
+Genesis,Nazdirer,Vecamia,Vecamia V,Industrial Fibers,Medium,5.09
+Genesis,Nazdirer,Vecamia,Vecamia V,Oxygen Isotopes,Medium,2.37
+Genesis,Nazdirer,Vecamia,Vecamia VI,Fiber Composite,Rich,24.29
+Genesis,Nazdirer,Vecamia,Vecamia VI,Reactive Gas,Poor,13.54
+Genesis,Nazdirer,Vecamia,Vecamia VI,Noble Gas,Perfect,25.52
+Genesis,Nazdirer,Vecamia,Vecamia VI,Polyaramids,Rich,15.48
+Genesis,Nazdirer,Vecamia,Vecamia VII,Lustering Alloy,Medium,16.70
+Genesis,Nazdirer,Vecamia,Vecamia VII,Reactive Gas,Perfect,25.82
+Genesis,Nazdirer,Vecamia,Vecamia VII,Noble Gas,Medium,18.06
+Genesis,Nazdirer,Vecamia,Vecamia VII,Ionic Solutions,Rich,9.89
+Genesis,Nazdirer,Vecamia,Vecamia VIII,Fiber Composite,Medium,18.94
+Genesis,Nazdirer,Vecamia,Vecamia VIII,Condensates,Medium,11.70
+Genesis,Nazdirer,Vecamia,Vecamia VIII,Smartfab Units,Perfect,19.52
+Genesis,Nazdirer,Vecamia,Vecamia VIII,Liquid Ozone,Medium,19.20
+Genesis,Nazdirer,Ahbazon,Ahbazon I,Industrial Fibers,Poor,3.05
+Genesis,Nazdirer,Ahbazon,Ahbazon I,Supertensile Plastics,Poor,9.95
+Genesis,Nazdirer,Ahbazon,Ahbazon I,Silicate Glass,Medium,7.66
+Genesis,Nazdirer,Ahbazon,Ahbazon II,Precious Alloy,Medium,15.90
+Genesis,Nazdirer,Ahbazon,Ahbazon II,Industrial Fibers,Poor,2.90
+Genesis,Nazdirer,Ahbazon,Ahbazon II,Silicate Glass,Poor,7.02
+Genesis,Nazdirer,Ahbazon,Ahbazon III,Lucent Compound,Medium,19.31
+Genesis,Nazdirer,Ahbazon,Ahbazon III,Dark Compound,Rich,24.46
+Genesis,Nazdirer,Ahbazon,Ahbazon III,Nanites,Rich,5.82
+Genesis,Nazdirer,Ahbazon,Ahbazon III,Plasmoids,Rich,1.35
+Genesis,Nazdirer,Ahbazon,Ahbazon IV,Lucent Compound,Rich,24.72
+Genesis,Nazdirer,Ahbazon,Ahbazon IV,Toxic Metals,Medium,4.21
+Genesis,Nazdirer,Ahbazon,Ahbazon IV,Construction Blocks,Perfect,25.42
+Genesis,Nazdirer,Ahbazon,Ahbazon V,Supertensile Plastics,Medium,10.70
+Genesis,Nazdirer,Ahbazon,Ahbazon V,Construction Blocks,Medium,17.07
+Genesis,Nazdirer,Ahbazon,Ahbazon V,Nanites,Rich,5.87
+Genesis,Nazdirer,Ahbazon,Ahbazon VI,Noble Gas,Medium,17.81
+Genesis,Nazdirer,Ahbazon,Ahbazon VI,Smartfab Units,Poor,8.82
+Genesis,Nazdirer,Ahbazon,Ahbazon VII,Noble Gas,Rich,24.82
+Genesis,Nazdirer,Ahbazon,Ahbazon VII,Plasmoids,Medium,0.98
+Genesis,Nazdirer,Ahbazon,Ahbazon VIII,Lustering Alloy,Rich,23.34
+Genesis,Nazdirer,Ahbazon,Ahbazon VIII,Noble Gas,Medium,16.70
+Genesis,Nazdirer,Ahbazon,Ahbazon VIII,Base Metals,Poor,3.89
+Genesis,Nazdirer,Ahbazon,Ahbazon VIII,Ionic Solutions,Rich,9.42
+Genesis,Nazdirer,Ahbazon,Ahbazon IX,Glossy Compound,Poor,13.73
+Genesis,Nazdirer,Ahbazon,Ahbazon IX,Noble Gas,Medium,17.22
+Genesis,Nazdirer,Ahbazon,Ahbazon IX,Coolant,Poor,9.88
+Genesis,Nazdirer,Ahbazon,Ahbazon IX,Ionic Solutions,Medium,7.67
+Genesis,Nazdirer,Ahbazon,Ahbazon X,Precious Alloy,Poor,14.02
+Genesis,Nazdirer,Ahbazon,Ahbazon X,Industrial Fibers,Poor,3.64
+Genesis,Nazdirer,Ahbazon,Ahbazon X,Coolant,Poor,8.13
+Genesis,Nazdirer,Ahbazon,Ahbazon XI,Toxic Metals,Medium,4.28
+Genesis,Nazdirer,Ahbazon,Ahbazon XI,Industrial Fibers,Medium,4.52
+Genesis,Nazdirer,Ahbazon,Ahbazon XI,Silicate Glass,Poor,5.30
+Genesis,Nazdirer,Atreen,Atreen I,Noble Gas,Rich,24.96
+Genesis,Nazdirer,Atreen,Atreen I,Noble Metals,Rich,22.82
+Genesis,Nazdirer,Atreen,Atreen II,Industrial Fibers,Medium,4.99
+Genesis,Nazdirer,Atreen,Atreen II,Silicate Glass,Medium,9.66
+Genesis,Nazdirer,Atreen,Atreen II,Plasmoids,Medium,1.04
+Genesis,Nazdirer,Atreen,Atreen III,Fiber Composite,Perfect,25.54
+Genesis,Nazdirer,Atreen,Atreen III,Reactive Gas,Medium,19.31
+Genesis,Nazdirer,Atreen,Atreen III,Heavy Water,Perfect,277.44
+Genesis,Nazdirer,Atreen,Atreen III,Liquid Ozone,Perfect,36.10
+Genesis,Nazdirer,Atreen,Atreen IV,Fiber Composite,Perfect,28.74
+Genesis,Nazdirer,Atreen,Atreen IV,Reactive Gas,Rich,23.55
+Genesis,Nazdirer,Atreen,Atreen IV,Industrial Fibers,Rich,6.29
+Genesis,Nazdirer,Atreen,Atreen IV,Heavy Water,Perfect,256.32
+Genesis,Nazdirer,Atreen,Atreen V,Sheen Compound,Poor,14.26
+Genesis,Nazdirer,Atreen,Atreen V,Reactive Gas,Rich,22.05
+Genesis,Nazdirer,Atreen,Atreen V,Noble Gas,Poor,15.07
+Genesis,Nazdirer,Atreen,Atreen V,Reactive Metals,Rich,5.47
+Genesis,Nazdirer,Atreen,Atreen VI,Sheen Compound,Medium,15.60
+Genesis,Nazdirer,Atreen,Atreen VI,Glossy Compound,Rich,24.75
+Genesis,Nazdirer,Atreen,Atreen VI,Noble Gas,Medium,18.16
+Genesis,Nazdirer,Atreen,Atreen VI,Base Metals,Rich,6.58
+Genesis,Nazdirer,Atreen,Atreen VII,Reactive Gas,Rich,24.61
+Genesis,Nazdirer,Atreen,Atreen VII,Noble Gas,Rich,23.47
+Genesis,Nazdirer,Atreen,Atreen VII,Base Metals,Poor,3.68
+Genesis,Nazdirer,Atreen,Atreen VII,Ionic Solutions,Rich,9.79
+Genesis,Nazdirer,Atreen,Atreen VIII,Gleaming Alloy,Medium,17.65
+Genesis,Nazdirer,Atreen,Atreen VIII,Reactive Gas,Poor,14.48
+Genesis,Nazdirer,Atreen,Atreen VIII,Construction Blocks,Rich,23.60
+Genesis,Sanctum,Pakhshi,Pakhshi I,Lustering Alloy,Poor,9.60
+Genesis,Sanctum,Pakhshi,Pakhshi I,Base Metals,Poor,2.03
+Genesis,Sanctum,Pakhshi,Pakhshi II,Lustering Alloy,Poor,9.04
+Genesis,Sanctum,Pakhshi,Pakhshi II,Base Metals,Medium,3.54
+Genesis,Sanctum,Pakhshi,Pakhshi III,Lustering Alloy,Poor,8.18
+Genesis,Sanctum,Pakhshi,Pakhshi III,Base Metals,Poor,2.53
+Genesis,Sanctum,Pakhshi,Pakhshi IV,Industrial Fibers,Medium,3.48
+Genesis,Sanctum,Pakhshi,Pakhshi IV,Smartfab Units,Medium,8.15
+Genesis,Sanctum,Pakhshi,Pakhshi IV,Heavy Water,Medium,119.52
+Genesis,Sanctum,Pakhshi,Pakhshi V,Condensed Alloy,Perfect,19.30
+Genesis,Sanctum,Pakhshi,Pakhshi V,Opulent Compound,Rich,17.04
+Genesis,Sanctum,Pakhshi,Pakhshi V,Heavy Water,Medium,135.96
+Genesis,Sanctum,Pakhshi,Pakhshi VI,Lustering Alloy,Medium,14.44
+Genesis,Sanctum,Pakhshi,Pakhshi VI,Base Metals,Perfect,5.23
+Genesis,Sanctum,Pakhshi,Pakhshi VI,Coolant,Medium,8.32
+Genesis,Sanctum,Pakhshi,Pakhshi VII,Lustering Alloy,Medium,14.16
+Genesis,Sanctum,Pakhshi,Pakhshi VII,Noble Gas,Rich,18.53
+Genesis,Sanctum,Pakhshi,Pakhshi VII,Base Metals,Medium,3.27
+Genesis,Sanctum,Pakhshi,Pakhshi VIII,Lustering Alloy,Medium,12.52
+Genesis,Sanctum,Pakhshi,Pakhshi VIII,Base Metals,Perfect,5.20
+Genesis,Sanctum,Pakhshi,Pakhshi VIII,Polyaramids,Rich,12.67
+Genesis,Sanctum,Pakhshi,Pakhshi IX,Lustering Alloy,Medium,11.81
+Genesis,Sanctum,Pakhshi,Pakhshi IX,Base Metals,Rich,4.72
+Genesis,Sanctum,Pakhshi,Pakhshi IX,Polyaramids,Medium,8.73
+Genesis,Sanctum,Pakhshi,Pakhshi X,Lustering Alloy,Medium,13.02
+Genesis,Sanctum,Pakhshi,Pakhshi X,Base Metals,Medium,3.63
+Genesis,Sanctum,Tar,Tar I,Motley Compound,Poor,11.32
+Genesis,Sanctum,Tar,Tar I,Glossy Compound,Perfect,21.61
+Genesis,Sanctum,Tar,Tar II,Motley Compound,Perfect,21.87
+Genesis,Sanctum,Tar,Tar II,Polyaramids,Rich,11.57
+Genesis,Sanctum,Tar,Tar III,Lustering Alloy,Medium,14.83
+Genesis,Sanctum,Tar,Tar III,Base Metals,Medium,3.39
+Genesis,Sanctum,Tar,Tar IV,Motley Compound,Rich,18.29
+Genesis,Sanctum,Tar,Tar IV,Noble Gas,Medium,16.17
+Genesis,Sanctum,Tar,Tar V,Gleaming Alloy,Rich,18.55
+Genesis,Sanctum,Tar,Tar V,Suspended Plasma,Poor,43.62
+Genesis,Sanctum,Tar,Tar VI,Reactive Gas,Rich,17.60
+Genesis,Sanctum,Tar,Tar VI,Suspended Plasma,Rich,74.22
+Genesis,Sanctum,Tar,Tar VII,Lustering Alloy,Poor,11.66
+Genesis,Sanctum,Tar,Tar VII,Base Metals,Perfect,5.45
+Genesis,Sanctum,Tar,Tar VII,Polyaramids,Medium,10.14
+Genesis,Sanctum,Tar,Tar VIII,Lustering Alloy,Medium,15.12
+Genesis,Sanctum,Tar,Tar VIII,Base Metals,Medium,3.83
+Genesis,Sanctum,Tar,Tar VIII,Ionic Solutions,Medium,6.05
+Genesis,Sanctum,Tekaima,Tekaima I,Motley Compound,Rich,23.07
+Genesis,Sanctum,Tekaima,Tekaima I,Heavy Metals,Medium,16.89
+Genesis,Sanctum,Tekaima,Tekaima II,Lustering Alloy,Medium,15.27
+Genesis,Sanctum,Tekaima,Tekaima II,Noble Gas,Rich,22.09
+Genesis,Sanctum,Tekaima,Tekaima II,Base Metals,Rich,5.55
+Genesis,Sanctum,Tekaima,Tekaima III,Noble Metals,Rich,20.59
+Genesis,Sanctum,Tekaima,Tekaima III,Industrial Fibers,Rich,5.54
+Genesis,Sanctum,Tekaima,Tekaima III,Heavy Water,Rich,216.90
+Genesis,Sanctum,Tekaima,Tekaima IV,Lustering Alloy,Perfect,24.12
+Genesis,Sanctum,Tekaima,Tekaima IV,Base Metals,Medium,3.83
+Genesis,Sanctum,Tekaima,Tekaima IV,Coolant,Medium,12.06
+Genesis,Sanctum,Tekaima,Tekaima V,Lustering Alloy,Rich,23.20
+Genesis,Sanctum,Tekaima,Tekaima V,Reactive Gas,Rich,22.29
+Genesis,Sanctum,Tekaima,Tekaima V,Base Metals,Medium,3.95
+Genesis,Sanctum,Tekaima,Tekaima VI,Lustering Alloy,Medium,15.12
+Genesis,Sanctum,Tekaima,Tekaima VI,Base Metals,Medium,4.19
+Genesis,Sanctum,Tekaima,Tekaima VII,Lustering Alloy,Medium,18.96
+Genesis,Sanctum,Tekaima,Tekaima VII,Base Metals,Rich,5.05
+Genesis,Sanctum,Manarq,Manarq I,Motley Compound,Rich,16.73
+Genesis,Sanctum,Manarq,Manarq I,Construction Blocks,Medium,13.96
+Genesis,Sanctum,Manarq,Manarq II,Lustering Alloy,Medium,12.17
+Genesis,Sanctum,Manarq,Manarq II,Base Metals,Poor,2.31
+Genesis,Sanctum,Manarq,Manarq III,Lustering Alloy,Poor,8.06
+Genesis,Sanctum,Manarq,Manarq III,Base Metals,Medium,3.43
+Genesis,Sanctum,Manarq,Manarq IV,Motley Compound,Medium,13.33
+Genesis,Sanctum,Manarq,Manarq IV,Noble Metals,Rich,16.07
+Genesis,Sanctum,Manarq,Manarq V,Opulent Compound,Medium,14.80
+Genesis,Sanctum,Manarq,Manarq V,Noble Metals,Medium,14.86
+Genesis,Sanctum,Manarq,Manarq V,Heavy Water,Medium,118.92
+Genesis,Sanctum,Manarq,Manarq VI,Lustering Alloy,Rich,16.12
+Genesis,Sanctum,Manarq,Manarq VI,Glossy Compound,Rich,17.12
+Genesis,Sanctum,Manarq,Manarq VI,Base Metals,Perfect,5.13
+Genesis,Sanctum,Manarq,Manarq VII,Lustering Alloy,Medium,11.38
+Genesis,Sanctum,Manarq,Manarq VII,Glossy Compound,Medium,11.62
+Genesis,Sanctum,Manarq,Manarq VII,Base Metals,Medium,3.11
+Genesis,Sanctum,Manarq,Manarq VIII,Lustering Alloy,Poor,10.08
+Genesis,Sanctum,Manarq,Manarq VIII,Base Metals,Medium,3.53
+Genesis,Sanctum,Manarq,Manarq IX,Lustering Alloy,Poor,7.79
+Genesis,Sanctum,Manarq,Manarq IX,Base Metals,Medium,3.50
+Genesis,Sanctum,Manarq,Manarq X,Lustering Alloy,Medium,11.70
+Genesis,Sanctum,Manarq,Manarq X,Base Metals,Poor,1.99
+Genesis,Sanctum,Emsar,Emsar I,Lustering Alloy,Medium,15.86
+Genesis,Sanctum,Emsar,Emsar I,Base Metals,Medium,3.50
+Genesis,Sanctum,Emsar,Emsar II,Lustering Alloy,Medium,15.04
+Genesis,Sanctum,Emsar,Emsar II,Base Metals,Medium,4.03
+Genesis,Sanctum,Emsar,Emsar III,Noble Metals,Rich,20.37
+Genesis,Sanctum,Emsar,Emsar III,Industrial Fibers,Medium,4.00
+Genesis,Sanctum,Emsar,Emsar III,Heavy Water,Medium,135.20
+Genesis,Sanctum,Emsar,Emsar IV,Opulent Compound,Rich,20.12
+Genesis,Sanctum,Emsar,Emsar IV,Condensates,Poor,8.15
+Genesis,Sanctum,Emsar,Emsar IV,Heavy Water,Rich,195.00
+Genesis,Sanctum,Emsar,Emsar V,Lustering Alloy,Perfect,20.92
+Genesis,Sanctum,Emsar,Emsar V,Glossy Compound,Medium,14.64
+Genesis,Sanctum,Emsar,Emsar V,Base Metals,Rich,5.11
+Genesis,Sanctum,Emsar,Emsar VI,Lustering Alloy,Medium,13.53
+Genesis,Sanctum,Emsar,Emsar VI,Sheen Compound,Medium,12.64
+Genesis,Sanctum,Emsar,Emsar VI,Base Metals,Medium,3.49
+Genesis,Sanctum,Emsar,Emsar VII,Lustering Alloy,Medium,12.54
+Genesis,Sanctum,Emsar,Emsar VII,Base Metals,Poor,2.70
+Genesis,Sanctum,Ourapheh,Ourapheh I,Lustering Alloy,Poor,10.93
+Genesis,Sanctum,Ourapheh,Ourapheh I,Base Metals,Medium,3.14
+Genesis,Sanctum,Ourapheh,Ourapheh II,Lustering Alloy,Medium,12.24
+Genesis,Sanctum,Ourapheh,Ourapheh II,Base Metals,Poor,2.45
+Genesis,Sanctum,Ourapheh,Ourapheh III,Lustering Alloy,Poor,7.56
+Genesis,Sanctum,Ourapheh,Ourapheh III,Base Metals,Poor,2.01
+Genesis,Sanctum,Ourapheh,Ourapheh IV,Opulent Compound,Medium,12.62
+Genesis,Sanctum,Ourapheh,Ourapheh IV,Smartfab Units,Perfect,13.34
+Genesis,Sanctum,Ourapheh,Ourapheh IV,Heavy Water,Perfect,210.72
+Genesis,Sanctum,Ourapheh,Ourapheh V,Crystal Compound,Rich,17.52
+Genesis,Sanctum,Ourapheh,Ourapheh V,Silicate Glass,Perfect,10.49
+Genesis,Sanctum,Ourapheh,Ourapheh V,Heavy Water,Medium,151.20
+Genesis,Sanctum,Ourapheh,Ourapheh VI,Lustering Alloy,Medium,11.47
+Genesis,Sanctum,Ourapheh,Ourapheh VI,Base Metals,Poor,2.23
+Genesis,Sanctum,Ourapheh,Ourapheh VII,Fiber Composite,Rich,15.49
+Genesis,Sanctum,Ourapheh,Ourapheh VII,Opulent Compound,Rich,18.76
+Genesis,Sanctum,Ourapheh,Ourapheh VII,Heavy Water,Rich,180.72
+Genesis,Sanctum,Ourapheh,Ourapheh VIII,Lustering Alloy,Poor,8.59
+Genesis,Sanctum,Ourapheh,Ourapheh VIII,Base Metals,Poor,2.01
+Genesis,Sanctum,Ourapheh,Ourapheh IX,Industrial Fibers,Perfect,5.03
+Genesis,Sanctum,Ourapheh,Ourapheh IX,Smartfab Units,Medium,8.99
+Genesis,Sanctum,Ourapheh,Ourapheh IX,Heavy Water,Perfect,221.64
+Genesis,Sanctum,Yulai,Yulai I,Lustering Alloy,Poor,6.25
+Genesis,Sanctum,Yulai,Yulai I,Base Metals,Poor,2.47
+Genesis,Sanctum,Yulai,Yulai II,Motley Compound,Rich,14.60
+Genesis,Sanctum,Yulai,Yulai II,Construction Blocks,Rich,15.15
+Genesis,Sanctum,Yulai,Yulai III,Fiber Composite,Medium,10.45
+Genesis,Sanctum,Yulai,Yulai III,Heavy Water,Medium,115.30
+Genesis,Sanctum,Yulai,Yulai III,Liquid Ozone,Medium,15.36
+Genesis,Sanctum,Yulai,Yulai IV,Lustering Alloy,Medium,9.87
+Genesis,Sanctum,Yulai,Yulai IV,Base Metals,Medium,2.66
+Genesis,Sanctum,Yulai,Yulai V,Motley Compound,Medium,10.42
+Genesis,Sanctum,Yulai,Yulai V,Oxygen Isotopes,Rich,2.34
+Genesis,Sanctum,Yulai,Yulai VI,Lustering Alloy,Medium,10.70
+Genesis,Sanctum,Yulai,Yulai VI,Base Metals,Rich,3.59
+Genesis,Sanctum,Yulai,Yulai VI,Polyaramids,Perfect,10.61
+Genesis,Sanctum,Yulai,Yulai VII,Lustering Alloy,Rich,13.29
+Genesis,Sanctum,Yulai,Yulai VII,Glossy Compound,Medium,9.52
+Genesis,Sanctum,Yulai,Yulai VII,Base Metals,Rich,4.00
+Genesis,Sanctum,Yulai,Yulai VIII,Lustering Alloy,Medium,9.96
+Genesis,Sanctum,Yulai,Yulai VIII,Sheen Compound,Medium,9.82
+Genesis,Sanctum,Yulai,Yulai VIII,Base Metals,Medium,2.51
+Genesis,Sanctum,Yulai,Yulai IX,Lustering Alloy,Poor,8.90
+Genesis,Sanctum,Yulai,Yulai IX,Base Metals,Medium,3.08
+Genesis,Sanctum,Yulai,Yulai X,Lustering Alloy,Poor,9.25
+Genesis,Sanctum,Yulai,Yulai X,Base Metals,Medium,2.51
+Genesis,Sanctum,Yulai,Yulai XI,Lustering Alloy,Poor,7.76
+Genesis,Sanctum,Yulai,Yulai XI,Base Metals,Medium,3.01
+Genesis,Sanctum,Tarta,Tarta I,Noble Gas,Poor,13.55
+Genesis,Sanctum,Tarta,Tarta I,Polyaramids,Medium,12.64
+Genesis,Sanctum,Tarta,Tarta II,Dark Compound,Medium,15.71
+Genesis,Sanctum,Tarta,Tarta II,Toxic Metals,Medium,5.05
+Genesis,Sanctum,Tarta,Tarta II,Industrial Fibers,Medium,5.08
+Genesis,Sanctum,Tarta,Tarta III,Precious Alloy,Medium,17.76
+Genesis,Sanctum,Tarta,Tarta III,Toxic Metals,Poor,3.12
+Genesis,Sanctum,Tarta,Tarta III,Industrial Fibers,Poor,3.47
+Genesis,Sanctum,Tarta,Tarta IV,Noble Gas,Rich,23.17
+Genesis,Sanctum,Tarta,Tarta IV,Noble Metals,Medium,17.07
+Genesis,Sanctum,Tarta,Tarta V,Fiber Composite,Rich,22.66
+Genesis,Sanctum,Tarta,Tarta V,Opulent Compound,Perfect,26.35
+Genesis,Sanctum,Tarta,Tarta V,Base Metals,Rich,5.93
+Genesis,Sanctum,Tarta,Tarta V,Industrial Fibers,Medium,4.48
+Genesis,Sanctum,Tarta,Tarta VI,Fiber Composite,Rich,21.74
+Genesis,Sanctum,Tarta,Tarta VI,Noble Metals,Perfect,28.22
+Genesis,Sanctum,Tarta,Tarta VI,Industrial Fibers,Medium,5.09
+Genesis,Sanctum,Tarta,Tarta VI,Liquid Ozone,Rich,26.52
+Genesis,Sanctum,Tarta,Tarta VII,Fiber Composite,Perfect,25.63
+Genesis,Sanctum,Tarta,Tarta VII,Reactive Gas,Rich,23.36
+Genesis,Sanctum,Tarta,Tarta VII,Noble Gas,Medium,16.24
+Genesis,Sanctum,Tarta,Tarta VII,Reactive Metals,Perfect,6.94
+Genesis,Sanctum,Tarta,Tarta VIII,Lustering Alloy,Perfect,25.89
+Genesis,Sanctum,Tarta,Tarta VIII,Noble Gas,Poor,14.96
+Genesis,Sanctum,Tarta,Tarta VIII,Base Metals,Rich,5.50
+Genesis,Sanctum,Tarta,Tarta VIII,Polyaramids,Rich,15.49
+Genesis,Sanctum,Tarta,Tarta IX,Lustering Alloy,Medium,17.79
+Genesis,Sanctum,Tarta,Tarta IX,Glossy Compound,Rich,21.71
+Genesis,Sanctum,Tarta,Tarta IX,Noble Gas,Medium,18.42
+Genesis,Sanctum,Tarta,Tarta IX,Polyaramids,Rich,14.53
+Genesis,Sanctum,Tarta,Tarta X,Sheen Compound,Rich,22.16
+Genesis,Sanctum,Tarta,Tarta X,Fiber Composite,Rich,22.94
+Genesis,Sanctum,Tarta,Tarta X,Noble Gas,Poor,15.02
+Genesis,Sanctum,Tarta,Tarta X,Coolant,Perfect,17.15
+Genesis,Sanctum,Tarta,Tarta XI,Industrial Fibers,Poor,3.02
+Genesis,Sanctum,Tarta,Tarta XI,Construction Blocks,Poor,10.38
+Genesis,Sanctum,Tarta,Tarta XI,Silicate Glass,Poor,5.63
+Genesis,Sanctum,Kemerk,Kemerk I,Lustering Alloy,Poor,11.23
+Genesis,Sanctum,Kemerk,Kemerk I,Base Metals,Medium,4.06
+Genesis,Sanctum,Kemerk,Kemerk II,Reactive Metals,Poor,3.06
+Genesis,Sanctum,Kemerk,Kemerk II,Suspended Plasma,Medium,44.51
+Genesis,Sanctum,Kemerk,Kemerk III,Condensates,Medium,9.72
+Genesis,Sanctum,Kemerk,Kemerk III,Suspended Plasma,Rich,61.40
+Genesis,Sanctum,Kemerk,Kemerk III,Ionic Solutions,Medium,6.28
+Genesis,Sanctum,Kemerk,Kemerk IV,Smartfab Units,Medium,9.31
+Genesis,Sanctum,Kemerk,Kemerk IV,Heavy Water,Rich,176.41
+Genesis,Sanctum,Kemerk,Kemerk IV,Liquid Ozone,Rich,20.95
+Genesis,Sanctum,Kemerk,Kemerk V,Lustering Alloy,Rich,18.12
+Genesis,Sanctum,Kemerk,Kemerk V,Noble Gas,Poor,10.98
+Genesis,Sanctum,Kemerk,Kemerk V,Base Metals,Poor,3.14
+Genesis,Sanctum,Kemerk,Kemerk VI,Lustering Alloy,Rich,18.75
+Genesis,Sanctum,Kemerk,Kemerk VI,Fiber Composite,Medium,15.42
+Genesis,Sanctum,Kemerk,Kemerk VI,Base Metals,Medium,3.34
+Genesis,Sanctum,Kemerk,Kemerk VII,Lustering Alloy,Poor,10.84
+Genesis,Sanctum,Kemerk,Kemerk VII,Base Metals,Perfect,5.51
+Genesis,Sanctum,Kemerk,Kemerk VII,Coolant,Rich,13.39
+Genesis,Sanctum,Kemerk,Kemerk VIII,Lustering Alloy,Perfect,20.96
+Genesis,Sanctum,Kemerk,Kemerk VIII,Base Metals,Medium,3.47
+Genesis,Sanctum,Kemerk,Kemerk VIII,Ionic Solutions,Rich,7.99
+Genesis,Sanctum,Kemerk,Kemerk IX,Motley Compound,Perfect,20.66
+Genesis,Sanctum,Kemerk,Kemerk IX,Oxygen Isotopes,Medium,1.95
+Genesis,Ashela,Nardiarang,Nardiarang I,Noble Gas,Rich,20.98
+Genesis,Ashela,Nardiarang,Nardiarang I,Smartfab Units,Medium,13.05
+Genesis,Ashela,Nardiarang,Nardiarang II,Glossy Compound,Medium,17.36
+Genesis,Ashela,Nardiarang,Nardiarang II,Noble Gas,Perfect,26.35
+Genesis,Ashela,Nardiarang,Nardiarang III,Lustering Alloy,Poor,10.70
+Genesis,Ashela,Nardiarang,Nardiarang III,Precious Alloy,Medium,18.11
+Genesis,Ashela,Nardiarang,Nardiarang III,Industrial Fibers,Poor,2.62
+Genesis,Ashela,Nardiarang,Nardiarang IV,Crystal Compound,Perfect,27.28
+Genesis,Ashela,Nardiarang,Nardiarang IV,Noble Metals,Medium,17.12
+Genesis,Ashela,Nardiarang,Nardiarang IV,Coolant,Medium,11.91
+Genesis,Ashela,Nardiarang,Nardiarang IV,Ionic Solutions,Rich,8.55
+Genesis,Ashela,Nardiarang,Nardiarang V,Toxic Metals,Poor,3.80
+Genesis,Ashela,Nardiarang,Nardiarang V,Polyaramids,Medium,11.55
+Genesis,Ashela,Nardiarang,Nardiarang V,Coolant,Medium,12.89
+Genesis,Ashela,Nardiarang,Nardiarang V,Liquid Ozone,Medium,23.70
+Genesis,Ashela,Nardiarang,Nardiarang VI,Sheen Compound,Medium,18.83
+Genesis,Ashela,Nardiarang,Nardiarang VI,Noble Gas,Rich,23.73
+Genesis,Ashela,Nardiarang,Nardiarang VI,Base Metals,Rich,6.20
+Genesis,Ashela,Nardiarang,Nardiarang VI,Coolant,Medium,10.27
+Genesis,Ashela,Nardiarang,Nardiarang VII,Lucent Compound,Medium,19.20
+Genesis,Ashela,Nardiarang,Nardiarang VII,Supertensile Plastics,Medium,11.91
+Genesis,Ashela,Nardiarang,Nardiarang VII,Construction Blocks,Medium,16.06
+Genesis,Ashela,Ziasad,Ziasad I,Noble Gas,Medium,19.74
+Genesis,Ashela,Ziasad,Ziasad I,Plasmoids,Perfect,1.62
+Genesis,Ashela,Ziasad,Ziasad II,Toxic Metals,Medium,5.08
+Genesis,Ashela,Ziasad,Ziasad II,Industrial Fibers,Medium,5.08
+Genesis,Ashela,Ziasad,Ziasad II,Construction Blocks,Medium,18.05
+Genesis,Ashela,Ziasad,Ziasad III,Construction Blocks,Rich,21.26
+Genesis,Ashela,Ziasad,Ziasad III,Nanites,Medium,4.68
+Genesis,Ashela,Ziasad,Ziasad III,Oxygen Isotopes,Medium,2.77
+Genesis,Ashela,Ziasad,Ziasad IV,Construction Blocks,Medium,17.34
+Genesis,Ashela,Ziasad,Ziasad IV,Nanites,Medium,5.04
+Genesis,Ashela,Ziasad,Ziasad IV,Suspended Plasma,Medium,64.68
+Genesis,Ashela,Ziasad,Ziasad V,Crystal Compound,Perfect,25.47
+Genesis,Ashela,Ziasad,Ziasad V,Construction Blocks,Perfect,25.47
+Genesis,Ashela,Ziasad,Ziasad V,Oxygen Isotopes,Medium,2.43
+Genesis,Ashela,Ziasad,Ziasad VI,Noble Metals,Rich,21.22
+Genesis,Ashela,Ziasad,Ziasad VI,Coolant,Rich,13.63
+Genesis,Ashela,Ziasad,Ziasad VI,Silicate Glass,Medium,9.58
+Genesis,Ashela,Ziasad,Ziasad VI,Ionic Solutions,Medium,8.03
+Genesis,Ashela,Ziasad,Ziasad VII,Noble Gas,Rich,23.42
+Genesis,Ashela,Ziasad,Ziasad VII,Construction Blocks,Perfect,26.06
+Genesis,Ashela,Ziasad,Ziasad VIII,Sheen Compound,Medium,19.25
+Genesis,Ashela,Ziasad,Ziasad VIII,Fiber Composite,Poor,14.35
+Genesis,Ashela,Ziasad,Ziasad VIII,Noble Gas,Medium,18.16
+Genesis,Ashela,Ziasad,Ziasad VIII,Ionic Solutions,Medium,7.28
+Genesis,Ashela,Ziasad,Ziasad IX,Sheen Compound,Perfect,26.00
+Genesis,Ashela,Ziasad,Ziasad IX,Fiber Composite,Medium,18.46
+Genesis,Ashela,Ziasad,Ziasad IX,Reactive Gas,Poor,14.99
+Genesis,Ashela,Ziasad,Ziasad IX,Noble Gas,Medium,19.02
+Genesis,Ashela,Sibe,Sibe I,Industrial Fibers,Medium,4.51
+Genesis,Ashela,Sibe,Sibe I,Construction Blocks,Medium,18.66
+Genesis,Ashela,Sibe,Sibe I,Silicate Glass,Poor,6.14
+Genesis,Ashela,Sibe,Sibe II,Base Metals,Poor,3.68
+Genesis,Ashela,Sibe,Sibe II,Toxic Metals,Poor,2.63
+Genesis,Ashela,Sibe,Sibe II,Industrial Fibers,Medium,4.18
+Genesis,Ashela,Sibe,Sibe III,Lustering Alloy,Poor,10.78
+Genesis,Ashela,Sibe,Sibe III,Industrial Fibers,Medium,4.02
+Genesis,Ashela,Sibe,Sibe III,Plasmoids,Poor,0.88
+Genesis,Ashela,Sibe,Sibe IV,Precious Alloy,Medium,16.74
+Genesis,Ashela,Sibe,Sibe IV,Industrial Fibers,Medium,5.09
+Genesis,Ashela,Sibe,Sibe IV,Silicate Glass,Poor,7.10
+Genesis,Ashela,Sibe,Sibe V,Precious Alloy,Medium,16.24
+Genesis,Ashela,Sibe,Sibe V,Base Metals,Medium,4.29
+Genesis,Ashela,Sibe,Sibe V,Industrial Fibers,Poor,3.48
+Genesis,Ashela,Sibe,Sibe VI,Lucent Compound,Perfect,26.14
+Genesis,Ashela,Sibe,Sibe VI,Reactive Metals,Medium,5.13
+Genesis,Ashela,Sibe,Sibe VI,Construction Blocks,Medium,18.69
+Genesis,Ashela,Sibe,Sibe VII,Industrial Fibers,Medium,4.82
+Genesis,Ashela,Sibe,Sibe VII,Supertensile Plastics,Poor,8.04
+Genesis,Ashela,Sibe,Sibe VII,Plasmoids,Poor,0.90
+Genesis,Ashela,Sibe,Sibe VIII,Lustering Alloy,Rich,23.42
+Genesis,Ashela,Sibe,Sibe VIII,Glossy Compound,Medium,15.70
+Genesis,Ashela,Sibe,Sibe VIII,Noble Gas,Rich,20.64
+Genesis,Ashela,Sibe,Sibe VIII,Polyaramids,Rich,15.64
+Genesis,Ashela,Sibe,Sibe IX,Precious Alloy,Medium,15.62
+Genesis,Ashela,Sibe,Sibe IX,Industrial Fibers,Medium,4.27
+Genesis,Ashela,Sibe,Sibe IX,Plasmoids,Medium,1.15
+Genesis,Ashela,Sibe,Sibe X,Toxic Metals,Poor,2.76
+Genesis,Ashela,Sibe,Sibe X,Industrial Fibers,Medium,4.94
+Genesis,Ashela,Sibe,Sibe X,Silicate Glass,Poor,6.13
+Genesis,Ashela,Sibe,Sibe XI,Fiber Composite,Rich,22.91
+Genesis,Ashela,Sibe,Sibe XI,Opulent Compound,Rich,24.91
+Genesis,Ashela,Sibe,Sibe XI,Base Metals,Medium,4.84
+Genesis,Ashela,Sibe,Sibe XI,Smartfab Units,Rich,16.31
+Genesis,Ashela,Makhwasan,Makhwasan I,Toxic Metals,Poor,3.63
+Genesis,Ashela,Makhwasan,Makhwasan I,Industrial Fibers,Medium,4.69
+Genesis,Ashela,Makhwasan,Makhwasan I,Oxygen Isotopes,Medium,2.85
+Genesis,Ashela,Makhwasan,Makhwasan II,Dark Compound,Medium,16.86
+Genesis,Ashela,Makhwasan,Makhwasan II,Industrial Fibers,Medium,4.32
+Genesis,Ashela,Makhwasan,Makhwasan II,Construction Blocks,Medium,16.21
+Genesis,Ashela,Makhwasan,Makhwasan III,Dark Compound,Poor,14.64
+Genesis,Ashela,Makhwasan,Makhwasan III,Industrial Fibers,Medium,5.10
+Genesis,Ashela,Makhwasan,Makhwasan III,Plasmoids,Medium,1.15
+Genesis,Ashela,Makhwasan,Makhwasan IV,Base Metals,Poor,3.95
+Genesis,Ashela,Makhwasan,Makhwasan IV,Industrial Fibers,Medium,4.55
+Genesis,Ashela,Makhwasan,Makhwasan IV,Construction Blocks,Poor,11.54
+Genesis,Ashela,Makhwasan,Makhwasan V,Condensed Alloy,Medium,16.48
+Genesis,Ashela,Makhwasan,Makhwasan V,Fiber Composite,Medium,19.65
+Genesis,Ashela,Makhwasan,Makhwasan V,Reactive Gas,Perfect,26.75
+Genesis,Ashela,Makhwasan,Makhwasan V,Condensates,Medium,11.52
+Genesis,Ashela,Makhwasan,Makhwasan VI,Noble Gas,Rich,23.42
+Genesis,Ashela,Makhwasan,Makhwasan VI,Construction Blocks,Perfect,26.91
+Genesis,Ashela,Makhwasan,Makhwasan VII,Noble Gas,Rich,22.08
+Genesis,Ashela,Makhwasan,Makhwasan VII,Base Metals,Perfect,6.77
+Genesis,Ashela,Makhwasan,Makhwasan VII,Polyaramids,Medium,10.85
+Genesis,Ashela,Makhwasan,Makhwasan VII,Ionic Solutions,Rich,9.18
+Genesis,Ashela,Makhwasan,Makhwasan VIII,Lustering Alloy,Poor,13.12
+Genesis,Ashela,Makhwasan,Makhwasan VIII,Industrial Fibers,Poor,3.17
+Genesis,Ashela,Makhwasan,Makhwasan VIII,Silicate Glass,Poor,6.86
+Genesis,Ashela,Makhwasan,Makhwasan IX,Fiber Composite,Medium,18.51
+Genesis,Ashela,Makhwasan,Makhwasan IX,Noble Gas,Rich,23.63
+Genesis,Ashela,Makhwasan,Makhwasan IX,Reactive Metals,Medium,4.72
+Genesis,Ashela,Makhwasan,Makhwasan IX,Polyaramids,Poor,9.43
+Genesis,Ashela,Makhwasan,Makhwasan X,Supertensile Plastics,Poor,8.36
+Genesis,Ashela,Makhwasan,Makhwasan X,Coolant,Medium,13.34
+Genesis,Ashela,Makhwasan,Makhwasan X,Suspended Plasma,Medium,66.64
+Genesis,Ashela,Makhwasan,Makhwasan XI,Lustering Alloy,Medium,15.87
+Genesis,Ashela,Makhwasan,Makhwasan XI,Base Metals,Poor,3.49
+Genesis,Ashela,Makhwasan,Makhwasan XI,Coolant,Medium,10.08
+Genesis,Ashela,Zarer,Zarer I,Lucent Compound,Rich,23.39
+Genesis,Ashela,Zarer,Zarer I,Heavy Metals,Medium,20.84
+Genesis,Ashela,Zarer,Zarer I,Reactive Metals,Rich,5.81
+Genesis,Ashela,Zarer,Zarer I,Nanites,Rich,5.72
+Genesis,Ashela,Zarer,Zarer II,Lustering Alloy,Medium,16.35
+Genesis,Ashela,Zarer,Zarer II,Industrial Fibers,Medium,4.76
+Genesis,Ashela,Zarer,Zarer II,Oxygen Isotopes,Medium,2.95
+Genesis,Ashela,Zarer,Zarer III,Fiber Composite,Rich,26.91
+Genesis,Ashela,Zarer,Zarer III,Opulent Compound,Perfect,27.51
+Genesis,Ashela,Zarer,Zarer III,Industrial Fibers,Medium,5.37
+Genesis,Ashela,Zarer,Zarer III,Heavy Water,Medium,188.70
+Genesis,Ashela,Zarer,Zarer IV,Lustering Alloy,Poor,11.92
+Genesis,Ashela,Zarer,Zarer IV,Dark Compound,Medium,18.61
+Genesis,Ashela,Zarer,Zarer IV,Industrial Fibers,Poor,3.81
+Genesis,Ashela,Zarer,Zarer V,Industrial Fibers,Poor,3.21
+Genesis,Ashela,Zarer,Zarer V,Construction Blocks,Poor,13.11
+Genesis,Ashela,Zarer,Zarer V,Plasmoids,Medium,1.18
+Genesis,Ashela,Zarer,Zarer VI,Lustering Alloy,Rich,21.96
+Genesis,Ashela,Zarer,Zarer VI,Noble Gas,Medium,21.00
+Genesis,Ashela,Zarer,Zarer VI,Coolant,Rich,17.76
+Genesis,Ashela,Zarer,Zarer VI,Ionic Solutions,Rich,10.39
+Genesis,Ashela,Zarer,Zarer VII,Noble Gas,Rich,25.69
+Genesis,Ashela,Zarer,Zarer VII,Reactive Metals,Rich,7.06
+Genesis,Ashela,Zarer,Zarer VII,Polyaramids,Medium,13.86
+Genesis,Ashela,Zarer,Zarer VII,Ionic Solutions,Rich,9.08
+Genesis,Ashela,Zarer,Zarer VIII,Glossy Compound,Medium,16.37
+Genesis,Ashela,Zarer,Zarer VIII,Noble Gas,Medium,19.18
+Genesis,Ashela,Zarer,Zarer VIII,Polyaramids,Medium,11.31
+Genesis,Ashela,Zarer,Zarer VIII,Coolant,Medium,10.96
+Genesis,Ashela,Zarer,Zarer IX,Gleaming Alloy,Medium,18.33
+Genesis,Ashela,Zarer,Zarer IX,Lucent Compound,Medium,20.76
+Genesis,Ashela,Zarer,Zarer IX,Construction Blocks,Medium,19.96
+Genesis,Ashela,Toon,Toon I,Toxic Metals,Poor,2.77
+Genesis,Ashela,Toon,Toon I,Industrial Fibers,Poor,3.87
+Genesis,Ashela,Toon,Toon I,Construction Blocks,Medium,18.92
+Genesis,Ashela,Toon,Toon II,Dark Compound,Medium,19.36
+Genesis,Ashela,Toon,Toon II,Industrial Fibers,Poor,3.33
+Genesis,Ashela,Toon,Toon II,Silicate Glass,Poor,5.30
+Genesis,Ashela,Toon,Toon III,Industrial Fibers,Poor,3.59
+Genesis,Ashela,Toon,Toon III,Supertensile Plastics,Poor,7.21
+Genesis,Ashela,Toon,Toon III,Oxygen Isotopes,Medium,2.49
+Genesis,Ashela,Toon,Toon IV,Toxic Metals,Rich,6.84
+Genesis,Ashela,Toon,Toon IV,Construction Blocks,Rich,25.64
+Genesis,Ashela,Toon,Toon IV,Suspended Plasma,Medium,76.13
+Genesis,Ashela,Toon,Toon V,Fiber Composite,Medium,18.68
+Genesis,Ashela,Toon,Toon V,Base Metals,Medium,5.52
+Genesis,Ashela,Toon,Toon V,Condensates,Perfect,20.79
+Genesis,Ashela,Toon,Toon V,Heavy Water,Rich,228.82
+Genesis,Ashela,Toon,Toon VI,Glossy Compound,Rich,26.16
+Genesis,Ashela,Toon,Toon VI,Noble Gas,Medium,19.72
+Genesis,Ashela,Toon,Toon VI,Base Metals,Rich,6.39
+Genesis,Ashela,Toon,Toon VI,Coolant,Rich,14.77
+Genesis,Ashela,Toon,Toon VII,Sheen Compound,Rich,24.34
+Genesis,Ashela,Toon,Toon VII,Noble Gas,Medium,19.11
+Genesis,Ashela,Toon,Toon VII,Polyaramids,Poor,9.49
+Genesis,Ashela,Toon,Toon VII,Ionic Solutions,Medium,7.55
+Genesis,Ashela,Toon,Toon VIII,Fiber Composite,Perfect,27.13
+Genesis,Ashela,Toon,Toon VIII,Glossy Compound,Medium,20.64
+Genesis,Ashela,Toon,Toon VIII,Reactive Gas,Perfect,27.56
+Genesis,Ashela,Toon,Toon VIII,Noble Gas,Rich,23.99
+Genesis,Ashela,Toon,Toon IX,Base Metals,Rich,6.16
+Genesis,Ashela,Toon,Toon IX,Coolant,Poor,9.04
+Genesis,Ashela,Toon,Toon IX,Liquid Ozone,Medium,21.50
+Genesis,Ashela,Hesarid,Hesarid I,Dark Compound,Medium,19.14
+Genesis,Ashela,Hesarid,Hesarid I,Base Metals,Poor,3.27
+Genesis,Ashela,Hesarid,Hesarid I,Industrial Fibers,Medium,4.33
+Genesis,Ashela,Hesarid,Hesarid II,Industrial Fibers,Poor,4.09
+Genesis,Ashela,Hesarid,Hesarid II,Supertensile Plastics,Poor,7.25
+Genesis,Ashela,Hesarid,Hesarid II,Oxygen Isotopes,Medium,2.80
+Genesis,Ashela,Hesarid,Hesarid III,Precious Alloy,Poor,12.14
+Genesis,Ashela,Hesarid,Hesarid III,Toxic Metals,Medium,5.02
+Genesis,Ashela,Hesarid,Hesarid III,Industrial Fibers,Medium,4.32
+Genesis,Ashela,Hesarid,Hesarid IV,Industrial Fibers,Poor,3.79
+Genesis,Ashela,Hesarid,Hesarid IV,Construction Blocks,Poor,11.24
+Genesis,Ashela,Hesarid,Hesarid IV,Oxygen Isotopes,Medium,2.41
+Genesis,Ashela,Hesarid,Hesarid V,Glossy Compound,Perfect,27.51
+Genesis,Ashela,Hesarid,Hesarid V,Noble Gas,Perfect,27.86
+Genesis,Ashela,Hesarid,Hesarid V,Base Metals,Poor,3.91
+Genesis,Ashela,Hesarid,Hesarid V,Coolant,Medium,12.04
+Genesis,Ashela,Hesarid,Hesarid VI,Glossy Compound,Medium,18.46
+Genesis,Ashela,Hesarid,Hesarid VI,Reactive Gas,Poor,15.20
+Genesis,Ashela,Hesarid,Hesarid VI,Noble Gas,Medium,17.75
+Genesis,Ashela,Hesarid,Hesarid VI,Polyaramids,Poor,10.56
+Genesis,Ashela,Hesarid,Hesarid VII,Fiber Composite,Perfect,28.61
+Genesis,Ashela,Hesarid,Hesarid VII,Opulent Compound,Medium,17.17
+Genesis,Ashela,Hesarid,Hesarid VII,Base Metals,Medium,4.76
+Genesis,Ashela,Hesarid,Hesarid VII,Industrial Fibers,Medium,4.59
+Genesis,Ekrin,Ashokon,Ashokon I,Lustering Alloy,Medium,12.43
+Genesis,Ekrin,Ashokon,Ashokon I,Base Metals,Poor,2.56
+Genesis,Ekrin,Ashokon,Ashokon II,Lustering Alloy,Medium,14.29
+Genesis,Ekrin,Ashokon,Ashokon II,Base Metals,Poor,2.68
+Genesis,Ekrin,Ashokon,Ashokon III,Lustering Alloy,Poor,8.76
+Genesis,Ekrin,Ashokon,Ashokon III,Base Metals,Poor,2.42
+Genesis,Ekrin,Ashokon,Ashokon IV,Lustering Alloy,Medium,14.20
+Genesis,Ekrin,Ashokon,Ashokon IV,Base Metals,Medium,3.83
+Genesis,Ekrin,Ashokon,Ashokon V,Lustering Alloy,Poor,8.11
+Genesis,Ekrin,Ashokon,Ashokon V,Base Metals,Poor,2.90
+Genesis,Ekrin,Ashokon,Ashokon VI,Construction Blocks,Medium,14.16
+Genesis,Ekrin,Ashokon,Ashokon VI,Suspended Plasma,Medium,44.79
+Genesis,Ekrin,Ashokon,Ashokon VII,Reactive Gas,Perfect,23.83
+Genesis,Ekrin,Ashokon,Ashokon VII,Heavy Water,Perfect,215.02
+Genesis,Ekrin,Ashokon,Ashokon VII,Liquid Ozone,Perfect,29.57
+Genesis,Ekrin,Ashokon,Ashokon VIII,Lustering Alloy,Poor,12.00
+Genesis,Ekrin,Ashokon,Ashokon VIII,Base Metals,Medium,3.44
+Genesis,Ekrin,Ashokon,Ashokon IX,Condensed Alloy,Rich,16.47
+Genesis,Ekrin,Ashokon,Ashokon IX,Base Metals,Rich,4.41
+Genesis,Ekrin,Ashokon,Ashokon IX,Heavy Water,Perfect,212.81
+Genesis,Ekrin,Ashokon,Ashokon X,Lustering Alloy,Poor,9.78
+Genesis,Ekrin,Ashokon,Ashokon X,Base Metals,Medium,4.08
+Genesis,Ekrin,Ashokon,Ashokon XI,Lustering Alloy,Medium,12.80
+Genesis,Ekrin,Ashokon,Ashokon XI,Base Metals,Medium,3.80
+Genesis,Ekrin,Ashokon,Ashokon XII,Lustering Alloy,Medium,12.29
+Genesis,Ekrin,Ashokon,Ashokon XII,Fiber Composite,Medium,15.90
+Genesis,Ekrin,Ashokon,Ashokon XII,Base Metals,Medium,4.06
+Genesis,Ekrin,Ashokon,Ashokon XIII,Lustering Alloy,Rich,18.62
+Genesis,Ekrin,Ashokon,Ashokon XIII,Glossy Compound,Poor,10.79
+Genesis,Ekrin,Ashokon,Ashokon XIII,Base Metals,Medium,4.20
+Genesis,Ekrin,Ashokon,Ashokon XIV,Lustering Alloy,Medium,15.59
+Genesis,Ekrin,Ashokon,Ashokon XIV,Fiber Composite,Rich,16.70
+Genesis,Ekrin,Ashokon,Ashokon XIV,Base Metals,Rich,4.53
+Genesis,Ekrin,Avyuh,Avyuh I,Heavy Metals,Medium,15.86
+Genesis,Ekrin,Avyuh,Avyuh I,Condensates,Medium,9.97
+Genesis,Ekrin,Avyuh,Avyuh I,Suspended Plasma,Medium,62.10
+Genesis,Ekrin,Avyuh,Avyuh II,Opulent Compound,Medium,14.36
+Genesis,Ekrin,Avyuh,Avyuh II,Crystal Compound,Rich,21.15
+Genesis,Ekrin,Avyuh,Avyuh II,Heavy Water,Medium,179.10
+Genesis,Ekrin,Avyuh,Avyuh III,Lustering Alloy,Medium,15.18
+Genesis,Ekrin,Avyuh,Avyuh III,Base Metals,Medium,4.76
+Genesis,Ekrin,Avyuh,Avyuh IV,Lustering Alloy,Rich,22.36
+Genesis,Ekrin,Avyuh,Avyuh IV,Base Metals,Rich,5.98
+Genesis,Ekrin,Avyuh,Avyuh IV,Ionic Solutions,Rich,7.90
+Genesis,Ekrin,Avyuh,Avyuh V,Lustering Alloy,Poor,13.20
+Genesis,Ekrin,Avyuh,Avyuh V,Base Metals,Perfect,6.50
+Genesis,Ekrin,Avyuh,Avyuh V,Ionic Solutions,Medium,7.46
+Genesis,Ekrin,Apanake,Apanake I,Motley Compound,Medium,16.88
+Genesis,Ekrin,Apanake,Apanake I,Noble Gas,Rich,23.38
+Genesis,Ekrin,Apanake,Apanake II,Lucent Compound,Poor,13.42
+Genesis,Ekrin,Apanake,Apanake II,Reactive Metals,Medium,4.19
+Genesis,Ekrin,Apanake,Apanake II,Construction Blocks,Medium,19.70
+Genesis,Ekrin,Apanake,Apanake III,Precious Alloy,Medium,19.10
+Genesis,Ekrin,Apanake,Apanake III,Base Metals,Poor,3.23
+Genesis,Ekrin,Apanake,Apanake III,Industrial Fibers,Poor,3.31
+Genesis,Ekrin,Apanake,Apanake IV,Noble Gas,Rich,24.19
+Genesis,Ekrin,Apanake,Apanake IV,Heavy Metals,Rich,23.54
+Genesis,Ekrin,Apanake,Apanake V,Dark Compound,Medium,19.62
+Genesis,Ekrin,Apanake,Apanake V,Toxic Metals,Poor,3.05
+Genesis,Ekrin,Apanake,Apanake V,Industrial Fibers,Poor,3.45
+Genesis,Ekrin,Apanake,Apanake VI,Noble Gas,Medium,15.95
+Genesis,Ekrin,Apanake,Apanake VI,Smartfab Units,Rich,14.91
+Genesis,Ekrin,Apanake,Apanake VII,Lustering Alloy,Medium,16.34
+Genesis,Ekrin,Apanake,Apanake VII,Industrial Fibers,Medium,4.16
+Genesis,Ekrin,Apanake,Apanake VII,Construction Blocks,Medium,17.26
+Genesis,Ekrin,Apanake,Apanake VIII,Glossy Compound,Rich,21.87
+Genesis,Ekrin,Apanake,Apanake VIII,Noble Gas,Perfect,25.65
+Genesis,Ekrin,Apanake,Apanake VIII,Reactive Metals,Poor,3.93
+Genesis,Ekrin,Apanake,Apanake VIII,Coolant,Medium,12.17
+Genesis,Ekrin,Apanake,Apanake IX,Lustering Alloy,Medium,16.80
+Genesis,Ekrin,Apanake,Apanake IX,Glossy Compound,Rich,24.32
+Genesis,Ekrin,Apanake,Apanake IX,Noble Gas,Poor,13.20
+Genesis,Ekrin,Apanake,Apanake IX,Coolant,Rich,16.50
+Genesis,Ekrin,Apanake,Apanake X,Lustering Alloy,Medium,17.73
+Genesis,Ekrin,Apanake,Apanake X,Supertensile Plastics,Poor,9.32
+Genesis,Ekrin,Apanake,Apanake X,Coolant,Medium,12.11
+Genesis,Ekrin,Sheroo,Sheroo I,Motley Compound,Medium,17.39
+Genesis,Ekrin,Sheroo,Sheroo I,Smartfab Units,Poor,8.94
+Genesis,Ekrin,Sheroo,Sheroo II,Lustering Alloy,Poor,10.08
+Genesis,Ekrin,Sheroo,Sheroo II,Base Metals,Poor,3.42
+Genesis,Ekrin,Sheroo,Sheroo III,Construction Blocks,Medium,18.95
+Genesis,Ekrin,Sheroo,Sheroo III,Suspended Plasma,Rich,80.14
+Genesis,Ekrin,Sheroo,Sheroo IV,Fiber Composite,Medium,17.54
+Genesis,Ekrin,Sheroo,Sheroo IV,Heavy Water,Rich,199.05
+Genesis,Ekrin,Sheroo,Sheroo IV,Liquid Ozone,Medium,22.33
+Genesis,Ekrin,Sheroo,Sheroo V,Motley Compound,Rich,22.80
+Genesis,Ekrin,Sheroo,Sheroo V,Construction Blocks,Rich,21.09
+Genesis,Ekrin,Sheroo,Sheroo VI,Lustering Alloy,Medium,14.89
+Genesis,Ekrin,Sheroo,Sheroo VI,Glossy Compound,Rich,23.10
+Genesis,Ekrin,Sheroo,Sheroo VI,Base Metals,Poor,3.55
+Genesis,Ekrin,Sheroo,Sheroo VII,Lustering Alloy,Medium,17.97
+Genesis,Ekrin,Sheroo,Sheroo VII,Base Metals,Medium,4.67
+Genesis,Ekrin,Sheroo,Sheroo VII,Polyaramids,Perfect,15.93
+Genesis,Ekrin,Sheroo,Sheroo VIII,Lustering Alloy,Poor,9.35
+Genesis,Ekrin,Sheroo,Sheroo VIII,Base Metals,Poor,3.36
+Genesis,Ekrin,Sheroo,Sheroo IX,Lustering Alloy,Poor,9.96
+Genesis,Ekrin,Sheroo,Sheroo IX,Base Metals,Medium,4.35
+Genesis,Ekrin,Sheroo,Sheroo X,Lustering Alloy,Medium,16.95
+Genesis,Ekrin,Sheroo,Sheroo X,Fiber Composite,Rich,20.89
+Genesis,Ekrin,Sheroo,Sheroo X,Base Metals,Medium,4.93
+Genesis,Ekrin,Sheroo,Sheroo XI,Lustering Alloy,Medium,15.21
+Genesis,Ekrin,Sheroo,Sheroo XI,Base Metals,Poor,3.45
+Genesis,Ekrin,Sosh,Sosh I,Lustering Alloy,Medium,17.43
+Genesis,Ekrin,Sosh,Sosh I,Base Metals,Poor,2.57
+Genesis,Ekrin,Sosh,Sosh II,Motley Compound,Poor,12.20
+Genesis,Ekrin,Sosh,Sosh II,Plasmoids,Rich,1.26
+Genesis,Ekrin,Sosh,Sosh III,Lustering Alloy,Poor,9.78
+Genesis,Ekrin,Sosh,Sosh III,Base Metals,Poor,2.97
+Genesis,Ekrin,Sosh,Sosh IV,Condensed Alloy,Medium,17.88
+Genesis,Ekrin,Sosh,Sosh IV,Condensates,Rich,14.70
+Genesis,Ekrin,Sosh,Sosh IV,Heavy Water,Perfect,249.15
+Genesis,Ekrin,Sosh,Sosh V,Reactive Gas,Rich,22.47
+Genesis,Ekrin,Sosh,Sosh V,Industrial Fibers,Rich,6.23
+Genesis,Ekrin,Sosh,Sosh V,Heavy Water,Medium,157.65
+Genesis,Ekrin,Sosh,Sosh VI,Lustering Alloy,Medium,17.25
+Genesis,Ekrin,Sosh,Sosh VI,Base Metals,Medium,4.74
+Genesis,Ekrin,Sosh,Sosh VII,Lustering Alloy,Rich,19.66
+Genesis,Ekrin,Sosh,Sosh VII,Base Metals,Rich,5.75
+Genesis,Ekrin,Sosh,Sosh VII,Coolant,Medium,11.77
+Genesis,Ekrin,Sosh,Sosh VIII,Lustering Alloy,Medium,14.43
+Genesis,Ekrin,Sosh,Sosh VIII,Base Metals,Medium,4.17
+Genesis,Ekrin,Sosh,Sosh IX,Lustering Alloy,Medium,15.02
+Genesis,Ekrin,Sosh,Sosh IX,Noble Gas,Perfect,24.06
+Genesis,Ekrin,Sosh,Sosh IX,Base Metals,Perfect,6.49
+Genesis,Ekrin,Sosh,Sosh X,Lustering Alloy,Medium,14.19
+Genesis,Ekrin,Sosh,Sosh X,Base Metals,Medium,4.00
+Genesis,Ekrin,Sosh,Sosh XI,Lustering Alloy,Poor,13.52
+Genesis,Ekrin,Sosh,Sosh XI,Reactive Gas,Perfect,24.87
+Genesis,Ekrin,Sosh,Sosh XI,Base Metals,Poor,3.47
+Genesis,Ekrin,Sigga,Sigga I,Motley Compound,Rich,22.62
+Genesis,Ekrin,Sigga,Sigga I,Polyaramids,Rich,13.56
+Genesis,Ekrin,Sigga,Sigga II,Motley Compound,Perfect,24.42
+Genesis,Ekrin,Sigga,Sigga II,Plasmoids,Perfect,1.47
+Genesis,Ekrin,Sigga,Sigga III,Motley Compound,Rich,22.83
+Genesis,Ekrin,Sigga,Sigga III,Plasmoids,Poor,0.75
+Genesis,Ekrin,Sigga,Sigga IV,Motley Compound,Rich,21.30
+Genesis,Ekrin,Sigga,Sigga IV,Polyaramids,Poor,8.70
+Genesis,Ekrin,Sigga,Sigga V,Lustering Alloy,Poor,10.47
+Genesis,Ekrin,Sigga,Sigga V,Base Metals,Medium,4.17
+Genesis,Ekrin,Sigga,Sigga VI,Lustering Alloy,Poor,11.78
+Genesis,Ekrin,Sigga,Sigga VI,Base Metals,Medium,3.97
+Genesis,Ekrin,Sigga,Sigga VII,Lustering Alloy,Rich,23.46
+Genesis,Ekrin,Sigga,Sigga VII,Base Metals,Perfect,6.45
+Genesis,Ekrin,Sigga,Sigga VII,Ionic Solutions,Poor,5.56
+Genesis,Ekrin,Sigga,Sigga VIII,Lustering Alloy,Rich,23.02
+Genesis,Ekrin,Sigga,Sigga VIII,Sheen Compound,Rich,21.87
+Genesis,Ekrin,Sigga,Sigga VIII,Base Metals,Rich,6.22
+Genesis,Ekrin,Sigga,Sigga IX,Lustering Alloy,Rich,20.94
+Genesis,Ekrin,Sigga,Sigga IX,Base Metals,Medium,4.58
+Genesis,Ekrin,Keseya,Keseya I,Lustering Alloy,Medium,13.66
+Genesis,Ekrin,Keseya,Keseya I,Base Metals,Poor,2.67
+Genesis,Ekrin,Keseya,Keseya II,Lustering Alloy,Poor,10.26
+Genesis,Ekrin,Keseya,Keseya II,Base Metals,Medium,4.49
+Genesis,Ekrin,Keseya,Keseya III,Lucent Compound,Medium,15.68
+Genesis,Ekrin,Keseya,Keseya III,Suspended Plasma,Medium,61.49
+Genesis,Ekrin,Keseya,Keseya IV,Lustering Alloy,Poor,9.39
+Genesis,Ekrin,Keseya,Keseya IV,Base Metals,Medium,3.54
+Genesis,Ekrin,Keseya,Keseya V,Lustering Alloy,Poor,13.06
+Genesis,Ekrin,Keseya,Keseya V,Base Metals,Poor,3.37
+Genesis,Ekrin,Keseya,Keseya V,Polyaramids,Poor,8.79
+Genesis,Ekrin,Keseya,Keseya VI,Reactive Gas,Rich,20.45
+Genesis,Ekrin,Keseya,Keseya VI,Noble Metals,Rich,17.98
+Genesis,Ekrin,Keseya,Keseya VI,Heavy Water,Rich,193.34
+Genesis,Ekrin,Keseya,Keseya VII,Condensed Alloy,Perfect,25.94
+Genesis,Ekrin,Keseya,Keseya VII,Base Metals,Medium,3.95
+Genesis,Ekrin,Keseya,Keseya VII,Heavy Water,Perfect,265.44
+Genesis,Ekrin,Keseya,Keseya VIII,Lustering Alloy,Medium,13.33
+Genesis,Ekrin,Keseya,Keseya VIII,Base Metals,Medium,4.34
+Genesis,Ekrin,Keseya,Keseya VIII,Coolant,Rich,13.70
+Genesis,Ekrin,Keseya,Keseya IX,Lustering Alloy,Perfect,22.92
+Genesis,Ekrin,Keseya,Keseya IX,Reactive Gas,Medium,14.35
+Genesis,Ekrin,Keseya,Keseya IX,Base Metals,Medium,3.48
+Genesis,Mih,Zoohen,Zoohen I,Dark Compound,Poor,11.95
+Genesis,Mih,Zoohen,Zoohen I,Industrial Fibers,Poor,3.89
+Genesis,Mih,Zoohen,Zoohen I,Supertensile Plastics,Poor,7.94
+Genesis,Mih,Zoohen,Zoohen II,Industrial Fibers,Medium,4.85
+Genesis,Mih,Zoohen,Zoohen II,Oxygen Isotopes,Poor,1.75
+Genesis,Mih,Zoohen,Zoohen II,Plasmoids,Medium,0.93
+Genesis,Mih,Zoohen,Zoohen III,Glossy Compound,Rich,23.23
+Genesis,Mih,Zoohen,Zoohen III,Noble Gas,Medium,16.35
+Genesis,Mih,Zoohen,Zoohen IV,Fiber Composite,Medium,17.06
+Genesis,Mih,Zoohen,Zoohen IV,Reactive Gas,Perfect,30.56
+Genesis,Mih,Zoohen,Zoohen IV,Base Metals,Rich,6.10
+Genesis,Mih,Zoohen,Zoohen IV,Heavy Water,Medium,175.84
+Genesis,Mih,Zoohen,Zoohen V,Fiber Composite,Perfect,28.54
+Genesis,Mih,Zoohen,Zoohen V,Reactive Gas,Perfect,25.49
+Genesis,Mih,Zoohen,Zoohen V,Industrial Fibers,Perfect,7.88
+Genesis,Mih,Zoohen,Zoohen V,Condensates,Rich,15.33
+Genesis,Mih,Zoohen,Zoohen VI,Glossy Compound,Perfect,26.13
+Genesis,Mih,Zoohen,Zoohen VI,Reactive Gas,Medium,19.89
+Genesis,Mih,Zoohen,Zoohen VI,Noble Gas,Rich,20.64
+Genesis,Mih,Zoohen,Zoohen VI,Polyaramids,Medium,12.96
+Genesis,Mih,Zoohen,Zoohen VII,Lucent Compound,Poor,14.16
+Genesis,Mih,Zoohen,Zoohen VII,Construction Blocks,Rich,23.78
+Genesis,Mih,Zoohen,Zoohen VII,Suspended Plasma,Poor,50.52
+Genesis,Mih,Serren,Serren I,Lucent Compound,Poor,14.98
+Genesis,Mih,Serren,Serren I,Heavy Metals,Medium,18.21
+Genesis,Mih,Serren,Serren I,Condensates,Rich,15.41
+Genesis,Mih,Serren,Serren I,Nanites,Perfect,6.87
+Genesis,Mih,Serren,Serren II,Industrial Fibers,Medium,4.34
+Genesis,Mih,Serren,Serren II,Oxygen Isotopes,Poor,2.25
+Genesis,Mih,Serren,Serren II,Plasmoids,Medium,0.97
+Genesis,Mih,Serren,Serren III,Condensed Alloy,Medium,16.59
+Genesis,Mih,Serren,Serren III,Fiber Composite,Medium,19.74
+Genesis,Mih,Serren,Serren III,Noble Metals,Medium,18.54
+Genesis,Mih,Serren,Serren III,Heavy Water,Medium,187.04
+Genesis,Mih,Serren,Serren IV,Noble Gas,Rich,24.29
+Genesis,Mih,Serren,Serren IV,Construction Blocks,Medium,16.27
+Genesis,Mih,Serren,Serren V,Industrial Fibers,Poor,3.11
+Genesis,Mih,Serren,Serren V,Oxygen Isotopes,Poor,1.77
+Genesis,Mih,Serren,Serren V,Plasmoids,Medium,1.14
+Genesis,Mih,Serren,Serren VI,Lustering Alloy,Rich,21.94
+Genesis,Mih,Serren,Serren VI,Sheen Compound,Rich,21.65
+Genesis,Mih,Serren,Serren VI,Noble Gas,Rich,23.06
+Genesis,Mih,Serren,Serren VI,Reactive Metals,Medium,4.99
+Genesis,Mih,Serren,Serren VII,Noble Gas,Medium,19.79
+Genesis,Mih,Serren,Serren VII,Base Metals,Poor,3.47
+Genesis,Mih,Serren,Serren VII,Polyaramids,Medium,10.20
+Genesis,Mih,Serren,Serren VII,Ionic Solutions,Medium,7.74
+Genesis,Mih,Serren,Serren VIII,Lustering Alloy,Medium,15.33
+Genesis,Mih,Serren,Serren VIII,Fiber Composite,Poor,14.80
+Genesis,Mih,Serren,Serren VIII,Noble Gas,Poor,14.69
+Genesis,Mih,Serren,Serren VIII,Ionic Solutions,Rich,8.79
+Genesis,Mih,Serren,Serren IX,Fiber Composite,Rich,22.82
+Genesis,Mih,Serren,Serren IX,Reactive Gas,Medium,18.29
+Genesis,Mih,Serren,Serren IX,Noble Gas,Rich,23.10
+Genesis,Mih,Serren,Serren IX,Base Metals,Medium,4.28
+Genesis,Mih,Hadji,Hadji I,Glossy Compound,Medium,17.58
+Genesis,Mih,Hadji,Hadji I,Noble Gas,Medium,16.70
+Genesis,Mih,Hadji,Hadji II,Noble Gas,Medium,15.66
+Genesis,Mih,Hadji,Hadji II,Noble Metals,Rich,21.81
+Genesis,Mih,Hadji,Hadji III,Fiber Composite,Rich,22.51
+Genesis,Mih,Hadji,Hadji III,Noble Metals,Medium,17.73
+Genesis,Mih,Hadji,Hadji III,Condensates,Perfect,18.73
+Genesis,Mih,Hadji,Hadji III,Liquid Ozone,Rich,28.70
+Genesis,Mih,Hadji,Hadji IV,Fiber Composite,Perfect,26.74
+Genesis,Mih,Hadji,Hadji IV,Industrial Fibers,Poor,3.94
+Genesis,Mih,Hadji,Hadji IV,Smartfab Units,Perfect,20.33
+Genesis,Mih,Hadji,Hadji IV,Liquid Ozone,Perfect,33.12
+Genesis,Mih,Hadji,Hadji V,Fiber Composite,Medium,15.68
+Genesis,Mih,Hadji,Hadji V,Glossy Compound,Medium,16.64
+Genesis,Mih,Hadji,Hadji V,Noble Gas,Medium,15.14
+Genesis,Mih,Hadji,Hadji V,Base Metals,Rich,5.60
+Genesis,Mih,Hadji,Hadji VI,Lustering Alloy,Medium,16.37
+Genesis,Mih,Hadji,Hadji VI,Fiber Composite,Rich,21.38
+Genesis,Mih,Hadji,Hadji VI,Noble Gas,Medium,16.72
+Genesis,Mih,Hadji,Hadji VI,Ionic Solutions,Medium,7.83
+Genesis,Mih,Hadji,Hadji VII,Sheen Compound,Medium,19.38
+Genesis,Mih,Hadji,Hadji VII,Glossy Compound,Medium,18.74
+Genesis,Mih,Hadji,Hadji VII,Noble Gas,Rich,21.89
+Genesis,Mih,Hadji,Hadji VII,Ionic Solutions,Rich,10.11
+Genesis,Mih,Hadji,Hadji VIII,Heavy Metals,Poor,14.88
+Genesis,Mih,Hadji,Hadji VIII,Supertensile Plastics,Poor,9.24
+Genesis,Mih,Hadji,Hadji VIII,Coolant,Poor,9.55
+Genesis,Mih,Assez,Assez I,Industrial Fibers,Medium,4.10
+Genesis,Mih,Assez,Assez I,Silicate Glass,Medium,9.57
+Genesis,Mih,Assez,Assez I,Plasmoids,Poor,0.62
+Genesis,Mih,Assez,Assez II,Noble Gas,Perfect,26.94
+Genesis,Mih,Assez,Assez II,Construction Blocks,Medium,15.71
+Genesis,Mih,Assez,Assez III,Lustering Alloy,Medium,15.20
+Genesis,Mih,Assez,Assez III,Base Metals,Poor,2.87
+Genesis,Mih,Assez,Assez III,Industrial Fibers,Poor,3.79
+Genesis,Mih,Assez,Assez IV,Noble Gas,Medium,17.65
+Genesis,Mih,Assez,Assez IV,Noble Metals,Rich,23.44
+Genesis,Mih,Assez,Assez V,Fiber Composite,Medium,18.19
+Genesis,Mih,Assez,Assez V,Glossy Compound,Rich,20.35
+Genesis,Mih,Assez,Assez V,Noble Gas,Rich,22.18
+Genesis,Mih,Assez,Assez V,Reactive Metals,Medium,4.86
+Genesis,Mih,Assez,Assez VI,Noble Gas,Rich,21.92
+Genesis,Mih,Assez,Assez VI,Base Metals,Rich,6.66
+Genesis,Mih,Assez,Assez VI,Polyaramids,Poor,8.84
+Genesis,Mih,Assez,Assez VI,Ionic Solutions,Medium,7.24
+Genesis,Mih,Assez,Assez VII,Reactive Gas,Rich,23.18
+Genesis,Mih,Assez,Assez VII,Noble Gas,Rich,20.93
+Genesis,Mih,Assez,Assez VII,Base Metals,Rich,5.84
+Genesis,Mih,Assez,Assez VII,Ionic Solutions,Perfect,10.19
+Genesis,Mih,Assez,Assez VIII,Sheen Compound,Rich,24.34
+Genesis,Mih,Assez,Assez VIII,Noble Gas,Rich,22.88
+Genesis,Mih,Assez,Assez VIII,Reactive Metals,Rich,5.59
+Genesis,Mih,Assez,Assez VIII,Polyaramids,Poor,8.97
+Genesis,Mih,Assez,Assez IX,Heavy Metals,Poor,12.11
+Genesis,Mih,Assez,Assez IX,Supertensile Plastics,Rich,15.75
+Genesis,Mih,Assez,Assez IX,Coolant,Rich,15.79
+Genesis,Mih,Assez,Assez X,Lustering Alloy,Poor,13.01
+Genesis,Mih,Assez,Assez X,Industrial Fibers,Medium,4.24
+Genesis,Mih,Assez,Assez X,Plasmoids,Medium,0.99
+Genesis,Mih,Alal,Alal I,Dark Compound,Medium,19.25
+Genesis,Mih,Alal,Alal I,Industrial Fibers,Poor,3.81
+Genesis,Mih,Alal,Alal I,Silicate Glass,Poor,5.50
+Genesis,Mih,Alal,Alal II,Lustering Alloy,Medium,16.18
+Genesis,Mih,Alal,Alal II,Industrial Fibers,Medium,4.12
+Genesis,Mih,Alal,Alal II,Construction Blocks,Medium,16.27
+Genesis,Mih,Alal,Alal III,Noble Gas,Medium,19.36
+Genesis,Mih,Alal,Alal III,Polyaramids,Medium,12.52
+Genesis,Mih,Alal,Alal IV,Precious Alloy,Poor,11.12
+Genesis,Mih,Alal,Alal IV,Industrial Fibers,Medium,4.75
+Genesis,Mih,Alal,Alal IV,Plasmoids,Medium,1.04
+Genesis,Mih,Alal,Alal V,Condensed Alloy,Perfect,25.74
+Genesis,Mih,Alal,Alal V,Fiber Composite,Medium,19.01
+Genesis,Mih,Alal,Alal V,Noble Metals,Perfect,27.07
+Genesis,Mih,Alal,Alal V,Liquid Ozone,Rich,27.00
+Genesis,Mih,Alal,Alal VI,Noble Metals,Rich,24.91
+Genesis,Mih,Alal,Alal VI,Toxic Metals,Perfect,6.99
+Genesis,Mih,Alal,Alal VI,Coolant,Rich,13.96
+Genesis,Mih,Alal,Alal VI,Ionic Solutions,Rich,8.24
+Genesis,Mih,Alal,Alal VII,Reactive Gas,Poor,14.86
+Genesis,Mih,Alal,Alal VII,Noble Gas,Poor,13.74
+Genesis,Mih,Alal,Alal VII,Polyaramids,Rich,13.80
+Genesis,Mih,Alal,Alal VII,Ionic Solutions,Medium,7.72
+Genesis,Mih,Alal,Alal VIII,Crystal Compound,Perfect,26.51
+Genesis,Mih,Alal,Alal VIII,Noble Metals,Perfect,26.78
+Genesis,Mih,Alal,Alal VIII,Coolant,Medium,12.03
+Genesis,Mih,Alal,Alal VIII,Liquid Ozone,Medium,22.82
+Genesis,Mih,Alal,Alal IX,Reactive Gas,Rich,21.97
+Genesis,Mih,Alal,Alal IX,Noble Gas,Rich,21.22
+Genesis,Mih,Alal,Alal IX,Coolant,Medium,12.99
+Genesis,Mih,Alal,Alal IX,Ionic Solutions,Medium,7.40
+Genesis,Mih,Dom-Aphis,Dom-Aphis I,Industrial Fibers,Poor,3.53
+Genesis,Mih,Dom-Aphis,Dom-Aphis I,Silicate Glass,Poor,7.53
+Genesis,Mih,Dom-Aphis,Dom-Aphis I,Oxygen Isotopes,Poor,1.96
+Genesis,Mih,Dom-Aphis,Dom-Aphis II,Dark Compound,Medium,17.22
+Genesis,Mih,Dom-Aphis,Dom-Aphis II,Industrial Fibers,Poor,2.93
+Genesis,Mih,Dom-Aphis,Dom-Aphis II,Supertensile Plastics,Medium,13.08
+Genesis,Mih,Dom-Aphis,Dom-Aphis III,Fiber Composite,Medium,18.43
+Genesis,Mih,Dom-Aphis,Dom-Aphis III,Noble Metals,Rich,20.56
+Genesis,Mih,Dom-Aphis,Dom-Aphis III,Condensates,Perfect,17.96
+Genesis,Mih,Dom-Aphis,Dom-Aphis III,Smartfab Units,Rich,13.81
+Genesis,Mih,Dom-Aphis,Dom-Aphis IV,Fiber Composite,Medium,15.84
+Genesis,Mih,Dom-Aphis,Dom-Aphis IV,Noble Gas,Rich,21.28
+Genesis,Mih,Dom-Aphis,Dom-Aphis IV,Coolant,Medium,11.90
+Genesis,Mih,Dom-Aphis,Dom-Aphis IV,Ionic Solutions,Rich,8.93
+Genesis,Mih,Dom-Aphis,Dom-Aphis V,Fiber Composite,Medium,19.74
+Genesis,Mih,Dom-Aphis,Dom-Aphis V,Opulent Compound,Medium,18.61
+Genesis,Mih,Dom-Aphis,Dom-Aphis V,Noble Metals,Medium,19.60
+Genesis,Mih,Dom-Aphis,Dom-Aphis V,Condensates,Perfect,19.78
+Genesis,Mih,Dom-Aphis,Dom-Aphis VI,Glossy Compound,Rich,23.18
+Genesis,Mih,Dom-Aphis,Dom-Aphis VI,Reactive Gas,Perfect,26.26
+Genesis,Mih,Dom-Aphis,Dom-Aphis VI,Noble Gas,Rich,25.14
+Genesis,Mih,Dom-Aphis,Dom-Aphis VI,Ionic Solutions,Rich,9.02
+Genesis,Mih,Dom-Aphis,Dom-Aphis VII,Fiber Composite,Rich,24.59
+Genesis,Mih,Dom-Aphis,Dom-Aphis VII,Noble Gas,Rich,20.43
+Genesis,Mih,Dom-Aphis,Dom-Aphis VII,Base Metals,Medium,4.69
+Genesis,Mih,Dom-Aphis,Dom-Aphis VII,Reactive Metals,Medium,5.11
+Genesis,Mih,Dom-Aphis,Dom-Aphis VIII,Toxic Metals,Poor,3.17
+Genesis,Mih,Dom-Aphis,Dom-Aphis VIII,Industrial Fibers,Medium,5.11
+Genesis,Mih,Dom-Aphis,Dom-Aphis VIII,Construction Blocks,Poor,13.60
+Genesis,Mih,Dom-Aphis,Dom-Aphis IX,Lustering Alloy,Poor,10.88
+Genesis,Mih,Dom-Aphis,Dom-Aphis IX,Industrial Fibers,Poor,2.79
+Genesis,Mih,Dom-Aphis,Dom-Aphis IX,Silicate Glass,Poor,7.54
+Genesis,Mih,Iderion,Iderion I,Toxic Metals,Poor,2.64
+Genesis,Mih,Iderion,Iderion I,Industrial Fibers,Poor,2.64
+Genesis,Mih,Iderion,Iderion I,Supertensile Plastics,Poor,8.71
+Genesis,Mih,Iderion,Iderion II,Lustering Alloy,Poor,11.55
+Genesis,Mih,Iderion,Iderion II,Base Metals,Medium,4.31
+Genesis,Mih,Iderion,Iderion II,Industrial Fibers,Medium,4.63
+Genesis,Mih,Iderion,Iderion III,Sheen Compound,Poor,14.46
+Genesis,Mih,Iderion,Iderion III,Dark Compound,Rich,20.82
+Genesis,Mih,Iderion,Iderion III,Heavy Metals,Rich,24.58
+Genesis,Mih,Iderion,Iderion III,Nanites,Rich,6.51
+Genesis,Mih,Iderion,Iderion IV,Motley Compound,Rich,20.38
+Genesis,Mih,Iderion,Iderion IV,Noble Gas,Perfect,25.47
+Genesis,Mih,Iderion,Iderion V,Gleaming Alloy,Rich,24.94
+Genesis,Mih,Iderion,Iderion V,Reactive Gas,Medium,16.59
+Genesis,Mih,Iderion,Iderion V,Construction Blocks,Medium,18.21
+Genesis,Mih,Iderion,Iderion VI,Condensed Alloy,Medium,17.60
+Genesis,Mih,Iderion,Iderion VI,Coolant,Rich,16.89
+Genesis,Mih,Iderion,Iderion VI,Liquid Ozone,Medium,21.12
+Genesis,Mih,Iderion,Iderion VI,Ionic Solutions,Rich,10.03
+Genesis,Mih,Iderion,Iderion VII,Noble Gas,Medium,15.97
+Genesis,Mih,Iderion,Iderion VII,Plasmoids,Rich,1.25
+Genesis,Mih,Iderion,Iderion VIII,Lustering Alloy,Medium,18.56
+Genesis,Mih,Iderion,Iderion VIII,Glossy Compound,Rich,24.46
+Genesis,Mih,Iderion,Iderion VIII,Noble Gas,Rich,23.92
+Genesis,Mih,Iderion,Iderion VIII,Base Metals,Medium,5.08
+Genesis,Mih,Iderion,Iderion IX,Noble Gas,Medium,17.92
+Genesis,Mih,Iderion,Iderion IX,Base Metals,Medium,4.74
+Genesis,Mih,Iderion,Iderion IX,Coolant,Rich,15.85
+Genesis,Mih,Iderion,Iderion IX,Ionic Solutions,Poor,5.54
+Genesis,Mih,Iderion,Iderion X,Polyaramids,Medium,11.80
+Genesis,Mih,Iderion,Iderion X,Coolant,Rich,15.99
+Genesis,Mih,Iderion,Iderion X,Silicate Glass,Perfect,13.52
+Genesis,Mih,Iderion,Iderion X,Heavy Water,Medium,195.68
+Genesis,Mih,Iderion,Iderion XI,Fiber Composite,Medium,19.84
+Genesis,Mih,Iderion,Iderion XI,Reactive Gas,Poor,13.90
+Genesis,Mih,Iderion,Iderion XI,Noble Gas,Medium,17.50
+Genesis,Mih,Iderion,Iderion XI,Ionic Solutions,Medium,6.52
+Genesis,Mih,Iderion,Iderion XII,Noble Gas,Medium,15.23
+Genesis,Mih,Iderion,Iderion XII,Reactive Metals,Perfect,6.85
+Genesis,Mih,Iderion,Iderion XII,Polyaramids,Poor,10.03
+Genesis,Mih,Iderion,Iderion XII,Coolant,Rich,15.54
+Genesis,Mih,Chamja,Chamja I,Base Metals,Poor,3.38
+Genesis,Mih,Chamja,Chamja I,Industrial Fibers,Medium,4.94
+Genesis,Mih,Chamja,Chamja I,Supertensile Plastics,Poor,9.35
+Genesis,Mih,Chamja,Chamja II,Precious Alloy,Poor,12.80
+Genesis,Mih,Chamja,Chamja II,Industrial Fibers,Medium,4.11
+Genesis,Mih,Chamja,Chamja II,Silicate Glass,Poor,6.39
+Genesis,Mih,Chamja,Chamja III,Precious Alloy,Poor,13.12
+Genesis,Mih,Chamja,Chamja III,Industrial Fibers,Poor,3.12
+Genesis,Mih,Chamja,Chamja III,Oxygen Isotopes,Medium,2.89
+Genesis,Mih,Chamja,Chamja IV,Fiber Composite,Perfect,27.86
+Genesis,Mih,Chamja,Chamja IV,Base Metals,Medium,4.05
+Genesis,Mih,Chamja,Chamja IV,Noble Metals,Perfect,26.98
+Genesis,Mih,Chamja,Chamja IV,Industrial Fibers,Rich,6.30
+Genesis,Mih,Chamja,Chamja V,Noble Gas,Perfect,25.44
+Genesis,Mih,Chamja,Chamja V,Reactive Metals,Medium,5.00
+Genesis,Mih,Chamja,Chamja V,Polyaramids,Rich,16.17
+Genesis,Mih,Chamja,Chamja V,Coolant,Rich,15.09
+Genesis,Mih,Chamja,Chamja VI,Lustering Alloy,Medium,16.21
+Genesis,Mih,Chamja,Chamja VI,Noble Gas,Perfect,25.44
+Genesis,Mih,Chamja,Chamja VI,Base Metals,Medium,4.00
+Genesis,Mih,Chamja,Chamja VI,Coolant,Rich,15.66
+Genesis,Mih,Chamja,Chamja VII,Condensed Alloy,Medium,20.11
+Genesis,Mih,Chamja,Chamja VII,Fiber Composite,Rich,23.54
+Genesis,Mih,Chamja,Chamja VII,Opulent Compound,Rich,20.42
+Genesis,Mih,Chamja,Chamja VII,Condensates,Medium,11.89
+Genesis,Ubar,Diaderi,Diaderi I,Motley Compound,Rich,18.03
+Genesis,Ubar,Diaderi,Diaderi I,Polyaramids,Medium,9.13
+Genesis,Ubar,Diaderi,Diaderi II,Lustering Alloy,Poor,10.57
+Genesis,Ubar,Diaderi,Diaderi II,Base Metals,Poor,2.95
+Genesis,Ubar,Diaderi,Diaderi III,Lustering Alloy,Medium,12.45
+Genesis,Ubar,Diaderi,Diaderi III,Base Metals,Poor,2.33
+Genesis,Ubar,Diaderi,Diaderi IV,Lustering Alloy,Poor,12.06
+Genesis,Ubar,Diaderi,Diaderi IV,Base Metals,Medium,3.43
+Genesis,Ubar,Diaderi,Diaderi V,Lustering Alloy,Perfect,20.92
+Genesis,Ubar,Diaderi,Diaderi V,Base Metals,Poor,2.82
+Genesis,Ubar,Diaderi,Diaderi V,Coolant,Medium,9.80
+Genesis,Ubar,Diaderi,Diaderi VI,Lustering Alloy,Medium,14.90
+Genesis,Ubar,Diaderi,Diaderi VI,Base Metals,Medium,3.88
+Genesis,Ubar,Diaderi,Diaderi VII,Lustering Alloy,Poor,10.87
+Genesis,Ubar,Diaderi,Diaderi VII,Base Metals,Perfect,5.53
+Genesis,Ubar,Diaderi,Diaderi VII,Ionic Solutions,Perfect,8.62
+Genesis,Ubar,Diaderi,Diaderi VIII,Lustering Alloy,Poor,11.10
+Genesis,Ubar,Diaderi,Diaderi VIII,Noble Gas,Medium,15.05
+Genesis,Ubar,Diaderi,Diaderi VIII,Base Metals,Medium,3.44
+Genesis,Ubar,Diaderi,Diaderi IX,Lustering Alloy,Medium,15.00
+Genesis,Ubar,Diaderi,Diaderi IX,Reactive Gas,Medium,14.88
+Genesis,Ubar,Diaderi,Diaderi IX,Base Metals,Rich,4.53
+Genesis,Ubar,Diaderi,Diaderi X,Toxic Metals,Perfect,5.94
+Genesis,Ubar,Diaderi,Diaderi X,Heavy Water,Medium,154.96
+Genesis,Ubar,Diaderi,Diaderi X,Liquid Ozone,Rich,25.76
+Genesis,Ubar,Manatirid,Manatirid I,Motley Compound,Poor,13.21
+Genesis,Ubar,Manatirid,Manatirid I,Polyaramids,Medium,11.77
+Genesis,Ubar,Manatirid,Manatirid II,Lustering Alloy,Poor,13.59
+Genesis,Ubar,Manatirid,Manatirid II,Base Metals,Medium,3.79
+Genesis,Ubar,Manatirid,Manatirid III,Lustering Alloy,Poor,13.63
+Genesis,Ubar,Manatirid,Manatirid III,Base Metals,Medium,4.59
+Genesis,Ubar,Manatirid,Manatirid IV,Lustering Alloy,Poor,12.53
+Genesis,Ubar,Manatirid,Manatirid IV,Base Metals,Poor,3.24
+Genesis,Ubar,Manatirid,Manatirid V,Lustering Alloy,Rich,19.79
+Genesis,Ubar,Manatirid,Manatirid V,Base Metals,Rich,6.19
+Genesis,Ubar,Manatirid,Manatirid V,Ionic Solutions,Poor,5.32
+Genesis,Ubar,Manatirid,Manatirid VI,Lustering Alloy,Poor,13.79
+Genesis,Ubar,Manatirid,Manatirid VI,Glossy Compound,Medium,14.16
+Genesis,Ubar,Manatirid,Manatirid VI,Base Metals,Rich,6.02
+Genesis,Ubar,Manatirid,Manatirid VII,Lustering Alloy,Medium,17.05
+Genesis,Ubar,Manatirid,Manatirid VII,Base Metals,Medium,4.13
+Genesis,Ubar,Manatirid,Manatirid VIII,Lustering Alloy,Poor,11.25
+Genesis,Ubar,Manatirid,Manatirid VIII,Base Metals,Poor,3.39
+Genesis,Ubar,Pashanai,Pashanai I,Gleaming Alloy,Poor,15.07
+Genesis,Ubar,Pashanai,Pashanai I,Reactive Gas,Medium,16.06
+Genesis,Ubar,Pashanai,Pashanai I,Construction Blocks,Medium,19.58
+Genesis,Ubar,Pashanai,Pashanai II,Noble Metals,Medium,17.06
+Genesis,Ubar,Pashanai,Pashanai II,Coolant,Perfect,16.98
+Genesis,Ubar,Pashanai,Pashanai II,Silicate Glass,Perfect,13.06
+Genesis,Ubar,Pashanai,Pashanai II,Heavy Water,Rich,237.28
+Genesis,Ubar,Pashanai,Pashanai III,Lustering Alloy,Rich,25.17
+Genesis,Ubar,Pashanai,Pashanai III,Noble Gas,Medium,19.68
+Genesis,Ubar,Pashanai,Pashanai III,Reactive Metals,Rich,6.41
+Genesis,Ubar,Pashanai,Pashanai III,Polyaramids,Rich,15.02
+Genesis,Ubar,Pashanai,Pashanai IV,Fiber Composite,Medium,17.68
+Genesis,Ubar,Pashanai,Pashanai IV,Noble Gas,Poor,14.72
+Genesis,Ubar,Pashanai,Pashanai IV,Base Metals,Medium,4.80
+Genesis,Ubar,Pashanai,Pashanai IV,Coolant,Medium,13.41
+Genesis,Ubar,Pashanai,Pashanai V,Sheen Compound,Rich,21.12
+Genesis,Ubar,Pashanai,Pashanai V,Fiber Composite,Medium,20.03
+Genesis,Ubar,Pashanai,Pashanai V,Noble Gas,Poor,13.66
+Genesis,Ubar,Pashanai,Pashanai V,Base Metals,Perfect,6.95
+Genesis,Ubar,Pashanai,Pashanai VI,Precious Alloy,Poor,14.62
+Genesis,Ubar,Pashanai,Pashanai VI,Industrial Fibers,Medium,4.20
+Genesis,Ubar,Pashanai,Pashanai VI,Silicate Glass,Medium,9.70
+Genesis,Ubar,Pamah,Pamah I,Noble Gas,Medium,15.33
+Genesis,Ubar,Pamah,Pamah I,Plasmoids,Rich,1.34
+Genesis,Ubar,Pamah,Pamah II,Reactive Gas,Rich,25.10
+Genesis,Ubar,Pamah,Pamah II,Construction Blocks,Poor,15.04
+Genesis,Ubar,Pamah,Pamah II,Oxygen Isotopes,Poor,2.12
+Genesis,Ubar,Pamah,Pamah III,Gleaming Alloy,Medium,16.00
+Genesis,Ubar,Pamah,Pamah III,Noble Gas,Medium,15.52
+Genesis,Ubar,Pamah,Pamah IV,Noble Gas,Medium,16.10
+Genesis,Ubar,Pamah,Pamah IV,Reactive Metals,Perfect,6.97
+Genesis,Ubar,Pamah,Pamah IV,Polyaramids,Rich,13.55
+Genesis,Ubar,Pamah,Pamah IV,Ionic Solutions,Medium,6.38
+Genesis,Ubar,Pamah,Pamah V,Reactive Gas,Perfect,25.70
+Genesis,Ubar,Pamah,Pamah V,Noble Gas,Rich,20.58
+Genesis,Ubar,Pamah,Pamah V,Reactive Metals,Medium,4.92
+Genesis,Ubar,Pamah,Pamah V,Polyaramids,Medium,12.02
+Genesis,Ubar,Leran,Leran I,Condensates,Rich,15.72
+Genesis,Ubar,Leran,Leran I,Nanites,Medium,4.92
+Genesis,Ubar,Leran,Leran I,Ionic Solutions,Perfect,10.99
+Genesis,Ubar,Leran,Leran I,Plasmoids,Medium,1.21
+Genesis,Ubar,Leran,Leran II,Base Metals,Poor,3.42
+Genesis,Ubar,Leran,Leran II,Industrial Fibers,Poor,3.67
+Genesis,Ubar,Leran,Leran II,Plasmoids,Poor,0.69
+Genesis,Ubar,Leran,Leran III,Glossy Compound,Perfect,26.59
+Genesis,Ubar,Leran,Leran III,Noble Gas,Rich,20.58
+Genesis,Ubar,Leran,Leran IV,Condensed Alloy,Medium,15.31
+Genesis,Ubar,Leran,Leran IV,Fiber Composite,Medium,19.34
+Genesis,Ubar,Leran,Leran IV,Condensates,Rich,16.92
+Genesis,Ubar,Leran,Leran IV,Heavy Water,Medium,165.76
+Genesis,Ubar,Leran,Leran V,Opulent Compound,Rich,23.95
+Genesis,Ubar,Leran,Leran V,Coolant,Perfect,18.33
+Genesis,Ubar,Leran,Leran V,Liquid Ozone,Rich,29.16
+Genesis,Ubar,Leran,Leran V,Ionic Solutions,Medium,7.59
+Genesis,Ubar,Leran,Leran VI,Sheen Compound,Rich,21.12
+Genesis,Ubar,Leran,Leran VI,Fiber Composite,Rich,24.38
+Genesis,Ubar,Leran,Leran VI,Noble Gas,Rich,22.02
+Genesis,Ubar,Leran,Leran VI,Base Metals,Medium,4.97
+Genesis,Ubar,Leran,Leran VII,Industrial Fibers,Poor,3.63
+Genesis,Ubar,Leran,Leran VII,Supertensile Plastics,Medium,12.07
+Genesis,Ubar,Leran,Leran VII,Plasmoids,Medium,1.15
+Genesis,Ubar,Leran,Leran VIII,Glossy Compound,Rich,23.82
+Genesis,Ubar,Leran,Leran VIII,Noble Gas,Medium,16.21
+Genesis,Ubar,Leran,Leran VIII,Base Metals,Poor,3.88
+Genesis,Ubar,Leran,Leran VIII,Reactive Metals,Rich,5.74
+Genesis,Ubar,Leran,Leran IX,Reactive Gas,Medium,18.10
+Genesis,Ubar,Leran,Leran IX,Noble Gas,Rich,23.42
+Genesis,Ubar,Leran,Leran IX,Base Metals,Rich,5.41
+Genesis,Ubar,Leran,Leran IX,Polyaramids,Rich,15.15
+Genesis,Ubar,Leran,Leran X,Industrial Fibers,Medium,4.00
+Genesis,Ubar,Leran,Leran X,Supertensile Plastics,Poor,8.35
+Genesis,Ubar,Leran,Leran X,Silicate Glass,Medium,8.29
+Genesis,Ubar,Beke,Beke I,Precious Alloy,Medium,18.21
+Genesis,Ubar,Beke,Beke I,Dark Compound,Poor,13.43
+Genesis,Ubar,Beke,Beke I,Industrial Fibers,Medium,4.22
+Genesis,Ubar,Beke,Beke II,Precious Alloy,Poor,12.12
+Genesis,Ubar,Beke,Beke II,Industrial Fibers,Medium,4.22
+Genesis,Ubar,Beke,Beke II,Silicate Glass,Poor,7.17
+Genesis,Ubar,Beke,Beke III,Lustering Alloy,Poor,13.28
+Genesis,Ubar,Beke,Beke III,Industrial Fibers,Medium,5.17
+Genesis,Ubar,Beke,Beke III,Construction Blocks,Medium,20.62
+Genesis,Ubar,Beke,Beke IV,Lustering Alloy,Medium,19.09
+Genesis,Ubar,Beke,Beke IV,Industrial Fibers,Poor,3.48
+Genesis,Ubar,Beke,Beke IV,Silicate Glass,Poor,5.63
+Genesis,Ubar,Beke,Beke V,Lustering Alloy,Rich,25.82
+Genesis,Ubar,Beke,Beke V,Glossy Compound,Medium,17.73
+Genesis,Ubar,Beke,Beke V,Noble Gas,Poor,14.31
+Genesis,Ubar,Beke,Beke V,Reactive Metals,Rich,6.22
+Genesis,Ubar,Beke,Beke VI,Sheen Compound,Rich,22.42
+Genesis,Ubar,Beke,Beke VI,Fiber Composite,Rich,25.86
+Genesis,Ubar,Beke,Beke VI,Glossy Compound,Poor,15.13
+Genesis,Ubar,Beke,Beke VI,Noble Gas,Poor,14.52
+Genesis,Ubar,Beke,Beke VII,Condensed Alloy,Rich,22.49
+Genesis,Ubar,Beke,Beke VII,Opulent Compound,Poor,15.79
+Genesis,Ubar,Beke,Beke VII,Coolant,Medium,13.50
+Genesis,Ubar,Beke,Beke VII,Liquid Ozone,Perfect,34.13
+Genesis,Ubar,Beke,Beke VIII,Fiber Composite,Medium,19.80
+Genesis,Ubar,Beke,Beke VIII,Opulent Compound,Rich,25.14
+Genesis,Ubar,Beke,Beke VIII,Industrial Fibers,Medium,5.38
+Genesis,Ubar,Beke,Beke VIII,Smartfab Units,Medium,12.94
+Genesis,Ubar,Malma,Malma I,Nanites,Rich,5.10
+Genesis,Ubar,Malma,Malma I,Suspended Plasma,Rich,75.82
+Genesis,Ubar,Malma,Malma II,Lustering Alloy,Poor,11.51
+Genesis,Ubar,Malma,Malma II,Base Metals,Poor,3.63
+Genesis,Ubar,Malma,Malma III,Polyaramids,Medium,10.45
+Genesis,Ubar,Malma,Malma III,Heavy Water,Rich,192.60
+Genesis,Ubar,Malma,Malma III,Liquid Ozone,Medium,18.30
+Genesis,Ubar,Malma,Malma IV,Motley Compound,Rich,21.23
+Genesis,Ubar,Malma,Malma IV,Heavy Metals,Medium,15.63
+Genesis,Ubar,Malma,Malma V,Lustering Alloy,Medium,17.43
+Genesis,Ubar,Malma,Malma V,Base Metals,Medium,4.54
+Genesis,Ubar,Malma,Malma VI,Motley Compound,Medium,15.51
+Genesis,Ubar,Malma,Malma VI,Oxygen Isotopes,Medium,2.50
+Genesis,Ubar,Malma,Malma VII,Lustering Alloy,Medium,15.42
+Genesis,Ubar,Malma,Malma VII,Base Metals,Poor,3.26
+Genesis,Ubar,Malma,Malma VIII,Lustering Alloy,Poor,13.85
+Genesis,Ubar,Malma,Malma VIII,Fiber Composite,Poor,12.66
+Genesis,Ubar,Malma,Malma VIII,Base Metals,Rich,5.05
+Genesis,Ubar,Malma,Malma IX,Lustering Alloy,Medium,15.06
+Genesis,Ubar,Malma,Malma IX,Base Metals,Poor,3.00
+Genesis,Ubar,Malma,Malma X,Condensed Alloy,Medium,15.54
+Genesis,Ubar,Malma,Malma X,Noble Metals,Medium,16.13
+Genesis,Ubar,Malma,Malma X,Heavy Water,Medium,160.65
+Genesis,Ubar,Malma,Malma XI,Lustering Alloy,Medium,14.46
+Genesis,Ubar,Malma,Malma XI,Base Metals,Rich,5.63
+Genesis,Ubar,Malma,Malma XI,Coolant,Poor,8.94
+Genesis,Meli,Noranim,Noranim I,Noble Gas,Medium,16.20
+Genesis,Meli,Noranim,Noranim I,Polyaramids,Medium,12.07
+Genesis,Meli,Noranim,Noranim II,Lucent Compound,Medium,21.08
+Genesis,Meli,Noranim,Noranim II,Construction Blocks,Medium,16.52
+Genesis,Meli,Noranim,Noranim II,Oxygen Isotopes,Rich,3.47
+Genesis,Meli,Noranim,Noranim III,Condensed Alloy,Rich,23.24
+Genesis,Meli,Noranim,Noranim III,Fiber Composite,Perfect,29.41
+Genesis,Meli,Noranim,Noranim III,Industrial Fibers,Medium,5.44
+Genesis,Meli,Noranim,Noranim III,Condensates,Rich,16.07
+Genesis,Meli,Noranim,Noranim IV,Fiber Composite,Rich,25.91
+Genesis,Meli,Noranim,Noranim IV,Glossy Compound,Poor,14.40
+Genesis,Meli,Noranim,Noranim IV,Reactive Gas,Rich,23.87
+Genesis,Meli,Noranim,Noranim IV,Noble Gas,Rich,23.56
+Genesis,Meli,Noranim,Noranim V,Lustering Alloy,Medium,17.00
+Genesis,Meli,Noranim,Noranim V,Noble Gas,Rich,21.69
+Genesis,Meli,Noranim,Noranim V,Reactive Metals,Poor,3.75
+Genesis,Meli,Noranim,Noranim V,Ionic Solutions,Poor,6.17
+Genesis,Meli,Chej,Chej I,Industrial Fibers,Poor,3.58
+Genesis,Meli,Chej,Chej I,Supertensile Plastics,Poor,9.34
+Genesis,Meli,Chej,Chej I,Silicate Glass,Poor,5.87
+Genesis,Meli,Chej,Chej II,Noble Gas,Poor,15.97
+Genesis,Meli,Chej,Chej II,Smartfab Units,Medium,14.80
+Genesis,Meli,Chej,Chej III,Lustering Alloy,Poor,11.66
+Genesis,Meli,Chej,Chej III,Dark Compound,Medium,20.21
+Genesis,Meli,Chej,Chej III,Industrial Fibers,Poor,3.12
+Genesis,Meli,Chej,Chej IV,Dark Compound,Poor,11.99
+Genesis,Meli,Chej,Chej IV,Industrial Fibers,Medium,5.29
+Genesis,Meli,Chej,Chej IV,Oxygen Isotopes,Medium,3.24
+Genesis,Meli,Chej,Chej V,Base Metals,Medium,4.96
+Genesis,Meli,Chej,Chej V,Industrial Fibers,Poor,3.90
+Genesis,Meli,Chej,Chej V,Oxygen Isotopes,Medium,2.71
+Genesis,Meli,Chej,Chej VI,Lustering Alloy,Medium,20.79
+Genesis,Meli,Chej,Chej VI,Glossy Compound,Medium,20.79
+Genesis,Meli,Chej,Chej VI,Noble Gas,Rich,23.13
+Genesis,Meli,Chej,Chej VI,Coolant,Perfect,19.31
+Genesis,Meli,Chej,Chej VII,Glossy Compound,Medium,20.34
+Genesis,Meli,Chej,Chej VII,Noble Gas,Rich,27.36
+Genesis,Meli,Chej,Chej VII,Reactive Metals,Rich,6.78
+Genesis,Meli,Chej,Chej VII,Ionic Solutions,Medium,7.11
+Genesis,Meli,Chej,Chej VIII,Glossy Compound,Poor,15.70
+Genesis,Meli,Chej,Chej VIII,Noble Gas,Poor,16.65
+Genesis,Meli,Chej,Chej VIII,Polyaramids,Medium,12.72
+Genesis,Meli,Chej,Chej VIII,Ionic Solutions,Perfect,11.79
+Genesis,Meli,Chej,Chej IX,Sheen Compound,Medium,22.50
+Genesis,Meli,Chej,Chej IX,Reactive Gas,Rich,27.14
+Genesis,Meli,Chej,Chej IX,Noble Gas,Rich,27.38
+Genesis,Meli,Chej,Chej IX,Reactive Metals,Rich,6.13
+Genesis,Meli,Chej,Chej X,Dark Compound,Medium,21.26
+Genesis,Meli,Chej,Chej X,Industrial Fibers,Poor,4.06
+Genesis,Meli,Chej,Chej X,Plasmoids,Poor,0.99
+Genesis,Meli,Chej,Chej XI,Lustering Alloy,Medium,18.77
+Genesis,Meli,Chej,Chej XI,Motley Compound,Rich,25.16
+Genesis,Meli,Chej,Chej XI,Coolant,Medium,12.68
+Genesis,Meli,Menai,Menai I,Condensed Alloy,Perfect,28.73
+Genesis,Meli,Menai,Menai I,Toxic Metals,Medium,4.48
+Genesis,Meli,Menai,Menai I,Coolant,Rich,15.56
+Genesis,Meli,Menai,Menai I,Ionic Solutions,Rich,8.69
+Genesis,Meli,Menai,Menai II,Dark Compound,Medium,16.78
+Genesis,Meli,Menai,Menai II,Industrial Fibers,Medium,5.46
+Genesis,Meli,Menai,Menai II,Silicate Glass,Poor,5.84
+Genesis,Meli,Menai,Menai III,Noble Gas,Rich,26.55
+Genesis,Meli,Menai,Menai III,Noble Metals,Poor,14.43
+Genesis,Meli,Menai,Menai IV,Reactive Gas,Rich,24.80
+Genesis,Meli,Menai,Menai IV,Noble Gas,Perfect,27.08
+Genesis,Meli,Menai,Menai IV,Polyaramids,Poor,9.80
+Genesis,Meli,Menai,Menai IV,Coolant,Rich,16.71
+Genesis,Meli,Menai,Menai V,Lustering Alloy,Rich,23.00
+Genesis,Meli,Menai,Menai V,Fiber Composite,Rich,23.48
+Genesis,Meli,Menai,Menai V,Noble Gas,Medium,18.33
+Genesis,Meli,Menai,Menai V,Base Metals,Rich,5.91
+Genesis,Meli,Menai,Menai VI,Fiber Composite,Rich,23.00
+Genesis,Meli,Menai,Menai VI,Noble Gas,Medium,16.49
+Genesis,Meli,Menai,Menai VI,Base Metals,Perfect,7.25
+Genesis,Meli,Menai,Menai VI,Reactive Metals,Poor,4.09
+Genesis,Meli,Menai,Menai VII,Fiber Composite,Perfect,27.98
+Genesis,Meli,Menai,Menai VII,Glossy Compound,Rich,26.25
+Genesis,Meli,Menai,Menai VII,Noble Gas,Poor,14.26
+Genesis,Meli,Menai,Menai VII,Reactive Metals,Medium,5.30
+Genesis,Meli,Aring,Aring I,Lustering Alloy,Poor,15.37
+Genesis,Meli,Aring,Aring I,Industrial Fibers,Medium,5.61
+Genesis,Meli,Aring,Aring I,Silicate Glass,Medium,8.68
+Genesis,Meli,Aring,Aring II,Noble Gas,Rich,27.25
+Genesis,Meli,Aring,Aring II,Oxygen Isotopes,Perfect,4.31
+Genesis,Meli,Aring,Aring III,Fiber Composite,Rich,26.26
+Genesis,Meli,Aring,Aring III,Smartfab Units,Medium,14.16
+Genesis,Meli,Aring,Aring III,Heavy Water,Rich,230.22
+Genesis,Meli,Aring,Aring III,Liquid Ozone,Medium,26.12
+Genesis,Meli,Aring,Aring IV,Condensed Alloy,Rich,23.02
+Genesis,Meli,Aring,Aring IV,Fiber Composite,Perfect,29.68
+Genesis,Meli,Aring,Aring IV,Base Metals,Perfect,7.71
+Genesis,Meli,Aring,Aring IV,Liquid Ozone,Medium,21.73
+Genesis,Meli,Aring,Aring V,Industrial Fibers,Medium,5.60
+Genesis,Meli,Aring,Aring V,Construction Blocks,Medium,18.36
+Genesis,Meli,Aring,Aring V,Silicate Glass,Medium,10.42
+Genesis,Meli,Aring,Aring VI,Lucent Compound,Rich,26.96
+Genesis,Meli,Aring,Aring VI,Supertensile Plastics,Medium,14.34
+Genesis,Meli,Aring,Aring VI,Construction Blocks,Rich,22.91
+Genesis,Meli,Aring,Aring VII,Reactive Gas,Medium,17.35
+Genesis,Meli,Aring,Aring VII,Supertensile Plastics,Rich,17.57
+Genesis,Meli,Aring,Aring VII,Construction Blocks,Medium,17.59
+Genesis,Meli,Aring,Aring VIII,Lustering Alloy,Medium,20.88
+Genesis,Meli,Aring,Aring VIII,Industrial Fibers,Medium,5.76
+Genesis,Meli,Aring,Aring VIII,Construction Blocks,Medium,18.00
+Genesis,Meli,Aring,Aring IX,Lustering Alloy,Rich,23.74
+Genesis,Meli,Aring,Aring IX,Noble Gas,Medium,17.17
+Genesis,Meli,Aring,Aring IX,Polyaramids,Rich,16.03
+Genesis,Meli,Aring,Aring IX,Coolant,Medium,12.40
+Genesis,Meli,Aring,Aring X,Lustering Alloy,Medium,18.29
+Genesis,Meli,Aring,Aring X,Sheen Compound,Rich,23.49
+Genesis,Meli,Aring,Aring X,Fiber Composite,Rich,27.47
+Genesis,Meli,Aring,Aring X,Noble Gas,Medium,22.32
+Genesis,Meli,Aring,Aring XI,Crystal Compound,Medium,18.11
+Genesis,Meli,Aring,Aring XI,Polyaramids,Medium,13.31
+Genesis,Meli,Aring,Aring XI,Coolant,Perfect,19.80
+Genesis,Meli,Aring,Aring XI,Heavy Water,Perfect,287.46
+Genesis,Meli,Aring,Aring XII,Lucent Compound,Rich,24.14
+Genesis,Meli,Aring,Aring XII,Toxic Metals,Rich,7.43
+Genesis,Meli,Aring,Aring XII,Construction Blocks,Medium,17.10
+Genesis,Meli,Aring,Aring XIII,Precious Alloy,Poor,16.29
+Genesis,Meli,Aring,Aring XIII,Base Metals,Medium,5.50
+Genesis,Meli,Aring,Aring XIII,Industrial Fibers,Medium,4.95
+Genesis,Meli,Gayar,Gayar I,Base Metals,Medium,5.57
+Genesis,Meli,Gayar,Gayar I,Industrial Fibers,Poor,4.43
+Genesis,Meli,Gayar,Gayar I,Oxygen Isotopes,Medium,2.85
+Genesis,Meli,Gayar,Gayar II,Industrial Fibers,Medium,5.66
+Genesis,Meli,Gayar,Gayar II,Construction Blocks,Medium,20.00
+Genesis,Meli,Gayar,Gayar II,Silicate Glass,Poor,7.61
+Genesis,Meli,Gayar,Gayar III,Fiber Composite,Rich,22.99
+Genesis,Meli,Gayar,Gayar III,Base Metals,Rich,7.46
+Genesis,Meli,Gayar,Gayar III,Smartfab Units,Medium,11.47
+Genesis,Meli,Gayar,Gayar III,Liquid Ozone,Perfect,42.91
+Genesis,Meli,Gayar,Gayar IV,Industrial Fibers,Poor,2.96
+Genesis,Meli,Gayar,Gayar IV,Oxygen Isotopes,Poor,2.35
+Genesis,Meli,Gayar,Gayar IV,Plasmoids,Medium,1.14
+Genesis,Meli,Gayar,Gayar V,Lustering Alloy,Rich,26.46
+Genesis,Meli,Gayar,Gayar V,Sheen Compound,Rich,26.89
+Genesis,Meli,Gayar,Gayar V,Glossy Compound,Rich,27.65
+Genesis,Meli,Gayar,Gayar V,Noble Gas,Rich,25.65
+Genesis,Meli,Gayar,Gayar VI,Toxic Metals,Poor,3.52
+Genesis,Meli,Gayar,Gayar VI,Industrial Fibers,Poor,3.02
+Genesis,Meli,Gayar,Gayar VI,Plasmoids,Poor,0.89
+Genesis,Meli,Gayar,Gayar VII,Lustering Alloy,Medium,17.64
+Genesis,Meli,Gayar,Gayar VII,Fiber Composite,Rich,22.91
+Genesis,Meli,Gayar,Gayar VII,Noble Gas,Rich,24.98
+Genesis,Meli,Gayar,Gayar VII,Base Metals,Rich,6.14
+Genesis,Meli,Petidu,Petidu I,Noble Gas,Medium,18.38
+Genesis,Meli,Petidu,Petidu I,Noble Metals,Perfect,28.48
+Genesis,Meli,Petidu,Petidu II,Fiber Composite,Perfect,28.76
+Genesis,Meli,Petidu,Petidu II,Base Metals,Rich,6.41
+Genesis,Meli,Petidu,Petidu II,Smartfab Units,Rich,17.77
+Genesis,Meli,Petidu,Petidu II,Heavy Water,Perfect,298.35
+Genesis,Meli,Petidu,Petidu III,Motley Compound,Rich,22.47
+Genesis,Meli,Petidu,Petidu III,Noble Gas,Medium,19.19
+Genesis,Meli,Petidu,Petidu IV,Sheen Compound,Medium,20.25
+Genesis,Meli,Petidu,Petidu IV,Reactive Gas,Medium,21.13
+Genesis,Meli,Petidu,Petidu IV,Noble Gas,Rich,24.97
+Genesis,Meli,Petidu,Petidu IV,Coolant,Medium,11.70
+Genesis,Meli,Petidu,Petidu V,Sheen Compound,Rich,26.50
+Genesis,Meli,Petidu,Petidu V,Lucent Compound,Medium,18.09
+Genesis,Meli,Petidu,Petidu V,Noble Gas,Medium,20.81
+Genesis,Meli,Petidu,Petidu V,Nanites,Medium,5.41
+Genesis,Meli,Petidu,Petidu VI,Noble Gas,Rich,21.88
+Genesis,Meli,Petidu,Petidu VI,Reactive Metals,Medium,4.86
+Genesis,Meli,Petidu,Petidu VI,Polyaramids,Rich,14.57
+Genesis,Meli,Petidu,Petidu VI,Ionic Solutions,Medium,6.76
+Genesis,Meli,Petidu,Petidu VII,Dark Compound,Medium,18.17
+Genesis,Meli,Petidu,Petidu VII,Industrial Fibers,Poor,4.12
+Genesis,Meli,Petidu,Petidu VII,Plasmoids,Medium,1.23
+Genesis,Meli,Petidu,Petidu VIII,Glossy Compound,Poor,14.79
+Genesis,Meli,Petidu,Petidu VIII,Reactive Gas,Medium,16.61
+Genesis,Meli,Petidu,Petidu VIII,Noble Gas,Rich,26.96
+Genesis,Meli,Petidu,Petidu VIII,Ionic Solutions,Medium,7.45
+Genesis,Meli,Petidu,Petidu IX,Sheen Compound,Medium,19.06
+Genesis,Meli,Petidu,Petidu IX,Noble Gas,Rich,26.52
+Genesis,Meli,Petidu,Petidu IX,Base Metals,Poor,4.10
+Genesis,Meli,Petidu,Petidu IX,Coolant,Medium,12.57
+Genesis,Meli,Petidu,Petidu X,Motley Compound,Poor,14.59
+Genesis,Meli,Petidu,Petidu X,Coolant,Medium,10.90
+Genesis,Meli,Petidu,Petidu X,Liquid Ozone,Rich,29.60
+Genesis,Meli,Petidu,Petidu XI,Dark Compound,Medium,17.14
+Genesis,Meli,Petidu,Petidu XI,Industrial Fibers,Poor,3.02
+Genesis,Meli,Petidu,Petidu XI,Silicate Glass,Medium,8.31
+Genesis,Meli,Naka,Naka I,Lucent Compound,Rich,28.53
+Genesis,Meli,Naka,Naka I,Toxic Metals,Poor,4.42
+Genesis,Meli,Naka,Naka I,Construction Blocks,Rich,26.62
+Genesis,Meli,Naka,Naka II,Industrial Fibers,Medium,5.73
+Genesis,Meli,Naka,Naka II,Construction Blocks,Medium,19.93
+Genesis,Meli,Naka,Naka II,Silicate Glass,Poor,7.86
+Genesis,Meli,Naka,Naka III,Noble Gas,Rich,22.99
+Genesis,Meli,Naka,Naka III,Noble Metals,Rich,23.29
+Genesis,Meli,Naka,Naka IV,Lustering Alloy,Medium,18.52
+Genesis,Meli,Naka,Naka IV,Reactive Gas,Poor,15.08
+Genesis,Meli,Naka,Naka IV,Noble Gas,Medium,19.57
+Genesis,Meli,Naka,Naka IV,Reactive Metals,Poor,4.35
+Genesis,Meli,Naka,Naka V,Precious Alloy,Medium,20.59
+Genesis,Meli,Naka,Naka V,Industrial Fibers,Poor,3.15
+Genesis,Meli,Naka,Naka V,Oxygen Isotopes,Medium,3.04
+Genesis,Meli,Naka,Naka VI,Glossy Compound,Poor,14.80
+Genesis,Meli,Naka,Naka VI,Noble Gas,Perfect,28.69
+Genesis,Meli,Naka,Naka VI,Reactive Metals,Rich,6.97
+Genesis,Meli,Naka,Naka VI,Ionic Solutions,Rich,9.30
+Genesis,Meli,Naka,Naka VII,Glossy Compound,Poor,16.74
+Genesis,Meli,Naka,Naka VII,Noble Gas,Rich,28.55
+Genesis,Meli,Naka,Naka VII,Coolant,Rich,17.17
+Genesis,Meli,Naka,Naka VII,Ionic Solutions,Medium,7.93
+Genesis,Meli,Naka,Naka VIII,Heavy Metals,Medium,20.84
+Genesis,Meli,Naka,Naka VIII,Coolant,Poor,9.80
+Genesis,Meli,Naka,Naka VIII,Suspended Plasma,Medium,64.02
+Genesis,Reya,Madomi,Madomi I,Supertensile Plastics,Medium,10.72
+Genesis,Reya,Madomi,Madomi I,Suspended Plasma,Rich,85.05
+Genesis,Reya,Madomi,Madomi II,Lustering Alloy,Medium,17.22
+Genesis,Reya,Madomi,Madomi II,Base Metals,Medium,4.93
+Genesis,Reya,Madomi,Madomi II,Coolant,Rich,15.22
+Genesis,Reya,Madomi,Madomi III,Lustering Alloy,Rich,21.66
+Genesis,Reya,Madomi,Madomi III,Base Metals,Rich,5.85
+Genesis,Reya,Madomi,Madomi III,Polyaramids,Medium,11.06
+Genesis,Reya,Madomi,Madomi IV,Lustering Alloy,Medium,14.38
+Genesis,Reya,Madomi,Madomi IV,Glossy Compound,Medium,18.07
+Genesis,Reya,Madomi,Madomi IV,Base Metals,Rich,6.22
+Genesis,Reya,Madomi,Madomi V,Lustering Alloy,Rich,20.75
+Genesis,Reya,Madomi,Madomi V,Base Metals,Rich,5.25
+Genesis,Reya,Madomi,Madomi VI,Lustering Alloy,Medium,15.07
+Genesis,Reya,Madomi,Madomi VI,Base Metals,Medium,3.93
+Genesis,Reya,Madomi,Madomi VII,Lustering Alloy,Medium,16.68
+Genesis,Reya,Madomi,Madomi VII,Base Metals,Poor,3.38
+Genesis,Reya,Madomi,Madomi VIII,Lustering Alloy,Medium,15.66
+Genesis,Reya,Madomi,Madomi VIII,Base Metals,Medium,4.35
+Genesis,Reya,Gergish,Gergish I,Lustering Alloy,Poor,11.49
+Genesis,Reya,Gergish,Gergish I,Base Metals,Poor,3.71
+Genesis,Reya,Gergish,Gergish II,Motley Compound,Rich,20.19
+Genesis,Reya,Gergish,Gergish II,Glossy Compound,Rich,23.43
+Genesis,Reya,Gergish,Gergish III,Lustering Alloy,Poor,9.73
+Genesis,Reya,Gergish,Gergish III,Base Metals,Poor,3.09
+Genesis,Reya,Gergish,Gergish IV,Lustering Alloy,Poor,13.57
+Genesis,Reya,Gergish,Gergish IV,Base Metals,Medium,4.46
+Genesis,Reya,Gergish,Gergish V,Lustering Alloy,Poor,10.54
+Genesis,Reya,Gergish,Gergish V,Base Metals,Medium,4.31
+Genesis,Reya,Gergish,Gergish VI,Reactive Gas,Rich,21.11
+Genesis,Reya,Gergish,Gergish VI,Base Metals,Perfect,6.88
+Genesis,Reya,Gergish,Gergish VI,Heavy Water,Poor,138.45
+Genesis,Reya,Gergish,Gergish VII,Fiber Composite,Perfect,28.20
+Genesis,Reya,Gergish,Gergish VII,Heavy Water,Rich,210.45
+Genesis,Reya,Gergish,Gergish VII,Liquid Ozone,Perfect,34.50
+Genesis,Reya,Gergish,Gergish VIII,Lustering Alloy,Poor,12.68
+Genesis,Reya,Gergish,Gergish VIII,Glossy Compound,Medium,16.77
+Genesis,Reya,Gergish,Gergish VIII,Base Metals,Rich,5.68
+Genesis,Reya,Gergish,Gergish IX,Lustering Alloy,Medium,14.85
+Genesis,Reya,Gergish,Gergish IX,Reactive Gas,Poor,13.74
+Genesis,Reya,Gergish,Gergish IX,Base Metals,Rich,6.01
+Genesis,Reya,Gergish,Gergish X,Lustering Alloy,Medium,18.72
+Genesis,Reya,Gergish,Gergish X,Base Metals,Medium,4.67
+Genesis,Reya,Tahli,Tahli I,Suspended Plasma,Rich,74.79
+Genesis,Reya,Tahli,Tahli I,Oxygen Isotopes,Rich,3.39
+Genesis,Reya,Tahli,Tahli II,Crystal Compound,Medium,17.98
+Genesis,Reya,Tahli,Tahli II,Suspended Plasma,Medium,56.65
+Genesis,Reya,Tahli,Tahli III,Lustering Alloy,Medium,15.82
+Genesis,Reya,Tahli,Tahli III,Sheen Compound,Medium,17.98
+Genesis,Reya,Tahli,Tahli III,Base Metals,Rich,5.26
+Genesis,Reya,Imya,Imya I,Lustering Alloy,Poor,10.74
+Genesis,Reya,Imya,Imya I,Base Metals,Medium,4.52
+Genesis,Reya,Imya,Imya II,Lustering Alloy,Poor,11.65
+Genesis,Reya,Imya,Imya II,Base Metals,Poor,3.63
+Genesis,Reya,Imya,Imya III,Lustering Alloy,Medium,17.82
+Genesis,Reya,Imya,Imya III,Base Metals,Medium,3.79
+Genesis,Reya,Imya,Imya IV,Lustering Alloy,Perfect,24.52
+Genesis,Reya,Imya,Imya IV,Fiber Composite,Rich,19.39
+Genesis,Reya,Imya,Imya IV,Base Metals,Medium,3.84
+Genesis,Reya,Imya,Imya V,Lustering Alloy,Medium,16.96
+Genesis,Reya,Imya,Imya V,Reactive Gas,Medium,17.40
+Genesis,Reya,Imya,Imya V,Base Metals,Rich,5.01
+Genesis,Reya,Imya,Imya VI,Lustering Alloy,Rich,21.59
+Genesis,Reya,Imya,Imya VI,Base Metals,Medium,4.47
+Genesis,Reya,Imya,Imya VI,Polyaramids,Poor,9.05
+Genesis,Reya,Imya,Imya VII,Lustering Alloy,Poor,9.59
+Genesis,Reya,Imya,Imya VII,Base Metals,Poor,2.60
+Genesis,Reya,Imya,Imya VIII,Lustering Alloy,Medium,15.82
+Genesis,Reya,Imya,Imya VIII,Base Metals,Medium,4.32
+Genesis,Reya,Imya,Imya IX,Lustering Alloy,Medium,14.22
+Genesis,Reya,Imya,Imya IX,Noble Gas,Medium,15.77
+Genesis,Reya,Imya,Imya IX,Base Metals,Rich,5.48
+Genesis,Reya,Imya,Imya X,Lustering Alloy,Poor,10.05
+Genesis,Reya,Imya,Imya X,Base Metals,Poor,3.04
+Genesis,Reya,Kobam,Kobam I,Motley Compound,Medium,15.46
+Genesis,Reya,Kobam,Kobam I,Plasmoids,Rich,1.36
+Genesis,Reya,Kobam,Kobam II,Lustering Alloy,Poor,11.60
+Genesis,Reya,Kobam,Kobam II,Base Metals,Medium,4.39
+Genesis,Reya,Kobam,Kobam III,Lustering Alloy,Medium,16.93
+Genesis,Reya,Kobam,Kobam III,Base Metals,Poor,3.56
+Genesis,Reya,Kobam,Kobam IV,Lucent Compound,Rich,23.32
+Genesis,Reya,Kobam,Kobam IV,Suspended Plasma,Rich,70.90
+Genesis,Reya,Kobam,Kobam V,Opulent Compound,Rich,19.18
+Genesis,Reya,Kobam,Kobam V,Noble Metals,Rich,23.67
+Genesis,Reya,Kobam,Kobam V,Heavy Water,Perfect,247.20
+Genesis,Reya,Kobam,Kobam VI,Toxic Metals,Rich,5.51
+Genesis,Reya,Kobam,Kobam VI,Suspended Plasma,Medium,56.21
+Genesis,Reya,Kobam,Kobam VII,Opulent Compound,Rich,22.26
+Genesis,Reya,Kobam,Kobam VII,Condensates,Medium,11.57
+Genesis,Reya,Kobam,Kobam VII,Heavy Water,Medium,177.15
+Genesis,Reya,Kobam,Kobam VIII,Lustering Alloy,Medium,14.25
+Genesis,Reya,Kobam,Kobam VIII,Base Metals,Rich,5.98
+Genesis,Reya,Kobam,Kobam VIII,Coolant,Poor,8.66
+Genesis,Reya,Kobam,Kobam IX,Lustering Alloy,Rich,20.86
+Genesis,Reya,Kobam,Kobam IX,Base Metals,Medium,4.87
+Genesis,Reya,Kobam,Kobam IX,Coolant,Rich,15.83
+Genesis,Reya,Kobam,Kobam X,Lustering Alloy,Medium,18.86
+Genesis,Reya,Kobam,Kobam X,Base Metals,Rich,5.55
+Genesis,Reya,Kobam,Kobam X,Reactive Metals,Poor,3.69
+Genesis,Reya,Kobam,Kobam XI,Lustering Alloy,Poor,14.04
+Genesis,Reya,Kobam,Kobam XI,Base Metals,Poor,3.00
+Genesis,Reya,Hirizan,Hirizan I,Noble Gas,Perfect,25.46
+Genesis,Reya,Hirizan,Hirizan I,Smartfab Units,Poor,9.00
+Genesis,Reya,Hirizan,Hirizan II,Toxic Metals,Rich,6.05
+Genesis,Reya,Hirizan,Hirizan II,Construction Blocks,Medium,17.06
+Genesis,Reya,Hirizan,Hirizan II,Oxygen Isotopes,Perfect,3.84
+Genesis,Reya,Hirizan,Hirizan III,Crystal Compound,Poor,14.66
+Genesis,Reya,Hirizan,Hirizan III,Construction Blocks,Rich,20.78
+Genesis,Reya,Hirizan,Hirizan III,Nanites,Rich,6.35
+Genesis,Reya,Hirizan,Hirizan IV,Fiber Composite,Medium,19.68
+Genesis,Reya,Hirizan,Hirizan IV,Reactive Gas,Perfect,30.45
+Genesis,Reya,Hirizan,Hirizan IV,Base Metals,Perfect,7.46
+Genesis,Reya,Hirizan,Hirizan IV,Liquid Ozone,Rich,28.30
+Genesis,Reya,Hirizan,Hirizan V,Toxic Metals,Medium,4.92
+Genesis,Reya,Hirizan,Hirizan V,Industrial Fibers,Poor,3.79
+Genesis,Reya,Hirizan,Hirizan V,Construction Blocks,Medium,15.74
+Genesis,Reya,Hirizan,Hirizan VI,Fiber Composite,Medium,18.64
+Genesis,Reya,Hirizan,Hirizan VI,Reactive Gas,Perfect,28.61
+Genesis,Reya,Hirizan,Hirizan VI,Base Metals,Rich,6.21
+Genesis,Reya,Hirizan,Hirizan VI,Heavy Water,Medium,165.76
+Genesis,Reya,Hirizan,Hirizan VII,Lustering Alloy,Medium,18.96
+Genesis,Reya,Hirizan,Hirizan VII,Noble Gas,Medium,19.50
+Genesis,Reya,Hirizan,Hirizan VII,Base Metals,Medium,4.14
+Genesis,Reya,Hirizan,Hirizan VII,Ionic Solutions,Medium,6.44
+Genesis,Reya,Hirizan,Hirizan VIII,Toxic Metals,Perfect,6.99
+Genesis,Reya,Hirizan,Hirizan VIII,Coolant,Rich,16.37
+Genesis,Reya,Hirizan,Hirizan VIII,Heavy Water,Rich,225.60
+Genesis,Reya,Hirizan,Hirizan VIII,Ionic Solutions,Rich,9.87
+Genesis,Reya,Hirizan,Hirizan IX,Fiber Composite,Rich,20.37
+Genesis,Reya,Hirizan,Hirizan IX,Industrial Fibers,Rich,5.95
+Genesis,Reya,Hirizan,Hirizan IX,Condensates,Rich,15.03
+Genesis,Reya,Hirizan,Hirizan IX,Smartfab Units,Perfect,17.39
+Genesis,Reya,Hirizan,Hirizan X,Toxic Metals,Rich,6.32
+Genesis,Reya,Hirizan,Hirizan X,Coolant,Medium,12.30
+Genesis,Reya,Hirizan,Hirizan X,Silicate Glass,Poor,7.05
+Genesis,Reya,Hirizan,Hirizan X,Heavy Water,Perfect,280.96
+Genesis,Charak,Anyed,Anyed I,Motley Compound,Poor,14.12
+Genesis,Charak,Anyed,Anyed I,Polyaramids,Poor,8.63
+Genesis,Charak,Anyed,Anyed II,Motley Compound,Rich,20.30
+Genesis,Charak,Anyed,Anyed II,Polyaramids,Rich,13.98
+Genesis,Charak,Anyed,Anyed III,Motley Compound,Medium,17.22
+Genesis,Charak,Anyed,Anyed III,Noble Gas,Rich,21.87
+Genesis,Charak,Anyed,Anyed IV,Lucent Compound,Medium,16.20
+Genesis,Charak,Anyed,Anyed IV,Suspended Plasma,Rich,69.23
+Genesis,Charak,Anyed,Anyed V,Lustering Alloy,Poor,11.65
+Genesis,Charak,Anyed,Anyed V,Base Metals,Poor,2.83
+Genesis,Charak,Anyed,Anyed VI,Lustering Alloy,Poor,13.47
+Genesis,Charak,Anyed,Anyed VI,Base Metals,Rich,6.18
+Genesis,Charak,Anyed,Anyed VI,Reactive Metals,Rich,5.29
+Genesis,Charak,Anyed,Anyed VII,Fiber Composite,Perfect,28.08
+Genesis,Charak,Anyed,Anyed VII,Condensates,Perfect,16.00
+Genesis,Charak,Anyed,Anyed VII,Heavy Water,Perfect,262.20
+Genesis,Charak,Anyed,Anyed VIII,Lustering Alloy,Medium,14.28
+Genesis,Charak,Anyed,Anyed VIII,Base Metals,Medium,4.77
+Genesis,Charak,Anyed,Anyed VIII,Coolant,Medium,12.30
+Genesis,Charak,Anyed,Anyed IX,Lustering Alloy,Rich,20.11
+Genesis,Charak,Anyed,Anyed IX,Fiber Composite,Medium,14.36
+Genesis,Charak,Anyed,Anyed IX,Base Metals,Rich,5.43
+Genesis,Charak,Anyed,Anyed X,Lustering Alloy,Poor,13.11
+Genesis,Charak,Anyed,Anyed X,Base Metals,Medium,4.35
+Genesis,Charak,Anyed,Anyed X,Coolant,Medium,10.84
+Genesis,Charak,Anyed,Anyed XI,Lustering Alloy,Poor,11.46
+Genesis,Charak,Anyed,Anyed XI,Base Metals,Poor,3.45
+Genesis,Charak,Anyed,Anyed XII,Construction Blocks,Perfect,24.43
+Genesis,Charak,Anyed,Anyed XII,Suspended Plasma,Rich,82.51
+Genesis,Charak,Anyed,Anyed XIII,Lustering Alloy,Medium,17.95
+Genesis,Charak,Anyed,Anyed XIII,Base Metals,Rich,5.74
+Genesis,Charak,Habu,Habu I,Lustering Alloy,Medium,15.76
+Genesis,Charak,Habu,Habu I,Base Metals,Poor,2.69
+Genesis,Charak,Habu,Habu II,Reactive Gas,Medium,14.55
+Genesis,Charak,Habu,Habu II,Suspended Plasma,Poor,46.72
+Genesis,Charak,Habu,Habu III,Gleaming Alloy,Perfect,22.83
+Genesis,Charak,Habu,Habu III,Suspended Plasma,Rich,78.93
+Genesis,Charak,Habu,Habu IV,Fiber Composite,Perfect,22.30
+Genesis,Charak,Habu,Habu IV,Industrial Fibers,Medium,3.68
+Genesis,Charak,Habu,Habu IV,Heavy Water,Medium,132.72
+Genesis,Charak,Habu,Habu V,Lustering Alloy,Poor,11.91
+Genesis,Charak,Habu,Habu V,Base Metals,Rich,5.32
+Genesis,Charak,Habu,Habu V,Polyaramids,Medium,10.80
+Genesis,Charak,Habu,Habu VI,Reactive Gas,Rich,18.82
+Genesis,Charak,Habu,Habu VI,Industrial Fibers,Medium,3.97
+Genesis,Charak,Habu,Habu VI,Heavy Water,Perfect,237.44
+Genesis,Charak,Habu,Habu VII,Lustering Alloy,Poor,12.57
+Genesis,Charak,Habu,Habu VII,Noble Gas,Perfect,23.18
+Genesis,Charak,Habu,Habu VII,Base Metals,Rich,5.78
+Genesis,Charak,Habu,Habu VIII,Smartfab Units,Rich,14.02
+Genesis,Charak,Habu,Habu VIII,Heavy Water,Rich,191.94
+Genesis,Charak,Habu,Habu VIII,Liquid Ozone,Rich,25.37
+Genesis,Charak,Asanot,Asanot I,Dark Compound,Medium,16.83
+Genesis,Charak,Asanot,Asanot I,Industrial Fibers,Medium,4.61
+Genesis,Charak,Asanot,Asanot I,Plasmoids,Poor,0.64
+Genesis,Charak,Asanot,Asanot II,Toxic Metals,Poor,3.69
+Genesis,Charak,Asanot,Asanot II,Industrial Fibers,Poor,3.75
+Genesis,Charak,Asanot,Asanot II,Construction Blocks,Poor,11.18
+Genesis,Charak,Asanot,Asanot III,Fiber Composite,Perfect,25.87
+Genesis,Charak,Asanot,Asanot III,Opulent Compound,Rich,22.53
+Genesis,Charak,Asanot,Asanot III,Base Metals,Perfect,7.41
+Genesis,Charak,Asanot,Asanot III,Heavy Water,Perfect,289.92
+Genesis,Charak,Asanot,Asanot IV,Dark Compound,Medium,17.39
+Genesis,Charak,Asanot,Asanot IV,Industrial Fibers,Poor,2.97
+Genesis,Charak,Asanot,Asanot IV,Silicate Glass,Poor,7.04
+Genesis,Charak,Asanot,Asanot V,Reactive Gas,Perfect,26.45
+Genesis,Charak,Asanot,Asanot V,Noble Gas,Poor,14.14
+Genesis,Charak,Asanot,Asanot V,Coolant,Medium,11.80
+Genesis,Charak,Asanot,Asanot V,Ionic Solutions,Medium,7.28
+Genesis,Charak,Asanot,Asanot VI,Sheen Compound,Rich,24.14
+Genesis,Charak,Asanot,Asanot VI,Noble Gas,Rich,23.17
+Genesis,Charak,Asanot,Asanot VI,Polyaramids,Poor,9.43
+Genesis,Charak,Asanot,Asanot VI,Coolant,Perfect,17.03
+Genesis,Charak,Asanot,Asanot VII,Toxic Metals,Rich,6.05
+Genesis,Charak,Asanot,Asanot VII,Supertensile Plastics,Medium,11.42
+Genesis,Charak,Asanot,Asanot VII,Construction Blocks,Rich,21.73
+Genesis,Charak,Asanot,Asanot VIII,Lustering Alloy,Rich,21.30
+Genesis,Charak,Asanot,Asanot VIII,Sheen Compound,Poor,14.99
+Genesis,Charak,Asanot,Asanot VIII,Noble Gas,Poor,13.52
+Genesis,Charak,Asanot,Asanot VIII,Coolant,Poor,9.17
+Genesis,Charak,Anzalaisio,Anzalaisio I,Reactive Gas,Medium,19.38
+Genesis,Charak,Anzalaisio,Anzalaisio I,Construction Blocks,Poor,13.62
+Genesis,Charak,Anzalaisio,Anzalaisio I,Suspended Plasma,Medium,56.10
+Genesis,Charak,Anzalaisio,Anzalaisio II,Dark Compound,Perfect,27.89
+Genesis,Charak,Anzalaisio,Anzalaisio II,Noble Gas,Medium,19.98
+Genesis,Charak,Anzalaisio,Anzalaisio II,Reactive Metals,Rich,6.03
+Genesis,Charak,Anzalaisio,Anzalaisio II,Nanites,Medium,3.99
+Genesis,Charak,Anzalaisio,Anzalaisio III,Noble Gas,Perfect,25.81
+Genesis,Charak,Anzalaisio,Anzalaisio III,Heavy Metals,Rich,23.26
+Genesis,Charak,Anzalaisio,Anzalaisio IV,Lustering Alloy,Medium,17.17
+Genesis,Charak,Anzalaisio,Anzalaisio IV,Fiber Composite,Rich,24.85
+Genesis,Charak,Anzalaisio,Anzalaisio IV,Noble Gas,Rich,24.21
+Genesis,Charak,Anzalaisio,Anzalaisio IV,Reactive Metals,Perfect,6.90
+Genesis,Charak,Anzalaisio,Anzalaisio V,Reactive Gas,Rich,22.54
+Genesis,Charak,Anzalaisio,Anzalaisio V,Noble Gas,Medium,17.46
+Genesis,Charak,Anzalaisio,Anzalaisio V,Base Metals,Rich,5.38
+Genesis,Charak,Anzalaisio,Anzalaisio V,Reactive Metals,Perfect,6.91
+Genesis,Charak,Anzalaisio,Anzalaisio VI,Lustering Alloy,Medium,16.45
+Genesis,Charak,Anzalaisio,Anzalaisio VI,Sheen Compound,Rich,20.78
+Genesis,Charak,Anzalaisio,Anzalaisio VI,Noble Gas,Medium,18.54
+Genesis,Charak,Anzalaisio,Anzalaisio VI,Base Metals,Medium,4.06
+Genesis,Charak,Anzalaisio,Anzalaisio VII,Lustering Alloy,Medium,18.08
+Genesis,Charak,Anzalaisio,Anzalaisio VII,Industrial Fibers,Poor,3.15
+Genesis,Charak,Anzalaisio,Anzalaisio VII,Oxygen Isotopes,Poor,1.68
+Genesis,Charak,Anzalaisio,Anzalaisio VIII,Toxic Metals,Medium,4.28
+Genesis,Charak,Anzalaisio,Anzalaisio VIII,Industrial Fibers,Medium,4.94
+Genesis,Charak,Anzalaisio,Anzalaisio VIII,Oxygen Isotopes,Medium,2.66
+Genesis,Charak,Chiga,Chiga I,Lustering Alloy,Medium,12.69
+Genesis,Charak,Chiga,Chiga I,Base Metals,Medium,3.68
+Genesis,Charak,Chiga,Chiga II,Lustering Alloy,Poor,11.78
+Genesis,Charak,Chiga,Chiga II,Base Metals,Poor,2.40
+Genesis,Charak,Chiga,Chiga III,Lustering Alloy,Medium,16.09
+Genesis,Charak,Chiga,Chiga III,Glossy Compound,Perfect,20.72
+Genesis,Charak,Chiga,Chiga III,Base Metals,Rich,5.35
+Genesis,Charak,Chiga,Chiga IV,Lustering Alloy,Perfect,20.73
+Genesis,Charak,Chiga,Chiga IV,Fiber Composite,Poor,12.08
+Genesis,Charak,Chiga,Chiga IV,Base Metals,Perfect,5.46
+Genesis,Charak,Chiga,Chiga V,Lustering Alloy,Medium,14.03
+Genesis,Charak,Chiga,Chiga V,Base Metals,Rich,4.45
+Genesis,Charak,Chiga,Chiga V,Reactive Metals,Rich,5.18
+Genesis,Charak,Chiga,Chiga VI,Lustering Alloy,Medium,12.49
+Genesis,Charak,Chiga,Chiga VI,Base Metals,Poor,2.29
+Genesis,Charak,Abhan,Abhan I,Lustering Alloy,Poor,12.40
+Genesis,Charak,Abhan,Abhan I,Base Metals,Medium,4.42
+Genesis,Charak,Abhan,Abhan II,Lustering Alloy,Medium,17.67
+Genesis,Charak,Abhan,Abhan II,Base Metals,Poor,3.23
+Genesis,Charak,Abhan,Abhan III,Noble Metals,Medium,16.92
+Genesis,Charak,Abhan,Abhan III,Condensates,Perfect,18.76
+Genesis,Charak,Abhan,Abhan III,Heavy Water,Rich,199.05
+Genesis,Charak,Abhan,Abhan IV,Lustering Alloy,Rich,19.35
+Genesis,Charak,Abhan,Abhan IV,Base Metals,Perfect,6.51
+Genesis,Charak,Abhan,Abhan IV,Ionic Solutions,Medium,6.75
+Genesis,Charak,Abhan,Abhan V,Lustering Alloy,Medium,15.75
+Genesis,Charak,Abhan,Abhan V,Base Metals,Rich,5.59
+Genesis,Charak,Abhan,Abhan V,Polyaramids,Poor,8.42
+Genesis,Charak,Abhan,Abhan VI,Lustering Alloy,Poor,11.67
+Genesis,Charak,Abhan,Abhan VI,Base Metals,Medium,4.65
+Genesis,Charak,Abhan,Abhan VII,Lustering Alloy,Rich,20.27
+Genesis,Charak,Abhan,Abhan VII,Sheen Compound,Rich,23.52
+Genesis,Charak,Abhan,Abhan VII,Base Metals,Medium,4.56
+Genesis,Charak,Abhan,Abhan VIII,Lustering Alloy,Perfect,24.06
+Genesis,Charak,Abhan,Abhan VIII,Base Metals,Medium,4.93
+Genesis,Charak,Abhan,Abhan VIII,Polyaramids,Rich,13.88
+Genesis,Charak,Abhan,Abhan IX,Lustering Alloy,Medium,15.62
+Genesis,Charak,Abhan,Abhan IX,Base Metals,Rich,5.35
+Genesis,Charak,Abhan,Abhan X,Noble Metals,Perfect,25.39
+Genesis,Charak,Abhan,Abhan X,Toxic Metals,Medium,4.64
+Genesis,Charak,Abhan,Abhan X,Heavy Water,Rich,200.55
+Genesis,Makh,Saphthar,Saphthar I,Lucent Compound,Medium,16.64
+Genesis,Makh,Saphthar,Saphthar I,Noble Gas,Medium,21.13
+Genesis,Makh,Saphthar,Saphthar I,Nanites,Medium,5.37
+Genesis,Makh,Saphthar,Saphthar I,Suspended Plasma,Medium,60.71
+Genesis,Makh,Saphthar,Saphthar II,Industrial Fibers,Medium,4.30
+Genesis,Makh,Saphthar,Saphthar II,Supertensile Plastics,Medium,12.76
+Genesis,Makh,Saphthar,Saphthar II,Oxygen Isotopes,Medium,2.68
+Genesis,Makh,Saphthar,Saphthar III,Noble Gas,Rich,26.25
+Genesis,Makh,Saphthar,Saphthar III,Polyaramids,Medium,13.94
+Genesis,Makh,Saphthar,Saphthar IV,Fiber Composite,Perfect,31.21
+Genesis,Makh,Saphthar,Saphthar IV,Opulent Compound,Rich,24.11
+Genesis,Makh,Saphthar,Saphthar IV,Base Metals,Medium,4.66
+Genesis,Makh,Saphthar,Saphthar IV,Heavy Water,Rich,253.81
+Genesis,Makh,Saphthar,Saphthar V,Fiber Composite,Perfect,28.85
+Genesis,Makh,Saphthar,Saphthar V,Reactive Gas,Perfect,32.47
+Genesis,Makh,Saphthar,Saphthar V,Smartfab Units,Medium,11.47
+Genesis,Makh,Saphthar,Saphthar V,Heavy Water,Perfect,306.85
+Genesis,Makh,Saphthar,Saphthar VI,Condensed Alloy,Rich,23.75
+Genesis,Makh,Saphthar,Saphthar VI,Fiber Composite,Medium,16.07
+Genesis,Makh,Saphthar,Saphthar VI,Opulent Compound,Rich,25.94
+Genesis,Makh,Saphthar,Saphthar VI,Condensates,Rich,17.03
+Genesis,Makh,Saphthar,Saphthar VII,Industrial Fibers,Medium,5.06
+Genesis,Makh,Saphthar,Saphthar VII,Supertensile Plastics,Poor,9.55
+Genesis,Makh,Saphthar,Saphthar VII,Oxygen Isotopes,Medium,2.82
+Genesis,Makh,Saphthar,Saphthar VIII,Condensed Alloy,Medium,20.62
+Genesis,Makh,Saphthar,Saphthar VIII,Fiber Composite,Perfect,31.67
+Genesis,Makh,Saphthar,Saphthar VIII,Opulent Compound,Rich,21.78
+Genesis,Makh,Saphthar,Saphthar VIII,Smartfab Units,Poor,10.46
+Genesis,Makh,Saphthar,Saphthar IX,Reactive Gas,Medium,19.26
+Genesis,Makh,Saphthar,Saphthar IX,Noble Gas,Rich,23.05
+Genesis,Makh,Saphthar,Saphthar IX,Base Metals,Perfect,7.12
+Genesis,Makh,Saphthar,Saphthar IX,Ionic Solutions,Medium,7.66
+Genesis,Makh,Saphthar,Saphthar X,Lustering Alloy,Medium,17.22
+Genesis,Makh,Saphthar,Saphthar X,Industrial Fibers,Poor,3.80
+Genesis,Makh,Saphthar,Saphthar X,Construction Blocks,Poor,13.67
+Genesis,Makh,Saphthar,Saphthar XI,Lustering Alloy,Rich,25.72
+Genesis,Makh,Saphthar,Saphthar XI,Noble Gas,Rich,26.03
+Genesis,Makh,Saphthar,Saphthar XI,Reactive Metals,Rich,5.85
+Genesis,Makh,Saphthar,Saphthar XI,Polyaramids,Medium,11.30
+Genesis,Makh,Saphthar,Saphthar XII,Reactive Gas,Rich,24.62
+Genesis,Makh,Saphthar,Saphthar XII,Noble Gas,Medium,20.60
+Genesis,Makh,Saphthar,Saphthar XII,Coolant,Rich,17.79
+Genesis,Makh,Saphthar,Saphthar XII,Ionic Solutions,Rich,9.42
+Genesis,Makh,Itrin,Itrin I,Glossy Compound,Rich,23.60
+Genesis,Makh,Itrin,Itrin I,Noble Gas,Medium,20.06
+Genesis,Makh,Itrin,Itrin II,Industrial Fibers,Medium,4.29
+Genesis,Makh,Itrin,Itrin II,Supertensile Plastics,Medium,13.61
+Genesis,Makh,Itrin,Itrin II,Oxygen Isotopes,Poor,1.72
+Genesis,Makh,Itrin,Itrin III,Gleaming Alloy,Medium,19.18
+Genesis,Makh,Itrin,Itrin III,Noble Gas,Poor,14.42
+Genesis,Makh,Itrin,Itrin IV,Condensed Alloy,Rich,26.47
+Genesis,Makh,Itrin,Itrin IV,Crystal Compound,Medium,17.53
+Genesis,Makh,Itrin,Itrin IV,Polyaramids,Perfect,19.57
+Genesis,Makh,Itrin,Itrin IV,Coolant,Perfect,19.37
+Genesis,Makh,Itrin,Itrin V,Sheen Compound,Rich,23.66
+Genesis,Makh,Itrin,Itrin V,Fiber Composite,Medium,17.87
+Genesis,Makh,Itrin,Itrin V,Noble Gas,Perfect,27.10
+Genesis,Makh,Itrin,Itrin V,Polyaramids,Rich,15.16
+Genesis,Makh,Itrin,Itrin VI,Sheen Compound,Perfect,28.05
+Genesis,Makh,Itrin,Itrin VI,Reactive Gas,Medium,17.46
+Genesis,Makh,Itrin,Itrin VI,Noble Gas,Medium,19.46
+Genesis,Makh,Itrin,Itrin VI,Coolant,Medium,10.97
+Genesis,Makh,Itrin,Itrin VII,Base Metals,Medium,5.56
+Genesis,Makh,Itrin,Itrin VII,Coolant,Medium,12.77
+Genesis,Makh,Itrin,Itrin VII,Suspended Plasma,Poor,52.63
+Genesis,Makh,Bantish,Bantish I,Gleaming Alloy,Rich,23.43
+Genesis,Makh,Bantish,Bantish I,Construction Blocks,Medium,20.91
+Genesis,Makh,Bantish,Bantish I,Oxygen Isotopes,Poor,2.10
+Genesis,Makh,Bantish,Bantish II,Crystal Compound,Rich,23.14
+Genesis,Makh,Bantish,Bantish II,Construction Blocks,Rich,22.15
+Genesis,Makh,Bantish,Bantish II,Suspended Plasma,Medium,75.95
+Genesis,Makh,Bantish,Bantish III,Fiber Composite,Rich,22.41
+Genesis,Makh,Bantish,Bantish III,Noble Gas,Rich,24.12
+Genesis,Makh,Bantish,Bantish III,Base Metals,Medium,5.46
+Genesis,Makh,Bantish,Bantish III,Reactive Metals,Medium,4.80
+Genesis,Makh,Bantish,Bantish IV,Lustering Alloy,Medium,16.95
+Genesis,Makh,Bantish,Bantish IV,Fiber Composite,Poor,14.89
+Genesis,Makh,Bantish,Bantish IV,Noble Gas,Medium,19.30
+Genesis,Makh,Bantish,Bantish IV,Ionic Solutions,Perfect,11.17
+Genesis,Makh,Bantish,Bantish V,Noble Gas,Poor,15.81
+Genesis,Makh,Bantish,Bantish V,Polyaramids,Rich,16.80
+Genesis,Makh,Bantish,Bantish V,Coolant,Rich,17.87
+Genesis,Makh,Bantish,Bantish V,Ionic Solutions,Rich,10.25
+Genesis,Makh,Bantish,Bantish VI,Lustering Alloy,Poor,15.40
+Genesis,Makh,Bantish,Bantish VI,Fiber Composite,Perfect,27.88
+Genesis,Makh,Bantish,Bantish VI,Reactive Gas,Medium,18.19
+Genesis,Makh,Bantish,Bantish VI,Noble Gas,Perfect,28.20
+Genesis,Makh,Bantish,Bantish VII,Noble Gas,Rich,26.98
+Genesis,Makh,Bantish,Bantish VII,Base Metals,Rich,6.19
+Genesis,Makh,Bantish,Bantish VII,Reactive Metals,Rich,5.87
+Genesis,Makh,Bantish,Bantish VII,Polyaramids,Rich,17.96
+Genesis,Makh,Bantish,Bantish VIII,Industrial Fibers,Medium,4.74
+Genesis,Makh,Bantish,Bantish VIII,Construction Blocks,Poor,15.61
+Genesis,Makh,Bantish,Bantish VIII,Plasmoids,Medium,1.14
+Genesis,Makh,Korridi,Korridi I,Lucent Compound,Rich,21.91
+Genesis,Makh,Korridi,Korridi I,Reactive Metals,Medium,4.48
+Genesis,Makh,Korridi,Korridi I,Nanites,Medium,4.59
+Genesis,Makh,Korridi,Korridi I,Plasmoids,Medium,1.18
+Genesis,Makh,Korridi,Korridi II,Condensed Alloy,Medium,16.93
+Genesis,Makh,Korridi,Korridi II,Toxic Metals,Rich,6.24
+Genesis,Makh,Korridi,Korridi II,Coolant,Rich,17.93
+Genesis,Makh,Korridi,Korridi II,Liquid Ozone,Medium,23.57
+Genesis,Makh,Korridi,Korridi III,Precious Alloy,Poor,13.96
+Genesis,Makh,Korridi,Korridi III,Toxic Metals,Poor,3.40
+Genesis,Makh,Korridi,Korridi III,Industrial Fibers,Medium,4.78
+Genesis,Makh,Korridi,Korridi IV,Fiber Composite,Rich,24.73
+Genesis,Makh,Korridi,Korridi IV,Base Metals,Perfect,7.85
+Genesis,Makh,Korridi,Korridi IV,Condensates,Medium,14.21
+Genesis,Makh,Korridi,Korridi IV,Heavy Water,Perfect,272.17
+Genesis,Makh,Korridi,Korridi V,Crystal Compound,Poor,15.35
+Genesis,Makh,Korridi,Korridi V,Coolant,Rich,16.42
+Genesis,Makh,Korridi,Korridi V,Heavy Water,Medium,178.16
+Genesis,Makh,Korridi,Korridi V,Ionic Solutions,Perfect,10.91
+Genesis,Makh,Korridi,Korridi VI,Fiber Composite,Medium,16.93
+Genesis,Makh,Korridi,Korridi VI,Noble Metals,Perfect,28.49
+Genesis,Makh,Korridi,Korridi VI,Industrial Fibers,Medium,5.47
+Genesis,Makh,Korridi,Korridi VI,Smartfab Units,Perfect,20.09
+Genesis,Makh,Lela,Lela I,Noble Gas,Poor,14.16
+Genesis,Makh,Lela,Lela I,Heavy Metals,Rich,24.57
+Genesis,Makh,Lela,Lela II,Precious Alloy,Poor,11.59
+Genesis,Makh,Lela,Lela II,Industrial Fibers,Medium,5.38
+Genesis,Makh,Lela,Lela II,Silicate Glass,Poor,5.45
+Genesis,Makh,Lela,Lela III,Noble Gas,Medium,17.71
+Genesis,Makh,Lela,Lela III,Construction Blocks,Medium,17.20
+Genesis,Makh,Lela,Lela IV,Fiber Composite,Medium,21.01
+Genesis,Makh,Lela,Lela IV,Noble Metals,Rich,25.64
+Genesis,Makh,Lela,Lela IV,Smartfab Units,Perfect,18.81
+Genesis,Makh,Lela,Lela IV,Liquid Ozone,Medium,24.16
+Genesis,Makh,Lela,Lela V,Precious Alloy,Medium,16.51
+Genesis,Makh,Lela,Lela V,Base Metals,Medium,4.33
+Genesis,Makh,Lela,Lela V,Industrial Fibers,Poor,3.62
+Genesis,Makh,Lela,Lela VI,Fiber Composite,Medium,18.92
+Genesis,Makh,Lela,Lela VI,Glossy Compound,Poor,15.62
+Genesis,Makh,Lela,Lela VI,Noble Gas,Rich,25.99
+Genesis,Makh,Lela,Lela VI,Reactive Metals,Medium,4.69
+Genesis,Makh,Lela,Lela VII,Lustering Alloy,Perfect,27.69
+Genesis,Makh,Lela,Lela VII,Sheen Compound,Rich,25.86
+Genesis,Makh,Lela,Lela VII,Noble Gas,Medium,16.22
+Genesis,Makh,Lela,Lela VII,Coolant,Poor,9.49
+Genesis,Makh,Lela,Lela VIII,Opulent Compound,Rich,21.62
+Genesis,Makh,Lela,Lela VIII,Noble Metals,Medium,19.60
+Genesis,Makh,Lela,Lela VIII,Coolant,Perfect,18.73
+Genesis,Makh,Lela,Lela VIII,Ionic Solutions,Rich,9.09
+Genesis,Makh,Lela,Lela IX,Glossy Compound,Poor,15.13
+Genesis,Makh,Lela,Lela IX,Noble Gas,Medium,16.56
+Genesis,Makh,Lela,Lela IX,Base Metals,Medium,4.72
+Genesis,Makh,Lela,Lela IX,Coolant,Rich,14.79
+Genesis,Makh,Lela,Lela X,Industrial Fibers,Medium,4.76
+Genesis,Makh,Lela,Lela X,Construction Blocks,Poor,14.45
+Genesis,Makh,Lela,Lela X,Oxygen Isotopes,Medium,2.57
+Genesis,Makh,Lela,Lela XI,Noble Metals,Medium,16.93
+Genesis,Makh,Lela,Lela XI,Polyaramids,Medium,12.09
+Genesis,Makh,Lela,Lela XI,Coolant,Rich,16.69
+Genesis,Makh,Lela,Lela XI,Liquid Ozone,Rich,31.79
+Genesis,Makh,Lela,Lela XII,Heavy Metals,Medium,21.22
+Genesis,Makh,Lela,Lela XII,Coolant,Medium,11.81
+Genesis,Makh,Lela,Lela XII,Liquid Ozone,Rich,27.01
+Genesis,Makh,Keri,Keri I,Motley Compound,Perfect,28.25
+Genesis,Makh,Keri,Keri I,Noble Gas,Medium,17.32
+Genesis,Makh,Keri,Keri II,Lucent Compound,Poor,14.33
+Genesis,Makh,Keri,Keri II,Construction Blocks,Poor,15.71
+Genesis,Makh,Keri,Keri II,Nanites,Rich,6.52
+Genesis,Makh,Keri,Keri III,Heavy Metals,Medium,16.35
+Genesis,Makh,Keri,Keri III,Reactive Metals,Perfect,7.91
+Genesis,Makh,Keri,Keri III,Condensates,Medium,13.66
+Genesis,Makh,Keri,Keri III,Nanites,Rich,6.08
+Genesis,Makh,Keri,Keri IV,Sheen Compound,Perfect,30.06
+Genesis,Makh,Keri,Keri IV,Reactive Metals,Rich,6.07
+Genesis,Makh,Keri,Keri IV,Nanites,Rich,6.72
+Genesis,Makh,Keri,Keri IV,Ionic Solutions,Rich,10.22
+Genesis,Makh,Keri,Keri V,Noble Gas,Rich,22.03
+Genesis,Makh,Keri,Keri V,Polyaramids,Medium,14.33
+Genesis,Makh,Keri,Keri VI,Lucent Compound,Medium,17.49
+Genesis,Makh,Keri,Keri VI,Crystal Compound,Poor,14.57
+Genesis,Makh,Keri,Keri VI,Construction Blocks,Medium,18.31
+Genesis,Makh,Keri,Keri VII,Lucent Compound,Rich,21.84
+Genesis,Makh,Keri,Keri VII,Toxic Metals,Rich,6.85
+Genesis,Makh,Keri,Keri VII,Construction Blocks,Poor,14.43
+Genesis,Makh,Keri,Keri VIII,Lucent Compound,Medium,18.45
+Genesis,Makh,Keri,Keri VIII,Toxic Metals,Perfect,7.14
+Genesis,Makh,Keri,Keri VIII,Construction Blocks,Rich,22.61
+Genesis,Makh,Keri,Keri IX,Glossy Compound,Perfect,28.02
+Genesis,Makh,Keri,Keri IX,Reactive Gas,Poor,14.08
+Genesis,Makh,Keri,Keri IX,Noble Gas,Rich,25.01
+Genesis,Makh,Keri,Keri IX,Coolant,Poor,10.27
+Genesis,Makh,Keri,Keri X,Fiber Composite,Medium,18.07
+Genesis,Makh,Keri,Keri X,Noble Gas,Medium,19.13
+Genesis,Makh,Keri,Keri X,Base Metals,Medium,5.26
+Genesis,Makh,Keri,Keri X,Polyaramids,Rich,15.82
+Genesis,Monalaz,Antem,Antem I,Noble Gas,Medium,20.08
+Genesis,Monalaz,Antem,Antem I,Noble Metals,Rich,21.90
+Genesis,Monalaz,Antem,Antem II,Base Metals,Medium,4.92
+Genesis,Monalaz,Antem,Antem II,Industrial Fibers,Poor,3.48
+Genesis,Monalaz,Antem,Antem II,Supertensile Plastics,Poor,9.40
+Genesis,Monalaz,Antem,Antem III,Glossy Compound,Medium,19.94
+Genesis,Monalaz,Antem,Antem III,Noble Gas,Rich,26.30
+Genesis,Monalaz,Antem,Antem IV,Condensed Alloy,Perfect,28.14
+Genesis,Monalaz,Antem,Antem IV,Fiber Composite,Rich,23.26
+Genesis,Monalaz,Antem,Antem IV,Noble Metals,Poor,15.64
+Genesis,Monalaz,Antem,Antem IV,Industrial Fibers,Medium,5.38
+Genesis,Monalaz,Antem,Antem V,Condensed Alloy,Medium,20.88
+Genesis,Monalaz,Antem,Antem V,Fiber Composite,Medium,21.10
+Genesis,Monalaz,Antem,Antem V,Base Metals,Rich,6.48
+Genesis,Monalaz,Antem,Antem V,Condensates,Perfect,20.75
+Genesis,Monalaz,Antem,Antem VI,Lustering Alloy,Rich,22.37
+Genesis,Monalaz,Antem,Antem VI,Reactive Gas,Medium,20.08
+Genesis,Monalaz,Antem,Antem VI,Noble Gas,Rich,26.96
+Genesis,Monalaz,Antem,Antem VI,Coolant,Medium,13.36
+Genesis,Monalaz,Antem,Antem VII,Lustering Alloy,Medium,21.27
+Genesis,Monalaz,Antem,Antem VII,Fiber Composite,Medium,19.06
+Genesis,Monalaz,Antem,Antem VII,Noble Gas,Poor,15.93
+Genesis,Monalaz,Antem,Antem VII,Polyaramids,Poor,9.62
+Genesis,Monalaz,Antem,Antem VIII,Lustering Alloy,Rich,24.55
+Genesis,Monalaz,Antem,Antem VIII,Glossy Compound,Medium,16.08
+Genesis,Monalaz,Antem,Antem VIII,Noble Gas,Medium,19.45
+Genesis,Monalaz,Antem,Antem VIII,Coolant,Rich,16.42
+Genesis,Monalaz,Djimame,Djimame I,Dark Compound,Rich,24.84
+Genesis,Monalaz,Djimame,Djimame I,Heavy Metals,Medium,19.87
+Genesis,Monalaz,Djimame,Djimame I,Nanites,Rich,6.27
+Genesis,Monalaz,Djimame,Djimame I,Ionic Solutions,Perfect,12.15
+Genesis,Monalaz,Djimame,Djimame II,Toxic Metals,Poor,3.22
+Genesis,Monalaz,Djimame,Djimame II,Industrial Fibers,Poor,4.13
+Genesis,Monalaz,Djimame,Djimame II,Construction Blocks,Medium,21.26
+Genesis,Monalaz,Djimame,Djimame III,Industrial Fibers,Poor,3.16
+Genesis,Monalaz,Djimame,Djimame III,Oxygen Isotopes,Medium,2.58
+Genesis,Monalaz,Djimame,Djimame III,Plasmoids,Poor,0.67
+Genesis,Monalaz,Djimame,Djimame IV,Condensed Alloy,Rich,23.71
+Genesis,Monalaz,Djimame,Djimame IV,Opulent Compound,Perfect,28.82
+Genesis,Monalaz,Djimame,Djimame IV,Coolant,Perfect,20.88
+Genesis,Monalaz,Djimame,Djimame IV,Silicate Glass,Rich,11.53
+Genesis,Monalaz,Djimame,Djimame V,Sheen Compound,Poor,16.87
+Genesis,Monalaz,Djimame,Djimame V,Reactive Gas,Medium,21.28
+Genesis,Monalaz,Djimame,Djimame V,Noble Gas,Perfect,29.45
+Genesis,Monalaz,Djimame,Djimame V,Ionic Solutions,Rich,10.02
+Genesis,Monalaz,Djimame,Djimame VI,Opulent Compound,Perfect,30.51
+Genesis,Monalaz,Djimame,Djimame VI,Coolant,Rich,16.16
+Genesis,Monalaz,Djimame,Djimame VI,Heavy Water,Medium,185.04
+Genesis,Monalaz,Djimame,Djimame VI,Liquid Ozone,Rich,34.74
+Genesis,Monalaz,Djimame,Djimame VII,Sheen Compound,Rich,28.19
+Genesis,Monalaz,Djimame,Djimame VII,Fiber Composite,Medium,21.46
+Genesis,Monalaz,Djimame,Djimame VII,Glossy Compound,Perfect,29.56
+Genesis,Monalaz,Djimame,Djimame VII,Noble Gas,Perfect,29.02
+Genesis,Monalaz,Djimame,Djimame VIII,Precious Alloy,Rich,22.84
+Genesis,Monalaz,Djimame,Djimame VIII,Motley Compound,Medium,18.95
+Genesis,Monalaz,Djimame,Djimame VIII,Coolant,Poor,8.78
+Genesis,Monalaz,Djimame,Djimame IX,Sheen Compound,Rich,24.14
+Genesis,Monalaz,Djimame,Djimame IX,Noble Gas,Medium,22.07
+Genesis,Monalaz,Djimame,Djimame IX,Polyaramids,Rich,16.52
+Genesis,Monalaz,Djimame,Djimame IX,Ionic Solutions,Medium,7.28
+Genesis,Monalaz,Mozzidit,Mozzidit I,Dark Compound,Medium,21.58
+Genesis,Monalaz,Mozzidit,Mozzidit I,Industrial Fibers,Medium,5.14
+Genesis,Monalaz,Mozzidit,Mozzidit I,Silicate Glass,Medium,10.92
+Genesis,Monalaz,Mozzidit,Mozzidit II,Condensed Alloy,Rich,23.42
+Genesis,Monalaz,Mozzidit,Mozzidit II,Polyaramids,Rich,18.70
+Genesis,Monalaz,Mozzidit,Mozzidit II,Coolant,Rich,16.28
+Genesis,Monalaz,Mozzidit,Mozzidit II,Liquid Ozone,Medium,26.91
+Genesis,Monalaz,Mozzidit,Mozzidit III,Industrial Fibers,Poor,3.95
+Genesis,Monalaz,Mozzidit,Mozzidit III,Supertensile Plastics,Poor,8.57
+Genesis,Monalaz,Mozzidit,Mozzidit III,Oxygen Isotopes,Poor,2.38
+Genesis,Monalaz,Mozzidit,Mozzidit IV,Reactive Metals,Medium,4.84
+Genesis,Monalaz,Mozzidit,Mozzidit IV,Construction Blocks,Medium,21.38
+Genesis,Monalaz,Mozzidit,Mozzidit IV,Nanites,Medium,4.84
+Genesis,Monalaz,Mozzidit,Mozzidit V,Condensed Alloy,Perfect,28.89
+Genesis,Monalaz,Mozzidit,Mozzidit V,Fiber Composite,Perfect,31.36
+Genesis,Monalaz,Mozzidit,Mozzidit V,Industrial Fibers,Perfect,8.08
+Genesis,Monalaz,Mozzidit,Mozzidit V,Smartfab Units,Rich,18.62
+Genesis,Monalaz,Mozzidit,Mozzidit VI,Noble Metals,Perfect,28.67
+Genesis,Monalaz,Mozzidit,Mozzidit VI,Coolant,Rich,17.83
+Genesis,Monalaz,Mozzidit,Mozzidit VI,Heavy Water,Medium,194.22
+Genesis,Monalaz,Mozzidit,Mozzidit VI,Liquid Ozone,Rich,32.60
+Genesis,Monalaz,Mozzidit,Mozzidit VII,Toxic Metals,Poor,4.33
+Genesis,Monalaz,Mozzidit,Mozzidit VII,Industrial Fibers,Medium,4.93
+Genesis,Monalaz,Mozzidit,Mozzidit VII,Construction Blocks,Medium,20.02
+Genesis,Monalaz,Mozzidit,Mozzidit VIII,Opulent Compound,Medium,19.31
+Genesis,Monalaz,Mozzidit,Mozzidit VIII,Polyaramids,Perfect,20.28
+Genesis,Monalaz,Mozzidit,Mozzidit VIII,Coolant,Poor,10.81
+Genesis,Monalaz,Mozzidit,Mozzidit VIII,Ionic Solutions,Rich,9.21
+Genesis,Monalaz,Angur,Angur I,Noble Gas,Rich,28.92
+Genesis,Monalaz,Angur,Angur I,Heavy Metals,Medium,21.00
+Genesis,Monalaz,Angur,Angur II,Condensed Alloy,Perfect,32.60
+Genesis,Monalaz,Angur,Angur II,Fiber Composite,Medium,18.92
+Genesis,Monalaz,Angur,Angur II,Base Metals,Medium,5.73
+Genesis,Monalaz,Angur,Angur II,Smartfab Units,Perfect,23.43
+Genesis,Monalaz,Angur,Angur III,Base Metals,Medium,4.92
+Genesis,Monalaz,Angur,Angur III,Industrial Fibers,Poor,4.11
+Genesis,Monalaz,Angur,Angur III,Silicate Glass,Medium,11.65
+Genesis,Monalaz,Angur,Angur IV,Fiber Composite,Perfect,32.41
+Genesis,Monalaz,Angur,Angur IV,Reactive Gas,Perfect,33.12
+Genesis,Monalaz,Angur,Angur IV,Smartfab Units,Medium,13.24
+Genesis,Monalaz,Angur,Angur IV,Liquid Ozone,Rich,31.09
+Genesis,Monalaz,Angur,Angur V,Base Metals,Poor,3.75
+Genesis,Monalaz,Angur,Angur V,Industrial Fibers,Medium,5.88
+Genesis,Monalaz,Angur,Angur V,Plasmoids,Poor,0.86
+Genesis,Monalaz,Angur,Angur VI,Noble Gas,Medium,20.03
+Genesis,Monalaz,Angur,Angur VI,Noble Metals,Poor,17.27
+Genesis,Monalaz,Hangond,Hangond I,Base Metals,Medium,5.09
+Genesis,Monalaz,Hangond,Hangond I,Industrial Fibers,Medium,5.05
+Genesis,Monalaz,Hangond,Hangond I,Construction Blocks,Medium,17.26
+Genesis,Monalaz,Hangond,Hangond II,Noble Gas,Medium,20.52
+Genesis,Monalaz,Hangond,Hangond II,Polyaramids,Poor,9.77
+Genesis,Monalaz,Hangond,Hangond III,Noble Gas,Medium,20.16
+Genesis,Monalaz,Hangond,Hangond III,Heavy Metals,Medium,17.46
+Genesis,Monalaz,Hangond,Hangond IV,Industrial Fibers,Poor,3.37
+Genesis,Monalaz,Hangond,Hangond IV,Silicate Glass,Poor,5.92
+Genesis,Monalaz,Hangond,Hangond IV,Oxygen Isotopes,Poor,2.21
+Genesis,Monalaz,Hangond,Hangond V,Lucent Compound,Rich,24.05
+Genesis,Monalaz,Hangond,Hangond V,Toxic Metals,Rich,6.86
+Genesis,Monalaz,Hangond,Hangond V,Construction Blocks,Perfect,29.36
+Genesis,Monalaz,Hangond,Hangond VI,Lustering Alloy,Perfect,28.76
+Genesis,Monalaz,Hangond,Hangond VI,Noble Gas,Medium,17.91
+Genesis,Monalaz,Hangond,Hangond VI,Coolant,Medium,13.09
+Genesis,Monalaz,Hangond,Hangond VI,Ionic Solutions,Rich,10.58
+Genesis,Monalaz,Access,Access I,Lucent Compound,Rich,29.70
+Genesis,Monalaz,Access,Access I,Noble Gas,Perfect,32.83
+Genesis,Monalaz,Access,Access I,Reactive Metals,Rich,7.22
+Genesis,Monalaz,Access,Access I,Nanites,Medium,5.96
+Genesis,Monalaz,Access,Access II,Noble Gas,Poor,15.94
+Genesis,Monalaz,Access,Access II,Noble Metals,Perfect,30.30
+Genesis,Monalaz,Access,Access III,Base Metals,Poor,4.01
+Genesis,Monalaz,Access,Access III,Industrial Fibers,Medium,5.66
+Genesis,Monalaz,Access,Access III,Silicate Glass,Poor,7.67
+Genesis,Monalaz,Access,Access IV,Noble Gas,Poor,17.02
+Genesis,Monalaz,Access,Access IV,Oxygen Isotopes,Medium,2.81
+Genesis,Monalaz,Access,Access V,Gleaming Alloy,Perfect,30.63
+Genesis,Monalaz,Access,Access V,Reactive Gas,Medium,19.34
+Genesis,Monalaz,Access,Access V,Construction Blocks,Rich,26.98
+Genesis,Monalaz,Access,Access VI,Fiber Composite,Medium,19.11
+Genesis,Monalaz,Access,Access VI,Glossy Compound,Poor,16.04
+Genesis,Monalaz,Access,Access VI,Noble Gas,Rich,25.54
+Genesis,Monalaz,Access,Access VI,Polyaramids,Medium,13.36
+Genesis,Monalaz,Access,Access VII,Fiber Composite,Medium,22.67
+Genesis,Monalaz,Access,Access VII,Base Metals,Rich,6.62
+Genesis,Monalaz,Access,Access VII,Condensates,Medium,12.68
+Genesis,Monalaz,Access,Access VII,Liquid Ozone,Rich,35.81
+Genesis,Monalaz,Access,Access VIII,Toxic Metals,Poor,3.83
+Genesis,Monalaz,Access,Access VIII,Industrial Fibers,Medium,6.00
+Genesis,Monalaz,Access,Access VIII,Construction Blocks,Poor,16.51
+Genesis,Aven,Bherdasopt,Bherdasopt I,Precious Alloy,Poor,9.98
+Genesis,Aven,Bherdasopt,Bherdasopt I,Industrial Fibers,Poor,2.67
+Genesis,Aven,Bherdasopt,Bherdasopt I,Silicate Glass,Poor,5.82
+Genesis,Aven,Bherdasopt,Bherdasopt II,Lustering Alloy,Poor,13.86
+Genesis,Aven,Bherdasopt,Bherdasopt II,Glossy Compound,Rich,21.14
+Genesis,Aven,Bherdasopt,Bherdasopt II,Noble Gas,Rich,23.81
+Genesis,Aven,Bherdasopt,Bherdasopt II,Reactive Metals,Perfect,6.76
+Genesis,Aven,Bherdasopt,Bherdasopt III,Lustering Alloy,Perfect,26.21
+Genesis,Aven,Bherdasopt,Bherdasopt III,Sheen Compound,Medium,15.15
+Genesis,Aven,Bherdasopt,Bherdasopt III,Noble Gas,Rich,22.29
+Genesis,Aven,Bherdasopt,Bherdasopt III,Base Metals,Rich,6.46
+Genesis,Aven,Bherdasopt,Bherdasopt IV,Lustering Alloy,Medium,20.08
+Genesis,Aven,Bherdasopt,Bherdasopt IV,Reactive Gas,Poor,14.03
+Genesis,Aven,Bherdasopt,Bherdasopt IV,Noble Gas,Perfect,26.11
+Genesis,Aven,Bherdasopt,Bherdasopt IV,Ionic Solutions,Medium,7.88
+Genesis,Aven,Bherdasopt,Bherdasopt V,Opulent Compound,Rich,24.50
+Genesis,Aven,Bherdasopt,Bherdasopt V,Toxic Metals,Perfect,7.24
+Genesis,Aven,Bherdasopt,Bherdasopt V,Coolant,Medium,10.61
+Genesis,Aven,Bherdasopt,Bherdasopt V,Silicate Glass,Rich,11.81
+Genesis,Aven,Bherdasopt,Bherdasopt VI,Motley Compound,Rich,22.24
+Genesis,Aven,Bherdasopt,Bherdasopt VI,Coolant,Medium,12.17
+Genesis,Aven,Bherdasopt,Bherdasopt VI,Liquid Ozone,Poor,16.86
+Genesis,Aven,Gonditsa,Gonditsa I,Precious Alloy,Poor,14.64
+Genesis,Aven,Gonditsa,Gonditsa I,Industrial Fibers,Medium,4.39
+Genesis,Aven,Gonditsa,Gonditsa I,Supertensile Plastics,Poor,10.08
+Genesis,Aven,Gonditsa,Gonditsa II,Noble Gas,Rich,21.52
+Genesis,Aven,Gonditsa,Gonditsa II,Construction Blocks,Rich,21.69
+Genesis,Aven,Gonditsa,Gonditsa III,Noble Gas,Medium,17.02
+Genesis,Aven,Gonditsa,Gonditsa III,Heavy Metals,Perfect,27.42
+Genesis,Aven,Gonditsa,Gonditsa IV,Fiber Composite,Medium,16.13
+Genesis,Aven,Gonditsa,Gonditsa IV,Glossy Compound,Medium,17.73
+Genesis,Aven,Gonditsa,Gonditsa IV,Noble Gas,Medium,18.79
+Genesis,Aven,Gonditsa,Gonditsa IV,Base Metals,Perfect,7.25
+Genesis,Aven,Gonditsa,Gonditsa V,Lucent Compound,Medium,19.75
+Genesis,Aven,Gonditsa,Gonditsa V,Noble Gas,Rich,21.78
+Genesis,Aven,Gonditsa,Gonditsa V,Reactive Metals,Poor,4.06
+Genesis,Aven,Gonditsa,Gonditsa V,Nanites,Rich,5.67
+Genesis,Aven,Gonditsa,Gonditsa VI,Lustering Alloy,Rich,25.40
+Genesis,Aven,Gonditsa,Gonditsa VI,Fiber Composite,Rich,26.95
+Genesis,Aven,Gonditsa,Gonditsa VI,Noble Gas,Perfect,28.17
+Genesis,Aven,Gonditsa,Gonditsa VI,Polyaramids,Medium,11.59
+Genesis,Aven,Gonditsa,Gonditsa VII,Supertensile Plastics,Poor,10.52
+Genesis,Aven,Gonditsa,Gonditsa VII,Coolant,Rich,15.79
+Genesis,Aven,Gonditsa,Gonditsa VII,Condensates,Poor,10.66
+Genesis,Aven,Gonditsa,Gonditsa VIII,Lustering Alloy,Poor,15.57
+Genesis,Aven,Gonditsa,Gonditsa VIII,Industrial Fibers,Poor,3.69
+Genesis,Aven,Gonditsa,Gonditsa VIII,Silicate Glass,Medium,9.58
+Genesis,Aven,Gonditsa,Gonditsa IX,Industrial Fibers,Medium,4.99
+Genesis,Aven,Gonditsa,Gonditsa IX,Construction Blocks,Medium,16.34
+Genesis,Aven,Gonditsa,Gonditsa IX,Plasmoids,Poor,0.71
+Genesis,Aven,Simela,Simela I,Motley Compound,Rich,19.59
+Genesis,Aven,Simela,Simela I,Glossy Compound,Rich,20.31
+Genesis,Aven,Simela,Simela II,Toxic Metals,Rich,5.39
+Genesis,Aven,Simela,Simela II,Silicate Glass,Poor,6.62
+Genesis,Aven,Simela,Simela II,Heavy Water,Medium,153.60
+Genesis,Aven,Simela,Simela III,Lustering Alloy,Rich,20.95
+Genesis,Aven,Simela,Simela III,Base Metals,Medium,4.00
+Genesis,Aven,Simela,Simela III,Ionic Solutions,Medium,6.96
+Genesis,Aven,Simela,Simela IV,Lustering Alloy,Medium,17.80
+Genesis,Aven,Simela,Simela IV,Noble Gas,Perfect,23.84
+Genesis,Aven,Simela,Simela IV,Base Metals,Medium,4.14
+Genesis,Aven,Simela,Simela V,Lustering Alloy,Poor,13.48
+Genesis,Aven,Simela,Simela V,Base Metals,Medium,4.31
+Genesis,Aven,Simela,Simela V,Coolant,Rich,14.48
+Genesis,Aven,Simela,Simela VI,Lustering Alloy,Rich,21.55
+Genesis,Aven,Simela,Simela VI,Reactive Gas,Rich,21.60
+Genesis,Aven,Simela,Simela VI,Base Metals,Medium,4.40
+Genesis,Aven,Simela,Simela VII,Lustering Alloy,Poor,10.15
+Genesis,Aven,Simela,Simela VII,Base Metals,Poor,3.23
+Genesis,Aven,Shalne,Shalne I,Gleaming Alloy,Poor,13.99
+Genesis,Aven,Shalne,Shalne I,Noble Gas,Medium,20.69
+Genesis,Aven,Shalne,Shalne II,Dark Compound,Medium,20.91
+Genesis,Aven,Shalne,Shalne II,Industrial Fibers,Medium,4.34
+Genesis,Aven,Shalne,Shalne II,Construction Blocks,Poor,16.00
+Genesis,Aven,Shalne,Shalne III,Noble Gas,Rich,21.98
+Genesis,Aven,Shalne,Shalne III,Smartfab Units,Rich,14.43
+Genesis,Aven,Shalne,Shalne IV,Crystal Compound,Rich,25.45
+Genesis,Aven,Shalne,Shalne IV,Noble Metals,Perfect,27.20
+Genesis,Aven,Shalne,Shalne IV,Coolant,Perfect,18.88
+Genesis,Aven,Shalne,Shalne IV,Silicate Glass,Medium,9.66
+Genesis,Aven,Shalne,Shalne V,Sheen Compound,Medium,16.12
+Genesis,Aven,Shalne,Shalne V,Glossy Compound,Poor,14.30
+Genesis,Aven,Shalne,Shalne V,Noble Gas,Rich,22.61
+Genesis,Aven,Shalne,Shalne V,Reactive Metals,Medium,5.54
+Genesis,Aven,Shalne,Shalne VI,Lustering Alloy,Rich,25.28
+Genesis,Aven,Shalne,Shalne VI,Sheen Compound,Rich,24.31
+Genesis,Aven,Shalne,Shalne VI,Noble Gas,Medium,21.23
+Genesis,Aven,Shalne,Shalne VI,Coolant,Perfect,18.53
+Genesis,Aven,Shalne,Shalne VII,Lustering Alloy,Medium,18.45
+Genesis,Aven,Shalne,Shalne VII,Sheen Compound,Medium,18.31
+Genesis,Aven,Shalne,Shalne VII,Fiber Composite,Medium,16.44
+Genesis,Aven,Shalne,Shalne VII,Noble Gas,Rich,21.78
+Genesis,Aven,Shalne,Shalne VIII,Glossy Compound,Medium,16.08
+Genesis,Aven,Shalne,Shalne VIII,Noble Gas,Rich,24.29
+Genesis,Aven,Shalne,Shalne VIII,Reactive Metals,Medium,5.64
+Genesis,Aven,Shalne,Shalne VIII,Ionic Solutions,Rich,10.80
+Genesis,Aven,Shapisin,Shapisin I,Lustering Alloy,Poor,11.61
+Genesis,Aven,Shapisin,Shapisin I,Precious Alloy,Poor,11.46
+Genesis,Aven,Shapisin,Shapisin I,Industrial Fibers,Medium,4.62
+Genesis,Aven,Shapisin,Shapisin II,Industrial Fibers,Poor,3.55
+Genesis,Aven,Shapisin,Shapisin II,Supertensile Plastics,Medium,10.90
+Genesis,Aven,Shapisin,Shapisin II,Silicate Glass,Poor,7.34
+Genesis,Aven,Shapisin,Shapisin III,Dark Compound,Medium,16.51
+Genesis,Aven,Shapisin,Shapisin III,Industrial Fibers,Medium,5.10
+Genesis,Aven,Shapisin,Shapisin III,Plasmoids,Poor,0.89
+Genesis,Aven,Shapisin,Shapisin IV,Noble Gas,Poor,14.91
+Genesis,Aven,Shapisin,Shapisin IV,Construction Blocks,Medium,20.06
+Genesis,Aven,Shapisin,Shapisin V,Fiber Composite,Perfect,31.93
+Genesis,Aven,Shapisin,Shapisin V,Reactive Gas,Rich,23.80
+Genesis,Aven,Shapisin,Shapisin V,Industrial Fibers,Rich,6.96
+Genesis,Aven,Shapisin,Shapisin V,Condensates,Perfect,21.54
+Genesis,Aven,Shapisin,Shapisin VI,Dark Compound,Poor,14.33
+Genesis,Aven,Shapisin,Shapisin VI,Industrial Fibers,Medium,4.49
+Genesis,Aven,Shapisin,Shapisin VI,Plasmoids,Poor,0.68
+Genesis,Aven,Shapisin,Shapisin VII,Condensed Alloy,Rich,22.58
+Genesis,Aven,Shapisin,Shapisin VII,Fiber Composite,Perfect,29.44
+Genesis,Aven,Shapisin,Shapisin VII,Base Metals,Rich,6.33
+Genesis,Aven,Shapisin,Shapisin VII,Smartfab Units,Medium,11.92
+Genesis,Aven,Shapisin,Shapisin VIII,Condensed Alloy,Perfect,28.58
+Genesis,Aven,Shapisin,Shapisin VIII,Fiber Composite,Medium,18.45
+Genesis,Aven,Shapisin,Shapisin VIII,Base Metals,Perfect,7.39
+Genesis,Aven,Shapisin,Shapisin VIII,Noble Metals,Medium,21.45
+Genesis,Aven,Shapisin,Shapisin IX,Fiber Composite,Rich,24.21
+Genesis,Aven,Shapisin,Shapisin IX,Base Metals,Medium,5.01
+Genesis,Aven,Shapisin,Shapisin IX,Industrial Fibers,Rich,6.93
+Genesis,Aven,Shapisin,Shapisin IX,Condensates,Rich,16.59
+Genesis,Aven,Olin,Olin I,Toxic Metals,Rich,6.01
+Genesis,Aven,Olin,Olin I,Construction Blocks,Medium,17.05
+Genesis,Aven,Olin,Olin I,Nanites,Rich,6.84
+Genesis,Aven,Olin,Olin II,Lustering Alloy,Medium,18.87
+Genesis,Aven,Olin,Olin II,Fiber Composite,Poor,15.81
+Genesis,Aven,Olin,Olin II,Noble Gas,Perfect,27.90
+Genesis,Aven,Olin,Olin II,Reactive Metals,Rich,5.74
+Genesis,Aven,Olin,Olin III,Reactive Gas,Rich,22.63
+Genesis,Aven,Olin,Olin III,Noble Gas,Medium,21.32
+Genesis,Aven,Olin,Olin III,Base Metals,Medium,4.46
+Genesis,Aven,Olin,Olin III,Coolant,Rich,15.99
+Genesis,Aven,Olin,Olin IV,Lustering Alloy,Medium,20.21
+Genesis,Aven,Olin,Olin IV,Sheen Compound,Medium,17.80
+Genesis,Aven,Olin,Olin IV,Noble Gas,Rich,22.68
+Genesis,Aven,Olin,Olin IV,Coolant,Poor,9.35
+Genesis,Aven,Olin,Olin V,Base Metals,Poor,4.05
+Genesis,Aven,Olin,Olin V,Industrial Fibers,Poor,3.27
+Genesis,Aven,Olin,Olin V,Silicate Glass,Medium,9.29
+Genesis,Aven,Galnafsad,Galnafsad I,Noble Gas,Rich,27.25
+Genesis,Aven,Galnafsad,Galnafsad I,Smartfab Units,Perfect,20.12
+Genesis,Aven,Galnafsad,Galnafsad II,Base Metals,Poor,3.73
+Genesis,Aven,Galnafsad,Galnafsad II,Industrial Fibers,Poor,3.02
+Genesis,Aven,Galnafsad,Galnafsad II,Silicate Glass,Poor,7.05
+Genesis,Aven,Galnafsad,Galnafsad III,Fiber Composite,Rich,24.86
+Genesis,Aven,Galnafsad,Galnafsad III,Base Metals,Medium,5.81
+Genesis,Aven,Galnafsad,Galnafsad III,Noble Metals,Medium,21.73
+Genesis,Aven,Galnafsad,Galnafsad III,Condensates,Rich,17.58
+Genesis,Aven,Galnafsad,Galnafsad IV,Lustering Alloy,Poor,15.32
+Genesis,Aven,Galnafsad,Galnafsad IV,Industrial Fibers,Poor,3.04
+Genesis,Aven,Galnafsad,Galnafsad IV,Oxygen Isotopes,Medium,2.66
+Genesis,Aven,Galnafsad,Galnafsad V,Fiber Composite,Medium,18.65
+Genesis,Aven,Galnafsad,Galnafsad V,Noble Gas,Poor,15.43
+Genesis,Aven,Galnafsad,Galnafsad V,Reactive Metals,Rich,6.68
+Genesis,Aven,Galnafsad,Galnafsad V,Ionic Solutions,Medium,7.72
+Genesis,Aven,Galnafsad,Galnafsad VI,Sheen Compound,Rich,27.07
+Genesis,Aven,Galnafsad,Galnafsad VI,Noble Gas,Rich,26.48
+Genesis,Aven,Galnafsad,Galnafsad VI,Base Metals,Medium,5.55
+Genesis,Aven,Galnafsad,Galnafsad VI,Polyaramids,Medium,15.17
+Genesis,Aven,Galnafsad,Galnafsad VII,Lustering Alloy,Rich,26.14
+Genesis,Aven,Galnafsad,Galnafsad VII,Motley Compound,Rich,25.22
+Genesis,Aven,Galnafsad,Galnafsad VII,Coolant,Rich,15.36
+Genesis,Aven,Otakod,Otakod I,Crystal Compound,Perfect,27.05
+Genesis,Aven,Otakod,Otakod I,Construction Blocks,Medium,16.35
+Genesis,Aven,Otakod,Otakod I,Suspended Plasma,Rich,88.43
+Genesis,Aven,Otakod,Otakod II,Noble Gas,Perfect,28.48
+Genesis,Aven,Otakod,Otakod II,Noble Metals,Rich,23.49
+Genesis,Aven,Otakod,Otakod III,Industrial Fibers,Poor,3.90
+Genesis,Aven,Otakod,Otakod III,Oxygen Isotopes,Medium,3.00
+Genesis,Aven,Otakod,Otakod III,Plasmoids,Medium,1.11
+Genesis,Aven,Otakod,Otakod IV,Condensed Alloy,Rich,21.90
+Genesis,Aven,Otakod,Otakod IV,Fiber Composite,Rich,23.92
+Genesis,Aven,Otakod,Otakod IV,Opulent Compound,Perfect,31.30
+Genesis,Aven,Otakod,Otakod IV,Industrial Fibers,Rich,6.59
+Genesis,Aven,Otakod,Otakod V,Fiber Composite,Poor,15.98
+Genesis,Aven,Otakod,Otakod V,Noble Gas,Medium,19.33
+Genesis,Aven,Otakod,Otakod V,Polyaramids,Rich,17.17
+Genesis,Aven,Otakod,Otakod V,Ionic Solutions,Poor,6.07
+Genesis,Aven,Otakod,Otakod VI,Lustering Alloy,Medium,16.68
+Genesis,Aven,Otakod,Otakod VI,Industrial Fibers,Medium,4.24
+Genesis,Aven,Otakod,Otakod VI,Silicate Glass,Medium,10.40
+Genesis,Aven,Otakod,Otakod VII,Noble Gas,Rich,21.71
+Genesis,Aven,Otakod,Otakod VII,Reactive Metals,Medium,5.02
+Genesis,Aven,Otakod,Otakod VII,Polyaramids,Perfect,18.34
+Genesis,Aven,Otakod,Otakod VII,Ionic Solutions,Rich,8.72
+Genesis,Aven,Otakod,Otakod VIII,Glossy Compound,Poor,15.74
+Genesis,Aven,Otakod,Otakod VIII,Noble Gas,Rich,22.88
+Genesis,Aven,Otakod,Otakod VIII,Coolant,Perfect,18.11
+Genesis,Aven,Otakod,Otakod VIII,Ionic Solutions,Rich,9.72
+Genesis,Aven,Otakod,Otakod IX,Fiber Composite,Medium,20.60
+Genesis,Aven,Otakod,Otakod IX,Reactive Gas,Rich,23.09
+Genesis,Aven,Otakod,Otakod IX,Noble Gas,Rich,21.68
+Genesis,Aven,Otakod,Otakod IX,Reactive Metals,Medium,5.22
+Genesis,Aven,Otakod,Otakod X,Lustering Alloy,Medium,16.73
+Genesis,Aven,Otakod,Otakod X,Reactive Gas,Rich,26.62
+Genesis,Aven,Otakod,Otakod X,Noble Gas,Medium,19.89
+Genesis,Aven,Otakod,Otakod X,Reactive Metals,Medium,5.14
+Genesis,Aven,Otakod,Otakod XI,Supertensile Plastics,Medium,12.32
+Genesis,Aven,Otakod,Otakod XI,Coolant,Poor,8.57
+Genesis,Aven,Otakod,Otakod XI,Liquid Ozone,Poor,19.61
+Genesis,Kihkounad,Azedi,Azedi I,Lustering Alloy,Poor,13.28
+Genesis,Kihkounad,Azedi,Azedi I,Industrial Fibers,Medium,5.80
+Genesis,Kihkounad,Azedi,Azedi I,Plasmoids,Poor,0.80
+Genesis,Kihkounad,Azedi,Azedi II,Fiber Composite,Medium,21.78
+Genesis,Kihkounad,Azedi,Azedi II,Opulent Compound,Medium,16.99
+Genesis,Kihkounad,Azedi,Azedi II,Industrial Fibers,Medium,4.97
+Genesis,Kihkounad,Azedi,Azedi II,Smartfab Units,Perfect,22.60
+Genesis,Kihkounad,Azedi,Azedi III,Reactive Metals,Rich,7.07
+Genesis,Kihkounad,Azedi,Azedi III,Supertensile Plastics,Rich,18.32
+Genesis,Kihkounad,Azedi,Azedi III,Construction Blocks,Rich,25.16
+Genesis,Kihkounad,Azedi,Azedi IV,Industrial Fibers,Medium,5.79
+Genesis,Kihkounad,Azedi,Azedi IV,Supertensile Plastics,Medium,12.14
+Genesis,Kihkounad,Azedi,Azedi IV,Construction Blocks,Poor,15.34
+Genesis,Kihkounad,Azedi,Azedi V,Fiber Composite,Poor,15.64
+Genesis,Kihkounad,Azedi,Azedi V,Glossy Compound,Medium,20.16
+Genesis,Kihkounad,Azedi,Azedi V,Noble Gas,Medium,21.01
+Genesis,Kihkounad,Azedi,Azedi V,Base Metals,Medium,5.02
+Genesis,Kihkounad,Azedi,Azedi VI,Toxic Metals,Poor,3.54
+Genesis,Kihkounad,Azedi,Azedi VI,Industrial Fibers,Medium,5.42
+Genesis,Kihkounad,Azedi,Azedi VI,Supertensile Plastics,Poor,8.23
+Genesis,Kihkounad,Azedi,Azedi VII,Noble Gas,Poor,15.28
+Genesis,Kihkounad,Azedi,Azedi VII,Plasmoids,Medium,1.32
+Genesis,Kihkounad,Azedi,Azedi VIII,Industrial Fibers,Poor,3.00
+Genesis,Kihkounad,Azedi,Azedi VIII,Supertensile Plastics,Medium,13.32
+Genesis,Kihkounad,Azedi,Azedi VIII,Construction Blocks,Poor,11.43
+Genesis,Kihkounad,Azedi,Azedi IX,Dark Compound,Poor,12.11
+Genesis,Kihkounad,Azedi,Azedi IX,Toxic Metals,Poor,3.93
+Genesis,Kihkounad,Azedi,Azedi IX,Industrial Fibers,Medium,4.80
+Genesis,Kihkounad,Sharza,Sharza I,Gleaming Alloy,Medium,20.20
+Genesis,Kihkounad,Sharza,Sharza I,Noble Gas,Medium,20.59
+Genesis,Kihkounad,Sharza,Sharza II,Dark Compound,Poor,16.15
+Genesis,Kihkounad,Sharza,Sharza II,Industrial Fibers,Poor,3.99
+Genesis,Kihkounad,Sharza,Sharza II,Silicate Glass,Medium,9.14
+Genesis,Kihkounad,Sharza,Sharza III,Industrial Fibers,Poor,3.42
+Genesis,Kihkounad,Sharza,Sharza III,Construction Blocks,Medium,17.21
+Genesis,Kihkounad,Sharza,Sharza III,Oxygen Isotopes,Poor,1.90
+Genesis,Kihkounad,Sharza,Sharza IV,Industrial Fibers,Poor,3.50
+Genesis,Kihkounad,Sharza,Sharza IV,Supertensile Plastics,Medium,13.73
+Genesis,Kihkounad,Sharza,Sharza IV,Silicate Glass,Medium,9.68
+Genesis,Kihkounad,Sharza,Sharza V,Condensed Alloy,Rich,23.74
+Genesis,Kihkounad,Sharza,Sharza V,Opulent Compound,Rich,26.96
+Genesis,Kihkounad,Sharza,Sharza V,Coolant,Perfect,19.99
+Genesis,Kihkounad,Sharza,Sharza V,Liquid Ozone,Medium,22.84
+Genesis,Kihkounad,Sharza,Sharza VI,Glossy Compound,Rich,26.91
+Genesis,Kihkounad,Sharza,Sharza VI,Noble Gas,Rich,25.52
+Genesis,Kihkounad,Sharza,Sharza VI,Base Metals,Rich,6.99
+Genesis,Kihkounad,Sharza,Sharza VI,Reactive Metals,Poor,4.30
+Genesis,Kihkounad,Sharza,Sharza VII,Sheen Compound,Rich,23.69
+Genesis,Kihkounad,Sharza,Sharza VII,Noble Gas,Rich,23.85
+Genesis,Kihkounad,Sharza,Sharza VII,Base Metals,Poor,4.02
+Genesis,Kihkounad,Sharza,Sharza VII,Polyaramids,Medium,13.56
+Genesis,Kihkounad,Pirna,Pirna I,Industrial Fibers,Poor,4.04
+Genesis,Kihkounad,Pirna,Pirna I,Construction Blocks,Medium,21.06
+Genesis,Kihkounad,Pirna,Pirna I,Oxygen Isotopes,Poor,1.75
+Genesis,Kihkounad,Pirna,Pirna II,Lustering Alloy,Poor,12.53
+Genesis,Kihkounad,Pirna,Pirna II,Dark Compound,Poor,14.62
+Genesis,Kihkounad,Pirna,Pirna II,Industrial Fibers,Medium,4.68
+Genesis,Kihkounad,Pirna,Pirna III,Lustering Alloy,Rich,23.60
+Genesis,Kihkounad,Pirna,Pirna III,Noble Gas,Rich,27.79
+Genesis,Kihkounad,Pirna,Pirna III,Base Metals,Medium,4.98
+Genesis,Kihkounad,Pirna,Pirna III,Reactive Metals,Poor,4.39
+Genesis,Kihkounad,Pirna,Pirna IV,Sheen Compound,Medium,19.40
+Genesis,Kihkounad,Pirna,Pirna IV,Noble Gas,Medium,18.25
+Genesis,Kihkounad,Pirna,Pirna IV,Reactive Metals,Medium,5.85
+Genesis,Kihkounad,Pirna,Pirna IV,Coolant,Medium,12.52
+Genesis,Kihkounad,Pirna,Pirna V,Sheen Compound,Medium,18.18
+Genesis,Kihkounad,Pirna,Pirna V,Reactive Gas,Rich,27.81
+Genesis,Kihkounad,Pirna,Pirna V,Noble Gas,Medium,19.76
+Genesis,Kihkounad,Pirna,Pirna V,Reactive Metals,Rich,6.99
+Genesis,Kihkounad,Pirna,Pirna VI,Fiber Composite,Rich,24.12
+Genesis,Kihkounad,Pirna,Pirna VI,Noble Gas,Medium,19.46
+Genesis,Kihkounad,Pirna,Pirna VI,Coolant,Medium,13.64
+Genesis,Kihkounad,Pirna,Pirna VI,Ionic Solutions,Rich,9.32
+Genesis,Kihkounad,Pirna,Pirna VII,Heavy Metals,Poor,14.94
+Genesis,Kihkounad,Pirna,Pirna VII,Coolant,Medium,12.64
+Genesis,Kihkounad,Pirna,Pirna VII,Condensates,Rich,15.34
+Genesis,Kihkounad,Pirna,Pirna VIII,Toxic Metals,Medium,5.06
+Genesis,Kihkounad,Pirna,Pirna VIII,Industrial Fibers,Poor,3.90
+Genesis,Kihkounad,Pirna,Pirna VIII,Silicate Glass,Medium,9.14
+Genesis,Kihkounad,Seshi,Seshi I,Noble Gas,Poor,14.77
+Genesis,Kihkounad,Seshi,Seshi I,Plasmoids,Rich,1.39
+Genesis,Kihkounad,Seshi,Seshi II,Dark Compound,Medium,16.20
+Genesis,Kihkounad,Seshi,Seshi II,Base Metals,Medium,4.57
+Genesis,Kihkounad,Seshi,Seshi II,Industrial Fibers,Poor,2.84
+Genesis,Kihkounad,Seshi,Seshi III,Condensed Alloy,Rich,26.57
+Genesis,Kihkounad,Seshi,Seshi III,Fiber Composite,Rich,26.95
+Genesis,Kihkounad,Seshi,Seshi III,Opulent Compound,Perfect,31.70
+Genesis,Kihkounad,Seshi,Seshi III,Liquid Ozone,Medium,20.87
+Genesis,Kihkounad,Seshi,Seshi IV,Industrial Fibers,Poor,3.78
+Genesis,Kihkounad,Seshi,Seshi IV,Construction Blocks,Medium,17.20
+Genesis,Kihkounad,Seshi,Seshi IV,Silicate Glass,Medium,9.38
+Genesis,Kihkounad,Seshi,Seshi V,Fiber Composite,Rich,26.69
+Genesis,Kihkounad,Seshi,Seshi V,Reactive Gas,Rich,23.39
+Genesis,Kihkounad,Seshi,Seshi V,Base Metals,Medium,4.88
+Genesis,Kihkounad,Seshi,Seshi V,Industrial Fibers,Rich,7.10
+Genesis,Kihkounad,Seshi,Seshi VI,Sheen Compound,Rich,22.88
+Genesis,Kihkounad,Seshi,Seshi VI,Fiber Composite,Rich,22.00
+Genesis,Kihkounad,Seshi,Seshi VI,Noble Gas,Rich,23.24
+Genesis,Kihkounad,Seshi,Seshi VI,Polyaramids,Rich,17.77
+Genesis,Kihkounad,Seshi,Seshi VII,Fiber Composite,Medium,18.79
+Genesis,Kihkounad,Seshi,Seshi VII,Opulent Compound,Rich,24.67
+Genesis,Kihkounad,Seshi,Seshi VII,Industrial Fibers,Perfect,8.43
+Genesis,Kihkounad,Seshi,Seshi VII,Heavy Water,Medium,165.24
+Genesis,Kihkounad,Seshi,Seshi VIII,Dark Compound,Medium,17.41
+Genesis,Kihkounad,Seshi,Seshi VIII,Industrial Fibers,Poor,3.42
+Genesis,Kihkounad,Seshi,Seshi VIII,Plasmoids,Poor,0.72
+Genesis,Kihkounad,Anara,Anara I,Lustering Alloy,Poor,11.73
+Genesis,Kihkounad,Anara,Anara I,Dark Compound,Poor,11.25
+Genesis,Kihkounad,Anara,Anara I,Industrial Fibers,Medium,5.13
+Genesis,Kihkounad,Anara,Anara II,Lucent Compound,Rich,26.83
+Genesis,Kihkounad,Anara,Anara II,Construction Blocks,Medium,21.28
+Genesis,Kihkounad,Anara,Anara II,Suspended Plasma,Perfect,100.06
+Genesis,Kihkounad,Anara,Anara III,Reactive Gas,Perfect,27.45
+Genesis,Kihkounad,Anara,Anara III,Toxic Metals,Rich,6.12
+Genesis,Kihkounad,Anara,Anara III,Construction Blocks,Poor,15.03
+Genesis,Kihkounad,Anara,Anara IV,Crystal Compound,Rich,24.62
+Genesis,Kihkounad,Anara,Anara IV,Coolant,Poor,10.02
+Genesis,Kihkounad,Anara,Anara IV,Heavy Water,Rich,215.56
+Genesis,Kihkounad,Anara,Anara IV,Liquid Ozone,Perfect,36.32
+Genesis,Kihkounad,Anara,Anara V,Sheen Compound,Rich,23.27
+Genesis,Kihkounad,Anara,Anara V,Noble Gas,Rich,23.65
+Genesis,Kihkounad,Anara,Anara V,Reactive Metals,Medium,4.48
+Genesis,Kihkounad,Anara,Anara V,Coolant,Rich,14.44
+Genesis,Kihkounad,Anara,Anara VI,Fiber Composite,Medium,18.38
+Genesis,Kihkounad,Anara,Anara VI,Reactive Gas,Medium,21.10
+Genesis,Kihkounad,Anara,Anara VI,Noble Gas,Rich,22.13
+Genesis,Kihkounad,Anara,Anara VI,Coolant,Rich,14.74
+Genesis,Kihkounad,Anara,Anara VII,Lustering Alloy,Rich,23.19
+Genesis,Kihkounad,Anara,Anara VII,Fiber Composite,Medium,17.59
+Genesis,Kihkounad,Anara,Anara VII,Noble Gas,Medium,18.85
+Genesis,Kihkounad,Anara,Anara VII,Ionic Solutions,Rich,8.66
+Genesis,Kihkounad,Anara,Anara VIII,Supertensile Plastics,Poor,8.90
+Genesis,Kihkounad,Anara,Anara VIII,Coolant,Rich,15.75
+Genesis,Kihkounad,Anara,Anara VIII,Condensates,Medium,13.71
+Genesis,Kihkounad,Anara,Anara IX,Precious Alloy,Poor,15.72
+Genesis,Kihkounad,Anara,Anara IX,Industrial Fibers,Medium,4.56
+Genesis,Kihkounad,Anara,Anara IX,Oxygen Isotopes,Poor,2.19
+Genesis,Kihkounad,Partod,Partod I,Lucent Compound,Rich,24.39
+Genesis,Kihkounad,Partod,Partod I,Reactive Metals,Rich,5.99
+Genesis,Kihkounad,Partod,Partod I,Construction Blocks,Rich,22.51
+Genesis,Kihkounad,Partod,Partod II,Fiber Composite,Medium,16.54
+Genesis,Kihkounad,Partod,Partod II,Reactive Gas,Rich,22.51
+Genesis,Kihkounad,Partod,Partod II,Industrial Fibers,Rich,6.49
+Genesis,Kihkounad,Partod,Partod II,Smartfab Units,Rich,16.20
+Genesis,Kihkounad,Partod,Partod III,Motley Compound,Medium,19.33
+Genesis,Kihkounad,Partod,Partod III,Noble Gas,Perfect,27.78
+Genesis,Kihkounad,Partod,Partod IV,Fiber Composite,Rich,26.23
+Genesis,Kihkounad,Partod,Partod IV,Noble Metals,Medium,20.40
+Genesis,Kihkounad,Partod,Partod IV,Smartfab Units,Medium,12.74
+Genesis,Kihkounad,Partod,Partod IV,Liquid Ozone,Perfect,37.00
+Genesis,Kihkounad,Partod,Partod V,Glossy Compound,Medium,20.06
+Genesis,Kihkounad,Partod,Partod V,Noble Gas,Poor,15.01
+Genesis,Kihkounad,Partod,Partod VI,Lustering Alloy,Medium,18.41
+Genesis,Kihkounad,Partod,Partod VI,Glossy Compound,Perfect,27.27
+Genesis,Kihkounad,Partod,Partod VI,Noble Gas,Rich,24.02
+Genesis,Kihkounad,Partod,Partod VI,Coolant,Medium,13.66
+Genesis,Kihkounad,Partod,Partod VII,Sheen Compound,Medium,16.29
+Genesis,Kihkounad,Partod,Partod VII,Reactive Gas,Rich,26.83
+Genesis,Kihkounad,Partod,Partod VII,Noble Gas,Medium,17.46
+Genesis,Kihkounad,Partod,Partod VII,Ionic Solutions,Rich,9.91
+Genesis,Kihkounad,Partod,Partod VIII,Supertensile Plastics,Rich,15.06
+Genesis,Kihkounad,Partod,Partod VIII,Coolant,Rich,14.90
+Genesis,Kihkounad,Partod,Partod VIII,Condensates,Medium,11.22
+Genesis,Kihkounad,Partod,Partod IX,Lustering Alloy,Medium,16.81
+Genesis,Kihkounad,Partod,Partod IX,Industrial Fibers,Medium,5.26
+Genesis,Kihkounad,Partod,Partod IX,Plasmoids,Poor,0.84
+Genesis,EVE,Exit,Exit I,Precious Alloy,Poor,17.52
+Genesis,EVE,Exit,Exit I,Toxic Metals,Medium,5.29
+Genesis,EVE,Exit,Exit I,Industrial Fibers,Poor,4.16
+Genesis,EVE,Exit,Exit II,Fiber Composite,Medium,23.10
+Genesis,EVE,Exit,Exit II,Industrial Fibers,Perfect,8.97
+Genesis,EVE,Exit,Exit II,Smartfab Units,Medium,13.03
+Genesis,EVE,Exit,Exit II,Heavy Water,Rich,279.68
+Genesis,EVE,Exit,Exit III,Condensed Alloy,Medium,23.71
+Genesis,EVE,Exit,Exit III,Fiber Composite,Medium,23.52
+Genesis,EVE,Exit,Exit III,Condensates,Perfect,23.66
+Genesis,EVE,Exit,Exit III,Smartfab Units,Rich,16.26
+Genesis,EVE,Exit,Exit IV,Condensed Alloy,Medium,20.92
+Genesis,EVE,Exit,Exit IV,Fiber Composite,Perfect,35.76
+Genesis,EVE,Exit,Exit IV,Smartfab Units,Perfect,22.57
+Genesis,EVE,Exit,Exit IV,Heavy Water,Perfect,328.13
+Genesis,EVE,Exit,Exit V,Gleaming Alloy,Medium,21.58
+Genesis,EVE,Exit,Exit V,Reactive Metals,Poor,4.05
+Genesis,EVE,Exit,Exit V,Construction Blocks,Medium,21.83
+Genesis,EVE,Exit,Exit VI,Fiber Composite,Medium,22.93
+Genesis,EVE,Exit,Exit VI,Opulent Compound,Perfect,33.52
+Genesis,EVE,Exit,Exit VI,Reactive Gas,Perfect,32.47
+Genesis,EVE,Exit,Exit VI,Noble Metals,Perfect,35.59
+Genesis,EVE,Gateway,Gateway I,Gleaming Alloy,Medium,23.45
+Genesis,EVE,Gateway,Gateway I,Noble Gas,Rich,27.51
+Genesis,EVE,Gateway,Gateway II,Supertensile Plastics,Perfect,20.39
+Genesis,EVE,Gateway,Gateway II,Construction Blocks,Medium,21.38
+Genesis,EVE,Gateway,Gateway II,Oxygen Isotopes,Medium,2.91
+Genesis,EVE,Gateway,Gateway III,Fiber Composite,Medium,18.85
+Genesis,EVE,Gateway,Gateway III,Reactive Gas,Rich,28.73
+Genesis,EVE,Gateway,Gateway III,Noble Metals,Rich,24.76
+Genesis,EVE,Gateway,Gateway III,Smartfab Units,Perfect,20.13
+Genesis,EVE,Gateway,Gateway IV,Condensed Alloy,Perfect,31.10
+Genesis,EVE,Gateway,Gateway IV,Fiber Composite,Medium,21.77
+Genesis,EVE,Gateway,Gateway IV,Reactive Gas,Perfect,32.68
+Genesis,EVE,Gateway,Gateway IV,Industrial Fibers,Medium,5.94
+Genesis,EVE,Gateway,Gateway V,Fiber Composite,Rich,27.32
+Genesis,EVE,Gateway,Gateway V,Reactive Gas,Rich,27.19
+Genesis,EVE,Gateway,Gateway V,Noble Gas,Rich,28.98
+Genesis,EVE,Gateway,Gateway V,Ionic Solutions,Medium,9.24
+Genesis,EVE,Gateway,Gateway VI,Lustering Alloy,Rich,28.50
+Genesis,EVE,Gateway,Gateway VI,Sheen Compound,Perfect,30.40
+Genesis,EVE,Gateway,Gateway VI,Noble Gas,Medium,23.48
+Genesis,EVE,Gateway,Gateway VI,Coolant,Rich,19.33
+Genesis,EVE,Gateway,Gateway VII,Fiber Composite,Rich,26.22
+Genesis,EVE,Gateway,Gateway VII,Noble Gas,Rich,24.07
+Genesis,EVE,Gateway,Gateway VII,Reactive Metals,Medium,4.88
+Genesis,EVE,Gateway,Gateway VII,Polyaramids,Medium,13.91
+Genesis,EVE,Gateway,Gateway VIII,Sheen Compound,Medium,20.79
+Genesis,EVE,Gateway,Gateway VIII,Noble Gas,Rich,25.50
+Genesis,EVE,Gateway,Gateway VIII,Reactive Metals,Rich,6.53
+Genesis,EVE,Gateway,Gateway VIII,Ionic Solutions,Perfect,12.48
+Genesis,EVE,Gateway,Gateway IX,Lustering Alloy,Poor,15.96
+Genesis,EVE,Gateway,Gateway IX,Industrial Fibers,Poor,3.79
+Genesis,EVE,Gateway,Gateway IX,Construction Blocks,Poor,14.67
+Genesis,EVE,Central Point,Central Point I,Precious Alloy,Medium,19.58
+Genesis,EVE,Central Point,Central Point I,Industrial Fibers,Medium,5.62
+Genesis,EVE,Central Point,Central Point I,Oxygen Isotopes,Medium,3.15
+Genesis,EVE,Central Point,Central Point II,Noble Gas,Medium,19.73
+Genesis,EVE,Central Point,Central Point II,Noble Metals,Poor,16.31
+Genesis,EVE,Central Point,Central Point III,Noble Gas,Medium,22.63
+Genesis,EVE,Central Point,Central Point III,Polyaramids,Perfect,19.63
+Genesis,EVE,Central Point,Central Point IV,Industrial Fibers,Poor,4.30
+Genesis,EVE,Central Point,Central Point IV,Supertensile Plastics,Medium,14.41
+Genesis,EVE,Central Point,Central Point IV,Plasmoids,Medium,1.29
+Genesis,EVE,Central Point,Central Point V,Glossy Compound,Medium,17.95
+Genesis,EVE,Central Point,Central Point V,Reactive Gas,Medium,21.62
+Genesis,EVE,Central Point,Central Point V,Noble Gas,Poor,14.83
+Genesis,EVE,Central Point,Central Point V,Reactive Metals,Poor,4.22
+Genesis,EVE,Central Point,Central Point VI,Noble Gas,Rich,25.49
+Genesis,EVE,Central Point,Central Point VI,Reactive Metals,Poor,4.09
+Genesis,EVE,Central Point,Central Point VI,Polyaramids,Perfect,19.37
+Genesis,EVE,Central Point,Central Point VI,Coolant,Poor,10.94
+Genesis,EVE,Central Point,Central Point VII,Lustering Alloy,Rich,28.01
+Genesis,EVE,Central Point,Central Point VII,Fiber Composite,Medium,17.69
+Genesis,EVE,Central Point,Central Point VII,Noble Gas,Medium,21.44
+Genesis,EVE,Central Point,Central Point VII,Ionic Solutions,Medium,9.09
+Genesis,EVE,Central Point,Central Point VIII,Reactive Gas,Medium,18.09
+Genesis,EVE,Central Point,Central Point VIII,Noble Gas,Rich,26.78
+Genesis,EVE,Central Point,Central Point VIII,Reactive Metals,Medium,5.01
+Genesis,EVE,Central Point,Central Point VIII,Coolant,Rich,15.74
+Genesis,EVE,Promised Land,Promised Land I,Lucent Compound,Medium,19.30
+Genesis,EVE,Promised Land,Promised Land I,Construction Blocks,Medium,19.06
+Genesis,EVE,Promised Land,Promised Land I,Nanites,Medium,5.61
+Genesis,EVE,Promised Land,Promised Land II,Lustering Alloy,Poor,15.66
+Genesis,EVE,Promised Land,Promised Land II,Fiber Composite,Perfect,29.30
+Genesis,EVE,Promised Land,Promised Land II,Noble Gas,Medium,17.91
+Genesis,EVE,Promised Land,Promised Land II,Reactive Metals,Rich,6.98
+Genesis,EVE,Promised Land,Promised Land III,Sheen Compound,Poor,16.87
+Genesis,EVE,Promised Land,Promised Land III,Fiber Composite,Rich,24.77
+Genesis,EVE,Promised Land,Promised Land III,Noble Gas,Poor,15.12
+Genesis,EVE,Promised Land,Promised Land III,Reactive Metals,Rich,6.82
+Genesis,EVE,Promised Land,Promised Land IV,Noble Gas,Rich,25.11
+Genesis,EVE,Promised Land,Promised Land IV,Base Metals,Medium,5.25
+Genesis,EVE,Promised Land,Promised Land IV,Reactive Metals,Perfect,7.60
+Genesis,EVE,Promised Land,Promised Land IV,Coolant,Perfect,19.21
+Genesis,EVE,Promised Land,Promised Land V,Fiber Composite,Rich,27.72
+Genesis,EVE,Promised Land,Promised Land V,Glossy Compound,Poor,14.90
+Genesis,EVE,Promised Land,Promised Land V,Noble Gas,Medium,21.35
+Genesis,EVE,Promised Land,Promised Land V,Reactive Metals,Rich,7.32
+Genesis,EVE,Promised Land,Promised Land VI,Lustering Alloy,Medium,20.36
+Genesis,EVE,Promised Land,Promised Land VI,Fiber Composite,Rich,27.14
+Genesis,EVE,Promised Land,Promised Land VI,Noble Gas,Medium,18.99
+Genesis,EVE,Promised Land,Promised Land VI,Polyaramids,Perfect,19.88
+Genesis,EVE,Promised Land,Promised Land VII,Industrial Fibers,Medium,4.92
+Genesis,EVE,Promised Land,Promised Land VII,Construction Blocks,Poor,15.57
+Genesis,EVE,Promised Land,Promised Land VII,Plasmoids,Medium,1.28
+Genesis,EVE,Promised Land,Promised Land VIII,Toxic Metals,Medium,4.71
+Genesis,EVE,Promised Land,Promised Land VIII,Industrial Fibers,Poor,3.74
+Genesis,EVE,Promised Land,Promised Land VIII,Oxygen Isotopes,Medium,3.22
+Genesis,EVE,Dead End,Dead End I,Noble Gas,Rich,27.74
+Genesis,EVE,Dead End,Dead End I,Polyaramids,Rich,16.06
+Genesis,EVE,Dead End,Dead End II,Noble Gas,Rich,28.44
+Genesis,EVE,Dead End,Dead End II,Noble Metals,Rich,23.90
+Genesis,EVE,Dead End,Dead End III,Fiber Composite,Medium,19.10
+Genesis,EVE,Dead End,Dead End III,Opulent Compound,Perfect,31.43
+Genesis,EVE,Dead End,Dead End III,Reactive Gas,Perfect,29.23
+Genesis,EVE,Dead End,Dead End III,Smartfab Units,Perfect,21.14
+Genesis,EVE,Dead End,Dead End IV,Base Metals,Poor,4.44
+Genesis,EVE,Dead End,Dead End IV,Industrial Fibers,Poor,4.30
+Genesis,EVE,Dead End,Dead End IV,Oxygen Isotopes,Poor,1.74
+Genesis,EVE,Dead End,Dead End V,Reactive Gas,Poor,14.78
+Genesis,EVE,Dead End,Dead End V,Supertensile Plastics,Perfect,19.22
+Genesis,EVE,Dead End,Dead End V,Construction Blocks,Medium,21.56
+Genesis,EVE,Dead End,Dead End VI,Base Metals,Medium,4.88
+Genesis,EVE,Dead End,Dead End VI,Industrial Fibers,Poor,3.53
+Genesis,EVE,Dead End,Dead End VI,Oxygen Isotopes,Poor,2.48
+Genesis,EVE,Dead End,Dead End VII,Fiber Composite,Medium,18.25
+Genesis,EVE,Dead End,Dead End VII,Opulent Compound,Medium,20.54
+Genesis,EVE,Dead End,Dead End VII,Condensates,Medium,13.28
+Genesis,EVE,Dead End,Dead End VII,Smartfab Units,Rich,18.28
+Genesis,EVE,Dead End,Dead End VIII,Lustering Alloy,Medium,20.45
+Genesis,EVE,Dead End,Dead End VIII,Sheen Compound,Perfect,29.48
+Genesis,EVE,Dead End,Dead End VIII,Fiber Composite,Medium,20.93
+Genesis,EVE,Dead End,Dead End VIII,Noble Gas,Medium,17.10
+Genesis,EVE,New Eden,New Eden I,Precious Alloy,Poor,14.92
+Genesis,EVE,New Eden,New Eden I,Industrial Fibers,Medium,5.43
+Genesis,EVE,New Eden,New Eden I,Construction Blocks,Medium,20.99
+Genesis,EVE,Canard,Canard I,Glossy Compound,Rich,25.78
+Genesis,EVE,Canard,Canard I,Noble Gas,Medium,21.80
+Genesis,EVE,Canard,Canard II,Base Metals,Medium,4.48
+Genesis,EVE,Canard,Canard II,Toxic Metals,Poor,4.06
+Genesis,EVE,Canard,Canard II,Industrial Fibers,Medium,5.42
+Genesis,EVE,Canard,Canard III,Precious Alloy,Medium,19.48
+Genesis,EVE,Canard,Canard III,Industrial Fibers,Poor,3.69
+Genesis,EVE,Canard,Canard III,Supertensile Plastics,Poor,9.06
+Genesis,EVE,Canard,Canard IV,Industrial Fibers,Poor,3.59
+Genesis,EVE,Canard,Canard IV,Supertensile Plastics,Medium,14.27
+Genesis,EVE,Canard,Canard IV,Oxygen Isotopes,Poor,1.75
+Genesis,EVE,Canard,Canard V,Construction Blocks,Medium,17.32
+Genesis,EVE,Canard,Canard V,Nanites,Medium,5.11
+Genesis,EVE,Canard,Canard V,Oxygen Isotopes,Rich,3.84
+Genesis,EVE,Canard,Canard VI,Crystal Compound,Medium,18.85
+Genesis,EVE,Canard,Canard VI,Noble Metals,Medium,19.28
+Genesis,EVE,Canard,Canard VI,Coolant,Medium,14.87
+Genesis,EVE,Canard,Canard VI,Liquid Ozone,Perfect,39.73
+Genesis,EVE,Canard,Canard VII,Sheen Compound,Rich,26.93
+Genesis,EVE,Canard,Canard VII,Fiber Composite,Poor,15.21
+Genesis,EVE,Canard,Canard VII,Glossy Compound,Rich,23.62
+Genesis,EVE,Canard,Canard VII,Noble Gas,Medium,18.83
+Genesis,EVE,Canard,Canard VIII,Fiber Composite,Perfect,31.43
+Genesis,EVE,Canard,Canard VIII,Base Metals,Medium,4.84
+Genesis,EVE,Canard,Canard VIII,Smartfab Units,Perfect,21.10
+Genesis,EVE,Canard,Canard VIII,Heavy Water,Perfect,339.48
+Genesis,EVE,Canard,Canard IX,Glossy Compound,Poor,16.07
+Genesis,EVE,Canard,Canard IX,Reactive Gas,Medium,22.70
+Genesis,EVE,Canard,Canard IX,Noble Gas,Medium,21.74
+Genesis,EVE,Canard,Canard IX,Coolant,Rich,19.01
+Genesis,EVE,Canard,Canard X,Supertensile Plastics,Rich,16.50
+Genesis,EVE,Canard,Canard X,Coolant,Medium,14.28
+Genesis,EVE,Canard,Canard X,Condensates,Medium,13.27
+Genesis,EVE,Canard,Canard XI,Base Metals,Medium,4.60
+Genesis,EVE,Canard,Canard XI,Industrial Fibers,Poor,3.06
+Genesis,EVE,Canard,Canard XI,Supertensile Plastics,Medium,13.18
+Genesis,Fabas,Girani-Fa,Girani-Fa I,Motley Compound,Medium,16.98
+Genesis,Fabas,Girani-Fa,Girani-Fa I,Plasmoids,Perfect,1.48
+Genesis,Fabas,Girani-Fa,Girani-Fa II,Lustering Alloy,Medium,18.18
+Genesis,Fabas,Girani-Fa,Girani-Fa II,Base Metals,Poor,3.27
+Genesis,Fabas,Girani-Fa,Girani-Fa III,Lustering Alloy,Medium,14.88
+Genesis,Fabas,Girani-Fa,Girani-Fa III,Base Metals,Poor,2.72
+Genesis,Fabas,Girani-Fa,Girani-Fa IV,Noble Gas,Rich,20.05
+Genesis,Fabas,Girani-Fa,Girani-Fa IV,Reactive Metals,Perfect,6.34
+Genesis,Fabas,Girani-Fa,Girani-Fa IV,Suspended Plasma,Medium,68.15
+Genesis,Fabas,Girani-Fa,Girani-Fa V,Motley Compound,Medium,18.96
+Genesis,Fabas,Girani-Fa,Girani-Fa V,Plasmoids,Medium,0.97
+Genesis,Fabas,Girani-Fa,Girani-Fa VI,Lustering Alloy,Medium,17.22
+Genesis,Fabas,Girani-Fa,Girani-Fa VI,Reactive Gas,Rich,19.70
+Genesis,Fabas,Girani-Fa,Girani-Fa VI,Base Metals,Medium,3.78
+Genesis,Fabas,Girani-Fa,Girani-Fa VII,Lustering Alloy,Perfect,24.15
+Genesis,Fabas,Girani-Fa,Girani-Fa VII,Sheen Compound,Perfect,24.23
+Genesis,Fabas,Girani-Fa,Girani-Fa VII,Base Metals,Medium,4.29
+Genesis,Fabas,Girani-Fa,Girani-Fa VIII,Lustering Alloy,Poor,13.41
+Genesis,Fabas,Girani-Fa,Girani-Fa VIII,Base Metals,Rich,5.59
+Genesis,Fabas,Girani-Fa,Girani-Fa VIII,Coolant,Medium,12.09
+Genesis,Fabas,Girani-Fa,Girani-Fa IX,Lustering Alloy,Rich,20.77
+Genesis,Fabas,Girani-Fa,Girani-Fa IX,Reactive Gas,Medium,15.73
+Genesis,Fabas,Girani-Fa,Girani-Fa IX,Base Metals,Rich,5.26
+Genesis,Fabas,Girani-Fa,Girani-Fa X,Lustering Alloy,Medium,15.29
+Genesis,Fabas,Girani-Fa,Girani-Fa X,Base Metals,Medium,4.42
+Genesis,Fabas,Girani-Fa,Girani-Fa XI,Polyaramids,Rich,15.76
+Genesis,Fabas,Girani-Fa,Girani-Fa XI,Silicate Glass,Rich,10.30
+Genesis,Fabas,Girani-Fa,Girani-Fa XI,Heavy Water,Rich,199.05
+Genesis,Fabas,Girani-Fa,Girani-Fa XII,Lustering Alloy,Poor,11.60
+Genesis,Fabas,Girani-Fa,Girani-Fa XII,Base Metals,Rich,5.60
+Genesis,Fabas,Nasreri,Nasreri I,Motley Compound,Poor,12.29
+Genesis,Fabas,Nasreri,Nasreri I,Noble Gas,Poor,13.02
+Genesis,Fabas,Nasreri,Nasreri II,Lustering Alloy,Poor,12.82
+Genesis,Fabas,Nasreri,Nasreri II,Base Metals,Poor,2.86
+Genesis,Fabas,Nasreri,Nasreri III,Noble Metals,Rich,19.64
+Genesis,Fabas,Nasreri,Nasreri III,Industrial Fibers,Medium,4.84
+Genesis,Fabas,Nasreri,Nasreri III,Heavy Water,Perfect,257.25
+Genesis,Fabas,Nasreri,Nasreri IV,Reactive Gas,Perfect,25.89
+Genesis,Fabas,Nasreri,Nasreri IV,Industrial Fibers,Perfect,7.24
+Genesis,Fabas,Nasreri,Nasreri IV,Heavy Water,Medium,184.80
+Genesis,Fabas,Nasreri,Nasreri V,Lustering Alloy,Medium,16.26
+Genesis,Fabas,Nasreri,Nasreri V,Noble Gas,Poor,12.78
+Genesis,Fabas,Nasreri,Nasreri V,Base Metals,Medium,4.31
+Genesis,Fabas,Nasreri,Nasreri VI,Lustering Alloy,Rich,23.61
+Genesis,Fabas,Nasreri,Nasreri VI,Base Metals,Rich,5.92
+Genesis,Fabas,Nasreri,Nasreri VI,Polyaramids,Medium,12.41
+Genesis,Fabas,Nasreri,Nasreri VII,Lustering Alloy,Perfect,24.64
+Genesis,Fabas,Nasreri,Nasreri VII,Glossy Compound,Rich,19.16
+Genesis,Fabas,Nasreri,Nasreri VII,Base Metals,Medium,3.92
+Genesis,Fabas,Nasreri,Nasreri VIII,Lustering Alloy,Poor,10.50
+Genesis,Fabas,Nasreri,Nasreri VIII,Base Metals,Medium,4.39
+Genesis,Fabas,Heorah,Heorah I,Lustering Alloy,Medium,17.07
+Genesis,Fabas,Heorah,Heorah I,Base Metals,Poor,2.95
+Genesis,Fabas,Heorah,Heorah II,Lustering Alloy,Medium,16.16
+Genesis,Fabas,Heorah,Heorah II,Base Metals,Medium,4.66
+Genesis,Fabas,Heorah,Heorah III,Motley Compound,Poor,14.05
+Genesis,Fabas,Heorah,Heorah III,Plasmoids,Perfect,1.49
+Genesis,Fabas,Heorah,Heorah IV,Lustering Alloy,Medium,16.57
+Genesis,Fabas,Heorah,Heorah IV,Fiber Composite,Perfect,24.33
+Genesis,Fabas,Heorah,Heorah IV,Base Metals,Rich,5.25
+Genesis,Fabas,Heorah,Heorah V,Lustering Alloy,Rich,21.84
+Genesis,Fabas,Heorah,Heorah V,Noble Gas,Rich,19.20
+Genesis,Fabas,Heorah,Heorah V,Base Metals,Medium,3.89
+Genesis,Fabas,Heorah,Heorah VI,Lustering Alloy,Medium,16.95
+Genesis,Fabas,Heorah,Heorah VI,Fiber Composite,Medium,15.22
+Genesis,Fabas,Heorah,Heorah VI,Base Metals,Medium,4.54
+Genesis,Fabas,Heorah,Heorah VII,Lustering Alloy,Medium,15.69
+Genesis,Fabas,Heorah,Heorah VII,Base Metals,Poor,3.17
+Genesis,Fabas,Ebasez,Ebasez I,Sheen Compound,Rich,24.96
+Genesis,Fabas,Ebasez,Ebasez I,Heavy Metals,Medium,16.59
+Genesis,Fabas,Ebasez,Ebasez I,Nanites,Rich,5.96
+Genesis,Fabas,Ebasez,Ebasez I,Plasmoids,Rich,1.28
+Genesis,Fabas,Ebasez,Ebasez II,Glossy Compound,Rich,22.59
+Genesis,Fabas,Ebasez,Ebasez II,Noble Gas,Perfect,27.07
+Genesis,Fabas,Ebasez,Ebasez III,Fiber Composite,Medium,17.49
+Genesis,Fabas,Ebasez,Ebasez III,Base Metals,Medium,4.93
+Genesis,Fabas,Ebasez,Ebasez III,Industrial Fibers,Perfect,6.82
+Genesis,Fabas,Ebasez,Ebasez III,Condensates,Rich,15.00
+Genesis,Fabas,Ebasez,Ebasez IV,Precious Alloy,Medium,15.74
+Genesis,Fabas,Ebasez,Ebasez IV,Toxic Metals,Poor,3.79
+Genesis,Fabas,Ebasez,Ebasez IV,Industrial Fibers,Poor,3.30
+Genesis,Fabas,Ebasez,Ebasez V,Fiber Composite,Perfect,29.30
+Genesis,Fabas,Ebasez,Ebasez V,Opulent Compound,Rich,23.26
+Genesis,Fabas,Ebasez,Ebasez V,Heavy Water,Medium,181.44
+Genesis,Fabas,Ebasez,Ebasez V,Liquid Ozone,Medium,20.52
+Genesis,Fabas,Ebasez,Ebasez VI,Fiber Composite,Rich,22.53
+Genesis,Fabas,Ebasez,Ebasez VI,Noble Gas,Poor,14.14
+Genesis,Fabas,Ebasez,Ebasez VI,Reactive Metals,Rich,6.29
+Genesis,Fabas,Ebasez,Ebasez VI,Coolant,Medium,11.19
+Genesis,Fabas,Ebasez,Ebasez VII,Fiber Composite,Medium,19.89
+Genesis,Fabas,Ebasez,Ebasez VII,Glossy Compound,Rich,21.07
+Genesis,Fabas,Ebasez,Ebasez VII,Noble Gas,Medium,17.90
+Genesis,Fabas,Ebasez,Ebasez VII,Coolant,Medium,10.62
+Genesis,Fabas,Ebasez,Ebasez VIII,Sheen Compound,Rich,20.62
+Genesis,Fabas,Ebasez,Ebasez VIII,Noble Gas,Medium,20.08
+Genesis,Fabas,Ebasez,Ebasez VIII,Reactive Metals,Medium,5.28
+Genesis,Fabas,Ebasez,Ebasez VIII,Coolant,Medium,11.71
+Genesis,Fabas,Agal,Agal I,Motley Compound,Poor,12.57
+Genesis,Fabas,Agal,Agal I,Plasmoids,Rich,1.38
+Genesis,Fabas,Agal,Agal II,Reactive Metals,Rich,5.09
+Genesis,Fabas,Agal,Agal II,Suspended Plasma,Medium,58.00
+Genesis,Fabas,Agal,Agal III,Lustering Alloy,Poor,13.92
+Genesis,Fabas,Agal,Agal III,Base Metals,Medium,4.28
+Genesis,Fabas,Agal,Agal III,Ionic Solutions,Perfect,9.86
+Genesis,Fabas,Agal,Agal IV,Noble Metals,Medium,18.89
+Genesis,Fabas,Agal,Agal IV,Heavy Water,Perfect,280.80
+Genesis,Fabas,Agal,Agal IV,Liquid Ozone,Perfect,32.94
+Genesis,Fabas,Agal,Agal V,Lustering Alloy,Perfect,23.93
+Genesis,Fabas,Agal,Agal V,Base Metals,Poor,3.34
+Genesis,Fabas,Agal,Agal V,Coolant,Medium,11.86
+Genesis,Fabas,Agal,Agal VI,Condensed Alloy,Medium,16.07
+Genesis,Fabas,Agal,Agal VI,Noble Metals,Rich,20.30
+Genesis,Fabas,Agal,Agal VI,Heavy Water,Rich,193.20
+Genesis,Fabas,Agal,Agal VII,Lustering Alloy,Medium,15.93
+Genesis,Fabas,Agal,Agal VII,Base Metals,Rich,6.11
+Genesis,Fabas,Agal,Agal VII,Reactive Metals,Medium,4.94
+Genesis,Fabas,Agal,Agal VIII,Lustering Alloy,Medium,14.70
+Genesis,Fabas,Agal,Agal VIII,Base Metals,Poor,3.38
+Genesis,Fabas,Doza,Doza I,Opulent Compound,Perfect,27.96
+Genesis,Fabas,Doza,Doza I,Base Metals,Rich,5.49
+Genesis,Fabas,Doza,Doza I,Heavy Water,Perfect,262.50
+Genesis,Fabas,Doza,Doza II,Suspended Plasma,Medium,62.59
+Genesis,Fabas,Doza,Doza II,Oxygen Isotopes,Rich,3.46
+Genesis,Fabas,Doza,Doza III,Lustering Alloy,Medium,15.26
+Genesis,Fabas,Doza,Doza III,Sheen Compound,Rich,23.45
+Genesis,Fabas,Doza,Doza III,Base Metals,Medium,3.80
+Genesis,Fabas,Doza,Doza IV,Lustering Alloy,Poor,12.75
+Genesis,Fabas,Doza,Doza IV,Noble Gas,Rich,20.07
+Genesis,Fabas,Doza,Doza IV,Base Metals,Medium,3.76
+Genesis,Fabas,Doza,Doza V,Noble Metals,Medium,14.64
+Genesis,Fabas,Doza,Doza V,Heavy Water,Perfect,247.65
+Genesis,Fabas,Doza,Doza V,Ionic Solutions,Poor,5.51
+Genesis,Fabas,Bania,Bania I,Dark Compound,Poor,12.29
+Genesis,Fabas,Bania,Bania I,Industrial Fibers,Poor,3.47
+Genesis,Fabas,Bania,Bania I,Silicate Glass,Poor,6.79
+Genesis,Fabas,Bania,Bania II,Dark Compound,Poor,13.17
+Genesis,Fabas,Bania,Bania II,Industrial Fibers,Medium,4.81
+Genesis,Fabas,Bania,Bania II,Construction Blocks,Medium,16.34
+Genesis,Fabas,Bania,Bania III,Lustering Alloy,Poor,10.90
+Genesis,Fabas,Bania,Bania III,Precious Alloy,Poor,14.94
+Genesis,Fabas,Bania,Bania III,Industrial Fibers,Poor,3.38
+Genesis,Fabas,Bania,Bania IV,Toxic Metals,Medium,5.09
+Genesis,Fabas,Bania,Bania IV,Supertensile Plastics,Medium,11.13
+Genesis,Fabas,Bania,Bania IV,Construction Blocks,Rich,21.87
+Genesis,Fabas,Bania,Bania V,Fiber Composite,Perfect,26.32
+Genesis,Fabas,Bania,Bania V,Noble Gas,Rich,22.80
+Genesis,Fabas,Bania,Bania V,Reactive Metals,Medium,4.16
+Genesis,Fabas,Bania,Bania V,Ionic Solutions,Medium,7.03
+Genesis,Fabas,Bania,Bania VI,Sheen Compound,Rich,22.58
+Genesis,Fabas,Bania,Bania VI,Reactive Gas,Medium,16.86
+Genesis,Fabas,Bania,Bania VI,Noble Gas,Medium,19.01
+Genesis,Fabas,Bania,Bania VI,Polyaramids,Rich,13.73
+Genesis,Fabas,Bania,Bania VII,Base Metals,Poor,3.45
+Genesis,Fabas,Bania,Bania VII,Industrial Fibers,Poor,3.38
+Genesis,Fabas,Bania,Bania VII,Plasmoids,Medium,0.98

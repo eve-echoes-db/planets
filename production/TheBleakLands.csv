@@ -1,0 +1,899 @@
+Region,Constellation,System,Name,Item,Rate,Output
+The Bleak Lands,Sasen,Lamaa,Lamaa I,Industrial Fibers,Medium,4.61
+The Bleak Lands,Sasen,Lamaa,Lamaa I,Construction Blocks,Poor,12.29
+The Bleak Lands,Sasen,Lamaa,Lamaa I,Oxygen Isotopes,Poor,2.21
+The Bleak Lands,Sasen,Lamaa,Lamaa II,Toxic Metals,Medium,4.93
+The Bleak Lands,Sasen,Lamaa,Lamaa II,Industrial Fibers,Medium,4.65
+The Bleak Lands,Sasen,Lamaa,Lamaa II,Supertensile Plastics,Poor,9.79
+The Bleak Lands,Sasen,Lamaa,Lamaa III,Noble Gas,Medium,16.13
+The Bleak Lands,Sasen,Lamaa,Lamaa III,Smartfab Units,Medium,14.31
+The Bleak Lands,Sasen,Lamaa,Lamaa IV,Base Metals,Poor,3.72
+The Bleak Lands,Sasen,Lamaa,Lamaa IV,Industrial Fibers,Poor,3.38
+The Bleak Lands,Sasen,Lamaa,Lamaa IV,Supertensile Plastics,Medium,12.33
+The Bleak Lands,Sasen,Lamaa,Lamaa V,Lustering Alloy,Medium,19.70
+The Bleak Lands,Sasen,Lamaa,Lamaa V,Industrial Fibers,Medium,4.92
+The Bleak Lands,Sasen,Lamaa,Lamaa V,Plasmoids,Poor,0.68
+The Bleak Lands,Sasen,Lamaa,Lamaa VI,Fiber Composite,Medium,16.12
+The Bleak Lands,Sasen,Lamaa,Lamaa VI,Noble Gas,Poor,14.59
+The Bleak Lands,Sasen,Lamaa,Lamaa VI,Base Metals,Medium,4.73
+The Bleak Lands,Sasen,Lamaa,Lamaa VI,Ionic Solutions,Rich,9.40
+The Bleak Lands,Sasen,Lamaa,Lamaa VII,Lucent Compound,Medium,18.46
+The Bleak Lands,Sasen,Lamaa,Lamaa VII,Construction Blocks,Rich,22.76
+The Bleak Lands,Sasen,Lamaa,Lamaa VII,Suspended Plasma,Poor,54.96
+The Bleak Lands,Sasen,Lamaa,Lamaa VIII,Lustering Alloy,Rich,22.02
+The Bleak Lands,Sasen,Lamaa,Lamaa VIII,Fiber Composite,Perfect,27.47
+The Bleak Lands,Sasen,Lamaa,Lamaa VIII,Reactive Gas,Medium,19.74
+The Bleak Lands,Sasen,Lamaa,Lamaa VIII,Noble Gas,Medium,19.35
+The Bleak Lands,Sasen,Lamaa,Lamaa IX,Fiber Composite,Medium,20.72
+The Bleak Lands,Sasen,Lamaa,Lamaa IX,Glossy Compound,Rich,26.49
+The Bleak Lands,Sasen,Lamaa,Lamaa IX,Noble Gas,Medium,19.04
+The Bleak Lands,Sasen,Lamaa,Lamaa IX,Coolant,Rich,14.98
+The Bleak Lands,Sasen,Tuomuta,Tuomuta I,Lustering Alloy,Poor,12.02
+The Bleak Lands,Sasen,Tuomuta,Tuomuta I,Precious Alloy,Poor,14.16
+The Bleak Lands,Sasen,Tuomuta,Tuomuta I,Industrial Fibers,Poor,3.20
+The Bleak Lands,Sasen,Tuomuta,Tuomuta II,Polyaramids,Medium,12.58
+The Bleak Lands,Sasen,Tuomuta,Tuomuta II,Coolant,Rich,15.71
+The Bleak Lands,Sasen,Tuomuta,Tuomuta II,Liquid Ozone,Poor,18.60
+The Bleak Lands,Sasen,Tuomuta,Tuomuta II,Ionic Solutions,Medium,7.04
+The Bleak Lands,Sasen,Tuomuta,Tuomuta III,Precious Alloy,Medium,19.60
+The Bleak Lands,Sasen,Tuomuta,Tuomuta III,Industrial Fibers,Medium,4.02
+The Bleak Lands,Sasen,Tuomuta,Tuomuta III,Supertensile Plastics,Poor,9.89
+The Bleak Lands,Sasen,Tuomuta,Tuomuta IV,Lucent Compound,Medium,15.68
+The Bleak Lands,Sasen,Tuomuta,Tuomuta IV,Construction Blocks,Perfect,26.10
+The Bleak Lands,Sasen,Tuomuta,Tuomuta IV,Suspended Plasma,Poor,46.71
+The Bleak Lands,Sasen,Tuomuta,Tuomuta V,Supertensile Plastics,Medium,13.13
+The Bleak Lands,Sasen,Tuomuta,Tuomuta V,Construction Blocks,Rich,22.53
+The Bleak Lands,Sasen,Tuomuta,Tuomuta V,Oxygen Isotopes,Poor,1.98
+The Bleak Lands,Sasen,Tuomuta,Tuomuta VI,Sheen Compound,Rich,21.68
+The Bleak Lands,Sasen,Tuomuta,Tuomuta VI,Glossy Compound,Medium,18.26
+The Bleak Lands,Sasen,Tuomuta,Tuomuta VI,Noble Gas,Poor,14.83
+The Bleak Lands,Sasen,Tuomuta,Tuomuta VI,Base Metals,Rich,6.69
+The Bleak Lands,Sasen,Tuomuta,Tuomuta VII,Fiber Composite,Medium,18.30
+The Bleak Lands,Sasen,Tuomuta,Tuomuta VII,Reactive Gas,Medium,15.25
+The Bleak Lands,Sasen,Tuomuta,Tuomuta VII,Condensates,Rich,16.65
+The Bleak Lands,Sasen,Tuomuta,Tuomuta VII,Smartfab Units,Medium,12.36
+The Bleak Lands,Sasen,Tuomuta,Tuomuta VIII,Gleaming Alloy,Poor,14.53
+The Bleak Lands,Sasen,Tuomuta,Tuomuta VIII,Construction Blocks,Medium,16.27
+The Bleak Lands,Sasen,Tuomuta,Tuomuta VIII,Nanites,Medium,5.20
+The Bleak Lands,Sasen,Tuomuta,Tuomuta IX,Fiber Composite,Rich,21.42
+The Bleak Lands,Sasen,Tuomuta,Tuomuta IX,Opulent Compound,Perfect,27.90
+The Bleak Lands,Sasen,Tuomuta,Tuomuta IX,Noble Metals,Medium,16.11
+The Bleak Lands,Sasen,Tuomuta,Tuomuta IX,Condensates,Perfect,19.82
+The Bleak Lands,Sasen,Otelen,Otelen I,Lustering Alloy,Medium,14.88
+The Bleak Lands,Sasen,Otelen,Otelen I,Base Metals,Poor,2.26
+The Bleak Lands,Sasen,Otelen,Otelen II,Lustering Alloy,Poor,10.83
+The Bleak Lands,Sasen,Otelen,Otelen II,Base Metals,Poor,2.32
+The Bleak Lands,Sasen,Otelen,Otelen III,Condensed Alloy,Rich,16.87
+The Bleak Lands,Sasen,Otelen,Otelen III,Reactive Gas,Medium,15.76
+The Bleak Lands,Sasen,Otelen,Otelen III,Heavy Water,Medium,140.27
+The Bleak Lands,Sasen,Otelen,Otelen IV,Crystal Compound,Poor,11.21
+The Bleak Lands,Sasen,Otelen,Otelen IV,Suspended Plasma,Medium,58.22
+The Bleak Lands,Sasen,Otelen,Otelen V,Lustering Alloy,Medium,14.49
+The Bleak Lands,Sasen,Otelen,Otelen V,Base Metals,Medium,3.27
+The Bleak Lands,Sasen,Otelen,Otelen VI,Lustering Alloy,Poor,9.50
+The Bleak Lands,Sasen,Otelen,Otelen VI,Base Metals,Medium,3.36
+The Bleak Lands,Sasen,Otelen,Otelen VII,Lustering Alloy,Rich,19.32
+The Bleak Lands,Sasen,Otelen,Otelen VII,Base Metals,Rich,4.34
+The Bleak Lands,Sasen,Otelen,Otelen VII,Reactive Metals,Poor,2.86
+The Bleak Lands,Sasen,Otelen,Otelen VIII,Noble Metals,Rich,18.39
+The Bleak Lands,Sasen,Otelen,Otelen VIII,Silicate Glass,Medium,8.18
+The Bleak Lands,Sasen,Otelen,Otelen VIII,Heavy Water,Rich,179.27
+The Bleak Lands,Sasen,Otelen,Otelen IX,Lustering Alloy,Medium,16.03
+The Bleak Lands,Sasen,Otelen,Otelen IX,Base Metals,Rich,4.47
+The Bleak Lands,Sasen,Otelen,Otelen IX,Reactive Metals,Medium,3.35
+The Bleak Lands,Sasen,Otelen,Otelen X,Lustering Alloy,Medium,13.27
+The Bleak Lands,Sasen,Otelen,Otelen X,Noble Gas,Medium,16.16
+The Bleak Lands,Sasen,Otelen,Otelen X,Base Metals,Medium,3.50
+The Bleak Lands,Sasen,Otelen,Otelen XI,Lustering Alloy,Medium,13.20
+The Bleak Lands,Sasen,Otelen,Otelen XI,Base Metals,Medium,4.24
+The Bleak Lands,Sasen,Kuomi,Kuomi I,Motley Compound,Medium,15.55
+The Bleak Lands,Sasen,Kuomi,Kuomi I,Polyaramids,Perfect,16.71
+The Bleak Lands,Sasen,Kuomi,Kuomi II,Motley Compound,Rich,22.65
+The Bleak Lands,Sasen,Kuomi,Kuomi II,Heavy Metals,Medium,16.21
+The Bleak Lands,Sasen,Kuomi,Kuomi III,Lustering Alloy,Poor,11.89
+The Bleak Lands,Sasen,Kuomi,Kuomi III,Base Metals,Poor,2.50
+The Bleak Lands,Sasen,Kuomi,Kuomi IV,Construction Blocks,Medium,18.32
+The Bleak Lands,Sasen,Kuomi,Kuomi IV,Suspended Plasma,Rich,76.84
+The Bleak Lands,Sasen,Kuomi,Kuomi V,Lustering Alloy,Rich,23.58
+The Bleak Lands,Sasen,Kuomi,Kuomi V,Sheen Compound,Medium,15.73
+The Bleak Lands,Sasen,Kuomi,Kuomi V,Base Metals,Rich,6.07
+The Bleak Lands,Sasen,Kuomi,Kuomi VI,Lustering Alloy,Medium,15.35
+The Bleak Lands,Sasen,Kuomi,Kuomi VI,Base Metals,Rich,5.64
+The Bleak Lands,Sasen,Kuomi,Kuomi VI,Polyaramids,Rich,14.77
+The Bleak Lands,Sasen,Kuomi,Kuomi VII,Lustering Alloy,Medium,18.23
+The Bleak Lands,Sasen,Kuomi,Kuomi VII,Base Metals,Medium,3.75
+The Bleak Lands,Sasen,Kuomi,Kuomi VII,Reactive Metals,Medium,4.05
+The Bleak Lands,Sasen,Kuomi,Kuomi VIII,Lustering Alloy,Medium,14.65
+The Bleak Lands,Sasen,Kuomi,Kuomi VIII,Glossy Compound,Perfect,24.90
+The Bleak Lands,Sasen,Kuomi,Kuomi VIII,Base Metals,Rich,6.26
+The Bleak Lands,Sasen,Huola,Huola I,Noble Gas,Medium,16.35
+The Bleak Lands,Sasen,Huola,Huola I,Oxygen Isotopes,Poor,2.07
+The Bleak Lands,Sasen,Huola,Huola II,Precious Alloy,Medium,18.12
+The Bleak Lands,Sasen,Huola,Huola II,Industrial Fibers,Poor,3.05
+The Bleak Lands,Sasen,Huola,Huola II,Silicate Glass,Medium,9.38
+The Bleak Lands,Sasen,Huola,Huola III,Dark Compound,Medium,16.95
+The Bleak Lands,Sasen,Huola,Huola III,Industrial Fibers,Medium,5.40
+The Bleak Lands,Sasen,Huola,Huola III,Construction Blocks,Poor,13.63
+The Bleak Lands,Sasen,Huola,Huola IV,Lustering Alloy,Medium,19.07
+The Bleak Lands,Sasen,Huola,Huola IV,Industrial Fibers,Poor,3.55
+The Bleak Lands,Sasen,Huola,Huola IV,Construction Blocks,Poor,14.31
+The Bleak Lands,Sasen,Huola,Huola V,Noble Gas,Medium,20.74
+The Bleak Lands,Sasen,Huola,Huola V,Construction Blocks,Poor,13.67
+The Bleak Lands,Sasen,Huola,Huola VI,Industrial Fibers,Medium,4.76
+The Bleak Lands,Sasen,Huola,Huola VI,Silicate Glass,Medium,9.56
+The Bleak Lands,Sasen,Huola,Huola VI,Oxygen Isotopes,Poor,1.99
+The Bleak Lands,Sasen,Huola,Huola VII,Condensed Alloy,Perfect,30.21
+The Bleak Lands,Sasen,Huola,Huola VII,Fiber Composite,Medium,18.73
+The Bleak Lands,Sasen,Huola,Huola VII,Industrial Fibers,Perfect,7.27
+The Bleak Lands,Sasen,Huola,Huola VII,Smartfab Units,Rich,16.00
+The Bleak Lands,Sasen,Huola,Huola VIII,Noble Gas,Medium,20.21
+The Bleak Lands,Sasen,Huola,Huola VIII,Plasmoids,Rich,1.46
+The Bleak Lands,Sasen,Huola,Huola IX,Fiber Composite,Rich,24.45
+The Bleak Lands,Sasen,Huola,Huola IX,Noble Gas,Perfect,27.93
+The Bleak Lands,Sasen,Huola,Huola IX,Reactive Metals,Medium,5.59
+The Bleak Lands,Sasen,Huola,Huola IX,Coolant,Medium,14.31
+The Bleak Lands,Sasen,Huola,Huola X,Noble Gas,Poor,14.93
+The Bleak Lands,Sasen,Huola,Huola X,Base Metals,Rich,5.90
+The Bleak Lands,Sasen,Huola,Huola X,Polyaramids,Rich,16.57
+The Bleak Lands,Sasen,Huola,Huola X,Ionic Solutions,Medium,6.62
+The Bleak Lands,Sasen,Huola,Huola XI,Condensed Alloy,Rich,22.20
+The Bleak Lands,Sasen,Huola,Huola XI,Toxic Metals,Poor,4.21
+The Bleak Lands,Sasen,Huola,Huola XI,Polyaramids,Medium,13.52
+The Bleak Lands,Sasen,Huola,Huola XI,Coolant,Rich,16.99
+The Bleak Lands,Sasen,Huola,Huola XII,Fiber Composite,Medium,20.16
+The Bleak Lands,Sasen,Huola,Huola XII,Noble Gas,Perfect,27.66
+The Bleak Lands,Sasen,Huola,Huola XII,Reactive Metals,Rich,5.89
+The Bleak Lands,Sasen,Huola,Huola XII,Coolant,Medium,11.82
+The Bleak Lands,Sasen,Huola,Huola XIII,Toxic Metals,Poor,4.17
+The Bleak Lands,Sasen,Huola,Huola XIII,Construction Blocks,Rich,23.43
+The Bleak Lands,Sasen,Huola,Huola XIII,Oxygen Isotopes,Poor,2.18
+The Bleak Lands,Sasen,Kourmonen,Kourmonen I,Dark Compound,Poor,12.09
+The Bleak Lands,Sasen,Kourmonen,Kourmonen I,Base Metals,Poor,3.88
+The Bleak Lands,Sasen,Kourmonen,Kourmonen I,Industrial Fibers,Poor,3.99
+The Bleak Lands,Sasen,Kourmonen,Kourmonen II,Noble Gas,Rich,23.02
+The Bleak Lands,Sasen,Kourmonen,Kourmonen II,Reactive Metals,Medium,5.42
+The Bleak Lands,Sasen,Kourmonen,Kourmonen II,Polyaramids,Rich,15.36
+The Bleak Lands,Sasen,Kourmonen,Kourmonen II,Ionic Solutions,Rich,9.81
+The Bleak Lands,Sasen,Kourmonen,Kourmonen III,Fiber Composite,Medium,19.75
+The Bleak Lands,Sasen,Kourmonen,Kourmonen III,Noble Gas,Medium,18.90
+The Bleak Lands,Sasen,Kourmonen,Kourmonen III,Reactive Metals,Medium,4.37
+The Bleak Lands,Sasen,Kourmonen,Kourmonen III,Coolant,Rich,14.72
+The Bleak Lands,Sasen,Kourmonen,Kourmonen IV,Noble Gas,Rich,26.42
+The Bleak Lands,Sasen,Kourmonen,Kourmonen IV,Base Metals,Rich,6.89
+The Bleak Lands,Sasen,Kourmonen,Kourmonen IV,Coolant,Poor,10.65
+The Bleak Lands,Sasen,Kourmonen,Kourmonen IV,Ionic Solutions,Medium,8.25
+The Bleak Lands,Sasen,Kourmonen,Kourmonen V,Coolant,Rich,16.58
+The Bleak Lands,Sasen,Kourmonen,Kourmonen V,Condensates,Poor,9.04
+The Bleak Lands,Sasen,Kourmonen,Kourmonen V,Suspended Plasma,Medium,60.10
+The Bleak Lands,Sasen,Kamela,Kamela I,Precious Alloy,Medium,15.57
+The Bleak Lands,Sasen,Kamela,Kamela I,Industrial Fibers,Poor,3.84
+The Bleak Lands,Sasen,Kamela,Kamela I,Supertensile Plastics,Medium,11.27
+The Bleak Lands,Sasen,Kamela,Kamela II,Industrial Fibers,Poor,2.74
+The Bleak Lands,Sasen,Kamela,Kamela II,Silicate Glass,Medium,8.64
+The Bleak Lands,Sasen,Kamela,Kamela II,Plasmoids,Poor,0.62
+The Bleak Lands,Sasen,Kamela,Kamela III,Fiber Composite,Medium,15.41
+The Bleak Lands,Sasen,Kamela,Kamela III,Reactive Gas,Perfect,29.90
+The Bleak Lands,Sasen,Kamela,Kamela III,Smartfab Units,Rich,14.21
+The Bleak Lands,Sasen,Kamela,Kamela III,Heavy Water,Medium,179.20
+The Bleak Lands,Sasen,Kamela,Kamela IV,Precious Alloy,Medium,16.94
+The Bleak Lands,Sasen,Kamela,Kamela IV,Dark Compound,Medium,18.59
+The Bleak Lands,Sasen,Kamela,Kamela IV,Industrial Fibers,Poor,3.30
+The Bleak Lands,Sasen,Kamela,Kamela V,Gleaming Alloy,Poor,14.74
+The Bleak Lands,Sasen,Kamela,Kamela V,Reactive Gas,Medium,15.73
+The Bleak Lands,Sasen,Kamela,Kamela V,Construction Blocks,Medium,15.25
+The Bleak Lands,Sasen,Kamela,Kamela VI,Reactive Gas,Rich,20.69
+The Bleak Lands,Sasen,Kamela,Kamela VI,Construction Blocks,Rich,24.51
+The Bleak Lands,Sasen,Kamela,Kamela VI,Oxygen Isotopes,Poor,1.96
+The Bleak Lands,Sasen,Kamela,Kamela VII,Reactive Gas,Poor,14.85
+The Bleak Lands,Sasen,Kamela,Kamela VII,Supertensile Plastics,Rich,14.12
+The Bleak Lands,Sasen,Kamela,Kamela VII,Construction Blocks,Medium,19.04
+The Bleak Lands,Sasen,Kamela,Kamela VIII,Fiber Composite,Poor,14.99
+The Bleak Lands,Sasen,Kamela,Kamela VIII,Base Metals,Medium,4.31
+The Bleak Lands,Sasen,Kamela,Kamela VIII,Condensates,Medium,10.13
+The Bleak Lands,Sasen,Kamela,Kamela VIII,Smartfab Units,Perfect,19.49
+The Bleak Lands,Sasen,Kamela,Kamela IX,Noble Gas,Medium,19.90
+The Bleak Lands,Sasen,Kamela,Kamela IX,Construction Blocks,Poor,13.78
+The Bleak Lands,Vaarma,Sosala,Sosala I,Noble Gas,Poor,13.01
+The Bleak Lands,Vaarma,Sosala,Sosala I,Smartfab Units,Rich,14.11
+The Bleak Lands,Vaarma,Sosala,Sosala II,Industrial Fibers,Poor,3.28
+The Bleak Lands,Vaarma,Sosala,Sosala II,Silicate Glass,Poor,7.38
+The Bleak Lands,Vaarma,Sosala,Sosala II,Oxygen Isotopes,Medium,2.73
+The Bleak Lands,Vaarma,Sosala,Sosala III,Opulent Compound,Medium,18.94
+The Bleak Lands,Vaarma,Sosala,Sosala III,Coolant,Perfect,16.98
+The Bleak Lands,Vaarma,Sosala,Sosala III,Liquid Ozone,Poor,18.34
+The Bleak Lands,Vaarma,Sosala,Sosala III,Ionic Solutions,Perfect,10.64
+The Bleak Lands,Vaarma,Sosala,Sosala IV,Lustering Alloy,Poor,13.09
+The Bleak Lands,Vaarma,Sosala,Sosala IV,Toxic Metals,Poor,3.73
+The Bleak Lands,Vaarma,Sosala,Sosala IV,Industrial Fibers,Medium,4.06
+The Bleak Lands,Vaarma,Sosala,Sosala V,Fiber Composite,Medium,15.68
+The Bleak Lands,Vaarma,Sosala,Sosala V,Opulent Compound,Perfect,28.66
+The Bleak Lands,Vaarma,Sosala,Sosala V,Smartfab Units,Perfect,19.72
+The Bleak Lands,Vaarma,Sosala,Sosala V,Liquid Ozone,Perfect,33.46
+The Bleak Lands,Vaarma,Sosala,Sosala VI,Glossy Compound,Medium,19.26
+The Bleak Lands,Vaarma,Sosala,Sosala VI,Noble Gas,Poor,14.45
+The Bleak Lands,Vaarma,Sosala,Sosala VI,Reactive Metals,Medium,4.80
+The Bleak Lands,Vaarma,Sosala,Sosala VI,Coolant,Medium,10.86
+The Bleak Lands,Vaarma,Anka,Anka I,Lustering Alloy,Poor,12.58
+The Bleak Lands,Vaarma,Anka,Anka I,Dark Compound,Poor,13.87
+The Bleak Lands,Vaarma,Anka,Anka I,Industrial Fibers,Poor,3.61
+The Bleak Lands,Vaarma,Anka,Anka II,Precious Alloy,Medium,19.07
+The Bleak Lands,Vaarma,Anka,Anka II,Industrial Fibers,Poor,3.14
+The Bleak Lands,Vaarma,Anka,Anka II,Supertensile Plastics,Medium,10.18
+The Bleak Lands,Vaarma,Anka,Anka III,Fiber Composite,Rich,25.17
+The Bleak Lands,Vaarma,Anka,Anka III,Opulent Compound,Perfect,30.34
+The Bleak Lands,Vaarma,Anka,Anka III,Reactive Gas,Medium,17.95
+The Bleak Lands,Vaarma,Anka,Anka III,Base Metals,Perfect,7.09
+The Bleak Lands,Vaarma,Anka,Anka IV,Fiber Composite,Rich,22.38
+The Bleak Lands,Vaarma,Anka,Anka IV,Glossy Compound,Rich,21.36
+The Bleak Lands,Vaarma,Anka,Anka IV,Reactive Gas,Rich,22.48
+The Bleak Lands,Vaarma,Anka,Anka IV,Noble Gas,Rich,20.83
+The Bleak Lands,Vaarma,Anka,Anka V,Glossy Compound,Medium,17.66
+The Bleak Lands,Vaarma,Anka,Anka V,Noble Gas,Rich,21.58
+The Bleak Lands,Vaarma,Anka,Anka V,Reactive Metals,Rich,5.95
+The Bleak Lands,Vaarma,Anka,Anka V,Ionic Solutions,Medium,7.81
+The Bleak Lands,Vaarma,Anka,Anka VI,Noble Gas,Rich,21.41
+The Bleak Lands,Vaarma,Anka,Anka VI,Base Metals,Poor,3.75
+The Bleak Lands,Vaarma,Anka,Anka VI,Polyaramids,Rich,15.14
+The Bleak Lands,Vaarma,Anka,Anka VI,Coolant,Rich,16.21
+The Bleak Lands,Vaarma,Anka,Anka VII,Sheen Compound,Medium,17.52
+The Bleak Lands,Vaarma,Anka,Anka VII,Fiber Composite,Medium,17.57
+The Bleak Lands,Vaarma,Anka,Anka VII,Noble Gas,Rich,21.66
+The Bleak Lands,Vaarma,Anka,Anka VII,Ionic Solutions,Rich,9.47
+The Bleak Lands,Vaarma,Anka,Anka VIII,Sheen Compound,Rich,21.23
+The Bleak Lands,Vaarma,Anka,Anka VIII,Glossy Compound,Medium,19.50
+The Bleak Lands,Vaarma,Anka,Anka VIII,Reactive Gas,Perfect,25.84
+The Bleak Lands,Vaarma,Anka,Anka VIII,Noble Gas,Perfect,25.70
+The Bleak Lands,Vaarma,Anka,Anka IX,Lustering Alloy,Poor,13.06
+The Bleak Lands,Vaarma,Anka,Anka IX,Base Metals,Medium,4.32
+The Bleak Lands,Vaarma,Anka,Anka IX,Coolant,Medium,11.89
+The Bleak Lands,Vaarma,Anka,Anka X,Supertensile Plastics,Medium,12.37
+The Bleak Lands,Vaarma,Anka,Anka X,Coolant,Rich,15.71
+The Bleak Lands,Vaarma,Anka,Anka X,Suspended Plasma,Rich,77.59
+The Bleak Lands,Vaarma,Iesa,Iesa I,Toxic Metals,Poor,3.59
+The Bleak Lands,Vaarma,Iesa,Iesa I,Industrial Fibers,Medium,4.72
+The Bleak Lands,Vaarma,Iesa,Iesa I,Construction Blocks,Medium,18.99
+The Bleak Lands,Vaarma,Iesa,Iesa II,Lustering Alloy,Medium,18.58
+The Bleak Lands,Vaarma,Iesa,Iesa II,Industrial Fibers,Poor,3.20
+The Bleak Lands,Vaarma,Iesa,Iesa II,Oxygen Isotopes,Poor,1.89
+The Bleak Lands,Vaarma,Iesa,Iesa III,Fiber Composite,Perfect,28.27
+The Bleak Lands,Vaarma,Iesa,Iesa III,Reactive Gas,Medium,15.38
+The Bleak Lands,Vaarma,Iesa,Iesa III,Noble Metals,Medium,15.15
+The Bleak Lands,Vaarma,Iesa,Iesa III,Condensates,Medium,12.32
+The Bleak Lands,Vaarma,Iesa,Iesa IV,Glossy Compound,Rich,20.88
+The Bleak Lands,Vaarma,Iesa,Iesa IV,Noble Gas,Rich,22.46
+The Bleak Lands,Vaarma,Iesa,Iesa IV,Polyaramids,Medium,10.94
+The Bleak Lands,Vaarma,Iesa,Iesa IV,Coolant,Poor,9.43
+The Bleak Lands,Vaarma,Iesa,Iesa V,Sheen Compound,Poor,13.54
+The Bleak Lands,Vaarma,Iesa,Iesa V,Reactive Gas,Rich,24.82
+The Bleak Lands,Vaarma,Iesa,Iesa V,Noble Gas,Medium,16.22
+The Bleak Lands,Vaarma,Iesa,Iesa V,Base Metals,Medium,5.15
+The Bleak Lands,Vaarma,Iesa,Iesa VI,Base Metals,Medium,5.03
+The Bleak Lands,Vaarma,Iesa,Iesa VI,Industrial Fibers,Poor,3.17
+The Bleak Lands,Vaarma,Iesa,Iesa VI,Coolant,Poor,9.35
+The Bleak Lands,Vaarma,Iesa,Iesa VII,Base Metals,Medium,4.97
+The Bleak Lands,Vaarma,Iesa,Iesa VII,Supertensile Plastics,Poor,8.52
+The Bleak Lands,Vaarma,Iesa,Iesa VII,Coolant,Poor,8.80
+The Bleak Lands,Vaarma,Netsalakka,Netsalakka I,Lustering Alloy,Medium,15.30
+The Bleak Lands,Vaarma,Netsalakka,Netsalakka I,Toxic Metals,Poor,3.72
+The Bleak Lands,Vaarma,Netsalakka,Netsalakka I,Industrial Fibers,Poor,2.78
+The Bleak Lands,Vaarma,Netsalakka,Netsalakka II,Industrial Fibers,Poor,3.49
+The Bleak Lands,Vaarma,Netsalakka,Netsalakka II,Silicate Glass,Poor,7.54
+The Bleak Lands,Vaarma,Netsalakka,Netsalakka II,Plasmoids,Poor,0.72
+The Bleak Lands,Vaarma,Netsalakka,Netsalakka III,Industrial Fibers,Medium,4.68
+The Bleak Lands,Vaarma,Netsalakka,Netsalakka III,Supertensile Plastics,Poor,6.99
+The Bleak Lands,Vaarma,Netsalakka,Netsalakka III,Construction Blocks,Poor,13.65
+The Bleak Lands,Vaarma,Netsalakka,Netsalakka IV,Noble Gas,Rich,22.86
+The Bleak Lands,Vaarma,Netsalakka,Netsalakka IV,Plasmoids,Rich,1.39
+The Bleak Lands,Vaarma,Netsalakka,Netsalakka V,Condensed Alloy,Medium,16.53
+The Bleak Lands,Vaarma,Netsalakka,Netsalakka V,Fiber Composite,Perfect,28.75
+The Bleak Lands,Vaarma,Netsalakka,Netsalakka V,Opulent Compound,Perfect,26.80
+The Bleak Lands,Vaarma,Netsalakka,Netsalakka V,Condensates,Perfect,19.21
+The Bleak Lands,Vaarma,Netsalakka,Netsalakka VI,Supertensile Plastics,Poor,9.37
+The Bleak Lands,Vaarma,Netsalakka,Netsalakka VI,Construction Blocks,Rich,20.26
+The Bleak Lands,Vaarma,Netsalakka,Netsalakka VI,Nanites,Poor,3.52
+The Bleak Lands,Vaarma,Netsalakka,Netsalakka VII,Lustering Alloy,Medium,15.58
+The Bleak Lands,Vaarma,Netsalakka,Netsalakka VII,Reactive Gas,Medium,18.46
+The Bleak Lands,Vaarma,Netsalakka,Netsalakka VII,Noble Gas,Medium,16.48
+The Bleak Lands,Vaarma,Netsalakka,Netsalakka VII,Coolant,Poor,10.01
+The Bleak Lands,Vaarma,Netsalakka,Netsalakka VIII,Supertensile Plastics,Medium,10.35
+The Bleak Lands,Vaarma,Netsalakka,Netsalakka VIII,Construction Blocks,Medium,19.07
+The Bleak Lands,Vaarma,Netsalakka,Netsalakka VIII,Oxygen Isotopes,Medium,2.89
+The Bleak Lands,Vaarma,Netsalakka,Netsalakka IX,Fiber Composite,Medium,18.62
+The Bleak Lands,Vaarma,Netsalakka,Netsalakka IX,Reactive Gas,Rich,22.18
+The Bleak Lands,Vaarma,Netsalakka,Netsalakka IX,Noble Gas,Medium,17.30
+The Bleak Lands,Vaarma,Netsalakka,Netsalakka IX,Base Metals,Rich,5.76
+The Bleak Lands,Vaarma,Netsalakka,Netsalakka X,Industrial Fibers,Poor,2.94
+The Bleak Lands,Vaarma,Netsalakka,Netsalakka X,Supertensile Plastics,Poor,9.40
+The Bleak Lands,Vaarma,Netsalakka,Netsalakka X,Silicate Glass,Medium,9.54
+The Bleak Lands,Vaarma,Netsalakka,Netsalakka XI,Lucent Compound,Rich,23.02
+The Bleak Lands,Vaarma,Netsalakka,Netsalakka XI,Construction Blocks,Medium,17.22
+The Bleak Lands,Vaarma,Netsalakka,Netsalakka XI,Oxygen Isotopes,Poor,2.14
+The Bleak Lands,Vaarma,Netsalakka,Netsalakka XII,Toxic Metals,Poor,3.35
+The Bleak Lands,Vaarma,Netsalakka,Netsalakka XII,Industrial Fibers,Poor,2.84
+The Bleak Lands,Vaarma,Netsalakka,Netsalakka XII,Silicate Glass,Medium,7.76
+The Bleak Lands,Vaarma,Sasiekko,Sasiekko I,Lustering Alloy,Poor,10.38
+The Bleak Lands,Vaarma,Sasiekko,Sasiekko I,Base Metals,Poor,3.04
+The Bleak Lands,Vaarma,Sasiekko,Sasiekko II,Condensed Alloy,Perfect,23.97
+The Bleak Lands,Vaarma,Sasiekko,Sasiekko II,Smartfab Units,Perfect,18.59
+The Bleak Lands,Vaarma,Sasiekko,Sasiekko II,Heavy Water,Perfect,260.40
+The Bleak Lands,Vaarma,Sasiekko,Sasiekko III,Lustering Alloy,Poor,12.59
+The Bleak Lands,Vaarma,Sasiekko,Sasiekko III,Base Metals,Medium,4.59
+The Bleak Lands,Vaarma,Sasiekko,Sasiekko IV,Reactive Gas,Rich,20.77
+The Bleak Lands,Vaarma,Sasiekko,Sasiekko IV,Suspended Plasma,Perfect,86.51
+The Bleak Lands,Vaarma,Sasiekko,Sasiekko V,Base Metals,Rich,6.20
+The Bleak Lands,Vaarma,Sasiekko,Sasiekko V,Industrial Fibers,Medium,4.20
+The Bleak Lands,Vaarma,Sasiekko,Sasiekko V,Heavy Water,Medium,170.85
+The Bleak Lands,Vaarma,Myyhera,Myyhera I,Motley Compound,Rich,23.31
+The Bleak Lands,Vaarma,Myyhera,Myyhera I,Noble Gas,Medium,16.29
+The Bleak Lands,Vaarma,Myyhera,Myyhera II,Industrial Fibers,Poor,3.43
+The Bleak Lands,Vaarma,Myyhera,Myyhera II,Supertensile Plastics,Medium,12.07
+The Bleak Lands,Vaarma,Myyhera,Myyhera II,Oxygen Isotopes,Medium,2.72
+The Bleak Lands,Vaarma,Myyhera,Myyhera III,Lucent Compound,Medium,18.86
+The Bleak Lands,Vaarma,Myyhera,Myyhera III,Reactive Metals,Medium,4.40
+The Bleak Lands,Vaarma,Myyhera,Myyhera III,Construction Blocks,Perfect,25.47
+The Bleak Lands,Vaarma,Myyhera,Myyhera IV,Fiber Composite,Rich,20.42
+The Bleak Lands,Vaarma,Myyhera,Myyhera IV,Opulent Compound,Medium,18.91
+The Bleak Lands,Vaarma,Myyhera,Myyhera IV,Reactive Gas,Medium,16.67
+The Bleak Lands,Vaarma,Myyhera,Myyhera IV,Heavy Water,Rich,250.72
+The Bleak Lands,Vaarma,Myyhera,Myyhera V,Fiber Composite,Rich,25.41
+The Bleak Lands,Vaarma,Myyhera,Myyhera V,Reactive Gas,Medium,19.98
+The Bleak Lands,Vaarma,Myyhera,Myyhera V,Noble Gas,Rich,22.13
+The Bleak Lands,Vaarma,Myyhera,Myyhera V,Ionic Solutions,Rich,8.36
+The Bleak Lands,Vaarma,Myyhera,Myyhera VI,Reactive Gas,Rich,21.34
+The Bleak Lands,Vaarma,Myyhera,Myyhera VI,Construction Blocks,Rich,24.72
+The Bleak Lands,Vaarma,Myyhera,Myyhera VI,Suspended Plasma,Rich,77.64
+The Bleak Lands,Vaarma,Myyhera,Myyhera VII,Sheen Compound,Rich,22.66
+The Bleak Lands,Vaarma,Myyhera,Myyhera VII,Reactive Gas,Medium,18.64
+The Bleak Lands,Vaarma,Myyhera,Myyhera VII,Noble Gas,Rich,22.56
+The Bleak Lands,Vaarma,Myyhera,Myyhera VII,Base Metals,Medium,4.88
+The Bleak Lands,Vaarma,Myyhera,Myyhera VIII,Fiber Composite,Perfect,26.11
+The Bleak Lands,Vaarma,Myyhera,Myyhera VIII,Noble Gas,Medium,15.50
+The Bleak Lands,Vaarma,Myyhera,Myyhera VIII,Base Metals,Poor,3.55
+The Bleak Lands,Vaarma,Myyhera,Myyhera VIII,Polyaramids,Rich,14.75
+The Bleak Lands,Vaarma,Myyhera,Myyhera IX,Fiber Composite,Rich,21.65
+The Bleak Lands,Vaarma,Myyhera,Myyhera IX,Noble Gas,Medium,19.98
+The Bleak Lands,Vaarma,Myyhera,Myyhera IX,Base Metals,Rich,6.12
+The Bleak Lands,Vaarma,Myyhera,Myyhera IX,Reactive Metals,Medium,4.77
+The Bleak Lands,Vaarma,Gammel,Gammel I,Lustering Alloy,Poor,13.41
+The Bleak Lands,Vaarma,Gammel,Gammel I,Industrial Fibers,Poor,3.12
+The Bleak Lands,Vaarma,Gammel,Gammel I,Supertensile Plastics,Poor,8.17
+The Bleak Lands,Vaarma,Gammel,Gammel II,Noble Gas,Perfect,26.06
+The Bleak Lands,Vaarma,Gammel,Gammel II,Reactive Metals,Medium,4.66
+The Bleak Lands,Vaarma,Gammel,Gammel II,Nanites,Rich,6.37
+The Bleak Lands,Vaarma,Gammel,Gammel II,Ionic Solutions,Medium,6.20
+The Bleak Lands,Vaarma,Gammel,Gammel III,Base Metals,Poor,3.78
+The Bleak Lands,Vaarma,Gammel,Gammel III,Industrial Fibers,Medium,4.57
+The Bleak Lands,Vaarma,Gammel,Gammel III,Silicate Glass,Medium,8.69
+The Bleak Lands,Vaarma,Gammel,Gammel IV,Precious Alloy,Poor,10.54
+The Bleak Lands,Vaarma,Gammel,Gammel IV,Industrial Fibers,Poor,3.84
+The Bleak Lands,Vaarma,Gammel,Gammel IV,Plasmoids,Poor,0.66
+The Bleak Lands,Vaarma,Gammel,Gammel V,Polyaramids,Medium,11.80
+The Bleak Lands,Vaarma,Gammel,Gammel V,Coolant,Medium,12.53
+The Bleak Lands,Vaarma,Gammel,Gammel V,Heavy Water,Rich,210.24
+The Bleak Lands,Vaarma,Gammel,Gammel V,Ionic Solutions,Rich,9.70
+The Bleak Lands,Vaarma,Gammel,Gammel VI,Reactive Gas,Poor,14.58
+The Bleak Lands,Vaarma,Gammel,Gammel VI,Noble Gas,Medium,19.36
+The Bleak Lands,Vaarma,Gammel,Gammel VI,Polyaramids,Poor,8.83
+The Bleak Lands,Vaarma,Gammel,Gammel VI,Coolant,Poor,9.65
+The Bleak Lands,Vaarma,Gammel,Gammel VII,Sheen Compound,Medium,17.87
+The Bleak Lands,Vaarma,Gammel,Gammel VII,Fiber Composite,Rich,21.09
+The Bleak Lands,Vaarma,Gammel,Gammel VII,Glossy Compound,Medium,17.39
+The Bleak Lands,Vaarma,Gammel,Gammel VII,Noble Gas,Rich,23.71
+The Bleak Lands,Vaarma,Gammel,Gammel VIII,Noble Gas,Rich,21.26
+The Bleak Lands,Vaarma,Gammel,Gammel VIII,Base Metals,Medium,4.52
+The Bleak Lands,Vaarma,Gammel,Gammel VIII,Polyaramids,Medium,10.13
+The Bleak Lands,Vaarma,Gammel,Gammel VIII,Coolant,Medium,11.80
+The Bleak Lands,Vaarma,Gammel,Gammel IX,Lustering Alloy,Poor,14.77
+The Bleak Lands,Vaarma,Gammel,Gammel IX,Fiber Composite,Medium,15.86
+The Bleak Lands,Vaarma,Gammel,Gammel IX,Noble Gas,Medium,17.30
+The Bleak Lands,Vaarma,Gammel,Gammel IX,Coolant,Poor,9.40
+The Bleak Lands,Vaarma,Gammel,Gammel X,Toxic Metals,Medium,4.98
+The Bleak Lands,Vaarma,Gammel,Gammel X,Industrial Fibers,Poor,3.93
+The Bleak Lands,Vaarma,Gammel,Gammel X,Silicate Glass,Medium,8.90
+The Bleak Lands,Vaarma,Gammel,Gammel XI,Noble Gas,Poor,13.33
+The Bleak Lands,Vaarma,Gammel,Gammel XI,Heavy Metals,Medium,17.79
+The Bleak Lands,Vaarma,Uusanen,Uusanen I,Crystal Compound,Rich,20.83
+The Bleak Lands,Vaarma,Uusanen,Uusanen I,Toxic Metals,Rich,5.94
+The Bleak Lands,Vaarma,Uusanen,Uusanen I,Construction Blocks,Rich,20.53
+The Bleak Lands,Vaarma,Uusanen,Uusanen II,Fiber Composite,Perfect,29.50
+The Bleak Lands,Vaarma,Uusanen,Uusanen II,Noble Metals,Rich,24.08
+The Bleak Lands,Vaarma,Uusanen,Uusanen II,Industrial Fibers,Perfect,7.80
+The Bleak Lands,Vaarma,Uusanen,Uusanen II,Condensates,Medium,11.18
+The Bleak Lands,Vaarma,Uusanen,Uusanen III,Reactive Gas,Rich,22.26
+The Bleak Lands,Vaarma,Uusanen,Uusanen III,Supertensile Plastics,Rich,16.93
+The Bleak Lands,Vaarma,Uusanen,Uusanen III,Construction Blocks,Medium,16.75
+The Bleak Lands,Vaarma,Uusanen,Uusanen IV,Fiber Composite,Medium,17.04
+The Bleak Lands,Vaarma,Uusanen,Uusanen IV,Opulent Compound,Perfect,28.59
+The Bleak Lands,Vaarma,Uusanen,Uusanen IV,Reactive Gas,Medium,19.10
+The Bleak Lands,Vaarma,Uusanen,Uusanen IV,Heavy Water,Medium,159.52
+The Bleak Lands,Vaarma,Uusanen,Uusanen V,Toxic Metals,Poor,3.75
+The Bleak Lands,Vaarma,Uusanen,Uusanen V,Construction Blocks,Rich,21.18
+The Bleak Lands,Vaarma,Uusanen,Uusanen V,Nanites,Perfect,6.89
+The Bleak Lands,Vaarma,Uusanen,Uusanen VI,Dark Compound,Medium,15.65
+The Bleak Lands,Vaarma,Uusanen,Uusanen VI,Base Metals,Poor,3.92
+The Bleak Lands,Vaarma,Uusanen,Uusanen VI,Industrial Fibers,Poor,2.68
+The Bleak Lands,Vaarma,Erkinen,Erkinen I,Lustering Alloy,Poor,11.37
+The Bleak Lands,Vaarma,Erkinen,Erkinen I,Base Metals,Poor,2.87
+The Bleak Lands,Vaarma,Erkinen,Erkinen II,Lustering Alloy,Poor,14.07
+The Bleak Lands,Vaarma,Erkinen,Erkinen II,Base Metals,Medium,4.53
+The Bleak Lands,Vaarma,Erkinen,Erkinen III,Motley Compound,Medium,15.06
+The Bleak Lands,Vaarma,Erkinen,Erkinen III,Oxygen Isotopes,Rich,3.46
+The Bleak Lands,Vaarma,Erkinen,Erkinen IV,Opulent Compound,Rich,20.22
+The Bleak Lands,Vaarma,Erkinen,Erkinen IV,Base Metals,Rich,5.00
+The Bleak Lands,Vaarma,Erkinen,Erkinen IV,Heavy Water,Rich,203.25
+The Bleak Lands,Vaarma,Erkinen,Erkinen V,Fiber Composite,Rich,19.09
+The Bleak Lands,Vaarma,Erkinen,Erkinen V,Heavy Water,Medium,181.95
+The Bleak Lands,Vaarma,Erkinen,Erkinen V,Liquid Ozone,Rich,27.66
+The Bleak Lands,Vaarma,Erkinen,Erkinen VI,Condensates,Perfect,15.99
+The Bleak Lands,Vaarma,Erkinen,Erkinen VI,Smartfab Units,Perfect,18.67
+The Bleak Lands,Vaarma,Erkinen,Erkinen VI,Heavy Water,Medium,167.25
+The Bleak Lands,Vaarma,Erkinen,Erkinen VII,Fiber Composite,Rich,23.11
+The Bleak Lands,Vaarma,Erkinen,Erkinen VII,Condensates,Rich,14.29
+The Bleak Lands,Vaarma,Erkinen,Erkinen VII,Heavy Water,Rich,198.75
+The Bleak Lands,Vaarma,Erkinen,Erkinen VIII,Base Metals,Perfect,6.44
+The Bleak Lands,Vaarma,Erkinen,Erkinen VIII,Condensates,Perfect,16.22
+The Bleak Lands,Vaarma,Erkinen,Erkinen VIII,Heavy Water,Rich,216.15
+The Bleak Lands,Vaarma,Erkinen,Erkinen IX,Lustering Alloy,Medium,16.35
+The Bleak Lands,Vaarma,Erkinen,Erkinen IX,Base Metals,Medium,4.40
+The Bleak Lands,Vaarma,Erkinen,Erkinen X,Lustering Alloy,Medium,15.40
+The Bleak Lands,Vaarma,Erkinen,Erkinen X,Base Metals,Poor,3.68
+The Bleak Lands,Vaarma,Erkinen,Erkinen XI,Crystal Compound,Perfect,24.89
+The Bleak Lands,Vaarma,Erkinen,Erkinen XI,Coolant,Poor,9.02
+The Bleak Lands,Vaarma,Erkinen,Erkinen XI,Heavy Water,Perfect,261.00
+The Bleak Lands,Vaarma,Erkinen,Erkinen XII,Lustering Alloy,Rich,20.37
+The Bleak Lands,Vaarma,Erkinen,Erkinen XII,Base Metals,Medium,4.58
+The Bleak Lands,Vaarma,Erkinen,Erkinen XII,Reactive Metals,Rich,6.00
+The Bleak Lands,Vaarma,Erkinen,Erkinen XIII,Lustering Alloy,Medium,18.87
+The Bleak Lands,Vaarma,Erkinen,Erkinen XIII,Reactive Gas,Poor,13.46
+The Bleak Lands,Vaarma,Erkinen,Erkinen XIII,Base Metals,Poor,3.68
+The Bleak Lands,Vaarma,Erkinen,Erkinen XIV,Crystal Compound,Rich,21.51
+The Bleak Lands,Vaarma,Erkinen,Erkinen XIV,Heavy Water,Rich,212.55
+The Bleak Lands,Vaarma,Erkinen,Erkinen XIV,Ionic Solutions,Medium,7.16
+The Bleak Lands,Vaarma,Saikamon,Saikamon I,Precious Alloy,Poor,11.62
+The Bleak Lands,Vaarma,Saikamon,Saikamon I,Dark Compound,Medium,19.38
+The Bleak Lands,Vaarma,Saikamon,Saikamon I,Industrial Fibers,Poor,3.93
+The Bleak Lands,Vaarma,Saikamon,Saikamon II,Dark Compound,Medium,15.33
+The Bleak Lands,Vaarma,Saikamon,Saikamon II,Toxic Metals,Poor,3.84
+The Bleak Lands,Vaarma,Saikamon,Saikamon II,Industrial Fibers,Medium,4.71
+The Bleak Lands,Vaarma,Saikamon,Saikamon III,Industrial Fibers,Poor,3.77
+The Bleak Lands,Vaarma,Saikamon,Saikamon III,Silicate Glass,Poor,7.01
+The Bleak Lands,Vaarma,Saikamon,Saikamon III,Plasmoids,Poor,0.86
+The Bleak Lands,Vaarma,Saikamon,Saikamon IV,Sheen Compound,Medium,19.97
+The Bleak Lands,Vaarma,Saikamon,Saikamon IV,Noble Gas,Rich,23.25
+The Bleak Lands,Vaarma,Saikamon,Saikamon IV,Base Metals,Medium,4.03
+The Bleak Lands,Vaarma,Saikamon,Saikamon IV,Reactive Metals,Perfect,6.93
+The Bleak Lands,Vaarma,Saikamon,Saikamon V,Sheen Compound,Rich,22.77
+The Bleak Lands,Vaarma,Saikamon,Saikamon V,Fiber Composite,Medium,15.55
+The Bleak Lands,Vaarma,Saikamon,Saikamon V,Noble Gas,Medium,18.85
+The Bleak Lands,Vaarma,Saikamon,Saikamon V,Base Metals,Rich,6.24
+The Bleak Lands,Vaarma,Saikamon,Saikamon VI,Supertensile Plastics,Poor,9.23
+The Bleak Lands,Vaarma,Saikamon,Saikamon VI,Coolant,Medium,12.90
+The Bleak Lands,Vaarma,Saikamon,Saikamon VI,Condensates,Rich,13.76
+The Bleak Lands,Ichida,Jarkkolen,Jarkkolen I,Lustering Alloy,Poor,8.76
+The Bleak Lands,Ichida,Jarkkolen,Jarkkolen I,Base Metals,Poor,2.21
+The Bleak Lands,Ichida,Jarkkolen,Jarkkolen II,Motley Compound,Rich,18.52
+The Bleak Lands,Ichida,Jarkkolen,Jarkkolen II,Glossy Compound,Rich,16.60
+The Bleak Lands,Ichida,Jarkkolen,Jarkkolen III,Lustering Alloy,Rich,16.49
+The Bleak Lands,Ichida,Jarkkolen,Jarkkolen III,Noble Gas,Rich,17.28
+The Bleak Lands,Ichida,Jarkkolen,Jarkkolen III,Base Metals,Perfect,5.15
+The Bleak Lands,Ichida,Jarkkolen,Jarkkolen IV,Lustering Alloy,Medium,12.62
+The Bleak Lands,Ichida,Jarkkolen,Jarkkolen IV,Reactive Gas,Poor,10.92
+The Bleak Lands,Ichida,Jarkkolen,Jarkkolen IV,Base Metals,Rich,4.27
+The Bleak Lands,Ichida,Jarkkolen,Jarkkolen V,Reactive Gas,Medium,14.48
+The Bleak Lands,Ichida,Jarkkolen,Jarkkolen V,Industrial Fibers,Medium,3.68
+The Bleak Lands,Ichida,Jarkkolen,Jarkkolen V,Heavy Water,Perfect,203.28
+The Bleak Lands,Ichida,Jarkkolen,Jarkkolen VI,Lustering Alloy,Poor,10.85
+The Bleak Lands,Ichida,Jarkkolen,Jarkkolen VI,Glossy Compound,Rich,18.94
+The Bleak Lands,Ichida,Jarkkolen,Jarkkolen VI,Base Metals,Perfect,5.24
+The Bleak Lands,Ichida,Jarkkolen,Jarkkolen VII,Industrial Fibers,Rich,4.59
+The Bleak Lands,Ichida,Jarkkolen,Jarkkolen VII,Smartfab Units,Rich,11.10
+The Bleak Lands,Ichida,Jarkkolen,Jarkkolen VII,Heavy Water,Medium,121.32
+The Bleak Lands,Ichida,Jarkkolen,Jarkkolen VIII,Lustering Alloy,Poor,8.83
+The Bleak Lands,Ichida,Jarkkolen,Jarkkolen VIII,Base Metals,Medium,2.98
+The Bleak Lands,Ichida,Jarkkolen,Jarkkolen IX,Lustering Alloy,Medium,13.88
+The Bleak Lands,Ichida,Jarkkolen,Jarkkolen IX,Base Metals,Medium,3.84
+The Bleak Lands,Ichida,Ronne,Ronne I,Condensed Alloy,Perfect,20.68
+The Bleak Lands,Ichida,Ronne,Ronne I,Condensates,Poor,7.96
+The Bleak Lands,Ichida,Ronne,Ronne I,Heavy Water,Perfect,215.15
+The Bleak Lands,Ichida,Ronne,Ronne II,Opulent Compound,Perfect,24.49
+The Bleak Lands,Ichida,Ronne,Ronne II,Industrial Fibers,Rich,4.72
+The Bleak Lands,Ichida,Ronne,Ronne II,Heavy Water,Medium,132.86
+The Bleak Lands,Ichida,Ronne,Ronne III,Lustering Alloy,Rich,20.14
+The Bleak Lands,Ichida,Ronne,Ronne III,Base Metals,Poor,2.82
+The Bleak Lands,Ichida,Ronne,Ronne III,Polyaramids,Rich,12.95
+The Bleak Lands,Ichida,Ronne,Ronne IV,Lustering Alloy,Poor,10.80
+The Bleak Lands,Ichida,Ronne,Ronne IV,Base Metals,Medium,3.79
+The Bleak Lands,Ichida,Ronne,Ronne IV,Reactive Metals,Perfect,5.57
+The Bleak Lands,Ichida,Ronne,Ronne V,Nanites,Rich,4.42
+The Bleak Lands,Ichida,Ronne,Ronne V,Suspended Plasma,Perfect,75.63
+The Bleak Lands,Ichida,Ronne,Ronne VI,Lustering Alloy,Poor,10.76
+The Bleak Lands,Ichida,Ronne,Ronne VI,Base Metals,Medium,3.34
+The Bleak Lands,Ichida,Hatori,Hatori I,Lustering Alloy,Medium,14.18
+The Bleak Lands,Ichida,Hatori,Hatori I,Base Metals,Poor,3.70
+The Bleak Lands,Ichida,Hatori,Hatori II,Lustering Alloy,Poor,11.47
+The Bleak Lands,Ichida,Hatori,Hatori II,Base Metals,Poor,3.43
+The Bleak Lands,Ichida,Hatori,Hatori III,Lustering Alloy,Poor,10.20
+The Bleak Lands,Ichida,Hatori,Hatori III,Base Metals,Poor,3.67
+The Bleak Lands,Ichida,Hatori,Hatori IV,Lucent Compound,Rich,20.30
+The Bleak Lands,Ichida,Hatori,Hatori IV,Suspended Plasma,Poor,49.79
+The Bleak Lands,Ichida,Hatori,Hatori V,Condensed Alloy,Perfect,24.73
+The Bleak Lands,Ichida,Hatori,Hatori V,Noble Metals,Perfect,25.05
+The Bleak Lands,Ichida,Hatori,Hatori V,Heavy Water,Rich,225.45
+The Bleak Lands,Ichida,Hatori,Hatori VI,Crystal Compound,Rich,22.17
+The Bleak Lands,Ichida,Hatori,Hatori VI,Coolant,Perfect,16.61
+The Bleak Lands,Ichida,Hatori,Hatori VI,Heavy Water,Medium,186.60
+The Bleak Lands,Ichida,Hatori,Hatori VII,Lustering Alloy,Poor,11.74
+The Bleak Lands,Ichida,Hatori,Hatori VII,Base Metals,Medium,4.01
+The Bleak Lands,Ichida,Hatori,Hatori VIII,Lustering Alloy,Medium,15.22
+The Bleak Lands,Ichida,Hatori,Hatori VIII,Base Metals,Poor,3.44
+The Bleak Lands,Ichida,Hatori,Hatori IX,Lustering Alloy,Perfect,24.09
+The Bleak Lands,Ichida,Hatori,Hatori IX,Base Metals,Medium,3.94
+The Bleak Lands,Ichida,Hatori,Hatori IX,Polyaramids,Medium,10.27
+The Bleak Lands,Ichida,Hatori,Hatori X,Lustering Alloy,Rich,20.23
+The Bleak Lands,Ichida,Hatori,Hatori X,Base Metals,Medium,4.69
+The Bleak Lands,Ichida,Hatori,Hatori X,Coolant,Medium,9.88
+The Bleak Lands,Ichida,Hatori,Hatori XI,Lustering Alloy,Medium,17.88
+The Bleak Lands,Ichida,Hatori,Hatori XI,Base Metals,Poor,3.68
+The Bleak Lands,Ichida,Junsen,Junsen I,Lustering Alloy,Medium,13.43
+The Bleak Lands,Ichida,Junsen,Junsen I,Base Metals,Medium,3.30
+The Bleak Lands,Ichida,Junsen,Junsen II,Reactive Gas,Perfect,20.69
+The Bleak Lands,Ichida,Junsen,Junsen II,Smartfab Units,Medium,8.98
+The Bleak Lands,Ichida,Junsen,Junsen II,Heavy Water,Perfect,217.56
+The Bleak Lands,Ichida,Junsen,Junsen III,Lustering Alloy,Medium,14.54
+The Bleak Lands,Ichida,Junsen,Junsen III,Base Metals,Poor,2.67
+The Bleak Lands,Ichida,Junsen,Junsen IV,Noble Metals,Medium,14.83
+The Bleak Lands,Ichida,Junsen,Junsen IV,Polyaramids,Medium,7.59
+The Bleak Lands,Ichida,Junsen,Junsen IV,Heavy Water,Medium,133.44
+The Bleak Lands,Ichida,Junsen,Junsen V,Lustering Alloy,Medium,11.74
+The Bleak Lands,Ichida,Junsen,Junsen V,Base Metals,Rich,4.23
+The Bleak Lands,Ichida,Junsen,Junsen V,Reactive Metals,Rich,4.91
+The Bleak Lands,Ichida,Malpara,Malpara I,Toxic Metals,Medium,4.45
+The Bleak Lands,Ichida,Malpara,Malpara I,Industrial Fibers,Medium,4.56
+The Bleak Lands,Ichida,Malpara,Malpara I,Silicate Glass,Medium,7.79
+The Bleak Lands,Ichida,Malpara,Malpara II,Noble Gas,Rich,21.81
+The Bleak Lands,Ichida,Malpara,Malpara II,Construction Blocks,Rich,22.98
+The Bleak Lands,Ichida,Malpara,Malpara III,Toxic Metals,Medium,4.37
+The Bleak Lands,Ichida,Malpara,Malpara III,Industrial Fibers,Poor,3.38
+The Bleak Lands,Ichida,Malpara,Malpara III,Silicate Glass,Poor,5.30
+The Bleak Lands,Ichida,Malpara,Malpara IV,Industrial Fibers,Medium,4.21
+The Bleak Lands,Ichida,Malpara,Malpara IV,Supertensile Plastics,Medium,11.97
+The Bleak Lands,Ichida,Malpara,Malpara IV,Construction Blocks,Poor,10.00
+The Bleak Lands,Ichida,Malpara,Malpara V,Fiber Composite,Rich,22.48
+The Bleak Lands,Ichida,Malpara,Malpara V,Glossy Compound,Poor,14.05
+The Bleak Lands,Ichida,Malpara,Malpara V,Noble Gas,Medium,17.42
+The Bleak Lands,Ichida,Malpara,Malpara V,Coolant,Medium,12.61
+The Bleak Lands,Ichida,Malpara,Malpara VI,Base Metals,Poor,2.63
+The Bleak Lands,Ichida,Malpara,Malpara VI,Industrial Fibers,Medium,5.08
+The Bleak Lands,Ichida,Malpara,Malpara VI,Oxygen Isotopes,Poor,1.85
+The Bleak Lands,Ichida,Hakodan,Hakodan I,Lustering Alloy,Medium,14.86
+The Bleak Lands,Ichida,Hakodan,Hakodan I,Base Metals,Poor,2.91
+The Bleak Lands,Ichida,Hakodan,Hakodan II,Gleaming Alloy,Medium,13.20
+The Bleak Lands,Ichida,Hakodan,Hakodan II,Suspended Plasma,Rich,66.78
+The Bleak Lands,Ichida,Hakodan,Hakodan III,Lustering Alloy,Medium,14.22
+The Bleak Lands,Ichida,Hakodan,Hakodan III,Base Metals,Medium,3.60
+The Bleak Lands,Ichida,Hakodan,Hakodan IV,Motley Compound,Medium,14.86
+The Bleak Lands,Ichida,Hakodan,Hakodan IV,Construction Blocks,Medium,13.77
+The Bleak Lands,Ichida,Hakodan,Hakodan V,Lustering Alloy,Medium,13.31
+The Bleak Lands,Ichida,Hakodan,Hakodan V,Reactive Gas,Medium,13.47
+The Bleak Lands,Ichida,Hakodan,Hakodan V,Base Metals,Rich,5.22
+The Bleak Lands,Ichida,Hakodan,Hakodan VI,Lustering Alloy,Rich,18.41
+The Bleak Lands,Ichida,Hakodan,Hakodan VI,Sheen Compound,Rich,16.84
+The Bleak Lands,Ichida,Hakodan,Hakodan VI,Base Metals,Rich,5.02
+The Bleak Lands,Ichida,Hakodan,Hakodan VII,Reactive Metals,Rich,4.37
+The Bleak Lands,Ichida,Hakodan,Hakodan VII,Suspended Plasma,Rich,66.64
+The Bleak Lands,Tandoiras,Sahtogas,Sahtogas I,Motley Compound,Medium,19.39
+The Bleak Lands,Tandoiras,Sahtogas,Sahtogas I,Noble Gas,Perfect,30.28
+The Bleak Lands,Tandoiras,Sahtogas,Sahtogas II,Industrial Fibers,Poor,3.86
+The Bleak Lands,Tandoiras,Sahtogas,Sahtogas II,Supertensile Plastics,Medium,13.76
+The Bleak Lands,Tandoiras,Sahtogas,Sahtogas II,Construction Blocks,Poor,12.33
+The Bleak Lands,Tandoiras,Sahtogas,Sahtogas III,Sheen Compound,Medium,21.65
+The Bleak Lands,Tandoiras,Sahtogas,Sahtogas III,Reactive Gas,Medium,21.26
+The Bleak Lands,Tandoiras,Sahtogas,Sahtogas III,Noble Gas,Rich,26.82
+The Bleak Lands,Tandoiras,Sahtogas,Sahtogas III,Ionic Solutions,Rich,10.66
+The Bleak Lands,Tandoiras,Sahtogas,Sahtogas IV,Industrial Fibers,Poor,3.25
+The Bleak Lands,Tandoiras,Sahtogas,Sahtogas IV,Supertensile Plastics,Poor,9.53
+The Bleak Lands,Tandoiras,Sahtogas,Sahtogas IV,Silicate Glass,Medium,9.66
+The Bleak Lands,Tandoiras,Sahtogas,Sahtogas V,Lustering Alloy,Medium,17.86
+The Bleak Lands,Tandoiras,Sahtogas,Sahtogas V,Noble Gas,Medium,19.57
+The Bleak Lands,Tandoiras,Sahtogas,Sahtogas V,Base Metals,Rich,6.69
+The Bleak Lands,Tandoiras,Sahtogas,Sahtogas V,Polyaramids,Perfect,19.38
+The Bleak Lands,Tandoiras,Sahtogas,Sahtogas VI,Fiber Composite,Medium,19.87
+The Bleak Lands,Tandoiras,Sahtogas,Sahtogas VI,Glossy Compound,Poor,15.41
+The Bleak Lands,Tandoiras,Sahtogas,Sahtogas VI,Noble Gas,Rich,22.95
+The Bleak Lands,Tandoiras,Sahtogas,Sahtogas VI,Coolant,Poor,9.86
+The Bleak Lands,Tandoiras,Haras,Haras I,Industrial Fibers,Poor,3.12
+The Bleak Lands,Tandoiras,Haras,Haras I,Supertensile Plastics,Poor,10.39
+The Bleak Lands,Tandoiras,Haras,Haras I,Oxygen Isotopes,Poor,1.71
+The Bleak Lands,Tandoiras,Haras,Haras II,Base Metals,Medium,4.78
+The Bleak Lands,Tandoiras,Haras,Haras II,Industrial Fibers,Medium,5.31
+The Bleak Lands,Tandoiras,Haras,Haras II,Plasmoids,Poor,0.85
+The Bleak Lands,Tandoiras,Haras,Haras III,Reactive Metals,Rich,7.01
+The Bleak Lands,Tandoiras,Haras,Haras III,Condensates,Perfect,21.17
+The Bleak Lands,Tandoiras,Haras,Haras III,Nanites,Poor,4.46
+The Bleak Lands,Tandoiras,Haras,Haras III,Plasmoids,Perfect,1.87
+The Bleak Lands,Tandoiras,Haras,Haras IV,Noble Gas,Rich,24.62
+The Bleak Lands,Tandoiras,Haras,Haras IV,Plasmoids,Medium,1.17
+The Bleak Lands,Tandoiras,Haras,Haras V,Lucent Compound,Medium,17.05
+The Bleak Lands,Tandoiras,Haras,Haras V,Construction Blocks,Medium,19.62
+The Bleak Lands,Tandoiras,Haras,Haras V,Nanites,Poor,4.28
+The Bleak Lands,Tandoiras,Haras,Haras VI,Fiber Composite,Medium,18.95
+The Bleak Lands,Tandoiras,Haras,Haras VI,Noble Gas,Medium,18.34
+The Bleak Lands,Tandoiras,Haras,Haras VI,Base Metals,Rich,6.11
+The Bleak Lands,Tandoiras,Haras,Haras VI,Polyaramids,Medium,12.44
+The Bleak Lands,Tandoiras,Haras,Haras VII,Noble Gas,Medium,18.59
+The Bleak Lands,Tandoiras,Haras,Haras VII,Base Metals,Medium,4.51
+The Bleak Lands,Tandoiras,Haras,Haras VII,Reactive Metals,Medium,5.50
+The Bleak Lands,Tandoiras,Haras,Haras VII,Ionic Solutions,Rich,10.17
+The Bleak Lands,Tandoiras,Haras,Haras VIII,Lustering Alloy,Rich,25.40
+The Bleak Lands,Tandoiras,Haras,Haras VIII,Noble Gas,Medium,17.35
+The Bleak Lands,Tandoiras,Haras,Haras VIII,Reactive Metals,Rich,6.87
+The Bleak Lands,Tandoiras,Haras,Haras VIII,Coolant,Rich,18.31
+The Bleak Lands,Tandoiras,Haras,Haras IX,Precious Alloy,Medium,22.25
+The Bleak Lands,Tandoiras,Haras,Haras IX,Coolant,Poor,10.09
+The Bleak Lands,Tandoiras,Haras,Haras IX,Suspended Plasma,Medium,70.57
+The Bleak Lands,Tandoiras,Haras,Haras X,Dark Compound,Medium,18.86
+The Bleak Lands,Tandoiras,Haras,Haras X,Toxic Metals,Poor,3.92
+The Bleak Lands,Tandoiras,Haras,Haras X,Industrial Fibers,Poor,3.69
+The Bleak Lands,Tandoiras,Oyonata,Oyonata I,Noble Gas,Perfect,29.50
+The Bleak Lands,Tandoiras,Oyonata,Oyonata I,Construction Blocks,Rich,25.94
+The Bleak Lands,Tandoiras,Oyonata,Oyonata II,Noble Gas,Poor,14.42
+The Bleak Lands,Tandoiras,Oyonata,Oyonata II,Construction Blocks,Medium,19.06
+The Bleak Lands,Tandoiras,Oyonata,Oyonata III,Gleaming Alloy,Rich,25.85
+The Bleak Lands,Tandoiras,Oyonata,Oyonata III,Noble Gas,Medium,22.64
+The Bleak Lands,Tandoiras,Oyonata,Oyonata IV,Noble Gas,Medium,22.32
+The Bleak Lands,Tandoiras,Oyonata,Oyonata IV,Construction Blocks,Poor,16.40
+The Bleak Lands,Tandoiras,Oyonata,Oyonata V,Lustering Alloy,Poor,13.68
+The Bleak Lands,Tandoiras,Oyonata,Oyonata V,Industrial Fibers,Poor,3.85
+The Bleak Lands,Tandoiras,Oyonata,Oyonata V,Construction Blocks,Poor,13.90
+The Bleak Lands,Tandoiras,Oyonata,Oyonata VI,Fiber Composite,Poor,15.05
+The Bleak Lands,Tandoiras,Oyonata,Oyonata VI,Noble Gas,Perfect,28.64
+The Bleak Lands,Tandoiras,Oyonata,Oyonata VI,Polyaramids,Medium,14.35
+The Bleak Lands,Tandoiras,Oyonata,Oyonata VI,Coolant,Medium,13.19
+The Bleak Lands,Tandoiras,Oyonata,Oyonata VII,Noble Gas,Medium,19.01
+The Bleak Lands,Tandoiras,Oyonata,Oyonata VII,Base Metals,Rich,6.72
+The Bleak Lands,Tandoiras,Oyonata,Oyonata VII,Reactive Metals,Medium,5.11
+The Bleak Lands,Tandoiras,Oyonata,Oyonata VII,Polyaramids,Rich,18.11
+The Bleak Lands,Tandoiras,Oyonata,Oyonata VIII,Fiber Composite,Poor,16.67
+The Bleak Lands,Tandoiras,Oyonata,Oyonata VIII,Opulent Compound,Perfect,31.77
+The Bleak Lands,Tandoiras,Oyonata,Oyonata VIII,Base Metals,Rich,6.25
+The Bleak Lands,Tandoiras,Oyonata,Oyonata VIII,Industrial Fibers,Perfect,8.14
+The Bleak Lands,Tandoiras,Kurniainen,Kurniainen I,Lustering Alloy,Medium,17.99
+The Bleak Lands,Tandoiras,Kurniainen,Kurniainen I,Industrial Fibers,Poor,4.22
+The Bleak Lands,Tandoiras,Kurniainen,Kurniainen I,Silicate Glass,Poor,7.46
+The Bleak Lands,Tandoiras,Kurniainen,Kurniainen II,Noble Gas,Medium,19.30
+The Bleak Lands,Tandoiras,Kurniainen,Kurniainen II,Construction Blocks,Perfect,32.17
+The Bleak Lands,Tandoiras,Kurniainen,Kurniainen III,Dark Compound,Poor,12.73
+The Bleak Lands,Tandoiras,Kurniainen,Kurniainen III,Industrial Fibers,Medium,4.71
+The Bleak Lands,Tandoiras,Kurniainen,Kurniainen III,Supertensile Plastics,Poor,10.93
+The Bleak Lands,Tandoiras,Kurniainen,Kurniainen IV,Noble Gas,Rich,24.93
+The Bleak Lands,Tandoiras,Kurniainen,Kurniainen IV,Oxygen Isotopes,Perfect,4.65
+The Bleak Lands,Tandoiras,Kurniainen,Kurniainen V,Heavy Metals,Medium,20.58
+The Bleak Lands,Tandoiras,Kurniainen,Kurniainen V,Condensates,Poor,11.79
+The Bleak Lands,Tandoiras,Kurniainen,Kurniainen V,Nanites,Rich,7.79
+The Bleak Lands,Tandoiras,Kurniainen,Kurniainen V,Suspended Plasma,Poor,64.36
+The Bleak Lands,Tandoiras,Kurniainen,Kurniainen VI,Reactive Metals,Medium,6.28
+The Bleak Lands,Tandoiras,Kurniainen,Kurniainen VI,Construction Blocks,Rich,29.81
+The Bleak Lands,Tandoiras,Kurniainen,Kurniainen VI,Nanites,Rich,7.37
+The Bleak Lands,Tandoiras,Kurniainen,Kurniainen VII,Construction Blocks,Rich,28.20
+The Bleak Lands,Tandoiras,Kurniainen,Kurniainen VII,Suspended Plasma,Perfect,111.42
+The Bleak Lands,Tandoiras,Kurniainen,Kurniainen VII,Oxygen Isotopes,Poor,2.64
+The Bleak Lands,Tandoiras,Kurniainen,Kurniainen VIII,Fiber Composite,Medium,21.62
+The Bleak Lands,Tandoiras,Kurniainen,Kurniainen VIII,Noble Gas,Medium,22.78
+The Bleak Lands,Tandoiras,Kurniainen,Kurniainen VIII,Polyaramids,Rich,16.80
+The Bleak Lands,Tandoiras,Kurniainen,Kurniainen VIII,Coolant,Medium,14.73
+The Bleak Lands,Tandoiras,Kurniainen,Kurniainen IX,Gleaming Alloy,Perfect,30.50
+The Bleak Lands,Tandoiras,Kurniainen,Kurniainen IX,Reactive Gas,Medium,21.49
+The Bleak Lands,Tandoiras,Kurniainen,Kurniainen IX,Construction Blocks,Poor,17.06
+The Bleak Lands,Tandoiras,Kurniainen,Kurniainen X,Sheen Compound,Poor,15.71
+The Bleak Lands,Tandoiras,Kurniainen,Kurniainen X,Noble Gas,Medium,18.52
+The Bleak Lands,Tandoiras,Kurniainen,Kurniainen X,Base Metals,Rich,6.59
+The Bleak Lands,Tandoiras,Kurniainen,Kurniainen X,Ionic Solutions,Rich,10.80
+The Bleak Lands,Tandoiras,Kurniainen,Kurniainen XI,Noble Gas,Perfect,31.18
+The Bleak Lands,Tandoiras,Kurniainen,Kurniainen XI,Base Metals,Poor,4.36
+The Bleak Lands,Tandoiras,Kurniainen,Kurniainen XI,Reactive Metals,Medium,5.29
+The Bleak Lands,Tandoiras,Kurniainen,Kurniainen XI,Ionic Solutions,Perfect,12.18
+The Bleak Lands,Tandoiras,Kurniainen,Kurniainen XII,Lustering Alloy,Medium,18.01
+The Bleak Lands,Tandoiras,Kurniainen,Kurniainen XII,Base Metals,Medium,5.17
+The Bleak Lands,Tandoiras,Kurniainen,Kurniainen XII,Industrial Fibers,Medium,5.84
+The Bleak Lands,Tandoiras,Saidusairos,Saidusairos I,Dark Compound,Poor,17.44
+The Bleak Lands,Tandoiras,Saidusairos,Saidusairos I,Industrial Fibers,Poor,3.53
+The Bleak Lands,Tandoiras,Saidusairos,Saidusairos I,Silicate Glass,Medium,9.45
+The Bleak Lands,Tandoiras,Saidusairos,Saidusairos II,Dark Compound,Medium,19.89
+The Bleak Lands,Tandoiras,Saidusairos,Saidusairos II,Toxic Metals,Medium,4.96
+The Bleak Lands,Tandoiras,Saidusairos,Saidusairos II,Industrial Fibers,Medium,5.93
+The Bleak Lands,Tandoiras,Saidusairos,Saidusairos III,Precious Alloy,Poor,14.76
+The Bleak Lands,Tandoiras,Saidusairos,Saidusairos III,Toxic Metals,Poor,3.84
+The Bleak Lands,Tandoiras,Saidusairos,Saidusairos III,Industrial Fibers,Poor,3.72
+The Bleak Lands,Tandoiras,Saidusairos,Saidusairos IV,Lustering Alloy,Poor,12.88
+The Bleak Lands,Tandoiras,Saidusairos,Saidusairos IV,Industrial Fibers,Poor,4.64
+The Bleak Lands,Tandoiras,Saidusairos,Saidusairos IV,Oxygen Isotopes,Poor,2.11
+The Bleak Lands,Tandoiras,Saidusairos,Saidusairos V,Condensed Alloy,Medium,21.60
+The Bleak Lands,Tandoiras,Saidusairos,Saidusairos V,Fiber Composite,Medium,20.16
+The Bleak Lands,Tandoiras,Saidusairos,Saidusairos V,Industrial Fibers,Perfect,8.19
+The Bleak Lands,Tandoiras,Saidusairos,Saidusairos V,Smartfab Units,Medium,15.73
+The Bleak Lands,Tandoiras,Saidusairos,Saidusairos VI,Fiber Composite,Rich,24.55
+The Bleak Lands,Tandoiras,Saidusairos,Saidusairos VI,Opulent Compound,Medium,22.70
+The Bleak Lands,Tandoiras,Saidusairos,Saidusairos VI,Base Metals,Perfect,8.22
+The Bleak Lands,Tandoiras,Saidusairos,Saidusairos VI,Noble Metals,Poor,17.73
+The Bleak Lands,Tandoiras,Saidusairos,Saidusairos VII,Reactive Gas,Poor,16.40
+The Bleak Lands,Tandoiras,Saidusairos,Saidusairos VII,Noble Gas,Medium,23.64
+The Bleak Lands,Tandoiras,Saidusairos,Saidusairos VII,Polyaramids,Medium,12.60
+The Bleak Lands,Tandoiras,Saidusairos,Saidusairos VII,Coolant,Medium,15.14
+The Bleak Lands,Tandoiras,Saidusairos,Saidusairos VIII,Glossy Compound,Medium,18.09
+The Bleak Lands,Tandoiras,Saidusairos,Saidusairos VIII,Noble Gas,Medium,20.23
+The Bleak Lands,Tandoiras,Saidusairos,Saidusairos VIII,Base Metals,Medium,4.79
+The Bleak Lands,Tandoiras,Saidusairos,Saidusairos VIII,Reactive Metals,Medium,6.17
+The Bleak Lands,Tandoiras,Saidusairos,Saidusairos IX,Fiber Composite,Rich,25.19
+The Bleak Lands,Tandoiras,Saidusairos,Saidusairos IX,Noble Gas,Rich,26.90
+The Bleak Lands,Tandoiras,Saidusairos,Saidusairos IX,Reactive Metals,Poor,4.52
+The Bleak Lands,Tandoiras,Saidusairos,Saidusairos IX,Coolant,Perfect,20.24
+The Bleak Lands,Tandoiras,Saidusairos,Saidusairos X,Reactive Gas,Rich,29.89
+The Bleak Lands,Tandoiras,Saidusairos,Saidusairos X,Toxic Metals,Rich,6.46
+The Bleak Lands,Tandoiras,Saidusairos,Saidusairos X,Construction Blocks,Medium,22.86
+The Bleak Lands,Tandoiras,Tannakan,Tannakan I,Industrial Fibers,Medium,5.68
+The Bleak Lands,Tandoiras,Tannakan,Tannakan I,Silicate Glass,Medium,9.50
+The Bleak Lands,Tandoiras,Tannakan,Tannakan I,Oxygen Isotopes,Medium,2.88
+The Bleak Lands,Tandoiras,Tannakan,Tannakan II,Noble Gas,Rich,27.00
+The Bleak Lands,Tandoiras,Tannakan,Tannakan II,Construction Blocks,Medium,22.21
+The Bleak Lands,Tandoiras,Tannakan,Tannakan III,Base Metals,Medium,4.77
+The Bleak Lands,Tandoiras,Tannakan,Tannakan III,Industrial Fibers,Medium,5.37
+The Bleak Lands,Tandoiras,Tannakan,Tannakan III,Silicate Glass,Poor,5.87
+The Bleak Lands,Tandoiras,Tannakan,Tannakan IV,Dark Compound,Poor,14.69
+The Bleak Lands,Tandoiras,Tannakan,Tannakan IV,Industrial Fibers,Poor,3.46
+The Bleak Lands,Tandoiras,Tannakan,Tannakan IV,Plasmoids,Poor,0.99
+The Bleak Lands,Tandoiras,Tannakan,Tannakan V,Condensed Alloy,Perfect,31.93
+The Bleak Lands,Tandoiras,Tannakan,Tannakan V,Fiber Composite,Rich,24.73
+The Bleak Lands,Tandoiras,Tannakan,Tannakan V,Industrial Fibers,Rich,6.08
+The Bleak Lands,Tandoiras,Tannakan,Tannakan V,Liquid Ozone,Perfect,36.54
+The Bleak Lands,Tandoiras,Tannakan,Tannakan VI,Toxic Metals,Poor,3.33
+The Bleak Lands,Tandoiras,Tannakan,Tannakan VI,Industrial Fibers,Medium,4.91
+The Bleak Lands,Tandoiras,Tannakan,Tannakan VI,Construction Blocks,Medium,20.81
+The Bleak Lands,Tandoiras,Tannakan,Tannakan VII,Sheen Compound,Medium,21.11
+The Bleak Lands,Tandoiras,Tannakan,Tannakan VII,Reactive Gas,Medium,22.19
+The Bleak Lands,Tandoiras,Tannakan,Tannakan VII,Noble Gas,Poor,15.80
+The Bleak Lands,Tandoiras,Tannakan,Tannakan VII,Base Metals,Rich,7.46
+The Bleak Lands,Tandoiras,Tannakan,Tannakan VIII,Dark Compound,Poor,13.00
+The Bleak Lands,Tandoiras,Tannakan,Tannakan VIII,Industrial Fibers,Poor,4.36
+The Bleak Lands,Tandoiras,Tannakan,Tannakan VIII,Silicate Glass,Poor,6.48
+The Bleak Lands,Tandoiras,Tannakan,Tannakan IX,Sheen Compound,Rich,23.71
+The Bleak Lands,Tandoiras,Tannakan,Tannakan IX,Noble Gas,Poor,15.25
+The Bleak Lands,Tandoiras,Tannakan,Tannakan IX,Reactive Metals,Perfect,7.53
+The Bleak Lands,Tandoiras,Tannakan,Tannakan IX,Ionic Solutions,Medium,7.17
+The Bleak Lands,Tandoiras,Tannakan,Tannakan X,Sheen Compound,Rich,28.12
+The Bleak Lands,Tandoiras,Tannakan,Tannakan X,Dark Compound,Medium,19.67
+The Bleak Lands,Tandoiras,Tannakan,Tannakan X,Nanites,Rich,6.50
+The Bleak Lands,Tandoiras,Tannakan,Tannakan X,Plasmoids,Rich,1.41
+The Bleak Lands,Ohvarainen,Komaa,Komaa I,Motley Compound,Poor,12.44
+The Bleak Lands,Ohvarainen,Komaa,Komaa I,Polyaramids,Medium,10.19
+The Bleak Lands,Ohvarainen,Komaa,Komaa II,Lustering Alloy,Medium,14.43
+The Bleak Lands,Ohvarainen,Komaa,Komaa II,Base Metals,Medium,3.92
+The Bleak Lands,Ohvarainen,Komaa,Komaa III,Crystal Compound,Rich,23.79
+The Bleak Lands,Ohvarainen,Komaa,Komaa III,Suspended Plasma,Medium,66.31
+The Bleak Lands,Ohvarainen,Komaa,Komaa IV,Lustering Alloy,Medium,16.35
+The Bleak Lands,Ohvarainen,Komaa,Komaa IV,Base Metals,Medium,3.78
+The Bleak Lands,Ohvarainen,Komaa,Komaa V,Lustering Alloy,Rich,20.14
+The Bleak Lands,Ohvarainen,Komaa,Komaa V,Fiber Composite,Rich,22.16
+The Bleak Lands,Ohvarainen,Komaa,Komaa V,Base Metals,Medium,4.33
+The Bleak Lands,Ohvarainen,Komaa,Komaa VI,Lustering Alloy,Poor,13.30
+The Bleak Lands,Ohvarainen,Komaa,Komaa VI,Base Metals,Rich,5.80
+The Bleak Lands,Ohvarainen,Komaa,Komaa VI,Ionic Solutions,Rich,8.93
+The Bleak Lands,Ohvarainen,Komaa,Komaa VII,Lustering Alloy,Rich,22.59
+The Bleak Lands,Ohvarainen,Komaa,Komaa VII,Base Metals,Poor,3.71
+The Bleak Lands,Ohvarainen,Komaa,Komaa VII,Polyaramids,Perfect,15.91
+The Bleak Lands,Ohvarainen,Ayeroilen,Ayeroilen I,Dark Compound,Medium,15.65
+The Bleak Lands,Ohvarainen,Ayeroilen,Ayeroilen I,Industrial Fibers,Poor,3.38
+The Bleak Lands,Ohvarainen,Ayeroilen,Ayeroilen I,Silicate Glass,Poor,5.32
+The Bleak Lands,Ohvarainen,Ayeroilen,Ayeroilen II,Condensates,Medium,12.31
+The Bleak Lands,Ohvarainen,Ayeroilen,Ayeroilen II,Nanites,Medium,4.71
+The Bleak Lands,Ohvarainen,Ayeroilen,Ayeroilen II,Suspended Plasma,Poor,53.11
+The Bleak Lands,Ohvarainen,Ayeroilen,Ayeroilen II,Plasmoids,Rich,1.48
+The Bleak Lands,Ohvarainen,Ayeroilen,Ayeroilen III,Noble Gas,Medium,16.67
+The Bleak Lands,Ohvarainen,Ayeroilen,Ayeroilen III,Plasmoids,Medium,1.06
+The Bleak Lands,Ohvarainen,Ayeroilen,Ayeroilen IV,Opulent Compound,Poor,14.93
+The Bleak Lands,Ohvarainen,Ayeroilen,Ayeroilen IV,Toxic Metals,Poor,3.86
+The Bleak Lands,Ohvarainen,Ayeroilen,Ayeroilen IV,Coolant,Medium,12.45
+The Bleak Lands,Ohvarainen,Ayeroilen,Ayeroilen IV,Heavy Water,Medium,198.08
+The Bleak Lands,Ohvarainen,Ayeroilen,Ayeroilen V,Fiber Composite,Perfect,26.99
+The Bleak Lands,Ohvarainen,Ayeroilen,Ayeroilen V,Base Metals,Rich,6.10
+The Bleak Lands,Ohvarainen,Ayeroilen,Ayeroilen V,Industrial Fibers,Rich,5.68
+The Bleak Lands,Ohvarainen,Ayeroilen,Ayeroilen V,Liquid Ozone,Perfect,34.36
+The Bleak Lands,Ohvarainen,Ayeroilen,Ayeroilen VI,Fiber Composite,Rich,24.19
+The Bleak Lands,Ohvarainen,Ayeroilen,Ayeroilen VI,Reactive Gas,Rich,23.84
+The Bleak Lands,Ohvarainen,Ayeroilen,Ayeroilen VI,Noble Gas,Rich,24.00
+The Bleak Lands,Ohvarainen,Ayeroilen,Ayeroilen VI,Reactive Metals,Poor,3.72
+The Bleak Lands,Ohvarainen,Ayeroilen,Ayeroilen VII,Industrial Fibers,Medium,5.01
+The Bleak Lands,Ohvarainen,Ayeroilen,Ayeroilen VII,Silicate Glass,Poor,5.32
+The Bleak Lands,Ohvarainen,Ayeroilen,Ayeroilen VII,Plasmoids,Poor,0.90
+The Bleak Lands,Ohvarainen,Ayeroilen,Ayeroilen VIII,Sheen Compound,Medium,18.69
+The Bleak Lands,Ohvarainen,Ayeroilen,Ayeroilen VIII,Noble Gas,Medium,19.17
+The Bleak Lands,Ohvarainen,Ayeroilen,Ayeroilen VIII,Base Metals,Rich,5.90
+The Bleak Lands,Ohvarainen,Ayeroilen,Ayeroilen VIII,Coolant,Poor,9.81
+The Bleak Lands,Ohvarainen,Ayeroilen,Ayeroilen IX,Noble Gas,Poor,14.02
+The Bleak Lands,Ohvarainen,Ayeroilen,Ayeroilen IX,Base Metals,Medium,4.67
+The Bleak Lands,Ohvarainen,Ayeroilen,Ayeroilen IX,Polyaramids,Poor,9.50
+The Bleak Lands,Ohvarainen,Ayeroilen,Ayeroilen IX,Coolant,Medium,12.06
+The Bleak Lands,Ohvarainen,Ayeroilen,Ayeroilen X,Dark Compound,Poor,10.40
+The Bleak Lands,Ohvarainen,Ayeroilen,Ayeroilen X,Industrial Fibers,Medium,4.59
+The Bleak Lands,Ohvarainen,Ayeroilen,Ayeroilen X,Plasmoids,Medium,0.95
+The Bleak Lands,Ohvarainen,Ayeroilen,Ayeroilen XI,Sheen Compound,Rich,24.29
+The Bleak Lands,Ohvarainen,Ayeroilen,Ayeroilen XI,Noble Gas,Poor,14.42
+The Bleak Lands,Ohvarainen,Ayeroilen,Ayeroilen XI,Base Metals,Rich,6.66
+The Bleak Lands,Ohvarainen,Ayeroilen,Ayeroilen XI,Reactive Metals,Perfect,6.93
+The Bleak Lands,Ohvarainen,Ayeroilen,Ayeroilen XII,Lustering Alloy,Medium,17.62
+The Bleak Lands,Ohvarainen,Ayeroilen,Ayeroilen XII,Industrial Fibers,Medium,3.97
+The Bleak Lands,Ohvarainen,Ayeroilen,Ayeroilen XII,Silicate Glass,Medium,9.52
+The Bleak Lands,Ohvarainen,Imata,Imata I,Lustering Alloy,Poor,12.05
+The Bleak Lands,Ohvarainen,Imata,Imata I,Industrial Fibers,Medium,4.94
+The Bleak Lands,Ohvarainen,Imata,Imata I,Plasmoids,Medium,1.00
+The Bleak Lands,Ohvarainen,Imata,Imata II,Noble Gas,Rich,20.67
+The Bleak Lands,Ohvarainen,Imata,Imata II,Construction Blocks,Medium,15.79
+The Bleak Lands,Ohvarainen,Imata,Imata III,Crystal Compound,Rich,21.14
+The Bleak Lands,Ohvarainen,Imata,Imata III,Reactive Gas,Rich,24.83
+The Bleak Lands,Ohvarainen,Imata,Imata III,Construction Blocks,Rich,24.59
+The Bleak Lands,Ohvarainen,Imata,Imata IV,Lucent Compound,Rich,21.12
+The Bleak Lands,Ohvarainen,Imata,Imata IV,Dark Compound,Medium,19.15
+The Bleak Lands,Ohvarainen,Imata,Imata IV,Noble Gas,Perfect,26.30
+The Bleak Lands,Ohvarainen,Imata,Imata IV,Nanites,Medium,5.29
+The Bleak Lands,Ohvarainen,Imata,Imata V,Toxic Metals,Rich,6.13
+The Bleak Lands,Ohvarainen,Imata,Imata V,Supertensile Plastics,Rich,14.49
+The Bleak Lands,Ohvarainen,Imata,Imata V,Construction Blocks,Medium,16.45
+The Bleak Lands,Ohvarainen,Imata,Imata VI,Sheen Compound,Medium,19.58
+The Bleak Lands,Ohvarainen,Imata,Imata VI,Glossy Compound,Medium,18.40
+The Bleak Lands,Ohvarainen,Imata,Imata VI,Noble Gas,Rich,21.74
+The Bleak Lands,Ohvarainen,Imata,Imata VI,Coolant,Perfect,17.18
+The Bleak Lands,Ohvarainen,Imata,Imata VII,Motley Compound,Poor,14.45
+The Bleak Lands,Ohvarainen,Imata,Imata VII,Noble Gas,Medium,15.81
+The Bleak Lands,Ohvarainen,Imata,Imata VIII,Condensed Alloy,Perfect,27.26
+The Bleak Lands,Ohvarainen,Imata,Imata VIII,Fiber Composite,Medium,15.26
+The Bleak Lands,Ohvarainen,Imata,Imata VIII,Opulent Compound,Medium,15.50
+The Bleak Lands,Ohvarainen,Imata,Imata VIII,Industrial Fibers,Rich,5.92
+The Bleak Lands,Ohvarainen,Imata,Imata IX,Precious Alloy,Poor,14.78
+The Bleak Lands,Ohvarainen,Imata,Imata IX,Base Metals,Poor,3.73
+The Bleak Lands,Ohvarainen,Imata,Imata IX,Industrial Fibers,Medium,4.88
+The Bleak Lands,Ohvarainen,Furskeshin,Furskeshin I,Lustering Alloy,Poor,11.61
+The Bleak Lands,Ohvarainen,Furskeshin,Furskeshin I,Base Metals,Medium,4.27
+The Bleak Lands,Ohvarainen,Furskeshin,Furskeshin II,Lustering Alloy,Poor,10.42
+The Bleak Lands,Ohvarainen,Furskeshin,Furskeshin II,Base Metals,Medium,3.77
+The Bleak Lands,Ohvarainen,Furskeshin,Furskeshin III,Motley Compound,Medium,15.04
+The Bleak Lands,Ohvarainen,Furskeshin,Furskeshin III,Polyaramids,Rich,12.67
+The Bleak Lands,Ohvarainen,Furskeshin,Furskeshin IV,Lustering Alloy,Medium,14.62
+The Bleak Lands,Ohvarainen,Furskeshin,Furskeshin IV,Fiber Composite,Medium,16.24
+The Bleak Lands,Ohvarainen,Furskeshin,Furskeshin IV,Base Metals,Medium,3.55
+The Bleak Lands,Ohvarainen,Furskeshin,Furskeshin V,Lustering Alloy,Medium,13.72
+The Bleak Lands,Ohvarainen,Furskeshin,Furskeshin V,Sheen Compound,Medium,13.69
+The Bleak Lands,Ohvarainen,Furskeshin,Furskeshin V,Base Metals,Medium,3.76
+The Bleak Lands,Ohvarainen,Furskeshin,Furskeshin VI,Lustering Alloy,Poor,12.36
+The Bleak Lands,Ohvarainen,Furskeshin,Furskeshin VI,Base Metals,Perfect,5.96
+The Bleak Lands,Ohvarainen,Furskeshin,Furskeshin VI,Reactive Metals,Medium,3.81
+The Bleak Lands,Ohvarainen,Furskeshin,Furskeshin VII,Lustering Alloy,Rich,19.38
+The Bleak Lands,Ohvarainen,Furskeshin,Furskeshin VII,Base Metals,Rich,5.62
+The Bleak Lands,Ohvarainen,Furskeshin,Furskeshin VII,Reactive Metals,Rich,5.82
+The Bleak Lands,Ohvarainen,Furskeshin,Furskeshin VIII,Lustering Alloy,Poor,11.21
+The Bleak Lands,Ohvarainen,Furskeshin,Furskeshin VIII,Base Metals,Poor,2.31
+The Bleak Lands,Ohvarainen,Furskeshin,Furskeshin IX,Lustering Alloy,Medium,14.56
+The Bleak Lands,Ohvarainen,Furskeshin,Furskeshin IX,Glossy Compound,Rich,19.54
+The Bleak Lands,Ohvarainen,Furskeshin,Furskeshin IX,Base Metals,Poor,3.14
+The Bleak Lands,Ohvarainen,Furskeshin,Furskeshin X,Lustering Alloy,Rich,19.77
+The Bleak Lands,Ohvarainen,Furskeshin,Furskeshin X,Base Metals,Poor,2.77
+The Bleak Lands,Ohvarainen,Kurmaru,Kurmaru I,Opulent Compound,Rich,19.14
+The Bleak Lands,Ohvarainen,Kurmaru,Kurmaru I,Heavy Water,Rich,216.16
+The Bleak Lands,Ohvarainen,Kurmaru,Kurmaru I,Ionic Solutions,Perfect,9.84
+The Bleak Lands,Ohvarainen,Kurmaru,Kurmaru II,Motley Compound,Medium,15.90
+The Bleak Lands,Ohvarainen,Kurmaru,Kurmaru II,Noble Metals,Perfect,23.30
+The Bleak Lands,Ohvarainen,Kurmaru,Kurmaru III,Reactive Gas,Medium,13.44
+The Bleak Lands,Ohvarainen,Kurmaru,Kurmaru III,Industrial Fibers,Perfect,6.40
+The Bleak Lands,Ohvarainen,Kurmaru,Kurmaru III,Heavy Water,Perfect,224.42
+The Bleak Lands,Ohvarainen,Kurmaru,Kurmaru IV,Toxic Metals,Rich,5.63
+The Bleak Lands,Ohvarainen,Kurmaru,Kurmaru IV,Suspended Plasma,Rich,72.37
+The Bleak Lands,Ohvarainen,Kurmaru,Kurmaru V,Base Metals,Perfect,6.01
+The Bleak Lands,Ohvarainen,Kurmaru,Kurmaru V,Heavy Water,Rich,204.12
+The Bleak Lands,Ohvarainen,Kurmaru,Kurmaru V,Liquid Ozone,Rich,25.99
+The Bleak Lands,Ohvarainen,Kurmaru,Kurmaru VI,Opulent Compound,Rich,18.14
+The Bleak Lands,Ohvarainen,Kurmaru,Kurmaru VI,Base Metals,Poor,3.45
+The Bleak Lands,Ohvarainen,Kurmaru,Kurmaru VI,Heavy Water,Perfect,251.58
+The Bleak Lands,Ohvarainen,Kurmaru,Kurmaru VII,Lustering Alloy,Poor,10.75
+The Bleak Lands,Ohvarainen,Kurmaru,Kurmaru VII,Base Metals,Poor,3.07
+The Bleak Lands,Ohvarainen,Satalama,Satalama I,Lustering Alloy,Medium,16.88
+The Bleak Lands,Ohvarainen,Satalama,Satalama I,Base Metals,Medium,3.82
+The Bleak Lands,Ohvarainen,Satalama,Satalama II,Lustering Alloy,Medium,16.52
+The Bleak Lands,Ohvarainen,Satalama,Satalama II,Base Metals,Rich,5.24

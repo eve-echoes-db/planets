@@ -1,0 +1,1641 @@
+Region,Constellation,System,Name,Item,Rate,Output
+Essence,Crux,Luminaire,Luminaire I,Lustering Alloy,Poor,6.64
+Essence,Crux,Luminaire,Luminaire I,Base Metals,Medium,3.12
+Essence,Crux,Luminaire,Luminaire II,Condensed Alloy,Rich,15.24
+Essence,Crux,Luminaire,Luminaire II,Noble Metals,Poor,9.23
+Essence,Crux,Luminaire,Luminaire II,Heavy Water,Rich,136.30
+Essence,Crux,Luminaire,Luminaire III,Opulent Compound,Medium,11.66
+Essence,Crux,Luminaire,Luminaire III,Base Metals,Perfect,4.99
+Essence,Crux,Luminaire,Luminaire III,Heavy Water,Perfect,184.30
+Essence,Crux,Luminaire,Luminaire IV,Lustering Alloy,Poor,8.05
+Essence,Crux,Luminaire,Luminaire IV,Base Metals,Poor,1.92
+Essence,Crux,Luminaire,Luminaire V,Lustering Alloy,Medium,11.93
+Essence,Crux,Luminaire,Luminaire V,Base Metals,Poor,2.24
+Essence,Crux,Luminaire,Luminaire VI,Condensed Alloy,Rich,14.94
+Essence,Crux,Luminaire,Luminaire VI,Noble Metals,Medium,11.46
+Essence,Crux,Luminaire,Luminaire VI,Heavy Water,Medium,126.20
+Essence,Crux,Luminaire,Luminaire VII,Base Metals,Rich,3.80
+Essence,Crux,Luminaire,Luminaire VII,Noble Metals,Rich,13.17
+Essence,Crux,Luminaire,Luminaire VII,Heavy Water,Medium,114.10
+Essence,Crux,Luminaire,Luminaire VIII,Lustering Alloy,Poor,8.52
+Essence,Crux,Luminaire,Luminaire VIII,Base Metals,Medium,2.69
+Essence,Crux,Mies,Mies I,Crystal Compound,Medium,12.67
+Essence,Crux,Mies,Mies I,Suspended Plasma,Rich,59.56
+Essence,Crux,Mies,Mies II,Lustering Alloy,Medium,13.35
+Essence,Crux,Mies,Mies II,Base Metals,Poor,2.33
+Essence,Crux,Mies,Mies III,Opulent Compound,Rich,17.45
+Essence,Crux,Mies,Mies III,Condensates,Medium,7.44
+Essence,Crux,Mies,Mies III,Heavy Water,Rich,172.26
+Essence,Crux,Mies,Mies IV,Noble Metals,Rich,16.37
+Essence,Crux,Mies,Mies IV,Condensates,Perfect,12.86
+Essence,Crux,Mies,Mies IV,Heavy Water,Perfect,188.54
+Essence,Crux,Mies,Mies V,Lustering Alloy,Medium,13.56
+Essence,Crux,Mies,Mies V,Fiber Composite,Medium,13.28
+Essence,Crux,Mies,Mies V,Base Metals,Medium,3.12
+Essence,Crux,Mies,Mies VI,Lustering Alloy,Poor,9.71
+Essence,Crux,Mies,Mies VI,Reactive Gas,Rich,16.30
+Essence,Crux,Mies,Mies VI,Base Metals,Rich,4.12
+Essence,Crux,Mies,Mies VII,Lustering Alloy,Medium,12.17
+Essence,Crux,Mies,Mies VII,Base Metals,Medium,2.97
+Essence,Crux,Mies,Mies VII,Coolant,Medium,7.85
+Essence,Crux,Mies,Mies VIII,Lustering Alloy,Rich,14.86
+Essence,Crux,Mies,Mies VIII,Base Metals,Rich,4.21
+Essence,Crux,Mies,Mies VIII,Reactive Metals,Poor,2.68
+Essence,Crux,Mies,Mies IX,Lustering Alloy,Medium,12.45
+Essence,Crux,Mies,Mies IX,Base Metals,Poor,2.69
+Essence,Crux,Oursulaert,Oursulaert I,Motley Compound,Rich,18.43
+Essence,Crux,Oursulaert,Oursulaert I,Noble Metals,Perfect,20.10
+Essence,Crux,Oursulaert,Oursulaert II,Lustering Alloy,Poor,7.67
+Essence,Crux,Oursulaert,Oursulaert II,Base Metals,Medium,3.06
+Essence,Crux,Oursulaert,Oursulaert III,Lustering Alloy,Poor,9.24
+Essence,Crux,Oursulaert,Oursulaert III,Base Metals,Medium,3.87
+Essence,Crux,Oursulaert,Oursulaert IV,Lustering Alloy,Poor,9.77
+Essence,Crux,Oursulaert,Oursulaert IV,Base Metals,Medium,3.22
+Essence,Crux,Oursulaert,Oursulaert V,Lustering Alloy,Poor,8.40
+Essence,Crux,Oursulaert,Oursulaert V,Base Metals,Poor,2.26
+Essence,Crux,Oursulaert,Oursulaert VI,Toxic Metals,Medium,3.64
+Essence,Crux,Oursulaert,Oursulaert VI,Suspended Plasma,Poor,38.10
+Essence,Crux,Oursulaert,Oursulaert VII,Lustering Alloy,Medium,14.06
+Essence,Crux,Oursulaert,Oursulaert VII,Base Metals,Medium,3.75
+Essence,Crux,Oursulaert,Oursulaert VII,Polyaramids,Rich,11.83
+Essence,Crux,Oursulaert,Oursulaert VIII,Lustering Alloy,Medium,14.80
+Essence,Crux,Oursulaert,Oursulaert VIII,Base Metals,Medium,3.40
+Essence,Crux,Oursulaert,Oursulaert VIII,Coolant,Medium,8.34
+Essence,Crux,Oursulaert,Oursulaert IX,Toxic Metals,Medium,3.48
+Essence,Crux,Oursulaert,Oursulaert IX,Polyaramids,Perfect,13.98
+Essence,Crux,Oursulaert,Oursulaert IX,Heavy Water,Medium,118.68
+Essence,Crux,Renyn,Renyn I,Lustering Alloy,Poor,8.14
+Essence,Crux,Renyn,Renyn I,Base Metals,Medium,3.22
+Essence,Crux,Renyn,Renyn II,Lustering Alloy,Poor,10.36
+Essence,Crux,Renyn,Renyn II,Base Metals,Medium,3.77
+Essence,Crux,Renyn,Renyn III,Lustering Alloy,Poor,8.21
+Essence,Crux,Renyn,Renyn III,Base Metals,Poor,2.84
+Essence,Crux,Renyn,Renyn IV,Lustering Alloy,Poor,11.23
+Essence,Crux,Renyn,Renyn IV,Base Metals,Medium,3.16
+Essence,Crux,Renyn,Renyn V,Lustering Alloy,Poor,10.51
+Essence,Crux,Renyn,Renyn V,Base Metals,Medium,3.45
+Essence,Crux,Renyn,Renyn VI,Coolant,Perfect,14.13
+Essence,Crux,Renyn,Renyn VI,Heavy Water,Medium,149.16
+Essence,Crux,Renyn,Renyn VI,Liquid Ozone,Poor,13.63
+Essence,Crux,Renyn,Renyn VII,Motley Compound,Rich,17.96
+Essence,Crux,Renyn,Renyn VII,Heavy Metals,Medium,13.58
+Essence,Crux,Renyn,Renyn VIII,Lustering Alloy,Poor,9.79
+Essence,Crux,Renyn,Renyn VIII,Base Metals,Poor,2.16
+Essence,Crux,Renyn,Renyn IX,Lustering Alloy,Rich,17.38
+Essence,Crux,Renyn,Renyn IX,Base Metals,Rich,4.24
+Essence,Crux,Renyn,Renyn IX,Polyaramids,Medium,8.06
+Essence,Crux,Renyn,Renyn X,Lustering Alloy,Medium,14.94
+Essence,Crux,Renyn,Renyn X,Fiber Composite,Medium,11.86
+Essence,Crux,Renyn,Renyn X,Base Metals,Medium,3.82
+Essence,Crux,Duripant,Duripant I,Lustering Alloy,Poor,7.88
+Essence,Crux,Duripant,Duripant I,Base Metals,Poor,2.44
+Essence,Crux,Duripant,Duripant II,Lustering Alloy,Medium,9.70
+Essence,Crux,Duripant,Duripant II,Base Metals,Poor,2.41
+Essence,Crux,Duripant,Duripant III,Motley Compound,Medium,11.65
+Essence,Crux,Duripant,Duripant III,Glossy Compound,Rich,14.40
+Essence,Crux,Duripant,Duripant IV,Lustering Alloy,Poor,8.36
+Essence,Crux,Duripant,Duripant IV,Base Metals,Poor,2.13
+Essence,Crux,Duripant,Duripant V,Fiber Composite,Rich,14.21
+Essence,Crux,Duripant,Duripant V,Reactive Gas,Medium,9.93
+Essence,Crux,Duripant,Duripant V,Heavy Water,Medium,121.60
+Essence,Crux,Duripant,Duripant VI,Lustering Alloy,Rich,15.83
+Essence,Crux,Duripant,Duripant VI,Noble Gas,Rich,13.56
+Essence,Crux,Duripant,Duripant VI,Base Metals,Rich,3.91
+Essence,Crux,Duripant,Duripant VII,Lustering Alloy,Rich,13.33
+Essence,Crux,Duripant,Duripant VII,Sheen Compound,Medium,9.49
+Essence,Crux,Duripant,Duripant VII,Base Metals,Rich,3.52
+Essence,Crux,Algogille,Algogille I,Lustering Alloy,Poor,7.28
+Essence,Crux,Algogille,Algogille I,Base Metals,Poor,1.93
+Essence,Crux,Algogille,Algogille II,Sheen Compound,Medium,12.65
+Essence,Crux,Algogille,Algogille II,Lucent Compound,Rich,15.42
+Essence,Crux,Algogille,Algogille II,Suspended Plasma,Perfect,65.34
+Essence,Crux,Algogille,Algogille III,Lustering Alloy,Medium,13.34
+Essence,Crux,Algogille,Algogille III,Base Metals,Medium,2.97
+Essence,Crux,Algogille,Algogille IV,Lustering Alloy,Poor,8.34
+Essence,Crux,Algogille,Algogille IV,Base Metals,Medium,3.01
+Essence,Crux,Algogille,Algogille V,Motley Compound,Rich,16.28
+Essence,Crux,Algogille,Algogille V,Smartfab Units,Medium,9.03
+Essence,Crux,Algogille,Algogille VI,Lustering Alloy,Poor,7.18
+Essence,Crux,Algogille,Algogille VI,Base Metals,Poor,2.58
+Essence,Crux,Algogille,Algogille VII,Lustering Alloy,Poor,8.02
+Essence,Crux,Algogille,Algogille VII,Base Metals,Medium,3.00
+Essence,Crux,Algogille,Algogille VIII,Lustering Alloy,Poor,7.61
+Essence,Crux,Algogille,Algogille VIII,Base Metals,Medium,2.80
+Essence,Crux,Algogille,Algogille IX,Lustering Alloy,Rich,15.83
+Essence,Crux,Algogille,Algogille IX,Glossy Compound,Rich,17.15
+Essence,Crux,Algogille,Algogille IX,Base Metals,Medium,3.47
+Essence,Crux,Algogille,Algogille X,Lustering Alloy,Rich,15.38
+Essence,Crux,Algogille,Algogille X,Glossy Compound,Medium,13.13
+Essence,Crux,Algogille,Algogille X,Base Metals,Rich,4.28
+Essence,Crux,Algogille,Algogille XI,Lustering Alloy,Rich,15.62
+Essence,Crux,Algogille,Algogille XI,Base Metals,Perfect,4.70
+Essence,Crux,Algogille,Algogille XI,Reactive Metals,Rich,3.98
+Essence,Crux,Algogille,Algogille XII,Lustering Alloy,Medium,12.40
+Essence,Crux,Algogille,Algogille XII,Reactive Gas,Medium,12.86
+Essence,Crux,Algogille,Algogille XII,Base Metals,Rich,4.30
+Essence,Crux,Algogille,Algogille XIII,Lustering Alloy,Poor,9.04
+Essence,Crux,Algogille,Algogille XIII,Base Metals,Medium,2.77
+Essence,Patrie,Caslemon,Caslemon I,Gleaming Alloy,Poor,12.75
+Essence,Patrie,Caslemon,Caslemon I,Motley Compound,Perfect,23.93
+Essence,Patrie,Caslemon,Caslemon II,Lustering Alloy,Medium,15.63
+Essence,Patrie,Caslemon,Caslemon II,Base Metals,Medium,4.09
+Essence,Patrie,Caslemon,Caslemon III,Lustering Alloy,Poor,12.88
+Essence,Patrie,Caslemon,Caslemon III,Base Metals,Poor,2.60
+Essence,Patrie,Caslemon,Caslemon IV,Motley Compound,Medium,17.50
+Essence,Patrie,Caslemon,Caslemon IV,Plasmoids,Medium,0.85
+Essence,Patrie,Caslemon,Caslemon V,Noble Metals,Perfect,26.50
+Essence,Patrie,Caslemon,Caslemon V,Industrial Fibers,Rich,5.21
+Essence,Patrie,Caslemon,Caslemon V,Heavy Water,Medium,144.00
+Essence,Patrie,Caslemon,Caslemon VI,Construction Blocks,Rich,21.39
+Essence,Patrie,Caslemon,Caslemon VI,Suspended Plasma,Rich,70.25
+Essence,Patrie,Caslemon,Caslemon VII,Fiber Composite,Perfect,24.68
+Essence,Patrie,Caslemon,Caslemon VII,Industrial Fibers,Medium,4.80
+Essence,Patrie,Caslemon,Caslemon VII,Heavy Water,Rich,198.15
+Essence,Patrie,Caslemon,Caslemon VIII,Lustering Alloy,Medium,17.36
+Essence,Patrie,Caslemon,Caslemon VIII,Base Metals,Rich,5.01
+Essence,Patrie,Caslemon,Caslemon VIII,Reactive Metals,Medium,3.77
+Essence,Patrie,Caslemon,Caslemon IX,Lustering Alloy,Perfect,24.55
+Essence,Patrie,Caslemon,Caslemon IX,Base Metals,Rich,5.92
+Essence,Patrie,Caslemon,Caslemon IX,Coolant,Poor,9.02
+Essence,Patrie,Caslemon,Caslemon X,Lustering Alloy,Rich,19.84
+Essence,Patrie,Caslemon,Caslemon X,Glossy Compound,Rich,20.73
+Essence,Patrie,Caslemon,Caslemon X,Base Metals,Rich,5.11
+Essence,Patrie,Caslemon,Caslemon XI,Lustering Alloy,Rich,22.25
+Essence,Patrie,Caslemon,Caslemon XI,Base Metals,Poor,3.17
+Essence,Patrie,Caslemon,Caslemon XII,Lustering Alloy,Medium,14.69
+Essence,Patrie,Caslemon,Caslemon XII,Base Metals,Poor,3.70
+Essence,Patrie,Jolevier,Jolevier I,Lustering Alloy,Medium,12.54
+Essence,Patrie,Jolevier,Jolevier I,Base Metals,Medium,3.82
+Essence,Patrie,Jolevier,Jolevier II,Lustering Alloy,Medium,11.45
+Essence,Patrie,Jolevier,Jolevier II,Base Metals,Poor,2.84
+Essence,Patrie,Jolevier,Jolevier III,Industrial Fibers,Rich,4.05
+Essence,Patrie,Jolevier,Jolevier III,Heavy Water,Medium,147.72
+Essence,Patrie,Jolevier,Jolevier III,Liquid Ozone,Rich,22.62
+Essence,Patrie,Jolevier,Jolevier IV,Condensed Alloy,Rich,17.59
+Essence,Patrie,Jolevier,Jolevier IV,Heavy Water,Rich,182.04
+Essence,Patrie,Jolevier,Jolevier IV,Liquid Ozone,Perfect,26.25
+Essence,Patrie,Jolevier,Jolevier V,Lustering Alloy,Rich,17.27
+Essence,Patrie,Jolevier,Jolevier V,Noble Gas,Rich,18.37
+Essence,Patrie,Jolevier,Jolevier V,Base Metals,Medium,3.23
+Essence,Patrie,Jolevier,Jolevier VI,Lustering Alloy,Medium,13.70
+Essence,Patrie,Jolevier,Jolevier VI,Base Metals,Perfect,5.19
+Essence,Patrie,Jolevier,Jolevier VI,Coolant,Rich,10.52
+Essence,Patrie,Jolevier,Jolevier VII,Lustering Alloy,Rich,18.54
+Essence,Patrie,Jolevier,Jolevier VII,Noble Gas,Poor,10.00
+Essence,Patrie,Jolevier,Jolevier VII,Base Metals,Medium,3.52
+Essence,Patrie,Jolevier,Jolevier VIII,Lustering Alloy,Medium,14.33
+Essence,Patrie,Jolevier,Jolevier VIII,Base Metals,Poor,2.88
+Essence,Patrie,Mesybier,Mesybier I,Lustering Alloy,Poor,12.40
+Essence,Patrie,Mesybier,Mesybier I,Dark Compound,Poor,11.09
+Essence,Patrie,Mesybier,Mesybier I,Industrial Fibers,Medium,4.57
+Essence,Patrie,Mesybier,Mesybier II,Noble Gas,Medium,16.66
+Essence,Patrie,Mesybier,Mesybier II,Heavy Metals,Rich,25.20
+Essence,Patrie,Mesybier,Mesybier III,Precious Alloy,Medium,15.97
+Essence,Patrie,Mesybier,Mesybier III,Industrial Fibers,Medium,4.46
+Essence,Patrie,Mesybier,Mesybier III,Construction Blocks,Medium,17.79
+Essence,Patrie,Mesybier,Mesybier IV,Reactive Metals,Medium,4.75
+Essence,Patrie,Mesybier,Mesybier IV,Construction Blocks,Medium,19.62
+Essence,Patrie,Mesybier,Mesybier IV,Suspended Plasma,Medium,64.74
+Essence,Patrie,Mesybier,Mesybier V,Sheen Compound,Rich,23.26
+Essence,Patrie,Mesybier,Mesybier V,Noble Gas,Medium,18.03
+Essence,Patrie,Mesybier,Mesybier V,Base Metals,Medium,3.99
+Essence,Patrie,Mesybier,Mesybier V,Coolant,Medium,11.08
+Essence,Patrie,Mesybier,Mesybier VI,Fiber Composite,Perfect,26.66
+Essence,Patrie,Mesybier,Mesybier VI,Smartfab Units,Perfect,17.97
+Essence,Patrie,Mesybier,Mesybier VI,Heavy Water,Perfect,296.32
+Essence,Patrie,Mesybier,Mesybier VI,Liquid Ozone,Medium,19.14
+Essence,Patrie,Mesybier,Mesybier VII,Glossy Compound,Medium,19.66
+Essence,Patrie,Mesybier,Mesybier VII,Reactive Gas,Medium,17.17
+Essence,Patrie,Mesybier,Mesybier VII,Noble Gas,Rich,24.93
+Essence,Patrie,Mesybier,Mesybier VII,Base Metals,Medium,5.17
+Essence,Patrie,Mesybier,Mesybier VIII,Fiber Composite,Medium,19.26
+Essence,Patrie,Mesybier,Mesybier VIII,Noble Metals,Poor,14.99
+Essence,Patrie,Mesybier,Mesybier VIII,Industrial Fibers,Rich,6.40
+Essence,Patrie,Mesybier,Mesybier VIII,Smartfab Units,Rich,16.78
+Essence,Patrie,Mesybier,Mesybier IX,Lustering Alloy,Medium,18.54
+Essence,Patrie,Mesybier,Mesybier IX,Sheen Compound,Rich,22.14
+Essence,Patrie,Mesybier,Mesybier IX,Glossy Compound,Rich,20.83
+Essence,Patrie,Mesybier,Mesybier IX,Noble Gas,Poor,13.60
+Essence,Patrie,Mesybier,Mesybier X,Precious Alloy,Poor,13.04
+Essence,Patrie,Mesybier,Mesybier X,Industrial Fibers,Poor,3.14
+Essence,Patrie,Mesybier,Mesybier X,Supertensile Plastics,Poor,8.83
+Essence,Patrie,Charmerout,Charmerout I,Lustering Alloy,Poor,9.54
+Essence,Patrie,Charmerout,Charmerout I,Base Metals,Medium,3.75
+Essence,Patrie,Charmerout,Charmerout II,Lustering Alloy,Poor,10.80
+Essence,Patrie,Charmerout,Charmerout II,Base Metals,Poor,2.77
+Essence,Patrie,Charmerout,Charmerout III,Lustering Alloy,Medium,18.00
+Essence,Patrie,Charmerout,Charmerout III,Base Metals,Poor,2.51
+Essence,Patrie,Charmerout,Charmerout IV,Lustering Alloy,Poor,11.46
+Essence,Patrie,Charmerout,Charmerout IV,Base Metals,Medium,3.91
+Essence,Patrie,Charmerout,Charmerout V,Lustering Alloy,Medium,14.65
+Essence,Patrie,Charmerout,Charmerout V,Base Metals,Medium,4.76
+Essence,Patrie,Charmerout,Charmerout VI,Lustering Alloy,Medium,14.78
+Essence,Patrie,Charmerout,Charmerout VI,Base Metals,Medium,4.68
+Essence,Patrie,Charmerout,Charmerout VI,Coolant,Medium,10.83
+Essence,Patrie,Charmerout,Charmerout VII,Lustering Alloy,Rich,23.80
+Essence,Patrie,Charmerout,Charmerout VII,Sheen Compound,Poor,13.65
+Essence,Patrie,Charmerout,Charmerout VII,Base Metals,Medium,4.49
+Essence,Patrie,Charmerout,Charmerout VIII,Gleaming Alloy,Poor,13.77
+Essence,Patrie,Charmerout,Charmerout VIII,Suspended Plasma,Medium,68.09
+Essence,Patrie,Charmerout,Charmerout IX,Lucent Compound,Rich,19.50
+Essence,Patrie,Charmerout,Charmerout IX,Suspended Plasma,Medium,62.53
+Essence,Patrie,Charmerout,Charmerout X,Coolant,Medium,9.62
+Essence,Patrie,Charmerout,Charmerout X,Heavy Water,Medium,180.15
+Essence,Patrie,Charmerout,Charmerout X,Liquid Ozone,Rich,24.26
+Essence,Patrie,Yvangier,Yvangier I,Base Metals,Poor,3.74
+Essence,Patrie,Yvangier,Yvangier I,Industrial Fibers,Medium,5.15
+Essence,Patrie,Yvangier,Yvangier I,Silicate Glass,Poor,7.11
+Essence,Patrie,Yvangier,Yvangier II,Noble Gas,Medium,19.82
+Essence,Patrie,Yvangier,Yvangier II,Noble Metals,Rich,23.55
+Essence,Patrie,Yvangier,Yvangier III,Fiber Composite,Rich,23.70
+Essence,Patrie,Yvangier,Yvangier III,Opulent Compound,Rich,26.09
+Essence,Patrie,Yvangier,Yvangier III,Noble Metals,Rich,22.75
+Essence,Patrie,Yvangier,Yvangier III,Industrial Fibers,Perfect,7.56
+Essence,Patrie,Yvangier,Yvangier IV,Fiber Composite,Medium,19.67
+Essence,Patrie,Yvangier,Yvangier IV,Reactive Gas,Perfect,28.58
+Essence,Patrie,Yvangier,Yvangier IV,Industrial Fibers,Perfect,7.52
+Essence,Patrie,Yvangier,Yvangier IV,Condensates,Rich,15.29
+Essence,Patrie,Yvangier,Yvangier V,Industrial Fibers,Medium,5.18
+Essence,Patrie,Yvangier,Yvangier V,Supertensile Plastics,Medium,11.79
+Essence,Patrie,Yvangier,Yvangier V,Construction Blocks,Poor,12.10
+Essence,Patrie,Yvangier,Yvangier VI,Lustering Alloy,Poor,15.66
+Essence,Patrie,Yvangier,Yvangier VI,Precious Alloy,Medium,18.05
+Essence,Patrie,Yvangier,Yvangier VI,Industrial Fibers,Poor,4.08
+Essence,Patrie,Yvangier,Yvangier VII,Fiber Composite,Medium,19.70
+Essence,Patrie,Yvangier,Yvangier VII,Opulent Compound,Medium,21.22
+Essence,Patrie,Yvangier,Yvangier VII,Industrial Fibers,Perfect,7.42
+Essence,Patrie,Yvangier,Yvangier VII,Smartfab Units,Perfect,18.41
+Essence,Patrie,Yvangier,Yvangier VIII,Supertensile Plastics,Rich,17.49
+Essence,Patrie,Yvangier,Yvangier VIII,Construction Blocks,Poor,15.10
+Essence,Patrie,Yvangier,Yvangier VIII,Oxygen Isotopes,Medium,2.90
+Essence,Patrie,Yvangier,Yvangier IX,Lustering Alloy,Rich,26.06
+Essence,Patrie,Yvangier,Yvangier IX,Sheen Compound,Rich,25.48
+Essence,Patrie,Yvangier,Yvangier IX,Glossy Compound,Rich,23.97
+Essence,Patrie,Yvangier,Yvangier IX,Noble Gas,Poor,14.67
+Essence,Patrie,Pemene,Pemene I,Noble Gas,Poor,14.82
+Essence,Patrie,Pemene,Pemene I,Oxygen Isotopes,Medium,2.49
+Essence,Patrie,Pemene,Pemene II,Precious Alloy,Poor,13.31
+Essence,Patrie,Pemene,Pemene II,Industrial Fibers,Poor,3.04
+Essence,Patrie,Pemene,Pemene II,Plasmoids,Medium,0.92
+Essence,Patrie,Pemene,Pemene III,Base Metals,Medium,4.00
+Essence,Patrie,Pemene,Pemene III,Industrial Fibers,Poor,2.92
+Essence,Patrie,Pemene,Pemene III,Construction Blocks,Poor,12.72
+Essence,Patrie,Pemene,Pemene IV,Condensed Alloy,Rich,23.30
+Essence,Patrie,Pemene,Pemene IV,Fiber Composite,Rich,23.06
+Essence,Patrie,Pemene,Pemene IV,Industrial Fibers,Perfect,6.92
+Essence,Patrie,Pemene,Pemene IV,Condensates,Medium,10.37
+Essence,Patrie,Pemene,Pemene V,Fiber Composite,Rich,24.19
+Essence,Patrie,Pemene,Pemene V,Noble Gas,Rich,21.20
+Essence,Patrie,Pemene,Pemene V,Base Metals,Medium,4.75
+Essence,Patrie,Pemene,Pemene V,Ionic Solutions,Medium,7.96
+Essence,Patrie,Pemene,Pemene VI,Sheen Compound,Medium,18.70
+Essence,Patrie,Pemene,Pemene VI,Noble Gas,Perfect,26.19
+Essence,Patrie,Pemene,Pemene VI,Base Metals,Rich,6.29
+Essence,Patrie,Pemene,Pemene VI,Ionic Solutions,Medium,6.43
+Essence,Patrie,Pemene,Pemene VII,Fiber Composite,Perfect,29.41
+Essence,Patrie,Pemene,Pemene VII,Base Metals,Poor,3.95
+Essence,Patrie,Pemene,Pemene VII,Heavy Water,Rich,252.32
+Essence,Patrie,Pemene,Pemene VII,Liquid Ozone,Perfect,34.24
+Essence,Patrie,Pemene,Pemene VIII,Glossy Compound,Medium,19.62
+Essence,Patrie,Pemene,Pemene VIII,Noble Gas,Medium,16.10
+Essence,Patrie,Pemene,Pemene VIII,Reactive Metals,Rich,5.50
+Essence,Patrie,Pemene,Pemene VIII,Coolant,Rich,14.99
+Essence,Patrie,Pemene,Pemene IX,Dark Compound,Medium,16.96
+Essence,Patrie,Pemene,Pemene IX,Industrial Fibers,Medium,4.64
+Essence,Patrie,Pemene,Pemene IX,Plasmoids,Poor,0.68
+Essence,Jeon,Heydieles,Heydieles I,Noble Gas,Perfect,28.10
+Essence,Jeon,Heydieles,Heydieles I,Polyaramids,Poor,9.80
+Essence,Jeon,Heydieles,Heydieles II,Condensed Alloy,Medium,16.83
+Essence,Jeon,Heydieles,Heydieles II,Fiber Composite,Perfect,28.12
+Essence,Jeon,Heydieles,Heydieles II,Base Metals,Perfect,7.29
+Essence,Jeon,Heydieles,Heydieles II,Industrial Fibers,Rich,6.87
+Essence,Jeon,Heydieles,Heydieles III,Noble Gas,Rich,22.32
+Essence,Jeon,Heydieles,Heydieles III,Base Metals,Perfect,7.40
+Essence,Jeon,Heydieles,Heydieles III,Polyaramids,Rich,16.23
+Essence,Jeon,Heydieles,Heydieles III,Coolant,Poor,10.66
+Essence,Jeon,Heydieles,Heydieles IV,Reactive Gas,Rich,25.69
+Essence,Jeon,Heydieles,Heydieles IV,Noble Gas,Rich,24.63
+Essence,Jeon,Heydieles,Heydieles IV,Reactive Metals,Medium,4.59
+Essence,Jeon,Heydieles,Heydieles IV,Polyaramids,Medium,11.25
+Essence,Jeon,Heydieles,Heydieles V,Lustering Alloy,Medium,17.07
+Essence,Jeon,Heydieles,Heydieles V,Coolant,Poor,10.04
+Essence,Jeon,Heydieles,Heydieles V,Liquid Ozone,Rich,29.05
+Essence,Jeon,Fliet,Fliet I,Lustering Alloy,Poor,13.86
+Essence,Jeon,Fliet,Fliet I,Dark Compound,Poor,15.62
+Essence,Jeon,Fliet,Fliet I,Industrial Fibers,Medium,4.49
+Essence,Jeon,Fliet,Fliet II,Glossy Compound,Poor,13.65
+Essence,Jeon,Fliet,Fliet II,Noble Gas,Rich,26.59
+Essence,Jeon,Fliet,Fliet III,Lustering Alloy,Poor,11.66
+Essence,Jeon,Fliet,Fliet III,Industrial Fibers,Medium,5.50
+Essence,Jeon,Fliet,Fliet III,Oxygen Isotopes,Poor,2.29
+Essence,Jeon,Fliet,Fliet IV,Fiber Composite,Medium,17.24
+Essence,Jeon,Fliet,Fliet IV,Glossy Compound,Rich,25.09
+Essence,Jeon,Fliet,Fliet IV,Noble Gas,Poor,15.64
+Essence,Jeon,Fliet,Fliet IV,Reactive Metals,Medium,4.93
+Essence,Jeon,Fliet,Fliet V,Base Metals,Poor,3.49
+Essence,Jeon,Fliet,Fliet V,Supertensile Plastics,Medium,13.40
+Essence,Jeon,Fliet,Fliet V,Coolant,Rich,15.40
+Essence,Jeon,Fliet,Fliet VI,Lustering Alloy,Rich,22.63
+Essence,Jeon,Fliet,Fliet VI,Noble Gas,Poor,15.76
+Essence,Jeon,Fliet,Fliet VI,Base Metals,Poor,3.91
+Essence,Jeon,Fliet,Fliet VI,Polyaramids,Rich,17.10
+Essence,Jeon,Fliet,Fliet VII,Precious Alloy,Medium,19.87
+Essence,Jeon,Fliet,Fliet VII,Industrial Fibers,Medium,5.14
+Essence,Jeon,Fliet,Fliet VII,Oxygen Isotopes,Medium,2.59
+Essence,Jeon,Actee,Actee I,Lustering Alloy,Medium,14.73
+Essence,Jeon,Actee,Actee I,Base Metals,Medium,4.28
+Essence,Jeon,Actee,Actee II,Lustering Alloy,Medium,15.26
+Essence,Jeon,Actee,Actee II,Sheen Compound,Rich,23.18
+Essence,Jeon,Actee,Actee II,Base Metals,Perfect,6.42
+Essence,Jeon,Actee,Actee III,Lustering Alloy,Poor,12.42
+Essence,Jeon,Actee,Actee III,Noble Gas,Rich,22.30
+Essence,Jeon,Actee,Actee III,Base Metals,Poor,3.55
+Essence,Jeon,Actee,Actee IV,Lustering Alloy,Poor,13.35
+Essence,Jeon,Actee,Actee IV,Base Metals,Poor,3.26
+Essence,Jeon,Actee,Actee IV,Ionic Solutions,Poor,5.50
+Essence,Jeon,Actee,Actee V,Lustering Alloy,Medium,14.84
+Essence,Jeon,Actee,Actee V,Base Metals,Poor,3.56
+Essence,Jeon,Actee,Actee VI,Lustering Alloy,Rich,23.25
+Essence,Jeon,Actee,Actee VI,Noble Gas,Poor,12.90
+Essence,Jeon,Actee,Actee VI,Base Metals,Poor,3.32
+Essence,Jeon,Actee,Actee VII,Lustering Alloy,Poor,10.99
+Essence,Jeon,Actee,Actee VII,Base Metals,Medium,4.03
+Essence,Jeon,Indregulle,Indregulle I,Toxic Metals,Medium,5.56
+Essence,Jeon,Indregulle,Indregulle I,Industrial Fibers,Medium,5.39
+Essence,Jeon,Indregulle,Indregulle I,Supertensile Plastics,Medium,11.60
+Essence,Jeon,Indregulle,Indregulle II,Motley Compound,Poor,14.44
+Essence,Jeon,Indregulle,Indregulle II,Noble Gas,Medium,18.49
+Essence,Jeon,Indregulle,Indregulle III,Precious Alloy,Medium,21.74
+Essence,Jeon,Indregulle,Indregulle III,Industrial Fibers,Medium,4.51
+Essence,Jeon,Indregulle,Indregulle III,Oxygen Isotopes,Poor,2.08
+Essence,Jeon,Indregulle,Indregulle IV,Reactive Gas,Rich,26.26
+Essence,Jeon,Indregulle,Indregulle IV,Construction Blocks,Rich,23.63
+Essence,Jeon,Indregulle,Indregulle IV,Nanites,Perfect,7.59
+Essence,Jeon,Indregulle,Indregulle V,Dark Compound,Medium,20.18
+Essence,Jeon,Indregulle,Indregulle V,Reactive Metals,Poor,4.33
+Essence,Jeon,Indregulle,Indregulle V,Condensates,Rich,18.19
+Essence,Jeon,Indregulle,Indregulle V,Nanites,Medium,5.16
+Essence,Jeon,Indregulle,Indregulle VI,Lucent Compound,Medium,22.57
+Essence,Jeon,Indregulle,Indregulle VI,Toxic Metals,Rich,6.88
+Essence,Jeon,Indregulle,Indregulle VI,Construction Blocks,Rich,24.53
+Essence,Jeon,Indregulle,Indregulle VII,Crystal Compound,Rich,28.21
+Essence,Jeon,Indregulle,Indregulle VII,Supertensile Plastics,Rich,15.84
+Essence,Jeon,Indregulle,Indregulle VII,Construction Blocks,Medium,18.09
+Essence,Jeon,Indregulle,Indregulle VIII,Lustering Alloy,Poor,15.37
+Essence,Jeon,Indregulle,Indregulle VIII,Reactive Gas,Poor,15.93
+Essence,Jeon,Indregulle,Indregulle VIII,Noble Gas,Poor,15.66
+Essence,Jeon,Indregulle,Indregulle VIII,Base Metals,Poor,4.23
+Essence,Jeon,Indregulle,Indregulle IX,Lustering Alloy,Rich,25.34
+Essence,Jeon,Indregulle,Indregulle IX,Sheen Compound,Medium,17.19
+Essence,Jeon,Indregulle,Indregulle IX,Noble Gas,Rich,26.93
+Essence,Jeon,Indregulle,Indregulle IX,Base Metals,Rich,6.45
+Essence,Jeon,Indregulle,Indregulle X,Precious Alloy,Medium,17.12
+Essence,Jeon,Indregulle,Indregulle X,Supertensile Plastics,Rich,16.51
+Essence,Jeon,Indregulle,Indregulle X,Coolant,Rich,16.06
+Essence,Jeon,Amane,Amane I,Lustering Alloy,Poor,12.29
+Essence,Jeon,Amane,Amane I,Base Metals,Poor,2.46
+Essence,Jeon,Amane,Amane II,Lustering Alloy,Medium,14.56
+Essence,Jeon,Amane,Amane II,Base Metals,Medium,4.28
+Essence,Jeon,Amane,Amane III,Lustering Alloy,Medium,14.18
+Essence,Jeon,Amane,Amane III,Base Metals,Poor,3.44
+Essence,Jeon,Amane,Amane IV,Lustering Alloy,Medium,16.04
+Essence,Jeon,Amane,Amane IV,Base Metals,Medium,4.84
+Essence,Jeon,Amane,Amane V,Lustering Alloy,Medium,17.89
+Essence,Jeon,Amane,Amane V,Base Metals,Poor,3.64
+Essence,Jeon,Amane,Amane VI,Lustering Alloy,Poor,14.04
+Essence,Jeon,Amane,Amane VI,Noble Gas,Rich,20.94
+Essence,Jeon,Amane,Amane VI,Base Metals,Medium,4.61
+Essence,Jeon,Amane,Amane VII,Lustering Alloy,Poor,14.13
+Essence,Jeon,Amane,Amane VII,Glossy Compound,Medium,17.05
+Essence,Jeon,Amane,Amane VII,Base Metals,Rich,5.07
+Essence,Jeon,Amane,Amane VIII,Lustering Alloy,Rich,23.41
+Essence,Jeon,Amane,Amane VIII,Fiber Composite,Rich,19.68
+Essence,Jeon,Amane,Amane VIII,Base Metals,Rich,5.10
+Essence,Jeon,Amane,Amane IX,Lustering Alloy,Medium,16.04
+Essence,Jeon,Amane,Amane IX,Base Metals,Poor,2.79
+Essence,Jeon,Amane,Amane X,Lustering Alloy,Poor,13.14
+Essence,Jeon,Amane,Amane X,Base Metals,Medium,4.20
+Essence,Jeon,Amane,Amane XI,Construction Blocks,Medium,18.80
+Essence,Jeon,Amane,Amane XI,Suspended Plasma,Rich,69.82
+Essence,Jeon,Amane,Amane XII,Lustering Alloy,Rich,21.87
+Essence,Jeon,Amane,Amane XII,Base Metals,Medium,4.95
+Essence,Jeon,Abune,Abune I,Base Metals,Poor,4.17
+Essence,Jeon,Abune,Abune I,Industrial Fibers,Medium,5.20
+Essence,Jeon,Abune,Abune I,Plasmoids,Poor,0.83
+Essence,Jeon,Abune,Abune II,Precious Alloy,Poor,16.36
+Essence,Jeon,Abune,Abune II,Industrial Fibers,Poor,4.18
+Essence,Jeon,Abune,Abune II,Silicate Glass,Medium,10.39
+Essence,Jeon,Abune,Abune III,Dark Compound,Medium,20.30
+Essence,Jeon,Abune,Abune III,Industrial Fibers,Poor,3.29
+Essence,Jeon,Abune,Abune III,Construction Blocks,Poor,15.62
+Essence,Jeon,Abune,Abune IV,Polyaramids,Rich,18.85
+Essence,Jeon,Abune,Abune IV,Coolant,Rich,15.24
+Essence,Jeon,Abune,Abune IV,Heavy Water,Medium,197.64
+Essence,Jeon,Abune,Abune IV,Liquid Ozone,Rich,31.23
+Essence,Jeon,Abune,Abune V,Lustering Alloy,Rich,26.66
+Essence,Jeon,Abune,Abune V,Sheen Compound,Medium,20.56
+Essence,Jeon,Abune,Abune V,Noble Gas,Rich,25.43
+Essence,Jeon,Abune,Abune V,Base Metals,Rich,6.45
+Essence,Jeon,Abune,Abune VI,Gleaming Alloy,Rich,27.77
+Essence,Jeon,Abune,Abune VI,Reactive Metals,Medium,5.48
+Essence,Jeon,Abune,Abune VI,Construction Blocks,Medium,19.22
+Essence,Jeon,Deven,Deven I,Lustering Alloy,Poor,10.69
+Essence,Jeon,Deven,Deven I,Industrial Fibers,Poor,3.04
+Essence,Jeon,Deven,Deven I,Plasmoids,Poor,0.78
+Essence,Jeon,Deven,Deven II,Condensed Alloy,Medium,20.55
+Essence,Jeon,Deven,Deven II,Fiber Composite,Poor,15.81
+Essence,Jeon,Deven,Deven II,Industrial Fibers,Rich,7.09
+Essence,Jeon,Deven,Deven II,Heavy Water,Medium,165.41
+Essence,Jeon,Deven,Deven III,Noble Gas,Medium,19.07
+Essence,Jeon,Deven,Deven III,Plasmoids,Rich,1.57
+Essence,Jeon,Deven,Deven IV,Glossy Compound,Rich,22.58
+Essence,Jeon,Deven,Deven IV,Reactive Gas,Rich,21.66
+Essence,Jeon,Deven,Deven IV,Noble Gas,Medium,18.21
+Essence,Jeon,Deven,Deven IV,Ionic Solutions,Rich,10.23
+Essence,Jeon,Deven,Deven V,Lustering Alloy,Medium,20.79
+Essence,Jeon,Deven,Deven V,Glossy Compound,Rich,22.58
+Essence,Jeon,Deven,Deven V,Noble Gas,Rich,22.24
+Essence,Jeon,Deven,Deven V,Reactive Metals,Perfect,7.25
+Essence,Jeon,Deven,Deven VI,Lustering Alloy,Rich,23.31
+Essence,Jeon,Deven,Deven VI,Reactive Gas,Poor,14.65
+Essence,Jeon,Deven,Deven VI,Noble Gas,Medium,19.30
+Essence,Jeon,Deven,Deven VI,Polyaramids,Medium,11.76
+Essence,Jeon,Deven,Deven VII,Fiber Composite,Rich,22.81
+Essence,Jeon,Deven,Deven VII,Reactive Gas,Medium,16.59
+Essence,Jeon,Deven,Deven VII,Noble Gas,Rich,26.28
+Essence,Jeon,Deven,Deven VII,Ionic Solutions,Poor,6.12
+Essence,Jeon,Deven,Deven VIII,Base Metals,Poor,3.98
+Essence,Jeon,Deven,Deven VIII,Supertensile Plastics,Poor,9.67
+Essence,Jeon,Deven,Deven VIII,Coolant,Poor,9.01
+Essence,Jeon,Estaunitte,Estaunitte I,Crystal Compound,Rich,23.34
+Essence,Jeon,Estaunitte,Estaunitte I,Reactive Gas,Medium,18.75
+Essence,Jeon,Estaunitte,Estaunitte I,Construction Blocks,Rich,23.31
+Essence,Jeon,Estaunitte,Estaunitte II,Gleaming Alloy,Medium,18.48
+Essence,Jeon,Estaunitte,Estaunitte II,Supertensile Plastics,Rich,16.35
+Essence,Jeon,Estaunitte,Estaunitte II,Construction Blocks,Medium,16.51
+Essence,Jeon,Estaunitte,Estaunitte III,Lustering Alloy,Medium,19.30
+Essence,Jeon,Estaunitte,Estaunitte III,Base Metals,Poor,3.65
+Essence,Jeon,Estaunitte,Estaunitte III,Industrial Fibers,Medium,4.50
+Essence,Jeon,Estaunitte,Estaunitte IV,Sheen Compound,Medium,15.73
+Essence,Jeon,Estaunitte,Estaunitte IV,Glossy Compound,Medium,18.46
+Essence,Jeon,Estaunitte,Estaunitte IV,Noble Gas,Medium,17.65
+Essence,Jeon,Estaunitte,Estaunitte IV,Ionic Solutions,Medium,7.63
+Essence,Jeon,Estaunitte,Estaunitte V,Fiber Composite,Rich,20.58
+Essence,Jeon,Estaunitte,Estaunitte V,Noble Gas,Medium,17.42
+Essence,Jeon,Estaunitte,Estaunitte V,Base Metals,Medium,4.03
+Essence,Jeon,Estaunitte,Estaunitte V,Reactive Metals,Medium,4.18
+Essence,Jeon,Estaunitte,Estaunitte VI,Lustering Alloy,Medium,18.90
+Essence,Jeon,Estaunitte,Estaunitte VI,Noble Gas,Medium,19.31
+Essence,Jeon,Estaunitte,Estaunitte VI,Base Metals,Medium,5.23
+Essence,Jeon,Estaunitte,Estaunitte VI,Ionic Solutions,Medium,6.88
+Essence,Jeon,Estaunitte,Estaunitte VII,Toxic Metals,Poor,3.61
+Essence,Jeon,Estaunitte,Estaunitte VII,Industrial Fibers,Medium,4.79
+Essence,Jeon,Estaunitte,Estaunitte VII,Supertensile Plastics,Poor,7.64
+Essence,Jeon,Estaunitte,Estaunitte VIII,Sheen Compound,Medium,19.46
+Essence,Jeon,Estaunitte,Estaunitte VIII,Noble Gas,Medium,19.78
+Essence,Jeon,Estaunitte,Estaunitte VIII,Polyaramids,Rich,16.84
+Essence,Jeon,Estaunitte,Estaunitte VIII,Coolant,Medium,10.45
+Essence,Jeon,Estaunitte,Estaunitte IX,Dark Compound,Poor,13.42
+Essence,Jeon,Estaunitte,Estaunitte IX,Base Metals,Medium,4.64
+Essence,Jeon,Estaunitte,Estaunitte IX,Industrial Fibers,Medium,4.75
+Essence,Jeon,Estaunitte,Estaunitte X,Fiber Composite,Medium,17.31
+Essence,Jeon,Estaunitte,Estaunitte X,Glossy Compound,Medium,19.06
+Essence,Jeon,Estaunitte,Estaunitte X,Noble Gas,Medium,19.20
+Essence,Jeon,Estaunitte,Estaunitte X,Base Metals,Poor,3.84
+Essence,Jeon,Estaunitte,Estaunitte XI,Crystal Compound,Medium,16.19
+Essence,Jeon,Estaunitte,Estaunitte XI,Toxic Metals,Medium,4.10
+Essence,Jeon,Estaunitte,Estaunitte XI,Coolant,Poor,9.40
+Essence,Jeon,Estaunitte,Estaunitte XI,Heavy Water,Medium,155.36
+Essence,Balrille,Deninard,Deninard I,Lustering Alloy,Poor,12.18
+Essence,Balrille,Deninard,Deninard I,Base Metals,Poor,2.28
+Essence,Balrille,Deninard,Deninard II,Lustering Alloy,Poor,10.01
+Essence,Balrille,Deninard,Deninard II,Base Metals,Medium,3.67
+Essence,Balrille,Deninard,Deninard III,Motley Compound,Medium,15.30
+Essence,Balrille,Deninard,Deninard III,Plasmoids,Medium,0.85
+Essence,Balrille,Deninard,Deninard IV,Condensates,Perfect,14.65
+Essence,Balrille,Deninard,Deninard IV,Heavy Water,Medium,161.85
+Essence,Balrille,Deninard,Deninard IV,Liquid Ozone,Perfect,26.84
+Essence,Balrille,Deninard,Deninard V,Gleaming Alloy,Medium,13.83
+Essence,Balrille,Deninard,Deninard V,Suspended Plasma,Medium,47.22
+Essence,Balrille,Deninard,Deninard VI,Lustering Alloy,Poor,11.36
+Essence,Balrille,Deninard,Deninard VI,Fiber Composite,Medium,15.98
+Essence,Balrille,Deninard,Deninard VI,Base Metals,Poor,3.16
+Essence,Balrille,Deninard,Deninard VII,Lustering Alloy,Poor,9.20
+Essence,Balrille,Deninard,Deninard VII,Base Metals,Poor,2.91
+Essence,Balrille,Deninard,Deninard VIII,Lustering Alloy,Medium,14.83
+Essence,Balrille,Deninard,Deninard VIII,Base Metals,Medium,3.99
+Essence,Balrille,Deninard,Deninard IX,Lustering Alloy,Poor,8.07
+Essence,Balrille,Deninard,Deninard IX,Base Metals,Medium,3.52
+Essence,Balrille,Hulmate,Hulmate I,Glossy Compound,Medium,19.46
+Essence,Balrille,Hulmate,Hulmate I,Noble Gas,Rich,21.14
+Essence,Balrille,Hulmate,Hulmate I,Base Metals,Medium,4.24
+Essence,Balrille,Hulmate,Hulmate I,Reactive Metals,Poor,3.68
+Essence,Balrille,Hulmate,Hulmate II,Lustering Alloy,Rich,21.47
+Essence,Balrille,Hulmate,Hulmate II,Glossy Compound,Poor,13.28
+Essence,Balrille,Hulmate,Hulmate II,Noble Gas,Medium,15.28
+Essence,Balrille,Hulmate,Hulmate II,Polyaramids,Medium,13.44
+Essence,Balrille,Hulmate,Hulmate III,Lustering Alloy,Rich,22.13
+Essence,Balrille,Hulmate,Hulmate III,Base Metals,Rich,5.91
+Essence,Balrille,Hulmate,Hulmate III,Coolant,Medium,12.04
+Essence,Balrille,Hulmate,Hulmate IV,Precious Alloy,Medium,16.99
+Essence,Balrille,Hulmate,Hulmate IV,Industrial Fibers,Poor,2.96
+Essence,Balrille,Hulmate,Hulmate IV,Supertensile Plastics,Poor,9.54
+Essence,Balrille,Hulmate,Hulmate V,Dark Compound,Poor,14.94
+Essence,Balrille,Hulmate,Hulmate V,Industrial Fibers,Medium,4.44
+Essence,Balrille,Hulmate,Hulmate V,Construction Blocks,Poor,11.28
+Essence,Balrille,Annages,Annages I,Lustering Alloy,Poor,10.96
+Essence,Balrille,Annages,Annages I,Base Metals,Medium,4.38
+Essence,Balrille,Annages,Annages II,Reactive Metals,Perfect,6.34
+Essence,Balrille,Annages,Annages II,Condensates,Rich,12.81
+Essence,Balrille,Annages,Annages II,Suspended Plasma,Rich,78.78
+Essence,Balrille,Annages,Annages III,Lustering Alloy,Medium,13.31
+Essence,Balrille,Annages,Annages III,Base Metals,Poor,2.32
+Essence,Balrille,Annages,Annages IV,Lustering Alloy,Poor,12.17
+Essence,Balrille,Annages,Annages IV,Base Metals,Poor,3.28
+Essence,Balrille,Annages,Annages V,Lustering Alloy,Medium,15.93
+Essence,Balrille,Annages,Annages V,Base Metals,Poor,2.79
+Essence,Balrille,Annages,Annages VI,Condensed Alloy,Perfect,23.66
+Essence,Balrille,Annages,Annages VI,Noble Metals,Perfect,25.52
+Essence,Balrille,Annages,Annages VI,Heavy Water,Medium,170.66
+Essence,Balrille,Annages,Annages VII,Opulent Compound,Perfect,22.99
+Essence,Balrille,Annages,Annages VII,Polyaramids,Rich,14.19
+Essence,Balrille,Annages,Annages VII,Heavy Water,Rich,183.40
+Essence,Balrille,Annages,Annages VIII,Lustering Alloy,Perfect,23.02
+Essence,Balrille,Annages,Annages VIII,Base Metals,Medium,3.63
+Essence,Balrille,Annages,Annages VIII,Reactive Metals,Medium,4.58
+Essence,Balrille,Annages,Annages IX,Lustering Alloy,Medium,16.80
+Essence,Balrille,Annages,Annages IX,Base Metals,Rich,5.63
+Essence,Balrille,Annages,Annages IX,Ionic Solutions,Rich,7.18
+Essence,Balrille,Annages,Annages X,Toxic Metals,Medium,3.62
+Essence,Balrille,Annages,Annages X,Coolant,Medium,9.81
+Essence,Balrille,Annages,Annages X,Heavy Water,Poor,129.64
+Essence,Balrille,Onne,Onne I,Lustering Alloy,Poor,10.66
+Essence,Balrille,Onne,Onne I,Industrial Fibers,Medium,5.03
+Essence,Balrille,Onne,Onne I,Supertensile Plastics,Poor,9.16
+Essence,Balrille,Onne,Onne II,Noble Gas,Rich,26.40
+Essence,Balrille,Onne,Onne II,Plasmoids,Rich,1.50
+Essence,Balrille,Onne,Onne III,Fiber Composite,Perfect,32.32
+Essence,Balrille,Onne,Onne III,Opulent Compound,Medium,20.77
+Essence,Balrille,Onne,Onne III,Reactive Gas,Perfect,27.06
+Essence,Balrille,Onne,Onne III,Heavy Water,Medium,209.78
+Essence,Balrille,Onne,Onne IV,Dark Compound,Medium,18.17
+Essence,Balrille,Onne,Onne IV,Base Metals,Medium,5.50
+Essence,Balrille,Onne,Onne IV,Industrial Fibers,Medium,4.40
+Essence,Balrille,Onne,Onne V,Lustering Alloy,Rich,24.38
+Essence,Balrille,Onne,Onne V,Reactive Gas,Medium,19.21
+Essence,Balrille,Onne,Onne V,Noble Gas,Medium,19.99
+Essence,Balrille,Onne,Onne V,Reactive Metals,Poor,3.80
+Essence,Balrille,Onne,Onne VI,Fiber Composite,Poor,14.94
+Essence,Balrille,Onne,Onne VI,Noble Gas,Rich,26.83
+Essence,Balrille,Onne,Onne VI,Base Metals,Poor,3.90
+Essence,Balrille,Onne,Onne VI,Coolant,Rich,15.99
+Essence,Balrille,Onne,Onne VII,Noble Gas,Perfect,28.07
+Essence,Balrille,Onne,Onne VII,Reactive Metals,Poor,4.02
+Essence,Balrille,Onne,Onne VII,Polyaramids,Perfect,18.11
+Essence,Balrille,Onne,Onne VII,Coolant,Perfect,18.04
+Essence,Balrille,Onne,Onne VIII,Industrial Fibers,Medium,5.15
+Essence,Balrille,Onne,Onne VIII,Supertensile Plastics,Medium,11.04
+Essence,Balrille,Onne,Onne VIII,Oxygen Isotopes,Medium,3.07
+Essence,Balrille,Vitrauze,Vitrauze I,Industrial Fibers,Medium,5.07
+Essence,Balrille,Vitrauze,Vitrauze I,Supertensile Plastics,Poor,10.18
+Essence,Balrille,Vitrauze,Vitrauze I,Silicate Glass,Medium,9.66
+Essence,Balrille,Vitrauze,Vitrauze II,Industrial Fibers,Poor,2.94
+Essence,Balrille,Vitrauze,Vitrauze II,Construction Blocks,Medium,20.56
+Essence,Balrille,Vitrauze,Vitrauze II,Oxygen Isotopes,Medium,3.07
+Essence,Balrille,Vitrauze,Vitrauze III,Dark Compound,Poor,16.96
+Essence,Balrille,Vitrauze,Vitrauze III,Industrial Fibers,Poor,3.58
+Essence,Balrille,Vitrauze,Vitrauze III,Oxygen Isotopes,Medium,3.29
+Essence,Balrille,Vitrauze,Vitrauze IV,Dark Compound,Medium,17.35
+Essence,Balrille,Vitrauze,Vitrauze IV,Toxic Metals,Poor,3.35
+Essence,Balrille,Vitrauze,Vitrauze IV,Industrial Fibers,Poor,3.05
+Essence,Balrille,Vitrauze,Vitrauze V,Base Metals,Poor,3.32
+Essence,Balrille,Vitrauze,Vitrauze V,Toxic Metals,Poor,4.02
+Essence,Balrille,Vitrauze,Vitrauze V,Industrial Fibers,Poor,3.73
+Essence,Balrille,Vitrauze,Vitrauze VI,Sheen Compound,Poor,16.11
+Essence,Balrille,Vitrauze,Vitrauze VI,Glossy Compound,Rich,23.63
+Essence,Balrille,Vitrauze,Vitrauze VI,Noble Gas,Medium,18.14
+Essence,Balrille,Vitrauze,Vitrauze VI,Base Metals,Perfect,7.79
+Essence,Balrille,Vitrauze,Vitrauze VII,Crystal Compound,Medium,21.08
+Essence,Balrille,Vitrauze,Vitrauze VII,Reactive Gas,Rich,25.69
+Essence,Balrille,Vitrauze,Vitrauze VII,Construction Blocks,Perfect,28.69
+Essence,Balrille,Vitrauze,Vitrauze VIII,Precious Alloy,Poor,12.62
+Essence,Balrille,Vitrauze,Vitrauze VIII,Industrial Fibers,Poor,3.56
+Essence,Balrille,Vitrauze,Vitrauze VIII,Oxygen Isotopes,Medium,3.10
+Essence,Balrille,Vitrauze,Vitrauze IX,Reactive Gas,Poor,15.95
+Essence,Balrille,Vitrauze,Vitrauze IX,Noble Gas,Poor,15.68
+Essence,Balrille,Vitrauze,Vitrauze IX,Base Metals,Medium,5.03
+Essence,Balrille,Vitrauze,Vitrauze IX,Coolant,Rich,15.48
+Essence,Balrille,Vitrauze,Vitrauze X,Fiber Composite,Rich,28.17
+Essence,Balrille,Vitrauze,Vitrauze X,Reactive Gas,Medium,20.57
+Essence,Balrille,Vitrauze,Vitrauze X,Noble Gas,Rich,25.85
+Essence,Balrille,Vitrauze,Vitrauze X,Polyaramids,Rich,17.24
+Essence,Balrille,Vitrauze,Vitrauze XI,Noble Gas,Medium,17.08
+Essence,Balrille,Vitrauze,Vitrauze XI,Base Metals,Medium,5.36
+Essence,Balrille,Vitrauze,Vitrauze XI,Coolant,Rich,18.52
+Essence,Balrille,Vitrauze,Vitrauze XI,Ionic Solutions,Medium,7.69
+Essence,Balrille,Vitrauze,Vitrauze XII,Base Metals,Medium,5.91
+Essence,Balrille,Vitrauze,Vitrauze XII,Coolant,Medium,13.66
+Essence,Balrille,Vitrauze,Vitrauze XII,Suspended Plasma,Poor,57.93
+Essence,Balrille,Palmon,Palmon I,Lucent Compound,Medium,15.92
+Essence,Balrille,Palmon,Palmon I,Construction Blocks,Rich,21.78
+Essence,Balrille,Palmon,Palmon I,Nanites,Rich,6.47
+Essence,Balrille,Palmon,Palmon II,Crystal Compound,Medium,19.31
+Essence,Balrille,Palmon,Palmon II,Supertensile Plastics,Rich,15.87
+Essence,Balrille,Palmon,Palmon II,Construction Blocks,Medium,16.35
+Essence,Balrille,Palmon,Palmon III,Motley Compound,Rich,24.59
+Essence,Balrille,Palmon,Palmon III,Noble Gas,Medium,16.27
+Essence,Balrille,Palmon,Palmon IV,Fiber Composite,Medium,16.90
+Essence,Balrille,Palmon,Palmon IV,Noble Gas,Medium,18.48
+Essence,Balrille,Palmon,Palmon IV,Polyaramids,Perfect,17.29
+Essence,Balrille,Palmon,Palmon IV,Ionic Solutions,Rich,8.24
+Essence,Balrille,Palmon,Palmon V,Lustering Alloy,Perfect,25.92
+Essence,Balrille,Palmon,Palmon V,Fiber Composite,Rich,20.59
+Essence,Balrille,Palmon,Palmon V,Noble Gas,Perfect,25.76
+Essence,Balrille,Palmon,Palmon V,Coolant,Poor,8.85
+Essence,Balrille,Palmon,Palmon VI,Sheen Compound,Rich,25.12
+Essence,Balrille,Palmon,Palmon VI,Noble Gas,Medium,20.02
+Essence,Balrille,Palmon,Palmon VI,Polyaramids,Medium,12.45
+Essence,Balrille,Palmon,Palmon VI,Ionic Solutions,Medium,6.52
+Essence,Balrille,Palmon,Palmon VII,Motley Compound,Poor,12.00
+Essence,Balrille,Palmon,Palmon VII,Supertensile Plastics,Poor,8.57
+Essence,Balrille,Palmon,Palmon VII,Coolant,Rich,15.01
+Essence,Balrille,Palmon,Palmon VIII,Base Metals,Poor,3.36
+Essence,Balrille,Palmon,Palmon VIII,Industrial Fibers,Medium,5.07
+Essence,Balrille,Palmon,Palmon VIII,Supertensile Plastics,Medium,12.53
+Essence,Vieres,Villore,Villore I,Lustering Alloy,Poor,12.82
+Essence,Vieres,Villore,Villore I,Base Metals,Poor,2.48
+Essence,Vieres,Villore,Villore II,Lustering Alloy,Medium,18.02
+Essence,Vieres,Villore,Villore II,Fiber Composite,Rich,20.73
+Essence,Vieres,Villore,Villore II,Base Metals,Medium,4.83
+Essence,Vieres,Villore,Villore III,Supertensile Plastics,Rich,13.83
+Essence,Vieres,Villore,Villore III,Suspended Plasma,Medium,63.45
+Essence,Vieres,Villore,Villore IV,Opulent Compound,Medium,17.71
+Essence,Vieres,Villore,Villore IV,Reactive Gas,Medium,14.69
+Essence,Vieres,Villore,Villore IV,Heavy Water,Rich,214.50
+Essence,Vieres,Villore,Villore V,Lustering Alloy,Poor,12.97
+Essence,Vieres,Villore,Villore V,Base Metals,Medium,4.87
+Essence,Vieres,Villore,Villore V,Polyaramids,Rich,15.10
+Essence,Vieres,Villore,Villore VI,Lustering Alloy,Medium,17.64
+Essence,Vieres,Villore,Villore VI,Base Metals,Rich,5.74
+Essence,Vieres,Villore,Villore VI,Coolant,Rich,15.19
+Essence,Vieres,Villore,Villore VII,Lustering Alloy,Rich,19.79
+Essence,Vieres,Villore,Villore VII,Glossy Compound,Rich,21.06
+Essence,Vieres,Villore,Villore VII,Base Metals,Rich,5.65
+Essence,Vieres,Villore,Villore VIII,Lustering Alloy,Rich,21.43
+Essence,Vieres,Villore,Villore VIII,Base Metals,Rich,5.42
+Essence,Vieres,Arant,Arant I,Lustering Alloy,Medium,14.73
+Essence,Vieres,Arant,Arant I,Base Metals,Poor,2.92
+Essence,Vieres,Arant,Arant II,Lustering Alloy,Poor,11.49
+Essence,Vieres,Arant,Arant II,Base Metals,Medium,3.78
+Essence,Vieres,Arant,Arant III,Industrial Fibers,Medium,3.87
+Essence,Vieres,Arant,Arant III,Smartfab Units,Rich,12.85
+Essence,Vieres,Arant,Arant III,Heavy Water,Perfect,239.54
+Essence,Vieres,Arant,Arant IV,Base Metals,Medium,4.58
+Essence,Vieres,Arant,Arant IV,Heavy Water,Medium,161.00
+Essence,Vieres,Arant,Arant IV,Liquid Ozone,Perfect,31.45
+Essence,Vieres,Arant,Arant V,Lustering Alloy,Perfect,23.24
+Essence,Vieres,Arant,Arant V,Base Metals,Medium,3.96
+Essence,Vieres,Arant,Arant V,Coolant,Rich,14.80
+Essence,Vieres,Arant,Arant VI,Lustering Alloy,Medium,16.48
+Essence,Vieres,Arant,Arant VI,Base Metals,Medium,4.13
+Essence,Vieres,Arant,Arant VI,Reactive Metals,Rich,5.60
+Essence,Vieres,Arant,Arant VII,Lustering Alloy,Medium,13.41
+Essence,Vieres,Arant,Arant VII,Base Metals,Medium,3.79
+Essence,Vieres,Arant,Arant VIII,Lustering Alloy,Poor,11.19
+Essence,Vieres,Arant,Arant VIII,Base Metals,Poor,2.31
+Essence,Vieres,Allamotte,Allamotte I,Lustering Alloy,Medium,15.99
+Essence,Vieres,Allamotte,Allamotte I,Base Metals,Medium,4.20
+Essence,Vieres,Allamotte,Allamotte II,Opulent Compound,Perfect,23.98
+Essence,Vieres,Allamotte,Allamotte II,Reactive Gas,Rich,21.45
+Essence,Vieres,Allamotte,Allamotte II,Heavy Water,Perfect,259.20
+Essence,Vieres,Allamotte,Allamotte III,Gleaming Alloy,Medium,16.36
+Essence,Vieres,Allamotte,Allamotte III,Suspended Plasma,Poor,43.74
+Essence,Vieres,Allamotte,Allamotte IV,Lustering Alloy,Rich,21.34
+Essence,Vieres,Allamotte,Allamotte IV,Sheen Compound,Poor,12.87
+Essence,Vieres,Allamotte,Allamotte IV,Base Metals,Medium,4.65
+Essence,Vieres,Allamotte,Allamotte V,Lustering Alloy,Poor,13.80
+Essence,Vieres,Allamotte,Allamotte V,Base Metals,Rich,5.32
+Essence,Vieres,Allamotte,Allamotte V,Ionic Solutions,Rich,9.37
+Essence,Vieres,Allamotte,Allamotte VI,Lustering Alloy,Poor,12.84
+Essence,Vieres,Allamotte,Allamotte VI,Sheen Compound,Rich,19.74
+Essence,Vieres,Allamotte,Allamotte VI,Base Metals,Rich,5.47
+Essence,Vieres,Allamotte,Allamotte VII,Lustering Alloy,Medium,16.48
+Essence,Vieres,Allamotte,Allamotte VII,Base Metals,Medium,4.62
+Essence,Vieres,Allamotte,Allamotte VIII,Lustering Alloy,Poor,13.13
+Essence,Vieres,Allamotte,Allamotte VIII,Base Metals,Medium,3.78
+Essence,Vieres,Allamotte,Allamotte IX,Lustering Alloy,Rich,22.04
+Essence,Vieres,Allamotte,Allamotte IX,Base Metals,Rich,5.57
+Essence,Vieres,Obalyu,Obalyu I,Toxic Metals,Medium,4.31
+Essence,Vieres,Obalyu,Obalyu I,Industrial Fibers,Medium,4.93
+Essence,Vieres,Obalyu,Obalyu I,Construction Blocks,Medium,15.14
+Essence,Vieres,Obalyu,Obalyu II,Lustering Alloy,Medium,15.76
+Essence,Vieres,Obalyu,Obalyu II,Toxic Metals,Medium,4.48
+Essence,Vieres,Obalyu,Obalyu II,Industrial Fibers,Poor,3.24
+Essence,Vieres,Obalyu,Obalyu III,Toxic Metals,Poor,3.18
+Essence,Vieres,Obalyu,Obalyu III,Industrial Fibers,Poor,3.45
+Essence,Vieres,Obalyu,Obalyu III,Oxygen Isotopes,Medium,2.84
+Essence,Vieres,Obalyu,Obalyu IV,Noble Gas,Poor,13.44
+Essence,Vieres,Obalyu,Obalyu IV,Reactive Metals,Rich,5.83
+Essence,Vieres,Obalyu,Obalyu IV,Coolant,Rich,14.25
+Essence,Vieres,Obalyu,Obalyu IV,Ionic Solutions,Rich,9.80
+Essence,Vieres,Obalyu,Obalyu V,Fiber Composite,Medium,19.26
+Essence,Vieres,Obalyu,Obalyu V,Noble Gas,Poor,14.88
+Essence,Vieres,Obalyu,Obalyu V,Polyaramids,Rich,14.39
+Essence,Vieres,Obalyu,Obalyu V,Coolant,Medium,10.09
+Essence,Vieres,Obalyu,Obalyu VI,Lustering Alloy,Rich,22.30
+Essence,Vieres,Obalyu,Obalyu VI,Sheen Compound,Rich,24.90
+Essence,Vieres,Obalyu,Obalyu VI,Fiber Composite,Medium,17.58
+Essence,Vieres,Obalyu,Obalyu VI,Noble Gas,Rich,20.80
+Essence,Vieres,Obalyu,Obalyu VII,Reactive Gas,Rich,22.40
+Essence,Vieres,Obalyu,Obalyu VII,Noble Gas,Medium,17.92
+Essence,Vieres,Obalyu,Obalyu VII,Base Metals,Poor,3.52
+Essence,Vieres,Obalyu,Obalyu VII,Ionic Solutions,Rich,8.42
+Essence,Vieres,Obalyu,Obalyu VIII,Lustering Alloy,Medium,19.09
+Essence,Vieres,Obalyu,Obalyu VIII,Supertensile Plastics,Rich,14.92
+Essence,Vieres,Obalyu,Obalyu VIII,Coolant,Poor,7.75
+Essence,Vieres,Obalyu,Obalyu IX,Condensed Alloy,Rich,22.70
+Essence,Vieres,Obalyu,Obalyu IX,Opulent Compound,Rich,21.41
+Essence,Vieres,Obalyu,Obalyu IX,Toxic Metals,Rich,6.31
+Essence,Vieres,Obalyu,Obalyu IX,Coolant,Rich,14.59
+Essence,Vieres,Vifrevaert,Vifrevaert I,Sheen Compound,Perfect,27.76
+Essence,Vieres,Vifrevaert,Vifrevaert I,Reactive Metals,Perfect,7.32
+Essence,Vieres,Vifrevaert,Vifrevaert I,Condensates,Medium,11.93
+Essence,Vieres,Vifrevaert,Vifrevaert I,Nanites,Medium,5.65
+Essence,Vieres,Vifrevaert,Vifrevaert II,Industrial Fibers,Medium,5.46
+Essence,Vieres,Vifrevaert,Vifrevaert II,Construction Blocks,Poor,14.09
+Essence,Vieres,Vifrevaert,Vifrevaert II,Plasmoids,Poor,0.68
+Essence,Vieres,Vifrevaert,Vifrevaert III,Precious Alloy,Medium,17.80
+Essence,Vieres,Vifrevaert,Vifrevaert III,Dark Compound,Poor,15.91
+Essence,Vieres,Vifrevaert,Vifrevaert III,Industrial Fibers,Poor,3.00
+Essence,Vieres,Vifrevaert,Vifrevaert IV,Construction Blocks,Rich,26.64
+Essence,Vieres,Vifrevaert,Vifrevaert IV,Suspended Plasma,Rich,77.66
+Essence,Vieres,Vifrevaert,Vifrevaert IV,Oxygen Isotopes,Rich,3.51
+Essence,Vieres,Vifrevaert,Vifrevaert V,Base Metals,Medium,4.36
+Essence,Vieres,Vifrevaert,Vifrevaert V,Industrial Fibers,Medium,4.73
+Essence,Vieres,Vifrevaert,Vifrevaert V,Supertensile Plastics,Medium,12.44
+Essence,Vieres,Vifrevaert,Vifrevaert VI,Base Metals,Medium,5.42
+Essence,Vieres,Vifrevaert,Vifrevaert VI,Toxic Metals,Poor,4.00
+Essence,Vieres,Vifrevaert,Vifrevaert VI,Industrial Fibers,Medium,4.99
+Essence,Vieres,Vifrevaert,Vifrevaert VII,Noble Gas,Rich,24.12
+Essence,Vieres,Vifrevaert,Vifrevaert VII,Oxygen Isotopes,Medium,3.03
+Essence,Vieres,Vifrevaert,Vifrevaert VIII,Reactive Gas,Medium,20.03
+Essence,Vieres,Vifrevaert,Vifrevaert VIII,Noble Gas,Rich,26.91
+Essence,Vieres,Vifrevaert,Vifrevaert VIII,Polyaramids,Rich,15.41
+Essence,Vieres,Vifrevaert,Vifrevaert VIII,Ionic Solutions,Rich,9.11
+Essence,Vieres,Vifrevaert,Vifrevaert IX,Lucent Compound,Rich,24.72
+Essence,Vieres,Vifrevaert,Vifrevaert IX,Crystal Compound,Rich,23.92
+Essence,Vieres,Vifrevaert,Vifrevaert IX,Construction Blocks,Poor,14.47
+Essence,Vieres,Vifrevaert,Vifrevaert X,Sheen Compound,Rich,26.81
+Essence,Vieres,Vifrevaert,Vifrevaert X,Fiber Composite,Poor,14.60
+Essence,Vieres,Vifrevaert,Vifrevaert X,Noble Gas,Medium,16.63
+Essence,Vieres,Vifrevaert,Vifrevaert X,Ionic Solutions,Poor,5.73
+Essence,Vieres,Vifrevaert,Vifrevaert XI,Fiber Composite,Rich,22.78
+Essence,Vieres,Vifrevaert,Vifrevaert XI,Noble Gas,Poor,15.59
+Essence,Vieres,Vifrevaert,Vifrevaert XI,Polyaramids,Rich,17.42
+Essence,Vieres,Vifrevaert,Vifrevaert XI,Ionic Solutions,Rich,9.70
+Essence,Vieres,Vifrevaert,Vifrevaert XII,Reactive Gas,Poor,15.98
+Essence,Vieres,Vifrevaert,Vifrevaert XII,Supertensile Plastics,Medium,10.90
+Essence,Vieres,Vifrevaert,Vifrevaert XII,Construction Blocks,Medium,19.98
+Essence,Vieres,Parts,Parts I,Lustering Alloy,Poor,15.45
+Essence,Vieres,Parts,Parts I,Precious Alloy,Poor,10.93
+Essence,Vieres,Parts,Parts I,Industrial Fibers,Medium,4.45
+Essence,Vieres,Parts,Parts II,Fiber Composite,Rich,26.11
+Essence,Vieres,Parts,Parts II,Noble Metals,Perfect,32.38
+Essence,Vieres,Parts,Parts II,Smartfab Units,Rich,15.07
+Essence,Vieres,Parts,Parts II,Liquid Ozone,Medium,22.21
+Essence,Vieres,Parts,Parts III,Noble Gas,Rich,24.65
+Essence,Vieres,Parts,Parts III,Heavy Metals,Rich,25.40
+Essence,Vieres,Parts,Parts IV,Glossy Compound,Medium,17.25
+Essence,Vieres,Parts,Parts IV,Noble Gas,Rich,22.78
+Essence,Vieres,Parts,Parts IV,Polyaramids,Medium,13.88
+Essence,Vieres,Parts,Parts IV,Coolant,Rich,17.90
+Essence,Vieres,Parts,Parts V,Construction Blocks,Perfect,27.68
+Essence,Vieres,Parts,Parts V,Suspended Plasma,Medium,61.87
+Essence,Vieres,Parts,Parts V,Oxygen Isotopes,Medium,2.82
+Essence,Vieres,Parts,Parts VI,Reactive Gas,Medium,17.99
+Essence,Vieres,Parts,Parts VI,Noble Gas,Rich,22.17
+Essence,Vieres,Parts,Parts VI,Base Metals,Medium,4.55
+Essence,Vieres,Parts,Parts VI,Polyaramids,Medium,14.34
+Essence,Vieres,Parts,Parts VII,Dark Compound,Poor,14.04
+Essence,Vieres,Parts,Parts VII,Base Metals,Poor,2.99
+Essence,Vieres,Parts,Parts VII,Industrial Fibers,Poor,3.56
+Essence,Vieres,Ladistier,Ladistier I,Noble Gas,Rich,22.97
+Essence,Vieres,Ladistier,Ladistier I,Heavy Metals,Medium,17.60
+Essence,Vieres,Ladistier,Ladistier II,Gleaming Alloy,Poor,16.42
+Essence,Vieres,Ladistier,Ladistier II,Reactive Metals,Medium,5.96
+Essence,Vieres,Ladistier,Ladistier II,Construction Blocks,Rich,23.63
+Essence,Vieres,Ladistier,Ladistier III,Noble Gas,Medium,18.40
+Essence,Vieres,Ladistier,Ladistier III,Base Metals,Medium,5.66
+Essence,Vieres,Ladistier,Ladistier III,Reactive Metals,Rich,7.18
+Essence,Vieres,Ladistier,Ladistier III,Coolant,Medium,14.99
+Essence,Vieres,Ladistier,Ladistier IV,Gleaming Alloy,Medium,19.06
+Essence,Vieres,Ladistier,Ladistier IV,Toxic Metals,Rich,6.61
+Essence,Vieres,Ladistier,Ladistier IV,Construction Blocks,Rich,28.12
+Essence,Vieres,Ladistier,Ladistier V,Reactive Gas,Rich,27.74
+Essence,Vieres,Ladistier,Ladistier V,Noble Gas,Medium,18.20
+Essence,Vieres,Ladistier,Ladistier V,Base Metals,Medium,5.62
+Essence,Vieres,Ladistier,Ladistier V,Polyaramids,Medium,14.66
+Essence,Vieres,Ladistier,Ladistier VI,Glossy Compound,Poor,14.83
+Essence,Vieres,Ladistier,Ladistier VI,Noble Gas,Medium,20.25
+Essence,Vieres,Ladistier,Ladistier VI,Reactive Metals,Poor,3.99
+Essence,Vieres,Ladistier,Ladistier VI,Polyaramids,Rich,18.53
+Essence,Vieres,Ladistier,Ladistier VII,Base Metals,Medium,5.35
+Essence,Vieres,Ladistier,Ladistier VII,Toxic Metals,Medium,5.63
+Essence,Vieres,Ladistier,Ladistier VII,Industrial Fibers,Poor,3.92
+Essence,Vieres,Ladistier,Ladistier VIII,Lustering Alloy,Poor,12.58
+Essence,Vieres,Ladistier,Ladistier VIII,Industrial Fibers,Poor,3.41
+Essence,Vieres,Ladistier,Ladistier VIII,Silicate Glass,Poor,8.04
+Essence,Vieres,Old Man Star,Old Man Star I,Noble Gas,Perfect,27.78
+Essence,Vieres,Old Man Star,Old Man Star I,Plasmoids,Rich,1.57
+Essence,Vieres,Old Man Star,Old Man Star II,Base Metals,Medium,4.72
+Essence,Vieres,Old Man Star,Old Man Star II,Industrial Fibers,Poor,3.22
+Essence,Vieres,Old Man Star,Old Man Star II,Silicate Glass,Poor,7.03
+Essence,Vieres,Old Man Star,Old Man Star III,Condensed Alloy,Medium,20.01
+Essence,Vieres,Old Man Star,Old Man Star III,Crystal Compound,Medium,18.63
+Essence,Vieres,Old Man Star,Old Man Star III,Toxic Metals,Medium,4.42
+Essence,Vieres,Old Man Star,Old Man Star III,Coolant,Medium,14.16
+Essence,Vieres,Old Man Star,Old Man Star IV,Dark Compound,Medium,17.53
+Essence,Vieres,Old Man Star,Old Man Star IV,Industrial Fibers,Poor,3.41
+Essence,Vieres,Old Man Star,Old Man Star IV,Supertensile Plastics,Medium,13.55
+Essence,Vieres,Old Man Star,Old Man Star V,Lustering Alloy,Poor,15.27
+Essence,Vieres,Old Man Star,Old Man Star V,Noble Gas,Medium,20.81
+Essence,Vieres,Old Man Star,Old Man Star V,Reactive Metals,Rich,6.34
+Essence,Vieres,Old Man Star,Old Man Star V,Coolant,Poor,9.98
+Essence,Vieres,Old Man Star,Old Man Star VI,Fiber Composite,Perfect,29.99
+Essence,Vieres,Old Man Star,Old Man Star VI,Reactive Gas,Rich,26.86
+Essence,Vieres,Old Man Star,Old Man Star VI,Industrial Fibers,Perfect,7.15
+Essence,Vieres,Old Man Star,Old Man Star VI,Smartfab Units,Perfect,19.10
+Essence,Vieres,Old Man Star,Old Man Star VII,Industrial Fibers,Poor,3.64
+Essence,Vieres,Old Man Star,Old Man Star VII,Supertensile Plastics,Medium,12.60
+Essence,Vieres,Old Man Star,Old Man Star VII,Plasmoids,Medium,1.16
+Essence,Vieres,Old Man Star,Old Man Star VIII,Sheen Compound,Poor,14.26
+Essence,Vieres,Old Man Star,Old Man Star VIII,Fiber Composite,Medium,16.29
+Essence,Vieres,Old Man Star,Old Man Star VIII,Reactive Gas,Medium,18.26
+Essence,Vieres,Old Man Star,Old Man Star VIII,Noble Gas,Poor,15.78
+Essence,Vieres,Old Man Star,Old Man Star IX,Noble Gas,Rich,26.42
+Essence,Vieres,Old Man Star,Old Man Star IX,Polyaramids,Rich,16.77
+Essence,Vieres,Old Man Star,Old Man Star IX,Coolant,Medium,14.25
+Essence,Vieres,Old Man Star,Old Man Star IX,Ionic Solutions,Medium,7.15
+Essence,Vieres,Old Man Star,Old Man Star X,Fiber Composite,Medium,17.54
+Essence,Vieres,Old Man Star,Old Man Star X,Noble Gas,Poor,15.84
+Essence,Vieres,Old Man Star,Old Man Star X,Base Metals,Rich,6.89
+Essence,Vieres,Old Man Star,Old Man Star X,Ionic Solutions,Medium,6.49
+Essence,Vieres,Old Man Star,Old Man Star XI,Noble Gas,Rich,25.48
+Essence,Vieres,Old Man Star,Old Man Star XI,Plasmoids,Rich,1.39
+Essence,Peccanouette,Arnon,Arnon I,Lustering Alloy,Poor,10.06
+Essence,Peccanouette,Arnon,Arnon I,Base Metals,Poor,2.96
+Essence,Peccanouette,Arnon,Arnon II,Lustering Alloy,Poor,13.21
+Essence,Peccanouette,Arnon,Arnon II,Base Metals,Medium,3.77
+Essence,Peccanouette,Arnon,Arnon III,Lustering Alloy,Medium,14.76
+Essence,Peccanouette,Arnon,Arnon III,Base Metals,Poor,3.24
+Essence,Peccanouette,Arnon,Arnon IV,Lustering Alloy,Medium,16.07
+Essence,Peccanouette,Arnon,Arnon IV,Base Metals,Poor,3.26
+Essence,Peccanouette,Arnon,Arnon V,Lustering Alloy,Medium,17.77
+Essence,Peccanouette,Arnon,Arnon V,Base Metals,Medium,3.88
+Essence,Peccanouette,Arnon,Arnon VI,Lustering Alloy,Medium,15.78
+Essence,Peccanouette,Arnon,Arnon VI,Base Metals,Medium,4.44
+Essence,Peccanouette,Arnon,Arnon VII,Suspended Plasma,Medium,56.70
+Essence,Peccanouette,Arnon,Arnon VII,Oxygen Isotopes,Rich,3.33
+Essence,Peccanouette,Arnon,Arnon VIII,Lustering Alloy,Medium,14.23
+Essence,Peccanouette,Arnon,Arnon VIII,Base Metals,Poor,3.32
+Essence,Peccanouette,Arnon,Arnon VIII,Reactive Metals,Rich,5.95
+Essence,Peccanouette,Arnon,Arnon IX,Lustering Alloy,Medium,16.25
+Essence,Peccanouette,Arnon,Arnon IX,Base Metals,Medium,4.18
+Essence,Peccanouette,Arnon,Arnon IX,Ionic Solutions,Rich,7.76
+Essence,Peccanouette,Arnon,Arnon X,Lustering Alloy,Medium,18.80
+Essence,Peccanouette,Arnon,Arnon X,Sheen Compound,Perfect,24.73
+Essence,Peccanouette,Arnon,Arnon X,Base Metals,Perfect,6.36
+Essence,Peccanouette,Arnon,Arnon XI,Lustering Alloy,Rich,23.13
+Essence,Peccanouette,Arnon,Arnon XI,Noble Gas,Medium,16.08
+Essence,Peccanouette,Arnon,Arnon XI,Base Metals,Medium,4.18
+Essence,Peccanouette,Arnon,Arnon XII,Crystal Compound,Rich,20.43
+Essence,Peccanouette,Arnon,Arnon XII,Coolant,Rich,14.33
+Essence,Peccanouette,Arnon,Arnon XII,Heavy Water,Medium,157.35
+Essence,Peccanouette,Laurvier,Laurvier I,Motley Compound,Poor,11.18
+Essence,Peccanouette,Laurvier,Laurvier I,Smartfab Units,Rich,13.48
+Essence,Peccanouette,Laurvier,Laurvier II,Lustering Alloy,Poor,10.01
+Essence,Peccanouette,Laurvier,Laurvier II,Base Metals,Medium,3.43
+Essence,Peccanouette,Laurvier,Laurvier III,Dark Compound,Medium,13.09
+Essence,Peccanouette,Laurvier,Laurvier III,Suspended Plasma,Rich,68.37
+Essence,Peccanouette,Laurvier,Laurvier III,Plasmoids,Rich,1.02
+Essence,Peccanouette,Laurvier,Laurvier IV,Lustering Alloy,Medium,13.21
+Essence,Peccanouette,Laurvier,Laurvier IV,Base Metals,Medium,3.45
+Essence,Peccanouette,Laurvier,Laurvier V,Motley Compound,Poor,11.84
+Essence,Peccanouette,Laurvier,Laurvier V,Construction Blocks,Perfect,21.57
+Essence,Peccanouette,Laurvier,Laurvier VI,Lustering Alloy,Medium,15.44
+Essence,Peccanouette,Laurvier,Laurvier VI,Base Metals,Medium,3.25
+Essence,Peccanouette,Laurvier,Laurvier VII,Opulent Compound,Rich,20.58
+Essence,Peccanouette,Laurvier,Laurvier VII,Silicate Glass,Perfect,10.63
+Essence,Peccanouette,Laurvier,Laurvier VII,Heavy Water,Perfect,210.86
+Essence,Peccanouette,Laurvier,Laurvier VIII,Lustering Alloy,Medium,12.35
+Essence,Peccanouette,Laurvier,Laurvier VIII,Base Metals,Poor,2.31
+Essence,Peccanouette,Laurvier,Laurvier IX,Lustering Alloy,Rich,19.81
+Essence,Peccanouette,Laurvier,Laurvier IX,Glossy Compound,Rich,18.86
+Essence,Peccanouette,Laurvier,Laurvier IX,Base Metals,Medium,3.36
+Essence,Peccanouette,Laurvier,Laurvier X,Fiber Composite,Rich,17.37
+Essence,Peccanouette,Laurvier,Laurvier X,Industrial Fibers,Medium,4.30
+Essence,Peccanouette,Laurvier,Laurvier X,Heavy Water,Perfect,232.70
+Essence,Peccanouette,Laurvier,Laurvier XI,Lustering Alloy,Rich,17.28
+Essence,Peccanouette,Laurvier,Laurvier XI,Reactive Gas,Rich,18.30
+Essence,Peccanouette,Laurvier,Laurvier XI,Base Metals,Rich,5.27
+Essence,Peccanouette,Laurvier,Laurvier XII,Lustering Alloy,Poor,8.78
+Essence,Peccanouette,Laurvier,Laurvier XII,Base Metals,Poor,2.13
+Essence,Peccanouette,Adirain,Adirain I,Dark Compound,Poor,10.32
+Essence,Peccanouette,Adirain,Adirain I,Industrial Fibers,Medium,4.88
+Essence,Peccanouette,Adirain,Adirain I,Plasmoids,Poor,0.75
+Essence,Peccanouette,Adirain,Adirain II,Motley Compound,Medium,15.78
+Essence,Peccanouette,Adirain,Adirain II,Noble Gas,Poor,13.07
+Essence,Peccanouette,Adirain,Adirain III,Toxic Metals,Medium,4.64
+Essence,Peccanouette,Adirain,Adirain III,Industrial Fibers,Medium,4.61
+Essence,Peccanouette,Adirain,Adirain III,Silicate Glass,Poor,5.80
+Essence,Peccanouette,Adirain,Adirain IV,Sheen Compound,Rich,23.65
+Essence,Peccanouette,Adirain,Adirain IV,Fiber Composite,Rich,24.64
+Essence,Peccanouette,Adirain,Adirain IV,Reactive Gas,Rich,25.06
+Essence,Peccanouette,Adirain,Adirain IV,Noble Gas,Medium,20.03
+Essence,Peccanouette,Adirain,Adirain V,Fiber Composite,Poor,14.00
+Essence,Peccanouette,Adirain,Adirain V,Reactive Gas,Medium,15.38
+Essence,Peccanouette,Adirain,Adirain V,Noble Gas,Medium,18.16
+Essence,Peccanouette,Adirain,Adirain V,Ionic Solutions,Rich,8.96
+Essence,Peccanouette,Adirain,Adirain VI,Precious Alloy,Poor,9.92
+Essence,Peccanouette,Adirain,Adirain VI,Industrial Fibers,Medium,4.77
+Essence,Peccanouette,Adirain,Adirain VI,Construction Blocks,Poor,11.74
+Essence,Peccanouette,Adirain,Adirain VII,Fiber Composite,Rich,24.37
+Essence,Peccanouette,Adirain,Adirain VII,Opulent Compound,Medium,15.17
+Essence,Peccanouette,Adirain,Adirain VII,Smartfab Units,Medium,12.75
+Essence,Peccanouette,Adirain,Adirain VII,Heavy Water,Medium,174.24
+Essence,Peccanouette,Adirain,Adirain VIII,Sheen Compound,Rich,20.34
+Essence,Peccanouette,Adirain,Adirain VIII,Glossy Compound,Poor,13.15
+Essence,Peccanouette,Adirain,Adirain VIII,Reactive Gas,Poor,14.83
+Essence,Peccanouette,Adirain,Adirain VIII,Noble Gas,Poor,14.21
+Essence,Peccanouette,Adirain,Adirain IX,Noble Gas,Medium,15.39
+Essence,Peccanouette,Adirain,Adirain IX,Polyaramids,Rich,15.80
+Essence,Peccanouette,Adirain,Adirain IX,Coolant,Rich,16.80
+Essence,Peccanouette,Adirain,Adirain IX,Ionic Solutions,Rich,9.00
+Essence,Peccanouette,Adirain,Adirain X,Precious Alloy,Medium,20.14
+Essence,Peccanouette,Adirain,Adirain X,Coolant,Medium,10.26
+Essence,Peccanouette,Adirain,Adirain X,Liquid Ozone,Medium,20.80
+Essence,Peccanouette,Attyn,Attyn I,Lustering Alloy,Poor,11.48
+Essence,Peccanouette,Attyn,Attyn I,Base Metals,Poor,2.68
+Essence,Peccanouette,Attyn,Attyn II,Reactive Gas,Poor,12.99
+Essence,Peccanouette,Attyn,Attyn II,Suspended Plasma,Medium,47.78
+Essence,Peccanouette,Attyn,Attyn III,Toxic Metals,Medium,4.25
+Essence,Peccanouette,Attyn,Attyn III,Heavy Water,Perfect,238.98
+Essence,Peccanouette,Attyn,Attyn III,Ionic Solutions,Rich,7.90
+Essence,Peccanouette,Attyn,Attyn IV,Lustering Alloy,Rich,19.43
+Essence,Peccanouette,Attyn,Attyn IV,Reactive Gas,Rich,21.76
+Essence,Peccanouette,Attyn,Attyn IV,Base Metals,Medium,3.71
+Essence,Peccanouette,Attyn,Attyn V,Lustering Alloy,Rich,20.30
+Essence,Peccanouette,Attyn,Attyn V,Reactive Gas,Medium,15.96
+Essence,Peccanouette,Attyn,Attyn V,Base Metals,Rich,5.51
+Essence,Peccanouette,Attyn,Attyn VI,Lustering Alloy,Poor,11.86
+Essence,Peccanouette,Attyn,Attyn VI,Base Metals,Medium,4.10
+Essence,Peccanouette,Ignebaener,Ignebaener I,Sheen Compound,Medium,15.04
+Essence,Peccanouette,Ignebaener,Ignebaener I,Condensates,Perfect,16.76
+Essence,Peccanouette,Ignebaener,Ignebaener I,Suspended Plasma,Rich,71.60
+Essence,Peccanouette,Ignebaener,Ignebaener II,Motley Compound,Medium,17.89
+Essence,Peccanouette,Ignebaener,Ignebaener II,Polyaramids,Rich,14.45
+Essence,Peccanouette,Ignebaener,Ignebaener III,Lustering Alloy,Medium,14.88
+Essence,Peccanouette,Ignebaener,Ignebaener III,Base Metals,Medium,4.85
+Essence,Peccanouette,Ignebaener,Ignebaener IV,Motley Compound,Rich,23.70
+Essence,Peccanouette,Ignebaener,Ignebaener IV,Oxygen Isotopes,Rich,2.86
+Essence,Peccanouette,Ignebaener,Ignebaener V,Condensates,Rich,15.45
+Essence,Peccanouette,Ignebaener,Ignebaener V,Heavy Water,Perfect,245.25
+Essence,Peccanouette,Ignebaener,Ignebaener V,Liquid Ozone,Rich,27.39
+Essence,Peccanouette,Ignebaener,Ignebaener VI,Lustering Alloy,Medium,16.62
+Essence,Peccanouette,Ignebaener,Ignebaener VI,Base Metals,Medium,4.41
+Essence,Peccanouette,Aere,Aere I,Lustering Alloy,Medium,15.39
+Essence,Peccanouette,Aere,Aere I,Base Metals,Poor,3.18
+Essence,Peccanouette,Aere,Aere II,Motley Compound,Poor,11.23
+Essence,Peccanouette,Aere,Aere II,Construction Blocks,Rich,18.16
+Essence,Peccanouette,Aere,Aere III,Lustering Alloy,Poor,12.52
+Essence,Peccanouette,Aere,Aere III,Base Metals,Medium,4.07
+Essence,Peccanouette,Aere,Aere IV,Motley Compound,Rich,19.38
+Essence,Peccanouette,Aere,Aere IV,Construction Blocks,Medium,17.29
+Essence,Peccanouette,Aere,Aere V,Toxic Metals,Rich,4.79
+Essence,Peccanouette,Aere,Aere V,Suspended Plasma,Medium,57.86
+Essence,Peccanouette,Aere,Aere VI,Lustering Alloy,Medium,16.86
+Essence,Peccanouette,Aere,Aere VI,Base Metals,Poor,3.25
+Essence,Peccanouette,Aere,Aere VI,Polyaramids,Rich,12.18
+Essence,Peccanouette,Aere,Aere VII,Lustering Alloy,Medium,13.59
+Essence,Peccanouette,Aere,Aere VII,Base Metals,Medium,4.55
+Essence,Peccanouette,Aere,Aere VII,Polyaramids,Medium,10.63
+Essence,Peccanouette,Aere,Aere VIII,Lustering Alloy,Perfect,22.64
+Essence,Peccanouette,Aere,Aere VIII,Reactive Gas,Rich,18.34
+Essence,Peccanouette,Aere,Aere VIII,Base Metals,Medium,4.63
+Essence,Peccanouette,Aere,Aere IX,Lustering Alloy,Medium,15.96
+Essence,Peccanouette,Aere,Aere IX,Base Metals,Medium,3.99
+Essence,Peccanouette,Lisbaetanne,Lisbaetanne I,Construction Blocks,Rich,22.71
+Essence,Peccanouette,Lisbaetanne,Lisbaetanne I,Nanites,Medium,4.48
+Essence,Peccanouette,Lisbaetanne,Lisbaetanne I,Suspended Plasma,Poor,54.22
+Essence,Peccanouette,Lisbaetanne,Lisbaetanne II,Industrial Fibers,Medium,4.51
+Essence,Peccanouette,Lisbaetanne,Lisbaetanne II,Supertensile Plastics,Poor,8.70
+Essence,Peccanouette,Lisbaetanne,Lisbaetanne II,Silicate Glass,Medium,8.92
+Essence,Peccanouette,Lisbaetanne,Lisbaetanne III,Fiber Composite,Medium,17.02
+Essence,Peccanouette,Lisbaetanne,Lisbaetanne III,Reactive Gas,Rich,24.04
+Essence,Peccanouette,Lisbaetanne,Lisbaetanne III,Industrial Fibers,Medium,5.11
+Essence,Peccanouette,Lisbaetanne,Lisbaetanne III,Heavy Water,Medium,208.25
+Essence,Peccanouette,Lisbaetanne,Lisbaetanne IV,Lustering Alloy,Perfect,27.37
+Essence,Peccanouette,Lisbaetanne,Lisbaetanne IV,Sheen Compound,Medium,16.95
+Essence,Peccanouette,Lisbaetanne,Lisbaetanne IV,Noble Gas,Medium,21.18
+Essence,Peccanouette,Lisbaetanne,Lisbaetanne IV,Polyaramids,Medium,10.71
+Essence,Peccanouette,Lisbaetanne,Lisbaetanne V,Sheen Compound,Perfect,28.15
+Essence,Peccanouette,Lisbaetanne,Lisbaetanne V,Reactive Gas,Rich,26.45
+Essence,Peccanouette,Lisbaetanne,Lisbaetanne V,Noble Gas,Rich,24.31
+Essence,Peccanouette,Lisbaetanne,Lisbaetanne V,Reactive Metals,Rich,6.53
+Essence,Peccanouette,Lisbaetanne,Lisbaetanne VI,Noble Metals,Rich,26.62
+Essence,Peccanouette,Lisbaetanne,Lisbaetanne VI,Polyaramids,Medium,13.48
+Essence,Peccanouette,Lisbaetanne,Lisbaetanne VI,Coolant,Rich,15.58
+Essence,Peccanouette,Lisbaetanne,Lisbaetanne VI,Liquid Ozone,Perfect,36.27
+Essence,Peccanouette,Lisbaetanne,Lisbaetanne VII,Motley Compound,Medium,21.25
+Essence,Peccanouette,Lisbaetanne,Lisbaetanne VII,Base Metals,Medium,4.84
+Essence,Peccanouette,Lisbaetanne,Lisbaetanne VII,Coolant,Rich,15.10
+Essence,Peccanouette,Aeschee,Aeschee I,Noble Gas,Medium,20.01
+Essence,Peccanouette,Aeschee,Aeschee I,Oxygen Isotopes,Poor,2.58
+Essence,Peccanouette,Aeschee,Aeschee II,Dark Compound,Medium,22.08
+Essence,Peccanouette,Aeschee,Aeschee II,Industrial Fibers,Medium,5.73
+Essence,Peccanouette,Aeschee,Aeschee II,Plasmoids,Medium,1.39
+Essence,Peccanouette,Aeschee,Aeschee III,Crystal Compound,Poor,17.84
+Essence,Peccanouette,Aeschee,Aeschee III,Noble Metals,Medium,18.39
+Essence,Peccanouette,Aeschee,Aeschee III,Coolant,Medium,14.78
+Essence,Peccanouette,Aeschee,Aeschee III,Liquid Ozone,Rich,36.15
+Essence,Peccanouette,Aeschee,Aeschee IV,Fiber Composite,Medium,21.32
+Essence,Peccanouette,Aeschee,Aeschee IV,Base Metals,Perfect,9.10
+Essence,Peccanouette,Aeschee,Aeschee IV,Smartfab Units,Rich,17.35
+Essence,Peccanouette,Aeschee,Aeschee IV,Liquid Ozone,Rich,36.91
+Essence,Peccanouette,Aeschee,Aeschee V,Lustering Alloy,Poor,14.74
+Essence,Peccanouette,Aeschee,Aeschee V,Toxic Metals,Poor,3.82
+Essence,Peccanouette,Aeschee,Aeschee V,Industrial Fibers,Poor,3.25
+Essence,Peccanouette,Aeschee,Aeschee VI,Fiber Composite,Poor,15.66
+Essence,Peccanouette,Aeschee,Aeschee VI,Noble Gas,Medium,19.42
+Essence,Peccanouette,Aeschee,Aeschee VI,Reactive Metals,Medium,4.76
+Essence,Peccanouette,Aeschee,Aeschee VI,Coolant,Rich,19.80
+Essence,Peccanouette,Aeschee,Aeschee VII,Reactive Gas,Perfect,31.50
+Essence,Peccanouette,Aeschee,Aeschee VII,Noble Gas,Perfect,30.74
+Essence,Peccanouette,Aeschee,Aeschee VII,Polyaramids,Rich,16.53
+Essence,Peccanouette,Aeschee,Aeschee VII,Coolant,Medium,13.88
+Essence,Peccanouette,Aeschee,Aeschee VIII,Base Metals,Medium,5.17
+Essence,Peccanouette,Aeschee,Aeschee VIII,Toxic Metals,Medium,5.70
+Essence,Peccanouette,Aeschee,Aeschee VIII,Industrial Fibers,Poor,3.13
+Essence,Peccanouette,Aeschee,Aeschee IX,Glossy Compound,Perfect,30.29
+Essence,Peccanouette,Aeschee,Aeschee IX,Noble Gas,Medium,20.54
+Essence,Peccanouette,Aeschee,Aeschee IX,Reactive Metals,Poor,4.67
+Essence,Peccanouette,Aeschee,Aeschee IX,Ionic Solutions,Poor,6.75
+Essence,Peccanouette,Aeschee,Aeschee X,Lustering Alloy,Medium,22.84
+Essence,Peccanouette,Aeschee,Aeschee X,Industrial Fibers,Rich,6.65
+Essence,Peccanouette,Aeschee,Aeschee X,Coolant,Poor,10.70
+Essence,Peccanouette,Aeschee,Aeschee XI,Dark Compound,Poor,16.07
+Essence,Peccanouette,Aeschee,Aeschee XI,Industrial Fibers,Poor,3.15
+Essence,Peccanouette,Aeschee,Aeschee XI,Oxygen Isotopes,Poor,2.29
+Essence,Arand,Allebin,Allebin I,Gleaming Alloy,Medium,17.47
+Essence,Arand,Allebin,Allebin I,Noble Gas,Rich,24.43
+Essence,Arand,Allebin,Allebin II,Industrial Fibers,Medium,3.97
+Essence,Arand,Allebin,Allebin II,Supertensile Plastics,Medium,10.99
+Essence,Arand,Allebin,Allebin II,Silicate Glass,Poor,7.52
+Essence,Arand,Allebin,Allebin III,Fiber Composite,Rich,20.72
+Essence,Arand,Allebin,Allebin III,Base Metals,Medium,5.17
+Essence,Arand,Allebin,Allebin III,Smartfab Units,Perfect,18.43
+Essence,Arand,Allebin,Allebin III,Liquid Ozone,Medium,19.60
+Essence,Arand,Allebin,Allebin IV,Glossy Compound,Poor,14.96
+Essence,Arand,Allebin,Allebin IV,Noble Gas,Medium,17.78
+Essence,Arand,Allebin,Allebin V,Reactive Gas,Rich,22.34
+Essence,Arand,Allebin,Allebin V,Noble Gas,Medium,16.24
+Essence,Arand,Allebin,Allebin V,Reactive Metals,Medium,4.64
+Essence,Arand,Allebin,Allebin V,Coolant,Rich,16.50
+Essence,Arand,Allebin,Allebin VI,Noble Gas,Rich,21.09
+Essence,Arand,Allebin,Allebin VI,Base Metals,Medium,4.82
+Essence,Arand,Allebin,Allebin VI,Polyaramids,Medium,11.84
+Essence,Arand,Allebin,Allebin VI,Coolant,Rich,16.31
+Essence,Arand,Allebin,Allebin VII,Glossy Compound,Medium,15.36
+Essence,Arand,Allebin,Allebin VII,Noble Gas,Rich,22.00
+Essence,Arand,Allebin,Allebin VII,Coolant,Rich,13.89
+Essence,Arand,Allebin,Allebin VII,Ionic Solutions,Medium,6.36
+Essence,Arand,Allebin,Allebin VIII,Glossy Compound,Poor,14.80
+Essence,Arand,Allebin,Allebin VIII,Noble Gas,Medium,17.17
+Essence,Arand,Allebin,Allebin VIII,Reactive Metals,Medium,4.33
+Essence,Arand,Allebin,Allebin VIII,Ionic Solutions,Medium,6.20
+Essence,Arand,Allebin,Allebin IX,Precious Alloy,Medium,16.11
+Essence,Arand,Allebin,Allebin IX,Toxic Metals,Medium,4.65
+Essence,Arand,Allebin,Allebin IX,Industrial Fibers,Poor,3.50
+Essence,Arand,Atlulle,Atlulle I,Noble Gas,Rich,25.15
+Essence,Arand,Atlulle,Atlulle I,Construction Blocks,Medium,16.08
+Essence,Arand,Atlulle,Atlulle II,Dark Compound,Poor,14.69
+Essence,Arand,Atlulle,Atlulle II,Industrial Fibers,Poor,3.91
+Essence,Arand,Atlulle,Atlulle II,Plasmoids,Poor,0.67
+Essence,Arand,Atlulle,Atlulle III,Lucent Compound,Perfect,27.57
+Essence,Arand,Atlulle,Atlulle III,Dark Compound,Medium,18.94
+Essence,Arand,Atlulle,Atlulle III,Nanites,Medium,5.29
+Essence,Arand,Atlulle,Atlulle III,Suspended Plasma,Medium,70.04
+Essence,Arand,Atlulle,Atlulle IV,Opulent Compound,Rich,23.97
+Essence,Arand,Atlulle,Atlulle IV,Crystal Compound,Medium,19.06
+Essence,Arand,Atlulle,Atlulle IV,Coolant,Rich,15.77
+Essence,Arand,Atlulle,Atlulle IV,Heavy Water,Medium,164.96
+Essence,Arand,Atlulle,Atlulle V,Industrial Fibers,Poor,3.20
+Essence,Arand,Atlulle,Atlulle V,Silicate Glass,Poor,7.42
+Essence,Arand,Atlulle,Atlulle V,Oxygen Isotopes,Medium,2.91
+Essence,Arand,Atlulle,Atlulle VI,Noble Gas,Rich,24.59
+Essence,Arand,Atlulle,Atlulle VI,Construction Blocks,Poor,14.80
+Essence,Arand,Atlulle,Atlulle VII,Noble Gas,Medium,19.95
+Essence,Arand,Atlulle,Atlulle VII,Noble Metals,Medium,16.24
+Essence,Arand,Atlulle,Atlulle VIII,Lustering Alloy,Perfect,26.22
+Essence,Arand,Atlulle,Atlulle VIII,Glossy Compound,Medium,15.84
+Essence,Arand,Atlulle,Atlulle VIII,Reactive Gas,Rich,24.96
+Essence,Arand,Atlulle,Atlulle VIII,Noble Gas,Rich,23.41
+Essence,Arand,Atlulle,Atlulle IX,Glossy Compound,Poor,14.72
+Essence,Arand,Atlulle,Atlulle IX,Reactive Gas,Rich,20.62
+Essence,Arand,Atlulle,Atlulle IX,Noble Gas,Poor,13.28
+Essence,Arand,Atlulle,Atlulle IX,Polyaramids,Medium,11.35
+Essence,Arand,Atlulle,Atlulle X,Dark Compound,Medium,15.54
+Essence,Arand,Atlulle,Atlulle X,Base Metals,Medium,4.14
+Essence,Arand,Atlulle,Atlulle X,Industrial Fibers,Medium,4.53
+Essence,Arand,Atlulle,Atlulle XI,Lucent Compound,Rich,25.34
+Essence,Arand,Atlulle,Atlulle XI,Nanites,Rich,5.96
+Essence,Arand,Atlulle,Atlulle XI,Ionic Solutions,Perfect,10.58
+Essence,Arand,Atlulle,Atlulle XI,Plasmoids,Medium,1.18
+Essence,Arand,Droselory,Droselory I,Motley Compound,Medium,18.84
+Essence,Arand,Droselory,Droselory I,Polyaramids,Poor,8.32
+Essence,Arand,Droselory,Droselory II,Motley Compound,Rich,21.96
+Essence,Arand,Droselory,Droselory II,Plasmoids,Medium,1.09
+Essence,Arand,Droselory,Droselory III,Lustering Alloy,Poor,13.57
+Essence,Arand,Droselory,Droselory III,Base Metals,Medium,4.14
+Essence,Arand,Droselory,Droselory IV,Lustering Alloy,Rich,21.50
+Essence,Arand,Droselory,Droselory IV,Noble Gas,Rich,21.41
+Essence,Arand,Droselory,Droselory IV,Base Metals,Poor,3.36
+Essence,Arand,Droselory,Droselory V,Lustering Alloy,Rich,20.82
+Essence,Arand,Droselory,Droselory V,Glossy Compound,Poor,12.49
+Essence,Arand,Droselory,Droselory V,Base Metals,Rich,6.25
+Essence,Arand,Droselory,Droselory VI,Lustering Alloy,Rich,19.61
+Essence,Arand,Droselory,Droselory VI,Fiber Composite,Rich,19.50
+Essence,Arand,Droselory,Droselory VI,Base Metals,Rich,5.04
+Essence,Arand,Droselory,Droselory VII,Lustering Alloy,Rich,22.82
+Essence,Arand,Droselory,Droselory VII,Base Metals,Rich,5.34
+Essence,Arand,Droselory,Droselory VII,Reactive Metals,Rich,6.24
+Essence,Arand,Droselory,Droselory VIII,Lustering Alloy,Poor,14.01
+Essence,Arand,Droselory,Droselory VIII,Base Metals,Medium,3.87
+Essence,Arand,Droselory,Droselory IX,Lustering Alloy,Poor,11.32
+Essence,Arand,Droselory,Droselory IX,Base Metals,Poor,3.10
+Essence,Arand,Haine,Haine I,Noble Gas,Rich,21.36
+Essence,Arand,Haine,Haine I,Construction Blocks,Poor,14.30
+Essence,Arand,Haine,Haine II,Lucent Compound,Rich,25.25
+Essence,Arand,Haine,Haine II,Construction Blocks,Rich,25.41
+Essence,Arand,Haine,Haine II,Suspended Plasma,Medium,60.94
+Essence,Arand,Haine,Haine III,Condensed Alloy,Perfect,28.77
+Essence,Arand,Haine,Haine III,Fiber Composite,Perfect,29.94
+Essence,Arand,Haine,Haine III,Opulent Compound,Rich,25.33
+Essence,Arand,Haine,Haine III,Smartfab Units,Perfect,18.12
+Essence,Arand,Haine,Haine IV,Reactive Gas,Medium,18.19
+Essence,Arand,Haine,Haine IV,Noble Gas,Medium,16.86
+Essence,Arand,Haine,Haine IV,Reactive Metals,Rich,6.60
+Essence,Arand,Haine,Haine IV,Polyaramids,Perfect,17.07
+Essence,Arand,Haine,Haine V,Lustering Alloy,Medium,17.20
+Essence,Arand,Haine,Haine V,Fiber Composite,Rich,24.48
+Essence,Arand,Haine,Haine V,Glossy Compound,Rich,25.30
+Essence,Arand,Haine,Haine V,Noble Gas,Rich,20.37
+Essence,Arand,Haine,Haine VI,Lustering Alloy,Perfect,25.76
+Essence,Arand,Haine,Haine VI,Glossy Compound,Rich,21.82
+Essence,Arand,Haine,Haine VI,Noble Gas,Poor,13.95
+Essence,Arand,Haine,Haine VI,Coolant,Medium,12.01
+Essence,Arand,Haine,Haine VII,Base Metals,Poor,3.23
+Essence,Arand,Haine,Haine VII,Industrial Fibers,Medium,4.73
+Essence,Arand,Haine,Haine VII,Oxygen Isotopes,Poor,1.87
+Essence,Arand,Perckhevin,Perckhevin I,Lustering Alloy,Medium,14.67
+Essence,Arand,Perckhevin,Perckhevin I,Base Metals,Poor,3.30
+Essence,Arand,Perckhevin,Perckhevin II,Lustering Alloy,Medium,15.40
+Essence,Arand,Perckhevin,Perckhevin II,Base Metals,Poor,3.12
+Essence,Arand,Perckhevin,Perckhevin III,Lustering Alloy,Perfect,24.63
+Essence,Arand,Perckhevin,Perckhevin III,Base Metals,Rich,5.49
+Essence,Arand,Perckhevin,Perckhevin III,Reactive Metals,Rich,5.06
+Essence,Arand,Perckhevin,Perckhevin IV,Lustering Alloy,Perfect,24.43
+Essence,Arand,Perckhevin,Perckhevin IV,Base Metals,Rich,5.25
+Essence,Arand,Perckhevin,Perckhevin IV,Ionic Solutions,Rich,9.16
+Essence,Arand,Perckhevin,Perckhevin V,Lustering Alloy,Rich,20.49
+Essence,Arand,Perckhevin,Perckhevin V,Reactive Gas,Rich,21.32
+Essence,Arand,Perckhevin,Perckhevin V,Base Metals,Medium,4.44
+Essence,Arand,Perckhevin,Perckhevin VI,Condensates,Perfect,19.07
+Essence,Arand,Perckhevin,Perckhevin VI,Smartfab Units,Medium,11.62
+Essence,Arand,Perckhevin,Perckhevin VI,Heavy Water,Rich,194.70
+Essence,Arand,Perckhevin,Perckhevin VII,Lustering Alloy,Medium,16.80
+Essence,Arand,Perckhevin,Perckhevin VII,Base Metals,Rich,5.71
+Essence,Arand,Perckhevin,Perckhevin VII,Ionic Solutions,Rich,8.35
+Essence,Arand,Perckhevin,Perckhevin VIII,Lustering Alloy,Medium,17.46
+Essence,Arand,Perckhevin,Perckhevin VIII,Base Metals,Poor,3.30
+Essence,Arand,Isenan,Isenan I,Dark Compound,Medium,17.78
+Essence,Arand,Isenan,Isenan I,Industrial Fibers,Medium,4.99
+Essence,Arand,Isenan,Isenan I,Oxygen Isotopes,Medium,2.78
+Essence,Arand,Isenan,Isenan II,Dark Compound,Poor,14.24
+Essence,Arand,Isenan,Isenan II,Industrial Fibers,Medium,5.69
+Essence,Arand,Isenan,Isenan II,Plasmoids,Poor,0.83
+Essence,Arand,Isenan,Isenan III,Base Metals,Poor,3.46
+Essence,Arand,Isenan,Isenan III,Industrial Fibers,Medium,4.86
+Essence,Arand,Isenan,Isenan III,Oxygen Isotopes,Medium,2.55
+Essence,Arand,Isenan,Isenan IV,Fiber Composite,Perfect,30.15
+Essence,Arand,Isenan,Isenan IV,Opulent Compound,Perfect,30.64
+Essence,Arand,Isenan,Isenan IV,Industrial Fibers,Perfect,8.55
+Essence,Arand,Isenan,Isenan IV,Smartfab Units,Perfect,22.40
+Essence,Arand,Isenan,Isenan V,Condensed Alloy,Perfect,31.57
+Essence,Arand,Isenan,Isenan V,Fiber Composite,Perfect,29.32
+Essence,Arand,Isenan,Isenan V,Opulent Compound,Medium,18.36
+Essence,Arand,Isenan,Isenan V,Condensates,Perfect,22.14
+Essence,Arand,Isenan,Isenan VI,Fiber Composite,Medium,21.33
+Essence,Arand,Isenan,Isenan VI,Opulent Compound,Medium,22.37
+Essence,Arand,Isenan,Isenan VI,Industrial Fibers,Perfect,8.13
+Essence,Arand,Isenan,Isenan VI,Smartfab Units,Perfect,22.08
+Essence,Arand,Isenan,Isenan VII,Lustering Alloy,Medium,19.03
+Essence,Arand,Isenan,Isenan VII,Glossy Compound,Rich,22.81
+Essence,Arand,Isenan,Isenan VII,Noble Gas,Poor,15.01
+Essence,Arand,Isenan,Isenan VII,Reactive Metals,Rich,6.36
+Essence,Arand,Isenan,Isenan VIII,Fiber Composite,Medium,19.62
+Essence,Arand,Isenan,Isenan VIII,Reactive Gas,Rich,23.80
+Essence,Arand,Isenan,Isenan VIII,Noble Gas,Medium,19.96
+Essence,Arand,Isenan,Isenan VIII,Ionic Solutions,Medium,7.98
+Essence,Arand,Isenan,Isenan IX,Sheen Compound,Perfect,29.34
+Essence,Arand,Isenan,Isenan IX,Noble Gas,Medium,17.89
+Essence,Arand,Isenan,Isenan IX,Base Metals,Poor,4.33
+Essence,Arand,Isenan,Isenan IX,Reactive Metals,Rich,7.44
+Essence,Arand,Isenan,Isenan X,Noble Gas,Rich,26.86
+Essence,Arand,Isenan,Isenan X,Reactive Metals,Rich,6.04
+Essence,Arand,Isenan,Isenan X,Polyaramids,Medium,11.98
+Essence,Arand,Isenan,Isenan X,Coolant,Medium,14.22
+Essence,Arand,Isenan,Isenan XI,Precious Alloy,Rich,23.99
+Essence,Arand,Isenan,Isenan XI,Coolant,Medium,14.35
+Essence,Arand,Isenan,Isenan XI,Liquid Ozone,Medium,25.34
+Essence,Thoulde,Synchelle,Synchelle I,Lustering Alloy,Medium,12.92
+Essence,Thoulde,Synchelle,Synchelle I,Base Metals,Medium,3.37
+Essence,Thoulde,Synchelle,Synchelle II,Motley Compound,Perfect,19.25
+Essence,Thoulde,Synchelle,Synchelle II,Construction Blocks,Medium,13.97
+Essence,Thoulde,Synchelle,Synchelle III,Opulent Compound,Medium,12.64
+Essence,Thoulde,Synchelle,Synchelle III,Heavy Water,Rich,169.44
+Essence,Thoulde,Synchelle,Synchelle III,Liquid Ozone,Perfect,27.15
+Essence,Thoulde,Synchelle,Synchelle IV,Lustering Alloy,Medium,13.38
+Essence,Thoulde,Synchelle,Synchelle IV,Base Metals,Medium,3.43
+Essence,Thoulde,Synchelle,Synchelle V,Lustering Alloy,Poor,10.49
+Essence,Thoulde,Synchelle,Synchelle V,Reactive Gas,Medium,14.30
+Essence,Thoulde,Synchelle,Synchelle V,Base Metals,Medium,3.35
+Essence,Thoulde,Synchelle,Synchelle VI,Lustering Alloy,Rich,18.82
+Essence,Thoulde,Synchelle,Synchelle VI,Base Metals,Medium,3.89
+Essence,Thoulde,Synchelle,Synchelle VI,Coolant,Medium,7.68
+Essence,Thoulde,Synchelle,Synchelle VII,Lustering Alloy,Medium,11.93
+Essence,Thoulde,Synchelle,Synchelle VII,Base Metals,Poor,2.85
+Essence,Thoulde,Wysalan,Wysalan I,Lustering Alloy,Poor,10.06
+Essence,Thoulde,Wysalan,Wysalan I,Base Metals,Poor,2.46
+Essence,Thoulde,Wysalan,Wysalan II,Reactive Metals,Rich,4.62
+Essence,Thoulde,Wysalan,Wysalan II,Suspended Plasma,Medium,48.04
+Essence,Thoulde,Wysalan,Wysalan II,Plasmoids,Medium,0.70
+Essence,Thoulde,Wysalan,Wysalan III,Construction Blocks,Medium,11.33
+Essence,Thoulde,Wysalan,Wysalan III,Suspended Plasma,Rich,58.92
+Essence,Thoulde,Wysalan,Wysalan IV,Noble Gas,Rich,18.48
+Essence,Thoulde,Wysalan,Wysalan IV,Heavy Metals,Rich,19.03
+Essence,Thoulde,Wysalan,Wysalan IV,Suspended Plasma,Poor,40.52
+Essence,Thoulde,Wysalan,Wysalan V,Lucent Compound,Poor,11.06
+Essence,Thoulde,Wysalan,Wysalan V,Suspended Plasma,Medium,44.67
+Essence,Thoulde,Wysalan,Wysalan VI,Motley Compound,Perfect,20.20
+Essence,Thoulde,Wysalan,Wysalan VI,Noble Gas,Poor,10.21
+Essence,Thoulde,Wysalan,Wysalan VII,Lustering Alloy,Medium,12.36
+Essence,Thoulde,Wysalan,Wysalan VII,Glossy Compound,Rich,15.47
+Essence,Thoulde,Wysalan,Wysalan VII,Base Metals,Medium,3.53
+Essence,Thoulde,Wysalan,Wysalan VIII,Reactive Metals,Poor,2.91
+Essence,Thoulde,Wysalan,Wysalan VIII,Suspended Plasma,Rich,63.72
+Essence,Thoulde,Wysalan,Wysalan IX,Polyaramids,Rich,10.90
+Essence,Thoulde,Wysalan,Wysalan IX,Coolant,Perfect,13.62
+Essence,Thoulde,Wysalan,Wysalan IX,Heavy Water,Medium,150.84
+Essence,Thoulde,Wysalan,Wysalan X,Crystal Compound,Rich,16.87
+Essence,Thoulde,Wysalan,Wysalan X,Suspended Plasma,Rich,65.02
+Essence,Thoulde,Yona,Yona I,Lustering Alloy,Medium,13.48
+Essence,Thoulde,Yona,Yona I,Base Metals,Medium,3.39
+Essence,Thoulde,Yona,Yona II,Motley Compound,Rich,17.58
+Essence,Thoulde,Yona,Yona II,Polyaramids,Perfect,13.20
+Essence,Thoulde,Yona,Yona III,Condensed Alloy,Poor,11.10
+Essence,Thoulde,Yona,Yona III,Crystal Compound,Rich,18.30
+Essence,Thoulde,Yona,Yona III,Heavy Water,Rich,162.48
+Essence,Thoulde,Yona,Yona IV,Base Metals,Perfect,5.11
+Essence,Thoulde,Yona,Yona IV,Noble Metals,Perfect,21.96
+Essence,Thoulde,Yona,Yona IV,Heavy Water,Medium,144.96
+Essence,Thoulde,Yona,Yona V,Noble Metals,Perfect,21.85
+Essence,Thoulde,Yona,Yona V,Industrial Fibers,Medium,3.63
+Essence,Thoulde,Yona,Yona V,Heavy Water,Medium,122.76
+Essence,Thoulde,Yona,Yona VI,Lustering Alloy,Medium,14.00
+Essence,Thoulde,Yona,Yona VI,Fiber Composite,Medium,12.32
+Essence,Thoulde,Yona,Yona VI,Base Metals,Medium,3.79
+Essence,Thoulde,Yona,Yona VII,Lustering Alloy,Medium,12.17
+Essence,Thoulde,Yona,Yona VII,Glossy Compound,Perfect,19.51
+Essence,Thoulde,Yona,Yona VII,Base Metals,Rich,4.80
+Essence,Thoulde,Yona,Yona VIII,Lustering Alloy,Medium,12.61
+Essence,Thoulde,Yona,Yona VIII,Base Metals,Poor,2.94
+Essence,Thoulde,Yona,Yona VIII,Ionic Solutions,Medium,5.01
+Essence,Thoulde,Yona,Yona IX,Lustering Alloy,Medium,12.46
+Essence,Thoulde,Yona,Yona IX,Base Metals,Rich,4.44
+Essence,Thoulde,Noghere,Noghere I,Motley Compound,Medium,13.68
+Essence,Thoulde,Noghere,Noghere I,Polyaramids,Rich,12.87
+Essence,Thoulde,Noghere,Noghere II,Lustering Alloy,Medium,13.57
+Essence,Thoulde,Noghere,Noghere II,Base Metals,Poor,3.05
+Essence,Thoulde,Noghere,Noghere III,Condensed Alloy,Medium,16.55
+Essence,Thoulde,Noghere,Noghere III,Industrial Fibers,Medium,3.84
+Essence,Thoulde,Noghere,Noghere III,Heavy Water,Medium,143.22
+Essence,Thoulde,Noghere,Noghere IV,Lustering Alloy,Poor,11.34
+Essence,Thoulde,Noghere,Noghere IV,Base Metals,Medium,3.89
+Essence,Thoulde,Noghere,Noghere V,Noble Metals,Rich,19.46
+Essence,Thoulde,Noghere,Noghere V,Coolant,Rich,14.63
+Essence,Thoulde,Noghere,Noghere V,Heavy Water,Rich,185.92
+Essence,Thoulde,Noghere,Noghere VI,Opulent Compound,Rich,21.42
+Essence,Thoulde,Noghere,Noghere VI,Noble Metals,Medium,15.37
+Essence,Thoulde,Noghere,Noghere VI,Heavy Water,Rich,216.58
+Essence,Thoulde,Noghere,Noghere VII,Lustering Alloy,Poor,11.66
+Essence,Thoulde,Noghere,Noghere VII,Base Metals,Rich,4.72
+Essence,Thoulde,Noghere,Noghere VII,Ionic Solutions,Rich,8.85
+Essence,Thoulde,Noghere,Noghere VIII,Lustering Alloy,Medium,16.84
+Essence,Thoulde,Noghere,Noghere VIII,Base Metals,Rich,5.17
+Essence,Thoulde,Noghere,Noghere VIII,Reactive Metals,Poor,3.38
+Essence,Thoulde,Noghere,Noghere IX,Lustering Alloy,Medium,15.72
+Essence,Thoulde,Noghere,Noghere IX,Base Metals,Medium,3.93
+Essence,Thoulde,Aporulie,Aporulie I,Motley Compound,Rich,17.33
+Essence,Thoulde,Aporulie,Aporulie I,Plasmoids,Perfect,1.24
+Essence,Thoulde,Aporulie,Aporulie II,Lustering Alloy,Medium,13.70
+Essence,Thoulde,Aporulie,Aporulie II,Base Metals,Poor,2.80
+Essence,Thoulde,Aporulie,Aporulie III,Motley Compound,Medium,13.52
+Essence,Thoulde,Aporulie,Aporulie III,Plasmoids,Medium,0.81
+Essence,Thoulde,Aporulie,Aporulie IV,Base Metals,Perfect,5.73
+Essence,Thoulde,Aporulie,Aporulie IV,Noble Metals,Medium,13.77
+Essence,Thoulde,Aporulie,Aporulie IV,Heavy Water,Medium,137.54
+Essence,Thoulde,Aporulie,Aporulie V,Lustering Alloy,Medium,12.92
+Essence,Thoulde,Aporulie,Aporulie V,Base Metals,Perfect,5.54
+Essence,Thoulde,Aporulie,Aporulie V,Reactive Metals,Rich,5.03
+Essence,Thoulde,Aporulie,Aporulie VI,Lustering Alloy,Rich,19.55
+Essence,Thoulde,Aporulie,Aporulie VI,Reactive Gas,Medium,16.22
+Essence,Thoulde,Aporulie,Aporulie VI,Base Metals,Rich,4.47
+Essence,Thoulde,Aporulie,Aporulie VII,Lustering Alloy,Medium,13.95
+Essence,Thoulde,Aporulie,Aporulie VII,Fiber Composite,Rich,17.34
+Essence,Thoulde,Aporulie,Aporulie VII,Base Metals,Medium,3.64
+Essence,Thoulde,Aporulie,Aporulie VIII,Polyaramids,Rich,13.20
+Essence,Thoulde,Aporulie,Aporulie VIII,Silicate Glass,Rich,9.60
+Essence,Thoulde,Aporulie,Aporulie VIII,Heavy Water,Medium,128.05
+Essence,Thoulde,Seyllin,Seyllin II,Toxic Metals,Medium,4.64
+Essence,Thoulde,Seyllin,Seyllin II,Industrial Fibers,Poor,3.33
+Essence,Thoulde,Seyllin,Seyllin II,Supertensile Plastics,Poor,8.27
+Essence,Thoulde,Seyllin,Seyllin III,Fiber Composite,Rich,20.54
+Essence,Thoulde,Seyllin,Seyllin III,Opulent Compound,Medium,18.77
+Essence,Thoulde,Seyllin,Seyllin III,Reactive Gas,Rich,20.29
+Essence,Thoulde,Seyllin,Seyllin III,Smartfab Units,Rich,13.86
+Essence,Thoulde,Seyllin,Seyllin IV,Glossy Compound,Poor,14.46
+Essence,Thoulde,Seyllin,Seyllin IV,Noble Gas,Medium,17.18
+Essence,Thoulde,Seyllin,Seyllin V,Industrial Fibers,Medium,4.77
+Essence,Thoulde,Seyllin,Seyllin V,Construction Blocks,Poor,11.46
+Essence,Thoulde,Seyllin,Seyllin V,Oxygen Isotopes,Poor,1.52
+Essence,Thoulde,Seyllin,Seyllin VI,Gleaming Alloy,Poor,14.72
+Essence,Thoulde,Seyllin,Seyllin VI,Lucent Compound,Poor,13.06
+Essence,Thoulde,Seyllin,Seyllin VI,Construction Blocks,Medium,17.58
+Essence,Thoulde,Seyllin,Seyllin VII,Fiber Composite,Perfect,28.14
+Essence,Thoulde,Seyllin,Seyllin VII,Noble Metals,Medium,15.76
+Essence,Thoulde,Seyllin,Seyllin VII,Industrial Fibers,Perfect,7.63
+Essence,Thoulde,Seyllin,Seyllin VII,Smartfab Units,Rich,13.89
+Essence,Thoulde,Seyllin,Seyllin VIII,Sheen Compound,Rich,20.35
+Essence,Thoulde,Seyllin,Seyllin VIII,Noble Gas,Poor,14.18
+Essence,Thoulde,Seyllin,Seyllin VIII,Polyaramids,Rich,16.30
+Essence,Thoulde,Seyllin,Seyllin VIII,Ionic Solutions,Medium,6.27
+Essence,Thoulde,Seyllin,Seyllin IX,Noble Gas,Rich,20.51
+Essence,Thoulde,Seyllin,Seyllin IX,Base Metals,Medium,4.27
+Essence,Thoulde,Seyllin,Seyllin IX,Reactive Metals,Rich,5.61
+Essence,Thoulde,Seyllin,Seyllin IX,Ionic Solutions,Perfect,10.58
+Essence,Thoulde,Adrel,Adrel I,Motley Compound,Rich,23.63
+Essence,Thoulde,Adrel,Adrel I,Glossy Compound,Rich,21.61
+Essence,Thoulde,Adrel,Adrel II,Suspended Plasma,Poor,49.30
+Essence,Thoulde,Adrel,Adrel II,Oxygen Isotopes,Perfect,3.63
+Essence,Thoulde,Adrel,Adrel III,Lustering Alloy,Poor,13.14
+Essence,Thoulde,Adrel,Adrel III,Fiber Composite,Medium,14.36
+Essence,Thoulde,Adrel,Adrel III,Base Metals,Rich,5.24
+Essence,Thoulde,Adrel,Adrel IV,Lustering Alloy,Medium,16.75
+Essence,Thoulde,Adrel,Adrel IV,Base Metals,Medium,4.20
+Essence,Thoulde,Adrel,Adrel IV,Ionic Solutions,Rich,8.15
+Essence,Thoulde,Adrel,Adrel V,Opulent Compound,Medium,15.55
+Essence,Thoulde,Adrel,Adrel V,Industrial Fibers,Medium,4.15
+Essence,Thoulde,Adrel,Adrel V,Heavy Water,Rich,218.25
+Essence,Thoulde,Adrel,Adrel VI,Lustering Alloy,Medium,17.25
+Essence,Thoulde,Adrel,Adrel VI,Base Metals,Rich,5.85
+Essence,Thoulde,Adrel,Adrel VI,Reactive Metals,Rich,5.42
+Essence,Thoulde,Adrel,Adrel VII,Lustering Alloy,Medium,15.63
+Essence,Thoulde,Adrel,Adrel VII,Base Metals,Poor,3.09
+Essence,Thoulde,Ane,Ane I,Industrial Fibers,Medium,5.48
+Essence,Thoulde,Ane,Ane I,Oxygen Isotopes,Medium,2.69
+Essence,Thoulde,Ane,Ane I,Plasmoids,Poor,0.79
+Essence,Thoulde,Ane,Ane II,Lustering Alloy,Medium,20.42
+Essence,Thoulde,Ane,Ane II,Sheen Compound,Medium,18.19
+Essence,Thoulde,Ane,Ane II,Glossy Compound,Rich,24.91
+Essence,Thoulde,Ane,Ane II,Noble Gas,Medium,20.91
+Essence,Thoulde,Ane,Ane III,Noble Gas,Rich,22.71
+Essence,Thoulde,Ane,Ane III,Base Metals,Perfect,7.39
+Essence,Thoulde,Ane,Ane III,Reactive Metals,Poor,4.02
+Essence,Thoulde,Ane,Ane III,Coolant,Medium,10.93
+Essence,Thoulde,Ane,Ane IV,Reactive Gas,Rich,21.95
+Essence,Thoulde,Ane,Ane IV,Noble Gas,Poor,14.52
+Essence,Thoulde,Ane,Ane IV,Reactive Metals,Medium,5.27
+Essence,Thoulde,Ane,Ane IV,Ionic Solutions,Poor,5.64
+Essence,Thoulde,Ane,Ane V,Precious Alloy,Poor,15.83
+Essence,Thoulde,Ane,Ane V,Supertensile Plastics,Medium,11.50
+Essence,Thoulde,Ane,Ane V,Coolant,Medium,14.18
+Essence,Thoulde,Ane,Ane VI,Toxic Metals,Rich,6.46
+Essence,Thoulde,Ane,Ane VI,Construction Blocks,Perfect,27.27
+Essence,Thoulde,Ane,Ane VI,Nanites,Medium,5.38
+Essence,Thoulde,Ane,Ane VII,Dark Compound,Medium,18.46
+Essence,Thoulde,Ane,Ane VII,Industrial Fibers,Poor,3.17
+Essence,Thoulde,Ane,Ane VII,Silicate Glass,Poor,6.50
+Essence,Thoulde,Clorteler,Clorteler I,Lustering Alloy,Poor,10.48
+Essence,Thoulde,Clorteler,Clorteler I,Base Metals,Poor,3.23
+Essence,Thoulde,Clorteler,Clorteler II,Lustering Alloy,Medium,14.32
+Essence,Thoulde,Clorteler,Clorteler II,Base Metals,Poor,2.93
+Essence,Thoulde,Clorteler,Clorteler III,Gleaming Alloy,Medium,14.27
+Essence,Thoulde,Clorteler,Clorteler III,Suspended Plasma,Medium,63.34
+Essence,Thoulde,Clorteler,Clorteler IV,Lustering Alloy,Rich,22.18
+Essence,Thoulde,Clorteler,Clorteler IV,Glossy Compound,Rich,21.33
+Essence,Thoulde,Clorteler,Clorteler IV,Base Metals,Medium,4.14
+Essence,Thoulde,Clorteler,Clorteler V,Lustering Alloy,Rich,20.98
+Essence,Thoulde,Clorteler,Clorteler V,Base Metals,Medium,4.85
+Essence,Thoulde,Clorteler,Clorteler VI,Lustering Alloy,Poor,12.49
+Essence,Thoulde,Clorteler,Clorteler VI,Base Metals,Poor,2.88
+Essence,Eustron,Atlangeins,Atlangeins I,Lustering Alloy,Medium,12.28
+Essence,Eustron,Atlangeins,Atlangeins I,Base Metals,Medium,3.23
+Essence,Eustron,Atlangeins,Atlangeins II,Lustering Alloy,Poor,9.28
+Essence,Eustron,Atlangeins,Atlangeins II,Base Metals,Medium,3.27
+Essence,Eustron,Atlangeins,Atlangeins III,Lustering Alloy,Medium,11.40
+Essence,Eustron,Atlangeins,Atlangeins III,Fiber Composite,Rich,18.61
+Essence,Eustron,Atlangeins,Atlangeins III,Base Metals,Poor,2.65
+Essence,Eustron,Atlangeins,Atlangeins IV,Lustering Alloy,Medium,14.59
+Essence,Eustron,Atlangeins,Atlangeins IV,Base Metals,Medium,3.33
+Essence,Eustron,Atlangeins,Atlangeins IV,Reactive Metals,Poor,2.59
+Essence,Eustron,Atlangeins,Atlangeins V,Lustering Alloy,Medium,13.37
+Essence,Eustron,Atlangeins,Atlangeins V,Base Metals,Rich,4.97
+Essence,Eustron,Atlangeins,Atlangeins V,Coolant,Rich,10.18
+Essence,Eustron,Atlangeins,Atlangeins VI,Lustering Alloy,Medium,14.71
+Essence,Eustron,Atlangeins,Atlangeins VI,Fiber Composite,Medium,11.93
+Essence,Eustron,Atlangeins,Atlangeins VI,Base Metals,Medium,3.05
+Essence,Eustron,Atlangeins,Atlangeins VII,Lustering Alloy,Medium,12.96
+Essence,Eustron,Atlangeins,Atlangeins VII,Base Metals,Medium,3.37
+Essence,Eustron,Derririntel,Derririntel I,Lustering Alloy,Medium,11.98
+Essence,Eustron,Derririntel,Derririntel I,Base Metals,Medium,3.41
+Essence,Eustron,Derririntel,Derririntel II,Lustering Alloy,Medium,12.22
+Essence,Eustron,Derririntel,Derririntel II,Base Metals,Medium,3.79
+Essence,Eustron,Derririntel,Derririntel III,Motley Compound,Poor,9.65
+Essence,Eustron,Derririntel,Derririntel III,Oxygen Isotopes,Medium,2.03
+Essence,Eustron,Derririntel,Derririntel IV,Condensed Alloy,Perfect,19.33
+Essence,Eustron,Derririntel,Derririntel IV,Polyaramids,Rich,11.67
+Essence,Eustron,Derririntel,Derririntel IV,Heavy Water,Rich,166.08
+Essence,Eustron,Derririntel,Derririntel V,Lustering Alloy,Medium,11.46
+Essence,Eustron,Derririntel,Derririntel V,Base Metals,Perfect,5.23
+Essence,Eustron,Derririntel,Derririntel V,Coolant,Medium,9.00
+Essence,Eustron,Derririntel,Derririntel VI,Lustering Alloy,Medium,12.80
+Essence,Eustron,Derririntel,Derririntel VI,Reactive Gas,Perfect,19.69
+Essence,Eustron,Derririntel,Derririntel VI,Base Metals,Medium,3.71
+Essence,Eustron,Derririntel,Derririntel VII,Lustering Alloy,Rich,16.90
+Essence,Eustron,Derririntel,Derririntel VII,Glossy Compound,Rich,18.83
+Essence,Eustron,Derririntel,Derririntel VII,Base Metals,Rich,4.76
+Essence,Eustron,Derririntel,Derririntel VIII,Lustering Alloy,Medium,11.50
+Essence,Eustron,Derririntel,Derririntel VIII,Base Metals,Medium,3.64
+Essence,Eustron,Derririntel,Derririntel IX,Lustering Alloy,Poor,9.02
+Essence,Eustron,Derririntel,Derririntel IX,Base Metals,Medium,3.56
+Essence,Eustron,Cat,Cat I,Motley Compound,Medium,17.15
+Essence,Eustron,Cat,Cat I,Noble Gas,Poor,11.62
+Essence,Eustron,Cat,Cat II,Lustering Alloy,Medium,14.04
+Essence,Eustron,Cat,Cat II,Base Metals,Poor,3.09
+Essence,Eustron,Cat,Cat III,Noble Metals,Rich,20.83
+Essence,Eustron,Cat,Cat III,Condensates,Medium,9.85
+Essence,Eustron,Cat,Cat III,Heavy Water,Perfect,255.78
+Essence,Eustron,Cat,Cat IV,Condensed Alloy,Perfect,26.24
+Essence,Eustron,Cat,Cat IV,Base Metals,Perfect,6.89
+Essence,Eustron,Cat,Cat IV,Heavy Water,Rich,216.16
+Essence,Eustron,Cat,Cat V,Lustering Alloy,Rich,18.90
+Essence,Eustron,Cat,Cat V,Base Metals,Medium,4.62
+Essence,Eustron,Cat,Cat V,Coolant,Medium,10.95
+Essence,Eustron,Cat,Cat VI,Lustering Alloy,Medium,14.57
+Essence,Eustron,Cat,Cat VI,Base Metals,Rich,5.83
+Essence,Eustron,Cat,Cat VI,Reactive Metals,Perfect,5.93
+Essence,Eustron,Cat,Cat VII,Lustering Alloy,Medium,16.49
+Essence,Eustron,Cat,Cat VII,Base Metals,Rich,4.68
+Essence,Eustron,Ommare,Ommare I,Lustering Alloy,Medium,13.04
+Essence,Eustron,Ommare,Ommare I,Base Metals,Poor,2.56
+Essence,Eustron,Ommare,Ommare II,Lustering Alloy,Poor,8.49
+Essence,Eustron,Ommare,Ommare II,Base Metals,Poor,2.81
+Essence,Eustron,Ommare,Ommare III,Lustering Alloy,Poor,11.08
+Essence,Eustron,Ommare,Ommare III,Base Metals,Medium,3.45
+Essence,Eustron,Ommare,Ommare IV,Opulent Compound,Perfect,22.13
+Essence,Eustron,Ommare,Ommare IV,Heavy Water,Perfect,231.79
+Essence,Eustron,Ommare,Ommare IV,Liquid Ozone,Medium,19.09
+Essence,Eustron,Ommare,Ommare V,Lustering Alloy,Rich,19.27
+Essence,Eustron,Ommare,Ommare V,Base Metals,Medium,4.10
+Essence,Eustron,Ommare,Ommare V,Polyaramids,Perfect,14.23
+Essence,Eustron,Ommare,Ommare VI,Lustering Alloy,Rich,19.98
+Essence,Eustron,Ommare,Ommare VI,Fiber Composite,Poor,11.39
+Essence,Eustron,Ommare,Ommare VI,Base Metals,Medium,3.35
+Essence,Eustron,Ommare,Ommare VII,Lustering Alloy,Rich,17.73
+Essence,Eustron,Ommare,Ommare VII,Base Metals,Medium,4.16
+Essence,Eustron,Ommare,Ommare VII,Coolant,Rich,11.86
+Essence,Eustron,Ommare,Ommare VIII,Lustering Alloy,Perfect,21.58
+Essence,Eustron,Ommare,Ommare VIII,Sheen Compound,Medium,13.95
+Essence,Eustron,Ommare,Ommare VIII,Base Metals,Medium,4.19
+Essence,Eustron,Ommare,Ommare IX,Lustering Alloy,Medium,15.64
+Essence,Eustron,Ommare,Ommare IX,Noble Gas,Rich,20.44
+Essence,Eustron,Ommare,Ommare IX,Base Metals,Poor,3.12
+Essence,Eustron,Ommare,Ommare X,Crystal Compound,Medium,14.73
+Essence,Eustron,Ommare,Ommare X,Coolant,Medium,10.45
+Essence,Eustron,Ommare,Ommare X,Heavy Water,Medium,149.11
+Essence,Eustron,Andole,Andole I,Motley Compound,Medium,15.13
+Essence,Eustron,Andole,Andole I,Construction Blocks,Rich,20.18
+Essence,Eustron,Andole,Andole II,Condensed Alloy,Perfect,21.20
+Essence,Eustron,Andole,Andole II,Noble Metals,Perfect,24.31
+Essence,Eustron,Andole,Andole II,Heavy Water,Medium,154.05
+Essence,Eustron,Andole,Andole III,Lustering Alloy,Poor,8.94
+Essence,Eustron,Andole,Andole III,Base Metals,Medium,4.19
+Essence,Eustron,Andole,Andole IV,Lustering Alloy,Poor,8.78
+Essence,Eustron,Andole,Andole IV,Base Metals,Poor,2.95
+Essence,Eustron,Andole,Andole V,Condensed Alloy,Perfect,22.43
+Essence,Eustron,Andole,Andole V,Condensates,Medium,9.44
+Essence,Eustron,Andole,Andole V,Heavy Water,Perfect,236.86
+Essence,Eustron,Andole,Andole VI,Lustering Alloy,Perfect,21.53
+Essence,Eustron,Andole,Andole VI,Fiber Composite,Medium,16.11
+Essence,Eustron,Andole,Andole VI,Base Metals,Rich,4.56
+Essence,Eustron,Andole,Andole VII,Lustering Alloy,Rich,19.77
+Essence,Eustron,Andole,Andole VII,Reactive Gas,Poor,12.12
+Essence,Eustron,Andole,Andole VII,Base Metals,Medium,3.47
+Essence,Eustron,Andole,Andole VIII,Lustering Alloy,Medium,15.11
+Essence,Eustron,Andole,Andole VIII,Base Metals,Medium,4.04
+Essence,Eustron,Vale,Vale I,Motley Compound,Poor,12.78
+Essence,Eustron,Vale,Vale I,Noble Gas,Rich,19.80
+Essence,Eustron,Vale,Vale II,Base Metals,Medium,3.76
+Essence,Eustron,Vale,Vale II,Industrial Fibers,Perfect,6.44
+Essence,Eustron,Vale,Vale II,Heavy Water,Perfect,254.24
+Essence,Eustron,Vale,Vale III,Motley Compound,Medium,14.34
+Essence,Eustron,Vale,Vale III,Glossy Compound,Rich,18.21
+Essence,Eustron,Vale,Vale IV,Reactive Gas,Poor,12.88
+Essence,Eustron,Vale,Vale IV,Heavy Water,Medium,169.82
+Essence,Eustron,Vale,Vale IV,Liquid Ozone,Perfect,31.99
+Essence,Eustron,Vale,Vale V,Smartfab Units,Perfect,16.33
+Essence,Eustron,Vale,Vale V,Heavy Water,Perfect,252.70
+Essence,Eustron,Vale,Vale V,Liquid Ozone,Poor,16.06
+Essence,Eustron,Vale,Vale VI,Condensed Alloy,Medium,15.27
+Essence,Eustron,Vale,Vale VI,Noble Metals,Rich,20.69
+Essence,Eustron,Vale,Vale VI,Heavy Water,Perfect,236.88
+Essence,Crux,Couster,Couster I,Lustering Alloy,Medium,10.58
+Essence,Crux,Couster,Couster I,Base Metals,Poor,1.96
+Essence,Crux,Couster,Couster II,Lustering Alloy,Poor,7.49
+Essence,Crux,Couster,Couster II,Base Metals,Medium,3.27
+Essence,Crux,Couster,Couster III,Lustering Alloy,Poor,8.72
+Essence,Crux,Couster,Couster III,Base Metals,Poor,1.87
+Essence,Crux,Couster,Couster IV,Fiber Composite,Perfect,20.16
+Essence,Crux,Couster,Couster IV,Smartfab Units,Perfect,13.32
+Essence,Crux,Couster,Couster IV,Heavy Water,Rich,154.44
+Essence,Crux,Couster,Couster V,Condensed Alloy,Rich,15.75
+Essence,Crux,Couster,Couster V,Toxic Metals,Rich,4.20
+Essence,Crux,Couster,Couster V,Heavy Water,Rich,143.00
+Essence,Crux,Couster,Couster VI,Lustering Alloy,Medium,10.49
+Essence,Crux,Couster,Couster VI,Base Metals,Medium,3.24
+Essence,Crux,Couster,Couster VII,Lustering Alloy,Rich,15.54
+Essence,Crux,Couster,Couster VII,Base Metals,Rich,3.79
+Essence,Crux,Couster,Couster VII,Coolant,Medium,7.06
+Essence,Eustron,Hecarrin,Hecarrin I,Lucent Compound,Medium,15.06
+Essence,Eustron,Hecarrin,Hecarrin I,Suspended Plasma,Rich,56.07
+Essence,Eustron,Hecarrin,Hecarrin I,Plasmoids,Medium,0.74
+Essence,Eustron,Hecarrin,Hecarrin II,Lustering Alloy,Poor,7.82
+Essence,Eustron,Hecarrin,Hecarrin II,Base Metals,Poor,2.13
+Essence,Eustron,Hecarrin,Hecarrin III,Lustering Alloy,Medium,12.90
+Essence,Eustron,Hecarrin,Hecarrin III,Base Metals,Poor,2.54
+Essence,Eustron,Hecarrin,Hecarrin IV,Fiber Composite,Perfect,19.86
+Essence,Eustron,Hecarrin,Hecarrin IV,Reactive Gas,Rich,16.22
+Essence,Eustron,Hecarrin,Hecarrin IV,Heavy Water,Rich,173.76
+Essence,Eustron,Hecarrin,Hecarrin V,Reactive Gas,Rich,16.25
+Essence,Eustron,Hecarrin,Hecarrin V,Suspended Plasma,Medium,42.42
+Essence,Eustron,Hecarrin,Hecarrin VI,Gleaming Alloy,Medium,15.05
+Essence,Eustron,Hecarrin,Hecarrin VI,Suspended Plasma,Rich,66.01
+Essence,Eustron,Hecarrin,Hecarrin VII,Crystal Compound,Rich,16.08
+Essence,Eustron,Hecarrin,Hecarrin VII,Suspended Plasma,Medium,44.11
+Essence,Thoulde,Henebene,Henebene I,Lustering Alloy,Poor,9.61
+Essence,Thoulde,Henebene,Henebene I,Base Metals,Poor,2.32
+Essence,Thoulde,Henebene,Henebene II,Motley Compound,Rich,18.19
+Essence,Thoulde,Henebene,Henebene II,Oxygen Isotopes,Medium,1.76
+Essence,Thoulde,Henebene,Henebene III,Lustering Alloy,Medium,13.45
+Essence,Thoulde,Henebene,Henebene III,Base Metals,Medium,3.17
+Essence,Thoulde,Henebene,Henebene IV,Condensed Alloy,Medium,13.81
+Essence,Thoulde,Henebene,Henebene IV,Reactive Gas,Medium,14.18
+Essence,Thoulde,Henebene,Henebene IV,Heavy Water,Perfect,210.96
+Essence,Thoulde,Henebene,Henebene V,Noble Metals,Rich,17.03
+Essence,Thoulde,Henebene,Henebene V,Industrial Fibers,Perfect,5.22
+Essence,Thoulde,Henebene,Henebene V,Heavy Water,Medium,127.20
+Essence,Thoulde,Henebene,Henebene VI,Lustering Alloy,Rich,18.74
+Essence,Thoulde,Henebene,Henebene VI,Base Metals,Medium,3.38
+Essence,Thoulde,Henebene,Henebene VI,Reactive Metals,Rich,4.32
+Essence,Thoulde,Henebene,Henebene VII,Lustering Alloy,Rich,17.27
+Essence,Thoulde,Henebene,Henebene VII,Noble Gas,Rich,17.45
+Essence,Thoulde,Henebene,Henebene VII,Base Metals,Medium,3.36
+Essence,Thoulde,Mesokel,Mesokel I,Lustering Alloy,Poor,10.40
+Essence,Thoulde,Mesokel,Mesokel I,Base Metals,Medium,3.83
+Essence,Thoulde,Mesokel,Mesokel II,Suspended Plasma,Perfect,74.69
+Essence,Thoulde,Mesokel,Mesokel II,Ionic Solutions,Medium,5.59
+Essence,Thoulde,Mesokel,Mesokel II,Plasmoids,Perfect,1.26
+Essence,Thoulde,Mesokel,Mesokel III,Lucent Compound,Perfect,20.44
+Essence,Thoulde,Mesokel,Mesokel III,Noble Gas,Medium,12.32
+Essence,Thoulde,Mesokel,Mesokel III,Suspended Plasma,Rich,55.25
+Essence,Thoulde,Mesokel,Mesokel IV,Reactive Gas,Poor,11.29
+Essence,Thoulde,Mesokel,Mesokel IV,Industrial Fibers,Rich,4.48
+Essence,Thoulde,Mesokel,Mesokel IV,Heavy Water,Perfect,202.44
+Essence,Thoulde,Mesokel,Mesokel V,Supertensile Plastics,Rich,11.50
+Essence,Thoulde,Mesokel,Mesokel V,Suspended Plasma,Rich,63.50
+Essence,Thoulde,Mesokel,Mesokel VI,Toxic Metals,Medium,3.72
+Essence,Thoulde,Mesokel,Mesokel VI,Suspended Plasma,Rich,58.54
+Essence,Thoulde,Mesokel,Mesokel VII,Lustering Alloy,Rich,16.96
+Essence,Thoulde,Mesokel,Mesokel VII,Glossy Compound,Medium,11.93
+Essence,Thoulde,Mesokel,Mesokel VII,Base Metals,Poor,2.77

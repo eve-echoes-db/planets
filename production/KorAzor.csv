@@ -1,0 +1,1550 @@
+Region,Constellation,System,Name,Item,Rate,Output
+Kor-Azor,Jatari,Fensi,Fensi I,Toxic Metals,Medium,4.80
+Kor-Azor,Jatari,Fensi,Fensi I,Industrial Fibers,Medium,5.29
+Kor-Azor,Jatari,Fensi,Fensi I,Supertensile Plastics,Poor,9.47
+Kor-Azor,Jatari,Fensi,Fensi II,Base Metals,Poor,3.79
+Kor-Azor,Jatari,Fensi,Fensi II,Industrial Fibers,Poor,3.44
+Kor-Azor,Jatari,Fensi,Fensi II,Silicate Glass,Medium,10.09
+Kor-Azor,Jatari,Fensi,Fensi III,Precious Alloy,Poor,11.87
+Kor-Azor,Jatari,Fensi,Fensi III,Base Metals,Medium,4.60
+Kor-Azor,Jatari,Fensi,Fensi III,Industrial Fibers,Medium,4.90
+Kor-Azor,Jatari,Fensi,Fensi IV,Lucent Compound,Rich,22.71
+Kor-Azor,Jatari,Fensi,Fensi IV,Supertensile Plastics,Medium,13.82
+Kor-Azor,Jatari,Fensi,Fensi IV,Construction Blocks,Medium,20.52
+Kor-Azor,Jatari,Fensi,Fensi V,Base Metals,Medium,4.39
+Kor-Azor,Jatari,Fensi,Fensi V,Industrial Fibers,Poor,2.97
+Kor-Azor,Jatari,Fensi,Fensi V,Supertensile Plastics,Poor,7.87
+Kor-Azor,Jatari,Fensi,Fensi VI,Glossy Compound,Rich,24.65
+Kor-Azor,Jatari,Fensi,Fensi VI,Reactive Gas,Medium,20.60
+Kor-Azor,Jatari,Fensi,Fensi VI,Noble Gas,Rich,21.84
+Kor-Azor,Jatari,Fensi,Fensi VI,Coolant,Perfect,18.05
+Kor-Azor,Jatari,Fensi,Fensi VII,Reactive Gas,Poor,15.20
+Kor-Azor,Jatari,Fensi,Fensi VII,Noble Gas,Medium,16.17
+Kor-Azor,Jatari,Fensi,Fensi VII,Base Metals,Rich,6.03
+Kor-Azor,Jatari,Fensi,Fensi VII,Coolant,Rich,17.14
+Kor-Azor,Jatari,Fensi,Fensi VIII,Precious Alloy,Rich,23.53
+Kor-Azor,Jatari,Fensi,Fensi VIII,Heavy Metals,Medium,17.53
+Kor-Azor,Jatari,Fensi,Fensi VIII,Coolant,Medium,11.14
+Kor-Azor,Jatari,Nebian,Nebian I,Precious Alloy,Medium,20.01
+Kor-Azor,Jatari,Nebian,Nebian I,Industrial Fibers,Poor,3.63
+Kor-Azor,Jatari,Nebian,Nebian I,Supertensile Plastics,Medium,10.87
+Kor-Azor,Jatari,Nebian,Nebian II,Reactive Gas,Poor,13.79
+Kor-Azor,Jatari,Nebian,Nebian II,Reactive Metals,Poor,3.96
+Kor-Azor,Jatari,Nebian,Nebian II,Construction Blocks,Poor,14.45
+Kor-Azor,Jatari,Nebian,Nebian III,Lustering Alloy,Medium,20.40
+Kor-Azor,Jatari,Nebian,Nebian III,Reactive Gas,Medium,20.38
+Kor-Azor,Jatari,Nebian,Nebian III,Noble Gas,Rich,23.78
+Kor-Azor,Jatari,Nebian,Nebian III,Base Metals,Medium,5.03
+Kor-Azor,Jatari,Nebian,Nebian IV,Sheen Compound,Medium,16.22
+Kor-Azor,Jatari,Nebian,Nebian IV,Reactive Gas,Rich,22.98
+Kor-Azor,Jatari,Nebian,Nebian IV,Noble Gas,Medium,18.75
+Kor-Azor,Jatari,Nebian,Nebian IV,Coolant,Perfect,18.07
+Kor-Azor,Jatari,Nebian,Nebian V,Glossy Compound,Perfect,27.10
+Kor-Azor,Jatari,Nebian,Nebian V,Reactive Gas,Perfect,27.22
+Kor-Azor,Jatari,Nebian,Nebian V,Noble Gas,Medium,18.45
+Kor-Azor,Jatari,Nebian,Nebian V,Polyaramids,Medium,12.78
+Kor-Azor,Jatari,Nebian,Nebian VI,Motley Compound,Poor,15.18
+Kor-Azor,Jatari,Nebian,Nebian VI,Coolant,Medium,11.91
+Kor-Azor,Jatari,Nebian,Nebian VI,Liquid Ozone,Poor,18.61
+Kor-Azor,Jatari,Nebian,Nebian VII,Industrial Fibers,Poor,3.60
+Kor-Azor,Jatari,Nebian,Nebian VII,Supertensile Plastics,Poor,10.23
+Kor-Azor,Jatari,Nebian,Nebian VII,Silicate Glass,Poor,6.65
+Kor-Azor,Jatari,Nebian,Nebian VIII,Base Metals,Medium,5.44
+Kor-Azor,Jatari,Nebian,Nebian VIII,Heavy Metals,Rich,21.61
+Kor-Azor,Jatari,Nebian,Nebian VIII,Coolant,Medium,13.44
+Kor-Azor,Jatari,Nebian,Nebian IX,Precious Alloy,Medium,16.20
+Kor-Azor,Jatari,Nebian,Nebian IX,Dark Compound,Poor,13.46
+Kor-Azor,Jatari,Nebian,Nebian IX,Industrial Fibers,Medium,4.51
+Kor-Azor,Jatari,Khabara,Khabara I,Precious Alloy,Poor,14.50
+Kor-Azor,Jatari,Khabara,Khabara I,Base Metals,Medium,5.50
+Kor-Azor,Jatari,Khabara,Khabara I,Industrial Fibers,Medium,5.02
+Kor-Azor,Jatari,Khabara,Khabara II,Noble Gas,Perfect,27.69
+Kor-Azor,Jatari,Khabara,Khabara II,Smartfab Units,Rich,14.77
+Kor-Azor,Jatari,Khabara,Khabara III,Precious Alloy,Medium,17.27
+Kor-Azor,Jatari,Khabara,Khabara III,Toxic Metals,Poor,3.42
+Kor-Azor,Jatari,Khabara,Khabara III,Industrial Fibers,Medium,4.68
+Kor-Azor,Jatari,Khabara,Khabara IV,Precious Alloy,Poor,13.63
+Kor-Azor,Jatari,Khabara,Khabara IV,Industrial Fibers,Medium,5.11
+Kor-Azor,Jatari,Khabara,Khabara IV,Construction Blocks,Medium,19.28
+Kor-Azor,Jatari,Khabara,Khabara V,Fiber Composite,Perfect,28.66
+Kor-Azor,Jatari,Khabara,Khabara V,Opulent Compound,Perfect,28.56
+Kor-Azor,Jatari,Khabara,Khabara V,Reactive Gas,Medium,18.80
+Kor-Azor,Jatari,Khabara,Khabara V,Smartfab Units,Perfect,21.33
+Kor-Azor,Jatari,Khabara,Khabara VI,Lustering Alloy,Medium,21.35
+Kor-Azor,Jatari,Khabara,Khabara VI,Fiber Composite,Rich,23.10
+Kor-Azor,Jatari,Khabara,Khabara VI,Noble Gas,Rich,26.76
+Kor-Azor,Jatari,Khabara,Khabara VI,Base Metals,Poor,3.79
+Kor-Azor,Jatari,Khabara,Khabara VII,Fiber Composite,Rich,26.20
+Kor-Azor,Jatari,Khabara,Khabara VII,Noble Gas,Medium,17.71
+Kor-Azor,Jatari,Khabara,Khabara VII,Base Metals,Rich,6.51
+Kor-Azor,Jatari,Khabara,Khabara VII,Coolant,Rich,16.08
+Kor-Azor,Jatari,Khabara,Khabara VIII,Lustering Alloy,Medium,16.64
+Kor-Azor,Jatari,Khabara,Khabara VIII,Dark Compound,Medium,17.41
+Kor-Azor,Jatari,Khabara,Khabara VIII,Industrial Fibers,Medium,5.02
+Kor-Azor,Jatari,Khabara,Khabara IX,Precious Alloy,Poor,15.61
+Kor-Azor,Jatari,Khabara,Khabara IX,Coolant,Medium,13.49
+Kor-Azor,Jatari,Khabara,Khabara IX,Condensates,Medium,13.89
+Kor-Azor,Jatari,Jeni,Jeni I,Precious Alloy,Medium,16.95
+Kor-Azor,Jatari,Jeni,Jeni I,Industrial Fibers,Medium,4.78
+Kor-Azor,Jatari,Jeni,Jeni I,Supertensile Plastics,Poor,8.48
+Kor-Azor,Jatari,Jeni,Jeni II,Precious Alloy,Poor,13.84
+Kor-Azor,Jatari,Jeni,Jeni II,Industrial Fibers,Poor,3.68
+Kor-Azor,Jatari,Jeni,Jeni II,Plasmoids,Poor,0.67
+Kor-Azor,Jatari,Jeni,Jeni III,Noble Gas,Medium,17.34
+Kor-Azor,Jatari,Jeni,Jeni III,Construction Blocks,Medium,17.10
+Kor-Azor,Jatari,Jeni,Jeni IV,Reactive Metals,Rich,6.87
+Kor-Azor,Jatari,Jeni,Jeni IV,Construction Blocks,Medium,20.28
+Kor-Azor,Jatari,Jeni,Jeni IV,Oxygen Isotopes,Medium,2.50
+Kor-Azor,Jatari,Jeni,Jeni V,Industrial Fibers,Medium,4.33
+Kor-Azor,Jatari,Jeni,Jeni V,Supertensile Plastics,Poor,10.44
+Kor-Azor,Jatari,Jeni,Jeni V,Plasmoids,Poor,0.87
+Kor-Azor,Jatari,Jeni,Jeni VI,Fiber Composite,Rich,26.23
+Kor-Azor,Jatari,Jeni,Jeni VI,Noble Gas,Rich,22.58
+Kor-Azor,Jatari,Jeni,Jeni VI,Base Metals,Medium,5.29
+Kor-Azor,Jatari,Jeni,Jeni VI,Coolant,Medium,14.04
+Kor-Azor,Jatari,Jeni,Jeni VII,Lucent Compound,Rich,22.52
+Kor-Azor,Jatari,Jeni,Jeni VII,Reactive Gas,Perfect,27.51
+Kor-Azor,Jatari,Jeni,Jeni VII,Construction Blocks,Medium,16.63
+Kor-Azor,Jatari,Jeni,Jeni VIII,Glossy Compound,Medium,18.72
+Kor-Azor,Jatari,Jeni,Jeni VIII,Noble Gas,Poor,14.43
+Kor-Azor,Jatari,Jeni,Jeni VIII,Base Metals,Rich,7.09
+Kor-Azor,Jatari,Jeni,Jeni VIII,Ionic Solutions,Perfect,10.89
+Kor-Azor,Jatari,Jeni,Jeni IX,Sheen Compound,Medium,20.40
+Kor-Azor,Jatari,Jeni,Jeni IX,Reactive Gas,Poor,14.13
+Kor-Azor,Jatari,Jeni,Jeni IX,Noble Gas,Perfect,27.15
+Kor-Azor,Jatari,Jeni,Jeni IX,Ionic Solutions,Poor,6.32
+Kor-Azor,Jatari,Jeni,Jeni X,Sheen Compound,Rich,22.64
+Kor-Azor,Jatari,Jeni,Jeni X,Noble Gas,Poor,14.89
+Kor-Azor,Jatari,Jeni,Jeni X,Coolant,Poor,9.97
+Kor-Azor,Jatari,Jeni,Jeni X,Ionic Solutions,Rich,10.19
+Kor-Azor,Jatari,Jeni,Jeni XI,Sheen Compound,Rich,22.39
+Kor-Azor,Jatari,Jeni,Jeni XI,Fiber Composite,Rich,24.33
+Kor-Azor,Jatari,Jeni,Jeni XI,Noble Gas,Medium,17.51
+Kor-Azor,Jatari,Jeni,Jeni XI,Polyaramids,Rich,17.41
+Kor-Azor,Jatari,Jeni,Jeni XII,Precious Alloy,Rich,24.60
+Kor-Azor,Jatari,Jeni,Jeni XII,Supertensile Plastics,Rich,16.04
+Kor-Azor,Jatari,Jeni,Jeni XII,Coolant,Poor,10.15
+Kor-Azor,Jatari,Jeni,Jeni XIII,Lustering Alloy,Rich,24.36
+Kor-Azor,Jatari,Jeni,Jeni XIII,Precious Alloy,Medium,20.37
+Kor-Azor,Jatari,Jeni,Jeni XIII,Coolant,Medium,13.44
+Kor-Azor,Jatari,Bridi,Bridi I,Precious Alloy,Medium,18.31
+Kor-Azor,Jatari,Bridi,Bridi I,Industrial Fibers,Medium,4.55
+Kor-Azor,Jatari,Bridi,Bridi I,Supertensile Plastics,Medium,11.05
+Kor-Azor,Jatari,Bridi,Bridi II,Noble Gas,Rich,26.15
+Kor-Azor,Jatari,Bridi,Bridi II,Plasmoids,Poor,0.82
+Kor-Azor,Jatari,Bridi,Bridi III,Sheen Compound,Rich,22.07
+Kor-Azor,Jatari,Bridi,Bridi III,Noble Gas,Medium,18.85
+Kor-Azor,Jatari,Bridi,Bridi III,Base Metals,Medium,5.14
+Kor-Azor,Jatari,Bridi,Bridi III,Coolant,Poor,10.66
+Kor-Azor,Jatari,Bridi,Bridi IV,Fiber Composite,Medium,19.98
+Kor-Azor,Jatari,Bridi,Bridi IV,Noble Gas,Poor,15.20
+Kor-Azor,Jatari,Bridi,Bridi IV,Reactive Metals,Medium,4.48
+Kor-Azor,Jatari,Bridi,Bridi IV,Coolant,Poor,9.32
+Kor-Azor,Jatari,Bridi,Bridi V,Fiber Composite,Poor,16.01
+Kor-Azor,Jatari,Bridi,Bridi V,Reactive Gas,Medium,19.65
+Kor-Azor,Jatari,Bridi,Bridi V,Noble Gas,Perfect,27.11
+Kor-Azor,Jatari,Bridi,Bridi V,Polyaramids,Medium,13.92
+Kor-Azor,Jatari,Bridi,Bridi VI,Sheen Compound,Medium,18.02
+Kor-Azor,Jatari,Bridi,Bridi VI,Fiber Composite,Medium,18.61
+Kor-Azor,Jatari,Bridi,Bridi VI,Noble Gas,Rich,22.46
+Kor-Azor,Jatari,Bridi,Bridi VI,Ionic Solutions,Medium,7.14
+Kor-Azor,Jatari,Bridi,Bridi VII,Lustering Alloy,Poor,13.01
+Kor-Azor,Jatari,Bridi,Bridi VII,Coolant,Poor,9.92
+Kor-Azor,Jatari,Bridi,Bridi VII,Suspended Plasma,Medium,67.56
+Kor-Azor,Jatari,Ami,Ami I,Precious Alloy,Medium,16.77
+Kor-Azor,Jatari,Ami,Ami I,Industrial Fibers,Medium,4.18
+Kor-Azor,Jatari,Ami,Ami I,Plasmoids,Poor,0.66
+Kor-Azor,Jatari,Ami,Ami II,Dark Compound,Medium,17.07
+Kor-Azor,Jatari,Ami,Ami II,Industrial Fibers,Medium,4.90
+Kor-Azor,Jatari,Ami,Ami II,Supertensile Plastics,Medium,12.96
+Kor-Azor,Jatari,Ami,Ami III,Noble Gas,Poor,14.45
+Kor-Azor,Jatari,Ami,Ami III,Noble Metals,Medium,17.63
+Kor-Azor,Jatari,Ami,Ami IV,Fiber Composite,Rich,23.65
+Kor-Azor,Jatari,Ami,Ami IV,Opulent Compound,Rich,21.79
+Kor-Azor,Jatari,Ami,Ami IV,Smartfab Units,Perfect,18.39
+Kor-Azor,Jatari,Ami,Ami IV,Liquid Ozone,Perfect,34.76
+Kor-Azor,Jatari,Ami,Ami V,Base Metals,Medium,4.76
+Kor-Azor,Jatari,Ami,Ami V,Toxic Metals,Medium,5.03
+Kor-Azor,Jatari,Ami,Ami V,Industrial Fibers,Medium,4.85
+Kor-Azor,Jatari,Ami,Ami VI,Toxic Metals,Poor,3.19
+Kor-Azor,Jatari,Ami,Ami VI,Industrial Fibers,Poor,2.86
+Kor-Azor,Jatari,Ami,Ami VI,Silicate Glass,Poor,6.20
+Kor-Azor,Jatari,Ami,Ami VII,Lustering Alloy,Poor,14.54
+Kor-Azor,Jatari,Ami,Ami VII,Noble Gas,Rich,24.61
+Kor-Azor,Jatari,Ami,Ami VII,Base Metals,Poor,3.88
+Kor-Azor,Jatari,Ami,Ami VII,Coolant,Medium,10.23
+Kor-Azor,Jatari,Ami,Ami VIII,Sheen Compound,Rich,22.10
+Kor-Azor,Jatari,Ami,Ami VIII,Fiber Composite,Perfect,26.16
+Kor-Azor,Jatari,Ami,Ami VIII,Glossy Compound,Medium,19.55
+Kor-Azor,Jatari,Ami,Ami VIII,Noble Gas,Rich,24.18
+Kor-Azor,Jatari,Ami,Ami IX,Fiber Composite,Perfect,26.77
+Kor-Azor,Jatari,Ami,Ami IX,Opulent Compound,Rich,21.30
+Kor-Azor,Jatari,Ami,Ami IX,Noble Metals,Perfect,30.40
+Kor-Azor,Jatari,Ami,Ami IX,Condensates,Rich,13.99
+Kor-Azor,Jatari,Ami,Ami X,Fiber Composite,Rich,23.76
+Kor-Azor,Jatari,Ami,Ami X,Glossy Compound,Rich,23.71
+Kor-Azor,Jatari,Ami,Ami X,Noble Gas,Rich,23.57
+Kor-Azor,Jatari,Ami,Ami X,Coolant,Perfect,17.13
+Kor-Azor,Jatari,Ami,Ami XI,Lucent Compound,Rich,20.42
+Kor-Azor,Jatari,Ami,Ami XI,Reactive Metals,Rich,5.63
+Kor-Azor,Jatari,Ami,Ami XI,Construction Blocks,Medium,17.70
+Kor-Azor,Gebem,Amdonen,Amdonen I,Lustering Alloy,Poor,9.59
+Kor-Azor,Gebem,Amdonen,Amdonen I,Base Metals,Medium,3.87
+Kor-Azor,Gebem,Amdonen,Amdonen II,Condensates,Perfect,14.96
+Kor-Azor,Gebem,Amdonen,Amdonen II,Nanites,Perfect,6.35
+Kor-Azor,Gebem,Amdonen,Amdonen II,Suspended Plasma,Poor,47.38
+Kor-Azor,Gebem,Amdonen,Amdonen III,Lustering Alloy,Medium,14.04
+Kor-Azor,Gebem,Amdonen,Amdonen III,Base Metals,Poor,3.40
+Kor-Azor,Gebem,Amdonen,Amdonen IV,Gleaming Alloy,Rich,18.76
+Kor-Azor,Gebem,Amdonen,Amdonen IV,Motley Compound,Rich,20.51
+Kor-Azor,Gebem,Amdonen,Amdonen V,Lustering Alloy,Poor,11.31
+Kor-Azor,Gebem,Amdonen,Amdonen V,Base Metals,Poor,3.24
+Kor-Azor,Gebem,Amdonen,Amdonen VI,Crystal Compound,Rich,21.43
+Kor-Azor,Gebem,Amdonen,Amdonen VI,Suspended Plasma,Rich,65.07
+Kor-Azor,Gebem,Amdonen,Amdonen VII,Lustering Alloy,Perfect,22.69
+Kor-Azor,Gebem,Amdonen,Amdonen VII,Base Metals,Rich,5.84
+Kor-Azor,Gebem,Amdonen,Amdonen VII,Polyaramids,Perfect,14.92
+Kor-Azor,Gebem,Amdonen,Amdonen VIII,Lustering Alloy,Perfect,22.26
+Kor-Azor,Gebem,Amdonen,Amdonen VIII,Reactive Gas,Rich,21.21
+Kor-Azor,Gebem,Amdonen,Amdonen VIII,Base Metals,Rich,4.77
+Kor-Azor,Gebem,Amdonen,Amdonen IX,Lustering Alloy,Rich,18.41
+Kor-Azor,Gebem,Amdonen,Amdonen IX,Base Metals,Poor,3.16
+Kor-Azor,Gebem,Mora,Mora I,Lustering Alloy,Poor,8.38
+Kor-Azor,Gebem,Mora,Mora I,Base Metals,Medium,2.79
+Kor-Azor,Gebem,Mora,Mora II,Lustering Alloy,Poor,7.49
+Kor-Azor,Gebem,Mora,Mora II,Base Metals,Medium,3.33
+Kor-Azor,Gebem,Mora,Mora III,Fiber Composite,Rich,16.49
+Kor-Azor,Gebem,Mora,Mora III,Industrial Fibers,Medium,3.43
+Kor-Azor,Gebem,Mora,Mora III,Heavy Water,Medium,105.93
+Kor-Azor,Gebem,Mora,Mora IV,Nanites,Rich,4.29
+Kor-Azor,Gebem,Mora,Mora IV,Suspended Plasma,Medium,39.48
+Kor-Azor,Gebem,Mora,Mora V,Lustering Alloy,Rich,16.40
+Kor-Azor,Gebem,Mora,Mora V,Base Metals,Perfect,4.71
+Kor-Azor,Gebem,Mora,Mora V,Reactive Metals,Perfect,4.61
+Kor-Azor,Gebem,Mora,Mora VI,Lustering Alloy,Rich,14.78
+Kor-Azor,Gebem,Mora,Mora VI,Reactive Gas,Medium,11.48
+Kor-Azor,Gebem,Mora,Mora VI,Base Metals,Poor,2.67
+Kor-Azor,Gebem,Mora,Mora VII,Lustering Alloy,Rich,14.09
+Kor-Azor,Gebem,Mora,Mora VII,Base Metals,Rich,3.88
+Kor-Azor,Gebem,Kor-Azor Prime,Kor-Azor Prime I,Lustering Alloy,Poor,9.65
+Kor-Azor,Gebem,Kor-Azor Prime,Kor-Azor Prime I,Base Metals,Poor,2.17
+Kor-Azor,Gebem,Kor-Azor Prime,Kor-Azor Prime II,Coolant,Rich,9.58
+Kor-Azor,Gebem,Kor-Azor Prime,Kor-Azor Prime II,Silicate Glass,Medium,5.40
+Kor-Azor,Gebem,Kor-Azor Prime,Kor-Azor Prime II,Heavy Water,Perfect,175.23
+Kor-Azor,Gebem,Kor-Azor Prime,Kor-Azor Prime III,Lustering Alloy,Rich,14.67
+Kor-Azor,Gebem,Kor-Azor Prime,Kor-Azor Prime III,Base Metals,Medium,2.73
+Kor-Azor,Gebem,Kor-Azor Prime,Kor-Azor Prime III,Ionic Solutions,Rich,6.97
+Kor-Azor,Gebem,Kor-Azor Prime,Kor-Azor Prime IV,Reactive Gas,Rich,17.09
+Kor-Azor,Gebem,Kor-Azor Prime,Kor-Azor Prime IV,Base Metals,Perfect,5.31
+Kor-Azor,Gebem,Kor-Azor Prime,Kor-Azor Prime IV,Heavy Water,Rich,162.47
+Kor-Azor,Gebem,Kor-Azor Prime,Kor-Azor Prime V,Lustering Alloy,Medium,11.55
+Kor-Azor,Gebem,Kor-Azor Prime,Kor-Azor Prime V,Base Metals,Rich,4.16
+Kor-Azor,Gebem,Kor-Azor Prime,Kor-Azor Prime V,Polyaramids,Medium,8.44
+Kor-Azor,Gebem,Leva,Leva I,Lustering Alloy,Poor,10.02
+Kor-Azor,Gebem,Leva,Leva I,Base Metals,Medium,4.16
+Kor-Azor,Gebem,Leva,Leva II,Gleaming Alloy,Perfect,23.58
+Kor-Azor,Gebem,Leva,Leva II,Motley Compound,Medium,15.15
+Kor-Azor,Gebem,Leva,Leva III,Lustering Alloy,Poor,12.03
+Kor-Azor,Gebem,Leva,Leva III,Base Metals,Poor,2.37
+Kor-Azor,Gebem,Leva,Leva IV,Motley Compound,Medium,16.14
+Kor-Azor,Gebem,Leva,Leva IV,Smartfab Units,Perfect,15.05
+Kor-Azor,Gebem,Leva,Leva V,Lustering Alloy,Medium,14.87
+Kor-Azor,Gebem,Leva,Leva V,Base Metals,Poor,3.05
+Kor-Azor,Gebem,Leva,Leva VI,Reactive Gas,Rich,18.93
+Kor-Azor,Gebem,Leva,Leva VI,Base Metals,Perfect,6.77
+Kor-Azor,Gebem,Leva,Leva VI,Heavy Water,Medium,157.78
+Kor-Azor,Gebem,Leva,Leva VII,Lustering Alloy,Poor,13.12
+Kor-Azor,Gebem,Leva,Leva VII,Base Metals,Medium,4.35
+Kor-Azor,Gebem,Leva,Leva VIII,Lustering Alloy,Poor,11.00
+Kor-Azor,Gebem,Leva,Leva VIII,Base Metals,Poor,2.59
+Kor-Azor,Gebem,Leva,Leva IX,Reactive Gas,Rich,18.19
+Kor-Azor,Gebem,Leva,Leva IX,Suspended Plasma,Medium,48.03
+Kor-Azor,Gebem,Leva,Leva X,Lustering Alloy,Medium,16.95
+Kor-Azor,Gebem,Leva,Leva X,Base Metals,Medium,3.95
+Kor-Azor,Gebem,Leva,Leva XI,Lustering Alloy,Rich,19.28
+Kor-Azor,Gebem,Leva,Leva XI,Glossy Compound,Poor,11.56
+Kor-Azor,Gebem,Leva,Leva XI,Base Metals,Medium,4.47
+Kor-Azor,Gebem,Leva,Leva XII,Noble Metals,Perfect,23.39
+Kor-Azor,Gebem,Leva,Leva XII,Heavy Water,Perfect,241.22
+Kor-Azor,Gebem,Leva,Leva XII,Ionic Solutions,Rich,7.31
+Kor-Azor,Gebem,Nishah,Nishah I,Lustering Alloy,Poor,10.50
+Kor-Azor,Gebem,Nishah,Nishah I,Base Metals,Medium,4.08
+Kor-Azor,Gebem,Nishah,Nishah II,Lustering Alloy,Poor,11.89
+Kor-Azor,Gebem,Nishah,Nishah II,Base Metals,Medium,4.66
+Kor-Azor,Gebem,Nishah,Nishah III,Base Metals,Perfect,6.99
+Kor-Azor,Gebem,Nishah,Nishah III,Noble Metals,Perfect,25.44
+Kor-Azor,Gebem,Nishah,Nishah III,Heavy Water,Rich,199.05
+Kor-Azor,Gebem,Nishah,Nishah IV,Lustering Alloy,Medium,15.18
+Kor-Azor,Gebem,Nishah,Nishah IV,Glossy Compound,Rich,22.18
+Kor-Azor,Gebem,Nishah,Nishah IV,Base Metals,Rich,6.25
+Kor-Azor,Gebem,Nishah,Nishah V,Lustering Alloy,Medium,17.97
+Kor-Azor,Gebem,Nishah,Nishah V,Reactive Gas,Perfect,23.94
+Kor-Azor,Gebem,Nishah,Nishah V,Base Metals,Poor,3.57
+Kor-Azor,Gebem,Nishah,Nishah VI,Lustering Alloy,Rich,20.59
+Kor-Azor,Gebem,Nishah,Nishah VI,Sheen Compound,Medium,14.47
+Kor-Azor,Gebem,Nishah,Nishah VI,Base Metals,Rich,5.58
+Kor-Azor,Gebem,Nishah,Nishah VII,Lustering Alloy,Poor,12.42
+Kor-Azor,Gebem,Nishah,Nishah VII,Base Metals,Perfect,6.53
+Kor-Azor,Gebem,Nishah,Nishah VII,Ionic Solutions,Rich,8.54
+Kor-Azor,Gebem,Masanuh,Masanuh I,Lustering Alloy,Poor,9.80
+Kor-Azor,Gebem,Masanuh,Masanuh I,Base Metals,Medium,3.77
+Kor-Azor,Gebem,Masanuh,Masanuh II,Lustering Alloy,Medium,15.12
+Kor-Azor,Gebem,Masanuh,Masanuh II,Base Metals,Poor,2.32
+Kor-Azor,Gebem,Masanuh,Masanuh III,Opulent Compound,Medium,13.96
+Kor-Azor,Gebem,Masanuh,Masanuh III,Noble Metals,Medium,16.21
+Kor-Azor,Gebem,Masanuh,Masanuh III,Heavy Water,Medium,149.38
+Kor-Azor,Gebem,Masanuh,Masanuh IV,Lustering Alloy,Medium,14.45
+Kor-Azor,Gebem,Masanuh,Masanuh IV,Base Metals,Medium,3.95
+Kor-Azor,Gebem,Masanuh,Masanuh V,Lustering Alloy,Poor,11.98
+Kor-Azor,Gebem,Masanuh,Masanuh V,Sheen Compound,Rich,21.53
+Kor-Azor,Gebem,Masanuh,Masanuh V,Base Metals,Poor,3.05
+Kor-Azor,Gebem,Masanuh,Masanuh VI,Lustering Alloy,Rich,19.99
+Kor-Azor,Gebem,Masanuh,Masanuh VI,Fiber Composite,Rich,22.15
+Kor-Azor,Gebem,Masanuh,Masanuh VI,Base Metals,Medium,4.65
+Kor-Azor,Gebem,Masanuh,Masanuh VII,Lustering Alloy,Poor,11.73
+Kor-Azor,Gebem,Masanuh,Masanuh VII,Base Metals,Poor,2.77
+Kor-Azor,Gebem,Masanuh,Masanuh VIII,Lustering Alloy,Medium,15.34
+Kor-Azor,Gebem,Masanuh,Masanuh VIII,Base Metals,Poor,2.44
+Kor-Azor,Gebem,Sehmy,Sehmy I,Lustering Alloy,Poor,7.77
+Kor-Azor,Gebem,Sehmy,Sehmy I,Base Metals,Poor,2.26
+Kor-Azor,Gebem,Sehmy,Sehmy II,Motley Compound,Poor,8.79
+Kor-Azor,Gebem,Sehmy,Sehmy II,Polyaramids,Medium,7.23
+Kor-Azor,Gebem,Sehmy,Sehmy III,Industrial Fibers,Rich,4.13
+Kor-Azor,Gebem,Sehmy,Sehmy III,Smartfab Units,Rich,10.30
+Kor-Azor,Gebem,Sehmy,Sehmy III,Heavy Water,Perfect,184.30
+Kor-Azor,Gebem,Sehmy,Sehmy IV,Nanites,Rich,3.76
+Kor-Azor,Gebem,Sehmy,Sehmy IV,Suspended Plasma,Medium,34.78
+Kor-Azor,Gebem,Sehmy,Sehmy V,Lustering Alloy,Medium,10.13
+Kor-Azor,Gebem,Sehmy,Sehmy V,Base Metals,Medium,3.02
+Kor-Azor,Gebem,Sehmy,Sehmy VI,Lustering Alloy,Medium,10.80
+Kor-Azor,Gebem,Sehmy,Sehmy VI,Base Metals,Medium,2.51
+Kor-Azor,Gebem,Sehmy,Sehmy VII,Lustering Alloy,Rich,13.07
+Kor-Azor,Gebem,Sehmy,Sehmy VII,Reactive Gas,Rich,14.20
+Kor-Azor,Gebem,Sehmy,Sehmy VII,Base Metals,Medium,2.70
+Kor-Azor,Gebem,Sehmy,Sehmy VIII,Lustering Alloy,Medium,9.84
+Kor-Azor,Gebem,Sehmy,Sehmy VIII,Base Metals,Rich,3.74
+Kor-Azor,Gebem,Sehmy,Sehmy VIII,Coolant,Perfect,10.59
+Kor-Azor,Gebem,Nakregde,Nakregde I,Motley Compound,Rich,16.61
+Kor-Azor,Gebem,Nakregde,Nakregde I,Noble Metals,Rich,18.23
+Kor-Azor,Gebem,Nakregde,Nakregde II,Lustering Alloy,Poor,10.99
+Kor-Azor,Gebem,Nakregde,Nakregde II,Base Metals,Medium,3.44
+Kor-Azor,Gebem,Nakregde,Nakregde III,Coolant,Rich,11.79
+Kor-Azor,Gebem,Nakregde,Nakregde III,Silicate Glass,Perfect,9.70
+Kor-Azor,Gebem,Nakregde,Nakregde III,Heavy Water,Rich,156.24
+Kor-Azor,Gebem,Nakregde,Nakregde IV,Opulent Compound,Rich,17.36
+Kor-Azor,Gebem,Nakregde,Nakregde IV,Noble Metals,Perfect,20.70
+Kor-Azor,Gebem,Nakregde,Nakregde IV,Heavy Water,Rich,167.16
+Kor-Azor,Gebem,Nakregde,Nakregde V,Heavy Water,Rich,167.88
+Kor-Azor,Gebem,Nakregde,Nakregde V,Liquid Ozone,Rich,23.25
+Kor-Azor,Gebem,Nakregde,Nakregde V,Ionic Solutions,Perfect,7.68
+Kor-Azor,Gebem,Nakregde,Nakregde VI,Fiber Composite,Perfect,22.61
+Kor-Azor,Gebem,Nakregde,Nakregde VI,Reactive Gas,Medium,13.09
+Kor-Azor,Gebem,Nakregde,Nakregde VI,Heavy Water,Perfect,221.04
+Kor-Azor,Gebem,Nakregde,Nakregde VII,Condensed Alloy,Perfect,20.86
+Kor-Azor,Gebem,Nakregde,Nakregde VII,Smartfab Units,Medium,8.71
+Kor-Azor,Gebem,Nakregde,Nakregde VII,Heavy Water,Perfect,216.72
+Kor-Azor,Gebem,Nakregde,Nakregde VIII,Lustering Alloy,Medium,14.92
+Kor-Azor,Gebem,Nakregde,Nakregde VIII,Fiber Composite,Medium,11.34
+Kor-Azor,Gebem,Nakregde,Nakregde VIII,Base Metals,Rich,4.09
+Kor-Azor,Nimedaz,Danyana,Danyana I,Lustering Alloy,Medium,14.25
+Kor-Azor,Nimedaz,Danyana,Danyana I,Base Metals,Medium,4.13
+Kor-Azor,Nimedaz,Danyana,Danyana II,Lustering Alloy,Medium,15.76
+Kor-Azor,Nimedaz,Danyana,Danyana II,Base Metals,Poor,2.29
+Kor-Azor,Nimedaz,Danyana,Danyana III,Lustering Alloy,Rich,17.64
+Kor-Azor,Nimedaz,Danyana,Danyana III,Base Metals,Rich,5.30
+Kor-Azor,Nimedaz,Danyana,Danyana III,Reactive Metals,Rich,5.19
+Kor-Azor,Nimedaz,Danyana,Danyana IV,Lustering Alloy,Poor,11.87
+Kor-Azor,Nimedaz,Danyana,Danyana IV,Fiber Composite,Medium,16.15
+Kor-Azor,Nimedaz,Danyana,Danyana IV,Base Metals,Medium,3.89
+Kor-Azor,Nimedaz,Danyana,Danyana V,Lustering Alloy,Medium,14.18
+Kor-Azor,Nimedaz,Danyana,Danyana V,Sheen Compound,Rich,18.47
+Kor-Azor,Nimedaz,Danyana,Danyana V,Base Metals,Medium,3.54
+Kor-Azor,Nimedaz,Danyana,Danyana VI,Lustering Alloy,Poor,10.19
+Kor-Azor,Nimedaz,Danyana,Danyana VI,Base Metals,Poor,3.14
+Kor-Azor,Nimedaz,Danyana,Danyana VII,Lustering Alloy,Poor,9.31
+Kor-Azor,Nimedaz,Danyana,Danyana VII,Base Metals,Poor,3.12
+Kor-Azor,Nimedaz,Nahyeen,Nahyeen I,Lustering Alloy,Poor,10.49
+Kor-Azor,Nimedaz,Nahyeen,Nahyeen I,Base Metals,Poor,2.32
+Kor-Azor,Nimedaz,Nahyeen,Nahyeen II,Motley Compound,Medium,15.73
+Kor-Azor,Nimedaz,Nahyeen,Nahyeen II,Plasmoids,Perfect,1.28
+Kor-Azor,Nimedaz,Nahyeen,Nahyeen III,Lustering Alloy,Poor,11.74
+Kor-Azor,Nimedaz,Nahyeen,Nahyeen III,Base Metals,Medium,3.78
+Kor-Azor,Nimedaz,Nahyeen,Nahyeen IV,Crystal Compound,Medium,14.91
+Kor-Azor,Nimedaz,Nahyeen,Nahyeen IV,Suspended Plasma,Rich,65.99
+Kor-Azor,Nimedaz,Nahyeen,Nahyeen V,Lustering Alloy,Medium,12.84
+Kor-Azor,Nimedaz,Nahyeen,Nahyeen V,Base Metals,Medium,3.55
+Kor-Azor,Nimedaz,Nahyeen,Nahyeen VI,Fiber Composite,Medium,13.49
+Kor-Azor,Nimedaz,Nahyeen,Nahyeen VI,Industrial Fibers,Medium,3.34
+Kor-Azor,Nimedaz,Nahyeen,Nahyeen VI,Heavy Water,Perfect,212.94
+Kor-Azor,Nimedaz,Nahyeen,Nahyeen VII,Lustering Alloy,Poor,12.09
+Kor-Azor,Nimedaz,Nahyeen,Nahyeen VII,Base Metals,Medium,4.14
+Kor-Azor,Nimedaz,Nahyeen,Nahyeen VIII,Reactive Gas,Medium,15.30
+Kor-Azor,Nimedaz,Nahyeen,Nahyeen VIII,Suspended Plasma,Medium,54.24
+Kor-Azor,Nimedaz,Nahyeen,Nahyeen IX,Crystal Compound,Poor,12.08
+Kor-Azor,Nimedaz,Nahyeen,Nahyeen IX,Toxic Metals,Perfect,5.88
+Kor-Azor,Nimedaz,Nahyeen,Nahyeen IX,Heavy Water,Medium,122.85
+Kor-Azor,Nimedaz,Jinkah,Jinkah I,Motley Compound,Rich,18.96
+Kor-Azor,Nimedaz,Jinkah,Jinkah I,Smartfab Units,Rich,11.89
+Kor-Azor,Nimedaz,Jinkah,Jinkah II,Lustering Alloy,Poor,9.84
+Kor-Azor,Nimedaz,Jinkah,Jinkah II,Base Metals,Medium,3.74
+Kor-Azor,Nimedaz,Jinkah,Jinkah III,Lustering Alloy,Medium,12.70
+Kor-Azor,Nimedaz,Jinkah,Jinkah III,Base Metals,Medium,3.11
+Kor-Azor,Nimedaz,Jinkah,Jinkah III,Reactive Metals,Poor,2.84
+Kor-Azor,Nimedaz,Jinkah,Jinkah IV,Lustering Alloy,Medium,11.78
+Kor-Azor,Nimedaz,Jinkah,Jinkah IV,Base Metals,Medium,3.62
+Kor-Azor,Nimedaz,Jinkah,Jinkah V,Coolant,Perfect,12.92
+Kor-Azor,Nimedaz,Jinkah,Jinkah V,Heavy Water,Rich,157.44
+Kor-Azor,Nimedaz,Jinkah,Jinkah V,Ionic Solutions,Medium,5.31
+Kor-Azor,Nimedaz,Jinkah,Jinkah VI,Lustering Alloy,Poor,10.48
+Kor-Azor,Nimedaz,Jinkah,Jinkah VI,Glossy Compound,Rich,15.22
+Kor-Azor,Nimedaz,Jinkah,Jinkah VI,Base Metals,Rich,4.04
+Kor-Azor,Nimedaz,Jinkah,Jinkah VII,Lustering Alloy,Rich,17.08
+Kor-Azor,Nimedaz,Jinkah,Jinkah VII,Base Metals,Rich,4.05
+Kor-Azor,Nimedaz,Jinkah,Jinkah VII,Polyaramids,Medium,7.78
+Kor-Azor,Nimedaz,Jinkah,Jinkah VIII,Lustering Alloy,Poor,10.36
+Kor-Azor,Nimedaz,Jinkah,Jinkah VIII,Fiber Composite,Rich,16.31
+Kor-Azor,Nimedaz,Jinkah,Jinkah VIII,Base Metals,Rich,4.89
+Kor-Azor,Nimedaz,Jinkah,Jinkah IX,Lustering Alloy,Medium,14.96
+Kor-Azor,Nimedaz,Jinkah,Jinkah IX,Base Metals,Medium,3.20
+Kor-Azor,Nimedaz,Nibainkier,Nibainkier I,Lustering Alloy,Medium,13.34
+Kor-Azor,Nimedaz,Nibainkier,Nibainkier I,Base Metals,Medium,3.55
+Kor-Azor,Nimedaz,Nibainkier,Nibainkier II,Lustering Alloy,Poor,11.12
+Kor-Azor,Nimedaz,Nibainkier,Nibainkier II,Base Metals,Medium,3.93
+Kor-Azor,Nimedaz,Nibainkier,Nibainkier III,Lustering Alloy,Poor,9.96
+Kor-Azor,Nimedaz,Nibainkier,Nibainkier III,Base Metals,Medium,3.35
+Kor-Azor,Nimedaz,Nibainkier,Nibainkier IV,Gleaming Alloy,Medium,13.01
+Kor-Azor,Nimedaz,Nibainkier,Nibainkier IV,Motley Compound,Medium,14.42
+Kor-Azor,Nimedaz,Nibainkier,Nibainkier V,Lustering Alloy,Rich,19.85
+Kor-Azor,Nimedaz,Nibainkier,Nibainkier V,Base Metals,Medium,3.79
+Kor-Azor,Nimedaz,Nibainkier,Nibainkier V,Reactive Metals,Rich,4.75
+Kor-Azor,Nimedaz,Nibainkier,Nibainkier VI,Base Metals,Rich,5.21
+Kor-Azor,Nimedaz,Nibainkier,Nibainkier VI,Condensates,Rich,13.52
+Kor-Azor,Nimedaz,Nibainkier,Nibainkier VI,Heavy Water,Perfect,211.64
+Kor-Azor,Nimedaz,Nibainkier,Nibainkier VII,Lustering Alloy,Rich,17.43
+Kor-Azor,Nimedaz,Nibainkier,Nibainkier VII,Base Metals,Perfect,5.58
+Kor-Azor,Nimedaz,Nibainkier,Nibainkier VII,Polyaramids,Medium,9.59
+Kor-Azor,Nimedaz,Nibainkier,Nibainkier VIII,Lustering Alloy,Perfect,21.02
+Kor-Azor,Nimedaz,Nibainkier,Nibainkier VIII,Reactive Gas,Poor,11.61
+Kor-Azor,Nimedaz,Nibainkier,Nibainkier VIII,Base Metals,Perfect,5.50
+Kor-Azor,Nimedaz,Polfaly,Polfaly I,Lustering Alloy,Poor,10.06
+Kor-Azor,Nimedaz,Polfaly,Polfaly I,Base Metals,Medium,3.74
+Kor-Azor,Nimedaz,Polfaly,Polfaly II,Lustering Alloy,Poor,10.58
+Kor-Azor,Nimedaz,Polfaly,Polfaly II,Base Metals,Medium,3.70
+Kor-Azor,Nimedaz,Polfaly,Polfaly III,Industrial Fibers,Medium,3.37
+Kor-Azor,Nimedaz,Polfaly,Polfaly III,Heavy Water,Perfect,197.04
+Kor-Azor,Nimedaz,Polfaly,Polfaly III,Liquid Ozone,Rich,23.01
+Kor-Azor,Nimedaz,Polfaly,Polfaly IV,Lustering Alloy,Perfect,19.28
+Kor-Azor,Nimedaz,Polfaly,Polfaly IV,Base Metals,Poor,2.66
+Kor-Azor,Nimedaz,Polfaly,Polfaly IV,Reactive Metals,Medium,3.98
+Kor-Azor,Nimedaz,Polfaly,Polfaly V,Lustering Alloy,Medium,14.33
+Kor-Azor,Nimedaz,Polfaly,Polfaly V,Sheen Compound,Medium,13.16
+Kor-Azor,Nimedaz,Polfaly,Polfaly V,Base Metals,Perfect,5.19
+Kor-Azor,Nimedaz,Polfaly,Polfaly VI,Lustering Alloy,Rich,15.67
+Kor-Azor,Nimedaz,Polfaly,Polfaly VI,Base Metals,Medium,3.63
+Kor-Azor,Nimedaz,Polfaly,Polfaly VI,Polyaramids,Rich,10.50
+Kor-Azor,Nimedaz,Polfaly,Polfaly VII,Motley Compound,Rich,17.52
+Kor-Azor,Nimedaz,Polfaly,Polfaly VII,Polyaramids,Medium,9.36
+Kor-Azor,Nimedaz,Polfaly,Polfaly VIII,Lustering Alloy,Rich,17.27
+Kor-Azor,Nimedaz,Polfaly,Polfaly VIII,Base Metals,Rich,4.17
+Kor-Azor,Nimedaz,Polfaly,Polfaly IX,Lustering Alloy,Poor,9.13
+Kor-Azor,Nimedaz,Polfaly,Polfaly IX,Base Metals,Medium,3.50
+Kor-Azor,Nimedaz,Polfaly,Polfaly X,Lustering Alloy,Poor,11.20
+Kor-Azor,Nimedaz,Polfaly,Polfaly X,Base Metals,Poor,2.73
+Kor-Azor,Nimedaz,Andrub,Andrub I,Lustering Alloy,Medium,14.76
+Kor-Azor,Nimedaz,Andrub,Andrub I,Base Metals,Medium,3.71
+Kor-Azor,Nimedaz,Andrub,Andrub II,Motley Compound,Perfect,23.31
+Kor-Azor,Nimedaz,Andrub,Andrub II,Heavy Metals,Perfect,23.17
+Kor-Azor,Nimedaz,Andrub,Andrub III,Lustering Alloy,Medium,13.48
+Kor-Azor,Nimedaz,Andrub,Andrub III,Base Metals,Medium,4.37
+Kor-Azor,Nimedaz,Andrub,Andrub IV,Motley Compound,Rich,22.02
+Kor-Azor,Nimedaz,Andrub,Andrub IV,Noble Metals,Rich,19.94
+Kor-Azor,Nimedaz,Andrub,Andrub V,Lustering Alloy,Medium,13.48
+Kor-Azor,Nimedaz,Andrub,Andrub V,Base Metals,Medium,4.26
+Kor-Azor,Nimedaz,Andrub,Andrub VI,Reactive Gas,Poor,11.96
+Kor-Azor,Nimedaz,Andrub,Andrub VI,Suspended Plasma,Rich,73.53
+Kor-Azor,Nimedaz,Andrub,Andrub VII,Lustering Alloy,Poor,12.07
+Kor-Azor,Nimedaz,Andrub,Andrub VII,Base Metals,Poor,2.87
+Kor-Azor,Nimedaz,Andrub,Andrub VIII,Opulent Compound,Poor,12.46
+Kor-Azor,Nimedaz,Andrub,Andrub VIII,Crystal Compound,Rich,21.84
+Kor-Azor,Nimedaz,Andrub,Andrub VIII,Heavy Water,Rich,188.72
+Kor-Azor,Panoumid,Kulu,Kulu I,Motley Compound,Medium,14.28
+Kor-Azor,Panoumid,Kulu,Kulu I,Heavy Metals,Rich,20.28
+Kor-Azor,Panoumid,Kulu,Kulu II,Lustering Alloy,Medium,16.07
+Kor-Azor,Panoumid,Kulu,Kulu II,Base Metals,Poor,2.74
+Kor-Azor,Panoumid,Kulu,Kulu III,Dark Compound,Rich,22.34
+Kor-Azor,Panoumid,Kulu,Kulu III,Suspended Plasma,Medium,62.05
+Kor-Azor,Panoumid,Kulu,Kulu III,Plasmoids,Medium,1.02
+Kor-Azor,Panoumid,Kulu,Kulu IV,Lustering Alloy,Medium,18.09
+Kor-Azor,Panoumid,Kulu,Kulu IV,Base Metals,Poor,3.24
+Kor-Azor,Panoumid,Kulu,Kulu V,Reactive Gas,Rich,20.52
+Kor-Azor,Panoumid,Kulu,Kulu V,Heavy Water,Perfect,263.40
+Kor-Azor,Panoumid,Kulu,Kulu V,Liquid Ozone,Perfect,30.26
+Kor-Azor,Panoumid,Kulu,Kulu VI,Motley Compound,Rich,19.98
+Kor-Azor,Panoumid,Kulu,Kulu VI,Noble Gas,Poor,13.59
+Kor-Azor,Panoumid,Kulu,Kulu VII,Lustering Alloy,Poor,13.41
+Kor-Azor,Panoumid,Kulu,Kulu VII,Base Metals,Poor,3.66
+Kor-Azor,Panoumid,Kulu,Kulu VIII,Lustering Alloy,Poor,13.02
+Kor-Azor,Panoumid,Kulu,Kulu VIII,Base Metals,Medium,4.80
+Kor-Azor,Panoumid,Kulu,Kulu IX,Nanites,Rich,6.18
+Kor-Azor,Panoumid,Kulu,Kulu IX,Suspended Plasma,Poor,47.63
+Kor-Azor,Panoumid,Kulu,Kulu X,Lustering Alloy,Medium,18.48
+Kor-Azor,Panoumid,Kulu,Kulu X,Base Metals,Rich,5.49
+Kor-Azor,Panoumid,Kulu,Kulu X,Polyaramids,Rich,15.29
+Kor-Azor,Panoumid,Choga,Choga I,Lustering Alloy,Medium,15.11
+Kor-Azor,Panoumid,Choga,Choga I,Base Metals,Medium,4.25
+Kor-Azor,Panoumid,Choga,Choga II,Lucent Compound,Rich,22.84
+Kor-Azor,Panoumid,Choga,Choga II,Suspended Plasma,Medium,52.87
+Kor-Azor,Panoumid,Choga,Choga III,Lustering Alloy,Poor,9.59
+Kor-Azor,Panoumid,Choga,Choga III,Base Metals,Medium,4.77
+Kor-Azor,Panoumid,Choga,Choga IV,Lustering Alloy,Poor,12.12
+Kor-Azor,Panoumid,Choga,Choga IV,Base Metals,Poor,3.36
+Kor-Azor,Panoumid,Choga,Choga V,Lustering Alloy,Rich,19.75
+Kor-Azor,Panoumid,Choga,Choga V,Noble Gas,Medium,16.36
+Kor-Azor,Panoumid,Choga,Choga V,Base Metals,Poor,3.48
+Kor-Azor,Panoumid,Choga,Choga VI,Reactive Gas,Perfect,26.14
+Kor-Azor,Panoumid,Choga,Choga VI,Noble Metals,Perfect,28.08
+Kor-Azor,Panoumid,Choga,Choga VI,Heavy Water,Rich,204.60
+Kor-Azor,Panoumid,Choga,Choga VII,Base Metals,Medium,4.02
+Kor-Azor,Panoumid,Choga,Choga VII,Industrial Fibers,Medium,4.39
+Kor-Azor,Panoumid,Choga,Choga VII,Heavy Water,Rich,231.75
+Kor-Azor,Panoumid,Choga,Choga VIII,Lustering Alloy,Rich,21.15
+Kor-Azor,Panoumid,Choga,Choga VIII,Base Metals,Rich,5.09
+Kor-Azor,Panoumid,Choga,Choga VIII,Ionic Solutions,Perfect,9.57
+Kor-Azor,Panoumid,Soumi,Soumi I,Motley Compound,Poor,12.24
+Kor-Azor,Panoumid,Soumi,Soumi I,Noble Metals,Rich,21.88
+Kor-Azor,Panoumid,Soumi,Soumi II,Motley Compound,Perfect,23.32
+Kor-Azor,Panoumid,Soumi,Soumi II,Construction Blocks,Medium,14.53
+Kor-Azor,Panoumid,Soumi,Soumi III,Condensed Alloy,Rich,21.39
+Kor-Azor,Panoumid,Soumi,Soumi III,Crystal Compound,Rich,20.37
+Kor-Azor,Panoumid,Soumi,Soumi III,Heavy Water,Rich,215.60
+Kor-Azor,Panoumid,Soumi,Soumi IV,Base Metals,Perfect,7.03
+Kor-Azor,Panoumid,Soumi,Soumi IV,Smartfab Units,Perfect,16.59
+Kor-Azor,Panoumid,Soumi,Soumi IV,Heavy Water,Rich,210.28
+Kor-Azor,Panoumid,Soumi,Soumi V,Lustering Alloy,Rich,21.92
+Kor-Azor,Panoumid,Soumi,Soumi V,Glossy Compound,Medium,15.68
+Kor-Azor,Panoumid,Soumi,Soumi V,Base Metals,Rich,5.04
+Kor-Azor,Panoumid,Soumi,Soumi VI,Lustering Alloy,Poor,11.38
+Kor-Azor,Panoumid,Soumi,Soumi VI,Base Metals,Medium,3.63
+Kor-Azor,Panoumid,Soumi,Soumi VII,Lustering Alloy,Medium,14.74
+Kor-Azor,Panoumid,Soumi,Soumi VII,Base Metals,Poor,2.47
+Kor-Azor,Panoumid,Imih,Imih I,Lustering Alloy,Medium,17.28
+Kor-Azor,Panoumid,Imih,Imih I,Base Metals,Poor,3.01
+Kor-Azor,Panoumid,Imih,Imih II,Lustering Alloy,Rich,23.80
+Kor-Azor,Panoumid,Imih,Imih II,Base Metals,Medium,3.92
+Kor-Azor,Panoumid,Imih,Imih II,Coolant,Rich,15.25
+Kor-Azor,Panoumid,Imih,Imih III,Lustering Alloy,Poor,14.13
+Kor-Azor,Panoumid,Imih,Imih III,Noble Gas,Perfect,24.27
+Kor-Azor,Panoumid,Imih,Imih III,Base Metals,Rich,5.63
+Kor-Azor,Panoumid,Imih,Imih IV,Lustering Alloy,Rich,19.64
+Kor-Azor,Panoumid,Imih,Imih IV,Base Metals,Poor,2.97
+Kor-Azor,Panoumid,Nare,Nare I,Motley Compound,Rich,19.22
+Kor-Azor,Panoumid,Nare,Nare I,Polyaramids,Rich,14.16
+Kor-Azor,Panoumid,Nare,Nare II,Lustering Alloy,Poor,9.06
+Kor-Azor,Panoumid,Nare,Nare II,Base Metals,Medium,4.21
+Kor-Azor,Panoumid,Nare,Nare III,Fiber Composite,Perfect,23.42
+Kor-Azor,Panoumid,Nare,Nare III,Reactive Gas,Rich,21.38
+Kor-Azor,Panoumid,Nare,Nare III,Heavy Water,Perfect,243.88
+Kor-Azor,Panoumid,Nare,Nare IV,Lustering Alloy,Rich,22.20
+Kor-Azor,Panoumid,Nare,Nare IV,Sheen Compound,Poor,12.64
+Kor-Azor,Panoumid,Nare,Nare IV,Base Metals,Rich,5.62
+Kor-Azor,Panoumid,Nare,Nare V,Lustering Alloy,Poor,10.57
+Kor-Azor,Panoumid,Nare,Nare V,Base Metals,Medium,4.35
+Kor-Azor,Panoumid,Nare,Nare VI,Lustering Alloy,Medium,16.53
+Kor-Azor,Panoumid,Nare,Nare VI,Noble Gas,Medium,15.48
+Kor-Azor,Panoumid,Nare,Nare VI,Base Metals,Medium,3.98
+Kor-Azor,Panoumid,Nare,Nare VII,Lustering Alloy,Perfect,22.76
+Kor-Azor,Panoumid,Nare,Nare VII,Reactive Gas,Medium,14.36
+Kor-Azor,Panoumid,Nare,Nare VII,Base Metals,Perfect,5.95
+Kor-Azor,Panoumid,Zinkon,Zinkon I,Lustering Alloy,Medium,13.47
+Kor-Azor,Panoumid,Zinkon,Zinkon I,Base Metals,Medium,3.88
+Kor-Azor,Panoumid,Zinkon,Zinkon II,Silicate Glass,Perfect,10.78
+Kor-Azor,Panoumid,Zinkon,Zinkon II,Heavy Water,Rich,167.83
+Kor-Azor,Panoumid,Zinkon,Zinkon II,Ionic Solutions,Perfect,8.59
+Kor-Azor,Panoumid,Zinkon,Zinkon III,Polyaramids,Rich,11.68
+Kor-Azor,Panoumid,Zinkon,Zinkon III,Heavy Water,Medium,157.56
+Kor-Azor,Panoumid,Zinkon,Zinkon III,Liquid Ozone,Medium,18.64
+Kor-Azor,Panoumid,Zinkon,Zinkon IV,Lustering Alloy,Poor,11.78
+Kor-Azor,Panoumid,Zinkon,Zinkon IV,Base Metals,Poor,2.22
+Kor-Azor,Panoumid,Zinkon,Zinkon V,Noble Metals,Medium,14.66
+Kor-Azor,Panoumid,Zinkon,Zinkon V,Smartfab Units,Perfect,14.95
+Kor-Azor,Panoumid,Zinkon,Zinkon V,Heavy Water,Medium,163.41
+Kor-Azor,Panoumid,Zinkon,Zinkon VI,Opulent Compound,Rich,19.49
+Kor-Azor,Panoumid,Zinkon,Zinkon VI,Heavy Water,Medium,156.13
+Kor-Azor,Panoumid,Zinkon,Zinkon VI,Ionic Solutions,Medium,5.91
+Kor-Azor,Panoumid,Zinkon,Zinkon VII,Suspended Plasma,Rich,60.14
+Kor-Azor,Panoumid,Zinkon,Zinkon VII,Oxygen Isotopes,Medium,2.01
+Kor-Azor,Panoumid,Zinkon,Zinkon VIII,Lustering Alloy,Poor,11.62
+Kor-Azor,Panoumid,Zinkon,Zinkon VIII,Fiber Composite,Rich,18.47
+Kor-Azor,Panoumid,Zinkon,Zinkon VIII,Base Metals,Poor,3.21
+Kor-Azor,Finena,Kizama,Kizama I,Lustering Alloy,Medium,14.22
+Kor-Azor,Finena,Kizama,Kizama I,Base Metals,Medium,4.46
+Kor-Azor,Finena,Kizama,Kizama II,Condensed Alloy,Rich,20.05
+Kor-Azor,Finena,Kizama,Kizama II,Industrial Fibers,Medium,3.89
+Kor-Azor,Finena,Kizama,Kizama II,Heavy Water,Rich,219.94
+Kor-Azor,Finena,Kizama,Kizama III,Lustering Alloy,Medium,13.58
+Kor-Azor,Finena,Kizama,Kizama III,Glossy Compound,Rich,21.71
+Kor-Azor,Finena,Kizama,Kizama III,Base Metals,Poor,3.05
+Kor-Azor,Finena,Kizama,Kizama IV,Noble Metals,Rich,18.54
+Kor-Azor,Finena,Kizama,Kizama IV,Coolant,Medium,9.93
+Kor-Azor,Finena,Kizama,Kizama IV,Heavy Water,Medium,137.76
+Kor-Azor,Finena,Kizama,Kizama V,Lustering Alloy,Rich,18.21
+Kor-Azor,Finena,Kizama,Kizama V,Base Metals,Rich,5.68
+Kor-Azor,Finena,Kizama,Kizama V,Polyaramids,Rich,14.30
+Kor-Azor,Finena,Kizama,Kizama VI,Lustering Alloy,Medium,13.85
+Kor-Azor,Finena,Kizama,Kizama VI,Base Metals,Medium,4.44
+Kor-Azor,Finena,Kizama,Kizama VI,Polyaramids,Medium,9.90
+Kor-Azor,Finena,Kizama,Kizama VII,Lustering Alloy,Medium,15.79
+Kor-Azor,Finena,Kizama,Kizama VII,Base Metals,Poor,3.06
+Kor-Azor,Finena,Shaha,Shaha I,Motley Compound,Medium,16.70
+Kor-Azor,Finena,Shaha,Shaha I,Heavy Metals,Rich,19.48
+Kor-Azor,Finena,Shaha,Shaha II,Lustering Alloy,Medium,14.71
+Kor-Azor,Finena,Shaha,Shaha II,Base Metals,Poor,3.62
+Kor-Azor,Finena,Shaha,Shaha III,Smartfab Units,Rich,15.19
+Kor-Azor,Finena,Shaha,Shaha III,Heavy Water,Medium,141.75
+Kor-Azor,Finena,Shaha,Shaha III,Liquid Ozone,Medium,22.59
+Kor-Azor,Finena,Shaha,Shaha IV,Condensed Alloy,Medium,17.82
+Kor-Azor,Finena,Shaha,Shaha IV,Fiber Composite,Perfect,24.14
+Kor-Azor,Finena,Shaha,Shaha IV,Heavy Water,Rich,213.45
+Kor-Azor,Finena,Shaha,Shaha V,Lustering Alloy,Poor,10.08
+Kor-Azor,Finena,Shaha,Shaha V,Base Metals,Poor,2.71
+Kor-Azor,Finena,Shaha,Shaha VI,Lustering Alloy,Poor,12.13
+Kor-Azor,Finena,Shaha,Shaha VI,Base Metals,Medium,4.79
+Kor-Azor,Finena,Shaha,Shaha VII,Reactive Gas,Medium,17.14
+Kor-Azor,Finena,Shaha,Shaha VII,Condensates,Perfect,17.70
+Kor-Azor,Finena,Shaha,Shaha VII,Heavy Water,Medium,174.15
+Kor-Azor,Finena,Shaha,Shaha VIII,Base Metals,Rich,5.00
+Kor-Azor,Finena,Shaha,Shaha VIII,Heavy Water,Perfect,243.30
+Kor-Azor,Finena,Shaha,Shaha VIII,Liquid Ozone,Medium,20.04
+Kor-Azor,Finena,Neesher,Neesher I,Noble Gas,Poor,14.13
+Kor-Azor,Finena,Neesher,Neesher I,Suspended Plasma,Perfect,92.93
+Kor-Azor,Finena,Neesher,Neesher I,Plasmoids,Rich,1.18
+Kor-Azor,Finena,Neesher,Neesher II,Lustering Alloy,Poor,13.86
+Kor-Azor,Finena,Neesher,Neesher II,Base Metals,Poor,2.84
+Kor-Azor,Finena,Neesher,Neesher III,Lustering Alloy,Poor,12.64
+Kor-Azor,Finena,Neesher,Neesher III,Base Metals,Medium,4.22
+Kor-Azor,Finena,Neesher,Neesher III,Reactive Metals,Poor,3.69
+Kor-Azor,Finena,Neesher,Neesher IV,Lustering Alloy,Medium,16.34
+Kor-Azor,Finena,Neesher,Neesher IV,Glossy Compound,Medium,14.80
+Kor-Azor,Finena,Neesher,Neesher IV,Base Metals,Medium,4.70
+Kor-Azor,Finena,Neesher,Neesher V,Lustering Alloy,Medium,17.49
+Kor-Azor,Finena,Neesher,Neesher V,Base Metals,Poor,3.32
+Kor-Azor,Finena,Neesher,Neesher VI,Lustering Alloy,Perfect,24.90
+Kor-Azor,Finena,Neesher,Neesher VI,Base Metals,Medium,3.94
+Kor-Azor,Finena,Neesher,Neesher VI,Reactive Metals,Rich,5.02
+Kor-Azor,Finena,Misha,Misha I,Glossy Compound,Rich,24.29
+Kor-Azor,Finena,Misha,Misha I,Noble Gas,Medium,15.95
+Kor-Azor,Finena,Misha,Misha II,Dark Compound,Medium,16.30
+Kor-Azor,Finena,Misha,Misha II,Heavy Metals,Medium,18.03
+Kor-Azor,Finena,Misha,Misha II,Reactive Metals,Perfect,7.08
+Kor-Azor,Finena,Misha,Misha II,Nanites,Perfect,6.77
+Kor-Azor,Finena,Misha,Misha III,Noble Gas,Rich,24.29
+Kor-Azor,Finena,Misha,Misha III,Noble Metals,Rich,21.02
+Kor-Azor,Finena,Misha,Misha IV,Reactive Gas,Medium,15.26
+Kor-Azor,Finena,Misha,Misha IV,Noble Gas,Medium,15.42
+Kor-Azor,Finena,Misha,Misha IV,Base Metals,Medium,4.36
+Kor-Azor,Finena,Misha,Misha IV,Coolant,Rich,15.22
+Kor-Azor,Finena,Misha,Misha V,Sheen Compound,Medium,15.47
+Kor-Azor,Finena,Misha,Misha V,Reactive Gas,Medium,17.87
+Kor-Azor,Finena,Misha,Misha V,Noble Gas,Poor,14.93
+Kor-Azor,Finena,Misha,Misha V,Reactive Metals,Rich,6.23
+Kor-Azor,Finena,Misha,Misha VI,Fiber Composite,Rich,20.75
+Kor-Azor,Finena,Misha,Misha VI,Reactive Gas,Medium,15.92
+Kor-Azor,Finena,Misha,Misha VI,Noble Gas,Medium,16.54
+Kor-Azor,Finena,Misha,Misha VI,Coolant,Rich,14.10
+Kor-Azor,Finena,Misha,Misha VII,Noble Gas,Medium,17.06
+Kor-Azor,Finena,Misha,Misha VII,Base Metals,Poor,3.82
+Kor-Azor,Finena,Misha,Misha VII,Polyaramids,Rich,16.64
+Kor-Azor,Finena,Misha,Misha VII,Ionic Solutions,Rich,9.59
+Kor-Azor,Finena,Misha,Misha VIII,Lucent Compound,Rich,23.31
+Kor-Azor,Finena,Misha,Misha VIII,Supertensile Plastics,Medium,11.38
+Kor-Azor,Finena,Misha,Misha VIII,Construction Blocks,Rich,23.02
+Kor-Azor,Finena,Ordion,Ordion I,Motley Compound,Poor,12.82
+Kor-Azor,Finena,Ordion,Ordion I,Noble Metals,Poor,12.03
+Kor-Azor,Finena,Ordion,Ordion II,Lustering Alloy,Medium,14.34
+Kor-Azor,Finena,Ordion,Ordion II,Base Metals,Medium,4.65
+Kor-Azor,Finena,Ordion,Ordion III,Dark Compound,Medium,18.02
+Kor-Azor,Finena,Ordion,Ordion III,Heavy Metals,Medium,16.18
+Kor-Azor,Finena,Ordion,Ordion III,Suspended Plasma,Rich,74.90
+Kor-Azor,Finena,Ordion,Ordion IV,Lustering Alloy,Rich,19.53
+Kor-Azor,Finena,Ordion,Ordion IV,Noble Gas,Rich,19.18
+Kor-Azor,Finena,Ordion,Ordion IV,Base Metals,Perfect,6.40
+Kor-Azor,Finena,Ordion,Ordion V,Nanites,Medium,4.33
+Kor-Azor,Finena,Ordion,Ordion V,Suspended Plasma,Rich,78.35
+Kor-Azor,Finena,Ordion,Ordion VI,Lustering Alloy,Poor,9.97
+Kor-Azor,Finena,Ordion,Ordion VI,Base Metals,Medium,4.81
+Kor-Azor,Finena,Ordion,Ordion VII,Lustering Alloy,Rich,21.14
+Kor-Azor,Finena,Ordion,Ordion VII,Base Metals,Medium,4.50
+Kor-Azor,Finena,Ordion,Ordion VII,Polyaramids,Rich,15.83
+Kor-Azor,Finena,Ordion,Ordion VIII,Lustering Alloy,Poor,12.60
+Kor-Azor,Finena,Ordion,Ordion VIII,Base Metals,Poor,3.53
+Kor-Azor,Finena,Ordion,Ordion VIII,Coolant,Rich,13.08
+Kor-Azor,Finena,Ordion,Ordion IX,Lustering Alloy,Rich,19.14
+Kor-Azor,Finena,Ordion,Ordion IX,Base Metals,Rich,5.91
+Kor-Azor,Finena,Ordion,Ordion IX,Reactive Metals,Medium,4.31
+Kor-Azor,Finena,Perbhe,Perbhe I,Noble Gas,Medium,18.89
+Kor-Azor,Finena,Perbhe,Perbhe I,Heavy Metals,Medium,19.13
+Kor-Azor,Finena,Perbhe,Perbhe II,Lustering Alloy,Poor,12.00
+Kor-Azor,Finena,Perbhe,Perbhe II,Industrial Fibers,Poor,3.02
+Kor-Azor,Finena,Perbhe,Perbhe II,Plasmoids,Poor,0.81
+Kor-Azor,Finena,Perbhe,Perbhe III,Toxic Metals,Medium,5.40
+Kor-Azor,Finena,Perbhe,Perbhe III,Coolant,Rich,15.71
+Kor-Azor,Finena,Perbhe,Perbhe III,Liquid Ozone,Medium,22.50
+Kor-Azor,Finena,Perbhe,Perbhe III,Ionic Solutions,Rich,9.16
+Kor-Azor,Finena,Perbhe,Perbhe IV,Supertensile Plastics,Rich,14.64
+Kor-Azor,Finena,Perbhe,Perbhe IV,Construction Blocks,Medium,17.97
+Kor-Azor,Finena,Perbhe,Perbhe IV,Nanites,Rich,6.04
+Kor-Azor,Finena,Perbhe,Perbhe V,Fiber Composite,Medium,18.94
+Kor-Azor,Finena,Perbhe,Perbhe V,Opulent Compound,Rich,26.66
+Kor-Azor,Finena,Perbhe,Perbhe V,Condensates,Perfect,18.28
+Kor-Azor,Finena,Perbhe,Perbhe V,Heavy Water,Rich,239.36
+Kor-Azor,Finena,Perbhe,Perbhe VI,Sheen Compound,Perfect,27.76
+Kor-Azor,Finena,Perbhe,Perbhe VI,Noble Gas,Medium,16.57
+Kor-Azor,Finena,Perbhe,Perbhe VI,Base Metals,Medium,5.33
+Kor-Azor,Finena,Perbhe,Perbhe VI,Reactive Metals,Perfect,7.33
+Kor-Azor,Finena,Perbhe,Perbhe VII,Fiber Composite,Medium,20.28
+Kor-Azor,Finena,Perbhe,Perbhe VII,Glossy Compound,Perfect,28.15
+Kor-Azor,Finena,Perbhe,Perbhe VII,Noble Gas,Medium,18.29
+Kor-Azor,Finena,Perbhe,Perbhe VII,Base Metals,Rich,6.56
+Kor-Azor,Finena,Perbhe,Perbhe VIII,Lustering Alloy,Rich,23.70
+Kor-Azor,Finena,Perbhe,Perbhe VIII,Sheen Compound,Rich,22.36
+Kor-Azor,Finena,Perbhe,Perbhe VIII,Noble Gas,Medium,17.68
+Kor-Azor,Finena,Perbhe,Perbhe VIII,Polyaramids,Rich,16.48
+Kor-Azor,Finena,Perbhe,Perbhe IX,Reactive Gas,Medium,16.51
+Kor-Azor,Finena,Perbhe,Perbhe IX,Noble Gas,Perfect,27.40
+Kor-Azor,Finena,Perbhe,Perbhe IX,Base Metals,Medium,5.17
+Kor-Azor,Finena,Perbhe,Perbhe IX,Polyaramids,Poor,9.47
+Kor-Azor,Finena,Perbhe,Perbhe X,Precious Alloy,Medium,19.75
+Kor-Azor,Finena,Perbhe,Perbhe X,Base Metals,Medium,5.39
+Kor-Azor,Finena,Perbhe,Perbhe X,Industrial Fibers,Medium,4.70
+Kor-Azor,Finena,Perbhe,Perbhe XI,Noble Gas,Poor,14.57
+Kor-Azor,Finena,Perbhe,Perbhe XI,Base Metals,Medium,5.39
+Kor-Azor,Finena,Perbhe,Perbhe XI,Polyaramids,Poor,9.58
+Kor-Azor,Finena,Perbhe,Perbhe XI,Coolant,Medium,13.67
+Kor-Azor,Finena,Perbhe,Perbhe XII,Condensed Alloy,Medium,21.35
+Kor-Azor,Finena,Perbhe,Perbhe XII,Toxic Metals,Perfect,7.27
+Kor-Azor,Finena,Perbhe,Perbhe XII,Coolant,Perfect,19.49
+Kor-Azor,Finena,Perbhe,Perbhe XII,Liquid Ozone,Rich,30.20
+Kor-Azor,Ravin,Abath,Abath I,Lustering Alloy,Medium,19.32
+Kor-Azor,Ravin,Abath,Abath I,Industrial Fibers,Poor,4.05
+Kor-Azor,Ravin,Abath,Abath I,Silicate Glass,Medium,9.09
+Kor-Azor,Ravin,Abath,Abath II,Industrial Fibers,Medium,6.15
+Kor-Azor,Ravin,Abath,Abath II,Construction Blocks,Medium,20.18
+Kor-Azor,Ravin,Abath,Abath II,Oxygen Isotopes,Poor,2.48
+Kor-Azor,Ravin,Abath,Abath III,Toxic Metals,Medium,5.21
+Kor-Azor,Ravin,Abath,Abath III,Industrial Fibers,Medium,5.16
+Kor-Azor,Ravin,Abath,Abath III,Construction Blocks,Medium,20.33
+Kor-Azor,Ravin,Abath,Abath IV,Lustering Alloy,Medium,23.01
+Kor-Azor,Ravin,Abath,Abath IV,Reactive Gas,Rich,24.23
+Kor-Azor,Ravin,Abath,Abath IV,Noble Gas,Medium,22.82
+Kor-Azor,Ravin,Abath,Abath IV,Reactive Metals,Poor,4.33
+Kor-Azor,Ravin,Abath,Abath V,Reactive Gas,Rich,25.84
+Kor-Azor,Ravin,Abath,Abath V,Noble Gas,Medium,20.98
+Kor-Azor,Ravin,Abath,Abath V,Reactive Metals,Rich,6.84
+Kor-Azor,Ravin,Abath,Abath V,Ionic Solutions,Medium,8.70
+Kor-Azor,Ravin,Abath,Abath VI,Sheen Compound,Poor,16.02
+Kor-Azor,Ravin,Abath,Abath VI,Glossy Compound,Rich,27.59
+Kor-Azor,Ravin,Abath,Abath VI,Reactive Gas,Rich,24.17
+Kor-Azor,Ravin,Abath,Abath VI,Noble Gas,Poor,17.06
+Kor-Azor,Ravin,Abath,Abath VII,Fiber Composite,Medium,19.19
+Kor-Azor,Ravin,Abath,Abath VII,Glossy Compound,Medium,23.43
+Kor-Azor,Ravin,Abath,Abath VII,Noble Gas,Medium,23.10
+Kor-Azor,Ravin,Abath,Abath VII,Ionic Solutions,Rich,11.68
+Kor-Azor,Ravin,Abath,Abath VIII,Motley Compound,Medium,21.34
+Kor-Azor,Ravin,Abath,Abath VIII,Supertensile Plastics,Poor,10.60
+Kor-Azor,Ravin,Abath,Abath VIII,Coolant,Poor,9.35
+Kor-Azor,Ravin,Abath,Abath IX,Toxic Metals,Perfect,8.80
+Kor-Azor,Ravin,Abath,Abath IX,Coolant,Poor,11.84
+Kor-Azor,Ravin,Abath,Abath IX,Silicate Glass,Medium,11.04
+Kor-Azor,Ravin,Abath,Abath IX,Ionic Solutions,Medium,8.59
+Kor-Azor,Ravin,Schmaeel,Schmaeel I,Lustering Alloy,Poor,13.96
+Kor-Azor,Ravin,Schmaeel,Schmaeel I,Industrial Fibers,Medium,5.46
+Kor-Azor,Ravin,Schmaeel,Schmaeel I,Silicate Glass,Poor,6.27
+Kor-Azor,Ravin,Schmaeel,Schmaeel II,Precious Alloy,Medium,18.34
+Kor-Azor,Ravin,Schmaeel,Schmaeel II,Toxic Metals,Medium,5.61
+Kor-Azor,Ravin,Schmaeel,Schmaeel II,Industrial Fibers,Medium,5.57
+Kor-Azor,Ravin,Schmaeel,Schmaeel III,Gleaming Alloy,Rich,25.12
+Kor-Azor,Ravin,Schmaeel,Schmaeel III,Noble Gas,Rich,30.15
+Kor-Azor,Ravin,Schmaeel,Schmaeel IV,Construction Blocks,Medium,19.04
+Kor-Azor,Ravin,Schmaeel,Schmaeel IV,Nanites,Rich,7.79
+Kor-Azor,Ravin,Schmaeel,Schmaeel IV,Suspended Plasma,Rich,108.62
+Kor-Azor,Ravin,Schmaeel,Schmaeel V,Construction Blocks,Medium,19.46
+Kor-Azor,Ravin,Schmaeel,Schmaeel V,Nanites,Rich,6.67
+Kor-Azor,Ravin,Schmaeel,Schmaeel V,Oxygen Isotopes,Rich,3.85
+Kor-Azor,Ravin,Schmaeel,Schmaeel VI,Sheen Compound,Poor,16.04
+Kor-Azor,Ravin,Schmaeel,Schmaeel VI,Noble Gas,Rich,29.56
+Kor-Azor,Ravin,Schmaeel,Schmaeel VI,Base Metals,Perfect,8.27
+Kor-Azor,Ravin,Schmaeel,Schmaeel VI,Coolant,Rich,19.94
+Kor-Azor,Ravin,Schmaeel,Schmaeel VII,Fiber Composite,Rich,29.58
+Kor-Azor,Ravin,Schmaeel,Schmaeel VII,Opulent Compound,Rich,28.77
+Kor-Azor,Ravin,Schmaeel,Schmaeel VII,Industrial Fibers,Medium,5.80
+Kor-Azor,Ravin,Schmaeel,Schmaeel VII,Heavy Water,Medium,217.74
+Kor-Azor,Ravin,Schmaeel,Schmaeel VIII,Sheen Compound,Medium,20.86
+Kor-Azor,Ravin,Schmaeel,Schmaeel VIII,Reactive Gas,Poor,16.40
+Kor-Azor,Ravin,Schmaeel,Schmaeel VIII,Noble Gas,Poor,17.57
+Kor-Azor,Ravin,Schmaeel,Schmaeel VIII,Reactive Metals,Rich,6.76
+Kor-Azor,Ravin,Schmaeel,Schmaeel IX,Fiber Composite,Perfect,32.26
+Kor-Azor,Ravin,Schmaeel,Schmaeel IX,Base Metals,Medium,5.21
+Kor-Azor,Ravin,Schmaeel,Schmaeel IX,Condensates,Perfect,23.48
+Kor-Azor,Ravin,Schmaeel,Schmaeel IX,Heavy Water,Perfect,304.38
+Kor-Azor,Ravin,Schmaeel,Schmaeel X,Precious Alloy,Medium,21.41
+Kor-Azor,Ravin,Schmaeel,Schmaeel X,Industrial Fibers,Medium,5.80
+Kor-Azor,Ravin,Schmaeel,Schmaeel X,Coolant,Poor,10.39
+Kor-Azor,Ravin,Mafra,Mafra I,Noble Gas,Rich,24.68
+Kor-Azor,Ravin,Mafra,Mafra I,Polyaramids,Rich,18.80
+Kor-Azor,Ravin,Mafra,Mafra II,Lucent Compound,Rich,25.55
+Kor-Azor,Ravin,Mafra,Mafra II,Reactive Gas,Rich,27.64
+Kor-Azor,Ravin,Mafra,Mafra II,Construction Blocks,Poor,16.45
+Kor-Azor,Ravin,Mafra,Mafra III,Condensed Alloy,Perfect,30.32
+Kor-Azor,Ravin,Mafra,Mafra III,Fiber Composite,Poor,17.61
+Kor-Azor,Ravin,Mafra,Mafra III,Industrial Fibers,Medium,5.75
+Kor-Azor,Ravin,Mafra,Mafra III,Condensates,Medium,13.97
+Kor-Azor,Ravin,Mafra,Mafra IV,Fiber Composite,Medium,23.01
+Kor-Azor,Ravin,Mafra,Mafra IV,Glossy Compound,Perfect,30.99
+Kor-Azor,Ravin,Mafra,Mafra IV,Noble Gas,Medium,21.20
+Kor-Azor,Ravin,Mafra,Mafra IV,Ionic Solutions,Poor,6.47
+Kor-Azor,Ravin,Mafra,Mafra V,Reactive Gas,Rich,24.61
+Kor-Azor,Ravin,Mafra,Mafra V,Construction Blocks,Poor,16.89
+Kor-Azor,Ravin,Mafra,Mafra V,Oxygen Isotopes,Poor,2.45
+Kor-Azor,Ravin,Mafra,Mafra VI,Glossy Compound,Medium,22.10
+Kor-Azor,Ravin,Mafra,Mafra VI,Reactive Gas,Medium,22.25
+Kor-Azor,Ravin,Mafra,Mafra VI,Noble Gas,Rich,29.98
+Kor-Azor,Ravin,Mafra,Mafra VI,Base Metals,Medium,5.65
+Kor-Azor,Ravin,Mafra,Mafra VII,Sheen Compound,Medium,22.57
+Kor-Azor,Ravin,Mafra,Mafra VII,Fiber Composite,Medium,21.43
+Kor-Azor,Ravin,Mafra,Mafra VII,Glossy Compound,Medium,22.82
+Kor-Azor,Ravin,Mafra,Mafra VII,Noble Gas,Poor,16.38
+Kor-Azor,Ravin,Mafra,Mafra VIII,Reactive Gas,Perfect,30.59
+Kor-Azor,Ravin,Mafra,Mafra VIII,Noble Gas,Medium,19.59
+Kor-Azor,Ravin,Mafra,Mafra VIII,Polyaramids,Perfect,20.41
+Kor-Azor,Ravin,Mafra,Mafra VIII,Ionic Solutions,Medium,8.05
+Kor-Azor,Ravin,Mafra,Mafra IX,Sheen Compound,Rich,25.82
+Kor-Azor,Ravin,Mafra,Mafra IX,Noble Gas,Medium,17.97
+Kor-Azor,Ravin,Mafra,Mafra IX,Base Metals,Rich,7.46
+Kor-Azor,Ravin,Mafra,Mafra IX,Coolant,Rich,18.05
+Kor-Azor,Ravin,Mafra,Mafra X,Precious Alloy,Medium,20.73
+Kor-Azor,Ravin,Mafra,Mafra X,Coolant,Rich,16.28
+Kor-Azor,Ravin,Mafra,Mafra X,Condensates,Rich,18.24
+Kor-Azor,Ravin,Mafra,Mafra XI,Crystal Compound,Rich,24.72
+Kor-Azor,Ravin,Mafra,Mafra XI,Noble Metals,Medium,21.96
+Kor-Azor,Ravin,Mafra,Mafra XI,Toxic Metals,Rich,6.38
+Kor-Azor,Ravin,Mafra,Mafra XI,Coolant,Medium,13.49
+Kor-Azor,Ravin,Mafra,Mafra XII,Opulent Compound,Rich,25.80
+Kor-Azor,Ravin,Mafra,Mafra XII,Noble Metals,Medium,23.18
+Kor-Azor,Ravin,Mafra,Mafra XII,Coolant,Perfect,22.01
+Kor-Azor,Ravin,Mafra,Mafra XII,Ionic Solutions,Rich,11.80
+Kor-Azor,Ravin,Arzi,Arzi I,Noble Gas,Rich,24.09
+Kor-Azor,Ravin,Arzi,Arzi I,Smartfab Units,Rich,19.66
+Kor-Azor,Ravin,Arzi,Arzi II,Lustering Alloy,Poor,16.47
+Kor-Azor,Ravin,Arzi,Arzi II,Industrial Fibers,Medium,5.17
+Kor-Azor,Ravin,Arzi,Arzi II,Plasmoids,Poor,0.78
+Kor-Azor,Ravin,Arzi,Arzi III,Motley Compound,Poor,15.69
+Kor-Azor,Ravin,Arzi,Arzi III,Noble Gas,Poor,17.77
+Kor-Azor,Ravin,Arzi,Arzi IV,Precious Alloy,Medium,18.34
+Kor-Azor,Ravin,Arzi,Arzi IV,Base Metals,Poor,4.26
+Kor-Azor,Ravin,Arzi,Arzi IV,Industrial Fibers,Medium,5.33
+Kor-Azor,Ravin,Arzi,Arzi V,Base Metals,Medium,4.84
+Kor-Azor,Ravin,Arzi,Arzi V,Toxic Metals,Poor,3.85
+Kor-Azor,Ravin,Arzi,Arzi V,Industrial Fibers,Medium,4.81
+Kor-Azor,Ravin,Arzi,Arzi VI,Noble Gas,Medium,23.52
+Kor-Azor,Ravin,Arzi,Arzi VI,Oxygen Isotopes,Poor,2.55
+Kor-Azor,Ravin,Arzi,Arzi VII,Noble Gas,Medium,21.96
+Kor-Azor,Ravin,Arzi,Arzi VII,Polyaramids,Medium,12.34
+Kor-Azor,Ravin,Arzi,Arzi VIII,Condensed Alloy,Medium,23.90
+Kor-Azor,Ravin,Arzi,Arzi VIII,Opulent Compound,Rich,28.71
+Kor-Azor,Ravin,Arzi,Arzi VIII,Noble Metals,Poor,16.93
+Kor-Azor,Ravin,Arzi,Arzi VIII,Coolant,Medium,13.84
+Kor-Azor,Ravin,Arzi,Arzi IX,Sheen Compound,Medium,19.57
+Kor-Azor,Ravin,Arzi,Arzi IX,Fiber Composite,Rich,29.03
+Kor-Azor,Ravin,Arzi,Arzi IX,Noble Gas,Perfect,30.72
+Kor-Azor,Ravin,Arzi,Arzi IX,Polyaramids,Medium,13.97
+Kor-Azor,Ravin,Arzi,Arzi X,Lucent Compound,Rich,28.80
+Kor-Azor,Ravin,Arzi,Arzi X,Toxic Metals,Rich,7.25
+Kor-Azor,Ravin,Arzi,Arzi X,Construction Blocks,Rich,26.49
+Kor-Azor,Ravin,Arzi,Arzi XI,Supertensile Plastics,Rich,16.88
+Kor-Azor,Ravin,Arzi,Arzi XI,Coolant,Medium,12.92
+Kor-Azor,Ravin,Arzi,Arzi XI,Liquid Ozone,Rich,32.92
+Kor-Azor,Ravin,Kerying,Kerying I,Lustering Alloy,Medium,19.93
+Kor-Azor,Ravin,Kerying,Kerying I,Dark Compound,Medium,22.63
+Kor-Azor,Ravin,Kerying,Kerying I,Industrial Fibers,Medium,5.97
+Kor-Azor,Ravin,Kerying,Kerying II,Sheen Compound,Medium,22.50
+Kor-Azor,Ravin,Kerying,Kerying II,Noble Gas,Medium,19.48
+Kor-Azor,Ravin,Kerying,Kerying II,Coolant,Medium,12.64
+Kor-Azor,Ravin,Kerying,Kerying II,Ionic Solutions,Poor,6.80
+Kor-Azor,Ravin,Kerying,Kerying III,Reactive Gas,Rich,27.38
+Kor-Azor,Ravin,Kerying,Kerying III,Noble Gas,Poor,16.57
+Kor-Azor,Ravin,Kerying,Kerying III,Coolant,Rich,20.08
+Kor-Azor,Ravin,Kerying,Kerying III,Ionic Solutions,Medium,7.30
+Kor-Azor,Ravin,Kerying,Kerying IV,Glossy Compound,Perfect,30.32
+Kor-Azor,Ravin,Kerying,Kerying IV,Reactive Gas,Rich,29.07
+Kor-Azor,Ravin,Kerying,Kerying IV,Noble Gas,Rich,26.92
+Kor-Azor,Ravin,Kerying,Kerying IV,Coolant,Rich,17.58
+Kor-Azor,Ravin,Kerying,Kerying V,Noble Gas,Perfect,31.43
+Kor-Azor,Ravin,Kerying,Kerying V,Base Metals,Medium,5.28
+Kor-Azor,Ravin,Kerying,Kerying V,Polyaramids,Rich,16.62
+Kor-Azor,Ravin,Kerying,Kerying V,Ionic Solutions,Poor,6.86
+Kor-Azor,Ravin,Kerying,Kerying VI,Reactive Gas,Poor,16.97
+Kor-Azor,Ravin,Kerying,Kerying VI,Construction Blocks,Medium,24.04
+Kor-Azor,Ravin,Kerying,Kerying VI,Suspended Plasma,Rich,104.04
+Kor-Azor,Ravin,Kerying,Kerying VII,Dark Compound,Poor,13.70
+Kor-Azor,Ravin,Kerying,Kerying VII,Industrial Fibers,Poor,3.63
+Kor-Azor,Ravin,Kerying,Kerying VII,Silicate Glass,Medium,9.58
+Kor-Azor,Ravin,Zorenyen,Zorenyen I,Noble Gas,Rich,24.74
+Kor-Azor,Ravin,Zorenyen,Zorenyen I,Heavy Metals,Medium,20.84
+Kor-Azor,Ravin,Zorenyen,Zorenyen II,Industrial Fibers,Poor,3.77
+Kor-Azor,Ravin,Zorenyen,Zorenyen II,Silicate Glass,Poor,6.35
+Kor-Azor,Ravin,Zorenyen,Zorenyen II,Plasmoids,Poor,0.72
+Kor-Azor,Ravin,Zorenyen,Zorenyen III,Toxic Metals,Medium,5.51
+Kor-Azor,Ravin,Zorenyen,Zorenyen III,Industrial Fibers,Medium,5.47
+Kor-Azor,Ravin,Zorenyen,Zorenyen III,Silicate Glass,Poor,8.79
+Kor-Azor,Ravin,Zorenyen,Zorenyen IV,Noble Gas,Medium,20.86
+Kor-Azor,Ravin,Zorenyen,Zorenyen IV,Construction Blocks,Rich,24.83
+Kor-Azor,Ravin,Zorenyen,Zorenyen V,Lustering Alloy,Medium,22.00
+Kor-Azor,Ravin,Zorenyen,Zorenyen V,Dark Compound,Medium,23.22
+Kor-Azor,Ravin,Zorenyen,Zorenyen V,Industrial Fibers,Poor,4.68
+Kor-Azor,Ravin,Zorenyen,Zorenyen VI,Heavy Metals,Rich,24.70
+Kor-Azor,Ravin,Zorenyen,Zorenyen VI,Nanites,Rich,7.88
+Kor-Azor,Ravin,Zorenyen,Zorenyen VI,Suspended Plasma,Medium,70.38
+Kor-Azor,Ravin,Zorenyen,Zorenyen VI,Ionic Solutions,Rich,9.86
+Kor-Azor,Ravin,Zorenyen,Zorenyen VII,Noble Gas,Poor,17.65
+Kor-Azor,Ravin,Zorenyen,Zorenyen VII,Polyaramids,Rich,18.23
+Kor-Azor,Ravin,Zorenyen,Zorenyen VIII,Glossy Compound,Medium,22.36
+Kor-Azor,Ravin,Zorenyen,Zorenyen VIII,Noble Gas,Rich,27.34
+Kor-Azor,Ravin,Zorenyen,Zorenyen IX,Fiber Composite,Rich,29.83
+Kor-Azor,Ravin,Zorenyen,Zorenyen IX,Glossy Compound,Rich,27.57
+Kor-Azor,Ravin,Zorenyen,Zorenyen IX,Noble Gas,Medium,22.95
+Kor-Azor,Ravin,Zorenyen,Zorenyen IX,Ionic Solutions,Rich,12.00
+Kor-Azor,Ravin,Zorenyen,Zorenyen X,Lustering Alloy,Medium,20.82
+Kor-Azor,Ravin,Zorenyen,Zorenyen X,Glossy Compound,Rich,29.68
+Kor-Azor,Ravin,Zorenyen,Zorenyen X,Noble Gas,Poor,16.02
+Kor-Azor,Ravin,Zorenyen,Zorenyen X,Reactive Metals,Poor,4.28
+Kor-Azor,Ravin,Zorenyen,Zorenyen XI,Lustering Alloy,Perfect,31.29
+Kor-Azor,Ravin,Zorenyen,Zorenyen XI,Fiber Composite,Perfect,30.48
+Kor-Azor,Ravin,Zorenyen,Zorenyen XI,Noble Gas,Medium,20.43
+Kor-Azor,Ravin,Zorenyen,Zorenyen XI,Ionic Solutions,Perfect,12.39
+Kor-Azor,Ravin,Zorenyen,Zorenyen XII,Lustering Alloy,Poor,16.74
+Kor-Azor,Ravin,Zorenyen,Zorenyen XII,Base Metals,Medium,5.63
+Kor-Azor,Ravin,Zorenyen,Zorenyen XII,Industrial Fibers,Medium,5.68
+Kor-Azor,Ravin,Zorenyen,Zorenyen XIII,Lustering Alloy,Medium,21.95
+Kor-Azor,Ravin,Zorenyen,Zorenyen XIII,Supertensile Plastics,Medium,12.29
+Kor-Azor,Ravin,Zorenyen,Zorenyen XIII,Coolant,Medium,15.02
+Kor-Azor,Ravin,Oguser,Oguser I,Base Metals,Poor,2.99
+Kor-Azor,Ravin,Oguser,Oguser I,Toxic Metals,Poor,4.39
+Kor-Azor,Ravin,Oguser,Oguser I,Industrial Fibers,Poor,3.40
+Kor-Azor,Ravin,Oguser,Oguser II,Construction Blocks,Poor,14.99
+Kor-Azor,Ravin,Oguser,Oguser II,Suspended Plasma,Rich,92.28
+Kor-Azor,Ravin,Oguser,Oguser II,Oxygen Isotopes,Medium,2.67
+Kor-Azor,Ravin,Oguser,Oguser III,Fiber Composite,Medium,21.31
+Kor-Azor,Ravin,Oguser,Oguser III,Opulent Compound,Rich,26.03
+Kor-Azor,Ravin,Oguser,Oguser III,Industrial Fibers,Rich,7.14
+Kor-Azor,Ravin,Oguser,Oguser III,Liquid Ozone,Medium,24.19
+Kor-Azor,Ravin,Oguser,Oguser IV,Lustering Alloy,Poor,11.43
+Kor-Azor,Ravin,Oguser,Oguser IV,Industrial Fibers,Poor,4.16
+Kor-Azor,Ravin,Oguser,Oguser IV,Supertensile Plastics,Medium,11.76
+Kor-Azor,Ravin,Oguser,Oguser V,Fiber Composite,Rich,28.53
+Kor-Azor,Ravin,Oguser,Oguser V,Base Metals,Medium,5.64
+Kor-Azor,Ravin,Oguser,Oguser V,Smartfab Units,Medium,13.66
+Kor-Azor,Ravin,Oguser,Oguser V,Liquid Ozone,Rich,35.62
+Kor-Azor,Ravin,Oguser,Oguser VI,Fiber Composite,Medium,21.24
+Kor-Azor,Ravin,Oguser,Oguser VI,Noble Metals,Rich,23.58
+Kor-Azor,Ravin,Oguser,Oguser VI,Heavy Water,Rich,284.94
+Kor-Azor,Ravin,Oguser,Oguser VI,Liquid Ozone,Rich,34.94
+Kor-Azor,Ravin,Oguser,Oguser VII,Noble Gas,Perfect,30.20
+Kor-Azor,Ravin,Oguser,Oguser VII,Plasmoids,Medium,1.36
+Kor-Azor,Ravin,Oguser,Oguser VIII,Fiber Composite,Medium,20.12
+Kor-Azor,Ravin,Oguser,Oguser VIII,Opulent Compound,Rich,27.63
+Kor-Azor,Ravin,Oguser,Oguser VIII,Condensates,Poor,11.17
+Kor-Azor,Ravin,Oguser,Oguser VIII,Heavy Water,Rich,250.56
+Kor-Azor,Ravin,Oguser,Oguser IX,Reactive Gas,Medium,22.39
+Kor-Azor,Ravin,Oguser,Oguser IX,Noble Gas,Poor,15.89
+Kor-Azor,Ravin,Oguser,Oguser IX,Base Metals,Rich,6.32
+Kor-Azor,Ravin,Oguser,Oguser IX,Coolant,Rich,15.52
+Kor-Azor,Ravin,Oguser,Oguser X,Noble Gas,Rich,25.04
+Kor-Azor,Ravin,Oguser,Oguser X,Polyaramids,Perfect,19.10
+Kor-Azor,Ravin,Oguser,Oguser XI,Sheen Compound,Rich,24.59
+Kor-Azor,Ravin,Oguser,Oguser XI,Fiber Composite,Medium,17.50
+Kor-Azor,Ravin,Oguser,Oguser XI,Noble Gas,Rich,23.89
+Kor-Azor,Ravin,Oguser,Oguser XI,Base Metals,Poor,4.03
+Kor-Azor,Orus,Nahol,Nahol I,Lustering Alloy,Medium,14.76
+Kor-Azor,Orus,Nahol,Nahol I,Base Metals,Medium,3.79
+Kor-Azor,Orus,Nahol,Nahol II,Reactive Gas,Medium,18.23
+Kor-Azor,Orus,Nahol,Nahol II,Noble Metals,Perfect,28.44
+Kor-Azor,Orus,Nahol,Nahol II,Heavy Water,Perfect,269.10
+Kor-Azor,Orus,Nahol,Nahol III,Lustering Alloy,Poor,10.08
+Kor-Azor,Orus,Nahol,Nahol III,Base Metals,Medium,4.40
+Kor-Azor,Orus,Nahol,Nahol IV,Opulent Compound,Perfect,27.87
+Kor-Azor,Orus,Nahol,Nahol IV,Base Metals,Perfect,7.19
+Kor-Azor,Orus,Nahol,Nahol IV,Heavy Water,Medium,184.05
+Kor-Azor,Orus,Nahol,Nahol V,Lustering Alloy,Poor,13.13
+Kor-Azor,Orus,Nahol,Nahol V,Base Metals,Poor,2.73
+Kor-Azor,Orus,Nahol,Nahol VI,Lustering Alloy,Medium,17.54
+Kor-Azor,Orus,Nahol,Nahol VI,Base Metals,Medium,3.73
+Kor-Azor,Orus,Nahol,Nahol VII,Lustering Alloy,Medium,14.94
+Kor-Azor,Orus,Nahol,Nahol VII,Base Metals,Rich,5.72
+Kor-Azor,Orus,Nahol,Nahol VII,Coolant,Medium,12.09
+Kor-Azor,Orus,Nahol,Nahol VIII,Lustering Alloy,Poor,13.13
+Kor-Azor,Orus,Nahol,Nahol VIII,Base Metals,Poor,2.66
+Kor-Azor,Orus,Nahol,Nahol IX,Opulent Compound,Medium,17.34
+Kor-Azor,Orus,Nahol,Nahol IX,Industrial Fibers,Medium,4.85
+Kor-Azor,Orus,Nahol,Nahol IX,Heavy Water,Rich,228.30
+Kor-Azor,Orus,Nahol,Nahol X,Lustering Alloy,Poor,13.81
+Kor-Azor,Orus,Nahol,Nahol X,Base Metals,Medium,4.25
+Kor-Azor,Orus,Tadadan,Tadadan I,Motley Compound,Medium,19.46
+Kor-Azor,Orus,Tadadan,Tadadan I,Noble Gas,Poor,13.94
+Kor-Azor,Orus,Tadadan,Tadadan II,Noble Gas,Rich,20.27
+Kor-Azor,Orus,Tadadan,Tadadan II,Construction Blocks,Poor,14.93
+Kor-Azor,Orus,Tadadan,Tadadan III,Precious Alloy,Medium,17.97
+Kor-Azor,Orus,Tadadan,Tadadan III,Dark Compound,Poor,13.28
+Kor-Azor,Orus,Tadadan,Tadadan III,Industrial Fibers,Poor,2.75
+Kor-Azor,Orus,Tadadan,Tadadan IV,Noble Metals,Rich,24.22
+Kor-Azor,Orus,Tadadan,Tadadan IV,Toxic Metals,Poor,3.74
+Kor-Azor,Orus,Tadadan,Tadadan IV,Polyaramids,Perfect,18.87
+Kor-Azor,Orus,Tadadan,Tadadan IV,Coolant,Medium,10.99
+Kor-Azor,Orus,Tadadan,Tadadan V,Crystal Compound,Medium,17.02
+Kor-Azor,Orus,Tadadan,Tadadan V,Polyaramids,Perfect,17.12
+Kor-Azor,Orus,Tadadan,Tadadan V,Coolant,Rich,16.92
+Kor-Azor,Orus,Tadadan,Tadadan V,Liquid Ozone,Rich,30.98
+Kor-Azor,Orus,Tadadan,Tadadan VI,Base Metals,Medium,4.21
+Kor-Azor,Orus,Tadadan,Tadadan VI,Industrial Fibers,Poor,2.99
+Kor-Azor,Orus,Tadadan,Tadadan VI,Silicate Glass,Medium,8.42
+Kor-Azor,Orus,Tadadan,Tadadan VII,Lustering Alloy,Medium,15.79
+Kor-Azor,Orus,Tadadan,Tadadan VII,Industrial Fibers,Poor,3.07
+Kor-Azor,Orus,Tadadan,Tadadan VII,Oxygen Isotopes,Medium,2.49
+Kor-Azor,Orus,Tadadan,Tadadan VIII,Toxic Metals,Medium,4.48
+Kor-Azor,Orus,Tadadan,Tadadan VIII,Industrial Fibers,Medium,4.20
+Kor-Azor,Orus,Tadadan,Tadadan VIII,Supertensile Plastics,Medium,12.31
+Kor-Azor,Orus,Tadadan,Tadadan IX,Condensed Alloy,Rich,21.22
+Kor-Azor,Orus,Tadadan,Tadadan IX,Fiber Composite,Rich,20.80
+Kor-Azor,Orus,Tadadan,Tadadan IX,Industrial Fibers,Rich,5.78
+Kor-Azor,Orus,Tadadan,Tadadan IX,Liquid Ozone,Medium,20.84
+Kor-Azor,Orus,Tralasa,Tralasa I,Motley Compound,Rich,22.95
+Kor-Azor,Orus,Tralasa,Tralasa I,Smartfab Units,Rich,14.05
+Kor-Azor,Orus,Tralasa,Tralasa II,Lustering Alloy,Poor,10.17
+Kor-Azor,Orus,Tralasa,Tralasa II,Base Metals,Poor,3.18
+Kor-Azor,Orus,Tralasa,Tralasa III,Lustering Alloy,Medium,14.64
+Kor-Azor,Orus,Tralasa,Tralasa III,Base Metals,Medium,4.48
+Kor-Azor,Orus,Tralasa,Tralasa IV,Noble Metals,Rich,20.77
+Kor-Azor,Orus,Tralasa,Tralasa IV,Heavy Water,Rich,235.05
+Kor-Azor,Orus,Tralasa,Tralasa IV,Ionic Solutions,Perfect,9.91
+Kor-Azor,Orus,Tralasa,Tralasa V,Lustering Alloy,Poor,9.91
+Kor-Azor,Orus,Tralasa,Tralasa V,Base Metals,Poor,2.45
+Kor-Azor,Orus,Tralasa,Tralasa VI,Lustering Alloy,Medium,15.55
+Kor-Azor,Orus,Tralasa,Tralasa VI,Base Metals,Medium,4.77
+Kor-Azor,Orus,Tralasa,Tralasa VII,Lustering Alloy,Rich,23.79
+Kor-Azor,Orus,Tralasa,Tralasa VII,Reactive Gas,Medium,17.50
+Kor-Azor,Orus,Tralasa,Tralasa VII,Base Metals,Medium,3.89
+Kor-Azor,Orus,Tralasa,Tralasa VIII,Lustering Alloy,Medium,17.10
+Kor-Azor,Orus,Tralasa,Tralasa VIII,Base Metals,Perfect,6.48
+Kor-Azor,Orus,Tralasa,Tralasa VIII,Polyaramids,Rich,14.80
+Kor-Azor,Orus,Gademam,Gademam I,Gleaming Alloy,Medium,16.37
+Kor-Azor,Orus,Gademam,Gademam I,Noble Gas,Medium,21.44
+Kor-Azor,Orus,Gademam,Gademam II,Precious Alloy,Medium,17.65
+Kor-Azor,Orus,Gademam,Gademam II,Dark Compound,Poor,11.47
+Kor-Azor,Orus,Gademam,Gademam II,Industrial Fibers,Poor,4.04
+Kor-Azor,Orus,Gademam,Gademam III,Precious Alloy,Poor,15.61
+Kor-Azor,Orus,Gademam,Gademam III,Industrial Fibers,Poor,3.63
+Kor-Azor,Orus,Gademam,Gademam III,Supertensile Plastics,Poor,8.64
+Kor-Azor,Orus,Gademam,Gademam IV,Fiber Composite,Medium,20.28
+Kor-Azor,Orus,Gademam,Gademam IV,Opulent Compound,Perfect,30.06
+Kor-Azor,Orus,Gademam,Gademam IV,Reactive Gas,Perfect,30.12
+Kor-Azor,Orus,Gademam,Gademam IV,Industrial Fibers,Perfect,7.58
+Kor-Azor,Orus,Gademam,Gademam V,Fiber Composite,Poor,14.60
+Kor-Azor,Orus,Gademam,Gademam V,Glossy Compound,Poor,15.54
+Kor-Azor,Orus,Gademam,Gademam V,Reactive Gas,Medium,20.06
+Kor-Azor,Orus,Gademam,Gademam V,Noble Gas,Medium,19.01
+Kor-Azor,Orus,Gademam,Gademam VI,Lustering Alloy,Rich,26.06
+Kor-Azor,Orus,Gademam,Gademam VI,Sheen Compound,Medium,19.67
+Kor-Azor,Orus,Gademam,Gademam VI,Reactive Gas,Poor,14.62
+Kor-Azor,Orus,Gademam,Gademam VI,Noble Gas,Rich,22.78
+Kor-Azor,Orus,Gademam,Gademam VII,Sheen Compound,Medium,20.26
+Kor-Azor,Orus,Gademam,Gademam VII,Fiber Composite,Perfect,27.91
+Kor-Azor,Orus,Gademam,Gademam VII,Noble Gas,Rich,22.52
+Kor-Azor,Orus,Gademam,Gademam VII,Base Metals,Medium,4.67
+Kor-Azor,Orus,Gademam,Gademam VIII,Motley Compound,Medium,20.88
+Kor-Azor,Orus,Gademam,Gademam VIII,Heavy Metals,Poor,14.06
+Kor-Azor,Orus,Gademam,Gademam VIII,Coolant,Poor,8.30
+Kor-Azor,Orus,Pananan,Pananan I,Lucent Compound,Medium,17.93
+Kor-Azor,Orus,Pananan,Pananan I,Reactive Metals,Rich,7.41
+Kor-Azor,Orus,Pananan,Pananan I,Nanites,Rich,6.22
+Kor-Azor,Orus,Pananan,Pananan I,Ionic Solutions,Medium,8.90
+Kor-Azor,Orus,Pananan,Pananan II,Construction Blocks,Poor,16.60
+Kor-Azor,Orus,Pananan,Pananan II,Nanites,Rich,6.92
+Kor-Azor,Orus,Pananan,Pananan II,Suspended Plasma,Rich,90.53
+Kor-Azor,Orus,Pananan,Pananan III,Crystal Compound,Medium,19.12
+Kor-Azor,Orus,Pananan,Pananan III,Coolant,Perfect,19.97
+Kor-Azor,Orus,Pananan,Pananan III,Silicate Glass,Medium,11.13
+Kor-Azor,Orus,Pananan,Pananan III,Ionic Solutions,Medium,8.60
+Kor-Azor,Orus,Pananan,Pananan IV,Sheen Compound,Medium,20.39
+Kor-Azor,Orus,Pananan,Pananan IV,Reactive Gas,Rich,27.61
+Kor-Azor,Orus,Pananan,Pananan IV,Noble Gas,Rich,23.27
+Kor-Azor,Orus,Pananan,Pananan IV,Coolant,Medium,13.69
+Kor-Azor,Orus,Pananan,Pananan V,Industrial Fibers,Medium,5.44
+Kor-Azor,Orus,Pananan,Pananan V,Silicate Glass,Medium,8.69
+Kor-Azor,Orus,Pananan,Pananan V,Plasmoids,Medium,1.05
+Kor-Azor,Orus,Pananan,Pananan VI,Dark Compound,Poor,16.15
+Kor-Azor,Orus,Pananan,Pananan VI,Toxic Metals,Medium,5.37
+Kor-Azor,Orus,Pananan,Pananan VI,Industrial Fibers,Medium,4.49
+Kor-Azor,Orus,Pananan,Pananan VII,Fiber Composite,Perfect,29.45
+Kor-Azor,Orus,Pananan,Pananan VII,Base Metals,Rich,6.77
+Kor-Azor,Orus,Pananan,Pananan VII,Smartfab Units,Perfect,19.28
+Kor-Azor,Orus,Pananan,Pananan VII,Liquid Ozone,Rich,33.01
+Kor-Azor,Orus,Pananan,Pananan VIII,Reactive Gas,Poor,15.53
+Kor-Azor,Orus,Pananan,Pananan VIII,Noble Gas,Poor,15.34
+Kor-Azor,Orus,Pananan,Pananan VIII,Base Metals,Medium,4.76
+Kor-Azor,Orus,Pananan,Pananan VIII,Coolant,Poor,10.66
+Kor-Azor,Orus,Pananan,Pananan IX,Noble Gas,Medium,21.87
+Kor-Azor,Orus,Pananan,Pananan IX,Polyaramids,Medium,11.51
+Kor-Azor,Orus,Pananan,Pananan IX,Coolant,Rich,15.31
+Kor-Azor,Orus,Pananan,Pananan IX,Ionic Solutions,Rich,10.13
+Kor-Azor,Orus,Pananan,Pananan X,Precious Alloy,Medium,19.67
+Kor-Azor,Orus,Pananan,Pananan X,Toxic Metals,Medium,5.65
+Kor-Azor,Orus,Pananan,Pananan X,Industrial Fibers,Poor,4.03
+Kor-Azor,Orus,Daran,Daran I,Lucent Compound,Perfect,28.64
+Kor-Azor,Orus,Daran,Daran I,Dark Compound,Medium,17.55
+Kor-Azor,Orus,Daran,Daran I,Noble Gas,Medium,20.50
+Kor-Azor,Orus,Daran,Daran I,Nanites,Rich,6.82
+Kor-Azor,Orus,Daran,Daran II,Noble Gas,Medium,19.10
+Kor-Azor,Orus,Daran,Daran II,Noble Metals,Poor,15.75
+Kor-Azor,Orus,Daran,Daran III,Lustering Alloy,Poor,11.48
+Kor-Azor,Orus,Daran,Daran III,Toxic Metals,Poor,3.30
+Kor-Azor,Orus,Daran,Daran III,Industrial Fibers,Medium,4.66
+Kor-Azor,Orus,Daran,Daran IV,Fiber Composite,Medium,20.72
+Kor-Azor,Orus,Daran,Daran IV,Glossy Compound,Rich,26.15
+Kor-Azor,Orus,Daran,Daran IV,Noble Gas,Rich,26.82
+Kor-Azor,Orus,Daran,Daran IV,Polyaramids,Medium,14.41
+Kor-Azor,Orus,Daran,Daran V,Fiber Composite,Perfect,34.06
+Kor-Azor,Orus,Daran,Daran V,Reactive Gas,Perfect,29.05
+Kor-Azor,Orus,Daran,Daran V,Noble Metals,Medium,21.17
+Kor-Azor,Orus,Daran,Daran V,Condensates,Medium,12.86
+Kor-Azor,Orus,Daran,Daran VI,Fiber Composite,Medium,18.45
+Kor-Azor,Orus,Daran,Daran VI,Base Metals,Perfect,8.93
+Kor-Azor,Orus,Daran,Daran VI,Industrial Fibers,Perfect,8.96
+Kor-Azor,Orus,Daran,Daran VI,Condensates,Rich,15.50
+Kor-Azor,Orus,Daran,Daran VII,Reactive Gas,Rich,27.27
+Kor-Azor,Orus,Daran,Daran VII,Noble Gas,Medium,19.24
+Kor-Azor,Orus,Daran,Daran VII,Reactive Metals,Rich,6.30
+Kor-Azor,Orus,Daran,Daran VII,Polyaramids,Rich,17.15
+Kor-Azor,Orus,Daran,Daran VIII,Coolant,Poor,9.89
+Kor-Azor,Orus,Daran,Daran VIII,Suspended Plasma,Rich,91.95
+Kor-Azor,Orus,Daran,Daran VIII,Liquid Ozone,Poor,18.74
+Kor-Azor,Orus,Daran,Daran IX,Precious Alloy,Poor,14.20
+Kor-Azor,Orus,Daran,Daran IX,Toxic Metals,Poor,4.31
+Kor-Azor,Orus,Daran,Daran IX,Industrial Fibers,Poor,4.42
+Kor-Azor,Orus,Latari,Latari I,Lustering Alloy,Medium,17.13
+Kor-Azor,Orus,Latari,Latari I,Base Metals,Medium,4.45
+Kor-Azor,Orus,Latari,Latari II,Lucent Compound,Perfect,24.24
+Kor-Azor,Orus,Latari,Latari II,Suspended Plasma,Medium,64.80
+Kor-Azor,Orus,Latari,Latari III,Condensates,Medium,9.84
+Kor-Azor,Orus,Latari,Latari III,Heavy Water,Perfect,276.15
+Kor-Azor,Orus,Latari,Latari III,Liquid Ozone,Perfect,33.45
+Kor-Azor,Orus,Latari,Latari IV,Lustering Alloy,Rich,19.56
+Kor-Azor,Orus,Latari,Latari IV,Base Metals,Rich,5.98
+Kor-Azor,Orus,Latari,Latari IV,Ionic Solutions,Perfect,9.80
+Kor-Azor,Orus,Latari,Latari V,Lustering Alloy,Rich,23.28
+Kor-Azor,Orus,Latari,Latari V,Base Metals,Medium,4.92
+Kor-Azor,Orus,Latari,Latari V,Ionic Solutions,Rich,7.85
+Kor-Azor,Orus,Latari,Latari VI,Lustering Alloy,Medium,14.89
+Kor-Azor,Orus,Latari,Latari VI,Fiber Composite,Medium,14.23
+Kor-Azor,Orus,Latari,Latari VI,Base Metals,Rich,5.00
+Kor-Azor,Orus,Latari,Latari VII,Lustering Alloy,Rich,22.11
+Kor-Azor,Orus,Latari,Latari VII,Noble Gas,Perfect,24.34
+Kor-Azor,Orus,Latari,Latari VII,Base Metals,Rich,6.00
+Kor-Azor,Orus,Latari,Latari VIII,Construction Blocks,Rich,22.75
+Kor-Azor,Orus,Latari,Latari VIII,Suspended Plasma,Rich,74.14
+Kor-Azor,Orus,Latari,Latari IX,Lustering Alloy,Medium,17.84
+Kor-Azor,Orus,Latari,Latari IX,Fiber Composite,Rich,20.48
+Kor-Azor,Orus,Latari,Latari IX,Base Metals,Medium,4.00
+Kor-Azor,Orus,Latari,Latari X,Lustering Alloy,Rich,19.34
+Kor-Azor,Orus,Latari,Latari X,Base Metals,Perfect,6.32
+Kor-Azor,Orus,Latari,Latari X,Coolant,Medium,10.77
+Kor-Azor,Orus,Latari,Latari XI,Toxic Metals,Rich,6.23
+Kor-Azor,Orus,Latari,Latari XI,Heavy Water,Perfect,247.80
+Kor-Azor,Orus,Latari,Latari XI,Ionic Solutions,Rich,7.73
+Kor-Azor,Orus,Latari,Latari XII,Toxic Metals,Poor,3.64
+Kor-Azor,Orus,Latari,Latari XII,Heavy Water,Rich,225.15
+Kor-Azor,Orus,Latari,Latari XII,Ionic Solutions,Medium,6.67
+Kor-Azor,Comadu,Shokal,Shokal I,Precious Alloy,Poor,11.90
+Kor-Azor,Comadu,Shokal,Shokal I,Industrial Fibers,Medium,4.21
+Kor-Azor,Comadu,Shokal,Shokal I,Plasmoids,Medium,0.98
+Kor-Azor,Comadu,Shokal,Shokal II,Toxic Metals,Poor,3.65
+Kor-Azor,Comadu,Shokal,Shokal II,Industrial Fibers,Poor,3.15
+Kor-Azor,Comadu,Shokal,Shokal II,Plasmoids,Medium,0.91
+Kor-Azor,Comadu,Shokal,Shokal III,Toxic Metals,Poor,3.41
+Kor-Azor,Comadu,Shokal,Shokal III,Industrial Fibers,Medium,4.03
+Kor-Azor,Comadu,Shokal,Shokal III,Oxygen Isotopes,Poor,2.02
+Kor-Azor,Comadu,Shokal,Shokal IV,Lustering Alloy,Medium,18.35
+Kor-Azor,Comadu,Shokal,Shokal IV,Industrial Fibers,Medium,4.04
+Kor-Azor,Comadu,Shokal,Shokal IV,Plasmoids,Medium,1.02
+Kor-Azor,Comadu,Shokal,Shokal V,Fiber Composite,Rich,22.74
+Kor-Azor,Comadu,Shokal,Shokal V,Industrial Fibers,Medium,5.10
+Kor-Azor,Comadu,Shokal,Shokal V,Condensates,Rich,14.13
+Kor-Azor,Comadu,Shokal,Shokal V,Liquid Ozone,Rich,29.54
+Kor-Azor,Comadu,Shokal,Shokal VI,Fiber Composite,Rich,22.66
+Kor-Azor,Comadu,Shokal,Shokal VI,Noble Metals,Medium,19.23
+Kor-Azor,Comadu,Shokal,Shokal VI,Industrial Fibers,Perfect,7.55
+Kor-Azor,Comadu,Shokal,Shokal VI,Condensates,Rich,14.87
+Kor-Azor,Comadu,Shokal,Shokal VII,Lucent Compound,Poor,14.45
+Kor-Azor,Comadu,Shokal,Shokal VII,Construction Blocks,Medium,19.71
+Kor-Azor,Comadu,Shokal,Shokal VII,Nanites,Medium,4.01
+Kor-Azor,Comadu,Shokal,Shokal VIII,Industrial Fibers,Poor,3.25
+Kor-Azor,Comadu,Shokal,Shokal VIII,Supertensile Plastics,Medium,11.16
+Kor-Azor,Comadu,Shokal,Shokal VIII,Plasmoids,Poor,0.60
+Kor-Azor,Comadu,Atarli,Atarli I,Base Metals,Medium,5.16
+Kor-Azor,Comadu,Atarli,Atarli I,Industrial Fibers,Poor,3.12
+Kor-Azor,Comadu,Atarli,Atarli I,Supertensile Plastics,Medium,13.12
+Kor-Azor,Comadu,Atarli,Atarli II,Glossy Compound,Perfect,25.97
+Kor-Azor,Comadu,Atarli,Atarli II,Noble Gas,Rich,25.20
+Kor-Azor,Comadu,Atarli,Atarli III,Condensed Alloy,Rich,21.04
+Kor-Azor,Comadu,Atarli,Atarli III,Fiber Composite,Rich,20.98
+Kor-Azor,Comadu,Atarli,Atarli III,Opulent Compound,Medium,18.21
+Kor-Azor,Comadu,Atarli,Atarli III,Smartfab Units,Medium,11.73
+Kor-Azor,Comadu,Atarli,Atarli IV,Condensed Alloy,Poor,14.75
+Kor-Azor,Comadu,Atarli,Atarli IV,Fiber Composite,Rich,21.30
+Kor-Azor,Comadu,Atarli,Atarli IV,Base Metals,Medium,5.28
+Kor-Azor,Comadu,Atarli,Atarli IV,Heavy Water,Rich,237.12
+Kor-Azor,Comadu,Atarli,Atarli V,Lustering Alloy,Medium,16.26
+Kor-Azor,Comadu,Atarli,Atarli V,Sheen Compound,Rich,23.07
+Kor-Azor,Comadu,Atarli,Atarli V,Reactive Gas,Poor,13.44
+Kor-Azor,Comadu,Atarli,Atarli V,Noble Gas,Rich,20.85
+Kor-Azor,Comadu,Atarli,Atarli VI,Lustering Alloy,Perfect,26.00
+Kor-Azor,Comadu,Atarli,Atarli VI,Sheen Compound,Medium,16.13
+Kor-Azor,Comadu,Atarli,Atarli VI,Noble Gas,Poor,15.02
+Kor-Azor,Comadu,Atarli,Atarli VI,Ionic Solutions,Medium,6.52
+Kor-Azor,Comadu,Keproh,Keproh I,Industrial Fibers,Medium,4.65
+Kor-Azor,Comadu,Keproh,Keproh I,Silicate Glass,Medium,8.31
+Kor-Azor,Comadu,Keproh,Keproh I,Oxygen Isotopes,Medium,2.77
+Kor-Azor,Comadu,Keproh,Keproh II,Base Metals,Poor,3.20
+Kor-Azor,Comadu,Keproh,Keproh II,Industrial Fibers,Poor,2.75
+Kor-Azor,Comadu,Keproh,Keproh II,Supertensile Plastics,Poor,10.03
+Kor-Azor,Comadu,Keproh,Keproh III,Opulent Compound,Rich,23.07
+Kor-Azor,Comadu,Keproh,Keproh III,Noble Metals,Medium,17.78
+Kor-Azor,Comadu,Keproh,Keproh III,Polyaramids,Perfect,17.31
+Kor-Azor,Comadu,Keproh,Keproh III,Coolant,Medium,10.49
+Kor-Azor,Comadu,Keproh,Keproh IV,Precious Alloy,Medium,15.79
+Kor-Azor,Comadu,Keproh,Keproh IV,Dark Compound,Poor,10.26
+Kor-Azor,Comadu,Keproh,Keproh IV,Industrial Fibers,Medium,4.39
+Kor-Azor,Comadu,Keproh,Keproh V,Fiber Composite,Medium,17.14
+Kor-Azor,Comadu,Keproh,Keproh V,Condensates,Perfect,17.14
+Kor-Azor,Comadu,Keproh,Keproh V,Smartfab Units,Medium,11.11
+Kor-Azor,Comadu,Keproh,Keproh V,Heavy Water,Medium,175.52
+Kor-Azor,Comadu,Keproh,Keproh VI,Sheen Compound,Perfect,26.42
+Kor-Azor,Comadu,Keproh,Keproh VI,Glossy Compound,Medium,15.74
+Kor-Azor,Comadu,Keproh,Keproh VI,Noble Gas,Rich,22.98
+Kor-Azor,Comadu,Keproh,Keproh VI,Polyaramids,Medium,10.86
+Kor-Azor,Comadu,Keproh,Keproh VII,Sheen Compound,Rich,24.62
+Kor-Azor,Comadu,Keproh,Keproh VII,Noble Gas,Poor,14.27
+Kor-Azor,Comadu,Keproh,Keproh VII,Base Metals,Rich,6.02
+Kor-Azor,Comadu,Keproh,Keproh VII,Polyaramids,Poor,9.49
+Kor-Azor,Comadu,Keproh,Keproh VIII,Sheen Compound,Rich,21.97
+Kor-Azor,Comadu,Keproh,Keproh VIII,Glossy Compound,Rich,24.78
+Kor-Azor,Comadu,Keproh,Keproh VIII,Reactive Gas,Poor,14.00
+Kor-Azor,Comadu,Keproh,Keproh VIII,Noble Gas,Rich,21.36
+Kor-Azor,Comadu,Zatamaka,Zatamaka I,Noble Gas,Medium,17.92
+Kor-Azor,Comadu,Zatamaka,Zatamaka I,Polyaramids,Rich,13.99
+Kor-Azor,Comadu,Zatamaka,Zatamaka II,Dark Compound,Poor,11.18
+Kor-Azor,Comadu,Zatamaka,Zatamaka II,Industrial Fibers,Poor,3.89
+Kor-Azor,Comadu,Zatamaka,Zatamaka II,Oxygen Isotopes,Medium,2.33
+Kor-Azor,Comadu,Zatamaka,Zatamaka III,Lucent Compound,Medium,19.63
+Kor-Azor,Comadu,Zatamaka,Zatamaka III,Dark Compound,Medium,16.62
+Kor-Azor,Comadu,Zatamaka,Zatamaka III,Noble Gas,Rich,23.31
+Kor-Azor,Comadu,Zatamaka,Zatamaka III,Nanites,Medium,4.54
+Kor-Azor,Comadu,Zatamaka,Zatamaka IV,Precious Alloy,Medium,16.59
+Kor-Azor,Comadu,Zatamaka,Zatamaka IV,Industrial Fibers,Medium,5.04
+Kor-Azor,Comadu,Zatamaka,Zatamaka IV,Supertensile Plastics,Medium,11.00
+Kor-Azor,Comadu,Zatamaka,Zatamaka V,Noble Gas,Medium,17.07
+Kor-Azor,Comadu,Zatamaka,Zatamaka V,Polyaramids,Medium,11.00
+Kor-Azor,Comadu,Zatamaka,Zatamaka VI,Toxic Metals,Perfect,6.72
+Kor-Azor,Comadu,Zatamaka,Zatamaka VI,Supertensile Plastics,Medium,12.76
+Kor-Azor,Comadu,Zatamaka,Zatamaka VI,Construction Blocks,Medium,16.35
+Kor-Azor,Comadu,Zatamaka,Zatamaka VII,Lustering Alloy,Medium,16.03
+Kor-Azor,Comadu,Zatamaka,Zatamaka VII,Sheen Compound,Perfect,25.97
+Kor-Azor,Comadu,Zatamaka,Zatamaka VII,Noble Gas,Poor,13.39
+Kor-Azor,Comadu,Zatamaka,Zatamaka VII,Base Metals,Perfect,6.93
+Kor-Azor,Comadu,Zatamaka,Zatamaka VIII,Crystal Compound,Poor,13.42
+Kor-Azor,Comadu,Zatamaka,Zatamaka VIII,Construction Blocks,Rich,25.41
+Kor-Azor,Comadu,Zatamaka,Zatamaka VIII,Nanites,Medium,4.86
+Kor-Azor,Comadu,Zatamaka,Zatamaka IX,Reactive Metals,Poor,3.82
+Kor-Azor,Comadu,Zatamaka,Zatamaka IX,Construction Blocks,Medium,18.96
+Kor-Azor,Comadu,Zatamaka,Zatamaka IX,Suspended Plasma,Rich,86.63
+Kor-Azor,Comadu,Zatamaka,Zatamaka X,Lustering Alloy,Poor,14.82
+Kor-Azor,Comadu,Zatamaka,Zatamaka X,Noble Gas,Rich,23.68
+Kor-Azor,Comadu,Zatamaka,Zatamaka X,Polyaramids,Rich,14.76
+Kor-Azor,Comadu,Zatamaka,Zatamaka X,Coolant,Medium,11.06
+Kor-Azor,Comadu,Zatamaka,Zatamaka XI,Base Metals,Medium,5.15
+Kor-Azor,Comadu,Zatamaka,Zatamaka XI,Industrial Fibers,Poor,3.36
+Kor-Azor,Comadu,Zatamaka,Zatamaka XI,Oxygen Isotopes,Poor,1.58
+Kor-Azor,Comadu,Rannoze,Rannoze I,Dark Compound,Medium,17.83
+Kor-Azor,Comadu,Rannoze,Rannoze I,Toxic Metals,Poor,3.27
+Kor-Azor,Comadu,Rannoze,Rannoze I,Industrial Fibers,Poor,4.20
+Kor-Azor,Comadu,Rannoze,Rannoze II,Noble Gas,Rich,22.37
+Kor-Azor,Comadu,Rannoze,Rannoze II,Oxygen Isotopes,Medium,3.07
+Kor-Azor,Comadu,Rannoze,Rannoze III,Base Metals,Medium,4.29
+Kor-Azor,Comadu,Rannoze,Rannoze III,Industrial Fibers,Medium,4.72
+Kor-Azor,Comadu,Rannoze,Rannoze III,Silicate Glass,Medium,8.50
+Kor-Azor,Comadu,Rannoze,Rannoze IV,Noble Gas,Poor,15.21
+Kor-Azor,Comadu,Rannoze,Rannoze IV,Noble Metals,Poor,13.79
+Kor-Azor,Comadu,Rannoze,Rannoze V,Lustering Alloy,Perfect,27.90
+Kor-Azor,Comadu,Rannoze,Rannoze V,Noble Gas,Perfect,28.10
+Kor-Azor,Comadu,Rannoze,Rannoze V,Coolant,Poor,9.47
+Kor-Azor,Comadu,Rannoze,Rannoze V,Ionic Solutions,Medium,6.79
+Kor-Azor,Comadu,Rannoze,Rannoze VI,Glossy Compound,Rich,25.75
+Kor-Azor,Comadu,Rannoze,Rannoze VI,Reactive Gas,Rich,25.62
+Kor-Azor,Comadu,Rannoze,Rannoze VI,Noble Gas,Poor,14.55
+Kor-Azor,Comadu,Rannoze,Rannoze VI,Polyaramids,Medium,10.77
+Kor-Azor,Comadu,Rannoze,Rannoze VII,Coolant,Medium,13.77
+Kor-Azor,Comadu,Rannoze,Rannoze VII,Suspended Plasma,Medium,73.01
+Kor-Azor,Comadu,Rannoze,Rannoze VII,Liquid Ozone,Medium,22.72
+Kor-Azor,Comadu,Piri,Piri I,Base Metals,Medium,4.82
+Kor-Azor,Comadu,Piri,Piri I,Industrial Fibers,Poor,3.60
+Kor-Azor,Comadu,Piri,Piri I,Silicate Glass,Medium,8.48
+Kor-Azor,Comadu,Piri,Piri II,Lustering Alloy,Poor,10.40
+Kor-Azor,Comadu,Piri,Piri II,Precious Alloy,Poor,10.85
+Kor-Azor,Comadu,Piri,Piri II,Industrial Fibers,Poor,3.27
+Kor-Azor,Comadu,Piri,Piri III,Lustering Alloy,Poor,12.35
+Kor-Azor,Comadu,Piri,Piri III,Toxic Metals,Medium,4.66
+Kor-Azor,Comadu,Piri,Piri III,Industrial Fibers,Medium,4.67
+Kor-Azor,Comadu,Piri,Piri IV,Condensed Alloy,Perfect,30.21
+Kor-Azor,Comadu,Piri,Piri IV,Fiber Composite,Perfect,29.14
+Kor-Azor,Comadu,Piri,Piri IV,Base Metals,Perfect,7.19
+Kor-Azor,Comadu,Piri,Piri IV,Smartfab Units,Perfect,19.59
+Kor-Azor,Comadu,Piri,Piri V,Condensed Alloy,Perfect,30.16
+Kor-Azor,Comadu,Piri,Piri V,Fiber Composite,Medium,19.18
+Kor-Azor,Comadu,Piri,Piri V,Industrial Fibers,Perfect,7.81
+Kor-Azor,Comadu,Piri,Piri V,Smartfab Units,Medium,10.66
+Kor-Azor,Comadu,Piri,Piri VI,Supertensile Plastics,Poor,9.16
+Kor-Azor,Comadu,Piri,Piri VI,Construction Blocks,Medium,17.23
+Kor-Azor,Comadu,Piri,Piri VI,Suspended Plasma,Rich,84.21
+Kor-Azor,Comadu,Piri,Piri VII,Noble Gas,Medium,19.74
+Kor-Azor,Comadu,Piri,Piri VII,Base Metals,Rich,5.63
+Kor-Azor,Comadu,Piri,Piri VII,Reactive Metals,Medium,4.26
+Kor-Azor,Comadu,Piri,Piri VII,Polyaramids,Poor,9.45
+Kor-Azor,Tendrara,Enal,Enal I,Reactive Metals,Perfect,7.12
+Kor-Azor,Tendrara,Enal,Enal I,Condensates,Perfect,18.17
+Kor-Azor,Tendrara,Enal,Enal I,Nanites,Rich,6.27
+Kor-Azor,Tendrara,Enal,Enal I,Plasmoids,Perfect,1.56
+Kor-Azor,Tendrara,Enal,Enal II,Noble Gas,Medium,16.11
+Kor-Azor,Tendrara,Enal,Enal II,Plasmoids,Medium,1.15
+Kor-Azor,Tendrara,Enal,Enal III,Noble Gas,Poor,14.80
+Kor-Azor,Tendrara,Enal,Enal III,Noble Metals,Rich,21.42
+Kor-Azor,Tendrara,Enal,Enal IV,Gleaming Alloy,Rich,22.51
+Kor-Azor,Tendrara,Enal,Enal IV,Noble Gas,Poor,13.10
+Kor-Azor,Tendrara,Enal,Enal V,Glossy Compound,Perfect,25.95
+Kor-Azor,Tendrara,Enal,Enal V,Noble Gas,Medium,19.33
+Kor-Azor,Tendrara,Enal,Enal VI,Fiber Composite,Rich,24.35
+Kor-Azor,Tendrara,Enal,Enal VI,Opulent Compound,Perfect,29.74
+Kor-Azor,Tendrara,Enal,Enal VI,Condensates,Perfect,18.54
+Kor-Azor,Tendrara,Enal,Enal VI,Liquid Ozone,Rich,31.46
+Kor-Azor,Tendrara,Enal,Enal VII,Condensed Alloy,Medium,17.25
+Kor-Azor,Tendrara,Enal,Enal VII,Fiber Composite,Rich,20.86
+Kor-Azor,Tendrara,Enal,Enal VII,Opulent Compound,Rich,20.74
+Kor-Azor,Tendrara,Enal,Enal VII,Noble Metals,Medium,18.50
+Kor-Azor,Tendrara,Enal,Enal VIII,Lustering Alloy,Medium,17.86
+Kor-Azor,Tendrara,Enal,Enal VIII,Reactive Gas,Medium,18.19
+Kor-Azor,Tendrara,Enal,Enal VIII,Noble Gas,Perfect,26.50
+Kor-Azor,Tendrara,Enal,Enal VIII,Ionic Solutions,Perfect,10.52
+Kor-Azor,Tendrara,Enal,Enal IX,Reactive Gas,Rich,22.03
+Kor-Azor,Tendrara,Enal,Enal IX,Noble Gas,Rich,22.46
+Kor-Azor,Tendrara,Enal,Enal IX,Reactive Metals,Medium,4.27
+Kor-Azor,Tendrara,Enal,Enal IX,Coolant,Medium,12.46
+Kor-Azor,Tendrara,Enal,Enal X,Sheen Compound,Medium,16.82
+Kor-Azor,Tendrara,Enal,Enal X,Noble Gas,Poor,14.42
+Kor-Azor,Tendrara,Enal,Enal X,Polyaramids,Medium,12.73
+Kor-Azor,Tendrara,Enal,Enal X,Ionic Solutions,Rich,8.84
+Kor-Azor,Tendrara,Jedandan,Jedandan I,Lustering Alloy,Poor,10.59
+Kor-Azor,Tendrara,Jedandan,Jedandan I,Industrial Fibers,Poor,3.94
+Kor-Azor,Tendrara,Jedandan,Jedandan I,Silicate Glass,Medium,8.57
+Kor-Azor,Tendrara,Jedandan,Jedandan II,Reactive Gas,Medium,16.03
+Kor-Azor,Tendrara,Jedandan,Jedandan II,Construction Blocks,Rich,24.37
+Kor-Azor,Tendrara,Jedandan,Jedandan II,Suspended Plasma,Medium,66.01
+Kor-Azor,Tendrara,Jedandan,Jedandan III,Reactive Gas,Rich,21.65
+Kor-Azor,Tendrara,Jedandan,Jedandan III,Noble Gas,Rich,25.39
+Kor-Azor,Tendrara,Jedandan,Jedandan III,Polyaramids,Rich,14.40
+Kor-Azor,Tendrara,Jedandan,Jedandan III,Coolant,Rich,16.66
+Kor-Azor,Tendrara,Jedandan,Jedandan IV,Noble Gas,Medium,18.08
+Kor-Azor,Tendrara,Jedandan,Jedandan IV,Base Metals,Perfect,6.83
+Kor-Azor,Tendrara,Jedandan,Jedandan IV,Polyaramids,Perfect,17.19
+Kor-Azor,Tendrara,Jedandan,Jedandan IV,Coolant,Medium,12.76
+Kor-Azor,Tendrara,Jedandan,Jedandan V,Lustering Alloy,Poor,13.71
+Kor-Azor,Tendrara,Jedandan,Jedandan V,Sheen Compound,Medium,16.16
+Kor-Azor,Tendrara,Jedandan,Jedandan V,Noble Gas,Medium,15.20
+Kor-Azor,Tendrara,Jedandan,Jedandan V,Ionic Solutions,Medium,7.28
+Kor-Azor,Tendrara,Jedandan,Jedandan VI,Sheen Compound,Poor,15.01
+Kor-Azor,Tendrara,Jedandan,Jedandan VI,Fiber Composite,Rich,24.05
+Kor-Azor,Tendrara,Jedandan,Jedandan VI,Glossy Compound,Poor,15.06
+Kor-Azor,Tendrara,Jedandan,Jedandan VI,Noble Gas,Rich,20.26
+Kor-Azor,Tendrara,Jedandan,Jedandan VII,Sheen Compound,Medium,16.22
+Kor-Azor,Tendrara,Jedandan,Jedandan VII,Glossy Compound,Medium,16.26
+Kor-Azor,Tendrara,Jedandan,Jedandan VII,Reactive Gas,Rich,20.45
+Kor-Azor,Tendrara,Jedandan,Jedandan VII,Noble Gas,Medium,20.03
+Kor-Azor,Tendrara,Jedandan,Jedandan VIII,Fiber Composite,Medium,18.80
+Kor-Azor,Tendrara,Jedandan,Jedandan VIII,Reactive Gas,Rich,22.78
+Kor-Azor,Tendrara,Jedandan,Jedandan VIII,Noble Gas,Perfect,25.94
+Kor-Azor,Tendrara,Jedandan,Jedandan VIII,Base Metals,Poor,3.90
+Kor-Azor,Tendrara,Jedandan,Jedandan IX,Industrial Fibers,Poor,3.00
+Kor-Azor,Tendrara,Jedandan,Jedandan IX,Silicate Glass,Poor,7.31
+Kor-Azor,Tendrara,Jedandan,Jedandan IX,Plasmoids,Medium,1.14
+Kor-Azor,Tendrara,Miroona,Miroona I,Gleaming Alloy,Medium,15.18
+Kor-Azor,Tendrara,Miroona,Miroona I,Noble Gas,Poor,14.64
+Kor-Azor,Tendrara,Miroona,Miroona II,Fiber Composite,Medium,18.10
+Kor-Azor,Tendrara,Miroona,Miroona II,Glossy Compound,Rich,25.01
+Kor-Azor,Tendrara,Miroona,Miroona II,Noble Gas,Medium,17.18
+Kor-Azor,Tendrara,Miroona,Miroona II,Base Metals,Medium,4.48
+Kor-Azor,Tendrara,Miroona,Miroona III,Sheen Compound,Rich,23.66
+Kor-Azor,Tendrara,Miroona,Miroona III,Fiber Composite,Poor,14.02
+Kor-Azor,Tendrara,Miroona,Miroona III,Reactive Gas,Rich,23.81
+Kor-Azor,Tendrara,Miroona,Miroona III,Noble Gas,Poor,14.45
+Kor-Azor,Tendrara,Miroona,Miroona IV,Lustering Alloy,Medium,17.62
+Kor-Azor,Tendrara,Miroona,Miroona IV,Reactive Gas,Medium,15.09
+Kor-Azor,Tendrara,Miroona,Miroona IV,Noble Gas,Rich,20.74
+Kor-Azor,Tendrara,Miroona,Miroona IV,Coolant,Rich,14.02
+Kor-Azor,Tendrara,Miroona,Miroona V,Reactive Gas,Rich,24.75
+Kor-Azor,Tendrara,Miroona,Miroona V,Noble Gas,Medium,17.23
+Kor-Azor,Tendrara,Miroona,Miroona V,Base Metals,Poor,3.60
+Kor-Azor,Tendrara,Miroona,Miroona V,Ionic Solutions,Poor,5.63
+Kor-Azor,Tendrara,Miroona,Miroona VI,Precious Alloy,Medium,17.42
+Kor-Azor,Tendrara,Miroona,Miroona VI,Base Metals,Poor,3.65
+Kor-Azor,Tendrara,Miroona,Miroona VI,Industrial Fibers,Medium,4.27
+Kor-Azor,Tendrara,Miroona,Miroona VII,Toxic Metals,Poor,3.52
+Kor-Azor,Tendrara,Miroona,Miroona VII,Construction Blocks,Perfect,25.73
+Kor-Azor,Tendrara,Miroona,Miroona VII,Nanites,Medium,5.25
+Kor-Azor,Tendrara,Ranni,Ranni I,Heavy Metals,Perfect,28.97
+Kor-Azor,Tendrara,Ranni,Ranni I,Nanites,Poor,4.13
+Kor-Azor,Tendrara,Ranni,Ranni I,Ionic Solutions,Rich,10.10
+Kor-Azor,Tendrara,Ranni,Ranni I,Plasmoids,Rich,1.30
+Kor-Azor,Tendrara,Ranni,Ranni II,Lustering Alloy,Poor,14.86
+Kor-Azor,Tendrara,Ranni,Ranni II,Toxic Metals,Poor,3.24
+Kor-Azor,Tendrara,Ranni,Ranni II,Industrial Fibers,Poor,3.83
+Kor-Azor,Tendrara,Ranni,Ranni III,Condensed Alloy,Rich,26.84
+Kor-Azor,Tendrara,Ranni,Ranni III,Noble Metals,Rich,26.74
+Kor-Azor,Tendrara,Ranni,Ranni III,Polyaramids,Medium,12.04
+Kor-Azor,Tendrara,Ranni,Ranni III,Coolant,Medium,13.11
+Kor-Azor,Tendrara,Ranni,Ranni IV,Heavy Metals,Perfect,29.04
+Kor-Azor,Tendrara,Ranni,Ranni IV,Condensates,Perfect,18.64
+Kor-Azor,Tendrara,Ranni,Ranni IV,Nanites,Rich,6.05
+Kor-Azor,Tendrara,Ranni,Ranni IV,Plasmoids,Poor,0.92
+Kor-Azor,Tendrara,Ranni,Ranni V,Precious Alloy,Medium,18.51
+Kor-Azor,Tendrara,Ranni,Ranni V,Industrial Fibers,Poor,3.79
+Kor-Azor,Tendrara,Ranni,Ranni V,Plasmoids,Medium,1.20
+Kor-Azor,Tendrara,Ranni,Ranni VI,Fiber Composite,Poor,15.95
+Kor-Azor,Tendrara,Ranni,Ranni VI,Condensates,Rich,17.15
+Kor-Azor,Tendrara,Ranni,Ranni VI,Heavy Water,Rich,218.28
+Kor-Azor,Tendrara,Ranni,Ranni VI,Liquid Ozone,Rich,29.75
+Kor-Azor,Tendrara,Ranni,Ranni VII,Glossy Compound,Rich,22.08
+Kor-Azor,Tendrara,Ranni,Ranni VII,Noble Gas,Rich,25.28
+Kor-Azor,Tendrara,Ranni,Ranni VII,Reactive Metals,Medium,4.83
+Kor-Azor,Tendrara,Ranni,Ranni VII,Coolant,Medium,13.03
+Kor-Azor,Tendrara,Ranni,Ranni VIII,Sheen Compound,Medium,19.55
+Kor-Azor,Tendrara,Ranni,Ranni VIII,Glossy Compound,Rich,26.27
+Kor-Azor,Tendrara,Ranni,Ranni VIII,Noble Gas,Medium,21.25
+Kor-Azor,Tendrara,Ranni,Ranni VIII,Polyaramids,Medium,11.31
+Kor-Azor,Tendrara,Ranni,Ranni IX,Lustering Alloy,Medium,16.78
+Kor-Azor,Tendrara,Ranni,Ranni IX,Noble Gas,Medium,19.62
+Kor-Azor,Tendrara,Ranni,Ranni IX,Base Metals,Medium,4.69
+Kor-Azor,Tendrara,Ranni,Ranni IX,Coolant,Rich,16.22
+Kor-Azor,Tendrara,Ranni,Ranni X,Base Metals,Poor,3.76
+Kor-Azor,Tendrara,Ranni,Ranni X,Industrial Fibers,Poor,3.56
+Kor-Azor,Tendrara,Ranni,Ranni X,Plasmoids,Medium,1.12
+Kor-Azor,Tendrara,Arza,Arza I,Precious Alloy,Medium,16.42
+Kor-Azor,Tendrara,Arza,Arza I,Base Metals,Poor,4.02
+Kor-Azor,Tendrara,Arza,Arza I,Industrial Fibers,Poor,3.31
+Kor-Azor,Tendrara,Arza,Arza II,Gleaming Alloy,Medium,16.25
+Kor-Azor,Tendrara,Arza,Arza II,Crystal Compound,Medium,20.94
+Kor-Azor,Tendrara,Arza,Arza II,Construction Blocks,Poor,13.79
+Kor-Azor,Tendrara,Arza,Arza III,Dark Compound,Perfect,29.97
+Kor-Azor,Tendrara,Arza,Arza III,Noble Gas,Perfect,27.49
+Kor-Azor,Tendrara,Arza,Arza III,Reactive Metals,Rich,6.46
+Kor-Azor,Tendrara,Arza,Arza III,Nanites,Rich,7.07
+Kor-Azor,Tendrara,Arza,Arza IV,Crystal Compound,Medium,17.99
+Kor-Azor,Tendrara,Arza,Arza IV,Coolant,Perfect,19.16
+Kor-Azor,Tendrara,Arza,Arza IV,Heavy Water,Rich,246.50
+Kor-Azor,Tendrara,Arza,Arza IV,Liquid Ozone,Rich,27.37
+Kor-Azor,Tendrara,Liparer,Liparer I,Precious Alloy,Poor,13.70
+Kor-Azor,Tendrara,Liparer,Liparer I,Toxic Metals,Poor,3.12
+Kor-Azor,Tendrara,Liparer,Liparer I,Industrial Fibers,Poor,3.28
+Kor-Azor,Tendrara,Liparer,Liparer II,Lustering Alloy,Medium,17.23
+Kor-Azor,Tendrara,Liparer,Liparer II,Industrial Fibers,Poor,3.39
+Kor-Azor,Tendrara,Liparer,Liparer II,Construction Blocks,Poor,10.06
+Kor-Azor,Tendrara,Liparer,Liparer III,Noble Gas,Medium,18.58
+Kor-Azor,Tendrara,Liparer,Liparer III,Construction Blocks,Rich,21.68
+Kor-Azor,Tendrara,Liparer,Liparer IV,Condensed Alloy,Medium,16.54
+Kor-Azor,Tendrara,Liparer,Liparer IV,Fiber Composite,Medium,16.18
+Kor-Azor,Tendrara,Liparer,Liparer IV,Reactive Gas,Perfect,25.95
+Kor-Azor,Tendrara,Liparer,Liparer IV,Base Metals,Medium,4.61
+Kor-Azor,Tendrara,Liparer,Liparer V,Lustering Alloy,Rich,24.74
+Kor-Azor,Tendrara,Liparer,Liparer V,Noble Gas,Poor,13.92
+Kor-Azor,Tendrara,Liparer,Liparer V,Base Metals,Medium,4.24
+Kor-Azor,Tendrara,Liparer,Liparer V,Polyaramids,Medium,10.72
+Kor-Azor,Tendrara,Liparer,Liparer VI,Lustering Alloy,Poor,14.42
+Kor-Azor,Tendrara,Liparer,Liparer VI,Noble Gas,Rich,24.53
+Kor-Azor,Tendrara,Liparer,Liparer VI,Base Metals,Perfect,6.73
+Kor-Azor,Tendrara,Liparer,Liparer VI,Reactive Metals,Rich,5.89
+Kor-Azor,Tendrara,Liparer,Liparer VII,Sheen Compound,Rich,25.04
+Kor-Azor,Tendrara,Liparer,Liparer VII,Reactive Gas,Rich,24.62
+Kor-Azor,Tendrara,Liparer,Liparer VII,Noble Gas,Rich,25.09
+Kor-Azor,Tendrara,Liparer,Liparer VII,Coolant,Poor,9.96
+Kor-Azor,Tendrara,Liparer,Liparer VIII,Lustering Alloy,Medium,16.56
+Kor-Azor,Tendrara,Liparer,Liparer VIII,Sheen Compound,Rich,20.82
+Kor-Azor,Tendrara,Liparer,Liparer VIII,Noble Gas,Medium,18.59
+Kor-Azor,Tendrara,Liparer,Liparer VIII,Base Metals,Medium,4.06
+Kor-Azor,Tendrara,Liparer,Liparer IX,Heavy Metals,Poor,13.95
+Kor-Azor,Tendrara,Liparer,Liparer IX,Industrial Fibers,Rich,6.19
+Kor-Azor,Tendrara,Liparer,Liparer IX,Coolant,Poor,9.61
+Kor-Azor,Nimedaz,Annad,Annad I,Sheen Compound,Perfect,19.75
+Kor-Azor,Nimedaz,Annad,Annad I,Suspended Plasma,Medium,53.09
+Kor-Azor,Nimedaz,Annad,Annad I,Ionic Solutions,Medium,6.01
+Kor-Azor,Nimedaz,Annad,Annad II,Lustering Alloy,Medium,13.50
+Kor-Azor,Nimedaz,Annad,Annad II,Base Metals,Poor,2.74
+Kor-Azor,Nimedaz,Annad,Annad III,Industrial Fibers,Rich,4.31
+Kor-Azor,Nimedaz,Annad,Annad III,Heavy Water,Rich,154.08
+Kor-Azor,Nimedaz,Annad,Annad III,Liquid Ozone,Perfect,25.11
+Kor-Azor,Nimedaz,Annad,Annad IV,Lustering Alloy,Medium,11.98
+Kor-Azor,Nimedaz,Annad,Annad IV,Base Metals,Poor,1.99
+Kor-Azor,Nimedaz,Annad,Annad V,Fiber Composite,Perfect,22.64
+Kor-Azor,Nimedaz,Annad,Annad V,Base Metals,Perfect,5.45
+Kor-Azor,Nimedaz,Annad,Annad V,Heavy Water,Perfect,200.76
+Kor-Azor,Nimedaz,Annad,Annad VI,Reactive Gas,Rich,18.38
+Kor-Azor,Nimedaz,Annad,Annad VI,Noble Metals,Medium,13.24
+Kor-Azor,Nimedaz,Annad,Annad VI,Heavy Water,Rich,166.56
+Kor-Azor,Nimedaz,Annad,Annad VII,Lustering Alloy,Perfect,19.19
+Kor-Azor,Nimedaz,Annad,Annad VII,Base Metals,Medium,3.22
+Kor-Azor,Nimedaz,Annad,Annad VII,Polyaramids,Rich,10.40
+Kor-Azor,Nimedaz,Annad,Annad VIII,Lustering Alloy,Rich,16.94
+Kor-Azor,Nimedaz,Annad,Annad VIII,Fiber Composite,Medium,11.94
+Kor-Azor,Nimedaz,Annad,Annad VIII,Base Metals,Poor,2.80
+Kor-Azor,Nimedaz,Chaktaren,Chaktaren I,Lustering Alloy,Poor,11.04
+Kor-Azor,Nimedaz,Chaktaren,Chaktaren I,Base Metals,Medium,3.76
+Kor-Azor,Nimedaz,Chaktaren,Chaktaren II,Lustering Alloy,Medium,12.59
+Kor-Azor,Nimedaz,Chaktaren,Chaktaren II,Base Metals,Medium,3.25
+Kor-Azor,Nimedaz,Chaktaren,Chaktaren III,Reactive Gas,Rich,16.28
+Kor-Azor,Nimedaz,Chaktaren,Chaktaren III,Industrial Fibers,Rich,4.55
+Kor-Azor,Nimedaz,Chaktaren,Chaktaren III,Heavy Water,Medium,115.08
+Kor-Azor,Nimedaz,Chaktaren,Chaktaren IV,Lustering Alloy,Poor,8.29
+Kor-Azor,Nimedaz,Chaktaren,Chaktaren IV,Base Metals,Poor,2.90
+Kor-Azor,Nimedaz,Chaktaren,Chaktaren V,Reactive Gas,Rich,18.14
+Kor-Azor,Nimedaz,Chaktaren,Chaktaren V,Suspended Plasma,Medium,50.67
+Kor-Azor,Nimedaz,Chaktaren,Chaktaren VI,Lustering Alloy,Medium,13.62
+Kor-Azor,Nimedaz,Chaktaren,Chaktaren VI,Base Metals,Poor,2.86
+Kor-Azor,Nimedaz,Chaktaren,Chaktaren VII,Lustering Alloy,Medium,12.36
+Kor-Azor,Nimedaz,Chaktaren,Chaktaren VII,Base Metals,Poor,2.19
+Kor-Azor,Nimedaz,Chaktaren,Chaktaren VIII,Lustering Alloy,Medium,14.81
+Kor-Azor,Nimedaz,Chaktaren,Chaktaren VIII,Base Metals,Medium,3.12
+Kor-Azor,Nimedaz,Chaktaren,Chaktaren VIII,Ionic Solutions,Rich,7.21
+Kor-Azor,Gebem,Conoban,Conoban I,Lustering Alloy,Poor,10.24
+Kor-Azor,Gebem,Conoban,Conoban I,Base Metals,Poor,2.40
+Kor-Azor,Gebem,Conoban,Conoban II,Lustering Alloy,Poor,9.04
+Kor-Azor,Gebem,Conoban,Conoban II,Base Metals,Medium,3.55
+Kor-Azor,Gebem,Conoban,Conoban III,Supertensile Plastics,Rich,9.73
+Kor-Azor,Gebem,Conoban,Conoban III,Suspended Plasma,Poor,32.00
+Kor-Azor,Gebem,Conoban,Conoban IV,Condensed Alloy,Perfect,18.16
+Kor-Azor,Gebem,Conoban,Conoban IV,Opulent Compound,Rich,16.40
+Kor-Azor,Gebem,Conoban,Conoban IV,Heavy Water,Rich,162.25
+Kor-Azor,Gebem,Conoban,Conoban V,Condensed Alloy,Medium,10.67
+Kor-Azor,Gebem,Conoban,Conoban V,Condensates,Perfect,13.51
+Kor-Azor,Gebem,Conoban,Conoban V,Heavy Water,Rich,169.51
+Kor-Azor,Gebem,Conoban,Conoban VI,Noble Metals,Perfect,18.72
+Kor-Azor,Gebem,Conoban,Conoban VI,Heavy Water,Rich,157.96
+Kor-Azor,Gebem,Conoban,Conoban VI,Liquid Ozone,Perfect,25.55
+Kor-Azor,Gebem,Conoban,Conoban VII,Lustering Alloy,Medium,12.64
+Kor-Azor,Gebem,Conoban,Conoban VII,Base Metals,Medium,3.17
+Kor-Azor,Gebem,Conoban,Conoban VIII,Lustering Alloy,Medium,13.47
+Kor-Azor,Gebem,Conoban,Conoban VIII,Sheen Compound,Medium,12.28
+Kor-Azor,Gebem,Conoban,Conoban VIII,Base Metals,Perfect,4.79

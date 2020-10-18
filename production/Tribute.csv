@@ -1,0 +1,2163 @@
+Region,Constellation,System,Name,Item,Rate,Output
+Tribute,1P-VL2,E-OGL4,E-OGL4 I,Lustering Alloy,Poor,17.14
+Tribute,1P-VL2,E-OGL4,E-OGL4 I,Dark Compound,Medium,21.49
+Tribute,1P-VL2,E-OGL4,E-OGL4 I,Base Metals,Poor,5.01
+Tribute,1P-VL2,E-OGL4,E-OGL4 I,Supertensile Plastics,Medium,17.22
+Tribute,1P-VL2,E-OGL4,E-OGL4 II,Lustering Alloy,Medium,21.67
+Tribute,1P-VL2,E-OGL4,E-OGL4 II,Base Metals,Poor,4.56
+Tribute,1P-VL2,E-OGL4,E-OGL4 II,Supertensile Plastics,Medium,15.56
+Tribute,1P-VL2,E-OGL4,E-OGL4 II,Oxygen Isotopes,Medium,3.41
+Tribute,1P-VL2,E-OGL4,E-OGL4 III,Dark Compound,Perfect,38.15
+Tribute,1P-VL2,E-OGL4,E-OGL4 III,Noble Gas,Perfect,38.90
+Tribute,1P-VL2,E-OGL4,E-OGL4 III,Heavy Metals,Perfect,35.84
+Tribute,1P-VL2,E-OGL4,E-OGL4 III,Condensates,Rich,22.32
+Tribute,1P-VL2,E-OGL4,E-OGL4 III,Plasmoids,Medium,1.54
+Tribute,1P-VL2,E-OGL4,E-OGL4 IV,Supertensile Plastics,Poor,9.39
+Tribute,1P-VL2,E-OGL4,E-OGL4 IV,Construction Blocks,Poor,13.82
+Tribute,1P-VL2,E-OGL4,E-OGL4 IV,Silicate Glass,Poor,9.03
+Tribute,1P-VL2,E-OGL4,E-OGL4 IV,Oxygen Isotopes,Poor,2.31
+Tribute,1P-VL2,E-OGL4,E-OGL4 V,Opulent Compound,Perfect,37.33
+Tribute,1P-VL2,E-OGL4,E-OGL4 V,Toxic Metals,Medium,5.52
+Tribute,1P-VL2,E-OGL4,E-OGL4 V,Polyaramids,Medium,16.21
+Tribute,1P-VL2,E-OGL4,E-OGL4 V,Coolant,Rich,21.79
+Tribute,1P-VL2,E-OGL4,E-OGL4 V,Liquid Ozone,Rich,35.20
+Tribute,1P-VL2,E-OGL4,E-OGL4 VI,Gleaming Alloy,Rich,34.43
+Tribute,1P-VL2,E-OGL4,E-OGL4 VI,Construction Blocks,Perfect,36.78
+Tribute,1P-VL2,E-OGL4,E-OGL4 VI,Plasmoids,Rich,1.79
+Tribute,1P-VL2,E-OGL4,E-OGL4 VII,Glossy Compound,Poor,18.90
+Tribute,1P-VL2,E-OGL4,E-OGL4 VII,Reactive Gas,Rich,29.70
+Tribute,1P-VL2,E-OGL4,E-OGL4 VII,Base Metals,Medium,5.90
+Tribute,1P-VL2,E-OGL4,E-OGL4 VII,Reactive Metals,Poor,5.33
+Tribute,1P-VL2,E-OGL4,E-OGL4 VII,Ionic Solutions,Medium,9.90
+Tribute,1P-VL2,E-OGL4,E-OGL4 VIII,Lustering Alloy,Medium,26.60
+Tribute,1P-VL2,E-OGL4,E-OGL4 VIII,Reactive Gas,Rich,33.70
+Tribute,1P-VL2,E-OGL4,E-OGL4 VIII,Noble Gas,Perfect,35.53
+Tribute,1P-VL2,E-OGL4,E-OGL4 VIII,Base Metals,Poor,5.27
+Tribute,1P-VL2,E-OGL4,E-OGL4 VIII,Coolant,Rich,23.10
+Tribute,1P-VL2,E-OGL4,E-OGL4 IX,Sheen Compound,Medium,25.76
+Tribute,1P-VL2,E-OGL4,E-OGL4 IX,Fiber Composite,Rich,31.46
+Tribute,1P-VL2,E-OGL4,E-OGL4 IX,Glossy Compound,Medium,23.21
+Tribute,1P-VL2,E-OGL4,E-OGL4 IX,Reactive Gas,Rich,28.62
+Tribute,1P-VL2,E-OGL4,E-OGL4 IX,Polyaramids,Medium,17.03
+Tribute,1P-VL2,E-OGL4,E-OGL4 X,Fiber Composite,Medium,26.64
+Tribute,1P-VL2,E-OGL4,E-OGL4 X,Glossy Compound,Rich,32.47
+Tribute,1P-VL2,E-OGL4,E-OGL4 X,Reactive Gas,Rich,33.40
+Tribute,1P-VL2,E-OGL4,E-OGL4 X,Reactive Metals,Rich,8.41
+Tribute,1P-VL2,E-OGL4,E-OGL4 X,Ionic Solutions,Medium,8.62
+Tribute,1P-VL2,J-GAMP,J-GAMP I,Dark Compound,Poor,18.15
+Tribute,1P-VL2,J-GAMP,J-GAMP I,Toxic Metals,Medium,5.73
+Tribute,1P-VL2,J-GAMP,J-GAMP I,Supertensile Plastics,Poor,9.67
+Tribute,1P-VL2,J-GAMP,J-GAMP I,Plasmoids,Medium,1.41
+Tribute,1P-VL2,J-GAMP,J-GAMP II,Lustering Alloy,Medium,23.32
+Tribute,1P-VL2,J-GAMP,J-GAMP II,Base Metals,Medium,5.63
+Tribute,1P-VL2,J-GAMP,J-GAMP II,Supertensile Plastics,Poor,12.28
+Tribute,1P-VL2,J-GAMP,J-GAMP II,Plasmoids,Medium,1.47
+Tribute,1P-VL2,J-GAMP,J-GAMP III,Gleaming Alloy,Rich,34.25
+Tribute,1P-VL2,J-GAMP,J-GAMP III,Noble Metals,Rich,29.28
+Tribute,1P-VL2,J-GAMP,J-GAMP III,Polyaramids,Rich,19.08
+Tribute,1P-VL2,J-GAMP,J-GAMP IV,Fiber Composite,Medium,23.74
+Tribute,1P-VL2,J-GAMP,J-GAMP IV,Noble Metals,Perfect,36.43
+Tribute,1P-VL2,J-GAMP,J-GAMP IV,Industrial Fibers,Rich,8.02
+Tribute,1P-VL2,J-GAMP,J-GAMP IV,Smartfab Units,Medium,15.05
+Tribute,1P-VL2,J-GAMP,J-GAMP IV,Liquid Ozone,Medium,34.46
+Tribute,1P-VL2,J-GAMP,J-GAMP V,Condensed Alloy,Perfect,37.58
+Tribute,1P-VL2,J-GAMP,J-GAMP V,Fiber Composite,Perfect,38.02
+Tribute,1P-VL2,J-GAMP,J-GAMP V,Reactive Gas,Medium,21.03
+Tribute,1P-VL2,J-GAMP,J-GAMP V,Noble Metals,Medium,25.76
+Tribute,1P-VL2,J-GAMP,J-GAMP V,Liquid Ozone,Rich,38.53
+Tribute,1P-VL2,J-GAMP,J-GAMP VI,Sheen Compound,Medium,21.12
+Tribute,1P-VL2,J-GAMP,J-GAMP VI,Fiber Composite,Medium,21.38
+Tribute,1P-VL2,J-GAMP,J-GAMP VI,Reactive Gas,Medium,25.23
+Tribute,1P-VL2,J-GAMP,J-GAMP VI,Coolant,Medium,16.10
+Tribute,1P-VL2,J-GAMP,J-GAMP VI,Ionic Solutions,Perfect,14.27
+Tribute,1P-VL2,J-GAMP,J-GAMP VII,Lustering Alloy,Medium,25.37
+Tribute,1P-VL2,J-GAMP,J-GAMP VII,Sheen Compound,Poor,20.53
+Tribute,1P-VL2,J-GAMP,J-GAMP VII,Reactive Gas,Rich,29.59
+Tribute,1P-VL2,J-GAMP,J-GAMP VII,Polyaramids,Rich,22.54
+Tribute,1P-VL2,J-GAMP,J-GAMP VII,Ionic Solutions,Medium,10.41
+Tribute,1P-VL2,J-GAMP,J-GAMP VIII,Lustering Alloy,Rich,32.05
+Tribute,1P-VL2,J-GAMP,J-GAMP VIII,Fiber Composite,Rich,31.50
+Tribute,1P-VL2,J-GAMP,J-GAMP VIII,Glossy Compound,Poor,20.44
+Tribute,1P-VL2,J-GAMP,J-GAMP VIII,Reactive Gas,Poor,20.22
+Tribute,1P-VL2,J-GAMP,J-GAMP VIII,Ionic Solutions,Perfect,14.12
+Tribute,1P-VL2,J-GAMP,J-GAMP IX,Fiber Composite,Medium,22.97
+Tribute,1P-VL2,J-GAMP,J-GAMP IX,Glossy Compound,Poor,20.64
+Tribute,1P-VL2,J-GAMP,J-GAMP IX,Reactive Gas,Rich,31.97
+Tribute,1P-VL2,J-GAMP,J-GAMP IX,Noble Gas,Poor,19.56
+Tribute,1P-VL2,J-GAMP,J-GAMP IX,Reactive Metals,Perfect,9.55
+Tribute,1P-VL2,M-OEE8,M-OEE8 I,Gleaming Alloy,Rich,29.59
+Tribute,1P-VL2,M-OEE8,M-OEE8 I,Glossy Compound,Perfect,35.09
+Tribute,1P-VL2,M-OEE8,M-OEE8 I,Construction Blocks,Rich,32.34
+Tribute,1P-VL2,M-OEE8,M-OEE8 II,Base Metals,Poor,4.08
+Tribute,1P-VL2,M-OEE8,M-OEE8 II,Supertensile Plastics,Medium,15.58
+Tribute,1P-VL2,M-OEE8,M-OEE8 II,Oxygen Isotopes,Poor,2.80
+Tribute,1P-VL2,M-OEE8,M-OEE8 II,Plasmoids,Poor,1.09
+Tribute,1P-VL2,M-OEE8,M-OEE8 III,Gleaming Alloy,Rich,28.16
+Tribute,1P-VL2,M-OEE8,M-OEE8 III,Glossy Compound,Rich,32.19
+Tribute,1P-VL2,M-OEE8,M-OEE8 III,Construction Blocks,Medium,25.21
+Tribute,1P-VL2,M-OEE8,M-OEE8 IV,Gleaming Alloy,Medium,20.77
+Tribute,1P-VL2,M-OEE8,M-OEE8 IV,Motley Compound,Rich,31.70
+Tribute,1P-VL2,M-OEE8,M-OEE8 IV,Glossy Compound,Rich,29.48
+Tribute,1P-VL2,M-OEE8,M-OEE8 V,Dark Compound,Medium,23.54
+Tribute,1P-VL2,M-OEE8,M-OEE8 V,Toxic Metals,Medium,5.51
+Tribute,1P-VL2,M-OEE8,M-OEE8 V,Supertensile Plastics,Poor,11.28
+Tribute,1P-VL2,M-OEE8,M-OEE8 V,Silicate Glass,Poor,9.55
+Tribute,1P-VL2,M-OEE8,M-OEE8 VI,Lustering Alloy,Medium,25.96
+Tribute,1P-VL2,M-OEE8,M-OEE8 VI,Industrial Fibers,Medium,6.11
+Tribute,1P-VL2,M-OEE8,M-OEE8 VI,Supertensile Plastics,Poor,11.13
+Tribute,1P-VL2,M-OEE8,M-OEE8 VI,Plasmoids,Poor,0.97
+Tribute,1P-VL2,M-OEE8,M-OEE8 VII,Gleaming Alloy,Medium,22.59
+Tribute,1P-VL2,M-OEE8,M-OEE8 VII,Lucent Compound,Medium,21.47
+Tribute,1P-VL2,M-OEE8,M-OEE8 VII,Reactive Metals,Medium,5.64
+Tribute,1P-VL2,M-OEE8,M-OEE8 VII,Oxygen Isotopes,Rich,4.57
+Tribute,1P-VL2,M-OEE8,M-OEE8 VIII,Gleaming Alloy,Perfect,37.07
+Tribute,1P-VL2,M-OEE8,M-OEE8 VIII,Noble Metals,Medium,21.30
+Tribute,1P-VL2,M-OEE8,M-OEE8 VIII,Oxygen Isotopes,Rich,5.24
+Tribute,1P-VL2,M-OEE8,M-OEE8 IX,Lustering Alloy,Rich,33.53
+Tribute,1P-VL2,M-OEE8,M-OEE8 IX,Reactive Gas,Poor,19.01
+Tribute,1P-VL2,M-OEE8,M-OEE8 IX,Noble Gas,Medium,22.07
+Tribute,1P-VL2,M-OEE8,M-OEE8 IX,Coolant,Medium,13.98
+Tribute,1P-VL2,M-OEE8,M-OEE8 IX,Ionic Solutions,Medium,9.42
+Tribute,1P-VL2,M-OEE8,M-OEE8 X,Opulent Compound,Perfect,41.84
+Tribute,1P-VL2,M-OEE8,M-OEE8 X,Reactive Gas,Perfect,35.51
+Tribute,1P-VL2,M-OEE8,M-OEE8 X,Noble Metals,Rich,30.07
+Tribute,1P-VL2,M-OEE8,M-OEE8 X,Condensates,Perfect,26.14
+Tribute,1P-VL2,M-OEE8,M-OEE8 X,Liquid Ozone,Perfect,52.09
+Tribute,1P-VL2,M-OEE8,M-OEE8 XI,Lustering Alloy,Medium,21.12
+Tribute,1P-VL2,M-OEE8,M-OEE8 XI,Base Metals,Poor,4.79
+Tribute,1P-VL2,M-OEE8,M-OEE8 XI,Coolant,Rich,20.91
+Tribute,1P-VL2,M-OEE8,M-OEE8 XI,Condensates,Medium,17.89
+Tribute,1P-VL2,M-OEE8,M-OEE8 XII,Base Metals,Poor,4.76
+Tribute,1P-VL2,M-OEE8,M-OEE8 XII,Supertensile Plastics,Medium,14.48
+Tribute,1P-VL2,M-OEE8,M-OEE8 XII,Condensates,Medium,16.57
+Tribute,1P-VL2,M-OEE8,M-OEE8 XII,Suspended Plasma,Poor,63.12
+Tribute,1P-VL2,V0DF-2,V0DF-2 I,Toxic Metals,Poor,3.95
+Tribute,1P-VL2,V0DF-2,V0DF-2 I,Industrial Fibers,Poor,4.78
+Tribute,1P-VL2,V0DF-2,V0DF-2 I,Supertensile Plastics,Medium,16.82
+Tribute,1P-VL2,V0DF-2,V0DF-2 I,Oxygen Isotopes,Poor,2.45
+Tribute,1P-VL2,V0DF-2,V0DF-2 II,Gleaming Alloy,Poor,19.65
+Tribute,1P-VL2,V0DF-2,V0DF-2 II,Polyaramids,Medium,15.46
+Tribute,1P-VL2,V0DF-2,V0DF-2 II,Smartfab Units,Rich,19.87
+Tribute,1P-VL2,V0DF-2,V0DF-2 III,Lustering Alloy,Medium,25.72
+Tribute,1P-VL2,V0DF-2,V0DF-2 III,Fiber Composite,Rich,28.03
+Tribute,1P-VL2,V0DF-2,V0DF-2 III,Glossy Compound,Rich,30.27
+Tribute,1P-VL2,V0DF-2,V0DF-2 III,Reactive Gas,Medium,21.60
+Tribute,1P-VL2,V0DF-2,V0DF-2 III,Base Metals,Medium,5.83
+Tribute,1P-VL2,V0DF-2,V0DF-2 IV,Reactive Gas,Medium,26.99
+Tribute,1P-VL2,V0DF-2,V0DF-2 IV,Base Metals,Rich,7.68
+Tribute,1P-VL2,V0DF-2,V0DF-2 IV,Reactive Metals,Medium,5.97
+Tribute,1P-VL2,V0DF-2,V0DF-2 IV,Polyaramids,Medium,14.45
+Tribute,1P-VL2,V0DF-2,V0DF-2 IV,Coolant,Rich,19.74
+Tribute,1P-VL2,V0DF-2,V0DF-2 V,Fiber Composite,Rich,32.58
+Tribute,1P-VL2,V0DF-2,V0DF-2 V,Reactive Gas,Rich,34.21
+Tribute,1P-VL2,V0DF-2,V0DF-2 V,Noble Gas,Poor,19.62
+Tribute,1P-VL2,V0DF-2,V0DF-2 V,Coolant,Medium,16.98
+Tribute,1P-VL2,V0DF-2,V0DF-2 V,Ionic Solutions,Poor,7.81
+Tribute,1P-VL2,V0DF-2,V0DF-2 VI,Lustering Alloy,Medium,22.13
+Tribute,1P-VL2,V0DF-2,V0DF-2 VI,Precious Alloy,Poor,15.80
+Tribute,1P-VL2,V0DF-2,V0DF-2 VI,Supertensile Plastics,Poor,9.49
+Tribute,1P-VL2,V0DF-2,V0DF-2 VI,Construction Blocks,Medium,20.86
+Tribute,1P-VL2,V0DF-2,V0DF-2 VII,Lustering Alloy,Medium,22.86
+Tribute,1P-VL2,V0DF-2,V0DF-2 VII,Glossy Compound,Medium,24.53
+Tribute,1P-VL2,V0DF-2,V0DF-2 VII,Reactive Gas,Rich,34.50
+Tribute,1P-VL2,V0DF-2,V0DF-2 VII,Base Metals,Poor,4.85
+Tribute,1P-VL2,V0DF-2,V0DF-2 VII,Reactive Metals,Rich,9.18
+Tribute,1P-VL2,V0DF-2,V0DF-2 VIII,Toxic Metals,Medium,6.43
+Tribute,1P-VL2,V0DF-2,V0DF-2 VIII,Supertensile Plastics,Poor,13.08
+Tribute,1P-VL2,V0DF-2,V0DF-2 VIII,Construction Blocks,Poor,15.77
+Tribute,1P-VL2,V0DF-2,V0DF-2 VIII,Plasmoids,Medium,1.60
+Tribute,1P-VL2,FY0W-N,FY0W-N I,Gleaming Alloy,Medium,24.86
+Tribute,1P-VL2,FY0W-N,FY0W-N I,Glossy Compound,Rich,32.82
+Tribute,1P-VL2,FY0W-N,FY0W-N I,Plasmoids,Rich,1.79
+Tribute,1P-VL2,FY0W-N,FY0W-N II,Base Metals,Medium,5.58
+Tribute,1P-VL2,FY0W-N,FY0W-N II,Supertensile Plastics,Poor,12.11
+Tribute,1P-VL2,FY0W-N,FY0W-N II,Construction Blocks,Medium,23.60
+Tribute,1P-VL2,FY0W-N,FY0W-N II,Oxygen Isotopes,Poor,2.87
+Tribute,1P-VL2,FY0W-N,FY0W-N III,Gleaming Alloy,Medium,24.38
+Tribute,1P-VL2,FY0W-N,FY0W-N III,Construction Blocks,Poor,17.03
+Tribute,1P-VL2,FY0W-N,FY0W-N III,Oxygen Isotopes,Rich,4.88
+Tribute,1P-VL2,FY0W-N,FY0W-N IV,Base Metals,Medium,6.55
+Tribute,1P-VL2,FY0W-N,FY0W-N IV,Industrial Fibers,Medium,5.45
+Tribute,1P-VL2,FY0W-N,FY0W-N IV,Supertensile Plastics,Poor,12.74
+Tribute,1P-VL2,FY0W-N,FY0W-N IV,Construction Blocks,Poor,16.63
+Tribute,1P-VL2,FY0W-N,FY0W-N V,Fiber Composite,Perfect,33.68
+Tribute,1P-VL2,FY0W-N,FY0W-N V,Glossy Compound,Medium,20.50
+Tribute,1P-VL2,FY0W-N,FY0W-N V,Reactive Gas,Rich,29.76
+Tribute,1P-VL2,FY0W-N,FY0W-N V,Coolant,Rich,18.49
+Tribute,1P-VL2,FY0W-N,FY0W-N V,Ionic Solutions,Rich,11.61
+Tribute,1P-VL2,FY0W-N,FY0W-N VI,Sheen Compound,Medium,21.67
+Tribute,1P-VL2,FY0W-N,FY0W-N VI,Glossy Compound,Poor,17.45
+Tribute,1P-VL2,FY0W-N,FY0W-N VI,Reactive Gas,Medium,22.64
+Tribute,1P-VL2,FY0W-N,FY0W-N VI,Polyaramids,Medium,16.60
+Tribute,1P-VL2,FY0W-N,FY0W-N VI,Coolant,Perfect,22.99
+Tribute,1P-VL2,FY0W-N,FY0W-N VII,Lustering Alloy,Medium,22.95
+Tribute,1P-VL2,FY0W-N,FY0W-N VII,Glossy Compound,Poor,18.44
+Tribute,1P-VL2,FY0W-N,FY0W-N VII,Reactive Gas,Medium,25.70
+Tribute,1P-VL2,FY0W-N,FY0W-N VII,Reactive Metals,Rich,8.34
+Tribute,1P-VL2,FY0W-N,FY0W-N VII,Polyaramids,Rich,19.07
+Tribute,1P-VL2,MJI3-8,MJI3-8 I,Supertensile Plastics,Medium,17.41
+Tribute,1P-VL2,MJI3-8,MJI3-8 I,Construction Blocks,Medium,21.85
+Tribute,1P-VL2,MJI3-8,MJI3-8 I,Silicate Glass,Medium,12.60
+Tribute,1P-VL2,MJI3-8,MJI3-8 I,Plasmoids,Poor,0.84
+Tribute,1P-VL2,MJI3-8,MJI3-8 II,Lucent Compound,Poor,20.00
+Tribute,1P-VL2,MJI3-8,MJI3-8 II,Reactive Gas,Rich,31.00
+Tribute,1P-VL2,MJI3-8,MJI3-8 II,Reactive Metals,Poor,4.78
+Tribute,1P-VL2,MJI3-8,MJI3-8 II,Supertensile Plastics,Poor,13.80
+Tribute,1P-VL2,MJI3-8,MJI3-8 III,Condensed Alloy,Rich,30.58
+Tribute,1P-VL2,MJI3-8,MJI3-8 III,Fiber Composite,Perfect,37.88
+Tribute,1P-VL2,MJI3-8,MJI3-8 III,Reactive Gas,Medium,23.91
+Tribute,1P-VL2,MJI3-8,MJI3-8 III,Condensates,Rich,22.56
+Tribute,1P-VL2,MJI3-8,MJI3-8 III,Liquid Ozone,Poor,25.60
+Tribute,1P-VL2,MJI3-8,MJI3-8 IV,Condensed Alloy,Medium,23.54
+Tribute,1P-VL2,MJI3-8,MJI3-8 IV,Crystal Compound,Poor,19.98
+Tribute,1P-VL2,MJI3-8,MJI3-8 IV,Toxic Metals,Medium,7.14
+Tribute,1P-VL2,MJI3-8,MJI3-8 IV,Heavy Water,Perfect,368.72
+Tribute,1P-VL2,MJI3-8,MJI3-8 IV,Liquid Ozone,Rich,42.41
+Tribute,1P-VL2,MJI3-8,MJI3-8 V,Lustering Alloy,Rich,34.87
+Tribute,1P-VL2,MJI3-8,MJI3-8 V,Reactive Gas,Medium,25.65
+Tribute,1P-VL2,MJI3-8,MJI3-8 V,Reactive Metals,Medium,5.93
+Tribute,1P-VL2,MJI3-8,MJI3-8 V,Coolant,Poor,12.28
+Tribute,1P-VL2,MJI3-8,MJI3-8 V,Ionic Solutions,Rich,11.54
+Tribute,1P-VL2,MJI3-8,MJI3-8 VI,Fiber Composite,Medium,26.60
+Tribute,1P-VL2,MJI3-8,MJI3-8 VI,Reactive Gas,Perfect,36.48
+Tribute,1P-VL2,MJI3-8,MJI3-8 VI,Noble Gas,Rich,30.47
+Tribute,1P-VL2,MJI3-8,MJI3-8 VI,Reactive Metals,Rich,8.23
+Tribute,1P-VL2,MJI3-8,MJI3-8 VI,Coolant,Medium,15.96
+Tribute,X-VN63,A-DDGY,A-DDGY I,Dark Compound,Medium,23.69
+Tribute,X-VN63,A-DDGY,A-DDGY I,Industrial Fibers,Poor,4.91
+Tribute,X-VN63,A-DDGY,A-DDGY I,Supertensile Plastics,Poor,11.04
+Tribute,X-VN63,A-DDGY,A-DDGY I,Construction Blocks,Poor,17.60
+Tribute,X-VN63,A-DDGY,A-DDGY II,Dark Compound,Poor,15.25
+Tribute,X-VN63,A-DDGY,A-DDGY II,Industrial Fibers,Medium,6.13
+Tribute,X-VN63,A-DDGY,A-DDGY II,Supertensile Plastics,Poor,9.27
+Tribute,X-VN63,A-DDGY,A-DDGY II,Oxygen Isotopes,Medium,3.46
+Tribute,X-VN63,A-DDGY,A-DDGY III,Opulent Compound,Medium,26.71
+Tribute,X-VN63,A-DDGY,A-DDGY III,Reactive Gas,Medium,23.45
+Tribute,X-VN63,A-DDGY,A-DDGY III,Base Metals,Medium,6.75
+Tribute,X-VN63,A-DDGY,A-DDGY III,Industrial Fibers,Perfect,9.85
+Tribute,X-VN63,A-DDGY,A-DDGY III,Liquid Ozone,Rich,37.84
+Tribute,X-VN63,A-DDGY,A-DDGY IV,Sheen Compound,Medium,27.06
+Tribute,X-VN63,A-DDGY,A-DDGY IV,Glossy Compound,Poor,19.84
+Tribute,X-VN63,A-DDGY,A-DDGY IV,Reactive Gas,Poor,19.56
+Tribute,X-VN63,A-DDGY,A-DDGY IV,Base Metals,Rich,7.58
+Tribute,X-VN63,A-DDGY,A-DDGY IV,Reactive Metals,Poor,5.25
+Tribute,X-VN63,A-DDGY,A-DDGY V,Lustering Alloy,Medium,26.03
+Tribute,X-VN63,A-DDGY,A-DDGY V,Reactive Gas,Poor,18.44
+Tribute,X-VN63,A-DDGY,A-DDGY V,Noble Gas,Rich,31.92
+Tribute,X-VN63,A-DDGY,A-DDGY V,Polyaramids,Poor,13.35
+Tribute,X-VN63,A-DDGY,A-DDGY V,Ionic Solutions,Rich,13.74
+Tribute,X-VN63,A-DDGY,A-DDGY VI,Fiber Composite,Medium,26.86
+Tribute,X-VN63,A-DDGY,A-DDGY VI,Reactive Gas,Perfect,35.97
+Tribute,X-VN63,A-DDGY,A-DDGY VI,Reactive Metals,Medium,6.32
+Tribute,X-VN63,A-DDGY,A-DDGY VI,Polyaramids,Medium,13.89
+Tribute,X-VN63,A-DDGY,A-DDGY VI,Coolant,Poor,12.16
+Tribute,X-VN63,A-DDGY,A-DDGY VII,Lustering Alloy,Poor,19.80
+Tribute,X-VN63,A-DDGY,A-DDGY VII,Condensates,Rich,21.66
+Tribute,X-VN63,A-DDGY,A-DDGY VII,Suspended Plasma,Medium,85.85
+Tribute,X-VN63,A-DDGY,A-DDGY VII,Liquid Ozone,Medium,28.32
+Tribute,X-VN63,F-RT6Q,F-RT6Q I,Gleaming Alloy,Perfect,36.72
+Tribute,X-VN63,F-RT6Q,F-RT6Q I,Polyaramids,Poor,13.82
+Tribute,X-VN63,F-RT6Q,F-RT6Q I,Construction Blocks,Medium,25.70
+Tribute,X-VN63,F-RT6Q,F-RT6Q II,Base Metals,Poor,4.86
+Tribute,X-VN63,F-RT6Q,F-RT6Q II,Toxic Metals,Poor,4.86
+Tribute,X-VN63,F-RT6Q,F-RT6Q II,Supertensile Plastics,Poor,12.99
+Tribute,X-VN63,F-RT6Q,F-RT6Q II,Construction Blocks,Poor,18.35
+Tribute,X-VN63,F-RT6Q,F-RT6Q III,Gleaming Alloy,Rich,28.75
+Tribute,X-VN63,F-RT6Q,F-RT6Q III,Reactive Gas,Rich,33.97
+Tribute,X-VN63,F-RT6Q,F-RT6Q III,Reactive Metals,Rich,8.85
+Tribute,X-VN63,F-RT6Q,F-RT6Q III,Nanites,Rich,7.42
+Tribute,X-VN63,F-RT6Q,F-RT6Q IV,Lucent Compound,Rich,30.91
+Tribute,X-VN63,F-RT6Q,F-RT6Q IV,Reactive Metals,Medium,6.10
+Tribute,X-VN63,F-RT6Q,F-RT6Q IV,Toxic Metals,Poor,5.29
+Tribute,X-VN63,F-RT6Q,F-RT6Q IV,Construction Blocks,Rich,30.21
+Tribute,X-VN63,F-RT6Q,F-RT6Q V,Glossy Compound,Rich,32.01
+Tribute,X-VN63,F-RT6Q,F-RT6Q V,Reactive Gas,Medium,23.47
+Tribute,X-VN63,F-RT6Q,F-RT6Q V,Reactive Metals,Medium,7.32
+Tribute,X-VN63,F-RT6Q,F-RT6Q V,Polyaramids,Rich,22.53
+Tribute,X-VN63,F-RT6Q,F-RT6Q V,Ionic Solutions,Medium,10.23
+Tribute,X-VN63,F-RT6Q,F-RT6Q VI,Lustering Alloy,Perfect,35.82
+Tribute,X-VN63,F-RT6Q,F-RT6Q VI,Reactive Gas,Poor,19.93
+Tribute,X-VN63,F-RT6Q,F-RT6Q VI,Reactive Metals,Poor,5.30
+Tribute,X-VN63,F-RT6Q,F-RT6Q VI,Polyaramids,Perfect,24.30
+Tribute,X-VN63,F-RT6Q,F-RT6Q VI,Coolant,Medium,18.14
+Tribute,X-VN63,F-RT6Q,F-RT6Q VII,Lustering Alloy,Medium,23.87
+Tribute,X-VN63,F-RT6Q,F-RT6Q VII,Sheen Compound,Medium,22.97
+Tribute,X-VN63,F-RT6Q,F-RT6Q VII,Reactive Gas,Rich,34.56
+Tribute,X-VN63,F-RT6Q,F-RT6Q VII,Coolant,Poor,13.33
+Tribute,X-VN63,F-RT6Q,F-RT6Q VII,Ionic Solutions,Medium,9.03
+Tribute,X-VN63,F-RT6Q,F-RT6Q VIII,Precious Alloy,Medium,25.70
+Tribute,X-VN63,F-RT6Q,F-RT6Q VIII,Supertensile Plastics,Poor,11.26
+Tribute,X-VN63,F-RT6Q,F-RT6Q VIII,Condensates,Rich,20.91
+Tribute,X-VN63,F-RT6Q,F-RT6Q VIII,Liquid Ozone,Poor,22.61
+Tribute,X-VN63,B-S42H,B-S42H I,Crystal Compound,Medium,25.41
+Tribute,X-VN63,B-S42H,B-S42H I,Reactive Metals,Rich,7.76
+Tribute,X-VN63,B-S42H,B-S42H I,Construction Blocks,Poor,18.35
+Tribute,X-VN63,B-S42H,B-S42H I,Nanites,Rich,8.37
+Tribute,X-VN63,B-S42H,B-S42H II,Dark Compound,Poor,17.80
+Tribute,X-VN63,B-S42H,B-S42H II,Supertensile Plastics,Poor,12.60
+Tribute,X-VN63,B-S42H,B-S42H II,Oxygen Isotopes,Medium,4.01
+Tribute,X-VN63,B-S42H,B-S42H II,Plasmoids,Medium,1.27
+Tribute,X-VN63,B-S42H,B-S42H III,Precious Alloy,Poor,15.27
+Tribute,X-VN63,B-S42H,B-S42H III,Toxic Metals,Poor,4.68
+Tribute,X-VN63,B-S42H,B-S42H III,Supertensile Plastics,Medium,17.85
+Tribute,X-VN63,B-S42H,B-S42H III,Silicate Glass,Medium,10.72
+Tribute,X-VN63,B-S42H,B-S42H IV,Lustering Alloy,Medium,22.84
+Tribute,X-VN63,B-S42H,B-S42H IV,Glossy Compound,Medium,21.49
+Tribute,X-VN63,B-S42H,B-S42H IV,Reactive Gas,Medium,21.38
+Tribute,X-VN63,B-S42H,B-S42H IV,Base Metals,Poor,4.96
+Tribute,X-VN63,B-S42H,B-S42H IV,Ionic Solutions,Rich,13.08
+Tribute,X-VN63,B-S42H,B-S42H V,Lustering Alloy,Medium,26.40
+Tribute,X-VN63,B-S42H,B-S42H V,Fiber Composite,Rich,32.93
+Tribute,X-VN63,B-S42H,B-S42H V,Reactive Gas,Rich,29.15
+Tribute,X-VN63,B-S42H,B-S42H V,Noble Gas,Poor,19.60
+Tribute,X-VN63,B-S42H,B-S42H V,Coolant,Rich,22.94
+Tribute,X-VN63,B-S42H,B-S42H VI,Fiber Composite,Rich,31.70
+Tribute,X-VN63,B-S42H,B-S42H VI,Glossy Compound,Rich,30.69
+Tribute,X-VN63,B-S42H,B-S42H VI,Reactive Gas,Rich,34.21
+Tribute,X-VN63,B-S42H,B-S42H VI,Noble Gas,Medium,23.30
+Tribute,X-VN63,B-S42H,B-S42H VI,Coolant,Medium,17.59
+Tribute,X-VN63,NL6V-7,NL6V-7 I,Industrial Fibers,Medium,5.78
+Tribute,X-VN63,NL6V-7,NL6V-7 I,Supertensile Plastics,Medium,17.51
+Tribute,X-VN63,NL6V-7,NL6V-7 I,Silicate Glass,Medium,12.02
+Tribute,X-VN63,NL6V-7,NL6V-7 I,Oxygen Isotopes,Medium,3.48
+Tribute,X-VN63,NL6V-7,NL6V-7 II,Toxic Metals,Medium,6.59
+Tribute,X-VN63,NL6V-7,NL6V-7 II,Supertensile Plastics,Poor,11.31
+Tribute,X-VN63,NL6V-7,NL6V-7 II,Construction Blocks,Medium,21.82
+Tribute,X-VN63,NL6V-7,NL6V-7 II,Plasmoids,Medium,1.45
+Tribute,X-VN63,NL6V-7,NL6V-7 III,Crystal Compound,Medium,27.04
+Tribute,X-VN63,NL6V-7,NL6V-7 III,Reactive Metals,Rich,7.42
+Tribute,X-VN63,NL6V-7,NL6V-7 III,Toxic Metals,Medium,7.20
+Tribute,X-VN63,NL6V-7,NL6V-7 III,Suspended Plasma,Rich,115.00
+Tribute,X-VN63,NL6V-7,NL6V-7 IV,Noble Gas,Rich,31.02
+Tribute,X-VN63,NL6V-7,NL6V-7 IV,Condensates,Perfect,23.88
+Tribute,X-VN63,NL6V-7,NL6V-7 IV,Nanites,Perfect,9.63
+Tribute,X-VN63,NL6V-7,NL6V-7 IV,Suspended Plasma,Rich,124.66
+Tribute,X-VN63,NL6V-7,NL6V-7 IV,Ionic Solutions,Medium,8.97
+Tribute,X-VN63,NL6V-7,NL6V-7 V,Gleaming Alloy,Rich,30.69
+Tribute,X-VN63,NL6V-7,NL6V-7 V,Motley Compound,Poor,18.08
+Tribute,X-VN63,NL6V-7,NL6V-7 V,Glossy Compound,Poor,19.58
+Tribute,X-VN63,NL6V-7,NL6V-7 VI,Noble Metals,Medium,25.23
+Tribute,X-VN63,NL6V-7,NL6V-7 VI,Industrial Fibers,Perfect,10.93
+Tribute,X-VN63,NL6V-7,NL6V-7 VI,Smartfab Units,Medium,14.15
+Tribute,X-VN63,NL6V-7,NL6V-7 VI,Heavy Water,Rich,286.00
+Tribute,X-VN63,NL6V-7,NL6V-7 VI,Liquid Ozone,Rich,41.75
+Tribute,X-VN63,NL6V-7,NL6V-7 VII,Reactive Gas,Rich,29.15
+Tribute,X-VN63,NL6V-7,NL6V-7 VII,Base Metals,Poor,4.75
+Tribute,X-VN63,NL6V-7,NL6V-7 VII,Polyaramids,Perfect,24.04
+Tribute,X-VN63,NL6V-7,NL6V-7 VII,Coolant,Poor,12.10
+Tribute,X-VN63,NL6V-7,NL6V-7 VII,Ionic Solutions,Medium,8.56
+Tribute,X-VN63,NL6V-7,NL6V-7 VIII,Sheen Compound,Medium,27.48
+Tribute,X-VN63,NL6V-7,NL6V-7 VIII,Reactive Gas,Rich,34.54
+Tribute,X-VN63,NL6V-7,NL6V-7 VIII,Noble Gas,Rich,29.22
+Tribute,X-VN63,NL6V-7,NL6V-7 VIII,Reactive Metals,Medium,5.83
+Tribute,X-VN63,NL6V-7,NL6V-7 VIII,Ionic Solutions,Poor,7.31
+Tribute,X-VN63,NL6V-7,NL6V-7 IX,Lustering Alloy,Medium,21.69
+Tribute,X-VN63,NL6V-7,NL6V-7 IX,Fiber Composite,Medium,24.22
+Tribute,X-VN63,NL6V-7,NL6V-7 IX,Reactive Gas,Rich,30.56
+Tribute,X-VN63,NL6V-7,NL6V-7 IX,Reactive Metals,Poor,5.16
+Tribute,X-VN63,NL6V-7,NL6V-7 IX,Ionic Solutions,Medium,9.71
+Tribute,X-VN63,NL6V-7,NL6V-7 X,Glossy Compound,Perfect,35.93
+Tribute,X-VN63,NL6V-7,NL6V-7 X,Reactive Gas,Medium,24.02
+Tribute,X-VN63,NL6V-7,NL6V-7 X,Reactive Metals,Rich,7.44
+Tribute,X-VN63,NL6V-7,NL6V-7 X,Polyaramids,Rich,19.46
+Tribute,X-VN63,NL6V-7,NL6V-7 X,Ionic Solutions,Perfect,14.11
+Tribute,X-VN63,NL6V-7,NL6V-7 XI,Precious Alloy,Poor,18.99
+Tribute,X-VN63,NL6V-7,NL6V-7 XI,Toxic Metals,Poor,4.30
+Tribute,X-VN63,NL6V-7,NL6V-7 XI,Industrial Fibers,Medium,6.84
+Tribute,X-VN63,NL6V-7,NL6V-7 XI,Supertensile Plastics,Poor,13.65
+Tribute,X-VN63,F-749O,F-749O I,Gleaming Alloy,Medium,26.31
+Tribute,X-VN63,F-749O,F-749O I,Noble Gas,Rich,30.36
+Tribute,X-VN63,F-749O,F-749O I,Noble Metals,Medium,23.98
+Tribute,X-VN63,F-749O,F-749O II,Lucent Compound,Rich,34.91
+Tribute,X-VN63,F-749O,F-749O II,Reactive Metals,Medium,5.75
+Tribute,X-VN63,F-749O,F-749O II,Supertensile Plastics,Rich,20.93
+Tribute,X-VN63,F-749O,F-749O II,Nanites,Medium,5.84
+Tribute,X-VN63,F-749O,F-749O III,Lustering Alloy,Medium,25.17
+Tribute,X-VN63,F-749O,F-749O III,Toxic Metals,Poor,4.43
+Tribute,X-VN63,F-749O,F-749O III,Industrial Fibers,Poor,4.15
+Tribute,X-VN63,F-749O,F-749O III,Supertensile Plastics,Poor,12.99
+Tribute,X-VN63,F-749O,F-749O IV,Lustering Alloy,Perfect,35.79
+Tribute,X-VN63,F-749O,F-749O IV,Fiber Composite,Medium,27.39
+Tribute,X-VN63,F-749O,F-749O IV,Glossy Compound,Rich,29.74
+Tribute,X-VN63,F-749O,F-749O IV,Reactive Gas,Medium,21.03
+Tribute,X-VN63,F-749O,F-749O IV,Polyaramids,Medium,16.91
+Tribute,X-VN63,F-749O,F-749O V,Lustering Alloy,Medium,26.18
+Tribute,X-VN63,F-749O,F-749O V,Sheen Compound,Perfect,35.31
+Tribute,X-VN63,F-749O,F-749O V,Fiber Composite,Medium,24.24
+Tribute,X-VN63,F-749O,F-749O V,Reactive Gas,Medium,26.44
+Tribute,X-VN63,F-749O,F-749O V,Base Metals,Poor,4.92
+Tribute,X-VN63,F-749O,F-749O VI,Fiber Composite,Medium,21.93
+Tribute,X-VN63,F-749O,F-749O VI,Glossy Compound,Medium,26.99
+Tribute,X-VN63,F-749O,F-749O VI,Reactive Gas,Medium,24.22
+Tribute,X-VN63,F-749O,F-749O VI,Reactive Metals,Medium,6.48
+Tribute,X-VN63,F-749O,F-749O VI,Ionic Solutions,Rich,13.48
+Tribute,X-VN63,F-749O,F-749O VII,Reactive Metals,Rich,8.94
+Tribute,X-VN63,F-749O,F-749O VII,Supertensile Plastics,Poor,12.50
+Tribute,X-VN63,F-749O,F-749O VII,Construction Blocks,Perfect,35.35
+Tribute,X-VN63,F-749O,F-749O VII,Oxygen Isotopes,Medium,4.11
+Tribute,X-VN63,F-749O,F-749O VIII,Fiber Composite,Rich,33.46
+Tribute,X-VN63,F-749O,F-749O VIII,Glossy Compound,Poor,20.57
+Tribute,X-VN63,F-749O,F-749O VIII,Reactive Gas,Rich,32.41
+Tribute,X-VN63,F-749O,F-749O VIII,Polyaramids,Medium,14.59
+Tribute,X-VN63,F-749O,F-749O VIII,Ionic Solutions,Medium,9.32
+Tribute,X-VN63,0-YMBJ,0-YMBJ I,Gleaming Alloy,Medium,24.11
+Tribute,X-VN63,0-YMBJ,0-YMBJ I,Motley Compound,Poor,17.72
+Tribute,X-VN63,0-YMBJ,0-YMBJ I,Noble Gas,Medium,24.38
+Tribute,X-VN63,0-YMBJ,0-YMBJ II,Gleaming Alloy,Perfect,35.45
+Tribute,X-VN63,0-YMBJ,0-YMBJ II,Noble Metals,Rich,32.36
+Tribute,X-VN63,0-YMBJ,0-YMBJ II,Polyaramids,Medium,15.58
+Tribute,X-VN63,0-YMBJ,0-YMBJ III,Opulent Compound,Perfect,36.25
+Tribute,X-VN63,0-YMBJ,0-YMBJ III,Reactive Gas,Rich,31.96
+Tribute,X-VN63,0-YMBJ,0-YMBJ III,Base Metals,Perfect,9.07
+Tribute,X-VN63,0-YMBJ,0-YMBJ III,Smartfab Units,Rich,21.97
+Tribute,X-VN63,0-YMBJ,0-YMBJ III,Liquid Ozone,Perfect,46.70
+Tribute,X-VN63,0-YMBJ,0-YMBJ IV,Opulent Compound,Perfect,33.60
+Tribute,X-VN63,0-YMBJ,0-YMBJ IV,Toxic Metals,Medium,5.82
+Tribute,X-VN63,0-YMBJ,0-YMBJ IV,Polyaramids,Perfect,24.77
+Tribute,X-VN63,0-YMBJ,0-YMBJ IV,Silicate Glass,Perfect,17.47
+Tribute,X-VN63,0-YMBJ,0-YMBJ IV,Liquid Ozone,Rich,41.13
+Tribute,X-VN63,0-YMBJ,0-YMBJ V,Fiber Composite,Medium,23.77
+Tribute,X-VN63,0-YMBJ,0-YMBJ V,Glossy Compound,Poor,19.66
+Tribute,X-VN63,0-YMBJ,0-YMBJ V,Reactive Gas,Medium,24.93
+Tribute,X-VN63,0-YMBJ,0-YMBJ V,Noble Gas,Medium,24.15
+Tribute,X-VN63,0-YMBJ,0-YMBJ V,Polyaramids,Medium,16.48
+Tribute,X-VN63,0-YMBJ,0-YMBJ VI,Lustering Alloy,Poor,18.02
+Tribute,X-VN63,0-YMBJ,0-YMBJ VI,Sheen Compound,Rich,32.78
+Tribute,X-VN63,0-YMBJ,0-YMBJ VI,Reactive Gas,Rich,27.03
+Tribute,X-VN63,0-YMBJ,0-YMBJ VI,Polyaramids,Poor,12.54
+Tribute,X-VN63,0-YMBJ,0-YMBJ VI,Coolant,Medium,17.43
+Tribute,X-VN63,0-YMBJ,0-YMBJ VII,Lustering Alloy,Medium,20.89
+Tribute,X-VN63,0-YMBJ,0-YMBJ VII,Sheen Compound,Medium,26.12
+Tribute,X-VN63,0-YMBJ,0-YMBJ VII,Reactive Gas,Medium,25.28
+Tribute,X-VN63,0-YMBJ,0-YMBJ VII,Base Metals,Medium,6.13
+Tribute,X-VN63,0-YMBJ,0-YMBJ VII,Coolant,Rich,17.75
+Tribute,X-VN63,0-YMBJ,0-YMBJ VIII,Fiber Composite,Rich,28.77
+Tribute,X-VN63,0-YMBJ,0-YMBJ VIII,Glossy Compound,Medium,21.55
+Tribute,X-VN63,0-YMBJ,0-YMBJ VIII,Reactive Gas,Perfect,34.65
+Tribute,X-VN63,0-YMBJ,0-YMBJ VIII,Reactive Metals,Medium,6.51
+Tribute,X-VN63,0-YMBJ,0-YMBJ VIII,Coolant,Perfect,22.51
+Tribute,X-VN63,0-YMBJ,0-YMBJ IX,Opulent Compound,Perfect,36.98
+Tribute,X-VN63,0-YMBJ,0-YMBJ IX,Crystal Compound,Rich,31.94
+Tribute,X-VN63,0-YMBJ,0-YMBJ IX,Polyaramids,Medium,17.15
+Tribute,X-VN63,0-YMBJ,0-YMBJ IX,Silicate Glass,Medium,10.62
+Tribute,X-VN63,0-YMBJ,0-YMBJ IX,Liquid Ozone,Medium,27.51
+Tribute,X-VN63,0-YMBJ,0-YMBJ X,Lustering Alloy,Rich,27.82
+Tribute,X-VN63,0-YMBJ,0-YMBJ X,Base Metals,Poor,5.06
+Tribute,X-VN63,0-YMBJ,0-YMBJ X,Industrial Fibers,Poor,4.78
+Tribute,X-VN63,0-YMBJ,0-YMBJ X,Condensates,Poor,11.65
+Tribute,X-VN63,UMI-KK,UMI-KK I,Gleaming Alloy,Rich,29.71
+Tribute,X-VN63,UMI-KK,UMI-KK I,Motley Compound,Poor,18.50
+Tribute,X-VN63,UMI-KK,UMI-KK I,Heavy Metals,Rich,26.80
+Tribute,X-VN63,UMI-KK,UMI-KK II,Lustering Alloy,Medium,24.97
+Tribute,X-VN63,UMI-KK,UMI-KK II,Industrial Fibers,Poor,5.03
+Tribute,X-VN63,UMI-KK,UMI-KK II,Supertensile Plastics,Poor,8.93
+Tribute,X-VN63,UMI-KK,UMI-KK II,Oxygen Isotopes,Poor,2.63
+Tribute,X-VN63,UMI-KK,UMI-KK III,Dark Compound,Poor,17.07
+Tribute,X-VN63,UMI-KK,UMI-KK III,Industrial Fibers,Poor,4.20
+Tribute,X-VN63,UMI-KK,UMI-KK III,Supertensile Plastics,Poor,12.80
+Tribute,X-VN63,UMI-KK,UMI-KK III,Construction Blocks,Medium,20.03
+Tribute,X-VN63,UMI-KK,UMI-KK IV,Gleaming Alloy,Poor,17.35
+Tribute,X-VN63,UMI-KK,UMI-KK IV,Motley Compound,Perfect,34.06
+Tribute,X-VN63,UMI-KK,UMI-KK IV,Noble Metals,Medium,20.20
+Tribute,X-VN63,UMI-KK,UMI-KK V,Precious Alloy,Poor,15.02
+Tribute,X-VN63,UMI-KK,UMI-KK V,Industrial Fibers,Medium,5.75
+Tribute,X-VN63,UMI-KK,UMI-KK V,Supertensile Plastics,Poor,11.87
+Tribute,X-VN63,UMI-KK,UMI-KK V,Construction Blocks,Poor,19.45
+Tribute,X-VN63,UMI-KK,UMI-KK VI,Lustering Alloy,Poor,19.19
+Tribute,X-VN63,UMI-KK,UMI-KK VI,Reactive Gas,Perfect,33.37
+Tribute,X-VN63,UMI-KK,UMI-KK VI,Base Metals,Rich,7.86
+Tribute,X-VN63,UMI-KK,UMI-KK VI,Polyaramids,Rich,19.74
+Tribute,X-VN63,UMI-KK,UMI-KK VI,Ionic Solutions,Medium,8.30
+Tribute,X-VN63,UMI-KK,UMI-KK VII,Sheen Compound,Medium,20.89
+Tribute,X-VN63,UMI-KK,UMI-KK VII,Glossy Compound,Medium,25.83
+Tribute,X-VN63,UMI-KK,UMI-KK VII,Reactive Gas,Medium,19.82
+Tribute,X-VN63,UMI-KK,UMI-KK VII,Base Metals,Rich,7.33
+Tribute,X-VN63,UMI-KK,UMI-KK VII,Ionic Solutions,Rich,12.99
+Tribute,X-VN63,UMI-KK,UMI-KK VIII,Sheen Compound,Rich,30.47
+Tribute,X-VN63,UMI-KK,UMI-KK VIII,Fiber Composite,Rich,28.64
+Tribute,X-VN63,UMI-KK,UMI-KK VIII,Reactive Gas,Poor,18.04
+Tribute,X-VN63,UMI-KK,UMI-KK VIII,Noble Gas,Perfect,34.34
+Tribute,X-VN63,UMI-KK,UMI-KK VIII,Coolant,Medium,17.49
+Tribute,X-VN63,UMI-KK,UMI-KK IX,Sheen Compound,Poor,18.48
+Tribute,X-VN63,UMI-KK,UMI-KK IX,Reactive Gas,Rich,29.86
+Tribute,X-VN63,UMI-KK,UMI-KK IX,Reactive Metals,Medium,6.68
+Tribute,X-VN63,UMI-KK,UMI-KK IX,Polyaramids,Perfect,22.34
+Tribute,X-VN63,UMI-KK,UMI-KK IX,Ionic Solutions,Medium,8.90
+Tribute,X-VN63,UMI-KK,UMI-KK X,Dark Compound,Poor,14.78
+Tribute,X-VN63,UMI-KK,UMI-KK X,Base Metals,Medium,5.86
+Tribute,X-VN63,UMI-KK,UMI-KK X,Toxic Metals,Poor,4.54
+Tribute,X-VN63,UMI-KK,UMI-KK X,Supertensile Plastics,Poor,9.13
+Tribute,X-VN63,UMI-KK,UMI-KK XI,Motley Compound,Poor,18.77
+Tribute,X-VN63,UMI-KK,UMI-KK XI,Heavy Metals,Medium,22.03
+Tribute,X-VN63,UMI-KK,UMI-KK XI,Coolant,Medium,13.41
+Tribute,X-VN63,UMI-KK,UMI-KK XI,Condensates,Poor,12.08
+Tribute,X-VN63,GKP-YT,GKP-YT I,Gleaming Alloy,Medium,27.81
+Tribute,X-VN63,GKP-YT,GKP-YT I,Noble Metals,Poor,19.05
+Tribute,X-VN63,GKP-YT,GKP-YT I,Construction Blocks,Perfect,35.75
+Tribute,X-VN63,GKP-YT,GKP-YT II,Base Metals,Poor,5.16
+Tribute,X-VN63,GKP-YT,GKP-YT II,Toxic Metals,Medium,6.95
+Tribute,X-VN63,GKP-YT,GKP-YT II,Supertensile Plastics,Medium,14.71
+Tribute,X-VN63,GKP-YT,GKP-YT II,Construction Blocks,Poor,15.49
+Tribute,X-VN63,GKP-YT,GKP-YT III,Gleaming Alloy,Medium,27.81
+Tribute,X-VN63,GKP-YT,GKP-YT III,Smartfab Units,Perfect,24.73
+Tribute,X-VN63,GKP-YT,GKP-YT III,Oxygen Isotopes,Medium,3.96
+Tribute,X-VN63,GKP-YT,GKP-YT IV,Reactive Gas,Rich,29.68
+Tribute,X-VN63,GKP-YT,GKP-YT IV,Reactive Metals,Medium,7.13
+Tribute,X-VN63,GKP-YT,GKP-YT IV,Supertensile Plastics,Rich,22.13
+Tribute,X-VN63,GKP-YT,GKP-YT IV,Oxygen Isotopes,Medium,3.18
+Tribute,X-VN63,GKP-YT,GKP-YT V,Lustering Alloy,Medium,24.66
+Tribute,X-VN63,GKP-YT,GKP-YT V,Fiber Composite,Rich,34.39
+Tribute,X-VN63,GKP-YT,GKP-YT V,Reactive Gas,Rich,31.26
+Tribute,X-VN63,GKP-YT,GKP-YT V,Reactive Metals,Rich,7.61
+Tribute,X-VN63,GKP-YT,GKP-YT V,Ionic Solutions,Medium,8.75
+Tribute,X-VN63,GKP-YT,GKP-YT VI,Lustering Alloy,Rich,32.19
+Tribute,X-VN63,GKP-YT,GKP-YT VI,Sheen Compound,Poor,19.36
+Tribute,X-VN63,GKP-YT,GKP-YT VI,Glossy Compound,Poor,18.33
+Tribute,X-VN63,GKP-YT,GKP-YT VI,Reactive Gas,Poor,20.50
+Tribute,X-VN63,GKP-YT,GKP-YT VI,Base Metals,Rich,8.06
+Tribute,X-VN63,GKP-YT,GKP-YT VII,Base Metals,Poor,4.36
+Tribute,X-VN63,GKP-YT,GKP-YT VII,Coolant,Medium,18.08
+Tribute,X-VN63,GKP-YT,GKP-YT VII,Condensates,Rich,20.64
+Tribute,X-VN63,GKP-YT,GKP-YT VII,Suspended Plasma,Medium,78.96
+Tribute,X-VN63,GKP-YT,GKP-YT VIII,Opulent Compound,Perfect,35.33
+Tribute,X-VN63,GKP-YT,GKP-YT VIII,Toxic Metals,Rich,7.99
+Tribute,X-VN63,GKP-YT,GKP-YT VIII,Coolant,Medium,15.71
+Tribute,X-VN63,GKP-YT,GKP-YT VIII,Silicate Glass,Medium,10.60
+Tribute,X-VN63,GKP-YT,GKP-YT VIII,Liquid Ozone,Rich,41.36
+Tribute,X-VN63,GKP-YT,GKP-YT IX,Gleaming Alloy,Rich,29.79
+Tribute,X-VN63,GKP-YT,GKP-YT IX,Motley Compound,Poor,19.51
+Tribute,X-VN63,GKP-YT,GKP-YT IX,Smartfab Units,Medium,16.68
+Tribute,X-VN63,AW1-2I,AW1-2I I,Base Metals,Medium,7.05
+Tribute,X-VN63,AW1-2I,AW1-2I I,Toxic Metals,Medium,6.98
+Tribute,X-VN63,AW1-2I,AW1-2I I,Supertensile Plastics,Poor,13.21
+Tribute,X-VN63,AW1-2I,AW1-2I I,Construction Blocks,Poor,19.47
+Tribute,X-VN63,AW1-2I,AW1-2I II,Dark Compound,Poor,15.75
+Tribute,X-VN63,AW1-2I,AW1-2I II,Supertensile Plastics,Medium,16.35
+Tribute,X-VN63,AW1-2I,AW1-2I II,Oxygen Isotopes,Poor,2.24
+Tribute,X-VN63,AW1-2I,AW1-2I II,Plasmoids,Medium,1.40
+Tribute,X-VN63,AW1-2I,AW1-2I III,Lustering Alloy,Rich,33.92
+Tribute,X-VN63,AW1-2I,AW1-2I III,Reactive Gas,Medium,24.11
+Tribute,X-VN63,AW1-2I,AW1-2I III,Noble Gas,Poor,18.50
+Tribute,X-VN63,AW1-2I,AW1-2I III,Base Metals,Rich,8.02
+Tribute,X-VN63,AW1-2I,AW1-2I III,Coolant,Rich,23.19
+Tribute,X-VN63,AW1-2I,AW1-2I IV,Sheen Compound,Medium,26.27
+Tribute,X-VN63,AW1-2I,AW1-2I IV,Glossy Compound,Medium,23.47
+Tribute,X-VN63,AW1-2I,AW1-2I IV,Reactive Gas,Rich,33.57
+Tribute,X-VN63,AW1-2I,AW1-2I IV,Noble Gas,Rich,34.21
+Tribute,X-VN63,AW1-2I,AW1-2I IV,Base Metals,Medium,7.18
+Tribute,X-VN63,AW1-2I,AW1-2I V,Base Metals,Poor,4.94
+Tribute,X-VN63,AW1-2I,AW1-2I V,Supertensile Plastics,Medium,18.52
+Tribute,X-VN63,AW1-2I,AW1-2I V,Condensates,Rich,20.62
+Tribute,X-VN63,AW1-2I,AW1-2I V,Suspended Plasma,Medium,88.94
+Tribute,X-VN63,AW1-2I,AW1-2I VI,Reactive Metals,Medium,6.90
+Tribute,X-VN63,AW1-2I,AW1-2I VI,Supertensile Plastics,Medium,16.56
+Tribute,X-VN63,AW1-2I,AW1-2I VI,Nanites,Rich,8.34
+Tribute,X-VN63,AW1-2I,AW1-2I VI,Oxygen Isotopes,Rich,5.03
+Tribute,LLAP-1,15W-GC,15W-GC I,Precious Alloy,Poor,18.81
+Tribute,LLAP-1,15W-GC,15W-GC I,Toxic Metals,Poor,5.50
+Tribute,LLAP-1,15W-GC,15W-GC I,Industrial Fibers,Medium,7.10
+Tribute,LLAP-1,15W-GC,15W-GC I,Supertensile Plastics,Poor,10.55
+Tribute,LLAP-1,15W-GC,15W-GC II,Dark Compound,Poor,19.83
+Tribute,LLAP-1,15W-GC,15W-GC II,Base Metals,Poor,4.50
+Tribute,LLAP-1,15W-GC,15W-GC II,Toxic Metals,Poor,5.25
+Tribute,LLAP-1,15W-GC,15W-GC II,Supertensile Plastics,Poor,12.94
+Tribute,LLAP-1,15W-GC,15W-GC III,Precious Alloy,Poor,18.81
+Tribute,LLAP-1,15W-GC,15W-GC III,Dark Compound,Medium,26.86
+Tribute,LLAP-1,15W-GC,15W-GC III,Supertensile Plastics,Poor,14.06
+Tribute,LLAP-1,15W-GC,15W-GC III,Construction Blocks,Medium,23.11
+Tribute,LLAP-1,15W-GC,15W-GC IV,Base Metals,Rich,8.50
+Tribute,LLAP-1,15W-GC,15W-GC IV,Noble Metals,Medium,26.96
+Tribute,LLAP-1,15W-GC,15W-GC IV,Smartfab Units,Perfect,28.57
+Tribute,LLAP-1,15W-GC,15W-GC IV,Heavy Water,Medium,262.66
+Tribute,LLAP-1,15W-GC,15W-GC IV,Liquid Ozone,Medium,34.41
+Tribute,LLAP-1,15W-GC,15W-GC V,Lustering Alloy,Poor,20.75
+Tribute,LLAP-1,15W-GC,15W-GC V,Sheen Compound,Rich,29.19
+Tribute,LLAP-1,15W-GC,15W-GC V,Reactive Gas,Medium,23.21
+Tribute,LLAP-1,15W-GC,15W-GC V,Reactive Metals,Rich,8.15
+Tribute,LLAP-1,15W-GC,15W-GC V,Polyaramids,Medium,18.94
+Tribute,LLAP-1,15W-GC,15W-GC VI,Lustering Alloy,Perfect,36.87
+Tribute,LLAP-1,15W-GC,15W-GC VI,Fiber Composite,Medium,26.75
+Tribute,LLAP-1,15W-GC,15W-GC VI,Reactive Gas,Rich,31.88
+Tribute,LLAP-1,15W-GC,15W-GC VI,Coolant,Rich,19.69
+Tribute,LLAP-1,15W-GC,15W-GC VI,Ionic Solutions,Perfect,14.84
+Tribute,LLAP-1,15W-GC,15W-GC VII,Sheen Compound,Poor,20.40
+Tribute,LLAP-1,15W-GC,15W-GC VII,Glossy Compound,Medium,26.54
+Tribute,LLAP-1,15W-GC,15W-GC VII,Reactive Gas,Rich,33.05
+Tribute,LLAP-1,15W-GC,15W-GC VII,Base Metals,Medium,6.54
+Tribute,LLAP-1,15W-GC,15W-GC VII,Ionic Solutions,Medium,9.49
+Tribute,LLAP-1,15W-GC,15W-GC VIII,Lustering Alloy,Medium,27.35
+Tribute,LLAP-1,15W-GC,15W-GC VIII,Sheen Compound,Medium,27.46
+Tribute,LLAP-1,15W-GC,15W-GC VIII,Fiber Composite,Rich,29.81
+Tribute,LLAP-1,15W-GC,15W-GC VIII,Reactive Gas,Rich,33.00
+Tribute,LLAP-1,15W-GC,15W-GC VIII,Polyaramids,Medium,17.39
+Tribute,LLAP-1,15W-GC,15W-GC IX,Base Metals,Medium,6.54
+Tribute,LLAP-1,15W-GC,15W-GC IX,Supertensile Plastics,Medium,16.45
+Tribute,LLAP-1,15W-GC,15W-GC IX,Coolant,Rich,21.44
+Tribute,LLAP-1,15W-GC,15W-GC IX,Condensates,Medium,17.28
+Tribute,LLAP-1,N-FK87,N-FK87 I,Gleaming Alloy,Medium,26.82
+Tribute,LLAP-1,N-FK87,N-FK87 I,Heavy Metals,Rich,30.76
+Tribute,LLAP-1,N-FK87,N-FK87 I,Construction Blocks,Poor,18.28
+Tribute,LLAP-1,N-FK87,N-FK87 II,Precious Alloy,Poor,17.95
+Tribute,LLAP-1,N-FK87,N-FK87 II,Dark Compound,Medium,21.43
+Tribute,LLAP-1,N-FK87,N-FK87 II,Supertensile Plastics,Poor,10.12
+Tribute,LLAP-1,N-FK87,N-FK87 II,Silicate Glass,Medium,12.54
+Tribute,LLAP-1,N-FK87,N-FK87 III,Condensed Alloy,Rich,31.66
+Tribute,LLAP-1,N-FK87,N-FK87 III,Opulent Compound,Perfect,39.84
+Tribute,LLAP-1,N-FK87,N-FK87 III,Reactive Gas,Rich,31.83
+Tribute,LLAP-1,N-FK87,N-FK87 III,Noble Metals,Medium,25.63
+Tribute,LLAP-1,N-FK87,N-FK87 III,Liquid Ozone,Perfect,48.98
+Tribute,LLAP-1,N-FK87,N-FK87 IV,Gleaming Alloy,Medium,27.28
+Tribute,LLAP-1,N-FK87,N-FK87 IV,Smartfab Units,Rich,21.68
+Tribute,LLAP-1,N-FK87,N-FK87 IV,Oxygen Isotopes,Medium,4.00
+Tribute,LLAP-1,N-FK87,N-FK87 V,Lucent Compound,Rich,29.61
+Tribute,LLAP-1,N-FK87,N-FK87 V,Reactive Metals,Rich,7.49
+Tribute,LLAP-1,N-FK87,N-FK87 V,Construction Blocks,Medium,26.36
+Tribute,LLAP-1,N-FK87,N-FK87 V,Suspended Plasma,Medium,77.38
+Tribute,LLAP-1,N-FK87,N-FK87 VI,Sheen Compound,Rich,33.95
+Tribute,LLAP-1,N-FK87,N-FK87 VI,Reactive Gas,Medium,24.64
+Tribute,LLAP-1,N-FK87,N-FK87 VI,Reactive Metals,Medium,5.88
+Tribute,LLAP-1,N-FK87,N-FK87 VI,Polyaramids,Perfect,23.92
+Tribute,LLAP-1,N-FK87,N-FK87 VI,Coolant,Medium,14.61
+Tribute,LLAP-1,N-FK87,N-FK87 VII,Sheen Compound,Poor,19.14
+Tribute,LLAP-1,N-FK87,N-FK87 VII,Reactive Gas,Medium,26.44
+Tribute,LLAP-1,N-FK87,N-FK87 VII,Reactive Metals,Rich,7.76
+Tribute,LLAP-1,N-FK87,N-FK87 VII,Coolant,Rich,21.52
+Tribute,LLAP-1,N-FK87,N-FK87 VII,Ionic Solutions,Rich,12.26
+Tribute,LLAP-1,N-FK87,N-FK87 VIII,Polyaramids,Rich,22.25
+Tribute,LLAP-1,N-FK87,N-FK87 VIII,Coolant,Rich,20.77
+Tribute,LLAP-1,N-FK87,N-FK87 VIII,Silicate Glass,Rich,16.60
+Tribute,LLAP-1,N-FK87,N-FK87 VIII,Liquid Ozone,Medium,30.33
+Tribute,LLAP-1,N-FK87,N-FK87 VIII,Ionic Solutions,Medium,10.34
+Tribute,LLAP-1,C2X-M5,C2X-M5 I,Base Metals,Medium,6.11
+Tribute,LLAP-1,C2X-M5,C2X-M5 I,Supertensile Plastics,Poor,11.01
+Tribute,LLAP-1,C2X-M5,C2X-M5 I,Silicate Glass,Medium,12.37
+Tribute,LLAP-1,C2X-M5,C2X-M5 I,Oxygen Isotopes,Poor,2.83
+Tribute,LLAP-1,C2X-M5,C2X-M5 II,Gleaming Alloy,Medium,24.70
+Tribute,LLAP-1,C2X-M5,C2X-M5 II,Smartfab Units,Rich,22.63
+Tribute,LLAP-1,C2X-M5,C2X-M5 II,Plasmoids,Medium,1.65
+Tribute,LLAP-1,C2X-M5,C2X-M5 III,Precious Alloy,Medium,25.07
+Tribute,LLAP-1,C2X-M5,C2X-M5 III,Supertensile Plastics,Poor,11.21
+Tribute,LLAP-1,C2X-M5,C2X-M5 III,Construction Blocks,Medium,24.52
+Tribute,LLAP-1,C2X-M5,C2X-M5 III,Plasmoids,Medium,1.62
+Tribute,LLAP-1,C2X-M5,C2X-M5 IV,Supertensile Plastics,Medium,16.53
+Tribute,LLAP-1,C2X-M5,C2X-M5 IV,Construction Blocks,Medium,27.71
+Tribute,LLAP-1,C2X-M5,C2X-M5 IV,Oxygen Isotopes,Poor,3.16
+Tribute,LLAP-1,C2X-M5,C2X-M5 IV,Plasmoids,Medium,1.57
+Tribute,LLAP-1,C2X-M5,C2X-M5 V,Condensed Alloy,Rich,31.95
+Tribute,LLAP-1,C2X-M5,C2X-M5 V,Fiber Composite,Perfect,38.16
+Tribute,LLAP-1,C2X-M5,C2X-M5 V,Opulent Compound,Rich,31.10
+Tribute,LLAP-1,C2X-M5,C2X-M5 V,Smartfab Units,Rich,20.75
+Tribute,LLAP-1,C2X-M5,C2X-M5 V,Liquid Ozone,Rich,43.01
+Tribute,LLAP-1,C2X-M5,C2X-M5 VI,Opulent Compound,Rich,35.21
+Tribute,LLAP-1,C2X-M5,C2X-M5 VI,Crystal Compound,Rich,32.43
+Tribute,LLAP-1,C2X-M5,C2X-M5 VI,Toxic Metals,Rich,8.69
+Tribute,LLAP-1,C2X-M5,C2X-M5 VI,Coolant,Medium,18.08
+Tribute,LLAP-1,C2X-M5,C2X-M5 VI,Liquid Ozone,Medium,30.36
+Tribute,LLAP-1,C2X-M5,C2X-M5 VII,Lustering Alloy,Rich,33.17
+Tribute,LLAP-1,C2X-M5,C2X-M5 VII,Sheen Compound,Rich,34.96
+Tribute,LLAP-1,C2X-M5,C2X-M5 VII,Glossy Compound,Medium,26.84
+Tribute,LLAP-1,C2X-M5,C2X-M5 VII,Reactive Gas,Medium,23.92
+Tribute,LLAP-1,C2X-M5,C2X-M5 VII,Reactive Metals,Medium,7.20
+Tribute,LLAP-1,C2X-M5,C2X-M5 VIII,Lustering Alloy,Medium,22.54
+Tribute,LLAP-1,C2X-M5,C2X-M5 VIII,Glossy Compound,Medium,27.32
+Tribute,LLAP-1,C2X-M5,C2X-M5 VIII,Reactive Gas,Perfect,38.16
+Tribute,LLAP-1,C2X-M5,C2X-M5 VIII,Polyaramids,Rich,23.58
+Tribute,LLAP-1,C2X-M5,C2X-M5 VIII,Ionic Solutions,Perfect,15.15
+Tribute,LLAP-1,C2X-M5,C2X-M5 IX,Motley Compound,Medium,25.23
+Tribute,LLAP-1,C2X-M5,C2X-M5 IX,Heavy Metals,Medium,28.98
+Tribute,LLAP-1,C2X-M5,C2X-M5 IX,Condensates,Medium,16.27
+Tribute,LLAP-1,C2X-M5,C2X-M5 IX,Suspended Plasma,Medium,82.72
+Tribute,LLAP-1,MSHD-4,MSHD-4 I,Precious Alloy,Poor,22.54
+Tribute,LLAP-1,MSHD-4,MSHD-4 I,Dark Compound,Poor,20.66
+Tribute,LLAP-1,MSHD-4,MSHD-4 I,Supertensile Plastics,Poor,13.04
+Tribute,LLAP-1,MSHD-4,MSHD-4 I,Plasmoids,Poor,1.30
+Tribute,LLAP-1,MSHD-4,MSHD-4 II,Gleaming Alloy,Rich,35.35
+Tribute,LLAP-1,MSHD-4,MSHD-4 II,Heavy Metals,Rich,35.28
+Tribute,LLAP-1,MSHD-4,MSHD-4 II,Smartfab Units,Medium,19.23
+Tribute,LLAP-1,MSHD-4,MSHD-4 III,Lustering Alloy,Poor,15.22
+Tribute,LLAP-1,MSHD-4,MSHD-4 III,Base Metals,Medium,7.16
+Tribute,LLAP-1,MSHD-4,MSHD-4 III,Supertensile Plastics,Poor,10.08
+Tribute,LLAP-1,MSHD-4,MSHD-4 III,Silicate Glass,Medium,13.26
+Tribute,LLAP-1,MSHD-4,MSHD-4 IV,Gleaming Alloy,Rich,36.79
+Tribute,LLAP-1,MSHD-4,MSHD-4 IV,Glossy Compound,Perfect,39.74
+Tribute,LLAP-1,MSHD-4,MSHD-4 IV,Oxygen Isotopes,Perfect,5.76
+Tribute,LLAP-1,MSHD-4,MSHD-4 V,Polyaramids,Medium,19.25
+Tribute,LLAP-1,MSHD-4,MSHD-4 V,Coolant,Rich,22.08
+Tribute,LLAP-1,MSHD-4,MSHD-4 V,Silicate Glass,Perfect,21.13
+Tribute,LLAP-1,MSHD-4,MSHD-4 V,Liquid Ozone,Rich,42.18
+Tribute,LLAP-1,MSHD-4,MSHD-4 V,Ionic Solutions,Rich,13.85
+Tribute,LLAP-1,MSHD-4,MSHD-4 VI,Reactive Gas,Rich,34.58
+Tribute,LLAP-1,MSHD-4,MSHD-4 VI,Noble Gas,Rich,36.05
+Tribute,LLAP-1,MSHD-4,MSHD-4 VI,Reactive Metals,Perfect,10.45
+Tribute,LLAP-1,MSHD-4,MSHD-4 VI,Coolant,Medium,17.66
+Tribute,LLAP-1,MSHD-4,MSHD-4 VI,Ionic Solutions,Medium,11.27
+Tribute,LLAP-1,MSHD-4,MSHD-4 VII,Reactive Metals,Rich,8.17
+Tribute,LLAP-1,MSHD-4,MSHD-4 VII,Construction Blocks,Medium,29.40
+Tribute,LLAP-1,MSHD-4,MSHD-4 VII,Nanites,Medium,6.56
+Tribute,LLAP-1,MSHD-4,MSHD-4 VII,Suspended Plasma,Poor,70.24
+Tribute,LLAP-1,MSHD-4,MSHD-4 VIII,Sheen Compound,Medium,28.80
+Tribute,LLAP-1,MSHD-4,MSHD-4 VIII,Reactive Gas,Poor,19.80
+Tribute,LLAP-1,MSHD-4,MSHD-4 VIII,Noble Gas,Medium,26.81
+Tribute,LLAP-1,MSHD-4,MSHD-4 VIII,Polyaramids,Perfect,26.35
+Tribute,LLAP-1,MSHD-4,MSHD-4 VIII,Coolant,Poor,14.96
+Tribute,LLAP-1,MSHD-4,MSHD-4 IX,Sheen Compound,Medium,23.11
+Tribute,LLAP-1,MSHD-4,MSHD-4 IX,Fiber Composite,Poor,19.90
+Tribute,LLAP-1,MSHD-4,MSHD-4 IX,Reactive Gas,Rich,32.30
+Tribute,LLAP-1,MSHD-4,MSHD-4 IX,Noble Gas,Rich,37.63
+Tribute,LLAP-1,MSHD-4,MSHD-4 IX,Polyaramids,Medium,19.79
+Tribute,LLAP-1,H-W9TY,H-W9TY I,Lustering Alloy,Poor,20.40
+Tribute,LLAP-1,H-W9TY,H-W9TY I,Dark Compound,Poor,18.29
+Tribute,LLAP-1,H-W9TY,H-W9TY I,Supertensile Plastics,Poor,14.70
+Tribute,LLAP-1,H-W9TY,H-W9TY I,Construction Blocks,Medium,28.58
+Tribute,LLAP-1,H-W9TY,H-W9TY II,Gleaming Alloy,Rich,35.30
+Tribute,LLAP-1,H-W9TY,H-W9TY II,Glossy Compound,Poor,20.64
+Tribute,LLAP-1,H-W9TY,H-W9TY II,Smartfab Units,Medium,17.38
+Tribute,LLAP-1,H-W9TY,H-W9TY III,Gleaming Alloy,Medium,25.18
+Tribute,LLAP-1,H-W9TY,H-W9TY III,Glossy Compound,Perfect,39.31
+Tribute,LLAP-1,H-W9TY,H-W9TY III,Noble Metals,Perfect,38.42
+Tribute,LLAP-1,H-W9TY,H-W9TY IV,Reactive Gas,Rich,34.42
+Tribute,LLAP-1,H-W9TY,H-W9TY IV,Reactive Metals,Rich,9.74
+Tribute,LLAP-1,H-W9TY,H-W9TY IV,Toxic Metals,Medium,7.09
+Tribute,LLAP-1,H-W9TY,H-W9TY IV,Construction Blocks,Rich,37.80
+Tribute,LLAP-1,H-W9TY,H-W9TY V,Dark Compound,Medium,26.52
+Tribute,LLAP-1,H-W9TY,H-W9TY V,Industrial Fibers,Poor,4.65
+Tribute,LLAP-1,H-W9TY,H-W9TY V,Supertensile Plastics,Poor,15.04
+Tribute,LLAP-1,H-W9TY,H-W9TY V,Oxygen Isotopes,Poor,2.83
+Tribute,LLAP-1,H-W9TY,H-W9TY VI,Opulent Compound,Perfect,41.98
+Tribute,LLAP-1,H-W9TY,H-W9TY VI,Base Metals,Perfect,10.41
+Tribute,LLAP-1,H-W9TY,H-W9TY VI,Industrial Fibers,Poor,5.88
+Tribute,LLAP-1,H-W9TY,H-W9TY VI,Smartfab Units,Perfect,26.78
+Tribute,LLAP-1,H-W9TY,H-W9TY VI,Liquid Ozone,Rich,41.40
+Tribute,LLAP-1,H-W9TY,H-W9TY VII,Condensed Alloy,Medium,25.39
+Tribute,LLAP-1,H-W9TY,H-W9TY VII,Industrial Fibers,Rich,9.94
+Tribute,LLAP-1,H-W9TY,H-W9TY VII,Condensates,Medium,15.95
+Tribute,LLAP-1,H-W9TY,H-W9TY VII,Smartfab Units,Perfect,27.42
+Tribute,LLAP-1,H-W9TY,H-W9TY VII,Liquid Ozone,Perfect,53.58
+Tribute,LLAP-1,H-W9TY,H-W9TY VIII,Condensed Alloy,Perfect,44.88
+Tribute,LLAP-1,H-W9TY,H-W9TY VIII,Industrial Fibers,Medium,7.10
+Tribute,LLAP-1,H-W9TY,H-W9TY VIII,Condensates,Perfect,26.51
+Tribute,LLAP-1,H-W9TY,H-W9TY VIII,Heavy Water,Rich,351.60
+Tribute,LLAP-1,H-W9TY,H-W9TY VIII,Liquid Ozone,Medium,31.59
+Tribute,LLAP-1,H-W9TY,H-W9TY IX,Sheen Compound,Medium,25.06
+Tribute,LLAP-1,H-W9TY,H-W9TY IX,Reactive Gas,Rich,34.06
+Tribute,LLAP-1,H-W9TY,H-W9TY IX,Noble Gas,Rich,36.14
+Tribute,LLAP-1,H-W9TY,H-W9TY IX,Polyaramids,Rich,22.59
+Tribute,LLAP-1,H-W9TY,H-W9TY IX,Ionic Solutions,Medium,9.23
+Tribute,LLAP-1,H-W9TY,H-W9TY X,Lustering Alloy,Medium,29.59
+Tribute,LLAP-1,H-W9TY,H-W9TY X,Sheen Compound,Medium,28.73
+Tribute,LLAP-1,H-W9TY,H-W9TY X,Glossy Compound,Rich,34.37
+Tribute,LLAP-1,H-W9TY,H-W9TY X,Reactive Gas,Rich,33.26
+Tribute,LLAP-1,H-W9TY,H-W9TY X,Polyaramids,Rich,25.25
+Tribute,LLAP-1,H-W9TY,H-W9TY XI,Sheen Compound,Medium,22.80
+Tribute,LLAP-1,H-W9TY,H-W9TY XI,Reactive Gas,Rich,35.06
+Tribute,LLAP-1,H-W9TY,H-W9TY XI,Base Metals,Rich,9.82
+Tribute,LLAP-1,H-W9TY,H-W9TY XI,Reactive Metals,Poor,5.22
+Tribute,LLAP-1,H-W9TY,H-W9TY XI,Ionic Solutions,Rich,14.81
+Tribute,LLAP-1,H-W9TY,H-W9TY XII,Fiber Composite,Medium,23.45
+Tribute,LLAP-1,H-W9TY,H-W9TY XII,Glossy Compound,Medium,28.73
+Tribute,LLAP-1,H-W9TY,H-W9TY XII,Reactive Gas,Rich,36.62
+Tribute,LLAP-1,H-W9TY,H-W9TY XII,Polyaramids,Rich,23.34
+Tribute,LLAP-1,H-W9TY,H-W9TY XII,Ionic Solutions,Rich,14.85
+Tribute,LLAP-1,H-W9TY,H-W9TY XIII,Precious Alloy,Medium,28.63
+Tribute,LLAP-1,H-W9TY,H-W9TY XIII,Motley Compound,Medium,27.17
+Tribute,LLAP-1,H-W9TY,H-W9TY XIII,Base Metals,Medium,6.32
+Tribute,LLAP-1,H-W9TY,H-W9TY XIII,Condensates,Poor,15.07
+Tribute,LLAP-1,PNDN-V,PNDN-V I,Lucent Compound,Rich,31.69
+Tribute,LLAP-1,PNDN-V,PNDN-V I,Crystal Compound,Poor,18.81
+Tribute,LLAP-1,PNDN-V,PNDN-V I,Reactive Metals,Medium,7.12
+Tribute,LLAP-1,PNDN-V,PNDN-V I,Suspended Plasma,Medium,80.98
+Tribute,LLAP-1,PNDN-V,PNDN-V II,Lustering Alloy,Rich,34.36
+Tribute,LLAP-1,PNDN-V,PNDN-V II,Reactive Gas,Medium,22.17
+Tribute,LLAP-1,PNDN-V,PNDN-V II,Base Metals,Medium,6.49
+Tribute,LLAP-1,PNDN-V,PNDN-V II,Coolant,Perfect,24.73
+Tribute,LLAP-1,PNDN-V,PNDN-V II,Ionic Solutions,Rich,13.89
+Tribute,LLAP-1,PNDN-V,PNDN-V III,Reactive Metals,Rich,8.64
+Tribute,LLAP-1,PNDN-V,PNDN-V III,Toxic Metals,Rich,8.13
+Tribute,LLAP-1,PNDN-V,PNDN-V III,Supertensile Plastics,Medium,15.39
+Tribute,LLAP-1,PNDN-V,PNDN-V III,Oxygen Isotopes,Perfect,5.56
+Tribute,LLAP-1,PNDN-V,PNDN-V IV,Condensed Alloy,Medium,24.36
+Tribute,LLAP-1,PNDN-V,PNDN-V IV,Coolant,Rich,21.27
+Tribute,LLAP-1,PNDN-V,PNDN-V IV,Heavy Water,Medium,240.35
+Tribute,LLAP-1,PNDN-V,PNDN-V IV,Liquid Ozone,Rich,40.91
+Tribute,LLAP-1,PNDN-V,PNDN-V IV,Ionic Solutions,Medium,10.45
+Tribute,LLAP-1,PNDN-V,PNDN-V V,Sheen Compound,Rich,29.55
+Tribute,LLAP-1,PNDN-V,PNDN-V V,Fiber Composite,Medium,21.85
+Tribute,LLAP-1,PNDN-V,PNDN-V V,Glossy Compound,Perfect,37.40
+Tribute,LLAP-1,PNDN-V,PNDN-V V,Reactive Gas,Medium,28.22
+Tribute,LLAP-1,PNDN-V,PNDN-V V,Reactive Metals,Perfect,9.79
+Tribute,LLAP-1,PNDN-V,PNDN-V VI,Glossy Compound,Rich,29.53
+Tribute,LLAP-1,PNDN-V,PNDN-V VI,Reactive Gas,Medium,25.74
+Tribute,LLAP-1,PNDN-V,PNDN-V VI,Noble Gas,Rich,32.29
+Tribute,LLAP-1,PNDN-V,PNDN-V VI,Base Metals,Medium,6.92
+Tribute,LLAP-1,PNDN-V,PNDN-V VI,Polyaramids,Rich,23.78
+Tribute,LLAP-1,PNDN-V,PNDN-V VII,Sheen Compound,Rich,34.82
+Tribute,LLAP-1,PNDN-V,PNDN-V VII,Glossy Compound,Poor,21.11
+Tribute,LLAP-1,PNDN-V,PNDN-V VII,Reactive Gas,Rich,35.03
+Tribute,LLAP-1,PNDN-V,PNDN-V VII,Noble Gas,Rich,33.21
+Tribute,LLAP-1,PNDN-V,PNDN-V VII,Polyaramids,Medium,18.84
+Tribute,LLAP-1,PNDN-V,PNDN-V VIII,Glossy Compound,Rich,30.66
+Tribute,LLAP-1,PNDN-V,PNDN-V VIII,Reactive Gas,Medium,22.52
+Tribute,LLAP-1,PNDN-V,PNDN-V VIII,Noble Gas,Medium,24.79
+Tribute,LLAP-1,PNDN-V,PNDN-V VIII,Base Metals,Medium,7.35
+Tribute,LLAP-1,PNDN-V,PNDN-V VIII,Ionic Solutions,Rich,12.89
+Tribute,LLAP-1,PNDN-V,PNDN-V IX,Gleaming Alloy,Rich,34.25
+Tribute,LLAP-1,PNDN-V,PNDN-V IX,Lucent Compound,Medium,28.57
+Tribute,LLAP-1,PNDN-V,PNDN-V IX,Reactive Metals,Rich,8.26
+Tribute,LLAP-1,PNDN-V,PNDN-V IX,Toxic Metals,Medium,6.45
+Tribute,52-JKU,D7-ZAC,D7-ZAC I,Precious Alloy,Poor,18.65
+Tribute,52-JKU,D7-ZAC,D7-ZAC I,Dark Compound,Medium,24.85
+Tribute,52-JKU,D7-ZAC,D7-ZAC I,Toxic Metals,Medium,7.26
+Tribute,52-JKU,D7-ZAC,D7-ZAC I,Construction Blocks,Poor,19.00
+Tribute,52-JKU,D7-ZAC,D7-ZAC I,Silicate Glass,Medium,15.35
+Tribute,52-JKU,D7-ZAC,D7-ZAC II,Gleaming Alloy,Poor,21.75
+Tribute,52-JKU,D7-ZAC,D7-ZAC II,Glossy Compound,Medium,23.70
+Tribute,52-JKU,D7-ZAC,D7-ZAC II,Noble Gas,Medium,31.15
+Tribute,52-JKU,D7-ZAC,D7-ZAC II,Oxygen Isotopes,Medium,3.74
+Tribute,52-JKU,D7-ZAC,D7-ZAC III,Motley Compound,Perfect,41.08
+Tribute,52-JKU,D7-ZAC,D7-ZAC III,Glossy Compound,Rich,35.17
+Tribute,52-JKU,D7-ZAC,D7-ZAC III,Noble Gas,Poor,22.55
+Tribute,52-JKU,D7-ZAC,D7-ZAC III,Oxygen Isotopes,Medium,4.50
+Tribute,52-JKU,D7-ZAC,D7-ZAC IV,Lustering Alloy,Poor,15.80
+Tribute,52-JKU,D7-ZAC,D7-ZAC IV,Precious Alloy,Poor,21.15
+Tribute,52-JKU,D7-ZAC,D7-ZAC IV,Dark Compound,Medium,26.65
+Tribute,52-JKU,D7-ZAC,D7-ZAC IV,Base Metals,Medium,6.93
+Tribute,52-JKU,D7-ZAC,D7-ZAC IV,Industrial Fibers,Medium,7.41
+Tribute,52-JKU,D7-ZAC,D7-ZAC V,Condensed Alloy,Perfect,42.00
+Tribute,52-JKU,D7-ZAC,D7-ZAC V,Opulent Compound,Perfect,47.60
+Tribute,52-JKU,D7-ZAC,D7-ZAC V,Noble Metals,Medium,29.07
+Tribute,52-JKU,D7-ZAC,D7-ZAC V,Industrial Fibers,Perfect,11.57
+Tribute,52-JKU,D7-ZAC,D7-ZAC V,Condensates,Medium,19.18
+Tribute,52-JKU,D7-ZAC,D7-ZAC V,Smartfab Units,Perfect,28.43
+Tribute,52-JKU,D7-ZAC,D7-ZAC VI,Condensed Alloy,Perfect,40.33
+Tribute,52-JKU,D7-ZAC,D7-ZAC VI,Fiber Composite,Medium,27.00
+Tribute,52-JKU,D7-ZAC,D7-ZAC VI,Opulent Compound,Rich,39.40
+Tribute,52-JKU,D7-ZAC,D7-ZAC VI,Base Metals,Medium,7.74
+Tribute,52-JKU,D7-ZAC,D7-ZAC VI,Noble Metals,Medium,23.90
+Tribute,52-JKU,D7-ZAC,D7-ZAC VI,Condensates,Perfect,27.30
+Tribute,52-JKU,D7-ZAC,D7-ZAC VII,Dark Compound,Medium,25.50
+Tribute,52-JKU,D7-ZAC,D7-ZAC VII,Base Metals,Poor,6.13
+Tribute,52-JKU,D7-ZAC,D7-ZAC VII,Construction Blocks,Medium,26.98
+Tribute,52-JKU,D7-ZAC,D7-ZAC VII,Oxygen Isotopes,Medium,4.46
+Tribute,52-JKU,D7-ZAC,D7-ZAC VII,Plasmoids,Poor,1.13
+Tribute,52-JKU,D7-ZAC,D7-ZAC VIII,Dark Compound,Medium,29.38
+Tribute,52-JKU,D7-ZAC,D7-ZAC VIII,Base Metals,Medium,6.65
+Tribute,52-JKU,D7-ZAC,D7-ZAC VIII,Toxic Metals,Poor,6.16
+Tribute,52-JKU,D7-ZAC,D7-ZAC VIII,Supertensile Plastics,Poor,12.05
+Tribute,52-JKU,D7-ZAC,D7-ZAC VIII,Construction Blocks,Poor,19.23
+Tribute,52-JKU,D7-ZAC,D7-ZAC IX,Condensed Alloy,Medium,26.52
+Tribute,52-JKU,D7-ZAC,D7-ZAC IX,Opulent Compound,Medium,26.63
+Tribute,52-JKU,D7-ZAC,D7-ZAC IX,Industrial Fibers,Medium,7.27
+Tribute,52-JKU,D7-ZAC,D7-ZAC IX,Condensates,Medium,19.28
+Tribute,52-JKU,D7-ZAC,D7-ZAC IX,Heavy Water,Rich,358.50
+Tribute,52-JKU,D7-ZAC,D7-ZAC IX,Liquid Ozone,Perfect,54.97
+Tribute,52-JKU,D7-ZAC,D7-ZAC X,Condensed Alloy,Medium,24.20
+Tribute,52-JKU,D7-ZAC,D7-ZAC X,Reactive Gas,Medium,28.85
+Tribute,52-JKU,D7-ZAC,D7-ZAC X,Industrial Fibers,Medium,6.39
+Tribute,52-JKU,D7-ZAC,D7-ZAC X,Condensates,Medium,17.37
+Tribute,52-JKU,D7-ZAC,D7-ZAC X,Heavy Water,Medium,237.50
+Tribute,52-JKU,D7-ZAC,D7-ZAC X,Liquid Ozone,Perfect,51.22
+Tribute,52-JKU,D7-ZAC,D7-ZAC XI,Sheen Compound,Rich,36.52
+Tribute,52-JKU,D7-ZAC,D7-ZAC XI,Reactive Gas,Rich,33.15
+Tribute,52-JKU,D7-ZAC,D7-ZAC XI,Base Metals,Medium,6.70
+Tribute,52-JKU,D7-ZAC,D7-ZAC XI,Reactive Metals,Medium,8.05
+Tribute,52-JKU,D7-ZAC,D7-ZAC XI,Polyaramids,Poor,15.15
+Tribute,52-JKU,D7-ZAC,D7-ZAC XI,Coolant,Medium,20.77
+Tribute,52-JKU,D7-ZAC,D7-ZAC XII,Condensed Alloy,Medium,25.40
+Tribute,52-JKU,D7-ZAC,D7-ZAC XII,Opulent Compound,Perfect,42.85
+Tribute,52-JKU,D7-ZAC,D7-ZAC XII,Industrial Fibers,Medium,6.22
+Tribute,52-JKU,D7-ZAC,D7-ZAC XII,Condensates,Rich,22.23
+Tribute,52-JKU,D7-ZAC,D7-ZAC XII,Heavy Water,Medium,253.00
+Tribute,52-JKU,D7-ZAC,D7-ZAC XII,Liquid Ozone,Medium,37.81
+Tribute,52-JKU,SH1-6P,SH1-6P I,Precious Alloy,Poor,22.48
+Tribute,52-JKU,SH1-6P,SH1-6P I,Dark Compound,Poor,19.05
+Tribute,52-JKU,SH1-6P,SH1-6P I,Toxic Metals,Medium,6.35
+Tribute,52-JKU,SH1-6P,SH1-6P I,Industrial Fibers,Medium,6.64
+Tribute,52-JKU,SH1-6P,SH1-6P I,Silicate Glass,Medium,13.43
+Tribute,52-JKU,SH1-6P,SH1-6P II,Glossy Compound,Poor,21.75
+Tribute,52-JKU,SH1-6P,SH1-6P II,Heavy Metals,Rich,34.27
+Tribute,52-JKU,SH1-6P,SH1-6P II,Polyaramids,Rich,23.50
+Tribute,52-JKU,SH1-6P,SH1-6P II,Plasmoids,Medium,1.82
+Tribute,52-JKU,SH1-6P,SH1-6P III,Lustering Alloy,Medium,30.95
+Tribute,52-JKU,SH1-6P,SH1-6P III,Glossy Compound,Medium,31.07
+Tribute,52-JKU,SH1-6P,SH1-6P III,Reactive Gas,Rich,34.88
+Tribute,52-JKU,SH1-6P,SH1-6P III,Reactive Metals,Perfect,10.65
+Tribute,52-JKU,SH1-6P,SH1-6P III,Coolant,Medium,19.83
+Tribute,52-JKU,SH1-6P,SH1-6P III,Ionic Solutions,Poor,8.83
+Tribute,52-JKU,SH1-6P,SH1-6P IV,Dark Compound,Medium,31.55
+Tribute,52-JKU,SH1-6P,SH1-6P IV,Noble Gas,Medium,24.23
+Tribute,52-JKU,SH1-6P,SH1-6P IV,Reactive Metals,Perfect,11.16
+Tribute,52-JKU,SH1-6P,SH1-6P IV,Suspended Plasma,Perfect,154.08
+Tribute,52-JKU,SH1-6P,SH1-6P IV,Ionic Solutions,Medium,10.60
+Tribute,52-JKU,SH1-6P,SH1-6P IV,Plasmoids,Medium,1.85
+Tribute,52-JKU,SH1-6P,SH1-6P V,Condensed Alloy,Rich,37.80
+Tribute,52-JKU,SH1-6P,SH1-6P V,Reactive Gas,Perfect,45.50
+Tribute,52-JKU,SH1-6P,SH1-6P V,Base Metals,Medium,7.09
+Tribute,52-JKU,SH1-6P,SH1-6P V,Noble Metals,Perfect,45.52
+Tribute,52-JKU,SH1-6P,SH1-6P V,Condensates,Perfect,28.18
+Tribute,52-JKU,SH1-6P,SH1-6P V,Heavy Water,Perfect,413.25
+Tribute,52-JKU,SH1-6P,SH1-6P VI,Lustering Alloy,Medium,24.48
+Tribute,52-JKU,SH1-6P,SH1-6P VI,Sheen Compound,Rich,34.35
+Tribute,52-JKU,SH1-6P,SH1-6P VI,Fiber Composite,Perfect,39.73
+Tribute,52-JKU,SH1-6P,SH1-6P VI,Glossy Compound,Medium,24.85
+Tribute,52-JKU,SH1-6P,SH1-6P VI,Noble Gas,Rich,38.42
+Tribute,52-JKU,SH1-6P,SH1-6P VI,Base Metals,Medium,7.01
+Tribute,52-JKU,SH1-6P,SH1-6P VII,Fiber Composite,Rich,39.38
+Tribute,52-JKU,SH1-6P,SH1-6P VII,Noble Gas,Poor,22.70
+Tribute,52-JKU,SH1-6P,SH1-6P VII,Base Metals,Rich,8.64
+Tribute,52-JKU,SH1-6P,SH1-6P VII,Reactive Metals,Rich,9.58
+Tribute,52-JKU,SH1-6P,SH1-6P VII,Polyaramids,Medium,20.40
+Tribute,52-JKU,SH1-6P,SH1-6P VII,Coolant,Medium,17.97
+Tribute,52-JKU,TRKN-L,TRKN-L I,Lustering Alloy,Poor,20.72
+Tribute,52-JKU,TRKN-L,TRKN-L I,Precious Alloy,Poor,16.93
+Tribute,52-JKU,TRKN-L,TRKN-L I,Dark Compound,Poor,18.12
+Tribute,52-JKU,TRKN-L,TRKN-L I,Base Metals,Poor,4.63
+Tribute,52-JKU,TRKN-L,TRKN-L I,Industrial Fibers,Medium,7.27
+Tribute,52-JKU,TRKN-L,TRKN-L II,Gleaming Alloy,Medium,30.73
+Tribute,52-JKU,TRKN-L,TRKN-L II,Glossy Compound,Medium,32.81
+Tribute,52-JKU,TRKN-L,TRKN-L II,Smartfab Units,Perfect,28.24
+Tribute,52-JKU,TRKN-L,TRKN-L II,Oxygen Isotopes,Medium,3.80
+Tribute,52-JKU,TRKN-L,TRKN-L III,Lustering Alloy,Medium,29.72
+Tribute,52-JKU,TRKN-L,TRKN-L III,Dark Compound,Medium,27.35
+Tribute,52-JKU,TRKN-L,TRKN-L III,Base Metals,Medium,7.53
+Tribute,52-JKU,TRKN-L,TRKN-L III,Construction Blocks,Poor,18.15
+Tribute,52-JKU,TRKN-L,TRKN-L III,Silicate Glass,Medium,13.43
+Tribute,52-JKU,TRKN-L,TRKN-L IV,Lustering Alloy,Medium,29.43
+Tribute,52-JKU,TRKN-L,TRKN-L IV,Fiber Composite,Medium,27.85
+Tribute,52-JKU,TRKN-L,TRKN-L IV,Base Metals,Medium,7.39
+Tribute,52-JKU,TRKN-L,TRKN-L IV,Reactive Metals,Rich,10.16
+Tribute,52-JKU,TRKN-L,TRKN-L IV,Coolant,Rich,26.66
+Tribute,52-JKU,TRKN-L,TRKN-L IV,Ionic Solutions,Medium,10.22
+Tribute,52-JKU,TRKN-L,TRKN-L V,Fiber Composite,Rich,36.69
+Tribute,52-JKU,TRKN-L,TRKN-L V,Glossy Compound,Rich,40.38
+Tribute,52-JKU,TRKN-L,TRKN-L V,Reactive Gas,Medium,26.78
+Tribute,52-JKU,TRKN-L,TRKN-L V,Polyaramids,Medium,21.60
+Tribute,52-JKU,TRKN-L,TRKN-L V,Coolant,Perfect,27.66
+Tribute,52-JKU,TRKN-L,TRKN-L V,Ionic Solutions,Rich,13.67
+Tribute,52-JKU,TRKN-L,TRKN-L VI,Lustering Alloy,Medium,24.65
+Tribute,52-JKU,TRKN-L,TRKN-L VI,Fiber Composite,Rich,41.16
+Tribute,52-JKU,TRKN-L,TRKN-L VI,Reactive Metals,Perfect,11.15
+Tribute,52-JKU,TRKN-L,TRKN-L VI,Polyaramids,Perfect,27.94
+Tribute,52-JKU,TRKN-L,TRKN-L VI,Coolant,Perfect,28.05
+Tribute,52-JKU,TRKN-L,TRKN-L VI,Ionic Solutions,Perfect,17.24
+Tribute,52-JKU,TRKN-L,TRKN-L VII,Dark Compound,Medium,25.40
+Tribute,52-JKU,TRKN-L,TRKN-L VII,Base Metals,Poor,5.05
+Tribute,52-JKU,TRKN-L,TRKN-L VII,Toxic Metals,Poor,5.56
+Tribute,52-JKU,TRKN-L,TRKN-L VII,Industrial Fibers,Medium,8.01
+Tribute,52-JKU,TRKN-L,TRKN-L VII,Silicate Glass,Medium,13.94
+Tribute,52-JKU,TRKN-L,TRKN-L VIII,Precious Alloy,Medium,32.45
+Tribute,52-JKU,TRKN-L,TRKN-L VIII,Base Metals,Poor,5.23
+Tribute,52-JKU,TRKN-L,TRKN-L VIII,Heavy Metals,Poor,21.53
+Tribute,52-JKU,TRKN-L,TRKN-L VIII,Industrial Fibers,Medium,6.46
+Tribute,52-JKU,TRKN-L,TRKN-L VIII,Liquid Ozone,Rich,47.03
+Tribute,52-JKU,TRKN-L,TRKN-L IX,Precious Alloy,Medium,26.39
+Tribute,52-JKU,TRKN-L,TRKN-L IX,Dark Compound,Poor,18.12
+Tribute,52-JKU,TRKN-L,TRKN-L IX,Base Metals,Poor,4.99
+Tribute,52-JKU,TRKN-L,TRKN-L IX,Construction Blocks,Poor,19.71
+Tribute,52-JKU,TRKN-L,TRKN-L IX,Oxygen Isotopes,Medium,4.11
+Tribute,52-JKU,O-0ERG,O-0ERG I,Gleaming Alloy,Medium,32.83
+Tribute,52-JKU,O-0ERG,O-0ERG I,Glossy Compound,Rich,35.69
+Tribute,52-JKU,O-0ERG,O-0ERG I,Noble Metals,Rich,38.66
+Tribute,52-JKU,O-0ERG,O-0ERG I,Oxygen Isotopes,Rich,6.33
+Tribute,52-JKU,O-0ERG,O-0ERG II,Lustering Alloy,Poor,22.14
+Tribute,52-JKU,O-0ERG,O-0ERG II,Precious Alloy,Medium,32.00
+Tribute,52-JKU,O-0ERG,O-0ERG II,Dark Compound,Poor,17.31
+Tribute,52-JKU,O-0ERG,O-0ERG II,Construction Blocks,Poor,22.00
+Tribute,52-JKU,O-0ERG,O-0ERG II,Plasmoids,Medium,1.63
+Tribute,52-JKU,O-0ERG,O-0ERG III,Precious Alloy,Poor,22.95
+Tribute,52-JKU,O-0ERG,O-0ERG III,Dark Compound,Medium,25.95
+Tribute,52-JKU,O-0ERG,O-0ERG III,Toxic Metals,Medium,7.79
+Tribute,52-JKU,O-0ERG,O-0ERG III,Oxygen Isotopes,Medium,4.52
+Tribute,52-JKU,O-0ERG,O-0ERG III,Plasmoids,Poor,1.06
+Tribute,52-JKU,O-0ERG,O-0ERG IV,Condensed Alloy,Perfect,44.01
+Tribute,52-JKU,O-0ERG,O-0ERG IV,Fiber Composite,Medium,30.51
+Tribute,52-JKU,O-0ERG,O-0ERG IV,Reactive Gas,Perfect,47.38
+Tribute,52-JKU,O-0ERG,O-0ERG IV,Industrial Fibers,Perfect,12.25
+Tribute,52-JKU,O-0ERG,O-0ERG IV,Condensates,Medium,17.75
+Tribute,52-JKU,O-0ERG,O-0ERG IV,Liquid Ozone,Rich,53.19
+Tribute,52-JKU,O-0ERG,O-0ERG V,Precious Alloy,Poor,18.74
+Tribute,52-JKU,O-0ERG,O-0ERG V,Dark Compound,Poor,17.96
+Tribute,52-JKU,O-0ERG,O-0ERG V,Industrial Fibers,Poor,6.53
+Tribute,52-JKU,O-0ERG,O-0ERG V,Oxygen Isotopes,Medium,4.82
+Tribute,52-JKU,O-0ERG,O-0ERG V,Plasmoids,Poor,1.06
+Tribute,52-JKU,O-0ERG,O-0ERG VI,Lustering Alloy,Rich,41.61
+Tribute,52-JKU,O-0ERG,O-0ERG VI,Sheen Compound,Poor,22.76
+Tribute,52-JKU,O-0ERG,O-0ERG VI,Glossy Compound,Rich,41.72
+Tribute,52-JKU,O-0ERG,O-0ERG VI,Noble Gas,Medium,26.97
+Tribute,52-JKU,O-0ERG,O-0ERG VI,Base Metals,Rich,9.66
+Tribute,52-JKU,O-0ERG,O-0ERG VI,Coolant,Poor,15.48
+Tribute,52-JKU,O-0ERG,O-0ERG VII,Lustering Alloy,Rich,35.72
+Tribute,52-JKU,O-0ERG,O-0ERG VII,Reactive Gas,Poor,25.22
+Tribute,52-JKU,O-0ERG,O-0ERG VII,Base Metals,Poor,6.05
+Tribute,52-JKU,O-0ERG,O-0ERG VII,Reactive Metals,Rich,9.54
+Tribute,52-JKU,O-0ERG,O-0ERG VII,Polyaramids,Rich,27.54
+Tribute,52-JKU,O-0ERG,O-0ERG VII,Ionic Solutions,Perfect,17.22
+Tribute,52-JKU,O-0ERG,O-0ERG VIII,Lustering Alloy,Rich,38.88
+Tribute,52-JKU,O-0ERG,O-0ERG VIII,Sheen Compound,Medium,28.46
+Tribute,52-JKU,O-0ERG,O-0ERG VIII,Fiber Composite,Poor,22.38
+Tribute,52-JKU,O-0ERG,O-0ERG VIII,Reactive Gas,Medium,32.24
+Tribute,52-JKU,O-0ERG,O-0ERG VIII,Polyaramids,Poor,14.92
+Tribute,52-JKU,O-0ERG,O-0ERG VIII,Coolant,Medium,21.47
+Tribute,52-JKU,O-0ERG,O-0ERG IX,Lustering Alloy,Poor,19.95
+Tribute,52-JKU,O-0ERG,O-0ERG IX,Dark Compound,Medium,28.11
+Tribute,52-JKU,O-0ERG,O-0ERG IX,Industrial Fibers,Medium,8.70
+Tribute,52-JKU,O-0ERG,O-0ERG IX,Oxygen Isotopes,Poor,2.70
+Tribute,52-JKU,O-0ERG,O-0ERG IX,Plasmoids,Medium,1.80
+Tribute,52-JKU,O-0ERG,O-0ERG X,Precious Alloy,Medium,30.05
+Tribute,52-JKU,O-0ERG,O-0ERG X,Dark Compound,Poor,24.95
+Tribute,52-JKU,O-0ERG,O-0ERG X,Industrial Fibers,Poor,4.62
+Tribute,52-JKU,O-0ERG,O-0ERG X,Supertensile Plastics,Medium,18.18
+Tribute,52-JKU,O-0ERG,O-0ERG X,Construction Blocks,Medium,25.54
+Tribute,52-JKU,WH-JCA,WH-JCA I,Glossy Compound,Poor,23.14
+Tribute,52-JKU,WH-JCA,WH-JCA I,Heavy Metals,Medium,29.54
+Tribute,52-JKU,WH-JCA,WH-JCA I,Construction Blocks,Rich,37.45
+Tribute,52-JKU,WH-JCA,WH-JCA I,Plasmoids,Rich,2.20
+Tribute,52-JKU,WH-JCA,WH-JCA II,Gleaming Alloy,Rich,42.15
+Tribute,52-JKU,WH-JCA,WH-JCA II,Lucent Compound,Rich,38.85
+Tribute,52-JKU,WH-JCA,WH-JCA II,Crystal Compound,Rich,41.82
+Tribute,52-JKU,WH-JCA,WH-JCA II,Supertensile Plastics,Rich,24.86
+Tribute,52-JKU,WH-JCA,WH-JCA II,Nanites,Medium,8.14
+Tribute,52-JKU,WH-JCA,WH-JCA III,Condensed Alloy,Perfect,44.79
+Tribute,52-JKU,WH-JCA,WH-JCA III,Reactive Gas,Perfect,45.14
+Tribute,52-JKU,WH-JCA,WH-JCA III,Base Metals,Perfect,12.23
+Tribute,52-JKU,WH-JCA,WH-JCA III,Industrial Fibers,Medium,6.72
+Tribute,52-JKU,WH-JCA,WH-JCA III,Condensates,Medium,19.19
+Tribute,52-JKU,WH-JCA,WH-JCA III,Smartfab Units,Rich,25.40
+Tribute,52-JKU,WH-JCA,WH-JCA IV,Lustering Alloy,Medium,33.37
+Tribute,52-JKU,WH-JCA,WH-JCA IV,Sheen Compound,Medium,30.40
+Tribute,52-JKU,WH-JCA,WH-JCA IV,Fiber Composite,Medium,33.29
+Tribute,52-JKU,WH-JCA,WH-JCA IV,Base Metals,Rich,9.25
+Tribute,52-JKU,WH-JCA,WH-JCA IV,Polyaramids,Medium,18.94
+Tribute,52-JKU,WH-JCA,WH-JCA IV,Ionic Solutions,Rich,15.60
+Tribute,52-JKU,WH-JCA,WH-JCA V,Sheen Compound,Poor,23.00
+Tribute,52-JKU,WH-JCA,WH-JCA V,Fiber Composite,Poor,25.14
+Tribute,52-JKU,WH-JCA,WH-JCA V,Glossy Compound,Perfect,43.96
+Tribute,52-JKU,WH-JCA,WH-JCA V,Reactive Gas,Medium,30.48
+Tribute,52-JKU,WH-JCA,WH-JCA V,Polyaramids,Poor,16.74
+Tribute,52-JKU,WH-JCA,WH-JCA V,Coolant,Medium,21.76
+Tribute,52-JKU,WH-JCA,WH-JCA VI,Lustering Alloy,Medium,28.00
+Tribute,52-JKU,WH-JCA,WH-JCA VI,Sheen Compound,Medium,26.24
+Tribute,52-JKU,WH-JCA,WH-JCA VI,Noble Gas,Poor,24.81
+Tribute,52-JKU,WH-JCA,WH-JCA VI,Base Metals,Medium,7.01
+Tribute,52-JKU,WH-JCA,WH-JCA VI,Reactive Metals,Rich,10.78
+Tribute,52-JKU,WH-JCA,WH-JCA VI,Ionic Solutions,Medium,10.45
+Tribute,52-JKU,WH-JCA,WH-JCA VII,Precious Alloy,Medium,31.48
+Tribute,52-JKU,WH-JCA,WH-JCA VII,Dark Compound,Medium,27.16
+Tribute,52-JKU,WH-JCA,WH-JCA VII,Toxic Metals,Medium,7.45
+Tribute,52-JKU,WH-JCA,WH-JCA VII,Supertensile Plastics,Poor,16.29
+Tribute,52-JKU,WH-JCA,WH-JCA VII,Silicate Glass,Poor,8.64
+Tribute,52-JKU,WH-JCA,WH-JCA VIII,Lustering Alloy,Rich,40.12
+Tribute,52-JKU,WH-JCA,WH-JCA VIII,Precious Alloy,Medium,32.32
+Tribute,52-JKU,WH-JCA,WH-JCA VIII,Industrial Fibers,Rich,9.95
+Tribute,52-JKU,WH-JCA,WH-JCA VIII,Suspended Plasma,Rich,130.15
+Tribute,52-JKU,WH-JCA,WH-JCA VIII,Liquid Ozone,Poor,28.22
+Tribute,52-JKU,Q-CAB2,Q-CAB2 I,Lustering Alloy,Poor,19.17
+Tribute,52-JKU,Q-CAB2,Q-CAB2 I,Precious Alloy,Poor,23.22
+Tribute,52-JKU,Q-CAB2,Q-CAB2 I,Dark Compound,Poor,23.41
+Tribute,52-JKU,Q-CAB2,Q-CAB2 I,Construction Blocks,Poor,24.35
+Tribute,52-JKU,Q-CAB2,Q-CAB2 I,Plasmoids,Poor,1.38
+Tribute,52-JKU,Q-CAB2,Q-CAB2 II,Crystal Compound,Medium,30.70
+Tribute,52-JKU,Q-CAB2,Q-CAB2 II,Reactive Metals,Medium,7.63
+Tribute,52-JKU,Q-CAB2,Q-CAB2 II,Construction Blocks,Rich,40.99
+Tribute,52-JKU,Q-CAB2,Q-CAB2 II,Suspended Plasma,Rich,140.26
+Tribute,52-JKU,Q-CAB2,Q-CAB2 II,Oxygen Isotopes,Medium,4.23
+Tribute,52-JKU,Q-CAB2,Q-CAB2 III,Lustering Alloy,Medium,33.05
+Tribute,52-JKU,Q-CAB2,Q-CAB2 III,Sheen Compound,Rich,34.37
+Tribute,52-JKU,Q-CAB2,Q-CAB2 III,Fiber Composite,Poor,22.63
+Tribute,52-JKU,Q-CAB2,Q-CAB2 III,Reactive Gas,Medium,31.70
+Tribute,52-JKU,Q-CAB2,Q-CAB2 III,Noble Gas,Medium,31.91
+Tribute,52-JKU,Q-CAB2,Q-CAB2 III,Coolant,Poor,16.00
+Tribute,52-JKU,Q-CAB2,Q-CAB2 IV,Condensed Alloy,Perfect,47.55
+Tribute,52-JKU,Q-CAB2,Q-CAB2 IV,Opulent Compound,Poor,25.41
+Tribute,52-JKU,Q-CAB2,Q-CAB2 IV,Toxic Metals,Medium,7.01
+Tribute,52-JKU,Q-CAB2,Q-CAB2 IV,Polyaramids,Medium,19.57
+Tribute,52-JKU,Q-CAB2,Q-CAB2 IV,Silicate Glass,Poor,12.72
+Tribute,52-JKU,Q-CAB2,Q-CAB2 IV,Liquid Ozone,Rich,47.79
+Tribute,52-JKU,Q-CAB2,Q-CAB2 V,Sheen Compound,Medium,32.21
+Tribute,52-JKU,Q-CAB2,Q-CAB2 V,Fiber Composite,Rich,42.71
+Tribute,52-JKU,Q-CAB2,Q-CAB2 V,Glossy Compound,Medium,33.88
+Tribute,52-JKU,Q-CAB2,Q-CAB2 V,Base Metals,Rich,9.02
+Tribute,52-JKU,Q-CAB2,Q-CAB2 V,Polyaramids,Poor,16.54
+Tribute,52-JKU,Q-CAB2,Q-CAB2 V,Coolant,Rich,28.12
+Tribute,52-JKU,Q-CAB2,Q-CAB2 VI,Lustering Alloy,Medium,25.81
+Tribute,52-JKU,Q-CAB2,Q-CAB2 VI,Fiber Composite,Medium,28.97
+Tribute,52-JKU,Q-CAB2,Q-CAB2 VI,Glossy Compound,Medium,29.89
+Tribute,52-JKU,Q-CAB2,Q-CAB2 VI,Noble Gas,Rich,41.07
+Tribute,52-JKU,Q-CAB2,Q-CAB2 VI,Base Metals,Medium,7.98
+Tribute,52-JKU,Q-CAB2,Q-CAB2 VI,Coolant,Rich,25.33
+Tribute,52-JKU,Q-CAB2,Q-CAB2 VII,Precious Alloy,Poor,23.00
+Tribute,52-JKU,Q-CAB2,Q-CAB2 VII,Base Metals,Medium,7.06
+Tribute,52-JKU,Q-CAB2,Q-CAB2 VII,Supertensile Plastics,Poor,16.47
+Tribute,52-JKU,Q-CAB2,Q-CAB2 VII,Coolant,Rich,26.12
+Tribute,52-JKU,Q-CAB2,Q-CAB2 VII,Condensates,Rich,26.37
+Tribute,52-JKU,Q-CAB2,Q-CAB2 VIII,Dark Compound,Poor,23.57
+Tribute,52-JKU,Q-CAB2,Q-CAB2 VIII,Toxic Metals,Poor,4.81
+Tribute,52-JKU,Q-CAB2,Q-CAB2 VIII,Supertensile Plastics,Medium,18.56
+Tribute,52-JKU,Q-CAB2,Q-CAB2 VIII,Construction Blocks,Medium,29.43
+Tribute,52-JKU,Q-CAB2,Q-CAB2 VIII,Plasmoids,Medium,1.67
+Tribute,52-JKU,Q-CAB2,Q-CAB2 IX,Lustering Alloy,Medium,28.13
+Tribute,52-JKU,Q-CAB2,Q-CAB2 IX,Dark Compound,Medium,30.75
+Tribute,52-JKU,Q-CAB2,Q-CAB2 IX,Industrial Fibers,Medium,7.52
+Tribute,52-JKU,Q-CAB2,Q-CAB2 IX,Construction Blocks,Medium,30.32
+Tribute,52-JKU,Q-CAB2,Q-CAB2 IX,Oxygen Isotopes,Medium,4.37
+Tribute,E3-NLE,PBD-0G,PBD-0G I,Gleaming Alloy,Rich,30.89
+Tribute,E3-NLE,PBD-0G,PBD-0G I,Polyaramids,Medium,16.85
+Tribute,E3-NLE,PBD-0G,PBD-0G I,Oxygen Isotopes,Medium,3.49
+Tribute,E3-NLE,PBD-0G,PBD-0G II,Sheen Compound,Medium,22.02
+Tribute,E3-NLE,PBD-0G,PBD-0G II,Lucent Compound,Medium,21.43
+Tribute,E3-NLE,PBD-0G,PBD-0G II,Reactive Metals,Medium,6.51
+Tribute,E3-NLE,PBD-0G,PBD-0G II,Condensates,Rich,21.81
+Tribute,E3-NLE,PBD-0G,PBD-0G II,Suspended Plasma,Rich,101.06
+Tribute,E3-NLE,PBD-0G,PBD-0G III,Lucent Compound,Rich,30.40
+Tribute,E3-NLE,PBD-0G,PBD-0G III,Noble Gas,Medium,22.95
+Tribute,E3-NLE,PBD-0G,PBD-0G III,Condensates,Perfect,23.64
+Tribute,E3-NLE,PBD-0G,PBD-0G III,Ionic Solutions,Rich,13.05
+Tribute,E3-NLE,PBD-0G,PBD-0G III,Plasmoids,Rich,1.80
+Tribute,E3-NLE,PBD-0G,PBD-0G IV,Gleaming Alloy,Rich,28.58
+Tribute,E3-NLE,PBD-0G,PBD-0G IV,Motley Compound,Medium,23.80
+Tribute,E3-NLE,PBD-0G,PBD-0G IV,Plasmoids,Medium,1.46
+Tribute,E3-NLE,PBD-0G,PBD-0G V,Sheen Compound,Perfect,35.38
+Tribute,E3-NLE,PBD-0G,PBD-0G V,Glossy Compound,Poor,19.80
+Tribute,E3-NLE,PBD-0G,PBD-0G V,Reactive Gas,Medium,21.27
+Tribute,E3-NLE,PBD-0G,PBD-0G V,Base Metals,Rich,8.34
+Tribute,E3-NLE,PBD-0G,PBD-0G V,Reactive Metals,Medium,6.66
+Tribute,E3-NLE,PBD-0G,PBD-0G VI,Sheen Compound,Rich,31.88
+Tribute,E3-NLE,PBD-0G,PBD-0G VI,Reactive Gas,Rich,32.45
+Tribute,E3-NLE,PBD-0G,PBD-0G VI,Base Metals,Rich,8.41
+Tribute,E3-NLE,PBD-0G,PBD-0G VI,Polyaramids,Rich,18.71
+Tribute,E3-NLE,PBD-0G,PBD-0G VI,Ionic Solutions,Rich,12.85
+Tribute,E3-NLE,PBD-0G,PBD-0G VII,Lustering Alloy,Medium,25.30
+Tribute,E3-NLE,PBD-0G,PBD-0G VII,Reactive Gas,Rich,32.45
+Tribute,E3-NLE,PBD-0G,PBD-0G VII,Base Metals,Rich,8.30
+Tribute,E3-NLE,PBD-0G,PBD-0G VII,Polyaramids,Rich,19.42
+Tribute,E3-NLE,PBD-0G,PBD-0G VII,Coolant,Medium,16.66
+Tribute,E3-NLE,PBD-0G,PBD-0G VIII,Lustering Alloy,Medium,23.89
+Tribute,E3-NLE,PBD-0G,PBD-0G VIII,Fiber Composite,Medium,25.94
+Tribute,E3-NLE,PBD-0G,PBD-0G VIII,Reactive Gas,Medium,22.68
+Tribute,E3-NLE,PBD-0G,PBD-0G VIII,Base Metals,Rich,7.43
+Tribute,E3-NLE,PBD-0G,PBD-0G VIII,Ionic Solutions,Rich,12.91
+Tribute,E3-NLE,PBD-0G,PBD-0G IX,Lustering Alloy,Poor,18.44
+Tribute,E3-NLE,PBD-0G,PBD-0G IX,Supertensile Plastics,Medium,14.53
+Tribute,E3-NLE,PBD-0G,PBD-0G IX,Construction Blocks,Poor,18.85
+Tribute,E3-NLE,PBD-0G,PBD-0G IX,Silicate Glass,Medium,13.05
+Tribute,E3-NLE,PBD-0G,PBD-0G X,Dark Compound,Poor,15.80
+Tribute,E3-NLE,PBD-0G,PBD-0G X,Base Metals,Poor,5.40
+Tribute,E3-NLE,PBD-0G,PBD-0G X,Toxic Metals,Medium,6.43
+Tribute,E3-NLE,PBD-0G,PBD-0G X,Supertensile Plastics,Medium,15.81
+Tribute,E3-NLE,PBD-0G,PBD-0G XI,Lustering Alloy,Poor,16.04
+Tribute,E3-NLE,PBD-0G,PBD-0G XI,Dark Compound,Poor,15.86
+Tribute,E3-NLE,PBD-0G,PBD-0G XI,Industrial Fibers,Medium,6.81
+Tribute,E3-NLE,PBD-0G,PBD-0G XI,Supertensile Plastics,Medium,14.20
+Tribute,E3-NLE,L-1HKR,L-1HKR I,Gleaming Alloy,Rich,33.57
+Tribute,E3-NLE,L-1HKR,L-1HKR I,Glossy Compound,Rich,33.20
+Tribute,E3-NLE,L-1HKR,L-1HKR I,Smartfab Units,Rich,19.14
+Tribute,E3-NLE,L-1HKR,L-1HKR II,Lustering Alloy,Medium,26.40
+Tribute,E3-NLE,L-1HKR,L-1HKR II,Dark Compound,Poor,20.09
+Tribute,E3-NLE,L-1HKR,L-1HKR II,Industrial Fibers,Medium,6.19
+Tribute,E3-NLE,L-1HKR,L-1HKR II,Supertensile Plastics,Poor,13.63
+Tribute,E3-NLE,L-1HKR,L-1HKR III,Dark Compound,Medium,23.19
+Tribute,E3-NLE,L-1HKR,L-1HKR III,Toxic Metals,Poor,4.23
+Tribute,E3-NLE,L-1HKR,L-1HKR III,Supertensile Plastics,Poor,10.02
+Tribute,E3-NLE,L-1HKR,L-1HKR III,Plasmoids,Poor,0.84
+Tribute,E3-NLE,L-1HKR,L-1HKR IV,Gleaming Alloy,Poor,19.98
+Tribute,E3-NLE,L-1HKR,L-1HKR IV,Lucent Compound,Medium,20.88
+Tribute,E3-NLE,L-1HKR,L-1HKR IV,Reactive Gas,Rich,30.73
+Tribute,E3-NLE,L-1HKR,L-1HKR IV,Reactive Metals,Poor,5.03
+Tribute,E3-NLE,L-1HKR,L-1HKR V,Lustering Alloy,Rich,30.62
+Tribute,E3-NLE,L-1HKR,L-1HKR V,Reactive Gas,Rich,30.89
+Tribute,E3-NLE,L-1HKR,L-1HKR V,Base Metals,Medium,7.23
+Tribute,E3-NLE,L-1HKR,L-1HKR V,Coolant,Medium,17.86
+Tribute,E3-NLE,L-1HKR,L-1HKR V,Ionic Solutions,Medium,8.87
+Tribute,E3-NLE,L-1HKR,L-1HKR VI,Lustering Alloy,Rich,33.09
+Tribute,E3-NLE,L-1HKR,L-1HKR VI,Glossy Compound,Medium,26.86
+Tribute,E3-NLE,L-1HKR,L-1HKR VI,Reactive Gas,Perfect,35.71
+Tribute,E3-NLE,L-1HKR,L-1HKR VI,Noble Gas,Rich,28.93
+Tribute,E3-NLE,L-1HKR,L-1HKR VI,Ionic Solutions,Rich,11.70
+Tribute,E3-NLE,L-1HKR,L-1HKR VII,Lustering Alloy,Medium,27.02
+Tribute,E3-NLE,L-1HKR,L-1HKR VII,Reactive Gas,Medium,24.18
+Tribute,E3-NLE,L-1HKR,L-1HKR VII,Noble Gas,Poor,18.83
+Tribute,E3-NLE,L-1HKR,L-1HKR VII,Coolant,Rich,20.46
+Tribute,E3-NLE,L-1HKR,L-1HKR VII,Ionic Solutions,Medium,10.84
+Tribute,E3-NLE,L-1HKR,L-1HKR VIII,Crystal Compound,Rich,30.03
+Tribute,E3-NLE,L-1HKR,L-1HKR VIII,Reactive Metals,Rich,8.99
+Tribute,E3-NLE,L-1HKR,L-1HKR VIII,Construction Blocks,Rich,28.95
+Tribute,E3-NLE,L-1HKR,L-1HKR VIII,Nanites,Poor,4.96
+Tribute,E3-NLE,9GI-FB,9GI-FB I,Dark Compound,Medium,22.40
+Tribute,E3-NLE,9GI-FB,9GI-FB I,Toxic Metals,Poor,4.90
+Tribute,E3-NLE,9GI-FB,9GI-FB I,Industrial Fibers,Medium,5.83
+Tribute,E3-NLE,9GI-FB,9GI-FB I,Supertensile Plastics,Poor,11.66
+Tribute,E3-NLE,9GI-FB,9GI-FB II,Precious Alloy,Medium,20.83
+Tribute,E3-NLE,9GI-FB,9GI-FB II,Industrial Fibers,Medium,5.52
+Tribute,E3-NLE,9GI-FB,9GI-FB II,Supertensile Plastics,Medium,15.69
+Tribute,E3-NLE,9GI-FB,9GI-FB II,Construction Blocks,Poor,19.25
+Tribute,E3-NLE,9GI-FB,9GI-FB III,Dark Compound,Medium,21.36
+Tribute,E3-NLE,9GI-FB,9GI-FB III,Toxic Metals,Poor,5.27
+Tribute,E3-NLE,9GI-FB,9GI-FB III,Supertensile Plastics,Medium,14.40
+Tribute,E3-NLE,9GI-FB,9GI-FB III,Plasmoids,Poor,0.88
+Tribute,E3-NLE,9GI-FB,9GI-FB IV,Glossy Compound,Medium,25.45
+Tribute,E3-NLE,9GI-FB,9GI-FB IV,Reactive Gas,Medium,23.32
+Tribute,E3-NLE,9GI-FB,9GI-FB IV,Reactive Metals,Medium,6.39
+Tribute,E3-NLE,9GI-FB,9GI-FB IV,Polyaramids,Medium,16.16
+Tribute,E3-NLE,9GI-FB,9GI-FB IV,Coolant,Medium,13.87
+Tribute,E3-NLE,9GI-FB,9GI-FB V,Lustering Alloy,Medium,24.18
+Tribute,E3-NLE,9GI-FB,9GI-FB V,Toxic Metals,Medium,5.93
+Tribute,E3-NLE,9GI-FB,9GI-FB V,Industrial Fibers,Poor,4.89
+Tribute,E3-NLE,9GI-FB,9GI-FB V,Supertensile Plastics,Poor,10.60
+Tribute,E3-NLE,9GI-FB,9GI-FB VI,Sheen Compound,Medium,26.80
+Tribute,E3-NLE,9GI-FB,9GI-FB VI,Fiber Composite,Medium,21.98
+Tribute,E3-NLE,9GI-FB,9GI-FB VI,Reactive Gas,Medium,27.54
+Tribute,E3-NLE,9GI-FB,9GI-FB VI,Polyaramids,Poor,13.20
+Tribute,E3-NLE,9GI-FB,9GI-FB VI,Ionic Solutions,Medium,10.74
+Tribute,E3-NLE,9GI-FB,9GI-FB VII,Condensed Alloy,Perfect,41.98
+Tribute,E3-NLE,9GI-FB,9GI-FB VII,Fiber Composite,Perfect,36.37
+Tribute,E3-NLE,9GI-FB,9GI-FB VII,Smartfab Units,Medium,15.55
+Tribute,E3-NLE,9GI-FB,9GI-FB VII,Heavy Water,Rich,304.70
+Tribute,E3-NLE,9GI-FB,9GI-FB VII,Liquid Ozone,Medium,32.84
+Tribute,E3-NLE,9GI-FB,9GI-FB VIII,Opulent Compound,Rich,32.16
+Tribute,E3-NLE,9GI-FB,9GI-FB VIII,Toxic Metals,Perfect,9.78
+Tribute,E3-NLE,9GI-FB,9GI-FB VIII,Polyaramids,Rich,22.00
+Tribute,E3-NLE,9GI-FB,9GI-FB VIII,Silicate Glass,Perfect,19.17
+Tribute,E3-NLE,9GI-FB,9GI-FB VIII,Liquid Ozone,Perfect,45.79
+Tribute,E3-NLE,3G-LHB,3G-LHB I,Lustering Alloy,Medium,26.84
+Tribute,E3-NLE,3G-LHB,3G-LHB I,Sheen Compound,Rich,33.48
+Tribute,E3-NLE,3G-LHB,3G-LHB I,Glossy Compound,Rich,34.21
+Tribute,E3-NLE,3G-LHB,3G-LHB I,Reactive Gas,Poor,18.11
+Tribute,E3-NLE,3G-LHB,3G-LHB I,Ionic Solutions,Medium,8.97
+Tribute,E3-NLE,3G-LHB,3G-LHB II,Reactive Metals,Medium,6.15
+Tribute,E3-NLE,3G-LHB,3G-LHB II,Supertensile Plastics,Medium,14.15
+Tribute,E3-NLE,3G-LHB,3G-LHB II,Nanites,Medium,5.51
+Tribute,E3-NLE,3G-LHB,3G-LHB II,Oxygen Isotopes,Medium,3.37
+Tribute,E3-NLE,3G-LHB,3G-LHB III,Lustering Alloy,Poor,18.92
+Tribute,E3-NLE,3G-LHB,3G-LHB III,Glossy Compound,Medium,25.52
+Tribute,E3-NLE,3G-LHB,3G-LHB III,Reactive Gas,Poor,18.24
+Tribute,E3-NLE,3G-LHB,3G-LHB III,Polyaramids,Rich,19.04
+Tribute,E3-NLE,3G-LHB,3G-LHB III,Ionic Solutions,Rich,12.05
+Tribute,E3-NLE,3G-LHB,3G-LHB IV,Fiber Composite,Perfect,34.96
+Tribute,E3-NLE,3G-LHB,3G-LHB IV,Reactive Gas,Poor,19.56
+Tribute,E3-NLE,3G-LHB,3G-LHB IV,Noble Gas,Perfect,35.84
+Tribute,E3-NLE,3G-LHB,3G-LHB IV,Polyaramids,Medium,17.47
+Tribute,E3-NLE,3G-LHB,3G-LHB IV,Coolant,Medium,18.29
+Tribute,E3-NLE,3G-LHB,3G-LHB V,Industrial Fibers,Poor,4.23
+Tribute,E3-NLE,3G-LHB,3G-LHB V,Supertensile Plastics,Medium,17.75
+Tribute,E3-NLE,3G-LHB,3G-LHB V,Silicate Glass,Poor,6.89
+Tribute,E3-NLE,3G-LHB,3G-LHB V,Plasmoids,Medium,1.29
+Tribute,E3-NLE,DBT-GB,DBT-GB I,Sheen Compound,Medium,24.84
+Tribute,E3-NLE,DBT-GB,DBT-GB I,Dark Compound,Perfect,38.85
+Tribute,E3-NLE,DBT-GB,DBT-GB I,Noble Gas,Medium,24.20
+Tribute,E3-NLE,DBT-GB,DBT-GB I,Reactive Metals,Rich,8.19
+Tribute,E3-NLE,DBT-GB,DBT-GB I,Condensates,Rich,21.60
+Tribute,E3-NLE,DBT-GB,DBT-GB II,Gleaming Alloy,Medium,27.08
+Tribute,E3-NLE,DBT-GB,DBT-GB II,Noble Gas,Rich,31.61
+Tribute,E3-NLE,DBT-GB,DBT-GB II,Heavy Metals,Medium,23.06
+Tribute,E3-NLE,DBT-GB,DBT-GB III,Gleaming Alloy,Medium,23.41
+Tribute,E3-NLE,DBT-GB,DBT-GB III,Glossy Compound,Rich,32.43
+Tribute,E3-NLE,DBT-GB,DBT-GB III,Oxygen Isotopes,Rich,5.03
+Tribute,E3-NLE,DBT-GB,DBT-GB IV,Gleaming Alloy,Medium,22.64
+Tribute,E3-NLE,DBT-GB,DBT-GB IV,Motley Compound,Medium,27.10
+Tribute,E3-NLE,DBT-GB,DBT-GB IV,Plasmoids,Medium,1.57
+Tribute,E3-NLE,DBT-GB,DBT-GB V,Lustering Alloy,Medium,21.65
+Tribute,E3-NLE,DBT-GB,DBT-GB V,Reactive Gas,Rich,33.18
+Tribute,E3-NLE,DBT-GB,DBT-GB V,Base Metals,Perfect,9.23
+Tribute,E3-NLE,DBT-GB,DBT-GB V,Reactive Metals,Medium,7.04
+Tribute,E3-NLE,DBT-GB,DBT-GB V,Polyaramids,Medium,15.56
+Tribute,E3-NLE,DBT-GB,DBT-GB VI,Lustering Alloy,Perfect,35.97
+Tribute,E3-NLE,DBT-GB,DBT-GB VI,Reactive Gas,Poor,19.40
+Tribute,E3-NLE,DBT-GB,DBT-GB VI,Noble Gas,Medium,25.76
+Tribute,E3-NLE,DBT-GB,DBT-GB VI,Base Metals,Poor,5.22
+Tribute,E3-NLE,DBT-GB,DBT-GB VI,Reactive Metals,Rich,8.01
+Tribute,E3-NLE,DBT-GB,DBT-GB VII,Fiber Composite,Medium,21.16
+Tribute,E3-NLE,DBT-GB,DBT-GB VII,Glossy Compound,Perfect,35.13
+Tribute,E3-NLE,DBT-GB,DBT-GB VII,Reactive Gas,Poor,19.89
+Tribute,E3-NLE,DBT-GB,DBT-GB VII,Polyaramids,Rich,20.11
+Tribute,E3-NLE,DBT-GB,DBT-GB VII,Coolant,Poor,12.86
+Tribute,E3-NLE,DBT-GB,DBT-GB VIII,Fiber Composite,Medium,27.41
+Tribute,E3-NLE,DBT-GB,DBT-GB VIII,Glossy Compound,Perfect,35.11
+Tribute,E3-NLE,DBT-GB,DBT-GB VIII,Reactive Gas,Medium,22.44
+Tribute,E3-NLE,DBT-GB,DBT-GB VIII,Base Metals,Rich,8.86
+Tribute,E3-NLE,DBT-GB,DBT-GB VIII,Polyaramids,Medium,15.97
+Tribute,E3-NLE,DBT-GB,DBT-GB IX,Base Metals,Rich,8.09
+Tribute,E3-NLE,DBT-GB,DBT-GB IX,Heavy Metals,Rich,31.70
+Tribute,E3-NLE,DBT-GB,DBT-GB IX,Condensates,Rich,18.71
+Tribute,E3-NLE,DBT-GB,DBT-GB IX,Suspended Plasma,Poor,60.67
+Tribute,E3-NLE,U-W3WS,U-W3WS I,Gleaming Alloy,Poor,19.47
+Tribute,E3-NLE,U-W3WS,U-W3WS I,Motley Compound,Rich,32.15
+Tribute,E3-NLE,U-W3WS,U-W3WS I,Plasmoids,Medium,1.40
+Tribute,E3-NLE,U-W3WS,U-W3WS II,Lustering Alloy,Poor,16.78
+Tribute,E3-NLE,U-W3WS,U-W3WS II,Toxic Metals,Poor,3.47
+Tribute,E3-NLE,U-W3WS,U-W3WS II,Supertensile Plastics,Medium,13.75
+Tribute,E3-NLE,U-W3WS,U-W3WS II,Silicate Glass,Medium,11.13
+Tribute,E3-NLE,U-W3WS,U-W3WS III,Gleaming Alloy,Rich,31.39
+Tribute,E3-NLE,U-W3WS,U-W3WS III,Motley Compound,Rich,27.70
+Tribute,E3-NLE,U-W3WS,U-W3WS III,Glossy Compound,Medium,21.27
+Tribute,E3-NLE,U-W3WS,U-W3WS IV,Condensed Alloy,Medium,25.18
+Tribute,E3-NLE,U-W3WS,U-W3WS IV,Opulent Compound,Rich,30.74
+Tribute,E3-NLE,U-W3WS,U-W3WS IV,Base Metals,Perfect,9.47
+Tribute,E3-NLE,U-W3WS,U-W3WS IV,Noble Metals,Perfect,39.54
+Tribute,E3-NLE,U-W3WS,U-W3WS IV,Liquid Ozone,Medium,28.72
+Tribute,E3-NLE,U-W3WS,U-W3WS V,Condensed Alloy,Medium,21.34
+Tribute,E3-NLE,U-W3WS,U-W3WS V,Fiber Composite,Perfect,37.57
+Tribute,E3-NLE,U-W3WS,U-W3WS V,Base Metals,Medium,5.96
+Tribute,E3-NLE,U-W3WS,U-W3WS V,Condensates,Medium,17.46
+Tribute,E3-NLE,U-W3WS,U-W3WS V,Liquid Ozone,Perfect,42.66
+Tribute,E3-NLE,U-W3WS,U-W3WS VI,Reactive Metals,Rich,8.21
+Tribute,E3-NLE,U-W3WS,U-W3WS VI,Supertensile Plastics,Rich,18.45
+Tribute,E3-NLE,U-W3WS,U-W3WS VI,Construction Blocks,Rich,31.14
+Tribute,E3-NLE,U-W3WS,U-W3WS VI,Oxygen Isotopes,Rich,4.89
+Tribute,E3-NLE,U-W3WS,U-W3WS VII,Crystal Compound,Rich,28.10
+Tribute,E3-NLE,U-W3WS,U-W3WS VII,Reactive Metals,Medium,5.91
+Tribute,E3-NLE,U-W3WS,U-W3WS VII,Supertensile Plastics,Medium,15.67
+Tribute,E3-NLE,U-W3WS,U-W3WS VII,Suspended Plasma,Rich,101.68
+Tribute,E3-NLE,U-W3WS,U-W3WS VIII,Reactive Gas,Rich,30.93
+Tribute,E3-NLE,U-W3WS,U-W3WS VIII,Noble Gas,Rich,32.00
+Tribute,E3-NLE,U-W3WS,U-W3WS VIII,Base Metals,Rich,7.36
+Tribute,E3-NLE,U-W3WS,U-W3WS VIII,Reactive Metals,Rich,7.08
+Tribute,E3-NLE,U-W3WS,U-W3WS VIII,Coolant,Perfect,22.99
+Tribute,E3-NLE,U-W3WS,U-W3WS IX,Lustering Alloy,Poor,18.86
+Tribute,E3-NLE,U-W3WS,U-W3WS IX,Reactive Gas,Medium,25.43
+Tribute,E3-NLE,U-W3WS,U-W3WS IX,Noble Gas,Rich,31.33
+Tribute,E3-NLE,U-W3WS,U-W3WS IX,Base Metals,Perfect,8.89
+Tribute,E3-NLE,U-W3WS,U-W3WS IX,Ionic Solutions,Medium,9.24
+Tribute,E3-NLE,U-W3WS,U-W3WS X,Fiber Composite,Rich,33.14
+Tribute,E3-NLE,U-W3WS,U-W3WS X,Reactive Gas,Medium,21.95
+Tribute,E3-NLE,U-W3WS,U-W3WS X,Noble Gas,Rich,31.10
+Tribute,E3-NLE,U-W3WS,U-W3WS X,Base Metals,Perfect,8.78
+Tribute,E3-NLE,U-W3WS,U-W3WS X,Polyaramids,Rich,17.86
+Tribute,GORV-P,DL1C-E,DL1C-E I,Gleaming Alloy,Rich,33.01
+Tribute,GORV-P,DL1C-E,DL1C-E I,Noble Gas,Medium,22.22
+Tribute,GORV-P,DL1C-E,DL1C-E I,Smartfab Units,Medium,13.43
+Tribute,GORV-P,DL1C-E,DL1C-E II,Toxic Metals,Poor,4.02
+Tribute,GORV-P,DL1C-E,DL1C-E II,Supertensile Plastics,Poor,10.32
+Tribute,GORV-P,DL1C-E,DL1C-E II,Oxygen Isotopes,Poor,2.30
+Tribute,GORV-P,DL1C-E,DL1C-E II,Plasmoids,Poor,0.89
+Tribute,GORV-P,DL1C-E,DL1C-E III,Base Metals,Medium,6.13
+Tribute,GORV-P,DL1C-E,DL1C-E III,Industrial Fibers,Medium,6.12
+Tribute,GORV-P,DL1C-E,DL1C-E III,Supertensile Plastics,Medium,15.02
+Tribute,GORV-P,DL1C-E,DL1C-E III,Plasmoids,Medium,1.37
+Tribute,GORV-P,DL1C-E,DL1C-E IV,Fiber Composite,Rich,30.20
+Tribute,GORV-P,DL1C-E,DL1C-E IV,Reactive Gas,Medium,25.26
+Tribute,GORV-P,DL1C-E,DL1C-E IV,Polyaramids,Rich,19.81
+Tribute,GORV-P,DL1C-E,DL1C-E IV,Coolant,Poor,12.07
+Tribute,GORV-P,DL1C-E,DL1C-E IV,Ionic Solutions,Medium,9.58
+Tribute,GORV-P,DL1C-E,DL1C-E V,Glossy Compound,Rich,32.21
+Tribute,GORV-P,DL1C-E,DL1C-E V,Reactive Gas,Rich,33.10
+Tribute,GORV-P,DL1C-E,DL1C-E V,Base Metals,Rich,8.06
+Tribute,GORV-P,DL1C-E,DL1C-E V,Polyaramids,Medium,16.80
+Tribute,GORV-P,DL1C-E,DL1C-E V,Coolant,Rich,18.79
+Tribute,GORV-P,DL1C-E,DL1C-E VI,Noble Metals,Medium,25.09
+Tribute,GORV-P,DL1C-E,DL1C-E VI,Toxic Metals,Medium,6.45
+Tribute,GORV-P,DL1C-E,DL1C-E VI,Coolant,Medium,15.29
+Tribute,GORV-P,DL1C-E,DL1C-E VI,Liquid Ozone,Rich,37.51
+Tribute,GORV-P,DL1C-E,DL1C-E VI,Ionic Solutions,Perfect,13.99
+Tribute,GORV-P,YLS8-J,YLS8-J I,Gleaming Alloy,Medium,24.13
+Tribute,GORV-P,YLS8-J,YLS8-J I,Motley Compound,Rich,32.70
+Tribute,GORV-P,YLS8-J,YLS8-J I,Glossy Compound,Perfect,34.92
+Tribute,GORV-P,YLS8-J,YLS8-J II,Dark Compound,Poor,17.37
+Tribute,GORV-P,YLS8-J,YLS8-J II,Supertensile Plastics,Poor,11.17
+Tribute,GORV-P,YLS8-J,YLS8-J II,Construction Blocks,Medium,23.14
+Tribute,GORV-P,YLS8-J,YLS8-J II,Oxygen Isotopes,Poor,2.56
+Tribute,GORV-P,YLS8-J,YLS8-J III,Lustering Alloy,Medium,24.86
+Tribute,GORV-P,YLS8-J,YLS8-J III,Base Metals,Medium,6.66
+Tribute,GORV-P,YLS8-J,YLS8-J III,Supertensile Plastics,Poor,10.77
+Tribute,GORV-P,YLS8-J,YLS8-J III,Plasmoids,Poor,0.90
+Tribute,GORV-P,YLS8-J,YLS8-J IV,Industrial Fibers,Medium,6.08
+Tribute,GORV-P,YLS8-J,YLS8-J IV,Supertensile Plastics,Medium,15.72
+Tribute,GORV-P,YLS8-J,YLS8-J IV,Silicate Glass,Poor,8.31
+Tribute,GORV-P,YLS8-J,YLS8-J IV,Oxygen Isotopes,Medium,3.51
+Tribute,GORV-P,YLS8-J,YLS8-J V,Gleaming Alloy,Poor,19.36
+Tribute,GORV-P,YLS8-J,YLS8-J V,Heavy Metals,Rich,33.14
+Tribute,GORV-P,YLS8-J,YLS8-J V,Smartfab Units,Rich,18.73
+Tribute,GORV-P,YLS8-J,YLS8-J VI,Condensed Alloy,Perfect,40.09
+Tribute,GORV-P,YLS8-J,YLS8-J VI,Industrial Fibers,Medium,6.78
+Tribute,GORV-P,YLS8-J,YLS8-J VI,Condensates,Perfect,25.21
+Tribute,GORV-P,YLS8-J,YLS8-J VI,Heavy Water,Perfect,363.09
+Tribute,GORV-P,YLS8-J,YLS8-J VI,Liquid Ozone,Rich,36.33
+Tribute,GORV-P,YLS8-J,YLS8-J VII,Condensed Alloy,Medium,24.28
+Tribute,GORV-P,YLS8-J,YLS8-J VII,Opulent Compound,Rich,30.64
+Tribute,GORV-P,YLS8-J,YLS8-J VII,Reactive Gas,Perfect,34.86
+Tribute,GORV-P,YLS8-J,YLS8-J VII,Base Metals,Perfect,9.64
+Tribute,GORV-P,YLS8-J,YLS8-J VII,Liquid Ozone,Perfect,42.73
+Tribute,GORV-P,YLS8-J,YLS8-J VIII,Lustering Alloy,Medium,26.17
+Tribute,GORV-P,YLS8-J,YLS8-J VIII,Sheen Compound,Medium,20.94
+Tribute,GORV-P,YLS8-J,YLS8-J VIII,Glossy Compound,Medium,24.65
+Tribute,GORV-P,YLS8-J,YLS8-J VIII,Reactive Gas,Poor,19.47
+Tribute,GORV-P,YLS8-J,YLS8-J VIII,Reactive Metals,Medium,5.86
+Tribute,GORV-P,YLS8-J,YLS8-J IX,Glossy Compound,Rich,30.45
+Tribute,GORV-P,YLS8-J,YLS8-J IX,Reactive Gas,Rich,29.88
+Tribute,GORV-P,YLS8-J,YLS8-J IX,Base Metals,Medium,6.79
+Tribute,GORV-P,YLS8-J,YLS8-J IX,Reactive Metals,Rich,8.62
+Tribute,GORV-P,YLS8-J,YLS8-J IX,Ionic Solutions,Rich,12.22
+Tribute,GORV-P,YLS8-J,YLS8-J X,Precious Alloy,Rich,30.62
+Tribute,GORV-P,YLS8-J,YLS8-J X,Heavy Metals,Poor,16.04
+Tribute,GORV-P,YLS8-J,YLS8-J X,Industrial Fibers,Rich,8.07
+Tribute,GORV-P,YLS8-J,YLS8-J X,Condensates,Medium,13.52
+Tribute,GORV-P,YLS8-J,YLS8-J XI,Lustering Alloy,Medium,23.48
+Tribute,GORV-P,YLS8-J,YLS8-J XI,Precious Alloy,Medium,24.30
+Tribute,GORV-P,YLS8-J,YLS8-J XI,Dark Compound,Poor,17.14
+Tribute,GORV-P,YLS8-J,YLS8-J XI,Supertensile Plastics,Poor,8.93
+Tribute,GORV-P,2ISU-Y,2ISU-Y I,Lustering Alloy,Poor,19.11
+Tribute,GORV-P,2ISU-Y,2ISU-Y I,Industrial Fibers,Medium,6.02
+Tribute,GORV-P,2ISU-Y,2ISU-Y I,Supertensile Plastics,Medium,16.46
+Tribute,GORV-P,2ISU-Y,2ISU-Y I,Plasmoids,Medium,1.41
+Tribute,GORV-P,2ISU-Y,2ISU-Y II,Gleaming Alloy,Rich,31.39
+Tribute,GORV-P,2ISU-Y,2ISU-Y II,Noble Gas,Medium,21.11
+Tribute,GORV-P,2ISU-Y,2ISU-Y II,Construction Blocks,Medium,25.49
+Tribute,GORV-P,2ISU-Y,2ISU-Y III,Lustering Alloy,Medium,22.41
+Tribute,GORV-P,2ISU-Y,2ISU-Y III,Precious Alloy,Poor,19.00
+Tribute,GORV-P,2ISU-Y,2ISU-Y III,Supertensile Plastics,Poor,12.40
+Tribute,GORV-P,2ISU-Y,2ISU-Y III,Silicate Glass,Poor,9.15
+Tribute,GORV-P,2ISU-Y,2ISU-Y IV,Supertensile Plastics,Medium,16.51
+Tribute,GORV-P,2ISU-Y,2ISU-Y IV,Construction Blocks,Poor,14.85
+Tribute,GORV-P,2ISU-Y,2ISU-Y IV,Oxygen Isotopes,Medium,3.13
+Tribute,GORV-P,2ISU-Y,2ISU-Y IV,Plasmoids,Medium,1.46
+Tribute,GORV-P,2ISU-Y,2ISU-Y V,Fiber Composite,Perfect,36.58
+Tribute,GORV-P,2ISU-Y,2ISU-Y V,Opulent Compound,Perfect,34.15
+Tribute,GORV-P,2ISU-Y,2ISU-Y V,Base Metals,Rich,7.21
+Tribute,GORV-P,2ISU-Y,2ISU-Y V,Noble Metals,Rich,32.76
+Tribute,GORV-P,2ISU-Y,2ISU-Y V,Liquid Ozone,Rich,36.88
+Tribute,GORV-P,2ISU-Y,2ISU-Y VI,Fiber Composite,Medium,21.06
+Tribute,GORV-P,2ISU-Y,2ISU-Y VI,Glossy Compound,Rich,31.52
+Tribute,GORV-P,2ISU-Y,2ISU-Y VI,Reactive Gas,Medium,21.63
+Tribute,GORV-P,2ISU-Y,2ISU-Y VI,Polyaramids,Medium,14.67
+Tribute,GORV-P,2ISU-Y,2ISU-Y VI,Ionic Solutions,Poor,7.38
+Tribute,GORV-P,2ISU-Y,2ISU-Y VII,Sheen Compound,Medium,24.21
+Tribute,GORV-P,2ISU-Y,2ISU-Y VII,Reactive Gas,Rich,27.64
+Tribute,GORV-P,2ISU-Y,2ISU-Y VII,Base Metals,Poor,4.76
+Tribute,GORV-P,2ISU-Y,2ISU-Y VII,Reactive Metals,Medium,6.70
+Tribute,GORV-P,2ISU-Y,2ISU-Y VII,Polyaramids,Medium,15.13
+Tribute,GORV-P,2ISU-Y,2ISU-Y VIII,Lustering Alloy,Medium,19.99
+Tribute,GORV-P,2ISU-Y,2ISU-Y VIII,Glossy Compound,Perfect,33.98
+Tribute,GORV-P,2ISU-Y,2ISU-Y VIII,Reactive Gas,Medium,21.59
+Tribute,GORV-P,2ISU-Y,2ISU-Y VIII,Base Metals,Rich,8.64
+Tribute,GORV-P,2ISU-Y,2ISU-Y VIII,Polyaramids,Poor,12.67
+Tribute,GORV-P,2ISU-Y,2ISU-Y IX,Lustering Alloy,Medium,23.04
+Tribute,GORV-P,2ISU-Y,2ISU-Y IX,Base Metals,Poor,5.17
+Tribute,GORV-P,2ISU-Y,2ISU-Y IX,Toxic Metals,Medium,6.07
+Tribute,GORV-P,2ISU-Y,2ISU-Y IX,Supertensile Plastics,Poor,9.70
+Tribute,GORV-P,2ISU-Y,2ISU-Y X,Base Metals,Poor,5.18
+Tribute,GORV-P,2ISU-Y,2ISU-Y X,Supertensile Plastics,Poor,11.84
+Tribute,GORV-P,2ISU-Y,2ISU-Y X,Construction Blocks,Medium,23.04
+Tribute,GORV-P,2ISU-Y,2ISU-Y X,Silicate Glass,Medium,11.80
+Tribute,GORV-P,X-CFN6,X-CFN6 I,Gleaming Alloy,Rich,29.96
+Tribute,GORV-P,X-CFN6,X-CFN6 I,Polyaramids,Rich,18.07
+Tribute,GORV-P,X-CFN6,X-CFN6 I,Smartfab Units,Medium,14.61
+Tribute,GORV-P,X-CFN6,X-CFN6 II,Supertensile Plastics,Poor,12.36
+Tribute,GORV-P,X-CFN6,X-CFN6 II,Construction Blocks,Poor,14.32
+Tribute,GORV-P,X-CFN6,X-CFN6 II,Oxygen Isotopes,Medium,3.54
+Tribute,GORV-P,X-CFN6,X-CFN6 II,Plasmoids,Medium,1.21
+Tribute,GORV-P,X-CFN6,X-CFN6 III,Dark Compound,Rich,30.14
+Tribute,GORV-P,X-CFN6,X-CFN6 III,Noble Gas,Rich,27.60
+Tribute,GORV-P,X-CFN6,X-CFN6 III,Reactive Metals,Medium,5.60
+Tribute,GORV-P,X-CFN6,X-CFN6 III,Condensates,Medium,15.48
+Tribute,GORV-P,X-CFN6,X-CFN6 III,Ionic Solutions,Medium,7.97
+Tribute,GORV-P,X-CFN6,X-CFN6 IV,Lustering Alloy,Poor,14.04
+Tribute,GORV-P,X-CFN6,X-CFN6 IV,Toxic Metals,Medium,5.43
+Tribute,GORV-P,X-CFN6,X-CFN6 IV,Supertensile Plastics,Poor,12.04
+Tribute,GORV-P,X-CFN6,X-CFN6 IV,Silicate Glass,Medium,9.44
+Tribute,GORV-P,X-CFN6,X-CFN6 V,Sheen Compound,Medium,21.82
+Tribute,GORV-P,X-CFN6,X-CFN6 V,Fiber Composite,Rich,26.02
+Tribute,GORV-P,X-CFN6,X-CFN6 V,Reactive Gas,Rich,26.76
+Tribute,GORV-P,X-CFN6,X-CFN6 V,Reactive Metals,Poor,4.37
+Tribute,GORV-P,X-CFN6,X-CFN6 V,Polyaramids,Perfect,22.08
+Tribute,GORV-P,X-CFN6,X-CFN6 VI,Fiber Composite,Medium,20.06
+Tribute,GORV-P,X-CFN6,X-CFN6 VI,Reactive Gas,Poor,18.80
+Tribute,GORV-P,X-CFN6,X-CFN6 VI,Noble Gas,Rich,26.14
+Tribute,GORV-P,X-CFN6,X-CFN6 VI,Reactive Metals,Medium,5.59
+Tribute,GORV-P,X-CFN6,X-CFN6 VI,Coolant,Medium,13.08
+Tribute,GORV-P,X-CFN6,X-CFN6 VII,Lucent Compound,Medium,23.48
+Tribute,GORV-P,X-CFN6,X-CFN6 VII,Crystal Compound,Medium,24.36
+Tribute,GORV-P,X-CFN6,X-CFN6 VII,Reactive Metals,Rich,8.15
+Tribute,GORV-P,X-CFN6,X-CFN6 VII,Construction Blocks,Perfect,32.80
+Tribute,GORV-P,X-CFN6,X-CFN6 VIII,Sheen Compound,Rich,29.42
+Tribute,GORV-P,X-CFN6,X-CFN6 VIII,Fiber Composite,Medium,24.34
+Tribute,GORV-P,X-CFN6,X-CFN6 VIII,Reactive Gas,Medium,18.90
+Tribute,GORV-P,X-CFN6,X-CFN6 VIII,Coolant,Rich,18.59
+Tribute,GORV-P,X-CFN6,X-CFN6 VIII,Ionic Solutions,Medium,9.88
+Tribute,GORV-P,X-CFN6,X-CFN6 IX,Lustering Alloy,Rich,30.82
+Tribute,GORV-P,X-CFN6,X-CFN6 IX,Reactive Gas,Rich,30.10
+Tribute,GORV-P,X-CFN6,X-CFN6 IX,Noble Gas,Poor,17.22
+Tribute,GORV-P,X-CFN6,X-CFN6 IX,Reactive Metals,Medium,5.69
+Tribute,GORV-P,X-CFN6,X-CFN6 IX,Coolant,Medium,14.65
+Tribute,GORV-P,X-CFN6,X-CFN6 X,Reactive Metals,Poor,4.49
+Tribute,GORV-P,X-CFN6,X-CFN6 X,Toxic Metals,Rich,7.94
+Tribute,GORV-P,X-CFN6,X-CFN6 X,Supertensile Plastics,Poor,12.16
+Tribute,GORV-P,X-CFN6,X-CFN6 X,Nanites,Poor,4.77
+Tribute,GORV-P,9SL-K9,9SL-K9 I,Gleaming Alloy,Rich,31.62
+Tribute,GORV-P,9SL-K9,9SL-K9 I,Crystal Compound,Medium,19.10
+Tribute,GORV-P,9SL-K9,9SL-K9 I,Reactive Gas,Poor,17.52
+Tribute,GORV-P,9SL-K9,9SL-K9 I,Reactive Metals,Medium,6.39
+Tribute,GORV-P,9SL-K9,9SL-K9 II,Lustering Alloy,Medium,20.72
+Tribute,GORV-P,9SL-K9,9SL-K9 II,Toxic Metals,Medium,6.13
+Tribute,GORV-P,9SL-K9,9SL-K9 II,Supertensile Plastics,Poor,11.53
+Tribute,GORV-P,9SL-K9,9SL-K9 II,Oxygen Isotopes,Medium,2.83
+Tribute,GORV-P,9SL-K9,9SL-K9 III,Gleaming Alloy,Medium,19.28
+Tribute,GORV-P,9SL-K9,9SL-K9 III,Polyaramids,Medium,15.92
+Tribute,GORV-P,9SL-K9,9SL-K9 III,Construction Blocks,Medium,24.68
+Tribute,GORV-P,9SL-K9,9SL-K9 IV,Sheen Compound,Medium,21.42
+Tribute,GORV-P,9SL-K9,9SL-K9 IV,Fiber Composite,Medium,22.48
+Tribute,GORV-P,9SL-K9,9SL-K9 IV,Reactive Gas,Medium,20.82
+Tribute,GORV-P,9SL-K9,9SL-K9 IV,Noble Gas,Rich,29.92
+Tribute,GORV-P,9SL-K9,9SL-K9 IV,Reactive Metals,Medium,6.01
+Tribute,GORV-P,9SL-K9,9SL-K9 V,Fiber Composite,Rich,31.68
+Tribute,GORV-P,9SL-K9,9SL-K9 V,Reactive Gas,Medium,21.44
+Tribute,GORV-P,9SL-K9,9SL-K9 V,Noble Gas,Medium,24.04
+Tribute,GORV-P,9SL-K9,9SL-K9 V,Coolant,Medium,16.71
+Tribute,GORV-P,9SL-K9,9SL-K9 V,Ionic Solutions,Medium,9.18
+Tribute,GORV-P,9SL-K9,9SL-K9 VI,Sheen Compound,Medium,19.62
+Tribute,GORV-P,9SL-K9,9SL-K9 VI,Reactive Gas,Rich,27.98
+Tribute,GORV-P,9SL-K9,9SL-K9 VI,Polyaramids,Medium,13.60
+Tribute,GORV-P,9SL-K9,9SL-K9 VI,Coolant,Medium,16.24
+Tribute,GORV-P,9SL-K9,9SL-K9 VI,Ionic Solutions,Poor,6.80
+Tribute,GORV-P,9SL-K9,9SL-K9 VII,Gleaming Alloy,Medium,18.92
+Tribute,GORV-P,9SL-K9,9SL-K9 VII,Motley Compound,Rich,28.32
+Tribute,GORV-P,9SL-K9,9SL-K9 VII,Plasmoids,Poor,1.01
+Tribute,GORV-P,9SL-K9,9SL-K9 VIII,Opulent Compound,Perfect,32.12
+Tribute,GORV-P,9SL-K9,9SL-K9 VIII,Noble Metals,Perfect,31.90
+Tribute,GORV-P,9SL-K9,9SL-K9 VIII,Toxic Metals,Perfect,8.73
+Tribute,GORV-P,9SL-K9,9SL-K9 VIII,Coolant,Rich,21.03
+Tribute,GORV-P,9SL-K9,9SL-K9 VIII,Liquid Ozone,Medium,27.27
+Tribute,GORV-P,9SL-K9,9SL-K9 IX,Dark Compound,Medium,22.10
+Tribute,GORV-P,9SL-K9,9SL-K9 IX,Base Metals,Medium,6.26
+Tribute,GORV-P,9SL-K9,9SL-K9 IX,Supertensile Plastics,Medium,14.60
+Tribute,GORV-P,9SL-K9,9SL-K9 IX,Oxygen Isotopes,Medium,2.94
+Tribute,GORV-P,Y-PZHM,Y-PZHM I,Base Metals,Medium,6.47
+Tribute,GORV-P,Y-PZHM,Y-PZHM I,Toxic Metals,Medium,6.31
+Tribute,GORV-P,Y-PZHM,Y-PZHM I,Supertensile Plastics,Poor,9.11
+Tribute,GORV-P,Y-PZHM,Y-PZHM I,Plasmoids,Poor,0.98
+Tribute,GORV-P,Y-PZHM,Y-PZHM II,Sheen Compound,Rich,28.76
+Tribute,GORV-P,Y-PZHM,Y-PZHM II,Reactive Metals,Medium,6.59
+Tribute,GORV-P,Y-PZHM,Y-PZHM II,Condensates,Rich,17.15
+Tribute,GORV-P,Y-PZHM,Y-PZHM II,Suspended Plasma,Medium,86.11
+Tribute,GORV-P,Y-PZHM,Y-PZHM II,Ionic Solutions,Perfect,13.38
+Tribute,GORV-P,Y-PZHM,Y-PZHM III,Lustering Alloy,Medium,20.26
+Tribute,GORV-P,Y-PZHM,Y-PZHM III,Base Metals,Medium,5.35
+Tribute,GORV-P,Y-PZHM,Y-PZHM III,Supertensile Plastics,Medium,13.55
+Tribute,GORV-P,Y-PZHM,Y-PZHM III,Oxygen Isotopes,Medium,2.92
+Tribute,GORV-P,Y-PZHM,Y-PZHM IV,Noble Metals,Perfect,34.38
+Tribute,GORV-P,Y-PZHM,Y-PZHM IV,Toxic Metals,Medium,5.61
+Tribute,GORV-P,Y-PZHM,Y-PZHM IV,Polyaramids,Rich,18.68
+Tribute,GORV-P,Y-PZHM,Y-PZHM IV,Heavy Water,Medium,204.40
+Tribute,GORV-P,Y-PZHM,Y-PZHM IV,Liquid Ozone,Rich,37.00
+Tribute,GORV-P,Y-PZHM,Y-PZHM V,Lustering Alloy,Medium,24.32
+Tribute,GORV-P,Y-PZHM,Y-PZHM V,Reactive Gas,Medium,24.86
+Tribute,GORV-P,Y-PZHM,Y-PZHM V,Base Metals,Perfect,8.55
+Tribute,GORV-P,Y-PZHM,Y-PZHM V,Coolant,Rich,17.61
+Tribute,GORV-P,Y-PZHM,Y-PZHM V,Ionic Solutions,Rich,12.46
+Tribute,GORV-P,Y-PZHM,Y-PZHM VI,Fiber Composite,Poor,16.68
+Tribute,GORV-P,Y-PZHM,Y-PZHM VI,Glossy Compound,Poor,17.94
+Tribute,GORV-P,Y-PZHM,Y-PZHM VI,Reactive Gas,Medium,20.82
+Tribute,GORV-P,Y-PZHM,Y-PZHM VI,Noble Gas,Rich,29.08
+Tribute,GORV-P,Y-PZHM,Y-PZHM VI,Coolant,Medium,13.20
+Tribute,GORV-P,Y-PZHM,Y-PZHM VII,Fiber Composite,Medium,23.02
+Tribute,GORV-P,Y-PZHM,Y-PZHM VII,Glossy Compound,Rich,26.78
+Tribute,GORV-P,Y-PZHM,Y-PZHM VII,Reactive Gas,Rich,26.32
+Tribute,GORV-P,Y-PZHM,Y-PZHM VII,Base Metals,Medium,5.85
+Tribute,GORV-P,Y-PZHM,Y-PZHM VII,Ionic Solutions,Rich,10.64
+Tribute,GORV-P,Y-PZHM,Y-PZHM VIII,Glossy Compound,Medium,22.24
+Tribute,GORV-P,Y-PZHM,Y-PZHM VIII,Reactive Gas,Rich,31.40
+Tribute,GORV-P,Y-PZHM,Y-PZHM VIII,Base Metals,Rich,7.62
+Tribute,GORV-P,Y-PZHM,Y-PZHM VIII,Reactive Metals,Rich,8.11
+Tribute,GORV-P,Y-PZHM,Y-PZHM VIII,Polyaramids,Rich,19.60
+Tribute,GORV-P,Y-PZHM,Y-PZHM IX,Heavy Metals,Medium,20.76
+Tribute,GORV-P,Y-PZHM,Y-PZHM IX,Industrial Fibers,Rich,6.77
+Tribute,GORV-P,Y-PZHM,Y-PZHM IX,Coolant,Poor,11.71
+Tribute,GORV-P,Y-PZHM,Y-PZHM IX,Condensates,Rich,19.43
+Tribute,GORV-P,OY-UZ1,OY-UZ1 I,Precious Alloy,Poor,16.40
+Tribute,GORV-P,OY-UZ1,OY-UZ1 I,Toxic Metals,Poor,4.06
+Tribute,GORV-P,OY-UZ1,OY-UZ1 I,Supertensile Plastics,Poor,9.38
+Tribute,GORV-P,OY-UZ1,OY-UZ1 I,Silicate Glass,Poor,8.25
+Tribute,GORV-P,OY-UZ1,OY-UZ1 II,Lucent Compound,Medium,25.45
+Tribute,GORV-P,OY-UZ1,OY-UZ1 II,Reactive Metals,Medium,6.56
+Tribute,GORV-P,OY-UZ1,OY-UZ1 II,Condensates,Perfect,23.76
+Tribute,GORV-P,OY-UZ1,OY-UZ1 II,Suspended Plasma,Perfect,129.43
+Tribute,GORV-P,OY-UZ1,OY-UZ1 II,Ionic Solutions,Medium,8.68
+Tribute,GORV-P,OY-UZ1,OY-UZ1 III,Gleaming Alloy,Medium,23.54
+Tribute,GORV-P,OY-UZ1,OY-UZ1 III,Reactive Gas,Rich,29.74
+Tribute,GORV-P,OY-UZ1,OY-UZ1 III,Reactive Metals,Poor,4.55
+Tribute,GORV-P,OY-UZ1,OY-UZ1 III,Nanites,Medium,6.47
+Tribute,GORV-P,OY-UZ1,OY-UZ1 IV,Condensed Alloy,Medium,25.30
+Tribute,GORV-P,OY-UZ1,OY-UZ1 IV,Noble Metals,Rich,26.94
+Tribute,GORV-P,OY-UZ1,OY-UZ1 IV,Polyaramids,Medium,14.18
+Tribute,GORV-P,OY-UZ1,OY-UZ1 IV,Heavy Water,Perfect,353.85
+Tribute,GORV-P,OY-UZ1,OY-UZ1 IV,Liquid Ozone,Medium,29.53
+Tribute,GORV-P,OY-UZ1,OY-UZ1 V,Condensed Alloy,Rich,30.93
+Tribute,GORV-P,OY-UZ1,OY-UZ1 V,Reactive Gas,Perfect,34.04
+Tribute,GORV-P,OY-UZ1,OY-UZ1 V,Base Metals,Perfect,10.42
+Tribute,GORV-P,OY-UZ1,OY-UZ1 V,Noble Metals,Perfect,36.08
+Tribute,GORV-P,OY-UZ1,OY-UZ1 V,Liquid Ozone,Medium,32.47
+Tribute,GORV-P,OY-UZ1,OY-UZ1 VI,Glossy Compound,Poor,19.36
+Tribute,GORV-P,OY-UZ1,OY-UZ1 VI,Reactive Gas,Rich,32.36
+Tribute,GORV-P,OY-UZ1,OY-UZ1 VI,Polyaramids,Medium,17.07
+Tribute,GORV-P,OY-UZ1,OY-UZ1 VI,Coolant,Rich,20.79
+Tribute,GORV-P,OY-UZ1,OY-UZ1 VI,Ionic Solutions,Medium,9.38
+Tribute,GORV-P,OY-UZ1,OY-UZ1 VII,Sheen Compound,Rich,26.73
+Tribute,GORV-P,OY-UZ1,OY-UZ1 VII,Fiber Composite,Medium,22.01
+Tribute,GORV-P,OY-UZ1,OY-UZ1 VII,Reactive Gas,Medium,20.39
+Tribute,GORV-P,OY-UZ1,OY-UZ1 VII,Polyaramids,Rich,19.87
+Tribute,GORV-P,OY-UZ1,OY-UZ1 VII,Ionic Solutions,Rich,12.00
+Tribute,GORV-P,OY-UZ1,OY-UZ1 VIII,Sheen Compound,Medium,24.84
+Tribute,GORV-P,OY-UZ1,OY-UZ1 VIII,Reactive Gas,Medium,21.80
+Tribute,GORV-P,OY-UZ1,OY-UZ1 VIII,Noble Gas,Medium,20.37
+Tribute,GORV-P,OY-UZ1,OY-UZ1 VIII,Base Metals,Rich,8.25
+Tribute,GORV-P,OY-UZ1,OY-UZ1 VIII,Ionic Solutions,Rich,11.13
+Tribute,GORV-P,OY-UZ1,OY-UZ1 IX,Dark Compound,Medium,24.11
+Tribute,GORV-P,OY-UZ1,OY-UZ1 IX,Base Metals,Medium,6.08
+Tribute,GORV-P,OY-UZ1,OY-UZ1 IX,Supertensile Plastics,Medium,17.00
+Tribute,GORV-P,OY-UZ1,OY-UZ1 IX,Construction Blocks,Poor,14.72
+Tribute,03C-SU,S8-NSQ,S8-NSQ I,Precious Alloy,Poor,20.59
+Tribute,03C-SU,S8-NSQ,S8-NSQ I,Supertensile Plastics,Poor,11.03
+Tribute,03C-SU,S8-NSQ,S8-NSQ I,Silicate Glass,Medium,11.82
+Tribute,03C-SU,S8-NSQ,S8-NSQ I,Plasmoids,Medium,1.28
+Tribute,03C-SU,S8-NSQ,S8-NSQ II,Motley Compound,Poor,20.04
+Tribute,03C-SU,S8-NSQ,S8-NSQ II,Supertensile Plastics,Medium,15.84
+Tribute,03C-SU,S8-NSQ,S8-NSQ II,Coolant,Poor,13.30
+Tribute,03C-SU,S8-NSQ,S8-NSQ II,Condensates,Rich,21.40
+Tribute,03C-SU,GIH-ZG,GIH-ZG I,Lucent Compound,Medium,23.41
+Tribute,03C-SU,GIH-ZG,GIH-ZG I,Reactive Metals,Poor,4.76
+Tribute,03C-SU,GIH-ZG,GIH-ZG I,Toxic Metals,Perfect,9.42
+Tribute,03C-SU,GIH-ZG,GIH-ZG I,Construction Blocks,Rich,29.50
+Tribute,03C-SU,GIH-ZG,GIH-ZG II,Precious Alloy,Medium,24.38
+Tribute,03C-SU,GIH-ZG,GIH-ZG II,Toxic Metals,Poor,5.09
+Tribute,03C-SU,GIH-ZG,GIH-ZG II,Supertensile Plastics,Poor,10.50
+Tribute,03C-SU,GIH-ZG,GIH-ZG II,Oxygen Isotopes,Poor,2.47
+Tribute,03C-SU,GIH-ZG,GIH-ZG III,Opulent Compound,Perfect,38.79
+Tribute,03C-SU,GIH-ZG,GIH-ZG III,Reactive Gas,Medium,26.88
+Tribute,03C-SU,GIH-ZG,GIH-ZG III,Smartfab Units,Rich,18.98
+Tribute,03C-SU,GIH-ZG,GIH-ZG III,Heavy Water,Medium,211.64
+Tribute,03C-SU,GIH-ZG,GIH-ZG III,Liquid Ozone,Medium,26.18
+Tribute,03C-SU,GIH-ZG,GIH-ZG IV,Precious Alloy,Poor,14.70
+Tribute,03C-SU,GIH-ZG,GIH-ZG IV,Toxic Metals,Medium,6.51
+Tribute,03C-SU,GIH-ZG,GIH-ZG IV,Supertensile Plastics,Poor,9.94
+Tribute,03C-SU,GIH-ZG,GIH-ZG IV,Plasmoids,Poor,1.05
+Tribute,03C-SU,GIH-ZG,GIH-ZG V,Opulent Compound,Perfect,38.10
+Tribute,03C-SU,GIH-ZG,GIH-ZG V,Noble Metals,Medium,23.54
+Tribute,03C-SU,GIH-ZG,GIH-ZG V,Silicate Glass,Medium,12.58
+Tribute,03C-SU,GIH-ZG,GIH-ZG V,Liquid Ozone,Perfect,45.60
+Tribute,03C-SU,GIH-ZG,GIH-ZG V,Ionic Solutions,Rich,11.70
+Tribute,03C-SU,GIH-ZG,GIH-ZG VI,Glossy Compound,Rich,33.97
+Tribute,03C-SU,GIH-ZG,GIH-ZG VI,Reactive Gas,Rich,30.14
+Tribute,03C-SU,GIH-ZG,GIH-ZG VI,Base Metals,Medium,6.13
+Tribute,03C-SU,GIH-ZG,GIH-ZG VI,Polyaramids,Poor,12.85
+Tribute,03C-SU,GIH-ZG,GIH-ZG VI,Coolant,Poor,13.27
+Tribute,03C-SU,GIH-ZG,GIH-ZG VII,Lustering Alloy,Rich,31.37
+Tribute,03C-SU,GIH-ZG,GIH-ZG VII,Reactive Gas,Medium,21.93
+Tribute,03C-SU,GIH-ZG,GIH-ZG VII,Reactive Metals,Medium,5.96
+Tribute,03C-SU,GIH-ZG,GIH-ZG VII,Polyaramids,Medium,14.95
+Tribute,03C-SU,GIH-ZG,GIH-ZG VII,Ionic Solutions,Medium,9.41
+Tribute,03C-SU,GIH-ZG,GIH-ZG VIII,Sheen Compound,Poor,20.17
+Tribute,03C-SU,GIH-ZG,GIH-ZG VIII,Reactive Gas,Rich,29.22
+Tribute,03C-SU,GIH-ZG,GIH-ZG VIII,Base Metals,Poor,5.08
+Tribute,03C-SU,GIH-ZG,GIH-ZG VIII,Reactive Metals,Poor,4.78
+Tribute,03C-SU,GIH-ZG,GIH-ZG VIII,Ionic Solutions,Rich,12.11
+Tribute,03C-SU,GIH-ZG,GIH-ZG IX,Sheen Compound,Rich,29.63
+Tribute,03C-SU,GIH-ZG,GIH-ZG IX,Reactive Gas,Medium,21.34
+Tribute,03C-SU,GIH-ZG,GIH-ZG IX,Base Metals,Medium,6.56
+Tribute,03C-SU,GIH-ZG,GIH-ZG IX,Coolant,Perfect,23.54
+Tribute,03C-SU,GIH-ZG,GIH-ZG IX,Ionic Solutions,Rich,12.88
+Tribute,03C-SU,GIH-ZG,GIH-ZG X,Precious Alloy,Medium,21.32
+Tribute,03C-SU,GIH-ZG,GIH-ZG X,Heavy Metals,Rich,31.15
+Tribute,03C-SU,GIH-ZG,GIH-ZG X,Condensates,Poor,12.50
+Tribute,03C-SU,GIH-ZG,GIH-ZG X,Liquid Ozone,Poor,25.58
+Tribute,03C-SU,V7-FB4,V7-FB4 I,Gleaming Alloy,Perfect,36.87
+Tribute,03C-SU,V7-FB4,V7-FB4 I,Noble Metals,Rich,30.16
+Tribute,03C-SU,V7-FB4,V7-FB4 I,Plasmoids,Perfect,2.17
+Tribute,03C-SU,V7-FB4,V7-FB4 II,Lustering Alloy,Poor,18.72
+Tribute,03C-SU,V7-FB4,V7-FB4 II,Precious Alloy,Medium,21.78
+Tribute,03C-SU,V7-FB4,V7-FB4 II,Supertensile Plastics,Poor,10.35
+Tribute,03C-SU,V7-FB4,V7-FB4 II,Construction Blocks,Poor,18.59
+Tribute,03C-SU,V7-FB4,V7-FB4 III,Gleaming Alloy,Rich,29.96
+Tribute,03C-SU,V7-FB4,V7-FB4 III,Polyaramids,Rich,22.88
+Tribute,03C-SU,V7-FB4,V7-FB4 III,Oxygen Isotopes,Medium,3.81
+Tribute,03C-SU,V7-FB4,V7-FB4 IV,Lustering Alloy,Medium,21.21
+Tribute,03C-SU,V7-FB4,V7-FB4 IV,Sheen Compound,Medium,22.79
+Tribute,03C-SU,V7-FB4,V7-FB4 IV,Reactive Gas,Rich,34.50
+Tribute,03C-SU,V7-FB4,V7-FB4 IV,Coolant,Rich,20.33
+Tribute,03C-SU,V7-FB4,V7-FB4 IV,Ionic Solutions,Poor,7.83
+Tribute,03C-SU,V7-FB4,V7-FB4 V,Glossy Compound,Rich,31.15
+Tribute,03C-SU,V7-FB4,V7-FB4 V,Reactive Gas,Medium,21.41
+Tribute,03C-SU,V7-FB4,V7-FB4 V,Reactive Metals,Rich,9.11
+Tribute,03C-SU,V7-FB4,V7-FB4 V,Polyaramids,Medium,17.16
+Tribute,03C-SU,V7-FB4,V7-FB4 V,Coolant,Medium,16.87
+Tribute,03C-SU,V7-FB4,V7-FB4 VI,Lustering Alloy,Rich,31.00
+Tribute,03C-SU,V7-FB4,V7-FB4 VI,Sheen Compound,Rich,34.41
+Tribute,03C-SU,V7-FB4,V7-FB4 VI,Glossy Compound,Rich,33.11
+Tribute,03C-SU,V7-FB4,V7-FB4 VI,Reactive Gas,Rich,28.78
+Tribute,03C-SU,V7-FB4,V7-FB4 VI,Ionic Solutions,Rich,13.81
+Tribute,03C-SU,V7-FB4,V7-FB4 VII,Reactive Gas,Poor,20.13
+Tribute,03C-SU,V7-FB4,V7-FB4 VII,Noble Gas,Rich,30.32
+Tribute,03C-SU,V7-FB4,V7-FB4 VII,Reactive Metals,Rich,8.12
+Tribute,03C-SU,V7-FB4,V7-FB4 VII,Polyaramids,Rich,22.54
+Tribute,03C-SU,V7-FB4,V7-FB4 VII,Coolant,Medium,15.40
+Tribute,03C-SU,V7-FB4,V7-FB4 VIII,Base Metals,Medium,5.75
+Tribute,03C-SU,V7-FB4,V7-FB4 VIII,Supertensile Plastics,Medium,15.21
+Tribute,03C-SU,V7-FB4,V7-FB4 VIII,Silicate Glass,Medium,10.67
+Tribute,03C-SU,V7-FB4,V7-FB4 VIII,Oxygen Isotopes,Medium,3.52
+Tribute,03C-SU,XD-TOV,XD-TOV I,Gleaming Alloy,Rich,33.44
+Tribute,03C-SU,XD-TOV,XD-TOV I,Heavy Metals,Rich,30.38
+Tribute,03C-SU,XD-TOV,XD-TOV I,Construction Blocks,Perfect,36.26
+Tribute,03C-SU,XD-TOV,XD-TOV II,Gleaming Alloy,Medium,23.63
+Tribute,03C-SU,XD-TOV,XD-TOV II,Reactive Metals,Medium,7.16
+Tribute,03C-SU,XD-TOV,XD-TOV II,Toxic Metals,Medium,6.88
+Tribute,03C-SU,XD-TOV,XD-TOV II,Oxygen Isotopes,Medium,3.29
+Tribute,03C-SU,XD-TOV,XD-TOV III,Reactive Gas,Perfect,35.13
+Tribute,03C-SU,XD-TOV,XD-TOV III,Noble Gas,Rich,28.14
+Tribute,03C-SU,XD-TOV,XD-TOV III,Base Metals,Rich,8.61
+Tribute,03C-SU,XD-TOV,XD-TOV III,Coolant,Medium,17.60
+Tribute,03C-SU,XD-TOV,XD-TOV III,Ionic Solutions,Medium,9.17
+Tribute,03C-SU,XD-TOV,XD-TOV IV,Reactive Gas,Medium,21.45
+Tribute,03C-SU,XD-TOV,XD-TOV IV,Noble Metals,Perfect,39.42
+Tribute,03C-SU,XD-TOV,XD-TOV IV,Smartfab Units,Perfect,23.41
+Tribute,03C-SU,XD-TOV,XD-TOV IV,Heavy Water,Medium,249.92
+Tribute,03C-SU,XD-TOV,XD-TOV IV,Liquid Ozone,Medium,33.03
+Tribute,03C-SU,XD-TOV,XD-TOV V,Lustering Alloy,Rich,28.84
+Tribute,03C-SU,XD-TOV,XD-TOV V,Reactive Gas,Poor,19.58
+Tribute,03C-SU,XD-TOV,XD-TOV V,Base Metals,Rich,7.42
+Tribute,03C-SU,XD-TOV,XD-TOV V,Reactive Metals,Rich,7.91
+Tribute,03C-SU,XD-TOV,XD-TOV V,Coolant,Medium,15.22
+Tribute,03C-SU,XD-TOV,XD-TOV VI,Fiber Composite,Perfect,36.01
+Tribute,03C-SU,XD-TOV,XD-TOV VI,Glossy Compound,Medium,27.68
+Tribute,03C-SU,XD-TOV,XD-TOV VI,Reactive Gas,Medium,22.09
+Tribute,03C-SU,XD-TOV,XD-TOV VI,Coolant,Rich,21.79
+Tribute,03C-SU,XD-TOV,XD-TOV VI,Ionic Solutions,Medium,10.97
+Tribute,03C-SU,XD-TOV,XD-TOV VII,Lustering Alloy,Rich,30.29
+Tribute,03C-SU,XD-TOV,XD-TOV VII,Fiber Composite,Medium,22.77
+Tribute,03C-SU,XD-TOV,XD-TOV VII,Glossy Compound,Medium,24.55
+Tribute,03C-SU,XD-TOV,XD-TOV VII,Reactive Gas,Perfect,35.73
+Tribute,03C-SU,XD-TOV,XD-TOV VII,Noble Gas,Rich,31.55
+Tribute,03C-SU,XD-TOV,XD-TOV VIII,Lustering Alloy,Rich,32.32
+Tribute,03C-SU,XD-TOV,XD-TOV VIII,Industrial Fibers,Medium,7.23
+Tribute,03C-SU,XD-TOV,XD-TOV VIII,Coolant,Medium,14.55
+Tribute,03C-SU,XD-TOV,XD-TOV VIII,Condensates,Medium,16.16
+Tribute,03C-SU,K-6SNI,K-6SNI I,Base Metals,Medium,5.85
+Tribute,03C-SU,K-6SNI,K-6SNI I,Toxic Metals,Poor,5.04
+Tribute,03C-SU,K-6SNI,K-6SNI I,Industrial Fibers,Medium,6.30
+Tribute,03C-SU,K-6SNI,K-6SNI I,Supertensile Plastics,Poor,12.77
+Tribute,03C-SU,K-6SNI,K-6SNI II,Gleaming Alloy,Rich,30.43
+Tribute,03C-SU,K-6SNI,K-6SNI II,Construction Blocks,Medium,25.98
+Tribute,03C-SU,K-6SNI,K-6SNI II,Oxygen Isotopes,Medium,3.20
+Tribute,03C-SU,K-6SNI,K-6SNI III,Lustering Alloy,Poor,13.77
+Tribute,03C-SU,K-6SNI,K-6SNI III,Base Metals,Medium,6.24
+Tribute,03C-SU,K-6SNI,K-6SNI III,Supertensile Plastics,Poor,12.54
+Tribute,03C-SU,K-6SNI,K-6SNI III,Plasmoids,Medium,1.38
+Tribute,03C-SU,K-6SNI,K-6SNI IV,Opulent Compound,Perfect,37.84
+Tribute,03C-SU,K-6SNI,K-6SNI IV,Noble Metals,Rich,32.49
+Tribute,03C-SU,K-6SNI,K-6SNI IV,Industrial Fibers,Medium,6.48
+Tribute,03C-SU,K-6SNI,K-6SNI IV,Smartfab Units,Perfect,24.80
+Tribute,03C-SU,K-6SNI,K-6SNI IV,Liquid Ozone,Medium,28.41
+Tribute,03C-SU,K-6SNI,K-6SNI V,Lustering Alloy,Rich,32.91
+Tribute,03C-SU,K-6SNI,K-6SNI V,Fiber Composite,Medium,25.45
+Tribute,03C-SU,K-6SNI,K-6SNI V,Reactive Gas,Rich,30.25
+Tribute,03C-SU,K-6SNI,K-6SNI V,Noble Gas,Medium,26.53
+Tribute,03C-SU,K-6SNI,K-6SNI V,Base Metals,Medium,6.11
+Tribute,03C-SU,K-6SNI,K-6SNI VI,Fiber Composite,Poor,19.84
+Tribute,03C-SU,K-6SNI,K-6SNI VI,Reactive Gas,Rich,32.80
+Tribute,03C-SU,K-6SNI,K-6SNI VI,Polyaramids,Poor,12.03
+Tribute,03C-SU,K-6SNI,K-6SNI VI,Coolant,Medium,18.22
+Tribute,03C-SU,K-6SNI,K-6SNI VI,Ionic Solutions,Perfect,14.15
+Tribute,03C-SU,K-6SNI,K-6SNI VII,Fiber Composite,Rich,29.57
+Tribute,03C-SU,K-6SNI,K-6SNI VII,Noble Metals,Medium,25.43
+Tribute,03C-SU,K-6SNI,K-6SNI VII,Condensates,Perfect,26.77
+Tribute,03C-SU,K-6SNI,K-6SNI VII,Heavy Water,Perfect,359.48
+Tribute,03C-SU,K-6SNI,K-6SNI VII,Liquid Ozone,Rich,37.10
+Tribute,03C-SU,K-6SNI,K-6SNI VIII,Motley Compound,Rich,32.76
+Tribute,03C-SU,K-6SNI,K-6SNI VIII,Industrial Fibers,Poor,4.26
+Tribute,03C-SU,K-6SNI,K-6SNI VIII,Condensates,Medium,17.22
+Tribute,03C-SU,K-6SNI,K-6SNI VIII,Liquid Ozone,Medium,34.48
+Tribute,03C-SU,L-VXTK,L-VXTK I,Gleaming Alloy,Perfect,36.61
+Tribute,03C-SU,L-VXTK,L-VXTK I,Glossy Compound,Rich,29.46
+Tribute,03C-SU,L-VXTK,L-VXTK I,Oxygen Isotopes,Medium,3.83
+Tribute,03C-SU,L-VXTK,L-VXTK II,Industrial Fibers,Medium,5.84
+Tribute,03C-SU,L-VXTK,L-VXTK II,Supertensile Plastics,Poor,9.20
+Tribute,03C-SU,L-VXTK,L-VXTK II,Oxygen Isotopes,Poor,2.23
+Tribute,03C-SU,L-VXTK,L-VXTK II,Plasmoids,Medium,1.40
+Tribute,03C-SU,L-VXTK,L-VXTK III,Fiber Composite,Medium,23.61
+Tribute,03C-SU,L-VXTK,L-VXTK III,Base Metals,Medium,6.04
+Tribute,03C-SU,L-VXTK,L-VXTK III,Industrial Fibers,Rich,8.61
+Tribute,03C-SU,L-VXTK,L-VXTK III,Heavy Water,Perfect,393.80
+Tribute,03C-SU,L-VXTK,L-VXTK III,Liquid Ozone,Medium,30.00
+Tribute,03C-SU,L-VXTK,L-VXTK IV,Sheen Compound,Medium,25.70
+Tribute,03C-SU,L-VXTK,L-VXTK IV,Glossy Compound,Medium,21.25
+Tribute,03C-SU,L-VXTK,L-VXTK IV,Reactive Gas,Medium,21.56
+Tribute,03C-SU,L-VXTK,L-VXTK IV,Base Metals,Medium,5.83
+Tribute,03C-SU,L-VXTK,L-VXTK IV,Reactive Metals,Medium,5.71
+Tribute,03C-SU,L-VXTK,L-VXTK V,Lustering Alloy,Poor,19.87
+Tribute,03C-SU,L-VXTK,L-VXTK V,Industrial Fibers,Medium,6.47
+Tribute,03C-SU,L-VXTK,L-VXTK V,Supertensile Plastics,Medium,16.98
+Tribute,03C-SU,L-VXTK,L-VXTK V,Silicate Glass,Poor,9.03
+Tribute,03C-SU,L-VXTK,L-VXTK VI,Opulent Compound,Rich,31.31
+Tribute,03C-SU,L-VXTK,L-VXTK VI,Industrial Fibers,Medium,5.52
+Tribute,03C-SU,L-VXTK,L-VXTK VI,Smartfab Units,Medium,16.24
+Tribute,03C-SU,L-VXTK,L-VXTK VI,Heavy Water,Medium,273.90
+Tribute,03C-SU,L-VXTK,L-VXTK VI,Liquid Ozone,Rich,35.53
+Tribute,03C-SU,C8VC-S,C8VC-S I,Dark Compound,Poor,20.57
+Tribute,03C-SU,C8VC-S,C8VC-S I,Toxic Metals,Medium,5.62
+Tribute,03C-SU,C8VC-S,C8VC-S I,Supertensile Plastics,Poor,12.20
+Tribute,03C-SU,C8VC-S,C8VC-S I,Plasmoids,Poor,1.04
+Tribute,03C-SU,C8VC-S,C8VC-S II,Precious Alloy,Medium,25.65
+Tribute,03C-SU,C8VC-S,C8VC-S II,Dark Compound,Poor,15.69
+Tribute,03C-SU,C8VC-S,C8VC-S II,Base Metals,Poor,3.81
+Tribute,03C-SU,C8VC-S,C8VC-S II,Supertensile Plastics,Medium,17.98
+Tribute,03C-SU,C8VC-S,C8VC-S III,Glossy Compound,Medium,27.04
+Tribute,03C-SU,C8VC-S,C8VC-S III,Reactive Gas,Medium,24.29
+Tribute,03C-SU,C8VC-S,C8VC-S III,Base Metals,Medium,7.20
+Tribute,03C-SU,C8VC-S,C8VC-S III,Reactive Metals,Medium,6.93
+Tribute,03C-SU,C8VC-S,C8VC-S III,Polyaramids,Rich,20.97
+Tribute,03C-SU,C8VC-S,C8VC-S IV,Gleaming Alloy,Medium,21.49
+Tribute,03C-SU,C8VC-S,C8VC-S IV,Construction Blocks,Medium,21.52
+Tribute,03C-SU,C8VC-S,C8VC-S IV,Smartfab Units,Medium,17.16
+Tribute,03C-SU,C8VC-S,C8VC-S V,Base Metals,Medium,6.00
+Tribute,03C-SU,C8VC-S,C8VC-S V,Industrial Fibers,Poor,5.12
+Tribute,03C-SU,C8VC-S,C8VC-S V,Supertensile Plastics,Poor,12.28
+Tribute,03C-SU,C8VC-S,C8VC-S V,Construction Blocks,Poor,19.16
+Tribute,03C-SU,C8VC-S,C8VC-S VI,Lustering Alloy,Medium,26.27
+Tribute,03C-SU,C8VC-S,C8VC-S VI,Dark Compound,Medium,25.12
+Tribute,03C-SU,C8VC-S,C8VC-S VI,Supertensile Plastics,Medium,15.83
+Tribute,03C-SU,C8VC-S,C8VC-S VI,Oxygen Isotopes,Medium,3.76
+Tribute,03C-SU,C8VC-S,C8VC-S VII,Dark Compound,Medium,22.88
+Tribute,03C-SU,C8VC-S,C8VC-S VII,Supertensile Plastics,Medium,17.17
+Tribute,03C-SU,C8VC-S,C8VC-S VII,Silicate Glass,Medium,12.32
+Tribute,03C-SU,C8VC-S,C8VC-S VII,Plasmoids,Poor,1.23
+Tribute,03C-SU,W-UQA5,W-UQA5 I,Base Metals,Medium,7.03
+Tribute,03C-SU,W-UQA5,W-UQA5 I,Toxic Metals,Poor,4.68
+Tribute,03C-SU,W-UQA5,W-UQA5 I,Supertensile Plastics,Poor,14.08
+Tribute,03C-SU,W-UQA5,W-UQA5 I,Silicate Glass,Poor,9.99
+Tribute,03C-SU,W-UQA5,W-UQA5 II,Precious Alloy,Poor,15.96
+Tribute,03C-SU,W-UQA5,W-UQA5 II,Industrial Fibers,Medium,7.11
+Tribute,03C-SU,W-UQA5,W-UQA5 II,Supertensile Plastics,Poor,13.75
+Tribute,03C-SU,W-UQA5,W-UQA5 II,Construction Blocks,Medium,25.18
+Tribute,03C-SU,W-UQA5,W-UQA5 III,Lucent Compound,Rich,34.20
+Tribute,03C-SU,W-UQA5,W-UQA5 III,Reactive Gas,Rich,34.52
+Tribute,03C-SU,W-UQA5,W-UQA5 III,Reactive Metals,Medium,6.05
+Tribute,03C-SU,W-UQA5,W-UQA5 III,Nanites,Poor,5.70
+Tribute,03C-SU,W-UQA5,W-UQA5 IV,Precious Alloy,Medium,24.13
+Tribute,03C-SU,W-UQA5,W-UQA5 IV,Dark Compound,Poor,20.68
+Tribute,03C-SU,W-UQA5,W-UQA5 IV,Supertensile Plastics,Poor,11.82
+Tribute,03C-SU,W-UQA5,W-UQA5 IV,Oxygen Isotopes,Medium,4.03
+Tribute,03C-SU,W-UQA5,W-UQA5 V,Lustering Alloy,Poor,15.92
+Tribute,03C-SU,W-UQA5,W-UQA5 V,Dark Compound,Poor,17.27
+Tribute,03C-SU,W-UQA5,W-UQA5 V,Supertensile Plastics,Poor,11.18
+Tribute,03C-SU,W-UQA5,W-UQA5 V,Silicate Glass,Medium,13.04
+Tribute,03C-SU,W-UQA5,W-UQA5 VI,Glossy Compound,Medium,22.79
+Tribute,03C-SU,W-UQA5,W-UQA5 VI,Reactive Gas,Medium,22.49
+Tribute,03C-SU,W-UQA5,W-UQA5 VI,Noble Gas,Rich,32.11
+Tribute,03C-SU,W-UQA5,W-UQA5 VI,Reactive Metals,Perfect,9.77
+Tribute,03C-SU,W-UQA5,W-UQA5 VI,Coolant,Poor,13.91
+Tribute,03C-SU,W-UQA5,W-UQA5 VII,Fiber Composite,Poor,20.26
+Tribute,03C-SU,W-UQA5,W-UQA5 VII,Glossy Compound,Medium,22.17
+Tribute,03C-SU,W-UQA5,W-UQA5 VII,Reactive Gas,Rich,32.52
+Tribute,03C-SU,W-UQA5,W-UQA5 VII,Polyaramids,Rich,22.68
+Tribute,03C-SU,W-UQA5,W-UQA5 VII,Coolant,Rich,23.61
+Tribute,03C-SU,W-UQA5,W-UQA5 VIII,Lucent Compound,Medium,21.80
+Tribute,03C-SU,W-UQA5,W-UQA5 VIII,Reactive Metals,Medium,6.80
+Tribute,03C-SU,W-UQA5,W-UQA5 VIII,Supertensile Plastics,Rich,20.18
+Tribute,03C-SU,W-UQA5,W-UQA5 VIII,Oxygen Isotopes,Poor,3.10
+Tribute,03C-SU,W-UQA5,W-UQA5 IX,Fiber Composite,Rich,32.43
+Tribute,03C-SU,W-UQA5,W-UQA5 IX,Reactive Gas,Medium,22.56
+Tribute,03C-SU,W-UQA5,W-UQA5 IX,Base Metals,Perfect,9.67
+Tribute,03C-SU,W-UQA5,W-UQA5 IX,Reactive Metals,Medium,7.43
+Tribute,03C-SU,W-UQA5,W-UQA5 IX,Coolant,Medium,15.18
+Tribute,03C-SU,W-UQA5,W-UQA5 X,Reactive Gas,Poor,18.58
+Tribute,03C-SU,W-UQA5,W-UQA5 X,Reactive Metals,Rich,8.78
+Tribute,03C-SU,W-UQA5,W-UQA5 X,Supertensile Plastics,Medium,17.23
+Tribute,03C-SU,W-UQA5,W-UQA5 X,Oxygen Isotopes,Poor,2.81
+Tribute,03C-SU,W-UQA5,W-UQA5 XI,Lustering Alloy,Perfect,37.86
+Tribute,03C-SU,W-UQA5,W-UQA5 XI,Reactive Gas,Medium,21.87
+Tribute,03C-SU,W-UQA5,W-UQA5 XI,Base Metals,Poor,5.33
+Tribute,03C-SU,W-UQA5,W-UQA5 XI,Polyaramids,Rich,23.00
+Tribute,03C-SU,W-UQA5,W-UQA5 XI,Ionic Solutions,Poor,7.63
+Tribute,03C-SU,W-UQA5,W-UQA5 XII,Precious Alloy,Rich,31.90
+Tribute,03C-SU,W-UQA5,W-UQA5 XII,Base Metals,Medium,6.84
+Tribute,03C-SU,W-UQA5,W-UQA5 XII,Condensates,Poor,11.67
+Tribute,03C-SU,W-UQA5,W-UQA5 XII,Suspended Plasma,Rich,114.43
+Tribute,W-XBGF,W6VP-Y,W6VP-Y I,Lustering Alloy,Poor,23.09
+Tribute,W-XBGF,W6VP-Y,W6VP-Y I,Precious Alloy,Medium,30.24
+Tribute,W-XBGF,W6VP-Y,W6VP-Y I,Dark Compound,Medium,31.10
+Tribute,W-XBGF,W6VP-Y,W6VP-Y I,Oxygen Isotopes,Poor,3.77
+Tribute,W-XBGF,W6VP-Y,W6VP-Y I,Plasmoids,Medium,1.66
+Tribute,W-XBGF,W6VP-Y,W6VP-Y II,Reactive Gas,Rich,42.42
+Tribute,W-XBGF,W6VP-Y,W6VP-Y II,Base Metals,Poor,6.49
+Tribute,W-XBGF,W6VP-Y,W6VP-Y II,Reactive Metals,Rich,9.05
+Tribute,W-XBGF,W6VP-Y,W6VP-Y II,Polyaramids,Medium,21.65
+Tribute,W-XBGF,W6VP-Y,W6VP-Y II,Coolant,Medium,17.84
+Tribute,W-XBGF,W6VP-Y,W6VP-Y II,Ionic Solutions,Poor,9.54
+Tribute,W-XBGF,W6VP-Y,W6VP-Y III,Lustering Alloy,Poor,18.25
+Tribute,W-XBGF,W6VP-Y,W6VP-Y III,Dark Compound,Medium,31.62
+Tribute,W-XBGF,W6VP-Y,W6VP-Y III,Supertensile Plastics,Medium,19.82
+Tribute,W-XBGF,W6VP-Y,W6VP-Y III,Construction Blocks,Medium,31.05
+Tribute,W-XBGF,W6VP-Y,W6VP-Y III,Oxygen Isotopes,Medium,4.86
+Tribute,W-XBGF,W6VP-Y,W6VP-Y IV,Lustering Alloy,Rich,42.77
+Tribute,W-XBGF,W6VP-Y,W6VP-Y IV,Glossy Compound,Medium,26.84
+Tribute,W-XBGF,W6VP-Y,W6VP-Y IV,Reactive Gas,Rich,37.77
+Tribute,W-XBGF,W6VP-Y,W6VP-Y IV,Base Metals,Medium,8.18
+Tribute,W-XBGF,W6VP-Y,W6VP-Y IV,Reactive Metals,Rich,10.77
+Tribute,W-XBGF,W6VP-Y,W6VP-Y IV,Ionic Solutions,Poor,10.12
+Tribute,W-XBGF,W6VP-Y,W6VP-Y V,Glossy Compound,Rich,40.93
+Tribute,W-XBGF,W6VP-Y,W6VP-Y V,Reactive Gas,Rich,35.96
+Tribute,W-XBGF,W6VP-Y,W6VP-Y V,Noble Gas,Medium,28.78
+Tribute,W-XBGF,W6VP-Y,W6VP-Y V,Reactive Metals,Rich,10.50
+Tribute,W-XBGF,W6VP-Y,W6VP-Y V,Polyaramids,Rich,23.24
+Tribute,W-XBGF,W6VP-Y,W6VP-Y V,Ionic Solutions,Medium,13.50
+Tribute,W-XBGF,W6VP-Y,W6VP-Y VI,Sheen Compound,Medium,30.62
+Tribute,W-XBGF,W6VP-Y,W6VP-Y VI,Fiber Composite,Medium,30.38
+Tribute,W-XBGF,W6VP-Y,W6VP-Y VI,Glossy Compound,Poor,24.73
+Tribute,W-XBGF,W6VP-Y,W6VP-Y VI,Reactive Gas,Medium,30.89
+Tribute,W-XBGF,W6VP-Y,W6VP-Y VI,Noble Gas,Rich,34.72
+Tribute,W-XBGF,W6VP-Y,W6VP-Y VI,Base Metals,Medium,8.07
+Tribute,W-XBGF,W6VP-Y,W6VP-Y VII,Gleaming Alloy,Medium,27.89
+Tribute,W-XBGF,W6VP-Y,W6VP-Y VII,Crystal Compound,Rich,41.04
+Tribute,W-XBGF,W6VP-Y,W6VP-Y VII,Reactive Gas,Medium,29.48
+Tribute,W-XBGF,W6VP-Y,W6VP-Y VII,Reactive Metals,Rich,9.90
+Tribute,W-XBGF,W6VP-Y,W6VP-Y VII,Construction Blocks,Rich,41.28
+Tribute,W-XBGF,W6VP-Y,W6VP-Y VIII,Lustering Alloy,Rich,38.93
+Tribute,W-XBGF,W6VP-Y,W6VP-Y VIII,Precious Alloy,Rich,34.83
+Tribute,W-XBGF,W6VP-Y,W6VP-Y VIII,Motley Compound,Rich,36.96
+Tribute,W-XBGF,W6VP-Y,W6VP-Y VIII,Base Metals,Medium,8.25
+Tribute,W-XBGF,W6VP-Y,W6VP-Y VIII,Industrial Fibers,Poor,5.70
+Tribute,W-XBGF,IMK-K1,IMK-K1 I,Motley Compound,Rich,38.88
+Tribute,W-XBGF,IMK-K1,IMK-K1 I,Glossy Compound,Medium,29.43
+Tribute,W-XBGF,IMK-K1,IMK-K1 I,Construction Blocks,Medium,32.32
+Tribute,W-XBGF,IMK-K1,IMK-K1 I,Oxygen Isotopes,Rich,5.32
+Tribute,W-XBGF,IMK-K1,IMK-K1 II,Precious Alloy,Poor,19.82
+Tribute,W-XBGF,IMK-K1,IMK-K1 II,Dark Compound,Poor,20.98
+Tribute,W-XBGF,IMK-K1,IMK-K1 II,Base Metals,Poor,5.75
+Tribute,W-XBGF,IMK-K1,IMK-K1 II,Industrial Fibers,Medium,7.86
+Tribute,W-XBGF,IMK-K1,IMK-K1 II,Supertensile Plastics,Medium,17.37
+Tribute,W-XBGF,IMK-K1,IMK-K1 III,Condensed Alloy,Perfect,47.52
+Tribute,W-XBGF,IMK-K1,IMK-K1 III,Fiber Composite,Medium,25.46
+Tribute,W-XBGF,IMK-K1,IMK-K1 III,Base Metals,Medium,8.82
+Tribute,W-XBGF,IMK-K1,IMK-K1 III,Noble Metals,Medium,32.91
+Tribute,W-XBGF,IMK-K1,IMK-K1 III,Industrial Fibers,Perfect,11.32
+Tribute,W-XBGF,IMK-K1,IMK-K1 III,Condensates,Medium,18.85
+Tribute,W-XBGF,IMK-K1,IMK-K1 IV,Dark Compound,Perfect,43.52
+Tribute,W-XBGF,IMK-K1,IMK-K1 IV,Heavy Metals,Rich,38.45
+Tribute,W-XBGF,IMK-K1,IMK-K1 IV,Reactive Metals,Perfect,11.85
+Tribute,W-XBGF,IMK-K1,IMK-K1 IV,Nanites,Rich,9.64
+Tribute,W-XBGF,IMK-K1,IMK-K1 IV,Ionic Solutions,Medium,11.08
+Tribute,W-XBGF,IMK-K1,IMK-K1 IV,Plasmoids,Rich,2.47
+Tribute,W-XBGF,IMK-K1,IMK-K1 V,Gleaming Alloy,Medium,26.97
+Tribute,W-XBGF,IMK-K1,IMK-K1 V,Crystal Compound,Medium,26.49
+Tribute,W-XBGF,IMK-K1,IMK-K1 V,Reactive Metals,Rich,9.27
+Tribute,W-XBGF,IMK-K1,IMK-K1 V,Toxic Metals,Medium,7.66
+Tribute,W-XBGF,IMK-K1,IMK-K1 V,Oxygen Isotopes,Rich,5.98
+Tribute,W-XBGF,IMK-K1,IMK-K1 VI,Condensed Alloy,Perfect,43.79
+Tribute,W-XBGF,IMK-K1,IMK-K1 VI,Opulent Compound,Rich,37.88
+Tribute,W-XBGF,IMK-K1,IMK-K1 VI,Crystal Compound,Rich,34.34
+Tribute,W-XBGF,IMK-K1,IMK-K1 VI,Toxic Metals,Perfect,11.56
+Tribute,W-XBGF,IMK-K1,IMK-K1 VI,Polyaramids,Rich,28.37
+Tribute,W-XBGF,IMK-K1,IMK-K1 VI,Ionic Solutions,Medium,13.55
+Tribute,W-XBGF,IMK-K1,IMK-K1 VII,Lucent Compound,Medium,30.05
+Tribute,W-XBGF,IMK-K1,IMK-K1 VII,Crystal Compound,Rich,37.37
+Tribute,W-XBGF,IMK-K1,IMK-K1 VII,Reactive Metals,Medium,7.07
+Tribute,W-XBGF,IMK-K1,IMK-K1 VII,Supertensile Plastics,Rich,28.49
+Tribute,W-XBGF,IMK-K1,IMK-K1 VII,Oxygen Isotopes,Medium,4.97
+Tribute,W-XBGF,IMK-K1,IMK-K1 VIII,Lustering Alloy,Perfect,44.04
+Tribute,W-XBGF,IMK-K1,IMK-K1 VIII,Sheen Compound,Perfect,43.20
+Tribute,W-XBGF,IMK-K1,IMK-K1 VIII,Base Metals,Rich,10.74
+Tribute,W-XBGF,IMK-K1,IMK-K1 VIII,Polyaramids,Rich,25.61
+Tribute,W-XBGF,IMK-K1,IMK-K1 VIII,Coolant,Poor,16.96
+Tribute,W-XBGF,IMK-K1,IMK-K1 VIII,Ionic Solutions,Rich,14.63
+Tribute,W-XBGF,IMK-K1,IMK-K1 IX,Glossy Compound,Medium,31.81
+Tribute,W-XBGF,IMK-K1,IMK-K1 IX,Reactive Gas,Medium,32.45
+Tribute,W-XBGF,IMK-K1,IMK-K1 IX,Noble Gas,Medium,27.24
+Tribute,W-XBGF,IMK-K1,IMK-K1 IX,Reactive Metals,Poor,6.08
+Tribute,W-XBGF,IMK-K1,IMK-K1 IX,Polyaramids,Rich,26.73
+Tribute,W-XBGF,IMK-K1,IMK-K1 IX,Ionic Solutions,Medium,13.13
+Tribute,W-XBGF,NJ4X-S,NJ4X-S I,Lustering Alloy,Poor,21.33
+Tribute,W-XBGF,NJ4X-S,NJ4X-S I,Dark Compound,Medium,25.54
+Tribute,W-XBGF,NJ4X-S,NJ4X-S I,Industrial Fibers,Poor,4.47
+Tribute,W-XBGF,NJ4X-S,NJ4X-S I,Construction Blocks,Poor,22.87
+Tribute,W-XBGF,NJ4X-S,NJ4X-S I,Plasmoids,Medium,1.59
+Tribute,W-XBGF,NJ4X-S,NJ4X-S II,Gleaming Alloy,Medium,32.75
+Tribute,W-XBGF,NJ4X-S,NJ4X-S II,Glossy Compound,Medium,32.51
+Tribute,W-XBGF,NJ4X-S,NJ4X-S II,Noble Metals,Medium,31.62
+Tribute,W-XBGF,NJ4X-S,NJ4X-S II,Polyaramids,Rich,22.90
+Tribute,W-XBGF,NJ4X-S,NJ4X-S III,Condensed Alloy,Rich,40.91
+Tribute,W-XBGF,NJ4X-S,NJ4X-S III,Fiber Composite,Perfect,50.49
+Tribute,W-XBGF,NJ4X-S,NJ4X-S III,Reactive Gas,Perfect,51.44
+Tribute,W-XBGF,NJ4X-S,NJ4X-S III,Industrial Fibers,Rich,9.23
+Tribute,W-XBGF,NJ4X-S,NJ4X-S III,Condensates,Perfect,31.10
+Tribute,W-XBGF,NJ4X-S,NJ4X-S III,Liquid Ozone,Rich,53.36
+Tribute,W-XBGF,NJ4X-S,NJ4X-S IV,Dark Compound,Poor,23.73
+Tribute,W-XBGF,NJ4X-S,NJ4X-S IV,Base Metals,Poor,5.09
+Tribute,W-XBGF,NJ4X-S,NJ4X-S IV,Supertensile Plastics,Poor,11.81
+Tribute,W-XBGF,NJ4X-S,NJ4X-S IV,Construction Blocks,Poor,18.74
+Tribute,W-XBGF,NJ4X-S,NJ4X-S IV,Plasmoids,Poor,1.31
+Tribute,W-XBGF,NJ4X-S,NJ4X-S V,Condensed Alloy,Rich,39.58
+Tribute,W-XBGF,NJ4X-S,NJ4X-S V,Noble Metals,Medium,33.83
+Tribute,W-XBGF,NJ4X-S,NJ4X-S V,Industrial Fibers,Perfect,12.75
+Tribute,W-XBGF,NJ4X-S,NJ4X-S V,Smartfab Units,Rich,24.64
+Tribute,W-XBGF,NJ4X-S,NJ4X-S V,Heavy Water,Perfect,458.73
+Tribute,W-XBGF,NJ4X-S,NJ4X-S V,Liquid Ozone,Medium,39.28
+Tribute,W-XBGF,NJ4X-S,NJ4X-S VI,Sheen Compound,Poor,25.16
+Tribute,W-XBGF,NJ4X-S,NJ4X-S VI,Noble Gas,Medium,25.65
+Tribute,W-XBGF,NJ4X-S,NJ4X-S VI,Base Metals,Rich,9.86
+Tribute,W-XBGF,NJ4X-S,NJ4X-S VI,Reactive Metals,Rich,9.06
+Tribute,W-XBGF,NJ4X-S,NJ4X-S VI,Polyaramids,Medium,16.97
+Tribute,W-XBGF,NJ4X-S,NJ4X-S VI,Ionic Solutions,Rich,14.26
+Tribute,W-XBGF,NJ4X-S,NJ4X-S VII,Sheen Compound,Rich,34.18
+Tribute,W-XBGF,NJ4X-S,NJ4X-S VII,Glossy Compound,Medium,32.21
+Tribute,W-XBGF,NJ4X-S,NJ4X-S VII,Noble Gas,Medium,29.65
+Tribute,W-XBGF,NJ4X-S,NJ4X-S VII,Reactive Metals,Medium,6.78
+Tribute,W-XBGF,NJ4X-S,NJ4X-S VII,Coolant,Medium,22.05
+Tribute,W-XBGF,NJ4X-S,NJ4X-S VII,Ionic Solutions,Rich,15.28
+Tribute,W-XBGF,NJ4X-S,NJ4X-S VIII,Sheen Compound,Poor,23.11
+Tribute,W-XBGF,NJ4X-S,NJ4X-S VIII,Reactive Gas,Rich,42.66
+Tribute,W-XBGF,NJ4X-S,NJ4X-S VIII,Base Metals,Rich,9.24
+Tribute,W-XBGF,NJ4X-S,NJ4X-S VIII,Reactive Metals,Rich,11.15
+Tribute,W-XBGF,NJ4X-S,NJ4X-S VIII,Polyaramids,Medium,17.71
+Tribute,W-XBGF,NJ4X-S,NJ4X-S VIII,Ionic Solutions,Poor,9.41
+Tribute,W-XBGF,NJ4X-S,NJ4X-S IX,Sheen Compound,Medium,28.40
+Tribute,W-XBGF,NJ4X-S,NJ4X-S IX,Fiber Composite,Rich,40.31
+Tribute,W-XBGF,NJ4X-S,NJ4X-S IX,Reactive Gas,Medium,26.43
+Tribute,W-XBGF,NJ4X-S,NJ4X-S IX,Polyaramids,Rich,25.96
+Tribute,W-XBGF,NJ4X-S,NJ4X-S IX,Coolant,Medium,19.46
+Tribute,W-XBGF,NJ4X-S,NJ4X-S IX,Ionic Solutions,Poor,10.01
+Tribute,W-XBGF,NJ4X-S,NJ4X-S X,Lustering Alloy,Medium,32.67
+Tribute,W-XBGF,NJ4X-S,NJ4X-S X,Precious Alloy,Medium,26.08
+Tribute,W-XBGF,NJ4X-S,NJ4X-S X,Motley Compound,Poor,25.16
+Tribute,W-XBGF,NJ4X-S,NJ4X-S X,Condensates,Medium,21.62
+Tribute,W-XBGF,NJ4X-S,NJ4X-S X,Liquid Ozone,Poor,27.03
+Tribute,W-XBGF,F-G7BO,F-G7BO I,Gleaming Alloy,Medium,26.68
+Tribute,W-XBGF,F-G7BO,F-G7BO I,Motley Compound,Medium,28.90
+Tribute,W-XBGF,F-G7BO,F-G7BO I,Glossy Compound,Poor,20.88
+Tribute,W-XBGF,F-G7BO,F-G7BO I,Noble Metals,Poor,21.05
+Tribute,W-XBGF,F-G7BO,F-G7BO II,Motley Compound,Medium,26.20
+Tribute,W-XBGF,F-G7BO,F-G7BO II,Glossy Compound,Rich,36.85
+Tribute,W-XBGF,F-G7BO,F-G7BO II,Noble Gas,Rich,38.15
+Tribute,W-XBGF,F-G7BO,F-G7BO II,Plasmoids,Rich,1.90
+Tribute,W-XBGF,F-G7BO,F-G7BO III,Condensed Alloy,Perfect,41.50
+Tribute,W-XBGF,F-G7BO,F-G7BO III,Noble Metals,Rich,34.38
+Tribute,W-XBGF,F-G7BO,F-G7BO III,Industrial Fibers,Medium,6.73
+Tribute,W-XBGF,F-G7BO,F-G7BO III,Condensates,Medium,16.15
+Tribute,W-XBGF,F-G7BO,F-G7BO III,Heavy Water,Perfect,408.50
+Tribute,W-XBGF,F-G7BO,F-G7BO III,Liquid Ozone,Rich,42.97
+Tribute,W-XBGF,F-G7BO,F-G7BO IV,Gleaming Alloy,Poor,23.20
+Tribute,W-XBGF,F-G7BO,F-G7BO IV,Glossy Compound,Perfect,41.27
+Tribute,W-XBGF,F-G7BO,F-G7BO IV,Noble Gas,Poor,22.95
+Tribute,W-XBGF,F-G7BO,F-G7BO IV,Polyaramids,Rich,24.78
+Tribute,W-XBGF,F-G7BO,F-G7BO V,Lustering Alloy,Medium,28.65
+Tribute,W-XBGF,F-G7BO,F-G7BO V,Dark Compound,Poor,20.32
+Tribute,W-XBGF,F-G7BO,F-G7BO V,Supertensile Plastics,Medium,16.60
+Tribute,W-XBGF,F-G7BO,F-G7BO V,Construction Blocks,Poor,20.00
+Tribute,W-XBGF,F-G7BO,F-G7BO V,Silicate Glass,Poor,10.99
+Tribute,W-XBGF,F-G7BO,F-G7BO VI,Lustering Alloy,Medium,28.45
+Tribute,W-XBGF,F-G7BO,F-G7BO VI,Dark Compound,Poor,19.27
+Tribute,W-XBGF,F-G7BO,F-G7BO VI,Base Metals,Poor,5.73
+Tribute,W-XBGF,F-G7BO,F-G7BO VI,Toxic Metals,Poor,4.89
+Tribute,W-XBGF,F-G7BO,F-G7BO VI,Construction Blocks,Poor,16.63
+Tribute,W-XBGF,F-G7BO,F-G7BO VII,Gleaming Alloy,Medium,31.38
+Tribute,W-XBGF,F-G7BO,F-G7BO VII,Lucent Compound,Medium,29.82
+Tribute,W-XBGF,F-G7BO,F-G7BO VII,Crystal Compound,Medium,27.40
+Tribute,W-XBGF,F-G7BO,F-G7BO VII,Reactive Gas,Medium,28.00
+Tribute,W-XBGF,F-G7BO,F-G7BO VII,Supertensile Plastics,Medium,16.42
+Tribute,W-XBGF,F-G7BO,F-G7BO VIII,Condensed Alloy,Medium,30.13
+Tribute,W-XBGF,F-G7BO,F-G7BO VIII,Fiber Composite,Perfect,44.05
+Tribute,W-XBGF,F-G7BO,F-G7BO VIII,Base Metals,Rich,8.58
+Tribute,W-XBGF,F-G7BO,F-G7BO VIII,Noble Metals,Rich,34.88
+Tribute,W-XBGF,F-G7BO,F-G7BO VIII,Condensates,Perfect,28.07
+Tribute,W-XBGF,F-G7BO,F-G7BO VIII,Smartfab Units,Rich,26.15
+Tribute,W-XBGF,F-G7BO,F-G7BO IX,Reactive Gas,Rich,34.35
+Tribute,W-XBGF,F-G7BO,F-G7BO IX,Noble Gas,Medium,31.55
+Tribute,W-XBGF,F-G7BO,F-G7BO IX,Reactive Metals,Rich,9.85
+Tribute,W-XBGF,F-G7BO,F-G7BO IX,Polyaramids,Medium,18.07
+Tribute,W-XBGF,F-G7BO,F-G7BO IX,Coolant,Rich,21.83
+Tribute,W-XBGF,F-G7BO,F-G7BO IX,Ionic Solutions,Rich,13.25
+Tribute,W-XBGF,F-G7BO,F-G7BO X,Lustering Alloy,Rich,38.63
+Tribute,W-XBGF,F-G7BO,F-G7BO X,Sheen Compound,Medium,31.45
+Tribute,W-XBGF,F-G7BO,F-G7BO X,Noble Gas,Poor,23.18
+Tribute,W-XBGF,F-G7BO,F-G7BO X,Base Metals,Perfect,10.57
+Tribute,W-XBGF,F-G7BO,F-G7BO X,Coolant,Poor,14.37
+Tribute,W-XBGF,F-G7BO,F-G7BO X,Ionic Solutions,Medium,11.61
+Tribute,W-XBGF,2CG-5V,2CG-5V I,Lustering Alloy,Poor,19.42
+Tribute,W-XBGF,2CG-5V,2CG-5V I,Dark Compound,Medium,29.04
+Tribute,W-XBGF,2CG-5V,2CG-5V I,Industrial Fibers,Poor,4.73
+Tribute,W-XBGF,2CG-5V,2CG-5V I,Oxygen Isotopes,Medium,4.29
+Tribute,W-XBGF,2CG-5V,2CG-5V I,Plasmoids,Poor,1.00
+Tribute,W-XBGF,2CG-5V,2CG-5V II,Glossy Compound,Perfect,41.91
+Tribute,W-XBGF,2CG-5V,2CG-5V II,Polyaramids,Poor,14.13
+Tribute,W-XBGF,2CG-5V,2CG-5V II,Oxygen Isotopes,Perfect,6.53
+Tribute,W-XBGF,2CG-5V,2CG-5V II,Plasmoids,Medium,1.78
+Tribute,W-XBGF,2CG-5V,2CG-5V III,Condensed Alloy,Rich,38.64
+Tribute,W-XBGF,2CG-5V,2CG-5V III,Fiber Composite,Medium,30.50
+Tribute,W-XBGF,2CG-5V,2CG-5V III,Opulent Compound,Rich,36.61
+Tribute,W-XBGF,2CG-5V,2CG-5V III,Industrial Fibers,Perfect,12.20
+Tribute,W-XBGF,2CG-5V,2CG-5V III,Condensates,Medium,17.45
+Tribute,W-XBGF,2CG-5V,2CG-5V III,Smartfab Units,Rich,26.52
+Tribute,W-XBGF,2CG-5V,2CG-5V IV,Crystal Compound,Poor,22.98
+Tribute,W-XBGF,2CG-5V,2CG-5V IV,Reactive Gas,Poor,23.14
+Tribute,W-XBGF,2CG-5V,2CG-5V IV,Reactive Metals,Rich,9.46
+Tribute,W-XBGF,2CG-5V,2CG-5V IV,Construction Blocks,Rich,40.01
+Tribute,W-XBGF,2CG-5V,2CG-5V IV,Nanites,Rich,10.11
+Tribute,W-XBGF,2CG-5V,2CG-5V V,Crystal Compound,Rich,38.74
+Tribute,W-XBGF,2CG-5V,2CG-5V V,Supertensile Plastics,Poor,16.03
+Tribute,W-XBGF,2CG-5V,2CG-5V V,Nanites,Medium,8.54
+Tribute,W-XBGF,2CG-5V,2CG-5V V,Suspended Plasma,Rich,120.28
+Tribute,W-XBGF,2CG-5V,2CG-5V V,Oxygen Isotopes,Medium,4.87
+Tribute,W-XBGF,2CG-5V,2CG-5V VI,Dark Compound,Poor,19.66
+Tribute,W-XBGF,2CG-5V,2CG-5V VI,Toxic Metals,Medium,6.45
+Tribute,W-XBGF,2CG-5V,2CG-5V VI,Construction Blocks,Poor,21.63
+Tribute,W-XBGF,2CG-5V,2CG-5V VI,Oxygen Isotopes,Poor,3.30
+Tribute,W-XBGF,2CG-5V,2CG-5V VI,Plasmoids,Poor,1.09
+Tribute,W-XBGF,2CG-5V,2CG-5V VII,Fiber Composite,Rich,33.28
+Tribute,W-XBGF,2CG-5V,2CG-5V VII,Reactive Gas,Medium,27.12
+Tribute,W-XBGF,2CG-5V,2CG-5V VII,Noble Gas,Perfect,41.47
+Tribute,W-XBGF,2CG-5V,2CG-5V VII,Reactive Metals,Rich,9.05
+Tribute,W-XBGF,2CG-5V,2CG-5V VII,Polyaramids,Rich,23.00
+Tribute,W-XBGF,2CG-5V,2CG-5V VII,Ionic Solutions,Rich,13.37
+Tribute,W-XBGF,2CG-5V,2CG-5V VIII,Lustering Alloy,Medium,28.60
+Tribute,W-XBGF,2CG-5V,2CG-5V VIII,Sheen Compound,Rich,38.12
+Tribute,W-XBGF,2CG-5V,2CG-5V VIII,Glossy Compound,Poor,21.55
+Tribute,W-XBGF,2CG-5V,2CG-5V VIII,Base Metals,Rich,9.06
+Tribute,W-XBGF,2CG-5V,2CG-5V VIII,Reactive Metals,Rich,10.36
+Tribute,W-XBGF,2CG-5V,2CG-5V VIII,Ionic Solutions,Rich,14.49
+Tribute,W-XBGF,QFF-O6,QFF-O6 I,Lustering Alloy,Poor,17.20
+Tribute,W-XBGF,QFF-O6,QFF-O6 I,Precious Alloy,Poor,21.45
+Tribute,W-XBGF,QFF-O6,QFF-O6 I,Dark Compound,Medium,25.70
+Tribute,W-XBGF,QFF-O6,QFF-O6 I,Toxic Metals,Poor,5.28
+Tribute,W-XBGF,QFF-O6,QFF-O6 I,Oxygen Isotopes,Medium,4.38
+Tribute,W-XBGF,QFF-O6,QFF-O6 II,Motley Compound,Perfect,40.88
+Tribute,W-XBGF,QFF-O6,QFF-O6 II,Glossy Compound,Perfect,41.15
+Tribute,W-XBGF,QFF-O6,QFF-O6 II,Noble Gas,Medium,29.98
+Tribute,W-XBGF,QFF-O6,QFF-O6 II,Oxygen Isotopes,Medium,4.63
+Tribute,W-XBGF,QFF-O6,QFF-O6 III,Condensed Alloy,Rich,34.60
+Tribute,W-XBGF,QFF-O6,QFF-O6 III,Fiber Composite,Rich,35.75
+Tribute,W-XBGF,QFF-O6,QFF-O6 III,Opulent Compound,Perfect,46.20
+Tribute,W-XBGF,QFF-O6,QFF-O6 III,Reactive Gas,Perfect,45.92
+Tribute,W-XBGF,QFF-O6,QFF-O6 III,Condensates,Perfect,26.75
+Tribute,W-XBGF,QFF-O6,QFF-O6 III,Liquid Ozone,Medium,30.03
+Tribute,W-XBGF,QFF-O6,QFF-O6 IV,Gleaming Alloy,Medium,27.20
+Tribute,W-XBGF,QFF-O6,QFF-O6 IV,Lucent Compound,Poor,22.30
+Tribute,W-XBGF,QFF-O6,QFF-O6 IV,Crystal Compound,Medium,23.70
+Tribute,W-XBGF,QFF-O6,QFF-O6 IV,Toxic Metals,Perfect,10.77
+Tribute,W-XBGF,QFF-O6,QFF-O6 IV,Construction Blocks,Rich,39.63
+Tribute,W-XBGF,QFF-O6,QFF-O6 V,Crystal Compound,Poor,23.07
+Tribute,W-XBGF,QFF-O6,QFF-O6 V,Supertensile Plastics,Medium,20.32
+Tribute,W-XBGF,QFF-O6,QFF-O6 V,Construction Blocks,Rich,34.52
+Tribute,W-XBGF,QFF-O6,QFF-O6 V,Nanites,Perfect,10.55
+Tribute,W-XBGF,QFF-O6,QFF-O6 V,Oxygen Isotopes,Medium,4.13
+Tribute,W-XBGF,QFF-O6,QFF-O6 VI,Precious Alloy,Poor,21.73
+Tribute,W-XBGF,QFF-O6,QFF-O6 VI,Dark Compound,Poor,22.38
+Tribute,W-XBGF,QFF-O6,QFF-O6 VI,Supertensile Plastics,Poor,10.45
+Tribute,W-XBGF,QFF-O6,QFF-O6 VI,Construction Blocks,Medium,27.25
+Tribute,W-XBGF,QFF-O6,QFF-O6 VI,Silicate Glass,Medium,15.36
+Tribute,W-XBGF,QFF-O6,QFF-O6 VII,Fiber Composite,Poor,22.10
+Tribute,W-XBGF,QFF-O6,QFF-O6 VII,Glossy Compound,Medium,27.13
+Tribute,W-XBGF,QFF-O6,QFF-O6 VII,Noble Gas,Medium,25.18
+Tribute,W-XBGF,QFF-O6,QFF-O6 VII,Base Metals,Medium,7.36
+Tribute,W-XBGF,QFF-O6,QFF-O6 VII,Polyaramids,Medium,19.17
+Tribute,W-XBGF,QFF-O6,QFF-O6 VII,Ionic Solutions,Medium,11.53
+Tribute,W-XBGF,QFF-O6,QFF-O6 VIII,Sheen Compound,Poor,22.45
+Tribute,W-XBGF,QFF-O6,QFF-O6 VIII,Fiber Composite,Rich,37.60
+Tribute,W-XBGF,QFF-O6,QFF-O6 VIII,Reactive Gas,Poor,22.27
+Tribute,W-XBGF,QFF-O6,QFF-O6 VIII,Noble Gas,Medium,26.30
+Tribute,W-XBGF,QFF-O6,QFF-O6 VIII,Polyaramids,Poor,14.50
+Tribute,W-XBGF,QFF-O6,QFF-O6 VIII,Ionic Solutions,Poor,9.42
+Tribute,W-XBGF,QFF-O6,QFF-O6 IX,Lustering Alloy,Rich,31.65
+Tribute,W-XBGF,QFF-O6,QFF-O6 IX,Fiber Composite,Medium,29.38
+Tribute,W-XBGF,QFF-O6,QFF-O6 IX,Glossy Compound,Rich,37.90
+Tribute,W-XBGF,QFF-O6,QFF-O6 IX,Reactive Gas,Poor,20.88
+Tribute,W-XBGF,QFF-O6,QFF-O6 IX,Noble Gas,Medium,31.10
+Tribute,W-XBGF,QFF-O6,QFF-O6 IX,Base Metals,Perfect,10.81
+Tribute,W-XBGF,QFF-O6,QFF-O6 X,Dark Compound,Medium,23.57
+Tribute,W-XBGF,QFF-O6,QFF-O6 X,Base Metals,Poor,5.07
+Tribute,W-XBGF,QFF-O6,QFF-O6 X,Industrial Fibers,Poor,4.43
+Tribute,W-XBGF,QFF-O6,QFF-O6 X,Construction Blocks,Poor,23.43
+Tribute,W-XBGF,QFF-O6,QFF-O6 X,Oxygen Isotopes,Medium,3.73

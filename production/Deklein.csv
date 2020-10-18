@@ -1,0 +1,3167 @@
+Region,Constellation,System,Name,Item,Rate,Output
+Deklein,29V-1R,4U90-Z,4U90-Z I,Base Metals,Poor,3.72
+Deklein,29V-1R,4U90-Z,4U90-Z I,Supertensile Plastics,Medium,16.35
+Deklein,29V-1R,4U90-Z,4U90-Z I,Silicate Glass,Poor,6.91
+Deklein,29V-1R,4U90-Z,4U90-Z I,Plasmoids,Poor,0.94
+Deklein,29V-1R,4U90-Z,4U90-Z II,Gleaming Alloy,Rich,32.76
+Deklein,29V-1R,4U90-Z,4U90-Z II,Heavy Metals,Medium,23.33
+Deklein,29V-1R,4U90-Z,4U90-Z II,Smartfab Units,Medium,15.18
+Deklein,29V-1R,4U90-Z,4U90-Z III,Condensed Alloy,Medium,22.24
+Deklein,29V-1R,4U90-Z,4U90-Z III,Opulent Compound,Poor,18.61
+Deklein,29V-1R,4U90-Z,4U90-Z III,Crystal Compound,Rich,32.45
+Deklein,29V-1R,4U90-Z,4U90-Z III,Polyaramids,Rich,20.17
+Deklein,29V-1R,4U90-Z,4U90-Z III,Liquid Ozone,Rich,38.48
+Deklein,29V-1R,4U90-Z,4U90-Z IV,Condensed Alloy,Perfect,38.64
+Deklein,29V-1R,4U90-Z,4U90-Z IV,Opulent Compound,Rich,32.87
+Deklein,29V-1R,4U90-Z,4U90-Z IV,Condensates,Medium,15.97
+Deklein,29V-1R,4U90-Z,4U90-Z IV,Heavy Water,Medium,236.88
+Deklein,29V-1R,4U90-Z,4U90-Z IV,Liquid Ozone,Rich,40.71
+Deklein,29V-1R,4U90-Z,4U90-Z V,Precious Alloy,Medium,22.24
+Deklein,29V-1R,4U90-Z,4U90-Z V,Dark Compound,Medium,21.44
+Deklein,29V-1R,4U90-Z,4U90-Z V,Base Metals,Poor,4.61
+Deklein,29V-1R,4U90-Z,4U90-Z V,Supertensile Plastics,Medium,15.30
+Deklein,29V-1R,4U90-Z,4U90-Z VI,Dark Compound,Medium,20.58
+Deklein,29V-1R,4U90-Z,4U90-Z VI,Industrial Fibers,Medium,5.78
+Deklein,29V-1R,4U90-Z,4U90-Z VI,Supertensile Plastics,Medium,14.15
+Deklein,29V-1R,4U90-Z,4U90-Z VI,Construction Blocks,Poor,14.80
+Deklein,29V-1R,4U90-Z,4U90-Z VII,Toxic Metals,Poor,4.94
+Deklein,29V-1R,4U90-Z,4U90-Z VII,Supertensile Plastics,Medium,13.69
+Deklein,29V-1R,4U90-Z,4U90-Z VII,Oxygen Isotopes,Medium,3.17
+Deklein,29V-1R,4U90-Z,4U90-Z VII,Plasmoids,Poor,1.11
+Deklein,29V-1R,4U90-Z,4U90-Z VIII,Sheen Compound,Poor,18.14
+Deklein,29V-1R,4U90-Z,4U90-Z VIII,Reactive Gas,Rich,33.31
+Deklein,29V-1R,4U90-Z,4U90-Z VIII,Base Metals,Rich,8.69
+Deklein,29V-1R,4U90-Z,4U90-Z VIII,Reactive Metals,Medium,5.73
+Deklein,29V-1R,4U90-Z,4U90-Z VIII,Coolant,Poor,13.15
+Deklein,29V-1R,4U90-Z,4U90-Z IX,Crystal Compound,Medium,23.48
+Deklein,29V-1R,4U90-Z,4U90-Z IX,Reactive Metals,Medium,5.40
+Deklein,29V-1R,4U90-Z,4U90-Z IX,Toxic Metals,Rich,8.07
+Deklein,29V-1R,4U90-Z,4U90-Z IX,Suspended Plasma,Poor,63.66
+Deklein,29V-1R,T-945F,T-945F I,Toxic Metals,Medium,5.04
+Deklein,29V-1R,T-945F,T-945F I,Supertensile Plastics,Medium,14.51
+Deklein,29V-1R,T-945F,T-945F I,Construction Blocks,Medium,21.10
+Deklein,29V-1R,T-945F,T-945F I,Silicate Glass,Poor,6.69
+Deklein,29V-1R,T-945F,T-945F II,Lustering Alloy,Medium,19.12
+Deklein,29V-1R,T-945F,T-945F II,Dark Compound,Poor,17.30
+Deklein,29V-1R,T-945F,T-945F II,Industrial Fibers,Medium,5.66
+Deklein,29V-1R,T-945F,T-945F II,Supertensile Plastics,Poor,11.36
+Deklein,29V-1R,T-945F,T-945F III,Gleaming Alloy,Rich,25.56
+Deklein,29V-1R,T-945F,T-945F III,Noble Metals,Medium,25.06
+Deklein,29V-1R,T-945F,T-945F III,Plasmoids,Medium,1.16
+Deklein,29V-1R,T-945F,T-945F IV,Fiber Composite,Rich,25.62
+Deklein,29V-1R,T-945F,T-945F IV,Reactive Gas,Rich,27.90
+Deklein,29V-1R,T-945F,T-945F IV,Base Metals,Medium,6.46
+Deklein,29V-1R,T-945F,T-945F IV,Noble Metals,Poor,18.50
+Deklein,29V-1R,T-945F,T-945F IV,Liquid Ozone,Medium,26.57
+Deklein,29V-1R,T-945F,T-945F V,Gleaming Alloy,Medium,23.68
+Deklein,29V-1R,T-945F,T-945F V,Reactive Metals,Rich,8.34
+Deklein,29V-1R,T-945F,T-945F V,Nanites,Medium,6.37
+Deklein,29V-1R,T-945F,T-945F V,Suspended Plasma,Medium,77.11
+Deklein,29V-1R,T-945F,T-945F VI,Fiber Composite,Poor,18.82
+Deklein,29V-1R,T-945F,T-945F VI,Opulent Compound,Medium,24.20
+Deklein,29V-1R,T-945F,T-945F VI,Reactive Gas,Rich,28.04
+Deklein,29V-1R,T-945F,T-945F VI,Smartfab Units,Medium,12.75
+Deklein,29V-1R,T-945F,T-945F VI,Liquid Ozone,Perfect,45.27
+Deklein,29V-1R,T-945F,T-945F VII,Glossy Compound,Rich,26.44
+Deklein,29V-1R,T-945F,T-945F VII,Reactive Gas,Medium,19.90
+Deklein,29V-1R,T-945F,T-945F VII,Noble Gas,Rich,29.10
+Deklein,29V-1R,T-945F,T-945F VII,Reactive Metals,Rich,8.01
+Deklein,29V-1R,T-945F,T-945F VII,Polyaramids,Rich,17.87
+Deklein,29V-1R,T-945F,T-945F VIII,Lustering Alloy,Medium,21.58
+Deklein,29V-1R,T-945F,T-945F VIII,Fiber Composite,Rich,28.70
+Deklein,29V-1R,T-945F,T-945F VIII,Glossy Compound,Rich,26.70
+Deklein,29V-1R,T-945F,T-945F VIII,Reactive Gas,Perfect,32.22
+Deklein,29V-1R,T-945F,T-945F VIII,Reactive Metals,Perfect,8.56
+Deklein,29V-1R,T-945F,T-945F IX,Reactive Metals,Poor,4.72
+Deklein,29V-1R,T-945F,T-945F IX,Supertensile Plastics,Rich,17.35
+Deklein,29V-1R,T-945F,T-945F IX,Construction Blocks,Poor,17.16
+Deklein,29V-1R,T-945F,T-945F IX,Oxygen Isotopes,Rich,4.33
+Deklein,29V-1R,T-945F,T-945F X,Precious Alloy,Medium,21.52
+Deklein,29V-1R,T-945F,T-945F X,Industrial Fibers,Poor,4.10
+Deklein,29V-1R,T-945F,T-945F X,Supertensile Plastics,Poor,9.44
+Deklein,29V-1R,T-945F,T-945F X,Plasmoids,Medium,1.28
+Deklein,29V-1R,FO8M-2,FO8M-2 I,Lustering Alloy,Medium,23.08
+Deklein,29V-1R,FO8M-2,FO8M-2 I,Precious Alloy,Medium,21.88
+Deklein,29V-1R,FO8M-2,FO8M-2 I,Industrial Fibers,Medium,6.08
+Deklein,29V-1R,FO8M-2,FO8M-2 I,Supertensile Plastics,Poor,13.19
+Deklein,29V-1R,FO8M-2,FO8M-2 II,Gleaming Alloy,Medium,20.24
+Deklein,29V-1R,FO8M-2,FO8M-2 II,Noble Metals,Rich,33.35
+Deklein,29V-1R,FO8M-2,FO8M-2 II,Oxygen Isotopes,Rich,4.75
+Deklein,29V-1R,FO8M-2,FO8M-2 III,Condensed Alloy,Medium,23.02
+Deklein,29V-1R,FO8M-2,FO8M-2 III,Fiber Composite,Medium,23.16
+Deklein,29V-1R,FO8M-2,FO8M-2 III,Base Metals,Perfect,10.19
+Deklein,29V-1R,FO8M-2,FO8M-2 III,Industrial Fibers,Perfect,10.40
+Deklein,29V-1R,FO8M-2,FO8M-2 III,Liquid Ozone,Medium,28.61
+Deklein,29V-1R,FO8M-2,FO8M-2 IV,Glossy Compound,Rich,29.97
+Deklein,29V-1R,FO8M-2,FO8M-2 IV,Reactive Gas,Rich,32.47
+Deklein,29V-1R,FO8M-2,FO8M-2 IV,Noble Gas,Rich,32.15
+Deklein,29V-1R,FO8M-2,FO8M-2 IV,Coolant,Medium,15.78
+Deklein,29V-1R,FO8M-2,FO8M-2 IV,Ionic Solutions,Perfect,13.41
+Deklein,29V-1R,FO8M-2,FO8M-2 V,Lustering Alloy,Rich,29.13
+Deklein,29V-1R,FO8M-2,FO8M-2 V,Fiber Composite,Poor,19.40
+Deklein,29V-1R,FO8M-2,FO8M-2 V,Reactive Gas,Rich,32.32
+Deklein,29V-1R,FO8M-2,FO8M-2 V,Reactive Metals,Rich,7.83
+Deklein,29V-1R,FO8M-2,FO8M-2 V,Polyaramids,Medium,16.31
+Deklein,29V-1R,FO8M-2,FO8M-2 VI,Lustering Alloy,Rich,26.71
+Deklein,29V-1R,FO8M-2,FO8M-2 VI,Sheen Compound,Rich,32.05
+Deklein,29V-1R,FO8M-2,FO8M-2 VI,Fiber Composite,Medium,26.12
+Deklein,29V-1R,FO8M-2,FO8M-2 VI,Reactive Gas,Rich,27.45
+Deklein,29V-1R,FO8M-2,FO8M-2 VI,Ionic Solutions,Medium,8.81
+Deklein,29V-1R,FO8M-2,FO8M-2 VII,Fiber Composite,Medium,22.09
+Deklein,29V-1R,FO8M-2,FO8M-2 VII,Reactive Gas,Medium,19.95
+Deklein,29V-1R,FO8M-2,FO8M-2 VII,Noble Gas,Perfect,33.45
+Deklein,29V-1R,FO8M-2,FO8M-2 VII,Coolant,Medium,14.48
+Deklein,29V-1R,FO8M-2,FO8M-2 VII,Ionic Solutions,Rich,12.07
+Deklein,29V-1R,FO8M-2,FO8M-2 VIII,Lustering Alloy,Medium,22.09
+Deklein,29V-1R,FO8M-2,FO8M-2 VIII,Precious Alloy,Medium,20.43
+Deklein,29V-1R,FO8M-2,FO8M-2 VIII,Condensates,Poor,11.34
+Deklein,29V-1R,FO8M-2,FO8M-2 VIII,Liquid Ozone,Medium,25.04
+Deklein,29V-1R,FO8M-2,FO8M-2 IX,Precious Alloy,Poor,17.05
+Deklein,29V-1R,FO8M-2,FO8M-2 IX,Base Metals,Poor,3.78
+Deklein,29V-1R,FO8M-2,FO8M-2 IX,Supertensile Plastics,Medium,14.80
+Deklein,29V-1R,FO8M-2,FO8M-2 IX,Plasmoids,Medium,1.21
+Deklein,29V-1R,AD-CBT,AD-CBT I,Precious Alloy,Medium,24.72
+Deklein,29V-1R,AD-CBT,AD-CBT I,Base Metals,Medium,5.65
+Deklein,29V-1R,AD-CBT,AD-CBT I,Industrial Fibers,Medium,6.71
+Deklein,29V-1R,AD-CBT,AD-CBT I,Supertensile Plastics,Medium,14.81
+Deklein,29V-1R,AD-CBT,AD-CBT II,Gleaming Alloy,Rich,32.89
+Deklein,29V-1R,AD-CBT,AD-CBT II,Motley Compound,Rich,29.50
+Deklein,29V-1R,AD-CBT,AD-CBT II,Noble Gas,Medium,21.19
+Deklein,29V-1R,AD-CBT,AD-CBT III,Noble Metals,Rich,27.53
+Deklein,29V-1R,AD-CBT,AD-CBT III,Condensates,Rich,18.76
+Deklein,29V-1R,AD-CBT,AD-CBT III,Smartfab Units,Perfect,26.66
+Deklein,29V-1R,AD-CBT,AD-CBT III,Heavy Water,Medium,251.58
+Deklein,29V-1R,AD-CBT,AD-CBT III,Liquid Ozone,Perfect,47.25
+Deklein,29V-1R,AD-CBT,AD-CBT IV,Opulent Compound,Rich,27.26
+Deklein,29V-1R,AD-CBT,AD-CBT IV,Base Metals,Medium,6.31
+Deklein,29V-1R,AD-CBT,AD-CBT IV,Smartfab Units,Rich,21.15
+Deklein,29V-1R,AD-CBT,AD-CBT IV,Heavy Water,Medium,222.81
+Deklein,29V-1R,AD-CBT,AD-CBT IV,Liquid Ozone,Rich,33.65
+Deklein,29V-1R,AD-CBT,AD-CBT V,Reactive Gas,Rich,29.46
+Deklein,29V-1R,AD-CBT,AD-CBT V,Base Metals,Medium,6.43
+Deklein,29V-1R,AD-CBT,AD-CBT V,Reactive Metals,Medium,6.18
+Deklein,29V-1R,AD-CBT,AD-CBT V,Polyaramids,Medium,16.87
+Deklein,29V-1R,AD-CBT,AD-CBT V,Coolant,Perfect,23.17
+Deklein,29V-1R,AD-CBT,AD-CBT VI,Sheen Compound,Medium,22.43
+Deklein,29V-1R,AD-CBT,AD-CBT VI,Glossy Compound,Rich,32.84
+Deklein,29V-1R,AD-CBT,AD-CBT VI,Reactive Gas,Rich,30.87
+Deklein,29V-1R,AD-CBT,AD-CBT VI,Polyaramids,Poor,13.02
+Deklein,29V-1R,AD-CBT,AD-CBT VI,Coolant,Perfect,22.97
+Deklein,29V-1R,AD-CBT,AD-CBT VII,Sheen Compound,Medium,20.20
+Deklein,29V-1R,AD-CBT,AD-CBT VII,Glossy Compound,Medium,21.95
+Deklein,29V-1R,AD-CBT,AD-CBT VII,Reactive Gas,Perfect,33.39
+Deklein,29V-1R,AD-CBT,AD-CBT VII,Reactive Metals,Rich,8.64
+Deklein,29V-1R,AD-CBT,AD-CBT VII,Ionic Solutions,Rich,11.79
+Deklein,29V-1R,AD-CBT,AD-CBT VIII,Fiber Composite,Rich,27.45
+Deklein,29V-1R,AD-CBT,AD-CBT VIII,Glossy Compound,Rich,26.61
+Deklein,29V-1R,AD-CBT,AD-CBT VIII,Reactive Gas,Medium,25.03
+Deklein,29V-1R,AD-CBT,AD-CBT VIII,Reactive Metals,Medium,6.86
+Deklein,29V-1R,AD-CBT,AD-CBT VIII,Ionic Solutions,Rich,13.11
+Deklein,29V-1R,AD-CBT,AD-CBT IX,Lucent Compound,Perfect,36.54
+Deklein,29V-1R,AD-CBT,AD-CBT IX,Dark Compound,Medium,23.12
+Deklein,29V-1R,AD-CBT,AD-CBT IX,Noble Gas,Medium,23.08
+Deklein,29V-1R,AD-CBT,AD-CBT IX,Condensates,Medium,14.53
+Deklein,29V-1R,AD-CBT,AD-CBT IX,Ionic Solutions,Perfect,13.69
+Deklein,29V-1R,QPO-WI,QPO-WI I,Dark Compound,Medium,20.77
+Deklein,29V-1R,QPO-WI,QPO-WI I,Toxic Metals,Medium,5.47
+Deklein,29V-1R,QPO-WI,QPO-WI I,Supertensile Plastics,Medium,13.43
+Deklein,29V-1R,QPO-WI,QPO-WI I,Silicate Glass,Poor,8.35
+Deklein,29V-1R,QPO-WI,QPO-WI II,Lustering Alloy,Medium,24.65
+Deklein,29V-1R,QPO-WI,QPO-WI II,Supertensile Plastics,Medium,15.19
+Deklein,29V-1R,QPO-WI,QPO-WI II,Silicate Glass,Medium,11.58
+Deklein,29V-1R,QPO-WI,QPO-WI II,Oxygen Isotopes,Poor,2.76
+Deklein,29V-1R,QPO-WI,QPO-WI III,Gleaming Alloy,Rich,31.00
+Deklein,29V-1R,QPO-WI,QPO-WI III,Noble Gas,Medium,22.79
+Deklein,29V-1R,QPO-WI,QPO-WI III,Plasmoids,Rich,1.66
+Deklein,29V-1R,QPO-WI,QPO-WI IV,Sheen Compound,Rich,29.17
+Deklein,29V-1R,QPO-WI,QPO-WI IV,Fiber Composite,Rich,30.93
+Deklein,29V-1R,QPO-WI,QPO-WI IV,Reactive Gas,Rich,28.29
+Deklein,29V-1R,QPO-WI,QPO-WI IV,Base Metals,Perfect,9.14
+Deklein,29V-1R,QPO-WI,QPO-WI IV,Reactive Metals,Perfect,8.95
+Deklein,29V-1R,QPO-WI,QPO-WI V,Lustering Alloy,Rich,28.31
+Deklein,29V-1R,QPO-WI,QPO-WI V,Sheen Compound,Medium,20.92
+Deklein,29V-1R,QPO-WI,QPO-WI V,Reactive Gas,Rich,32.82
+Deklein,29V-1R,QPO-WI,QPO-WI V,Noble Gas,Perfect,34.86
+Deklein,29V-1R,QPO-WI,QPO-WI V,Ionic Solutions,Poor,7.01
+Deklein,29V-1R,QPO-WI,QPO-WI VI,Fiber Composite,Rich,31.71
+Deklein,29V-1R,QPO-WI,QPO-WI VI,Opulent Compound,Perfect,39.12
+Deklein,29V-1R,QPO-WI,QPO-WI VI,Base Metals,Perfect,9.40
+Deklein,29V-1R,QPO-WI,QPO-WI VI,Condensates,Rich,18.35
+Deklein,29V-1R,QPO-WI,QPO-WI VI,Liquid Ozone,Medium,26.38
+Deklein,29V-1R,QPO-WI,QPO-WI VII,Condensed Alloy,Perfect,35.62
+Deklein,29V-1R,QPO-WI,QPO-WI VII,Fiber Composite,Perfect,38.14
+Deklein,29V-1R,QPO-WI,QPO-WI VII,Opulent Compound,Rich,31.18
+Deklein,29V-1R,QPO-WI,QPO-WI VII,Noble Metals,Rich,32.42
+Deklein,29V-1R,QPO-WI,QPO-WI VII,Liquid Ozone,Perfect,46.07
+Deklein,29V-1R,R8S-1K,R8S-1K I,Condensed Alloy,Medium,24.14
+Deklein,29V-1R,R8S-1K,R8S-1K I,Opulent Compound,Rich,29.50
+Deklein,29V-1R,R8S-1K,R8S-1K I,Silicate Glass,Medium,12.34
+Deklein,29V-1R,R8S-1K,R8S-1K I,Heavy Water,Rich,271.00
+Deklein,29V-1R,R8S-1K,R8S-1K I,Liquid Ozone,Medium,23.77
+Deklein,29V-1R,R8S-1K,R8S-1K II,Lucent Compound,Rich,29.66
+Deklein,29V-1R,R8S-1K,R8S-1K II,Reactive Metals,Rich,7.73
+Deklein,29V-1R,R8S-1K,R8S-1K II,Toxic Metals,Rich,8.35
+Deklein,29V-1R,R8S-1K,R8S-1K II,Construction Blocks,Poor,17.10
+Deklein,29V-1R,R8S-1K,R8S-1K III,Dark Compound,Rich,27.78
+Deklein,29V-1R,R8S-1K,R8S-1K III,Condensates,Medium,14.97
+Deklein,29V-1R,R8S-1K,R8S-1K III,Nanites,Medium,6.46
+Deklein,29V-1R,R8S-1K,R8S-1K III,Suspended Plasma,Perfect,120.46
+Deklein,29V-1R,R8S-1K,R8S-1K III,Ionic Solutions,Medium,9.51
+Deklein,29V-1R,R8S-1K,R8S-1K IV,Gleaming Alloy,Rich,29.16
+Deklein,29V-1R,R8S-1K,R8S-1K IV,Reactive Metals,Rich,8.12
+Deklein,29V-1R,R8S-1K,R8S-1K IV,Construction Blocks,Rich,30.30
+Deklein,29V-1R,R8S-1K,R8S-1K IV,Nanites,Poor,4.92
+Deklein,29V-1R,R8S-1K,R8S-1K V,Precious Alloy,Medium,20.74
+Deklein,29V-1R,R8S-1K,R8S-1K V,Supertensile Plastics,Medium,15.00
+Deklein,29V-1R,R8S-1K,R8S-1K V,Construction Blocks,Medium,23.24
+Deklein,29V-1R,R8S-1K,R8S-1K V,Silicate Glass,Poor,7.72
+Deklein,29V-1R,R8S-1K,R8S-1K VI,Fiber Composite,Medium,19.36
+Deklein,29V-1R,R8S-1K,R8S-1K VI,Reactive Gas,Poor,18.24
+Deklein,29V-1R,R8S-1K,R8S-1K VI,Noble Gas,Medium,20.66
+Deklein,29V-1R,R8S-1K,R8S-1K VI,Base Metals,Medium,5.61
+Deklein,29V-1R,R8S-1K,R8S-1K VI,Coolant,Medium,15.95
+Deklein,29V-1R,R8S-1K,R8S-1K VII,Lustering Alloy,Rich,28.82
+Deklein,29V-1R,R8S-1K,R8S-1K VII,Sheen Compound,Rich,25.44
+Deklein,29V-1R,R8S-1K,R8S-1K VII,Reactive Gas,Medium,23.60
+Deklein,29V-1R,R8S-1K,R8S-1K VII,Noble Gas,Perfect,32.58
+Deklein,29V-1R,R8S-1K,R8S-1K VII,Reactive Metals,Medium,5.29
+Deklein,29V-1R,R8S-1K,R8S-1K VIII,Lustering Alloy,Poor,16.54
+Deklein,29V-1R,R8S-1K,R8S-1K VIII,Sheen Compound,Medium,23.84
+Deklein,29V-1R,R8S-1K,R8S-1K VIII,Fiber Composite,Rich,26.84
+Deklein,29V-1R,R8S-1K,R8S-1K VIII,Reactive Gas,Poor,16.66
+Deklein,29V-1R,R8S-1K,R8S-1K VIII,Base Metals,Rich,7.31
+Deklein,Z-D6K5,94-H3F,94-H3F I,Precious Alloy,Poor,19.71
+Deklein,Z-D6K5,94-H3F,94-H3F I,Industrial Fibers,Medium,6.41
+Deklein,Z-D6K5,94-H3F,94-H3F I,Supertensile Plastics,Poor,13.61
+Deklein,Z-D6K5,94-H3F,94-H3F I,Construction Blocks,Medium,24.93
+Deklein,Z-D6K5,94-H3F,94-H3F II,Reactive Gas,Medium,26.16
+Deklein,Z-D6K5,94-H3F,94-H3F II,Reactive Metals,Medium,7.18
+Deklein,Z-D6K5,94-H3F,94-H3F II,Supertensile Plastics,Medium,13.90
+Deklein,Z-D6K5,94-H3F,94-H3F II,Construction Blocks,Medium,24.07
+Deklein,Z-D6K5,94-H3F,94-H3F III,Lucent Compound,Rich,32.69
+Deklein,Z-D6K5,94-H3F,94-H3F III,Condensates,Rich,19.99
+Deklein,Z-D6K5,94-H3F,94-H3F III,Nanites,Perfect,9.66
+Deklein,Z-D6K5,94-H3F,94-H3F III,Suspended Plasma,Medium,87.60
+Deklein,Z-D6K5,94-H3F,94-H3F III,Plasmoids,Medium,1.28
+Deklein,Z-D6K5,94-H3F,94-H3F IV,Fiber Composite,Medium,26.07
+Deklein,Z-D6K5,94-H3F,94-H3F IV,Reactive Gas,Medium,21.87
+Deklein,Z-D6K5,94-H3F,94-H3F IV,Base Metals,Medium,6.08
+Deklein,Z-D6K5,94-H3F,94-H3F IV,Polyaramids,Medium,17.60
+Deklein,Z-D6K5,94-H3F,94-H3F IV,Coolant,Poor,12.73
+Deklein,Z-D6K5,94-H3F,94-H3F V,Sheen Compound,Rich,29.96
+Deklein,Z-D6K5,94-H3F,94-H3F V,Fiber Composite,Medium,25.19
+Deklein,Z-D6K5,94-H3F,94-H3F V,Glossy Compound,Perfect,35.95
+Deklein,Z-D6K5,94-H3F,94-H3F V,Reactive Gas,Poor,18.57
+Deklein,Z-D6K5,94-H3F,94-H3F V,Ionic Solutions,Medium,10.33
+Deklein,Z-D6K5,94-H3F,94-H3F VI,Fiber Composite,Medium,24.31
+Deklein,Z-D6K5,94-H3F,94-H3F VI,Glossy Compound,Medium,21.82
+Deklein,Z-D6K5,94-H3F,94-H3F VI,Reactive Gas,Poor,20.37
+Deklein,Z-D6K5,94-H3F,94-H3F VI,Coolant,Poor,12.95
+Deklein,Z-D6K5,94-H3F,94-H3F VI,Ionic Solutions,Medium,11.08
+Deklein,Z-D6K5,94-H3F,94-H3F VII,Motley Compound,Poor,18.68
+Deklein,Z-D6K5,94-H3F,94-H3F VII,Heavy Metals,Medium,23.01
+Deklein,Z-D6K5,94-H3F,94-H3F VII,Supertensile Plastics,Rich,19.51
+Deklein,Z-D6K5,94-H3F,94-H3F VII,Condensates,Rich,19.21
+Deklein,Z-D6K5,94-H3F,94-H3F VIII,Base Metals,Medium,5.96
+Deklein,Z-D6K5,94-H3F,94-H3F VIII,Toxic Metals,Medium,5.53
+Deklein,Z-D6K5,94-H3F,94-H3F VIII,Supertensile Plastics,Poor,9.37
+Deklein,Z-D6K5,94-H3F,94-H3F VIII,Construction Blocks,Poor,15.93
+Deklein,Z-D6K5,CU9-T0,CU9-T0 I,Dark Compound,Medium,25.73
+Deklein,Z-D6K5,CU9-T0,CU9-T0 I,Supertensile Plastics,Poor,11.71
+Deklein,Z-D6K5,CU9-T0,CU9-T0 I,Silicate Glass,Poor,7.88
+Deklein,Z-D6K5,CU9-T0,CU9-T0 I,Oxygen Isotopes,Poor,2.51
+Deklein,Z-D6K5,CU9-T0,CU9-T0 II,Reactive Gas,Rich,34.90
+Deklein,Z-D6K5,CU9-T0,CU9-T0 II,Noble Metals,Perfect,40.92
+Deklein,Z-D6K5,CU9-T0,CU9-T0 II,Condensates,Perfect,28.18
+Deklein,Z-D6K5,CU9-T0,CU9-T0 II,Smartfab Units,Perfect,25.79
+Deklein,Z-D6K5,CU9-T0,CU9-T0 II,Liquid Ozone,Rich,38.37
+Deklein,Z-D6K5,CU9-T0,CU9-T0 III,Reactive Gas,Medium,25.27
+Deklein,Z-D6K5,CU9-T0,CU9-T0 III,Reactive Metals,Rich,9.68
+Deklein,Z-D6K5,CU9-T0,CU9-T0 III,Construction Blocks,Poor,19.68
+Deklein,Z-D6K5,CU9-T0,CU9-T0 III,Nanites,Medium,7.33
+Deklein,Z-D6K5,CU9-T0,CU9-T0 IV,Sheen Compound,Medium,28.82
+Deklein,Z-D6K5,CU9-T0,CU9-T0 IV,Fiber Composite,Poor,22.58
+Deklein,Z-D6K5,CU9-T0,CU9-T0 IV,Glossy Compound,Perfect,38.14
+Deklein,Z-D6K5,CU9-T0,CU9-T0 IV,Reactive Gas,Medium,24.17
+Deklein,Z-D6K5,CU9-T0,CU9-T0 IV,Coolant,Perfect,26.02
+Deklein,Z-D6K5,CU9-T0,CU9-T0 V,Lucent Compound,Rich,31.85
+Deklein,Z-D6K5,CU9-T0,CU9-T0 V,Reactive Metals,Perfect,10.12
+Deklein,Z-D6K5,CU9-T0,CU9-T0 V,Supertensile Plastics,Medium,17.60
+Deklein,Z-D6K5,CU9-T0,CU9-T0 V,Construction Blocks,Rich,31.70
+Deklein,Z-D6K5,CU9-T0,CU9-T0 VI,Lustering Alloy,Rich,33.72
+Deklein,Z-D6K5,CU9-T0,CU9-T0 VI,Reactive Gas,Poor,20.33
+Deklein,Z-D6K5,CU9-T0,CU9-T0 VI,Noble Gas,Rich,36.24
+Deklein,Z-D6K5,CU9-T0,CU9-T0 VI,Coolant,Medium,17.54
+Deklein,Z-D6K5,CU9-T0,CU9-T0 VI,Ionic Solutions,Rich,13.68
+Deklein,Z-D6K5,CU9-T0,CU9-T0 VII,Reactive Gas,Rich,31.85
+Deklein,Z-D6K5,CU9-T0,CU9-T0 VII,Noble Metals,Medium,27.31
+Deklein,Z-D6K5,CU9-T0,CU9-T0 VII,Smartfab Units,Perfect,30.16
+Deklein,Z-D6K5,CU9-T0,CU9-T0 VII,Heavy Water,Rich,378.24
+Deklein,Z-D6K5,CU9-T0,CU9-T0 VII,Liquid Ozone,Medium,33.81
+Deklein,Z-D6K5,CU9-T0,CU9-T0 VIII,Base Metals,Medium,7.72
+Deklein,Z-D6K5,CU9-T0,CU9-T0 VIII,Industrial Fibers,Poor,4.40
+Deklein,Z-D6K5,CU9-T0,CU9-T0 VIII,Supertensile Plastics,Medium,19.07
+Deklein,Z-D6K5,CU9-T0,CU9-T0 VIII,Oxygen Isotopes,Poor,2.70
+Deklein,Z-D6K5,CU9-T0,CU9-T0 IX,Fiber Composite,Rich,34.70
+Deklein,Z-D6K5,CU9-T0,CU9-T0 IX,Reactive Gas,Perfect,39.84
+Deklein,Z-D6K5,CU9-T0,CU9-T0 IX,Base Metals,Rich,8.02
+Deklein,Z-D6K5,CU9-T0,CU9-T0 IX,Polyaramids,Medium,19.73
+Deklein,Z-D6K5,CU9-T0,CU9-T0 IX,Coolant,Poor,13.68
+Deklein,Z-D6K5,XCF-8N,XCF-8N I,Gleaming Alloy,Perfect,39.74
+Deklein,Z-D6K5,XCF-8N,XCF-8N I,Motley Compound,Poor,21.89
+Deklein,Z-D6K5,XCF-8N,XCF-8N I,Noble Gas,Rich,34.03
+Deklein,Z-D6K5,XCF-8N,XCF-8N II,Dark Compound,Medium,22.68
+Deklein,Z-D6K5,XCF-8N,XCF-8N II,Base Metals,Poor,4.99
+Deklein,Z-D6K5,XCF-8N,XCF-8N II,Toxic Metals,Medium,7.01
+Deklein,Z-D6K5,XCF-8N,XCF-8N II,Supertensile Plastics,Poor,11.38
+Deklein,Z-D6K5,XCF-8N,XCF-8N III,Condensed Alloy,Rich,35.78
+Deklein,Z-D6K5,XCF-8N,XCF-8N III,Reactive Gas,Medium,28.94
+Deklein,Z-D6K5,XCF-8N,XCF-8N III,Noble Metals,Perfect,45.53
+Deklein,Z-D6K5,XCF-8N,XCF-8N III,Smartfab Units,Rich,22.14
+Deklein,Z-D6K5,XCF-8N,XCF-8N III,Liquid Ozone,Medium,28.74
+Deklein,Z-D6K5,XCF-8N,XCF-8N IV,Reactive Gas,Medium,28.85
+Deklein,Z-D6K5,XCF-8N,XCF-8N IV,Reactive Metals,Rich,8.59
+Deklein,Z-D6K5,XCF-8N,XCF-8N IV,Nanites,Rich,8.56
+Deklein,Z-D6K5,XCF-8N,XCF-8N IV,Oxygen Isotopes,Rich,4.83
+Deklein,Z-D6K5,XCF-8N,XCF-8N V,Sheen Compound,Poor,22.61
+Deklein,Z-D6K5,XCF-8N,XCF-8N V,Fiber Composite,Medium,24.41
+Deklein,Z-D6K5,XCF-8N,XCF-8N V,Reactive Gas,Medium,28.56
+Deklein,Z-D6K5,XCF-8N,XCF-8N V,Noble Gas,Rich,34.20
+Deklein,Z-D6K5,XCF-8N,XCF-8N V,Ionic Solutions,Medium,10.82
+Deklein,Z-D6K5,XCF-8N,XCF-8N VI,Fiber Composite,Medium,24.82
+Deklein,Z-D6K5,XCF-8N,XCF-8N VI,Glossy Compound,Rich,30.86
+Deklein,Z-D6K5,XCF-8N,XCF-8N VI,Reactive Gas,Poor,21.89
+Deklein,Z-D6K5,XCF-8N,XCF-8N VI,Reactive Metals,Rich,8.91
+Deklein,Z-D6K5,XCF-8N,XCF-8N VI,Ionic Solutions,Medium,10.06
+Deklein,Z-D6K5,XCF-8N,XCF-8N VII,Lustering Alloy,Rich,35.26
+Deklein,Z-D6K5,XCF-8N,XCF-8N VII,Heavy Metals,Poor,21.07
+Deklein,Z-D6K5,XCF-8N,XCF-8N VII,Condensates,Poor,12.06
+Deklein,Z-D6K5,XCF-8N,XCF-8N VII,Suspended Plasma,Poor,77.07
+Deklein,Z-D6K5,XCF-8N,XCF-8N VIII,Supertensile Plastics,Medium,18.58
+Deklein,Z-D6K5,XCF-8N,XCF-8N VIII,Construction Blocks,Poor,18.12
+Deklein,Z-D6K5,XCF-8N,XCF-8N VIII,Oxygen Isotopes,Poor,3.15
+Deklein,Z-D6K5,XCF-8N,XCF-8N VIII,Plasmoids,Poor,1.25
+Deklein,Z-D6K5,XCF-8N,XCF-8N IX,Lustering Alloy,Poor,18.24
+Deklein,Z-D6K5,XCF-8N,XCF-8N IX,Supertensile Plastics,Poor,14.18
+Deklein,Z-D6K5,XCF-8N,XCF-8N IX,Construction Blocks,Poor,20.38
+Deklein,Z-D6K5,XCF-8N,XCF-8N IX,Silicate Glass,Poor,7.44
+Deklein,Z-D6K5,FMB-JP,FMB-JP I,Condensed Alloy,Poor,23.52
+Deklein,Z-D6K5,FMB-JP,FMB-JP I,Fiber Composite,Medium,30.27
+Deklein,Z-D6K5,FMB-JP,FMB-JP I,Base Metals,Perfect,12.55
+Deklein,Z-D6K5,FMB-JP,FMB-JP I,Noble Metals,Rich,31.88
+Deklein,Z-D6K5,FMB-JP,FMB-JP I,Smartfab Units,Medium,16.47
+Deklein,Z-D6K5,FMB-JP,FMB-JP I,Heavy Water,Perfect,434.50
+Deklein,Z-D6K5,FMB-JP,FMB-JP II,Lustering Alloy,Poor,21.52
+Deklein,Z-D6K5,FMB-JP,FMB-JP II,Dark Compound,Poor,19.85
+Deklein,Z-D6K5,FMB-JP,FMB-JP II,Base Metals,Medium,7.29
+Deklein,Z-D6K5,FMB-JP,FMB-JP II,Toxic Metals,Medium,7.57
+Deklein,Z-D6K5,FMB-JP,FMB-JP II,Plasmoids,Medium,1.73
+Deklein,Z-D6K5,FMB-JP,FMB-JP III,Motley Compound,Rich,33.55
+Deklein,Z-D6K5,FMB-JP,FMB-JP III,Glossy Compound,Medium,30.38
+Deklein,Z-D6K5,FMB-JP,FMB-JP III,Polyaramids,Rich,25.40
+Deklein,Z-D6K5,FMB-JP,FMB-JP III,Oxygen Isotopes,Perfect,6.24
+Deklein,Z-D6K5,FMB-JP,FMB-JP IV,Condensed Alloy,Rich,34.02
+Deklein,Z-D6K5,FMB-JP,FMB-JP IV,Fiber Composite,Rich,39.35
+Deklein,Z-D6K5,FMB-JP,FMB-JP IV,Opulent Compound,Rich,37.83
+Deklein,Z-D6K5,FMB-JP,FMB-JP IV,Reactive Gas,Perfect,43.67
+Deklein,Z-D6K5,FMB-JP,FMB-JP IV,Smartfab Units,Medium,20.33
+Deklein,Z-D6K5,FMB-JP,FMB-JP IV,Liquid Ozone,Medium,37.28
+Deklein,Z-D6K5,FMB-JP,FMB-JP V,Noble Metals,Rich,38.52
+Deklein,Z-D6K5,FMB-JP,FMB-JP V,Polyaramids,Medium,20.08
+Deklein,Z-D6K5,FMB-JP,FMB-JP V,Coolant,Rich,22.95
+Deklein,Z-D6K5,FMB-JP,FMB-JP V,Silicate Glass,Medium,14.01
+Deklein,Z-D6K5,FMB-JP,FMB-JP V,Liquid Ozone,Medium,37.16
+Deklein,Z-D6K5,FMB-JP,FMB-JP V,Ionic Solutions,Rich,14.83
+Deklein,Z-D6K5,FMB-JP,FMB-JP VI,Lustering Alloy,Poor,19.90
+Deklein,Z-D6K5,FMB-JP,FMB-JP VI,Dark Compound,Poor,19.35
+Deklein,Z-D6K5,FMB-JP,FMB-JP VI,Toxic Metals,Medium,7.87
+Deklein,Z-D6K5,FMB-JP,FMB-JP VI,Supertensile Plastics,Medium,20.35
+Deklein,Z-D6K5,FMB-JP,FMB-JP VI,Construction Blocks,Poor,17.20
+Deklein,Z-D6K5,FMB-JP,FMB-JP VII,Crystal Compound,Medium,27.63
+Deklein,Z-D6K5,FMB-JP,FMB-JP VII,Reactive Gas,Rich,33.05
+Deklein,Z-D6K5,FMB-JP,FMB-JP VII,Construction Blocks,Rich,35.00
+Deklein,Z-D6K5,FMB-JP,FMB-JP VII,Nanites,Medium,6.63
+Deklein,Z-D6K5,FMB-JP,FMB-JP VII,Oxygen Isotopes,Rich,4.95
+Deklein,Z-D6K5,FMB-JP,FMB-JP VIII,Dark Compound,Medium,26.07
+Deklein,Z-D6K5,FMB-JP,FMB-JP VIII,Base Metals,Poor,5.25
+Deklein,Z-D6K5,FMB-JP,FMB-JP VIII,Industrial Fibers,Poor,4.95
+Deklein,Z-D6K5,FMB-JP,FMB-JP VIII,Construction Blocks,Poor,22.23
+Deklein,Z-D6K5,FMB-JP,FMB-JP VIII,Plasmoids,Medium,1.67
+Deklein,Z-D6K5,0P-F3K,0P-F3K I,Lustering Alloy,Medium,30.43
+Deklein,Z-D6K5,0P-F3K,0P-F3K I,Precious Alloy,Poor,23.10
+Deklein,Z-D6K5,0P-F3K,0P-F3K I,Dark Compound,Medium,23.70
+Deklein,Z-D6K5,0P-F3K,0P-F3K I,Silicate Glass,Medium,12.21
+Deklein,Z-D6K5,0P-F3K,0P-F3K I,Oxygen Isotopes,Poor,3.09
+Deklein,Z-D6K5,0P-F3K,0P-F3K II,Lustering Alloy,Medium,26.95
+Deklein,Z-D6K5,0P-F3K,0P-F3K II,Dark Compound,Poor,23.00
+Deklein,Z-D6K5,0P-F3K,0P-F3K II,Supertensile Plastics,Medium,20.02
+Deklein,Z-D6K5,0P-F3K,0P-F3K II,Construction Blocks,Poor,15.72
+Deklein,Z-D6K5,0P-F3K,0P-F3K II,Plasmoids,Medium,1.44
+Deklein,Z-D6K5,0P-F3K,0P-F3K III,Lustering Alloy,Poor,18.27
+Deklein,Z-D6K5,0P-F3K,0P-F3K III,Dark Compound,Poor,22.85
+Deklein,Z-D6K5,0P-F3K,0P-F3K III,Toxic Metals,Medium,7.16
+Deklein,Z-D6K5,0P-F3K,0P-F3K III,Industrial Fibers,Medium,7.50
+Deklein,Z-D6K5,0P-F3K,0P-F3K III,Oxygen Isotopes,Medium,4.26
+Deklein,Z-D6K5,0P-F3K,0P-F3K IV,Glossy Compound,Rich,35.92
+Deklein,Z-D6K5,0P-F3K,0P-F3K IV,Noble Metals,Rich,31.90
+Deklein,Z-D6K5,0P-F3K,0P-F3K IV,Polyaramids,Medium,16.52
+Deklein,Z-D6K5,0P-F3K,0P-F3K IV,Construction Blocks,Rich,34.58
+Deklein,Z-D6K5,0P-F3K,0P-F3K V,Condensed Alloy,Medium,25.55
+Deklein,Z-D6K5,0P-F3K,0P-F3K V,Crystal Compound,Rich,33.63
+Deklein,Z-D6K5,0P-F3K,0P-F3K V,Noble Metals,Rich,36.75
+Deklein,Z-D6K5,0P-F3K,0P-F3K V,Toxic Metals,Medium,7.59
+Deklein,Z-D6K5,0P-F3K,0P-F3K V,Polyaramids,Perfect,29.48
+Deklein,Z-D6K5,0P-F3K,0P-F3K V,Coolant,Rich,26.35
+Deklein,Z-D6K5,0P-F3K,0P-F3K VI,Fiber Composite,Poor,22.27
+Deklein,Z-D6K5,0P-F3K,0P-F3K VI,Base Metals,Rich,8.58
+Deklein,Z-D6K5,0P-F3K,0P-F3K VI,Reactive Metals,Rich,8.33
+Deklein,Z-D6K5,0P-F3K,0P-F3K VI,Polyaramids,Rich,25.82
+Deklein,Z-D6K5,0P-F3K,0P-F3K VI,Coolant,Medium,18.92
+Deklein,Z-D6K5,0P-F3K,0P-F3K VI,Ionic Solutions,Rich,15.67
+Deklein,Z-D6K5,0P-F3K,0P-F3K VII,Lustering Alloy,Medium,23.73
+Deklein,Z-D6K5,0P-F3K,0P-F3K VII,Fiber Composite,Rich,38.80
+Deklein,Z-D6K5,0P-F3K,0P-F3K VII,Glossy Compound,Medium,29.57
+Deklein,Z-D6K5,0P-F3K,0P-F3K VII,Reactive Gas,Medium,27.35
+Deklein,Z-D6K5,0P-F3K,0P-F3K VII,Coolant,Medium,17.90
+Deklein,Z-D6K5,0P-F3K,0P-F3K VII,Ionic Solutions,Medium,12.45
+Deklein,Z-D6K5,0P-F3K,0P-F3K VIII,Lustering Alloy,Rich,37.17
+Deklein,Z-D6K5,0P-F3K,0P-F3K VIII,Fiber Composite,Medium,23.75
+Deklein,Z-D6K5,0P-F3K,0P-F3K VIII,Reactive Gas,Perfect,41.10
+Deklein,Z-D6K5,0P-F3K,0P-F3K VIII,Reactive Metals,Rich,9.45
+Deklein,Z-D6K5,0P-F3K,0P-F3K VIII,Coolant,Rich,22.08
+Deklein,Z-D6K5,0P-F3K,0P-F3K VIII,Ionic Solutions,Poor,8.82
+Deklein,Z-D6K5,0P-F3K,0P-F3K IX,Lustering Alloy,Medium,24.45
+Deklein,Z-D6K5,0P-F3K,0P-F3K IX,Sheen Compound,Medium,25.77
+Deklein,Z-D6K5,0P-F3K,0P-F3K IX,Fiber Composite,Medium,27.93
+Deklein,Z-D6K5,0P-F3K,0P-F3K IX,Glossy Compound,Perfect,41.08
+Deklein,Z-D6K5,0P-F3K,0P-F3K IX,Noble Gas,Medium,31.63
+Deklein,Z-D6K5,0P-F3K,0P-F3K IX,Polyaramids,Rich,25.72
+Deklein,Z-D6K5,0P-F3K,0P-F3K X,Lustering Alloy,Medium,26.32
+Deklein,Z-D6K5,0P-F3K,0P-F3K X,Sheen Compound,Rich,32.33
+Deklein,Z-D6K5,0P-F3K,0P-F3K X,Fiber Composite,Rich,34.50
+Deklein,Z-D6K5,0P-F3K,0P-F3K X,Glossy Compound,Rich,36.52
+Deklein,Z-D6K5,0P-F3K,0P-F3K X,Reactive Metals,Rich,8.85
+Deklein,Z-D6K5,0P-F3K,0P-F3K X,Coolant,Medium,16.40
+Deklein,Z-D6K5,0P-F3K,0P-F3K XI,Fiber Composite,Medium,27.25
+Deklein,Z-D6K5,0P-F3K,0P-F3K XI,Glossy Compound,Perfect,40.55
+Deklein,Z-D6K5,0P-F3K,0P-F3K XI,Reactive Gas,Rich,38.65
+Deklein,Z-D6K5,0P-F3K,0P-F3K XI,Base Metals,Rich,9.36
+Deklein,Z-D6K5,0P-F3K,0P-F3K XI,Polyaramids,Poor,15.33
+Deklein,Z-D6K5,0P-F3K,0P-F3K XI,Ionic Solutions,Medium,11.99
+Deklein,Z-D6K5,K5F-Z2,K5F-Z2 I,Lustering Alloy,Poor,17.71
+Deklein,Z-D6K5,K5F-Z2,K5F-Z2 I,Precious Alloy,Poor,17.16
+Deklein,Z-D6K5,K5F-Z2,K5F-Z2 I,Dark Compound,Poor,22.98
+Deklein,Z-D6K5,K5F-Z2,K5F-Z2 I,Toxic Metals,Poor,6.10
+Deklein,Z-D6K5,K5F-Z2,K5F-Z2 I,Construction Blocks,Poor,21.19
+Deklein,Z-D6K5,K5F-Z2,K5F-Z2 II,Gleaming Alloy,Perfect,41.37
+Deklein,Z-D6K5,K5F-Z2,K5F-Z2 II,Glossy Compound,Perfect,43.00
+Deklein,Z-D6K5,K5F-Z2,K5F-Z2 II,Noble Gas,Rich,34.29
+Deklein,Z-D6K5,K5F-Z2,K5F-Z2 II,Polyaramids,Medium,18.34
+Deklein,Z-D6K5,K5F-Z2,K5F-Z2 III,Condensed Alloy,Medium,31.80
+Deklein,Z-D6K5,K5F-Z2,K5F-Z2 III,Opulent Compound,Medium,25.27
+Deklein,Z-D6K5,K5F-Z2,K5F-Z2 III,Base Metals,Perfect,11.50
+Deklein,Z-D6K5,K5F-Z2,K5F-Z2 III,Noble Metals,Medium,32.01
+Deklein,Z-D6K5,K5F-Z2,K5F-Z2 III,Industrial Fibers,Medium,8.55
+Deklein,Z-D6K5,K5F-Z2,K5F-Z2 III,Condensates,Medium,20.33
+Deklein,Z-D6K5,K5F-Z2,K5F-Z2 IV,Condensed Alloy,Perfect,45.81
+Deklein,Z-D6K5,K5F-Z2,K5F-Z2 IV,Reactive Gas,Medium,28.50
+Deklein,Z-D6K5,K5F-Z2,K5F-Z2 IV,Industrial Fibers,Medium,7.92
+Deklein,Z-D6K5,K5F-Z2,K5F-Z2 IV,Condensates,Perfect,28.57
+Deklein,Z-D6K5,K5F-Z2,K5F-Z2 IV,Smartfab Units,Perfect,30.54
+Deklein,Z-D6K5,K5F-Z2,K5F-Z2 IV,Liquid Ozone,Rich,48.20
+Deklein,Z-D6K5,K5F-Z2,K5F-Z2 V,Lustering Alloy,Medium,28.70
+Deklein,Z-D6K5,K5F-Z2,K5F-Z2 V,Reactive Gas,Poor,21.76
+Deklein,Z-D6K5,K5F-Z2,K5F-Z2 V,Noble Gas,Rich,35.26
+Deklein,Z-D6K5,K5F-Z2,K5F-Z2 V,Base Metals,Medium,6.47
+Deklein,Z-D6K5,K5F-Z2,K5F-Z2 V,Reactive Metals,Medium,6.95
+Deklein,Z-D6K5,K5F-Z2,K5F-Z2 V,Coolant,Medium,17.75
+Deklein,Z-D6K5,K5F-Z2,K5F-Z2 VI,Lustering Alloy,Rich,35.10
+Deklein,Z-D6K5,K5F-Z2,K5F-Z2 VI,Reactive Gas,Medium,31.49
+Deklein,Z-D6K5,K5F-Z2,K5F-Z2 VI,Noble Gas,Rich,40.35
+Deklein,Z-D6K5,K5F-Z2,K5F-Z2 VI,Reactive Metals,Rich,10.23
+Deklein,Z-D6K5,K5F-Z2,K5F-Z2 VI,Polyaramids,Poor,14.46
+Deklein,Z-D6K5,K5F-Z2,K5F-Z2 VI,Ionic Solutions,Perfect,16.75
+Deklein,Z-D6K5,K5F-Z2,K5F-Z2 VII,Sheen Compound,Poor,21.74
+Deklein,Z-D6K5,K5F-Z2,K5F-Z2 VII,Fiber Composite,Rich,38.43
+Deklein,Z-D6K5,K5F-Z2,K5F-Z2 VII,Glossy Compound,Medium,31.15
+Deklein,Z-D6K5,K5F-Z2,K5F-Z2 VII,Reactive Gas,Medium,30.60
+Deklein,Z-D6K5,K5F-Z2,K5F-Z2 VII,Noble Gas,Rich,35.07
+Deklein,Z-D6K5,K5F-Z2,K5F-Z2 VII,Polyaramids,Rich,24.51
+Deklein,Z-D6K5,K5F-Z2,K5F-Z2 VIII,Precious Alloy,Poor,19.03
+Deklein,Z-D6K5,K5F-Z2,K5F-Z2 VIII,Heavy Metals,Medium,31.51
+Deklein,Z-D6K5,K5F-Z2,K5F-Z2 VIII,Industrial Fibers,Rich,8.81
+Deklein,Z-D6K5,K5F-Z2,K5F-Z2 VIII,Supertensile Plastics,Medium,17.96
+Deklein,Z-D6K5,K5F-Z2,K5F-Z2 VIII,Liquid Ozone,Rich,44.46
+Deklein,Z-D6K5,TXME-A,TXME-A I,Lustering Alloy,Poor,24.50
+Deklein,Z-D6K5,TXME-A,TXME-A I,Precious Alloy,Poor,24.53
+Deklein,Z-D6K5,TXME-A,TXME-A I,Dark Compound,Poor,22.71
+Deklein,Z-D6K5,TXME-A,TXME-A I,Industrial Fibers,Poor,6.89
+Deklein,Z-D6K5,TXME-A,TXME-A I,Supertensile Plastics,Poor,15.33
+Deklein,Z-D6K5,TXME-A,TXME-A II,Dark Compound,Poor,22.65
+Deklein,Z-D6K5,TXME-A,TXME-A II,Base Metals,Medium,7.38
+Deklein,Z-D6K5,TXME-A,TXME-A II,Industrial Fibers,Medium,7.27
+Deklein,Z-D6K5,TXME-A,TXME-A II,Supertensile Plastics,Poor,13.89
+Deklein,Z-D6K5,TXME-A,TXME-A II,Silicate Glass,Poor,11.38
+Deklein,Z-D6K5,TXME-A,TXME-A III,Precious Alloy,Poor,25.26
+Deklein,Z-D6K5,TXME-A,TXME-A III,Dark Compound,Poor,18.90
+Deklein,Z-D6K5,TXME-A,TXME-A III,Base Metals,Medium,7.80
+Deklein,Z-D6K5,TXME-A,TXME-A III,Toxic Metals,Poor,5.92
+Deklein,Z-D6K5,TXME-A,TXME-A III,Construction Blocks,Medium,34.38
+Deklein,Z-D6K5,TXME-A,TXME-A IV,Gleaming Alloy,Rich,39.20
+Deklein,Z-D6K5,TXME-A,TXME-A IV,Motley Compound,Medium,30.94
+Deklein,Z-D6K5,TXME-A,TXME-A IV,Glossy Compound,Poor,24.28
+Deklein,Z-D6K5,TXME-A,TXME-A IV,Noble Gas,Rich,36.68
+Deklein,Z-D6K5,TXME-A,TXME-A V,Lustering Alloy,Poor,25.73
+Deklein,Z-D6K5,TXME-A,TXME-A V,Dark Compound,Poor,22.57
+Deklein,Z-D6K5,TXME-A,TXME-A V,Toxic Metals,Medium,8.15
+Deklein,Z-D6K5,TXME-A,TXME-A V,Silicate Glass,Poor,8.86
+Deklein,Z-D6K5,TXME-A,TXME-A V,Oxygen Isotopes,Poor,3.68
+Deklein,Z-D6K5,TXME-A,TXME-A VI,Lustering Alloy,Medium,32.40
+Deklein,Z-D6K5,TXME-A,TXME-A VI,Precious Alloy,Medium,28.25
+Deklein,Z-D6K5,TXME-A,TXME-A VI,Dark Compound,Medium,26.88
+Deklein,Z-D6K5,TXME-A,TXME-A VI,Toxic Metals,Medium,8.25
+Deklein,Z-D6K5,TXME-A,TXME-A VI,Industrial Fibers,Medium,6.99
+Deklein,Z-D6K5,TXME-A,TXME-A VII,Lustering Alloy,Medium,32.82
+Deklein,Z-D6K5,TXME-A,TXME-A VII,Dark Compound,Poor,18.45
+Deklein,Z-D6K5,TXME-A,TXME-A VII,Toxic Metals,Poor,6.20
+Deklein,Z-D6K5,TXME-A,TXME-A VII,Construction Blocks,Poor,18.03
+Deklein,Z-D6K5,TXME-A,TXME-A VII,Oxygen Isotopes,Poor,2.88
+Deklein,Z-D6K5,TXME-A,TXME-A VIII,Fiber Composite,Perfect,44.60
+Deklein,Z-D6K5,TXME-A,TXME-A VIII,Glossy Compound,Poor,26.07
+Deklein,Z-D6K5,TXME-A,TXME-A VIII,Noble Gas,Medium,28.06
+Deklein,Z-D6K5,TXME-A,TXME-A VIII,Base Metals,Rich,9.79
+Deklein,Z-D6K5,TXME-A,TXME-A VIII,Reactive Metals,Rich,10.48
+Deklein,Z-D6K5,TXME-A,TXME-A VIII,Polyaramids,Rich,27.37
+Deklein,Z-D6K5,TXME-A,TXME-A IX,Lustering Alloy,Perfect,45.05
+Deklein,Z-D6K5,TXME-A,TXME-A IX,Reactive Gas,Poor,26.04
+Deklein,Z-D6K5,TXME-A,TXME-A IX,Noble Gas,Rich,38.47
+Deklein,Z-D6K5,TXME-A,TXME-A IX,Reactive Metals,Rich,9.48
+Deklein,Z-D6K5,TXME-A,TXME-A IX,Polyaramids,Medium,22.27
+Deklein,Z-D6K5,TXME-A,TXME-A IX,Coolant,Medium,23.41
+Deklein,Z-D6K5,TXME-A,TXME-A X,Lustering Alloy,Medium,28.25
+Deklein,Z-D6K5,TXME-A,TXME-A X,Sheen Compound,Perfect,46.42
+Deklein,Z-D6K5,TXME-A,TXME-A X,Glossy Compound,Medium,30.18
+Deklein,Z-D6K5,TXME-A,TXME-A X,Reactive Gas,Rich,39.73
+Deklein,Z-D6K5,TXME-A,TXME-A X,Base Metals,Rich,10.53
+Deklein,Z-D6K5,TXME-A,TXME-A X,Polyaramids,Poor,15.33
+Deklein,Z-D6K5,TXME-A,TXME-A XI,Sheen Compound,Perfect,45.25
+Deklein,Z-D6K5,TXME-A,TXME-A XI,Glossy Compound,Poor,23.02
+Deklein,Z-D6K5,TXME-A,TXME-A XI,Noble Gas,Medium,32.70
+Deklein,Z-D6K5,TXME-A,TXME-A XI,Base Metals,Medium,8.05
+Deklein,Z-D6K5,TXME-A,TXME-A XI,Reactive Metals,Medium,8.37
+Deklein,Z-D6K5,TXME-A,TXME-A XI,Polyaramids,Medium,21.71
+Deklein,VW7-YN,YA0-XJ,YA0-XJ I,Lustering Alloy,Poor,20.44
+Deklein,VW7-YN,YA0-XJ,YA0-XJ I,Dark Compound,Poor,25.34
+Deklein,VW7-YN,YA0-XJ,YA0-XJ I,Toxic Metals,Poor,6.51
+Deklein,VW7-YN,YA0-XJ,YA0-XJ I,Industrial Fibers,Medium,7.37
+Deklein,VW7-YN,YA0-XJ,YA0-XJ I,Plasmoids,Poor,1.13
+Deklein,VW7-YN,YA0-XJ,YA0-XJ II,Condensed Alloy,Perfect,49.03
+Deklein,VW7-YN,YA0-XJ,YA0-XJ II,Base Metals,Perfect,12.27
+Deklein,VW7-YN,YA0-XJ,YA0-XJ II,Noble Metals,Rich,40.07
+Deklein,VW7-YN,YA0-XJ,YA0-XJ II,Condensates,Rich,28.47
+Deklein,VW7-YN,YA0-XJ,YA0-XJ II,Smartfab Units,Medium,23.17
+Deklein,VW7-YN,YA0-XJ,YA0-XJ II,Heavy Water,Perfect,510.72
+Deklein,VW7-YN,YA0-XJ,YA0-XJ III,Motley Compound,Medium,31.70
+Deklein,VW7-YN,YA0-XJ,YA0-XJ III,Glossy Compound,Rich,36.06
+Deklein,VW7-YN,YA0-XJ,YA0-XJ III,Noble Metals,Medium,30.97
+Deklein,VW7-YN,YA0-XJ,YA0-XJ III,Oxygen Isotopes,Perfect,6.76
+Deklein,VW7-YN,YA0-XJ,YA0-XJ IV,Glossy Compound,Rich,43.23
+Deklein,VW7-YN,YA0-XJ,YA0-XJ IV,Noble Metals,Rich,37.97
+Deklein,VW7-YN,YA0-XJ,YA0-XJ IV,Polyaramids,Medium,22.81
+Deklein,VW7-YN,YA0-XJ,YA0-XJ IV,Smartfab Units,Rich,27.78
+Deklein,VW7-YN,YA0-XJ,YA0-XJ V,Lustering Alloy,Medium,33.26
+Deklein,VW7-YN,YA0-XJ,YA0-XJ V,Sheen Compound,Poor,24.42
+Deklein,VW7-YN,YA0-XJ,YA0-XJ V,Fiber Composite,Perfect,44.88
+Deklein,VW7-YN,YA0-XJ,YA0-XJ V,Reactive Gas,Poor,25.12
+Deklein,VW7-YN,YA0-XJ,YA0-XJ V,Base Metals,Medium,7.05
+Deklein,VW7-YN,YA0-XJ,YA0-XJ V,Ionic Solutions,Medium,13.96
+Deklein,VW7-YN,YA0-XJ,YA0-XJ VI,Gleaming Alloy,Perfect,45.22
+Deklein,VW7-YN,YA0-XJ,YA0-XJ VI,Lucent Compound,Medium,31.11
+Deklein,VW7-YN,YA0-XJ,YA0-XJ VI,Crystal Compound,Medium,27.64
+Deklein,VW7-YN,YA0-XJ,YA0-XJ VI,Reactive Gas,Poor,26.01
+Deklein,VW7-YN,YA0-XJ,YA0-XJ VI,Nanites,Medium,8.84
+Deklein,VW7-YN,YA0-XJ,YA0-XJ VII,Lustering Alloy,Medium,30.94
+Deklein,VW7-YN,YA0-XJ,YA0-XJ VII,Fiber Composite,Rich,39.79
+Deklein,VW7-YN,YA0-XJ,YA0-XJ VII,Glossy Compound,Rich,42.78
+Deklein,VW7-YN,YA0-XJ,YA0-XJ VII,Noble Gas,Rich,43.20
+Deklein,VW7-YN,YA0-XJ,YA0-XJ VII,Polyaramids,Perfect,30.11
+Deklein,VW7-YN,YA0-XJ,YA0-XJ VII,Coolant,Rich,28.56
+Deklein,VW7-YN,YA0-XJ,YA0-XJ VIII,Sheen Compound,Poor,26.12
+Deklein,VW7-YN,YA0-XJ,YA0-XJ VIII,Fiber Composite,Rich,37.41
+Deklein,VW7-YN,YA0-XJ,YA0-XJ VIII,Noble Gas,Rich,41.41
+Deklein,VW7-YN,YA0-XJ,YA0-XJ VIII,Base Metals,Medium,7.69
+Deklein,VW7-YN,YA0-XJ,YA0-XJ VIII,Polyaramids,Perfect,30.15
+Deklein,VW7-YN,YA0-XJ,YA0-XJ VIII,Ionic Solutions,Medium,13.32
+Deklein,VW7-YN,YA0-XJ,YA0-XJ IX,Precious Alloy,Rich,37.27
+Deklein,VW7-YN,YA0-XJ,YA0-XJ IX,Motley Compound,Rich,40.49
+Deklein,VW7-YN,YA0-XJ,YA0-XJ IX,Base Metals,Poor,6.07
+Deklein,VW7-YN,YA0-XJ,YA0-XJ IX,Industrial Fibers,Medium,7.40
+Deklein,VW7-YN,YA0-XJ,YA0-XJ IX,Supertensile Plastics,Medium,21.45
+Deklein,VW7-YN,2-KF56,2-KF56 I,Gleaming Alloy,Medium,33.07
+Deklein,VW7-YN,2-KF56,2-KF56 I,Motley Compound,Rich,41.72
+Deklein,VW7-YN,2-KF56,2-KF56 I,Glossy Compound,Rich,36.65
+Deklein,VW7-YN,2-KF56,2-KF56 I,Noble Metals,Medium,33.07
+Deklein,VW7-YN,2-KF56,2-KF56 II,Precious Alloy,Medium,26.80
+Deklein,VW7-YN,2-KF56,2-KF56 II,Dark Compound,Poor,25.14
+Deklein,VW7-YN,2-KF56,2-KF56 II,Toxic Metals,Medium,7.43
+Deklein,VW7-YN,2-KF56,2-KF56 II,Industrial Fibers,Poor,6.04
+Deklein,VW7-YN,2-KF56,2-KF56 II,Construction Blocks,Poor,17.42
+Deklein,VW7-YN,2-KF56,2-KF56 III,Condensed Alloy,Rich,42.45
+Deklein,VW7-YN,2-KF56,2-KF56 III,Crystal Compound,Medium,31.64
+Deklein,VW7-YN,2-KF56,2-KF56 III,Noble Metals,Medium,29.46
+Deklein,VW7-YN,2-KF56,2-KF56 III,Polyaramids,Rich,29.53
+Deklein,VW7-YN,2-KF56,2-KF56 III,Silicate Glass,Rich,21.22
+Deklein,VW7-YN,2-KF56,2-KF56 III,Heavy Water,Perfect,473.76
+Deklein,VW7-YN,2-KF56,2-KF56 IV,Dark Compound,Medium,33.85
+Deklein,VW7-YN,2-KF56,2-KF56 IV,Industrial Fibers,Poor,5.81
+Deklein,VW7-YN,2-KF56,2-KF56 IV,Supertensile Plastics,Poor,17.14
+Deklein,VW7-YN,2-KF56,2-KF56 IV,Construction Blocks,Medium,32.96
+Deklein,VW7-YN,2-KF56,2-KF56 IV,Silicate Glass,Poor,12.07
+Deklein,VW7-YN,2-KF56,2-KF56 V,Lustering Alloy,Poor,23.94
+Deklein,VW7-YN,2-KF56,2-KF56 V,Precious Alloy,Poor,25.42
+Deklein,VW7-YN,2-KF56,2-KF56 V,Dark Compound,Medium,27.69
+Deklein,VW7-YN,2-KF56,2-KF56 V,Toxic Metals,Medium,7.80
+Deklein,VW7-YN,2-KF56,2-KF56 V,Supertensile Plastics,Poor,14.67
+Deklein,VW7-YN,2-KF56,2-KF56 VI,Noble Metals,Rich,43.54
+Deklein,VW7-YN,2-KF56,2-KF56 VI,Toxic Metals,Medium,7.47
+Deklein,VW7-YN,2-KF56,2-KF56 VI,Polyaramids,Medium,19.53
+Deklein,VW7-YN,2-KF56,2-KF56 VI,Coolant,Rich,29.46
+Deklein,VW7-YN,2-KF56,2-KF56 VI,Heavy Water,Rich,396.76
+Deklein,VW7-YN,2-KF56,2-KF56 VI,Ionic Solutions,Rich,14.82
+Deklein,VW7-YN,2-KF56,2-KF56 VII,Lustering Alloy,Medium,27.66
+Deklein,VW7-YN,2-KF56,2-KF56 VII,Sheen Compound,Medium,35.08
+Deklein,VW7-YN,2-KF56,2-KF56 VII,Reactive Gas,Rich,41.55
+Deklein,VW7-YN,2-KF56,2-KF56 VII,Noble Gas,Rich,43.48
+Deklein,VW7-YN,2-KF56,2-KF56 VII,Base Metals,Medium,7.52
+Deklein,VW7-YN,2-KF56,2-KF56 VII,Reactive Metals,Medium,8.73
+Deklein,VW7-YN,2-KF56,2-KF56 VIII,Lustering Alloy,Rich,36.60
+Deklein,VW7-YN,2-KF56,2-KF56 VIII,Sheen Compound,Medium,28.87
+Deklein,VW7-YN,2-KF56,2-KF56 VIII,Fiber Composite,Rich,41.38
+Deklein,VW7-YN,2-KF56,2-KF56 VIII,Reactive Gas,Rich,41.94
+Deklein,VW7-YN,2-KF56,2-KF56 VIII,Base Metals,Medium,7.49
+Deklein,VW7-YN,2-KF56,2-KF56 VIII,Coolant,Rich,28.39
+Deklein,VW7-YN,2-KF56,2-KF56 IX,Lustering Alloy,Medium,27.27
+Deklein,VW7-YN,2-KF56,2-KF56 IX,Dark Compound,Medium,30.18
+Deklein,VW7-YN,2-KF56,2-KF56 IX,Base Metals,Poor,5.30
+Deklein,VW7-YN,2-KF56,2-KF56 IX,Supertensile Plastics,Poor,12.10
+Deklein,VW7-YN,2-KF56,2-KF56 IX,Oxygen Isotopes,Poor,2.76
+Deklein,VW7-YN,2-KF56,2-KF56 X,Lustering Alloy,Medium,28.11
+Deklein,VW7-YN,2-KF56,2-KF56 X,Sheen Compound,Rich,43.23
+Deklein,VW7-YN,2-KF56,2-KF56 X,Glossy Compound,Rich,36.48
+Deklein,VW7-YN,2-KF56,2-KF56 X,Noble Gas,Poor,25.54
+Deklein,VW7-YN,2-KF56,2-KF56 X,Reactive Metals,Rich,11.03
+Deklein,VW7-YN,2-KF56,2-KF56 X,Coolant,Medium,17.77
+Deklein,VW7-YN,2-KF56,2-KF56 XI,Condensed Alloy,Rich,42.90
+Deklein,VW7-YN,2-KF56,2-KF56 XI,Opulent Compound,Perfect,46.51
+Deklein,VW7-YN,2-KF56,2-KF56 XI,Reactive Gas,Rich,44.13
+Deklein,VW7-YN,2-KF56,2-KF56 XI,Base Metals,Medium,7.87
+Deklein,VW7-YN,2-KF56,2-KF56 XI,Industrial Fibers,Perfect,12.00
+Deklein,VW7-YN,2-KF56,2-KF56 XI,Condensates,Perfect,31.64
+Deklein,VW7-YN,2-KF56,2-KF56 XII,Lustering Alloy,Medium,34.97
+Deklein,VW7-YN,2-KF56,2-KF56 XII,Fiber Composite,Medium,29.43
+Deklein,VW7-YN,2-KF56,2-KF56 XII,Reactive Gas,Medium,32.68
+Deklein,VW7-YN,2-KF56,2-KF56 XII,Reactive Metals,Medium,9.30
+Deklein,VW7-YN,2-KF56,2-KF56 XII,Coolant,Rich,23.91
+Deklein,VW7-YN,2-KF56,2-KF56 XII,Ionic Solutions,Rich,14.63
+Deklein,VW7-YN,VFK-IV,VFK-IV I,Gleaming Alloy,Medium,34.05
+Deklein,VW7-YN,VFK-IV,VFK-IV I,Glossy Compound,Poor,22.62
+Deklein,VW7-YN,VFK-IV,VFK-IV I,Noble Metals,Rich,39.37
+Deklein,VW7-YN,VFK-IV,VFK-IV I,Oxygen Isotopes,Medium,4.72
+Deklein,VW7-YN,VFK-IV,VFK-IV II,Gleaming Alloy,Medium,33.99
+Deklein,VW7-YN,VFK-IV,VFK-IV II,Crystal Compound,Rich,36.43
+Deklein,VW7-YN,VFK-IV,VFK-IV II,Reactive Gas,Rich,37.86
+Deklein,VW7-YN,VFK-IV,VFK-IV II,Reactive Metals,Poor,6.30
+Deklein,VW7-YN,VFK-IV,VFK-IV II,Toxic Metals,Medium,9.03
+Deklein,VW7-YN,VFK-IV,VFK-IV III,Opulent Compound,Rich,44.35
+Deklein,VW7-YN,VFK-IV,VFK-IV III,Crystal Compound,Perfect,46.31
+Deklein,VW7-YN,VFK-IV,VFK-IV III,Polyaramids,Medium,18.29
+Deklein,VW7-YN,VFK-IV,VFK-IV III,Coolant,Rich,28.69
+Deklein,VW7-YN,VFK-IV,VFK-IV III,Liquid Ozone,Medium,36.96
+Deklein,VW7-YN,VFK-IV,VFK-IV III,Ionic Solutions,Rich,15.66
+Deklein,VW7-YN,VFK-IV,VFK-IV IV,Lustering Alloy,Medium,32.40
+Deklein,VW7-YN,VFK-IV,VFK-IV IV,Sheen Compound,Medium,33.21
+Deklein,VW7-YN,VFK-IV,VFK-IV IV,Fiber Composite,Rich,40.71
+Deklein,VW7-YN,VFK-IV,VFK-IV IV,Reactive Gas,Rich,36.40
+Deklein,VW7-YN,VFK-IV,VFK-IV IV,Polyaramids,Medium,23.02
+Deklein,VW7-YN,VFK-IV,VFK-IV IV,Coolant,Medium,23.30
+Deklein,VW7-YN,VFK-IV,VFK-IV V,Lustering Alloy,Rich,38.08
+Deklein,VW7-YN,VFK-IV,VFK-IV V,Sheen Compound,Medium,26.40
+Deklein,VW7-YN,VFK-IV,VFK-IV V,Reactive Gas,Rich,40.85
+Deklein,VW7-YN,VFK-IV,VFK-IV V,Noble Gas,Medium,28.14
+Deklein,VW7-YN,VFK-IV,VFK-IV V,Polyaramids,Rich,27.29
+Deklein,VW7-YN,VFK-IV,VFK-IV V,Coolant,Poor,16.58
+Deklein,VW7-YN,VFK-IV,VFK-IV VI,Sheen Compound,Medium,34.86
+Deklein,VW7-YN,VFK-IV,VFK-IV VI,Fiber Composite,Rich,38.22
+Deklein,VW7-YN,VFK-IV,VFK-IV VI,Reactive Gas,Rich,37.16
+Deklein,VW7-YN,VFK-IV,VFK-IV VI,Noble Gas,Rich,39.17
+Deklein,VW7-YN,VFK-IV,VFK-IV VI,Reactive Metals,Rich,9.53
+Deklein,VW7-YN,VFK-IV,VFK-IV VI,Ionic Solutions,Medium,10.80
+Deklein,VW7-YN,VFK-IV,VFK-IV VII,Dark Compound,Poor,23.83
+Deklein,VW7-YN,VFK-IV,VFK-IV VII,Industrial Fibers,Medium,8.54
+Deklein,VW7-YN,VFK-IV,VFK-IV VII,Construction Blocks,Medium,33.43
+Deklein,VW7-YN,VFK-IV,VFK-IV VII,Oxygen Isotopes,Medium,4.74
+Deklein,VW7-YN,VFK-IV,VFK-IV VII,Plasmoids,Medium,1.59
+Deklein,VW7-YN,2R-CRW,2R-CRW I,Glossy Compound,Rich,38.00
+Deklein,VW7-YN,2R-CRW,2R-CRW I,Noble Gas,Perfect,46.65
+Deklein,VW7-YN,2R-CRW,2R-CRW I,Polyaramids,Rich,28.71
+Deklein,VW7-YN,2R-CRW,2R-CRW I,Smartfab Units,Perfect,30.87
+Deklein,VW7-YN,2R-CRW,2R-CRW II,Dark Compound,Poor,20.16
+Deklein,VW7-YN,2R-CRW,2R-CRW II,Base Metals,Medium,7.96
+Deklein,VW7-YN,2R-CRW,2R-CRW II,Toxic Metals,Medium,7.79
+Deklein,VW7-YN,2R-CRW,2R-CRW II,Construction Blocks,Medium,33.12
+Deklein,VW7-YN,2R-CRW,2R-CRW II,Plasmoids,Poor,1.44
+Deklein,VW7-YN,2R-CRW,2R-CRW III,Precious Alloy,Poor,18.12
+Deklein,VW7-YN,2R-CRW,2R-CRW III,Dark Compound,Medium,27.38
+Deklein,VW7-YN,2R-CRW,2R-CRW III,Base Metals,Poor,5.38
+Deklein,VW7-YN,2R-CRW,2R-CRW III,Industrial Fibers,Poor,5.76
+Deklein,VW7-YN,2R-CRW,2R-CRW III,Oxygen Isotopes,Poor,3.79
+Deklein,VW7-YN,2R-CRW,2R-CRW IV,Noble Metals,Rich,36.62
+Deklein,VW7-YN,2R-CRW,2R-CRW IV,Polyaramids,Perfect,31.06
+Deklein,VW7-YN,2R-CRW,2R-CRW IV,Coolant,Rich,25.65
+Deklein,VW7-YN,2R-CRW,2R-CRW IV,Silicate Glass,Medium,16.25
+Deklein,VW7-YN,2R-CRW,2R-CRW IV,Liquid Ozone,Rich,45.92
+Deklein,VW7-YN,2R-CRW,2R-CRW IV,Ionic Solutions,Medium,10.91
+Deklein,VW7-YN,2R-CRW,2R-CRW V,Condensed Alloy,Medium,32.59
+Deklein,VW7-YN,2R-CRW,2R-CRW V,Fiber Composite,Perfect,44.63
+Deklein,VW7-YN,2R-CRW,2R-CRW V,Opulent Compound,Perfect,46.56
+Deklein,VW7-YN,2R-CRW,2R-CRW V,Reactive Gas,Rich,37.44
+Deklein,VW7-YN,2R-CRW,2R-CRW V,Condensates,Rich,25.80
+Deklein,VW7-YN,2R-CRW,2R-CRW V,Liquid Ozone,Rich,44.38
+Deklein,VW7-YN,2R-CRW,2R-CRW VI,Lustering Alloy,Rich,37.16
+Deklein,VW7-YN,2R-CRW,2R-CRW VI,Fiber Composite,Rich,38.72
+Deklein,VW7-YN,2R-CRW,2R-CRW VI,Noble Gas,Perfect,44.91
+Deklein,VW7-YN,2R-CRW,2R-CRW VI,Base Metals,Rich,9.59
+Deklein,VW7-YN,2R-CRW,2R-CRW VI,Polyaramids,Rich,27.63
+Deklein,VW7-YN,2R-CRW,2R-CRW VI,Coolant,Medium,20.50
+Deklein,VW7-YN,2R-CRW,2R-CRW VII,Crystal Compound,Medium,28.95
+Deklein,VW7-YN,2R-CRW,2R-CRW VII,Reactive Gas,Medium,30.02
+Deklein,VW7-YN,2R-CRW,2R-CRW VII,Supertensile Plastics,Medium,18.16
+Deklein,VW7-YN,2R-CRW,2R-CRW VII,Suspended Plasma,Medium,105.94
+Deklein,VW7-YN,2R-CRW,2R-CRW VII,Oxygen Isotopes,Rich,5.44
+Deklein,VW7-YN,2R-CRW,2R-CRW VIII,Lustering Alloy,Medium,27.69
+Deklein,VW7-YN,2R-CRW,2R-CRW VIII,Glossy Compound,Rich,37.52
+Deklein,VW7-YN,2R-CRW,2R-CRW VIII,Noble Gas,Medium,27.22
+Deklein,VW7-YN,2R-CRW,2R-CRW VIII,Polyaramids,Rich,23.73
+Deklein,VW7-YN,2R-CRW,2R-CRW VIII,Coolant,Medium,21.62
+Deklein,VW7-YN,2R-CRW,2R-CRW VIII,Ionic Solutions,Rich,16.12
+Deklein,VW7-YN,2R-CRW,2R-CRW IX,Condensed Alloy,Perfect,45.42
+Deklein,VW7-YN,2R-CRW,2R-CRW IX,Opulent Compound,Perfect,47.74
+Deklein,VW7-YN,2R-CRW,2R-CRW IX,Reactive Gas,Perfect,52.16
+Deklein,VW7-YN,2R-CRW,2R-CRW IX,Base Metals,Medium,7.66
+Deklein,VW7-YN,2R-CRW,2R-CRW IX,Noble Metals,Medium,35.06
+Deklein,VW7-YN,2R-CRW,2R-CRW IX,Heavy Water,Medium,350.28
+Deklein,VW7-YN,2R-CRW,2R-CRW X,Lustering Alloy,Rich,35.64
+Deklein,VW7-YN,2R-CRW,2R-CRW X,Sheen Compound,Medium,33.01
+Deklein,VW7-YN,2R-CRW,2R-CRW X,Fiber Composite,Medium,30.58
+Deklein,VW7-YN,2R-CRW,2R-CRW X,Glossy Compound,Rich,43.26
+Deklein,VW7-YN,2R-CRW,2R-CRW X,Polyaramids,Rich,25.63
+Deklein,VW7-YN,2R-CRW,2R-CRW X,Coolant,Medium,21.37
+Deklein,VW7-YN,2R-CRW,2R-CRW XI,Lustering Alloy,Perfect,44.88
+Deklein,VW7-YN,2R-CRW,2R-CRW XI,Sheen Compound,Medium,30.74
+Deklein,VW7-YN,2R-CRW,2R-CRW XI,Glossy Compound,Poor,26.01
+Deklein,VW7-YN,2R-CRW,2R-CRW XI,Reactive Metals,Rich,10.12
+Deklein,VW7-YN,2R-CRW,2R-CRW XI,Coolant,Medium,20.25
+Deklein,VW7-YN,2R-CRW,2R-CRW XI,Ionic Solutions,Rich,14.66
+Deklein,VW7-YN,CCP-US,CCP-US I,Lustering Alloy,Poor,27.06
+Deklein,VW7-YN,CCP-US,CCP-US I,Dark Compound,Poor,19.34
+Deklein,VW7-YN,CCP-US,CCP-US I,Base Metals,Poor,6.76
+Deklein,VW7-YN,CCP-US,CCP-US I,Construction Blocks,Medium,32.45
+Deklein,VW7-YN,CCP-US,CCP-US I,Silicate Glass,Poor,13.35
+Deklein,VW7-YN,CCP-US,CCP-US II,Dark Compound,Rich,38.72
+Deklein,VW7-YN,CCP-US,CCP-US II,Noble Gas,Rich,44.78
+Deklein,VW7-YN,CCP-US,CCP-US II,Heavy Metals,Rich,39.53
+Deklein,VW7-YN,CCP-US,CCP-US II,Reactive Metals,Poor,6.94
+Deklein,VW7-YN,CCP-US,CCP-US II,Nanites,Medium,9.10
+Deklein,VW7-YN,CCP-US,CCP-US II,Ionic Solutions,Medium,14.12
+Deklein,VW7-YN,CCP-US,CCP-US III,Gleaming Alloy,Rich,42.17
+Deklein,VW7-YN,CCP-US,CCP-US III,Motley Compound,Medium,33.84
+Deklein,VW7-YN,CCP-US,CCP-US III,Glossy Compound,Perfect,46.78
+Deklein,VW7-YN,CCP-US,CCP-US III,Heavy Metals,Poor,23.90
+Deklein,VW7-YN,CCP-US,CCP-US IV,Sheen Compound,Medium,33.90
+Deklein,VW7-YN,CCP-US,CCP-US IV,Heavy Metals,Medium,35.03
+Deklein,VW7-YN,CCP-US,CCP-US IV,Reactive Metals,Medium,8.94
+Deklein,VW7-YN,CCP-US,CCP-US IV,Condensates,Perfect,30.89
+Deklein,VW7-YN,CCP-US,CCP-US IV,Nanites,Perfect,13.43
+Deklein,VW7-YN,CCP-US,CCP-US IV,Ionic Solutions,Rich,16.62
+Deklein,VW7-YN,CCP-US,CCP-US V,Opulent Compound,Rich,39.32
+Deklein,VW7-YN,CCP-US,CCP-US V,Crystal Compound,Medium,30.97
+Deklein,VW7-YN,CCP-US,CCP-US V,Toxic Metals,Rich,10.65
+Deklein,VW7-YN,CCP-US,CCP-US V,Polyaramids,Medium,21.17
+Deklein,VW7-YN,CCP-US,CCP-US V,Coolant,Rich,25.42
+Deklein,VW7-YN,CCP-US,CCP-US V,Heavy Water,Medium,348.00
+Deklein,VW7-YN,CCP-US,CCP-US VI,Precious Alloy,Medium,32.28
+Deklein,VW7-YN,CCP-US,CCP-US VI,Dark Compound,Poor,25.26
+Deklein,VW7-YN,CCP-US,CCP-US VI,Base Metals,Poor,6.65
+Deklein,VW7-YN,CCP-US,CCP-US VI,Industrial Fibers,Poor,5.27
+Deklein,VW7-YN,CCP-US,CCP-US VI,Construction Blocks,Medium,33.23
+Deklein,VW7-YN,CCP-US,CCP-US VII,Fiber Composite,Medium,28.77
+Deklein,VW7-YN,CCP-US,CCP-US VII,Glossy Compound,Rich,39.56
+Deklein,VW7-YN,CCP-US,CCP-US VII,Reactive Gas,Rich,41.91
+Deklein,VW7-YN,CCP-US,CCP-US VII,Noble Gas,Medium,35.15
+Deklein,VW7-YN,CCP-US,CCP-US VII,Polyaramids,Medium,21.79
+Deklein,VW7-YN,CCP-US,CCP-US VII,Ionic Solutions,Rich,17.04
+Deklein,VW7-YN,CCP-US,CCP-US VIII,Crystal Compound,Medium,36.05
+Deklein,VW7-YN,CCP-US,CCP-US VIII,Noble Metals,Rich,39.15
+Deklein,VW7-YN,CCP-US,CCP-US VIII,Polyaramids,Perfect,33.12
+Deklein,VW7-YN,CCP-US,CCP-US VIII,Coolant,Perfect,33.10
+Deklein,VW7-YN,CCP-US,CCP-US VIII,Silicate Glass,Medium,17.01
+Deklein,VW7-YN,CCP-US,CCP-US VIII,Heavy Water,Perfect,493.58
+Deklein,VW7-YN,CCP-US,CCP-US IX,Lustering Alloy,Medium,27.70
+Deklein,VW7-YN,CCP-US,CCP-US IX,Fiber Composite,Medium,35.96
+Deklein,VW7-YN,CCP-US,CCP-US IX,Glossy Compound,Rich,41.15
+Deklein,VW7-YN,CCP-US,CCP-US IX,Noble Gas,Medium,32.74
+Deklein,VW7-YN,CCP-US,CCP-US IX,Coolant,Rich,26.49
+Deklein,VW7-YN,CCP-US,CCP-US IX,Ionic Solutions,Poor,10.03
+Deklein,VW7-YN,CCP-US,CCP-US X,Fiber Composite,Medium,27.78
+Deklein,VW7-YN,CCP-US,CCP-US X,Glossy Compound,Medium,29.84
+Deklein,VW7-YN,CCP-US,CCP-US X,Reactive Gas,Rich,38.16
+Deklein,VW7-YN,CCP-US,CCP-US X,Base Metals,Rich,11.13
+Deklein,VW7-YN,CCP-US,CCP-US X,Polyaramids,Rich,27.43
+Deklein,VW7-YN,CCP-US,CCP-US X,Coolant,Medium,20.03
+Deklein,VW7-YN,CCP-US,CCP-US XI,Glossy Compound,Medium,33.18
+Deklein,VW7-YN,CCP-US,CCP-US XI,Noble Gas,Rich,41.06
+Deklein,VW7-YN,CCP-US,CCP-US XI,Base Metals,Rich,11.13
+Deklein,VW7-YN,CCP-US,CCP-US XI,Reactive Metals,Medium,8.46
+Deklein,VW7-YN,CCP-US,CCP-US XI,Coolant,Rich,29.62
+Deklein,VW7-YN,CCP-US,CCP-US XI,Ionic Solutions,Rich,18.08
+Deklein,VW7-YN,CCP-US,CCP-US XII,Lucent Compound,Perfect,50.55
+Deklein,VW7-YN,CCP-US,CCP-US XII,Noble Gas,Medium,30.36
+Deklein,VW7-YN,CCP-US,CCP-US XII,Heavy Metals,Medium,35.03
+Deklein,VW7-YN,CCP-US,CCP-US XII,Reactive Metals,Rich,11.03
+Deklein,VW7-YN,CCP-US,CCP-US XII,Suspended Plasma,Rich,132.17
+Deklein,VW7-YN,CCP-US,CCP-US XII,Ionic Solutions,Perfect,20.40
+Deklein,VW7-YN,CCP-US,CCP-US XIII,Lustering Alloy,Rich,41.47
+Deklein,VW7-YN,CCP-US,CCP-US XIII,Reactive Gas,Poor,23.93
+Deklein,VW7-YN,CCP-US,CCP-US XIII,Base Metals,Rich,10.19
+Deklein,VW7-YN,CCP-US,CCP-US XIII,Reactive Metals,Medium,8.07
+Deklein,VW7-YN,CCP-US,CCP-US XIII,Polyaramids,Medium,19.29
+Deklein,VW7-YN,CCP-US,CCP-US XIII,Ionic Solutions,Rich,14.81
+Deklein,VW7-YN,II-5O9,II-5O9 I,Lustering Alloy,Poor,20.18
+Deklein,VW7-YN,II-5O9,II-5O9 I,Dark Compound,Medium,26.94
+Deklein,VW7-YN,II-5O9,II-5O9 I,Base Metals,Medium,7.21
+Deklein,VW7-YN,II-5O9,II-5O9 I,Silicate Glass,Poor,12.01
+Deklein,VW7-YN,II-5O9,II-5O9 I,Oxygen Isotopes,Medium,4.68
+Deklein,VW7-YN,II-5O9,II-5O9 II,Gleaming Alloy,Rich,33.54
+Deklein,VW7-YN,II-5O9,II-5O9 II,Motley Compound,Rich,41.03
+Deklein,VW7-YN,II-5O9,II-5O9 II,Glossy Compound,Poor,21.68
+Deklein,VW7-YN,II-5O9,II-5O9 II,Heavy Metals,Medium,31.15
+Deklein,VW7-YN,II-5O9,II-5O9 III,Fiber Composite,Rich,36.40
+Deklein,VW7-YN,II-5O9,II-5O9 III,Glossy Compound,Medium,24.88
+Deklein,VW7-YN,II-5O9,II-5O9 III,Reactive Gas,Rich,34.11
+Deklein,VW7-YN,II-5O9,II-5O9 III,Base Metals,Medium,7.64
+Deklein,VW7-YN,II-5O9,II-5O9 III,Reactive Metals,Poor,6.16
+Deklein,VW7-YN,II-5O9,II-5O9 III,Polyaramids,Medium,20.68
+Deklein,VW7-YN,II-5O9,II-5O9 IV,Sheen Compound,Medium,28.81
+Deklein,VW7-YN,II-5O9,II-5O9 IV,Glossy Compound,Medium,25.64
+Deklein,VW7-YN,II-5O9,II-5O9 IV,Noble Gas,Rich,35.54
+Deklein,VW7-YN,II-5O9,II-5O9 IV,Reactive Metals,Medium,6.55
+Deklein,VW7-YN,II-5O9,II-5O9 IV,Polyaramids,Rich,25.55
+Deklein,VW7-YN,II-5O9,II-5O9 IV,Ionic Solutions,Perfect,16.62
+Deklein,VW7-YN,II-5O9,II-5O9 V,Dark Compound,Poor,17.89
+Deklein,VW7-YN,II-5O9,II-5O9 V,Supertensile Plastics,Medium,17.19
+Deklein,VW7-YN,II-5O9,II-5O9 V,Construction Blocks,Medium,31.15
+Deklein,VW7-YN,II-5O9,II-5O9 V,Oxygen Isotopes,Medium,3.82
+Deklein,VW7-YN,II-5O9,II-5O9 V,Plasmoids,Medium,1.68
+Deklein,VW7-YN,II-5O9,II-5O9 VI,Dark Compound,Medium,29.07
+Deklein,VW7-YN,II-5O9,II-5O9 VI,Industrial Fibers,Poor,4.91
+Deklein,VW7-YN,II-5O9,II-5O9 VI,Supertensile Plastics,Poor,16.31
+Deklein,VW7-YN,II-5O9,II-5O9 VI,Construction Blocks,Medium,29.64
+Deklein,VW7-YN,II-5O9,II-5O9 VI,Oxygen Isotopes,Poor,2.62
+Deklein,VW7-YN,II-5O9,II-5O9 VII,Precious Alloy,Rich,38.51
+Deklein,VW7-YN,II-5O9,II-5O9 VII,Base Metals,Medium,7.33
+Deklein,VW7-YN,II-5O9,II-5O9 VII,Heavy Metals,Medium,25.56
+Deklein,VW7-YN,II-5O9,II-5O9 VII,Coolant,Poor,13.02
+Deklein,VW7-YN,II-5O9,II-5O9 VII,Condensates,Poor,16.33
+Deklein,VW7-YN,II-5O9,II-5O9 VIII,Lustering Alloy,Rich,33.15
+Deklein,VW7-YN,II-5O9,II-5O9 VIII,Precious Alloy,Medium,30.68
+Deklein,VW7-YN,II-5O9,II-5O9 VIII,Industrial Fibers,Medium,6.92
+Deklein,VW7-YN,II-5O9,II-5O9 VIII,Condensates,Poor,14.09
+Deklein,VW7-YN,II-5O9,II-5O9 VIII,Liquid Ozone,Rich,45.01
+Deklein,VW7-YN,II-5O9,II-5O9 IX,Lustering Alloy,Poor,19.06
+Deklein,VW7-YN,II-5O9,II-5O9 IX,Precious Alloy,Medium,27.12
+Deklein,VW7-YN,II-5O9,II-5O9 IX,Motley Compound,Poor,24.02
+Deklein,VW7-YN,II-5O9,II-5O9 IX,Supertensile Plastics,Poor,15.10
+Deklein,VW7-YN,II-5O9,II-5O9 IX,Coolant,Rich,25.29
+Deklein,VW7-YN,II-5O9,II-5O9 X,Lustering Alloy,Poor,17.71
+Deklein,VW7-YN,II-5O9,II-5O9 X,Dark Compound,Poor,18.28
+Deklein,VW7-YN,II-5O9,II-5O9 X,Industrial Fibers,Poor,4.86
+Deklein,VW7-YN,II-5O9,II-5O9 X,Supertensile Plastics,Poor,13.71
+Deklein,VW7-YN,II-5O9,II-5O9 X,Plasmoids,Poor,1.03
+Deklein,UTQ-BO,I30-3A,I30-3A I,Motley Compound,Medium,27.41
+Deklein,UTQ-BO,I30-3A,I30-3A I,Glossy Compound,Medium,33.82
+Deklein,UTQ-BO,I30-3A,I30-3A I,Polyaramids,Rich,24.81
+Deklein,UTQ-BO,I30-3A,I30-3A I,Smartfab Units,Medium,19.71
+Deklein,UTQ-BO,I30-3A,I30-3A II,Precious Alloy,Poor,19.12
+Deklein,UTQ-BO,I30-3A,I30-3A II,Dark Compound,Poor,21.62
+Deklein,UTQ-BO,I30-3A,I30-3A II,Base Metals,Poor,6.86
+Deklein,UTQ-BO,I30-3A,I30-3A II,Industrial Fibers,Poor,4.93
+Deklein,UTQ-BO,I30-3A,I30-3A II,Plasmoids,Medium,1.71
+Deklein,UTQ-BO,I30-3A,I30-3A III,Opulent Compound,Poor,26.07
+Deklein,UTQ-BO,I30-3A,I30-3A III,Noble Metals,Rich,40.52
+Deklein,UTQ-BO,I30-3A,I30-3A III,Toxic Metals,Medium,7.93
+Deklein,UTQ-BO,I30-3A,I30-3A III,Polyaramids,Rich,28.41
+Deklein,UTQ-BO,I30-3A,I30-3A III,Silicate Glass,Perfect,23.14
+Deklein,UTQ-BO,I30-3A,I30-3A III,Heavy Water,Rich,372.40
+Deklein,UTQ-BO,I30-3A,I30-3A IV,Precious Alloy,Medium,27.86
+Deklein,UTQ-BO,I30-3A,I30-3A IV,Dark Compound,Poor,19.24
+Deklein,UTQ-BO,I30-3A,I30-3A IV,Supertensile Plastics,Poor,15.87
+Deklein,UTQ-BO,I30-3A,I30-3A IV,Construction Blocks,Poor,19.38
+Deklein,UTQ-BO,I30-3A,I30-3A IV,Oxygen Isotopes,Poor,3.73
+Deklein,UTQ-BO,I30-3A,I30-3A V,Lustering Alloy,Medium,31.00
+Deklein,UTQ-BO,I30-3A,I30-3A V,Precious Alloy,Poor,21.64
+Deklein,UTQ-BO,I30-3A,I30-3A V,Dark Compound,Poor,24.98
+Deklein,UTQ-BO,I30-3A,I30-3A V,Base Metals,Poor,6.56
+Deklein,UTQ-BO,I30-3A,I30-3A V,Construction Blocks,Poor,18.93
+Deklein,UTQ-BO,I30-3A,I30-3A VI,Lustering Alloy,Poor,25.93
+Deklein,UTQ-BO,I30-3A,I30-3A VI,Dark Compound,Medium,28.70
+Deklein,UTQ-BO,I30-3A,I30-3A VI,Base Metals,Medium,8.75
+Deklein,UTQ-BO,I30-3A,I30-3A VI,Oxygen Isotopes,Medium,4.79
+Deklein,UTQ-BO,I30-3A,I30-3A VI,Plasmoids,Medium,2.05
+Deklein,UTQ-BO,I30-3A,I30-3A VII,Gleaming Alloy,Poor,24.39
+Deklein,UTQ-BO,I30-3A,I30-3A VII,Motley Compound,Perfect,45.58
+Deklein,UTQ-BO,I30-3A,I30-3A VII,Glossy Compound,Perfect,46.03
+Deklein,UTQ-BO,I30-3A,I30-3A VII,Noble Metals,Medium,32.48
+Deklein,UTQ-BO,I30-3A,I30-3A VIII,Lustering Alloy,Perfect,46.14
+Deklein,UTQ-BO,I30-3A,I30-3A VIII,Fiber Composite,Rich,35.67
+Deklein,UTQ-BO,I30-3A,I30-3A VIII,Reactive Gas,Rich,38.44
+Deklein,UTQ-BO,I30-3A,I30-3A VIII,Base Metals,Perfect,11.73
+Deklein,UTQ-BO,I30-3A,I30-3A VIII,Reactive Metals,Medium,8.68
+Deklein,UTQ-BO,I30-3A,I30-3A VIII,Coolant,Rich,26.58
+Deklein,UTQ-BO,I30-3A,I30-3A IX,Condensed Alloy,Rich,43.43
+Deklein,UTQ-BO,I30-3A,I30-3A IX,Opulent Compound,Rich,41.92
+Deklein,UTQ-BO,I30-3A,I30-3A IX,Noble Metals,Perfect,53.51
+Deklein,UTQ-BO,I30-3A,I30-3A IX,Condensates,Rich,28.62
+Deklein,UTQ-BO,I30-3A,I30-3A IX,Smartfab Units,Perfect,35.58
+Deklein,UTQ-BO,I30-3A,I30-3A IX,Heavy Water,Rich,428.68
+Deklein,UTQ-BO,I30-3A,I30-3A X,Lustering Alloy,Medium,28.53
+Deklein,UTQ-BO,I30-3A,I30-3A X,Fiber Composite,Rich,41.47
+Deklein,UTQ-BO,I30-3A,I30-3A X,Glossy Compound,Medium,28.59
+Deklein,UTQ-BO,I30-3A,I30-3A X,Reactive Gas,Perfect,46.23
+Deklein,UTQ-BO,I30-3A,I30-3A X,Noble Gas,Medium,26.82
+Deklein,UTQ-BO,I30-3A,I30-3A X,Base Metals,Poor,6.09
+Deklein,UTQ-BO,2O9G-D,2O9G-D I,Dark Compound,Poor,25.65
+Deklein,UTQ-BO,2O9G-D,2O9G-D I,Base Metals,Medium,7.22
+Deklein,UTQ-BO,2O9G-D,2O9G-D I,Construction Blocks,Poor,25.03
+Deklein,UTQ-BO,2O9G-D,2O9G-D I,Oxygen Isotopes,Poor,2.82
+Deklein,UTQ-BO,2O9G-D,2O9G-D I,Plasmoids,Medium,1.78
+Deklein,UTQ-BO,2O9G-D,2O9G-D II,Dark Compound,Medium,32.73
+Deklein,UTQ-BO,2O9G-D,2O9G-D II,Toxic Metals,Poor,6.62
+Deklein,UTQ-BO,2O9G-D,2O9G-D II,Industrial Fibers,Poor,4.60
+Deklein,UTQ-BO,2O9G-D,2O9G-D II,Supertensile Plastics,Medium,19.97
+Deklein,UTQ-BO,2O9G-D,2O9G-D II,Construction Blocks,Poor,26.01
+Deklein,UTQ-BO,2O9G-D,2O9G-D III,Fiber Composite,Medium,34.47
+Deklein,UTQ-BO,2O9G-D,2O9G-D III,Glossy Compound,Rich,36.20
+Deklein,UTQ-BO,2O9G-D,2O9G-D III,Noble Gas,Poor,23.74
+Deklein,UTQ-BO,2O9G-D,2O9G-D III,Base Metals,Rich,11.61
+Deklein,UTQ-BO,2O9G-D,2O9G-D III,Reactive Metals,Medium,9.07
+Deklein,UTQ-BO,2O9G-D,2O9G-D III,Ionic Solutions,Medium,12.67
+Deklein,UTQ-BO,2O9G-D,2O9G-D IV,Condensed Alloy,Rich,35.73
+Deklein,UTQ-BO,2O9G-D,2O9G-D IV,Fiber Composite,Perfect,45.30
+Deklein,UTQ-BO,2O9G-D,2O9G-D IV,Opulent Compound,Perfect,46.28
+Deklein,UTQ-BO,2O9G-D,2O9G-D IV,Base Metals,Perfect,13.47
+Deklein,UTQ-BO,2O9G-D,2O9G-D IV,Noble Metals,Perfect,52.84
+Deklein,UTQ-BO,2O9G-D,2O9G-D IV,Heavy Water,Rich,370.44
+Deklein,UTQ-BO,2O9G-D,2O9G-D V,Lustering Alloy,Rich,37.10
+Deklein,UTQ-BO,2O9G-D,2O9G-D V,Fiber Composite,Poor,24.84
+Deklein,UTQ-BO,2O9G-D,2O9G-D V,Noble Gas,Rich,37.02
+Deklein,UTQ-BO,2O9G-D,2O9G-D V,Reactive Metals,Medium,8.83
+Deklein,UTQ-BO,2O9G-D,2O9G-D V,Coolant,Medium,22.85
+Deklein,UTQ-BO,2O9G-D,2O9G-D V,Ionic Solutions,Medium,10.67
+Deklein,UTQ-BO,2O9G-D,2O9G-D VI,Sheen Compound,Poor,23.69
+Deklein,UTQ-BO,2O9G-D,2O9G-D VI,Glossy Compound,Poor,25.96
+Deklein,UTQ-BO,2O9G-D,2O9G-D VI,Noble Gas,Medium,29.06
+Deklein,UTQ-BO,2O9G-D,2O9G-D VI,Base Metals,Rich,9.53
+Deklein,UTQ-BO,2O9G-D,2O9G-D VI,Reactive Metals,Medium,8.13
+Deklein,UTQ-BO,2O9G-D,2O9G-D VI,Coolant,Perfect,30.39
+Deklein,UTQ-BO,2O9G-D,2O9G-D VII,Fiber Composite,Medium,29.46
+Deklein,UTQ-BO,2O9G-D,2O9G-D VII,Glossy Compound,Medium,30.04
+Deklein,UTQ-BO,2O9G-D,2O9G-D VII,Reactive Gas,Rich,38.22
+Deklein,UTQ-BO,2O9G-D,2O9G-D VII,Base Metals,Perfect,11.97
+Deklein,UTQ-BO,2O9G-D,2O9G-D VII,Polyaramids,Poor,15.40
+Deklein,UTQ-BO,2O9G-D,2O9G-D VII,Coolant,Rich,24.99
+Deklein,UTQ-BO,2O9G-D,2O9G-D VIII,Dark Compound,Poor,22.85
+Deklein,UTQ-BO,2O9G-D,2O9G-D VIII,Toxic Metals,Poor,6.48
+Deklein,UTQ-BO,2O9G-D,2O9G-D VIII,Supertensile Plastics,Medium,18.54
+Deklein,UTQ-BO,2O9G-D,2O9G-D VIII,Silicate Glass,Medium,15.36
+Deklein,UTQ-BO,2O9G-D,2O9G-D VIII,Oxygen Isotopes,Medium,4.58
+Deklein,UTQ-BO,2O9G-D,2O9G-D IX,Lustering Alloy,Medium,33.54
+Deklein,UTQ-BO,2O9G-D,2O9G-D IX,Sheen Compound,Medium,30.04
+Deklein,UTQ-BO,2O9G-D,2O9G-D IX,Fiber Composite,Perfect,44.97
+Deklein,UTQ-BO,2O9G-D,2O9G-D IX,Noble Gas,Poor,23.91
+Deklein,UTQ-BO,2O9G-D,2O9G-D IX,Polyaramids,Medium,19.04
+Deklein,UTQ-BO,2O9G-D,2O9G-D IX,Coolant,Medium,23.05
+Deklein,UTQ-BO,NC-N3F,NC-N3F I,Gleaming Alloy,Medium,25.51
+Deklein,UTQ-BO,NC-N3F,NC-N3F I,Crystal Compound,Poor,22.10
+Deklein,UTQ-BO,NC-N3F,NC-N3F I,Reactive Metals,Rich,9.72
+Deklein,UTQ-BO,NC-N3F,NC-N3F I,Construction Blocks,Rich,40.07
+Deklein,UTQ-BO,NC-N3F,NC-N3F I,Suspended Plasma,Medium,106.61
+Deklein,UTQ-BO,NC-N3F,NC-N3F II,Sheen Compound,Medium,25.51
+Deklein,UTQ-BO,NC-N3F,NC-N3F II,Glossy Compound,Medium,32.01
+Deklein,UTQ-BO,NC-N3F,NC-N3F II,Reactive Gas,Rich,38.53
+Deklein,UTQ-BO,NC-N3F,NC-N3F II,Base Metals,Medium,7.95
+Deklein,UTQ-BO,NC-N3F,NC-N3F II,Reactive Metals,Poor,6.36
+Deklein,UTQ-BO,NC-N3F,NC-N3F II,Coolant,Perfect,27.75
+Deklein,UTQ-BO,NC-N3F,NC-N3F III,Gleaming Alloy,Medium,30.91
+Deklein,UTQ-BO,NC-N3F,NC-N3F III,Glossy Compound,Perfect,41.57
+Deklein,UTQ-BO,NC-N3F,NC-N3F III,Noble Metals,Poor,23.74
+Deklein,UTQ-BO,NC-N3F,NC-N3F III,Construction Blocks,Medium,32.34
+Deklein,UTQ-BO,NC-N3F,NC-N3F IV,Lustering Alloy,Rich,40.20
+Deklein,UTQ-BO,NC-N3F,NC-N3F IV,Sheen Compound,Rich,38.14
+Deklein,UTQ-BO,NC-N3F,NC-N3F IV,Fiber Composite,Rich,36.97
+Deklein,UTQ-BO,NC-N3F,NC-N3F IV,Base Metals,Medium,8.55
+Deklein,UTQ-BO,NC-N3F,NC-N3F IV,Polyaramids,Rich,23.89
+Deklein,UTQ-BO,NC-N3F,NC-N3F IV,Ionic Solutions,Medium,10.75
+Deklein,UTQ-BO,NC-N3F,NC-N3F V,Lustering Alloy,Medium,25.51
+Deklein,UTQ-BO,NC-N3F,NC-N3F V,Fiber Composite,Rich,33.46
+Deklein,UTQ-BO,NC-N3F,NC-N3F V,Glossy Compound,Medium,30.91
+Deklein,UTQ-BO,NC-N3F,NC-N3F V,Base Metals,Poor,5.89
+Deklein,UTQ-BO,NC-N3F,NC-N3F V,Reactive Metals,Rich,9.93
+Deklein,UTQ-BO,NC-N3F,NC-N3F V,Polyaramids,Medium,17.52
+Deklein,UTQ-BO,NC-N3F,NC-N3F VI,Fiber Composite,Rich,35.26
+Deklein,UTQ-BO,NC-N3F,NC-N3F VI,Reactive Gas,Perfect,41.50
+Deklein,UTQ-BO,NC-N3F,NC-N3F VI,Noble Gas,Poor,24.13
+Deklein,UTQ-BO,NC-N3F,NC-N3F VI,Base Metals,Rich,9.98
+Deklein,UTQ-BO,NC-N3F,NC-N3F VI,Coolant,Rich,26.97
+Deklein,UTQ-BO,NC-N3F,NC-N3F VI,Ionic Solutions,Poor,8.59
+Deklein,UTQ-BO,NC-N3F,NC-N3F VII,Precious Alloy,Medium,29.25
+Deklein,UTQ-BO,NC-N3F,NC-N3F VII,Base Metals,Rich,9.18
+Deklein,UTQ-BO,NC-N3F,NC-N3F VII,Heavy Metals,Medium,27.51
+Deklein,UTQ-BO,NC-N3F,NC-N3F VII,Condensates,Poor,14.61
+Deklein,UTQ-BO,NC-N3F,NC-N3F VII,Suspended Plasma,Rich,123.18
+Deklein,UTQ-BO,JU-OWQ,JU-OWQ I,Motley Compound,Medium,28.22
+Deklein,UTQ-BO,JU-OWQ,JU-OWQ I,Glossy Compound,Medium,26.43
+Deklein,UTQ-BO,JU-OWQ,JU-OWQ I,Heavy Metals,Medium,33.66
+Deklein,UTQ-BO,JU-OWQ,JU-OWQ I,Smartfab Units,Medium,18.03
+Deklein,UTQ-BO,JU-OWQ,JU-OWQ II,Noble Gas,Perfect,45.95
+Deklein,UTQ-BO,JU-OWQ,JU-OWQ II,Heavy Metals,Rich,43.65
+Deklein,UTQ-BO,JU-OWQ,JU-OWQ II,Reactive Metals,Medium,7.36
+Deklein,UTQ-BO,JU-OWQ,JU-OWQ II,Condensates,Rich,27.74
+Deklein,UTQ-BO,JU-OWQ,JU-OWQ II,Ionic Solutions,Perfect,19.26
+Deklein,UTQ-BO,JU-OWQ,JU-OWQ II,Plasmoids,Rich,2.20
+Deklein,UTQ-BO,JU-OWQ,JU-OWQ III,Sheen Compound,Medium,33.77
+Deklein,UTQ-BO,JU-OWQ,JU-OWQ III,Lucent Compound,Medium,28.17
+Deklein,UTQ-BO,JU-OWQ,JU-OWQ III,Noble Gas,Perfect,48.86
+Deklein,UTQ-BO,JU-OWQ,JU-OWQ III,Suspended Plasma,Medium,125.29
+Deklein,UTQ-BO,JU-OWQ,JU-OWQ III,Ionic Solutions,Medium,11.65
+Deklein,UTQ-BO,JU-OWQ,JU-OWQ III,Plasmoids,Rich,2.51
+Deklein,UTQ-BO,JU-OWQ,JU-OWQ IV,Opulent Compound,Medium,28.11
+Deklein,UTQ-BO,JU-OWQ,JU-OWQ IV,Noble Metals,Rich,44.04
+Deklein,UTQ-BO,JU-OWQ,JU-OWQ IV,Polyaramids,Medium,20.76
+Deklein,UTQ-BO,JU-OWQ,JU-OWQ IV,Coolant,Rich,25.37
+Deklein,UTQ-BO,JU-OWQ,JU-OWQ IV,Liquid Ozone,Medium,37.73
+Deklein,UTQ-BO,JU-OWQ,JU-OWQ IV,Ionic Solutions,Medium,12.25
+Deklein,UTQ-BO,JU-OWQ,JU-OWQ V,Noble Gas,Medium,34.64
+Deklein,UTQ-BO,JU-OWQ,JU-OWQ V,Heavy Metals,Rich,39.00
+Deklein,UTQ-BO,JU-OWQ,JU-OWQ V,Condensates,Medium,18.16
+Deklein,UTQ-BO,JU-OWQ,JU-OWQ V,Nanites,Rich,11.56
+Deklein,UTQ-BO,JU-OWQ,JU-OWQ V,Ionic Solutions,Medium,12.82
+Deklein,UTQ-BO,JU-OWQ,JU-OWQ V,Plasmoids,Medium,2.08
+Deklein,UTQ-BO,JU-OWQ,JU-OWQ VI,Fiber Composite,Perfect,46.00
+Deklein,UTQ-BO,JU-OWQ,JU-OWQ VI,Glossy Compound,Medium,27.52
+Deklein,UTQ-BO,JU-OWQ,JU-OWQ VI,Reactive Metals,Rich,11.62
+Deklein,UTQ-BO,JU-OWQ,JU-OWQ VI,Polyaramids,Poor,16.71
+Deklein,UTQ-BO,JU-OWQ,JU-OWQ VI,Coolant,Medium,19.86
+Deklein,UTQ-BO,JU-OWQ,JU-OWQ VI,Ionic Solutions,Rich,14.73
+Deklein,UTQ-BO,JU-OWQ,JU-OWQ VII,Lustering Alloy,Medium,34.69
+Deklein,UTQ-BO,JU-OWQ,JU-OWQ VII,Fiber Composite,Medium,32.70
+Deklein,UTQ-BO,JU-OWQ,JU-OWQ VII,Reactive Gas,Poor,23.94
+Deklein,UTQ-BO,JU-OWQ,JU-OWQ VII,Noble Gas,Rich,42.06
+Deklein,UTQ-BO,JU-OWQ,JU-OWQ VII,Reactive Metals,Rich,9.91
+Deklein,UTQ-BO,JU-OWQ,JU-OWQ VII,Coolant,Medium,17.71
+Deklein,UTQ-BO,JU-OWQ,JU-OWQ VIII,Precious Alloy,Medium,31.30
+Deklein,UTQ-BO,JU-OWQ,JU-OWQ VIII,Dark Compound,Medium,30.02
+Deklein,UTQ-BO,JU-OWQ,JU-OWQ VIII,Base Metals,Medium,8.55
+Deklein,UTQ-BO,JU-OWQ,JU-OWQ VIII,Construction Blocks,Medium,32.51
+Deklein,UTQ-BO,JU-OWQ,JU-OWQ VIII,Plasmoids,Medium,1.84
+Deklein,UTQ-BO,JU-OWQ,JU-OWQ IX,Precious Alloy,Rich,35.59
+Deklein,UTQ-BO,JU-OWQ,JU-OWQ IX,Motley Compound,Poor,20.75
+Deklein,UTQ-BO,JU-OWQ,JU-OWQ IX,Condensates,Rich,25.22
+Deklein,UTQ-BO,JU-OWQ,JU-OWQ IX,Suspended Plasma,Medium,100.50
+Deklein,UTQ-BO,JU-OWQ,JU-OWQ IX,Liquid Ozone,Rich,44.73
+Deklein,UTQ-BO,JU-OWQ,JU-OWQ X,Lustering Alloy,Medium,29.85
+Deklein,UTQ-BO,JU-OWQ,JU-OWQ X,Dark Compound,Poor,23.58
+Deklein,UTQ-BO,JU-OWQ,JU-OWQ X,Base Metals,Poor,4.90
+Deklein,UTQ-BO,JU-OWQ,JU-OWQ X,Oxygen Isotopes,Medium,4.00
+Deklein,UTQ-BO,JU-OWQ,JU-OWQ X,Plasmoids,Poor,1.19
+Deklein,UTQ-BO,JU-OWQ,JU-OWQ XI,Condensed Alloy,Perfect,46.70
+Deklein,UTQ-BO,JU-OWQ,JU-OWQ XI,Opulent Compound,Medium,28.36
+Deklein,UTQ-BO,JU-OWQ,JU-OWQ XI,Crystal Compound,Medium,28.42
+Deklein,UTQ-BO,JU-OWQ,JU-OWQ XI,Polyaramids,Perfect,32.01
+Deklein,UTQ-BO,JU-OWQ,JU-OWQ XI,Silicate Glass,Poor,13.02
+Deklein,UTQ-BO,JU-OWQ,JU-OWQ XI,Ionic Solutions,Rich,15.70
+Deklein,UTQ-BO,JU-OWQ,JU-OWQ XII,Opulent Compound,Rich,42.53
+Deklein,UTQ-BO,JU-OWQ,JU-OWQ XII,Toxic Metals,Rich,11.53
+Deklein,UTQ-BO,JU-OWQ,JU-OWQ XII,Polyaramids,Medium,18.78
+Deklein,UTQ-BO,JU-OWQ,JU-OWQ XII,Silicate Glass,Medium,16.24
+Deklein,UTQ-BO,JU-OWQ,JU-OWQ XII,Heavy Water,Rich,418.04
+Deklein,UTQ-BO,JU-OWQ,JU-OWQ XII,Ionic Solutions,Perfect,18.79
+Deklein,UTQ-BO,S-DN5M,S-DN5M I,Precious Alloy,Medium,31.81
+Deklein,UTQ-BO,S-DN5M,S-DN5M I,Dark Compound,Poor,26.35
+Deklein,UTQ-BO,S-DN5M,S-DN5M I,Base Metals,Medium,7.50
+Deklein,UTQ-BO,S-DN5M,S-DN5M I,Supertensile Plastics,Poor,13.18
+Deklein,UTQ-BO,S-DN5M,S-DN5M I,Silicate Glass,Medium,15.68
+Deklein,UTQ-BO,S-DN5M,S-DN5M II,Dark Compound,Medium,27.83
+Deklein,UTQ-BO,S-DN5M,S-DN5M II,Base Metals,Poor,6.29
+Deklein,UTQ-BO,S-DN5M,S-DN5M II,Supertensile Plastics,Poor,11.78
+Deklein,UTQ-BO,S-DN5M,S-DN5M II,Construction Blocks,Poor,24.16
+Deklein,UTQ-BO,S-DN5M,S-DN5M II,Plasmoids,Medium,1.73
+Deklein,UTQ-BO,S-DN5M,S-DN5M III,Lustering Alloy,Poor,19.94
+Deklein,UTQ-BO,S-DN5M,S-DN5M III,Dark Compound,Medium,32.82
+Deklein,UTQ-BO,S-DN5M,S-DN5M III,Toxic Metals,Medium,9.00
+Deklein,UTQ-BO,S-DN5M,S-DN5M III,Silicate Glass,Poor,12.89
+Deklein,UTQ-BO,S-DN5M,S-DN5M III,Plasmoids,Medium,1.65
+Deklein,UTQ-BO,S-DN5M,S-DN5M IV,Lustering Alloy,Poor,25.96
+Deklein,UTQ-BO,S-DN5M,S-DN5M IV,Dark Compound,Medium,28.90
+Deklein,UTQ-BO,S-DN5M,S-DN5M IV,Base Metals,Poor,5.14
+Deklein,UTQ-BO,S-DN5M,S-DN5M IV,Toxic Metals,Poor,4.60
+Deklein,UTQ-BO,S-DN5M,S-DN5M IV,Industrial Fibers,Poor,4.83
+Deklein,UTQ-BO,S-DN5M,S-DN5M V,Dark Compound,Poor,20.16
+Deklein,UTQ-BO,S-DN5M,S-DN5M V,Industrial Fibers,Poor,6.33
+Deklein,UTQ-BO,S-DN5M,S-DN5M V,Supertensile Plastics,Poor,16.31
+Deklein,UTQ-BO,S-DN5M,S-DN5M V,Silicate Glass,Poor,12.63
+Deklein,UTQ-BO,S-DN5M,S-DN5M V,Oxygen Isotopes,Poor,2.76
+Deklein,UTQ-BO,S-DN5M,S-DN5M VI,Motley Compound,Rich,36.99
+Deklein,UTQ-BO,S-DN5M,S-DN5M VI,Glossy Compound,Medium,26.52
+Deklein,UTQ-BO,S-DN5M,S-DN5M VI,Construction Blocks,Medium,27.30
+Deklein,UTQ-BO,S-DN5M,S-DN5M VI,Smartfab Units,Perfect,30.76
+Deklein,UTQ-BO,S-DN5M,S-DN5M VII,Condensed Alloy,Medium,32.03
+Deklein,UTQ-BO,S-DN5M,S-DN5M VII,Noble Metals,Perfect,46.65
+Deklein,UTQ-BO,S-DN5M,S-DN5M VII,Toxic Metals,Medium,7.91
+Deklein,UTQ-BO,S-DN5M,S-DN5M VII,Polyaramids,Perfect,31.96
+Deklein,UTQ-BO,S-DN5M,S-DN5M VII,Heavy Water,Medium,299.88
+Deklein,UTQ-BO,S-DN5M,S-DN5M VII,Liquid Ozone,Rich,55.02
+Deklein,UTQ-BO,S-DN5M,S-DN5M VIII,Sheen Compound,Medium,35.42
+Deklein,UTQ-BO,S-DN5M,S-DN5M VIII,Glossy Compound,Poor,23.16
+Deklein,UTQ-BO,S-DN5M,S-DN5M VIII,Reactive Gas,Rich,40.07
+Deklein,UTQ-BO,S-DN5M,S-DN5M VIII,Reactive Metals,Rich,10.78
+Deklein,UTQ-BO,S-DN5M,S-DN5M VIII,Polyaramids,Rich,28.04
+Deklein,UTQ-BO,S-DN5M,S-DN5M VIII,Coolant,Medium,21.39
+Deklein,UTQ-BO,S-DN5M,S-DN5M IX,Lustering Alloy,Poor,25.42
+Deklein,UTQ-BO,S-DN5M,S-DN5M IX,Dark Compound,Poor,17.36
+Deklein,UTQ-BO,S-DN5M,S-DN5M IX,Silicate Glass,Medium,16.37
+Deklein,UTQ-BO,S-DN5M,S-DN5M IX,Oxygen Isotopes,Medium,3.99
+Deklein,UTQ-BO,S-DN5M,S-DN5M IX,Plasmoids,Poor,1.27
+Deklein,UTQ-BO,S-DN5M,S-DN5M X,Sheen Compound,Rich,43.15
+Deklein,UTQ-BO,S-DN5M,S-DN5M X,Fiber Composite,Medium,34.75
+Deklein,UTQ-BO,S-DN5M,S-DN5M X,Noble Gas,Poor,25.62
+Deklein,UTQ-BO,S-DN5M,S-DN5M X,Base Metals,Medium,8.47
+Deklein,UTQ-BO,S-DN5M,S-DN5M X,Reactive Metals,Rich,11.31
+Deklein,UTQ-BO,S-DN5M,S-DN5M X,Ionic Solutions,Medium,12.00
+Deklein,UTQ-BO,S-DN5M,S-DN5M XI,Lustering Alloy,Poor,24.75
+Deklein,UTQ-BO,S-DN5M,S-DN5M XI,Fiber Composite,Poor,26.07
+Deklein,UTQ-BO,S-DN5M,S-DN5M XI,Reactive Gas,Rich,37.46
+Deklein,UTQ-BO,S-DN5M,S-DN5M XI,Base Metals,Poor,6.13
+Deklein,UTQ-BO,S-DN5M,S-DN5M XI,Reactive Metals,Poor,6.57
+Deklein,UTQ-BO,S-DN5M,S-DN5M XI,Coolant,Rich,27.93
+Deklein,UTQ-BO,S-DN5M,S-DN5M XII,Precious Alloy,Poor,24.16
+Deklein,UTQ-BO,S-DN5M,S-DN5M XII,Motley Compound,Medium,26.60
+Deklein,UTQ-BO,S-DN5M,S-DN5M XII,Base Metals,Rich,10.79
+Deklein,UTQ-BO,S-DN5M,S-DN5M XII,Industrial Fibers,Medium,7.55
+Deklein,UTQ-BO,S-DN5M,S-DN5M XII,Liquid Ozone,Rich,45.08
+Deklein,UTQ-BO,MXX5-9,MXX5-9 I,Glossy Compound,Rich,37.37
+Deklein,UTQ-BO,MXX5-9,MXX5-9 I,Heavy Metals,Rich,38.50
+Deklein,UTQ-BO,MXX5-9,MXX5-9 I,Polyaramids,Rich,26.86
+Deklein,UTQ-BO,MXX5-9,MXX5-9 I,Plasmoids,Medium,1.83
+Deklein,UTQ-BO,MXX5-9,MXX5-9 II,Dark Compound,Medium,32.80
+Deklein,UTQ-BO,MXX5-9,MXX5-9 II,Supertensile Plastics,Poor,11.61
+Deklein,UTQ-BO,MXX5-9,MXX5-9 II,Construction Blocks,Medium,30.48
+Deklein,UTQ-BO,MXX5-9,MXX5-9 II,Oxygen Isotopes,Medium,3.86
+Deklein,UTQ-BO,MXX5-9,MXX5-9 II,Plasmoids,Poor,1.03
+Deklein,UTQ-BO,MXX5-9,MXX5-9 III,Lustering Alloy,Medium,27.84
+Deklein,UTQ-BO,MXX5-9,MXX5-9 III,Dark Compound,Poor,22.11
+Deklein,UTQ-BO,MXX5-9,MXX5-9 III,Industrial Fibers,Medium,7.14
+Deklein,UTQ-BO,MXX5-9,MXX5-9 III,Supertensile Plastics,Medium,20.02
+Deklein,UTQ-BO,MXX5-9,MXX5-9 III,Plasmoids,Medium,1.95
+Deklein,UTQ-BO,MXX5-9,MXX5-9 IV,Lustering Alloy,Medium,27.05
+Deklein,UTQ-BO,MXX5-9,MXX5-9 IV,Dark Compound,Medium,25.46
+Deklein,UTQ-BO,MXX5-9,MXX5-9 IV,Base Metals,Medium,7.87
+Deklein,UTQ-BO,MXX5-9,MXX5-9 IV,Supertensile Plastics,Medium,21.19
+Deklein,UTQ-BO,MXX5-9,MXX5-9 IV,Silicate Glass,Poor,9.14
+Deklein,UTQ-BO,MXX5-9,MXX5-9 V,Sheen Compound,Rich,42.42
+Deklein,UTQ-BO,MXX5-9,MXX5-9 V,Glossy Compound,Medium,29.59
+Deklein,UTQ-BO,MXX5-9,MXX5-9 V,Noble Gas,Rich,40.69
+Deklein,UTQ-BO,MXX5-9,MXX5-9 V,Base Metals,Rich,11.23
+Deklein,UTQ-BO,MXX5-9,MXX5-9 V,Coolant,Rich,26.51
+Deklein,UTQ-BO,MXX5-9,MXX5-9 V,Ionic Solutions,Rich,14.25
+Deklein,UTQ-BO,MXX5-9,MXX5-9 VI,Lustering Alloy,Rich,35.80
+Deklein,UTQ-BO,MXX5-9,MXX5-9 VI,Fiber Composite,Medium,31.37
+Deklein,UTQ-BO,MXX5-9,MXX5-9 VI,Glossy Compound,Poor,24.52
+Deklein,UTQ-BO,MXX5-9,MXX5-9 VI,Noble Gas,Poor,23.92
+Deklein,UTQ-BO,MXX5-9,MXX5-9 VI,Base Metals,Rich,10.32
+Deklein,UTQ-BO,MXX5-9,MXX5-9 VI,Polyaramids,Rich,27.31
+Deklein,UTQ-BO,MXX5-9,MXX5-9 VII,Condensed Alloy,Rich,41.90
+Deklein,UTQ-BO,MXX5-9,MXX5-9 VII,Fiber Composite,Perfect,45.14
+Deklein,UTQ-BO,MXX5-9,MXX5-9 VII,Reactive Gas,Rich,35.56
+Deklein,UTQ-BO,MXX5-9,MXX5-9 VII,Base Metals,Medium,8.43
+Deklein,UTQ-BO,MXX5-9,MXX5-9 VII,Noble Metals,Rich,38.21
+Deklein,UTQ-BO,MXX5-9,MXX5-9 VII,Condensates,Rich,25.24
+Deklein,UTQ-BO,MXX5-9,MXX5-9 VIII,Precious Alloy,Rich,40.12
+Deklein,UTQ-BO,MXX5-9,MXX5-9 VIII,Motley Compound,Rich,34.29
+Deklein,UTQ-BO,MXX5-9,MXX5-9 VIII,Heavy Metals,Poor,20.17
+Deklein,UTQ-BO,MXX5-9,MXX5-9 VIII,Suspended Plasma,Rich,137.83
+Deklein,UTQ-BO,MXX5-9,MXX5-9 VIII,Liquid Ozone,Poor,28.52
+Deklein,UTQ-BO,ZZZR-5,ZZZR-5 I,Precious Alloy,Medium,32.10
+Deklein,UTQ-BO,ZZZR-5,ZZZR-5 I,Dark Compound,Poor,22.55
+Deklein,UTQ-BO,ZZZR-5,ZZZR-5 I,Base Metals,Medium,8.58
+Deklein,UTQ-BO,ZZZR-5,ZZZR-5 I,Supertensile Plastics,Medium,21.87
+Deklein,UTQ-BO,ZZZR-5,ZZZR-5 I,Silicate Glass,Medium,13.16
+Deklein,UTQ-BO,ZZZR-5,ZZZR-5 II,Condensed Alloy,Perfect,43.28
+Deklein,UTQ-BO,ZZZR-5,ZZZR-5 II,Fiber Composite,Rich,36.37
+Deklein,UTQ-BO,ZZZR-5,ZZZR-5 II,Opulent Compound,Perfect,50.46
+Deklein,UTQ-BO,ZZZR-5,ZZZR-5 II,Reactive Gas,Medium,31.56
+Deklein,UTQ-BO,ZZZR-5,ZZZR-5 II,Base Metals,Perfect,12.34
+Deklein,UTQ-BO,ZZZR-5,ZZZR-5 II,Smartfab Units,Perfect,32.65
+Deklein,UTQ-BO,ZZZR-5,ZZZR-5 III,Condensed Alloy,Rich,34.59
+Deklein,UTQ-BO,ZZZR-5,ZZZR-5 III,Reactive Gas,Rich,35.10
+Deklein,UTQ-BO,ZZZR-5,ZZZR-5 III,Base Metals,Perfect,11.53
+Deklein,UTQ-BO,ZZZR-5,ZZZR-5 III,Condensates,Medium,18.45
+Deklein,UTQ-BO,ZZZR-5,ZZZR-5 III,Heavy Water,Perfect,488.43
+Deklein,UTQ-BO,ZZZR-5,ZZZR-5 III,Liquid Ozone,Poor,31.05
+Deklein,UTQ-BO,ZZZR-5,ZZZR-5 IV,Opulent Compound,Medium,29.62
+Deklein,UTQ-BO,ZZZR-5,ZZZR-5 IV,Crystal Compound,Rich,40.82
+Deklein,UTQ-BO,ZZZR-5,ZZZR-5 IV,Noble Metals,Rich,38.66
+Deklein,UTQ-BO,ZZZR-5,ZZZR-5 IV,Polyaramids,Medium,22.61
+Deklein,UTQ-BO,ZZZR-5,ZZZR-5 IV,Heavy Water,Rich,406.62
+Deklein,UTQ-BO,ZZZR-5,ZZZR-5 IV,Liquid Ozone,Rich,43.71
+Deklein,UTQ-BO,ZZZR-5,ZZZR-5 V,Condensed Alloy,Perfect,48.84
+Deklein,UTQ-BO,ZZZR-5,ZZZR-5 V,Opulent Compound,Medium,29.54
+Deklein,UTQ-BO,ZZZR-5,ZZZR-5 V,Reactive Gas,Medium,29.62
+Deklein,UTQ-BO,ZZZR-5,ZZZR-5 V,Noble Metals,Rich,34.86
+Deklein,UTQ-BO,ZZZR-5,ZZZR-5 V,Industrial Fibers,Rich,10.94
+Deklein,UTQ-BO,ZZZR-5,ZZZR-5 V,Condensates,Perfect,34.15
+Deklein,UTQ-BO,ZZZR-5,ZZZR-5 VI,Lucent Compound,Medium,32.13
+Deklein,UTQ-BO,ZZZR-5,ZZZR-5 VI,Dark Compound,Medium,31.13
+Deklein,UTQ-BO,ZZZR-5,ZZZR-5 VI,Reactive Metals,Rich,11.23
+Deklein,UTQ-BO,ZZZR-5,ZZZR-5 VI,Suspended Plasma,Rich,135.30
+Deklein,UTQ-BO,ZZZR-5,ZZZR-5 VI,Ionic Solutions,Medium,12.20
+Deklein,UTQ-BO,ZZZR-5,ZZZR-5 VI,Plasmoids,Medium,1.96
+Deklein,UTQ-BO,ZZZR-5,ZZZR-5 VII,Lustering Alloy,Poor,22.14
+Deklein,UTQ-BO,ZZZR-5,ZZZR-5 VII,Sheen Compound,Medium,31.64
+Deklein,UTQ-BO,ZZZR-5,ZZZR-5 VII,Fiber Composite,Medium,27.81
+Deklein,UTQ-BO,ZZZR-5,ZZZR-5 VII,Glossy Compound,Rich,40.12
+Deklein,UTQ-BO,ZZZR-5,ZZZR-5 VII,Base Metals,Medium,7.23
+Deklein,UTQ-BO,ZZZR-5,ZZZR-5 VII,Polyaramids,Rich,28.15
+Deklein,N-U2LX,C7Y-7Z,C7Y-7Z I,Condensed Alloy,Rich,39.81
+Deklein,N-U2LX,C7Y-7Z,C7Y-7Z I,Fiber Composite,Rich,37.02
+Deklein,N-U2LX,C7Y-7Z,C7Y-7Z I,Opulent Compound,Medium,24.65
+Deklein,N-U2LX,C7Y-7Z,C7Y-7Z I,Reactive Gas,Medium,31.72
+Deklein,N-U2LX,C7Y-7Z,C7Y-7Z I,Condensates,Rich,22.45
+Deklein,N-U2LX,C7Y-7Z,C7Y-7Z I,Liquid Ozone,Perfect,60.87
+Deklein,N-U2LX,C7Y-7Z,C7Y-7Z II,Lustering Alloy,Poor,17.26
+Deklein,N-U2LX,C7Y-7Z,C7Y-7Z II,Dark Compound,Poor,24.41
+Deklein,N-U2LX,C7Y-7Z,C7Y-7Z II,Industrial Fibers,Poor,5.21
+Deklein,N-U2LX,C7Y-7Z,C7Y-7Z II,Supertensile Plastics,Medium,16.66
+Deklein,N-U2LX,C7Y-7Z,C7Y-7Z II,Construction Blocks,Poor,19.53
+Deklein,N-U2LX,C7Y-7Z,C7Y-7Z III,Condensed Alloy,Perfect,49.63
+Deklein,N-U2LX,C7Y-7Z,C7Y-7Z III,Fiber Composite,Rich,37.15
+Deklein,N-U2LX,C7Y-7Z,C7Y-7Z III,Opulent Compound,Perfect,44.23
+Deklein,N-U2LX,C7Y-7Z,C7Y-7Z III,Reactive Gas,Rich,34.14
+Deklein,N-U2LX,C7Y-7Z,C7Y-7Z III,Industrial Fibers,Medium,7.57
+Deklein,N-U2LX,C7Y-7Z,C7Y-7Z III,Condensates,Perfect,30.14
+Deklein,N-U2LX,C7Y-7Z,C7Y-7Z IV,Sheen Compound,Medium,30.06
+Deklein,N-U2LX,C7Y-7Z,C7Y-7Z IV,Fiber Composite,Perfect,42.30
+Deklein,N-U2LX,C7Y-7Z,C7Y-7Z IV,Noble Gas,Medium,24.93
+Deklein,N-U2LX,C7Y-7Z,C7Y-7Z IV,Reactive Metals,Perfect,11.06
+Deklein,N-U2LX,C7Y-7Z,C7Y-7Z IV,Polyaramids,Rich,23.90
+Deklein,N-U2LX,C7Y-7Z,C7Y-7Z IV,Coolant,Medium,18.96
+Deklein,N-U2LX,X-Z4DA,X-Z4DA I,Crystal Compound,Rich,30.79
+Deklein,N-U2LX,X-Z4DA,X-Z4DA I,Reactive Gas,Medium,24.77
+Deklein,N-U2LX,X-Z4DA,X-Z4DA I,Reactive Metals,Perfect,10.21
+Deklein,N-U2LX,X-Z4DA,X-Z4DA I,Construction Blocks,Rich,37.87
+Deklein,N-U2LX,X-Z4DA,X-Z4DA II,Industrial Fibers,Poor,4.67
+Deklein,N-U2LX,X-Z4DA,X-Z4DA II,Supertensile Plastics,Poor,12.90
+Deklein,N-U2LX,X-Z4DA,X-Z4DA II,Construction Blocks,Medium,26.47
+Deklein,N-U2LX,X-Z4DA,X-Z4DA II,Oxygen Isotopes,Medium,4.12
+Deklein,N-U2LX,X-Z4DA,X-Z4DA III,Gleaming Alloy,Poor,22.01
+Deklein,N-U2LX,X-Z4DA,X-Z4DA III,Noble Metals,Rich,33.05
+Deklein,N-U2LX,X-Z4DA,X-Z4DA III,Smartfab Units,Rich,24.48
+Deklein,N-U2LX,X-Z4DA,X-Z4DA IV,Reactive Metals,Rich,8.81
+Deklein,N-U2LX,X-Z4DA,X-Z4DA IV,Toxic Metals,Medium,6.15
+Deklein,N-U2LX,X-Z4DA,X-Z4DA IV,Construction Blocks,Rich,34.03
+Deklein,N-U2LX,X-Z4DA,X-Z4DA IV,Oxygen Isotopes,Medium,4.10
+Deklein,N-U2LX,X-Z4DA,X-Z4DA V,Fiber Composite,Rich,32.57
+Deklein,N-U2LX,X-Z4DA,X-Z4DA V,Glossy Compound,Perfect,38.28
+Deklein,N-U2LX,X-Z4DA,X-Z4DA V,Reactive Gas,Medium,29.57
+Deklein,N-U2LX,X-Z4DA,X-Z4DA V,Reactive Metals,Medium,6.61
+Deklein,N-U2LX,X-Z4DA,X-Z4DA V,Polyaramids,Medium,17.42
+Deklein,N-U2LX,X-Z4DA,X-Z4DA VI,Condensed Alloy,Perfect,44.57
+Deklein,N-U2LX,X-Z4DA,X-Z4DA VI,Reactive Gas,Medium,25.13
+Deklein,N-U2LX,X-Z4DA,X-Z4DA VI,Noble Metals,Medium,28.27
+Deklein,N-U2LX,X-Z4DA,X-Z4DA VI,Heavy Water,Perfect,398.40
+Deklein,N-U2LX,X-Z4DA,X-Z4DA VI,Liquid Ozone,Rich,45.93
+Deklein,N-U2LX,X-Z4DA,X-Z4DA VII,Sheen Compound,Medium,28.46
+Deklein,N-U2LX,X-Z4DA,X-Z4DA VII,Fiber Composite,Rich,34.51
+Deklein,N-U2LX,X-Z4DA,X-Z4DA VII,Glossy Compound,Medium,29.50
+Deklein,N-U2LX,X-Z4DA,X-Z4DA VII,Reactive Gas,Poor,20.28
+Deklein,N-U2LX,X-Z4DA,X-Z4DA VII,Base Metals,Poor,5.60
+Deklein,N-U2LX,X-Z4DA,X-Z4DA VIII,Condensed Alloy,Rich,31.63
+Deklein,N-U2LX,X-Z4DA,X-Z4DA VIII,Noble Metals,Medium,23.76
+Deklein,N-U2LX,X-Z4DA,X-Z4DA VIII,Coolant,Perfect,25.50
+Deklein,N-U2LX,X-Z4DA,X-Z4DA VIII,Heavy Water,Rich,317.76
+Deklein,N-U2LX,X-Z4DA,X-Z4DA VIII,Liquid Ozone,Rich,41.61
+Deklein,N-U2LX,3OAT-Q,3OAT-Q I,Gleaming Alloy,Rich,30.52
+Deklein,N-U2LX,3OAT-Q,3OAT-Q I,Noble Gas,Poor,19.62
+Deklein,N-U2LX,3OAT-Q,3OAT-Q I,Smartfab Units,Poor,14.17
+Deklein,N-U2LX,3OAT-Q,3OAT-Q II,Toxic Metals,Medium,5.81
+Deklein,N-U2LX,3OAT-Q,3OAT-Q II,Industrial Fibers,Medium,6.38
+Deklein,N-U2LX,3OAT-Q,3OAT-Q II,Supertensile Plastics,Poor,13.92
+Deklein,N-U2LX,3OAT-Q,3OAT-Q II,Oxygen Isotopes,Poor,2.93
+Deklein,N-U2LX,3OAT-Q,3OAT-Q III,Toxic Metals,Medium,7.26
+Deklein,N-U2LX,3OAT-Q,3OAT-Q III,Supertensile Plastics,Medium,15.26
+Deklein,N-U2LX,3OAT-Q,3OAT-Q III,Construction Blocks,Poor,19.62
+Deklein,N-U2LX,3OAT-Q,3OAT-Q III,Silicate Glass,Poor,9.36
+Deklein,N-U2LX,3OAT-Q,3OAT-Q IV,Dark Compound,Medium,23.37
+Deklein,N-U2LX,3OAT-Q,3OAT-Q IV,Supertensile Plastics,Poor,10.47
+Deklein,N-U2LX,3OAT-Q,3OAT-Q IV,Construction Blocks,Poor,19.87
+Deklein,N-U2LX,3OAT-Q,3OAT-Q IV,Plasmoids,Medium,1.37
+Deklein,N-U2LX,3OAT-Q,3OAT-Q V,Lucent Compound,Medium,25.69
+Deklein,N-U2LX,3OAT-Q,3OAT-Q V,Crystal Compound,Rich,30.41
+Deklein,N-U2LX,3OAT-Q,3OAT-Q V,Reactive Metals,Medium,6.68
+Deklein,N-U2LX,3OAT-Q,3OAT-Q V,Toxic Metals,Rich,8.18
+Deklein,N-U2LX,3OAT-Q,3OAT-Q VI,Fiber Composite,Medium,27.46
+Deklein,N-U2LX,3OAT-Q,3OAT-Q VI,Industrial Fibers,Medium,6.88
+Deklein,N-U2LX,3OAT-Q,3OAT-Q VI,Condensates,Rich,22.66
+Deklein,N-U2LX,3OAT-Q,3OAT-Q VI,Smartfab Units,Rich,19.55
+Deklein,N-U2LX,3OAT-Q,3OAT-Q VI,Liquid Ozone,Rich,44.27
+Deklein,N-U2LX,3OAT-Q,3OAT-Q VII,Gleaming Alloy,Perfect,38.73
+Deklein,N-U2LX,3OAT-Q,3OAT-Q VII,Heavy Metals,Rich,34.68
+Deklein,N-U2LX,3OAT-Q,3OAT-Q VII,Polyaramids,Poor,12.77
+Deklein,N-U2LX,3OAT-Q,3OAT-Q VIII,Glossy Compound,Medium,26.50
+Deklein,N-U2LX,3OAT-Q,3OAT-Q VIII,Reactive Gas,Medium,26.20
+Deklein,N-U2LX,3OAT-Q,3OAT-Q VIII,Noble Gas,Rich,32.96
+Deklein,N-U2LX,3OAT-Q,3OAT-Q VIII,Base Metals,Medium,7.09
+Deklein,N-U2LX,3OAT-Q,3OAT-Q VIII,Reactive Metals,Medium,5.93
+Deklein,N-U2LX,3OAT-Q,3OAT-Q IX,Lustering Alloy,Poor,20.65
+Deklein,N-U2LX,3OAT-Q,3OAT-Q IX,Reactive Gas,Medium,27.48
+Deklein,N-U2LX,3OAT-Q,3OAT-Q IX,Noble Gas,Rich,31.69
+Deklein,N-U2LX,3OAT-Q,3OAT-Q IX,Polyaramids,Medium,14.84
+Deklein,N-U2LX,3OAT-Q,3OAT-Q IX,Coolant,Poor,12.94
+Deklein,N-U2LX,N-TFXK,N-TFXK I,Lucent Compound,Rich,33.84
+Deklein,N-U2LX,N-TFXK,N-TFXK I,Noble Gas,Perfect,39.60
+Deklein,N-U2LX,N-TFXK,N-TFXK I,Reactive Metals,Medium,6.82
+Deklein,N-U2LX,N-TFXK,N-TFXK I,Condensates,Medium,15.22
+Deklein,N-U2LX,N-TFXK,N-TFXK I,Ionic Solutions,Perfect,16.16
+Deklein,N-U2LX,N-TFXK,N-TFXK II,Dark Compound,Medium,28.18
+Deklein,N-U2LX,N-TFXK,N-TFXK II,Toxic Metals,Poor,5.15
+Deklein,N-U2LX,N-TFXK,N-TFXK II,Industrial Fibers,Medium,7.59
+Deklein,N-U2LX,N-TFXK,N-TFXK II,Supertensile Plastics,Medium,19.31
+Deklein,N-U2LX,N-TFXK,N-TFXK III,Base Metals,Poor,5.01
+Deklein,N-U2LX,N-TFXK,N-TFXK III,Supertensile Plastics,Poor,14.78
+Deklein,N-U2LX,N-TFXK,N-TFXK III,Silicate Glass,Poor,10.19
+Deklein,N-U2LX,N-TFXK,N-TFXK III,Plasmoids,Medium,1.51
+Deklein,N-U2LX,N-TFXK,N-TFXK IV,Lustering Alloy,Poor,21.46
+Deklein,N-U2LX,N-TFXK,N-TFXK IV,Base Metals,Poor,5.24
+Deklein,N-U2LX,N-TFXK,N-TFXK IV,Supertensile Plastics,Medium,15.68
+Deklein,N-U2LX,N-TFXK,N-TFXK IV,Silicate Glass,Poor,9.19
+Deklein,N-U2LX,N-TFXK,N-TFXK V,Gleaming Alloy,Rich,37.03
+Deklein,N-U2LX,N-TFXK,N-TFXK V,Reactive Gas,Rich,37.56
+Deklein,N-U2LX,N-TFXK,N-TFXK V,Reactive Metals,Rich,8.72
+Deklein,N-U2LX,N-TFXK,N-TFXK V,Suspended Plasma,Poor,72.84
+Deklein,N-U2LX,N-TFXK,N-TFXK VI,Lustering Alloy,Poor,15.67
+Deklein,N-U2LX,N-TFXK,N-TFXK VI,Toxic Metals,Poor,5.08
+Deklein,N-U2LX,N-TFXK,N-TFXK VI,Supertensile Plastics,Poor,12.18
+Deklein,N-U2LX,N-TFXK,N-TFXK VI,Oxygen Isotopes,Medium,4.18
+Deklein,N-U2LX,N-TFXK,N-TFXK VII,Sheen Compound,Medium,23.62
+Deklein,N-U2LX,N-TFXK,N-TFXK VII,Glossy Compound,Poor,21.77
+Deklein,N-U2LX,N-TFXK,N-TFXK VII,Reactive Gas,Poor,21.74
+Deklein,N-U2LX,N-TFXK,N-TFXK VII,Reactive Metals,Rich,9.15
+Deklein,N-U2LX,N-TFXK,N-TFXK VII,Coolant,Perfect,25.54
+Deklein,N-U2LX,N-TFXK,N-TFXK VIII,Lustering Alloy,Poor,21.36
+Deklein,N-U2LX,N-TFXK,N-TFXK VIII,Sheen Compound,Rich,34.25
+Deklein,N-U2LX,N-TFXK,N-TFXK VIII,Fiber Composite,Perfect,39.77
+Deklein,N-U2LX,N-TFXK,N-TFXK VIII,Reactive Gas,Medium,29.18
+Deklein,N-U2LX,N-TFXK,N-TFXK VIII,Base Metals,Poor,5.38
+Deklein,N-U2LX,N-TFXK,N-TFXK IX,Fiber Composite,Medium,23.02
+Deklein,N-U2LX,N-TFXK,N-TFXK IX,Reactive Gas,Poor,21.12
+Deklein,N-U2LX,N-TFXK,N-TFXK IX,Noble Gas,Rich,31.37
+Deklein,N-U2LX,N-TFXK,N-TFXK IX,Base Metals,Rich,9.74
+Deklein,N-U2LX,N-TFXK,N-TFXK IX,Ionic Solutions,Poor,8.53
+Deklein,N-U2LX,N-TFXK,N-TFXK X,Precious Alloy,Medium,23.76
+Deklein,N-U2LX,N-TFXK,N-TFXK X,Dark Compound,Medium,28.90
+Deklein,N-U2LX,N-TFXK,N-TFXK X,Supertensile Plastics,Medium,19.68
+Deklein,N-U2LX,N-TFXK,N-TFXK X,Silicate Glass,Medium,11.70
+Deklein,N-U2LX,33RB-O,33RB-O I,Lustering Alloy,Poor,14.15
+Deklein,N-U2LX,33RB-O,33RB-O I,Base Metals,Medium,5.95
+Deklein,N-U2LX,33RB-O,33RB-O I,Supertensile Plastics,Poor,10.40
+Deklein,N-U2LX,33RB-O,33RB-O I,Silicate Glass,Poor,7.10
+Deklein,N-U2LX,33RB-O,33RB-O II,Precious Alloy,Medium,23.58
+Deklein,N-U2LX,33RB-O,33RB-O II,Dark Compound,Poor,15.09
+Deklein,N-U2LX,33RB-O,33RB-O II,Toxic Metals,Medium,6.79
+Deklein,N-U2LX,33RB-O,33RB-O II,Supertensile Plastics,Poor,11.94
+Deklein,N-U2LX,33RB-O,33RB-O III,Lustering Alloy,Medium,20.92
+Deklein,N-U2LX,33RB-O,33RB-O III,Toxic Metals,Poor,4.39
+Deklein,N-U2LX,33RB-O,33RB-O III,Supertensile Plastics,Medium,16.44
+Deklein,N-U2LX,33RB-O,33RB-O III,Plasmoids,Medium,1.31
+Deklein,N-U2LX,33RB-O,33RB-O IV,Reactive Gas,Perfect,35.44
+Deklein,N-U2LX,33RB-O,33RB-O IV,Reactive Metals,Rich,9.00
+Deklein,N-U2LX,33RB-O,33RB-O IV,Toxic Metals,Poor,5.39
+Deklein,N-U2LX,33RB-O,33RB-O IV,Oxygen Isotopes,Rich,4.99
+Deklein,N-U2LX,33RB-O,33RB-O V,Reactive Gas,Rich,32.23
+Deklein,N-U2LX,33RB-O,33RB-O V,Noble Gas,Medium,27.57
+Deklein,N-U2LX,33RB-O,33RB-O V,Polyaramids,Medium,15.44
+Deklein,N-U2LX,33RB-O,33RB-O V,Coolant,Rich,22.37
+Deklein,N-U2LX,33RB-O,33RB-O V,Ionic Solutions,Perfect,14.58
+Deklein,N-U2LX,33RB-O,33RB-O VI,Condensed Alloy,Perfect,38.90
+Deklein,N-U2LX,33RB-O,33RB-O VI,Base Metals,Perfect,9.60
+Deklein,N-U2LX,33RB-O,33RB-O VI,Noble Metals,Perfect,39.69
+Deklein,N-U2LX,33RB-O,33RB-O VI,Condensates,Medium,16.94
+Deklein,N-U2LX,33RB-O,33RB-O VI,Liquid Ozone,Perfect,50.13
+Deklein,N-U2LX,33RB-O,33RB-O VII,Lustering Alloy,Rich,29.33
+Deklein,N-U2LX,33RB-O,33RB-O VII,Fiber Composite,Poor,18.66
+Deklein,N-U2LX,33RB-O,33RB-O VII,Glossy Compound,Rich,30.80
+Deklein,N-U2LX,33RB-O,33RB-O VII,Reactive Gas,Medium,26.58
+Deklein,N-U2LX,33RB-O,33RB-O VII,Noble Gas,Rich,32.69
+Deklein,N-U2LX,33RB-O,33RB-O VIII,Sheen Compound,Poor,19.82
+Deklein,N-U2LX,33RB-O,33RB-O VIII,Reactive Gas,Rich,31.50
+Deklein,N-U2LX,33RB-O,33RB-O VIII,Noble Gas,Rich,33.73
+Deklein,N-U2LX,33RB-O,33RB-O VIII,Base Metals,Medium,6.12
+Deklein,N-U2LX,33RB-O,33RB-O VIII,Ionic Solutions,Poor,7.28
+Deklein,N-U2LX,33RB-O,33RB-O IX,Lustering Alloy,Medium,22.48
+Deklein,N-U2LX,33RB-O,33RB-O IX,Sheen Compound,Rich,33.20
+Deklein,N-U2LX,33RB-O,33RB-O IX,Glossy Compound,Poor,18.30
+Deklein,N-U2LX,33RB-O,33RB-O IX,Reactive Gas,Poor,20.66
+Deklein,N-U2LX,33RB-O,33RB-O IX,Noble Gas,Rich,31.97
+Deklein,N-U2LX,33RB-O,33RB-O X,Gleaming Alloy,Medium,26.97
+Deklein,N-U2LX,33RB-O,33RB-O X,Noble Metals,Medium,24.99
+Deklein,N-U2LX,33RB-O,33RB-O X,Plasmoids,Rich,1.95
+Deklein,N-U2LX,DKUK-G,DKUK-G I,Toxic Metals,Poor,3.99
+Deklein,N-U2LX,DKUK-G,DKUK-G I,Industrial Fibers,Medium,6.06
+Deklein,N-U2LX,DKUK-G,DKUK-G I,Supertensile Plastics,Medium,14.74
+Deklein,N-U2LX,DKUK-G,DKUK-G I,Silicate Glass,Poor,10.15
+Deklein,N-U2LX,DKUK-G,DKUK-G II,Supertensile Plastics,Medium,14.52
+Deklein,N-U2LX,DKUK-G,DKUK-G II,Construction Blocks,Poor,19.62
+Deklein,N-U2LX,DKUK-G,DKUK-G II,Oxygen Isotopes,Poor,2.62
+Deklein,N-U2LX,DKUK-G,DKUK-G II,Plasmoids,Medium,1.69
+Deklein,N-U2LX,DKUK-G,DKUK-G III,Precious Alloy,Medium,22.33
+Deklein,N-U2LX,DKUK-G,DKUK-G III,Supertensile Plastics,Poor,13.16
+Deklein,N-U2LX,DKUK-G,DKUK-G III,Silicate Glass,Poor,10.04
+Deklein,N-U2LX,DKUK-G,DKUK-G III,Oxygen Isotopes,Medium,4.02
+Deklein,N-U2LX,DKUK-G,DKUK-G IV,Precious Alloy,Medium,23.21
+Deklein,N-U2LX,DKUK-G,DKUK-G IV,Toxic Metals,Poor,4.11
+Deklein,N-U2LX,DKUK-G,DKUK-G IV,Supertensile Plastics,Poor,14.31
+Deklein,N-U2LX,DKUK-G,DKUK-G IV,Silicate Glass,Medium,12.42
+Deklein,N-U2LX,DKUK-G,DKUK-G V,Gleaming Alloy,Rich,29.16
+Deklein,N-U2LX,DKUK-G,DKUK-G V,Heavy Metals,Medium,23.34
+Deklein,N-U2LX,DKUK-G,DKUK-G V,Smartfab Units,Medium,16.39
+Deklein,N-U2LX,DKUK-G,DKUK-G VI,Fiber Composite,Medium,24.54
+Deklein,N-U2LX,DKUK-G,DKUK-G VI,Noble Metals,Perfect,38.87
+Deklein,N-U2LX,DKUK-G,DKUK-G VI,Industrial Fibers,Perfect,11.55
+Deklein,N-U2LX,DKUK-G,DKUK-G VI,Condensates,Rich,19.73
+Deklein,N-U2LX,DKUK-G,DKUK-G VI,Liquid Ozone,Perfect,52.44
+Deklein,N-U2LX,DKUK-G,DKUK-G VII,Fiber Composite,Perfect,43.15
+Deklein,N-U2LX,DKUK-G,DKUK-G VII,Reactive Gas,Medium,25.46
+Deklein,N-U2LX,DKUK-G,DKUK-G VII,Noble Metals,Rich,34.98
+Deklein,N-U2LX,DKUK-G,DKUK-G VII,Heavy Water,Rich,294.17
+Deklein,N-U2LX,DKUK-G,DKUK-G VII,Liquid Ozone,Perfect,52.78
+Deklein,N-U2LX,DKUK-G,DKUK-G VIII,Reactive Gas,Medium,24.13
+Deklein,N-U2LX,DKUK-G,DKUK-G VIII,Condensates,Medium,16.64
+Deklein,N-U2LX,DKUK-G,DKUK-G VIII,Smartfab Units,Rich,23.69
+Deklein,N-U2LX,DKUK-G,DKUK-G VIII,Heavy Water,Perfect,396.52
+Deklein,N-U2LX,DKUK-G,DKUK-G VIII,Liquid Ozone,Rich,41.28
+Deklein,S-B1E4,3QE-9Q,3QE-9Q I,Dark Compound,Poor,25.06
+Deklein,S-B1E4,3QE-9Q,3QE-9Q I,Toxic Metals,Medium,8.58
+Deklein,S-B1E4,3QE-9Q,3QE-9Q I,Supertensile Plastics,Medium,21.19
+Deklein,S-B1E4,3QE-9Q,3QE-9Q I,Construction Blocks,Medium,30.05
+Deklein,S-B1E4,3QE-9Q,3QE-9Q I,Silicate Glass,Medium,15.71
+Deklein,S-B1E4,3QE-9Q,3QE-9Q II,Gleaming Alloy,Medium,30.97
+Deklein,S-B1E4,3QE-9Q,3QE-9Q II,Glossy Compound,Rich,39.96
+Deklein,S-B1E4,3QE-9Q,3QE-9Q II,Noble Gas,Rich,36.72
+Deklein,S-B1E4,3QE-9Q,3QE-9Q II,Polyaramids,Medium,19.60
+Deklein,S-B1E4,3QE-9Q,3QE-9Q III,Precious Alloy,Poor,20.30
+Deklein,S-B1E4,3QE-9Q,3QE-9Q III,Dark Compound,Poor,19.47
+Deklein,S-B1E4,3QE-9Q,3QE-9Q III,Industrial Fibers,Poor,4.70
+Deklein,S-B1E4,3QE-9Q,3QE-9Q III,Supertensile Plastics,Poor,16.29
+Deklein,S-B1E4,3QE-9Q,3QE-9Q III,Plasmoids,Medium,1.97
+Deklein,S-B1E4,3QE-9Q,3QE-9Q IV,Sheen Compound,Rich,38.42
+Deklein,S-B1E4,3QE-9Q,3QE-9Q IV,Fiber Composite,Medium,28.51
+Deklein,S-B1E4,3QE-9Q,3QE-9Q IV,Glossy Compound,Medium,33.99
+Deklein,S-B1E4,3QE-9Q,3QE-9Q IV,Base Metals,Rich,10.82
+Deklein,S-B1E4,3QE-9Q,3QE-9Q IV,Polyaramids,Rich,25.11
+Deklein,S-B1E4,3QE-9Q,3QE-9Q IV,Ionic Solutions,Rich,15.06
+Deklein,S-B1E4,3QE-9Q,3QE-9Q V,Fiber Composite,Medium,27.59
+Deklein,S-B1E4,3QE-9Q,3QE-9Q V,Reactive Gas,Poor,24.06
+Deklein,S-B1E4,3QE-9Q,3QE-9Q V,Noble Gas,Medium,26.24
+Deklein,S-B1E4,3QE-9Q,3QE-9Q V,Base Metals,Medium,7.11
+Deklein,S-B1E4,3QE-9Q,3QE-9Q V,Reactive Metals,Medium,7.19
+Deklein,S-B1E4,3QE-9Q,3QE-9Q V,Polyaramids,Medium,21.13
+Deklein,S-B1E4,3QE-9Q,3QE-9Q VI,Condensed Alloy,Perfect,46.58
+Deklein,S-B1E4,3QE-9Q,3QE-9Q VI,Opulent Compound,Perfect,47.30
+Deklein,S-B1E4,3QE-9Q,3QE-9Q VI,Crystal Compound,Medium,26.59
+Deklein,S-B1E4,3QE-9Q,3QE-9Q VI,Polyaramids,Perfect,30.55
+Deklein,S-B1E4,3QE-9Q,3QE-9Q VI,Heavy Water,Medium,320.76
+Deklein,S-B1E4,3QE-9Q,3QE-9Q VI,Ionic Solutions,Rich,15.51
+Deklein,S-B1E4,E-FIC0,E-FIC0 I,Gleaming Alloy,Poor,23.49
+Deklein,S-B1E4,E-FIC0,E-FIC0 I,Motley Compound,Poor,23.00
+Deklein,S-B1E4,E-FIC0,E-FIC0 I,Glossy Compound,Medium,33.02
+Deklein,S-B1E4,E-FIC0,E-FIC0 I,Polyaramids,Rich,24.35
+Deklein,S-B1E4,E-FIC0,E-FIC0 II,Gleaming Alloy,Medium,31.43
+Deklein,S-B1E4,E-FIC0,E-FIC0 II,Lucent Compound,Rich,36.56
+Deklein,S-B1E4,E-FIC0,E-FIC0 II,Crystal Compound,Medium,28.03
+Deklein,S-B1E4,E-FIC0,E-FIC0 II,Reactive Metals,Medium,7.83
+Deklein,S-B1E4,E-FIC0,E-FIC0 II,Nanites,Rich,10.89
+Deklein,S-B1E4,E-FIC0,E-FIC0 III,Lucent Compound,Medium,31.13
+Deklein,S-B1E4,E-FIC0,E-FIC0 III,Crystal Compound,Rich,41.66
+Deklein,S-B1E4,E-FIC0,E-FIC0 III,Supertensile Plastics,Poor,15.26
+Deklein,S-B1E4,E-FIC0,E-FIC0 III,Nanites,Medium,8.11
+Deklein,S-B1E4,E-FIC0,E-FIC0 III,Suspended Plasma,Medium,113.53
+Deklein,S-B1E4,E-FIC0,E-FIC0 IV,Gleaming Alloy,Medium,30.35
+Deklein,S-B1E4,E-FIC0,E-FIC0 IV,Glossy Compound,Rich,34.24
+Deklein,S-B1E4,E-FIC0,E-FIC0 IV,Heavy Metals,Perfect,44.28
+Deklein,S-B1E4,E-FIC0,E-FIC0 IV,Plasmoids,Rich,2.25
+Deklein,S-B1E4,E-FIC0,E-FIC0 V,Sheen Compound,Rich,34.48
+Deklein,S-B1E4,E-FIC0,E-FIC0 V,Reactive Gas,Rich,37.29
+Deklein,S-B1E4,E-FIC0,E-FIC0 V,Noble Gas,Poor,24.49
+Deklein,S-B1E4,E-FIC0,E-FIC0 V,Base Metals,Rich,9.36
+Deklein,S-B1E4,E-FIC0,E-FIC0 V,Reactive Metals,Medium,8.10
+Deklein,S-B1E4,E-FIC0,E-FIC0 V,Coolant,Rich,28.06
+Deklein,S-B1E4,E-FIC0,E-FIC0 VI,Fiber Composite,Medium,26.86
+Deklein,S-B1E4,E-FIC0,E-FIC0 VI,Glossy Compound,Rich,39.83
+Deklein,S-B1E4,E-FIC0,E-FIC0 VI,Noble Gas,Medium,28.73
+Deklein,S-B1E4,E-FIC0,E-FIC0 VI,Base Metals,Medium,7.40
+Deklein,S-B1E4,E-FIC0,E-FIC0 VI,Reactive Metals,Medium,7.39
+Deklein,S-B1E4,E-FIC0,E-FIC0 VI,Coolant,Medium,19.87
+Deklein,S-B1E4,E-FIC0,E-FIC0 VII,Fiber Composite,Rich,42.66
+Deklein,S-B1E4,E-FIC0,E-FIC0 VII,Glossy Compound,Medium,30.91
+Deklein,S-B1E4,E-FIC0,E-FIC0 VII,Reactive Gas,Medium,31.75
+Deklein,S-B1E4,E-FIC0,E-FIC0 VII,Polyaramids,Rich,26.71
+Deklein,S-B1E4,E-FIC0,E-FIC0 VII,Coolant,Rich,25.49
+Deklein,S-B1E4,E-FIC0,E-FIC0 VII,Ionic Solutions,Medium,10.18
+Deklein,S-B1E4,E-FIC0,E-FIC0 VIII,Crystal Compound,Rich,42.58
+Deklein,S-B1E4,E-FIC0,E-FIC0 VIII,Noble Metals,Rich,35.37
+Deklein,S-B1E4,E-FIC0,E-FIC0 VIII,Polyaramids,Perfect,31.70
+Deklein,S-B1E4,E-FIC0,E-FIC0 VIII,Coolant,Rich,26.91
+Deklein,S-B1E4,E-FIC0,E-FIC0 VIII,Silicate Glass,Medium,13.96
+Deklein,S-B1E4,E-FIC0,E-FIC0 VIII,Liquid Ozone,Medium,39.99
+Deklein,S-B1E4,E-FIC0,E-FIC0 IX,Precious Alloy,Medium,30.70
+Deklein,S-B1E4,E-FIC0,E-FIC0 IX,Dark Compound,Poor,18.77
+Deklein,S-B1E4,E-FIC0,E-FIC0 IX,Base Metals,Medium,7.54
+Deklein,S-B1E4,E-FIC0,E-FIC0 IX,Silicate Glass,Poor,12.14
+Deklein,S-B1E4,E-FIC0,E-FIC0 IX,Plasmoids,Poor,1.06
+Deklein,S-B1E4,E-FIC0,E-FIC0 X,Precious Alloy,Medium,30.08
+Deklein,S-B1E4,E-FIC0,E-FIC0 X,Motley Compound,Poor,22.73
+Deklein,S-B1E4,E-FIC0,E-FIC0 X,Supertensile Plastics,Rich,24.25
+Deklein,S-B1E4,E-FIC0,E-FIC0 X,Condensates,Medium,22.18
+Deklein,S-B1E4,E-FIC0,E-FIC0 X,Liquid Ozone,Medium,35.10
+Deklein,S-B1E4,ZOYW-O,ZOYW-O I,Sheen Compound,Medium,33.63
+Deklein,S-B1E4,ZOYW-O,ZOYW-O I,Dark Compound,Medium,31.14
+Deklein,S-B1E4,ZOYW-O,ZOYW-O I,Noble Gas,Medium,33.32
+Deklein,S-B1E4,ZOYW-O,ZOYW-O I,Reactive Metals,Poor,6.78
+Deklein,S-B1E4,ZOYW-O,ZOYW-O I,Nanites,Perfect,13.01
+Deklein,S-B1E4,ZOYW-O,ZOYW-O I,Ionic Solutions,Perfect,18.47
+Deklein,S-B1E4,ZOYW-O,ZOYW-O II,Dark Compound,Medium,28.92
+Deklein,S-B1E4,ZOYW-O,ZOYW-O II,Base Metals,Medium,8.64
+Deklein,S-B1E4,ZOYW-O,ZOYW-O II,Industrial Fibers,Poor,6.18
+Deklein,S-B1E4,ZOYW-O,ZOYW-O II,Construction Blocks,Medium,30.72
+Deklein,S-B1E4,ZOYW-O,ZOYW-O II,Plasmoids,Poor,1.43
+Deklein,S-B1E4,ZOYW-O,ZOYW-O III,Gleaming Alloy,Rich,36.06
+Deklein,S-B1E4,ZOYW-O,ZOYW-O III,Motley Compound,Medium,31.86
+Deklein,S-B1E4,ZOYW-O,ZOYW-O III,Glossy Compound,Perfect,46.00
+Deklein,S-B1E4,ZOYW-O,ZOYW-O III,Plasmoids,Medium,1.94
+Deklein,S-B1E4,ZOYW-O,ZOYW-O IV,Lucent Compound,Rich,44.02
+Deklein,S-B1E4,ZOYW-O,ZOYW-O IV,Reactive Metals,Rich,10.88
+Deklein,S-B1E4,ZOYW-O,ZOYW-O IV,Nanites,Medium,7.87
+Deklein,S-B1E4,ZOYW-O,ZOYW-O IV,Suspended Plasma,Perfect,172.47
+Deklein,S-B1E4,ZOYW-O,ZOYW-O IV,Ionic Solutions,Medium,10.68
+Deklein,S-B1E4,ZOYW-O,ZOYW-O IV,Plasmoids,Rich,2.18
+Deklein,S-B1E4,ZOYW-O,ZOYW-O V,Glossy Compound,Medium,32.03
+Deklein,S-B1E4,ZOYW-O,ZOYW-O V,Noble Metals,Rich,37.58
+Deklein,S-B1E4,ZOYW-O,ZOYW-O V,Polyaramids,Rich,25.01
+Deklein,S-B1E4,ZOYW-O,ZOYW-O V,Oxygen Isotopes,Rich,5.54
+Deklein,S-B1E4,ZOYW-O,ZOYW-O VI,Condensed Alloy,Perfect,47.18
+Deklein,S-B1E4,ZOYW-O,ZOYW-O VI,Fiber Composite,Rich,41.02
+Deklein,S-B1E4,ZOYW-O,ZOYW-O VI,Opulent Compound,Rich,42.42
+Deklein,S-B1E4,ZOYW-O,ZOYW-O VI,Base Metals,Medium,8.74
+Deklein,S-B1E4,ZOYW-O,ZOYW-O VI,Heavy Water,Perfect,472.92
+Deklein,S-B1E4,ZOYW-O,ZOYW-O VI,Liquid Ozone,Rich,55.23
+Deklein,S-B1E4,ZOYW-O,ZOYW-O VII,Condensed Alloy,Perfect,50.29
+Deklein,S-B1E4,ZOYW-O,ZOYW-O VII,Opulent Compound,Perfect,53.14
+Deklein,S-B1E4,ZOYW-O,ZOYW-O VII,Reactive Gas,Perfect,45.72
+Deklein,S-B1E4,ZOYW-O,ZOYW-O VII,Base Metals,Medium,8.79
+Deklein,S-B1E4,ZOYW-O,ZOYW-O VII,Industrial Fibers,Perfect,14.05
+Deklein,S-B1E4,ZOYW-O,ZOYW-O VII,Smartfab Units,Medium,22.55
+Deklein,S-B1E4,ZOYW-O,ZOYW-O VIII,Condensed Alloy,Perfect,47.88
+Deklein,S-B1E4,ZOYW-O,ZOYW-O VIII,Fiber Composite,Perfect,47.99
+Deklein,S-B1E4,ZOYW-O,ZOYW-O VIII,Opulent Compound,Perfect,49.90
+Deklein,S-B1E4,ZOYW-O,ZOYW-O VIII,Noble Metals,Perfect,53.45
+Deklein,S-B1E4,ZOYW-O,ZOYW-O VIII,Smartfab Units,Medium,21.24
+Deklein,S-B1E4,ZOYW-O,ZOYW-O VIII,Liquid Ozone,Medium,42.80
+Deklein,S-B1E4,ZOYW-O,ZOYW-O IX,Condensed Alloy,Rich,39.37
+Deklein,S-B1E4,ZOYW-O,ZOYW-O IX,Opulent Compound,Perfect,50.76
+Deklein,S-B1E4,ZOYW-O,ZOYW-O IX,Reactive Gas,Perfect,49.90
+Deklein,S-B1E4,ZOYW-O,ZOYW-O IX,Noble Metals,Perfect,53.40
+Deklein,S-B1E4,ZOYW-O,ZOYW-O IX,Industrial Fibers,Rich,10.96
+Deklein,S-B1E4,ZOYW-O,ZOYW-O IX,Smartfab Units,Perfect,29.98
+Deklein,S-B1E4,ZOYW-O,ZOYW-O X,Condensed Alloy,Medium,29.20
+Deklein,S-B1E4,ZOYW-O,ZOYW-O X,Reactive Gas,Rich,38.84
+Deklein,S-B1E4,ZOYW-O,ZOYW-O X,Base Metals,Perfect,12.98
+Deklein,S-B1E4,ZOYW-O,ZOYW-O X,Noble Metals,Rich,36.46
+Deklein,S-B1E4,ZOYW-O,ZOYW-O X,Condensates,Medium,20.66
+Deklein,S-B1E4,ZOYW-O,ZOYW-O X,Liquid Ozone,Perfect,56.52
+Deklein,S-B1E4,85-B52,85-B52 I,Sheen Compound,Medium,29.54
+Deklein,S-B1E4,85-B52,85-B52 I,Heavy Metals,Perfect,44.06
+Deklein,S-B1E4,85-B52,85-B52 I,Condensates,Perfect,28.87
+Deklein,S-B1E4,85-B52,85-B52 I,Nanites,Rich,9.60
+Deklein,S-B1E4,85-B52,85-B52 I,Suspended Plasma,Medium,121.31
+Deklein,S-B1E4,85-B52,85-B52 I,Ionic Solutions,Medium,10.61
+Deklein,S-B1E4,85-B52,85-B52 II,Lustering Alloy,Medium,26.24
+Deklein,S-B1E4,85-B52,85-B52 II,Precious Alloy,Poor,18.85
+Deklein,S-B1E4,85-B52,85-B52 II,Dark Compound,Poor,24.41
+Deklein,S-B1E4,85-B52,85-B52 II,Toxic Metals,Poor,4.43
+Deklein,S-B1E4,85-B52,85-B52 II,Silicate Glass,Medium,13.00
+Deklein,S-B1E4,85-B52,85-B52 III,Glossy Compound,Poor,23.89
+Deklein,S-B1E4,85-B52,85-B52 III,Noble Gas,Rich,39.34
+Deklein,S-B1E4,85-B52,85-B52 III,Heavy Metals,Rich,41.31
+Deklein,S-B1E4,85-B52,85-B52 III,Noble Metals,Poor,22.22
+Deklein,S-B1E4,85-B52,85-B52 IV,Fiber Composite,Medium,33.86
+Deklein,S-B1E4,85-B52,85-B52 IV,Glossy Compound,Medium,27.49
+Deklein,S-B1E4,85-B52,85-B52 IV,Noble Gas,Medium,27.59
+Deklein,S-B1E4,85-B52,85-B52 IV,Reactive Metals,Rich,11.02
+Deklein,S-B1E4,85-B52,85-B52 IV,Coolant,Rich,28.01
+Deklein,S-B1E4,85-B52,85-B52 IV,Ionic Solutions,Medium,10.55
+Deklein,S-B1E4,85-B52,85-B52 V,Fiber Composite,Rich,34.37
+Deklein,S-B1E4,85-B52,85-B52 V,Glossy Compound,Rich,39.61
+Deklein,S-B1E4,85-B52,85-B52 V,Noble Gas,Medium,29.81
+Deklein,S-B1E4,85-B52,85-B52 V,Base Metals,Poor,6.58
+Deklein,S-B1E4,85-B52,85-B52 V,Polyaramids,Rich,22.82
+Deklein,S-B1E4,85-B52,85-B52 V,Coolant,Poor,16.69
+Deklein,S-B1E4,85-B52,85-B52 VI,Lustering Alloy,Medium,30.00
+Deklein,S-B1E4,85-B52,85-B52 VI,Sheen Compound,Rich,39.50
+Deklein,S-B1E4,85-B52,85-B52 VI,Fiber Composite,Rich,35.32
+Deklein,S-B1E4,85-B52,85-B52 VI,Glossy Compound,Medium,30.86
+Deklein,S-B1E4,85-B52,85-B52 VI,Noble Gas,Medium,30.78
+Deklein,S-B1E4,85-B52,85-B52 VI,Coolant,Medium,22.14
+Deklein,S-B1E4,85-B52,85-B52 VII,Lustering Alloy,Poor,23.22
+Deklein,S-B1E4,85-B52,85-B52 VII,Sheen Compound,Rich,41.39
+Deklein,S-B1E4,85-B52,85-B52 VII,Fiber Composite,Rich,40.12
+Deklein,S-B1E4,85-B52,85-B52 VII,Glossy Compound,Rich,34.26
+Deklein,S-B1E4,85-B52,85-B52 VII,Reactive Gas,Rich,36.53
+Deklein,S-B1E4,85-B52,85-B52 VII,Polyaramids,Medium,21.53
+Deklein,S-B1E4,85-B52,85-B52 VIII,Gleaming Alloy,Rich,41.20
+Deklein,S-B1E4,85-B52,85-B52 VIII,Crystal Compound,Perfect,43.34
+Deklein,S-B1E4,85-B52,85-B52 VIII,Toxic Metals,Rich,10.68
+Deklein,S-B1E4,85-B52,85-B52 VIII,Nanites,Perfect,11.52
+Deklein,S-B1E4,85-B52,85-B52 VIII,Suspended Plasma,Medium,122.76
+Deklein,S-B1E4,YZ-UKA,YZ-UKA I,Lustering Alloy,Medium,29.48
+Deklein,S-B1E4,YZ-UKA,YZ-UKA I,Precious Alloy,Poor,20.55
+Deklein,S-B1E4,YZ-UKA,YZ-UKA I,Dark Compound,Poor,23.17
+Deklein,S-B1E4,YZ-UKA,YZ-UKA I,Toxic Metals,Medium,7.33
+Deklein,S-B1E4,YZ-UKA,YZ-UKA I,Plasmoids,Poor,1.07
+Deklein,S-B1E4,YZ-UKA,YZ-UKA II,Lustering Alloy,Medium,31.62
+Deklein,S-B1E4,YZ-UKA,YZ-UKA II,Dark Compound,Poor,24.14
+Deklein,S-B1E4,YZ-UKA,YZ-UKA II,Toxic Metals,Poor,6.57
+Deklein,S-B1E4,YZ-UKA,YZ-UKA II,Supertensile Plastics,Poor,13.88
+Deklein,S-B1E4,YZ-UKA,YZ-UKA II,Construction Blocks,Poor,19.04
+Deklein,S-B1E4,YZ-UKA,YZ-UKA III,Dark Compound,Medium,26.89
+Deklein,S-B1E4,YZ-UKA,YZ-UKA III,Base Metals,Medium,8.48
+Deklein,S-B1E4,YZ-UKA,YZ-UKA III,Industrial Fibers,Medium,7.82
+Deklein,S-B1E4,YZ-UKA,YZ-UKA III,Silicate Glass,Medium,13.42
+Deklein,S-B1E4,YZ-UKA,YZ-UKA III,Plasmoids,Medium,1.85
+Deklein,S-B1E4,YZ-UKA,YZ-UKA IV,Condensed Alloy,Medium,32.16
+Deklein,S-B1E4,YZ-UKA,YZ-UKA IV,Fiber Composite,Rich,37.42
+Deklein,S-B1E4,YZ-UKA,YZ-UKA IV,Base Metals,Rich,11.28
+Deklein,S-B1E4,YZ-UKA,YZ-UKA IV,Industrial Fibers,Medium,8.43
+Deklein,S-B1E4,YZ-UKA,YZ-UKA IV,Condensates,Perfect,31.41
+Deklein,S-B1E4,YZ-UKA,YZ-UKA IV,Smartfab Units,Rich,23.24
+Deklein,S-B1E4,YZ-UKA,YZ-UKA V,Fiber Composite,Rich,35.02
+Deklein,S-B1E4,YZ-UKA,YZ-UKA V,Reactive Gas,Medium,27.00
+Deklein,S-B1E4,YZ-UKA,YZ-UKA V,Noble Gas,Rich,37.96
+Deklein,S-B1E4,YZ-UKA,YZ-UKA V,Polyaramids,Poor,16.13
+Deklein,S-B1E4,YZ-UKA,YZ-UKA V,Coolant,Rich,27.36
+Deklein,S-B1E4,YZ-UKA,YZ-UKA V,Ionic Solutions,Rich,15.45
+Deklein,S-B1E4,YZ-UKA,YZ-UKA VI,Lustering Alloy,Medium,31.67
+Deklein,S-B1E4,YZ-UKA,YZ-UKA VI,Glossy Compound,Rich,35.18
+Deklein,S-B1E4,YZ-UKA,YZ-UKA VI,Reactive Gas,Medium,28.70
+Deklein,S-B1E4,YZ-UKA,YZ-UKA VI,Noble Gas,Rich,40.26
+Deklein,S-B1E4,YZ-UKA,YZ-UKA VI,Base Metals,Medium,8.85
+Deklein,S-B1E4,YZ-UKA,YZ-UKA VI,Ionic Solutions,Perfect,17.53
+Deklein,S-B1E4,YZ-UKA,YZ-UKA VII,Sheen Compound,Medium,30.56
+Deklein,S-B1E4,YZ-UKA,YZ-UKA VII,Fiber Composite,Rich,39.58
+Deklein,S-B1E4,YZ-UKA,YZ-UKA VII,Glossy Compound,Medium,29.30
+Deklein,S-B1E4,YZ-UKA,YZ-UKA VII,Reactive Gas,Medium,33.78
+Deklein,S-B1E4,YZ-UKA,YZ-UKA VII,Noble Gas,Medium,32.75
+Deklein,S-B1E4,YZ-UKA,YZ-UKA VII,Reactive Metals,Medium,8.25
+Deklein,S-B1E4,YZ-UKA,YZ-UKA VIII,Lustering Alloy,Poor,24.43
+Deklein,S-B1E4,YZ-UKA,YZ-UKA VIII,Precious Alloy,Medium,29.35
+Deklein,S-B1E4,YZ-UKA,YZ-UKA VIII,Coolant,Rich,23.92
+Deklein,S-B1E4,YZ-UKA,YZ-UKA VIII,Condensates,Poor,13.54
+Deklein,S-B1E4,YZ-UKA,YZ-UKA VIII,Suspended Plasma,Poor,73.29
+Deklein,S-B1E4,YZ-UKA,YZ-UKA IX,Lustering Alloy,Poor,23.49
+Deklein,S-B1E4,YZ-UKA,YZ-UKA IX,Dark Compound,Medium,30.16
+Deklein,S-B1E4,YZ-UKA,YZ-UKA IX,Silicate Glass,Medium,14.39
+Deklein,S-B1E4,YZ-UKA,YZ-UKA IX,Oxygen Isotopes,Poor,3.81
+Deklein,S-B1E4,YZ-UKA,YZ-UKA IX,Plasmoids,Medium,1.90
+Deklein,S-B1E4,RO0-AF,RO0-AF I,Lucent Compound,Rich,42.22
+Deklein,S-B1E4,RO0-AF,RO0-AF I,Dark Compound,Medium,32.23
+Deklein,S-B1E4,RO0-AF,RO0-AF I,Heavy Metals,Medium,26.63
+Deklein,S-B1E4,RO0-AF,RO0-AF I,Condensates,Perfect,31.70
+Deklein,S-B1E4,RO0-AF,RO0-AF I,Nanites,Medium,8.92
+Deklein,S-B1E4,RO0-AF,RO0-AF I,Ionic Solutions,Medium,13.72
+Deklein,S-B1E4,RO0-AF,RO0-AF II,Motley Compound,Rich,41.16
+Deklein,S-B1E4,RO0-AF,RO0-AF II,Glossy Compound,Perfect,44.77
+Deklein,S-B1E4,RO0-AF,RO0-AF II,Noble Gas,Rich,43.20
+Deklein,S-B1E4,RO0-AF,RO0-AF II,Plasmoids,Poor,1.40
+Deklein,S-B1E4,RO0-AF,RO0-AF III,Dark Compound,Medium,28.62
+Deklein,S-B1E4,RO0-AF,RO0-AF III,Base Metals,Poor,5.92
+Deklein,S-B1E4,RO0-AF,RO0-AF III,Industrial Fibers,Poor,6.63
+Deklein,S-B1E4,RO0-AF,RO0-AF III,Supertensile Plastics,Poor,15.46
+Deklein,S-B1E4,RO0-AF,RO0-AF III,Plasmoids,Poor,1.17
+Deklein,S-B1E4,RO0-AF,RO0-AF IV,Lustering Alloy,Medium,29.51
+Deklein,S-B1E4,RO0-AF,RO0-AF IV,Precious Alloy,Poor,25.65
+Deklein,S-B1E4,RO0-AF,RO0-AF IV,Dark Compound,Medium,30.02
+Deklein,S-B1E4,RO0-AF,RO0-AF IV,Base Metals,Medium,7.70
+Deklein,S-B1E4,RO0-AF,RO0-AF IV,Oxygen Isotopes,Poor,2.81
+Deklein,S-B1E4,RO0-AF,RO0-AF V,Condensed Alloy,Perfect,52.89
+Deklein,S-B1E4,RO0-AF,RO0-AF V,Fiber Composite,Medium,26.74
+Deklein,S-B1E4,RO0-AF,RO0-AF V,Reactive Gas,Perfect,47.21
+Deklein,S-B1E4,RO0-AF,RO0-AF V,Industrial Fibers,Perfect,13.62
+Deklein,S-B1E4,RO0-AF,RO0-AF V,Heavy Water,Perfect,484.68
+Deklein,S-B1E4,RO0-AF,RO0-AF V,Liquid Ozone,Perfect,56.80
+Deklein,S-B1E4,RO0-AF,RO0-AF VI,Glossy Compound,Poor,23.32
+Deklein,S-B1E4,RO0-AF,RO0-AF VI,Reactive Gas,Perfect,45.39
+Deklein,S-B1E4,RO0-AF,RO0-AF VI,Base Metals,Medium,7.07
+Deklein,S-B1E4,RO0-AF,RO0-AF VI,Polyaramids,Rich,25.41
+Deklein,S-B1E4,RO0-AF,RO0-AF VI,Coolant,Poor,17.17
+Deklein,S-B1E4,RO0-AF,RO0-AF VI,Ionic Solutions,Rich,16.33
+Deklein,S-B1E4,RO0-AF,RO0-AF VII,Lustering Alloy,Medium,31.84
+Deklein,S-B1E4,RO0-AF,RO0-AF VII,Fiber Composite,Poor,25.20
+Deklein,S-B1E4,RO0-AF,RO0-AF VII,Reactive Gas,Perfect,46.14
+Deklein,S-B1E4,RO0-AF,RO0-AF VII,Base Metals,Rich,10.36
+Deklein,S-B1E4,RO0-AF,RO0-AF VII,Reactive Metals,Rich,11.70
+Deklein,S-B1E4,RO0-AF,RO0-AF VII,Ionic Solutions,Rich,16.61
+Deklein,S-B1E4,RO0-AF,RO0-AF VIII,Lustering Alloy,Medium,27.72
+Deklein,S-B1E4,RO0-AF,RO0-AF VIII,Fiber Composite,Medium,33.60
+Deklein,S-B1E4,RO0-AF,RO0-AF VIII,Reactive Gas,Medium,30.91
+Deklein,S-B1E4,RO0-AF,RO0-AF VIII,Base Metals,Medium,9.31
+Deklein,S-B1E4,RO0-AF,RO0-AF VIII,Polyaramids,Medium,18.46
+Deklein,S-B1E4,RO0-AF,RO0-AF VIII,Coolant,Medium,20.59
+Deklein,S-B1E4,RO0-AF,RO0-AF IX,Condensed Alloy,Rich,37.83
+Deklein,S-B1E4,RO0-AF,RO0-AF IX,Opulent Compound,Medium,28.98
+Deklein,S-B1E4,RO0-AF,RO0-AF IX,Crystal Compound,Rich,43.09
+Deklein,S-B1E4,RO0-AF,RO0-AF IX,Polyaramids,Rich,25.44
+Deklein,S-B1E4,RO0-AF,RO0-AF IX,Heavy Water,Rich,406.28
+Deklein,S-B1E4,RO0-AF,RO0-AF IX,Ionic Solutions,Rich,17.56
+Deklein,S-B1E4,5W3-DG,5W3-DG I,Gleaming Alloy,Rich,40.58
+Deklein,S-B1E4,5W3-DG,5W3-DG I,Glossy Compound,Perfect,43.42
+Deklein,S-B1E4,5W3-DG,5W3-DG I,Smartfab Units,Rich,28.42
+Deklein,S-B1E4,5W3-DG,5W3-DG I,Plasmoids,Poor,1.36
+Deklein,S-B1E4,5W3-DG,5W3-DG II,Lustering Alloy,Poor,18.95
+Deklein,S-B1E4,5W3-DG,5W3-DG II,Dark Compound,Medium,30.75
+Deklein,S-B1E4,5W3-DG,5W3-DG II,Base Metals,Medium,7.20
+Deklein,S-B1E4,5W3-DG,5W3-DG II,Toxic Metals,Medium,6.73
+Deklein,S-B1E4,5W3-DG,5W3-DG II,Industrial Fibers,Medium,7.50
+Deklein,S-B1E4,5W3-DG,5W3-DG III,Condensed Alloy,Rich,41.28
+Deklein,S-B1E4,5W3-DG,5W3-DG III,Fiber Composite,Perfect,46.76
+Deklein,S-B1E4,5W3-DG,5W3-DG III,Base Metals,Perfect,13.23
+Deklein,S-B1E4,5W3-DG,5W3-DG III,Noble Metals,Rich,38.26
+Deklein,S-B1E4,5W3-DG,5W3-DG III,Industrial Fibers,Perfect,13.04
+Deklein,S-B1E4,5W3-DG,5W3-DG III,Heavy Water,Perfect,452.52
+Deklein,S-B1E4,5W3-DG,5W3-DG IV,Lustering Alloy,Rich,39.15
+Deklein,S-B1E4,5W3-DG,5W3-DG IV,Fiber Composite,Medium,25.68
+Deklein,S-B1E4,5W3-DG,5W3-DG IV,Reactive Gas,Rich,41.45
+Deklein,S-B1E4,5W3-DG,5W3-DG IV,Reactive Metals,Perfect,11.45
+Deklein,S-B1E4,5W3-DG,5W3-DG IV,Polyaramids,Rich,24.71
+Deklein,S-B1E4,5W3-DG,5W3-DG IV,Coolant,Rich,26.24
+Deklein,S-B1E4,5W3-DG,5W3-DG V,Lustering Alloy,Rich,39.34
+Deklein,S-B1E4,5W3-DG,5W3-DG V,Glossy Compound,Medium,26.46
+Deklein,S-B1E4,5W3-DG,5W3-DG V,Reactive Gas,Poor,22.60
+Deklein,S-B1E4,5W3-DG,5W3-DG V,Noble Gas,Rich,34.70
+Deklein,S-B1E4,5W3-DG,5W3-DG V,Polyaramids,Rich,23.18
+Deklein,S-B1E4,5W3-DG,5W3-DG V,Coolant,Perfect,29.84
+Deklein,S-B1E4,5W3-DG,5W3-DG VI,Lustering Alloy,Medium,33.78
+Deklein,S-B1E4,5W3-DG,5W3-DG VI,Fiber Composite,Medium,26.30
+Deklein,S-B1E4,5W3-DG,5W3-DG VI,Glossy Compound,Poor,23.57
+Deklein,S-B1E4,5W3-DG,5W3-DG VI,Base Metals,Rich,10.90
+Deklein,S-B1E4,5W3-DG,5W3-DG VI,Reactive Metals,Poor,6.30
+Deklein,S-B1E4,5W3-DG,5W3-DG VI,Polyaramids,Rich,26.05
+Deklein,S-B1E4,5W3-DG,5W3-DG VII,Condensed Alloy,Perfect,46.71
+Deklein,S-B1E4,5W3-DG,5W3-DG VII,Crystal Compound,Medium,28.43
+Deklein,S-B1E4,5W3-DG,5W3-DG VII,Toxic Metals,Medium,7.47
+Deklein,S-B1E4,5W3-DG,5W3-DG VII,Polyaramids,Perfect,31.59
+Deklein,S-B1E4,5W3-DG,5W3-DG VII,Heavy Water,Medium,326.43
+Deklein,S-B1E4,5W3-DG,5W3-DG VII,Ionic Solutions,Perfect,18.01
+Deklein,S-B1E4,LT-DRO,LT-DRO I,Motley Compound,Perfect,43.71
+Deklein,S-B1E4,LT-DRO,LT-DRO I,Glossy Compound,Rich,42.23
+Deklein,S-B1E4,LT-DRO,LT-DRO I,Polyaramids,Rich,23.81
+Deklein,S-B1E4,LT-DRO,LT-DRO I,Oxygen Isotopes,Rich,6.14
+Deklein,S-B1E4,LT-DRO,LT-DRO II,Lucent Compound,Medium,26.22
+Deklein,S-B1E4,LT-DRO,LT-DRO II,Crystal Compound,Poor,22.84
+Deklein,S-B1E4,LT-DRO,LT-DRO II,Reactive Gas,Medium,26.70
+Deklein,S-B1E4,LT-DRO,LT-DRO II,Reactive Metals,Medium,7.47
+Deklein,S-B1E4,LT-DRO,LT-DRO II,Suspended Plasma,Rich,145.90
+Deklein,S-B1E4,LT-DRO,LT-DRO III,Lustering Alloy,Poor,19.47
+Deklein,S-B1E4,LT-DRO,LT-DRO III,Precious Alloy,Poor,24.08
+Deklein,S-B1E4,LT-DRO,LT-DRO III,Dark Compound,Medium,28.46
+Deklein,S-B1E4,LT-DRO,LT-DRO III,Base Metals,Poor,5.73
+Deklein,S-B1E4,LT-DRO,LT-DRO III,Construction Blocks,Poor,21.71
+Deklein,S-B1E4,LT-DRO,LT-DRO IV,Glossy Compound,Rich,39.74
+Deklein,S-B1E4,LT-DRO,LT-DRO IV,Noble Gas,Rich,39.07
+Deklein,S-B1E4,LT-DRO,LT-DRO IV,Heavy Metals,Medium,27.81
+Deklein,S-B1E4,LT-DRO,LT-DRO IV,Noble Metals,Rich,39.18
+Deklein,S-B1E4,LT-DRO,LT-DRO V,Lustering Alloy,Rich,42.36
+Deklein,S-B1E4,LT-DRO,LT-DRO V,Glossy Compound,Rich,37.94
+Deklein,S-B1E4,LT-DRO,LT-DRO V,Noble Gas,Rich,38.45
+Deklein,S-B1E4,LT-DRO,LT-DRO V,Base Metals,Rich,9.28
+Deklein,S-B1E4,LT-DRO,LT-DRO V,Reactive Metals,Medium,8.90
+Deklein,S-B1E4,LT-DRO,LT-DRO V,Ionic Solutions,Rich,15.55
+Deklein,S-B1E4,LT-DRO,LT-DRO VI,Lustering Alloy,Medium,28.51
+Deklein,S-B1E4,LT-DRO,LT-DRO VI,Sheen Compound,Rich,34.61
+Deklein,S-B1E4,LT-DRO,LT-DRO VI,Fiber Composite,Rich,37.67
+Deklein,S-B1E4,LT-DRO,LT-DRO VI,Noble Gas,Medium,30.73
+Deklein,S-B1E4,LT-DRO,LT-DRO VI,Reactive Metals,Medium,8.91
+Deklein,S-B1E4,LT-DRO,LT-DRO VI,Coolant,Medium,21.83
+Deklein,S-B1E4,LT-DRO,LT-DRO VII,Precious Alloy,Rich,36.67
+Deklein,S-B1E4,LT-DRO,LT-DRO VII,Motley Compound,Rich,35.18
+Deklein,S-B1E4,LT-DRO,LT-DRO VII,Industrial Fibers,Rich,10.01
+Deklein,S-B1E4,LT-DRO,LT-DRO VII,Supertensile Plastics,Rich,25.02
+Deklein,S-B1E4,LT-DRO,LT-DRO VII,Liquid Ozone,Rich,45.19
+Deklein,S-B1E4,7T6P-C,7T6P-C I,Lustering Alloy,Poor,17.39
+Deklein,S-B1E4,7T6P-C,7T6P-C I,Dark Compound,Poor,17.78
+Deklein,S-B1E4,7T6P-C,7T6P-C I,Construction Blocks,Poor,23.04
+Deklein,S-B1E4,7T6P-C,7T6P-C I,Silicate Glass,Medium,12.57
+Deklein,S-B1E4,7T6P-C,7T6P-C I,Plasmoids,Medium,1.51
+Deklein,S-B1E4,7T6P-C,7T6P-C II,Lustering Alloy,Medium,24.80
+Deklein,S-B1E4,7T6P-C,7T6P-C II,Precious Alloy,Poor,24.49
+Deklein,S-B1E4,7T6P-C,7T6P-C II,Dark Compound,Medium,31.59
+Deklein,S-B1E4,7T6P-C,7T6P-C II,Industrial Fibers,Poor,4.43
+Deklein,S-B1E4,7T6P-C,7T6P-C II,Oxygen Isotopes,Medium,4.40
+Deklein,S-B1E4,7T6P-C,7T6P-C III,Lustering Alloy,Poor,23.09
+Deklein,S-B1E4,7T6P-C,7T6P-C III,Dark Compound,Medium,28.24
+Deklein,S-B1E4,7T6P-C,7T6P-C III,Industrial Fibers,Poor,4.54
+Deklein,S-B1E4,7T6P-C,7T6P-C III,Silicate Glass,Medium,14.30
+Deklein,S-B1E4,7T6P-C,7T6P-C III,Plasmoids,Medium,1.58
+Deklein,S-B1E4,7T6P-C,7T6P-C IV,Dark Compound,Poor,19.79
+Deklein,S-B1E4,7T6P-C,7T6P-C IV,Toxic Metals,Medium,6.98
+Deklein,S-B1E4,7T6P-C,7T6P-C IV,Silicate Glass,Medium,13.40
+Deklein,S-B1E4,7T6P-C,7T6P-C IV,Oxygen Isotopes,Medium,3.69
+Deklein,S-B1E4,7T6P-C,7T6P-C IV,Plasmoids,Medium,1.51
+Deklein,S-B1E4,7T6P-C,7T6P-C V,Lucent Compound,Rich,36.95
+Deklein,S-B1E4,7T6P-C,7T6P-C V,Crystal Compound,Rich,33.70
+Deklein,S-B1E4,7T6P-C,7T6P-C V,Reactive Gas,Rich,34.89
+Deklein,S-B1E4,7T6P-C,7T6P-C V,Toxic Metals,Medium,6.49
+Deklein,S-B1E4,7T6P-C,7T6P-C V,Supertensile Plastics,Medium,20.78
+Deklein,S-B1E4,7T6P-C,7T6P-C VI,Condensed Alloy,Rich,33.51
+Deklein,S-B1E4,7T6P-C,7T6P-C VI,Opulent Compound,Perfect,48.52
+Deklein,S-B1E4,7T6P-C,7T6P-C VI,Reactive Gas,Rich,38.40
+Deklein,S-B1E4,7T6P-C,7T6P-C VI,Condensates,Medium,17.39
+Deklein,S-B1E4,7T6P-C,7T6P-C VI,Smartfab Units,Rich,26.97
+Deklein,S-B1E4,7T6P-C,7T6P-C VI,Heavy Water,Perfect,418.86
+Deklein,S-B1E4,7T6P-C,7T6P-C VII,Lustering Alloy,Rich,38.38
+Deklein,S-B1E4,7T6P-C,7T6P-C VII,Sheen Compound,Medium,25.69
+Deklein,S-B1E4,7T6P-C,7T6P-C VII,Fiber Composite,Rich,34.55
+Deklein,S-B1E4,7T6P-C,7T6P-C VII,Base Metals,Medium,8.32
+Deklein,S-B1E4,7T6P-C,7T6P-C VII,Polyaramids,Perfect,28.74
+Deklein,S-B1E4,7T6P-C,7T6P-C VII,Coolant,Medium,20.56
+Deklein,S-B1E4,7T6P-C,7T6P-C VIII,Condensed Alloy,Perfect,48.23
+Deklein,S-B1E4,7T6P-C,7T6P-C VIII,Fiber Composite,Rich,41.05
+Deklein,S-B1E4,7T6P-C,7T6P-C VIII,Opulent Compound,Rich,35.78
+Deklein,S-B1E4,7T6P-C,7T6P-C VIII,Base Metals,Perfect,12.05
+Deklein,S-B1E4,7T6P-C,7T6P-C VIII,Condensates,Medium,19.99
+Deklein,S-B1E4,7T6P-C,7T6P-C VIII,Heavy Water,Perfect,457.34
+Deklein,S-B1E4,7T6P-C,7T6P-C IX,Precious Alloy,Medium,30.00
+Deklein,S-B1E4,7T6P-C,7T6P-C IX,Base Metals,Medium,8.52
+Deklein,S-B1E4,7T6P-C,7T6P-C IX,Supertensile Plastics,Rich,22.38
+Deklein,S-B1E4,7T6P-C,7T6P-C IX,Condensates,Medium,21.27
+Deklein,S-B1E4,7T6P-C,7T6P-C IX,Liquid Ozone,Rich,44.56
+Deklein,S-B1E4,8S28-3,8S28-3 I,Motley Compound,Medium,26.36
+Deklein,S-B1E4,8S28-3,8S28-3 I,Glossy Compound,Medium,31.17
+Deklein,S-B1E4,8S28-3,8S28-3 I,Noble Metals,Rich,40.35
+Deklein,S-B1E4,8S28-3,8S28-3 I,Construction Blocks,Rich,32.97
+Deklein,S-B1E4,8S28-3,8S28-3 II,Crystal Compound,Medium,28.26
+Deklein,S-B1E4,8S28-3,8S28-3 II,Toxic Metals,Medium,7.10
+Deklein,S-B1E4,8S28-3,8S28-3 II,Construction Blocks,Poor,24.23
+Deklein,S-B1E4,8S28-3,8S28-3 II,Suspended Plasma,Medium,118.12
+Deklein,S-B1E4,8S28-3,8S28-3 II,Oxygen Isotopes,Medium,3.82
+Deklein,S-B1E4,8S28-3,8S28-3 III,Precious Alloy,Poor,16.35
+Deklein,S-B1E4,8S28-3,8S28-3 III,Dark Compound,Medium,28.39
+Deklein,S-B1E4,8S28-3,8S28-3 III,Toxic Metals,Poor,5.72
+Deklein,S-B1E4,8S28-3,8S28-3 III,Industrial Fibers,Poor,5.10
+Deklein,S-B1E4,8S28-3,8S28-3 III,Supertensile Plastics,Poor,12.10
+Deklein,S-B1E4,8S28-3,8S28-3 IV,Lustering Alloy,Medium,24.78
+Deklein,S-B1E4,8S28-3,8S28-3 IV,Sheen Compound,Rich,38.35
+Deklein,S-B1E4,8S28-3,8S28-3 IV,Glossy Compound,Poor,23.89
+Deklein,S-B1E4,8S28-3,8S28-3 IV,Reactive Gas,Rich,38.69
+Deklein,S-B1E4,8S28-3,8S28-3 IV,Reactive Metals,Poor,6.19
+Deklein,S-B1E4,8S28-3,8S28-3 IV,Polyaramids,Perfect,27.56
+Deklein,S-B1E4,8S28-3,8S28-3 V,Sheen Compound,Rich,41.29
+Deklein,S-B1E4,8S28-3,8S28-3 V,Fiber Composite,Medium,31.93
+Deklein,S-B1E4,8S28-3,8S28-3 V,Glossy Compound,Rich,37.26
+Deklein,S-B1E4,8S28-3,8S28-3 V,Reactive Gas,Medium,25.79
+Deklein,S-B1E4,8S28-3,8S28-3 V,Noble Gas,Rich,39.73
+Deklein,S-B1E4,8S28-3,8S28-3 V,Ionic Solutions,Medium,11.07
+Deklein,S-B1E4,8S28-3,8S28-3 VI,Glossy Compound,Medium,30.29
+Deklein,S-B1E4,8S28-3,8S28-3 VI,Reactive Gas,Medium,26.05
+Deklein,S-B1E4,8S28-3,8S28-3 VI,Base Metals,Medium,6.51
+Deklein,S-B1E4,8S28-3,8S28-3 VI,Reactive Metals,Poor,6.23
+Deklein,S-B1E4,8S28-3,8S28-3 VI,Polyaramids,Medium,20.56
+Deklein,S-B1E4,8S28-3,8S28-3 VI,Coolant,Rich,22.36
+Deklein,S-B1E4,8S28-3,8S28-3 VII,Lustering Alloy,Rich,36.87
+Deklein,S-B1E4,8S28-3,8S28-3 VII,Precious Alloy,Poor,24.44
+Deklein,S-B1E4,8S28-3,8S28-3 VII,Motley Compound,Poor,20.25
+Deklein,S-B1E4,8S28-3,8S28-3 VII,Heavy Metals,Medium,29.17
+Deklein,S-B1E4,8S28-3,8S28-3 VII,Condensates,Poor,14.01
+Deklein,S-B1E4,E3UY-6,E3UY-6 I,Motley Compound,Rich,35.15
+Deklein,S-B1E4,E3UY-6,E3UY-6 I,Glossy Compound,Medium,28.91
+Deklein,S-B1E4,E3UY-6,E3UY-6 I,Noble Metals,Medium,30.97
+Deklein,S-B1E4,E3UY-6,E3UY-6 I,Polyaramids,Rich,24.53
+Deklein,S-B1E4,E3UY-6,E3UY-6 II,Dark Compound,Poor,17.39
+Deklein,S-B1E4,E3UY-6,E3UY-6 II,Base Metals,Poor,4.99
+Deklein,S-B1E4,E3UY-6,E3UY-6 II,Industrial Fibers,Poor,4.27
+Deklein,S-B1E4,E3UY-6,E3UY-6 II,Silicate Glass,Poor,10.04
+Deklein,S-B1E4,E3UY-6,E3UY-6 II,Oxygen Isotopes,Poor,2.68
+Deklein,S-B1E4,E3UY-6,E3UY-6 III,Condensed Alloy,Poor,24.10
+Deklein,S-B1E4,E3UY-6,E3UY-6 III,Reactive Gas,Rich,33.15
+Deklein,S-B1E4,E3UY-6,E3UY-6 III,Base Metals,Rich,10.47
+Deklein,S-B1E4,E3UY-6,E3UY-6 III,Industrial Fibers,Rich,9.05
+Deklein,S-B1E4,E3UY-6,E3UY-6 III,Condensates,Medium,19.01
+Deklein,S-B1E4,E3UY-6,E3UY-6 III,Liquid Ozone,Medium,37.83
+Deklein,S-B1E4,E3UY-6,E3UY-6 IV,Dark Compound,Medium,24.57
+Deklein,S-B1E4,E3UY-6,E3UY-6 IV,Toxic Metals,Poor,4.67
+Deklein,S-B1E4,E3UY-6,E3UY-6 IV,Industrial Fibers,Poor,5.32
+Deklein,S-B1E4,E3UY-6,E3UY-6 IV,Supertensile Plastics,Medium,19.69
+Deklein,S-B1E4,E3UY-6,E3UY-6 IV,Plasmoids,Poor,1.23
+Deklein,S-B1E4,E3UY-6,E3UY-6 V,Opulent Compound,Rich,33.31
+Deklein,S-B1E4,E3UY-6,E3UY-6 V,Crystal Compound,Rich,35.07
+Deklein,S-B1E4,E3UY-6,E3UY-6 V,Polyaramids,Medium,21.30
+Deklein,S-B1E4,E3UY-6,E3UY-6 V,Coolant,Rich,27.16
+Deklein,S-B1E4,E3UY-6,E3UY-6 V,Silicate Glass,Rich,18.93
+Deklein,S-B1E4,E3UY-6,E3UY-6 V,Liquid Ozone,Medium,39.16
+Deklein,S-B1E4,E3UY-6,E3UY-6 VI,Lustering Alloy,Rich,35.98
+Deklein,S-B1E4,E3UY-6,E3UY-6 VI,Reactive Gas,Rich,37.73
+Deklein,S-B1E4,E3UY-6,E3UY-6 VI,Reactive Metals,Rich,10.86
+Deklein,S-B1E4,E3UY-6,E3UY-6 VI,Polyaramids,Poor,14.28
+Deklein,S-B1E4,E3UY-6,E3UY-6 VI,Coolant,Rich,23.56
+Deklein,S-B1E4,E3UY-6,E3UY-6 VI,Ionic Solutions,Poor,8.75
+Deklein,S-B1E4,E3UY-6,E3UY-6 VII,Lustering Alloy,Medium,27.27
+Deklein,S-B1E4,E3UY-6,E3UY-6 VII,Precious Alloy,Poor,20.77
+Deklein,S-B1E4,E3UY-6,E3UY-6 VII,Dark Compound,Poor,20.12
+Deklein,S-B1E4,E3UY-6,E3UY-6 VII,Base Metals,Medium,6.93
+Deklein,S-B1E4,E3UY-6,E3UY-6 VII,Plasmoids,Medium,1.88
+Deklein,S-B1E4,E3UY-6,E3UY-6 VIII,Condensed Alloy,Rich,36.48
+Deklein,S-B1E4,E3UY-6,E3UY-6 VIII,Crystal Compound,Medium,25.40
+Deklein,S-B1E4,E3UY-6,E3UY-6 VIII,Noble Metals,Poor,23.04
+Deklein,S-B1E4,E3UY-6,E3UY-6 VIII,Polyaramids,Rich,23.45
+Deklein,S-B1E4,E3UY-6,E3UY-6 VIII,Coolant,Poor,16.15
+Deklein,S-B1E4,E3UY-6,E3UY-6 VIII,Heavy Water,Poor,239.46
+Deklein,S-B1E4,E3UY-6,E3UY-6 IX,Lustering Alloy,Medium,28.05
+Deklein,S-B1E4,E3UY-6,E3UY-6 IX,Sheen Compound,Medium,26.70
+Deklein,S-B1E4,E3UY-6,E3UY-6 IX,Fiber Composite,Medium,32.06
+Deklein,S-B1E4,E3UY-6,E3UY-6 IX,Glossy Compound,Medium,25.82
+Deklein,S-B1E4,E3UY-6,E3UY-6 IX,Base Metals,Poor,6.23
+Deklein,S-B1E4,E3UY-6,E3UY-6 IX,Polyaramids,Medium,20.38
+Deklein,S-B1E4,E3UY-6,E3UY-6 X,Crystal Compound,Medium,27.27
+Deklein,S-B1E4,E3UY-6,E3UY-6 X,Reactive Gas,Rich,34.01
+Deklein,S-B1E4,E3UY-6,E3UY-6 X,Construction Blocks,Rich,39.08
+Deklein,S-B1E4,E3UY-6,E3UY-6 X,Nanites,Rich,9.79
+Deklein,S-B1E4,E3UY-6,E3UY-6 X,Suspended Plasma,Poor,80.50
+Deklein,S-B1E4,E3UY-6,E3UY-6 XI,Sheen Compound,Rich,35.20
+Deklein,S-B1E4,E3UY-6,E3UY-6 XI,Glossy Compound,Rich,41.08
+Deklein,S-B1E4,E3UY-6,E3UY-6 XI,Reactive Gas,Rich,36.74
+Deklein,S-B1E4,E3UY-6,E3UY-6 XI,Noble Gas,Poor,22.57
+Deklein,S-B1E4,E3UY-6,E3UY-6 XI,Reactive Metals,Medium,7.75
+Deklein,S-B1E4,E3UY-6,E3UY-6 XI,Coolant,Perfect,27.96
+Deklein,A21H-Z,LEK-N5,LEK-N5 I,Lustering Alloy,Medium,24.18
+Deklein,A21H-Z,LEK-N5,LEK-N5 I,Precious Alloy,Poor,18.95
+Deklein,A21H-Z,LEK-N5,LEK-N5 I,Dark Compound,Poor,16.82
+Deklein,A21H-Z,LEK-N5,LEK-N5 I,Industrial Fibers,Medium,7.70
+Deklein,A21H-Z,LEK-N5,LEK-N5 I,Plasmoids,Medium,1.74
+Deklein,A21H-Z,LEK-N5,LEK-N5 II,Lustering Alloy,Poor,19.80
+Deklein,A21H-Z,LEK-N5,LEK-N5 II,Dark Compound,Poor,17.70
+Deklein,A21H-Z,LEK-N5,LEK-N5 II,Toxic Metals,Medium,6.91
+Deklein,A21H-Z,LEK-N5,LEK-N5 II,Oxygen Isotopes,Medium,3.84
+Deklein,A21H-Z,LEK-N5,LEK-N5 II,Plasmoids,Poor,1.32
+Deklein,A21H-Z,LEK-N5,LEK-N5 III,Lustering Alloy,Medium,28.57
+Deklein,A21H-Z,LEK-N5,LEK-N5 III,Precious Alloy,Medium,24.45
+Deklein,A21H-Z,LEK-N5,LEK-N5 III,Dark Compound,Medium,25.18
+Deklein,A21H-Z,LEK-N5,LEK-N5 III,Silicate Glass,Medium,14.15
+Deklein,A21H-Z,LEK-N5,LEK-N5 III,Oxygen Isotopes,Poor,2.42
+Deklein,A21H-Z,LEK-N5,LEK-N5 IV,Condensed Alloy,Rich,35.08
+Deklein,A21H-Z,LEK-N5,LEK-N5 IV,Opulent Compound,Rich,35.48
+Deklein,A21H-Z,LEK-N5,LEK-N5 IV,Noble Metals,Medium,24.48
+Deklein,A21H-Z,LEK-N5,LEK-N5 IV,Industrial Fibers,Perfect,10.69
+Deklein,A21H-Z,LEK-N5,LEK-N5 IV,Smartfab Units,Perfect,30.12
+Deklein,A21H-Z,LEK-N5,LEK-N5 IV,Liquid Ozone,Rich,44.06
+Deklein,A21H-Z,LEK-N5,LEK-N5 V,Condensed Alloy,Medium,30.40
+Deklein,A21H-Z,LEK-N5,LEK-N5 V,Opulent Compound,Rich,37.30
+Deklein,A21H-Z,LEK-N5,LEK-N5 V,Base Metals,Rich,9.05
+Deklein,A21H-Z,LEK-N5,LEK-N5 V,Industrial Fibers,Perfect,10.76
+Deklein,A21H-Z,LEK-N5,LEK-N5 V,Smartfab Units,Perfect,30.63
+Deklein,A21H-Z,LEK-N5,LEK-N5 V,Liquid Ozone,Rich,42.69
+Deklein,A21H-Z,LEK-N5,LEK-N5 VI,Dark Compound,Medium,26.10
+Deklein,A21H-Z,LEK-N5,LEK-N5 VI,Industrial Fibers,Poor,4.99
+Deklein,A21H-Z,LEK-N5,LEK-N5 VI,Supertensile Plastics,Poor,12.85
+Deklein,A21H-Z,LEK-N5,LEK-N5 VI,Silicate Glass,Medium,12.20
+Deklein,A21H-Z,LEK-N5,LEK-N5 VI,Plasmoids,Medium,1.63
+Deklein,A21H-Z,LEK-N5,LEK-N5 VII,Gleaming Alloy,Perfect,40.80
+Deklein,A21H-Z,LEK-N5,LEK-N5 VII,Glossy Compound,Poor,21.13
+Deklein,A21H-Z,LEK-N5,LEK-N5 VII,Noble Metals,Rich,35.27
+Deklein,A21H-Z,LEK-N5,LEK-N5 VII,Smartfab Units,Perfect,27.92
+Deklein,A21H-Z,LEK-N5,LEK-N5 VIII,Crystal Compound,Medium,31.20
+Deklein,A21H-Z,LEK-N5,LEK-N5 VIII,Reactive Metals,Rich,10.23
+Deklein,A21H-Z,LEK-N5,LEK-N5 VIII,Nanites,Medium,6.35
+Deklein,A21H-Z,LEK-N5,LEK-N5 VIII,Suspended Plasma,Medium,90.18
+Deklein,A21H-Z,LEK-N5,LEK-N5 VIII,Oxygen Isotopes,Medium,4.67
+Deklein,A21H-Z,LEK-N5,LEK-N5 IX,Precious Alloy,Poor,20.57
+Deklein,A21H-Z,LEK-N5,LEK-N5 IX,Dark Compound,Medium,27.93
+Deklein,A21H-Z,LEK-N5,LEK-N5 IX,Construction Blocks,Poor,19.88
+Deklein,A21H-Z,LEK-N5,LEK-N5 IX,Silicate Glass,Poor,9.25
+Deklein,A21H-Z,LEK-N5,LEK-N5 IX,Oxygen Isotopes,Medium,3.64
+Deklein,A21H-Z,AGG-NR,AGG-NR I,Lustering Alloy,Poor,19.75
+Deklein,A21H-Z,AGG-NR,AGG-NR I,Precious Alloy,Poor,23.52
+Deklein,A21H-Z,AGG-NR,AGG-NR I,Dark Compound,Poor,21.73
+Deklein,A21H-Z,AGG-NR,AGG-NR I,Construction Blocks,Medium,30.20
+Deklein,A21H-Z,AGG-NR,AGG-NR I,Plasmoids,Medium,1.76
+Deklein,A21H-Z,AGG-NR,AGG-NR II,Lustering Alloy,Poor,22.63
+Deklein,A21H-Z,AGG-NR,AGG-NR II,Dark Compound,Poor,22.80
+Deklein,A21H-Z,AGG-NR,AGG-NR II,Base Metals,Medium,6.83
+Deklein,A21H-Z,AGG-NR,AGG-NR II,Industrial Fibers,Medium,7.85
+Deklein,A21H-Z,AGG-NR,AGG-NR II,Oxygen Isotopes,Medium,4.28
+Deklein,A21H-Z,AGG-NR,AGG-NR III,Lustering Alloy,Poor,18.32
+Deklein,A21H-Z,AGG-NR,AGG-NR III,Precious Alloy,Medium,30.25
+Deklein,A21H-Z,AGG-NR,AGG-NR III,Dark Compound,Medium,25.77
+Deklein,A21H-Z,AGG-NR,AGG-NR III,Industrial Fibers,Medium,6.42
+Deklein,A21H-Z,AGG-NR,AGG-NR III,Silicate Glass,Poor,11.78
+Deklein,A21H-Z,AGG-NR,AGG-NR IV,Condensed Alloy,Perfect,42.08
+Deklein,A21H-Z,AGG-NR,AGG-NR IV,Fiber Composite,Poor,23.45
+Deklein,A21H-Z,AGG-NR,AGG-NR IV,Opulent Compound,Perfect,41.13
+Deklein,A21H-Z,AGG-NR,AGG-NR IV,Reactive Gas,Medium,27.57
+Deklein,A21H-Z,AGG-NR,AGG-NR IV,Base Metals,Medium,8.24
+Deklein,A21H-Z,AGG-NR,AGG-NR IV,Industrial Fibers,Medium,7.45
+Deklein,A21H-Z,AGG-NR,AGG-NR V,Glossy Compound,Rich,35.50
+Deklein,A21H-Z,AGG-NR,AGG-NR V,Noble Gas,Rich,37.85
+Deklein,A21H-Z,AGG-NR,AGG-NR V,Heavy Metals,Perfect,41.48
+Deklein,A21H-Z,AGG-NR,AGG-NR V,Oxygen Isotopes,Medium,3.96
+Deklein,A21H-Z,AGG-NR,AGG-NR VI,Precious Alloy,Poor,20.10
+Deklein,A21H-Z,AGG-NR,AGG-NR VI,Dark Compound,Medium,24.10
+Deklein,A21H-Z,AGG-NR,AGG-NR VI,Industrial Fibers,Medium,7.66
+Deklein,A21H-Z,AGG-NR,AGG-NR VI,Silicate Glass,Poor,11.54
+Deklein,A21H-Z,AGG-NR,AGG-NR VI,Plasmoids,Medium,1.43
+Deklein,A21H-Z,AGG-NR,AGG-NR VII,Lustering Alloy,Rich,34.50
+Deklein,A21H-Z,AGG-NR,AGG-NR VII,Sheen Compound,Rich,39.15
+Deklein,A21H-Z,AGG-NR,AGG-NR VII,Glossy Compound,Poor,22.13
+Deklein,A21H-Z,AGG-NR,AGG-NR VII,Noble Gas,Medium,24.35
+Deklein,A21H-Z,AGG-NR,AGG-NR VII,Base Metals,Medium,8.32
+Deklein,A21H-Z,AGG-NR,AGG-NR VII,Coolant,Medium,16.70
+Deklein,A21H-Z,AGG-NR,AGG-NR VIII,Lucent Compound,Rich,38.73
+Deklein,A21H-Z,AGG-NR,AGG-NR VIII,Crystal Compound,Perfect,40.00
+Deklein,A21H-Z,AGG-NR,AGG-NR VIII,Construction Blocks,Rich,36.30
+Deklein,A21H-Z,AGG-NR,AGG-NR VIII,Suspended Plasma,Medium,97.20
+Deklein,A21H-Z,AGG-NR,AGG-NR VIII,Oxygen Isotopes,Rich,4.87
+Deklein,A21H-Z,AGG-NR,AGG-NR IX,Gleaming Alloy,Rich,39.17
+Deklein,A21H-Z,AGG-NR,AGG-NR IX,Crystal Compound,Rich,38.35
+Deklein,A21H-Z,AGG-NR,AGG-NR IX,Reactive Gas,Rich,38.77
+Deklein,A21H-Z,AGG-NR,AGG-NR IX,Reactive Metals,Rich,9.32
+Deklein,A21H-Z,AGG-NR,AGG-NR IX,Toxic Metals,Medium,7.02
+Deklein,A21H-Z,0V0R-R,0V0R-R I,Lustering Alloy,Poor,21.27
+Deklein,A21H-Z,0V0R-R,0V0R-R I,Dark Compound,Poor,16.10
+Deklein,A21H-Z,0V0R-R,0V0R-R I,Base Metals,Poor,5.91
+Deklein,A21H-Z,0V0R-R,0V0R-R I,Toxic Metals,Medium,7.48
+Deklein,A21H-Z,0V0R-R,0V0R-R I,Plasmoids,Medium,1.75
+Deklein,A21H-Z,0V0R-R,0V0R-R II,Glossy Compound,Rich,31.82
+Deklein,A21H-Z,0V0R-R,0V0R-R II,Heavy Metals,Rich,36.38
+Deklein,A21H-Z,0V0R-R,0V0R-R II,Noble Metals,Rich,37.95
+Deklein,A21H-Z,0V0R-R,0V0R-R II,Construction Blocks,Perfect,41.70
+Deklein,A21H-Z,0V0R-R,0V0R-R III,Lustering Alloy,Medium,30.07
+Deklein,A21H-Z,0V0R-R,0V0R-R III,Precious Alloy,Poor,18.75
+Deklein,A21H-Z,0V0R-R,0V0R-R III,Dark Compound,Poor,20.90
+Deklein,A21H-Z,0V0R-R,0V0R-R III,Base Metals,Medium,6.68
+Deklein,A21H-Z,0V0R-R,0V0R-R III,Industrial Fibers,Medium,6.21
+Deklein,A21H-Z,0V0R-R,0V0R-R IV,Dark Compound,Medium,27.20
+Deklein,A21H-Z,0V0R-R,0V0R-R IV,Industrial Fibers,Medium,7.57
+Deklein,A21H-Z,0V0R-R,0V0R-R IV,Supertensile Plastics,Poor,11.38
+Deklein,A21H-Z,0V0R-R,0V0R-R IV,Silicate Glass,Poor,11.71
+Deklein,A21H-Z,0V0R-R,0V0R-R IV,Plasmoids,Medium,1.63
+Deklein,A21H-Z,0V0R-R,0V0R-R V,Opulent Compound,Medium,30.05
+Deklein,A21H-Z,0V0R-R,0V0R-R V,Crystal Compound,Perfect,44.20
+Deklein,A21H-Z,0V0R-R,0V0R-R V,Polyaramids,Rich,22.95
+Deklein,A21H-Z,0V0R-R,0V0R-R V,Coolant,Rich,24.77
+Deklein,A21H-Z,0V0R-R,0V0R-R V,Silicate Glass,Medium,14.36
+Deklein,A21H-Z,0V0R-R,0V0R-R V,Ionic Solutions,Poor,8.91
+Deklein,A21H-Z,0V0R-R,0V0R-R VI,Precious Alloy,Medium,28.30
+Deklein,A21H-Z,0V0R-R,0V0R-R VI,Dark Compound,Poor,16.35
+Deklein,A21H-Z,0V0R-R,0V0R-R VI,Supertensile Plastics,Poor,10.48
+Deklein,A21H-Z,0V0R-R,0V0R-R VI,Oxygen Isotopes,Medium,3.83
+Deklein,A21H-Z,0V0R-R,0V0R-R VI,Plasmoids,Medium,1.70
+Deklein,A21H-Z,0V0R-R,0V0R-R VII,Glossy Compound,Medium,29.45
+Deklein,A21H-Z,0V0R-R,0V0R-R VII,Noble Gas,Medium,29.00
+Deklein,A21H-Z,0V0R-R,0V0R-R VII,Base Metals,Medium,8.20
+Deklein,A21H-Z,0V0R-R,0V0R-R VII,Reactive Metals,Medium,6.54
+Deklein,A21H-Z,0V0R-R,0V0R-R VII,Coolant,Medium,18.13
+Deklein,A21H-Z,0V0R-R,0V0R-R VII,Ionic Solutions,Rich,13.72
+Deklein,A21H-Z,0V0R-R,0V0R-R VIII,Condensed Alloy,Medium,26.63
+Deklein,A21H-Z,0V0R-R,0V0R-R VIII,Reactive Gas,Rich,32.20
+Deklein,A21H-Z,0V0R-R,0V0R-R VIII,Base Metals,Rich,10.42
+Deklein,A21H-Z,0V0R-R,0V0R-R VIII,Noble Metals,Perfect,41.42
+Deklein,A21H-Z,0V0R-R,0V0R-R VIII,Industrial Fibers,Perfect,12.07
+Deklein,A21H-Z,0V0R-R,0V0R-R VIII,Heavy Water,Medium,243.25
+Deklein,A21H-Z,0V0R-R,0V0R-R IX,Sheen Compound,Rich,36.98
+Deklein,A21H-Z,0V0R-R,0V0R-R IX,Fiber Composite,Rich,32.98
+Deklein,A21H-Z,0V0R-R,0V0R-R IX,Base Metals,Poor,6.01
+Deklein,A21H-Z,0V0R-R,0V0R-R IX,Reactive Metals,Medium,7.39
+Deklein,A21H-Z,0V0R-R,0V0R-R IX,Polyaramids,Medium,19.78
+Deklein,A21H-Z,0V0R-R,0V0R-R IX,Ionic Solutions,Rich,14.23
+Deklein,A21H-Z,0V0R-R,0V0R-R X,Lustering Alloy,Medium,30.07
+Deklein,A21H-Z,0V0R-R,0V0R-R X,Sheen Compound,Medium,25.45
+Deklein,A21H-Z,0V0R-R,0V0R-R X,Glossy Compound,Medium,27.93
+Deklein,A21H-Z,0V0R-R,0V0R-R X,Noble Gas,Rich,32.48
+Deklein,A21H-Z,0V0R-R,0V0R-R X,Base Metals,Rich,9.20
+Deklein,A21H-Z,0V0R-R,0V0R-R X,Coolant,Medium,21.07
+Deklein,A21H-Z,0V0R-R,0V0R-R XI,Glossy Compound,Medium,27.05
+Deklein,A21H-Z,0V0R-R,0V0R-R XI,Noble Gas,Medium,26.27
+Deklein,A21H-Z,0V0R-R,0V0R-R XI,Base Metals,Medium,7.20
+Deklein,A21H-Z,0V0R-R,0V0R-R XI,Reactive Metals,Rich,9.84
+Deklein,A21H-Z,0V0R-R,0V0R-R XI,Polyaramids,Medium,20.15
+Deklein,A21H-Z,0V0R-R,0V0R-R XI,Ionic Solutions,Poor,8.54
+Deklein,A21H-Z,0V0R-R,0V0R-R XII,Lustering Alloy,Poor,15.63
+Deklein,A21H-Z,0V0R-R,0V0R-R XII,Precious Alloy,Medium,26.68
+Deklein,A21H-Z,0V0R-R,0V0R-R XII,Dark Compound,Poor,18.57
+Deklein,A21H-Z,0V0R-R,0V0R-R XII,Base Metals,Medium,6.51
+Deklein,A21H-Z,0V0R-R,0V0R-R XII,Construction Blocks,Medium,25.80
+Deklein,A21H-Z,O-2RNZ,O-2RNZ I,Dark Compound,Perfect,39.77
+Deklein,A21H-Z,O-2RNZ,O-2RNZ I,Noble Gas,Perfect,43.48
+Deklein,A21H-Z,O-2RNZ,O-2RNZ I,Condensates,Rich,24.90
+Deklein,A21H-Z,O-2RNZ,O-2RNZ I,Suspended Plasma,Rich,138.87
+Deklein,A21H-Z,O-2RNZ,O-2RNZ I,Ionic Solutions,Medium,10.33
+Deklein,A21H-Z,O-2RNZ,O-2RNZ I,Plasmoids,Medium,1.55
+Deklein,A21H-Z,O-2RNZ,O-2RNZ II,Gleaming Alloy,Medium,27.40
+Deklein,A21H-Z,O-2RNZ,O-2RNZ II,Glossy Compound,Rich,37.45
+Deklein,A21H-Z,O-2RNZ,O-2RNZ II,Construction Blocks,Poor,20.02
+Deklein,A21H-Z,O-2RNZ,O-2RNZ II,Plasmoids,Rich,1.90
+Deklein,A21H-Z,O-2RNZ,O-2RNZ III,Gleaming Alloy,Medium,24.88
+Deklein,A21H-Z,O-2RNZ,O-2RNZ III,Crystal Compound,Rich,38.42
+Deklein,A21H-Z,O-2RNZ,O-2RNZ III,Toxic Metals,Medium,8.02
+Deklein,A21H-Z,O-2RNZ,O-2RNZ III,Nanites,Medium,6.58
+Deklein,A21H-Z,O-2RNZ,O-2RNZ III,Oxygen Isotopes,Rich,4.99
+Deklein,A21H-Z,O-2RNZ,O-2RNZ IV,Motley Compound,Medium,29.60
+Deklein,A21H-Z,O-2RNZ,O-2RNZ IV,Glossy Compound,Rich,39.50
+Deklein,A21H-Z,O-2RNZ,O-2RNZ IV,Polyaramids,Rich,23.20
+Deklein,A21H-Z,O-2RNZ,O-2RNZ IV,Oxygen Isotopes,Rich,5.56
+Deklein,A21H-Z,O-2RNZ,O-2RNZ V,Sheen Compound,Rich,36.50
+Deklein,A21H-Z,O-2RNZ,O-2RNZ V,Reactive Gas,Rich,36.23
+Deklein,A21H-Z,O-2RNZ,O-2RNZ V,Noble Gas,Rich,39.23
+Deklein,A21H-Z,O-2RNZ,O-2RNZ V,Base Metals,Rich,10.26
+Deklein,A21H-Z,O-2RNZ,O-2RNZ V,Coolant,Medium,19.63
+Deklein,A21H-Z,O-2RNZ,O-2RNZ V,Ionic Solutions,Medium,12.00
+Deklein,A21H-Z,O-2RNZ,O-2RNZ VI,Fiber Composite,Poor,20.63
+Deklein,A21H-Z,O-2RNZ,O-2RNZ VI,Glossy Compound,Rich,37.52
+Deklein,A21H-Z,O-2RNZ,O-2RNZ VI,Reactive Gas,Medium,26.25
+Deklein,A21H-Z,O-2RNZ,O-2RNZ VI,Reactive Metals,Medium,6.84
+Deklein,A21H-Z,O-2RNZ,O-2RNZ VI,Coolant,Rich,25.62
+Deklein,A21H-Z,O-2RNZ,O-2RNZ VI,Ionic Solutions,Medium,10.42
+Deklein,A21H-Z,O-2RNZ,O-2RNZ VII,Glossy Compound,Rich,37.30
+Deklein,A21H-Z,O-2RNZ,O-2RNZ VII,Reactive Gas,Medium,30.23
+Deklein,A21H-Z,O-2RNZ,O-2RNZ VII,Noble Gas,Poor,22.20
+Deklein,A21H-Z,O-2RNZ,O-2RNZ VII,Base Metals,Rich,9.94
+Deklein,A21H-Z,O-2RNZ,O-2RNZ VII,Polyaramids,Perfect,27.45
+Deklein,A21H-Z,O-2RNZ,O-2RNZ VII,Coolant,Medium,18.52
+Deklein,A21H-Z,O-2RNZ,O-2RNZ VIII,Lustering Alloy,Medium,26.45
+Deklein,A21H-Z,O-2RNZ,O-2RNZ VIII,Sheen Compound,Perfect,40.67
+Deklein,A21H-Z,O-2RNZ,O-2RNZ VIII,Fiber Composite,Poor,22.48
+Deklein,A21H-Z,O-2RNZ,O-2RNZ VIII,Reactive Gas,Rich,36.52
+Deklein,A21H-Z,O-2RNZ,O-2RNZ VIII,Coolant,Perfect,27.10
+Deklein,A21H-Z,O-2RNZ,O-2RNZ VIII,Ionic Solutions,Rich,14.79
+Deklein,A21H-Z,O-2RNZ,O-2RNZ IX,Precious Alloy,Poor,19.82
+Deklein,A21H-Z,O-2RNZ,O-2RNZ IX,Dark Compound,Medium,29.48
+Deklein,A21H-Z,O-2RNZ,O-2RNZ IX,Toxic Metals,Poor,5.45
+Deklein,A21H-Z,O-2RNZ,O-2RNZ IX,Silicate Glass,Medium,14.03
+Deklein,A21H-Z,O-2RNZ,O-2RNZ IX,Oxygen Isotopes,Poor,3.04
+Deklein,A21H-Z,OWXT-5,OWXT-5 I,Gleaming Alloy,Medium,30.57
+Deklein,A21H-Z,OWXT-5,OWXT-5 I,Glossy Compound,Poor,23.13
+Deklein,A21H-Z,OWXT-5,OWXT-5 I,Polyaramids,Medium,16.73
+Deklein,A21H-Z,OWXT-5,OWXT-5 I,Oxygen Isotopes,Poor,3.11
+Deklein,A21H-Z,OWXT-5,OWXT-5 II,Sheen Compound,Medium,24.30
+Deklein,A21H-Z,OWXT-5,OWXT-5 II,Noble Gas,Medium,29.23
+Deklein,A21H-Z,OWXT-5,OWXT-5 II,Reactive Metals,Perfect,10.78
+Deklein,A21H-Z,OWXT-5,OWXT-5 II,Polyaramids,Rich,23.63
+Deklein,A21H-Z,OWXT-5,OWXT-5 II,Coolant,Rich,23.92
+Deklein,A21H-Z,OWXT-5,OWXT-5 II,Ionic Solutions,Rich,14.64
+Deklein,A21H-Z,OWXT-5,OWXT-5 III,Lustering Alloy,Perfect,40.10
+Deklein,A21H-Z,OWXT-5,OWXT-5 III,Sheen Compound,Rich,34.77
+Deklein,A21H-Z,OWXT-5,OWXT-5 III,Fiber Composite,Perfect,40.55
+Deklein,A21H-Z,OWXT-5,OWXT-5 III,Glossy Compound,Rich,36.38
+Deklein,A21H-Z,OWXT-5,OWXT-5 III,Noble Gas,Rich,31.77
+Deklein,A21H-Z,OWXT-5,OWXT-5 III,Ionic Solutions,Rich,14.69
+Deklein,A21H-Z,OWXT-5,OWXT-5 IV,Precious Alloy,Medium,26.13
+Deklein,A21H-Z,OWXT-5,OWXT-5 IV,Motley Compound,Rich,33.08
+Deklein,A21H-Z,OWXT-5,OWXT-5 IV,Base Metals,Medium,7.82
+Deklein,A21H-Z,OWXT-5,OWXT-5 IV,Heavy Metals,Medium,25.98
+Deklein,A21H-Z,OWXT-5,OWXT-5 IV,Condensates,Medium,16.80
+Deklein,A21H-Z,3JN9-Q,3JN9-Q I,Base Metals,Medium,7.71
+Deklein,A21H-Z,3JN9-Q,3JN9-Q I,Supertensile Plastics,Medium,19.52
+Deklein,A21H-Z,3JN9-Q,3JN9-Q I,Silicate Glass,Poor,9.12
+Deklein,A21H-Z,3JN9-Q,3JN9-Q I,Oxygen Isotopes,Medium,3.63
+Deklein,A21H-Z,3JN9-Q,3JN9-Q II,Gleaming Alloy,Poor,22.46
+Deklein,A21H-Z,3JN9-Q,3JN9-Q II,Glossy Compound,Rich,31.10
+Deklein,A21H-Z,3JN9-Q,3JN9-Q II,Heavy Metals,Medium,25.54
+Deklein,A21H-Z,3JN9-Q,3JN9-Q III,Toxic Metals,Medium,5.98
+Deklein,A21H-Z,3JN9-Q,3JN9-Q III,Supertensile Plastics,Medium,19.07
+Deklein,A21H-Z,3JN9-Q,3JN9-Q III,Construction Blocks,Poor,15.22
+Deklein,A21H-Z,3JN9-Q,3JN9-Q III,Oxygen Isotopes,Medium,3.60
+Deklein,A21H-Z,3JN9-Q,3JN9-Q IV,Fiber Composite,Poor,22.25
+Deklein,A21H-Z,3JN9-Q,3JN9-Q IV,Opulent Compound,Perfect,43.80
+Deklein,A21H-Z,3JN9-Q,3JN9-Q IV,Reactive Gas,Medium,26.11
+Deklein,A21H-Z,3JN9-Q,3JN9-Q IV,Base Metals,Perfect,10.91
+Deklein,A21H-Z,3JN9-Q,3JN9-Q IV,Liquid Ozone,Rich,45.00
+Deklein,A21H-Z,3JN9-Q,3JN9-Q V,Dark Compound,Medium,23.47
+Deklein,A21H-Z,3JN9-Q,3JN9-Q V,Base Metals,Poor,5.89
+Deklein,A21H-Z,3JN9-Q,3JN9-Q V,Supertensile Plastics,Medium,19.22
+Deklein,A21H-Z,3JN9-Q,3JN9-Q V,Silicate Glass,Poor,9.35
+Deklein,A21H-Z,3JN9-Q,3JN9-Q VI,Lucent Compound,Rich,33.34
+Deklein,A21H-Z,3JN9-Q,3JN9-Q VI,Reactive Gas,Rich,33.79
+Deklein,A21H-Z,3JN9-Q,3JN9-Q VI,Reactive Metals,Medium,7.19
+Deklein,A21H-Z,3JN9-Q,3JN9-Q VI,Nanites,Medium,6.15
+Deklein,A21H-Z,3JN9-Q,3JN9-Q VII,Fiber Composite,Poor,21.48
+Deklein,A21H-Z,3JN9-Q,3JN9-Q VII,Reactive Gas,Rich,35.40
+Deklein,A21H-Z,3JN9-Q,3JN9-Q VII,Noble Gas,Rich,36.77
+Deklein,A21H-Z,3JN9-Q,3JN9-Q VII,Reactive Metals,Medium,6.28
+Deklein,A21H-Z,3JN9-Q,3JN9-Q VII,Coolant,Perfect,26.40
+Deklein,A21H-Z,3JN9-Q,3JN9-Q VIII,Base Metals,Poor,3.99
+Deklein,A21H-Z,3JN9-Q,3JN9-Q VIII,Supertensile Plastics,Poor,12.42
+Deklein,A21H-Z,3JN9-Q,3JN9-Q VIII,Construction Blocks,Poor,21.62
+Deklein,A21H-Z,3JN9-Q,3JN9-Q VIII,Plasmoids,Medium,1.57
+Deklein,A21H-Z,3JN9-Q,3JN9-Q IX,Sheen Compound,Rich,30.72
+Deklein,A21H-Z,3JN9-Q,3JN9-Q IX,Glossy Compound,Perfect,39.00
+Deklein,A21H-Z,3JN9-Q,3JN9-Q IX,Reactive Gas,Medium,23.11
+Deklein,A21H-Z,3JN9-Q,3JN9-Q IX,Polyaramids,Rich,24.80
+Deklein,A21H-Z,3JN9-Q,3JN9-Q IX,Ionic Solutions,Medium,12.01
+Deklein,A21H-Z,3JN9-Q,3JN9-Q X,Lustering Alloy,Rich,32.28
+Deklein,A21H-Z,3JN9-Q,3JN9-Q X,Fiber Composite,Medium,24.96
+Deklein,A21H-Z,3JN9-Q,3JN9-Q X,Glossy Compound,Medium,26.59
+Deklein,A21H-Z,3JN9-Q,3JN9-Q X,Reactive Gas,Rich,37.13
+Deklein,A21H-Z,3JN9-Q,3JN9-Q X,Reactive Metals,Medium,7.49
+Deklein,A21H-Z,3JN9-Q,3JN9-Q XI,Crystal Compound,Medium,22.85
+Deklein,A21H-Z,3JN9-Q,3JN9-Q XI,Noble Metals,Medium,27.86
+Deklein,A21H-Z,3JN9-Q,3JN9-Q XI,Toxic Metals,Medium,7.45
+Deklein,A21H-Z,3JN9-Q,3JN9-Q XI,Liquid Ozone,Rich,40.38
+Deklein,A21H-Z,3JN9-Q,3JN9-Q XI,Ionic Solutions,Medium,10.24
+Deklein,A21H-Z,3JN9-Q,3JN9-Q XII,Base Metals,Poor,5.50
+Deklein,A21H-Z,3JN9-Q,3JN9-Q XII,Industrial Fibers,Medium,7.52
+Deklein,A21H-Z,3JN9-Q,3JN9-Q XII,Supertensile Plastics,Poor,11.82
+Deklein,A21H-Z,3JN9-Q,3JN9-Q XII,Condensates,Medium,18.90
+Deklein,RFY-QB,3T7-M8,3T7-M8 I,Gleaming Alloy,Medium,28.07
+Deklein,RFY-QB,3T7-M8,3T7-M8 I,Motley Compound,Rich,35.08
+Deklein,RFY-QB,3T7-M8,3T7-M8 I,Glossy Compound,Medium,24.23
+Deklein,RFY-QB,3T7-M8,3T7-M8 I,Oxygen Isotopes,Poor,3.48
+Deklein,RFY-QB,3T7-M8,3T7-M8 II,Lustering Alloy,Poor,17.85
+Deklein,RFY-QB,3T7-M8,3T7-M8 II,Dark Compound,Poor,18.57
+Deklein,RFY-QB,3T7-M8,3T7-M8 II,Toxic Metals,Medium,7.34
+Deklein,RFY-QB,3T7-M8,3T7-M8 II,Construction Blocks,Poor,22.38
+Deklein,RFY-QB,3T7-M8,3T7-M8 II,Oxygen Isotopes,Medium,3.84
+Deklein,RFY-QB,3T7-M8,3T7-M8 III,Glossy Compound,Rich,34.80
+Deklein,RFY-QB,3T7-M8,3T7-M8 III,Polyaramids,Medium,16.43
+Deklein,RFY-QB,3T7-M8,3T7-M8 III,Construction Blocks,Rich,37.50
+Deklein,RFY-QB,3T7-M8,3T7-M8 III,Plasmoids,Poor,1.32
+Deklein,RFY-QB,3T7-M8,3T7-M8 IV,Lustering Alloy,Medium,29.60
+Deklein,RFY-QB,3T7-M8,3T7-M8 IV,Sheen Compound,Medium,29.68
+Deklein,RFY-QB,3T7-M8,3T7-M8 IV,Glossy Compound,Rich,36.50
+Deklein,RFY-QB,3T7-M8,3T7-M8 IV,Noble Gas,Rich,33.58
+Deklein,RFY-QB,3T7-M8,3T7-M8 IV,Polyaramids,Medium,20.13
+Deklein,RFY-QB,3T7-M8,3T7-M8 IV,Ionic Solutions,Medium,12.34
+Deklein,RFY-QB,3T7-M8,3T7-M8 V,Crystal Compound,Medium,31.43
+Deklein,RFY-QB,3T7-M8,3T7-M8 V,Reactive Gas,Rich,33.63
+Deklein,RFY-QB,3T7-M8,3T7-M8 V,Reactive Metals,Poor,5.31
+Deklein,RFY-QB,3T7-M8,3T7-M8 V,Construction Blocks,Rich,33.75
+Deklein,RFY-QB,3T7-M8,3T7-M8 V,Nanites,Poor,5.78
+Deklein,RFY-QB,3T7-M8,3T7-M8 VI,Dark Compound,Poor,18.68
+Deklein,RFY-QB,3T7-M8,3T7-M8 VI,Base Metals,Medium,7.07
+Deklein,RFY-QB,3T7-M8,3T7-M8 VI,Supertensile Plastics,Poor,14.80
+Deklein,RFY-QB,3T7-M8,3T7-M8 VI,Construction Blocks,Medium,25.85
+Deklein,RFY-QB,3T7-M8,3T7-M8 VI,Oxygen Isotopes,Medium,3.96
+Deklein,RFY-QB,3T7-M8,3T7-M8 VII,Lustering Alloy,Perfect,40.50
+Deklein,RFY-QB,3T7-M8,3T7-M8 VII,Sheen Compound,Perfect,39.73
+Deklein,RFY-QB,3T7-M8,3T7-M8 VII,Fiber Composite,Poor,22.88
+Deklein,RFY-QB,3T7-M8,3T7-M8 VII,Glossy Compound,Perfect,41.30
+Deklein,RFY-QB,3T7-M8,3T7-M8 VII,Reactive Metals,Perfect,10.65
+Deklein,RFY-QB,3T7-M8,3T7-M8 VII,Polyaramids,Rich,23.03
+Deklein,RFY-QB,3T7-M8,3T7-M8 VIII,Precious Alloy,Medium,30.57
+Deklein,RFY-QB,3T7-M8,3T7-M8 VIII,Motley Compound,Rich,35.05
+Deklein,RFY-QB,3T7-M8,3T7-M8 VIII,Base Metals,Medium,6.72
+Deklein,RFY-QB,3T7-M8,3T7-M8 VIII,Heavy Metals,Rich,32.98
+Deklein,RFY-QB,3T7-M8,3T7-M8 VIII,Coolant,Medium,20.40
+Deklein,RFY-QB,WUZ-WM,WUZ-WM I,Precious Alloy,Medium,28.82
+Deklein,RFY-QB,WUZ-WM,WUZ-WM I,Dark Compound,Medium,23.93
+Deklein,RFY-QB,WUZ-WM,WUZ-WM I,Toxic Metals,Medium,6.65
+Deklein,RFY-QB,WUZ-WM,WUZ-WM I,Silicate Glass,Medium,12.54
+Deklein,RFY-QB,WUZ-WM,WUZ-WM I,Plasmoids,Poor,0.94
+Deklein,RFY-QB,WUZ-WM,WUZ-WM II,Glossy Compound,Perfect,41.38
+Deklein,RFY-QB,WUZ-WM,WUZ-WM II,Heavy Metals,Rich,36.58
+Deklein,RFY-QB,WUZ-WM,WUZ-WM II,Construction Blocks,Rich,37.27
+Deklein,RFY-QB,WUZ-WM,WUZ-WM II,Smartfab Units,Medium,19.95
+Deklein,RFY-QB,WUZ-WM,WUZ-WM III,Precious Alloy,Poor,22.88
+Deklein,RFY-QB,WUZ-WM,WUZ-WM III,Dark Compound,Medium,27.90
+Deklein,RFY-QB,WUZ-WM,WUZ-WM III,Toxic Metals,Poor,5.91
+Deklein,RFY-QB,WUZ-WM,WUZ-WM III,Construction Blocks,Poor,19.77
+Deklein,RFY-QB,WUZ-WM,WUZ-WM III,Silicate Glass,Medium,15.25
+Deklein,RFY-QB,WUZ-WM,WUZ-WM IV,Gleaming Alloy,Rich,37.15
+Deklein,RFY-QB,WUZ-WM,WUZ-WM IV,Lucent Compound,Medium,29.43
+Deklein,RFY-QB,WUZ-WM,WUZ-WM IV,Crystal Compound,Rich,32.02
+Deklein,RFY-QB,WUZ-WM,WUZ-WM IV,Reactive Gas,Rich,36.20
+Deklein,RFY-QB,WUZ-WM,WUZ-WM IV,Oxygen Isotopes,Poor,3.09
+Deklein,RFY-QB,WUZ-WM,WUZ-WM V,Condensed Alloy,Rich,37.42
+Deklein,RFY-QB,WUZ-WM,WUZ-WM V,Opulent Compound,Perfect,44.52
+Deklein,RFY-QB,WUZ-WM,WUZ-WM V,Reactive Gas,Perfect,40.35
+Deklein,RFY-QB,WUZ-WM,WUZ-WM V,Noble Metals,Perfect,46.40
+Deklein,RFY-QB,WUZ-WM,WUZ-WM V,Industrial Fibers,Medium,6.30
+Deklein,RFY-QB,WUZ-WM,WUZ-WM V,Condensates,Medium,20.42
+Deklein,RFY-QB,WUZ-WM,WUZ-WM VI,Lustering Alloy,Medium,25.02
+Deklein,RFY-QB,WUZ-WM,WUZ-WM VI,Glossy Compound,Rich,33.20
+Deklein,RFY-QB,WUZ-WM,WUZ-WM VI,Reactive Gas,Poor,21.63
+Deklein,RFY-QB,WUZ-WM,WUZ-WM VI,Noble Gas,Medium,26.13
+Deklein,RFY-QB,WUZ-WM,WUZ-WM VI,Reactive Metals,Medium,8.11
+Deklein,RFY-QB,WUZ-WM,WUZ-WM VI,Polyaramids,Rich,21.55
+Deklein,RFY-QB,WUZ-WM,WUZ-WM VII,Lustering Alloy,Medium,25.40
+Deklein,RFY-QB,WUZ-WM,WUZ-WM VII,Fiber Composite,Rich,39.55
+Deklein,RFY-QB,WUZ-WM,WUZ-WM VII,Glossy Compound,Rich,37.95
+Deklein,RFY-QB,WUZ-WM,WUZ-WM VII,Base Metals,Medium,7.35
+Deklein,RFY-QB,WUZ-WM,WUZ-WM VII,Polyaramids,Rich,21.17
+Deklein,RFY-QB,WUZ-WM,WUZ-WM VII,Coolant,Rich,25.83
+Deklein,RFY-QB,WUZ-WM,WUZ-WM VIII,Sheen Compound,Poor,23.55
+Deklein,RFY-QB,WUZ-WM,WUZ-WM VIII,Reactive Gas,Rich,32.17
+Deklein,RFY-QB,WUZ-WM,WUZ-WM VIII,Base Metals,Rich,9.50
+Deklein,RFY-QB,WUZ-WM,WUZ-WM VIII,Polyaramids,Rich,22.88
+Deklein,RFY-QB,WUZ-WM,WUZ-WM VIII,Coolant,Perfect,26.68
+Deklein,RFY-QB,WUZ-WM,WUZ-WM VIII,Ionic Solutions,Poor,9.33
+Deklein,RFY-QB,WUZ-WM,WUZ-WM IX,Precious Alloy,Poor,20.85
+Deklein,RFY-QB,WUZ-WM,WUZ-WM IX,Dark Compound,Poor,21.30
+Deklein,RFY-QB,WUZ-WM,WUZ-WM IX,Base Metals,Poor,4.19
+Deklein,RFY-QB,WUZ-WM,WUZ-WM IX,Construction Blocks,Medium,25.15
+Deklein,RFY-QB,WUZ-WM,WUZ-WM IX,Plasmoids,Medium,1.48
+Deklein,RFY-QB,WUZ-WM,WUZ-WM X,Precious Alloy,Medium,29.98
+Deklein,RFY-QB,WUZ-WM,WUZ-WM X,Heavy Metals,Medium,27.98
+Deklein,RFY-QB,WUZ-WM,WUZ-WM X,Industrial Fibers,Medium,6.23
+Deklein,RFY-QB,WUZ-WM,WUZ-WM X,Coolant,Medium,16.43
+Deklein,RFY-QB,WUZ-WM,WUZ-WM X,Condensates,Medium,18.12
+Deklein,RFY-QB,MZ1E-P,MZ1E-P I,Lustering Alloy,Poor,19.55
+Deklein,RFY-QB,MZ1E-P,MZ1E-P I,Precious Alloy,Poor,17.37
+Deklein,RFY-QB,MZ1E-P,MZ1E-P I,Dark Compound,Medium,26.08
+Deklein,RFY-QB,MZ1E-P,MZ1E-P I,Construction Blocks,Poor,23.66
+Deklein,RFY-QB,MZ1E-P,MZ1E-P I,Oxygen Isotopes,Poor,3.14
+Deklein,RFY-QB,MZ1E-P,MZ1E-P II,Motley Compound,Medium,30.99
+Deklein,RFY-QB,MZ1E-P,MZ1E-P II,Glossy Compound,Medium,29.59
+Deklein,RFY-QB,MZ1E-P,MZ1E-P II,Noble Metals,Poor,23.06
+Deklein,RFY-QB,MZ1E-P,MZ1E-P II,Smartfab Units,Medium,20.75
+Deklein,RFY-QB,MZ1E-P,MZ1E-P III,Dark Compound,Medium,26.65
+Deklein,RFY-QB,MZ1E-P,MZ1E-P III,Supertensile Plastics,Medium,18.22
+Deklein,RFY-QB,MZ1E-P,MZ1E-P III,Silicate Glass,Medium,14.69
+Deklein,RFY-QB,MZ1E-P,MZ1E-P III,Oxygen Isotopes,Poor,2.74
+Deklein,RFY-QB,MZ1E-P,MZ1E-P III,Plasmoids,Poor,1.05
+Deklein,RFY-QB,MZ1E-P,MZ1E-P IV,Precious Alloy,Medium,25.79
+Deklein,RFY-QB,MZ1E-P,MZ1E-P IV,Dark Compound,Medium,27.90
+Deklein,RFY-QB,MZ1E-P,MZ1E-P IV,Industrial Fibers,Medium,7.64
+Deklein,RFY-QB,MZ1E-P,MZ1E-P IV,Silicate Glass,Poor,9.27
+Deklein,RFY-QB,MZ1E-P,MZ1E-P IV,Oxygen Isotopes,Poor,3.21
+Deklein,RFY-QB,MZ1E-P,MZ1E-P V,Condensed Alloy,Medium,27.25
+Deklein,RFY-QB,MZ1E-P,MZ1E-P V,Opulent Compound,Medium,31.49
+Deklein,RFY-QB,MZ1E-P,MZ1E-P V,Base Metals,Rich,10.01
+Deklein,RFY-QB,MZ1E-P,MZ1E-P V,Condensates,Medium,21.93
+Deklein,RFY-QB,MZ1E-P,MZ1E-P V,Smartfab Units,Rich,23.37
+Deklein,RFY-QB,MZ1E-P,MZ1E-P V,Liquid Ozone,Perfect,59.22
+Deklein,RFY-QB,MZ1E-P,MZ1E-P VI,Gleaming Alloy,Rich,40.01
+Deklein,RFY-QB,MZ1E-P,MZ1E-P VI,Crystal Compound,Rich,38.51
+Deklein,RFY-QB,MZ1E-P,MZ1E-P VI,Reactive Gas,Medium,30.03
+Deklein,RFY-QB,MZ1E-P,MZ1E-P VI,Reactive Metals,Medium,6.55
+Deklein,RFY-QB,MZ1E-P,MZ1E-P VI,Construction Blocks,Perfect,41.31
+Deklein,RFY-QB,MZ1E-P,MZ1E-P VII,Lustering Alloy,Medium,26.75
+Deklein,RFY-QB,MZ1E-P,MZ1E-P VII,Sheen Compound,Medium,27.66
+Deklein,RFY-QB,MZ1E-P,MZ1E-P VII,Fiber Composite,Rich,38.84
+Deklein,RFY-QB,MZ1E-P,MZ1E-P VII,Base Metals,Medium,7.10
+Deklein,RFY-QB,MZ1E-P,MZ1E-P VII,Reactive Metals,Medium,8.44
+Deklein,RFY-QB,MZ1E-P,MZ1E-P VII,Ionic Solutions,Medium,12.30
+Deklein,RFY-QB,MZ1E-P,MZ1E-P VIII,Lustering Alloy,Perfect,41.81
+Deklein,RFY-QB,MZ1E-P,MZ1E-P VIII,Sheen Compound,Perfect,41.34
+Deklein,RFY-QB,MZ1E-P,MZ1E-P VIII,Fiber Composite,Poor,21.58
+Deklein,RFY-QB,MZ1E-P,MZ1E-P VIII,Reactive Gas,Medium,31.20
+Deklein,RFY-QB,MZ1E-P,MZ1E-P VIII,Noble Gas,Medium,27.95
+Deklein,RFY-QB,MZ1E-P,MZ1E-P VIII,Polyaramids,Poor,14.63
+Deklein,RFY-QB,MZ1E-P,MZ1E-P IX,Lustering Alloy,Perfect,42.69
+Deklein,RFY-QB,MZ1E-P,MZ1E-P IX,Sheen Compound,Rich,40.69
+Deklein,RFY-QB,MZ1E-P,MZ1E-P IX,Reactive Gas,Poor,21.35
+Deklein,RFY-QB,MZ1E-P,MZ1E-P IX,Noble Gas,Medium,32.37
+Deklein,RFY-QB,MZ1E-P,MZ1E-P IX,Coolant,Rich,27.39
+Deklein,RFY-QB,MZ1E-P,MZ1E-P IX,Ionic Solutions,Medium,12.56
+Deklein,RFY-QB,43B-O1,43B-O1 I,Glossy Compound,Medium,28.70
+Deklein,RFY-QB,43B-O1,43B-O1 I,Polyaramids,Rich,25.27
+Deklein,RFY-QB,43B-O1,43B-O1 I,Oxygen Isotopes,Rich,5.05
+Deklein,RFY-QB,43B-O1,43B-O1 I,Plasmoids,Perfect,2.42
+Deklein,RFY-QB,43B-O1,43B-O1 II,Sheen Compound,Medium,28.40
+Deklein,RFY-QB,43B-O1,43B-O1 II,Lucent Compound,Rich,35.63
+Deklein,RFY-QB,43B-O1,43B-O1 II,Dark Compound,Rich,35.58
+Deklein,RFY-QB,43B-O1,43B-O1 II,Noble Gas,Medium,25.77
+Deklein,RFY-QB,43B-O1,43B-O1 II,Heavy Metals,Perfect,44.27
+Deklein,RFY-QB,43B-O1,43B-O1 II,Ionic Solutions,Rich,15.47
+Deklein,RFY-QB,43B-O1,43B-O1 III,Gleaming Alloy,Poor,21.45
+Deklein,RFY-QB,43B-O1,43B-O1 III,Motley Compound,Medium,27.02
+Deklein,RFY-QB,43B-O1,43B-O1 III,Glossy Compound,Rich,38.75
+Deklein,RFY-QB,43B-O1,43B-O1 III,Construction Blocks,Poor,21.57
+Deklein,RFY-QB,43B-O1,43B-O1 IV,Condensed Alloy,Medium,30.60
+Deklein,RFY-QB,43B-O1,43B-O1 IV,Fiber Composite,Rich,32.98
+Deklein,RFY-QB,43B-O1,43B-O1 IV,Opulent Compound,Medium,25.90
+Deklein,RFY-QB,43B-O1,43B-O1 IV,Base Metals,Medium,6.47
+Deklein,RFY-QB,43B-O1,43B-O1 IV,Noble Metals,Perfect,42.85
+Deklein,RFY-QB,43B-O1,43B-O1 IV,Industrial Fibers,Medium,6.92
+Deklein,RFY-QB,43B-O1,43B-O1 V,Lustering Alloy,Medium,25.10
+Deklein,RFY-QB,43B-O1,43B-O1 V,Precious Alloy,Medium,24.57
+Deklein,RFY-QB,43B-O1,43B-O1 V,Dark Compound,Poor,19.88
+Deklein,RFY-QB,43B-O1,43B-O1 V,Supertensile Plastics,Medium,19.02
+Deklein,RFY-QB,43B-O1,43B-O1 V,Plasmoids,Poor,1.18
+Deklein,RFY-QB,43B-O1,43B-O1 VI,Dark Compound,Medium,24.73
+Deklein,RFY-QB,43B-O1,43B-O1 VI,Industrial Fibers,Medium,7.78
+Deklein,RFY-QB,43B-O1,43B-O1 VI,Construction Blocks,Medium,25.60
+Deklein,RFY-QB,43B-O1,43B-O1 VI,Silicate Glass,Medium,12.45
+Deklein,RFY-QB,43B-O1,43B-O1 VI,Oxygen Isotopes,Medium,4.32
+Deklein,RFY-QB,43B-O1,43B-O1 VII,Lustering Alloy,Perfect,41.45
+Deklein,RFY-QB,43B-O1,43B-O1 VII,Glossy Compound,Medium,26.35
+Deklein,RFY-QB,43B-O1,43B-O1 VII,Base Metals,Medium,6.47
+Deklein,RFY-QB,43B-O1,43B-O1 VII,Reactive Metals,Rich,9.10
+Deklein,RFY-QB,43B-O1,43B-O1 VII,Polyaramids,Rich,22.60
+Deklein,RFY-QB,43B-O1,43B-O1 VII,Ionic Solutions,Medium,12.60
+Deklein,RFY-QB,43B-O1,43B-O1 VIII,Lustering Alloy,Rich,36.35
+Deklein,RFY-QB,43B-O1,43B-O1 VIII,Fiber Composite,Rich,33.83
+Deklein,RFY-QB,43B-O1,43B-O1 VIII,Glossy Compound,Poor,21.77
+Deklein,RFY-QB,43B-O1,43B-O1 VIII,Reactive Gas,Rich,39.67
+Deklein,RFY-QB,43B-O1,43B-O1 VIII,Noble Gas,Perfect,41.15
+Deklein,RFY-QB,43B-O1,43B-O1 VIII,Polyaramids,Medium,21.03
+Deklein,RFY-QB,43B-O1,43B-O1 IX,Lustering Alloy,Medium,23.60
+Deklein,RFY-QB,43B-O1,43B-O1 IX,Sheen Compound,Medium,29.80
+Deklein,RFY-QB,43B-O1,43B-O1 IX,Reactive Gas,Medium,29.95
+Deklein,RFY-QB,43B-O1,43B-O1 IX,Noble Gas,Medium,28.80
+Deklein,RFY-QB,43B-O1,43B-O1 IX,Reactive Metals,Rich,9.24
+Deklein,RFY-QB,43B-O1,43B-O1 IX,Ionic Solutions,Rich,15.79
+Deklein,RFY-QB,J1AU-9,J1AU-9 I,Precious Alloy,Poor,23.60
+Deklein,RFY-QB,J1AU-9,J1AU-9 I,Dark Compound,Poor,21.90
+Deklein,RFY-QB,J1AU-9,J1AU-9 I,Base Metals,Poor,5.27
+Deklein,RFY-QB,J1AU-9,J1AU-9 I,Construction Blocks,Medium,29.67
+Deklein,RFY-QB,J1AU-9,J1AU-9 I,Oxygen Isotopes,Poor,2.91
+Deklein,RFY-QB,J1AU-9,J1AU-9 II,Glossy Compound,Rich,39.80
+Deklein,RFY-QB,J1AU-9,J1AU-9 II,Polyaramids,Rich,27.54
+Deklein,RFY-QB,J1AU-9,J1AU-9 II,Smartfab Units,Rich,24.73
+Deklein,RFY-QB,J1AU-9,J1AU-9 II,Plasmoids,Medium,1.76
+Deklein,RFY-QB,J1AU-9,J1AU-9 III,Lustering Alloy,Medium,27.78
+Deklein,RFY-QB,J1AU-9,J1AU-9 III,Dark Compound,Medium,29.08
+Deklein,RFY-QB,J1AU-9,J1AU-9 III,Toxic Metals,Poor,6.14
+Deklein,RFY-QB,J1AU-9,J1AU-9 III,Industrial Fibers,Poor,4.43
+Deklein,RFY-QB,J1AU-9,J1AU-9 III,Silicate Glass,Medium,15.34
+Deklein,RFY-QB,J1AU-9,J1AU-9 IV,Crystal Compound,Rich,41.85
+Deklein,RFY-QB,J1AU-9,J1AU-9 IV,Reactive Gas,Perfect,43.98
+Deklein,RFY-QB,J1AU-9,J1AU-9 IV,Reactive Metals,Rich,10.81
+Deklein,RFY-QB,J1AU-9,J1AU-9 IV,Nanites,Medium,8.63
+Deklein,RFY-QB,J1AU-9,J1AU-9 IV,Suspended Plasma,Medium,122.47
+Deklein,RFY-QB,J1AU-9,J1AU-9 V,Dark Compound,Poor,23.03
+Deklein,RFY-QB,J1AU-9,J1AU-9 V,Industrial Fibers,Poor,4.74
+Deklein,RFY-QB,J1AU-9,J1AU-9 V,Construction Blocks,Poor,20.49
+Deklein,RFY-QB,J1AU-9,J1AU-9 V,Silicate Glass,Poor,8.91
+Deklein,RFY-QB,J1AU-9,J1AU-9 V,Oxygen Isotopes,Medium,4.97
+Deklein,RFY-QB,J1AU-9,J1AU-9 VI,Condensed Alloy,Rich,35.13
+Deklein,RFY-QB,J1AU-9,J1AU-9 VI,Fiber Composite,Medium,26.00
+Deklein,RFY-QB,J1AU-9,J1AU-9 VI,Reactive Gas,Medium,30.81
+Deklein,RFY-QB,J1AU-9,J1AU-9 VI,Base Metals,Rich,11.15
+Deklein,RFY-QB,J1AU-9,J1AU-9 VI,Industrial Fibers,Perfect,13.57
+Deklein,RFY-QB,J1AU-9,J1AU-9 VI,Liquid Ozone,Medium,39.83
+Deklein,RFY-QB,J1AU-9,J1AU-9 VII,Condensed Alloy,Rich,37.45
+Deklein,RFY-QB,J1AU-9,J1AU-9 VII,Fiber Composite,Perfect,50.25
+Deklein,RFY-QB,J1AU-9,J1AU-9 VII,Opulent Compound,Perfect,46.74
+Deklein,RFY-QB,J1AU-9,J1AU-9 VII,Condensates,Perfect,32.45
+Deklein,RFY-QB,J1AU-9,J1AU-9 VII,Smartfab Units,Perfect,33.12
+Deklein,RFY-QB,J1AU-9,J1AU-9 VII,Liquid Ozone,Medium,36.55
+Deklein,RFY-QB,J1AU-9,J1AU-9 VIII,Lustering Alloy,Perfect,44.25
+Deklein,RFY-QB,J1AU-9,J1AU-9 VIII,Sheen Compound,Poor,22.19
+Deklein,RFY-QB,J1AU-9,J1AU-9 VIII,Fiber Composite,Medium,30.83
+Deklein,RFY-QB,J1AU-9,J1AU-9 VIII,Reactive Gas,Medium,29.54
+Deklein,RFY-QB,J1AU-9,J1AU-9 VIII,Reactive Metals,Rich,10.82
+Deklein,RFY-QB,J1AU-9,J1AU-9 VIII,Polyaramids,Rich,22.82
+Deklein,RFY-QB,J1AU-9,J1AU-9 IX,Fiber Composite,Rich,36.91
+Deklein,RFY-QB,J1AU-9,J1AU-9 IX,Reactive Gas,Perfect,42.98
+Deklein,RFY-QB,J1AU-9,J1AU-9 IX,Base Metals,Medium,7.45
+Deklein,RFY-QB,J1AU-9,J1AU-9 IX,Reactive Metals,Medium,7.47
+Deklein,RFY-QB,J1AU-9,J1AU-9 IX,Polyaramids,Poor,14.87
+Deklein,RFY-QB,J1AU-9,J1AU-9 IX,Ionic Solutions,Poor,9.59
+Deklein,RFY-QB,J1AU-9,J1AU-9 X,Fiber Composite,Rich,35.13
+Deklein,RFY-QB,J1AU-9,J1AU-9 X,Glossy Compound,Rich,37.72
+Deklein,RFY-QB,J1AU-9,J1AU-9 X,Reactive Gas,Medium,34.10
+Deklein,RFY-QB,J1AU-9,J1AU-9 X,Base Metals,Medium,7.57
+Deklein,RFY-QB,J1AU-9,J1AU-9 X,Polyaramids,Rich,25.33
+Deklein,RFY-QB,J1AU-9,J1AU-9 X,Coolant,Medium,17.53
+Deklein,RFY-QB,J1AU-9,J1AU-9 XI,Condensed Alloy,Poor,25.06
+Deklein,RFY-QB,J1AU-9,J1AU-9 XI,Opulent Compound,Poor,24.52
+Deklein,RFY-QB,J1AU-9,J1AU-9 XI,Toxic Metals,Rich,11.26
+Deklein,RFY-QB,J1AU-9,J1AU-9 XI,Polyaramids,Medium,22.45
+Deklein,RFY-QB,J1AU-9,J1AU-9 XI,Silicate Glass,Perfect,22.05
+Deklein,RFY-QB,J1AU-9,J1AU-9 XI,Heavy Water,Perfect,446.04
+Deklein,RFY-QB,X3-PBC,X3-PBC I,Dark Compound,Poor,23.27
+Deklein,RFY-QB,X3-PBC,X3-PBC I,Toxic Metals,Poor,5.12
+Deklein,RFY-QB,X3-PBC,X3-PBC I,Industrial Fibers,Poor,6.11
+Deklein,RFY-QB,X3-PBC,X3-PBC I,Silicate Glass,Poor,9.48
+Deklein,RFY-QB,X3-PBC,X3-PBC I,Oxygen Isotopes,Poor,3.58
+Deklein,RFY-QB,X3-PBC,X3-PBC II,Dark Compound,Medium,31.89
+Deklein,RFY-QB,X3-PBC,X3-PBC II,Supertensile Plastics,Medium,18.09
+Deklein,RFY-QB,X3-PBC,X3-PBC II,Construction Blocks,Medium,30.75
+Deklein,RFY-QB,X3-PBC,X3-PBC II,Silicate Glass,Poor,10.21
+Deklein,RFY-QB,X3-PBC,X3-PBC II,Oxygen Isotopes,Poor,2.66
+Deklein,RFY-QB,X3-PBC,X3-PBC III,Glossy Compound,Medium,30.16
+Deklein,RFY-QB,X3-PBC,X3-PBC III,Noble Gas,Rich,35.78
+Deklein,RFY-QB,X3-PBC,X3-PBC III,Polyaramids,Rich,26.62
+Deklein,RFY-QB,X3-PBC,X3-PBC III,Plasmoids,Poor,1.53
+Deklein,RFY-QB,X3-PBC,X3-PBC IV,Lustering Alloy,Medium,26.70
+Deklein,RFY-QB,X3-PBC,X3-PBC IV,Dark Compound,Medium,31.21
+Deklein,RFY-QB,X3-PBC,X3-PBC IV,Construction Blocks,Medium,29.57
+Deklein,RFY-QB,X3-PBC,X3-PBC IV,Silicate Glass,Poor,11.65
+Deklein,RFY-QB,X3-PBC,X3-PBC IV,Plasmoids,Medium,1.74
+Deklein,RFY-QB,X3-PBC,X3-PBC V,Lustering Alloy,Medium,26.08
+Deklein,RFY-QB,X3-PBC,X3-PBC V,Precious Alloy,Medium,28.43
+Deklein,RFY-QB,X3-PBC,X3-PBC V,Dark Compound,Poor,19.87
+Deklein,RFY-QB,X3-PBC,X3-PBC V,Industrial Fibers,Medium,6.96
+Deklein,RFY-QB,X3-PBC,X3-PBC V,Construction Blocks,Poor,16.96
+Deklein,RFY-QB,X3-PBC,X3-PBC VI,Condensed Alloy,Perfect,46.01
+Deklein,RFY-QB,X3-PBC,X3-PBC VI,Base Metals,Rich,9.98
+Deklein,RFY-QB,X3-PBC,X3-PBC VI,Noble Metals,Rich,36.48
+Deklein,RFY-QB,X3-PBC,X3-PBC VI,Condensates,Rich,24.46
+Deklein,RFY-QB,X3-PBC,X3-PBC VI,Smartfab Units,Medium,22.43
+Deklein,RFY-QB,X3-PBC,X3-PBC VI,Liquid Ozone,Medium,34.83
+Deklein,RFY-QB,X3-PBC,X3-PBC VII,Condensed Alloy,Medium,33.02
+Deklein,RFY-QB,X3-PBC,X3-PBC VII,Fiber Composite,Rich,36.42
+Deklein,RFY-QB,X3-PBC,X3-PBC VII,Reactive Gas,Medium,32.53
+Deklein,RFY-QB,X3-PBC,X3-PBC VII,Noble Metals,Perfect,44.36
+Deklein,RFY-QB,X3-PBC,X3-PBC VII,Industrial Fibers,Perfect,11.67
+Deklein,RFY-QB,X3-PBC,X3-PBC VII,Heavy Water,Medium,255.69
+Deklein,RFY-QB,X3-PBC,X3-PBC VIII,Lustering Alloy,Medium,28.92
+Deklein,RFY-QB,X3-PBC,X3-PBC VIII,Reactive Gas,Medium,32.72
+Deklein,RFY-QB,X3-PBC,X3-PBC VIII,Base Metals,Medium,8.51
+Deklein,RFY-QB,X3-PBC,X3-PBC VIII,Reactive Metals,Medium,7.08
+Deklein,RFY-QB,X3-PBC,X3-PBC VIII,Polyaramids,Rich,23.06
+Deklein,RFY-QB,X3-PBC,X3-PBC VIII,Coolant,Medium,17.19
+Deklein,RFY-QB,X3-PBC,X3-PBC IX,Condensed Alloy,Perfect,43.47
+Deklein,RFY-QB,X3-PBC,X3-PBC IX,Fiber Composite,Medium,32.43
+Deklein,RFY-QB,X3-PBC,X3-PBC IX,Reactive Gas,Rich,35.24
+Deklein,RFY-QB,X3-PBC,X3-PBC IX,Noble Metals,Rich,35.83
+Deklein,RFY-QB,X3-PBC,X3-PBC IX,Smartfab Units,Rich,23.83
+Deklein,RFY-QB,X3-PBC,X3-PBC IX,Heavy Water,Perfect,437.94
+Deklein,RFY-QB,X3-PBC,X3-PBC X,Condensed Alloy,Rich,40.18
+Deklein,RFY-QB,X3-PBC,X3-PBC X,Fiber Composite,Perfect,47.44
+Deklein,RFY-QB,X3-PBC,X3-PBC X,Opulent Compound,Rich,38.10
+Deklein,RFY-QB,X3-PBC,X3-PBC X,Reactive Gas,Rich,40.85
+Deklein,RFY-QB,X3-PBC,X3-PBC X,Industrial Fibers,Perfect,11.98
+Deklein,RFY-QB,X3-PBC,X3-PBC X,Condensates,Perfect,31.28
+Deklein,RFY-QB,X3-PBC,X3-PBC XI,Crystal Compound,Medium,30.19
+Deklein,RFY-QB,X3-PBC,X3-PBC XI,Polyaramids,Rich,25.87
+Deklein,RFY-QB,X3-PBC,X3-PBC XI,Coolant,Medium,18.43
+Deklein,RFY-QB,X3-PBC,X3-PBC XI,Silicate Glass,Rich,17.46
+Deklein,RFY-QB,X3-PBC,X3-PBC XI,Heavy Water,Medium,282.96
+Deklein,RFY-QB,X3-PBC,X3-PBC XI,Ionic Solutions,Perfect,18.00
+Deklein,RFY-QB,4N-BUI,4N-BUI I,Precious Alloy,Poor,17.77
+Deklein,RFY-QB,4N-BUI,4N-BUI I,Dark Compound,Poor,16.40
+Deklein,RFY-QB,4N-BUI,4N-BUI I,Toxic Metals,Poor,5.45
+Deklein,RFY-QB,4N-BUI,4N-BUI I,Supertensile Plastics,Poor,10.58
+Deklein,RFY-QB,4N-BUI,4N-BUI I,Oxygen Isotopes,Poor,2.86
+Deklein,RFY-QB,4N-BUI,4N-BUI II,Crystal Compound,Medium,26.95
+Deklein,RFY-QB,4N-BUI,4N-BUI II,Reactive Metals,Rich,10.43
+Deklein,RFY-QB,4N-BUI,4N-BUI II,Toxic Metals,Medium,6.39
+Deklein,RFY-QB,4N-BUI,4N-BUI II,Nanites,Medium,6.95
+Deklein,RFY-QB,4N-BUI,4N-BUI II,Oxygen Isotopes,Medium,4.56
+Deklein,RFY-QB,4N-BUI,4N-BUI III,Lustering Alloy,Poor,22.10
+Deklein,RFY-QB,4N-BUI,4N-BUI III,Precious Alloy,Medium,30.25
+Deklein,RFY-QB,4N-BUI,4N-BUI III,Dark Compound,Poor,18.85
+Deklein,RFY-QB,4N-BUI,4N-BUI III,Base Metals,Poor,4.24
+Deklein,RFY-QB,4N-BUI,4N-BUI III,Oxygen Isotopes,Medium,3.84
+Deklein,RFY-QB,4N-BUI,4N-BUI IV,Precious Alloy,Medium,29.43
+Deklein,RFY-QB,4N-BUI,4N-BUI IV,Dark Compound,Poor,19.05
+Deklein,RFY-QB,4N-BUI,4N-BUI IV,Base Metals,Poor,4.41
+Deklein,RFY-QB,4N-BUI,4N-BUI IV,Industrial Fibers,Poor,5.28
+Deklein,RFY-QB,4N-BUI,4N-BUI IV,Silicate Glass,Medium,12.49
+Deklein,RFY-QB,4N-BUI,4N-BUI V,Condensed Alloy,Rich,37.45
+Deklein,RFY-QB,4N-BUI,4N-BUI V,Fiber Composite,Perfect,42.90
+Deklein,RFY-QB,4N-BUI,4N-BUI V,Reactive Gas,Medium,31.18
+Deklein,RFY-QB,4N-BUI,4N-BUI V,Noble Metals,Rich,37.67
+Deklein,RFY-QB,4N-BUI,4N-BUI V,Condensates,Medium,18.02
+Deklein,RFY-QB,4N-BUI,4N-BUI V,Heavy Water,Rich,340.75
+Deklein,RFY-QB,4N-BUI,4N-BUI VI,Sheen Compound,Medium,28.43
+Deklein,RFY-QB,4N-BUI,4N-BUI VI,Fiber Composite,Perfect,40.75
+Deklein,RFY-QB,4N-BUI,4N-BUI VI,Noble Gas,Perfect,40.70
+Deklein,RFY-QB,4N-BUI,4N-BUI VI,Base Metals,Perfect,10.74
+Deklein,RFY-QB,4N-BUI,4N-BUI VI,Reactive Metals,Rich,9.85
+Deklein,RFY-QB,4N-BUI,4N-BUI VI,Polyaramids,Poor,13.93
+Deklein,RFY-QB,4N-BUI,4N-BUI VII,Opulent Compound,Rich,34.08
+Deklein,RFY-QB,4N-BUI,4N-BUI VII,Crystal Compound,Rich,34.42
+Deklein,RFY-QB,4N-BUI,4N-BUI VII,Noble Metals,Medium,29.88
+Deklein,RFY-QB,4N-BUI,4N-BUI VII,Polyaramids,Medium,16.95
+Deklein,RFY-QB,4N-BUI,4N-BUI VII,Liquid Ozone,Rich,42.03
+Deklein,RFY-QB,4N-BUI,4N-BUI VII,Ionic Solutions,Rich,13.87
+Deklein,RFY-QB,4N-BUI,4N-BUI VIII,Glossy Compound,Medium,26.25
+Deklein,RFY-QB,4N-BUI,4N-BUI VIII,Reactive Gas,Medium,30.48
+Deklein,RFY-QB,4N-BUI,4N-BUI VIII,Noble Gas,Medium,28.80
+Deklein,RFY-QB,4N-BUI,4N-BUI VIII,Base Metals,Perfect,10.73
+Deklein,RFY-QB,4N-BUI,4N-BUI VIII,Polyaramids,Medium,21.07
+Deklein,RFY-QB,4N-BUI,4N-BUI VIII,Coolant,Medium,15.88
+Deklein,RFY-QB,4N-BUI,4N-BUI IX,Lustering Alloy,Rich,33.13
+Deklein,RFY-QB,4N-BUI,4N-BUI IX,Sheen Compound,Medium,29.55
+Deklein,RFY-QB,4N-BUI,4N-BUI IX,Reactive Gas,Rich,39.15
+Deklein,RFY-QB,4N-BUI,4N-BUI IX,Noble Gas,Medium,23.90
+Deklein,RFY-QB,4N-BUI,4N-BUI IX,Base Metals,Rich,10.02
+Deklein,RFY-QB,4N-BUI,4N-BUI IX,Reactive Metals,Rich,8.70
+Deklein,RFY-QB,4N-BUI,4N-BUI X,Sheen Compound,Rich,31.98
+Deklein,RFY-QB,4N-BUI,4N-BUI X,Noble Gas,Medium,25.15
+Deklein,RFY-QB,4N-BUI,4N-BUI X,Reactive Metals,Medium,6.30
+Deklein,RFY-QB,4N-BUI,4N-BUI X,Polyaramids,Medium,16.28
+Deklein,RFY-QB,4N-BUI,4N-BUI X,Coolant,Poor,13.87
+Deklein,RFY-QB,4N-BUI,4N-BUI X,Ionic Solutions,Rich,14.16
+Deklein,RFY-QB,N2IS-B,N2IS-B I,Lustering Alloy,Poor,17.75
+Deklein,RFY-QB,N2IS-B,N2IS-B I,Precious Alloy,Poor,15.65
+Deklein,RFY-QB,N2IS-B,N2IS-B I,Dark Compound,Poor,16.40
+Deklein,RFY-QB,N2IS-B,N2IS-B I,Construction Blocks,Poor,21.10
+Deklein,RFY-QB,N2IS-B,N2IS-B I,Silicate Glass,Poor,9.18
+Deklein,RFY-QB,N2IS-B,N2IS-B II,Glossy Compound,Rich,36.95
+Deklein,RFY-QB,N2IS-B,N2IS-B II,Noble Gas,Rich,35.77
+Deklein,RFY-QB,N2IS-B,N2IS-B II,Construction Blocks,Medium,24.02
+Deklein,RFY-QB,N2IS-B,N2IS-B II,Smartfab Units,Perfect,27.05
+Deklein,RFY-QB,N2IS-B,N2IS-B III,Condensed Alloy,Perfect,45.90
+Deklein,RFY-QB,N2IS-B,N2IS-B III,Fiber Composite,Perfect,40.05
+Deklein,RFY-QB,N2IS-B,N2IS-B III,Condensates,Rich,21.78
+Deklein,RFY-QB,N2IS-B,N2IS-B III,Smartfab Units,Poor,15.47
+Deklein,RFY-QB,N2IS-B,N2IS-B III,Heavy Water,Medium,257.50
+Deklein,RFY-QB,N2IS-B,N2IS-B III,Liquid Ozone,Perfect,55.97
+Deklein,RFY-QB,N2IS-B,N2IS-B IV,Glossy Compound,Poor,22.32
+Deklein,RFY-QB,N2IS-B,N2IS-B IV,Noble Gas,Medium,31.32
+Deklein,RFY-QB,N2IS-B,N2IS-B IV,Heavy Metals,Rich,32.83
+Deklein,RFY-QB,N2IS-B,N2IS-B IV,Construction Blocks,Medium,30.45
+Deklein,RFY-QB,N2IS-B,N2IS-B V,Lustering Alloy,Medium,28.13
+Deklein,RFY-QB,N2IS-B,N2IS-B V,Precious Alloy,Medium,28.82
+Deklein,RFY-QB,N2IS-B,N2IS-B V,Dark Compound,Poor,22.18
+Deklein,RFY-QB,N2IS-B,N2IS-B V,Base Metals,Medium,6.32
+Deklein,RFY-QB,N2IS-B,N2IS-B V,Supertensile Plastics,Poor,11.97
+Deklein,RFY-QB,N2IS-B,N2IS-B VI,Lucent Compound,Medium,26.35
+Deklein,RFY-QB,N2IS-B,N2IS-B VI,Crystal Compound,Medium,23.82
+Deklein,RFY-QB,N2IS-B,N2IS-B VI,Reactive Gas,Poor,23.05
+Deklein,RFY-QB,N2IS-B,N2IS-B VI,Construction Blocks,Rich,36.52
+Deklein,RFY-QB,N2IS-B,N2IS-B VI,Suspended Plasma,Poor,77.40
+Deklein,RFY-QB,N2IS-B,N2IS-B VII,Lustering Alloy,Rich,32.02
+Deklein,RFY-QB,N2IS-B,N2IS-B VII,Sheen Compound,Rich,36.83
+Deklein,RFY-QB,N2IS-B,N2IS-B VII,Fiber Composite,Rich,33.42
+Deklein,RFY-QB,N2IS-B,N2IS-B VII,Glossy Compound,Rich,37.40
+Deklein,RFY-QB,N2IS-B,N2IS-B VII,Base Metals,Poor,6.16
+Deklein,RFY-QB,N2IS-B,N2IS-B VII,Coolant,Rich,24.15
+Deklein,RFY-QB,N2IS-B,N2IS-B VIII,Sheen Compound,Poor,21.40
+Deklein,RFY-QB,N2IS-B,N2IS-B VIII,Glossy Compound,Medium,30.77
+Deklein,RFY-QB,N2IS-B,N2IS-B VIII,Base Metals,Medium,6.81
+Deklein,RFY-QB,N2IS-B,N2IS-B VIII,Polyaramids,Rich,21.38
+Deklein,RFY-QB,N2IS-B,N2IS-B VIII,Coolant,Rich,22.55
+Deklein,RFY-QB,N2IS-B,N2IS-B VIII,Ionic Solutions,Medium,10.14
+Deklein,RFY-QB,N2IS-B,N2IS-B IX,Crystal Compound,Rich,32.55
+Deklein,RFY-QB,N2IS-B,N2IS-B IX,Reactive Gas,Perfect,40.35
+Deklein,RFY-QB,N2IS-B,N2IS-B IX,Toxic Metals,Medium,8.06
+Deklein,RFY-QB,N2IS-B,N2IS-B IX,Supertensile Plastics,Rich,24.13
+Deklein,RFY-QB,N2IS-B,N2IS-B IX,Suspended Plasma,Rich,142.38
+Deklein,RFY-QB,N2IS-B,N2IS-B X,Lustering Alloy,Medium,31.60
+Deklein,RFY-QB,N2IS-B,N2IS-B X,Sheen Compound,Rich,34.00
+Deklein,RFY-QB,N2IS-B,N2IS-B X,Reactive Gas,Rich,33.50
+Deklein,RFY-QB,N2IS-B,N2IS-B X,Noble Gas,Rich,34.70
+Deklein,RFY-QB,N2IS-B,N2IS-B X,Polyaramids,Medium,18.35
+Deklein,RFY-QB,N2IS-B,N2IS-B X,Coolant,Rich,22.98
+Deklein,RFY-QB,N2IS-B,N2IS-B XI,Opulent Compound,Rich,32.20
+Deklein,RFY-QB,N2IS-B,N2IS-B XI,Toxic Metals,Medium,6.61
+Deklein,RFY-QB,N2IS-B,N2IS-B XI,Polyaramids,Medium,15.95
+Deklein,RFY-QB,N2IS-B,N2IS-B XI,Coolant,Rich,22.05
+Deklein,RFY-QB,N2IS-B,N2IS-B XI,Silicate Glass,Medium,13.79
+Deklein,RFY-QB,N2IS-B,N2IS-B XI,Heavy Water,Rich,334.75
+Deklein,RFY-QB,XCBK-X,XCBK-X I,Gleaming Alloy,Perfect,38.93
+Deklein,RFY-QB,XCBK-X,XCBK-X I,Polyaramids,Poor,14.61
+Deklein,RFY-QB,XCBK-X,XCBK-X I,Plasmoids,Rich,1.88
+Deklein,RFY-QB,XCBK-X,XCBK-X II,Dark Compound,Poor,19.92
+Deklein,RFY-QB,XCBK-X,XCBK-X II,Supertensile Plastics,Poor,10.59
+Deklein,RFY-QB,XCBK-X,XCBK-X II,Silicate Glass,Medium,13.15
+Deklein,RFY-QB,XCBK-X,XCBK-X II,Oxygen Isotopes,Medium,3.67
+Deklein,RFY-QB,XCBK-X,XCBK-X III,Supertensile Plastics,Medium,17.92
+Deklein,RFY-QB,XCBK-X,XCBK-X III,Construction Blocks,Poor,15.02
+Deklein,RFY-QB,XCBK-X,XCBK-X III,Oxygen Isotopes,Medium,3.72
+Deklein,RFY-QB,XCBK-X,XCBK-X III,Plasmoids,Poor,1.33
+Deklein,RFY-QB,XCBK-X,XCBK-X IV,Toxic Metals,Poor,4.55
+Deklein,RFY-QB,XCBK-X,XCBK-X IV,Supertensile Plastics,Medium,18.82
+Deklein,RFY-QB,XCBK-X,XCBK-X IV,Oxygen Isotopes,Medium,3.64
+Deklein,RFY-QB,XCBK-X,XCBK-X IV,Plasmoids,Poor,0.91
+Deklein,RFY-QB,XCBK-X,XCBK-X V,Condensed Alloy,Perfect,42.94
+Deklein,RFY-QB,XCBK-X,XCBK-X V,Opulent Compound,Rich,37.46
+Deklein,RFY-QB,XCBK-X,XCBK-X V,Noble Metals,Rich,33.38
+Deklein,RFY-QB,XCBK-X,XCBK-X V,Condensates,Rich,25.17
+Deklein,RFY-QB,XCBK-X,XCBK-X V,Liquid Ozone,Medium,31.59
+Deklein,RFY-QB,XCBK-X,XCBK-X VI,Fiber Composite,Rich,32.90
+Deklein,RFY-QB,XCBK-X,XCBK-X VI,Opulent Compound,Medium,29.16
+Deklein,RFY-QB,XCBK-X,XCBK-X VI,Noble Metals,Poor,22.13
+Deklein,RFY-QB,XCBK-X,XCBK-X VI,Condensates,Perfect,25.68
+Deklein,RFY-QB,XCBK-X,XCBK-X VI,Liquid Ozone,Rich,41.58
+Deklein,RFY-QB,XCBK-X,XCBK-X VII,Condensed Alloy,Rich,34.49
+Deklein,RFY-QB,XCBK-X,XCBK-X VII,Fiber Composite,Rich,33.82
+Deklein,RFY-QB,XCBK-X,XCBK-X VII,Opulent Compound,Rich,30.70
+Deklein,RFY-QB,XCBK-X,XCBK-X VII,Condensates,Rich,24.61
+Deklein,RFY-QB,XCBK-X,XCBK-X VII,Liquid Ozone,Perfect,55.20
+Deklein,RFY-QB,XCBK-X,XCBK-X VIII,Condensed Alloy,Perfect,41.86
+Deklein,RFY-QB,XCBK-X,XCBK-X VIII,Opulent Compound,Medium,26.45
+Deklein,RFY-QB,XCBK-X,XCBK-X VIII,Toxic Metals,Rich,9.22
+Deklein,RFY-QB,XCBK-X,XCBK-X VIII,Polyaramids,Rich,24.86
+Deklein,RFY-QB,XCBK-X,XCBK-X VIII,Liquid Ozone,Rich,38.73
+Deklein,RFY-QB,GY5-26,GY5-26 I,Lustering Alloy,Medium,30.50
+Deklein,RFY-QB,GY5-26,GY5-26 I,Dark Compound,Poor,16.32
+Deklein,RFY-QB,GY5-26,GY5-26 I,Industrial Fibers,Medium,6.28
+Deklein,RFY-QB,GY5-26,GY5-26 I,Supertensile Plastics,Medium,16.52
+Deklein,RFY-QB,GY5-26,GY5-26 I,Oxygen Isotopes,Medium,4.44
+Deklein,RFY-QB,GY5-26,GY5-26 II,Precious Alloy,Medium,24.02
+Deklein,RFY-QB,GY5-26,GY5-26 II,Dark Compound,Medium,29.35
+Deklein,RFY-QB,GY5-26,GY5-26 II,Toxic Metals,Poor,5.07
+Deklein,RFY-QB,GY5-26,GY5-26 II,Silicate Glass,Medium,14.16
+Deklein,RFY-QB,GY5-26,GY5-26 II,Oxygen Isotopes,Poor,2.88
+Deklein,RFY-QB,GY5-26,GY5-26 III,Dark Compound,Medium,28.63
+Deklein,RFY-QB,GY5-26,GY5-26 III,Base Metals,Medium,7.22
+Deklein,RFY-QB,GY5-26,GY5-26 III,Toxic Metals,Poor,4.70
+Deklein,RFY-QB,GY5-26,GY5-26 III,Supertensile Plastics,Poor,13.33
+Deklein,RFY-QB,GY5-26,GY5-26 III,Plasmoids,Poor,1.19
+Deklein,RFY-QB,GY5-26,GY5-26 IV,Lustering Alloy,Medium,26.80
+Deklein,RFY-QB,GY5-26,GY5-26 IV,Dark Compound,Medium,25.52
+Deklein,RFY-QB,GY5-26,GY5-26 IV,Base Metals,Medium,7.01
+Deklein,RFY-QB,GY5-26,GY5-26 IV,Toxic Metals,Poor,5.90
+Deklein,RFY-QB,GY5-26,GY5-26 IV,Construction Blocks,Poor,20.05
+Deklein,RFY-QB,GY5-26,GY5-26 V,Condensed Alloy,Perfect,40.95
+Deklein,RFY-QB,GY5-26,GY5-26 V,Opulent Compound,Rich,38.90
+Deklein,RFY-QB,GY5-26,GY5-26 V,Base Metals,Medium,6.43
+Deklein,RFY-QB,GY5-26,GY5-26 V,Noble Metals,Medium,29.60
+Deklein,RFY-QB,GY5-26,GY5-26 V,Condensates,Medium,16.42
+Deklein,RFY-QB,GY5-26,GY5-26 V,Smartfab Units,Perfect,31.62
+Deklein,RFY-QB,GY5-26,GY5-26 VI,Condensed Alloy,Rich,32.02
+Deklein,RFY-QB,GY5-26,GY5-26 VI,Opulent Compound,Medium,28.52
+Deklein,RFY-QB,GY5-26,GY5-26 VI,Reactive Gas,Rich,37.33
+Deklein,RFY-QB,GY5-26,GY5-26 VI,Noble Metals,Rich,35.35
+Deklein,RFY-QB,GY5-26,GY5-26 VI,Industrial Fibers,Rich,10.09
+Deklein,RFY-QB,GY5-26,GY5-26 VI,Condensates,Rich,23.32
+Deklein,RFY-QB,GY5-26,GY5-26 VII,Glossy Compound,Perfect,41.42
+Deklein,RFY-QB,GY5-26,GY5-26 VII,Noble Gas,Poor,20.70
+Deklein,RFY-QB,GY5-26,GY5-26 VII,Noble Metals,Rich,33.05
+Deklein,RFY-QB,GY5-26,GY5-26 VII,Smartfab Units,Rich,23.82
+Deklein,RFY-QB,GY5-26,GY5-26 VIII,Gleaming Alloy,Medium,31.25
+Deklein,RFY-QB,GY5-26,GY5-26 VIII,Glossy Compound,Rich,32.90
+Deklein,RFY-QB,GY5-26,GY5-26 VIII,Noble Gas,Perfect,39.88
+Deklein,RFY-QB,GY5-26,GY5-26 VIII,Plasmoids,Medium,1.78
+Deklein,RFY-QB,GY5-26,GY5-26 IX,Fiber Composite,Perfect,41.33
+Deklein,RFY-QB,GY5-26,GY5-26 IX,Glossy Compound,Medium,25.20
+Deklein,RFY-QB,GY5-26,GY5-26 IX,Reactive Gas,Medium,28.52
+Deklein,RFY-QB,GY5-26,GY5-26 IX,Noble Gas,Poor,21.50
+Deklein,RFY-QB,GY5-26,GY5-26 IX,Base Metals,Rich,8.89
+Deklein,RFY-QB,GY5-26,GY5-26 IX,Coolant,Medium,16.37
+Deklein,RFY-QB,GY5-26,GY5-26 X,Reactive Gas,Medium,31.07
+Deklein,RFY-QB,GY5-26,GY5-26 X,Noble Gas,Rich,35.30
+Deklein,RFY-QB,GY5-26,GY5-26 X,Reactive Metals,Medium,7.16
+Deklein,RFY-QB,GY5-26,GY5-26 X,Polyaramids,Medium,19.85
+Deklein,RFY-QB,GY5-26,GY5-26 X,Coolant,Medium,20.40
+Deklein,RFY-QB,GY5-26,GY5-26 X,Ionic Solutions,Medium,11.26
+Deklein,RFY-QB,GY5-26,GY5-26 XI,Fiber Composite,Rich,32.88
+Deklein,RFY-QB,GY5-26,GY5-26 XI,Reactive Gas,Rich,32.15
+Deklein,RFY-QB,GY5-26,GY5-26 XI,Noble Gas,Medium,27.63
+Deklein,RFY-QB,GY5-26,GY5-26 XI,Polyaramids,Rich,24.62
+Deklein,RFY-QB,GY5-26,GY5-26 XI,Coolant,Poor,13.73
+Deklein,RFY-QB,GY5-26,GY5-26 XI,Ionic Solutions,Rich,14.73
+Deklein,RFY-QB,GY5-26,GY5-26 XII,Lustering Alloy,Medium,24.38
+Deklein,RFY-QB,GY5-26,GY5-26 XII,Fiber Composite,Perfect,41.23
+Deklein,RFY-QB,GY5-26,GY5-26 XII,Glossy Compound,Rich,31.88
+Deklein,RFY-QB,GY5-26,GY5-26 XII,Base Metals,Medium,6.24
+Deklein,RFY-QB,GY5-26,GY5-26 XII,Polyaramids,Rich,24.20
+Deklein,RFY-QB,GY5-26,GY5-26 XII,Coolant,Rich,23.23
+Deklein,RFY-QB,GY5-26,GY5-26 XIII,Lustering Alloy,Medium,28.88
+Deklein,RFY-QB,GY5-26,GY5-26 XIII,Precious Alloy,Rich,35.58
+Deklein,RFY-QB,GY5-26,GY5-26 XIII,Motley Compound,Rich,35.33
+Deklein,RFY-QB,GY5-26,GY5-26 XIII,Coolant,Poor,15.28
+Deklein,RFY-QB,GY5-26,GY5-26 XIII,Liquid Ozone,Medium,38.72
+Deklein,RFY-QB,VPLL-N,VPLL-N I,Industrial Fibers,Medium,7.29
+Deklein,RFY-QB,VPLL-N,VPLL-N I,Supertensile Plastics,Poor,14.88
+Deklein,RFY-QB,VPLL-N,VPLL-N I,Construction Blocks,Poor,20.86
+Deklein,RFY-QB,VPLL-N,VPLL-N I,Plasmoids,Medium,1.41
+Deklein,RFY-QB,VPLL-N,VPLL-N II,Gleaming Alloy,Rich,32.86
+Deklein,RFY-QB,VPLL-N,VPLL-N II,Motley Compound,Perfect,38.93
+Deklein,RFY-QB,VPLL-N,VPLL-N II,Heavy Metals,Rich,31.99
+Deklein,RFY-QB,VPLL-N,VPLL-N III,Lustering Alloy,Medium,30.24
+Deklein,RFY-QB,VPLL-N,VPLL-N III,Reactive Gas,Rich,37.90
+Deklein,RFY-QB,VPLL-N,VPLL-N III,Noble Gas,Rich,38.04
+Deklein,RFY-QB,VPLL-N,VPLL-N III,Reactive Metals,Poor,5.24
+Deklein,RFY-QB,VPLL-N,VPLL-N III,Polyaramids,Poor,13.57
+Deklein,RFY-QB,VPLL-N,VPLL-N IV,Sheen Compound,Poor,21.36
+Deklein,RFY-QB,VPLL-N,VPLL-N IV,Reactive Gas,Perfect,38.90
+Deklein,RFY-QB,VPLL-N,VPLL-N IV,Base Metals,Medium,7.82
+Deklein,RFY-QB,VPLL-N,VPLL-N IV,Reactive Metals,Rich,8.67
+Deklein,RFY-QB,VPLL-N,VPLL-N IV,Coolant,Medium,18.48
+Deklein,RFY-QB,VPLL-N,VPLL-N V,Lustering Alloy,Rich,33.00
+Deklein,RFY-QB,VPLL-N,VPLL-N V,Reactive Gas,Rich,32.21
+Deklein,RFY-QB,VPLL-N,VPLL-N V,Base Metals,Medium,6.63
+Deklein,RFY-QB,VPLL-N,VPLL-N V,Polyaramids,Perfect,25.58
+Deklein,RFY-QB,VPLL-N,VPLL-N V,Ionic Solutions,Rich,14.31
+Deklein,RFY-QB,VPLL-N,VPLL-N VI,Lustering Alloy,Medium,25.18
+Deklein,RFY-QB,VPLL-N,VPLL-N VI,Dark Compound,Medium,23.06
+Deklein,RFY-QB,VPLL-N,VPLL-N VI,Industrial Fibers,Medium,6.43
+Deklein,RFY-QB,VPLL-N,VPLL-N VI,Supertensile Plastics,Poor,11.42
+Deklein,RFY-QB,VPLL-N,VPLL-N VII,Toxic Metals,Poor,4.40
+Deklein,RFY-QB,VPLL-N,VPLL-N VII,Supertensile Plastics,Poor,10.61
+Deklein,RFY-QB,VPLL-N,VPLL-N VII,Construction Blocks,Poor,21.84
+Deklein,RFY-QB,VPLL-N,VPLL-N VII,Plasmoids,Poor,1.11
+Deklein,RFY-QB,9CK-KZ,9CK-KZ I,Glossy Compound,Perfect,41.80
+Deklein,RFY-QB,9CK-KZ,9CK-KZ I,Noble Gas,Rich,33.73
+Deklein,RFY-QB,9CK-KZ,9CK-KZ I,Oxygen Isotopes,Rich,5.83
+Deklein,RFY-QB,9CK-KZ,9CK-KZ I,Plasmoids,Medium,1.43
+Deklein,RFY-QB,9CK-KZ,9CK-KZ II,Gleaming Alloy,Medium,24.80
+Deklein,RFY-QB,9CK-KZ,9CK-KZ II,Crystal Compound,Rich,32.08
+Deklein,RFY-QB,9CK-KZ,9CK-KZ II,Toxic Metals,Rich,8.54
+Deklein,RFY-QB,9CK-KZ,9CK-KZ II,Supertensile Plastics,Perfect,26.50
+Deklein,RFY-QB,9CK-KZ,9CK-KZ II,Oxygen Isotopes,Perfect,5.96
+Deklein,RFY-QB,9CK-KZ,9CK-KZ III,Crystal Compound,Rich,31.93
+Deklein,RFY-QB,9CK-KZ,9CK-KZ III,Reactive Metals,Rich,9.17
+Deklein,RFY-QB,9CK-KZ,9CK-KZ III,Supertensile Plastics,Rich,22.25
+Deklein,RFY-QB,9CK-KZ,9CK-KZ III,Construction Blocks,Medium,28.65
+Deklein,RFY-QB,9CK-KZ,9CK-KZ III,Nanites,Medium,8.09
+Deklein,RFY-QB,9CK-KZ,9CK-KZ IV,Lustering Alloy,Poor,20.98
+Deklein,RFY-QB,9CK-KZ,9CK-KZ IV,Fiber Composite,Perfect,41.40
+Deklein,RFY-QB,9CK-KZ,9CK-KZ IV,Glossy Compound,Poor,22.52
+Deklein,RFY-QB,9CK-KZ,9CK-KZ IV,Reactive Gas,Rich,38.77
+Deklein,RFY-QB,9CK-KZ,9CK-KZ IV,Reactive Metals,Perfect,10.66
+Deklein,RFY-QB,9CK-KZ,9CK-KZ IV,Polyaramids,Medium,18.78
+Deklein,RFY-QB,9CK-KZ,9CK-KZ V,Condensed Alloy,Rich,32.33
+Deklein,RFY-QB,9CK-KZ,9CK-KZ V,Fiber Composite,Rich,33.08
+Deklein,RFY-QB,9CK-KZ,9CK-KZ V,Noble Metals,Perfect,47.40
+Deklein,RFY-QB,9CK-KZ,9CK-KZ V,Condensates,Rich,21.72
+Deklein,RFY-QB,9CK-KZ,9CK-KZ V,Smartfab Units,Rich,25.20
+Deklein,RFY-QB,9CK-KZ,9CK-KZ V,Liquid Ozone,Rich,43.56
+Deklein,RFY-QB,9CK-KZ,9CK-KZ VI,Glossy Compound,Rich,39.40
+Deklein,RFY-QB,9CK-KZ,9CK-KZ VI,Noble Gas,Poor,23.07
+Deklein,RFY-QB,9CK-KZ,9CK-KZ VI,Base Metals,Poor,6.13
+Deklein,RFY-QB,9CK-KZ,9CK-KZ VI,Polyaramids,Medium,17.05
+Deklein,RFY-QB,9CK-KZ,9CK-KZ VI,Coolant,Rich,21.32
+Deklein,RFY-QB,9CK-KZ,9CK-KZ VI,Ionic Solutions,Medium,11.00
+Deklein,RFY-QB,9CK-KZ,9CK-KZ VII,Lustering Alloy,Rich,32.10
+Deklein,RFY-QB,9CK-KZ,9CK-KZ VII,Fiber Composite,Medium,30.38
+Deklein,RFY-QB,9CK-KZ,9CK-KZ VII,Reactive Gas,Medium,26.77
+Deklein,RFY-QB,9CK-KZ,9CK-KZ VII,Noble Gas,Rich,35.23
+Deklein,RFY-QB,9CK-KZ,9CK-KZ VII,Base Metals,Medium,8.15
+Deklein,RFY-QB,9CK-KZ,9CK-KZ VII,Coolant,Medium,20.52
+Deklein,RFY-QB,9CK-KZ,9CK-KZ VIII,Lustering Alloy,Poor,21.73
+Deklein,RFY-QB,9CK-KZ,9CK-KZ VIII,Sheen Compound,Medium,25.00
+Deklein,RFY-QB,9CK-KZ,9CK-KZ VIII,Fiber Composite,Rich,32.15
+Deklein,RFY-QB,9CK-KZ,9CK-KZ VIII,Glossy Compound,Medium,28.77
+Deklein,RFY-QB,9CK-KZ,9CK-KZ VIII,Reactive Gas,Medium,31.07
+Deklein,RFY-QB,9CK-KZ,9CK-KZ VIII,Noble Gas,Rich,36.70
+Deklein,RFY-QB,9CK-KZ,9CK-KZ IX,Precious Alloy,Rich,33.85
+Deklein,RFY-QB,9CK-KZ,9CK-KZ IX,Heavy Metals,Poor,22.05
+Deklein,RFY-QB,9CK-KZ,9CK-KZ IX,Condensates,Poor,12.50
+Deklein,RFY-QB,9CK-KZ,9CK-KZ IX,Suspended Plasma,Medium,87.48
+Deklein,RFY-QB,9CK-KZ,9CK-KZ IX,Liquid Ozone,Medium,39.03
+Deklein,RFY-QB,5S-KXA,5S-KXA I,Gleaming Alloy,Rich,38.17
+Deklein,RFY-QB,5S-KXA,5S-KXA I,Glossy Compound,Rich,36.02
+Deklein,RFY-QB,5S-KXA,5S-KXA I,Heavy Metals,Medium,25.43
+Deklein,RFY-QB,5S-KXA,5S-KXA I,Polyaramids,Medium,19.15
+Deklein,RFY-QB,5S-KXA,5S-KXA II,Condensed Alloy,Perfect,39.90
+Deklein,RFY-QB,5S-KXA,5S-KXA II,Opulent Compound,Rich,38.98
+Deklein,RFY-QB,5S-KXA,5S-KXA II,Polyaramids,Perfect,28.55
+Deklein,RFY-QB,5S-KXA,5S-KXA II,Coolant,Rich,22.17
+Deklein,RFY-QB,5S-KXA,5S-KXA II,Liquid Ozone,Medium,35.22
+Deklein,RFY-QB,5S-KXA,5S-KXA II,Ionic Solutions,Medium,11.11
+Deklein,RFY-QB,5S-KXA,5S-KXA III,Gleaming Alloy,Rich,34.63
+Deklein,RFY-QB,5S-KXA,5S-KXA III,Crystal Compound,Medium,24.43
+Deklein,RFY-QB,5S-KXA,5S-KXA III,Reactive Gas,Medium,26.00
+Deklein,RFY-QB,5S-KXA,5S-KXA III,Toxic Metals,Medium,7.53
+Deklein,RFY-QB,5S-KXA,5S-KXA III,Construction Blocks,Rich,37.25
+Deklein,RFY-QB,5S-KXA,5S-KXA IV,Dark Compound,Medium,26.57
+Deklein,RFY-QB,5S-KXA,5S-KXA IV,Base Metals,Poor,5.58
+Deklein,RFY-QB,5S-KXA,5S-KXA IV,Industrial Fibers,Medium,6.62
+Deklein,RFY-QB,5S-KXA,5S-KXA IV,Supertensile Plastics,Medium,19.67
+Deklein,RFY-QB,5S-KXA,5S-KXA IV,Silicate Glass,Poor,8.41
+Deklein,RFY-QB,5S-KXA,5S-KXA V,Condensed Alloy,Rich,35.75
+Deklein,RFY-QB,5S-KXA,5S-KXA V,Fiber Composite,Rich,35.30
+Deklein,RFY-QB,5S-KXA,5S-KXA V,Reactive Gas,Medium,27.82
+Deklein,RFY-QB,5S-KXA,5S-KXA V,Industrial Fibers,Rich,8.55
+Deklein,RFY-QB,5S-KXA,5S-KXA V,Condensates,Perfect,27.42
+Deklein,RFY-QB,5S-KXA,5S-KXA V,Liquid Ozone,Perfect,54.41
+Deklein,RFY-QB,5S-KXA,5S-KXA VI,Condensed Alloy,Rich,35.70
+Deklein,RFY-QB,5S-KXA,5S-KXA VI,Fiber Composite,Rich,33.48
+Deklein,RFY-QB,5S-KXA,5S-KXA VI,Opulent Compound,Medium,31.20
+Deklein,RFY-QB,5S-KXA,5S-KXA VI,Base Metals,Medium,6.39
+Deklein,RFY-QB,5S-KXA,5S-KXA VI,Noble Metals,Perfect,46.95
+Deklein,RFY-QB,5S-KXA,5S-KXA VI,Liquid Ozone,Rich,42.44
+Deklein,RFY-QB,5S-KXA,5S-KXA VII,Dark Compound,Poor,21.65
+Deklein,RFY-QB,5S-KXA,5S-KXA VII,Base Metals,Medium,6.28
+Deklein,RFY-QB,5S-KXA,5S-KXA VII,Toxic Metals,Medium,6.63
+Deklein,RFY-QB,5S-KXA,5S-KXA VII,Construction Blocks,Medium,24.05
+Deklein,RFY-QB,5S-KXA,5S-KXA VII,Plasmoids,Poor,1.33
+Deklein,RFY-QB,5S-KXA,5S-KXA VIII,Sheen Compound,Rich,35.00
+Deklein,RFY-QB,5S-KXA,5S-KXA VIII,Lucent Compound,Rich,33.27
+Deklein,RFY-QB,5S-KXA,5S-KXA VIII,Dark Compound,Medium,30.93
+Deklein,RFY-QB,5S-KXA,5S-KXA VIII,Nanites,Perfect,11.43
+Deklein,RFY-QB,5S-KXA,5S-KXA VIII,Ionic Solutions,Medium,11.53
+Deklein,RFY-QB,5S-KXA,5S-KXA VIII,Plasmoids,Rich,2.01
+Deklein,RFY-QB,5S-KXA,5S-KXA IX,Opulent Compound,Perfect,41.42
+Deklein,RFY-QB,5S-KXA,5S-KXA IX,Toxic Metals,Medium,6.70
+Deklein,RFY-QB,5S-KXA,5S-KXA IX,Polyaramids,Rich,23.10
+Deklein,RFY-QB,5S-KXA,5S-KXA IX,Coolant,Medium,20.85
+Deklein,RFY-QB,5S-KXA,5S-KXA IX,Silicate Glass,Medium,14.72
+Deklein,RFY-QB,5S-KXA,5S-KXA IX,Liquid Ozone,Medium,31.69
+Deklein,RFY-QB,5S-KXA,5S-KXA X,Lucent Compound,Medium,30.38
+Deklein,RFY-QB,5S-KXA,5S-KXA X,Crystal Compound,Rich,36.45
+Deklein,RFY-QB,5S-KXA,5S-KXA X,Reactive Metals,Rich,9.28
+Deklein,RFY-QB,5S-KXA,5S-KXA X,Toxic Metals,Medium,6.64
+Deklein,RFY-QB,5S-KXA,5S-KXA X,Suspended Plasma,Poor,74.52
+Deklein,RFY-QB,5S-KXA,5S-KXA XI,Condensed Alloy,Rich,37.45
+Deklein,RFY-QB,5S-KXA,5S-KXA XI,Opulent Compound,Medium,29.43
+Deklein,RFY-QB,5S-KXA,5S-KXA XI,Noble Metals,Rich,33.10
+Deklein,RFY-QB,5S-KXA,5S-KXA XI,Industrial Fibers,Perfect,10.75
+Deklein,RFY-QB,5S-KXA,5S-KXA XI,Smartfab Units,Rich,23.48
+Deklein,RFY-QB,5S-KXA,5S-KXA XI,Liquid Ozone,Rich,46.69
+Deklein,RFY-QB,5S-KXA,5S-KXA XII,Condensed Alloy,Rich,34.85
+Deklein,RFY-QB,5S-KXA,5S-KXA XII,Fiber Composite,Medium,27.73
+Deklein,RFY-QB,5S-KXA,5S-KXA XII,Base Metals,Medium,8.20
+Deklein,RFY-QB,5S-KXA,5S-KXA XII,Noble Metals,Medium,30.25
+Deklein,RFY-QB,5S-KXA,5S-KXA XII,Condensates,Perfect,30.62
+Deklein,RFY-QB,5S-KXA,5S-KXA XII,Heavy Water,Rich,371.25
+Deklein,D-AWFI,U-TJ7Y,U-TJ7Y I,Lustering Alloy,Poor,22.25
+Deklein,D-AWFI,U-TJ7Y,U-TJ7Y I,Dark Compound,Medium,26.32
+Deklein,D-AWFI,U-TJ7Y,U-TJ7Y I,Construction Blocks,Medium,32.08
+Deklein,D-AWFI,U-TJ7Y,U-TJ7Y I,Silicate Glass,Poor,9.81
+Deklein,D-AWFI,U-TJ7Y,U-TJ7Y I,Plasmoids,Medium,1.56
+Deklein,D-AWFI,U-TJ7Y,U-TJ7Y II,Dark Compound,Medium,27.70
+Deklein,D-AWFI,U-TJ7Y,U-TJ7Y II,Heavy Metals,Perfect,47.28
+Deklein,D-AWFI,U-TJ7Y,U-TJ7Y II,Condensates,Medium,22.21
+Deklein,D-AWFI,U-TJ7Y,U-TJ7Y II,Nanites,Perfect,12.58
+Deklein,D-AWFI,U-TJ7Y,U-TJ7Y II,Suspended Plasma,Perfect,166.02
+Deklein,D-AWFI,U-TJ7Y,U-TJ7Y II,Ionic Solutions,Perfect,19.11
+Deklein,D-AWFI,U-TJ7Y,U-TJ7Y III,Precious Alloy,Poor,21.90
+Deklein,D-AWFI,U-TJ7Y,U-TJ7Y III,Dark Compound,Medium,29.21
+Deklein,D-AWFI,U-TJ7Y,U-TJ7Y III,Toxic Metals,Poor,5.42
+Deklein,D-AWFI,U-TJ7Y,U-TJ7Y III,Industrial Fibers,Poor,6.49
+Deklein,D-AWFI,U-TJ7Y,U-TJ7Y III,Plasmoids,Poor,1.38
+Deklein,D-AWFI,U-TJ7Y,U-TJ7Y IV,Precious Alloy,Poor,19.39
+Deklein,D-AWFI,U-TJ7Y,U-TJ7Y IV,Dark Compound,Medium,27.38
+Deklein,D-AWFI,U-TJ7Y,U-TJ7Y IV,Toxic Metals,Poor,5.03
+Deklein,D-AWFI,U-TJ7Y,U-TJ7Y IV,Supertensile Plastics,Poor,13.10
+Deklein,D-AWFI,U-TJ7Y,U-TJ7Y IV,Plasmoids,Poor,1.08
+Deklein,D-AWFI,U-TJ7Y,U-TJ7Y V,Gleaming Alloy,Rich,38.48
+Deklein,D-AWFI,U-TJ7Y,U-TJ7Y V,Glossy Compound,Medium,27.59
+Deklein,D-AWFI,U-TJ7Y,U-TJ7Y V,Noble Metals,Rich,36.59
+Deklein,D-AWFI,U-TJ7Y,U-TJ7Y V,Oxygen Isotopes,Rich,5.55
+Deklein,D-AWFI,U-TJ7Y,U-TJ7Y VI,Condensed Alloy,Medium,32.16
+Deklein,D-AWFI,U-TJ7Y,U-TJ7Y VI,Fiber Composite,Medium,26.00
+Deklein,D-AWFI,U-TJ7Y,U-TJ7Y VI,Reactive Gas,Rich,38.23
+Deklein,D-AWFI,U-TJ7Y,U-TJ7Y VI,Base Metals,Medium,8.46
+Deklein,D-AWFI,U-TJ7Y,U-TJ7Y VI,Noble Metals,Medium,32.40
+Deklein,D-AWFI,U-TJ7Y,U-TJ7Y VI,Heavy Water,Perfect,484.38
+Deklein,D-AWFI,U-TJ7Y,U-TJ7Y VII,Fiber Composite,Perfect,44.44
+Deklein,D-AWFI,U-TJ7Y,U-TJ7Y VII,Glossy Compound,Poor,23.76
+Deklein,D-AWFI,U-TJ7Y,U-TJ7Y VII,Reactive Gas,Rich,36.18
+Deklein,D-AWFI,U-TJ7Y,U-TJ7Y VII,Reactive Metals,Medium,8.31
+Deklein,D-AWFI,U-TJ7Y,U-TJ7Y VII,Polyaramids,Rich,27.95
+Deklein,D-AWFI,U-TJ7Y,U-TJ7Y VII,Ionic Solutions,Rich,16.92
+Deklein,D-AWFI,U-TJ7Y,U-TJ7Y VIII,Lustering Alloy,Rich,39.83
+Deklein,D-AWFI,U-TJ7Y,U-TJ7Y VIII,Fiber Composite,Rich,37.69
+Deklein,D-AWFI,U-TJ7Y,U-TJ7Y VIII,Glossy Compound,Medium,29.21
+Deklein,D-AWFI,U-TJ7Y,U-TJ7Y VIII,Base Metals,Poor,6.08
+Deklein,D-AWFI,U-TJ7Y,U-TJ7Y VIII,Reactive Metals,Poor,6.53
+Deklein,D-AWFI,U-TJ7Y,U-TJ7Y VIII,Coolant,Rich,25.47
+Deklein,D-AWFI,U-TJ7Y,U-TJ7Y IX,Lustering Alloy,Rich,35.48
+Deklein,D-AWFI,U-TJ7Y,U-TJ7Y IX,Sheen Compound,Perfect,43.47
+Deklein,D-AWFI,U-TJ7Y,U-TJ7Y IX,Noble Gas,Medium,26.35
+Deklein,D-AWFI,U-TJ7Y,U-TJ7Y IX,Base Metals,Poor,6.65
+Deklein,D-AWFI,U-TJ7Y,U-TJ7Y IX,Reactive Metals,Poor,6.56
+Deklein,D-AWFI,U-TJ7Y,U-TJ7Y IX,Polyaramids,Medium,21.60
+Deklein,D-AWFI,U-TJ7Y,U-TJ7Y X,Precious Alloy,Rich,37.13
+Deklein,D-AWFI,U-TJ7Y,U-TJ7Y X,Heavy Metals,Poor,21.92
+Deklein,D-AWFI,U-TJ7Y,U-TJ7Y X,Supertensile Plastics,Poor,13.34
+Deklein,D-AWFI,U-TJ7Y,U-TJ7Y X,Suspended Plasma,Rich,126.75
+Deklein,D-AWFI,U-TJ7Y,U-TJ7Y X,Liquid Ozone,Medium,36.65
+Deklein,D-AWFI,A4L-A2,A4L-A2 I,Glossy Compound,Rich,37.16
+Deklein,D-AWFI,A4L-A2,A4L-A2 I,Noble Gas,Rich,38.36
+Deklein,D-AWFI,A4L-A2,A4L-A2 I,Heavy Metals,Rich,43.54
+Deklein,D-AWFI,A4L-A2,A4L-A2 I,Polyaramids,Medium,23.43
+Deklein,D-AWFI,A4L-A2,A4L-A2 II,Gleaming Alloy,Rich,38.67
+Deklein,D-AWFI,A4L-A2,A4L-A2 II,Crystal Compound,Medium,30.24
+Deklein,D-AWFI,A4L-A2,A4L-A2 II,Reactive Gas,Medium,30.97
+Deklein,D-AWFI,A4L-A2,A4L-A2 II,Nanites,Medium,8.00
+Deklein,D-AWFI,A4L-A2,A4L-A2 II,Oxygen Isotopes,Perfect,6.72
+Deklein,D-AWFI,A4L-A2,A4L-A2 III,Dark Compound,Poor,23.46
+Deklein,D-AWFI,A4L-A2,A4L-A2 III,Base Metals,Medium,7.13
+Deklein,D-AWFI,A4L-A2,A4L-A2 III,Toxic Metals,Medium,7.81
+Deklein,D-AWFI,A4L-A2,A4L-A2 III,Industrial Fibers,Medium,8.47
+Deklein,D-AWFI,A4L-A2,A4L-A2 III,Oxygen Isotopes,Medium,4.70
+Deklein,D-AWFI,A4L-A2,A4L-A2 IV,Glossy Compound,Medium,31.22
+Deklein,D-AWFI,A4L-A2,A4L-A2 IV,Construction Blocks,Medium,26.49
+Deklein,D-AWFI,A4L-A2,A4L-A2 IV,Oxygen Isotopes,Poor,3.56
+Deklein,D-AWFI,A4L-A2,A4L-A2 IV,Plasmoids,Rich,2.31
+Deklein,D-AWFI,A4L-A2,A4L-A2 V,Condensed Alloy,Rich,43.04
+Deklein,D-AWFI,A4L-A2,A4L-A2 V,Reactive Gas,Medium,29.62
+Deklein,D-AWFI,A4L-A2,A4L-A2 V,Noble Metals,Perfect,48.97
+Deklein,D-AWFI,A4L-A2,A4L-A2 V,Condensates,Perfect,31.42
+Deklein,D-AWFI,A4L-A2,A4L-A2 V,Smartfab Units,Rich,24.83
+Deklein,D-AWFI,A4L-A2,A4L-A2 V,Liquid Ozone,Medium,33.42
+Deklein,D-AWFI,A4L-A2,A4L-A2 VI,Lustering Alloy,Medium,28.53
+Deklein,D-AWFI,A4L-A2,A4L-A2 VI,Glossy Compound,Medium,27.78
+Deklein,D-AWFI,A4L-A2,A4L-A2 VI,Noble Gas,Rich,43.06
+Deklein,D-AWFI,A4L-A2,A4L-A2 VI,Reactive Metals,Poor,6.90
+Deklein,D-AWFI,A4L-A2,A4L-A2 VI,Coolant,Medium,18.50
+Deklein,D-AWFI,A4L-A2,A4L-A2 VI,Ionic Solutions,Perfect,18.26
+Deklein,D-AWFI,A4L-A2,A4L-A2 VII,Lustering Alloy,Medium,33.60
+Deklein,D-AWFI,A4L-A2,A4L-A2 VII,Fiber Composite,Medium,31.02
+Deklein,D-AWFI,A4L-A2,A4L-A2 VII,Reactive Gas,Rich,37.83
+Deklein,D-AWFI,A4L-A2,A4L-A2 VII,Noble Gas,Poor,24.02
+Deklein,D-AWFI,A4L-A2,A4L-A2 VII,Base Metals,Perfect,11.93
+Deklein,D-AWFI,A4L-A2,A4L-A2 VII,Reactive Metals,Medium,8.86
+Deklein,D-AWFI,A4L-A2,A4L-A2 VIII,Lustering Alloy,Medium,30.41
+Deklein,D-AWFI,A4L-A2,A4L-A2 VIII,Dark Compound,Poor,23.49
+Deklein,D-AWFI,A4L-A2,A4L-A2 VIII,Base Metals,Poor,5.99
+Deklein,D-AWFI,A4L-A2,A4L-A2 VIII,Toxic Metals,Poor,5.47
+Deklein,D-AWFI,A4L-A2,A4L-A2 VIII,Silicate Glass,Medium,14.22
+Deklein,D-AWFI,A4L-A2,A4L-A2 IX,Lustering Alloy,Medium,35.22
+Deklein,D-AWFI,A4L-A2,A4L-A2 IX,Fiber Composite,Rich,37.69
+Deklein,D-AWFI,A4L-A2,A4L-A2 IX,Glossy Compound,Perfect,46.06
+Deklein,D-AWFI,A4L-A2,A4L-A2 IX,Noble Gas,Rich,39.23
+Deklein,D-AWFI,A4L-A2,A4L-A2 IX,Reactive Metals,Medium,8.18
+Deklein,D-AWFI,A4L-A2,A4L-A2 IX,Ionic Solutions,Perfect,18.33
+Deklein,D-AWFI,A4L-A2,A4L-A2 X,Precious Alloy,Medium,29.46
+Deklein,D-AWFI,A4L-A2,A4L-A2 X,Motley Compound,Medium,30.55
+Deklein,D-AWFI,A4L-A2,A4L-A2 X,Supertensile Plastics,Rich,24.77
+Deklein,D-AWFI,A4L-A2,A4L-A2 X,Condensates,Rich,27.29
+Deklein,D-AWFI,A4L-A2,A4L-A2 X,Suspended Plasma,Rich,145.05
+Deklein,D-AWFI,CZDJ-1,CZDJ-1 I,Lustering Alloy,Poor,24.56
+Deklein,D-AWFI,CZDJ-1,CZDJ-1 I,Precious Alloy,Medium,34.28
+Deklein,D-AWFI,CZDJ-1,CZDJ-1 I,Dark Compound,Medium,30.36
+Deklein,D-AWFI,CZDJ-1,CZDJ-1 I,Construction Blocks,Medium,31.03
+Deklein,D-AWFI,CZDJ-1,CZDJ-1 I,Plasmoids,Poor,1.33
+Deklein,D-AWFI,CZDJ-1,CZDJ-1 II,Gleaming Alloy,Poor,23.84
+Deklein,D-AWFI,CZDJ-1,CZDJ-1 II,Motley Compound,Medium,30.94
+Deklein,D-AWFI,CZDJ-1,CZDJ-1 II,Glossy Compound,Rich,43.73
+Deklein,D-AWFI,CZDJ-1,CZDJ-1 II,Plasmoids,Rich,2.56
+Deklein,D-AWFI,CZDJ-1,CZDJ-1 III,Lustering Alloy,Medium,28.45
+Deklein,D-AWFI,CZDJ-1,CZDJ-1 III,Precious Alloy,Medium,35.47
+Deklein,D-AWFI,CZDJ-1,CZDJ-1 III,Dark Compound,Poor,18.15
+Deklein,D-AWFI,CZDJ-1,CZDJ-1 III,Silicate Glass,Medium,13.75
+Deklein,D-AWFI,CZDJ-1,CZDJ-1 III,Oxygen Isotopes,Poor,3.03
+Deklein,D-AWFI,CZDJ-1,CZDJ-1 IV,Condensed Alloy,Rich,39.96
+Deklein,D-AWFI,CZDJ-1,CZDJ-1 IV,Reactive Gas,Medium,35.44
+Deklein,D-AWFI,CZDJ-1,CZDJ-1 IV,Industrial Fibers,Perfect,12.74
+Deklein,D-AWFI,CZDJ-1,CZDJ-1 IV,Condensates,Perfect,33.16
+Deklein,D-AWFI,CZDJ-1,CZDJ-1 IV,Heavy Water,Medium,342.20
+Deklein,D-AWFI,CZDJ-1,CZDJ-1 IV,Liquid Ozone,Medium,45.86
+Deklein,D-AWFI,CZDJ-1,CZDJ-1 V,Dark Compound,Poor,24.16
+Deklein,D-AWFI,CZDJ-1,CZDJ-1 V,Industrial Fibers,Medium,8.70
+Deklein,D-AWFI,CZDJ-1,CZDJ-1 V,Supertensile Plastics,Medium,20.61
+Deklein,D-AWFI,CZDJ-1,CZDJ-1 V,Construction Blocks,Poor,21.43
+Deklein,D-AWFI,CZDJ-1,CZDJ-1 V,Plasmoids,Medium,2.08
+Deklein,D-AWFI,CZDJ-1,CZDJ-1 VI,Condensed Alloy,Perfect,51.19
+Deklein,D-AWFI,CZDJ-1,CZDJ-1 VI,Fiber Composite,Perfect,47.47
+Deklein,D-AWFI,CZDJ-1,CZDJ-1 VI,Reactive Gas,Perfect,52.40
+Deklein,D-AWFI,CZDJ-1,CZDJ-1 VI,Condensates,Medium,23.84
+Deklein,D-AWFI,CZDJ-1,CZDJ-1 VI,Heavy Water,Perfect,472.12
+Deklein,D-AWFI,CZDJ-1,CZDJ-1 VI,Liquid Ozone,Perfect,57.85
+Deklein,D-AWFI,CZDJ-1,CZDJ-1 VII,Crystal Compound,Medium,34.02
+Deklein,D-AWFI,CZDJ-1,CZDJ-1 VII,Reactive Gas,Poor,25.06
+Deklein,D-AWFI,CZDJ-1,CZDJ-1 VII,Supertensile Plastics,Perfect,31.07
+Deklein,D-AWFI,CZDJ-1,CZDJ-1 VII,Construction Blocks,Medium,34.51
+Deklein,D-AWFI,CZDJ-1,CZDJ-1 VII,Oxygen Isotopes,Medium,5.09
+Deklein,D-AWFI,CZDJ-1,CZDJ-1 VIII,Dark Compound,Medium,32.19
+Deklein,D-AWFI,CZDJ-1,CZDJ-1 VIII,Toxic Metals,Medium,8.81
+Deklein,D-AWFI,CZDJ-1,CZDJ-1 VIII,Supertensile Plastics,Medium,22.10
+Deklein,D-AWFI,CZDJ-1,CZDJ-1 VIII,Oxygen Isotopes,Medium,5.12
+Deklein,D-AWFI,CZDJ-1,CZDJ-1 VIII,Plasmoids,Medium,2.03
+Deklein,D-AWFI,CZDJ-1,CZDJ-1 IX,Sheen Compound,Medium,32.13
+Deklein,D-AWFI,CZDJ-1,CZDJ-1 IX,Fiber Composite,Rich,42.92
+Deklein,D-AWFI,CZDJ-1,CZDJ-1 IX,Glossy Compound,Rich,37.21
+Deklein,D-AWFI,CZDJ-1,CZDJ-1 IX,Reactive Gas,Medium,35.87
+Deklein,D-AWFI,CZDJ-1,CZDJ-1 IX,Noble Gas,Poor,27.17
+Deklein,D-AWFI,CZDJ-1,CZDJ-1 IX,Ionic Solutions,Perfect,19.16
+Deklein,D-AWFI,CZDJ-1,CZDJ-1 X,Lustering Alloy,Rich,44.57
+Deklein,D-AWFI,CZDJ-1,CZDJ-1 X,Fiber Composite,Perfect,47.41
+Deklein,D-AWFI,CZDJ-1,CZDJ-1 X,Noble Gas,Medium,31.41
+Deklein,D-AWFI,CZDJ-1,CZDJ-1 X,Polyaramids,Medium,23.80
+Deklein,D-AWFI,CZDJ-1,CZDJ-1 X,Coolant,Medium,18.64
+Deklein,D-AWFI,CZDJ-1,CZDJ-1 X,Ionic Solutions,Perfect,18.86
+Deklein,D-AWFI,RG9-7U,RG9-7U I,Lustering Alloy,Medium,32.39
+Deklein,D-AWFI,RG9-7U,RG9-7U I,Sheen Compound,Rich,42.57
+Deklein,D-AWFI,RG9-7U,RG9-7U I,Fiber Composite,Medium,27.43
+Deklein,D-AWFI,RG9-7U,RG9-7U I,Noble Gas,Medium,31.73
+Deklein,D-AWFI,RG9-7U,RG9-7U I,Coolant,Rich,24.79
+Deklein,D-AWFI,RG9-7U,RG9-7U I,Ionic Solutions,Medium,13.64
+Deklein,D-AWFI,RG9-7U,RG9-7U II,Sheen Compound,Poor,25.52
+Deklein,D-AWFI,RG9-7U,RG9-7U II,Fiber Composite,Medium,36.05
+Deklein,D-AWFI,RG9-7U,RG9-7U II,Glossy Compound,Rich,39.53
+Deklein,D-AWFI,RG9-7U,RG9-7U II,Noble Gas,Rich,36.71
+Deklein,D-AWFI,RG9-7U,RG9-7U II,Coolant,Poor,18.06
+Deklein,D-AWFI,RG9-7U,RG9-7U II,Ionic Solutions,Rich,18.14
+Deklein,D-AWFI,RG9-7U,RG9-7U III,Sheen Compound,Medium,34.28
+Deklein,D-AWFI,RG9-7U,RG9-7U III,Fiber Composite,Poor,24.13
+Deklein,D-AWFI,RG9-7U,RG9-7U III,Glossy Compound,Rich,37.70
+Deklein,D-AWFI,RG9-7U,RG9-7U III,Base Metals,Rich,11.66
+Deklein,D-AWFI,RG9-7U,RG9-7U III,Reactive Metals,Medium,9.27
+Deklein,D-AWFI,RG9-7U,RG9-7U III,Ionic Solutions,Medium,12.59
+Deklein,D-AWFI,RG9-7U,RG9-7U IV,Precious Alloy,Medium,36.34
+Deklein,D-AWFI,RG9-7U,RG9-7U IV,Motley Compound,Rich,36.83
+Deklein,D-AWFI,RG9-7U,RG9-7U IV,Supertensile Plastics,Rich,27.70
+Deklein,D-AWFI,RG9-7U,RG9-7U IV,Suspended Plasma,Rich,137.70
+Deklein,D-AWFI,RG9-7U,RG9-7U IV,Liquid Ozone,Poor,30.05
+Deklein,D-AWFI,UJY-HE,UJY-HE I,Precious Alloy,Medium,35.31
+Deklein,D-AWFI,UJY-HE,UJY-HE I,Supertensile Plastics,Rich,27.74
+Deklein,D-AWFI,UJY-HE,UJY-HE I,Condensates,Medium,19.92
+Deklein,D-AWFI,UJY-HE,UJY-HE I,Suspended Plasma,Rich,146.88
+Deklein,D-AWFI,UJY-HE,UJY-HE I,Liquid Ozone,Poor,32.40
+Deklein,D-AWFI,UJY-HE,UJY-HE II,Lustering Alloy,Poor,25.59
+Deklein,D-AWFI,UJY-HE,UJY-HE II,Dark Compound,Medium,30.84
+Deklein,D-AWFI,UJY-HE,UJY-HE II,Base Metals,Medium,7.95
+Deklein,D-AWFI,UJY-HE,UJY-HE II,Construction Blocks,Medium,34.77
+Deklein,D-AWFI,UJY-HE,UJY-HE II,Oxygen Isotopes,Medium,5.27
+Deklein,D-AWFI,UJY-HE,UJY-HE III,Lustering Alloy,Medium,29.58
+Deklein,D-AWFI,UJY-HE,UJY-HE III,Precious Alloy,Medium,36.00
+Deklein,D-AWFI,UJY-HE,UJY-HE III,Dark Compound,Medium,30.09
+Deklein,D-AWFI,UJY-HE,UJY-HE III,Supertensile Plastics,Poor,13.92
+Deklein,D-AWFI,UJY-HE,UJY-HE III,Silicate Glass,Poor,13.06
+Deklein,D-AWFI,UEJX-G,UEJX-G I,Dark Compound,Medium,29.62
+Deklein,D-AWFI,UEJX-G,UEJX-G I,Toxic Metals,Poor,5.81
+Deklein,D-AWFI,UEJX-G,UEJX-G I,Supertensile Plastics,Medium,21.56
+Deklein,D-AWFI,UEJX-G,UEJX-G I,Construction Blocks,Poor,25.03
+Deklein,D-AWFI,UEJX-G,UEJX-G I,Plasmoids,Poor,1.32
+Deklein,D-AWFI,UEJX-G,UEJX-G II,Glossy Compound,Medium,28.89
+Deklein,D-AWFI,UEJX-G,UEJX-G II,Noble Gas,Poor,22.82
+Deklein,D-AWFI,UEJX-G,UEJX-G II,Noble Metals,Poor,23.11
+Deklein,D-AWFI,UEJX-G,UEJX-G II,Smartfab Units,Poor,15.19
+Deklein,D-AWFI,UEJX-G,UEJX-G III,Condensed Alloy,Perfect,44.87
+Deklein,D-AWFI,UEJX-G,UEJX-G III,Fiber Composite,Perfect,51.33
+Deklein,D-AWFI,UEJX-G,UEJX-G III,Reactive Gas,Perfect,50.71
+Deklein,D-AWFI,UEJX-G,UEJX-G III,Industrial Fibers,Rich,9.22
+Deklein,D-AWFI,UEJX-G,UEJX-G III,Condensates,Medium,17.89
+Deklein,D-AWFI,UEJX-G,UEJX-G III,Liquid Ozone,Medium,41.55
+Deklein,D-AWFI,UEJX-G,UEJX-G IV,Gleaming Alloy,Perfect,45.41
+Deklein,D-AWFI,UEJX-G,UEJX-G IV,Glossy Compound,Medium,25.79
+Deklein,D-AWFI,UEJX-G,UEJX-G IV,Noble Gas,Medium,30.81
+Deklein,D-AWFI,UEJX-G,UEJX-G IV,Smartfab Units,Perfect,29.39
+Deklein,D-AWFI,UEJX-G,UEJX-G V,Fiber Composite,Rich,42.42
+Deklein,D-AWFI,UEJX-G,UEJX-G V,Glossy Compound,Perfect,43.82
+Deklein,D-AWFI,UEJX-G,UEJX-G V,Noble Gas,Perfect,43.79
+Deklein,D-AWFI,UEJX-G,UEJX-G V,Base Metals,Medium,7.25
+Deklein,D-AWFI,UEJX-G,UEJX-G V,Reactive Metals,Medium,7.15
+Deklein,D-AWFI,UEJX-G,UEJX-G V,Polyaramids,Rich,23.74
+Deklein,D-AWFI,UEJX-G,UEJX-G VI,Lustering Alloy,Poor,23.30
+Deklein,D-AWFI,UEJX-G,UEJX-G VI,Dark Compound,Poor,17.87
+Deklein,D-AWFI,UEJX-G,UEJX-G VI,Base Metals,Poor,5.29
+Deklein,D-AWFI,UEJX-G,UEJX-G VI,Supertensile Plastics,Poor,16.47
+Deklein,D-AWFI,UEJX-G,UEJX-G VI,Oxygen Isotopes,Poor,2.84
+Deklein,D-AWFI,UEJX-G,UEJX-G VII,Fiber Composite,Rich,35.69
+Deklein,D-AWFI,UEJX-G,UEJX-G VII,Glossy Compound,Poor,22.30
+Deklein,D-AWFI,UEJX-G,UEJX-G VII,Reactive Gas,Rich,42.20
+Deklein,D-AWFI,UEJX-G,UEJX-G VII,Noble Gas,Rich,40.47
+Deklein,D-AWFI,UEJX-G,UEJX-G VII,Coolant,Medium,20.57
+Deklein,D-AWFI,UEJX-G,UEJX-G VII,Ionic Solutions,Rich,15.44
+Deklein,D-AWFI,UEJX-G,UEJX-G VIII,Lustering Alloy,Medium,30.48
+Deklein,D-AWFI,UEJX-G,UEJX-G VIII,Fiber Composite,Rich,38.31
+Deklein,D-AWFI,UEJX-G,UEJX-G VIII,Glossy Compound,Rich,34.80
+Deklein,D-AWFI,UEJX-G,UEJX-G VIII,Reactive Metals,Medium,8.41
+Deklein,D-AWFI,UEJX-G,UEJX-G VIII,Polyaramids,Medium,19.28
+Deklein,D-AWFI,UEJX-G,UEJX-G VIII,Ionic Solutions,Medium,13.15
+Deklein,D-AWFI,UEJX-G,UEJX-G IX,Lucent Compound,Rich,36.05
+Deklein,D-AWFI,UEJX-G,UEJX-G IX,Crystal Compound,Medium,26.30
+Deklein,D-AWFI,UEJX-G,UEJX-G IX,Reactive Metals,Medium,7.40
+Deklein,D-AWFI,UEJX-G,UEJX-G IX,Supertensile Plastics,Rich,24.50
+Deklein,D-AWFI,UEJX-G,UEJX-G IX,Suspended Plasma,Rich,153.87
+Deklein,D-AWFI,UEJX-G,UEJX-G X,Lustering Alloy,Rich,42.82
+Deklein,D-AWFI,UEJX-G,UEJX-G X,Sheen Compound,Rich,41.31
+Deklein,D-AWFI,UEJX-G,UEJX-G X,Reactive Gas,Medium,26.46
+Deklein,D-AWFI,UEJX-G,UEJX-G X,Noble Gas,Poor,23.81
+Deklein,D-AWFI,UEJX-G,UEJX-G X,Reactive Metals,Perfect,11.77
+Deklein,D-AWFI,UEJX-G,UEJX-G X,Ionic Solutions,Medium,12.87
+Deklein,D-AWFI,UEJX-G,UEJX-G XI,Glossy Compound,Rich,40.88
+Deklein,D-AWFI,UEJX-G,UEJX-G XI,Noble Gas,Rich,39.10
+Deklein,D-AWFI,UEJX-G,UEJX-G XI,Base Metals,Medium,8.88
+Deklein,D-AWFI,UEJX-G,UEJX-G XI,Polyaramids,Rich,26.91
+Deklein,D-AWFI,UEJX-G,UEJX-G XI,Coolant,Medium,18.18
+Deklein,D-AWFI,UEJX-G,UEJX-G XI,Ionic Solutions,Medium,11.50

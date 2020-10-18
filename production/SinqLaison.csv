@@ -1,0 +1,2423 @@
+Region,Constellation,System,Name,Item,Rate,Output
+Sinq Laison,Disier,Pettinck,Pettinck I,Lustering Alloy,Medium,11.44
+Sinq Laison,Disier,Pettinck,Pettinck I,Base Metals,Medium,3.81
+Sinq Laison,Disier,Pettinck,Pettinck II,Lustering Alloy,Medium,14.76
+Sinq Laison,Disier,Pettinck,Pettinck II,Base Metals,Medium,3.40
+Sinq Laison,Disier,Pettinck,Pettinck III,Noble Gas,Rich,18.02
+Sinq Laison,Disier,Pettinck,Pettinck III,Reactive Metals,Rich,4.34
+Sinq Laison,Disier,Pettinck,Pettinck III,Suspended Plasma,Perfect,74.56
+Sinq Laison,Disier,Pettinck,Pettinck IV,Lustering Alloy,Medium,13.25
+Sinq Laison,Disier,Pettinck,Pettinck IV,Base Metals,Medium,3.86
+Sinq Laison,Disier,Pettinck,Pettinck V,Motley Compound,Medium,11.75
+Sinq Laison,Disier,Pettinck,Pettinck V,Glossy Compound,Rich,18.17
+Sinq Laison,Disier,Pettinck,Pettinck VI,Condensed Alloy,Medium,13.37
+Sinq Laison,Disier,Pettinck,Pettinck VI,Industrial Fibers,Rich,4.84
+Sinq Laison,Disier,Pettinck,Pettinck VI,Heavy Water,Perfect,210.96
+Sinq Laison,Disier,Pettinck,Pettinck VII,Lustering Alloy,Medium,14.27
+Sinq Laison,Disier,Pettinck,Pettinck VII,Base Metals,Medium,3.75
+Sinq Laison,Disier,Pettinck,Pettinck VIII,Lustering Alloy,Rich,17.23
+Sinq Laison,Disier,Pettinck,Pettinck VIII,Fiber Composite,Medium,12.92
+Sinq Laison,Disier,Pettinck,Pettinck VIII,Base Metals,Medium,3.85
+Sinq Laison,Disier,Pettinck,Pettinck IX,Lustering Alloy,Rich,18.04
+Sinq Laison,Disier,Pettinck,Pettinck IX,Base Metals,Rich,4.98
+Sinq Laison,Disier,Pettinck,Pettinck IX,Polyaramids,Medium,9.40
+Sinq Laison,Disier,Pettinck,Pettinck X,Lustering Alloy,Medium,12.79
+Sinq Laison,Disier,Pettinck,Pettinck X,Base Metals,Medium,3.31
+Sinq Laison,Disier,Du Annes,Du Annes I,Lustering Alloy,Medium,14.60
+Sinq Laison,Disier,Du Annes,Du Annes I,Base Metals,Medium,3.92
+Sinq Laison,Disier,Du Annes,Du Annes II,Lustering Alloy,Medium,16.45
+Sinq Laison,Disier,Du Annes,Du Annes II,Base Metals,Poor,2.80
+Sinq Laison,Disier,Du Annes,Du Annes III,Condensed Alloy,Poor,13.03
+Sinq Laison,Disier,Du Annes,Du Annes III,Opulent Compound,Medium,16.83
+Sinq Laison,Disier,Du Annes,Du Annes III,Heavy Water,Perfect,243.74
+Sinq Laison,Disier,Du Annes,Du Annes IV,Lustering Alloy,Poor,11.83
+Sinq Laison,Disier,Du Annes,Du Annes IV,Fiber Composite,Rich,21.49
+Sinq Laison,Disier,Du Annes,Du Annes IV,Base Metals,Rich,4.99
+Sinq Laison,Disier,Du Annes,Du Annes V,Lustering Alloy,Rich,21.22
+Sinq Laison,Disier,Du Annes,Du Annes V,Glossy Compound,Rich,20.96
+Sinq Laison,Disier,Du Annes,Du Annes V,Base Metals,Rich,5.18
+Sinq Laison,Disier,Du Annes,Du Annes VI,Lustering Alloy,Rich,21.10
+Sinq Laison,Disier,Du Annes,Du Annes VI,Base Metals,Rich,5.33
+Sinq Laison,Disier,Du Annes,Du Annes VI,Ionic Solutions,Medium,6.40
+Sinq Laison,Disier,Du Annes,Du Annes VII,Lustering Alloy,Rich,20.37
+Sinq Laison,Disier,Du Annes,Du Annes VII,Base Metals,Rich,5.33
+Sinq Laison,Disier,Balle,Balle I,Precious Alloy,Poor,13.63
+Sinq Laison,Disier,Balle,Balle I,Industrial Fibers,Poor,3.13
+Sinq Laison,Disier,Balle,Balle I,Silicate Glass,Poor,6.17
+Sinq Laison,Disier,Balle,Balle II,Lustering Alloy,Medium,19.60
+Sinq Laison,Disier,Balle,Balle II,Industrial Fibers,Medium,4.96
+Sinq Laison,Disier,Balle,Balle II,Plasmoids,Poor,0.82
+Sinq Laison,Disier,Balle,Balle III,Fiber Composite,Rich,22.10
+Sinq Laison,Disier,Balle,Balle III,Reactive Gas,Poor,13.18
+Sinq Laison,Disier,Balle,Balle III,Noble Gas,Medium,18.48
+Sinq Laison,Disier,Balle,Balle III,Reactive Metals,Rich,6.33
+Sinq Laison,Disier,Balle,Balle IV,Sheen Compound,Perfect,26.13
+Sinq Laison,Disier,Balle,Balle IV,Noble Gas,Medium,18.59
+Sinq Laison,Disier,Balle,Balle IV,Base Metals,Medium,5.07
+Sinq Laison,Disier,Balle,Balle IV,Reactive Metals,Medium,5.15
+Sinq Laison,Disier,Balle,Balle V,Fiber Composite,Medium,17.17
+Sinq Laison,Disier,Balle,Balle V,Reactive Gas,Perfect,25.54
+Sinq Laison,Disier,Balle,Balle V,Noble Gas,Medium,15.31
+Sinq Laison,Disier,Balle,Balle V,Coolant,Medium,10.47
+Sinq Laison,Disier,Balle,Balle VI,Lustering Alloy,Medium,18.34
+Sinq Laison,Disier,Balle,Balle VI,Fiber Composite,Medium,17.95
+Sinq Laison,Disier,Balle,Balle VI,Reactive Gas,Medium,17.30
+Sinq Laison,Disier,Balle,Balle VI,Noble Gas,Poor,15.07
+Sinq Laison,Disier,Balle,Balle VII,Sheen Compound,Rich,22.35
+Sinq Laison,Disier,Balle,Balle VII,Fiber Composite,Perfect,26.48
+Sinq Laison,Disier,Balle,Balle VII,Reactive Gas,Perfect,25.95
+Sinq Laison,Disier,Balle,Balle VII,Noble Gas,Perfect,26.22
+Sinq Laison,Disier,Balle,Balle VIII,Lustering Alloy,Rich,21.38
+Sinq Laison,Disier,Balle,Balle VIII,Coolant,Medium,12.54
+Sinq Laison,Disier,Balle,Balle VIII,Liquid Ozone,Medium,20.58
+Sinq Laison,Disier,Decon,Decon I,Noble Gas,Poor,15.21
+Sinq Laison,Disier,Decon,Decon I,Polyaramids,Perfect,18.77
+Sinq Laison,Disier,Decon,Decon II,Industrial Fibers,Poor,3.76
+Sinq Laison,Disier,Decon,Decon II,Supertensile Plastics,Medium,13.78
+Sinq Laison,Disier,Decon,Decon II,Construction Blocks,Medium,20.32
+Sinq Laison,Disier,Decon,Decon III,Precious Alloy,Poor,12.63
+Sinq Laison,Disier,Decon,Decon III,Base Metals,Poor,3.11
+Sinq Laison,Disier,Decon,Decon III,Industrial Fibers,Medium,4.81
+Sinq Laison,Disier,Decon,Decon IV,Noble Gas,Medium,19.65
+Sinq Laison,Disier,Decon,Decon IV,Construction Blocks,Medium,16.63
+Sinq Laison,Disier,Decon,Decon V,Condensed Alloy,Rich,22.90
+Sinq Laison,Disier,Decon,Decon V,Noble Metals,Perfect,30.02
+Sinq Laison,Disier,Decon,Decon V,Coolant,Medium,11.66
+Sinq Laison,Disier,Decon,Decon V,Liquid Ozone,Medium,22.61
+Sinq Laison,Disier,Decon,Decon VI,Lustering Alloy,Medium,17.56
+Sinq Laison,Disier,Decon,Decon VI,Sheen Compound,Rich,25.16
+Sinq Laison,Disier,Decon,Decon VI,Noble Gas,Rich,23.49
+Sinq Laison,Disier,Decon,Decon VI,Coolant,Rich,16.22
+Sinq Laison,Disier,Decon,Decon VII,Lustering Alloy,Medium,21.18
+Sinq Laison,Disier,Decon,Decon VII,Noble Gas,Medium,19.13
+Sinq Laison,Disier,Decon,Decon VII,Reactive Metals,Medium,5.33
+Sinq Laison,Disier,Decon,Decon VII,Coolant,Medium,12.64
+Sinq Laison,Disier,Grinacanne,Grinacanne I,Lustering Alloy,Medium,13.98
+Sinq Laison,Disier,Grinacanne,Grinacanne I,Base Metals,Medium,3.10
+Sinq Laison,Disier,Grinacanne,Grinacanne II,Motley Compound,Medium,12.22
+Sinq Laison,Disier,Grinacanne,Grinacanne II,Smartfab Units,Medium,9.30
+Sinq Laison,Disier,Grinacanne,Grinacanne III,Lustering Alloy,Medium,13.27
+Sinq Laison,Disier,Grinacanne,Grinacanne III,Base Metals,Poor,2.42
+Sinq Laison,Disier,Grinacanne,Grinacanne IV,Smartfab Units,Perfect,13.32
+Sinq Laison,Disier,Grinacanne,Grinacanne IV,Heavy Water,Rich,169.32
+Sinq Laison,Disier,Grinacanne,Grinacanne IV,Liquid Ozone,Medium,17.58
+Sinq Laison,Disier,Grinacanne,Grinacanne V,Reactive Gas,Perfect,20.08
+Sinq Laison,Disier,Grinacanne,Grinacanne V,Condensates,Rich,12.56
+Sinq Laison,Disier,Grinacanne,Grinacanne V,Heavy Water,Perfect,207.12
+Sinq Laison,Disier,Grinacanne,Grinacanne VI,Lustering Alloy,Medium,11.69
+Sinq Laison,Disier,Grinacanne,Grinacanne VI,Base Metals,Poor,2.51
+Sinq Laison,Disier,Grinacanne,Grinacanne VII,Lustering Alloy,Poor,11.06
+Sinq Laison,Disier,Grinacanne,Grinacanne VII,Base Metals,Poor,2.09
+Sinq Laison,Disier,Metserel,Metserel I,Lustering Alloy,Medium,16.83
+Sinq Laison,Disier,Metserel,Metserel I,Base Metals,Poor,3.33
+Sinq Laison,Disier,Metserel,Metserel II,Lustering Alloy,Poor,11.27
+Sinq Laison,Disier,Metserel,Metserel II,Base Metals,Poor,3.08
+Sinq Laison,Disier,Metserel,Metserel III,Lustering Alloy,Medium,15.37
+Sinq Laison,Disier,Metserel,Metserel III,Base Metals,Poor,3.38
+Sinq Laison,Disier,Metserel,Metserel IV,Reactive Gas,Medium,15.53
+Sinq Laison,Disier,Metserel,Metserel IV,Industrial Fibers,Medium,3.91
+Sinq Laison,Disier,Metserel,Metserel IV,Heavy Water,Perfect,251.72
+Sinq Laison,Disier,Metserel,Metserel V,Lustering Alloy,Rich,19.56
+Sinq Laison,Disier,Metserel,Metserel V,Fiber Composite,Rich,21.21
+Sinq Laison,Disier,Metserel,Metserel V,Base Metals,Medium,4.00
+Sinq Laison,Disier,Metserel,Metserel VI,Heavy Water,Rich,196.84
+Sinq Laison,Disier,Metserel,Metserel VI,Liquid Ozone,Medium,20.02
+Sinq Laison,Disier,Metserel,Metserel VI,Ionic Solutions,Medium,5.84
+Sinq Laison,Disier,Metserel,Metserel VII,Lustering Alloy,Medium,14.34
+Sinq Laison,Disier,Metserel,Metserel VII,Sheen Compound,Rich,18.27
+Sinq Laison,Disier,Metserel,Metserel VII,Base Metals,Medium,3.51
+Sinq Laison,Disier,Metserel,Metserel VIII,Crystal Compound,Medium,14.08
+Sinq Laison,Disier,Metserel,Metserel VIII,Heavy Water,Perfect,222.74
+Sinq Laison,Disier,Metserel,Metserel VIII,Ionic Solutions,Rich,7.44
+Sinq Laison,Disier,Metserel,Metserel IX,Lustering Alloy,Medium,13.27
+Sinq Laison,Disier,Metserel,Metserel IX,Base Metals,Poor,3.00
+Sinq Laison,Disier,Sharuveil,Sharuveil I,Glossy Compound,Medium,16.32
+Sinq Laison,Disier,Sharuveil,Sharuveil I,Noble Gas,Medium,16.88
+Sinq Laison,Disier,Sharuveil,Sharuveil I,Polyaramids,Poor,10.68
+Sinq Laison,Disier,Sharuveil,Sharuveil I,Ionic Solutions,Medium,7.15
+Sinq Laison,Disier,Sharuveil,Sharuveil II,Fiber Composite,Medium,20.48
+Sinq Laison,Disier,Sharuveil,Sharuveil II,Base Metals,Rich,6.65
+Sinq Laison,Disier,Sharuveil,Sharuveil II,Condensates,Rich,14.98
+Sinq Laison,Disier,Sharuveil,Sharuveil II,Smartfab Units,Medium,12.66
+Sinq Laison,Disier,Sharuveil,Sharuveil III,Fiber Composite,Rich,26.08
+Sinq Laison,Disier,Sharuveil,Sharuveil III,Glossy Compound,Medium,20.16
+Sinq Laison,Disier,Sharuveil,Sharuveil III,Noble Gas,Medium,20.67
+Sinq Laison,Disier,Sharuveil,Sharuveil III,Reactive Metals,Rich,6.37
+Sinq Laison,Disier,Sharuveil,Sharuveil IV,Precious Alloy,Poor,13.96
+Sinq Laison,Disier,Sharuveil,Sharuveil IV,Coolant,Rich,14.43
+Sinq Laison,Disier,Sharuveil,Sharuveil IV,Condensates,Medium,13.35
+Sinq Laison,Disier,Sharuveil,Sharuveil V,Industrial Fibers,Medium,4.32
+Sinq Laison,Disier,Sharuveil,Sharuveil V,Construction Blocks,Poor,14.81
+Sinq Laison,Disier,Sharuveil,Sharuveil V,Silicate Glass,Medium,8.78
+Sinq Laison,Disier,Sharuveil,Sharuveil VI,Lustering Alloy,Medium,19.46
+Sinq Laison,Disier,Sharuveil,Sharuveil VI,Dark Compound,Poor,11.36
+Sinq Laison,Disier,Sharuveil,Sharuveil VI,Industrial Fibers,Medium,5.40
+Sinq Laison,Disier,Sharuveil,Sharuveil VII,Industrial Fibers,Poor,2.83
+Sinq Laison,Disier,Sharuveil,Sharuveil VII,Construction Blocks,Poor,13.72
+Sinq Laison,Disier,Sharuveil,Sharuveil VII,Plasmoids,Medium,1.04
+Sinq Laison,Disier,Adreland,Adreland I,Lustering Alloy,Medium,12.89
+Sinq Laison,Disier,Adreland,Adreland I,Base Metals,Medium,3.77
+Sinq Laison,Disier,Adreland,Adreland II,Crystal Compound,Medium,12.71
+Sinq Laison,Disier,Adreland,Adreland II,Coolant,Rich,11.94
+Sinq Laison,Disier,Adreland,Adreland II,Heavy Water,Perfect,210.84
+Sinq Laison,Disier,Adreland,Adreland III,Lustering Alloy,Rich,17.64
+Sinq Laison,Disier,Adreland,Adreland III,Fiber Composite,Medium,11.71
+Sinq Laison,Disier,Adreland,Adreland III,Base Metals,Medium,3.71
+Sinq Laison,Disier,Adreland,Adreland IV,Lustering Alloy,Medium,12.13
+Sinq Laison,Disier,Adreland,Adreland IV,Base Metals,Perfect,5.03
+Sinq Laison,Disier,Adreland,Adreland IV,Reactive Metals,Medium,3.71
+Sinq Laison,Disier,Adreland,Adreland V,Lustering Alloy,Rich,18.55
+Sinq Laison,Disier,Adreland,Adreland V,Sheen Compound,Medium,11.33
+Sinq Laison,Disier,Adreland,Adreland V,Base Metals,Medium,3.30
+Sinq Laison,Disier,Adreland,Adreland VI,Lustering Alloy,Medium,14.03
+Sinq Laison,Disier,Adreland,Adreland VI,Glossy Compound,Medium,11.56
+Sinq Laison,Disier,Adreland,Adreland VI,Base Metals,Rich,4.96
+Sinq Laison,Disier,Adreland,Adreland VII,Reactive Metals,Rich,4.28
+Sinq Laison,Disier,Adreland,Adreland VII,Suspended Plasma,Perfect,70.85
+Sinq Laison,Disier,Erme,Erme I,Lustering Alloy,Medium,14.69
+Sinq Laison,Disier,Erme,Erme I,Base Metals,Poor,2.25
+Sinq Laison,Disier,Erme,Erme II,Lustering Alloy,Poor,11.88
+Sinq Laison,Disier,Erme,Erme II,Base Metals,Medium,3.35
+Sinq Laison,Disier,Erme,Erme III,Crystal Compound,Medium,16.37
+Sinq Laison,Disier,Erme,Erme III,Silicate Glass,Rich,9.09
+Sinq Laison,Disier,Erme,Erme III,Heavy Water,Perfect,216.71
+Sinq Laison,Disier,Erme,Erme IV,Lustering Alloy,Poor,9.75
+Sinq Laison,Disier,Erme,Erme IV,Base Metals,Medium,3.32
+Sinq Laison,Disier,Erme,Erme V,Crystal Compound,Medium,14.46
+Sinq Laison,Disier,Erme,Erme V,Suspended Plasma,Medium,50.54
+Sinq Laison,Disier,Erme,Erme VI,Lustering Alloy,Medium,14.95
+Sinq Laison,Disier,Erme,Erme VI,Base Metals,Rich,4.78
+Sinq Laison,Disier,Erme,Erme VI,Reactive Metals,Rich,4.54
+Sinq Laison,Disier,Erme,Erme VII,Lustering Alloy,Poor,10.71
+Sinq Laison,Disier,Erme,Erme VII,Sheen Compound,Rich,16.65
+Sinq Laison,Disier,Erme,Erme VII,Base Metals,Medium,4.03
+Sinq Laison,Disier,Erme,Erme VIII,Industrial Fibers,Rich,4.78
+Sinq Laison,Disier,Erme,Erme VIII,Heavy Water,Medium,142.87
+Sinq Laison,Disier,Erme,Erme VIII,Liquid Ozone,Medium,17.08
+Sinq Laison,Disier,Aufay,Aufay I,Lustering Alloy,Poor,13.92
+Sinq Laison,Disier,Aufay,Aufay I,Base Metals,Poor,3.26
+Sinq Laison,Disier,Aufay,Aufay II,Polyaramids,Medium,10.75
+Sinq Laison,Disier,Aufay,Aufay II,Silicate Glass,Rich,11.51
+Sinq Laison,Disier,Aufay,Aufay II,Heavy Water,Rich,207.15
+Sinq Laison,Disier,Aufay,Aufay III,Lustering Alloy,Medium,18.90
+Sinq Laison,Disier,Aufay,Aufay III,Base Metals,Perfect,6.30
+Sinq Laison,Disier,Aufay,Aufay III,Reactive Metals,Medium,4.95
+Sinq Laison,Disier,Aufay,Aufay IV,Reactive Metals,Medium,4.26
+Sinq Laison,Disier,Aufay,Aufay IV,Suspended Plasma,Perfect,87.10
+Sinq Laison,Disier,Aufay,Aufay V,Lucent Compound,Rich,21.91
+Sinq Laison,Disier,Aufay,Aufay V,Suspended Plasma,Medium,62.86
+Sinq Laison,Gallente Border Zone,Iyen-Oursta,Iyen-Oursta I,Motley Compound,Poor,10.46
+Sinq Laison,Gallente Border Zone,Iyen-Oursta,Iyen-Oursta I,Noble Gas,Rich,18.30
+Sinq Laison,Gallente Border Zone,Iyen-Oursta,Iyen-Oursta II,Lustering Alloy,Poor,9.78
+Sinq Laison,Gallente Border Zone,Iyen-Oursta,Iyen-Oursta II,Base Metals,Poor,2.56
+Sinq Laison,Gallente Border Zone,Iyen-Oursta,Iyen-Oursta III,Motley Compound,Rich,18.90
+Sinq Laison,Gallente Border Zone,Iyen-Oursta,Iyen-Oursta III,Oxygen Isotopes,Rich,2.91
+Sinq Laison,Gallente Border Zone,Iyen-Oursta,Iyen-Oursta IV,Lustering Alloy,Poor,8.18
+Sinq Laison,Gallente Border Zone,Iyen-Oursta,Iyen-Oursta IV,Base Metals,Poor,3.22
+Sinq Laison,Gallente Border Zone,Iyen-Oursta,Iyen-Oursta V,Construction Blocks,Rich,16.76
+Sinq Laison,Gallente Border Zone,Iyen-Oursta,Iyen-Oursta V,Suspended Plasma,Medium,49.37
+Sinq Laison,Gallente Border Zone,Iyen-Oursta,Iyen-Oursta VI,Lustering Alloy,Medium,13.48
+Sinq Laison,Gallente Border Zone,Iyen-Oursta,Iyen-Oursta VI,Base Metals,Perfect,5.52
+Sinq Laison,Gallente Border Zone,Iyen-Oursta,Iyen-Oursta VI,Reactive Metals,Medium,3.93
+Sinq Laison,Gallente Border Zone,Iyen-Oursta,Iyen-Oursta VII,Condensed Alloy,Perfect,23.04
+Sinq Laison,Gallente Border Zone,Iyen-Oursta,Iyen-Oursta VII,Reactive Gas,Medium,13.73
+Sinq Laison,Gallente Border Zone,Iyen-Oursta,Iyen-Oursta VII,Heavy Water,Medium,163.80
+Sinq Laison,Gallente Border Zone,Iyen-Oursta,Iyen-Oursta VIII,Base Metals,Perfect,5.96
+Sinq Laison,Gallente Border Zone,Iyen-Oursta,Iyen-Oursta VIII,Noble Metals,Rich,18.54
+Sinq Laison,Gallente Border Zone,Iyen-Oursta,Iyen-Oursta VIII,Heavy Water,Perfect,232.05
+Sinq Laison,Gallente Border Zone,Faurent,Faurent I,Lustering Alloy,Poor,11.12
+Sinq Laison,Gallente Border Zone,Faurent,Faurent I,Base Metals,Poor,3.44
+Sinq Laison,Gallente Border Zone,Faurent,Faurent II,Lustering Alloy,Medium,17.39
+Sinq Laison,Gallente Border Zone,Faurent,Faurent II,Base Metals,Poor,3.04
+Sinq Laison,Gallente Border Zone,Faurent,Faurent III,Reactive Gas,Perfect,26.18
+Sinq Laison,Gallente Border Zone,Faurent,Faurent III,Condensates,Perfect,15.96
+Sinq Laison,Gallente Border Zone,Faurent,Faurent III,Heavy Water,Medium,146.10
+Sinq Laison,Gallente Border Zone,Faurent,Faurent IV,Gleaming Alloy,Medium,17.09
+Sinq Laison,Gallente Border Zone,Faurent,Faurent IV,Motley Compound,Poor,12.73
+Sinq Laison,Gallente Border Zone,Faurent,Faurent V,Lustering Alloy,Rich,22.20
+Sinq Laison,Gallente Border Zone,Faurent,Faurent V,Noble Gas,Medium,14.32
+Sinq Laison,Gallente Border Zone,Faurent,Faurent V,Base Metals,Rich,5.76
+Sinq Laison,Gallente Border Zone,Faurent,Faurent VI,Lustering Alloy,Poor,13.54
+Sinq Laison,Gallente Border Zone,Faurent,Faurent VI,Base Metals,Rich,5.93
+Sinq Laison,Gallente Border Zone,Faurent,Faurent VI,Coolant,Rich,15.28
+Sinq Laison,Gallente Border Zone,Faurent,Faurent VII,Lustering Alloy,Rich,21.06
+Sinq Laison,Gallente Border Zone,Faurent,Faurent VII,Base Metals,Medium,4.49
+Sinq Laison,Gallente Border Zone,Faurent,Faurent VII,Ionic Solutions,Medium,6.96
+Sinq Laison,Gallente Border Zone,Faurent,Faurent VIII,Lustering Alloy,Medium,16.47
+Sinq Laison,Gallente Border Zone,Faurent,Faurent VIII,Base Metals,Medium,3.95
+Sinq Laison,Gallente Border Zone,Faurent,Faurent IX,Lustering Alloy,Medium,15.82
+Sinq Laison,Gallente Border Zone,Faurent,Faurent IX,Base Metals,Rich,5.16
+Sinq Laison,Gallente Border Zone,Ambeke,Ambeke I,Lustering Alloy,Medium,17.10
+Sinq Laison,Gallente Border Zone,Ambeke,Ambeke I,Base Metals,Poor,2.78
+Sinq Laison,Gallente Border Zone,Ambeke,Ambeke II,Lustering Alloy,Medium,14.21
+Sinq Laison,Gallente Border Zone,Ambeke,Ambeke II,Base Metals,Medium,4.65
+Sinq Laison,Gallente Border Zone,Ambeke,Ambeke III,Lustering Alloy,Poor,12.66
+Sinq Laison,Gallente Border Zone,Ambeke,Ambeke III,Base Metals,Medium,4.69
+Sinq Laison,Gallente Border Zone,Ambeke,Ambeke IV,Lustering Alloy,Poor,14.04
+Sinq Laison,Gallente Border Zone,Ambeke,Ambeke IV,Base Metals,Poor,3.60
+Sinq Laison,Gallente Border Zone,Ambeke,Ambeke V,Lustering Alloy,Rich,22.71
+Sinq Laison,Gallente Border Zone,Ambeke,Ambeke V,Reactive Gas,Poor,13.10
+Sinq Laison,Gallente Border Zone,Ambeke,Ambeke V,Base Metals,Medium,4.65
+Sinq Laison,Gallente Border Zone,Ambeke,Ambeke VI,Lustering Alloy,Rich,19.35
+Sinq Laison,Gallente Border Zone,Ambeke,Ambeke VI,Glossy Compound,Rich,22.11
+Sinq Laison,Gallente Border Zone,Ambeke,Ambeke VI,Base Metals,Perfect,6.45
+Sinq Laison,Gallente Border Zone,Ambeke,Ambeke VII,Lustering Alloy,Medium,17.85
+Sinq Laison,Gallente Border Zone,Ambeke,Ambeke VII,Base Metals,Poor,3.26
+Sinq Laison,Gallente Border Zone,Ambeke,Ambeke VII,Polyaramids,Medium,10.21
+Sinq Laison,Gallente Border Zone,Ambeke,Ambeke VIII,Reactive Gas,Medium,16.25
+Sinq Laison,Gallente Border Zone,Ambeke,Ambeke VIII,Smartfab Units,Medium,10.39
+Sinq Laison,Gallente Border Zone,Ambeke,Ambeke VIII,Heavy Water,Rich,217.35
+Sinq Laison,Gallente Border Zone,Ambeke,Ambeke IX,Noble Metals,Medium,14.14
+Sinq Laison,Gallente Border Zone,Ambeke,Ambeke IX,Smartfab Units,Rich,13.56
+Sinq Laison,Gallente Border Zone,Ambeke,Ambeke IX,Heavy Water,Perfect,285.15
+Sinq Laison,Gallente Border Zone,Ambeke,Ambeke X,Lustering Alloy,Rich,21.90
+Sinq Laison,Gallente Border Zone,Ambeke,Ambeke X,Base Metals,Rich,5.45
+Sinq Laison,Gallente Border Zone,Ambeke,Ambeke X,Reactive Metals,Medium,4.52
+Sinq Laison,Gallente Border Zone,Ambeke,Ambeke XI,Lustering Alloy,Poor,12.95
+Sinq Laison,Gallente Border Zone,Ambeke,Ambeke XI,Base Metals,Medium,4.79
+Sinq Laison,Gallente Border Zone,Carrou,Carrou I,Dark Compound,Medium,15.65
+Sinq Laison,Gallente Border Zone,Carrou,Carrou I,Base Metals,Medium,4.16
+Sinq Laison,Gallente Border Zone,Carrou,Carrou I,Industrial Fibers,Medium,4.53
+Sinq Laison,Gallente Border Zone,Carrou,Carrou II,Sheen Compound,Poor,13.28
+Sinq Laison,Gallente Border Zone,Carrou,Carrou II,Glossy Compound,Medium,19.38
+Sinq Laison,Gallente Border Zone,Carrou,Carrou II,Noble Gas,Rich,22.03
+Sinq Laison,Gallente Border Zone,Carrou,Carrou II,Polyaramids,Rich,13.95
+Sinq Laison,Gallente Border Zone,Carrou,Carrou III,Glossy Compound,Rich,21.23
+Sinq Laison,Gallente Border Zone,Carrou,Carrou III,Noble Gas,Poor,13.68
+Sinq Laison,Gallente Border Zone,Carrou,Carrou III,Base Metals,Medium,4.05
+Sinq Laison,Gallente Border Zone,Carrou,Carrou III,Reactive Metals,Medium,4.52
+Sinq Laison,Gallente Border Zone,Carrou,Carrou IV,Lustering Alloy,Medium,19.14
+Sinq Laison,Gallente Border Zone,Carrou,Carrou IV,Noble Gas,Rich,25.34
+Sinq Laison,Gallente Border Zone,Carrou,Carrou IV,Base Metals,Rich,6.43
+Sinq Laison,Gallente Border Zone,Carrou,Carrou IV,Polyaramids,Rich,16.86
+Sinq Laison,Gallente Border Zone,Carrou,Carrou V,Sheen Compound,Rich,24.11
+Sinq Laison,Gallente Border Zone,Carrou,Carrou V,Noble Gas,Poor,13.30
+Sinq Laison,Gallente Border Zone,Carrou,Carrou V,Base Metals,Medium,5.32
+Sinq Laison,Gallente Border Zone,Carrou,Carrou V,Coolant,Rich,14.36
+Sinq Laison,Gallente Border Zone,Carrou,Carrou VI,Sheen Compound,Medium,18.24
+Sinq Laison,Gallente Border Zone,Carrou,Carrou VI,Fiber Composite,Poor,14.00
+Sinq Laison,Gallente Border Zone,Carrou,Carrou VI,Noble Gas,Medium,19.84
+Sinq Laison,Gallente Border Zone,Carrou,Carrou VI,Coolant,Medium,10.98
+Sinq Laison,Gallente Border Zone,Carrou,Carrou VII,Base Metals,Poor,3.64
+Sinq Laison,Gallente Border Zone,Carrou,Carrou VII,Coolant,Medium,11.86
+Sinq Laison,Gallente Border Zone,Carrou,Carrou VII,Condensates,Rich,15.66
+Sinq Laison,Gallente Border Zone,Direrie,Direrie I,Lustering Alloy,Poor,10.62
+Sinq Laison,Gallente Border Zone,Direrie,Direrie I,Base Metals,Poor,2.58
+Sinq Laison,Gallente Border Zone,Direrie,Direrie II,Motley Compound,Rich,21.27
+Sinq Laison,Gallente Border Zone,Direrie,Direrie II,Glossy Compound,Rich,22.56
+Sinq Laison,Gallente Border Zone,Direrie,Direrie III,Condensed Alloy,Perfect,26.45
+Sinq Laison,Gallente Border Zone,Direrie,Direrie III,Noble Metals,Medium,17.46
+Sinq Laison,Gallente Border Zone,Direrie,Direrie III,Heavy Water,Medium,181.35
+Sinq Laison,Gallente Border Zone,Direrie,Direrie IV,Lustering Alloy,Medium,17.76
+Sinq Laison,Gallente Border Zone,Direrie,Direrie IV,Reactive Gas,Poor,13.98
+Sinq Laison,Gallente Border Zone,Direrie,Direrie IV,Base Metals,Medium,4.46
+Sinq Laison,Gallente Border Zone,Direrie,Direrie V,Lustering Alloy,Perfect,24.61
+Sinq Laison,Gallente Border Zone,Direrie,Direrie V,Base Metals,Rich,5.89
+Sinq Laison,Gallente Border Zone,Direrie,Direrie V,Coolant,Perfect,15.96
+Sinq Laison,Gallente Border Zone,Ignoitton,Ignoitton I,Dark Compound,Poor,14.10
+Sinq Laison,Gallente Border Zone,Ignoitton,Ignoitton I,Industrial Fibers,Medium,4.04
+Sinq Laison,Gallente Border Zone,Ignoitton,Ignoitton I,Supertensile Plastics,Poor,8.31
+Sinq Laison,Gallente Border Zone,Ignoitton,Ignoitton II,Lustering Alloy,Perfect,26.34
+Sinq Laison,Gallente Border Zone,Ignoitton,Ignoitton II,Fiber Composite,Rich,24.08
+Sinq Laison,Gallente Border Zone,Ignoitton,Ignoitton II,Noble Gas,Medium,17.82
+Sinq Laison,Gallente Border Zone,Ignoitton,Ignoitton II,Coolant,Medium,11.24
+Sinq Laison,Gallente Border Zone,Ignoitton,Ignoitton III,Glossy Compound,Medium,19.25
+Sinq Laison,Gallente Border Zone,Ignoitton,Ignoitton III,Noble Gas,Poor,13.30
+Sinq Laison,Gallente Border Zone,Ignoitton,Ignoitton III,Base Metals,Rich,5.33
+Sinq Laison,Gallente Border Zone,Ignoitton,Ignoitton III,Coolant,Rich,15.34
+Sinq Laison,Gallente Border Zone,Ignoitton,Ignoitton IV,Fiber Composite,Rich,24.61
+Sinq Laison,Gallente Border Zone,Ignoitton,Ignoitton IV,Glossy Compound,Poor,14.29
+Sinq Laison,Gallente Border Zone,Ignoitton,Ignoitton IV,Noble Gas,Rich,23.18
+Sinq Laison,Gallente Border Zone,Ignoitton,Ignoitton IV,Coolant,Poor,8.79
+Sinq Laison,Gallente Border Zone,Ignoitton,Ignoitton V,Sheen Compound,Medium,20.14
+Sinq Laison,Gallente Border Zone,Ignoitton,Ignoitton V,Fiber Composite,Poor,13.39
+Sinq Laison,Gallente Border Zone,Ignoitton,Ignoitton V,Noble Gas,Medium,16.67
+Sinq Laison,Gallente Border Zone,Ignoitton,Ignoitton V,Reactive Metals,Medium,4.40
+Sinq Laison,Gallente Border Zone,Ignoitton,Ignoitton VI,Reactive Gas,Rich,25.28
+Sinq Laison,Gallente Border Zone,Ignoitton,Ignoitton VI,Noble Gas,Rich,21.74
+Sinq Laison,Gallente Border Zone,Ignoitton,Ignoitton VI,Reactive Metals,Poor,3.75
+Sinq Laison,Gallente Border Zone,Ignoitton,Ignoitton VI,Polyaramids,Medium,10.95
+Sinq Laison,Spaen,Ardene,Ardene I,Dark Compound,Rich,19.89
+Sinq Laison,Spaen,Ardene,Ardene I,Nanites,Medium,4.36
+Sinq Laison,Spaen,Ardene,Ardene I,Suspended Plasma,Medium,54.00
+Sinq Laison,Spaen,Ardene,Ardene II,Motley Compound,Medium,16.68
+Sinq Laison,Spaen,Ardene,Ardene II,Construction Blocks,Rich,19.25
+Sinq Laison,Spaen,Ardene,Ardene III,Lustering Alloy,Medium,17.37
+Sinq Laison,Spaen,Ardene,Ardene III,Base Metals,Medium,4.80
+Sinq Laison,Spaen,Ardene,Ardene IV,Lustering Alloy,Poor,13.98
+Sinq Laison,Spaen,Ardene,Ardene IV,Base Metals,Medium,4.33
+Sinq Laison,Spaen,Ardene,Ardene V,Lustering Alloy,Poor,11.36
+Sinq Laison,Spaen,Ardene,Ardene V,Base Metals,Medium,4.09
+Sinq Laison,Spaen,Ardene,Ardene VI,Lustering Alloy,Perfect,24.25
+Sinq Laison,Spaen,Ardene,Ardene VI,Base Metals,Medium,4.42
+Sinq Laison,Spaen,Ardene,Ardene VI,Coolant,Medium,10.90
+Sinq Laison,Spaen,Ardene,Ardene VII,Opulent Compound,Perfect,25.84
+Sinq Laison,Spaen,Ardene,Ardene VII,Smartfab Units,Perfect,16.99
+Sinq Laison,Spaen,Ardene,Ardene VII,Heavy Water,Perfect,262.35
+Sinq Laison,Spaen,Ardene,Ardene VIII,Lustering Alloy,Rich,20.46
+Sinq Laison,Spaen,Ardene,Ardene VIII,Base Metals,Medium,4.09
+Sinq Laison,Spaen,Ardene,Ardene VIII,Ionic Solutions,Poor,5.50
+Sinq Laison,Spaen,Boillair,Boillair I,Lustering Alloy,Medium,15.39
+Sinq Laison,Spaen,Boillair,Boillair I,Base Metals,Poor,2.81
+Sinq Laison,Spaen,Boillair,Boillair II,Lustering Alloy,Medium,16.91
+Sinq Laison,Spaen,Boillair,Boillair II,Base Metals,Poor,3.63
+Sinq Laison,Spaen,Boillair,Boillair III,Motley Compound,Medium,18.36
+Sinq Laison,Spaen,Boillair,Boillair III,Plasmoids,Rich,1.32
+Sinq Laison,Spaen,Boillair,Boillair IV,Lustering Alloy,Poor,12.55
+Sinq Laison,Spaen,Boillair,Boillair IV,Base Metals,Poor,3.53
+Sinq Laison,Spaen,Boillair,Boillair V,Reactive Metals,Rich,5.22
+Sinq Laison,Spaen,Boillair,Boillair V,Suspended Plasma,Poor,45.04
+Sinq Laison,Spaen,Boillair,Boillair VI,Lustering Alloy,Rich,22.36
+Sinq Laison,Spaen,Boillair,Boillair VI,Base Metals,Perfect,6.49
+Sinq Laison,Spaen,Boillair,Boillair VI,Polyaramids,Medium,10.43
+Sinq Laison,Spaen,Boillair,Boillair VII,Lustering Alloy,Medium,18.48
+Sinq Laison,Spaen,Boillair,Boillair VII,Base Metals,Rich,5.61
+Sinq Laison,Spaen,Boillair,Boillair VII,Ionic Solutions,Perfect,9.72
+Sinq Laison,Spaen,Boillair,Boillair VIII,Lustering Alloy,Medium,18.12
+Sinq Laison,Spaen,Boillair,Boillair VIII,Glossy Compound,Medium,18.98
+Sinq Laison,Spaen,Boillair,Boillair VIII,Base Metals,Rich,5.40
+Sinq Laison,Spaen,Boillair,Boillair IX,Lustering Alloy,Rich,22.23
+Sinq Laison,Spaen,Boillair,Boillair IX,Base Metals,Rich,5.38
+Sinq Laison,Spaen,Ney,Ney I,Noble Gas,Rich,24.74
+Sinq Laison,Spaen,Ney,Ney I,Noble Metals,Rich,23.89
+Sinq Laison,Spaen,Ney,Ney II,Base Metals,Poor,3.07
+Sinq Laison,Spaen,Ney,Ney II,Industrial Fibers,Poor,3.02
+Sinq Laison,Spaen,Ney,Ney II,Silicate Glass,Medium,8.74
+Sinq Laison,Spaen,Ney,Ney III,Dark Compound,Poor,11.04
+Sinq Laison,Spaen,Ney,Ney III,Industrial Fibers,Medium,4.08
+Sinq Laison,Spaen,Ney,Ney III,Oxygen Isotopes,Poor,2.05
+Sinq Laison,Spaen,Ney,Ney IV,Precious Alloy,Poor,13.87
+Sinq Laison,Spaen,Ney,Ney IV,Industrial Fibers,Poor,2.76
+Sinq Laison,Spaen,Ney,Ney IV,Plasmoids,Medium,1.05
+Sinq Laison,Spaen,Ney,Ney V,Fiber Composite,Rich,23.18
+Sinq Laison,Spaen,Ney,Ney V,Base Metals,Medium,4.74
+Sinq Laison,Spaen,Ney,Ney V,Condensates,Rich,14.59
+Sinq Laison,Spaen,Ney,Ney V,Smartfab Units,Perfect,20.25
+Sinq Laison,Spaen,Ney,Ney VI,Industrial Fibers,Poor,3.53
+Sinq Laison,Spaen,Ney,Ney VI,Supertensile Plastics,Poor,8.80
+Sinq Laison,Spaen,Ney,Ney VI,Oxygen Isotopes,Poor,2.03
+Sinq Laison,Spaen,Ney,Ney VII,Glossy Compound,Poor,13.02
+Sinq Laison,Spaen,Ney,Ney VII,Noble Gas,Medium,19.90
+Sinq Laison,Spaen,Ney,Ney VIII,Reactive Gas,Poor,14.06
+Sinq Laison,Spaen,Ney,Ney VIII,Toxic Metals,Rich,6.53
+Sinq Laison,Spaen,Ney,Ney VIII,Construction Blocks,Poor,14.08
+Sinq Laison,Spaen,Ney,Ney IX,Lucent Compound,Medium,18.90
+Sinq Laison,Spaen,Ney,Ney IX,Toxic Metals,Medium,4.97
+Sinq Laison,Spaen,Ney,Ney IX,Construction Blocks,Rich,23.84
+Sinq Laison,Spaen,Ney,Ney X,Glossy Compound,Medium,18.67
+Sinq Laison,Spaen,Ney,Ney X,Noble Gas,Medium,16.53
+Sinq Laison,Spaen,Ney,Ney X,Reactive Metals,Perfect,6.69
+Sinq Laison,Spaen,Ney,Ney X,Polyaramids,Medium,12.27
+Sinq Laison,Spaen,Ney,Ney XI,Base Metals,Rich,6.23
+Sinq Laison,Spaen,Ney,Ney XI,Coolant,Medium,11.69
+Sinq Laison,Spaen,Ney,Ney XI,Condensates,Medium,11.94
+Sinq Laison,Spaen,Fasse,Fasse I,Noble Gas,Perfect,25.65
+Sinq Laison,Spaen,Fasse,Fasse I,Polyaramids,Medium,10.68
+Sinq Laison,Spaen,Fasse,Fasse II,Noble Gas,Rich,22.00
+Sinq Laison,Spaen,Fasse,Fasse II,Noble Metals,Rich,24.00
+Sinq Laison,Spaen,Fasse,Fasse III,Lustering Alloy,Medium,18.67
+Sinq Laison,Spaen,Fasse,Fasse III,Industrial Fibers,Medium,4.27
+Sinq Laison,Spaen,Fasse,Fasse III,Supertensile Plastics,Medium,10.72
+Sinq Laison,Spaen,Fasse,Fasse IV,Construction Blocks,Rich,24.90
+Sinq Laison,Spaen,Fasse,Fasse IV,Suspended Plasma,Rich,77.99
+Sinq Laison,Spaen,Fasse,Fasse IV,Oxygen Isotopes,Rich,3.69
+Sinq Laison,Spaen,Fasse,Fasse V,Gleaming Alloy,Rich,23.47
+Sinq Laison,Spaen,Fasse,Fasse V,Supertensile Plastics,Rich,14.74
+Sinq Laison,Spaen,Fasse,Fasse V,Construction Blocks,Medium,16.50
+Sinq Laison,Spaen,Fasse,Fasse VI,Noble Gas,Rich,23.34
+Sinq Laison,Spaen,Fasse,Fasse VI,Reactive Metals,Medium,4.56
+Sinq Laison,Spaen,Fasse,Fasse VI,Polyaramids,Rich,14.10
+Sinq Laison,Spaen,Fasse,Fasse VI,Coolant,Rich,13.90
+Sinq Laison,Spaen,Fasse,Fasse VII,Reactive Gas,Rich,25.34
+Sinq Laison,Spaen,Fasse,Fasse VII,Toxic Metals,Medium,3.97
+Sinq Laison,Spaen,Fasse,Fasse VII,Construction Blocks,Rich,20.50
+Sinq Laison,Spaen,Fasse,Fasse VIII,Noble Gas,Rich,25.22
+Sinq Laison,Spaen,Fasse,Fasse VIII,Construction Blocks,Perfect,25.76
+Sinq Laison,Spaen,Fasse,Fasse IX,Crystal Compound,Medium,20.11
+Sinq Laison,Spaen,Fasse,Fasse IX,Construction Blocks,Rich,25.02
+Sinq Laison,Spaen,Fasse,Fasse IX,Nanites,Rich,6.67
+Sinq Laison,Spaen,Ala,Ala I,Precious Alloy,Poor,13.09
+Sinq Laison,Spaen,Ala,Ala I,Toxic Metals,Medium,4.06
+Sinq Laison,Spaen,Ala,Ala I,Industrial Fibers,Medium,4.59
+Sinq Laison,Spaen,Ala,Ala II,Noble Gas,Rich,24.38
+Sinq Laison,Spaen,Ala,Ala II,Construction Blocks,Poor,12.88
+Sinq Laison,Spaen,Ala,Ala III,Lustering Alloy,Medium,17.47
+Sinq Laison,Spaen,Ala,Ala III,Industrial Fibers,Poor,2.80
+Sinq Laison,Spaen,Ala,Ala III,Oxygen Isotopes,Medium,2.64
+Sinq Laison,Spaen,Ala,Ala IV,Lustering Alloy,Poor,15.04
+Sinq Laison,Spaen,Ala,Ala IV,Glossy Compound,Poor,13.44
+Sinq Laison,Spaen,Ala,Ala IV,Noble Gas,Poor,14.40
+Sinq Laison,Spaen,Ala,Ala IV,Ionic Solutions,Medium,7.11
+Sinq Laison,Spaen,Ala,Ala V,Sheen Compound,Medium,17.36
+Sinq Laison,Spaen,Ala,Ala V,Glossy Compound,Medium,15.42
+Sinq Laison,Spaen,Ala,Ala V,Noble Gas,Poor,13.57
+Sinq Laison,Spaen,Ala,Ala V,Reactive Metals,Rich,5.69
+Sinq Laison,Spaen,Ala,Ala VI,Lustering Alloy,Poor,13.33
+Sinq Laison,Spaen,Ala,Ala VI,Base Metals,Medium,4.27
+Sinq Laison,Spaen,Ala,Ala VI,Industrial Fibers,Poor,2.96
+Sinq Laison,Spaen,Ala,Ala VII,Glossy Compound,Poor,14.82
+Sinq Laison,Spaen,Ala,Ala VII,Noble Gas,Rich,20.98
+Sinq Laison,Spaen,Ala,Ala VIII,Lustering Alloy,Medium,17.81
+Sinq Laison,Spaen,Ala,Ala VIII,Toxic Metals,Medium,5.17
+Sinq Laison,Spaen,Ala,Ala VIII,Industrial Fibers,Poor,2.80
+Sinq Laison,Spaen,Gratesier,Gratesier I,Lustering Alloy,Medium,16.27
+Sinq Laison,Spaen,Gratesier,Gratesier I,Industrial Fibers,Poor,3.21
+Sinq Laison,Spaen,Gratesier,Gratesier I,Construction Blocks,Medium,19.02
+Sinq Laison,Spaen,Gratesier,Gratesier II,Dark Compound,Poor,14.62
+Sinq Laison,Spaen,Gratesier,Gratesier II,Base Metals,Medium,4.38
+Sinq Laison,Spaen,Gratesier,Gratesier II,Industrial Fibers,Medium,5.01
+Sinq Laison,Spaen,Gratesier,Gratesier III,Base Metals,Poor,3.92
+Sinq Laison,Spaen,Gratesier,Gratesier III,Industrial Fibers,Poor,3.85
+Sinq Laison,Spaen,Gratesier,Gratesier III,Supertensile Plastics,Poor,8.60
+Sinq Laison,Spaen,Gratesier,Gratesier IV,Supertensile Plastics,Poor,9.90
+Sinq Laison,Spaen,Gratesier,Gratesier IV,Construction Blocks,Medium,15.92
+Sinq Laison,Spaen,Gratesier,Gratesier IV,Oxygen Isotopes,Medium,2.94
+Sinq Laison,Spaen,Gratesier,Gratesier V,Crystal Compound,Rich,23.82
+Sinq Laison,Spaen,Gratesier,Gratesier V,Toxic Metals,Medium,4.12
+Sinq Laison,Spaen,Gratesier,Gratesier V,Construction Blocks,Poor,13.89
+Sinq Laison,Spaen,Gratesier,Gratesier VI,Lucent Compound,Medium,16.02
+Sinq Laison,Spaen,Gratesier,Gratesier VI,Construction Blocks,Medium,16.16
+Sinq Laison,Spaen,Gratesier,Gratesier VI,Suspended Plasma,Medium,58.41
+Sinq Laison,Spaen,Gratesier,Gratesier VII,Glossy Compound,Medium,16.06
+Sinq Laison,Spaen,Gratesier,Gratesier VII,Reactive Gas,Poor,13.70
+Sinq Laison,Spaen,Gratesier,Gratesier VII,Noble Gas,Rich,22.59
+Sinq Laison,Spaen,Gratesier,Gratesier VII,Reactive Metals,Rich,5.63
+Sinq Laison,Spaen,Gratesier,Gratesier VIII,Glossy Compound,Medium,17.07
+Sinq Laison,Spaen,Gratesier,Gratesier VIII,Noble Gas,Medium,19.92
+Sinq Laison,Spaen,Gratesier,Gratesier VIII,Base Metals,Medium,4.57
+Sinq Laison,Spaen,Gratesier,Gratesier VIII,Coolant,Medium,10.57
+Sinq Laison,Spaen,Gratesier,Gratesier IX,Sheen Compound,Medium,20.21
+Sinq Laison,Spaen,Gratesier,Gratesier IX,Noble Gas,Poor,14.18
+Sinq Laison,Spaen,Gratesier,Gratesier IX,Reactive Metals,Rich,6.02
+Sinq Laison,Spaen,Gratesier,Gratesier IX,Coolant,Rich,14.13
+Sinq Laison,Spaen,Gratesier,Gratesier X,Motley Compound,Rich,23.41
+Sinq Laison,Spaen,Gratesier,Gratesier X,Coolant,Poor,8.22
+Sinq Laison,Spaen,Gratesier,Gratesier X,Liquid Ozone,Poor,18.50
+Sinq Laison,Spaen,Schoorasana,Schoorasana I,Noble Gas,Medium,16.45
+Sinq Laison,Spaen,Schoorasana,Schoorasana I,Polyaramids,Medium,13.33
+Sinq Laison,Spaen,Schoorasana,Schoorasana II,Lustering Alloy,Medium,16.82
+Sinq Laison,Spaen,Schoorasana,Schoorasana II,Industrial Fibers,Poor,3.82
+Sinq Laison,Spaen,Schoorasana,Schoorasana II,Oxygen Isotopes,Poor,1.92
+Sinq Laison,Spaen,Schoorasana,Schoorasana III,Dark Compound,Poor,11.47
+Sinq Laison,Spaen,Schoorasana,Schoorasana III,Industrial Fibers,Poor,2.80
+Sinq Laison,Spaen,Schoorasana,Schoorasana III,Silicate Glass,Poor,6.90
+Sinq Laison,Spaen,Schoorasana,Schoorasana IV,Condensed Alloy,Rich,22.69
+Sinq Laison,Spaen,Schoorasana,Schoorasana IV,Fiber Composite,Rich,21.07
+Sinq Laison,Spaen,Schoorasana,Schoorasana IV,Noble Metals,Perfect,29.41
+Sinq Laison,Spaen,Schoorasana,Schoorasana IV,Industrial Fibers,Rich,5.88
+Sinq Laison,Spaen,Schoorasana,Schoorasana V,Lustering Alloy,Medium,17.65
+Sinq Laison,Spaen,Schoorasana,Schoorasana V,Sheen Compound,Poor,13.38
+Sinq Laison,Spaen,Schoorasana,Schoorasana V,Noble Gas,Rich,23.12
+Sinq Laison,Spaen,Schoorasana,Schoorasana V,Ionic Solutions,Medium,7.32
+Sinq Laison,Spaen,Schoorasana,Schoorasana VI,Noble Gas,Medium,16.13
+Sinq Laison,Spaen,Schoorasana,Schoorasana VI,Base Metals,Rich,6.61
+Sinq Laison,Spaen,Schoorasana,Schoorasana VI,Reactive Metals,Rich,6.10
+Sinq Laison,Spaen,Schoorasana,Schoorasana VI,Polyaramids,Rich,16.67
+Sinq Laison,Spaen,Schoorasana,Schoorasana VII,Fiber Composite,Medium,18.99
+Sinq Laison,Spaen,Schoorasana,Schoorasana VII,Reactive Gas,Rich,22.26
+Sinq Laison,Spaen,Schoorasana,Schoorasana VII,Industrial Fibers,Medium,4.44
+Sinq Laison,Spaen,Schoorasana,Schoorasana VII,Condensates,Medium,11.18
+Sinq Laison,Coriault,Vylade,Vylade I,Motley Compound,Rich,17.26
+Sinq Laison,Coriault,Vylade,Vylade I,Plasmoids,Medium,0.91
+Sinq Laison,Coriault,Vylade,Vylade II,Lustering Alloy,Poor,8.38
+Sinq Laison,Coriault,Vylade,Vylade II,Base Metals,Poor,3.19
+Sinq Laison,Coriault,Vylade,Vylade III,Coolant,Medium,8.36
+Sinq Laison,Coriault,Vylade,Vylade III,Silicate Glass,Perfect,10.90
+Sinq Laison,Coriault,Vylade,Vylade III,Heavy Water,Medium,156.78
+Sinq Laison,Coriault,Vylade,Vylade IV,Lustering Alloy,Rich,16.51
+Sinq Laison,Coriault,Vylade,Vylade IV,Glossy Compound,Medium,13.44
+Sinq Laison,Coriault,Vylade,Vylade IV,Base Metals,Medium,3.39
+Sinq Laison,Coriault,Vylade,Vylade V,Lustering Alloy,Medium,12.54
+Sinq Laison,Coriault,Vylade,Vylade V,Base Metals,Rich,5.31
+Sinq Laison,Coriault,Vylade,Vylade V,Ionic Solutions,Medium,6.54
+Sinq Laison,Coriault,Vylade,Vylade VI,Lustering Alloy,Medium,12.60
+Sinq Laison,Coriault,Vylade,Vylade VI,Glossy Compound,Rich,20.12
+Sinq Laison,Coriault,Vylade,Vylade VI,Base Metals,Medium,3.56
+Sinq Laison,Coriault,Vylade,Vylade VII,Lustering Alloy,Medium,13.18
+Sinq Laison,Coriault,Vylade,Vylade VII,Base Metals,Rich,4.78
+Sinq Laison,Coriault,Vylade,Vylade VIII,Lustering Alloy,Poor,9.84
+Sinq Laison,Coriault,Vylade,Vylade VIII,Base Metals,Medium,4.14
+Sinq Laison,Coriault,Auvergne,Auvergne I,Gleaming Alloy,Rich,17.81
+Sinq Laison,Coriault,Auvergne,Auvergne I,Suspended Plasma,Medium,47.69
+Sinq Laison,Coriault,Auvergne,Auvergne II,Lustering Alloy,Poor,9.08
+Sinq Laison,Coriault,Auvergne,Auvergne II,Base Metals,Medium,3.66
+Sinq Laison,Coriault,Auvergne,Auvergne III,Reactive Gas,Medium,13.40
+Sinq Laison,Coriault,Auvergne,Auvergne III,Suspended Plasma,Poor,39.92
+Sinq Laison,Coriault,Auvergne,Auvergne IV,Lustering Alloy,Rich,17.99
+Sinq Laison,Coriault,Auvergne,Auvergne IV,Fiber Composite,Rich,18.26
+Sinq Laison,Coriault,Auvergne,Auvergne IV,Base Metals,Rich,4.58
+Sinq Laison,Coriault,Auvergne,Auvergne V,Lustering Alloy,Medium,14.53
+Sinq Laison,Coriault,Auvergne,Auvergne V,Fiber Composite,Medium,12.14
+Sinq Laison,Coriault,Auvergne,Auvergne V,Base Metals,Perfect,5.24
+Sinq Laison,Coriault,Auvergne,Auvergne VI,Lustering Alloy,Rich,18.07
+Sinq Laison,Coriault,Auvergne,Auvergne VI,Base Metals,Rich,4.27
+Sinq Laison,Coriault,Auvergne,Auvergne VI,Polyaramids,Poor,6.66
+Sinq Laison,Coriault,Auvergne,Auvergne VII,Supertensile Plastics,Medium,8.46
+Sinq Laison,Coriault,Auvergne,Auvergne VII,Suspended Plasma,Rich,67.13
+Sinq Laison,Coriault,Auvergne,Auvergne VIII,Lustering Alloy,Medium,11.98
+Sinq Laison,Coriault,Auvergne,Auvergne VIII,Base Metals,Medium,3.07
+Sinq Laison,Coriault,Aunia,Aunia I,Lustering Alloy,Medium,13.46
+Sinq Laison,Coriault,Aunia,Aunia I,Sheen Compound,Medium,11.80
+Sinq Laison,Coriault,Aunia,Aunia I,Base Metals,Rich,5.01
+Sinq Laison,Coriault,Aunia,Aunia II,Lustering Alloy,Medium,13.48
+Sinq Laison,Coriault,Aunia,Aunia II,Base Metals,Medium,3.61
+Sinq Laison,Coriault,Aunia,Aunia III,Lustering Alloy,Medium,13.27
+Sinq Laison,Coriault,Aunia,Aunia III,Base Metals,Medium,3.65
+Sinq Laison,Coriault,Aunia,Aunia IV,Lustering Alloy,Poor,9.12
+Sinq Laison,Coriault,Aunia,Aunia IV,Base Metals,Poor,2.41
+Sinq Laison,Coriault,Agrallarier,Agrallarier I,Gleaming Alloy,Medium,14.84
+Sinq Laison,Coriault,Agrallarier,Agrallarier I,Motley Compound,Rich,16.52
+Sinq Laison,Coriault,Agrallarier,Agrallarier II,Motley Compound,Medium,11.44
+Sinq Laison,Coriault,Agrallarier,Agrallarier II,Plasmoids,Medium,0.74
+Sinq Laison,Coriault,Agrallarier,Agrallarier III,Smartfab Units,Rich,10.34
+Sinq Laison,Coriault,Agrallarier,Agrallarier III,Heavy Water,Perfect,204.36
+Sinq Laison,Coriault,Agrallarier,Agrallarier III,Liquid Ozone,Perfect,26.75
+Sinq Laison,Coriault,Agrallarier,Agrallarier IV,Condensed Alloy,Perfect,20.72
+Sinq Laison,Coriault,Agrallarier,Agrallarier IV,Heavy Water,Rich,167.64
+Sinq Laison,Coriault,Agrallarier,Agrallarier IV,Ionic Solutions,Rich,6.27
+Sinq Laison,Coriault,Agrallarier,Agrallarier V,Lustering Alloy,Poor,10.03
+Sinq Laison,Coriault,Agrallarier,Agrallarier V,Base Metals,Rich,4.07
+Sinq Laison,Coriault,Agrallarier,Agrallarier V,Polyaramids,Rich,11.36
+Sinq Laison,Coriault,Agrallarier,Agrallarier VI,Lustering Alloy,Medium,13.02
+Sinq Laison,Coriault,Agrallarier,Agrallarier VI,Noble Gas,Poor,9.88
+Sinq Laison,Coriault,Agrallarier,Agrallarier VI,Base Metals,Medium,3.52
+Sinq Laison,Coriault,Agrallarier,Agrallarier VII,Lustering Alloy,Medium,12.53
+Sinq Laison,Coriault,Agrallarier,Agrallarier VII,Noble Gas,Rich,18.60
+Sinq Laison,Coriault,Agrallarier,Agrallarier VII,Base Metals,Poor,2.64
+Sinq Laison,Coriault,Agrallarier,Agrallarier VIII,Lustering Alloy,Rich,15.37
+Sinq Laison,Coriault,Agrallarier,Agrallarier VIII,Fiber Composite,Perfect,19.66
+Sinq Laison,Coriault,Agrallarier,Agrallarier VIII,Base Metals,Medium,3.73
+Sinq Laison,Coriault,Dodixie,Dodixie I,Lustering Alloy,Medium,12.11
+Sinq Laison,Coriault,Dodixie,Dodixie I,Base Metals,Medium,3.46
+Sinq Laison,Coriault,Dodixie,Dodixie II,Lustering Alloy,Medium,12.76
+Sinq Laison,Coriault,Dodixie,Dodixie II,Base Metals,Poor,2.06
+Sinq Laison,Coriault,Dodixie,Dodixie III,Motley Compound,Poor,9.86
+Sinq Laison,Coriault,Dodixie,Dodixie III,Heavy Metals,Poor,10.62
+Sinq Laison,Coriault,Dodixie,Dodixie IV,Lustering Alloy,Poor,9.96
+Sinq Laison,Coriault,Dodixie,Dodixie IV,Base Metals,Poor,2.24
+Sinq Laison,Coriault,Dodixie,Dodixie V,Nanites,Medium,3.66
+Sinq Laison,Coriault,Dodixie,Dodixie V,Suspended Plasma,Poor,37.58
+Sinq Laison,Coriault,Dodixie,Dodixie VI,Base Metals,Medium,3.54
+Sinq Laison,Coriault,Dodixie,Dodixie VI,Industrial Fibers,Rich,4.11
+Sinq Laison,Coriault,Dodixie,Dodixie VI,Heavy Water,Perfect,215.40
+Sinq Laison,Coriault,Dodixie,Dodixie VII,Lustering Alloy,Medium,11.47
+Sinq Laison,Coriault,Dodixie,Dodixie VII,Noble Gas,Rich,16.82
+Sinq Laison,Coriault,Dodixie,Dodixie VII,Base Metals,Medium,3.68
+Sinq Laison,Coriault,Dodixie,Dodixie VIII,Lustering Alloy,Rich,18.59
+Sinq Laison,Coriault,Dodixie,Dodixie VIII,Base Metals,Medium,3.44
+Sinq Laison,Coriault,Dodixie,Dodixie VIII,Ionic Solutions,Rich,7.16
+Sinq Laison,Coriault,Dodixie,Dodixie IX,Lustering Alloy,Rich,18.44
+Sinq Laison,Coriault,Dodixie,Dodixie IX,Sheen Compound,Rich,17.24
+Sinq Laison,Coriault,Dodixie,Dodixie IX,Base Metals,Medium,3.96
+Sinq Laison,Coriault,Dodixie,Dodixie X,Lustering Alloy,Medium,15.04
+Sinq Laison,Coriault,Dodixie,Dodixie X,Base Metals,Perfect,5.15
+Sinq Laison,Coriault,Dodixie,Dodixie X,Polyaramids,Medium,7.89
+Sinq Laison,Coriault,Eglennaert,Eglennaert I,Lustering Alloy,Poor,9.94
+Sinq Laison,Coriault,Eglennaert,Eglennaert I,Sheen Compound,Rich,16.58
+Sinq Laison,Coriault,Eglennaert,Eglennaert I,Base Metals,Perfect,5.23
+Sinq Laison,Coriault,Botane,Botane I,Lustering Alloy,Medium,12.34
+Sinq Laison,Coriault,Botane,Botane I,Base Metals,Medium,3.51
+Sinq Laison,Coriault,Botane,Botane II,Lustering Alloy,Medium,13.78
+Sinq Laison,Coriault,Botane,Botane II,Base Metals,Medium,3.49
+Sinq Laison,Coriault,Botane,Botane III,Lustering Alloy,Medium,14.70
+Sinq Laison,Coriault,Botane,Botane III,Base Metals,Poor,2.43
+Sinq Laison,Coriault,Botane,Botane IV,Lustering Alloy,Poor,10.33
+Sinq Laison,Coriault,Botane,Botane IV,Fiber Composite,Poor,10.26
+Sinq Laison,Coriault,Botane,Botane IV,Base Metals,Medium,3.09
+Sinq Laison,Coriault,Botane,Botane V,Lustering Alloy,Rich,15.22
+Sinq Laison,Coriault,Botane,Botane V,Base Metals,Poor,2.80
+Sinq Laison,Coriault,Botane,Botane V,Polyaramids,Perfect,12.76
+Sinq Laison,Coriault,Botane,Botane VI,Condensates,Perfect,13.70
+Sinq Laison,Coriault,Botane,Botane VI,Smartfab Units,Perfect,13.90
+Sinq Laison,Coriault,Botane,Botane VI,Heavy Water,Perfect,216.84
+Sinq Laison,Coriault,Botane,Botane VII,Lustering Alloy,Poor,8.83
+Sinq Laison,Coriault,Botane,Botane VII,Base Metals,Poor,2.97
+Sinq Laison,Firille,Pulin,Pulin I,Lustering Alloy,Medium,16.71
+Sinq Laison,Firille,Pulin,Pulin I,Base Metals,Poor,2.77
+Sinq Laison,Firille,Pulin,Pulin II,Lustering Alloy,Medium,16.71
+Sinq Laison,Firille,Pulin,Pulin II,Base Metals,Medium,4.19
+Sinq Laison,Firille,Pulin,Pulin III,Crystal Compound,Rich,21.77
+Sinq Laison,Firille,Pulin,Pulin III,Heavy Water,Medium,171.30
+Sinq Laison,Firille,Pulin,Pulin III,Ionic Solutions,Medium,5.75
+Sinq Laison,Firille,Pulin,Pulin IV,Crystal Compound,Medium,15.27
+Sinq Laison,Firille,Pulin,Pulin IV,Silicate Glass,Perfect,12.46
+Sinq Laison,Firille,Pulin,Pulin IV,Heavy Water,Rich,208.05
+Sinq Laison,Firille,Pulin,Pulin V,Lustering Alloy,Medium,16.93
+Sinq Laison,Firille,Pulin,Pulin V,Fiber Composite,Rich,20.02
+Sinq Laison,Firille,Pulin,Pulin V,Base Metals,Rich,5.06
+Sinq Laison,Firille,Pulin,Pulin VI,Lustering Alloy,Rich,19.95
+Sinq Laison,Firille,Pulin,Pulin VI,Reactive Gas,Rich,22.45
+Sinq Laison,Firille,Pulin,Pulin VI,Base Metals,Rich,5.25
+Sinq Laison,Firille,Pulin,Pulin VII,Lustering Alloy,Medium,15.57
+Sinq Laison,Firille,Pulin,Pulin VII,Glossy Compound,Poor,13.76
+Sinq Laison,Firille,Pulin,Pulin VII,Base Metals,Medium,4.11
+Sinq Laison,Firille,Pulin,Pulin VIII,Lustering Alloy,Poor,13.77
+Sinq Laison,Firille,Pulin,Pulin VIII,Base Metals,Medium,4.03
+Sinq Laison,Firille,Foves,Foves I,Motley Compound,Rich,21.48
+Sinq Laison,Firille,Foves,Foves I,Noble Metals,Medium,17.26
+Sinq Laison,Firille,Foves,Foves II,Lustering Alloy,Poor,10.72
+Sinq Laison,Firille,Foves,Foves II,Base Metals,Medium,3.99
+Sinq Laison,Firille,Foves,Foves III,Crystal Compound,Rich,20.69
+Sinq Laison,Firille,Foves,Foves III,Suspended Plasma,Medium,60.78
+Sinq Laison,Firille,Foves,Foves IV,Crystal Compound,Medium,13.30
+Sinq Laison,Firille,Foves,Foves IV,Heavy Water,Perfect,235.62
+Sinq Laison,Firille,Foves,Foves IV,Ionic Solutions,Perfect,9.73
+Sinq Laison,Firille,Foves,Foves V,Lustering Alloy,Medium,16.63
+Sinq Laison,Firille,Foves,Foves V,Base Metals,Medium,3.68
+Sinq Laison,Firille,Foves,Foves VI,Lustering Alloy,Medium,16.23
+Sinq Laison,Firille,Foves,Foves VI,Base Metals,Rich,4.74
+Sinq Laison,Firille,Foves,Foves VI,Polyaramids,Medium,8.84
+Sinq Laison,Firille,Foves,Foves VII,Lustering Alloy,Rich,19.49
+Sinq Laison,Firille,Foves,Foves VII,Base Metals,Medium,4.22
+Sinq Laison,Firille,Foves,Foves VII,Ionic Solutions,Rich,7.25
+Sinq Laison,Firille,Alles,Alles I,Lustering Alloy,Poor,10.96
+Sinq Laison,Firille,Alles,Alles I,Base Metals,Poor,3.10
+Sinq Laison,Firille,Alles,Alles II,Motley Compound,Rich,19.36
+Sinq Laison,Firille,Alles,Alles II,Polyaramids,Medium,10.56
+Sinq Laison,Firille,Alles,Alles III,Lustering Alloy,Medium,13.83
+Sinq Laison,Firille,Alles,Alles III,Base Metals,Poor,2.24
+Sinq Laison,Firille,Alles,Alles IV,Motley Compound,Rich,17.45
+Sinq Laison,Firille,Alles,Alles IV,Noble Metals,Perfect,21.46
+Sinq Laison,Firille,Alles,Alles V,Lustering Alloy,Rich,19.97
+Sinq Laison,Firille,Alles,Alles V,Base Metals,Poor,3.21
+Sinq Laison,Firille,Alles,Alles V,Coolant,Medium,9.57
+Sinq Laison,Firille,Alles,Alles VI,Lustering Alloy,Rich,18.88
+Sinq Laison,Firille,Alles,Alles VI,Sheen Compound,Rich,20.50
+Sinq Laison,Firille,Alles,Alles VI,Base Metals,Poor,3.09
+Sinq Laison,Firille,Alles,Alles VII,Lustering Alloy,Rich,17.12
+Sinq Laison,Firille,Alles,Alles VII,Reactive Gas,Rich,18.66
+Sinq Laison,Firille,Alles,Alles VII,Base Metals,Perfect,5.47
+Sinq Laison,Firille,Alles,Alles VIII,Lustering Alloy,Poor,11.35
+Sinq Laison,Firille,Alles,Alles VIII,Base Metals,Poor,3.08
+Sinq Laison,Firille,Alles,Alles VIII,Coolant,Poor,7.89
+Sinq Laison,Firille,Alles,Alles IX,Nanites,Rich,4.82
+Sinq Laison,Firille,Alles,Alles IX,Suspended Plasma,Rich,59.25
+Sinq Laison,Firille,Misneden,Misneden I,Motley Compound,Rich,23.36
+Sinq Laison,Firille,Misneden,Misneden I,Noble Metals,Rich,19.47
+Sinq Laison,Firille,Misneden,Misneden II,Gleaming Alloy,Medium,18.34
+Sinq Laison,Firille,Misneden,Misneden II,Motley Compound,Poor,13.79
+Sinq Laison,Firille,Misneden,Misneden III,Lustering Alloy,Poor,10.37
+Sinq Laison,Firille,Misneden,Misneden III,Base Metals,Medium,4.18
+Sinq Laison,Firille,Misneden,Misneden IV,Lustering Alloy,Rich,20.66
+Sinq Laison,Firille,Misneden,Misneden IV,Sheen Compound,Rich,21.70
+Sinq Laison,Firille,Misneden,Misneden IV,Base Metals,Rich,5.33
+Sinq Laison,Firille,Misneden,Misneden V,Lustering Alloy,Medium,17.48
+Sinq Laison,Firille,Misneden,Misneden V,Sheen Compound,Rich,21.55
+Sinq Laison,Firille,Misneden,Misneden V,Base Metals,Medium,4.39
+Sinq Laison,Firille,Misneden,Misneden VI,Lustering Alloy,Poor,13.95
+Sinq Laison,Firille,Misneden,Misneden VI,Base Metals,Medium,4.24
+Sinq Laison,Firille,Misneden,Misneden VII,Gleaming Alloy,Medium,15.49
+Sinq Laison,Firille,Misneden,Misneden VII,Suspended Plasma,Rich,80.57
+Sinq Laison,Firille,Misneden,Misneden VIII,Noble Metals,Rich,19.88
+Sinq Laison,Firille,Misneden,Misneden VIII,Silicate Glass,Rich,10.03
+Sinq Laison,Firille,Misneden,Misneden VIII,Heavy Water,Rich,221.55
+Sinq Laison,Firille,Basgerin,Basgerin I,Glossy Compound,Rich,23.82
+Sinq Laison,Firille,Basgerin,Basgerin I,Noble Gas,Perfect,27.61
+Sinq Laison,Firille,Basgerin,Basgerin II,Industrial Fibers,Poor,3.28
+Sinq Laison,Firille,Basgerin,Basgerin II,Oxygen Isotopes,Poor,2.36
+Sinq Laison,Firille,Basgerin,Basgerin II,Plasmoids,Poor,0.95
+Sinq Laison,Firille,Basgerin,Basgerin III,Noble Gas,Medium,21.37
+Sinq Laison,Firille,Basgerin,Basgerin III,Polyaramids,Rich,17.29
+Sinq Laison,Firille,Basgerin,Basgerin IV,Gleaming Alloy,Medium,19.53
+Sinq Laison,Firille,Basgerin,Basgerin IV,Construction Blocks,Rich,24.94
+Sinq Laison,Firille,Basgerin,Basgerin IV,Nanites,Poor,4.16
+Sinq Laison,Firille,Basgerin,Basgerin V,Industrial Fibers,Medium,4.38
+Sinq Laison,Firille,Basgerin,Basgerin V,Oxygen Isotopes,Medium,2.48
+Sinq Laison,Firille,Basgerin,Basgerin V,Plasmoids,Medium,1.13
+Sinq Laison,Firille,Basgerin,Basgerin VI,Base Metals,Medium,4.92
+Sinq Laison,Firille,Basgerin,Basgerin VI,Industrial Fibers,Poor,3.64
+Sinq Laison,Firille,Basgerin,Basgerin VI,Silicate Glass,Medium,10.09
+Sinq Laison,Firille,Basgerin,Basgerin VII,Reactive Gas,Rich,24.62
+Sinq Laison,Firille,Basgerin,Basgerin VII,Noble Gas,Medium,18.75
+Sinq Laison,Firille,Basgerin,Basgerin VII,Reactive Metals,Poor,4.02
+Sinq Laison,Firille,Basgerin,Basgerin VII,Coolant,Rich,14.57
+Sinq Laison,Firille,Basgerin,Basgerin VIII,Lustering Alloy,Poor,14.45
+Sinq Laison,Firille,Basgerin,Basgerin VIII,Reactive Gas,Poor,15.32
+Sinq Laison,Firille,Basgerin,Basgerin VIII,Noble Gas,Poor,14.60
+Sinq Laison,Firille,Basgerin,Basgerin VIII,Base Metals,Rich,6.60
+Sinq Laison,Firille,Basgerin,Basgerin IX,Glossy Compound,Perfect,28.10
+Sinq Laison,Firille,Basgerin,Basgerin IX,Noble Gas,Medium,21.01
+Sinq Laison,Firille,Basgerin,Basgerin IX,Base Metals,Medium,5.23
+Sinq Laison,Firille,Basgerin,Basgerin IX,Reactive Metals,Poor,4.14
+Sinq Laison,Firille,Basgerin,Basgerin X,Sheen Compound,Rich,26.23
+Sinq Laison,Firille,Basgerin,Basgerin X,Noble Gas,Medium,16.80
+Sinq Laison,Firille,Basgerin,Basgerin X,Base Metals,Rich,7.10
+Sinq Laison,Firille,Basgerin,Basgerin X,Ionic Solutions,Rich,9.49
+Sinq Laison,Firille,Basgerin,Basgerin XI,Industrial Fibers,Poor,4.08
+Sinq Laison,Firille,Basgerin,Basgerin XI,Construction Blocks,Poor,13.38
+Sinq Laison,Firille,Basgerin,Basgerin XI,Oxygen Isotopes,Poor,2.02
+Sinq Laison,Firille,Chelien,Chelien I,Motley Compound,Rich,22.12
+Sinq Laison,Firille,Chelien,Chelien I,Plasmoids,Rich,1.14
+Sinq Laison,Firille,Chelien,Chelien II,Lustering Alloy,Poor,9.86
+Sinq Laison,Firille,Chelien,Chelien II,Base Metals,Poor,2.61
+Sinq Laison,Firille,Chelien,Chelien III,Lustering Alloy,Medium,16.11
+Sinq Laison,Firille,Chelien,Chelien III,Base Metals,Medium,3.94
+Sinq Laison,Firille,Chelien,Chelien IV,Lustering Alloy,Medium,14.42
+Sinq Laison,Firille,Chelien,Chelien IV,Base Metals,Medium,4.36
+Sinq Laison,Firille,Chelien,Chelien IV,Reactive Metals,Medium,3.86
+Sinq Laison,Firille,Chelien,Chelien V,Fiber Composite,Perfect,24.16
+Sinq Laison,Firille,Chelien,Chelien V,Reactive Gas,Rich,20.19
+Sinq Laison,Firille,Chelien,Chelien V,Heavy Water,Perfect,261.80
+Sinq Laison,Firille,Chelien,Chelien VI,Lustering Alloy,Poor,10.50
+Sinq Laison,Firille,Chelien,Chelien VI,Base Metals,Poor,3.36
+Sinq Laison,Jonenor,Trosquesere,Trosquesere I,Lustering Alloy,Medium,13.51
+Sinq Laison,Jonenor,Trosquesere,Trosquesere I,Base Metals,Medium,3.10
+Sinq Laison,Jonenor,Trosquesere,Trosquesere II,Motley Compound,Rich,16.09
+Sinq Laison,Jonenor,Trosquesere,Trosquesere II,Glossy Compound,Medium,13.27
+Sinq Laison,Jonenor,Trosquesere,Trosquesere III,Reactive Gas,Rich,18.54
+Sinq Laison,Jonenor,Trosquesere,Trosquesere III,Industrial Fibers,Medium,3.51
+Sinq Laison,Jonenor,Trosquesere,Trosquesere III,Heavy Water,Perfect,219.60
+Sinq Laison,Jonenor,Trosquesere,Trosquesere IV,Toxic Metals,Poor,2.95
+Sinq Laison,Jonenor,Trosquesere,Trosquesere IV,Suspended Plasma,Medium,40.95
+Sinq Laison,Jonenor,Trosquesere,Trosquesere V,Lustering Alloy,Medium,13.70
+Sinq Laison,Jonenor,Trosquesere,Trosquesere V,Base Metals,Medium,3.61
+Sinq Laison,Jonenor,Trosquesere,Trosquesere V,Polyaramids,Medium,9.98
+Sinq Laison,Jonenor,Trosquesere,Trosquesere VI,Lustering Alloy,Poor,11.00
+Sinq Laison,Jonenor,Trosquesere,Trosquesere VI,Base Metals,Rich,4.87
+Sinq Laison,Jonenor,Trosquesere,Trosquesere VI,Coolant,Rich,11.72
+Sinq Laison,Jonenor,Trosquesere,Trosquesere VII,Lustering Alloy,Medium,12.80
+Sinq Laison,Jonenor,Trosquesere,Trosquesere VII,Base Metals,Medium,3.37
+Sinq Laison,Jonenor,Trosquesere,Trosquesere VII,Reactive Metals,Medium,3.66
+Sinq Laison,Jonenor,Trosquesere,Trosquesere VIII,Lustering Alloy,Rich,15.96
+Sinq Laison,Jonenor,Trosquesere,Trosquesere VIII,Base Metals,Medium,3.57
+Sinq Laison,Jonenor,Trosquesere,Trosquesere IX,Lustering Alloy,Poor,10.57
+Sinq Laison,Jonenor,Trosquesere,Trosquesere IX,Base Metals,Medium,3.62
+Sinq Laison,Jonenor,Ansone,Ansone I,Lustering Alloy,Medium,15.65
+Sinq Laison,Jonenor,Ansone,Ansone I,Base Metals,Poor,2.82
+Sinq Laison,Jonenor,Ansone,Ansone II,Lustering Alloy,Medium,14.53
+Sinq Laison,Jonenor,Ansone,Ansone II,Base Metals,Poor,2.54
+Sinq Laison,Jonenor,Ansone,Ansone III,Condensed Alloy,Perfect,22.39
+Sinq Laison,Jonenor,Ansone,Ansone III,Base Metals,Perfect,6.38
+Sinq Laison,Jonenor,Ansone,Ansone III,Heavy Water,Rich,184.60
+Sinq Laison,Jonenor,Ansone,Ansone IV,Lustering Alloy,Rich,17.39
+Sinq Laison,Jonenor,Ansone,Ansone IV,Base Metals,Medium,3.46
+Sinq Laison,Jonenor,Ansone,Ansone IV,Polyaramids,Medium,8.65
+Sinq Laison,Jonenor,Ansone,Ansone V,Reactive Metals,Medium,4.26
+Sinq Laison,Jonenor,Ansone,Ansone V,Suspended Plasma,Medium,57.33
+Sinq Laison,Jonenor,Ansone,Ansone VI,Crystal Compound,Rich,20.40
+Sinq Laison,Jonenor,Ansone,Ansone VI,Heavy Water,Perfect,226.98
+Sinq Laison,Jonenor,Ansone,Ansone VI,Liquid Ozone,Perfect,27.71
+Sinq Laison,Jonenor,Ansone,Ansone VII,Lustering Alloy,Medium,14.51
+Sinq Laison,Jonenor,Ansone,Ansone VII,Base Metals,Medium,4.05
+Sinq Laison,Jonenor,Dunraelare,Dunraelare I,Lustering Alloy,Poor,9.72
+Sinq Laison,Jonenor,Dunraelare,Dunraelare I,Base Metals,Medium,4.47
+Sinq Laison,Jonenor,Dunraelare,Dunraelare II,Noble Gas,Perfect,23.14
+Sinq Laison,Jonenor,Dunraelare,Dunraelare II,Condensates,Medium,11.25
+Sinq Laison,Jonenor,Dunraelare,Dunraelare II,Suspended Plasma,Rich,78.78
+Sinq Laison,Jonenor,Dunraelare,Dunraelare III,Lustering Alloy,Poor,10.58
+Sinq Laison,Jonenor,Dunraelare,Dunraelare III,Base Metals,Medium,3.76
+Sinq Laison,Jonenor,Dunraelare,Dunraelare IV,Fiber Composite,Medium,16.55
+Sinq Laison,Jonenor,Dunraelare,Dunraelare IV,Smartfab Units,Medium,9.14
+Sinq Laison,Jonenor,Dunraelare,Dunraelare IV,Heavy Water,Perfect,224.98
+Sinq Laison,Jonenor,Dunraelare,Dunraelare V,Lustering Alloy,Poor,10.63
+Sinq Laison,Jonenor,Dunraelare,Dunraelare V,Base Metals,Medium,3.49
+Sinq Laison,Jonenor,Dunraelare,Dunraelare VI,Reactive Gas,Medium,16.51
+Sinq Laison,Jonenor,Dunraelare,Dunraelare VI,Suspended Plasma,Rich,73.79
+Sinq Laison,Jonenor,Dunraelare,Dunraelare VII,Lustering Alloy,Medium,13.34
+Sinq Laison,Jonenor,Dunraelare,Dunraelare VII,Base Metals,Rich,5.64
+Sinq Laison,Jonenor,Dunraelare,Dunraelare VII,Coolant,Rich,13.63
+Sinq Laison,Jonenor,Dunraelare,Dunraelare VIII,Lustering Alloy,Poor,11.62
+Sinq Laison,Jonenor,Dunraelare,Dunraelare VIII,Noble Gas,Medium,17.57
+Sinq Laison,Jonenor,Dunraelare,Dunraelare VIII,Base Metals,Medium,4.43
+Sinq Laison,Jonenor,Dunraelare,Dunraelare IX,Lustering Alloy,Poor,10.54
+Sinq Laison,Jonenor,Dunraelare,Dunraelare IX,Base Metals,Poor,2.32
+Sinq Laison,Jonenor,Nausschie,Nausschie I,Lustering Alloy,Poor,8.67
+Sinq Laison,Jonenor,Nausschie,Nausschie I,Base Metals,Medium,3.71
+Sinq Laison,Jonenor,Nausschie,Nausschie II,Nanites,Medium,3.23
+Sinq Laison,Jonenor,Nausschie,Nausschie II,Suspended Plasma,Medium,51.53
+Sinq Laison,Jonenor,Nausschie,Nausschie III,Lustering Alloy,Medium,15.02
+Sinq Laison,Jonenor,Nausschie,Nausschie III,Base Metals,Medium,3.50
+Sinq Laison,Jonenor,Nausschie,Nausschie IV,Suspended Plasma,Poor,42.35
+Sinq Laison,Jonenor,Nausschie,Nausschie IV,Oxygen Isotopes,Rich,2.57
+Sinq Laison,Jonenor,Nausschie,Nausschie V,Gleaming Alloy,Poor,10.52
+Sinq Laison,Jonenor,Nausschie,Nausschie V,Suspended Plasma,Poor,43.29
+Sinq Laison,Jonenor,Nausschie,Nausschie VI,Toxic Metals,Medium,3.64
+Sinq Laison,Jonenor,Nausschie,Nausschie VI,Heavy Water,Perfect,217.88
+Sinq Laison,Jonenor,Nausschie,Nausschie VI,Liquid Ozone,Perfect,26.84
+Sinq Laison,Jonenor,Nausschie,Nausschie VII,Motley Compound,Perfect,21.79
+Sinq Laison,Jonenor,Nausschie,Nausschie VII,Polyaramids,Poor,7.46
+Sinq Laison,Jonenor,Nausschie,Nausschie VIII,Lustering Alloy,Poor,9.14
+Sinq Laison,Jonenor,Nausschie,Nausschie VIII,Base Metals,Poor,2.48
+Sinq Laison,Jonenor,Nausschie,Nausschie IX,Lustering Alloy,Poor,10.09
+Sinq Laison,Jonenor,Nausschie,Nausschie IX,Base Metals,Medium,3.97
+Sinq Laison,Jonenor,Nausschie,Nausschie X,Lustering Alloy,Rich,16.76
+Sinq Laison,Jonenor,Nausschie,Nausschie X,Base Metals,Rich,4.62
+Sinq Laison,Jonenor,Nausschie,Nausschie X,Reactive Metals,Poor,2.97
+Sinq Laison,Jonenor,Nausschie,Nausschie XI,Lustering Alloy,Rich,17.85
+Sinq Laison,Jonenor,Nausschie,Nausschie XI,Base Metals,Medium,3.23
+Sinq Laison,Jonenor,Nausschie,Nausschie XI,Polyaramids,Rich,12.75
+Sinq Laison,Jonenor,Inghenges,Inghenges I,Lustering Alloy,Poor,9.91
+Sinq Laison,Jonenor,Inghenges,Inghenges I,Base Metals,Medium,3.97
+Sinq Laison,Jonenor,Inghenges,Inghenges II,Reactive Gas,Rich,18.52
+Sinq Laison,Jonenor,Inghenges,Inghenges II,Noble Metals,Perfect,23.24
+Sinq Laison,Jonenor,Inghenges,Inghenges II,Heavy Water,Perfect,215.02
+Sinq Laison,Jonenor,Inghenges,Inghenges III,Lustering Alloy,Rich,20.03
+Sinq Laison,Jonenor,Inghenges,Inghenges III,Fiber Composite,Medium,12.82
+Sinq Laison,Jonenor,Inghenges,Inghenges III,Base Metals,Perfect,5.44
+Sinq Laison,Jonenor,Inghenges,Inghenges IV,Lustering Alloy,Rich,16.47
+Sinq Laison,Jonenor,Inghenges,Inghenges IV,Base Metals,Rich,4.79
+Sinq Laison,Jonenor,Inghenges,Inghenges IV,Coolant,Medium,9.22
+Sinq Laison,Jonenor,Inghenges,Inghenges V,Lustering Alloy,Medium,14.51
+Sinq Laison,Jonenor,Inghenges,Inghenges V,Glossy Compound,Rich,20.45
+Sinq Laison,Jonenor,Inghenges,Inghenges V,Base Metals,Rich,4.96
+Sinq Laison,Jonenor,Inghenges,Inghenges VI,Lustering Alloy,Medium,12.36
+Sinq Laison,Jonenor,Inghenges,Inghenges VI,Base Metals,Rich,5.36
+Sinq Laison,Jonenor,Inghenges,Inghenges VI,Ionic Solutions,Poor,4.54
+Sinq Laison,Jonenor,Inghenges,Inghenges VII,Lustering Alloy,Poor,11.78
+Sinq Laison,Jonenor,Inghenges,Inghenges VII,Base Metals,Poor,3.22
+Sinq Laison,Jonenor,Estene,Estene I,Gleaming Alloy,Rich,17.46
+Sinq Laison,Jonenor,Estene,Estene I,Motley Compound,Rich,16.91
+Sinq Laison,Jonenor,Estene,Estene II,Lustering Alloy,Medium,12.53
+Sinq Laison,Jonenor,Estene,Estene II,Base Metals,Medium,3.85
+Sinq Laison,Jonenor,Estene,Estene III,Suspended Plasma,Poor,39.69
+Sinq Laison,Jonenor,Estene,Estene III,Oxygen Isotopes,Rich,3.05
+Sinq Laison,Jonenor,Estene,Estene IV,Lustering Alloy,Medium,13.61
+Sinq Laison,Jonenor,Estene,Estene IV,Base Metals,Medium,3.76
+Sinq Laison,Jonenor,Estene,Estene V,Lustering Alloy,Rich,16.78
+Sinq Laison,Jonenor,Estene,Estene V,Base Metals,Medium,4.06
+Sinq Laison,Jonenor,Estene,Estene V,Polyaramids,Rich,11.90
+Sinq Laison,Jonenor,Estene,Estene VI,Lustering Alloy,Medium,15.66
+Sinq Laison,Jonenor,Estene,Estene VI,Base Metals,Rich,4.89
+Sinq Laison,Jonenor,Estene,Estene VI,Reactive Metals,Rich,5.04
+Sinq Laison,Jonenor,Estene,Estene VII,Silicate Glass,Perfect,11.07
+Sinq Laison,Jonenor,Estene,Estene VII,Heavy Water,Medium,124.67
+Sinq Laison,Jonenor,Estene,Estene VII,Ionic Solutions,Perfect,8.92
+Sinq Laison,Jonenor,Estene,Estene VIII,Lustering Alloy,Poor,10.76
+Sinq Laison,Jonenor,Estene,Estene VIII,Base Metals,Poor,2.68
+Sinq Laison,Jonenor,Gallareue,Gallareue I,Lucent Compound,Poor,11.97
+Sinq Laison,Jonenor,Gallareue,Gallareue I,Reactive Metals,Rich,4.66
+Sinq Laison,Jonenor,Gallareue,Gallareue I,Suspended Plasma,Medium,46.61
+Sinq Laison,Jonenor,Gallareue,Gallareue II,Lustering Alloy,Poor,10.70
+Sinq Laison,Jonenor,Gallareue,Gallareue II,Base Metals,Poor,2.72
+Sinq Laison,Jonenor,Gallareue,Gallareue III,Lustering Alloy,Medium,13.83
+Sinq Laison,Jonenor,Gallareue,Gallareue III,Base Metals,Poor,3.13
+Sinq Laison,Jonenor,Gallareue,Gallareue IV,Noble Metals,Perfect,21.85
+Sinq Laison,Jonenor,Gallareue,Gallareue IV,Industrial Fibers,Perfect,6.31
+Sinq Laison,Jonenor,Gallareue,Gallareue IV,Heavy Water,Rich,171.60
+Sinq Laison,Jonenor,Gallareue,Gallareue V,Gleaming Alloy,Rich,17.88
+Sinq Laison,Jonenor,Gallareue,Gallareue V,Motley Compound,Medium,16.16
+Sinq Laison,Jonenor,Gallareue,Gallareue VI,Lustering Alloy,Rich,17.29
+Sinq Laison,Jonenor,Gallareue,Gallareue VI,Reactive Gas,Perfect,21.42
+Sinq Laison,Jonenor,Gallareue,Gallareue VI,Base Metals,Rich,4.42
+Sinq Laison,Jonenor,Gallareue,Gallareue VII,Lustering Alloy,Medium,13.86
+Sinq Laison,Jonenor,Gallareue,Gallareue VII,Glossy Compound,Rich,20.10
+Sinq Laison,Jonenor,Gallareue,Gallareue VII,Base Metals,Perfect,5.68
+Sinq Laison,Jonenor,Gallareue,Gallareue VIII,Lustering Alloy,Poor,8.41
+Sinq Laison,Jonenor,Gallareue,Gallareue VIII,Base Metals,Poor,2.76
+Sinq Laison,Jonenor,Stayme,Stayme I,Lustering Alloy,Poor,12.66
+Sinq Laison,Jonenor,Stayme,Stayme I,Base Metals,Poor,3.39
+Sinq Laison,Jonenor,Stayme,Stayme II,Lustering Alloy,Medium,15.91
+Sinq Laison,Jonenor,Stayme,Stayme II,Base Metals,Poor,2.70
+Sinq Laison,Jonenor,Stayme,Stayme III,Lustering Alloy,Poor,10.17
+Sinq Laison,Jonenor,Stayme,Stayme III,Base Metals,Poor,3.15
+Sinq Laison,Jonenor,Stayme,Stayme IV,Motley Compound,Perfect,24.30
+Sinq Laison,Jonenor,Stayme,Stayme IV,Oxygen Isotopes,Rich,2.89
+Sinq Laison,Jonenor,Stayme,Stayme V,Lustering Alloy,Medium,14.19
+Sinq Laison,Jonenor,Stayme,Stayme V,Base Metals,Poor,3.63
+Sinq Laison,Jonenor,Stayme,Stayme V,Polyaramids,Medium,12.19
+Sinq Laison,Jonenor,Stayme,Stayme VI,Lustering Alloy,Poor,13.63
+Sinq Laison,Jonenor,Stayme,Stayme VI,Noble Gas,Medium,15.66
+Sinq Laison,Jonenor,Stayme,Stayme VI,Base Metals,Rich,6.09
+Sinq Laison,Jonenor,Stayme,Stayme VII,Lustering Alloy,Medium,15.96
+Sinq Laison,Jonenor,Stayme,Stayme VII,Sheen Compound,Medium,18.06
+Sinq Laison,Jonenor,Stayme,Stayme VII,Base Metals,Rich,5.01
+Sinq Laison,Jonenor,Stayme,Stayme VIII,Lustering Alloy,Rich,21.50
+Sinq Laison,Jonenor,Stayme,Stayme VIII,Base Metals,Perfect,6.43
+Sinq Laison,Jonenor,Stayme,Stayme VIII,Reactive Metals,Perfect,6.39
+Sinq Laison,Algintal,Parchanier,Parchanier I,Motley Compound,Rich,20.47
+Sinq Laison,Algintal,Parchanier,Parchanier I,Noble Gas,Medium,17.56
+Sinq Laison,Algintal,Parchanier,Parchanier II,Lustering Alloy,Poor,12.04
+Sinq Laison,Algintal,Parchanier,Parchanier II,Base Metals,Medium,4.29
+Sinq Laison,Algintal,Parchanier,Parchanier III,Motley Compound,Medium,16.59
+Sinq Laison,Algintal,Parchanier,Parchanier III,Oxygen Isotopes,Medium,2.64
+Sinq Laison,Algintal,Parchanier,Parchanier IV,Condensed Alloy,Medium,13.24
+Sinq Laison,Algintal,Parchanier,Parchanier IV,Smartfab Units,Rich,11.91
+Sinq Laison,Algintal,Parchanier,Parchanier IV,Heavy Water,Medium,141.12
+Sinq Laison,Algintal,Parchanier,Parchanier V,Lustering Alloy,Poor,12.95
+Sinq Laison,Algintal,Parchanier,Parchanier V,Glossy Compound,Medium,15.29
+Sinq Laison,Algintal,Parchanier,Parchanier V,Base Metals,Poor,3.15
+Sinq Laison,Algintal,Parchanier,Parchanier VI,Lustering Alloy,Medium,13.55
+Sinq Laison,Algintal,Parchanier,Parchanier VI,Noble Gas,Poor,11.56
+Sinq Laison,Algintal,Parchanier,Parchanier VI,Base Metals,Rich,5.32
+Sinq Laison,Algintal,Parchanier,Parchanier VII,Lustering Alloy,Perfect,23.17
+Sinq Laison,Algintal,Parchanier,Parchanier VII,Base Metals,Medium,4.26
+Sinq Laison,Algintal,Parchanier,Parchanier VII,Polyaramids,Rich,13.36
+Sinq Laison,Algintal,Fluekele,Fluekele I,Motley Compound,Rich,19.27
+Sinq Laison,Algintal,Fluekele,Fluekele I,Noble Metals,Poor,12.99
+Sinq Laison,Algintal,Fluekele,Fluekele II,Coolant,Rich,15.39
+Sinq Laison,Algintal,Fluekele,Fluekele II,Heavy Water,Medium,156.30
+Sinq Laison,Algintal,Fluekele,Fluekele II,Ionic Solutions,Rich,8.80
+Sinq Laison,Algintal,Fluekele,Fluekele III,Lustering Alloy,Medium,14.46
+Sinq Laison,Algintal,Fluekele,Fluekele III,Base Metals,Medium,4.77
+Sinq Laison,Algintal,Fluekele,Fluekele IV,Lustering Alloy,Perfect,23.88
+Sinq Laison,Algintal,Fluekele,Fluekele IV,Base Metals,Medium,4.41
+Sinq Laison,Algintal,Fluekele,Fluekele IV,Polyaramids,Medium,10.85
+Sinq Laison,Algintal,Fluekele,Fluekele V,Lustering Alloy,Perfect,24.48
+Sinq Laison,Algintal,Fluekele,Fluekele V,Sheen Compound,Medium,15.36
+Sinq Laison,Algintal,Fluekele,Fluekele V,Base Metals,Rich,6.07
+Sinq Laison,Algintal,Fluekele,Fluekele VI,Lustering Alloy,Rich,21.48
+Sinq Laison,Algintal,Fluekele,Fluekele VI,Fiber Composite,Rich,21.52
+Sinq Laison,Algintal,Fluekele,Fluekele VI,Base Metals,Rich,5.77
+Sinq Laison,Algintal,Alsottobier,Alsottobier I,Lustering Alloy,Medium,16.70
+Sinq Laison,Algintal,Alsottobier,Alsottobier I,Base Metals,Poor,2.49
+Sinq Laison,Algintal,Alsottobier,Alsottobier II,Gleaming Alloy,Rich,19.17
+Sinq Laison,Algintal,Alsottobier,Alsottobier II,Suspended Plasma,Rich,84.78
+Sinq Laison,Algintal,Alsottobier,Alsottobier III,Lustering Alloy,Medium,17.13
+Sinq Laison,Algintal,Alsottobier,Alsottobier III,Base Metals,Poor,3.04
+Sinq Laison,Algintal,Alsottobier,Alsottobier IV,Lustering Alloy,Medium,17.40
+Sinq Laison,Algintal,Alsottobier,Alsottobier IV,Sheen Compound,Rich,22.30
+Sinq Laison,Algintal,Alsottobier,Alsottobier IV,Base Metals,Rich,5.26
+Sinq Laison,Algintal,Alsottobier,Alsottobier V,Motley Compound,Medium,16.36
+Sinq Laison,Algintal,Alsottobier,Alsottobier V,Smartfab Units,Perfect,16.90
+Sinq Laison,Algintal,Alsottobier,Alsottobier VI,Lustering Alloy,Poor,12.57
+Sinq Laison,Algintal,Alsottobier,Alsottobier VI,Noble Gas,Rich,20.54
+Sinq Laison,Algintal,Alsottobier,Alsottobier VI,Base Metals,Rich,5.40
+Sinq Laison,Algintal,Alsottobier,Alsottobier VII,Lustering Alloy,Rich,20.75
+Sinq Laison,Algintal,Alsottobier,Alsottobier VII,Glossy Compound,Medium,15.59
+Sinq Laison,Algintal,Alsottobier,Alsottobier VII,Base Metals,Medium,3.98
+Sinq Laison,Algintal,Alsottobier,Alsottobier VIII,Lustering Alloy,Medium,15.38
+Sinq Laison,Algintal,Alsottobier,Alsottobier VIII,Base Metals,Rich,5.80
+Sinq Laison,Algintal,Jolia,Jolia I,Lustering Alloy,Poor,13.08
+Sinq Laison,Algintal,Jolia,Jolia I,Base Metals,Medium,4.21
+Sinq Laison,Algintal,Jolia,Jolia II,Lustering Alloy,Poor,14.10
+Sinq Laison,Algintal,Jolia,Jolia II,Base Metals,Medium,4.03
+Sinq Laison,Algintal,Jolia,Jolia III,Heavy Metals,Rich,23.10
+Sinq Laison,Algintal,Jolia,Jolia III,Suspended Plasma,Poor,50.00
+Sinq Laison,Algintal,Jolia,Jolia III,Ionic Solutions,Rich,8.92
+Sinq Laison,Algintal,Jolia,Jolia IV,Fiber Composite,Medium,15.79
+Sinq Laison,Algintal,Jolia,Jolia IV,Opulent Compound,Medium,18.20
+Sinq Laison,Algintal,Jolia,Jolia IV,Heavy Water,Medium,177.90
+Sinq Laison,Algintal,Jolia,Jolia V,Base Metals,Poor,3.64
+Sinq Laison,Algintal,Jolia,Jolia V,Condensates,Perfect,17.17
+Sinq Laison,Algintal,Jolia,Jolia V,Heavy Water,Perfect,283.80
+Sinq Laison,Algintal,Jolia,Jolia VI,Toxic Metals,Rich,5.10
+Sinq Laison,Algintal,Jolia,Jolia VI,Suspended Plasma,Poor,49.84
+Sinq Laison,Algintal,Jolia,Jolia VII,Lustering Alloy,Rich,20.95
+Sinq Laison,Algintal,Jolia,Jolia VII,Base Metals,Poor,3.53
+Sinq Laison,Algintal,Jolia,Jolia VII,Ionic Solutions,Rich,7.60
+Sinq Laison,Algintal,Jolia,Jolia VIII,Lustering Alloy,Poor,13.46
+Sinq Laison,Algintal,Jolia,Jolia VIII,Base Metals,Medium,4.24
+Sinq Laison,Algintal,Augnais,Augnais I,Motley Compound,Rich,20.64
+Sinq Laison,Algintal,Augnais,Augnais I,Heavy Metals,Medium,14.64
+Sinq Laison,Algintal,Augnais,Augnais II,Lustering Alloy,Medium,18.14
+Sinq Laison,Algintal,Augnais,Augnais II,Base Metals,Poor,2.91
+Sinq Laison,Algintal,Augnais,Augnais III,Gleaming Alloy,Medium,17.88
+Sinq Laison,Algintal,Augnais,Augnais III,Suspended Plasma,Medium,64.10
+Sinq Laison,Algintal,Augnais,Augnais IV,Toxic Metals,Medium,3.81
+Sinq Laison,Algintal,Augnais,Augnais IV,Suspended Plasma,Poor,50.65
+Sinq Laison,Algintal,Augnais,Augnais V,Condensed Alloy,Rich,20.91
+Sinq Laison,Algintal,Augnais,Augnais V,Condensates,Perfect,17.67
+Sinq Laison,Algintal,Augnais,Augnais V,Heavy Water,Rich,193.95
+Sinq Laison,Algintal,Augnais,Augnais VI,Lustering Alloy,Medium,14.64
+Sinq Laison,Algintal,Augnais,Augnais VI,Base Metals,Medium,4.06
+Sinq Laison,Algintal,Augnais,Augnais VI,Coolant,Medium,10.30
+Sinq Laison,Algintal,Augnais,Augnais VII,Lustering Alloy,Medium,17.23
+Sinq Laison,Algintal,Augnais,Augnais VII,Base Metals,Perfect,6.28
+Sinq Laison,Algintal,Augnais,Augnais VII,Coolant,Medium,10.01
+Sinq Laison,Algintal,Augnais,Augnais VIII,Lustering Alloy,Medium,18.90
+Sinq Laison,Algintal,Augnais,Augnais VIII,Sheen Compound,Rich,20.04
+Sinq Laison,Algintal,Augnais,Augnais VIII,Base Metals,Rich,5.96
+Sinq Laison,Algintal,Augnais,Augnais IX,Lustering Alloy,Poor,10.26
+Sinq Laison,Algintal,Augnais,Augnais IX,Base Metals,Medium,3.85
+Sinq Laison,Algintal,Augnais,Augnais X,Lustering Alloy,Rich,21.99
+Sinq Laison,Algintal,Augnais,Augnais X,Base Metals,Poor,3.47
+Sinq Laison,Algintal,Deltole,Deltole I,Lustering Alloy,Poor,9.46
+Sinq Laison,Algintal,Deltole,Deltole I,Base Metals,Poor,3.42
+Sinq Laison,Algintal,Deltole,Deltole II,Lustering Alloy,Medium,17.09
+Sinq Laison,Algintal,Deltole,Deltole II,Base Metals,Poor,3.17
+Sinq Laison,Algintal,Deltole,Deltole III,Reactive Gas,Poor,14.04
+Sinq Laison,Algintal,Deltole,Deltole III,Base Metals,Rich,5.27
+Sinq Laison,Algintal,Deltole,Deltole III,Heavy Water,Perfect,246.75
+Sinq Laison,Algintal,Deltole,Deltole IV,Opulent Compound,Medium,18.52
+Sinq Laison,Algintal,Deltole,Deltole IV,Crystal Compound,Rich,19.38
+Sinq Laison,Algintal,Deltole,Deltole IV,Heavy Water,Rich,204.45
+Sinq Laison,Algintal,Deltole,Deltole V,Motley Compound,Medium,14.45
+Sinq Laison,Algintal,Deltole,Deltole V,Polyaramids,Perfect,16.35
+Sinq Laison,Algintal,Deltole,Deltole VI,Fiber Composite,Perfect,26.77
+Sinq Laison,Algintal,Deltole,Deltole VI,Reactive Gas,Rich,22.86
+Sinq Laison,Algintal,Deltole,Deltole VI,Heavy Water,Perfect,269.25
+Sinq Laison,Algintal,Deltole,Deltole VII,Lustering Alloy,Poor,11.05
+Sinq Laison,Algintal,Deltole,Deltole VII,Base Metals,Medium,4.40
+Sinq Laison,Algintal,Deltole,Deltole VIII,Lustering Alloy,Poor,11.05
+Sinq Laison,Algintal,Deltole,Deltole VIII,Base Metals,Medium,4.49
+Sinq Laison,Algintal,Deltole,Deltole IX,Lustering Alloy,Rich,22.18
+Sinq Laison,Algintal,Deltole,Deltole IX,Base Metals,Rich,5.35
+Sinq Laison,Algintal,Deltole,Deltole IX,Reactive Metals,Rich,6.21
+Sinq Laison,Algintal,Deltole,Deltole X,Lustering Alloy,Medium,18.93
+Sinq Laison,Algintal,Deltole,Deltole X,Noble Gas,Rich,19.65
+Sinq Laison,Algintal,Deltole,Deltole X,Base Metals,Rich,5.65
+Sinq Laison,Algintal,Colelie,Colelie I,Motley Compound,Rich,22.73
+Sinq Laison,Algintal,Colelie,Colelie I,Smartfab Units,Medium,9.57
+Sinq Laison,Algintal,Colelie,Colelie II,Lustering Alloy,Medium,16.13
+Sinq Laison,Algintal,Colelie,Colelie II,Base Metals,Poor,2.54
+Sinq Laison,Algintal,Colelie,Colelie III,Lustering Alloy,Poor,10.02
+Sinq Laison,Algintal,Colelie,Colelie III,Base Metals,Poor,3.11
+Sinq Laison,Algintal,Colelie,Colelie IV,Suspended Plasma,Rich,84.51
+Sinq Laison,Algintal,Colelie,Colelie IV,Oxygen Isotopes,Rich,3.18
+Sinq Laison,Algintal,Colelie,Colelie V,Lustering Alloy,Poor,11.76
+Sinq Laison,Algintal,Colelie,Colelie V,Base Metals,Poor,3.26
+Sinq Laison,Algintal,Colelie,Colelie VI,Lustering Alloy,Medium,18.66
+Sinq Laison,Algintal,Colelie,Colelie VI,Base Metals,Poor,3.51
+Sinq Laison,Algintal,Colelie,Colelie VI,Polyaramids,Rich,15.32
+Sinq Laison,Algintal,Colelie,Colelie VII,Gleaming Alloy,Rich,22.21
+Sinq Laison,Algintal,Colelie,Colelie VII,Suspended Plasma,Rich,72.31
+Sinq Laison,Algintal,Colelie,Colelie VIII,Lustering Alloy,Medium,15.39
+Sinq Laison,Algintal,Colelie,Colelie VIII,Glossy Compound,Rich,20.41
+Sinq Laison,Algintal,Colelie,Colelie VIII,Base Metals,Perfect,6.52
+Sinq Laison,Algintal,Colelie,Colelie IX,Lustering Alloy,Poor,13.08
+Sinq Laison,Algintal,Colelie,Colelie IX,Base Metals,Poor,2.93
+Sinq Laison,Algintal,Colelie,Colelie X,Reactive Gas,Rich,19.82
+Sinq Laison,Algintal,Colelie,Colelie X,Heavy Water,Rich,231.90
+Sinq Laison,Algintal,Colelie,Colelie X,Liquid Ozone,Medium,18.06
+Sinq Laison,Algintal,Barmalie,Barmalie I,Glossy Compound,Rich,22.51
+Sinq Laison,Algintal,Barmalie,Barmalie I,Noble Gas,Medium,18.19
+Sinq Laison,Algintal,Barmalie,Barmalie II,Precious Alloy,Medium,17.79
+Sinq Laison,Algintal,Barmalie,Barmalie II,Base Metals,Poor,2.85
+Sinq Laison,Algintal,Barmalie,Barmalie II,Industrial Fibers,Poor,3.77
+Sinq Laison,Algintal,Barmalie,Barmalie III,Fiber Composite,Rich,22.05
+Sinq Laison,Algintal,Barmalie,Barmalie III,Reactive Gas,Perfect,27.28
+Sinq Laison,Algintal,Barmalie,Barmalie III,Base Metals,Perfect,7.93
+Sinq Laison,Algintal,Barmalie,Barmalie III,Condensates,Rich,13.95
+Sinq Laison,Algintal,Barmalie,Barmalie IV,Fiber Composite,Perfect,29.62
+Sinq Laison,Algintal,Barmalie,Barmalie IV,Opulent Compound,Rich,20.46
+Sinq Laison,Algintal,Barmalie,Barmalie IV,Reactive Gas,Rich,24.00
+Sinq Laison,Algintal,Barmalie,Barmalie IV,Industrial Fibers,Medium,5.06
+Sinq Laison,Algintal,Barmalie,Barmalie V,Precious Alloy,Medium,17.09
+Sinq Laison,Algintal,Barmalie,Barmalie V,Dark Compound,Poor,13.86
+Sinq Laison,Algintal,Barmalie,Barmalie V,Industrial Fibers,Medium,4.83
+Sinq Laison,Algintal,Barmalie,Barmalie VI,Sheen Compound,Rich,21.28
+Sinq Laison,Algintal,Barmalie,Barmalie VI,Noble Gas,Medium,19.62
+Sinq Laison,Algintal,Barmalie,Barmalie VI,Base Metals,Medium,4.39
+Sinq Laison,Algintal,Barmalie,Barmalie VI,Ionic Solutions,Medium,6.09
+Sinq Laison,Algintal,Barmalie,Barmalie VII,Reactive Gas,Rich,24.98
+Sinq Laison,Algintal,Barmalie,Barmalie VII,Reactive Metals,Medium,5.14
+Sinq Laison,Algintal,Barmalie,Barmalie VII,Construction Blocks,Medium,17.50
+Sinq Laison,Algintal,Barmalie,Barmalie VIII,Lustering Alloy,Rich,23.90
+Sinq Laison,Algintal,Barmalie,Barmalie VIII,Glossy Compound,Medium,15.81
+Sinq Laison,Algintal,Barmalie,Barmalie VIII,Noble Gas,Perfect,25.63
+Sinq Laison,Algintal,Barmalie,Barmalie VIII,Ionic Solutions,Rich,9.11
+Sinq Laison,Algintal,Barmalie,Barmalie IX,Fiber Composite,Poor,14.80
+Sinq Laison,Algintal,Barmalie,Barmalie IX,Noble Metals,Medium,18.42
+Sinq Laison,Algintal,Barmalie,Barmalie IX,Industrial Fibers,Rich,6.15
+Sinq Laison,Algintal,Barmalie,Barmalie IX,Heavy Water,Medium,155.36
+Sinq Laison,Algintal,Barmalie,Barmalie X,Fiber Composite,Rich,22.27
+Sinq Laison,Algintal,Barmalie,Barmalie X,Reactive Gas,Medium,18.24
+Sinq Laison,Algintal,Barmalie,Barmalie X,Condensates,Perfect,18.08
+Sinq Laison,Algintal,Barmalie,Barmalie X,Smartfab Units,Rich,14.65
+Sinq Laison,Algintal,Audaerne,Audaerne I,Noble Gas,Poor,12.83
+Sinq Laison,Algintal,Audaerne,Audaerne I,Construction Blocks,Rich,22.96
+Sinq Laison,Algintal,Audaerne,Audaerne II,Dark Compound,Medium,19.60
+Sinq Laison,Algintal,Audaerne,Audaerne II,Industrial Fibers,Medium,4.36
+Sinq Laison,Algintal,Audaerne,Audaerne II,Oxygen Isotopes,Poor,1.97
+Sinq Laison,Algintal,Audaerne,Audaerne III,Noble Gas,Medium,16.02
+Sinq Laison,Algintal,Audaerne,Audaerne III,Polyaramids,Perfect,18.07
+Sinq Laison,Algintal,Audaerne,Audaerne IV,Crystal Compound,Rich,21.26
+Sinq Laison,Algintal,Audaerne,Audaerne IV,Polyaramids,Medium,12.66
+Sinq Laison,Algintal,Audaerne,Audaerne IV,Coolant,Rich,15.78
+Sinq Laison,Algintal,Audaerne,Audaerne IV,Liquid Ozone,Medium,19.94
+Sinq Laison,Algintal,Audaerne,Audaerne V,Lustering Alloy,Perfect,26.35
+Sinq Laison,Algintal,Audaerne,Audaerne V,Noble Gas,Poor,13.36
+Sinq Laison,Algintal,Audaerne,Audaerne V,Reactive Metals,Rich,6.57
+Sinq Laison,Algintal,Audaerne,Audaerne V,Coolant,Medium,13.22
+Sinq Laison,Algintal,Audaerne,Audaerne VI,Lustering Alloy,Medium,19.42
+Sinq Laison,Algintal,Audaerne,Audaerne VI,Glossy Compound,Medium,16.51
+Sinq Laison,Algintal,Audaerne,Audaerne VI,Noble Gas,Medium,18.67
+Sinq Laison,Algintal,Audaerne,Audaerne VI,Reactive Metals,Rich,5.92
+Sinq Laison,Algintal,Audaerne,Audaerne VII,Fiber Composite,Rich,20.70
+Sinq Laison,Algintal,Audaerne,Audaerne VII,Glossy Compound,Perfect,25.95
+Sinq Laison,Algintal,Audaerne,Audaerne VII,Noble Gas,Medium,15.09
+Sinq Laison,Algintal,Audaerne,Audaerne VII,Reactive Metals,Medium,3.99
+Sinq Laison,Algintal,Audaerne,Audaerne VIII,Lustering Alloy,Poor,14.40
+Sinq Laison,Algintal,Audaerne,Audaerne VIII,Sheen Compound,Medium,17.87
+Sinq Laison,Algintal,Audaerne,Audaerne VIII,Reactive Gas,Perfect,25.76
+Sinq Laison,Algintal,Audaerne,Audaerne VIII,Noble Gas,Rich,24.86
+Sinq Laison,Algintal,Audaerne,Audaerne IX,Lustering Alloy,Medium,17.94
+Sinq Laison,Algintal,Audaerne,Audaerne IX,Glossy Compound,Rich,23.98
+Sinq Laison,Algintal,Audaerne,Audaerne IX,Reactive Gas,Rich,23.14
+Sinq Laison,Algintal,Audaerne,Audaerne IX,Noble Gas,Medium,16.64
+Sinq Laison,Algintal,Audaerne,Audaerne X,Precious Alloy,Poor,13.89
+Sinq Laison,Algintal,Audaerne,Audaerne X,Heavy Metals,Medium,20.19
+Sinq Laison,Algintal,Audaerne,Audaerne X,Coolant,Poor,9.01
+Sinq Laison,Lolbrerie,Dodenvale,Dodenvale I,Lucent Compound,Rich,17.67
+Sinq Laison,Lolbrerie,Dodenvale,Dodenvale I,Suspended Plasma,Rich,60.09
+Sinq Laison,Lolbrerie,Dodenvale,Dodenvale I,Ionic Solutions,Perfect,8.81
+Sinq Laison,Lolbrerie,Dodenvale,Dodenvale II,Lustering Alloy,Medium,15.54
+Sinq Laison,Lolbrerie,Dodenvale,Dodenvale II,Base Metals,Poor,2.73
+Sinq Laison,Lolbrerie,Dodenvale,Dodenvale III,Motley Compound,Poor,10.76
+Sinq Laison,Lolbrerie,Dodenvale,Dodenvale III,Oxygen Isotopes,Rich,2.72
+Sinq Laison,Lolbrerie,Dodenvale,Dodenvale IV,Lustering Alloy,Poor,8.14
+Sinq Laison,Lolbrerie,Dodenvale,Dodenvale IV,Base Metals,Poor,2.30
+Sinq Laison,Lolbrerie,Dodenvale,Dodenvale V,Opulent Compound,Rich,20.06
+Sinq Laison,Lolbrerie,Dodenvale,Dodenvale V,Reactive Gas,Poor,12.10
+Sinq Laison,Lolbrerie,Dodenvale,Dodenvale V,Heavy Water,Rich,187.46
+Sinq Laison,Lolbrerie,Dodenvale,Dodenvale VI,Lustering Alloy,Poor,11.66
+Sinq Laison,Lolbrerie,Dodenvale,Dodenvale VI,Base Metals,Medium,3.66
+Sinq Laison,Lolbrerie,Dodenvale,Dodenvale VII,Fiber Composite,Perfect,22.66
+Sinq Laison,Lolbrerie,Dodenvale,Dodenvale VII,Heavy Water,Medium,131.30
+Sinq Laison,Lolbrerie,Dodenvale,Dodenvale VII,Liquid Ozone,Medium,17.37
+Sinq Laison,Lolbrerie,Dodenvale,Dodenvale VIII,Lustering Alloy,Medium,15.65
+Sinq Laison,Lolbrerie,Dodenvale,Dodenvale VIII,Noble Gas,Poor,12.19
+Sinq Laison,Lolbrerie,Dodenvale,Dodenvale VIII,Base Metals,Rich,4.47
+Sinq Laison,Lolbrerie,Dodenvale,Dodenvale IX,Supertensile Plastics,Rich,11.95
+Sinq Laison,Lolbrerie,Dodenvale,Dodenvale IX,Suspended Plasma,Rich,65.52
+Sinq Laison,Lolbrerie,Dodenvale,Dodenvale X,Lustering Alloy,Medium,12.43
+Sinq Laison,Lolbrerie,Dodenvale,Dodenvale X,Base Metals,Medium,3.88
+Sinq Laison,Lolbrerie,Dodenvale,Dodenvale X,Ionic Solutions,Medium,5.54
+Sinq Laison,Lolbrerie,Olettiers,Olettiers I,Dark Compound,Poor,13.73
+Sinq Laison,Lolbrerie,Olettiers,Olettiers I,Toxic Metals,Medium,4.23
+Sinq Laison,Lolbrerie,Olettiers,Olettiers I,Industrial Fibers,Poor,2.74
+Sinq Laison,Lolbrerie,Olettiers,Olettiers II,Industrial Fibers,Poor,3.32
+Sinq Laison,Lolbrerie,Olettiers,Olettiers II,Oxygen Isotopes,Medium,2.69
+Sinq Laison,Lolbrerie,Olettiers,Olettiers II,Plasmoids,Poor,0.85
+Sinq Laison,Lolbrerie,Olettiers,Olettiers III,Lustering Alloy,Medium,18.40
+Sinq Laison,Lolbrerie,Olettiers,Olettiers III,Industrial Fibers,Medium,4.54
+Sinq Laison,Lolbrerie,Olettiers,Olettiers III,Supertensile Plastics,Poor,8.09
+Sinq Laison,Lolbrerie,Olettiers,Olettiers IV,Gleaming Alloy,Poor,14.83
+Sinq Laison,Lolbrerie,Olettiers,Olettiers IV,Construction Blocks,Perfect,25.98
+Sinq Laison,Lolbrerie,Olettiers,Olettiers IV,Suspended Plasma,Medium,66.36
+Sinq Laison,Lolbrerie,Olettiers,Olettiers V,Fiber Composite,Medium,18.30
+Sinq Laison,Lolbrerie,Olettiers,Olettiers V,Noble Gas,Medium,18.05
+Sinq Laison,Lolbrerie,Olettiers,Olettiers V,Coolant,Medium,10.55
+Sinq Laison,Lolbrerie,Olettiers,Olettiers V,Ionic Solutions,Perfect,10.51
+Sinq Laison,Lolbrerie,Olettiers,Olettiers VI,Fiber Composite,Rich,24.88
+Sinq Laison,Lolbrerie,Olettiers,Olettiers VI,Reactive Gas,Rich,21.63
+Sinq Laison,Lolbrerie,Olettiers,Olettiers VI,Noble Gas,Medium,16.74
+Sinq Laison,Lolbrerie,Olettiers,Olettiers VI,Coolant,Medium,11.78
+Sinq Laison,Lolbrerie,Olettiers,Olettiers VII,Sheen Compound,Rich,22.40
+Sinq Laison,Lolbrerie,Olettiers,Olettiers VII,Reactive Gas,Medium,17.97
+Sinq Laison,Lolbrerie,Olettiers,Olettiers VII,Noble Gas,Medium,16.32
+Sinq Laison,Lolbrerie,Olettiers,Olettiers VII,Polyaramids,Perfect,17.42
+Sinq Laison,Lolbrerie,Olettiers,Olettiers VIII,Lustering Alloy,Medium,15.30
+Sinq Laison,Lolbrerie,Olettiers,Olettiers VIII,Motley Compound,Medium,19.58
+Sinq Laison,Lolbrerie,Olettiers,Olettiers VIII,Coolant,Medium,11.64
+Sinq Laison,Lolbrerie,Artisine,Artisine I,Base Metals,Medium,4.03
+Sinq Laison,Lolbrerie,Artisine,Artisine I,Industrial Fibers,Medium,4.36
+Sinq Laison,Lolbrerie,Artisine,Artisine I,Silicate Glass,Medium,8.65
+Sinq Laison,Lolbrerie,Artisine,Artisine II,Lustering Alloy,Medium,17.28
+Sinq Laison,Lolbrerie,Artisine,Artisine II,Dark Compound,Medium,18.70
+Sinq Laison,Lolbrerie,Artisine,Artisine II,Industrial Fibers,Poor,3.39
+Sinq Laison,Lolbrerie,Artisine,Artisine III,Opulent Compound,Poor,14.67
+Sinq Laison,Lolbrerie,Artisine,Artisine III,Coolant,Rich,13.82
+Sinq Laison,Lolbrerie,Artisine,Artisine III,Silicate Glass,Medium,8.46
+Sinq Laison,Lolbrerie,Artisine,Artisine III,Ionic Solutions,Medium,7.64
+Sinq Laison,Lolbrerie,Artisine,Artisine IV,Noble Gas,Medium,16.34
+Sinq Laison,Lolbrerie,Artisine,Artisine IV,Smartfab Units,Rich,14.54
+Sinq Laison,Lolbrerie,Artisine,Artisine V,Fiber Composite,Rich,22.70
+Sinq Laison,Lolbrerie,Artisine,Artisine V,Opulent Compound,Rich,22.56
+Sinq Laison,Lolbrerie,Artisine,Artisine V,Condensates,Medium,12.07
+Sinq Laison,Lolbrerie,Artisine,Artisine V,Smartfab Units,Poor,10.04
+Sinq Laison,Lolbrerie,Artisine,Artisine VI,Precious Alloy,Poor,12.48
+Sinq Laison,Lolbrerie,Artisine,Artisine VI,Industrial Fibers,Poor,3.26
+Sinq Laison,Lolbrerie,Artisine,Artisine VI,Oxygen Isotopes,Poor,1.54
+Sinq Laison,Lolbrerie,Artisine,Artisine VII,Sheen Compound,Rich,22.22
+Sinq Laison,Lolbrerie,Artisine,Artisine VII,Fiber Composite,Rich,20.42
+Sinq Laison,Lolbrerie,Artisine,Artisine VII,Glossy Compound,Medium,16.83
+Sinq Laison,Lolbrerie,Artisine,Artisine VII,Noble Gas,Poor,14.83
+Sinq Laison,Lolbrerie,Artisine,Artisine VIII,Glossy Compound,Rich,21.86
+Sinq Laison,Lolbrerie,Artisine,Artisine VIII,Reactive Gas,Rich,22.70
+Sinq Laison,Lolbrerie,Artisine,Artisine VIII,Noble Gas,Medium,16.05
+Sinq Laison,Lolbrerie,Artisine,Artisine VIII,Base Metals,Medium,5.05
+Sinq Laison,Lolbrerie,Artisine,Artisine IX,Lustering Alloy,Rich,22.90
+Sinq Laison,Lolbrerie,Artisine,Artisine IX,Coolant,Medium,11.81
+Sinq Laison,Lolbrerie,Artisine,Artisine IX,Condensates,Poor,8.93
+Sinq Laison,Lolbrerie,Chainelant,Chainelant I,Motley Compound,Medium,14.59
+Sinq Laison,Lolbrerie,Chainelant,Chainelant I,Construction Blocks,Rich,17.18
+Sinq Laison,Lolbrerie,Chainelant,Chainelant II,Lustering Alloy,Poor,10.67
+Sinq Laison,Lolbrerie,Chainelant,Chainelant II,Base Metals,Medium,3.09
+Sinq Laison,Lolbrerie,Chainelant,Chainelant III,Opulent Compound,Medium,13.60
+Sinq Laison,Lolbrerie,Chainelant,Chainelant III,Base Metals,Medium,3.16
+Sinq Laison,Lolbrerie,Chainelant,Chainelant III,Heavy Water,Rich,159.24
+Sinq Laison,Lolbrerie,Chainelant,Chainelant IV,Lustering Alloy,Medium,12.83
+Sinq Laison,Lolbrerie,Chainelant,Chainelant IV,Base Metals,Poor,2.20
+Sinq Laison,Lolbrerie,Chainelant,Chainelant V,Suspended Plasma,Rich,62.68
+Sinq Laison,Lolbrerie,Chainelant,Chainelant V,Oxygen Isotopes,Rich,2.40
+Sinq Laison,Lolbrerie,Chainelant,Chainelant VI,Reactive Gas,Perfect,22.79
+Sinq Laison,Lolbrerie,Chainelant,Chainelant VI,Industrial Fibers,Perfect,5.62
+Sinq Laison,Lolbrerie,Chainelant,Chainelant VI,Heavy Water,Rich,164.16
+Sinq Laison,Lolbrerie,Chainelant,Chainelant VII,Lustering Alloy,Rich,15.88
+Sinq Laison,Lolbrerie,Chainelant,Chainelant VII,Reactive Gas,Perfect,19.16
+Sinq Laison,Lolbrerie,Chainelant,Chainelant VII,Base Metals,Poor,2.76
+Sinq Laison,Lolbrerie,Chainelant,Chainelant VIII,Lustering Alloy,Medium,12.90
+Sinq Laison,Lolbrerie,Chainelant,Chainelant VIII,Base Metals,Rich,4.59
+Sinq Laison,Lolbrerie,Chainelant,Chainelant VIII,Coolant,Rich,11.84
+Sinq Laison,Lolbrerie,Chainelant,Chainelant IX,Lustering Alloy,Poor,9.91
+Sinq Laison,Lolbrerie,Chainelant,Chainelant IX,Base Metals,Poor,2.67
+Sinq Laison,Lolbrerie,Sileperer,Sileperer I,Lustering Alloy,Medium,14.66
+Sinq Laison,Lolbrerie,Sileperer,Sileperer I,Base Metals,Medium,3.98
+Sinq Laison,Lolbrerie,Sileperer,Sileperer II,Lustering Alloy,Medium,14.41
+Sinq Laison,Lolbrerie,Sileperer,Sileperer II,Base Metals,Poor,2.51
+Sinq Laison,Lolbrerie,Sileperer,Sileperer III,Lustering Alloy,Poor,12.00
+Sinq Laison,Lolbrerie,Sileperer,Sileperer III,Base Metals,Poor,3.34
+Sinq Laison,Lolbrerie,Sileperer,Sileperer III,Ionic Solutions,Medium,5.81
+Sinq Laison,Lolbrerie,Sileperer,Sileperer IV,Lustering Alloy,Rich,19.24
+Sinq Laison,Lolbrerie,Sileperer,Sileperer IV,Base Metals,Poor,3.38
+Sinq Laison,Lolbrerie,Sileperer,Sileperer IV,Coolant,Perfect,15.45
+Sinq Laison,Lolbrerie,Sileperer,Sileperer V,Lustering Alloy,Poor,9.46
+Sinq Laison,Lolbrerie,Sileperer,Sileperer V,Base Metals,Poor,3.39
+Sinq Laison,Lolbrerie,Sileperer,Sileperer VI,Noble Metals,Medium,17.25
+Sinq Laison,Lolbrerie,Sileperer,Sileperer VI,Coolant,Medium,9.24
+Sinq Laison,Lolbrerie,Sileperer,Sileperer VI,Heavy Water,Poor,126.00
+Sinq Laison,Lolbrerie,Sileperer,Sileperer VII,Lustering Alloy,Medium,15.29
+Sinq Laison,Lolbrerie,Sileperer,Sileperer VII,Base Metals,Medium,4.57
+Sinq Laison,Lolbrerie,Sileperer,Sileperer VII,Polyaramids,Medium,9.42
+Sinq Laison,Lolbrerie,Bamiette,Bamiette I,Noble Gas,Rich,21.98
+Sinq Laison,Lolbrerie,Bamiette,Bamiette I,Smartfab Units,Medium,11.45
+Sinq Laison,Lolbrerie,Bamiette,Bamiette II,Precious Alloy,Medium,15.50
+Sinq Laison,Lolbrerie,Bamiette,Bamiette II,Industrial Fibers,Poor,3.01
+Sinq Laison,Lolbrerie,Bamiette,Bamiette II,Plasmoids,Medium,1.13
+Sinq Laison,Lolbrerie,Bamiette,Bamiette III,Precious Alloy,Medium,16.11
+Sinq Laison,Lolbrerie,Bamiette,Bamiette III,Toxic Metals,Poor,2.88
+Sinq Laison,Lolbrerie,Bamiette,Bamiette III,Industrial Fibers,Medium,5.08
+Sinq Laison,Lolbrerie,Bamiette,Bamiette IV,Toxic Metals,Medium,4.24
+Sinq Laison,Lolbrerie,Bamiette,Bamiette IV,Coolant,Medium,12.63
+Sinq Laison,Lolbrerie,Bamiette,Bamiette IV,Liquid Ozone,Rich,26.20
+Sinq Laison,Lolbrerie,Bamiette,Bamiette IV,Ionic Solutions,Medium,6.85
+Sinq Laison,Lolbrerie,Bamiette,Bamiette V,Condensed Alloy,Perfect,26.91
+Sinq Laison,Lolbrerie,Bamiette,Bamiette V,Fiber Composite,Medium,16.45
+Sinq Laison,Lolbrerie,Bamiette,Bamiette V,Base Metals,Rich,6.29
+Sinq Laison,Lolbrerie,Bamiette,Bamiette V,Noble Metals,Medium,20.16
+Sinq Laison,Lolbrerie,Bamiette,Bamiette VI,Precious Alloy,Poor,10.86
+Sinq Laison,Lolbrerie,Bamiette,Bamiette VI,Industrial Fibers,Poor,2.74
+Sinq Laison,Lolbrerie,Bamiette,Bamiette VI,Plasmoids,Poor,0.82
+Sinq Laison,Lolbrerie,Bamiette,Bamiette VII,Industrial Fibers,Poor,3.39
+Sinq Laison,Lolbrerie,Bamiette,Bamiette VII,Supertensile Plastics,Medium,10.28
+Sinq Laison,Lolbrerie,Bamiette,Bamiette VII,Oxygen Isotopes,Poor,1.72
+Sinq Laison,Lolbrerie,Bamiette,Bamiette VIII,Sheen Compound,Perfect,26.53
+Sinq Laison,Lolbrerie,Bamiette,Bamiette VIII,Fiber Composite,Medium,17.41
+Sinq Laison,Lolbrerie,Bamiette,Bamiette VIII,Reactive Gas,Rich,21.18
+Sinq Laison,Lolbrerie,Bamiette,Bamiette VIII,Noble Gas,Perfect,26.30
+Sinq Laison,Lolbrerie,Bamiette,Bamiette IX,Sheen Compound,Medium,16.94
+Sinq Laison,Lolbrerie,Bamiette,Bamiette IX,Noble Gas,Rich,22.98
+Sinq Laison,Lolbrerie,Bamiette,Bamiette IX,Reactive Metals,Medium,5.25
+Sinq Laison,Lolbrerie,Bamiette,Bamiette IX,Coolant,Rich,16.68
+Sinq Laison,Lolbrerie,Crielere,Crielere I,Noble Gas,Medium,20.09
+Sinq Laison,Lolbrerie,Crielere,Crielere I,Oxygen Isotopes,Poor,2.17
+Sinq Laison,Lolbrerie,Crielere,Crielere II,Sheen Compound,Medium,20.76
+Sinq Laison,Lolbrerie,Crielere,Crielere II,Nanites,Medium,4.87
+Sinq Laison,Lolbrerie,Crielere,Crielere II,Ionic Solutions,Rich,9.68
+Sinq Laison,Lolbrerie,Crielere,Crielere II,Plasmoids,Rich,1.37
+Sinq Laison,Lolbrerie,Crielere,Crielere III,Dark Compound,Medium,18.99
+Sinq Laison,Lolbrerie,Crielere,Crielere III,Industrial Fibers,Poor,3.39
+Sinq Laison,Lolbrerie,Crielere,Crielere III,Oxygen Isotopes,Medium,2.85
+Sinq Laison,Lolbrerie,Crielere,Crielere IV,Heavy Metals,Rich,23.85
+Sinq Laison,Lolbrerie,Crielere,Crielere IV,Reactive Metals,Rich,6.70
+Sinq Laison,Lolbrerie,Crielere,Crielere IV,Condensates,Perfect,19.66
+Sinq Laison,Lolbrerie,Crielere,Crielere IV,Nanites,Medium,4.37
+Sinq Laison,Lolbrerie,Crielere,Crielere V,Lustering Alloy,Medium,20.06
+Sinq Laison,Lolbrerie,Crielere,Crielere V,Reactive Gas,Rich,23.58
+Sinq Laison,Lolbrerie,Crielere,Crielere V,Noble Gas,Poor,14.37
+Sinq Laison,Lolbrerie,Crielere,Crielere V,Coolant,Medium,12.43
+Sinq Laison,Lolbrerie,Crielere,Crielere VI,Condensed Alloy,Perfect,28.59
+Sinq Laison,Lolbrerie,Crielere,Crielere VI,Fiber Composite,Rich,22.76
+Sinq Laison,Lolbrerie,Crielere,Crielere VI,Smartfab Units,Rich,17.73
+Sinq Laison,Lolbrerie,Crielere,Crielere VI,Heavy Water,Rich,217.09
+Sinq Laison,Lolbrerie,Crielere,Crielere VII,Lustering Alloy,Rich,21.84
+Sinq Laison,Lolbrerie,Crielere,Crielere VII,Fiber Composite,Poor,15.15
+Sinq Laison,Lolbrerie,Crielere,Crielere VII,Glossy Compound,Rich,23.32
+Sinq Laison,Lolbrerie,Crielere,Crielere VII,Noble Gas,Poor,14.86
+Sinq Laison,Lolbrerie,Crielere,Crielere VIII,Condensed Alloy,Rich,23.38
+Sinq Laison,Lolbrerie,Crielere,Crielere VIII,Noble Metals,Medium,20.47
+Sinq Laison,Lolbrerie,Crielere,Crielere VIII,Coolant,Rich,15.92
+Sinq Laison,Lolbrerie,Crielere,Crielere VIII,Liquid Ozone,Perfect,34.96
+Sinq Laison,Lolbrerie,Crielere,Crielere IX,Base Metals,Poor,3.59
+Sinq Laison,Lolbrerie,Crielere,Crielere IX,Industrial Fibers,Medium,4.73
+Sinq Laison,Lolbrerie,Crielere,Crielere IX,Oxygen Isotopes,Poor,1.95
+Sinq Laison,Stion,Jel,Jel I,Sheen Compound,Rich,19.24
+Sinq Laison,Stion,Jel,Jel I,Reactive Metals,Rich,5.75
+Sinq Laison,Stion,Jel,Jel I,Suspended Plasma,Perfect,86.08
+Sinq Laison,Stion,Jel,Jel II,Motley Compound,Rich,18.59
+Sinq Laison,Stion,Jel,Jel II,Construction Blocks,Poor,11.94
+Sinq Laison,Stion,Jel,Jel III,Lustering Alloy,Medium,14.43
+Sinq Laison,Stion,Jel,Jel III,Base Metals,Medium,3.66
+Sinq Laison,Stion,Jel,Jel IV,Lustering Alloy,Poor,10.22
+Sinq Laison,Stion,Jel,Jel IV,Base Metals,Poor,2.59
+Sinq Laison,Stion,Jel,Jel V,Lustering Alloy,Poor,12.52
+Sinq Laison,Stion,Jel,Jel V,Base Metals,Medium,4.42
+Sinq Laison,Stion,Jel,Jel V,Ionic Solutions,Medium,5.65
+Sinq Laison,Stion,Jel,Jel VI,Lucent Compound,Rich,18.96
+Sinq Laison,Stion,Jel,Jel VI,Suspended Plasma,Rich,78.27
+Sinq Laison,Stion,Jel,Jel VII,Lustering Alloy,Medium,17.12
+Sinq Laison,Stion,Jel,Jel VII,Fiber Composite,Rich,19.71
+Sinq Laison,Stion,Jel,Jel VII,Base Metals,Rich,5.83
+Sinq Laison,Stion,Jel,Jel VIII,Lustering Alloy,Perfect,22.27
+Sinq Laison,Stion,Jel,Jel VIII,Base Metals,Medium,3.50
+Sinq Laison,Stion,Jel,Jel VIII,Coolant,Rich,14.37
+Sinq Laison,Stion,Egghelende,Egghelende I,Dark Compound,Poor,10.69
+Sinq Laison,Stion,Egghelende,Egghelende I,Industrial Fibers,Poor,3.23
+Sinq Laison,Stion,Egghelende,Egghelende I,Construction Blocks,Medium,16.85
+Sinq Laison,Stion,Egghelende,Egghelende II,Base Metals,Poor,3.75
+Sinq Laison,Stion,Egghelende,Egghelende II,Industrial Fibers,Medium,4.90
+Sinq Laison,Stion,Egghelende,Egghelende II,Construction Blocks,Medium,18.42
+Sinq Laison,Stion,Egghelende,Egghelende III,Fiber Composite,Rich,23.47
+Sinq Laison,Stion,Egghelende,Egghelende III,Reactive Gas,Poor,15.02
+Sinq Laison,Stion,Egghelende,Egghelende III,Smartfab Units,Perfect,17.35
+Sinq Laison,Stion,Egghelende,Egghelende III,Liquid Ozone,Perfect,33.80
+Sinq Laison,Stion,Egghelende,Egghelende IV,Sheen Compound,Rich,22.48
+Sinq Laison,Stion,Egghelende,Egghelende IV,Noble Gas,Rich,25.23
+Sinq Laison,Stion,Egghelende,Egghelende IV,Base Metals,Rich,6.12
+Sinq Laison,Stion,Egghelende,Egghelende IV,Reactive Metals,Medium,4.75
+Sinq Laison,Stion,Egghelende,Egghelende V,Glossy Compound,Perfect,26.29
+Sinq Laison,Stion,Egghelende,Egghelende V,Noble Gas,Rich,24.02
+Sinq Laison,Stion,Egghelende,Egghelende V,Base Metals,Medium,5.07
+Sinq Laison,Stion,Egghelende,Egghelende V,Ionic Solutions,Perfect,10.50
+Sinq Laison,Stion,Egghelende,Egghelende VI,Glossy Compound,Medium,15.25
+Sinq Laison,Stion,Egghelende,Egghelende VI,Noble Gas,Medium,18.93
+Sinq Laison,Stion,Egghelende,Egghelende VI,Reactive Metals,Medium,4.08
+Sinq Laison,Stion,Egghelende,Egghelende VI,Ionic Solutions,Rich,9.70
+Sinq Laison,Stion,Egghelende,Egghelende VII,Industrial Fibers,Medium,4.96
+Sinq Laison,Stion,Egghelende,Egghelende VII,Coolant,Poor,7.84
+Sinq Laison,Stion,Egghelende,Egghelende VII,Condensates,Medium,11.06
+Sinq Laison,Stion,Egghelende,Egghelende VIII,Toxic Metals,Poor,2.66
+Sinq Laison,Stion,Egghelende,Egghelende VIII,Industrial Fibers,Medium,5.01
+Sinq Laison,Stion,Egghelende,Egghelende VIII,Construction Blocks,Medium,18.59
+Sinq Laison,Stion,Odette,Odette I,Dark Compound,Poor,12.96
+Sinq Laison,Stion,Odette,Odette I,Industrial Fibers,Poor,3.95
+Sinq Laison,Stion,Odette,Odette I,Construction Blocks,Medium,19.09
+Sinq Laison,Stion,Odette,Odette II,Industrial Fibers,Poor,3.67
+Sinq Laison,Stion,Odette,Odette II,Supertensile Plastics,Medium,12.51
+Sinq Laison,Stion,Odette,Odette II,Oxygen Isotopes,Poor,2.23
+Sinq Laison,Stion,Odette,Odette III,Toxic Metals,Perfect,6.81
+Sinq Laison,Stion,Odette,Odette III,Construction Blocks,Rich,25.06
+Sinq Laison,Stion,Odette,Odette III,Suspended Plasma,Rich,81.50
+Sinq Laison,Stion,Odette,Odette IV,Condensed Alloy,Rich,24.85
+Sinq Laison,Stion,Odette,Odette IV,Fiber Composite,Rich,21.36
+Sinq Laison,Stion,Odette,Odette IV,Reactive Gas,Medium,15.17
+Sinq Laison,Stion,Odette,Odette IV,Base Metals,Medium,4.82
+Sinq Laison,Stion,Odette,Odette V,Gleaming Alloy,Rich,20.46
+Sinq Laison,Stion,Odette,Odette V,Construction Blocks,Medium,19.09
+Sinq Laison,Stion,Odette,Odette V,Nanites,Rich,5.36
+Sinq Laison,Stion,Odette,Odette VI,Noble Gas,Poor,14.43
+Sinq Laison,Stion,Odette,Odette VI,Noble Metals,Poor,14.11
+Sinq Laison,Stion,Odette,Odette VII,Lustering Alloy,Poor,14.14
+Sinq Laison,Stion,Odette,Odette VII,Fiber Composite,Medium,19.42
+Sinq Laison,Stion,Odette,Odette VII,Reactive Gas,Medium,17.54
+Sinq Laison,Stion,Odette,Odette VII,Noble Gas,Medium,20.02
+Sinq Laison,Stion,Odette,Odette VIII,Lustering Alloy,Poor,11.47
+Sinq Laison,Stion,Odette,Odette VIII,Precious Alloy,Poor,13.33
+Sinq Laison,Stion,Odette,Odette VIII,Industrial Fibers,Medium,4.28
+Sinq Laison,Stion,Ation,Ation I,Lustering Alloy,Poor,10.76
+Sinq Laison,Stion,Ation,Ation I,Base Metals,Poor,2.72
+Sinq Laison,Stion,Ation,Ation II,Lustering Alloy,Poor,13.48
+Sinq Laison,Stion,Ation,Ation II,Base Metals,Poor,3.72
+Sinq Laison,Stion,Ation,Ation III,Reactive Gas,Medium,18.60
+Sinq Laison,Stion,Ation,Ation III,Industrial Fibers,Medium,4.81
+Sinq Laison,Stion,Ation,Ation III,Heavy Water,Perfect,278.70
+Sinq Laison,Stion,Ation,Ation IV,Condensates,Perfect,15.95
+Sinq Laison,Stion,Ation,Ation IV,Smartfab Units,Rich,15.49
+Sinq Laison,Stion,Ation,Ation IV,Heavy Water,Rich,231.15
+Sinq Laison,Stion,Ation,Ation V,Lustering Alloy,Medium,17.05
+Sinq Laison,Stion,Ation,Ation V,Base Metals,Medium,4.44
+Sinq Laison,Stion,Ation,Ation VI,Motley Compound,Medium,15.95
+Sinq Laison,Stion,Ation,Ation VI,Smartfab Units,Rich,15.03
+Sinq Laison,Stion,Ation,Ation VII,Lustering Alloy,Medium,17.34
+Sinq Laison,Stion,Ation,Ation VII,Sheen Compound,Perfect,24.07
+Sinq Laison,Stion,Ation,Ation VII,Base Metals,Medium,4.79
+Sinq Laison,Stion,Ation,Ation VIII,Lustering Alloy,Medium,18.42
+Sinq Laison,Stion,Ation,Ation VIII,Base Metals,Rich,5.03
+Sinq Laison,Stion,Ation,Ation VIII,Coolant,Medium,10.32
+Sinq Laison,Stion,Ation,Ation IX,Lustering Alloy,Rich,22.41
+Sinq Laison,Stion,Ation,Ation IX,Base Metals,Medium,4.44
+Sinq Laison,Stion,Ation,Ation IX,Reactive Metals,Medium,4.40
+Sinq Laison,Stion,Ation,Ation X,Lustering Alloy,Medium,15.46
+Sinq Laison,Stion,Ation,Ation X,Base Metals,Poor,3.58
+Sinq Laison,Stion,Stegette,Stegette I,Base Metals,Poor,3.60
+Sinq Laison,Stion,Stegette,Stegette I,Industrial Fibers,Medium,4.96
+Sinq Laison,Stion,Stegette,Stegette I,Oxygen Isotopes,Poor,1.66
+Sinq Laison,Stion,Stegette,Stegette II,Noble Gas,Medium,19.39
+Sinq Laison,Stion,Stegette,Stegette II,Plasmoids,Medium,1.08
+Sinq Laison,Stion,Stegette,Stegette III,Noble Gas,Medium,19.30
+Sinq Laison,Stion,Stegette,Stegette III,Base Metals,Medium,4.09
+Sinq Laison,Stion,Stegette,Stegette III,Coolant,Medium,12.41
+Sinq Laison,Stion,Stegette,Stegette III,Ionic Solutions,Perfect,10.55
+Sinq Laison,Stion,Stegette,Stegette IV,Sheen Compound,Rich,24.48
+Sinq Laison,Stion,Stegette,Stegette IV,Noble Gas,Medium,19.49
+Sinq Laison,Stion,Stegette,Stegette IV,Polyaramids,Rich,15.57
+Sinq Laison,Stion,Stegette,Stegette IV,Coolant,Medium,12.59
+Sinq Laison,Stion,Stegette,Stegette V,Fiber Composite,Medium,15.63
+Sinq Laison,Stion,Stegette,Stegette V,Reactive Gas,Rich,23.36
+Sinq Laison,Stion,Stegette,Stegette V,Noble Gas,Medium,17.33
+Sinq Laison,Stion,Stegette,Stegette V,Base Metals,Rich,5.65
+Sinq Laison,Stion,Stegette,Stegette VI,Industrial Fibers,Poor,3.36
+Sinq Laison,Stion,Stegette,Stegette VI,Silicate Glass,Medium,7.94
+Sinq Laison,Stion,Stegette,Stegette VI,Oxygen Isotopes,Poor,2.23
+Sinq Laison,Stion,Stegette,Stegette VII,Industrial Fibers,Rich,6.26
+Sinq Laison,Stion,Stegette,Stegette VII,Supertensile Plastics,Rich,15.57
+Sinq Laison,Stion,Stegette,Stegette VII,Coolant,Rich,15.78
+Sinq Laison,Stion,Stegette,Stegette VIII,Base Metals,Poor,3.59
+Sinq Laison,Stion,Stegette,Stegette VIII,Coolant,Poor,9.39
+Sinq Laison,Stion,Stegette,Stegette VIII,Condensates,Poor,8.69
+Sinq Laison,Stion,Ravarin,Ravarin I,Dark Compound,Poor,10.69
+Sinq Laison,Stion,Ravarin,Ravarin I,Base Metals,Medium,4.41
+Sinq Laison,Stion,Ravarin,Ravarin I,Industrial Fibers,Medium,5.32
+Sinq Laison,Stion,Ravarin,Ravarin II,Precious Alloy,Medium,18.70
+Sinq Laison,Stion,Ravarin,Ravarin II,Industrial Fibers,Poor,4.00
+Sinq Laison,Stion,Ravarin,Ravarin II,Silicate Glass,Poor,5.77
+Sinq Laison,Stion,Ravarin,Ravarin III,Lustering Alloy,Medium,19.62
+Sinq Laison,Stion,Ravarin,Ravarin III,Noble Gas,Rich,23.61
+Sinq Laison,Stion,Ravarin,Ravarin III,Polyaramids,Rich,17.29
+Sinq Laison,Stion,Ravarin,Ravarin III,Ionic Solutions,Medium,6.80
+Sinq Laison,Stion,Ravarin,Ravarin IV,Sheen Compound,Poor,15.91
+Sinq Laison,Stion,Ravarin,Ravarin IV,Fiber Composite,Medium,19.99
+Sinq Laison,Stion,Ravarin,Ravarin IV,Glossy Compound,Rich,24.62
+Sinq Laison,Stion,Ravarin,Ravarin IV,Noble Gas,Rich,25.77
+Sinq Laison,Stion,Ravarin,Ravarin V,Fiber Composite,Poor,14.38
+Sinq Laison,Stion,Ravarin,Ravarin V,Glossy Compound,Rich,26.01
+Sinq Laison,Stion,Ravarin,Ravarin V,Noble Gas,Rich,23.94
+Sinq Laison,Stion,Ravarin,Ravarin V,Polyaramids,Rich,16.55
+Sinq Laison,Stion,Ravarin,Ravarin VI,Lustering Alloy,Medium,19.60
+Sinq Laison,Stion,Ravarin,Ravarin VI,Heavy Metals,Medium,17.58
+Sinq Laison,Stion,Ravarin,Ravarin VI,Coolant,Medium,12.67
+Sinq Laison,Stion,Ravarin,Ravarin VII,Base Metals,Medium,5.36
+Sinq Laison,Stion,Ravarin,Ravarin VII,Toxic Metals,Medium,4.34
+Sinq Laison,Stion,Ravarin,Ravarin VII,Industrial Fibers,Medium,4.26
+Sinq Laison,Stion,Ravarin,Ravarin VIII,Base Metals,Medium,4.61
+Sinq Laison,Stion,Ravarin,Ravarin VIII,Coolant,Poor,8.61
+Sinq Laison,Stion,Ravarin,Ravarin VIII,Condensates,Medium,13.76
+Sinq Laison,Stion,Aliette,Aliette I,Industrial Fibers,Poor,3.74
+Sinq Laison,Stion,Aliette,Aliette I,Silicate Glass,Medium,9.41
+Sinq Laison,Stion,Aliette,Aliette I,Oxygen Isotopes,Medium,2.52
+Sinq Laison,Stion,Aliette,Aliette II,Sheen Compound,Rich,25.11
+Sinq Laison,Stion,Aliette,Aliette II,Noble Gas,Rich,24.16
+Sinq Laison,Stion,Aliette,Aliette II,Condensates,Medium,14.29
+Sinq Laison,Stion,Aliette,Aliette II,Nanites,Medium,5.25
+Sinq Laison,Stion,Aliette,Aliette III,Noble Gas,Rich,25.82
+Sinq Laison,Stion,Aliette,Aliette III,Oxygen Isotopes,Poor,2.22
+Sinq Laison,Stion,Aliette,Aliette IV,Industrial Fibers,Poor,3.23
+Sinq Laison,Stion,Aliette,Aliette IV,Construction Blocks,Medium,18.61
+Sinq Laison,Stion,Aliette,Aliette IV,Plasmoids,Poor,0.82
+Sinq Laison,Stion,Aliette,Aliette V,Lustering Alloy,Medium,17.68
+Sinq Laison,Stion,Aliette,Aliette V,Base Metals,Poor,3.91
+Sinq Laison,Stion,Aliette,Aliette V,Industrial Fibers,Medium,5.22
+Sinq Laison,Stion,Aliette,Aliette VI,Lustering Alloy,Medium,21.00
+Sinq Laison,Stion,Aliette,Aliette VI,Sheen Compound,Medium,17.53
+Sinq Laison,Stion,Aliette,Aliette VI,Reactive Gas,Medium,19.89
+Sinq Laison,Stion,Aliette,Aliette VI,Noble Gas,Medium,17.53
+Sinq Laison,Stion,Aliette,Aliette VII,Sheen Compound,Rich,26.77
+Sinq Laison,Stion,Aliette,Aliette VII,Glossy Compound,Medium,18.19
+Sinq Laison,Stion,Aliette,Aliette VII,Noble Gas,Rich,24.24
+Sinq Laison,Stion,Aliette,Aliette VII,Reactive Metals,Medium,5.14
+Sinq Laison,Stion,Aliette,Aliette VIII,Sheen Compound,Medium,21.42
+Sinq Laison,Stion,Aliette,Aliette VIII,Noble Gas,Rich,25.86
+Sinq Laison,Stion,Aliette,Aliette VIII,Polyaramids,Medium,14.27
+Sinq Laison,Stion,Aliette,Aliette VIII,Coolant,Medium,13.83
+Sinq Laison,Stion,Aliette,Aliette IX,Lustering Alloy,Medium,20.25
+Sinq Laison,Stion,Aliette,Aliette IX,Toxic Metals,Medium,4.59
+Sinq Laison,Stion,Aliette,Aliette IX,Industrial Fibers,Medium,4.33
+Sinq Laison,Wyllequet,Brapelille,Brapelille I,Lustering Alloy,Medium,15.18
+Sinq Laison,Wyllequet,Brapelille,Brapelille I,Base Metals,Poor,2.65
+Sinq Laison,Wyllequet,Brapelille,Brapelille II,Lustering Alloy,Poor,9.18
+Sinq Laison,Wyllequet,Brapelille,Brapelille II,Base Metals,Medium,4.52
+Sinq Laison,Wyllequet,Brapelille,Brapelille III,Motley Compound,Rich,19.25
+Sinq Laison,Wyllequet,Brapelille,Brapelille III,Noble Metals,Rich,20.87
+Sinq Laison,Wyllequet,Brapelille,Brapelille IV,Crystal Compound,Medium,14.22
+Sinq Laison,Wyllequet,Brapelille,Brapelille IV,Toxic Metals,Rich,5.21
+Sinq Laison,Wyllequet,Brapelille,Brapelille IV,Heavy Water,Perfect,246.12
+Sinq Laison,Wyllequet,Brapelille,Brapelille V,Lustering Alloy,Poor,10.74
+Sinq Laison,Wyllequet,Brapelille,Brapelille V,Base Metals,Medium,4.16
+Sinq Laison,Wyllequet,Brapelille,Brapelille VI,Silicate Glass,Rich,10.45
+Sinq Laison,Wyllequet,Brapelille,Brapelille VI,Heavy Water,Rich,185.92
+Sinq Laison,Wyllequet,Brapelille,Brapelille VI,Liquid Ozone,Medium,19.11
+Sinq Laison,Wyllequet,Brapelille,Brapelille VII,Reactive Gas,Medium,13.44
+Sinq Laison,Wyllequet,Brapelille,Brapelille VII,Suspended Plasma,Poor,45.56
+Sinq Laison,Wyllequet,Brapelille,Brapelille VIII,Lustering Alloy,Poor,12.17
+Sinq Laison,Wyllequet,Brapelille,Brapelille VIII,Base Metals,Poor,3.17
+Sinq Laison,Wyllequet,Brapelille,Brapelille IX,Lustering Alloy,Rich,20.99
+Sinq Laison,Wyllequet,Brapelille,Brapelille IX,Base Metals,Rich,5.26
+Sinq Laison,Wyllequet,Brapelille,Brapelille IX,Reactive Metals,Perfect,6.06
+Sinq Laison,Wyllequet,Brapelille,Brapelille X,Lustering Alloy,Medium,13.87
+Sinq Laison,Wyllequet,Brapelille,Brapelille X,Base Metals,Rich,4.70
+Sinq Laison,Wyllequet,Brapelille,Brapelille X,Polyaramids,Perfect,14.86
+Sinq Laison,Wyllequet,Brapelille,Brapelille XI,Gleaming Alloy,Rich,21.25
+Sinq Laison,Wyllequet,Brapelille,Brapelille XI,Suspended Plasma,Rich,67.13
+Sinq Laison,Wyllequet,Bawilan,Bawilan I,Sheen Compound,Medium,15.99
+Sinq Laison,Wyllequet,Bawilan,Bawilan I,Nanites,Rich,5.50
+Sinq Laison,Wyllequet,Bawilan,Bawilan I,Suspended Plasma,Rich,74.57
+Sinq Laison,Wyllequet,Bawilan,Bawilan II,Lustering Alloy,Medium,17.64
+Sinq Laison,Wyllequet,Bawilan,Bawilan II,Base Metals,Poor,2.47
+Sinq Laison,Wyllequet,Bawilan,Bawilan III,Base Metals,Rich,6.01
+Sinq Laison,Wyllequet,Bawilan,Bawilan III,Heavy Water,Medium,179.85
+Sinq Laison,Wyllequet,Bawilan,Bawilan III,Liquid Ozone,Perfect,33.62
+Sinq Laison,Wyllequet,Bawilan,Bawilan IV,Condensed Alloy,Rich,22.00
+Sinq Laison,Wyllequet,Bawilan,Bawilan IV,Silicate Glass,Perfect,13.04
+Sinq Laison,Wyllequet,Bawilan,Bawilan IV,Heavy Water,Perfect,264.15
+Sinq Laison,Wyllequet,Bawilan,Bawilan V,Industrial Fibers,Rich,5.87
+Sinq Laison,Wyllequet,Bawilan,Bawilan V,Condensates,Medium,10.10
+Sinq Laison,Wyllequet,Bawilan,Bawilan V,Heavy Water,Perfect,250.80
+Sinq Laison,Wyllequet,Bawilan,Bawilan VI,Lustering Alloy,Medium,15.16
+Sinq Laison,Wyllequet,Bawilan,Bawilan VI,Base Metals,Medium,3.87
+Sinq Laison,Wyllequet,Bawilan,Bawilan VI,Polyaramids,Rich,14.64
+Sinq Laison,Wyllequet,Bawilan,Bawilan VII,Lustering Alloy,Perfect,24.42
+Sinq Laison,Wyllequet,Bawilan,Bawilan VII,Noble Gas,Medium,18.30
+Sinq Laison,Wyllequet,Bawilan,Bawilan VII,Base Metals,Poor,3.71
+Sinq Laison,Wyllequet,Bawilan,Bawilan VIII,Lustering Alloy,Rich,19.86
+Sinq Laison,Wyllequet,Bawilan,Bawilan VIII,Base Metals,Rich,6.22
+Sinq Laison,Wyllequet,Bawilan,Bawilan VIII,Polyaramids,Poor,9.18
+Sinq Laison,Wyllequet,Bawilan,Bawilan IX,Motley Compound,Medium,17.30
+Sinq Laison,Wyllequet,Bawilan,Bawilan IX,Heavy Metals,Rich,21.77
+Sinq Laison,Wyllequet,Atier,Atier I,Lustering Alloy,Poor,13.16
+Sinq Laison,Wyllequet,Atier,Atier I,Base Metals,Poor,3.10
+Sinq Laison,Wyllequet,Atier,Atier II,Lustering Alloy,Medium,15.82
+Sinq Laison,Wyllequet,Atier,Atier II,Base Metals,Poor,2.91
+Sinq Laison,Wyllequet,Atier,Atier III,Motley Compound,Medium,16.76
+Sinq Laison,Wyllequet,Atier,Atier III,Noble Metals,Poor,11.72
+Sinq Laison,Wyllequet,Atier,Atier IV,Noble Metals,Medium,15.96
+Sinq Laison,Wyllequet,Atier,Atier IV,Heavy Water,Perfect,245.28
+Sinq Laison,Wyllequet,Atier,Atier IV,Ionic Solutions,Rich,7.69
+Sinq Laison,Wyllequet,Atier,Atier V,Industrial Fibers,Medium,3.58
+Sinq Laison,Wyllequet,Atier,Atier V,Heavy Water,Perfect,266.42
+Sinq Laison,Wyllequet,Atier,Atier V,Liquid Ozone,Rich,24.89
+Sinq Laison,Wyllequet,Atier,Atier VI,Reactive Gas,Medium,17.22
+Sinq Laison,Wyllequet,Atier,Atier VI,Smartfab Units,Perfect,15.05
+Sinq Laison,Wyllequet,Atier,Atier VI,Heavy Water,Perfect,233.66
+Sinq Laison,Wyllequet,Atier,Atier VII,Lustering Alloy,Medium,17.44
+Sinq Laison,Wyllequet,Atier,Atier VII,Noble Gas,Rich,18.47
+Sinq Laison,Wyllequet,Atier,Atier VII,Base Metals,Medium,4.44
+Sinq Laison,Wyllequet,Atier,Atier VIII,Lustering Alloy,Medium,14.25
+Sinq Laison,Wyllequet,Atier,Atier VIII,Glossy Compound,Rich,19.01
+Sinq Laison,Wyllequet,Atier,Atier VIII,Base Metals,Perfect,6.05
+Sinq Laison,Wyllequet,Archee,Archee I,Noble Gas,Poor,13.39
+Sinq Laison,Wyllequet,Archee,Archee I,Plasmoids,Rich,1.28
+Sinq Laison,Wyllequet,Archee,Archee II,Precious Alloy,Poor,15.01
+Sinq Laison,Wyllequet,Archee,Archee II,Base Metals,Poor,3.59
+Sinq Laison,Wyllequet,Archee,Archee II,Industrial Fibers,Poor,3.00
+Sinq Laison,Wyllequet,Archee,Archee III,Reactive Metals,Poor,3.71
+Sinq Laison,Wyllequet,Archee,Archee III,Construction Blocks,Rich,23.66
+Sinq Laison,Wyllequet,Archee,Archee III,Nanites,Rich,5.50
+Sinq Laison,Wyllequet,Archee,Archee IV,Sheen Compound,Perfect,25.90
+Sinq Laison,Wyllequet,Archee,Archee IV,Noble Gas,Poor,13.33
+Sinq Laison,Wyllequet,Archee,Archee IV,Base Metals,Medium,5.21
+Sinq Laison,Wyllequet,Archee,Archee IV,Reactive Metals,Rich,5.36
+Sinq Laison,Wyllequet,Archee,Archee V,Sheen Compound,Medium,17.98
+Sinq Laison,Wyllequet,Archee,Archee V,Glossy Compound,Rich,21.34
+Sinq Laison,Wyllequet,Archee,Archee V,Noble Gas,Rich,25.17
+Sinq Laison,Wyllequet,Archee,Archee V,Coolant,Rich,14.26
+Sinq Laison,Wyllequet,Archee,Archee VI,Construction Blocks,Medium,18.02
+Sinq Laison,Wyllequet,Archee,Archee VI,Suspended Plasma,Poor,51.96
+Sinq Laison,Wyllequet,Archee,Archee VI,Oxygen Isotopes,Rich,3.48
+Sinq Laison,Wyllequet,Brybier,Brybier I,Lustering Alloy,Poor,14.07
+Sinq Laison,Wyllequet,Brybier,Brybier I,Glossy Compound,Poor,14.10
+Sinq Laison,Wyllequet,Brybier,Brybier I,Base Metals,Rich,6.06
+Sinq Laison,Wyllequet,Brybier,Brybier II,Condensed Alloy,Rich,23.66
+Sinq Laison,Wyllequet,Brybier,Brybier II,Crystal Compound,Medium,17.05
+Sinq Laison,Wyllequet,Brybier,Brybier II,Heavy Water,Rich,205.65
+Sinq Laison,Wyllequet,Brybier,Brybier III,Lustering Alloy,Medium,15.84
+Sinq Laison,Wyllequet,Brybier,Brybier III,Base Metals,Poor,3.03
+Sinq Laison,Wyllequet,Adrallezoen,Adrallezoen I,Noble Gas,Rich,22.99
+Sinq Laison,Wyllequet,Adrallezoen,Adrallezoen I,Heavy Metals,Medium,15.41
+Sinq Laison,Wyllequet,Adrallezoen,Adrallezoen II,Lustering Alloy,Medium,17.36
+Sinq Laison,Wyllequet,Adrallezoen,Adrallezoen II,Dark Compound,Medium,17.84
+Sinq Laison,Wyllequet,Adrallezoen,Adrallezoen II,Industrial Fibers,Medium,4.56
+Sinq Laison,Wyllequet,Adrallezoen,Adrallezoen III,Fiber Composite,Poor,14.80
+Sinq Laison,Wyllequet,Adrallezoen,Adrallezoen III,Base Metals,Perfect,7.94
+Sinq Laison,Wyllequet,Adrallezoen,Adrallezoen III,Condensates,Medium,12.65
+Sinq Laison,Wyllequet,Adrallezoen,Adrallezoen III,Liquid Ozone,Rich,26.60
+Sinq Laison,Wyllequet,Adrallezoen,Adrallezoen IV,Toxic Metals,Rich,6.19
+Sinq Laison,Wyllequet,Adrallezoen,Adrallezoen IV,Coolant,Rich,14.40
+Sinq Laison,Wyllequet,Adrallezoen,Adrallezoen IV,Heavy Water,Perfect,281.60
+Sinq Laison,Wyllequet,Adrallezoen,Adrallezoen IV,Liquid Ozone,Medium,24.20
+Sinq Laison,Wyllequet,Adrallezoen,Adrallezoen V,Condensed Alloy,Rich,23.79
+Sinq Laison,Wyllequet,Adrallezoen,Adrallezoen V,Fiber Composite,Medium,15.30
+Sinq Laison,Wyllequet,Adrallezoen,Adrallezoen V,Heavy Water,Rich,222.56
+Sinq Laison,Wyllequet,Adrallezoen,Adrallezoen V,Liquid Ozone,Rich,26.32
+Sinq Laison,Wyllequet,Adrallezoen,Adrallezoen VI,Fiber Composite,Medium,19.52
+Sinq Laison,Wyllequet,Adrallezoen,Adrallezoen VI,Opulent Compound,Rich,23.78
+Sinq Laison,Wyllequet,Adrallezoen,Adrallezoen VI,Industrial Fibers,Rich,6.00
+Sinq Laison,Wyllequet,Adrallezoen,Adrallezoen VI,Condensates,Medium,10.71
+Sinq Laison,Wyllequet,Croleur,Croleur I,Nanites,Medium,4.33
+Sinq Laison,Wyllequet,Croleur,Croleur I,Suspended Plasma,Rich,76.25
+Sinq Laison,Wyllequet,Croleur,Croleur I,Plasmoids,Rich,1.33
+Sinq Laison,Wyllequet,Croleur,Croleur II,Lustering Alloy,Poor,10.14
+Sinq Laison,Wyllequet,Croleur,Croleur II,Base Metals,Poor,2.49
+Sinq Laison,Wyllequet,Croleur,Croleur III,Noble Metals,Medium,16.57
+Sinq Laison,Wyllequet,Croleur,Croleur III,Smartfab Units,Rich,12.87
+Sinq Laison,Wyllequet,Croleur,Croleur III,Heavy Water,Rich,223.65
+Sinq Laison,Wyllequet,Croleur,Croleur IV,Motley Compound,Medium,18.05
+Sinq Laison,Wyllequet,Croleur,Croleur IV,Smartfab Units,Medium,10.08
+Sinq Laison,Wyllequet,Croleur,Croleur V,Fiber Composite,Rich,23.31
+Sinq Laison,Wyllequet,Croleur,Croleur V,Noble Metals,Medium,17.49
+Sinq Laison,Wyllequet,Croleur,Croleur V,Heavy Water,Perfect,249.90
+Sinq Laison,Wyllequet,Croleur,Croleur VI,Lucent Compound,Medium,18.29
+Sinq Laison,Wyllequet,Croleur,Croleur VI,Suspended Plasma,Perfect,88.51
+Sinq Laison,Wyllequet,Croleur,Croleur VII,Opulent Compound,Perfect,26.43
+Sinq Laison,Wyllequet,Croleur,Croleur VII,Industrial Fibers,Rich,5.30
+Sinq Laison,Wyllequet,Croleur,Croleur VII,Heavy Water,Rich,222.60
+Sinq Laison,Wyllequet,Croleur,Croleur VIII,Lustering Alloy,Rich,19.59
+Sinq Laison,Wyllequet,Croleur,Croleur VIII,Fiber Composite,Medium,16.80
+Sinq Laison,Wyllequet,Croleur,Croleur VIII,Base Metals,Rich,5.04
+Sinq Laison,Agiesseson,Doussivitte,Doussivitte I,Lustering Alloy,Poor,9.59
+Sinq Laison,Agiesseson,Doussivitte,Doussivitte I,Base Metals,Medium,3.67
+Sinq Laison,Agiesseson,Doussivitte,Doussivitte II,Lustering Alloy,Medium,12.74
+Sinq Laison,Agiesseson,Doussivitte,Doussivitte II,Base Metals,Medium,4.10
+Sinq Laison,Agiesseson,Doussivitte,Doussivitte III,Motley Compound,Medium,13.51
+Sinq Laison,Agiesseson,Doussivitte,Doussivitte III,Smartfab Units,Medium,10.46
+Sinq Laison,Agiesseson,Doussivitte,Doussivitte IV,Condensed Alloy,Rich,19.33
+Sinq Laison,Agiesseson,Doussivitte,Doussivitte IV,Reactive Gas,Medium,12.88
+Sinq Laison,Agiesseson,Doussivitte,Doussivitte IV,Heavy Water,Medium,150.54
+Sinq Laison,Agiesseson,Doussivitte,Doussivitte V,Lustering Alloy,Medium,12.78
+Sinq Laison,Agiesseson,Doussivitte,Doussivitte V,Base Metals,Medium,3.37
+Sinq Laison,Agiesseson,Doussivitte,Doussivitte VI,Industrial Fibers,Perfect,5.70
+Sinq Laison,Agiesseson,Doussivitte,Doussivitte VI,Smartfab Units,Rich,12.87
+Sinq Laison,Agiesseson,Doussivitte,Doussivitte VI,Heavy Water,Perfect,242.45
+Sinq Laison,Agiesseson,Doussivitte,Doussivitte VII,Lustering Alloy,Medium,16.20
+Sinq Laison,Agiesseson,Doussivitte,Doussivitte VII,Sheen Compound,Perfect,21.44
+Sinq Laison,Agiesseson,Doussivitte,Doussivitte VII,Base Metals,Rich,4.57
+Sinq Laison,Agiesseson,Doussivitte,Doussivitte VIII,Lustering Alloy,Medium,15.03
+Sinq Laison,Agiesseson,Doussivitte,Doussivitte VIII,Glossy Compound,Medium,15.13
+Sinq Laison,Agiesseson,Doussivitte,Doussivitte VIII,Base Metals,Medium,4.07
+Sinq Laison,Agiesseson,Doussivitte,Doussivitte IX,Lustering Alloy,Medium,14.59
+Sinq Laison,Agiesseson,Doussivitte,Doussivitte IX,Base Metals,Poor,2.94
+Sinq Laison,Agiesseson,Doussivitte,Doussivitte X,Motley Compound,Perfect,21.79
+Sinq Laison,Agiesseson,Doussivitte,Doussivitte X,Polyaramids,Medium,9.37
+Sinq Laison,Agiesseson,Unel,Unel I,Lustering Alloy,Poor,10.26
+Sinq Laison,Agiesseson,Unel,Unel I,Base Metals,Poor,2.21
+Sinq Laison,Agiesseson,Unel,Unel II,Lustering Alloy,Poor,10.58
+Sinq Laison,Agiesseson,Unel,Unel II,Base Metals,Medium,3.21
+Sinq Laison,Agiesseson,Unel,Unel III,Noble Metals,Perfect,21.56
+Sinq Laison,Agiesseson,Unel,Unel III,Industrial Fibers,Medium,3.07
+Sinq Laison,Agiesseson,Unel,Unel III,Heavy Water,Rich,183.00
+Sinq Laison,Agiesseson,Unel,Unel IV,Base Metals,Poor,2.92
+Sinq Laison,Agiesseson,Unel,Unel IV,Noble Metals,Medium,11.94
+Sinq Laison,Agiesseson,Unel,Unel IV,Heavy Water,Medium,144.60
+Sinq Laison,Agiesseson,Unel,Unel V,Lustering Alloy,Rich,15.40
+Sinq Laison,Agiesseson,Unel,Unel V,Base Metals,Rich,4.32
+Sinq Laison,Agiesseson,Unel,Unel V,Polyaramids,Medium,9.12
+Sinq Laison,Agiesseson,Unel,Unel VI,Lustering Alloy,Rich,18.14
+Sinq Laison,Agiesseson,Unel,Unel VI,Base Metals,Rich,4.35
+Sinq Laison,Agiesseson,Unel,Unel VI,Coolant,Medium,9.71
+Sinq Laison,Agiesseson,Unel,Unel VII,Lustering Alloy,Medium,13.19
+Sinq Laison,Agiesseson,Unel,Unel VII,Base Metals,Rich,4.98
+Sinq Laison,Agiesseson,Unel,Unel VII,Reactive Metals,Medium,3.01
+Sinq Laison,Agiesseson,Unel,Unel VIII,Lustering Alloy,Medium,14.35
+Sinq Laison,Agiesseson,Unel,Unel VIII,Base Metals,Medium,3.81
+Sinq Laison,Agiesseson,Unel,Unel VIII,Ionic Solutions,Medium,4.97
+Sinq Laison,Agiesseson,Unel,Unel IX,Lustering Alloy,Medium,13.21
+Sinq Laison,Agiesseson,Unel,Unel IX,Base Metals,Rich,4.60
+Sinq Laison,Agiesseson,Unel,Unel X,Lustering Alloy,Rich,15.58
+Sinq Laison,Agiesseson,Unel,Unel X,Base Metals,Rich,4.38
+Sinq Laison,Agiesseson,Unel,Unel XI,Lustering Alloy,Poor,8.02
+Sinq Laison,Agiesseson,Unel,Unel XI,Base Metals,Medium,3.74
+Sinq Laison,Agiesseson,Claysson,Claysson I,Motley Compound,Perfect,17.60
+Sinq Laison,Agiesseson,Claysson,Claysson I,Oxygen Isotopes,Poor,1.38
+Sinq Laison,Agiesseson,Claysson,Claysson II,Lustering Alloy,Poor,9.54
+Sinq Laison,Agiesseson,Claysson,Claysson II,Base Metals,Poor,2.15
+Sinq Laison,Agiesseson,Claysson,Claysson III,Noble Gas,Rich,14.03
+Sinq Laison,Agiesseson,Claysson,Claysson III,Reactive Metals,Medium,2.89
+Sinq Laison,Agiesseson,Claysson,Claysson III,Suspended Plasma,Medium,46.61
+Sinq Laison,Agiesseson,Claysson,Claysson IV,Reactive Gas,Rich,17.35
+Sinq Laison,Agiesseson,Claysson,Claysson IV,Suspended Plasma,Rich,53.38
+Sinq Laison,Agiesseson,Claysson,Claysson V,Noble Metals,Medium,10.75
+Sinq Laison,Agiesseson,Claysson,Claysson V,Heavy Water,Rich,169.29
+Sinq Laison,Agiesseson,Claysson,Claysson V,Ionic Solutions,Rich,6.00
+Sinq Laison,Agiesseson,Claysson,Claysson VI,Reactive Gas,Medium,13.11
+Sinq Laison,Agiesseson,Claysson,Claysson VI,Base Metals,Medium,3.01
+Sinq Laison,Agiesseson,Claysson,Claysson VI,Heavy Water,Rich,155.32
+Sinq Laison,Agiesseson,Claysson,Claysson VII,Lustering Alloy,Medium,11.49
+Sinq Laison,Agiesseson,Claysson,Claysson VII,Base Metals,Medium,2.91
+Sinq Laison,Agiesseson,Claysson,Claysson VII,Coolant,Rich,10.13
+Sinq Laison,Agiesseson,Claysson,Claysson VIII,Lustering Alloy,Medium,11.12
+Sinq Laison,Agiesseson,Claysson,Claysson VIII,Sheen Compound,Poor,10.15
+Sinq Laison,Agiesseson,Claysson,Claysson VIII,Base Metals,Medium,2.76
+Sinq Laison,Agiesseson,Claysson,Claysson IX,Lustering Alloy,Rich,16.73
+Sinq Laison,Agiesseson,Claysson,Claysson IX,Sheen Compound,Rich,17.24
+Sinq Laison,Agiesseson,Claysson,Claysson IX,Base Metals,Poor,2.72
+Sinq Laison,Agiesseson,Claysson,Claysson X,Lustering Alloy,Medium,10.58
+Sinq Laison,Agiesseson,Claysson,Claysson X,Base Metals,Medium,3.38
+Sinq Laison,Agiesseson,Auberulle,Auberulle I,Lustering Alloy,Medium,11.65
+Sinq Laison,Agiesseson,Auberulle,Auberulle I,Base Metals,Medium,3.44
+Sinq Laison,Agiesseson,Auberulle,Auberulle II,Motley Compound,Perfect,20.24
+Sinq Laison,Agiesseson,Auberulle,Auberulle II,Oxygen Isotopes,Rich,2.42
+Sinq Laison,Agiesseson,Auberulle,Auberulle III,Lustering Alloy,Medium,13.69
+Sinq Laison,Agiesseson,Auberulle,Auberulle III,Base Metals,Poor,2.32
+Sinq Laison,Agiesseson,Auberulle,Auberulle IV,Lustering Alloy,Poor,10.30
+Sinq Laison,Agiesseson,Auberulle,Auberulle IV,Base Metals,Poor,2.60
+Sinq Laison,Agiesseson,Auberulle,Auberulle V,Opulent Compound,Rich,15.83
+Sinq Laison,Agiesseson,Auberulle,Auberulle V,Noble Metals,Rich,16.69
+Sinq Laison,Agiesseson,Auberulle,Auberulle V,Heavy Water,Perfect,224.76
+Sinq Laison,Agiesseson,Auberulle,Auberulle VI,Lustering Alloy,Medium,13.88
+Sinq Laison,Agiesseson,Auberulle,Auberulle VI,Base Metals,Poor,2.14
+Sinq Laison,Agiesseson,Auberulle,Auberulle VII,Lustering Alloy,Medium,12.44
+Sinq Laison,Agiesseson,Auberulle,Auberulle VII,Base Metals,Medium,3.78
+Sinq Laison,Agiesseson,Auberulle,Auberulle VIII,Motley Compound,Medium,14.03
+Sinq Laison,Agiesseson,Auberulle,Auberulle VIII,Plasmoids,Medium,0.79
+Sinq Laison,Agiesseson,Adiere,Adiere I,Lustering Alloy,Poor,8.23
+Sinq Laison,Agiesseson,Adiere,Adiere I,Base Metals,Medium,3.49
+Sinq Laison,Agiesseson,Adiere,Adiere II,Lustering Alloy,Poor,12.10
+Sinq Laison,Agiesseson,Adiere,Adiere II,Base Metals,Medium,3.60
+Sinq Laison,Agiesseson,Adiere,Adiere III,Lustering Alloy,Medium,15.42
+Sinq Laison,Agiesseson,Adiere,Adiere III,Base Metals,Poor,2.82
+Sinq Laison,Agiesseson,Adiere,Adiere IV,Reactive Gas,Medium,14.94
+Sinq Laison,Agiesseson,Adiere,Adiere IV,Industrial Fibers,Rich,5.36
+Sinq Laison,Agiesseson,Adiere,Adiere IV,Heavy Water,Perfect,220.61
+Sinq Laison,Agiesseson,Adiere,Adiere V,Lustering Alloy,Medium,15.95
+Sinq Laison,Agiesseson,Adiere,Adiere V,Base Metals,Medium,4.05
+Sinq Laison,Agiesseson,Adiere,Adiere VI,Lustering Alloy,Medium,14.94
+Sinq Laison,Agiesseson,Adiere,Adiere VI,Fiber Composite,Perfect,21.40
+Sinq Laison,Agiesseson,Adiere,Adiere VI,Base Metals,Rich,5.20
+Sinq Laison,Agiesseson,Adiere,Adiere VII,Lustering Alloy,Poor,11.14
+Sinq Laison,Agiesseson,Adiere,Adiere VII,Base Metals,Rich,5.20
+Sinq Laison,Agiesseson,Adiere,Adiere VII,Reactive Metals,Rich,4.41
+Sinq Laison,Agiesseson,Adiere,Adiere VIII,Lustering Alloy,Rich,20.61
+Sinq Laison,Agiesseson,Adiere,Adiere VIII,Base Metals,Rich,4.88
+Sinq Laison,Agiesseson,Adiere,Adiere VIII,Polyaramids,Rich,12.55
+Sinq Laison,Agiesseson,Adiere,Adiere IX,Lustering Alloy,Medium,15.26
+Sinq Laison,Agiesseson,Adiere,Adiere IX,Base Metals,Medium,3.23
+Sinq Laison,Agiesseson,Adiere,Adiere X,Lustering Alloy,Medium,13.04
+Sinq Laison,Agiesseson,Adiere,Adiere X,Base Metals,Medium,3.32
+Sinq Laison,Agiesseson,Stetille,Stetille I,Lustering Alloy,Poor,8.65
+Sinq Laison,Agiesseson,Stetille,Stetille I,Base Metals,Medium,3.15
+Sinq Laison,Agiesseson,Stetille,Stetille II,Lucent Compound,Medium,10.81
+Sinq Laison,Agiesseson,Stetille,Stetille II,Suspended Plasma,Poor,32.19
+Sinq Laison,Agiesseson,Stetille,Stetille III,Crystal Compound,Medium,13.80
+Sinq Laison,Agiesseson,Stetille,Stetille III,Suspended Plasma,Medium,48.27
+Sinq Laison,Agiesseson,Stetille,Stetille IV,Lustering Alloy,Rich,17.22
+Sinq Laison,Agiesseson,Stetille,Stetille IV,Base Metals,Rich,4.06
+Sinq Laison,Agiesseson,Stetille,Stetille IV,Reactive Metals,Rich,3.84
+Sinq Laison,Agiesseson,Stetille,Stetille V,Lustering Alloy,Poor,9.91
+Sinq Laison,Agiesseson,Stetille,Stetille V,Base Metals,Medium,3.66
+Sinq Laison,Agiesseson,Stetille,Stetille V,Reactive Metals,Rich,3.84
+Sinq Laison,Agiesseson,Stetille,Stetille VI,Condensates,Rich,9.53
+Sinq Laison,Agiesseson,Stetille,Stetille VI,Smartfab Units,Medium,9.22
+Sinq Laison,Agiesseson,Stetille,Stetille VI,Heavy Water,Rich,169.84
+Sinq Laison,Agiesseson,Stetille,Stetille VII,Reactive Gas,Medium,13.70
+Sinq Laison,Agiesseson,Stetille,Stetille VII,Condensates,Rich,11.30
+Sinq Laison,Agiesseson,Stetille,Stetille VII,Heavy Water,Medium,118.25
+Sinq Laison,Agiesseson,Stetille,Stetille VIII,Condensed Alloy,Medium,13.40
+Sinq Laison,Agiesseson,Stetille,Stetille VIII,Silicate Glass,Perfect,9.11
+Sinq Laison,Agiesseson,Stetille,Stetille VIII,Heavy Water,Rich,145.31
+Sinq Laison,Agiesseson,Stetille,Stetille IX,Lustering Alloy,Poor,8.03
+Sinq Laison,Agiesseson,Stetille,Stetille IX,Base Metals,Poor,2.38
+Sinq Laison,Nexus,Alillere,Alillere I,Lustering Alloy,Poor,9.66
+Sinq Laison,Nexus,Alillere,Alillere I,Base Metals,Poor,2.32
+Sinq Laison,Nexus,Alillere,Alillere II,Motley Compound,Rich,17.75
+Sinq Laison,Nexus,Alillere,Alillere II,Construction Blocks,Medium,11.59
+Sinq Laison,Nexus,Alillere,Alillere III,Lustering Alloy,Poor,8.56
+Sinq Laison,Nexus,Alillere,Alillere III,Base Metals,Medium,3.03
+Sinq Laison,Nexus,Alillere,Alillere IV,Motley Compound,Medium,12.08
+Sinq Laison,Nexus,Alillere,Alillere IV,Oxygen Isotopes,Poor,1.59
+Sinq Laison,Nexus,Alillere,Alillere V,Lustering Alloy,Medium,12.40
+Sinq Laison,Nexus,Alillere,Alillere V,Fiber Composite,Medium,14.03
+Sinq Laison,Nexus,Alillere,Alillere V,Base Metals,Rich,4.64
+Sinq Laison,Nexus,Alillere,Alillere VI,Lustering Alloy,Perfect,19.48
+Sinq Laison,Nexus,Alillere,Alillere VI,Base Metals,Rich,4.17
+Sinq Laison,Nexus,Alillere,Alillere VI,Reactive Metals,Rich,4.18
+Sinq Laison,Nexus,Alillere,Alillere VII,Lustering Alloy,Poor,8.41
+Sinq Laison,Nexus,Alillere,Alillere VII,Base Metals,Poor,2.57
+Sinq Laison,Nexus,Alillere,Alillere VIII,Lustering Alloy,Poor,7.85
+Sinq Laison,Nexus,Alillere,Alillere VIII,Base Metals,Poor,2.86
+Sinq Laison,Nexus,Alillere,Alillere IX,Lustering Alloy,Medium,13.15
+Sinq Laison,Nexus,Alillere,Alillere IX,Base Metals,Poor,2.15
+Sinq Laison,Nexus,Abenync,Abenync I,Lustering Alloy,Rich,18.98
+Sinq Laison,Nexus,Abenync,Abenync I,Base Metals,Rich,4.48
+Sinq Laison,Nexus,Pozirblant,Pozirblant I,Lustering Alloy,Medium,15.94
+Sinq Laison,Nexus,Pozirblant,Pozirblant I,Base Metals,Poor,2.89
+Sinq Laison,Nexus,Pozirblant,Pozirblant II,Lustering Alloy,Medium,15.16
+Sinq Laison,Nexus,Pozirblant,Pozirblant II,Base Metals,Poor,2.72
+Sinq Laison,Nexus,Pozirblant,Pozirblant III,Motley Compound,Rich,17.58
+Sinq Laison,Nexus,Pozirblant,Pozirblant III,Oxygen Isotopes,Medium,2.38
+Sinq Laison,Nexus,Pozirblant,Pozirblant IV,Supertensile Plastics,Medium,10.03
+Sinq Laison,Nexus,Pozirblant,Pozirblant IV,Suspended Plasma,Rich,64.96
+Sinq Laison,Nexus,Pozirblant,Pozirblant V,Condensates,Rich,12.62
+Sinq Laison,Nexus,Pozirblant,Pozirblant V,Heavy Water,Medium,133.51
+Sinq Laison,Nexus,Pozirblant,Pozirblant V,Liquid Ozone,Medium,17.50
+Sinq Laison,Nexus,Pozirblant,Pozirblant VI,Condensates,Rich,12.90
+Sinq Laison,Nexus,Pozirblant,Pozirblant VI,Heavy Water,Perfect,218.14
+Sinq Laison,Nexus,Pozirblant,Pozirblant VI,Liquid Ozone,Rich,23.53
+Sinq Laison,Nexus,Pozirblant,Pozirblant VII,Fiber Composite,Rich,19.90
+Sinq Laison,Nexus,Pozirblant,Pozirblant VII,Base Metals,Perfect,6.48
+Sinq Laison,Nexus,Pozirblant,Pozirblant VII,Heavy Water,Perfect,245.70
+Sinq Laison,Nexus,Pozirblant,Pozirblant VIII,Condensed Alloy,Medium,15.09
+Sinq Laison,Nexus,Pozirblant,Pozirblant VIII,Heavy Water,Medium,148.72
+Sinq Laison,Nexus,Pozirblant,Pozirblant VIII,Liquid Ozone,Perfect,26.47
+Sinq Laison,Nexus,Pozirblant,Pozirblant IX,Lustering Alloy,Rich,17.93
+Sinq Laison,Nexus,Pozirblant,Pozirblant IX,Base Metals,Medium,4.20
+Sinq Laison,Nexus,Pozirblant,Pozirblant IX,Reactive Metals,Medium,4.18
+Sinq Laison,Nexus,Pozirblant,Pozirblant X,Noble Metals,Medium,15.74
+Sinq Laison,Nexus,Pozirblant,Pozirblant X,Industrial Fibers,Perfect,6.39
+Sinq Laison,Nexus,Pozirblant,Pozirblant X,Heavy Water,Medium,161.98
+Sinq Laison,Nexus,Pozirblant,Pozirblant XI,Lustering Alloy,Medium,12.29
+Sinq Laison,Nexus,Pozirblant,Pozirblant XI,Noble Gas,Medium,13.36
+Sinq Laison,Nexus,Pozirblant,Pozirblant XI,Base Metals,Medium,3.99
+Sinq Laison,Nexus,Bourynes,Bourynes I,Lustering Alloy,Poor,9.08
+Sinq Laison,Nexus,Bourynes,Bourynes I,Base Metals,Medium,3.03
+Sinq Laison,Nexus,Bourynes,Bourynes II,Fiber Composite,Perfect,18.98
+Sinq Laison,Nexus,Bourynes,Bourynes II,Smartfab Units,Medium,8.17
+Sinq Laison,Nexus,Bourynes,Bourynes II,Heavy Water,Rich,138.10
+Sinq Laison,Nexus,Bourynes,Bourynes III,Lustering Alloy,Poor,7.65
+Sinq Laison,Nexus,Bourynes,Bourynes III,Base Metals,Poor,2.03
+Sinq Laison,Nexus,Bourynes,Bourynes IV,Gleaming Alloy,Medium,10.40
+Sinq Laison,Nexus,Bourynes,Bourynes IV,Suspended Plasma,Perfect,57.20
+Sinq Laison,Nexus,Bourynes,Bourynes V,Noble Metals,Perfect,18.12
+Sinq Laison,Nexus,Bourynes,Bourynes V,Smartfab Units,Medium,7.59
+Sinq Laison,Nexus,Bourynes,Bourynes V,Heavy Water,Medium,106.60
+Sinq Laison,Nexus,Bourynes,Bourynes VI,Opulent Compound,Perfect,18.92
+Sinq Laison,Nexus,Bourynes,Bourynes VI,Noble Metals,Perfect,16.14
+Sinq Laison,Nexus,Bourynes,Bourynes VI,Heavy Water,Perfect,167.20
+Sinq Laison,Nexus,Bourynes,Bourynes VII,Lustering Alloy,Medium,9.90
+Sinq Laison,Nexus,Bourynes,Bourynes VII,Base Metals,Rich,4.10
+Sinq Laison,Nexus,Bourynes,Bourynes VII,Polyaramids,Rich,9.63
+Sinq Laison,Nexus,Bourynes,Bourynes VIII,Base Metals,Medium,2.79
+Sinq Laison,Nexus,Bourynes,Bourynes VIII,Smartfab Units,Perfect,10.77
+Sinq Laison,Nexus,Bourynes,Bourynes VIII,Heavy Water,Perfect,186.20
+Sinq Laison,Nexus,Aurcel,Aurcel I,Motley Compound,Rich,21.68
+Sinq Laison,Nexus,Aurcel,Aurcel I,Heavy Metals,Rich,22.92
+Sinq Laison,Nexus,Aurcel,Aurcel II,Condensed Alloy,Perfect,27.90
+Sinq Laison,Nexus,Aurcel,Aurcel II,Opulent Compound,Perfect,27.32
+Sinq Laison,Nexus,Aurcel,Aurcel II,Heavy Water,Rich,191.10
+Sinq Laison,Nexus,Aurcel,Aurcel III,Industrial Fibers,Perfect,7.27
+Sinq Laison,Nexus,Aurcel,Aurcel III,Smartfab Units,Rich,15.57
+Sinq Laison,Nexus,Aurcel,Aurcel III,Heavy Water,Perfect,241.50
+Sinq Laison,Nexus,Aurcel,Aurcel IV,Lustering Alloy,Rich,21.80
+Sinq Laison,Nexus,Aurcel,Aurcel IV,Base Metals,Rich,5.97
+Sinq Laison,Nexus,Aurcel,Aurcel IV,Ionic Solutions,Perfect,9.61
+Sinq Laison,Nexus,Aurcel,Aurcel V,Lustering Alloy,Medium,17.63
+Sinq Laison,Nexus,Aurcel,Aurcel V,Reactive Gas,Medium,17.25
+Sinq Laison,Nexus,Aurcel,Aurcel V,Base Metals,Medium,3.94
+Sinq Laison,Nexus,Aurcel,Aurcel VI,Lustering Alloy,Medium,16.47
+Sinq Laison,Nexus,Aurcel,Aurcel VI,Base Metals,Medium,4.48
+Sinq Laison,Nexus,Aymaerne,Aymaerne I,Lustering Alloy,Poor,9.79
+Sinq Laison,Nexus,Aymaerne,Aymaerne I,Base Metals,Medium,3.01
+Sinq Laison,Nexus,Aymaerne,Aymaerne II,Lustering Alloy,Medium,13.20
+Sinq Laison,Nexus,Aymaerne,Aymaerne II,Base Metals,Medium,2.77
+Sinq Laison,Nexus,Aymaerne,Aymaerne III,Opulent Compound,Perfect,18.51
+Sinq Laison,Nexus,Aymaerne,Aymaerne III,Heavy Water,Rich,151.14
+Sinq Laison,Nexus,Aymaerne,Aymaerne III,Liquid Ozone,Perfect,24.39
+Sinq Laison,Nexus,Aymaerne,Aymaerne IV,Lustering Alloy,Medium,12.14
+Sinq Laison,Nexus,Aymaerne,Aymaerne IV,Base Metals,Poor,2.07
+Sinq Laison,Nexus,Aymaerne,Aymaerne V,Fiber Composite,Poor,10.14
+Sinq Laison,Nexus,Aymaerne,Aymaerne V,Noble Metals,Medium,10.67
+Sinq Laison,Nexus,Aymaerne,Aymaerne V,Heavy Water,Perfect,186.56
+Sinq Laison,Nexus,Aymaerne,Aymaerne VI,Lustering Alloy,Rich,14.72
+Sinq Laison,Nexus,Aymaerne,Aymaerne VI,Base Metals,Rich,4.27
+Sinq Laison,Nexus,Aymaerne,Aymaerne VI,Ionic Solutions,Rich,6.68
+Sinq Laison,Nexus,Aymaerne,Aymaerne VII,Lustering Alloy,Poor,7.58
+Sinq Laison,Nexus,Aymaerne,Aymaerne VII,Base Metals,Poor,2.00
+Sinq Laison,Nexus,Aymaerne,Aymaerne VIII,Lustering Alloy,Poor,9.91
+Sinq Laison,Nexus,Aymaerne,Aymaerne VIII,Base Metals,Poor,2.46
+Sinq Laison,Nexus,Aymaerne,Aymaerne VIII,Coolant,Rich,9.72
+Sinq Laison,Nexus,Aymaerne,Aymaerne IX,Lustering Alloy,Rich,14.63
+Sinq Laison,Nexus,Aymaerne,Aymaerne IX,Base Metals,Rich,4.26
+Sinq Laison,Aeman,Rancer,Rancer I,Condensates,Medium,13.79
+Sinq Laison,Aeman,Rancer,Rancer I,Nanites,Rich,6.97
+Sinq Laison,Aeman,Rancer,Rancer I,Suspended Plasma,Rich,81.09
+Sinq Laison,Aeman,Rancer,Rancer I,Ionic Solutions,Rich,10.61
+Sinq Laison,Aeman,Rancer,Rancer II,Noble Gas,Medium,21.34
+Sinq Laison,Aeman,Rancer,Rancer II,Smartfab Units,Perfect,18.67
+Sinq Laison,Aeman,Rancer,Rancer III,Noble Gas,Medium,16.23
+Sinq Laison,Aeman,Rancer,Rancer III,Polyaramids,Poor,10.36
+Sinq Laison,Aeman,Rancer,Rancer IV,Fiber Composite,Perfect,27.27
+Sinq Laison,Aeman,Rancer,Rancer IV,Noble Gas,Rich,26.50
+Sinq Laison,Aeman,Rancer,Rancer IV,Base Metals,Medium,5.47
+Sinq Laison,Aeman,Rancer,Rancer IV,Reactive Metals,Perfect,7.43
+Sinq Laison,Aeman,Rancer,Rancer V,Lustering Alloy,Rich,25.19
+Sinq Laison,Aeman,Rancer,Rancer V,Noble Gas,Rich,23.89
+Sinq Laison,Aeman,Rancer,Rancer V,Reactive Metals,Rich,6.97
+Sinq Laison,Aeman,Rancer,Rancer V,Ionic Solutions,Poor,5.88
+Sinq Laison,Aeman,Rancer,Rancer VI,Fiber Composite,Medium,20.93
+Sinq Laison,Aeman,Rancer,Rancer VI,Glossy Compound,Medium,20.52
+Sinq Laison,Aeman,Rancer,Rancer VI,Noble Gas,Rich,25.75
+Sinq Laison,Aeman,Rancer,Rancer VI,Coolant,Medium,13.99
+Sinq Laison,Aeman,Rancer,Rancer VII,Lustering Alloy,Poor,15.89
+Sinq Laison,Aeman,Rancer,Rancer VII,Noble Gas,Medium,18.36
+Sinq Laison,Aeman,Rancer,Rancer VII,Base Metals,Poor,3.69
+Sinq Laison,Aeman,Rancer,Rancer VII,Polyaramids,Rich,14.97
+Sinq Laison,Aeman,Miroitem,Miroitem I,Lustering Alloy,Medium,17.48
+Sinq Laison,Aeman,Miroitem,Miroitem I,Industrial Fibers,Medium,5.00
+Sinq Laison,Aeman,Miroitem,Miroitem I,Plasmoids,Poor,0.94
+Sinq Laison,Aeman,Miroitem,Miroitem II,Dark Compound,Medium,20.37
+Sinq Laison,Aeman,Miroitem,Miroitem II,Industrial Fibers,Medium,5.29
+Sinq Laison,Aeman,Miroitem,Miroitem II,Silicate Glass,Poor,7.72
+Sinq Laison,Aeman,Miroitem,Miroitem III,Condensates,Medium,13.67
+Sinq Laison,Aeman,Miroitem,Miroitem III,Nanites,Medium,4.28
+Sinq Laison,Aeman,Miroitem,Miroitem III,Suspended Plasma,Rich,93.82
+Sinq Laison,Aeman,Miroitem,Miroitem III,Plasmoids,Rich,1.36
+Sinq Laison,Aeman,Miroitem,Miroitem IV,Precious Alloy,Medium,19.41
+Sinq Laison,Aeman,Miroitem,Miroitem IV,Industrial Fibers,Medium,4.39
+Sinq Laison,Aeman,Miroitem,Miroitem IV,Plasmoids,Poor,0.93
+Sinq Laison,Aeman,Miroitem,Miroitem V,Gleaming Alloy,Rich,24.09
+Sinq Laison,Aeman,Miroitem,Miroitem V,Construction Blocks,Poor,15.33
+Sinq Laison,Aeman,Miroitem,Miroitem V,Suspended Plasma,Poor,53.00
+Sinq Laison,Aeman,Miroitem,Miroitem VI,Fiber Composite,Medium,17.48
+Sinq Laison,Aeman,Miroitem,Miroitem VI,Reactive Gas,Perfect,28.39
+Sinq Laison,Aeman,Miroitem,Miroitem VI,Smartfab Units,Perfect,21.15
+Sinq Laison,Aeman,Miroitem,Miroitem VI,Heavy Water,Rich,257.89
+Sinq Laison,Aeman,Miroitem,Miroitem VII,Sheen Compound,Medium,17.05
+Sinq Laison,Aeman,Miroitem,Miroitem VII,Reactive Gas,Rich,25.67
+Sinq Laison,Aeman,Miroitem,Miroitem VII,Noble Gas,Rich,22.51
+Sinq Laison,Aeman,Miroitem,Miroitem VII,Base Metals,Rich,6.24
+Sinq Laison,Aeman,Miroitem,Miroitem VIII,Noble Gas,Rich,24.09
+Sinq Laison,Aeman,Miroitem,Miroitem VIII,Reactive Metals,Rich,6.04
+Sinq Laison,Aeman,Miroitem,Miroitem VIII,Polyaramids,Perfect,18.33
+Sinq Laison,Aeman,Miroitem,Miroitem VIII,Ionic Solutions,Rich,8.79
+Sinq Laison,Aeman,Miroitem,Miroitem IX,Glossy Compound,Medium,20.16
+Sinq Laison,Aeman,Miroitem,Miroitem IX,Noble Gas,Medium,18.45
+Sinq Laison,Aeman,Miroitem,Miroitem IX,Coolant,Medium,11.66
+Sinq Laison,Aeman,Miroitem,Miroitem IX,Ionic Solutions,Medium,7.05
+Sinq Laison,Aeman,Thelan,Thelan I,Lustering Alloy,Medium,17.41
+Sinq Laison,Aeman,Thelan,Thelan I,Toxic Metals,Medium,4.77
+Sinq Laison,Aeman,Thelan,Thelan I,Industrial Fibers,Poor,4.06
+Sinq Laison,Aeman,Thelan,Thelan II,Toxic Metals,Medium,5.13
+Sinq Laison,Aeman,Thelan,Thelan II,Industrial Fibers,Poor,3.69
+Sinq Laison,Aeman,Thelan,Thelan II,Plasmoids,Poor,0.73
+Sinq Laison,Aeman,Thelan,Thelan III,Lucent Compound,Medium,21.02
+Sinq Laison,Aeman,Thelan,Thelan III,Supertensile Plastics,Medium,11.88
+Sinq Laison,Aeman,Thelan,Thelan III,Construction Blocks,Medium,17.62
+Sinq Laison,Aeman,Thelan,Thelan IV,Precious Alloy,Poor,15.26
+Sinq Laison,Aeman,Thelan,Thelan IV,Industrial Fibers,Medium,4.81
+Sinq Laison,Aeman,Thelan,Thelan IV,Silicate Glass,Poor,8.14
+Sinq Laison,Aeman,Thelan,Thelan V,Sheen Compound,Rich,25.24
+Sinq Laison,Aeman,Thelan,Thelan V,Fiber Composite,Rich,23.49
+Sinq Laison,Aeman,Thelan,Thelan V,Noble Gas,Medium,21.83
+Sinq Laison,Aeman,Thelan,Thelan V,Polyaramids,Poor,10.49
+Sinq Laison,Aeman,Thelan,Thelan VI,Sheen Compound,Medium,19.53
+Sinq Laison,Aeman,Thelan,Thelan VI,Reactive Gas,Medium,20.70
+Sinq Laison,Aeman,Thelan,Thelan VI,Noble Gas,Medium,21.91
+Sinq Laison,Aeman,Thelan,Thelan VI,Reactive Metals,Rich,7.01
+Sinq Laison,Aeman,Thelan,Thelan VII,Dark Compound,Poor,15.73
+Sinq Laison,Aeman,Thelan,Thelan VII,Industrial Fibers,Poor,3.36
+Sinq Laison,Aeman,Thelan,Thelan VII,Oxygen Isotopes,Poor,2.45
+Sinq Laison,Aeman,Thelan,Thelan VIII,Toxic Metals,Medium,4.66
+Sinq Laison,Aeman,Thelan,Thelan VIII,Coolant,Rich,18.67
+Sinq Laison,Aeman,Thelan,Thelan VIII,Silicate Glass,Poor,8.15
+Sinq Laison,Aeman,Thelan,Thelan VIII,Ionic Solutions,Medium,7.82
+Sinq Laison,Aeman,Rorsins,Rorsins I,Industrial Fibers,Medium,4.93
+Sinq Laison,Aeman,Rorsins,Rorsins I,Construction Blocks,Poor,17.59
+Sinq Laison,Aeman,Rorsins,Rorsins I,Silicate Glass,Medium,11.17
+Sinq Laison,Aeman,Rorsins,Rorsins II,Glossy Compound,Medium,19.49
+Sinq Laison,Aeman,Rorsins,Rorsins II,Reactive Gas,Poor,16.63
+Sinq Laison,Aeman,Rorsins,Rorsins II,Noble Gas,Medium,20.43
+Sinq Laison,Aeman,Rorsins,Rorsins II,Reactive Metals,Rich,7.80
+Sinq Laison,Aeman,Rorsins,Rorsins III,Lucent Compound,Medium,18.03
+Sinq Laison,Aeman,Rorsins,Rorsins III,Crystal Compound,Medium,23.37
+Sinq Laison,Aeman,Rorsins,Rorsins III,Construction Blocks,Medium,23.66
+Sinq Laison,Aeman,Rorsins,Rorsins IV,Lustering Alloy,Medium,23.83
+Sinq Laison,Aeman,Rorsins,Rorsins IV,Glossy Compound,Medium,23.66
+Sinq Laison,Aeman,Rorsins,Rorsins IV,Noble Gas,Poor,15.92
+Sinq Laison,Aeman,Rorsins,Rorsins IV,Coolant,Medium,14.88
+Sinq Laison,Aeman,Rorsins,Rorsins V,Opulent Compound,Rich,26.22
+Sinq Laison,Aeman,Rorsins,Rorsins V,Coolant,Perfect,21.98
+Sinq Laison,Aeman,Rorsins,Rorsins V,Silicate Glass,Perfect,16.61
+Sinq Laison,Aeman,Rorsins,Rorsins V,Liquid Ozone,Medium,26.77
+Sinq Laison,Aeman,Lamadent,Lamadent I,Glossy Compound,Medium,16.46
+Sinq Laison,Aeman,Lamadent,Lamadent I,Noble Gas,Rich,22.12
+Sinq Laison,Aeman,Lamadent,Lamadent II,Dark Compound,Poor,11.02
+Sinq Laison,Aeman,Lamadent,Lamadent II,Industrial Fibers,Medium,4.47
+Sinq Laison,Aeman,Lamadent,Lamadent II,Plasmoids,Medium,1.01
+Sinq Laison,Aeman,Lamadent,Lamadent III,Fiber Composite,Perfect,30.19
+Sinq Laison,Aeman,Lamadent,Lamadent III,Condensates,Medium,13.25
+Sinq Laison,Aeman,Lamadent,Lamadent III,Smartfab Units,Medium,10.78
+Sinq Laison,Aeman,Lamadent,Lamadent III,Heavy Water,Perfect,314.67
+Sinq Laison,Aeman,Lamadent,Lamadent IV,Lucent Compound,Poor,16.00
+Sinq Laison,Aeman,Lamadent,Lamadent IV,Reactive Metals,Poor,4.11
+Sinq Laison,Aeman,Lamadent,Lamadent IV,Condensates,Medium,14.03
+Sinq Laison,Aeman,Lamadent,Lamadent IV,Nanites,Rich,6.51
+Sinq Laison,Aeman,Lamadent,Lamadent V,Industrial Fibers,Medium,4.74
+Sinq Laison,Aeman,Lamadent,Lamadent V,Construction Blocks,Medium,20.25
+Sinq Laison,Aeman,Lamadent,Lamadent V,Oxygen Isotopes,Poor,1.66
+Sinq Laison,Aeman,Lamadent,Lamadent VI,Base Metals,Poor,2.89
+Sinq Laison,Aeman,Lamadent,Lamadent VI,Toxic Metals,Poor,2.77
+Sinq Laison,Aeman,Lamadent,Lamadent VI,Industrial Fibers,Medium,5.29
+Sinq Laison,Aeman,Otou,Otou I,Lustering Alloy,Poor,14.76
+Sinq Laison,Aeman,Otou,Otou I,Industrial Fibers,Medium,4.94
+Sinq Laison,Aeman,Otou,Otou I,Supertensile Plastics,Medium,11.21
+Sinq Laison,Aeman,Otou,Otou II,Glossy Compound,Rich,21.79
+Sinq Laison,Aeman,Otou,Otou II,Reactive Gas,Medium,16.37
+Sinq Laison,Aeman,Otou,Otou II,Noble Gas,Medium,19.89
+Sinq Laison,Aeman,Otou,Otou II,Coolant,Rich,16.71
+Sinq Laison,Aeman,Otou,Otou III,Fiber Composite,Rich,26.25
+Sinq Laison,Aeman,Otou,Otou III,Noble Gas,Poor,14.33
+Sinq Laison,Aeman,Otou,Otou III,Base Metals,Medium,5.53
+Sinq Laison,Aeman,Otou,Otou III,Reactive Metals,Rich,6.34
+Sinq Laison,Aeman,Otou,Otou IV,Reactive Gas,Rich,25.38
+Sinq Laison,Aeman,Otou,Otou IV,Noble Gas,Rich,24.05
+Sinq Laison,Aeman,Otou,Otou IV,Coolant,Poor,9.93
+Sinq Laison,Aeman,Otou,Otou IV,Ionic Solutions,Medium,8.27
+Sinq Laison,Aeman,Otou,Otou V,Fiber Composite,Medium,21.05
+Sinq Laison,Aeman,Otou,Otou V,Glossy Compound,Medium,18.43
+Sinq Laison,Aeman,Otou,Otou V,Noble Gas,Poor,15.01
+Sinq Laison,Aeman,Otou,Otou V,Reactive Metals,Medium,5.37
+Sinq Laison,Aeman,Otou,Otou VI,Precious Alloy,Poor,13.02
+Sinq Laison,Aeman,Otou,Otou VI,Coolant,Rich,15.72
+Sinq Laison,Aeman,Otou,Otou VI,Liquid Ozone,Poor,19.34
+Sinq Laison,Aeman,Otou,Otou VII,Heavy Metals,Rich,21.90
+Sinq Laison,Aeman,Otou,Otou VII,Coolant,Poor,9.07
+Sinq Laison,Aeman,Otou,Otou VII,Condensates,Poor,9.47
+Sinq Laison,Aeman,Otou,Otou VIII,Gleaming Alloy,Rich,25.86
+Sinq Laison,Aeman,Otou,Otou VIII,Supertensile Plastics,Perfect,18.47
+Sinq Laison,Aeman,Otou,Otou VIII,Construction Blocks,Rich,24.89
+Sinq Laison,Nadire,Assiettes,Assiettes I,Motley Compound,Rich,21.45
+Sinq Laison,Nadire,Assiettes,Assiettes I,Glossy Compound,Medium,14.01
+Sinq Laison,Nadire,Assiettes,Assiettes II,Toxic Metals,Medium,4.27
+Sinq Laison,Nadire,Assiettes,Assiettes II,Silicate Glass,Poor,6.33
+Sinq Laison,Nadire,Assiettes,Assiettes II,Heavy Water,Medium,164.64
+Sinq Laison,Nadire,Assiettes,Assiettes III,Lustering Alloy,Poor,12.38
+Sinq Laison,Nadire,Assiettes,Assiettes III,Base Metals,Poor,2.75
+Sinq Laison,Nadire,Assiettes,Assiettes IV,Lustering Alloy,Medium,16.04
+Sinq Laison,Nadire,Assiettes,Assiettes IV,Base Metals,Rich,4.85
+Sinq Laison,Nadire,Assiettes,Assiettes IV,Reactive Metals,Medium,3.63
+Sinq Laison,Nadire,Assiettes,Assiettes V,Lustering Alloy,Poor,9.21
+Sinq Laison,Nadire,Assiettes,Assiettes V,Base Metals,Medium,4.16
+Sinq Laison,Nadire,Assiettes,Assiettes VI,Base Metals,Perfect,6.66
+Sinq Laison,Nadire,Assiettes,Assiettes VI,Noble Metals,Perfect,24.44
+Sinq Laison,Nadire,Assiettes,Assiettes VI,Heavy Water,Medium,170.38
+Sinq Laison,Nadire,Goinard,Goinard I,Glossy Compound,Poor,14.18
+Sinq Laison,Nadire,Goinard,Goinard I,Noble Gas,Rich,21.96
+Sinq Laison,Nadire,Goinard,Goinard II,Reactive Metals,Rich,5.96
+Sinq Laison,Nadire,Goinard,Goinard II,Construction Blocks,Poor,15.04
+Sinq Laison,Nadire,Goinard,Goinard II,Oxygen Isotopes,Medium,2.58
+Sinq Laison,Nadire,Goinard,Goinard III,Lustering Alloy,Poor,11.20
+Sinq Laison,Nadire,Goinard,Goinard III,Dark Compound,Poor,12.46
+Sinq Laison,Nadire,Goinard,Goinard III,Industrial Fibers,Medium,5.43
+Sinq Laison,Nadire,Goinard,Goinard IV,Glossy Compound,Medium,18.34
+Sinq Laison,Nadire,Goinard,Goinard IV,Noble Gas,Medium,20.42
+Sinq Laison,Nadire,Goinard,Goinard IV,Polyaramids,Rich,17.84
+Sinq Laison,Nadire,Goinard,Goinard IV,Ionic Solutions,Medium,8.34
+Sinq Laison,Nadire,Goinard,Goinard V,Opulent Compound,Medium,16.76
+Sinq Laison,Nadire,Goinard,Goinard V,Noble Metals,Perfect,29.29
+Sinq Laison,Nadire,Goinard,Goinard V,Coolant,Perfect,19.10
+Sinq Laison,Nadire,Goinard,Goinard V,Ionic Solutions,Poor,6.27
+Sinq Laison,Nadire,Raeghoscon,Raeghoscon I,Lustering Alloy,Poor,12.85
+Sinq Laison,Nadire,Raeghoscon,Raeghoscon I,Industrial Fibers,Medium,4.93
+Sinq Laison,Nadire,Raeghoscon,Raeghoscon I,Supertensile Plastics,Medium,11.14
+Sinq Laison,Nadire,Raeghoscon,Raeghoscon II,Base Metals,Medium,4.55
+Sinq Laison,Nadire,Raeghoscon,Raeghoscon II,Industrial Fibers,Poor,4.04
+Sinq Laison,Nadire,Raeghoscon,Raeghoscon II,Silicate Glass,Poor,5.36
+Sinq Laison,Nadire,Raeghoscon,Raeghoscon III,Glossy Compound,Perfect,27.37
+Sinq Laison,Nadire,Raeghoscon,Raeghoscon III,Noble Gas,Medium,20.37
+Sinq Laison,Nadire,Raeghoscon,Raeghoscon IV,Sheen Compound,Poor,14.28
+Sinq Laison,Nadire,Raeghoscon,Raeghoscon IV,Fiber Composite,Rich,24.19
+Sinq Laison,Nadire,Raeghoscon,Raeghoscon IV,Noble Gas,Medium,20.23
+Sinq Laison,Nadire,Raeghoscon,Raeghoscon IV,Reactive Metals,Rich,7.05
+Sinq Laison,Nadire,Raeghoscon,Raeghoscon V,Lustering Alloy,Medium,16.66
+Sinq Laison,Nadire,Raeghoscon,Raeghoscon V,Noble Gas,Medium,19.62
+Sinq Laison,Nadire,Raeghoscon,Raeghoscon V,Base Metals,Rich,7.00
+Sinq Laison,Nadire,Raeghoscon,Raeghoscon V,Reactive Metals,Medium,5.44
+Sinq Laison,Nadire,Raeghoscon,Raeghoscon VI,Motley Compound,Medium,17.70
+Sinq Laison,Nadire,Raeghoscon,Raeghoscon VI,Industrial Fibers,Rich,5.74
+Sinq Laison,Nadire,Raeghoscon,Raeghoscon VI,Coolant,Poor,9.30
+Sinq Laison,Nadire,Raeghoscon,Raeghoscon VII,Condensed Alloy,Rich,24.99
+Sinq Laison,Nadire,Raeghoscon,Raeghoscon VII,Noble Metals,Perfect,27.17
+Sinq Laison,Nadire,Raeghoscon,Raeghoscon VII,Coolant,Perfect,18.51
+Sinq Laison,Nadire,Raeghoscon,Raeghoscon VII,Heavy Water,Perfect,286.79
+Sinq Laison,Nadire,Raeghoscon,Raeghoscon VIII,Condensed Alloy,Rich,26.20
+Sinq Laison,Nadire,Raeghoscon,Raeghoscon VIII,Noble Metals,Rich,24.39
+Sinq Laison,Nadire,Raeghoscon,Raeghoscon VIII,Polyaramids,Perfect,19.37
+Sinq Laison,Nadire,Raeghoscon,Raeghoscon VIII,Coolant,Perfect,18.82
+Sinq Laison,Nadire,Raeghoscon,Raeghoscon IX,Heavy Metals,Poor,12.72
+Sinq Laison,Nadire,Raeghoscon,Raeghoscon IX,Supertensile Plastics,Medium,11.04
+Sinq Laison,Nadire,Raeghoscon,Raeghoscon IX,Coolant,Medium,13.88
+Sinq Laison,Nadire,Raeghoscon,Raeghoscon X,Opulent Compound,Medium,16.68
+Sinq Laison,Nadire,Raeghoscon,Raeghoscon X,Polyaramids,Medium,11.54
+Sinq Laison,Nadire,Raeghoscon,Raeghoscon X,Coolant,Medium,11.06
+Sinq Laison,Nadire,Raeghoscon,Raeghoscon X,Liquid Ozone,Rich,27.84
+Sinq Laison,Nadire,Raeghoscon,Raeghoscon XI,Base Metals,Poor,2.98
+Sinq Laison,Nadire,Raeghoscon,Raeghoscon XI,Toxic Metals,Medium,5.13
+Sinq Laison,Nadire,Raeghoscon,Raeghoscon XI,Industrial Fibers,Medium,4.39
+Sinq Laison,Nadire,Allipes,Allipes I,Dark Compound,Perfect,30.67
+Sinq Laison,Nadire,Allipes,Allipes I,Reactive Metals,Rich,6.40
+Sinq Laison,Nadire,Allipes,Allipes I,Condensates,Rich,17.11
+Sinq Laison,Nadire,Allipes,Allipes I,Nanites,Medium,5.61
+Sinq Laison,Nadire,Allipes,Allipes II,Condensed Alloy,Medium,22.88
+Sinq Laison,Nadire,Allipes,Allipes II,Crystal Compound,Medium,19.70
+Sinq Laison,Nadire,Allipes,Allipes II,Coolant,Rich,19.90
+Sinq Laison,Nadire,Allipes,Allipes II,Silicate Glass,Medium,9.48
+Sinq Laison,Nadire,Allipes,Allipes III,Crystal Compound,Medium,21.09
+Sinq Laison,Nadire,Allipes,Allipes III,Toxic Metals,Poor,4.45
+Sinq Laison,Nadire,Allipes,Allipes III,Coolant,Rich,19.96
+Sinq Laison,Nadire,Allipes,Allipes III,Silicate Glass,Medium,9.54
+Sinq Laison,Nadire,Allipes,Allipes IV,Fiber Composite,Medium,22.48
+Sinq Laison,Nadire,Allipes,Allipes IV,Reactive Gas,Perfect,35.83
+Sinq Laison,Nadire,Allipes,Allipes IV,Industrial Fibers,Medium,5.39
+Sinq Laison,Nadire,Allipes,Allipes IV,Condensates,Rich,18.08
+Sinq Laison,Nadire,Allipes,Allipes V,Fiber Composite,Poor,17.65
+Sinq Laison,Nadire,Allipes,Allipes V,Noble Metals,Medium,21.09
+Sinq Laison,Nadire,Allipes,Allipes V,Condensates,Rich,16.34
+Sinq Laison,Nadire,Allipes,Allipes V,Liquid Ozone,Perfect,44.48
+Sinq Laison,Nadire,Allipes,Allipes VI,Lustering Alloy,Medium,20.73
+Sinq Laison,Nadire,Allipes,Allipes VI,Industrial Fibers,Medium,5.86
+Sinq Laison,Nadire,Allipes,Allipes VI,Silicate Glass,Medium,10.40
+Sinq Laison,Nadire,Allipes,Allipes VII,Fiber Composite,Perfect,32.45
+Sinq Laison,Nadire,Allipes,Allipes VII,Noble Metals,Rich,27.63
+Sinq Laison,Nadire,Allipes,Allipes VII,Industrial Fibers,Medium,6.08
+Sinq Laison,Nadire,Allipes,Allipes VII,Heavy Water,Rich,290.89
+Sinq Laison,Nadire,Allipes,Allipes VIII,Noble Gas,Poor,16.25
+Sinq Laison,Nadire,Allipes,Allipes VIII,Construction Blocks,Medium,22.89
+Sinq Laison,Nadire,Lermireve,Lermireve I,Noble Gas,Medium,18.32
+Sinq Laison,Nadire,Lermireve,Lermireve I,Smartfab Units,Medium,14.20
+Sinq Laison,Nadire,Lermireve,Lermireve II,Lustering Alloy,Poor,12.06
+Sinq Laison,Nadire,Lermireve,Lermireve II,Industrial Fibers,Medium,5.68
+Sinq Laison,Nadire,Lermireve,Lermireve II,Supertensile Plastics,Poor,9.47
+Sinq Laison,Nadire,Lermireve,Lermireve III,Lucent Compound,Rich,24.26
+Sinq Laison,Nadire,Lermireve,Lermireve III,Construction Blocks,Rich,27.52
+Sinq Laison,Nadire,Lermireve,Lermireve III,Nanites,Medium,5.08
+Sinq Laison,Nadire,Lermireve,Lermireve IV,Condensed Alloy,Perfect,31.91
+Sinq Laison,Nadire,Lermireve,Lermireve IV,Fiber Composite,Perfect,31.81
+Sinq Laison,Nadire,Lermireve,Lermireve IV,Reactive Gas,Medium,21.01
+Sinq Laison,Nadire,Lermireve,Lermireve IV,Smartfab Units,Rich,15.61
+Sinq Laison,Nadire,Lermireve,Lermireve V,Fiber Composite,Medium,17.01
+Sinq Laison,Nadire,Lermireve,Lermireve V,Glossy Compound,Poor,15.17
+Sinq Laison,Nadire,Lermireve,Lermireve V,Noble Gas,Medium,19.94
+Sinq Laison,Nadire,Lermireve,Lermireve V,Reactive Metals,Medium,5.46
+Sinq Laison,Nadire,Lermireve,Lermireve VI,Lustering Alloy,Medium,18.47
+Sinq Laison,Nadire,Lermireve,Lermireve VI,Noble Gas,Medium,17.73
+Sinq Laison,Nadire,Lermireve,Lermireve VI,Polyaramids,Poor,11.28
+Sinq Laison,Nadire,Lermireve,Lermireve VI,Ionic Solutions,Medium,8.52
+Sinq Laison,Nadire,Lermireve,Lermireve VII,Noble Gas,Perfect,29.74
+Sinq Laison,Nadire,Lermireve,Lermireve VII,Base Metals,Rich,6.81
+Sinq Laison,Nadire,Lermireve,Lermireve VII,Coolant,Rich,18.88
+Sinq Laison,Nadire,Lermireve,Lermireve VII,Ionic Solutions,Medium,7.99
+Sinq Laison,Nadire,Lermireve,Lermireve VIII,Glossy Compound,Rich,26.17
+Sinq Laison,Nadire,Lermireve,Lermireve VIII,Reactive Gas,Poor,15.61
+Sinq Laison,Nadire,Lermireve,Lermireve VIII,Noble Gas,Medium,22.46
+Sinq Laison,Nadire,Lermireve,Lermireve VIII,Coolant,Medium,12.60
+Sinq Laison,Nadire,Lermireve,Lermireve IX,Motley Compound,Medium,21.64
+Sinq Laison,Nadire,Lermireve,Lermireve IX,Coolant,Rich,15.38
+Sinq Laison,Nadire,Lermireve,Lermireve IX,Suspended Plasma,Rich,90.72
+Sinq Laison,Nadire,Lermireve,Lermireve X,Lustering Alloy,Poor,14.26
+Sinq Laison,Nadire,Lermireve,Lermireve X,Industrial Fibers,Medium,4.57
+Sinq Laison,Nadire,Lermireve,Lermireve X,Construction Blocks,Poor,13.21
+Sinq Laison,Nadire,Aetree,Aetree I,Noble Gas,Rich,26.81
+Sinq Laison,Nadire,Aetree,Aetree I,Polyaramids,Rich,18.09
+Sinq Laison,Nadire,Aetree,Aetree II,Dark Compound,Poor,13.34
+Sinq Laison,Nadire,Aetree,Aetree II,Industrial Fibers,Medium,5.68
+Sinq Laison,Nadire,Aetree,Aetree II,Supertensile Plastics,Medium,15.21
+Sinq Laison,Nadire,Aetree,Aetree III,Toxic Metals,Poor,3.85
+Sinq Laison,Nadire,Aetree,Aetree III,Industrial Fibers,Medium,5.67
+Sinq Laison,Nadire,Aetree,Aetree III,Silicate Glass,Poor,5.94
+Sinq Laison,Nadire,Aetree,Aetree IV,Fiber Composite,Medium,18.83
+Sinq Laison,Nadire,Aetree,Aetree IV,Reactive Gas,Perfect,35.81
+Sinq Laison,Nadire,Aetree,Aetree IV,Heavy Water,Rich,257.07
+Sinq Laison,Nadire,Aetree,Aetree IV,Liquid Ozone,Medium,24.80
+Sinq Laison,Nadire,Aetree,Aetree V,Lustering Alloy,Rich,24.72
+Sinq Laison,Nadire,Aetree,Aetree V,Sheen Compound,Medium,18.56
+Sinq Laison,Nadire,Aetree,Aetree V,Noble Gas,Medium,23.18
+Sinq Laison,Nadire,Aetree,Aetree V,Polyaramids,Medium,15.81
+Sinq Laison,Nadire,Aetree,Aetree VI,Sheen Compound,Perfect,31.31
+Sinq Laison,Nadire,Aetree,Aetree VI,Reactive Gas,Perfect,30.80
+Sinq Laison,Nadire,Aetree,Aetree VI,Noble Gas,Poor,16.40
+Sinq Laison,Nadire,Aetree,Aetree VI,Coolant,Medium,16.02
+Sinq Laison,Nadire,Aetree,Aetree VII,Lustering Alloy,Rich,24.80
+Sinq Laison,Nadire,Aetree,Aetree VII,Sheen Compound,Medium,18.87
+Sinq Laison,Nadire,Aetree,Aetree VII,Noble Gas,Perfect,31.22
+Sinq Laison,Nadire,Aetree,Aetree VII,Ionic Solutions,Rich,10.75
+Sinq Laison,Nadire,Aetree,Aetree VIII,Fiber Composite,Medium,22.15
+Sinq Laison,Nadire,Aetree,Aetree VIII,Condensates,Perfect,22.61
+Sinq Laison,Nadire,Aetree,Aetree VIII,Smartfab Units,Rich,18.13
+Sinq Laison,Nadire,Aetree,Aetree VIII,Liquid Ozone,Rich,30.14
+Sinq Laison,Nadire,Esmes,Esmes I,Precious Alloy,Medium,22.88
+Sinq Laison,Nadire,Esmes,Esmes I,Base Metals,Poor,4.68
+Sinq Laison,Nadire,Esmes,Esmes I,Industrial Fibers,Medium,5.22
+Sinq Laison,Nadire,Esmes,Esmes II,Toxic Metals,Medium,5.11
+Sinq Laison,Nadire,Esmes,Esmes II,Industrial Fibers,Poor,4.48
+Sinq Laison,Nadire,Esmes,Esmes II,Plasmoids,Medium,1.35
+Sinq Laison,Nadire,Esmes,Esmes III,Condensed Alloy,Rich,27.70
+Sinq Laison,Nadire,Esmes,Esmes III,Fiber Composite,Perfect,30.67
+Sinq Laison,Nadire,Esmes,Esmes III,Industrial Fibers,Perfect,9.45
+Sinq Laison,Nadire,Esmes,Esmes III,Smartfab Units,Rich,17.61
+Sinq Laison,Nadire,Esmes,Esmes IV,Lustering Alloy,Medium,19.04
+Sinq Laison,Nadire,Esmes,Esmes IV,Noble Gas,Medium,21.24
+Sinq Laison,Nadire,Esmes,Esmes IV,Reactive Metals,Perfect,8.03
+Sinq Laison,Nadire,Esmes,Esmes IV,Coolant,Medium,15.55
+Sinq Laison,Nadire,Esmes,Esmes V,Polyaramids,Perfect,20.96
+Sinq Laison,Nadire,Esmes,Esmes V,Coolant,Rich,17.92
+Sinq Laison,Nadire,Esmes,Esmes V,Heavy Water,Rich,290.32
+Sinq Laison,Nadire,Esmes,Esmes V,Ionic Solutions,Rich,11.12
+Sinq Laison,Ambrye,Vittenyn,Vittenyn I,Motley Compound,Perfect,17.63
+Sinq Laison,Ambrye,Vittenyn,Vittenyn I,Construction Blocks,Rich,14.88
+Sinq Laison,Ambrye,Vittenyn,Vittenyn II,Condensates,Rich,9.44
+Sinq Laison,Ambrye,Vittenyn,Vittenyn II,Heavy Water,Rich,152.46
+Sinq Laison,Ambrye,Vittenyn,Vittenyn II,Liquid Ozone,Perfect,24.48
+Sinq Laison,Ambrye,Vittenyn,Vittenyn III,Condensed Alloy,Rich,16.06
+Sinq Laison,Ambrye,Vittenyn,Vittenyn III,Smartfab Units,Medium,7.68
+Sinq Laison,Ambrye,Vittenyn,Vittenyn III,Heavy Water,Rich,163.13
+Sinq Laison,Ambrye,Vittenyn,Vittenyn IV,Lustering Alloy,Medium,12.53
+Sinq Laison,Ambrye,Vittenyn,Vittenyn IV,Reactive Gas,Medium,12.42
+Sinq Laison,Ambrye,Vittenyn,Vittenyn IV,Base Metals,Rich,3.69
+Sinq Laison,Ambrye,Vittenyn,Vittenyn V,Lustering Alloy,Poor,9.96
+Sinq Laison,Ambrye,Vittenyn,Vittenyn V,Noble Gas,Rich,15.11
+Sinq Laison,Ambrye,Vittenyn,Vittenyn V,Base Metals,Medium,2.76
+Sinq Laison,Ambrye,Vittenyn,Vittenyn VI,Lustering Alloy,Rich,15.32
+Sinq Laison,Ambrye,Vittenyn,Vittenyn VI,Fiber Composite,Poor,9.13
+Sinq Laison,Ambrye,Vittenyn,Vittenyn VI,Base Metals,Poor,2.52
+Sinq Laison,Ambrye,Vittenyn,Vittenyn VII,Lustering Alloy,Medium,13.14
+Sinq Laison,Ambrye,Vittenyn,Vittenyn VII,Base Metals,Poor,2.54
+Sinq Laison,Ambrye,Mirilene,Mirilene I,Crystal Compound,Rich,17.51
+Sinq Laison,Ambrye,Mirilene,Mirilene I,Suspended Plasma,Perfect,74.79
+Sinq Laison,Ambrye,Mirilene,Mirilene II,Lustering Alloy,Medium,15.09
+Sinq Laison,Ambrye,Mirilene,Mirilene II,Base Metals,Medium,3.98
+Sinq Laison,Ambrye,Mirilene,Mirilene III,Motley Compound,Rich,19.46
+Sinq Laison,Ambrye,Mirilene,Mirilene III,Construction Blocks,Perfect,20.79
+Sinq Laison,Ambrye,Mirilene,Mirilene IV,Motley Compound,Medium,16.39
+Sinq Laison,Ambrye,Mirilene,Mirilene IV,Glossy Compound,Medium,13.92
+Sinq Laison,Ambrye,Mirilene,Mirilene V,Lustering Alloy,Medium,15.74
+Sinq Laison,Ambrye,Mirilene,Mirilene V,Noble Gas,Rich,17.51
+Sinq Laison,Ambrye,Mirilene,Mirilene V,Base Metals,Medium,4.25
+Sinq Laison,Ambrye,Mirilene,Mirilene VI,Lustering Alloy,Rich,19.54
+Sinq Laison,Ambrye,Mirilene,Mirilene VI,Base Metals,Poor,2.94
+Sinq Laison,Ambrye,Mirilene,Mirilene VI,Reactive Metals,Medium,3.35
+Sinq Laison,Ambrye,Mirilene,Mirilene VII,Lustering Alloy,Medium,14.69
+Sinq Laison,Ambrye,Mirilene,Mirilene VII,Base Metals,Poor,3.05
+Sinq Laison,Ambrye,Mirilene,Mirilene VII,Reactive Metals,Poor,3.06
+Sinq Laison,Ambrye,Mirilene,Mirilene VIII,Lustering Alloy,Poor,11.95
+Sinq Laison,Ambrye,Mirilene,Mirilene VIII,Base Metals,Medium,3.34
+Sinq Laison,Ambrye,Mirilene,Mirilene IX,Lustering Alloy,Poor,9.33
+Sinq Laison,Ambrye,Mirilene,Mirilene IX,Base Metals,Poor,2.13
+Sinq Laison,Ambrye,Pucherie,Pucherie I,Lustering Alloy,Poor,9.28
+Sinq Laison,Ambrye,Pucherie,Pucherie I,Base Metals,Poor,2.12
+Sinq Laison,Ambrye,Pucherie,Pucherie II,Motley Compound,Perfect,19.43
+Sinq Laison,Ambrye,Pucherie,Pucherie II,Glossy Compound,Medium,13.52
+Sinq Laison,Ambrye,Pucherie,Pucherie III,Lustering Alloy,Poor,10.09
+Sinq Laison,Ambrye,Pucherie,Pucherie III,Base Metals,Poor,2.69
+Sinq Laison,Ambrye,Pucherie,Pucherie IV,Lustering Alloy,Poor,11.10
+Sinq Laison,Ambrye,Pucherie,Pucherie IV,Base Metals,Poor,2.42
+Sinq Laison,Ambrye,Pucherie,Pucherie V,Lustering Alloy,Medium,13.93
+Sinq Laison,Ambrye,Pucherie,Pucherie V,Sheen Compound,Perfect,19.33
+Sinq Laison,Ambrye,Pucherie,Pucherie V,Base Metals,Medium,3.41
+Sinq Laison,Ambrye,Pucherie,Pucherie VI,Lustering Alloy,Medium,12.76
+Sinq Laison,Ambrye,Pucherie,Pucherie VI,Base Metals,Rich,4.99
+Sinq Laison,Ambrye,Pucherie,Pucherie VI,Coolant,Medium,8.56
+Sinq Laison,Ambrye,Pucherie,Pucherie VII,Lustering Alloy,Poor,9.59
+Sinq Laison,Ambrye,Pucherie,Pucherie VII,Base Metals,Medium,2.98
+Sinq Laison,Ambrye,Pucherie,Pucherie VIII,Lustering Alloy,Rich,16.76
+Sinq Laison,Ambrye,Pucherie,Pucherie VIII,Fiber Composite,Rich,17.72
+Sinq Laison,Ambrye,Pucherie,Pucherie VIII,Base Metals,Rich,4.70
+Sinq Laison,Ambrye,Pucherie,Pucherie IX,Lustering Alloy,Medium,12.16
+Sinq Laison,Ambrye,Pucherie,Pucherie IX,Base Metals,Medium,3.19
+Sinq Laison,Ambrye,Fricoure,Fricoure I,Lustering Alloy,Poor,7.84
+Sinq Laison,Ambrye,Fricoure,Fricoure I,Base Metals,Poor,2.58
+Sinq Laison,Ambrye,Fricoure,Fricoure II,Motley Compound,Poor,10.62
+Sinq Laison,Ambrye,Fricoure,Fricoure II,Plasmoids,Rich,1.12
+Sinq Laison,Ambrye,Fricoure,Fricoure III,Lustering Alloy,Medium,14.47
+Sinq Laison,Ambrye,Fricoure,Fricoure III,Base Metals,Poor,2.05
+Sinq Laison,Ambrye,Fricoure,Fricoure IV,Lustering Alloy,Medium,12.54
+Sinq Laison,Ambrye,Fricoure,Fricoure IV,Base Metals,Medium,3.32
+Sinq Laison,Ambrye,Fricoure,Fricoure V,Noble Metals,Medium,13.43
+Sinq Laison,Ambrye,Fricoure,Fricoure V,Industrial Fibers,Medium,3.39
+Sinq Laison,Ambrye,Fricoure,Fricoure V,Heavy Water,Medium,119.28
+Sinq Laison,Ambrye,Fricoure,Fricoure VI,Industrial Fibers,Perfect,5.19
+Sinq Laison,Ambrye,Fricoure,Fricoure VI,Smartfab Units,Perfect,13.76
+Sinq Laison,Ambrye,Fricoure,Fricoure VI,Heavy Water,Rich,164.64
+Sinq Laison,Ambrye,Fricoure,Fricoure VII,Fiber Composite,Medium,14.89
+Sinq Laison,Ambrye,Fricoure,Fricoure VII,Condensates,Perfect,14.89
+Sinq Laison,Ambrye,Fricoure,Fricoure VII,Heavy Water,Perfect,193.68
+Sinq Laison,Ambrye,Fricoure,Fricoure VIII,Lustering Alloy,Medium,13.14
+Sinq Laison,Ambrye,Fricoure,Fricoure VIII,Fiber Composite,Poor,10.58
+Sinq Laison,Ambrye,Fricoure,Fricoure VIII,Base Metals,Medium,3.48
+Sinq Laison,Ambrye,Fricoure,Fricoure IX,Lustering Alloy,Rich,18.67
+Sinq Laison,Ambrye,Fricoure,Fricoure IX,Reactive Gas,Medium,12.31
+Sinq Laison,Ambrye,Fricoure,Fricoure IX,Base Metals,Rich,4.81
+Sinq Laison,Ambrye,Fricoure,Fricoure X,Lustering Alloy,Rich,17.28
+Sinq Laison,Ambrye,Fricoure,Fricoure X,Base Metals,Rich,4.16
+Sinq Laison,Ambrye,Fricoure,Fricoure X,Ionic Solutions,Rich,6.54
+Sinq Laison,Ambrye,Fricoure,Fricoure XI,Lustering Alloy,Rich,15.24
+Sinq Laison,Ambrye,Fricoure,Fricoure XI,Base Metals,Poor,2.44
+Sinq Laison,Ambrye,Caretyn,Caretyn I,Gleaming Alloy,Rich,18.89
+Sinq Laison,Ambrye,Caretyn,Caretyn I,Motley Compound,Rich,16.64
+Sinq Laison,Ambrye,Caretyn,Caretyn II,Lustering Alloy,Poor,10.86
+Sinq Laison,Ambrye,Caretyn,Caretyn II,Base Metals,Medium,3.86
+Sinq Laison,Ambrye,Caretyn,Caretyn III,Motley Compound,Rich,18.46
+Sinq Laison,Ambrye,Caretyn,Caretyn III,Smartfab Units,Medium,9.49
+Sinq Laison,Ambrye,Caretyn,Caretyn IV,Lustering Alloy,Poor,10.96
+Sinq Laison,Ambrye,Caretyn,Caretyn IV,Base Metals,Poor,2.55
+Sinq Laison,Ambrye,Caretyn,Caretyn V,Lustering Alloy,Poor,8.64
+Sinq Laison,Ambrye,Caretyn,Caretyn V,Base Metals,Poor,2.24
+Sinq Laison,Ambrye,Caretyn,Caretyn VI,Lustering Alloy,Poor,9.96
+Sinq Laison,Ambrye,Caretyn,Caretyn VI,Reactive Gas,Rich,15.84
+Sinq Laison,Ambrye,Caretyn,Caretyn VI,Base Metals,Medium,3.72
+Sinq Laison,Ambrye,Caretyn,Caretyn VII,Lustering Alloy,Medium,14.98
+Sinq Laison,Ambrye,Caretyn,Caretyn VII,Base Metals,Rich,4.42
+Sinq Laison,Ambrye,Caretyn,Caretyn VII,Ionic Solutions,Poor,4.36
+Sinq Laison,Ambrye,Ainaille,Ainaille I,Lustering Alloy,Medium,12.07
+Sinq Laison,Ambrye,Ainaille,Ainaille I,Base Metals,Poor,2.80
+Sinq Laison,Ambrye,Ainaille,Ainaille II,Motley Compound,Rich,18.24
+Sinq Laison,Ambrye,Ainaille,Ainaille II,Polyaramids,Perfect,13.18
+Sinq Laison,Ambrye,Ainaille,Ainaille III,Lustering Alloy,Poor,9.50
+Sinq Laison,Ambrye,Ainaille,Ainaille III,Base Metals,Medium,3.58
+Sinq Laison,Ambrye,Ainaille,Ainaille IV,Lustering Alloy,Medium,13.15
+Sinq Laison,Ambrye,Ainaille,Ainaille IV,Base Metals,Medium,3.47
+Sinq Laison,Ambrye,Ainaille,Ainaille V,Opulent Compound,Rich,15.78
+Sinq Laison,Ambrye,Ainaille,Ainaille V,Base Metals,Perfect,5.18
+Sinq Laison,Ambrye,Ainaille,Ainaille V,Heavy Water,Perfect,194.28
+Sinq Laison,Ambrye,Ainaille,Ainaille VI,Crystal Compound,Rich,15.58
+Sinq Laison,Ambrye,Ainaille,Ainaille VI,Suspended Plasma,Poor,35.55
+Sinq Laison,Ambrye,Ainaille,Ainaille VII,Nanites,Poor,2.89
+Sinq Laison,Ambrye,Ainaille,Ainaille VII,Suspended Plasma,Rich,65.79
+Sinq Laison,Coriault,Odotte,Odotte I,Lustering Alloy,Poor,10.30
+Sinq Laison,Coriault,Odotte,Odotte I,Base Metals,Poor,2.86
+Sinq Laison,Coriault,Odotte,Odotte II,Condensates,Rich,12.00
+Sinq Laison,Coriault,Odotte,Odotte II,Heavy Water,Perfect,208.44
+Sinq Laison,Coriault,Odotte,Odotte II,Liquid Ozone,Perfect,25.62
+Sinq Laison,Coriault,Odotte,Odotte III,Lustering Alloy,Poor,11.22
+Sinq Laison,Coriault,Odotte,Odotte III,Base Metals,Poor,2.02
+Sinq Laison,Coriault,Odotte,Odotte IV,Lustering Alloy,Medium,13.84
+Sinq Laison,Coriault,Odotte,Odotte IV,Base Metals,Medium,3.64
+Sinq Laison,Coriault,Odotte,Odotte V,Fiber Composite,Rich,18.82
+Sinq Laison,Coriault,Odotte,Odotte V,Condensates,Rich,10.61
+Sinq Laison,Coriault,Odotte,Odotte V,Heavy Water,Perfect,193.20
+Sinq Laison,Coriault,Odotte,Odotte VI,Base Metals,Perfect,5.83
+Sinq Laison,Coriault,Odotte,Odotte VI,Heavy Water,Perfect,220.92
+Sinq Laison,Coriault,Odotte,Odotte VI,Liquid Ozone,Rich,19.21
+Sinq Laison,Coriault,Odotte,Odotte VII,Lustering Alloy,Rich,15.30
+Sinq Laison,Coriault,Odotte,Odotte VII,Fiber Composite,Rich,16.54
+Sinq Laison,Coriault,Odotte,Odotte VII,Base Metals,Poor,2.61
+Sinq Laison,Coriault,Odotte,Odotte VIII,Reactive Gas,Perfect,21.91
+Sinq Laison,Coriault,Odotte,Odotte VIII,Base Metals,Perfect,5.69
+Sinq Laison,Coriault,Odotte,Odotte VIII,Heavy Water,Rich,165.24
+Sinq Laison,Agiesseson,Oirtlair,Oirtlair I,Lustering Alloy,Medium,11.11
+Sinq Laison,Agiesseson,Oirtlair,Oirtlair I,Base Metals,Medium,3.12
+Sinq Laison,Agiesseson,Oirtlair,Oirtlair II,Condensed Alloy,Rich,16.96
+Sinq Laison,Agiesseson,Oirtlair,Oirtlair II,Reactive Gas,Perfect,18.96
+Sinq Laison,Agiesseson,Oirtlair,Oirtlair II,Heavy Water,Rich,159.06
+Sinq Laison,Agiesseson,Oirtlair,Oirtlair III,Reactive Gas,Poor,10.16
+Sinq Laison,Agiesseson,Oirtlair,Oirtlair III,Heavy Water,Perfect,209.55
+Sinq Laison,Agiesseson,Oirtlair,Oirtlair III,Liquid Ozone,Perfect,24.94
+Sinq Laison,Agiesseson,Oirtlair,Oirtlair IV,Opulent Compound,Poor,10.36
+Sinq Laison,Agiesseson,Oirtlair,Oirtlair IV,Condensates,Perfect,13.38
+Sinq Laison,Agiesseson,Oirtlair,Oirtlair IV,Heavy Water,Medium,111.98
+Sinq Laison,Agiesseson,Oirtlair,Oirtlair V,Industrial Fibers,Perfect,4.82
+Sinq Laison,Agiesseson,Oirtlair,Oirtlair V,Smartfab Units,Medium,8.65
+Sinq Laison,Agiesseson,Oirtlair,Oirtlair V,Heavy Water,Rich,162.03
+Sinq Laison,Agiesseson,Oirtlair,Oirtlair VI,Opulent Compound,Perfect,19.58
+Sinq Laison,Agiesseson,Oirtlair,Oirtlair VI,Industrial Fibers,Rich,4.31
+Sinq Laison,Agiesseson,Oirtlair,Oirtlair VI,Heavy Water,Rich,145.53
+Sinq Laison,Agiesseson,Oirtlair,Oirtlair VII,Lustering Alloy,Rich,16.32
+Sinq Laison,Agiesseson,Oirtlair,Oirtlair VII,Sheen Compound,Poor,9.93
+Sinq Laison,Agiesseson,Oirtlair,Oirtlair VII,Base Metals,Medium,3.55
+Sinq Laison,Agiesseson,Oirtlair,Oirtlair VIII,Fiber Composite,Medium,11.25
+Sinq Laison,Agiesseson,Oirtlair,Oirtlair VIII,Condensates,Medium,8.02
+Sinq Laison,Agiesseson,Oirtlair,Oirtlair VIII,Heavy Water,Medium,104.94
+Sinq Laison,Agiesseson,Olelon,Olelon I,Lustering Alloy,Medium,12.35
+Sinq Laison,Agiesseson,Olelon,Olelon I,Base Metals,Poor,2.57
+Sinq Laison,Agiesseson,Olelon,Olelon II,Lustering Alloy,Medium,12.48
+Sinq Laison,Agiesseson,Olelon,Olelon II,Base Metals,Poor,2.01
+Sinq Laison,Agiesseson,Olelon,Olelon III,Condensed Alloy,Medium,10.64
+Sinq Laison,Agiesseson,Olelon,Olelon III,Reactive Gas,Rich,16.83
+Sinq Laison,Agiesseson,Olelon,Olelon III,Heavy Water,Rich,158.18
+Sinq Laison,Agiesseson,Olelon,Olelon IV,Condensates,Medium,8.47
+Sinq Laison,Agiesseson,Olelon,Olelon IV,Smartfab Units,Rich,10.27
+Sinq Laison,Agiesseson,Olelon,Olelon IV,Heavy Water,Rich,162.25
+Sinq Laison,Agiesseson,Olelon,Olelon V,Lustering Alloy,Poor,8.43
+Sinq Laison,Agiesseson,Olelon,Olelon V,Base Metals,Medium,3.46
+Sinq Laison,Agiesseson,Olelon,Olelon VI,Lustering Alloy,Poor,10.15
+Sinq Laison,Agiesseson,Olelon,Olelon VI,Base Metals,Poor,2.23
+Sinq Laison,Agiesseson,Olelon,Olelon VII,Lustering Alloy,Poor,8.18
+Sinq Laison,Agiesseson,Olelon,Olelon VII,Base Metals,Medium,3.31
+Sinq Laison,Agiesseson,Olelon,Olelon VIII,Lustering Alloy,Medium,12.56
+Sinq Laison,Agiesseson,Olelon,Olelon VIII,Base Metals,Poor,2.20
+Sinq Laison,Ambrye,Trossere,Trossere I,Lustering Alloy,Poor,10.36
+Sinq Laison,Ambrye,Trossere,Trossere I,Base Metals,Medium,2.75
+Sinq Laison,Ambrye,Trossere,Trossere II,Smartfab Units,Perfect,11.79
+Sinq Laison,Ambrye,Trossere,Trossere II,Heavy Water,Medium,125.18
+Sinq Laison,Ambrye,Trossere,Trossere II,Liquid Ozone,Medium,14.11
+Sinq Laison,Ambrye,Trossere,Trossere III,Lustering Alloy,Medium,12.15
+Sinq Laison,Ambrye,Trossere,Trossere III,Base Metals,Poor,2.29
+Sinq Laison,Ambrye,Trossere,Trossere IV,Condensed Alloy,Rich,15.06
+Sinq Laison,Ambrye,Trossere,Trossere IV,Heavy Water,Rich,168.41
+Sinq Laison,Ambrye,Trossere,Trossere IV,Liquid Ozone,Medium,14.30
+Sinq Laison,Ambrye,Trossere,Trossere V,Lustering Alloy,Poor,7.26
+Sinq Laison,Ambrye,Trossere,Trossere V,Base Metals,Poor,2.45
+Sinq Laison,Ambrye,Trossere,Trossere VI,Lustering Alloy,Poor,6.84
+Sinq Laison,Ambrye,Trossere,Trossere VI,Base Metals,Medium,2.89
+Sinq Laison,Ambrye,Trossere,Trossere VII,Lustering Alloy,Medium,12.42
+Sinq Laison,Ambrye,Trossere,Trossere VII,Base Metals,Poor,2.23
+Sinq Laison,Ambrye,Trossere,Trossere VIII,Lustering Alloy,Medium,10.78
+Sinq Laison,Ambrye,Trossere,Trossere VIII,Base Metals,Medium,3.09

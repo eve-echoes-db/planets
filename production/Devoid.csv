@@ -1,0 +1,1316 @@
+Region,Constellation,System,Name,Item,Rate,Output
+Devoid,Semou,Tzvi,Tzvi I,Base Metals,Poor,3.53
+Devoid,Semou,Tzvi,Tzvi I,Industrial Fibers,Medium,5.21
+Devoid,Semou,Tzvi,Tzvi I,Supertensile Plastics,Medium,12.55
+Devoid,Semou,Tzvi,Tzvi II,Lustering Alloy,Poor,13.50
+Devoid,Semou,Tzvi,Tzvi II,Industrial Fibers,Poor,3.65
+Devoid,Semou,Tzvi,Tzvi II,Supertensile Plastics,Medium,12.97
+Devoid,Semou,Tzvi,Tzvi III,Noble Gas,Rich,27.67
+Devoid,Semou,Tzvi,Tzvi III,Smartfab Units,Rich,17.36
+Devoid,Semou,Tzvi,Tzvi IV,Fiber Composite,Rich,24.43
+Devoid,Semou,Tzvi,Tzvi IV,Opulent Compound,Perfect,33.32
+Devoid,Semou,Tzvi,Tzvi IV,Base Metals,Perfect,8.71
+Devoid,Semou,Tzvi,Tzvi IV,Liquid Ozone,Rich,30.22
+Devoid,Semou,Tzvi,Tzvi V,Precious Alloy,Poor,14.76
+Devoid,Semou,Tzvi,Tzvi V,Toxic Metals,Poor,3.56
+Devoid,Semou,Tzvi,Tzvi V,Industrial Fibers,Poor,4.19
+Devoid,Semou,Tzvi,Tzvi VI,Lustering Alloy,Rich,25.88
+Devoid,Semou,Tzvi,Tzvi VI,Noble Gas,Rich,28.03
+Devoid,Semou,Tzvi,Tzvi VI,Coolant,Rich,16.46
+Devoid,Semou,Tzvi,Tzvi VI,Ionic Solutions,Medium,6.85
+Devoid,Semou,Tzvi,Tzvi VII,Lustering Alloy,Rich,24.82
+Devoid,Semou,Tzvi,Tzvi VII,Reactive Gas,Rich,24.80
+Devoid,Semou,Tzvi,Tzvi VII,Noble Gas,Rich,26.68
+Devoid,Semou,Tzvi,Tzvi VII,Ionic Solutions,Rich,9.53
+Devoid,Semou,Raa,Raa I,Toxic Metals,Poor,3.45
+Devoid,Semou,Raa,Raa I,Industrial Fibers,Poor,3.51
+Devoid,Semou,Raa,Raa I,Silicate Glass,Medium,9.79
+Devoid,Semou,Raa,Raa II,Dark Compound,Medium,19.19
+Devoid,Semou,Raa,Raa II,Industrial Fibers,Poor,3.50
+Devoid,Semou,Raa,Raa II,Oxygen Isotopes,Medium,2.85
+Devoid,Semou,Raa,Raa III,Sheen Compound,Rich,25.04
+Devoid,Semou,Raa,Raa III,Lucent Compound,Perfect,27.69
+Devoid,Semou,Raa,Raa III,Nanites,Poor,4.09
+Devoid,Semou,Raa,Raa III,Plasmoids,Rich,1.36
+Devoid,Semou,Raa,Raa IV,Fiber Composite,Perfect,27.83
+Devoid,Semou,Raa,Raa IV,Reactive Gas,Medium,21.34
+Devoid,Semou,Raa,Raa IV,Base Metals,Rich,6.86
+Devoid,Semou,Raa,Raa IV,Liquid Ozone,Rich,33.06
+Devoid,Semou,Raa,Raa V,Lustering Alloy,Medium,16.47
+Devoid,Semou,Raa,Raa V,Industrial Fibers,Poor,3.29
+Devoid,Semou,Raa,Raa V,Plasmoids,Poor,0.89
+Devoid,Semou,Raa,Raa VI,Condensed Alloy,Perfect,28.39
+Devoid,Semou,Raa,Raa VI,Coolant,Rich,14.78
+Devoid,Semou,Raa,Raa VI,Heavy Water,Medium,185.64
+Devoid,Semou,Raa,Raa VI,Liquid Ozone,Perfect,34.17
+Devoid,Semou,Raa,Raa VII,Fiber Composite,Rich,25.21
+Devoid,Semou,Raa,Raa VII,Noble Gas,Medium,16.44
+Devoid,Semou,Raa,Raa VII,Base Metals,Medium,4.40
+Devoid,Semou,Raa,Raa VII,Polyaramids,Rich,15.25
+Devoid,Semou,Raa,Raa VIII,Fiber Composite,Rich,24.99
+Devoid,Semou,Raa,Raa VIII,Base Metals,Rich,6.29
+Devoid,Semou,Raa,Raa VIII,Noble Metals,Rich,25.94
+Devoid,Semou,Raa,Raa VIII,Condensates,Rich,15.92
+Devoid,Semou,Raa,Raa IX,Glossy Compound,Medium,17.24
+Devoid,Semou,Raa,Raa IX,Noble Gas,Poor,15.25
+Devoid,Semou,Raa,Raa X,Condensed Alloy,Rich,23.75
+Devoid,Semou,Raa,Raa X,Fiber Composite,Perfect,27.08
+Devoid,Semou,Raa,Raa X,Smartfab Units,Rich,17.40
+Devoid,Semou,Raa,Raa X,Heavy Water,Rich,242.25
+Devoid,Semou,Raa,Raa XI,Lustering Alloy,Poor,16.00
+Devoid,Semou,Raa,Raa XI,Noble Gas,Perfect,27.61
+Devoid,Semou,Raa,Raa XI,Base Metals,Medium,4.58
+Devoid,Semou,Raa,Raa XI,Reactive Metals,Medium,4.40
+Devoid,Semou,Sifilar,Sifilar I,Precious Alloy,Poor,15.95
+Devoid,Semou,Sifilar,Sifilar I,Toxic Metals,Poor,3.79
+Devoid,Semou,Sifilar,Sifilar I,Industrial Fibers,Medium,4.67
+Devoid,Semou,Sifilar,Sifilar II,Industrial Fibers,Poor,3.77
+Devoid,Semou,Sifilar,Sifilar II,Construction Blocks,Medium,17.93
+Devoid,Semou,Sifilar,Sifilar II,Silicate Glass,Medium,10.83
+Devoid,Semou,Sifilar,Sifilar III,Gleaming Alloy,Rich,24.88
+Devoid,Semou,Sifilar,Sifilar III,Lucent Compound,Medium,19.39
+Devoid,Semou,Sifilar,Sifilar III,Construction Blocks,Medium,21.08
+Devoid,Semou,Sifilar,Sifilar IV,Gleaming Alloy,Medium,21.60
+Devoid,Semou,Sifilar,Sifilar IV,Lucent Compound,Medium,21.10
+Devoid,Semou,Sifilar,Sifilar IV,Construction Blocks,Medium,21.04
+Devoid,Semou,Sifilar,Sifilar V,Glossy Compound,Medium,22.50
+Devoid,Semou,Sifilar,Sifilar V,Reactive Gas,Perfect,28.82
+Devoid,Semou,Sifilar,Sifilar V,Noble Gas,Poor,15.88
+Devoid,Semou,Sifilar,Sifilar V,Base Metals,Medium,5.35
+Devoid,Semou,Sifilar,Sifilar VI,Glossy Compound,Medium,20.99
+Devoid,Semou,Sifilar,Sifilar VI,Noble Gas,Rich,27.11
+Devoid,Semou,Sifilar,Sifilar VI,Reactive Metals,Medium,5.97
+Devoid,Semou,Sifilar,Sifilar VI,Coolant,Rich,18.35
+Devoid,Semou,Sifilar,Sifilar VII,Fiber Composite,Rich,27.90
+Devoid,Semou,Sifilar,Sifilar VII,Industrial Fibers,Rich,6.31
+Devoid,Semou,Sifilar,Sifilar VII,Condensates,Perfect,22.82
+Devoid,Semou,Sifilar,Sifilar VII,Liquid Ozone,Perfect,37.55
+Devoid,Semou,Sifilar,Sifilar VIII,Glossy Compound,Medium,17.57
+Devoid,Semou,Sifilar,Sifilar VIII,Noble Gas,Rich,27.02
+Devoid,Semou,Sifilar,Sifilar VIII,Base Metals,Rich,7.03
+Devoid,Semou,Sifilar,Sifilar VIII,Polyaramids,Rich,16.86
+Devoid,Semou,Sifilar,Sifilar IX,Lustering Alloy,Medium,20.65
+Devoid,Semou,Sifilar,Sifilar IX,Industrial Fibers,Poor,3.87
+Devoid,Semou,Sifilar,Sifilar IX,Silicate Glass,Poor,7.63
+Devoid,Semou,Arzad,Arzad I,Toxic Metals,Poor,3.88
+Devoid,Semou,Arzad,Arzad I,Industrial Fibers,Medium,4.51
+Devoid,Semou,Arzad,Arzad I,Silicate Glass,Poor,6.16
+Devoid,Semou,Arzad,Arzad II,Base Metals,Medium,4.58
+Devoid,Semou,Arzad,Arzad II,Industrial Fibers,Medium,4.92
+Devoid,Semou,Arzad,Arzad II,Construction Blocks,Medium,19.24
+Devoid,Semou,Arzad,Arzad III,Toxic Metals,Poor,3.35
+Devoid,Semou,Arzad,Arzad III,Industrial Fibers,Medium,5.33
+Devoid,Semou,Arzad,Arzad III,Silicate Glass,Poor,7.26
+Devoid,Semou,Arzad,Arzad IV,Fiber Composite,Perfect,32.35
+Devoid,Semou,Arzad,Arzad IV,Noble Metals,Poor,16.85
+Devoid,Semou,Arzad,Arzad IV,Condensates,Perfect,21.50
+Devoid,Semou,Arzad,Arzad IV,Smartfab Units,Medium,11.40
+Devoid,Semou,Arzad,Arzad V,Toxic Metals,Medium,5.53
+Devoid,Semou,Arzad,Arzad V,Industrial Fibers,Poor,3.64
+Devoid,Semou,Arzad,Arzad V,Construction Blocks,Medium,21.44
+Devoid,Semou,Arzad,Arzad VI,Fiber Composite,Rich,24.05
+Devoid,Semou,Arzad,Arzad VI,Opulent Compound,Perfect,32.62
+Devoid,Semou,Arzad,Arzad VI,Reactive Gas,Perfect,33.77
+Devoid,Semou,Arzad,Arzad VI,Heavy Water,Rich,256.14
+Devoid,Semou,Arzad,Arzad VII,Fiber Composite,Rich,27.90
+Devoid,Semou,Arzad,Arzad VII,Glossy Compound,Medium,17.14
+Devoid,Semou,Arzad,Arzad VII,Reactive Gas,Poor,15.95
+Devoid,Semou,Arzad,Arzad VII,Noble Gas,Poor,16.40
+Devoid,Semou,Arzad,Arzad VIII,Industrial Fibers,Poor,3.74
+Devoid,Semou,Arzad,Arzad VIII,Supertensile Plastics,Poor,10.93
+Devoid,Semou,Arzad,Arzad VIII,Plasmoids,Poor,0.89
+Devoid,Semou,Arzad,Arzad IX,Reactive Gas,Poor,15.84
+Devoid,Semou,Arzad,Arzad IX,Noble Gas,Rich,24.86
+Devoid,Semou,Arzad,Arzad IX,Polyaramids,Medium,14.24
+Devoid,Semou,Arzad,Arzad IX,Coolant,Rich,18.78
+Devoid,Semou,Arzad,Arzad X,Base Metals,Medium,4.97
+Devoid,Semou,Arzad,Arzad X,Heavy Metals,Poor,14.78
+Devoid,Semou,Arzad,Arzad X,Coolant,Poor,11.15
+Devoid,Semou,Oyeman,Oyeman I,Dark Compound,Poor,13.27
+Devoid,Semou,Oyeman,Oyeman I,Industrial Fibers,Poor,3.19
+Devoid,Semou,Oyeman,Oyeman I,Plasmoids,Medium,1.18
+Devoid,Semou,Oyeman,Oyeman II,Dark Compound,Rich,27.81
+Devoid,Semou,Oyeman,Oyeman II,Nanites,Perfect,7.61
+Devoid,Semou,Oyeman,Oyeman II,Suspended Plasma,Medium,75.75
+Devoid,Semou,Oyeman,Oyeman II,Ionic Solutions,Medium,8.78
+Devoid,Semou,Oyeman,Oyeman III,Noble Gas,Poor,14.72
+Devoid,Semou,Oyeman,Oyeman III,Plasmoids,Rich,1.47
+Devoid,Semou,Oyeman,Oyeman IV,Fiber Composite,Rich,24.95
+Devoid,Semou,Oyeman,Oyeman IV,Industrial Fibers,Medium,5.53
+Devoid,Semou,Oyeman,Oyeman IV,Condensates,Medium,12.44
+Devoid,Semou,Oyeman,Oyeman IV,Liquid Ozone,Medium,21.98
+Devoid,Semou,Oyeman,Oyeman V,Lustering Alloy,Medium,21.94
+Devoid,Semou,Oyeman,Oyeman V,Glossy Compound,Medium,22.63
+Devoid,Semou,Oyeman,Oyeman V,Noble Gas,Poor,15.16
+Devoid,Semou,Oyeman,Oyeman V,Reactive Metals,Rich,6.19
+Devoid,Semou,Oyeman,Oyeman VI,Precious Alloy,Poor,14.08
+Devoid,Semou,Oyeman,Oyeman VI,Base Metals,Poor,3.06
+Devoid,Semou,Oyeman,Oyeman VI,Industrial Fibers,Poor,4.15
+Devoid,Semou,Oyeman,Oyeman VII,Condensed Alloy,Rich,24.57
+Devoid,Semou,Oyeman,Oyeman VII,Fiber Composite,Perfect,31.81
+Devoid,Semou,Oyeman,Oyeman VII,Reactive Gas,Poor,16.90
+Devoid,Semou,Oyeman,Oyeman VII,Smartfab Units,Medium,13.69
+Devoid,Semou,Oyeman,Oyeman VIII,Reactive Gas,Medium,18.36
+Devoid,Semou,Oyeman,Oyeman VIII,Noble Gas,Rich,28.06
+Devoid,Semou,Oyeman,Oyeman VIII,Base Metals,Rich,6.21
+Devoid,Semou,Oyeman,Oyeman VIII,Ionic Solutions,Rich,10.47
+Devoid,Semou,Oyeman,Oyeman IX,Lustering Alloy,Rich,28.48
+Devoid,Semou,Oyeman,Oyeman IX,Sheen Compound,Rich,23.15
+Devoid,Semou,Oyeman,Oyeman IX,Noble Gas,Poor,15.43
+Devoid,Semou,Oyeman,Oyeman IX,Base Metals,Poor,4.28
+Devoid,Semou,Oyeman,Oyeman X,Lustering Alloy,Rich,25.00
+Devoid,Semou,Oyeman,Oyeman X,Glossy Compound,Medium,19.75
+Devoid,Semou,Oyeman,Oyeman X,Reactive Gas,Rich,23.40
+Devoid,Semou,Oyeman,Oyeman X,Noble Gas,Rich,25.13
+Devoid,Semou,Oyeman,Oyeman XI,Lustering Alloy,Poor,13.30
+Devoid,Semou,Oyeman,Oyeman XI,Base Metals,Poor,3.99
+Devoid,Semou,Oyeman,Oyeman XI,Industrial Fibers,Medium,5.13
+Devoid,Semou,Oyeman,Oyeman XII,Base Metals,Rich,6.83
+Devoid,Semou,Oyeman,Oyeman XII,Coolant,Medium,14.56
+Devoid,Semou,Oyeman,Oyeman XII,Condensates,Poor,9.56
+Devoid,Semou,Oyeman,Oyeman XIII,Dark Compound,Poor,11.75
+Devoid,Semou,Oyeman,Oyeman XIII,Industrial Fibers,Poor,3.21
+Devoid,Semou,Oyeman,Oyeman XIII,Oxygen Isotopes,Medium,2.87
+Devoid,Semou,Ezzara,Ezzara I,Lustering Alloy,Medium,20.37
+Devoid,Semou,Ezzara,Ezzara I,Base Metals,Medium,5.25
+Devoid,Semou,Ezzara,Ezzara I,Industrial Fibers,Poor,3.81
+Devoid,Semou,Ezzara,Ezzara II,Noble Gas,Medium,23.94
+Devoid,Semou,Ezzara,Ezzara II,Nanites,Perfect,8.37
+Devoid,Semou,Ezzara,Ezzara II,Suspended Plasma,Poor,64.23
+Devoid,Semou,Ezzara,Ezzara II,Ionic Solutions,Rich,11.54
+Devoid,Semou,Ezzara,Ezzara III,Noble Gas,Perfect,31.12
+Devoid,Semou,Ezzara,Ezzara III,Noble Metals,Medium,18.71
+Devoid,Semou,Ezzara,Ezzara IV,Condensed Alloy,Rich,30.15
+Devoid,Semou,Ezzara,Ezzara IV,Fiber Composite,Rich,26.16
+Devoid,Semou,Ezzara,Ezzara IV,Opulent Compound,Medium,22.00
+Devoid,Semou,Ezzara,Ezzara IV,Base Metals,Rich,7.44
+Devoid,Semou,Ezzara,Ezzara V,Fiber Composite,Medium,23.41
+Devoid,Semou,Ezzara,Ezzara V,Opulent Compound,Rich,25.73
+Devoid,Semou,Ezzara,Ezzara V,Reactive Gas,Medium,19.27
+Devoid,Semou,Ezzara,Ezzara V,Noble Metals,Perfect,30.50
+Devoid,Semou,Ezzara,Ezzara VI,Condensed Alloy,Medium,23.81
+Devoid,Semou,Ezzara,Ezzara VI,Fiber Composite,Rich,27.85
+Devoid,Semou,Ezzara,Ezzara VI,Base Metals,Medium,4.78
+Devoid,Semou,Ezzara,Ezzara VI,Industrial Fibers,Rich,7.79
+Devoid,Semou,Ezzara,Ezzara VII,Heavy Metals,Medium,22.10
+Devoid,Semou,Ezzara,Ezzara VII,Coolant,Poor,9.91
+Devoid,Semou,Ezzara,Ezzara VII,Condensates,Medium,15.62
+Devoid,Ryra,Odin,Odin I,Lustering Alloy,Poor,12.46
+Devoid,Ryra,Odin,Odin I,Base Metals,Poor,3.46
+Devoid,Ryra,Odin,Odin II,Motley Compound,Poor,11.75
+Devoid,Ryra,Odin,Odin II,Noble Metals,Perfect,23.37
+Devoid,Ryra,Odin,Odin III,Reactive Metals,Rich,5.46
+Devoid,Ryra,Odin,Odin III,Suspended Plasma,Medium,49.74
+Devoid,Ryra,Odin,Odin IV,Lustering Alloy,Medium,13.94
+Devoid,Ryra,Odin,Odin IV,Base Metals,Poor,2.99
+Devoid,Ryra,Odin,Odin V,Lustering Alloy,Poor,11.94
+Devoid,Ryra,Odin,Odin V,Base Metals,Poor,3.12
+Devoid,Ryra,Odin,Odin VI,Lustering Alloy,Rich,20.69
+Devoid,Ryra,Odin,Odin VI,Noble Gas,Medium,14.74
+Devoid,Ryra,Odin,Odin VI,Base Metals,Rich,5.64
+Devoid,Ryra,Odin,Odin VII,Lustering Alloy,Rich,18.54
+Devoid,Ryra,Odin,Odin VII,Base Metals,Poor,3.02
+Devoid,Ryra,Odin,Odin VII,Reactive Metals,Perfect,5.91
+Devoid,Ryra,Odin,Odin VIII,Lustering Alloy,Perfect,22.54
+Devoid,Ryra,Odin,Odin VIII,Reactive Gas,Perfect,22.47
+Devoid,Ryra,Odin,Odin VIII,Base Metals,Poor,3.02
+Devoid,Ryra,Esescama,Esescama I,Crystal Compound,Rich,18.37
+Devoid,Ryra,Esescama,Esescama I,Suspended Plasma,Medium,53.68
+Devoid,Ryra,Esescama,Esescama II,Lustering Alloy,Medium,13.92
+Devoid,Ryra,Esescama,Esescama II,Base Metals,Medium,4.22
+Devoid,Ryra,Esescama,Esescama III,Motley Compound,Rich,22.11
+Devoid,Ryra,Esescama,Esescama III,Construction Blocks,Medium,14.97
+Devoid,Ryra,Esescama,Esescama IV,Reactive Gas,Medium,15.65
+Devoid,Ryra,Esescama,Esescama IV,Heavy Water,Perfect,244.02
+Devoid,Ryra,Esescama,Esescama IV,Liquid Ozone,Rich,24.48
+Devoid,Ryra,Esescama,Esescama V,Lustering Alloy,Medium,16.88
+Devoid,Ryra,Esescama,Esescama V,Base Metals,Perfect,6.07
+Devoid,Ryra,Esescama,Esescama V,Reactive Metals,Medium,4.28
+Devoid,Ryra,Esescama,Esescama VI,Lustering Alloy,Rich,18.55
+Devoid,Ryra,Esescama,Esescama VI,Reactive Gas,Rich,20.08
+Devoid,Ryra,Esescama,Esescama VI,Base Metals,Rich,5.04
+Devoid,Ryra,Esescama,Esescama VII,Lustering Alloy,Poor,8.99
+Devoid,Ryra,Esescama,Esescama VII,Base Metals,Poor,2.76
+Devoid,Ryra,Esescama,Esescama VIII,Lustering Alloy,Medium,15.76
+Devoid,Ryra,Esescama,Esescama VIII,Glossy Compound,Rich,21.90
+Devoid,Ryra,Esescama,Esescama VIII,Base Metals,Medium,4.30
+Devoid,Ryra,Esescama,Esescama IX,Lustering Alloy,Poor,11.44
+Devoid,Ryra,Esescama,Esescama IX,Base Metals,Poor,2.84
+Devoid,Ryra,Esescama,Esescama X,Lustering Alloy,Medium,15.09
+Devoid,Ryra,Esescama,Esescama X,Base Metals,Rich,5.20
+Devoid,Ryra,Esescama,Esescama XI,Lustering Alloy,Poor,11.55
+Devoid,Ryra,Esescama,Esescama XI,Base Metals,Poor,2.99
+Devoid,Ryra,Choonka,Choonka I,Motley Compound,Rich,20.13
+Devoid,Ryra,Choonka,Choonka I,Construction Blocks,Medium,16.32
+Devoid,Ryra,Choonka,Choonka II,Lustering Alloy,Medium,17.07
+Devoid,Ryra,Choonka,Choonka II,Base Metals,Medium,4.03
+Devoid,Ryra,Choonka,Choonka III,Lustering Alloy,Poor,12.15
+Devoid,Ryra,Choonka,Choonka III,Base Metals,Poor,2.89
+Devoid,Ryra,Choonka,Choonka IV,Lustering Alloy,Medium,13.69
+Devoid,Ryra,Choonka,Choonka IV,Base Metals,Medium,3.94
+Devoid,Ryra,Choonka,Choonka V,Lustering Alloy,Poor,9.45
+Devoid,Ryra,Choonka,Choonka V,Base Metals,Poor,3.02
+Devoid,Ryra,Choonka,Choonka VI,Suspended Plasma,Rich,71.67
+Devoid,Ryra,Choonka,Choonka VI,Oxygen Isotopes,Medium,2.46
+Devoid,Ryra,Choonka,Choonka VII,Motley Compound,Medium,13.24
+Devoid,Ryra,Choonka,Choonka VII,Noble Metals,Rich,22.13
+Devoid,Ryra,Choonka,Choonka VIII,Condensed Alloy,Perfect,23.39
+Devoid,Ryra,Choonka,Choonka VIII,Silicate Glass,Perfect,11.95
+Devoid,Ryra,Choonka,Choonka VIII,Heavy Water,Rich,212.24
+Devoid,Ryra,Choonka,Choonka IX,Lustering Alloy,Medium,16.79
+Devoid,Ryra,Choonka,Choonka IX,Glossy Compound,Rich,21.95
+Devoid,Ryra,Choonka,Choonka IX,Base Metals,Poor,3.18
+Devoid,Ryra,Choonka,Choonka X,Lustering Alloy,Rich,18.30
+Devoid,Ryra,Choonka,Choonka X,Base Metals,Poor,3.22
+Devoid,Ryra,Choonka,Choonka X,Reactive Metals,Poor,3.29
+Devoid,Ryra,Thasinaz,Thasinaz I,Lustering Alloy,Medium,17.04
+Devoid,Ryra,Thasinaz,Thasinaz I,Base Metals,Poor,3.43
+Devoid,Ryra,Thasinaz,Thasinaz II,Motley Compound,Rich,19.03
+Devoid,Ryra,Thasinaz,Thasinaz II,Plasmoids,Poor,0.68
+Devoid,Ryra,Thasinaz,Thasinaz III,Condensates,Perfect,15.27
+Devoid,Ryra,Thasinaz,Thasinaz III,Smartfab Units,Medium,9.87
+Devoid,Ryra,Thasinaz,Thasinaz III,Heavy Water,Perfect,245.98
+Devoid,Ryra,Thasinaz,Thasinaz IV,Condensed Alloy,Rich,20.12
+Devoid,Ryra,Thasinaz,Thasinaz IV,Heavy Water,Medium,156.24
+Devoid,Ryra,Thasinaz,Thasinaz IV,Liquid Ozone,Medium,16.61
+Devoid,Ryra,Thasinaz,Thasinaz V,Condensed Alloy,Rich,21.38
+Devoid,Ryra,Thasinaz,Thasinaz V,Condensates,Rich,11.98
+Devoid,Ryra,Thasinaz,Thasinaz V,Heavy Water,Rich,209.72
+Devoid,Ryra,Thasinaz,Thasinaz VI,Lustering Alloy,Medium,16.93
+Devoid,Ryra,Thasinaz,Thasinaz VI,Base Metals,Medium,4.42
+Devoid,Ryra,Thasinaz,Thasinaz VII,Lustering Alloy,Perfect,23.02
+Devoid,Ryra,Thasinaz,Thasinaz VII,Base Metals,Rich,5.68
+Devoid,Ryra,Thasinaz,Thasinaz VII,Polyaramids,Perfect,15.33
+Devoid,Ryra,Thasinaz,Thasinaz VIII,Lustering Alloy,Poor,11.48
+Devoid,Ryra,Thasinaz,Thasinaz VIII,Base Metals,Rich,5.17
+Devoid,Ryra,Thasinaz,Thasinaz VIII,Coolant,Rich,13.54
+Devoid,Ryra,Thasinaz,Thasinaz IX,Lustering Alloy,Rich,19.05
+Devoid,Ryra,Thasinaz,Thasinaz IX,Base Metals,Medium,4.57
+Devoid,Ryra,Thasinaz,Thasinaz IX,Polyaramids,Perfect,14.83
+Devoid,Ryra,Thasinaz,Thasinaz X,Lustering Alloy,Medium,15.23
+Devoid,Ryra,Thasinaz,Thasinaz X,Base Metals,Rich,4.69
+Devoid,Ryra,Thasinaz,Thasinaz XI,Lustering Alloy,Medium,14.92
+Devoid,Ryra,Thasinaz,Thasinaz XI,Base Metals,Rich,4.75
+Devoid,Ryra,Dihra,Dihra I,Lustering Alloy,Poor,13.83
+Devoid,Ryra,Dihra,Dihra I,Base Metals,Medium,4.23
+Devoid,Ryra,Dihra,Dihra II,Motley Compound,Rich,23.52
+Devoid,Ryra,Dihra,Dihra II,Oxygen Isotopes,Medium,2.33
+Devoid,Ryra,Dihra,Dihra III,Lustering Alloy,Poor,11.27
+Devoid,Ryra,Dihra,Dihra III,Base Metals,Poor,2.93
+Devoid,Ryra,Dihra,Dihra IV,Lustering Alloy,Rich,20.57
+Devoid,Ryra,Dihra,Dihra IV,Noble Gas,Rich,21.57
+Devoid,Ryra,Dihra,Dihra IV,Base Metals,Rich,5.71
+Devoid,Ryra,Dihra,Dihra V,Lustering Alloy,Poor,12.53
+Devoid,Ryra,Dihra,Dihra V,Base Metals,Medium,3.94
+Devoid,Ryra,Dihra,Dihra VI,Opulent Compound,Rich,22.45
+Devoid,Ryra,Dihra,Dihra VI,Base Metals,Perfect,6.92
+Devoid,Ryra,Dihra,Dihra VI,Heavy Water,Perfect,278.55
+Devoid,Ryra,Dihra,Dihra VII,Lustering Alloy,Rich,22.77
+Devoid,Ryra,Dihra,Dihra VII,Noble Gas,Rich,20.66
+Devoid,Ryra,Dihra,Dihra VII,Base Metals,Rich,5.71
+Devoid,Ryra,Dihra,Dihra VIII,Lustering Alloy,Medium,18.41
+Devoid,Ryra,Dihra,Dihra VIII,Base Metals,Rich,5.46
+Devoid,Ryra,Dihra,Dihra VIII,Ionic Solutions,Medium,6.71
+Devoid,Ryra,Dihra,Dihra IX,Lustering Alloy,Rich,22.29
+Devoid,Ryra,Dihra,Dihra IX,Base Metals,Poor,3.49
+Devoid,Ryra,Dihra,Dihra IX,Coolant,Medium,9.93
+Devoid,Ryra,Dihra,Dihra X,Lustering Alloy,Medium,15.88
+Devoid,Ryra,Dihra,Dihra X,Base Metals,Medium,4.05
+Devoid,Ryra,Dital,Dital I,Industrial Fibers,Medium,4.57
+Devoid,Ryra,Dital,Dital I,Supertensile Plastics,Poor,9.38
+Devoid,Ryra,Dital,Dital I,Plasmoids,Poor,0.82
+Devoid,Ryra,Dital,Dital II,Reactive Metals,Medium,4.90
+Devoid,Ryra,Dital,Dital II,Construction Blocks,Rich,23.92
+Devoid,Ryra,Dital,Dital II,Nanites,Poor,3.84
+Devoid,Ryra,Dital,Dital III,Condensates,Rich,16.69
+Devoid,Ryra,Dital,Dital III,Nanites,Perfect,7.41
+Devoid,Ryra,Dital,Dital III,Suspended Plasma,Perfect,96.48
+Devoid,Ryra,Dital,Dital III,Plasmoids,Medium,1.16
+Devoid,Ryra,Dital,Dital IV,Lustering Alloy,Poor,13.15
+Devoid,Ryra,Dital,Dital IV,Sheen Compound,Rich,24.96
+Devoid,Ryra,Dital,Dital IV,Glossy Compound,Rich,23.02
+Devoid,Ryra,Dital,Dital IV,Noble Gas,Poor,14.99
+Devoid,Ryra,Dital,Dital V,Fiber Composite,Medium,17.49
+Devoid,Ryra,Dital,Dital V,Noble Gas,Medium,17.38
+Devoid,Ryra,Dital,Dital V,Base Metals,Rich,6.06
+Devoid,Ryra,Dital,Dital V,Reactive Metals,Poor,3.86
+Devoid,Ryra,Dital,Dital VI,Construction Blocks,Poor,14.50
+Devoid,Ryra,Dital,Dital VI,Suspended Plasma,Rich,89.22
+Devoid,Ryra,Dital,Dital VI,Oxygen Isotopes,Medium,2.66
+Devoid,Ryra,Dital,Dital VII,Sheen Compound,Medium,17.65
+Devoid,Ryra,Dital,Dital VII,Noble Gas,Medium,19.39
+Devoid,Ryra,Dital,Dital VII,Base Metals,Rich,6.61
+Devoid,Ryra,Dital,Dital VII,Coolant,Rich,15.56
+Devoid,Ryra,Dital,Dital VIII,Toxic Metals,Poor,3.91
+Devoid,Ryra,Dital,Dital VIII,Industrial Fibers,Poor,3.53
+Devoid,Ryra,Dital,Dital VIII,Plasmoids,Poor,0.72
+Devoid,Kisana,Eredan,Eredan I,Sheen Compound,Medium,15.65
+Devoid,Kisana,Eredan,Eredan I,Reactive Metals,Poor,3.17
+Devoid,Kisana,Eredan,Eredan I,Suspended Plasma,Rich,62.43
+Devoid,Kisana,Eredan,Eredan II,Lustering Alloy,Poor,8.27
+Devoid,Kisana,Eredan,Eredan II,Base Metals,Medium,4.04
+Devoid,Kisana,Eredan,Eredan III,Lustering Alloy,Poor,9.06
+Devoid,Kisana,Eredan,Eredan III,Base Metals,Poor,2.76
+Devoid,Kisana,Eredan,Eredan IV,Motley Compound,Perfect,21.10
+Devoid,Kisana,Eredan,Eredan IV,Plasmoids,Poor,0.68
+Devoid,Kisana,Eredan,Eredan V,Lustering Alloy,Medium,14.05
+Devoid,Kisana,Eredan,Eredan V,Reactive Gas,Medium,14.39
+Devoid,Kisana,Eredan,Eredan V,Base Metals,Rich,5.41
+Devoid,Kisana,Eredan,Eredan VI,Opulent Compound,Medium,16.20
+Devoid,Kisana,Eredan,Eredan VI,Toxic Metals,Perfect,5.81
+Devoid,Kisana,Eredan,Eredan VI,Heavy Water,Medium,136.24
+Devoid,Kisana,Eredan,Eredan VII,Reactive Gas,Medium,12.27
+Devoid,Kisana,Eredan,Eredan VII,Suspended Plasma,Rich,66.74
+Devoid,Kisana,Ohide,Ohide I,Motley Compound,Poor,13.77
+Devoid,Kisana,Ohide,Ohide I,Polyaramids,Medium,9.83
+Devoid,Kisana,Ohide,Ohide II,Motley Compound,Poor,12.49
+Devoid,Kisana,Ohide,Ohide II,Construction Blocks,Medium,18.89
+Devoid,Kisana,Ohide,Ohide III,Noble Metals,Perfect,28.47
+Devoid,Kisana,Ohide,Ohide III,Smartfab Units,Perfect,16.84
+Devoid,Kisana,Ohide,Ohide III,Heavy Water,Rich,218.55
+Devoid,Kisana,Ohide,Ohide IV,Supertensile Plastics,Rich,14.57
+Devoid,Kisana,Ohide,Ohide IV,Suspended Plasma,Medium,67.34
+Devoid,Kisana,Ohide,Ohide V,Condensed Alloy,Medium,18.30
+Devoid,Kisana,Ohide,Ohide V,Polyaramids,Medium,10.95
+Devoid,Kisana,Ohide,Ohide V,Heavy Water,Rich,222.90
+Devoid,Kisana,Ohide,Ohide VI,Lustering Alloy,Poor,12.38
+Devoid,Kisana,Ohide,Ohide VI,Sheen Compound,Rich,19.56
+Devoid,Kisana,Ohide,Ohide VI,Base Metals,Medium,4.86
+Devoid,Kisana,Ohide,Ohide VII,Lustering Alloy,Medium,16.86
+Devoid,Kisana,Ohide,Ohide VII,Base Metals,Medium,4.09
+Devoid,Kisana,Ohide,Ohide VIII,Lustering Alloy,Medium,15.82
+Devoid,Kisana,Ohide,Ohide VIII,Glossy Compound,Medium,18.54
+Devoid,Kisana,Ohide,Ohide VIII,Base Metals,Rich,5.70
+Devoid,Kisana,Ohide,Ohide IX,Crystal Compound,Medium,17.05
+Devoid,Kisana,Ohide,Ohide IX,Suspended Plasma,Poor,47.63
+Devoid,Kisana,Sasoutikh,Sasoutikh I,Motley Compound,Rich,22.75
+Devoid,Kisana,Sasoutikh,Sasoutikh I,Smartfab Units,Medium,11.72
+Devoid,Kisana,Sasoutikh,Sasoutikh II,Lustering Alloy,Medium,16.95
+Devoid,Kisana,Sasoutikh,Sasoutikh II,Base Metals,Medium,4.39
+Devoid,Kisana,Sasoutikh,Sasoutikh III,Reactive Gas,Medium,18.09
+Devoid,Kisana,Sasoutikh,Sasoutikh III,Noble Metals,Perfect,25.02
+Devoid,Kisana,Sasoutikh,Sasoutikh III,Heavy Water,Medium,153.30
+Devoid,Kisana,Sasoutikh,Sasoutikh IV,Lustering Alloy,Medium,15.11
+Devoid,Kisana,Sasoutikh,Sasoutikh IV,Base Metals,Poor,3.47
+Devoid,Kisana,Sasoutikh,Sasoutikh V,Lustering Alloy,Medium,15.30
+Devoid,Kisana,Sasoutikh,Sasoutikh V,Glossy Compound,Rich,21.06
+Devoid,Kisana,Sasoutikh,Sasoutikh V,Base Metals,Medium,3.81
+Devoid,Kisana,Sasoutikh,Sasoutikh VI,Lustering Alloy,Rich,21.95
+Devoid,Kisana,Sasoutikh,Sasoutikh VI,Fiber Composite,Perfect,23.86
+Devoid,Kisana,Sasoutikh,Sasoutikh VI,Base Metals,Medium,4.84
+Devoid,Kisana,Sasoutikh,Sasoutikh VII,Lustering Alloy,Medium,16.56
+Devoid,Kisana,Sasoutikh,Sasoutikh VII,Base Metals,Poor,3.45
+Devoid,Kisana,Gheth,Gheth I,Lustering Alloy,Medium,16.48
+Devoid,Kisana,Gheth,Gheth I,Base Metals,Poor,3.26
+Devoid,Kisana,Gheth,Gheth II,Lustering Alloy,Poor,9.95
+Devoid,Kisana,Gheth,Gheth II,Base Metals,Medium,4.33
+Devoid,Kisana,Gheth,Gheth III,Reactive Gas,Rich,21.03
+Devoid,Kisana,Gheth,Gheth III,Suspended Plasma,Rich,72.25
+Devoid,Kisana,Gheth,Gheth IV,Reactive Gas,Rich,19.05
+Devoid,Kisana,Gheth,Gheth IV,Heavy Water,Rich,226.50
+Devoid,Kisana,Gheth,Gheth IV,Liquid Ozone,Rich,25.54
+Devoid,Kisana,Gheth,Gheth V,Construction Blocks,Medium,17.94
+Devoid,Kisana,Gheth,Gheth V,Suspended Plasma,Medium,63.40
+Devoid,Kisana,Gheth,Gheth VI,Construction Blocks,Rich,22.70
+Devoid,Kisana,Gheth,Gheth VI,Suspended Plasma,Rich,84.40
+Devoid,Kisana,Gheth,Gheth VII,Lustering Alloy,Rich,19.52
+Devoid,Kisana,Gheth,Gheth VII,Base Metals,Medium,4.88
+Devoid,Kisana,Gheth,Gheth VII,Reactive Metals,Rich,5.46
+Devoid,Kisana,Gheth,Gheth VIII,Lustering Alloy,Rich,22.96
+Devoid,Kisana,Gheth,Gheth VIII,Noble Gas,Medium,16.13
+Devoid,Kisana,Gheth,Gheth VIII,Base Metals,Rich,6.22
+Devoid,Kisana,Gheth,Gheth IX,Lustering Alloy,Medium,18.93
+Devoid,Kisana,Gheth,Gheth IX,Base Metals,Medium,4.31
+Devoid,Kisana,Lisudeh,Lisudeh I,Lustering Alloy,Poor,10.31
+Devoid,Kisana,Lisudeh,Lisudeh I,Base Metals,Poor,2.65
+Devoid,Kisana,Lisudeh,Lisudeh II,Lucent Compound,Poor,10.48
+Devoid,Kisana,Lisudeh,Lisudeh II,Suspended Plasma,Medium,50.59
+Devoid,Kisana,Lisudeh,Lisudeh III,Fiber Composite,Medium,12.69
+Devoid,Kisana,Lisudeh,Lisudeh III,Reactive Gas,Rich,17.12
+Devoid,Kisana,Lisudeh,Lisudeh III,Heavy Water,Rich,176.28
+Devoid,Kisana,Lisudeh,Lisudeh IV,Lustering Alloy,Medium,13.42
+Devoid,Kisana,Lisudeh,Lisudeh IV,Fiber Composite,Medium,14.09
+Devoid,Kisana,Lisudeh,Lisudeh IV,Base Metals,Rich,5.09
+Devoid,Kisana,Lisudeh,Lisudeh V,Lustering Alloy,Rich,20.19
+Devoid,Kisana,Lisudeh,Lisudeh V,Noble Gas,Medium,15.72
+Devoid,Kisana,Lisudeh,Lisudeh V,Base Metals,Poor,2.89
+Devoid,Kisana,Lisudeh,Lisudeh VI,Lustering Alloy,Rich,18.86
+Devoid,Kisana,Lisudeh,Lisudeh VI,Glossy Compound,Rich,17.60
+Devoid,Kisana,Lisudeh,Lisudeh VI,Base Metals,Medium,4.22
+Devoid,Kisana,Lisudeh,Lisudeh VII,Lustering Alloy,Rich,17.60
+Devoid,Kisana,Lisudeh,Lisudeh VII,Base Metals,Rich,4.64
+Devoid,Kisana,Mehatoor,Mehatoor I,Motley Compound,Medium,16.58
+Devoid,Kisana,Mehatoor,Mehatoor I,Noble Gas,Medium,17.46
+Devoid,Kisana,Mehatoor,Mehatoor II,Lustering Alloy,Medium,13.34
+Devoid,Kisana,Mehatoor,Mehatoor II,Base Metals,Poor,3.16
+Devoid,Kisana,Mehatoor,Mehatoor III,Coolant,Perfect,16.15
+Devoid,Kisana,Mehatoor,Mehatoor III,Heavy Water,Medium,143.92
+Devoid,Kisana,Mehatoor,Mehatoor III,Ionic Solutions,Rich,8.44
+Devoid,Kisana,Mehatoor,Mehatoor IV,Opulent Compound,Rich,21.59
+Devoid,Kisana,Mehatoor,Mehatoor IV,Polyaramids,Poor,8.63
+Devoid,Kisana,Mehatoor,Mehatoor IV,Heavy Water,Rich,215.04
+Devoid,Kisana,Mehatoor,Mehatoor V,Lustering Alloy,Poor,11.26
+Devoid,Kisana,Mehatoor,Mehatoor V,Base Metals,Medium,3.72
+Devoid,Kisana,Mehatoor,Mehatoor VI,Lustering Alloy,Medium,16.00
+Devoid,Kisana,Mehatoor,Mehatoor VI,Base Metals,Poor,2.63
+Devoid,Jayai,Roushzar,Roushzar I,Noble Gas,Rich,23.31
+Devoid,Jayai,Roushzar,Roushzar I,Plasmoids,Rich,1.55
+Devoid,Jayai,Roushzar,Roushzar II,Base Metals,Poor,2.98
+Devoid,Jayai,Roushzar,Roushzar II,Industrial Fibers,Poor,3.65
+Devoid,Jayai,Roushzar,Roushzar II,Oxygen Isotopes,Poor,2.08
+Devoid,Jayai,Roushzar,Roushzar III,Reactive Gas,Rich,24.77
+Devoid,Jayai,Roushzar,Roushzar III,Reactive Metals,Rich,6.85
+Devoid,Jayai,Roushzar,Roushzar III,Construction Blocks,Poor,14.01
+Devoid,Jayai,Roushzar,Roushzar IV,Fiber Composite,Perfect,30.50
+Devoid,Jayai,Roushzar,Roushzar IV,Opulent Compound,Medium,16.07
+Devoid,Jayai,Roushzar,Roushzar IV,Base Metals,Medium,5.52
+Devoid,Jayai,Roushzar,Roushzar IV,Industrial Fibers,Medium,4.97
+Devoid,Jayai,Roushzar,Roushzar V,Sheen Compound,Medium,20.76
+Devoid,Jayai,Roushzar,Roushzar V,Noble Gas,Medium,21.16
+Devoid,Jayai,Roushzar,Roushzar V,Reactive Metals,Perfect,7.32
+Devoid,Jayai,Roushzar,Roushzar V,Coolant,Rich,15.98
+Devoid,Jayai,Roushzar,Roushzar VI,Industrial Fibers,Medium,4.64
+Devoid,Jayai,Roushzar,Roushzar VI,Construction Blocks,Poor,13.53
+Devoid,Jayai,Roushzar,Roushzar VI,Silicate Glass,Poor,5.81
+Devoid,Jayai,Roushzar,Roushzar VII,Glossy Compound,Rich,26.79
+Devoid,Jayai,Roushzar,Roushzar VII,Noble Gas,Poor,15.25
+Devoid,Jayai,Roushzar,Roushzar VII,Reactive Metals,Rich,6.57
+Devoid,Jayai,Roushzar,Roushzar VII,Coolant,Poor,10.36
+Devoid,Jayai,Roushzar,Roushzar VIII,Condensed Alloy,Rich,22.29
+Devoid,Jayai,Roushzar,Roushzar VIII,Fiber Composite,Rich,23.89
+Devoid,Jayai,Roushzar,Roushzar VIII,Heavy Water,Poor,155.72
+Devoid,Jayai,Roushzar,Roushzar VIII,Liquid Ozone,Perfect,35.53
+Devoid,Jayai,Roushzar,Roushzar IX,Noble Gas,Rich,22.41
+Devoid,Jayai,Roushzar,Roushzar IX,Construction Blocks,Medium,16.98
+Devoid,Jayai,Roushzar,Roushzar X,Lustering Alloy,Medium,18.12
+Devoid,Jayai,Roushzar,Roushzar X,Glossy Compound,Rich,21.78
+Devoid,Jayai,Roushzar,Roushzar X,Noble Gas,Rich,26.43
+Devoid,Jayai,Roushzar,Roushzar X,Polyaramids,Medium,11.36
+Devoid,Jayai,Roushzar,Roushzar XI,Opulent Compound,Rich,22.46
+Devoid,Jayai,Roushzar,Roushzar XI,Coolant,Medium,13.10
+Devoid,Jayai,Roushzar,Roushzar XI,Liquid Ozone,Medium,22.48
+Devoid,Jayai,Roushzar,Roushzar XI,Ionic Solutions,Rich,10.39
+Devoid,Jayai,Labapi,Labapi I,Noble Gas,Medium,19.98
+Devoid,Jayai,Labapi,Labapi I,Construction Blocks,Medium,16.86
+Devoid,Jayai,Labapi,Labapi II,Crystal Compound,Poor,14.81
+Devoid,Jayai,Labapi,Labapi II,Construction Blocks,Rich,22.86
+Devoid,Jayai,Labapi,Labapi II,Nanites,Poor,4.08
+Devoid,Jayai,Labapi,Labapi III,Precious Alloy,Medium,17.75
+Devoid,Jayai,Labapi,Labapi III,Industrial Fibers,Poor,2.91
+Devoid,Jayai,Labapi,Labapi III,Silicate Glass,Poor,6.40
+Devoid,Jayai,Labapi,Labapi IV,Fiber Composite,Medium,18.99
+Devoid,Jayai,Labapi,Labapi IV,Reactive Gas,Perfect,29.12
+Devoid,Jayai,Labapi,Labapi IV,Noble Metals,Rich,22.44
+Devoid,Jayai,Labapi,Labapi IV,Smartfab Units,Perfect,19.07
+Devoid,Jayai,Labapi,Labapi V,Condensed Alloy,Rich,24.77
+Devoid,Jayai,Labapi,Labapi V,Fiber Composite,Perfect,30.91
+Devoid,Jayai,Labapi,Labapi V,Base Metals,Medium,5.44
+Devoid,Jayai,Labapi,Labapi V,Condensates,Perfect,20.11
+Devoid,Jayai,Labapi,Labapi VI,Noble Gas,Rich,25.59
+Devoid,Jayai,Labapi,Labapi VI,Reactive Metals,Poor,3.82
+Devoid,Jayai,Labapi,Labapi VI,Coolant,Medium,13.34
+Devoid,Jayai,Labapi,Labapi VI,Ionic Solutions,Medium,7.13
+Devoid,Jayai,Labapi,Labapi VII,Lustering Alloy,Rich,26.59
+Devoid,Jayai,Labapi,Labapi VII,Sheen Compound,Perfect,27.78
+Devoid,Jayai,Labapi,Labapi VII,Glossy Compound,Poor,15.44
+Devoid,Jayai,Labapi,Labapi VII,Noble Gas,Poor,14.38
+Devoid,Jayai,Labapi,Labapi VIII,Motley Compound,Rich,22.15
+Devoid,Jayai,Labapi,Labapi VIII,Coolant,Poor,10.30
+Devoid,Jayai,Labapi,Labapi VIII,Suspended Plasma,Medium,71.67
+Devoid,Jayai,Labapi,Labapi IX,Dark Compound,Medium,19.28
+Devoid,Jayai,Labapi,Labapi IX,Industrial Fibers,Poor,3.46
+Devoid,Jayai,Labapi,Labapi IX,Plasmoids,Poor,0.76
+Devoid,Jayai,Arayar,Arayar I,Gleaming Alloy,Rich,23.95
+Devoid,Jayai,Arayar,Arayar I,Noble Gas,Medium,21.34
+Devoid,Jayai,Arayar,Arayar II,Dark Compound,Poor,13.94
+Devoid,Jayai,Arayar,Arayar II,Industrial Fibers,Medium,5.23
+Devoid,Jayai,Arayar,Arayar II,Oxygen Isotopes,Poor,1.67
+Devoid,Jayai,Arayar,Arayar III,Glossy Compound,Rich,25.21
+Devoid,Jayai,Arayar,Arayar III,Noble Gas,Medium,21.03
+Devoid,Jayai,Arayar,Arayar IV,Base Metals,Medium,5.33
+Devoid,Jayai,Arayar,Arayar IV,Industrial Fibers,Medium,4.70
+Devoid,Jayai,Arayar,Arayar IV,Construction Blocks,Medium,16.61
+Devoid,Jayai,Arayar,Arayar V,Toxic Metals,Medium,4.33
+Devoid,Jayai,Arayar,Arayar V,Construction Blocks,Medium,18.43
+Devoid,Jayai,Arayar,Arayar V,Oxygen Isotopes,Medium,2.86
+Devoid,Jayai,Arayar,Arayar VI,Noble Gas,Medium,16.66
+Devoid,Jayai,Arayar,Arayar VI,Base Metals,Rich,6.95
+Devoid,Jayai,Arayar,Arayar VI,Reactive Metals,Rich,6.40
+Devoid,Jayai,Arayar,Arayar VI,Ionic Solutions,Rich,10.66
+Devoid,Jayai,Arayar,Arayar VII,Lustering Alloy,Rich,24.07
+Devoid,Jayai,Arayar,Arayar VII,Noble Gas,Medium,20.30
+Devoid,Jayai,Arayar,Arayar VII,Reactive Metals,Perfect,7.22
+Devoid,Jayai,Arayar,Arayar VII,Ionic Solutions,Rich,9.75
+Devoid,Jayai,Arayar,Arayar VIII,Noble Gas,Rich,23.04
+Devoid,Jayai,Arayar,Arayar VIII,Base Metals,Rich,6.59
+Devoid,Jayai,Arayar,Arayar VIII,Polyaramids,Rich,16.81
+Devoid,Jayai,Arayar,Arayar VIII,Coolant,Rich,15.37
+Devoid,Jayai,Arayar,Arayar IX,Precious Alloy,Poor,15.64
+Devoid,Jayai,Arayar,Arayar IX,Motley Compound,Rich,22.56
+Devoid,Jayai,Arayar,Arayar IX,Coolant,Poor,9.19
+Devoid,Jayai,Arayar,Arayar X,Noble Gas,Perfect,27.49
+Devoid,Jayai,Arayar,Arayar X,Polyaramids,Poor,9.62
+Devoid,Jayai,Asghed,Asghed I,Lustering Alloy,Medium,20.38
+Devoid,Jayai,Asghed,Asghed I,Industrial Fibers,Poor,3.45
+Devoid,Jayai,Asghed,Asghed I,Silicate Glass,Medium,9.11
+Devoid,Jayai,Asghed,Asghed II,Gleaming Alloy,Poor,15.40
+Devoid,Jayai,Asghed,Asghed II,Lucent Compound,Poor,13.80
+Devoid,Jayai,Asghed,Asghed II,Construction Blocks,Rich,24.02
+Devoid,Jayai,Asghed,Asghed III,Condensed Alloy,Medium,17.68
+Devoid,Jayai,Asghed,Asghed III,Fiber Composite,Perfect,29.21
+Devoid,Jayai,Asghed,Asghed III,Industrial Fibers,Medium,4.24
+Devoid,Jayai,Asghed,Asghed III,Smartfab Units,Medium,13.18
+Devoid,Jayai,Asghed,Asghed IV,Sheen Compound,Rich,22.98
+Devoid,Jayai,Asghed,Asghed IV,Noble Gas,Poor,15.61
+Devoid,Jayai,Asghed,Asghed IV,Base Metals,Perfect,7.32
+Devoid,Jayai,Asghed,Asghed IV,Reactive Metals,Medium,4.71
+Devoid,Jayai,Asghed,Asghed V,Dark Compound,Medium,17.68
+Devoid,Jayai,Asghed,Asghed V,Industrial Fibers,Poor,3.18
+Devoid,Jayai,Asghed,Asghed V,Silicate Glass,Medium,9.69
+Devoid,Jayai,Asghed,Asghed VI,Fiber Composite,Poor,15.38
+Devoid,Jayai,Asghed,Asghed VI,Noble Gas,Medium,20.18
+Devoid,Jayai,Asghed,Asghed VI,Base Metals,Poor,4.04
+Devoid,Jayai,Asghed,Asghed VI,Reactive Metals,Rich,6.95
+Devoid,Jayai,Asghed,Asghed VII,Sheen Compound,Medium,17.80
+Devoid,Jayai,Asghed,Asghed VII,Fiber Composite,Medium,20.88
+Devoid,Jayai,Asghed,Asghed VII,Reactive Gas,Poor,15.23
+Devoid,Jayai,Asghed,Asghed VII,Noble Gas,Medium,21.08
+Devoid,Jayai,Tararan,Tararan I,Noble Gas,Perfect,30.07
+Devoid,Jayai,Tararan,Tararan I,Reactive Metals,Rich,6.63
+Devoid,Jayai,Tararan,Tararan I,Nanites,Medium,5.10
+Devoid,Jayai,Tararan,Tararan I,Suspended Plasma,Rich,86.60
+Devoid,Jayai,Tararan,Tararan II,Precious Alloy,Poor,10.71
+Devoid,Jayai,Tararan,Tararan II,Industrial Fibers,Medium,4.30
+Devoid,Jayai,Tararan,Tararan II,Silicate Glass,Medium,9.10
+Devoid,Jayai,Tararan,Tararan III,Noble Metals,Rich,21.81
+Devoid,Jayai,Tararan,Tararan III,Coolant,Medium,14.26
+Devoid,Jayai,Tararan,Tararan III,Liquid Ozone,Rich,29.20
+Devoid,Jayai,Tararan,Tararan III,Ionic Solutions,Rich,10.13
+Devoid,Jayai,Tararan,Tararan IV,Dark Compound,Medium,16.80
+Devoid,Jayai,Tararan,Tararan IV,Industrial Fibers,Medium,5.24
+Devoid,Jayai,Tararan,Tararan IV,Plasmoids,Poor,0.80
+Devoid,Jayai,Tararan,Tararan V,Reactive Gas,Rich,21.54
+Devoid,Jayai,Tararan,Tararan V,Noble Gas,Medium,18.77
+Devoid,Jayai,Tararan,Tararan V,Polyaramids,Perfect,18.69
+Devoid,Jayai,Tararan,Tararan V,Coolant,Rich,17.77
+Devoid,Jayai,Tararan,Tararan VI,Glossy Compound,Rich,22.64
+Devoid,Jayai,Tararan,Tararan VI,Noble Gas,Medium,18.22
+Devoid,Jayai,Tararan,Tararan VI,Base Metals,Poor,3.92
+Devoid,Jayai,Tararan,Tararan VI,Coolant,Rich,15.50
+Devoid,Jayai,Tararan,Tararan VII,Lustering Alloy,Perfect,27.51
+Devoid,Jayai,Tararan,Tararan VII,Noble Gas,Rich,22.24
+Devoid,Jayai,Tararan,Tararan VII,Reactive Metals,Rich,6.39
+Devoid,Jayai,Tararan,Tararan VII,Polyaramids,Poor,10.31
+Devoid,Jayai,Tararan,Tararan VIII,Noble Gas,Rich,23.10
+Devoid,Jayai,Tararan,Tararan VIII,Reactive Metals,Poor,3.78
+Devoid,Jayai,Tararan,Tararan VIII,Coolant,Rich,15.96
+Devoid,Jayai,Tararan,Tararan VIII,Ionic Solutions,Medium,8.23
+Devoid,Jayai,Tararan,Tararan IX,Toxic Metals,Poor,3.69
+Devoid,Jayai,Tararan,Tararan IX,Industrial Fibers,Poor,3.49
+Devoid,Jayai,Tararan,Tararan IX,Oxygen Isotopes,Poor,1.68
+Devoid,Jayai,Sosan,Sosan I,Gleaming Alloy,Perfect,27.68
+Devoid,Jayai,Sosan,Sosan I,Reactive Gas,Rich,24.09
+Devoid,Jayai,Sosan,Sosan I,Construction Blocks,Perfect,27.13
+Devoid,Jayai,Sosan,Sosan II,Lustering Alloy,Poor,11.05
+Devoid,Jayai,Sosan,Sosan II,Toxic Metals,Poor,2.94
+Devoid,Jayai,Sosan,Sosan II,Industrial Fibers,Poor,3.03
+Devoid,Jayai,Sosan,Sosan III,Fiber Composite,Rich,23.83
+Devoid,Jayai,Sosan,Sosan III,Reactive Gas,Medium,17.00
+Devoid,Jayai,Sosan,Sosan III,Noble Gas,Medium,20.52
+Devoid,Jayai,Sosan,Sosan III,Reactive Metals,Rich,6.47
+Devoid,Jayai,Sosan,Sosan IV,Reactive Gas,Poor,15.40
+Devoid,Jayai,Sosan,Sosan IV,Noble Gas,Medium,17.31
+Devoid,Jayai,Sosan,Sosan IV,Coolant,Rich,16.57
+Devoid,Jayai,Sosan,Sosan IV,Ionic Solutions,Medium,7.51
+Devoid,Jayai,Sosan,Sosan V,Sheen Compound,Rich,25.62
+Devoid,Jayai,Sosan,Sosan V,Noble Gas,Medium,17.90
+Devoid,Jayai,Sosan,Sosan V,Polyaramids,Medium,13.52
+Devoid,Jayai,Sosan,Sosan V,Ionic Solutions,Medium,7.75
+Devoid,Jayai,Sosan,Sosan VI,Glossy Compound,Medium,16.20
+Devoid,Jayai,Sosan,Sosan VI,Reactive Gas,Rich,24.75
+Devoid,Jayai,Sosan,Sosan VI,Noble Gas,Medium,20.08
+Devoid,Jayai,Sosan,Sosan VI,Base Metals,Poor,3.74
+Devoid,Jayai,Sosan,Sosan VII,Toxic Metals,Medium,5.06
+Devoid,Jayai,Sosan,Sosan VII,Industrial Fibers,Poor,2.94
+Devoid,Jayai,Sosan,Sosan VII,Construction Blocks,Medium,18.11
+Devoid,Jayai,Halmah,Halmah I,Fiber Composite,Rich,21.20
+Devoid,Jayai,Halmah,Halmah I,Glossy Compound,Medium,16.66
+Devoid,Jayai,Halmah,Halmah I,Reactive Gas,Medium,16.61
+Devoid,Jayai,Halmah,Halmah I,Noble Gas,Rich,23.01
+Devoid,Jayai,Halmah,Halmah II,Noble Gas,Poor,14.10
+Devoid,Jayai,Halmah,Halmah II,Base Metals,Medium,4.30
+Devoid,Jayai,Halmah,Halmah II,Polyaramids,Rich,13.87
+Devoid,Jayai,Halmah,Halmah II,Ionic Solutions,Poor,5.43
+Devoid,Jayai,Halmah,Halmah III,Supertensile Plastics,Rich,16.06
+Devoid,Jayai,Halmah,Halmah III,Construction Blocks,Medium,19.68
+Devoid,Jayai,Halmah,Halmah III,Nanites,Medium,4.90
+Devoid,Jayai,Halmah,Halmah IV,Precious Alloy,Medium,15.98
+Devoid,Jayai,Halmah,Halmah IV,Industrial Fibers,Rich,5.81
+Devoid,Jayai,Halmah,Halmah IV,Coolant,Medium,12.98
+Devoid,Kabo,Rahadalon,Rahadalon I,Lustering Alloy,Poor,12.14
+Devoid,Kabo,Rahadalon,Rahadalon I,Industrial Fibers,Poor,3.91
+Devoid,Kabo,Rahadalon,Rahadalon I,Construction Blocks,Poor,13.65
+Devoid,Kabo,Rahadalon,Rahadalon II,Industrial Fibers,Medium,5.19
+Devoid,Kabo,Rahadalon,Rahadalon II,Construction Blocks,Poor,13.53
+Devoid,Kabo,Rahadalon,Rahadalon II,Silicate Glass,Poor,7.66
+Devoid,Kabo,Rahadalon,Rahadalon III,Condensed Alloy,Rich,25.04
+Devoid,Kabo,Rahadalon,Rahadalon III,Fiber Composite,Medium,21.22
+Devoid,Kabo,Rahadalon,Rahadalon III,Industrial Fibers,Rich,6.46
+Devoid,Kabo,Rahadalon,Rahadalon III,Liquid Ozone,Rich,28.48
+Devoid,Kabo,Rahadalon,Rahadalon IV,Condensed Alloy,Perfect,28.29
+Devoid,Kabo,Rahadalon,Rahadalon IV,Fiber Composite,Medium,17.36
+Devoid,Kabo,Rahadalon,Rahadalon IV,Reactive Gas,Rich,24.51
+Devoid,Kabo,Rahadalon,Rahadalon IV,Industrial Fibers,Medium,4.66
+Devoid,Kabo,Rahadalon,Rahadalon V,Reactive Gas,Perfect,27.06
+Devoid,Kabo,Rahadalon,Rahadalon V,Noble Gas,Poor,14.88
+Devoid,Kabo,Rahadalon,Rahadalon V,Base Metals,Rich,7.10
+Devoid,Kabo,Rahadalon,Rahadalon V,Coolant,Medium,13.74
+Devoid,Kabo,Rahadalon,Rahadalon VI,Toxic Metals,Poor,3.98
+Devoid,Kabo,Rahadalon,Rahadalon VI,Supertensile Plastics,Poor,10.48
+Devoid,Kabo,Rahadalon,Rahadalon VI,Construction Blocks,Poor,15.67
+Devoid,Kabo,Rahadalon,Rahadalon VII,Fiber Composite,Medium,17.00
+Devoid,Kabo,Rahadalon,Rahadalon VII,Glossy Compound,Poor,15.83
+Devoid,Kabo,Rahadalon,Rahadalon VII,Noble Gas,Medium,20.42
+Devoid,Kabo,Rahadalon,Rahadalon VII,Ionic Solutions,Rich,8.78
+Devoid,Kabo,Rahadalon,Rahadalon VIII,Fiber Composite,Rich,24.51
+Devoid,Kabo,Rahadalon,Rahadalon VIII,Glossy Compound,Rich,25.40
+Devoid,Kabo,Rahadalon,Rahadalon VIII,Noble Gas,Medium,19.43
+Devoid,Kabo,Rahadalon,Rahadalon VIII,Ionic Solutions,Medium,7.63
+Devoid,Kabo,Rahadalon,Rahadalon IX,Reactive Metals,Rich,6.59
+Devoid,Kabo,Rahadalon,Rahadalon IX,Supertensile Plastics,Poor,9.98
+Devoid,Kabo,Rahadalon,Rahadalon IX,Construction Blocks,Medium,20.48
+Devoid,Kabo,Soosat,Soosat I,Dark Compound,Medium,19.13
+Devoid,Kabo,Soosat,Soosat I,Base Metals,Poor,3.94
+Devoid,Kabo,Soosat,Soosat I,Industrial Fibers,Medium,5.31
+Devoid,Kabo,Soosat,Soosat II,Lucent Compound,Rich,26.06
+Devoid,Kabo,Soosat,Soosat II,Condensates,Medium,11.95
+Devoid,Kabo,Soosat,Soosat II,Nanites,Rich,6.07
+Devoid,Kabo,Soosat,Soosat II,Plasmoids,Rich,1.40
+Devoid,Kabo,Soosat,Soosat III,Noble Gas,Rich,22.12
+Devoid,Kabo,Soosat,Soosat III,Heavy Metals,Rich,21.79
+Devoid,Kabo,Soosat,Soosat IV,Base Metals,Medium,5.06
+Devoid,Kabo,Soosat,Soosat IV,Toxic Metals,Medium,5.05
+Devoid,Kabo,Soosat,Soosat IV,Industrial Fibers,Medium,5.44
+Devoid,Kabo,Soosat,Soosat V,Lustering Alloy,Rich,24.19
+Devoid,Kabo,Soosat,Soosat V,Noble Gas,Rich,23.68
+Devoid,Kabo,Soosat,Soosat V,Base Metals,Medium,5.02
+Devoid,Kabo,Soosat,Soosat V,Reactive Metals,Rich,5.76
+Devoid,Kabo,Soosat,Soosat VI,Sheen Compound,Rich,26.88
+Devoid,Kabo,Soosat,Soosat VI,Fiber Composite,Poor,14.65
+Devoid,Kabo,Soosat,Soosat VI,Noble Gas,Medium,17.59
+Devoid,Kabo,Soosat,Soosat VI,Base Metals,Medium,4.38
+Devoid,Kabo,Soosat,Soosat VII,Glossy Compound,Rich,21.71
+Devoid,Kabo,Soosat,Soosat VII,Noble Gas,Medium,20.43
+Devoid,Kabo,Soosat,Soosat VII,Reactive Metals,Rich,6.03
+Devoid,Kabo,Soosat,Soosat VII,Ionic Solutions,Rich,9.05
+Devoid,Kabo,Soosat,Soosat VIII,Lustering Alloy,Rich,23.92
+Devoid,Kabo,Soosat,Soosat VIII,Sheen Compound,Rich,22.41
+Devoid,Kabo,Soosat,Soosat VIII,Noble Gas,Rich,22.08
+Devoid,Kabo,Soosat,Soosat VIII,Coolant,Medium,13.40
+Devoid,Kabo,Soosat,Soosat IX,Glossy Compound,Rich,26.37
+Devoid,Kabo,Soosat,Soosat IX,Noble Gas,Medium,19.16
+Devoid,Kabo,Soosat,Soosat IX,Polyaramids,Rich,15.28
+Devoid,Kabo,Soosat,Soosat IX,Ionic Solutions,Medium,7.98
+Devoid,Kabo,Soosat,Soosat X,Sheen Compound,Rich,22.64
+Devoid,Kabo,Soosat,Soosat X,Glossy Compound,Rich,26.61
+Devoid,Kabo,Soosat,Soosat X,Noble Gas,Rich,21.57
+Devoid,Kabo,Soosat,Soosat X,Coolant,Medium,14.00
+Devoid,Kabo,Ibash,Ibash I,Precious Alloy,Poor,15.55
+Devoid,Kabo,Ibash,Ibash I,Industrial Fibers,Medium,5.54
+Devoid,Kabo,Ibash,Ibash I,Oxygen Isotopes,Poor,2.16
+Devoid,Kabo,Ibash,Ibash II,Toxic Metals,Medium,5.08
+Devoid,Kabo,Ibash,Ibash II,Construction Blocks,Rich,24.48
+Devoid,Kabo,Ibash,Ibash II,Nanites,Poor,4.07
+Devoid,Kabo,Ibash,Ibash III,Reactive Gas,Rich,27.18
+Devoid,Kabo,Ibash,Ibash III,Construction Blocks,Rich,24.53
+Devoid,Kabo,Ibash,Ibash III,Nanites,Rich,6.27
+Devoid,Kabo,Ibash,Ibash IV,Condensed Alloy,Perfect,30.94
+Devoid,Kabo,Ibash,Ibash IV,Fiber Composite,Rich,25.74
+Devoid,Kabo,Ibash,Ibash IV,Reactive Gas,Perfect,29.14
+Devoid,Kabo,Ibash,Ibash IV,Liquid Ozone,Medium,23.87
+Devoid,Kabo,Ibash,Ibash V,Fiber Composite,Rich,25.49
+Devoid,Kabo,Ibash,Ibash V,Noble Gas,Medium,19.39
+Devoid,Kabo,Ibash,Ibash V,Coolant,Medium,14.98
+Devoid,Kabo,Ibash,Ibash V,Ionic Solutions,Rich,9.75
+Devoid,Kabo,Ibash,Ibash VI,Toxic Metals,Medium,5.50
+Devoid,Kabo,Ibash,Ibash VI,Industrial Fibers,Poor,3.54
+Devoid,Kabo,Ibash,Ibash VI,Silicate Glass,Poor,7.68
+Devoid,Kabo,Itsyamil,Itsyamil I,Crystal Compound,Rich,26.87
+Devoid,Kabo,Itsyamil,Itsyamil I,Construction Blocks,Rich,24.89
+Devoid,Kabo,Itsyamil,Itsyamil I,Suspended Plasma,Medium,73.81
+Devoid,Kabo,Itsyamil,Itsyamil II,Precious Alloy,Poor,14.11
+Devoid,Kabo,Itsyamil,Itsyamil II,Base Metals,Poor,4.01
+Devoid,Kabo,Itsyamil,Itsyamil II,Industrial Fibers,Poor,3.93
+Devoid,Kabo,Itsyamil,Itsyamil III,Base Metals,Poor,3.82
+Devoid,Kabo,Itsyamil,Itsyamil III,Toxic Metals,Medium,4.89
+Devoid,Kabo,Itsyamil,Itsyamil III,Industrial Fibers,Medium,4.49
+Devoid,Kabo,Itsyamil,Itsyamil IV,Fiber Composite,Medium,21.49
+Devoid,Kabo,Itsyamil,Itsyamil IV,Base Metals,Poor,4.39
+Devoid,Kabo,Itsyamil,Itsyamil IV,Noble Metals,Rich,23.53
+Devoid,Kabo,Itsyamil,Itsyamil IV,Liquid Ozone,Perfect,37.08
+Devoid,Kabo,Itsyamil,Itsyamil V,Opulent Compound,Perfect,31.50
+Devoid,Kabo,Itsyamil,Itsyamil V,Toxic Metals,Rich,6.79
+Devoid,Kabo,Itsyamil,Itsyamil V,Coolant,Medium,14.09
+Devoid,Kabo,Itsyamil,Itsyamil V,Liquid Ozone,Medium,26.98
+Devoid,Kabo,Itsyamil,Itsyamil VI,Sheen Compound,Medium,18.31
+Devoid,Kabo,Itsyamil,Itsyamil VI,Reactive Gas,Rich,25.20
+Devoid,Kabo,Itsyamil,Itsyamil VI,Noble Gas,Rich,27.63
+Devoid,Kabo,Itsyamil,Itsyamil VI,Ionic Solutions,Rich,10.72
+Devoid,Kabo,Itsyamil,Itsyamil VII,Industrial Fibers,Medium,4.98
+Devoid,Kabo,Itsyamil,Itsyamil VII,Silicate Glass,Poor,8.45
+Devoid,Kabo,Itsyamil,Itsyamil VII,Plasmoids,Medium,1.16
+Devoid,Kabo,Itsyamil,Itsyamil VIII,Industrial Fibers,Poor,4.11
+Devoid,Kabo,Itsyamil,Itsyamil VIII,Supertensile Plastics,Medium,13.07
+Devoid,Kabo,Itsyamil,Itsyamil VIII,Plasmoids,Poor,1.00
+Devoid,Kabo,Itsyamil,Itsyamil IX,Noble Gas,Rich,26.28
+Devoid,Kabo,Itsyamil,Itsyamil IX,Base Metals,Medium,4.48
+Devoid,Kabo,Itsyamil,Itsyamil IX,Polyaramids,Rich,16.60
+Devoid,Kabo,Itsyamil,Itsyamil IX,Ionic Solutions,Poor,6.60
+Devoid,Kabo,Itsyamil,Itsyamil X,Industrial Fibers,Poor,3.78
+Devoid,Kabo,Itsyamil,Itsyamil X,Construction Blocks,Poor,12.44
+Devoid,Kabo,Itsyamil,Itsyamil X,Oxygen Isotopes,Medium,2.75
+Devoid,Kabo,Mendori,Mendori I,Lustering Alloy,Medium,17.50
+Devoid,Kabo,Mendori,Mendori I,Base Metals,Medium,4.58
+Devoid,Kabo,Mendori,Mendori II,Lustering Alloy,Medium,17.36
+Devoid,Kabo,Mendori,Mendori II,Base Metals,Medium,4.23
+Devoid,Kabo,Mendori,Mendori III,Motley Compound,Perfect,24.52
+Devoid,Kabo,Mendori,Mendori III,Oxygen Isotopes,Medium,2.26
+Devoid,Kabo,Mendori,Mendori IV,Industrial Fibers,Perfect,6.66
+Devoid,Kabo,Mendori,Mendori IV,Condensates,Medium,10.92
+Devoid,Kabo,Mendori,Mendori IV,Heavy Water,Medium,149.70
+Devoid,Kabo,Mendori,Mendori V,Lustering Alloy,Poor,9.59
+Devoid,Kabo,Mendori,Mendori V,Base Metals,Poor,2.52
+Devoid,Kabo,Mendori,Mendori VI,Lustering Alloy,Poor,11.61
+Devoid,Kabo,Mendori,Mendori VI,Base Metals,Medium,4.02
+Devoid,Kabo,Mendori,Mendori VII,Lucent Compound,Poor,13.05
+Devoid,Kabo,Mendori,Mendori VII,Suspended Plasma,Rich,84.02
+Devoid,Kabo,Mendori,Mendori VIII,Lustering Alloy,Medium,15.72
+Devoid,Kabo,Mendori,Mendori VIII,Base Metals,Medium,4.40
+Devoid,Kabo,Mendori,Mendori IX,Lustering Alloy,Rich,22.16
+Devoid,Kabo,Mendori,Mendori IX,Base Metals,Rich,5.06
+Devoid,Kabo,Mendori,Mendori IX,Polyaramids,Perfect,16.16
+Devoid,Kabo,Mendori,Mendori X,Opulent Compound,Rich,19.43
+Devoid,Kabo,Mendori,Mendori X,Base Metals,Medium,4.29
+Devoid,Kabo,Mendori,Mendori X,Heavy Water,Medium,181.50
+Devoid,Kabo,Mendori,Mendori XI,Condensed Alloy,Rich,22.65
+Devoid,Kabo,Mendori,Mendori XI,Noble Metals,Medium,17.01
+Devoid,Kabo,Mendori,Mendori XI,Heavy Water,Perfect,255.90
+Devoid,Kabo,Ussad,Ussad I,Noble Gas,Poor,17.02
+Devoid,Kabo,Ussad,Ussad I,Oxygen Isotopes,Medium,3.34
+Devoid,Kabo,Ussad,Ussad II,Gleaming Alloy,Medium,23.41
+Devoid,Kabo,Ussad,Ussad II,Crystal Compound,Perfect,30.95
+Devoid,Kabo,Ussad,Ussad II,Construction Blocks,Poor,15.77
+Devoid,Kabo,Ussad,Ussad III,Fiber Composite,Rich,24.55
+Devoid,Kabo,Ussad,Ussad III,Opulent Compound,Perfect,32.07
+Devoid,Kabo,Ussad,Ussad III,Heavy Water,Perfect,359.29
+Devoid,Kabo,Ussad,Ussad III,Liquid Ozone,Perfect,39.92
+Devoid,Kabo,Ussad,Ussad IV,Glossy Compound,Perfect,30.46
+Devoid,Kabo,Ussad,Ussad IV,Noble Gas,Rich,29.16
+Devoid,Kabo,Ussad,Ussad IV,Base Metals,Medium,6.13
+Devoid,Kabo,Ussad,Ussad IV,Ionic Solutions,Rich,11.97
+Devoid,Kabo,Ussad,Ussad V,Glossy Compound,Perfect,31.46
+Devoid,Kabo,Ussad,Ussad V,Noble Gas,Medium,18.96
+Devoid,Kabo,Ussad,Ussad V,Base Metals,Poor,4.10
+Devoid,Kabo,Ussad,Ussad V,Ionic Solutions,Rich,11.01
+Devoid,Kabo,Ussad,Ussad VI,Sheen Compound,Medium,20.33
+Devoid,Kabo,Ussad,Ussad VI,Glossy Compound,Medium,22.57
+Devoid,Kabo,Ussad,Ussad VI,Noble Gas,Rich,26.05
+Devoid,Kabo,Ussad,Ussad VI,Ionic Solutions,Rich,11.35
+Devoid,Kabo,Ussad,Ussad VII,Lustering Alloy,Medium,21.74
+Devoid,Kabo,Ussad,Ussad VII,Fiber Composite,Medium,19.87
+Devoid,Kabo,Ussad,Ussad VII,Reactive Gas,Rich,29.37
+Devoid,Kabo,Ussad,Ussad VII,Noble Gas,Medium,19.53
+Devoid,Kabo,Ussad,Ussad VIII,Heavy Metals,Poor,16.47
+Devoid,Kabo,Ussad,Ussad VIII,Coolant,Poor,11.69
+Devoid,Kabo,Ussad,Ussad VIII,Suspended Plasma,Poor,51.85
+Devoid,Kabo,Ussad,Ussad IX,Lucent Compound,Medium,18.03
+Devoid,Kabo,Ussad,Ussad IX,Reactive Gas,Medium,22.19
+Devoid,Kabo,Ussad,Ussad IX,Construction Blocks,Medium,21.53
+Devoid,Daredan,Nakatre,Nakatre I,Motley Compound,Medium,17.71
+Devoid,Daredan,Nakatre,Nakatre I,Plasmoids,Poor,0.81
+Devoid,Daredan,Nakatre,Nakatre II,Lustering Alloy,Medium,18.20
+Devoid,Daredan,Nakatre,Nakatre II,Base Metals,Poor,3.19
+Devoid,Daredan,Nakatre,Nakatre III,Lustering Alloy,Medium,16.05
+Devoid,Daredan,Nakatre,Nakatre III,Base Metals,Medium,4.48
+Devoid,Daredan,Nakatre,Nakatre IV,Condensed Alloy,Perfect,27.11
+Devoid,Daredan,Nakatre,Nakatre IV,Base Metals,Rich,5.14
+Devoid,Daredan,Nakatre,Nakatre IV,Heavy Water,Perfect,262.05
+Devoid,Daredan,Nakatre,Nakatre V,Lustering Alloy,Poor,10.37
+Devoid,Daredan,Nakatre,Nakatre V,Base Metals,Poor,2.47
+Devoid,Daredan,Nakatre,Nakatre VI,Lustering Alloy,Rich,23.68
+Devoid,Daredan,Nakatre,Nakatre VI,Noble Gas,Rich,20.88
+Devoid,Daredan,Nakatre,Nakatre VI,Base Metals,Medium,4.63
+Devoid,Daredan,Nakatre,Nakatre VII,Base Metals,Perfect,6.62
+Devoid,Daredan,Nakatre,Nakatre VII,Condensates,Medium,12.03
+Devoid,Daredan,Nakatre,Nakatre VII,Heavy Water,Medium,187.35
+Devoid,Daredan,Nakatre,Nakatre VIII,Lustering Alloy,Rich,21.69
+Devoid,Daredan,Nakatre,Nakatre VIII,Reactive Gas,Medium,14.96
+Devoid,Daredan,Nakatre,Nakatre VIII,Base Metals,Medium,3.87
+Devoid,Daredan,Nakatre,Nakatre IX,Condensed Alloy,Medium,14.67
+Devoid,Daredan,Nakatre,Nakatre IX,Heavy Water,Medium,171.45
+Devoid,Daredan,Nakatre,Nakatre IX,Liquid Ozone,Poor,16.67
+Devoid,Daredan,Laddiaha,Laddiaha I,Lustering Alloy,Poor,8.98
+Devoid,Daredan,Laddiaha,Laddiaha I,Base Metals,Poor,2.20
+Devoid,Daredan,Laddiaha,Laddiaha II,Lustering Alloy,Poor,8.66
+Devoid,Daredan,Laddiaha,Laddiaha II,Base Metals,Poor,2.52
+Devoid,Daredan,Laddiaha,Laddiaha III,Lustering Alloy,Medium,13.83
+Devoid,Daredan,Laddiaha,Laddiaha III,Base Metals,Medium,4.04
+Devoid,Daredan,Laddiaha,Laddiaha IV,Gleaming Alloy,Medium,16.26
+Devoid,Daredan,Laddiaha,Laddiaha IV,Suspended Plasma,Medium,52.79
+Devoid,Daredan,Laddiaha,Laddiaha V,Lustering Alloy,Medium,12.26
+Devoid,Daredan,Laddiaha,Laddiaha V,Base Metals,Poor,2.91
+Devoid,Daredan,Laddiaha,Laddiaha V,Coolant,Rich,13.07
+Devoid,Daredan,Laddiaha,Laddiaha VI,Lustering Alloy,Medium,13.31
+Devoid,Daredan,Laddiaha,Laddiaha VI,Noble Gas,Rich,20.01
+Devoid,Daredan,Laddiaha,Laddiaha VI,Base Metals,Rich,4.86
+Devoid,Daredan,Laddiaha,Laddiaha VII,Lustering Alloy,Rich,18.36
+Devoid,Daredan,Laddiaha,Laddiaha VII,Sheen Compound,Rich,19.79
+Devoid,Daredan,Laddiaha,Laddiaha VII,Base Metals,Rich,4.84
+Devoid,Daredan,Hakshma,Hakshma I,Lustering Alloy,Poor,12.60
+Devoid,Daredan,Hakshma,Hakshma I,Base Metals,Medium,4.74
+Devoid,Daredan,Hakshma,Hakshma II,Reactive Gas,Medium,17.39
+Devoid,Daredan,Hakshma,Hakshma II,Suspended Plasma,Rich,73.17
+Devoid,Daredan,Hakshma,Hakshma III,Lustering Alloy,Medium,18.41
+Devoid,Daredan,Hakshma,Hakshma III,Base Metals,Poor,3.14
+Devoid,Daredan,Hakshma,Hakshma IV,Suspended Plasma,Rich,70.04
+Devoid,Daredan,Hakshma,Hakshma IV,Oxygen Isotopes,Poor,1.93
+Devoid,Daredan,Hakshma,Hakshma V,Lustering Alloy,Poor,12.27
+Devoid,Daredan,Hakshma,Hakshma V,Base Metals,Poor,3.08
+Devoid,Daredan,Hakshma,Hakshma VI,Condensed Alloy,Medium,14.93
+Devoid,Daredan,Hakshma,Hakshma VI,Noble Metals,Medium,15.96
+Devoid,Daredan,Hakshma,Hakshma VI,Heavy Water,Medium,183.45
+Devoid,Daredan,Hakshma,Hakshma VII,Lustering Alloy,Medium,15.73
+Devoid,Daredan,Hakshma,Hakshma VII,Base Metals,Rich,6.09
+Devoid,Daredan,Hakshma,Hakshma VII,Polyaramids,Rich,14.27
+Devoid,Daredan,Hakshma,Hakshma VIII,Lustering Alloy,Rich,20.48
+Devoid,Daredan,Hakshma,Hakshma VIII,Noble Gas,Poor,12.60
+Devoid,Daredan,Hakshma,Hakshma VIII,Base Metals,Medium,3.92
+Devoid,Daredan,Hakshma,Hakshma IX,Lustering Alloy,Rich,20.93
+Devoid,Daredan,Hakshma,Hakshma IX,Base Metals,Perfect,6.39
+Devoid,Daredan,Hakshma,Hakshma IX,Polyaramids,Rich,13.14
+Devoid,Daredan,Hakshma,Hakshma X,Lustering Alloy,Rich,21.09
+Devoid,Daredan,Hakshma,Hakshma X,Base Metals,Medium,4.39
+Devoid,Daredan,Uadelah,Uadelah I,Lustering Alloy,Poor,11.02
+Devoid,Daredan,Uadelah,Uadelah I,Base Metals,Poor,1.96
+Devoid,Daredan,Uadelah,Uadelah II,Lustering Alloy,Medium,14.69
+Devoid,Daredan,Uadelah,Uadelah II,Base Metals,Poor,2.77
+Devoid,Daredan,Uadelah,Uadelah III,Opulent Compound,Rich,19.04
+Devoid,Daredan,Uadelah,Uadelah III,Heavy Water,Rich,157.32
+Devoid,Daredan,Uadelah,Uadelah III,Liquid Ozone,Medium,18.02
+Devoid,Daredan,Uadelah,Uadelah IV,Dark Compound,Medium,12.12
+Devoid,Daredan,Uadelah,Uadelah IV,Reactive Metals,Medium,3.31
+Devoid,Daredan,Uadelah,Uadelah IV,Suspended Plasma,Rich,64.93
+Devoid,Daredan,Uadelah,Uadelah V,Reactive Gas,Perfect,20.14
+Devoid,Daredan,Uadelah,Uadelah V,Condensates,Perfect,13.73
+Devoid,Daredan,Uadelah,Uadelah V,Heavy Water,Perfect,222.96
+Devoid,Daredan,Uadelah,Uadelah VI,Supertensile Plastics,Rich,11.26
+Devoid,Daredan,Uadelah,Uadelah VI,Suspended Plasma,Medium,54.60
+Devoid,Daredan,Uadelah,Uadelah VII,Lustering Alloy,Medium,11.32
+Devoid,Daredan,Uadelah,Uadelah VII,Base Metals,Poor,2.69
+Devoid,Daredan,Uadelah,Uadelah VII,Polyaramids,Rich,11.93
+Devoid,Daredan,Uadelah,Uadelah VIII,Lustering Alloy,Poor,10.14
+Devoid,Daredan,Uadelah,Uadelah VIII,Reactive Gas,Medium,12.22
+Devoid,Daredan,Uadelah,Uadelah VIII,Base Metals,Poor,2.92
+Devoid,Daredan,Uadelah,Uadelah IX,Lustering Alloy,Rich,19.06
+Devoid,Daredan,Uadelah,Uadelah IX,Glossy Compound,Medium,13.68
+Devoid,Daredan,Uadelah,Uadelah IX,Base Metals,Medium,3.67
+Devoid,Daredan,Uadelah,Uadelah X,Lustering Alloy,Poor,9.48
+Devoid,Daredan,Uadelah,Uadelah X,Base Metals,Medium,3.91
+Devoid,Daredan,Akes,Akes I,Lustering Alloy,Poor,9.50
+Devoid,Daredan,Akes,Akes I,Base Metals,Medium,3.48
+Devoid,Daredan,Akes,Akes II,Gleaming Alloy,Poor,10.56
+Devoid,Daredan,Akes,Akes II,Motley Compound,Medium,11.70
+Devoid,Daredan,Akes,Akes III,Lustering Alloy,Poor,8.23
+Devoid,Daredan,Akes,Akes III,Base Metals,Poor,2.53
+Devoid,Daredan,Akes,Akes IV,Lustering Alloy,Poor,10.94
+Devoid,Daredan,Akes,Akes IV,Base Metals,Medium,3.62
+Devoid,Daredan,Akes,Akes V,Lustering Alloy,Rich,16.04
+Devoid,Daredan,Akes,Akes V,Base Metals,Medium,3.97
+Devoid,Daredan,Akes,Akes V,Polyaramids,Rich,10.51
+Devoid,Daredan,Akes,Akes VI,Lustering Alloy,Rich,16.08
+Devoid,Daredan,Akes,Akes VI,Reactive Gas,Poor,10.48
+Devoid,Daredan,Akes,Akes VI,Base Metals,Rich,4.75
+Devoid,Daredan,Akes,Akes VII,Lustering Alloy,Medium,11.36
+Devoid,Daredan,Akes,Akes VII,Base Metals,Perfect,5.05
+Devoid,Daredan,Akes,Akes VII,Reactive Metals,Rich,4.95
+Devoid,Daredan,Akes,Akes VIII,Lustering Alloy,Rich,18.60
+Devoid,Daredan,Akes,Akes VIII,Reactive Gas,Rich,17.69
+Devoid,Daredan,Akes,Akes VIII,Base Metals,Rich,4.27
+Devoid,Daredan,Akes,Akes IX,Lustering Alloy,Poor,7.92
+Devoid,Daredan,Akes,Akes IX,Base Metals,Poor,2.09
+Devoid,Daredan,Riavayed,Riavayed I,Gleaming Alloy,Rich,18.79
+Devoid,Daredan,Riavayed,Riavayed I,Motley Compound,Rich,18.96
+Devoid,Daredan,Riavayed,Riavayed II,Lustering Alloy,Medium,16.39
+Devoid,Daredan,Riavayed,Riavayed II,Base Metals,Poor,2.80
+Devoid,Daredan,Riavayed,Riavayed III,Lustering Alloy,Medium,14.91
+Devoid,Daredan,Riavayed,Riavayed III,Base Metals,Medium,3.72
+Devoid,Daredan,Riavayed,Riavayed IV,Lustering Alloy,Poor,12.22
+Devoid,Daredan,Riavayed,Riavayed IV,Base Metals,Poor,3.05
+Devoid,Daredan,Riavayed,Riavayed V,Lustering Alloy,Medium,14.15
+Devoid,Daredan,Riavayed,Riavayed V,Base Metals,Medium,4.21
+Devoid,Daredan,Riavayed,Riavayed VI,Lustering Alloy,Poor,9.88
+Devoid,Daredan,Riavayed,Riavayed VI,Base Metals,Medium,4.08
+Devoid,Daredan,Riavayed,Riavayed VII,Industrial Fibers,Medium,4.50
+Devoid,Daredan,Riavayed,Riavayed VII,Condensates,Perfect,15.32
+Devoid,Daredan,Riavayed,Riavayed VII,Heavy Water,Perfect,250.74
+Devoid,Daredan,Riavayed,Riavayed VIII,Lustering Alloy,Medium,17.57
+Devoid,Daredan,Riavayed,Riavayed VIII,Reactive Gas,Poor,12.03
+Devoid,Daredan,Riavayed,Riavayed VIII,Base Metals,Rich,5.78
+Devoid,Daredan,Riavayed,Riavayed IX,Lustering Alloy,Rich,19.43
+Devoid,Daredan,Riavayed,Riavayed IX,Fiber Composite,Rich,19.75
+Devoid,Daredan,Riavayed,Riavayed IX,Base Metals,Rich,5.01
+Devoid,Daredan,Riavayed,Riavayed X,Lustering Alloy,Medium,13.34
+Devoid,Daredan,Riavayed,Riavayed X,Base Metals,Poor,2.48
+Devoid,Daredan,Riavayed,Riavayed XI,Lustering Alloy,Poor,12.50
+Devoid,Daredan,Riavayed,Riavayed XI,Noble Gas,Rich,21.71
+Devoid,Daredan,Riavayed,Riavayed XI,Base Metals,Rich,5.53
+Devoid,Daredan,Riavayed,Riavayed XII,Lustering Alloy,Poor,10.61
+Devoid,Daredan,Riavayed,Riavayed XII,Base Metals,Medium,3.50
+Devoid,Daredan,Riavayed,Riavayed XIII,Lustering Alloy,Poor,9.00
+Devoid,Daredan,Riavayed,Riavayed XIII,Base Metals,Poor,3.46
+Devoid,Daredan,Hati,Hati I,Lustering Alloy,Medium,13.02
+Devoid,Daredan,Hati,Hati I,Base Metals,Poor,2.11
+Devoid,Daredan,Hati,Hati II,Lustering Alloy,Medium,11.78
+Devoid,Daredan,Hati,Hati II,Base Metals,Medium,3.60
+Devoid,Daredan,Hati,Hati III,Lustering Alloy,Medium,12.13
+Devoid,Daredan,Hati,Hati III,Base Metals,Poor,2.54
+Devoid,Daredan,Hati,Hati IV,Lustering Alloy,Medium,13.40
+Devoid,Daredan,Hati,Hati IV,Base Metals,Medium,3.32
+Devoid,Daredan,Hati,Hati V,Motley Compound,Rich,18.65
+Devoid,Daredan,Hati,Hati V,Plasmoids,Rich,1.05
+Devoid,Daredan,Hati,Hati VI,Lustering Alloy,Medium,13.81
+Devoid,Daredan,Hati,Hati VI,Base Metals,Poor,2.97
+Devoid,Daredan,Hati,Hati VII,Noble Metals,Medium,14.38
+Devoid,Daredan,Hati,Hati VII,Heavy Water,Medium,147.48
+Devoid,Daredan,Hati,Hati VII,Liquid Ozone,Medium,17.41
+Devoid,Daredan,Hati,Hati VIII,Fiber Composite,Medium,14.32
+Devoid,Daredan,Hati,Hati VIII,Heavy Water,Medium,132.12
+Devoid,Daredan,Hati,Hati VIII,Liquid Ozone,Perfect,26.43
+Devoid,Daredan,Hati,Hati IX,Condensed Alloy,Poor,11.14
+Devoid,Daredan,Hati,Hati IX,Reactive Gas,Medium,11.41
+Devoid,Daredan,Hati,Hati IX,Heavy Water,Rich,175.56
+Devoid,Abthi,Naeel,Naeel I,Toxic Metals,Medium,4.37
+Devoid,Abthi,Naeel,Naeel I,Suspended Plasma,Rich,71.33
+Devoid,Abthi,Naeel,Naeel II,Lustering Alloy,Poor,10.85
+Devoid,Abthi,Naeel,Naeel II,Base Metals,Poor,3.70
+Devoid,Abthi,Naeel,Naeel III,Lustering Alloy,Medium,16.43
+Devoid,Abthi,Naeel,Naeel III,Sheen Compound,Medium,18.16
+Devoid,Abthi,Naeel,Naeel III,Base Metals,Rich,5.64
+Devoid,Abthi,Naeel,Naeel IV,Lustering Alloy,Poor,13.89
+Devoid,Abthi,Naeel,Naeel IV,Fiber Composite,Poor,12.68
+Devoid,Abthi,Naeel,Naeel IV,Base Metals,Medium,4.12
+Devoid,Abthi,Naeel,Naeel V,Lustering Alloy,Medium,16.96
+Devoid,Abthi,Naeel,Naeel V,Base Metals,Poor,3.47
+Devoid,Abthi,Naeel,Naeel V,Polyaramids,Rich,15.35
+Devoid,Abthi,Naeel,Naeel VI,Lustering Alloy,Rich,19.96
+Devoid,Abthi,Naeel,Naeel VI,Base Metals,Medium,4.53
+Devoid,Abthi,Naeel,Naeel VI,Coolant,Poor,8.46
+Devoid,Abthi,Naeel,Naeel VII,Lustering Alloy,Poor,12.69
+Devoid,Abthi,Naeel,Naeel VII,Base Metals,Poor,2.61
+Devoid,Abthi,Lower Debyl,Lower Debyl I,Motley Compound,Medium,14.39
+Devoid,Abthi,Lower Debyl,Lower Debyl I,Smartfab Units,Rich,13.60
+Devoid,Abthi,Lower Debyl,Lower Debyl II,Lustering Alloy,Medium,14.87
+Devoid,Abthi,Lower Debyl,Lower Debyl II,Base Metals,Poor,3.45
+Devoid,Abthi,Lower Debyl,Lower Debyl III,Lustering Alloy,Medium,13.66
+Devoid,Abthi,Lower Debyl,Lower Debyl III,Base Metals,Poor,2.88
+Devoid,Abthi,Lower Debyl,Lower Debyl IV,Condensed Alloy,Perfect,22.50
+Devoid,Abthi,Lower Debyl,Lower Debyl IV,Noble Metals,Perfect,24.82
+Devoid,Abthi,Lower Debyl,Lower Debyl IV,Heavy Water,Perfect,233.80
+Devoid,Abthi,Lower Debyl,Lower Debyl V,Lustering Alloy,Poor,10.71
+Devoid,Abthi,Lower Debyl,Lower Debyl V,Base Metals,Medium,3.53
+Devoid,Abthi,Lower Debyl,Lower Debyl VI,Lustering Alloy,Poor,12.45
+Devoid,Abthi,Lower Debyl,Lower Debyl VI,Reactive Gas,Rich,20.29
+Devoid,Abthi,Lower Debyl,Lower Debyl VI,Base Metals,Medium,3.98
+Devoid,Abthi,Lower Debyl,Lower Debyl VII,Lustering Alloy,Medium,16.83
+Devoid,Abthi,Lower Debyl,Lower Debyl VII,Base Metals,Rich,5.49
+Devoid,Abthi,Lower Debyl,Lower Debyl VII,Reactive Metals,Medium,3.64
+Devoid,Abthi,Lower Debyl,Lower Debyl VIII,Lustering Alloy,Poor,13.08
+Devoid,Abthi,Lower Debyl,Lower Debyl VIII,Noble Gas,Medium,15.40
+Devoid,Abthi,Lower Debyl,Lower Debyl VIII,Base Metals,Medium,4.02
+Devoid,Abthi,Ehnoum,Ehnoum I,Lustering Alloy,Poor,11.78
+Devoid,Abthi,Ehnoum,Ehnoum I,Base Metals,Poor,3.22
+Devoid,Abthi,Ehnoum,Ehnoum II,Heavy Water,Medium,173.25
+Devoid,Abthi,Ehnoum,Ehnoum II,Liquid Ozone,Rich,26.93
+Devoid,Abthi,Ehnoum,Ehnoum II,Ionic Solutions,Perfect,9.97
+Devoid,Abthi,Ehnoum,Ehnoum III,Lustering Alloy,Poor,13.62
+Devoid,Abthi,Ehnoum,Ehnoum III,Base Metals,Poor,3.26
+Devoid,Abthi,Ehnoum,Ehnoum IV,Lustering Alloy,Medium,15.02
+Devoid,Abthi,Ehnoum,Ehnoum IV,Base Metals,Rich,5.69
+Devoid,Abthi,Ehnoum,Ehnoum IV,Reactive Metals,Medium,4.55
+Devoid,Abthi,Ehnoum,Ehnoum V,Lustering Alloy,Rich,19.70
+Devoid,Abthi,Ehnoum,Ehnoum V,Base Metals,Medium,4.82
+Devoid,Abthi,Ehnoum,Ehnoum V,Polyaramids,Perfect,15.99
+Devoid,Abthi,Ehnoum,Ehnoum VI,Lustering Alloy,Rich,19.82
+Devoid,Abthi,Ehnoum,Ehnoum VI,Noble Gas,Poor,13.90
+Devoid,Abthi,Ehnoum,Ehnoum VI,Base Metals,Poor,3.31
+Devoid,Abthi,Ehnoum,Ehnoum VII,Lustering Alloy,Medium,15.72
+Devoid,Abthi,Ehnoum,Ehnoum VII,Reactive Gas,Poor,13.28
+Devoid,Abthi,Ehnoum,Ehnoum VII,Base Metals,Medium,4.36
+Devoid,Abthi,Ehnoum,Ehnoum VIII,Lustering Alloy,Medium,14.43
+Devoid,Abthi,Ehnoum,Ehnoum VIII,Glossy Compound,Rich,19.82
+Devoid,Abthi,Ehnoum,Ehnoum VIII,Base Metals,Rich,5.13
+Devoid,Abthi,Upper Debyl,Upper Debyl I,Lustering Alloy,Medium,15.18
+Devoid,Abthi,Upper Debyl,Upper Debyl I,Base Metals,Poor,2.62
+Devoid,Abthi,Upper Debyl,Upper Debyl II,Motley Compound,Rich,19.73
+Devoid,Abthi,Upper Debyl,Upper Debyl II,Plasmoids,Medium,0.94
+Devoid,Abthi,Upper Debyl,Upper Debyl III,Lustering Alloy,Medium,13.87
+Devoid,Abthi,Upper Debyl,Upper Debyl III,Base Metals,Medium,3.74
+Devoid,Abthi,Upper Debyl,Upper Debyl IV,Motley Compound,Perfect,22.74
+Devoid,Abthi,Upper Debyl,Upper Debyl IV,Glossy Compound,Perfect,22.95
+Devoid,Abthi,Upper Debyl,Upper Debyl V,Opulent Compound,Perfect,23.37
+Devoid,Abthi,Upper Debyl,Upper Debyl V,Condensates,Poor,8.77
+Devoid,Abthi,Upper Debyl,Upper Debyl V,Heavy Water,Rich,190.82
+Devoid,Abthi,Upper Debyl,Upper Debyl VI,Industrial Fibers,Perfect,6.33
+Devoid,Abthi,Upper Debyl,Upper Debyl VI,Condensates,Perfect,16.37
+Devoid,Abthi,Upper Debyl,Upper Debyl VI,Heavy Water,Medium,160.30
+Devoid,Abthi,Upper Debyl,Upper Debyl VII,Noble Metals,Rich,18.42
+Devoid,Abthi,Upper Debyl,Upper Debyl VII,Polyaramids,Medium,10.80
+Devoid,Abthi,Upper Debyl,Upper Debyl VII,Heavy Water,Medium,145.18
+Devoid,Abthi,Upper Debyl,Upper Debyl VIII,Suspended Plasma,Medium,55.29
+Devoid,Abthi,Upper Debyl,Upper Debyl VIII,Oxygen Isotopes,Medium,2.51
+Devoid,Abthi,Upper Debyl,Upper Debyl IX,Motley Compound,Poor,13.15
+Devoid,Abthi,Upper Debyl,Upper Debyl IX,Smartfab Units,Rich,11.83
+Devoid,Abthi,Upper Debyl,Upper Debyl X,Lustering Alloy,Medium,14.21
+Devoid,Abthi,Upper Debyl,Upper Debyl X,Fiber Composite,Medium,16.34
+Devoid,Abthi,Upper Debyl,Upper Debyl X,Base Metals,Medium,3.85
+Devoid,Abthi,Upper Debyl,Upper Debyl XI,Lustering Alloy,Rich,18.41
+Devoid,Abthi,Upper Debyl,Upper Debyl XI,Base Metals,Medium,4.44
+Devoid,Abthi,Upper Debyl,Upper Debyl XI,Coolant,Poor,7.95
+Devoid,Abthi,Upper Debyl,Upper Debyl XII,Motley Compound,Perfect,23.28
+Devoid,Abthi,Upper Debyl,Upper Debyl XII,Plasmoids,Rich,1.18
+Devoid,Abthi,Upper Debyl,Upper Debyl XIII,Reactive Gas,Poor,12.91
+Devoid,Abthi,Upper Debyl,Upper Debyl XIII,Suspended Plasma,Rich,75.80
+Devoid,Abthi,Shastal,Shastal I,Precious Alloy,Medium,17.98
+Devoid,Abthi,Shastal,Shastal I,Industrial Fibers,Poor,2.77
+Devoid,Abthi,Shastal,Shastal I,Silicate Glass,Medium,7.80
+Devoid,Abthi,Shastal,Shastal II,Noble Gas,Rich,24.45
+Devoid,Abthi,Shastal,Shastal II,Smartfab Units,Medium,12.31
+Devoid,Abthi,Shastal,Shastal III,Lustering Alloy,Poor,12.90
+Devoid,Abthi,Shastal,Shastal III,Industrial Fibers,Poor,3.03
+Devoid,Abthi,Shastal,Shastal III,Oxygen Isotopes,Poor,2.20
+Devoid,Abthi,Shastal,Shastal IV,Noble Metals,Rich,23.14
+Devoid,Abthi,Shastal,Shastal IV,Polyaramids,Perfect,17.87
+Devoid,Abthi,Shastal,Shastal IV,Coolant,Medium,13.21
+Devoid,Abthi,Shastal,Shastal IV,Liquid Ozone,Perfect,33.40
+Devoid,Abthi,Shastal,Shastal V,Noble Gas,Perfect,26.02
+Devoid,Abthi,Shastal,Shastal V,Smartfab Units,Rich,16.45
+Devoid,Abthi,Shastal,Shastal VI,Fiber Composite,Medium,19.06
+Devoid,Abthi,Shastal,Shastal VI,Noble Gas,Rich,23.02
+Devoid,Abthi,Shastal,Shastal VI,Base Metals,Rich,5.41
+Devoid,Abthi,Shastal,Shastal VI,Ionic Solutions,Poor,5.50
+Devoid,Abthi,Shastal,Shastal VII,Fiber Composite,Poor,13.41
+Devoid,Abthi,Shastal,Shastal VII,Noble Gas,Rich,24.26
+Devoid,Abthi,Shastal,Shastal VII,Reactive Metals,Poor,3.92
+Devoid,Abthi,Shastal,Shastal VII,Ionic Solutions,Rich,9.61
+Devoid,Abthi,Shastal,Shastal VIII,Noble Gas,Rich,22.83
+Devoid,Abthi,Shastal,Shastal VIII,Reactive Metals,Medium,4.29
+Devoid,Abthi,Shastal,Shastal VIII,Coolant,Rich,15.78
+Devoid,Abthi,Shastal,Shastal VIII,Ionic Solutions,Poor,5.79
+Devoid,Abthi,Shastal,Shastal IX,Motley Compound,Poor,13.38
+Devoid,Abthi,Shastal,Shastal IX,Coolant,Medium,12.55
+Devoid,Abthi,Shastal,Shastal IX,Suspended Plasma,Rich,80.64
+Devoid,Abthi,Thakala,Thakala I,Gleaming Alloy,Perfect,28.59
+Devoid,Abthi,Thakala,Thakala I,Noble Gas,Medium,20.45
+Devoid,Abthi,Thakala,Thakala II,Industrial Fibers,Medium,5.48
+Devoid,Abthi,Thakala,Thakala II,Supertensile Plastics,Medium,13.26
+Devoid,Abthi,Thakala,Thakala II,Silicate Glass,Poor,6.39
+Devoid,Abthi,Thakala,Thakala III,Lustering Alloy,Rich,22.66
+Devoid,Abthi,Thakala,Thakala III,Noble Gas,Medium,17.92
+Devoid,Abthi,Thakala,Thakala III,Base Metals,Medium,5.51
+Devoid,Abthi,Thakala,Thakala III,Reactive Metals,Rich,6.27
+Devoid,Abthi,Thakala,Thakala IV,Sheen Compound,Medium,18.00
+Devoid,Abthi,Thakala,Thakala IV,Fiber Composite,Rich,24.89
+Devoid,Abthi,Thakala,Thakala IV,Noble Gas,Medium,20.55
+Devoid,Abthi,Thakala,Thakala IV,Ionic Solutions,Medium,8.15
+Devoid,Enka,Mili,Mili I,Lustering Alloy,Medium,15.86
+Devoid,Enka,Mili,Mili I,Base Metals,Medium,4.53
+Devoid,Enka,Mili,Mili II,Gleaming Alloy,Rich,23.09
+Devoid,Enka,Mili,Mili II,Suspended Plasma,Poor,47.68
+Devoid,Enka,Mili,Mili III,Lustering Alloy,Medium,18.20
+Devoid,Enka,Mili,Mili III,Base Metals,Poor,3.35
+Devoid,Enka,Mili,Mili IV,Industrial Fibers,Medium,4.95
+Devoid,Enka,Mili,Mili IV,Condensates,Medium,9.90
+Devoid,Enka,Mili,Mili IV,Heavy Water,Medium,175.65
+Devoid,Enka,Mili,Mili V,Lucent Compound,Rich,23.31
+Devoid,Enka,Mili,Mili V,Suspended Plasma,Rich,74.63
+Devoid,Enka,Mili,Mili VI,Opulent Compound,Perfect,26.88
+Devoid,Enka,Mili,Mili VI,Noble Metals,Medium,17.71
+Devoid,Enka,Mili,Mili VI,Heavy Water,Rich,222.30
+Devoid,Enka,Mili,Mili VII,Lustering Alloy,Rich,23.55
+Devoid,Enka,Mili,Mili VII,Base Metals,Medium,4.71
+Devoid,Enka,Mili,Mili VII,Coolant,Rich,13.76
+Devoid,Enka,Mili,Mili VIII,Lustering Alloy,Rich,20.16
+Devoid,Enka,Mili,Mili VIII,Glossy Compound,Perfect,24.05
+Devoid,Enka,Mili,Mili VIII,Base Metals,Poor,3.44
+Devoid,Enka,Mili,Mili IX,Lustering Alloy,Medium,18.21
+Devoid,Enka,Mili,Mili IX,Base Metals,Poor,2.97
+Devoid,Enka,Mili,Mili X,Opulent Compound,Perfect,24.03
+Devoid,Enka,Mili,Mili X,Condensates,Medium,11.16
+Devoid,Enka,Mili,Mili X,Heavy Water,Perfect,273.60
+Devoid,Enka,Faktun,Faktun I,Lustering Alloy,Medium,16.39
+Devoid,Enka,Faktun,Faktun I,Base Metals,Medium,3.78
+Devoid,Enka,Faktun,Faktun II,Lustering Alloy,Medium,15.96
+Devoid,Enka,Faktun,Faktun II,Base Metals,Medium,3.61
+Devoid,Enka,Faktun,Faktun III,Crystal Compound,Medium,14.56
+Devoid,Enka,Faktun,Faktun III,Suspended Plasma,Medium,59.93
+Devoid,Enka,Faktun,Faktun IV,Fiber Composite,Rich,18.55
+Devoid,Enka,Faktun,Faktun IV,Opulent Compound,Perfect,26.28
+Devoid,Enka,Faktun,Faktun IV,Heavy Water,Medium,137.76
+Devoid,Enka,Faktun,Faktun V,Fiber Composite,Medium,14.69
+Devoid,Enka,Faktun,Faktun V,Industrial Fibers,Perfect,6.93
+Devoid,Enka,Faktun,Faktun V,Heavy Water,Perfect,248.92
+Devoid,Enka,Faktun,Faktun VI,Lustering Alloy,Medium,15.11
+Devoid,Enka,Faktun,Faktun VI,Sheen Compound,Rich,18.65
+Devoid,Enka,Faktun,Faktun VI,Base Metals,Medium,3.71
+Devoid,Enka,Faktun,Faktun VII,Lustering Alloy,Medium,13.96
+Devoid,Enka,Faktun,Faktun VII,Base Metals,Poor,2.86
+Devoid,Enka,Faktun,Faktun VIII,Noble Metals,Perfect,24.18
+Devoid,Enka,Faktun,Faktun VIII,Smartfab Units,Medium,9.95
+Devoid,Enka,Faktun,Faktun VIII,Heavy Water,Rich,209.58
+Devoid,Enka,Faktun,Faktun IX,Lustering Alloy,Rich,19.60
+Devoid,Enka,Faktun,Faktun IX,Base Metals,Perfect,6.08
+Devoid,Enka,Faktun,Faktun IX,Ionic Solutions,Rich,7.66
+Devoid,Enka,Faktun,Faktun X,Opulent Compound,Perfect,22.60
+Devoid,Enka,Faktun,Faktun X,Crystal Compound,Rich,22.08
+Devoid,Enka,Faktun,Faktun X,Heavy Water,Rich,194.88
+Devoid,Enka,Faktun,Faktun XI,Lustering Alloy,Rich,20.57
+Devoid,Enka,Faktun,Faktun XI,Base Metals,Medium,4.32
+Devoid,Enka,Halenan,Halenan I,Lustering Alloy,Poor,10.25
+Devoid,Enka,Halenan,Halenan I,Base Metals,Medium,3.86
+Devoid,Enka,Halenan,Halenan II,Lustering Alloy,Poor,12.87
+Devoid,Enka,Halenan,Halenan II,Base Metals,Medium,4.26
+Devoid,Enka,Halenan,Halenan III,Lustering Alloy,Poor,10.02
+Devoid,Enka,Halenan,Halenan III,Base Metals,Medium,3.78
+Devoid,Enka,Halenan,Halenan IV,Noble Metals,Rich,19.49
+Devoid,Enka,Halenan,Halenan IV,Industrial Fibers,Perfect,7.03
+Devoid,Enka,Halenan,Halenan IV,Heavy Water,Medium,173.60
+Devoid,Enka,Halenan,Halenan V,Lustering Alloy,Poor,12.52
+Devoid,Enka,Halenan,Halenan V,Base Metals,Poor,2.99
+Devoid,Enka,Halenan,Halenan VI,Reactive Metals,Rich,4.82
+Devoid,Enka,Halenan,Halenan VI,Suspended Plasma,Rich,67.08
+Devoid,Enka,Halenan,Halenan VI,Plasmoids,Medium,0.89
+Devoid,Enka,Halenan,Halenan VII,Toxic Metals,Medium,3.98
+Devoid,Enka,Halenan,Halenan VII,Polyaramids,Perfect,16.04
+Devoid,Enka,Halenan,Halenan VII,Heavy Water,Medium,164.64
+Devoid,Enka,Halenan,Halenan VIII,Lustering Alloy,Poor,12.84
+Devoid,Enka,Halenan,Halenan VIII,Base Metals,Medium,3.55
+Devoid,Enka,Halenan,Halenan VIII,Polyaramids,Medium,8.87
+Devoid,Enka,Halenan,Halenan IX,Lustering Alloy,Rich,19.29
+Devoid,Enka,Halenan,Halenan IX,Base Metals,Medium,4.32
+Devoid,Enka,Halenan,Halenan IX,Coolant,Rich,11.83
+Devoid,Enka,Halenan,Halenan X,Lustering Alloy,Medium,14.32
+Devoid,Enka,Halenan,Halenan X,Base Metals,Medium,3.71
+Devoid,Enka,Halenan,Halenan XI,Lustering Alloy,Poor,9.27
+Devoid,Enka,Halenan,Halenan XI,Base Metals,Poor,2.51
+Devoid,Enka,Ulerah,Ulerah I,Lustering Alloy,Rich,19.73
+Devoid,Enka,Ulerah,Ulerah I,Noble Gas,Medium,14.78
+Devoid,Enka,Ulerah,Ulerah I,Base Metals,Medium,3.61
+Devoid,Enka,Ulerah,Ulerah II,Lustering Alloy,Rich,19.92
+Devoid,Enka,Ulerah,Ulerah II,Base Metals,Rich,5.57
+Devoid,Enka,Ulerah,Ulerah II,Coolant,Rich,12.48
+Devoid,Enka,Ulerah,Ulerah III,Lustering Alloy,Poor,10.46
+Devoid,Enka,Ulerah,Ulerah III,Base Metals,Medium,4.47
+Devoid,Enka,Ulerah,Ulerah IV,Lustering Alloy,Medium,15.44
+Devoid,Enka,Ulerah,Ulerah IV,Base Metals,Medium,3.84
+Devoid,Enka,Uktiad,Uktiad I,Lucent Compound,Medium,15.63
+Devoid,Enka,Uktiad,Uktiad I,Noble Gas,Medium,18.48
+Devoid,Enka,Uktiad,Uktiad I,Suspended Plasma,Rich,68.63
+Devoid,Enka,Uktiad,Uktiad II,Lustering Alloy,Medium,15.42
+Devoid,Enka,Uktiad,Uktiad II,Base Metals,Medium,4.24
+Devoid,Enka,Uktiad,Uktiad III,Lustering Alloy,Medium,17.80
+Devoid,Enka,Uktiad,Uktiad III,Base Metals,Medium,4.35
+Devoid,Enka,Uktiad,Uktiad IV,Lustering Alloy,Rich,23.57
+Devoid,Enka,Uktiad,Uktiad IV,Sheen Compound,Poor,13.15
+Devoid,Enka,Uktiad,Uktiad IV,Base Metals,Rich,6.24
+Devoid,Enka,Uktiad,Uktiad V,Lustering Alloy,Rich,20.86
+Devoid,Enka,Uktiad,Uktiad V,Base Metals,Rich,5.12
+Devoid,Enka,Uktiad,Uktiad V,Reactive Metals,Medium,3.84
+Devoid,Enka,Uktiad,Uktiad VI,Nanites,Medium,4.16
+Devoid,Enka,Uktiad,Uktiad VI,Suspended Plasma,Medium,52.81
+Devoid,Enka,Uktiad,Uktiad VII,Lustering Alloy,Medium,18.90
+Devoid,Enka,Uktiad,Uktiad VII,Base Metals,Rich,5.09
+Devoid,Enka,Uktiad,Uktiad VII,Coolant,Rich,14.20
+Devoid,Enka,Uktiad,Uktiad VIII,Lustering Alloy,Medium,18.54
+Devoid,Enka,Uktiad,Uktiad VIII,Noble Gas,Rich,19.25
+Devoid,Enka,Uktiad,Uktiad VIII,Base Metals,Medium,4.60
+Devoid,Enka,Uktiad,Uktiad IX,Lustering Alloy,Medium,18.98
+Devoid,Enka,Uktiad,Uktiad IX,Base Metals,Medium,4.00
+Devoid,Enka,Uktiad,Uktiad X,Lustering Alloy,Medium,14.54
+Devoid,Enka,Uktiad,Uktiad X,Base Metals,Medium,4.54
+Devoid,Enka,Nidebora,Nidebora I,Lustering Alloy,Medium,11.34
+Devoid,Enka,Nidebora,Nidebora I,Base Metals,Medium,3.22
+Devoid,Enka,Nidebora,Nidebora II,Condensed Alloy,Medium,13.79
+Devoid,Enka,Nidebora,Nidebora II,Silicate Glass,Medium,7.18
+Devoid,Enka,Nidebora,Nidebora II,Heavy Water,Rich,189.96
+Devoid,Enka,Nidebora,Nidebora III,Suspended Plasma,Perfect,70.24
+Devoid,Enka,Nidebora,Nidebora III,Oxygen Isotopes,Rich,2.80
+Devoid,Enka,Nidebora,Nidebora IV,Lustering Alloy,Poor,9.89
+Devoid,Enka,Nidebora,Nidebora IV,Base Metals,Poor,2.04
+Devoid,Enka,Nidebora,Nidebora V,Condensed Alloy,Rich,15.38
+Devoid,Enka,Nidebora,Nidebora V,Reactive Gas,Perfect,20.82
+Devoid,Enka,Nidebora,Nidebora V,Heavy Water,Perfect,195.00
+Devoid,Enka,Nidebora,Nidebora VI,Noble Metals,Rich,19.01
+Devoid,Enka,Nidebora,Nidebora VI,Heavy Water,Medium,116.28
+Devoid,Enka,Nidebora,Nidebora VI,Ionic Solutions,Poor,4.46
+Devoid,Enka,Nidebora,Nidebora VII,Condensed Alloy,Perfect,19.13
+Devoid,Enka,Nidebora,Nidebora VII,Industrial Fibers,Medium,3.24
+Devoid,Enka,Nidebora,Nidebora VII,Heavy Water,Rich,152.88
+Devoid,Enka,Nidebora,Nidebora VIII,Fiber Composite,Medium,12.76
+Devoid,Enka,Nidebora,Nidebora VIII,Noble Metals,Perfect,19.99
+Devoid,Enka,Nidebora,Nidebora VIII,Heavy Water,Medium,133.92
+Devoid,Enka,Arveyil,Arveyil I,Lustering Alloy,Poor,12.38
+Devoid,Enka,Arveyil,Arveyil I,Base Metals,Poor,3.16
+Devoid,Enka,Arveyil,Arveyil II,Lustering Alloy,Medium,16.44
+Devoid,Enka,Arveyil,Arveyil II,Base Metals,Poor,2.91
+Devoid,Enka,Arveyil,Arveyil III,Lustering Alloy,Medium,18.30
+Devoid,Enka,Arveyil,Arveyil III,Base Metals,Medium,4.43
+Devoid,Enka,Arveyil,Arveyil IV,Motley Compound,Medium,16.43
+Devoid,Enka,Arveyil,Arveyil IV,Construction Blocks,Rich,21.27
+Devoid,Enka,Arveyil,Arveyil V,Lustering Alloy,Poor,11.04
+Devoid,Enka,Arveyil,Arveyil V,Base Metals,Poor,3.58
+Devoid,Enka,Arveyil,Arveyil VI,Motley Compound,Poor,12.07
+Devoid,Enka,Arveyil,Arveyil VI,Heavy Metals,Perfect,24.20
+Devoid,Enka,Arveyil,Arveyil VII,Lucent Compound,Perfect,24.51
+Devoid,Enka,Arveyil,Arveyil VII,Suspended Plasma,Medium,62.69
+Devoid,Enka,Arveyil,Arveyil VIII,Lustering Alloy,Medium,14.98
+Devoid,Enka,Arveyil,Arveyil VIII,Base Metals,Poor,2.89
+Devoid,Enka,Arveyil,Arveyil IX,Lustering Alloy,Poor,12.54
+Devoid,Enka,Arveyil,Arveyil IX,Base Metals,Medium,4.41
+Devoid,Enka,Arveyil,Arveyil X,Lustering Alloy,Rich,23.36
+Devoid,Enka,Arveyil,Arveyil X,Base Metals,Medium,4.59
+Devoid,Enka,Arveyil,Arveyil X,Reactive Metals,Rich,5.21
+Devoid,Enka,Arveyil,Arveyil XI,Condensed Alloy,Perfect,24.42
+Devoid,Enka,Arveyil,Arveyil XI,Opulent Compound,Medium,14.19
+Devoid,Enka,Arveyil,Arveyil XI,Heavy Water,Perfect,259.50
+Devoid,Enka,Arveyil,Arveyil XII,Lustering Alloy,Poor,13.46
+Devoid,Enka,Arveyil,Arveyil XII,Glossy Compound,Perfect,24.34
+Devoid,Enka,Arveyil,Arveyil XII,Base Metals,Rich,5.59
+Devoid,Enka,Palpis,Palpis I,Noble Gas,Rich,20.56
+Devoid,Enka,Palpis,Palpis I,Oxygen Isotopes,Poor,2.23
+Devoid,Enka,Palpis,Palpis II,Lustering Alloy,Medium,17.65
+Devoid,Enka,Palpis,Palpis II,Base Metals,Poor,3.97
+Devoid,Enka,Palpis,Palpis II,Industrial Fibers,Poor,3.14
+Devoid,Enka,Palpis,Palpis III,Industrial Fibers,Poor,2.69
+Devoid,Enka,Palpis,Palpis III,Silicate Glass,Poor,6.64
+Devoid,Enka,Palpis,Palpis III,Plasmoids,Medium,0.99
+Devoid,Enka,Palpis,Palpis IV,Precious Alloy,Medium,17.71
+Devoid,Enka,Palpis,Palpis IV,Industrial Fibers,Medium,4.13
+Devoid,Enka,Palpis,Palpis IV,Supertensile Plastics,Poor,6.74
+Devoid,Enka,Palpis,Palpis V,Glossy Compound,Medium,18.61
+Devoid,Enka,Palpis,Palpis V,Noble Gas,Rich,23.98
+Devoid,Enka,Palpis,Palpis V,Base Metals,Rich,6.14
+Devoid,Enka,Palpis,Palpis V,Polyaramids,Poor,8.95
+Devoid,Enka,Palpis,Palpis VI,Fiber Composite,Rich,23.78
+Devoid,Enka,Palpis,Palpis VI,Reactive Gas,Rich,24.99
+Devoid,Enka,Palpis,Palpis VI,Condensates,Perfect,17.19
+Devoid,Enka,Palpis,Palpis VI,Heavy Water,Perfect,280.00
+Devoid,Enka,Palpis,Palpis VII,Sheen Compound,Poor,14.75
+Devoid,Enka,Palpis,Palpis VII,Glossy Compound,Rich,21.23
+Devoid,Enka,Palpis,Palpis VII,Noble Gas,Perfect,26.34
+Devoid,Enka,Palpis,Palpis VII,Reactive Metals,Rich,5.63
+Devoid,Enka,Palpis,Palpis VIII,Base Metals,Poor,3.54
+Devoid,Enka,Palpis,Palpis VIII,Industrial Fibers,Poor,3.45
+Devoid,Enka,Palpis,Palpis VIII,Oxygen Isotopes,Poor,1.86
+Devoid,Enka,Palpis,Palpis IX,Lustering Alloy,Medium,16.80
+Devoid,Enka,Palpis,Palpis IX,Industrial Fibers,Poor,3.77
+Devoid,Enka,Palpis,Palpis IX,Oxygen Isotopes,Medium,2.49

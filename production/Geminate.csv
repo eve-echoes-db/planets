@@ -1,0 +1,3210 @@
+Region,Constellation,System,Name,Item,Rate,Output
+Geminate,N-K4Q0,MR4-MY,MR4-MY I,Sheen Compound,Perfect,36.34
+Geminate,N-K4Q0,MR4-MY,MR4-MY I,Heavy Metals,Perfect,35.90
+Geminate,N-K4Q0,MR4-MY,MR4-MY I,Reactive Metals,Rich,8.71
+Geminate,N-K4Q0,MR4-MY,MR4-MY I,Condensates,Rich,20.83
+Geminate,N-K4Q0,MR4-MY,MR4-MY I,Plasmoids,Medium,1.59
+Geminate,N-K4Q0,MR4-MY,MR4-MY II,Lucent Compound,Rich,30.54
+Geminate,N-K4Q0,MR4-MY,MR4-MY II,Heavy Metals,Rich,28.71
+Geminate,N-K4Q0,MR4-MY,MR4-MY II,Reactive Metals,Rich,8.49
+Geminate,N-K4Q0,MR4-MY,MR4-MY II,Condensates,Medium,14.17
+Geminate,N-K4Q0,MR4-MY,MR4-MY II,Plasmoids,Poor,1.24
+Geminate,N-K4Q0,MR4-MY,MR4-MY III,Fiber Composite,Medium,22.29
+Geminate,N-K4Q0,MR4-MY,MR4-MY III,Reactive Gas,Perfect,41.25
+Geminate,N-K4Q0,MR4-MY,MR4-MY III,Industrial Fibers,Perfect,10.40
+Geminate,N-K4Q0,MR4-MY,MR4-MY III,Heavy Water,Perfect,352.44
+Geminate,N-K4Q0,MR4-MY,MR4-MY III,Liquid Ozone,Rich,40.12
+Geminate,N-K4Q0,MR4-MY,MR4-MY IV,Sheen Compound,Poor,19.67
+Geminate,N-K4Q0,MR4-MY,MR4-MY IV,Fiber Composite,Rich,29.88
+Geminate,N-K4Q0,MR4-MY,MR4-MY IV,Glossy Compound,Poor,20.22
+Geminate,N-K4Q0,MR4-MY,MR4-MY IV,Reactive Gas,Medium,24.44
+Geminate,N-K4Q0,MR4-MY,MR4-MY IV,Polyaramids,Medium,14.07
+Geminate,N-K4Q0,MR4-MY,MR4-MY V,Fiber Composite,Rich,29.19
+Geminate,N-K4Q0,MR4-MY,MR4-MY V,Glossy Compound,Medium,24.09
+Geminate,N-K4Q0,MR4-MY,MR4-MY V,Reactive Gas,Perfect,35.95
+Geminate,N-K4Q0,MR4-MY,MR4-MY V,Noble Gas,Medium,26.07
+Geminate,N-K4Q0,MR4-MY,MR4-MY V,Ionic Solutions,Rich,13.31
+Geminate,N-K4Q0,MR4-MY,MR4-MY VI,Sheen Compound,Rich,32.01
+Geminate,N-K4Q0,MR4-MY,MR4-MY VI,Reactive Gas,Rich,29.24
+Geminate,N-K4Q0,MR4-MY,MR4-MY VI,Noble Gas,Rich,27.90
+Geminate,N-K4Q0,MR4-MY,MR4-MY VI,Polyaramids,Rich,19.01
+Geminate,N-K4Q0,MR4-MY,MR4-MY VI,Coolant,Medium,14.58
+Geminate,N-K4Q0,MR4-MY,MR4-MY VII,Lustering Alloy,Poor,17.29
+Geminate,N-K4Q0,MR4-MY,MR4-MY VII,Base Metals,Rich,7.60
+Geminate,N-K4Q0,MR4-MY,MR4-MY VII,Condensates,Medium,14.31
+Geminate,N-K4Q0,MR4-MY,MR4-MY VII,Suspended Plasma,Poor,63.99
+Geminate,N-K4Q0,SR-KBB,SR-KBB I,Lucent Compound,Rich,33.09
+Geminate,N-K4Q0,SR-KBB,SR-KBB I,Reactive Metals,Medium,5.71
+Geminate,N-K4Q0,SR-KBB,SR-KBB I,Supertensile Plastics,Medium,17.83
+Geminate,N-K4Q0,SR-KBB,SR-KBB I,Suspended Plasma,Poor,65.42
+Geminate,N-K4Q0,SR-KBB,SR-KBB II,Precious Alloy,Poor,16.74
+Geminate,N-K4Q0,SR-KBB,SR-KBB II,Base Metals,Poor,4.14
+Geminate,N-K4Q0,SR-KBB,SR-KBB II,Toxic Metals,Medium,6.50
+Geminate,N-K4Q0,SR-KBB,SR-KBB II,Supertensile Plastics,Poor,13.24
+Geminate,N-K4Q0,SR-KBB,SR-KBB III,Reactive Gas,Perfect,38.41
+Geminate,N-K4Q0,SR-KBB,SR-KBB III,Base Metals,Medium,6.59
+Geminate,N-K4Q0,SR-KBB,SR-KBB III,Noble Metals,Perfect,40.37
+Geminate,N-K4Q0,SR-KBB,SR-KBB III,Industrial Fibers,Rich,8.16
+Geminate,N-K4Q0,SR-KBB,SR-KBB III,Liquid Ozone,Medium,32.17
+Geminate,N-K4Q0,SR-KBB,SR-KBB IV,Crystal Compound,Medium,21.12
+Geminate,N-K4Q0,SR-KBB,SR-KBB IV,Reactive Metals,Rich,7.69
+Geminate,N-K4Q0,SR-KBB,SR-KBB IV,Suspended Plasma,Rich,111.99
+Geminate,N-K4Q0,SR-KBB,SR-KBB IV,Oxygen Isotopes,Medium,3.28
+Geminate,N-K4Q0,SR-KBB,SR-KBB V,Sheen Compound,Medium,23.06
+Geminate,N-K4Q0,SR-KBB,SR-KBB V,Fiber Composite,Medium,25.63
+Geminate,N-K4Q0,SR-KBB,SR-KBB V,Reactive Gas,Medium,25.63
+Geminate,N-K4Q0,SR-KBB,SR-KBB V,Noble Gas,Rich,28.34
+Geminate,N-K4Q0,SR-KBB,SR-KBB V,Base Metals,Medium,6.80
+Geminate,N-K4Q0,SR-KBB,SR-KBB VI,Lustering Alloy,Medium,25.34
+Geminate,N-K4Q0,SR-KBB,SR-KBB VI,Fiber Composite,Medium,20.94
+Geminate,N-K4Q0,SR-KBB,SR-KBB VI,Glossy Compound,Medium,27.26
+Geminate,N-K4Q0,SR-KBB,SR-KBB VI,Reactive Gas,Rich,30.71
+Geminate,N-K4Q0,SR-KBB,SR-KBB VI,Base Metals,Poor,5.41
+Geminate,N-K4Q0,SR-KBB,SR-KBB VII,Toxic Metals,Poor,4.62
+Geminate,N-K4Q0,SR-KBB,SR-KBB VII,Industrial Fibers,Poor,5.01
+Geminate,N-K4Q0,SR-KBB,SR-KBB VII,Supertensile Plastics,Medium,14.64
+Geminate,N-K4Q0,SR-KBB,SR-KBB VII,Construction Blocks,Medium,25.34
+Geminate,N-K4Q0,SR-KBB,SR-KBB VIII,Motley Compound,Poor,19.12
+Geminate,N-K4Q0,SR-KBB,SR-KBB VIII,Supertensile Plastics,Rich,19.20
+Geminate,N-K4Q0,SR-KBB,SR-KBB VIII,Condensates,Poor,13.07
+Geminate,N-K4Q0,SR-KBB,SR-KBB VIII,Liquid Ozone,Rich,38.31
+Geminate,N-K4Q0,FDZ4-A,FDZ4-A I,Lustering Alloy,Poor,15.47
+Geminate,N-K4Q0,FDZ4-A,FDZ4-A I,Base Metals,Medium,6.14
+Geminate,N-K4Q0,FDZ4-A,FDZ4-A I,Industrial Fibers,Medium,5.62
+Geminate,N-K4Q0,FDZ4-A,FDZ4-A I,Supertensile Plastics,Medium,16.88
+Geminate,N-K4Q0,FDZ4-A,FDZ4-A II,Lustering Alloy,Poor,16.76
+Geminate,N-K4Q0,FDZ4-A,FDZ4-A II,Toxic Metals,Medium,6.87
+Geminate,N-K4Q0,FDZ4-A,FDZ4-A II,Supertensile Plastics,Medium,15.30
+Geminate,N-K4Q0,FDZ4-A,FDZ4-A II,Plasmoids,Poor,1.10
+Geminate,N-K4Q0,FDZ4-A,FDZ4-A III,Reactive Metals,Rich,7.58
+Geminate,N-K4Q0,FDZ4-A,FDZ4-A III,Toxic Metals,Rich,9.08
+Geminate,N-K4Q0,FDZ4-A,FDZ4-A III,Supertensile Plastics,Rich,20.27
+Geminate,N-K4Q0,FDZ4-A,FDZ4-A III,Nanites,Medium,6.66
+Geminate,N-K4Q0,FDZ4-A,FDZ4-A IV,Opulent Compound,Poor,20.59
+Geminate,N-K4Q0,FDZ4-A,FDZ4-A IV,Noble Metals,Medium,25.15
+Geminate,N-K4Q0,FDZ4-A,FDZ4-A IV,Toxic Metals,Rich,8.50
+Geminate,N-K4Q0,FDZ4-A,FDZ4-A IV,Polyaramids,Medium,18.19
+Geminate,N-K4Q0,FDZ4-A,FDZ4-A IV,Liquid Ozone,Medium,32.40
+Geminate,N-K4Q0,FDZ4-A,FDZ4-A V,Lustering Alloy,Medium,26.99
+Geminate,N-K4Q0,FDZ4-A,FDZ4-A V,Industrial Fibers,Poor,3.62
+Geminate,N-K4Q0,FDZ4-A,FDZ4-A V,Supertensile Plastics,Medium,17.44
+Geminate,N-K4Q0,FDZ4-A,FDZ4-A V,Plasmoids,Poor,0.89
+Geminate,N-K4Q0,FDZ4-A,FDZ4-A VI,Condensed Alloy,Rich,33.59
+Geminate,N-K4Q0,FDZ4-A,FDZ4-A VI,Reactive Gas,Rich,31.46
+Geminate,N-K4Q0,FDZ4-A,FDZ4-A VI,Industrial Fibers,Medium,5.64
+Geminate,N-K4Q0,FDZ4-A,FDZ4-A VI,Heavy Water,Rich,295.68
+Geminate,N-K4Q0,FDZ4-A,FDZ4-A VI,Liquid Ozone,Medium,30.44
+Geminate,N-K4Q0,FDZ4-A,FDZ4-A VII,Precious Alloy,Medium,20.99
+Geminate,N-K4Q0,FDZ4-A,FDZ4-A VII,Industrial Fibers,Poor,5.15
+Geminate,N-K4Q0,FDZ4-A,FDZ4-A VII,Supertensile Plastics,Medium,17.20
+Geminate,N-K4Q0,FDZ4-A,FDZ4-A VII,Plasmoids,Poor,0.84
+Geminate,N-K4Q0,FDZ4-A,FDZ4-A VIII,Lustering Alloy,Rich,29.83
+Geminate,N-K4Q0,FDZ4-A,FDZ4-A VIII,Reactive Gas,Rich,27.96
+Geminate,N-K4Q0,FDZ4-A,FDZ4-A VIII,Noble Gas,Medium,22.07
+Geminate,N-K4Q0,FDZ4-A,FDZ4-A VIII,Base Metals,Poor,5.19
+Geminate,N-K4Q0,FDZ4-A,FDZ4-A VIII,Ionic Solutions,Medium,9.91
+Geminate,N-K4Q0,FDZ4-A,FDZ4-A IX,Glossy Compound,Medium,25.61
+Geminate,N-K4Q0,FDZ4-A,FDZ4-A IX,Reactive Gas,Medium,21.91
+Geminate,N-K4Q0,FDZ4-A,FDZ4-A IX,Noble Gas,Rich,29.59
+Geminate,N-K4Q0,FDZ4-A,FDZ4-A IX,Reactive Metals,Rich,7.37
+Geminate,N-K4Q0,FDZ4-A,FDZ4-A IX,Ionic Solutions,Medium,10.89
+Geminate,N-K4Q0,FDZ4-A,FDZ4-A X,Motley Compound,Medium,26.36
+Geminate,N-K4Q0,FDZ4-A,FDZ4-A X,Supertensile Plastics,Medium,15.59
+Geminate,N-K4Q0,FDZ4-A,FDZ4-A X,Condensates,Medium,18.29
+Geminate,N-K4Q0,FDZ4-A,FDZ4-A X,Liquid Ozone,Rich,36.30
+Geminate,N-K4Q0,2E-ZR5,2E-ZR5 I,Gleaming Alloy,Rich,33.37
+Geminate,N-K4Q0,2E-ZR5,2E-ZR5 I,Polyaramids,Poor,14.24
+Geminate,N-K4Q0,2E-ZR5,2E-ZR5 I,Construction Blocks,Poor,19.27
+Geminate,N-K4Q0,2E-ZR5,2E-ZR5 II,Lustering Alloy,Poor,21.09
+Geminate,N-K4Q0,2E-ZR5,2E-ZR5 II,Supertensile Plastics,Poor,10.76
+Geminate,N-K4Q0,2E-ZR5,2E-ZR5 II,Construction Blocks,Poor,19.83
+Geminate,N-K4Q0,2E-ZR5,2E-ZR5 II,Plasmoids,Medium,1.55
+Geminate,N-K4Q0,2E-ZR5,2E-ZR5 III,Fiber Composite,Poor,21.37
+Geminate,N-K4Q0,2E-ZR5,2E-ZR5 III,Opulent Compound,Medium,28.08
+Geminate,N-K4Q0,2E-ZR5,2E-ZR5 III,Base Metals,Rich,9.05
+Geminate,N-K4Q0,2E-ZR5,2E-ZR5 III,Heavy Water,Perfect,408.25
+Geminate,N-K4Q0,2E-ZR5,2E-ZR5 III,Liquid Ozone,Medium,34.44
+Geminate,N-K4Q0,2E-ZR5,2E-ZR5 IV,Toxic Metals,Poor,4.79
+Geminate,N-K4Q0,2E-ZR5,2E-ZR5 IV,Supertensile Plastics,Poor,10.26
+Geminate,N-K4Q0,2E-ZR5,2E-ZR5 IV,Silicate Glass,Poor,10.72
+Geminate,N-K4Q0,2E-ZR5,2E-ZR5 IV,Oxygen Isotopes,Poor,2.47
+Geminate,N-K4Q0,2E-ZR5,2E-ZR5 V,Lustering Alloy,Poor,21.57
+Geminate,N-K4Q0,2E-ZR5,2E-ZR5 V,Fiber Composite,Perfect,37.37
+Geminate,N-K4Q0,2E-ZR5,2E-ZR5 V,Reactive Gas,Medium,25.07
+Geminate,N-K4Q0,2E-ZR5,2E-ZR5 V,Coolant,Medium,14.72
+Geminate,N-K4Q0,2E-ZR5,2E-ZR5 V,Ionic Solutions,Medium,10.09
+Geminate,N-K4Q0,2E-ZR5,2E-ZR5 VI,Lustering Alloy,Rich,35.01
+Geminate,N-K4Q0,2E-ZR5,2E-ZR5 VI,Sheen Compound,Medium,25.07
+Geminate,N-K4Q0,2E-ZR5,2E-ZR5 VI,Reactive Gas,Rich,34.25
+Geminate,N-K4Q0,2E-ZR5,2E-ZR5 VI,Base Metals,Rich,9.31
+Geminate,N-K4Q0,2E-ZR5,2E-ZR5 VI,Polyaramids,Medium,17.02
+Geminate,N-K4Q0,2E-ZR5,2E-ZR5 VII,Lustering Alloy,Medium,25.23
+Geminate,N-K4Q0,2E-ZR5,2E-ZR5 VII,Precious Alloy,Rich,29.28
+Geminate,N-K4Q0,2E-ZR5,2E-ZR5 VII,Motley Compound,Medium,25.60
+Geminate,N-K4Q0,2E-ZR5,2E-ZR5 VII,Condensates,Medium,18.37
+Geminate,N-K4Q0,O1-FTD,O1-FTD I,Dark Compound,Rich,33.96
+Geminate,N-K4Q0,O1-FTD,O1-FTD I,Noble Gas,Rich,30.96
+Geminate,N-K4Q0,O1-FTD,O1-FTD I,Condensates,Perfect,26.91
+Geminate,N-K4Q0,O1-FTD,O1-FTD I,Suspended Plasma,Medium,87.26
+Geminate,N-K4Q0,O1-FTD,O1-FTD I,Plasmoids,Rich,2.09
+Geminate,N-K4Q0,O1-FTD,O1-FTD II,Lustering Alloy,Rich,30.84
+Geminate,N-K4Q0,O1-FTD,O1-FTD II,Sheen Compound,Medium,23.18
+Geminate,N-K4Q0,O1-FTD,O1-FTD II,Reactive Gas,Medium,28.20
+Geminate,N-K4Q0,O1-FTD,O1-FTD II,Coolant,Medium,20.03
+Geminate,N-K4Q0,O1-FTD,O1-FTD II,Ionic Solutions,Rich,15.18
+Geminate,N-K4Q0,O1-FTD,O1-FTD III,Fiber Composite,Perfect,42.72
+Geminate,N-K4Q0,O1-FTD,O1-FTD III,Opulent Compound,Medium,27.22
+Geminate,N-K4Q0,O1-FTD,O1-FTD III,Noble Metals,Perfect,44.86
+Geminate,N-K4Q0,O1-FTD,O1-FTD III,Smartfab Units,Medium,15.82
+Geminate,N-K4Q0,O1-FTD,O1-FTD III,Liquid Ozone,Perfect,54.96
+Geminate,N-K4Q0,O1-FTD,O1-FTD IV,Sheen Compound,Medium,29.78
+Geminate,N-K4Q0,O1-FTD,O1-FTD IV,Fiber Composite,Medium,23.88
+Geminate,N-K4Q0,O1-FTD,O1-FTD IV,Reactive Gas,Medium,24.58
+Geminate,N-K4Q0,O1-FTD,O1-FTD IV,Coolant,Medium,15.66
+Geminate,N-K4Q0,O1-FTD,O1-FTD IV,Ionic Solutions,Rich,13.92
+Geminate,N-K4Q0,O1-FTD,O1-FTD V,Lustering Alloy,Medium,26.21
+Geminate,N-K4Q0,O1-FTD,O1-FTD V,Sheen Compound,Medium,23.57
+Geminate,N-K4Q0,O1-FTD,O1-FTD V,Glossy Compound,Rich,35.57
+Geminate,N-K4Q0,O1-FTD,O1-FTD V,Reactive Gas,Medium,23.81
+Geminate,N-K4Q0,O1-FTD,O1-FTD V,Noble Gas,Poor,20.21
+Geminate,N-K4Q0,O1-FTD,O1-FTD VI,Precious Alloy,Medium,24.91
+Geminate,N-K4Q0,O1-FTD,O1-FTD VI,Heavy Metals,Medium,30.14
+Geminate,N-K4Q0,O1-FTD,O1-FTD VI,Industrial Fibers,Medium,6.60
+Geminate,N-K4Q0,O1-FTD,O1-FTD VI,Condensates,Rich,21.87
+Geminate,N-K4Q0,O1-FTD,O1-FTD VII,Precious Alloy,Poor,17.76
+Geminate,N-K4Q0,O1-FTD,O1-FTD VII,Base Metals,Poor,4.57
+Geminate,N-K4Q0,O1-FTD,O1-FTD VII,Supertensile Plastics,Poor,10.75
+Geminate,N-K4Q0,O1-FTD,O1-FTD VII,Plasmoids,Medium,1.41
+Geminate,N-K4Q0,O1-FTD,O1-FTD VIII,Lustering Alloy,Rich,34.90
+Geminate,N-K4Q0,O1-FTD,O1-FTD VIII,Precious Alloy,Medium,24.48
+Geminate,N-K4Q0,O1-FTD,O1-FTD VIII,Industrial Fibers,Rich,9.18
+Geminate,N-K4Q0,O1-FTD,O1-FTD VIII,Condensates,Medium,17.28
+Geminate,N-K4Q0,Roua,Roua I,Base Metals,Poor,3.94
+Geminate,N-K4Q0,Roua,Roua I,Toxic Metals,Poor,4.17
+Geminate,N-K4Q0,Roua,Roua I,Industrial Fibers,Poor,5.08
+Geminate,N-K4Q0,Roua,Roua I,Supertensile Plastics,Medium,15.36
+Geminate,N-K4Q0,Roua,Roua II,Supertensile Plastics,Medium,13.83
+Geminate,N-K4Q0,Roua,Roua II,Construction Blocks,Medium,25.48
+Geminate,N-K4Q0,Roua,Roua II,Silicate Glass,Medium,12.97
+Geminate,N-K4Q0,Roua,Roua II,Oxygen Isotopes,Poor,2.48
+Geminate,N-K4Q0,Roua,Roua III,Condensed Alloy,Perfect,36.70
+Geminate,N-K4Q0,Roua,Roua III,Reactive Gas,Perfect,37.25
+Geminate,N-K4Q0,Roua,Roua III,Noble Metals,Rich,31.59
+Geminate,N-K4Q0,Roua,Roua III,Condensates,Perfect,26.52
+Geminate,N-K4Q0,Roua,Roua III,Liquid Ozone,Rich,41.41
+Geminate,N-K4Q0,Roua,Roua IV,Condensed Alloy,Perfect,35.09
+Geminate,N-K4Q0,Roua,Roua IV,Opulent Compound,Rich,33.46
+Geminate,N-K4Q0,Roua,Roua IV,Noble Metals,Rich,32.74
+Geminate,N-K4Q0,Roua,Roua IV,Industrial Fibers,Rich,8.20
+Geminate,N-K4Q0,Roua,Roua IV,Liquid Ozone,Rich,38.39
+Geminate,N-K4Q0,Roua,Roua V,Condensed Alloy,Rich,28.03
+Geminate,N-K4Q0,Roua,Roua V,Reactive Gas,Perfect,37.18
+Geminate,N-K4Q0,Roua,Roua V,Industrial Fibers,Rich,7.89
+Geminate,N-K4Q0,Roua,Roua V,Heavy Water,Rich,330.88
+Geminate,N-K4Q0,Roua,Roua V,Liquid Ozone,Rich,42.13
+Geminate,N-K4Q0,Roua,Roua VI,Fiber Composite,Perfect,36.94
+Geminate,N-K4Q0,Roua,Roua VI,Reactive Gas,Perfect,39.78
+Geminate,N-K4Q0,Roua,Roua VI,Condensates,Perfect,24.42
+Geminate,N-K4Q0,Roua,Roua VI,Heavy Water,Rich,343.20
+Geminate,N-K4Q0,Roua,Roua VI,Liquid Ozone,Perfect,47.82
+Geminate,N-K4Q0,Roua,Roua VII,Lustering Alloy,Medium,21.69
+Geminate,N-K4Q0,Roua,Roua VII,Sheen Compound,Rich,29.79
+Geminate,N-K4Q0,Roua,Roua VII,Fiber Composite,Medium,24.71
+Geminate,N-K4Q0,Roua,Roua VII,Reactive Gas,Medium,23.94
+Geminate,N-K4Q0,Roua,Roua VII,Reactive Metals,Medium,6.91
+Geminate,N-K4Q0,Roua,Roua VIII,Reactive Metals,Poor,5.03
+Geminate,N-K4Q0,Roua,Roua VIII,Toxic Metals,Rich,7.64
+Geminate,N-K4Q0,Roua,Roua VIII,Suspended Plasma,Poor,67.24
+Geminate,N-K4Q0,Roua,Roua VIII,Oxygen Isotopes,Rich,4.52
+Geminate,N-K4Q0,Roua,Roua IX,Toxic Metals,Medium,5.85
+Geminate,N-K4Q0,Roua,Roua IX,Industrial Fibers,Poor,5.33
+Geminate,N-K4Q0,Roua,Roua IX,Supertensile Plastics,Poor,9.64
+Geminate,N-K4Q0,Roua,Roua IX,Construction Blocks,Medium,26.64
+Geminate,N-K4Q0,Roua,Roua X,Reactive Gas,Rich,34.17
+Geminate,N-K4Q0,Roua,Roua X,Reactive Metals,Perfect,9.40
+Geminate,N-K4Q0,Roua,Roua X,Toxic Metals,Medium,7.09
+Geminate,N-K4Q0,Roua,Roua X,Nanites,Rich,8.48
+Geminate,N-K4Q0,OEY-OR,OEY-OR I,Industrial Fibers,Poor,4.06
+Geminate,N-K4Q0,OEY-OR,OEY-OR I,Supertensile Plastics,Poor,11.32
+Geminate,N-K4Q0,OEY-OR,OEY-OR I,Construction Blocks,Poor,17.34
+Geminate,N-K4Q0,OEY-OR,OEY-OR I,Plasmoids,Poor,1.15
+Geminate,N-K4Q0,OEY-OR,OEY-OR II,Dark Compound,Medium,23.67
+Geminate,N-K4Q0,OEY-OR,OEY-OR II,Toxic Metals,Medium,6.07
+Geminate,N-K4Q0,OEY-OR,OEY-OR II,Industrial Fibers,Medium,6.79
+Geminate,N-K4Q0,OEY-OR,OEY-OR II,Supertensile Plastics,Poor,14.11
+Geminate,N-K4Q0,OEY-OR,OEY-OR III,Toxic Metals,Medium,7.07
+Geminate,N-K4Q0,OEY-OR,OEY-OR III,Supertensile Plastics,Medium,14.70
+Geminate,N-K4Q0,OEY-OR,OEY-OR III,Oxygen Isotopes,Medium,3.99
+Geminate,N-K4Q0,OEY-OR,OEY-OR III,Plasmoids,Medium,1.60
+Geminate,N-K4Q0,OEY-OR,OEY-OR IV,Condensed Alloy,Perfect,38.87
+Geminate,N-K4Q0,OEY-OR,OEY-OR IV,Fiber Composite,Medium,28.59
+Geminate,N-K4Q0,OEY-OR,OEY-OR IV,Opulent Compound,Perfect,37.88
+Geminate,N-K4Q0,OEY-OR,OEY-OR IV,Reactive Gas,Medium,25.51
+Geminate,N-K4Q0,OEY-OR,OEY-OR IV,Liquid Ozone,Rich,45.40
+Geminate,N-K4Q0,OEY-OR,OEY-OR V,Precious Alloy,Medium,25.05
+Geminate,N-K4Q0,OEY-OR,OEY-OR V,Toxic Metals,Medium,6.44
+Geminate,N-K4Q0,OEY-OR,OEY-OR V,Supertensile Plastics,Poor,11.71
+Geminate,N-K4Q0,OEY-OR,OEY-OR V,Oxygen Isotopes,Poor,2.84
+Geminate,N-K4Q0,OEY-OR,OEY-OR VI,Gleaming Alloy,Medium,23.09
+Geminate,N-K4Q0,OEY-OR,OEY-OR VI,Reactive Gas,Rich,30.82
+Geminate,N-K4Q0,OEY-OR,OEY-OR VI,Reactive Metals,Medium,7.17
+Geminate,N-K4Q0,OEY-OR,OEY-OR VI,Suspended Plasma,Poor,67.40
+Geminate,N-K4Q0,OEY-OR,OEY-OR VII,Sheen Compound,Medium,28.61
+Geminate,N-K4Q0,OEY-OR,OEY-OR VII,Reactive Gas,Medium,22.68
+Geminate,N-K4Q0,OEY-OR,OEY-OR VII,Noble Gas,Medium,22.79
+Geminate,N-K4Q0,OEY-OR,OEY-OR VII,Polyaramids,Poor,13.02
+Geminate,N-K4Q0,OEY-OR,OEY-OR VII,Ionic Solutions,Poor,7.57
+Geminate,N-K4Q0,OEY-OR,OEY-OR VIII,Gleaming Alloy,Medium,28.82
+Geminate,N-K4Q0,OEY-OR,OEY-OR VIII,Reactive Gas,Poor,19.18
+Geminate,N-K4Q0,OEY-OR,OEY-OR VIII,Reactive Metals,Rich,7.66
+Geminate,N-K4Q0,OEY-OR,OEY-OR VIII,Construction Blocks,Perfect,37.08
+Geminate,N-K4Q0,OEY-OR,OEY-OR IX,Base Metals,Rich,8.92
+Geminate,N-K4Q0,OEY-OR,OEY-OR IX,Supertensile Plastics,Rich,22.45
+Geminate,N-K4Q0,OEY-OR,OEY-OR IX,Condensates,Medium,18.34
+Geminate,N-K4Q0,OEY-OR,OEY-OR IX,Liquid Ozone,Medium,31.71
+Geminate,UBPU-9,M-MD31,M-MD31 I,Dark Compound,Medium,25.23
+Geminate,UBPU-9,M-MD31,M-MD31 I,Toxic Metals,Poor,4.53
+Geminate,UBPU-9,M-MD31,M-MD31 I,Supertensile Plastics,Medium,17.41
+Geminate,UBPU-9,M-MD31,M-MD31 I,Silicate Glass,Poor,7.71
+Geminate,UBPU-9,M-MD31,M-MD31 II,Gleaming Alloy,Perfect,36.76
+Geminate,UBPU-9,M-MD31,M-MD31 II,Oxygen Isotopes,Perfect,5.49
+Geminate,UBPU-9,M-MD31,M-MD31 II,Plasmoids,Rich,1.88
+Geminate,UBPU-9,M-MD31,M-MD31 III,Gleaming Alloy,Rich,32.78
+Geminate,UBPU-9,M-MD31,M-MD31 III,Motley Compound,Rich,32.41
+Geminate,UBPU-9,M-MD31,M-MD31 III,Noble Gas,Rich,31.35
+Geminate,UBPU-9,M-MD31,M-MD31 IV,Condensed Alloy,Poor,20.15
+Geminate,UBPU-9,M-MD31,M-MD31 IV,Polyaramids,Medium,14.78
+Geminate,UBPU-9,M-MD31,M-MD31 IV,Coolant,Medium,17.00
+Geminate,UBPU-9,M-MD31,M-MD31 IV,Liquid Ozone,Rich,39.30
+Geminate,UBPU-9,M-MD31,M-MD31 IV,Ionic Solutions,Perfect,14.65
+Geminate,UBPU-9,M-MD31,M-MD31 V,Supertensile Plastics,Poor,10.31
+Geminate,UBPU-9,M-MD31,M-MD31 V,Construction Blocks,Poor,17.51
+Geminate,UBPU-9,M-MD31,M-MD31 V,Silicate Glass,Poor,9.04
+Geminate,UBPU-9,M-MD31,M-MD31 V,Oxygen Isotopes,Medium,3.38
+Geminate,UBPU-9,M-MD31,M-MD31 VI,Lustering Alloy,Poor,14.41
+Geminate,UBPU-9,M-MD31,M-MD31 VI,Precious Alloy,Poor,18.26
+Geminate,UBPU-9,M-MD31,M-MD31 VI,Industrial Fibers,Medium,6.19
+Geminate,UBPU-9,M-MD31,M-MD31 VI,Supertensile Plastics,Medium,17.04
+Geminate,UBPU-9,M-MD31,M-MD31 VII,Lustering Alloy,Medium,26.33
+Geminate,UBPU-9,M-MD31,M-MD31 VII,Fiber Composite,Medium,26.75
+Geminate,UBPU-9,M-MD31,M-MD31 VII,Reactive Gas,Rich,28.75
+Geminate,UBPU-9,M-MD31,M-MD31 VII,Noble Gas,Rich,29.37
+Geminate,UBPU-9,M-MD31,M-MD31 VII,Ionic Solutions,Rich,12.96
+Geminate,UBPU-9,M-MD31,M-MD31 VIII,Reactive Gas,Poor,18.92
+Geminate,UBPU-9,M-MD31,M-MD31 VIII,Noble Gas,Medium,21.91
+Geminate,UBPU-9,M-MD31,M-MD31 VIII,Reactive Metals,Poor,4.94
+Geminate,UBPU-9,M-MD31,M-MD31 VIII,Coolant,Rich,22.60
+Geminate,UBPU-9,M-MD31,M-MD31 VIII,Ionic Solutions,Rich,13.75
+Geminate,UBPU-9,M-MD31,M-MD31 IX,Lustering Alloy,Medium,22.64
+Geminate,UBPU-9,M-MD31,M-MD31 IX,Reactive Gas,Medium,26.47
+Geminate,UBPU-9,M-MD31,M-MD31 IX,Noble Gas,Medium,22.86
+Geminate,UBPU-9,M-MD31,M-MD31 IX,Reactive Metals,Rich,8.35
+Geminate,UBPU-9,M-MD31,M-MD31 IX,Coolant,Medium,14.39
+Geminate,UBPU-9,M-MD31,M-MD31 X,Sheen Compound,Rich,34.52
+Geminate,UBPU-9,M-MD31,M-MD31 X,Fiber Composite,Medium,27.19
+Geminate,UBPU-9,M-MD31,M-MD31 X,Glossy Compound,Medium,24.99
+Geminate,UBPU-9,M-MD31,M-MD31 X,Reactive Gas,Perfect,35.42
+Geminate,UBPU-9,M-MD31,M-MD31 X,Reactive Metals,Rich,8.42
+Geminate,UBPU-9,WH-2EZ,WH-2EZ I,Gleaming Alloy,Medium,23.90
+Geminate,UBPU-9,WH-2EZ,WH-2EZ I,Heavy Metals,Medium,25.37
+Geminate,UBPU-9,WH-2EZ,WH-2EZ I,Smartfab Units,Rich,20.12
+Geminate,UBPU-9,WH-2EZ,WH-2EZ II,Toxic Metals,Medium,6.80
+Geminate,UBPU-9,WH-2EZ,WH-2EZ II,Supertensile Plastics,Poor,12.68
+Geminate,UBPU-9,WH-2EZ,WH-2EZ II,Silicate Glass,Poor,7.17
+Geminate,UBPU-9,WH-2EZ,WH-2EZ II,Oxygen Isotopes,Medium,2.99
+Geminate,UBPU-9,WH-2EZ,WH-2EZ III,Glossy Compound,Medium,20.08
+Geminate,UBPU-9,WH-2EZ,WH-2EZ III,Reactive Gas,Medium,23.35
+Geminate,UBPU-9,WH-2EZ,WH-2EZ III,Base Metals,Rich,7.31
+Geminate,UBPU-9,WH-2EZ,WH-2EZ III,Reactive Metals,Rich,7.20
+Geminate,UBPU-9,WH-2EZ,WH-2EZ III,Ionic Solutions,Poor,7.89
+Geminate,UBPU-9,WH-2EZ,WH-2EZ IV,Sheen Compound,Perfect,34.04
+Geminate,UBPU-9,WH-2EZ,WH-2EZ IV,Fiber Composite,Medium,20.52
+Geminate,UBPU-9,WH-2EZ,WH-2EZ IV,Reactive Gas,Rich,27.82
+Geminate,UBPU-9,WH-2EZ,WH-2EZ IV,Base Metals,Medium,5.69
+Geminate,UBPU-9,WH-2EZ,WH-2EZ IV,Polyaramids,Rich,19.89
+Geminate,UBPU-9,WH-2EZ,WH-2EZ V,Sheen Compound,Medium,25.70
+Geminate,UBPU-9,WH-2EZ,WH-2EZ V,Fiber Composite,Poor,19.00
+Geminate,UBPU-9,WH-2EZ,WH-2EZ V,Glossy Compound,Medium,21.55
+Geminate,UBPU-9,WH-2EZ,WH-2EZ V,Reactive Gas,Medium,25.79
+Geminate,UBPU-9,WH-2EZ,WH-2EZ V,Polyaramids,Poor,12.84
+Geminate,UBPU-9,WH-2EZ,WH-2EZ VI,Sheen Compound,Rich,33.35
+Geminate,UBPU-9,WH-2EZ,WH-2EZ VI,Lucent Compound,Rich,27.82
+Geminate,UBPU-9,WH-2EZ,WH-2EZ VI,Dark Compound,Perfect,35.70
+Geminate,UBPU-9,WH-2EZ,WH-2EZ VI,Reactive Metals,Rich,8.70
+Geminate,UBPU-9,WH-2EZ,WH-2EZ VI,Condensates,Rich,19.22
+Geminate,UBPU-9,D0-F4W,D0-F4W I,Lustering Alloy,Poor,17.48
+Geminate,UBPU-9,D0-F4W,D0-F4W I,Precious Alloy,Medium,21.32
+Geminate,UBPU-9,D0-F4W,D0-F4W I,Toxic Metals,Poor,4.92
+Geminate,UBPU-9,D0-F4W,D0-F4W I,Supertensile Plastics,Poor,11.65
+Geminate,UBPU-9,D0-F4W,D0-F4W II,Condensed Alloy,Perfect,35.14
+Geminate,UBPU-9,D0-F4W,D0-F4W II,Opulent Compound,Poor,18.30
+Geminate,UBPU-9,D0-F4W,D0-F4W II,Toxic Metals,Perfect,8.60
+Geminate,UBPU-9,D0-F4W,D0-F4W II,Liquid Ozone,Rich,32.75
+Geminate,UBPU-9,D0-F4W,D0-F4W II,Ionic Solutions,Medium,9.63
+Geminate,UBPU-9,D0-F4W,D0-F4W III,Fiber Composite,Medium,19.14
+Geminate,UBPU-9,D0-F4W,D0-F4W III,Opulent Compound,Perfect,36.84
+Geminate,UBPU-9,D0-F4W,D0-F4W III,Reactive Gas,Medium,23.74
+Geminate,UBPU-9,D0-F4W,D0-F4W III,Smartfab Units,Medium,13.49
+Geminate,UBPU-9,D0-F4W,D0-F4W III,Liquid Ozone,Medium,26.32
+Geminate,UBPU-9,D0-F4W,D0-F4W IV,Precious Alloy,Medium,19.50
+Geminate,UBPU-9,D0-F4W,D0-F4W IV,Supertensile Plastics,Medium,15.28
+Geminate,UBPU-9,D0-F4W,D0-F4W IV,Construction Blocks,Medium,21.86
+Geminate,UBPU-9,D0-F4W,D0-F4W IV,Oxygen Isotopes,Poor,2.16
+Geminate,UBPU-9,D0-F4W,D0-F4W V,Lustering Alloy,Medium,21.50
+Geminate,UBPU-9,D0-F4W,D0-F4W V,Toxic Metals,Poor,3.39
+Geminate,UBPU-9,D0-F4W,D0-F4W V,Supertensile Plastics,Medium,15.17
+Geminate,UBPU-9,D0-F4W,D0-F4W V,Silicate Glass,Poor,7.26
+Geminate,UBPU-9,D0-F4W,D0-F4W VI,Sheen Compound,Medium,20.24
+Geminate,UBPU-9,D0-F4W,D0-F4W VI,Glossy Compound,Medium,23.48
+Geminate,UBPU-9,D0-F4W,D0-F4W VI,Reactive Gas,Poor,17.30
+Geminate,UBPU-9,D0-F4W,D0-F4W VI,Noble Gas,Medium,24.00
+Geminate,UBPU-9,D0-F4W,D0-F4W VI,Ionic Solutions,Medium,9.04
+Geminate,UBPU-9,D0-F4W,D0-F4W VII,Condensed Alloy,Medium,24.34
+Geminate,UBPU-9,D0-F4W,D0-F4W VII,Opulent Compound,Poor,18.70
+Geminate,UBPU-9,D0-F4W,D0-F4W VII,Smartfab Units,Poor,12.21
+Geminate,UBPU-9,D0-F4W,D0-F4W VII,Heavy Water,Perfect,369.60
+Geminate,UBPU-9,D0-F4W,D0-F4W VII,Liquid Ozone,Medium,30.57
+Geminate,UBPU-9,D0-F4W,D0-F4W VIII,Fiber Composite,Rich,31.20
+Geminate,UBPU-9,D0-F4W,D0-F4W VIII,Glossy Compound,Medium,23.10
+Geminate,UBPU-9,D0-F4W,D0-F4W VIII,Reactive Gas,Poor,17.14
+Geminate,UBPU-9,D0-F4W,D0-F4W VIII,Coolant,Rich,20.75
+Geminate,UBPU-9,D0-F4W,D0-F4W VIII,Ionic Solutions,Perfect,12.96
+Geminate,UBPU-9,QKTR-L,QKTR-L I,Dark Compound,Medium,24.45
+Geminate,UBPU-9,QKTR-L,QKTR-L I,Supertensile Plastics,Medium,15.24
+Geminate,UBPU-9,QKTR-L,QKTR-L I,Construction Blocks,Medium,27.92
+Geminate,UBPU-9,QKTR-L,QKTR-L I,Silicate Glass,Medium,12.67
+Geminate,UBPU-9,QKTR-L,QKTR-L II,Dark Compound,Medium,24.24
+Geminate,UBPU-9,QKTR-L,QKTR-L II,Supertensile Plastics,Medium,18.51
+Geminate,UBPU-9,QKTR-L,QKTR-L II,Silicate Glass,Medium,13.96
+Geminate,UBPU-9,QKTR-L,QKTR-L II,Plasmoids,Medium,1.56
+Geminate,UBPU-9,QKTR-L,QKTR-L III,Reactive Metals,Medium,5.94
+Geminate,UBPU-9,QKTR-L,QKTR-L III,Supertensile Plastics,Rich,22.59
+Geminate,UBPU-9,QKTR-L,QKTR-L III,Nanites,Medium,6.91
+Geminate,UBPU-9,QKTR-L,QKTR-L III,Suspended Plasma,Medium,98.53
+Geminate,UBPU-9,QKTR-L,QKTR-L IV,Sheen Compound,Rich,33.00
+Geminate,UBPU-9,QKTR-L,QKTR-L IV,Reactive Gas,Perfect,38.04
+Geminate,UBPU-9,QKTR-L,QKTR-L IV,Noble Gas,Medium,22.20
+Geminate,UBPU-9,QKTR-L,QKTR-L IV,Polyaramids,Medium,18.75
+Geminate,UBPU-9,QKTR-L,QKTR-L IV,Ionic Solutions,Perfect,14.99
+Geminate,UBPU-9,QKTR-L,QKTR-L V,Sheen Compound,Rich,29.99
+Geminate,UBPU-9,QKTR-L,QKTR-L V,Reactive Gas,Rich,32.57
+Geminate,UBPU-9,QKTR-L,QKTR-L V,Base Metals,Medium,5.77
+Geminate,UBPU-9,QKTR-L,QKTR-L V,Reactive Metals,Medium,6.59
+Geminate,UBPU-9,QKTR-L,QKTR-L V,Coolant,Medium,16.22
+Geminate,UBPU-9,QKTR-L,QKTR-L VI,Precious Alloy,Poor,21.14
+Geminate,UBPU-9,QKTR-L,QKTR-L VI,Motley Compound,Rich,31.39
+Geminate,UBPU-9,QKTR-L,QKTR-L VI,Condensates,Poor,12.01
+Geminate,UBPU-9,QKTR-L,QKTR-L VI,Liquid Ozone,Medium,33.72
+Geminate,UBPU-9,YN3-E3,YN3-E3 I,Toxic Metals,Medium,5.96
+Geminate,UBPU-9,YN3-E3,YN3-E3 I,Industrial Fibers,Poor,4.93
+Geminate,UBPU-9,YN3-E3,YN3-E3 I,Supertensile Plastics,Poor,8.27
+Geminate,UBPU-9,YN3-E3,YN3-E3 I,Silicate Glass,Medium,12.17
+Geminate,UBPU-9,YN3-E3,YN3-E3 II,Lucent Compound,Rich,30.30
+Geminate,UBPU-9,YN3-E3,YN3-E3 II,Reactive Metals,Medium,5.53
+Geminate,UBPU-9,YN3-E3,YN3-E3 II,Condensates,Medium,16.19
+Geminate,UBPU-9,YN3-E3,YN3-E3 II,Suspended Plasma,Medium,85.54
+Geminate,UBPU-9,YN3-E3,YN3-E3 II,Plasmoids,Medium,1.28
+Geminate,UBPU-9,YN3-E3,YN3-E3 III,Precious Alloy,Medium,20.44
+Geminate,UBPU-9,YN3-E3,YN3-E3 III,Dark Compound,Poor,14.90
+Geminate,UBPU-9,YN3-E3,YN3-E3 III,Supertensile Plastics,Medium,14.05
+Geminate,UBPU-9,YN3-E3,YN3-E3 III,Oxygen Isotopes,Poor,2.57
+Geminate,UBPU-9,YN3-E3,YN3-E3 IV,Dark Compound,Medium,21.90
+Geminate,UBPU-9,YN3-E3,YN3-E3 IV,Toxic Metals,Medium,6.09
+Geminate,UBPU-9,YN3-E3,YN3-E3 IV,Supertensile Plastics,Poor,9.87
+Geminate,UBPU-9,YN3-E3,YN3-E3 IV,Silicate Glass,Medium,10.09
+Geminate,UBPU-9,YN3-E3,YN3-E3 V,Sheen Compound,Rich,29.18
+Geminate,UBPU-9,YN3-E3,YN3-E3 V,Dark Compound,Poor,18.50
+Geminate,UBPU-9,YN3-E3,YN3-E3 V,Condensates,Rich,19.83
+Geminate,UBPU-9,YN3-E3,YN3-E3 V,Nanites,Rich,6.66
+Geminate,UBPU-9,YN3-E3,YN3-E3 V,Suspended Plasma,Medium,68.69
+Geminate,UBPU-9,YN3-E3,YN3-E3 VI,Gleaming Alloy,Perfect,33.18
+Geminate,UBPU-9,YN3-E3,YN3-E3 VI,Motley Compound,Rich,27.98
+Geminate,UBPU-9,YN3-E3,YN3-E3 VI,Plasmoids,Medium,1.35
+Geminate,UBPU-9,YN3-E3,YN3-E3 VII,Lucent Compound,Rich,29.00
+Geminate,UBPU-9,YN3-E3,YN3-E3 VII,Reactive Metals,Medium,5.71
+Geminate,UBPU-9,YN3-E3,YN3-E3 VII,Supertensile Plastics,Medium,15.59
+Geminate,UBPU-9,YN3-E3,YN3-E3 VII,Nanites,Rich,7.62
+Geminate,UBPU-9,YN3-E3,YN3-E3 VIII,Glossy Compound,Rich,30.72
+Geminate,UBPU-9,YN3-E3,YN3-E3 VIII,Reactive Gas,Medium,24.86
+Geminate,UBPU-9,YN3-E3,YN3-E3 VIII,Base Metals,Rich,7.21
+Geminate,UBPU-9,YN3-E3,YN3-E3 VIII,Coolant,Rich,20.12
+Geminate,UBPU-9,YN3-E3,YN3-E3 VIII,Ionic Solutions,Poor,7.43
+Geminate,UBPU-9,YN3-E3,YN3-E3 IX,Lustering Alloy,Rich,30.66
+Geminate,UBPU-9,YN3-E3,YN3-E3 IX,Fiber Composite,Rich,28.76
+Geminate,UBPU-9,YN3-E3,YN3-E3 IX,Reactive Gas,Poor,16.58
+Geminate,UBPU-9,YN3-E3,YN3-E3 IX,Noble Gas,Medium,23.82
+Geminate,UBPU-9,YN3-E3,YN3-E3 IX,Polyaramids,Rich,20.68
+Geminate,UBPU-9,YN3-E3,YN3-E3 X,Lustering Alloy,Rich,26.54
+Geminate,UBPU-9,YN3-E3,YN3-E3 X,Fiber Composite,Medium,24.24
+Geminate,UBPU-9,YN3-E3,YN3-E3 X,Reactive Gas,Rich,26.56
+Geminate,UBPU-9,YN3-E3,YN3-E3 X,Reactive Metals,Rich,7.01
+Geminate,UBPU-9,YN3-E3,YN3-E3 X,Coolant,Poor,11.33
+Geminate,UBPU-9,YN3-E3,YN3-E3 XI,Lustering Alloy,Medium,22.60
+Geminate,UBPU-9,YN3-E3,YN3-E3 XI,Motley Compound,Rich,27.40
+Geminate,UBPU-9,YN3-E3,YN3-E3 XI,Supertensile Plastics,Medium,15.79
+Geminate,UBPU-9,YN3-E3,YN3-E3 XI,Condensates,Medium,16.13
+Geminate,UBPU-9,NBPH-N,NBPH-N I,Lustering Alloy,Medium,19.02
+Geminate,UBPU-9,NBPH-N,NBPH-N I,Dark Compound,Poor,17.36
+Geminate,UBPU-9,NBPH-N,NBPH-N I,Toxic Metals,Poor,3.64
+Geminate,UBPU-9,NBPH-N,NBPH-N I,Supertensile Plastics,Poor,11.28
+Geminate,UBPU-9,NBPH-N,NBPH-N II,Gleaming Alloy,Rich,26.68
+Geminate,UBPU-9,NBPH-N,NBPH-N II,Motley Compound,Medium,21.08
+Geminate,UBPU-9,NBPH-N,NBPH-N II,Oxygen Isotopes,Poor,2.72
+Geminate,UBPU-9,NBPH-N,NBPH-N III,Opulent Compound,Medium,22.20
+Geminate,UBPU-9,NBPH-N,NBPH-N III,Noble Metals,Medium,25.10
+Geminate,UBPU-9,NBPH-N,NBPH-N III,Coolant,Perfect,21.37
+Geminate,UBPU-9,NBPH-N,NBPH-N III,Heavy Water,Perfect,353.00
+Geminate,UBPU-9,NBPH-N,NBPH-N III,Liquid Ozone,Perfect,44.15
+Geminate,UBPU-9,NBPH-N,NBPH-N IV,Reactive Gas,Perfect,34.24
+Geminate,UBPU-9,NBPH-N,NBPH-N IV,Noble Metals,Perfect,36.46
+Geminate,UBPU-9,NBPH-N,NBPH-N IV,Condensates,Rich,20.16
+Geminate,UBPU-9,NBPH-N,NBPH-N IV,Heavy Water,Perfect,332.60
+Geminate,UBPU-9,NBPH-N,NBPH-N IV,Liquid Ozone,Medium,23.85
+Geminate,UBPU-9,NBPH-N,NBPH-N V,Condensed Alloy,Medium,21.08
+Geminate,UBPU-9,NBPH-N,NBPH-N V,Opulent Compound,Rich,26.06
+Geminate,UBPU-9,NBPH-N,NBPH-N V,Reactive Gas,Perfect,32.48
+Geminate,UBPU-9,NBPH-N,NBPH-N V,Industrial Fibers,Perfect,8.49
+Geminate,UBPU-9,NBPH-N,NBPH-N V,Liquid Ozone,Perfect,40.27
+Geminate,UBPU-9,NBPH-N,NBPH-N VI,Fiber Composite,Rich,30.74
+Geminate,UBPU-9,NBPH-N,NBPH-N VI,Glossy Compound,Rich,28.36
+Geminate,UBPU-9,NBPH-N,NBPH-N VI,Reactive Gas,Rich,26.20
+Geminate,UBPU-9,NBPH-N,NBPH-N VI,Base Metals,Medium,6.26
+Geminate,UBPU-9,NBPH-N,NBPH-N VI,Reactive Metals,Poor,4.91
+Geminate,UBPU-9,NBPH-N,NBPH-N VII,Lustering Alloy,Medium,22.06
+Geminate,UBPU-9,NBPH-N,NBPH-N VII,Supertensile Plastics,Medium,13.99
+Geminate,UBPU-9,NBPH-N,NBPH-N VII,Construction Blocks,Poor,16.18
+Geminate,UBPU-9,NBPH-N,NBPH-N VII,Oxygen Isotopes,Medium,3.54
+Geminate,UBPU-9,NBPH-N,NBPH-N VIII,Lustering Alloy,Medium,21.68
+Geminate,UBPU-9,NBPH-N,NBPH-N VIII,Reactive Gas,Medium,23.94
+Geminate,UBPU-9,NBPH-N,NBPH-N VIII,Base Metals,Poor,4.95
+Geminate,UBPU-9,NBPH-N,NBPH-N VIII,Coolant,Rich,17.53
+Geminate,UBPU-9,NBPH-N,NBPH-N VIII,Ionic Solutions,Rich,12.37
+Geminate,UBPU-9,L-HV5C,L-HV5C I,Crystal Compound,Rich,25.58
+Geminate,UBPU-9,L-HV5C,L-HV5C I,Reactive Metals,Rich,7.86
+Geminate,UBPU-9,L-HV5C,L-HV5C I,Nanites,Rich,7.28
+Geminate,UBPU-9,L-HV5C,L-HV5C I,Oxygen Isotopes,Medium,3.21
+Geminate,UBPU-9,L-HV5C,L-HV5C II,Glossy Compound,Perfect,33.14
+Geminate,UBPU-9,L-HV5C,L-HV5C II,Reactive Gas,Medium,23.60
+Geminate,UBPU-9,L-HV5C,L-HV5C II,Reactive Metals,Rich,6.70
+Geminate,UBPU-9,L-HV5C,L-HV5C II,Polyaramids,Rich,17.00
+Geminate,UBPU-9,L-HV5C,L-HV5C II,Coolant,Medium,13.91
+Geminate,UBPU-9,L-HV5C,L-HV5C III,Fiber Composite,Rich,25.88
+Geminate,UBPU-9,L-HV5C,L-HV5C III,Glossy Compound,Rich,29.54
+Geminate,UBPU-9,L-HV5C,L-HV5C III,Reactive Gas,Medium,24.02
+Geminate,UBPU-9,L-HV5C,L-HV5C III,Base Metals,Medium,4.99
+Geminate,UBPU-9,L-HV5C,L-HV5C III,Polyaramids,Medium,15.48
+Geminate,UBPU-9,L-HV5C,L-HV5C IV,Precious Alloy,Rich,25.52
+Geminate,UBPU-9,L-HV5C,L-HV5C IV,Motley Compound,Rich,25.60
+Geminate,UBPU-9,L-HV5C,L-HV5C IV,Condensates,Rich,18.24
+Geminate,UBPU-9,L-HV5C,L-HV5C IV,Suspended Plasma,Medium,72.58
+Geminate,UBPU-9,L4X-FH,L4X-FH I,Sheen Compound,Medium,23.98
+Geminate,UBPU-9,L4X-FH,L4X-FH I,Dark Compound,Perfect,33.82
+Geminate,UBPU-9,L4X-FH,L4X-FH I,Reactive Metals,Rich,7.63
+Geminate,UBPU-9,L4X-FH,L4X-FH I,Condensates,Rich,17.69
+Geminate,UBPU-9,L4X-FH,L4X-FH I,Suspended Plasma,Perfect,121.82
+Geminate,UBPU-9,L4X-FH,L4X-FH II,Lustering Alloy,Medium,22.50
+Geminate,UBPU-9,L4X-FH,L4X-FH II,Industrial Fibers,Medium,5.82
+Geminate,UBPU-9,L4X-FH,L4X-FH II,Supertensile Plastics,Poor,10.79
+Geminate,UBPU-9,L4X-FH,L4X-FH II,Silicate Glass,Poor,6.54
+Geminate,UBPU-9,L4X-FH,L4X-FH III,Precious Alloy,Poor,16.20
+Geminate,UBPU-9,L4X-FH,L4X-FH III,Base Metals,Poor,3.78
+Geminate,UBPU-9,L4X-FH,L4X-FH III,Supertensile Plastics,Poor,9.17
+Geminate,UBPU-9,L4X-FH,L4X-FH III,Construction Blocks,Medium,20.64
+Geminate,UBPU-9,L4X-FH,L4X-FH IV,Glossy Compound,Medium,22.44
+Geminate,UBPU-9,L4X-FH,L4X-FH IV,Reactive Gas,Medium,20.12
+Geminate,UBPU-9,L4X-FH,L4X-FH IV,Noble Gas,Medium,24.96
+Geminate,UBPU-9,L4X-FH,L4X-FH IV,Coolant,Rich,19.57
+Geminate,UBPU-9,L4X-FH,L4X-FH IV,Ionic Solutions,Rich,11.50
+Geminate,UBPU-9,L4X-FH,L4X-FH V,Lustering Alloy,Rich,31.76
+Geminate,UBPU-9,L4X-FH,L4X-FH V,Fiber Composite,Medium,20.46
+Geminate,UBPU-9,L4X-FH,L4X-FH V,Glossy Compound,Rich,26.22
+Geminate,UBPU-9,L4X-FH,L4X-FH V,Reactive Gas,Rich,25.46
+Geminate,UBPU-9,L4X-FH,L4X-FH V,Ionic Solutions,Medium,9.13
+Geminate,UBPU-9,L4X-FH,L4X-FH VI,Sheen Compound,Rich,28.22
+Geminate,UBPU-9,L4X-FH,L4X-FH VI,Fiber Composite,Medium,22.34
+Geminate,UBPU-9,L4X-FH,L4X-FH VI,Reactive Gas,Rich,27.20
+Geminate,UBPU-9,L4X-FH,L4X-FH VI,Polyaramids,Medium,15.71
+Geminate,UBPU-9,L4X-FH,L4X-FH VI,Coolant,Rich,18.67
+Geminate,UBPU-9,L4X-FH,L4X-FH VII,Opulent Compound,Rich,30.14
+Geminate,UBPU-9,L4X-FH,L4X-FH VII,Toxic Metals,Rich,7.79
+Geminate,UBPU-9,L4X-FH,L4X-FH VII,Silicate Glass,Rich,12.77
+Geminate,UBPU-9,L4X-FH,L4X-FH VII,Heavy Water,Rich,278.00
+Geminate,UBPU-9,L4X-FH,L4X-FH VII,Liquid Ozone,Medium,25.52
+Geminate,UBPU-9,L4X-FH,L4X-FH VIII,Noble Metals,Medium,20.54
+Geminate,UBPU-9,L4X-FH,L4X-FH VIII,Toxic Metals,Medium,5.81
+Geminate,UBPU-9,L4X-FH,L4X-FH VIII,Polyaramids,Rich,19.28
+Geminate,UBPU-9,L4X-FH,L4X-FH VIII,Liquid Ozone,Medium,24.32
+Geminate,UBPU-9,L4X-FH,L4X-FH VIII,Ionic Solutions,Medium,9.75
+Geminate,UBPU-9,B6-52M,B6-52M I,Precious Alloy,Poor,16.26
+Geminate,UBPU-9,B6-52M,B6-52M I,Dark Compound,Medium,23.36
+Geminate,UBPU-9,B6-52M,B6-52M I,Supertensile Plastics,Medium,15.91
+Geminate,UBPU-9,B6-52M,B6-52M I,Silicate Glass,Poor,7.55
+Geminate,UBPU-9,B6-52M,B6-52M II,Gleaming Alloy,Poor,17.92
+Geminate,UBPU-9,B6-52M,B6-52M II,Noble Gas,Poor,16.44
+Geminate,UBPU-9,B6-52M,B6-52M II,Heavy Metals,Poor,17.32
+Geminate,UBPU-9,B6-52M,B6-52M III,Lustering Alloy,Medium,24.06
+Geminate,UBPU-9,B6-52M,B6-52M III,Toxic Metals,Medium,5.73
+Geminate,UBPU-9,B6-52M,B6-52M III,Supertensile Plastics,Poor,8.61
+Geminate,UBPU-9,B6-52M,B6-52M III,Oxygen Isotopes,Medium,3.37
+Geminate,UBPU-9,B6-52M,B6-52M IV,Lustering Alloy,Poor,12.94
+Geminate,UBPU-9,B6-52M,B6-52M IV,Base Metals,Poor,4.28
+Geminate,UBPU-9,B6-52M,B6-52M IV,Toxic Metals,Medium,5.74
+Geminate,UBPU-9,B6-52M,B6-52M IV,Supertensile Plastics,Medium,14.41
+Geminate,UBPU-9,B6-52M,B6-52M V,Condensed Alloy,Rich,28.80
+Geminate,UBPU-9,B6-52M,B6-52M V,Noble Metals,Perfect,32.54
+Geminate,UBPU-9,B6-52M,B6-52M V,Smartfab Units,Rich,19.45
+Geminate,UBPU-9,B6-52M,B6-52M V,Heavy Water,Rich,283.20
+Geminate,UBPU-9,B6-52M,B6-52M V,Liquid Ozone,Rich,34.13
+Geminate,UBPU-9,B6-52M,B6-52M VI,Gleaming Alloy,Rich,27.42
+Geminate,UBPU-9,B6-52M,B6-52M VI,Glossy Compound,Medium,19.42
+Geminate,UBPU-9,B6-52M,B6-52M VI,Noble Gas,Perfect,32.60
+Geminate,UBPU-9,B6-52M,B6-52M VII,Dark Compound,Poor,18.20
+Geminate,UBPU-9,B6-52M,B6-52M VII,Base Metals,Poor,4.48
+Geminate,UBPU-9,B6-52M,B6-52M VII,Industrial Fibers,Poor,4.83
+Geminate,UBPU-9,B6-52M,B6-52M VII,Supertensile Plastics,Medium,14.23
+Geminate,UBPU-9,B6-52M,B6-52M VIII,Sheen Compound,Medium,23.22
+Geminate,UBPU-9,B6-52M,B6-52M VIII,Reactive Gas,Rich,27.80
+Geminate,UBPU-9,B6-52M,B6-52M VIII,Base Metals,Rich,8.13
+Geminate,UBPU-9,B6-52M,B6-52M VIII,Polyaramids,Medium,15.84
+Geminate,UBPU-9,B6-52M,B6-52M VIII,Coolant,Perfect,21.81
+Geminate,UBPU-9,B6-52M,B6-52M IX,Fiber Composite,Poor,16.48
+Geminate,UBPU-9,B6-52M,B6-52M IX,Glossy Compound,Rich,25.82
+Geminate,UBPU-9,B6-52M,B6-52M IX,Reactive Gas,Medium,21.74
+Geminate,UBPU-9,B6-52M,B6-52M IX,Noble Gas,Poor,17.14
+Geminate,UBPU-9,B6-52M,B6-52M IX,Base Metals,Medium,5.06
+Geminate,UBPU-9,B6-52M,B6-52M X,Lustering Alloy,Medium,21.22
+Geminate,UBPU-9,B6-52M,B6-52M X,Reactive Gas,Medium,20.16
+Geminate,UBPU-9,B6-52M,B6-52M X,Base Metals,Medium,6.05
+Geminate,UBPU-9,B6-52M,B6-52M X,Polyaramids,Poor,12.49
+Geminate,UBPU-9,B6-52M,B6-52M X,Ionic Solutions,Rich,11.18
+Geminate,UBPU-9,B6-52M,B6-52M XI,Lustering Alloy,Rich,28.32
+Geminate,UBPU-9,B6-52M,B6-52M XI,Fiber Composite,Rich,25.56
+Geminate,UBPU-9,B6-52M,B6-52M XI,Reactive Gas,Poor,18.18
+Geminate,UBPU-9,B6-52M,B6-52M XI,Base Metals,Perfect,8.67
+Geminate,UBPU-9,B6-52M,B6-52M XI,Ionic Solutions,Perfect,13.17
+Geminate,UBPU-9,B6-52M,B6-52M XII,Fiber Composite,Perfect,32.48
+Geminate,UBPU-9,B6-52M,B6-52M XII,Reactive Gas,Poor,17.92
+Geminate,UBPU-9,B6-52M,B6-52M XII,Base Metals,Rich,6.67
+Geminate,UBPU-9,B6-52M,B6-52M XII,Reactive Metals,Rich,7.97
+Geminate,UBPU-9,B6-52M,B6-52M XII,Polyaramids,Medium,16.60
+Geminate,UBPU-9,V-MZW0,V-MZW0 I,Gleaming Alloy,Rich,31.02
+Geminate,UBPU-9,V-MZW0,V-MZW0 I,Noble Metals,Rich,31.60
+Geminate,UBPU-9,V-MZW0,V-MZW0 I,Construction Blocks,Rich,26.22
+Geminate,UBPU-9,V-MZW0,V-MZW0 II,Dark Compound,Poor,18.46
+Geminate,UBPU-9,V-MZW0,V-MZW0 II,Industrial Fibers,Poor,4.01
+Geminate,UBPU-9,V-MZW0,V-MZW0 II,Supertensile Plastics,Poor,12.00
+Geminate,UBPU-9,V-MZW0,V-MZW0 II,Oxygen Isotopes,Poor,2.08
+Geminate,UBPU-9,V-MZW0,V-MZW0 III,Gleaming Alloy,Medium,21.06
+Geminate,UBPU-9,V-MZW0,V-MZW0 III,Motley Compound,Rich,27.68
+Geminate,UBPU-9,V-MZW0,V-MZW0 III,Noble Metals,Rich,30.70
+Geminate,UBPU-9,V-MZW0,V-MZW0 IV,Reactive Metals,Medium,5.46
+Geminate,UBPU-9,V-MZW0,V-MZW0 IV,Construction Blocks,Poor,18.54
+Geminate,UBPU-9,V-MZW0,V-MZW0 IV,Nanites,Medium,6.25
+Geminate,UBPU-9,V-MZW0,V-MZW0 IV,Oxygen Isotopes,Medium,3.59
+Geminate,UBPU-9,V-MZW0,V-MZW0 V,Gleaming Alloy,Medium,24.90
+Geminate,UBPU-9,V-MZW0,V-MZW0 V,Reactive Gas,Medium,21.76
+Geminate,UBPU-9,V-MZW0,V-MZW0 V,Reactive Metals,Rich,8.33
+Geminate,UBPU-9,V-MZW0,V-MZW0 V,Oxygen Isotopes,Rich,4.02
+Geminate,UBPU-9,V-MZW0,V-MZW0 VI,Gleaming Alloy,Rich,31.28
+Geminate,UBPU-9,V-MZW0,V-MZW0 VI,Noble Metals,Rich,31.00
+Geminate,UBPU-9,V-MZW0,V-MZW0 VI,Oxygen Isotopes,Rich,3.84
+Geminate,UBPU-9,V-MZW0,V-MZW0 VII,Fiber Composite,Rich,25.44
+Geminate,UBPU-9,V-MZW0,V-MZW0 VII,Reactive Gas,Rich,26.92
+Geminate,UBPU-9,V-MZW0,V-MZW0 VII,Base Metals,Medium,6.34
+Geminate,UBPU-9,V-MZW0,V-MZW0 VII,Coolant,Perfect,21.20
+Geminate,UBPU-9,V-MZW0,V-MZW0 VII,Ionic Solutions,Rich,12.27
+Geminate,UBPU-9,V-MZW0,V-MZW0 VIII,Crystal Compound,Rich,28.42
+Geminate,UBPU-9,V-MZW0,V-MZW0 VIII,Toxic Metals,Perfect,9.11
+Geminate,UBPU-9,V-MZW0,V-MZW0 VIII,Polyaramids,Perfect,22.53
+Geminate,UBPU-9,V-MZW0,V-MZW0 VIII,Heavy Water,Rich,277.60
+Geminate,UBPU-9,V-MZW0,V-MZW0 VIII,Liquid Ozone,Perfect,43.05
+Geminate,UBPU-9,V-MZW0,V-MZW0 IX,Sheen Compound,Rich,29.82
+Geminate,UBPU-9,V-MZW0,V-MZW0 IX,Glossy Compound,Perfect,32.70
+Geminate,UBPU-9,V-MZW0,V-MZW0 IX,Reactive Gas,Poor,18.42
+Geminate,UBPU-9,V-MZW0,V-MZW0 IX,Base Metals,Rich,8.26
+Geminate,UBPU-9,V-MZW0,V-MZW0 IX,Ionic Solutions,Rich,12.08
+Geminate,UBPU-9,V-MZW0,V-MZW0 X,Sheen Compound,Rich,25.44
+Geminate,UBPU-9,V-MZW0,V-MZW0 X,Fiber Composite,Medium,22.00
+Geminate,UBPU-9,V-MZW0,V-MZW0 X,Reactive Gas,Poor,17.04
+Geminate,UBPU-9,V-MZW0,V-MZW0 X,Noble Gas,Poor,17.78
+Geminate,UBPU-9,V-MZW0,V-MZW0 X,Reactive Metals,Perfect,8.53
+Geminate,IPS-QB,BND-16,BND-16 I,Lustering Alloy,Medium,23.64
+Geminate,IPS-QB,BND-16,BND-16 I,Base Metals,Medium,6.39
+Geminate,IPS-QB,BND-16,BND-16 I,Supertensile Plastics,Poor,14.50
+Geminate,IPS-QB,BND-16,BND-16 I,Plasmoids,Medium,1.77
+Geminate,IPS-QB,BND-16,BND-16 II,Supertensile Plastics,Medium,17.97
+Geminate,IPS-QB,BND-16,BND-16 II,Construction Blocks,Medium,24.38
+Geminate,IPS-QB,BND-16,BND-16 II,Silicate Glass,Poor,9.28
+Geminate,IPS-QB,BND-16,BND-16 II,Oxygen Isotopes,Poor,2.49
+Geminate,IPS-QB,BND-16,BND-16 III,Precious Alloy,Medium,23.26
+Geminate,IPS-QB,BND-16,BND-16 III,Toxic Metals,Poor,5.86
+Geminate,IPS-QB,BND-16,BND-16 III,Supertensile Plastics,Poor,12.70
+Geminate,IPS-QB,BND-16,BND-16 III,Oxygen Isotopes,Poor,2.44
+Geminate,IPS-QB,BND-16,BND-16 IV,Base Metals,Medium,6.80
+Geminate,IPS-QB,BND-16,BND-16 IV,Toxic Metals,Poor,5.03
+Geminate,IPS-QB,BND-16,BND-16 IV,Supertensile Plastics,Poor,13.68
+Geminate,IPS-QB,BND-16,BND-16 IV,Silicate Glass,Medium,12.59
+Geminate,IPS-QB,BND-16,BND-16 V,Reactive Gas,Medium,28.75
+Geminate,IPS-QB,BND-16,BND-16 V,Reactive Metals,Rich,8.23
+Geminate,IPS-QB,BND-16,BND-16 V,Supertensile Plastics,Medium,19.02
+Geminate,IPS-QB,BND-16,BND-16 V,Suspended Plasma,Rich,128.30
+Geminate,IPS-QB,BND-16,BND-16 VI,Condensed Alloy,Rich,34.22
+Geminate,IPS-QB,BND-16,BND-16 VI,Fiber Composite,Rich,35.62
+Geminate,IPS-QB,BND-16,BND-16 VI,Base Metals,Poor,5.90
+Geminate,IPS-QB,BND-16,BND-16 VI,Condensates,Medium,15.30
+Geminate,IPS-QB,BND-16,BND-16 VI,Liquid Ozone,Rich,46.62
+Geminate,IPS-QB,BND-16,BND-16 VII,Reactive Gas,Rich,31.10
+Geminate,IPS-QB,BND-16,BND-16 VII,Noble Gas,Rich,34.75
+Geminate,IPS-QB,BND-16,BND-16 VII,Base Metals,Rich,9.83
+Geminate,IPS-QB,BND-16,BND-16 VII,Reactive Metals,Medium,6.51
+Geminate,IPS-QB,BND-16,BND-16 VII,Coolant,Medium,18.42
+Geminate,IPS-QB,BND-16,BND-16 VIII,Fiber Composite,Medium,25.22
+Geminate,IPS-QB,BND-16,BND-16 VIII,Reactive Gas,Medium,29.69
+Geminate,IPS-QB,BND-16,BND-16 VIII,Base Metals,Medium,6.15
+Geminate,IPS-QB,BND-16,BND-16 VIII,Polyaramids,Poor,14.88
+Geminate,IPS-QB,BND-16,BND-16 VIII,Ionic Solutions,Medium,10.20
+Geminate,IPS-QB,IOO-7O,IOO-7O I,Dark Compound,Medium,24.23
+Geminate,IPS-QB,IOO-7O,IOO-7O I,Base Metals,Poor,5.26
+Geminate,IPS-QB,IOO-7O,IOO-7O I,Supertensile Plastics,Medium,17.02
+Geminate,IPS-QB,IOO-7O,IOO-7O I,Construction Blocks,Poor,21.82
+Geminate,IPS-QB,IOO-7O,IOO-7O I,Silicate Glass,Poor,8.88
+Geminate,IPS-QB,IOO-7O,IOO-7O II,Gleaming Alloy,Rich,37.27
+Geminate,IPS-QB,IOO-7O,IOO-7O II,Crystal Compound,Perfect,40.60
+Geminate,IPS-QB,IOO-7O,IOO-7O II,Reactive Metals,Medium,7.13
+Geminate,IPS-QB,IOO-7O,IOO-7O II,Supertensile Plastics,Rich,24.90
+Geminate,IPS-QB,IOO-7O,IOO-7O II,Construction Blocks,Medium,28.93
+Geminate,IPS-QB,IOO-7O,IOO-7O III,Lustering Alloy,Medium,26.50
+Geminate,IPS-QB,IOO-7O,IOO-7O III,Dark Compound,Medium,28.57
+Geminate,IPS-QB,IOO-7O,IOO-7O III,Industrial Fibers,Medium,8.05
+Geminate,IPS-QB,IOO-7O,IOO-7O III,Silicate Glass,Medium,12.32
+Geminate,IPS-QB,IOO-7O,IOO-7O III,Oxygen Isotopes,Poor,3.23
+Geminate,IPS-QB,IOO-7O,IOO-7O IV,Condensed Alloy,Rich,34.35
+Geminate,IPS-QB,IOO-7O,IOO-7O IV,Fiber Composite,Perfect,44.55
+Geminate,IPS-QB,IOO-7O,IOO-7O IV,Opulent Compound,Medium,23.85
+Geminate,IPS-QB,IOO-7O,IOO-7O IV,Reactive Gas,Rich,38.33
+Geminate,IPS-QB,IOO-7O,IOO-7O IV,Condensates,Rich,22.03
+Geminate,IPS-QB,IOO-7O,IOO-7O IV,Heavy Water,Rich,384.25
+Geminate,IPS-QB,IOO-7O,IOO-7O V,Condensed Alloy,Medium,24.35
+Geminate,IPS-QB,IOO-7O,IOO-7O V,Fiber Composite,Medium,28.85
+Geminate,IPS-QB,IOO-7O,IOO-7O V,Opulent Compound,Perfect,40.85
+Geminate,IPS-QB,IOO-7O,IOO-7O V,Noble Metals,Medium,26.80
+Geminate,IPS-QB,IOO-7O,IOO-7O V,Industrial Fibers,Perfect,11.15
+Geminate,IPS-QB,IOO-7O,IOO-7O V,Liquid Ozone,Perfect,58.38
+Geminate,IPS-QB,IOO-7O,IOO-7O VI,Lustering Alloy,Rich,38.60
+Geminate,IPS-QB,IOO-7O,IOO-7O VI,Reactive Gas,Medium,29.80
+Geminate,IPS-QB,IOO-7O,IOO-7O VI,Noble Gas,Poor,21.80
+Geminate,IPS-QB,IOO-7O,IOO-7O VI,Base Metals,Medium,6.39
+Geminate,IPS-QB,IOO-7O,IOO-7O VI,Polyaramids,Poor,15.03
+Geminate,IPS-QB,IOO-7O,IOO-7O VI,Ionic Solutions,Medium,11.14
+Geminate,IPS-QB,IOO-7O,IOO-7O VII,Lustering Alloy,Medium,27.73
+Geminate,IPS-QB,IOO-7O,IOO-7O VII,Sheen Compound,Rich,36.67
+Geminate,IPS-QB,IOO-7O,IOO-7O VII,Glossy Compound,Rich,36.58
+Geminate,IPS-QB,IOO-7O,IOO-7O VII,Noble Gas,Medium,23.65
+Geminate,IPS-QB,IOO-7O,IOO-7O VII,Polyaramids,Rich,25.20
+Geminate,IPS-QB,IOO-7O,IOO-7O VII,Ionic Solutions,Perfect,16.23
+Geminate,IPS-QB,IOO-7O,IOO-7O VIII,Sheen Compound,Medium,30.88
+Geminate,IPS-QB,IOO-7O,IOO-7O VIII,Fiber Composite,Poor,21.30
+Geminate,IPS-QB,IOO-7O,IOO-7O VIII,Reactive Gas,Rich,37.10
+Geminate,IPS-QB,IOO-7O,IOO-7O VIII,Noble Gas,Medium,28.50
+Geminate,IPS-QB,IOO-7O,IOO-7O VIII,Polyaramids,Poor,14.40
+Geminate,IPS-QB,IOO-7O,IOO-7O VIII,Coolant,Medium,18.45
+Geminate,IPS-QB,BWF-ZZ,BWF-ZZ I,Dark Compound,Medium,27.52
+Geminate,IPS-QB,BWF-ZZ,BWF-ZZ I,Base Metals,Poor,5.66
+Geminate,IPS-QB,BWF-ZZ,BWF-ZZ I,Industrial Fibers,Medium,6.39
+Geminate,IPS-QB,BWF-ZZ,BWF-ZZ I,Supertensile Plastics,Medium,15.97
+Geminate,IPS-QB,BWF-ZZ,BWF-ZZ I,Silicate Glass,Poor,9.06
+Geminate,IPS-QB,BWF-ZZ,BWF-ZZ II,Motley Compound,Rich,33.63
+Geminate,IPS-QB,BWF-ZZ,BWF-ZZ II,Glossy Compound,Rich,34.23
+Geminate,IPS-QB,BWF-ZZ,BWF-ZZ II,Construction Blocks,Rich,39.23
+Geminate,IPS-QB,BWF-ZZ,BWF-ZZ II,Oxygen Isotopes,Medium,4.49
+Geminate,IPS-QB,BWF-ZZ,BWF-ZZ III,Precious Alloy,Medium,26.38
+Geminate,IPS-QB,BWF-ZZ,BWF-ZZ III,Dark Compound,Poor,20.10
+Geminate,IPS-QB,BWF-ZZ,BWF-ZZ III,Toxic Metals,Poor,5.43
+Geminate,IPS-QB,BWF-ZZ,BWF-ZZ III,Supertensile Plastics,Medium,18.28
+Geminate,IPS-QB,BWF-ZZ,BWF-ZZ III,Plasmoids,Medium,1.66
+Geminate,IPS-QB,BWF-ZZ,BWF-ZZ IV,Sheen Compound,Rich,37.88
+Geminate,IPS-QB,BWF-ZZ,BWF-ZZ IV,Fiber Composite,Medium,31.50
+Geminate,IPS-QB,BWF-ZZ,BWF-ZZ IV,Glossy Compound,Medium,25.20
+Geminate,IPS-QB,BWF-ZZ,BWF-ZZ IV,Noble Gas,Medium,25.02
+Geminate,IPS-QB,BWF-ZZ,BWF-ZZ IV,Coolant,Rich,24.85
+Geminate,IPS-QB,BWF-ZZ,BWF-ZZ IV,Ionic Solutions,Rich,15.22
+Geminate,IPS-QB,BWF-ZZ,BWF-ZZ V,Lustering Alloy,Medium,25.68
+Geminate,IPS-QB,BWF-ZZ,BWF-ZZ V,Fiber Composite,Medium,25.73
+Geminate,IPS-QB,BWF-ZZ,BWF-ZZ V,Glossy Compound,Rich,31.65
+Geminate,IPS-QB,BWF-ZZ,BWF-ZZ V,Reactive Gas,Rich,34.23
+Geminate,IPS-QB,BWF-ZZ,BWF-ZZ V,Noble Gas,Rich,35.83
+Geminate,IPS-QB,BWF-ZZ,BWF-ZZ V,Coolant,Poor,15.18
+Geminate,IPS-QB,BWF-ZZ,BWF-ZZ VI,Precious Alloy,Medium,24.55
+Geminate,IPS-QB,BWF-ZZ,BWF-ZZ VI,Dark Compound,Medium,25.82
+Geminate,IPS-QB,BWF-ZZ,BWF-ZZ VI,Toxic Metals,Medium,7.80
+Geminate,IPS-QB,BWF-ZZ,BWF-ZZ VI,Industrial Fibers,Poor,4.20
+Geminate,IPS-QB,BWF-ZZ,BWF-ZZ VI,Supertensile Plastics,Medium,16.53
+Geminate,IPS-QB,BWF-ZZ,BWF-ZZ VII,Lustering Alloy,Rich,38.98
+Geminate,IPS-QB,BWF-ZZ,BWF-ZZ VII,Sheen Compound,Poor,20.60
+Geminate,IPS-QB,BWF-ZZ,BWF-ZZ VII,Glossy Compound,Rich,39.40
+Geminate,IPS-QB,BWF-ZZ,BWF-ZZ VII,Polyaramids,Medium,20.68
+Geminate,IPS-QB,BWF-ZZ,BWF-ZZ VII,Coolant,Poor,14.93
+Geminate,IPS-QB,BWF-ZZ,BWF-ZZ VII,Ionic Solutions,Rich,14.44
+Geminate,IPS-QB,BWF-ZZ,BWF-ZZ VIII,Sheen Compound,Medium,26.20
+Geminate,IPS-QB,BWF-ZZ,BWF-ZZ VIII,Reactive Gas,Perfect,39.98
+Geminate,IPS-QB,BWF-ZZ,BWF-ZZ VIII,Base Metals,Rich,9.67
+Geminate,IPS-QB,BWF-ZZ,BWF-ZZ VIII,Reactive Metals,Medium,7.55
+Geminate,IPS-QB,BWF-ZZ,BWF-ZZ VIII,Coolant,Medium,20.17
+Geminate,IPS-QB,BWF-ZZ,BWF-ZZ VIII,Ionic Solutions,Medium,12.14
+Geminate,IPS-QB,BWF-ZZ,BWF-ZZ IX,Dark Compound,Poor,16.73
+Geminate,IPS-QB,BWF-ZZ,BWF-ZZ IX,Base Metals,Medium,7.78
+Geminate,IPS-QB,BWF-ZZ,BWF-ZZ IX,Industrial Fibers,Medium,7.49
+Geminate,IPS-QB,BWF-ZZ,BWF-ZZ IX,Construction Blocks,Medium,24.50
+Geminate,IPS-QB,BWF-ZZ,BWF-ZZ IX,Silicate Glass,Medium,14.85
+Geminate,IPS-QB,BWF-ZZ,BWF-ZZ X,Dark Compound,Poor,19.82
+Geminate,IPS-QB,BWF-ZZ,BWF-ZZ X,Industrial Fibers,Medium,6.79
+Geminate,IPS-QB,BWF-ZZ,BWF-ZZ X,Supertensile Plastics,Medium,19.98
+Geminate,IPS-QB,BWF-ZZ,BWF-ZZ X,Silicate Glass,Poor,9.20
+Geminate,IPS-QB,BWF-ZZ,BWF-ZZ X,Oxygen Isotopes,Poor,3.26
+Geminate,IPS-QB,4-CUM5,4-CUM5 I,Precious Alloy,Poor,15.17
+Geminate,IPS-QB,4-CUM5,4-CUM5 I,Supertensile Plastics,Poor,13.17
+Geminate,IPS-QB,4-CUM5,4-CUM5 I,Silicate Glass,Medium,12.89
+Geminate,IPS-QB,4-CUM5,4-CUM5 I,Plasmoids,Medium,1.42
+Geminate,IPS-QB,4-CUM5,4-CUM5 II,Fiber Composite,Perfect,41.23
+Geminate,IPS-QB,4-CUM5,4-CUM5 II,Reactive Gas,Rich,36.62
+Geminate,IPS-QB,4-CUM5,4-CUM5 II,Condensates,Perfect,28.72
+Geminate,IPS-QB,4-CUM5,4-CUM5 II,Heavy Water,Medium,234.72
+Geminate,IPS-QB,4-CUM5,4-CUM5 II,Liquid Ozone,Perfect,53.91
+Geminate,IPS-QB,4-CUM5,4-CUM5 III,Sheen Compound,Rich,37.06
+Geminate,IPS-QB,4-CUM5,4-CUM5 III,Fiber Composite,Medium,29.09
+Geminate,IPS-QB,4-CUM5,4-CUM5 III,Reactive Gas,Poor,21.60
+Geminate,IPS-QB,4-CUM5,4-CUM5 III,Polyaramids,Medium,15.58
+Geminate,IPS-QB,4-CUM5,4-CUM5 III,Ionic Solutions,Rich,13.80
+Geminate,IPS-QB,4-CUM5,4-CUM5 IV,Sheen Compound,Perfect,39.05
+Geminate,IPS-QB,4-CUM5,4-CUM5 IV,Fiber Composite,Medium,25.68
+Geminate,IPS-QB,4-CUM5,4-CUM5 IV,Reactive Gas,Medium,25.94
+Geminate,IPS-QB,4-CUM5,4-CUM5 IV,Reactive Metals,Rich,9.06
+Geminate,IPS-QB,4-CUM5,4-CUM5 IV,Coolant,Medium,17.55
+Geminate,IPS-QB,4-CUM5,4-CUM5 V,Condensed Alloy,Medium,27.94
+Geminate,IPS-QB,4-CUM5,4-CUM5 V,Fiber Composite,Medium,24.43
+Geminate,IPS-QB,4-CUM5,4-CUM5 V,Noble Metals,Rich,33.43
+Geminate,IPS-QB,4-CUM5,4-CUM5 V,Industrial Fibers,Rich,8.16
+Geminate,IPS-QB,4-CUM5,4-CUM5 V,Liquid Ozone,Rich,38.73
+Geminate,IPS-QB,4-CUM5,4-CUM5 VI,Fiber Composite,Medium,25.42
+Geminate,IPS-QB,4-CUM5,4-CUM5 VI,Glossy Compound,Poor,21.12
+Geminate,IPS-QB,4-CUM5,4-CUM5 VI,Reactive Gas,Perfect,39.05
+Geminate,IPS-QB,4-CUM5,4-CUM5 VI,Base Metals,Poor,5.78
+Geminate,IPS-QB,4-CUM5,4-CUM5 VI,Reactive Metals,Perfect,10.31
+Geminate,IPS-QB,4-CUM5,4-CUM5 VII,Lustering Alloy,Rich,30.50
+Geminate,IPS-QB,4-CUM5,4-CUM5 VII,Fiber Composite,Rich,33.17
+Geminate,IPS-QB,4-CUM5,4-CUM5 VII,Reactive Gas,Rich,35.28
+Geminate,IPS-QB,4-CUM5,4-CUM5 VII,Base Metals,Rich,8.85
+Geminate,IPS-QB,4-CUM5,4-CUM5 VII,Polyaramids,Perfect,26.50
+Geminate,IPS-QB,4-CUM5,4-CUM5 VIII,Industrial Fibers,Medium,6.57
+Geminate,IPS-QB,4-CUM5,4-CUM5 VIII,Supertensile Plastics,Poor,14.70
+Geminate,IPS-QB,4-CUM5,4-CUM5 VIII,Silicate Glass,Medium,14.00
+Geminate,IPS-QB,4-CUM5,4-CUM5 VIII,Plasmoids,Medium,1.36
+Geminate,IPS-QB,4-CUM5,4-CUM5 IX,Motley Compound,Poor,21.74
+Geminate,IPS-QB,4-CUM5,4-CUM5 IX,Industrial Fibers,Rich,8.99
+Geminate,IPS-QB,4-CUM5,4-CUM5 IX,Supertensile Plastics,Medium,19.89
+Geminate,IPS-QB,4-CUM5,4-CUM5 IX,Condensates,Rich,23.31
+Geminate,IPS-QB,8MG-J6,8MG-J6 I,Lustering Alloy,Poor,21.16
+Geminate,IPS-QB,8MG-J6,8MG-J6 I,Dark Compound,Medium,29.64
+Geminate,IPS-QB,8MG-J6,8MG-J6 I,Supertensile Plastics,Poor,13.12
+Geminate,IPS-QB,8MG-J6,8MG-J6 I,Construction Blocks,Poor,19.84
+Geminate,IPS-QB,8MG-J6,8MG-J6 I,Plasmoids,Medium,1.57
+Geminate,IPS-QB,8MG-J6,8MG-J6 II,Dark Compound,Poor,17.60
+Geminate,IPS-QB,8MG-J6,8MG-J6 II,Base Metals,Medium,8.35
+Geminate,IPS-QB,8MG-J6,8MG-J6 II,Toxic Metals,Medium,7.02
+Geminate,IPS-QB,8MG-J6,8MG-J6 II,Silicate Glass,Medium,14.94
+Geminate,IPS-QB,8MG-J6,8MG-J6 II,Plasmoids,Medium,1.63
+Geminate,IPS-QB,8MG-J6,8MG-J6 III,Dark Compound,Medium,30.24
+Geminate,IPS-QB,8MG-J6,8MG-J6 III,Base Metals,Medium,7.14
+Geminate,IPS-QB,8MG-J6,8MG-J6 III,Toxic Metals,Medium,6.85
+Geminate,IPS-QB,8MG-J6,8MG-J6 III,Industrial Fibers,Poor,5.76
+Geminate,IPS-QB,8MG-J6,8MG-J6 III,Plasmoids,Medium,1.82
+Geminate,IPS-QB,8MG-J6,8MG-J6 IV,Dark Compound,Medium,29.02
+Geminate,IPS-QB,8MG-J6,8MG-J6 IV,Industrial Fibers,Medium,8.29
+Geminate,IPS-QB,8MG-J6,8MG-J6 IV,Supertensile Plastics,Medium,20.61
+Geminate,IPS-QB,8MG-J6,8MG-J6 IV,Construction Blocks,Poor,17.94
+Geminate,IPS-QB,8MG-J6,8MG-J6 IV,Plasmoids,Medium,1.49
+Geminate,IPS-QB,8MG-J6,8MG-J6 V,Crystal Compound,Poor,21.11
+Geminate,IPS-QB,8MG-J6,8MG-J6 V,Reactive Gas,Poor,21.66
+Geminate,IPS-QB,8MG-J6,8MG-J6 V,Reactive Metals,Medium,8.35
+Geminate,IPS-QB,8MG-J6,8MG-J6 V,Nanites,Medium,7.76
+Geminate,IPS-QB,8MG-J6,8MG-J6 V,Suspended Plasma,Rich,137.69
+Geminate,IPS-QB,8MG-J6,8MG-J6 VI,Condensed Alloy,Rich,34.35
+Geminate,IPS-QB,8MG-J6,8MG-J6 VI,Reactive Gas,Medium,27.77
+Geminate,IPS-QB,8MG-J6,8MG-J6 VI,Industrial Fibers,Medium,8.35
+Geminate,IPS-QB,8MG-J6,8MG-J6 VI,Condensates,Perfect,29.57
+Geminate,IPS-QB,8MG-J6,8MG-J6 VI,Heavy Water,Perfect,426.92
+Geminate,IPS-QB,8MG-J6,8MG-J6 VI,Liquid Ozone,Medium,37.77
+Geminate,IPS-QB,8MG-J6,8MG-J6 VII,Lustering Alloy,Rich,39.91
+Geminate,IPS-QB,8MG-J6,8MG-J6 VII,Glossy Compound,Poor,22.54
+Geminate,IPS-QB,8MG-J6,8MG-J6 VII,Noble Gas,Medium,32.50
+Geminate,IPS-QB,8MG-J6,8MG-J6 VII,Polyaramids,Medium,17.23
+Geminate,IPS-QB,8MG-J6,8MG-J6 VII,Coolant,Perfect,28.24
+Geminate,IPS-QB,8MG-J6,8MG-J6 VII,Ionic Solutions,Rich,16.39
+Geminate,IPS-QB,8MG-J6,8MG-J6 VIII,Lustering Alloy,Rich,39.70
+Geminate,IPS-QB,8MG-J6,8MG-J6 VIII,Sheen Compound,Medium,28.81
+Geminate,IPS-QB,8MG-J6,8MG-J6 VIII,Reactive Metals,Rich,10.14
+Geminate,IPS-QB,8MG-J6,8MG-J6 VIII,Polyaramids,Medium,20.82
+Geminate,IPS-QB,8MG-J6,8MG-J6 VIII,Coolant,Rich,26.78
+Geminate,IPS-QB,8MG-J6,8MG-J6 VIII,Ionic Solutions,Poor,8.89
+Geminate,IPS-QB,8MG-J6,8MG-J6 IX,Sheen Compound,Poor,22.52
+Geminate,IPS-QB,8MG-J6,8MG-J6 IX,Reactive Gas,Medium,24.73
+Geminate,IPS-QB,8MG-J6,8MG-J6 IX,Noble Gas,Perfect,41.31
+Geminate,IPS-QB,8MG-J6,8MG-J6 IX,Base Metals,Rich,9.07
+Geminate,IPS-QB,8MG-J6,8MG-J6 IX,Reactive Metals,Medium,8.44
+Geminate,IPS-QB,8MG-J6,8MG-J6 IX,Polyaramids,Poor,14.21
+Geminate,IPS-QB,8MG-J6,8MG-J6 X,Lustering Alloy,Medium,24.88
+Geminate,IPS-QB,8MG-J6,8MG-J6 X,Precious Alloy,Poor,22.13
+Geminate,IPS-QB,8MG-J6,8MG-J6 X,Base Metals,Rich,9.91
+Geminate,IPS-QB,8MG-J6,8MG-J6 X,Coolant,Poor,14.06
+Geminate,IPS-QB,8MG-J6,8MG-J6 X,Liquid Ozone,Medium,30.84
+Geminate,IPS-QB,RLSI-V,RLSI-V I,Lustering Alloy,Poor,17.25
+Geminate,IPS-QB,RLSI-V,RLSI-V I,Precious Alloy,Medium,25.35
+Geminate,IPS-QB,RLSI-V,RLSI-V I,Dark Compound,Poor,17.13
+Geminate,IPS-QB,RLSI-V,RLSI-V I,Toxic Metals,Poor,4.88
+Geminate,IPS-QB,RLSI-V,RLSI-V I,Industrial Fibers,Poor,5.79
+Geminate,IPS-QB,RLSI-V,RLSI-V II,Opulent Compound,Medium,31.18
+Geminate,IPS-QB,RLSI-V,RLSI-V II,Noble Metals,Medium,27.48
+Geminate,IPS-QB,RLSI-V,RLSI-V II,Toxic Metals,Medium,7.97
+Geminate,IPS-QB,RLSI-V,RLSI-V II,Polyaramids,Rich,21.68
+Geminate,IPS-QB,RLSI-V,RLSI-V II,Coolant,Poor,14.73
+Geminate,IPS-QB,RLSI-V,RLSI-V II,Silicate Glass,Rich,17.13
+Geminate,IPS-QB,RLSI-V,RLSI-V III,Sheen Compound,Perfect,41.38
+Geminate,IPS-QB,RLSI-V,RLSI-V III,Glossy Compound,Poor,21.00
+Geminate,IPS-QB,RLSI-V,RLSI-V III,Reactive Gas,Medium,27.20
+Geminate,IPS-QB,RLSI-V,RLSI-V III,Base Metals,Medium,6.26
+Geminate,IPS-QB,RLSI-V,RLSI-V III,Coolant,Medium,19.17
+Geminate,IPS-QB,RLSI-V,RLSI-V III,Ionic Solutions,Medium,11.24
+Geminate,IPS-QB,RLSI-V,RLSI-V IV,Lustering Alloy,Perfect,40.85
+Geminate,IPS-QB,RLSI-V,RLSI-V IV,Reactive Gas,Poor,21.40
+Geminate,IPS-QB,RLSI-V,RLSI-V IV,Noble Gas,Rich,38.30
+Geminate,IPS-QB,RLSI-V,RLSI-V IV,Base Metals,Rich,9.80
+Geminate,IPS-QB,RLSI-V,RLSI-V IV,Reactive Metals,Rich,8.71
+Geminate,IPS-QB,RLSI-V,RLSI-V IV,Coolant,Medium,20.07
+Geminate,IPS-QB,RLSI-V,RLSI-V V,Lustering Alloy,Perfect,41.30
+Geminate,IPS-QB,RLSI-V,RLSI-V V,Sheen Compound,Medium,29.23
+Geminate,IPS-QB,RLSI-V,RLSI-V V,Glossy Compound,Medium,30.20
+Geminate,IPS-QB,RLSI-V,RLSI-V V,Reactive Metals,Rich,8.89
+Geminate,IPS-QB,RLSI-V,RLSI-V V,Polyaramids,Rich,22.52
+Geminate,IPS-QB,RLSI-V,RLSI-V V,Coolant,Medium,20.97
+Geminate,IPS-QB,RLSI-V,RLSI-V VI,Lustering Alloy,Medium,23.70
+Geminate,IPS-QB,RLSI-V,RLSI-V VI,Dark Compound,Medium,28.40
+Geminate,IPS-QB,RLSI-V,RLSI-V VI,Base Metals,Poor,5.44
+Geminate,IPS-QB,RLSI-V,RLSI-V VI,Oxygen Isotopes,Medium,4.54
+Geminate,IPS-QB,RLSI-V,RLSI-V VI,Plasmoids,Medium,1.74
+Geminate,IPS-QB,RLSI-V,RLSI-V VII,Lustering Alloy,Medium,28.20
+Geminate,IPS-QB,RLSI-V,RLSI-V VII,Precious Alloy,Poor,17.48
+Geminate,IPS-QB,RLSI-V,RLSI-V VII,Dark Compound,Poor,18.13
+Geminate,IPS-QB,RLSI-V,RLSI-V VII,Toxic Metals,Poor,4.42
+Geminate,IPS-QB,RLSI-V,RLSI-V VII,Supertensile Plastics,Poor,13.30
+Geminate,8K-CHA,39-DGG,39-DGG I,Industrial Fibers,Poor,4.41
+Geminate,8K-CHA,39-DGG,39-DGG I,Supertensile Plastics,Poor,14.14
+Geminate,8K-CHA,39-DGG,39-DGG I,Silicate Glass,Medium,11.01
+Geminate,8K-CHA,39-DGG,39-DGG I,Plasmoids,Poor,1.04
+Geminate,8K-CHA,39-DGG,39-DGG II,Gleaming Alloy,Medium,27.85
+Geminate,8K-CHA,39-DGG,39-DGG II,Glossy Compound,Rich,35.21
+Geminate,8K-CHA,39-DGG,39-DGG II,Heavy Metals,Rich,33.40
+Geminate,8K-CHA,39-DGG,39-DGG III,Reactive Gas,Medium,23.37
+Geminate,8K-CHA,39-DGG,39-DGG III,Industrial Fibers,Rich,7.76
+Geminate,8K-CHA,39-DGG,39-DGG III,Smartfab Units,Medium,16.27
+Geminate,8K-CHA,39-DGG,39-DGG III,Heavy Water,Medium,260.82
+Geminate,8K-CHA,39-DGG,39-DGG III,Liquid Ozone,Poor,26.33
+Geminate,8K-CHA,39-DGG,39-DGG IV,Glossy Compound,Rich,34.57
+Geminate,8K-CHA,39-DGG,39-DGG IV,Reactive Gas,Medium,26.17
+Geminate,8K-CHA,39-DGG,39-DGG IV,Base Metals,Medium,5.97
+Geminate,8K-CHA,39-DGG,39-DGG IV,Coolant,Medium,14.87
+Geminate,8K-CHA,39-DGG,39-DGG IV,Ionic Solutions,Rich,11.67
+Geminate,8K-CHA,39-DGG,39-DGG V,Precious Alloy,Medium,24.54
+Geminate,8K-CHA,39-DGG,39-DGG V,Toxic Metals,Poor,4.56
+Geminate,8K-CHA,39-DGG,39-DGG V,Supertensile Plastics,Poor,12.76
+Geminate,8K-CHA,39-DGG,39-DGG V,Construction Blocks,Medium,23.21
+Geminate,8K-CHA,39-DGG,39-DGG VI,Fiber Composite,Rich,34.43
+Geminate,8K-CHA,39-DGG,39-DGG VI,Reactive Gas,Medium,27.85
+Geminate,8K-CHA,39-DGG,39-DGG VI,Polyaramids,Poor,13.78
+Geminate,8K-CHA,39-DGG,39-DGG VI,Coolant,Medium,18.05
+Geminate,8K-CHA,39-DGG,39-DGG VI,Ionic Solutions,Medium,9.17
+Geminate,8K-CHA,39-DGG,39-DGG VII,Lustering Alloy,Perfect,37.86
+Geminate,8K-CHA,39-DGG,39-DGG VII,Fiber Composite,Rich,35.95
+Geminate,8K-CHA,39-DGG,39-DGG VII,Reactive Gas,Poor,19.27
+Geminate,8K-CHA,39-DGG,39-DGG VII,Coolant,Rich,23.44
+Geminate,8K-CHA,39-DGG,39-DGG VII,Ionic Solutions,Rich,12.93
+Geminate,8K-CHA,39-DGG,39-DGG VIII,Industrial Fibers,Medium,7.39
+Geminate,8K-CHA,39-DGG,39-DGG VIII,Coolant,Poor,12.50
+Geminate,8K-CHA,39-DGG,39-DGG VIII,Condensates,Rich,20.79
+Geminate,8K-CHA,39-DGG,39-DGG VIII,Liquid Ozone,Poor,25.88
+Geminate,8K-CHA,SV-K8J,SV-K8J I,Gleaming Alloy,Medium,25.64
+Geminate,8K-CHA,SV-K8J,SV-K8J I,Noble Metals,Rich,35.97
+Geminate,8K-CHA,SV-K8J,SV-K8J I,Smartfab Units,Perfect,24.61
+Geminate,8K-CHA,SV-K8J,SV-K8J II,Precious Alloy,Medium,24.95
+Geminate,8K-CHA,SV-K8J,SV-K8J II,Dark Compound,Medium,22.84
+Geminate,8K-CHA,SV-K8J,SV-K8J II,Toxic Metals,Medium,6.78
+Geminate,8K-CHA,SV-K8J,SV-K8J II,Supertensile Plastics,Poor,13.89
+Geminate,8K-CHA,SV-K8J,SV-K8J III,Gleaming Alloy,Rich,36.45
+Geminate,8K-CHA,SV-K8J,SV-K8J III,Motley Compound,Poor,20.42
+Geminate,8K-CHA,SV-K8J,SV-K8J III,Noble Metals,Medium,25.21
+Geminate,8K-CHA,SV-K8J,SV-K8J IV,Sheen Compound,Perfect,40.59
+Geminate,8K-CHA,SV-K8J,SV-K8J IV,Lucent Compound,Medium,22.26
+Geminate,8K-CHA,SV-K8J,SV-K8J IV,Condensates,Perfect,26.14
+Geminate,8K-CHA,SV-K8J,SV-K8J IV,Ionic Solutions,Rich,12.15
+Geminate,8K-CHA,SV-K8J,SV-K8J IV,Plasmoids,Medium,1.59
+Geminate,8K-CHA,SV-K8J,SV-K8J V,Fiber Composite,Perfect,40.04
+Geminate,8K-CHA,SV-K8J,SV-K8J V,Opulent Compound,Medium,22.93
+Geminate,8K-CHA,SV-K8J,SV-K8J V,Base Metals,Medium,6.54
+Geminate,8K-CHA,SV-K8J,SV-K8J V,Smartfab Units,Rich,22.69
+Geminate,8K-CHA,SV-K8J,SV-K8J V,Liquid Ozone,Medium,27.28
+Geminate,8K-CHA,SV-K8J,SV-K8J VI,Lustering Alloy,Medium,27.19
+Geminate,8K-CHA,SV-K8J,SV-K8J VI,Toxic Metals,Medium,7.18
+Geminate,8K-CHA,SV-K8J,SV-K8J VI,Industrial Fibers,Medium,6.55
+Geminate,8K-CHA,SV-K8J,SV-K8J VI,Supertensile Plastics,Poor,13.02
+Geminate,8K-CHA,SV-K8J,SV-K8J VII,Condensed Alloy,Medium,25.67
+Geminate,8K-CHA,SV-K8J,SV-K8J VII,Fiber Composite,Perfect,40.39
+Geminate,8K-CHA,SV-K8J,SV-K8J VII,Reactive Gas,Perfect,41.72
+Geminate,8K-CHA,SV-K8J,SV-K8J VII,Noble Metals,Medium,27.46
+Geminate,8K-CHA,SV-K8J,SV-K8J VII,Liquid Ozone,Rich,40.59
+Geminate,8K-CHA,SV-K8J,SV-K8J VIII,Dark Compound,Poor,19.62
+Geminate,8K-CHA,SV-K8J,SV-K8J VIII,Industrial Fibers,Medium,6.17
+Geminate,8K-CHA,SV-K8J,SV-K8J VIII,Supertensile Plastics,Poor,13.17
+Geminate,8K-CHA,SV-K8J,SV-K8J VIII,Oxygen Isotopes,Poor,2.24
+Geminate,8K-CHA,SV-K8J,SV-K8J IX,Sheen Compound,Poor,20.93
+Geminate,8K-CHA,SV-K8J,SV-K8J IX,Reactive Gas,Rich,31.65
+Geminate,8K-CHA,SV-K8J,SV-K8J IX,Base Metals,Rich,7.97
+Geminate,8K-CHA,SV-K8J,SV-K8J IX,Coolant,Medium,19.27
+Geminate,8K-CHA,SV-K8J,SV-K8J IX,Ionic Solutions,Rich,12.74
+Geminate,8K-CHA,SV-K8J,SV-K8J X,Gleaming Alloy,Medium,26.11
+Geminate,8K-CHA,SV-K8J,SV-K8J X,Polyaramids,Medium,17.43
+Geminate,8K-CHA,SV-K8J,SV-K8J X,Oxygen Isotopes,Rich,5.17
+Geminate,8K-CHA,SV-K8J,SV-K8J XI,Lustering Alloy,Medium,23.94
+Geminate,8K-CHA,SV-K8J,SV-K8J XI,Sheen Compound,Rich,32.71
+Geminate,8K-CHA,SV-K8J,SV-K8J XI,Reactive Gas,Medium,27.92
+Geminate,8K-CHA,SV-K8J,SV-K8J XI,Reactive Metals,Poor,5.22
+Geminate,8K-CHA,SV-K8J,SV-K8J XI,Ionic Solutions,Medium,11.32
+Geminate,8K-CHA,6RQ9-A,6RQ9-A I,Gleaming Alloy,Medium,23.21
+Geminate,8K-CHA,6RQ9-A,6RQ9-A I,Smartfab Units,Rich,21.47
+Geminate,8K-CHA,6RQ9-A,6RQ9-A I,Plasmoids,Rich,2.21
+Geminate,8K-CHA,6RQ9-A,6RQ9-A II,Gleaming Alloy,Perfect,39.60
+Geminate,8K-CHA,6RQ9-A,6RQ9-A II,Noble Metals,Rich,35.21
+Geminate,8K-CHA,6RQ9-A,6RQ9-A II,Oxygen Isotopes,Rich,5.44
+Geminate,8K-CHA,6RQ9-A,6RQ9-A III,Toxic Metals,Medium,7.39
+Geminate,8K-CHA,6RQ9-A,6RQ9-A III,Supertensile Plastics,Poor,10.67
+Geminate,8K-CHA,6RQ9-A,6RQ9-A III,Oxygen Isotopes,Medium,4.08
+Geminate,8K-CHA,6RQ9-A,6RQ9-A III,Plasmoids,Medium,1.36
+Geminate,8K-CHA,6RQ9-A,6RQ9-A IV,Lucent Compound,Perfect,40.97
+Geminate,8K-CHA,6RQ9-A,6RQ9-A IV,Noble Gas,Rich,35.28
+Geminate,8K-CHA,6RQ9-A,6RQ9-A IV,Reactive Metals,Medium,7.12
+Geminate,8K-CHA,6RQ9-A,6RQ9-A IV,Condensates,Medium,15.49
+Geminate,8K-CHA,6RQ9-A,6RQ9-A IV,Suspended Plasma,Medium,93.92
+Geminate,8K-CHA,6RQ9-A,6RQ9-A V,Dark Compound,Poor,22.61
+Geminate,8K-CHA,6RQ9-A,6RQ9-A V,Supertensile Plastics,Medium,17.17
+Geminate,8K-CHA,6RQ9-A,6RQ9-A V,Silicate Glass,Poor,9.30
+Geminate,8K-CHA,6RQ9-A,6RQ9-A V,Oxygen Isotopes,Medium,3.97
+Geminate,8K-CHA,6RQ9-A,6RQ9-A VI,Gleaming Alloy,Poor,21.67
+Geminate,8K-CHA,6RQ9-A,6RQ9-A VI,Polyaramids,Rich,20.56
+Geminate,8K-CHA,6RQ9-A,6RQ9-A VI,Construction Blocks,Medium,23.59
+Geminate,8K-CHA,6RQ9-A,6RQ9-A VII,Industrial Fibers,Medium,6.85
+Geminate,8K-CHA,6RQ9-A,6RQ9-A VII,Supertensile Plastics,Medium,16.30
+Geminate,8K-CHA,6RQ9-A,6RQ9-A VII,Construction Blocks,Poor,17.11
+Geminate,8K-CHA,6RQ9-A,6RQ9-A VII,Oxygen Isotopes,Poor,2.61
+Geminate,8K-CHA,6RQ9-A,6RQ9-A VIII,Lustering Alloy,Rich,30.65
+Geminate,8K-CHA,6RQ9-A,6RQ9-A VIII,Sheen Compound,Medium,29.47
+Geminate,8K-CHA,6RQ9-A,6RQ9-A VIII,Reactive Gas,Perfect,39.34
+Geminate,8K-CHA,6RQ9-A,6RQ9-A VIII,Noble Gas,Medium,23.14
+Geminate,8K-CHA,6RQ9-A,6RQ9-A VIII,Coolant,Rich,23.55
+Geminate,8K-CHA,6RQ9-A,6RQ9-A IX,Lustering Alloy,Medium,23.59
+Geminate,8K-CHA,6RQ9-A,6RQ9-A IX,Fiber Composite,Medium,23.95
+Geminate,8K-CHA,6RQ9-A,6RQ9-A IX,Glossy Compound,Rich,37.03
+Geminate,8K-CHA,6RQ9-A,6RQ9-A IX,Reactive Gas,Rich,35.30
+Geminate,8K-CHA,6RQ9-A,6RQ9-A IX,Ionic Solutions,Medium,11.96
+Geminate,8K-CHA,6RQ9-A,6RQ9-A X,Lustering Alloy,Medium,29.64
+Geminate,8K-CHA,6RQ9-A,6RQ9-A X,Glossy Compound,Medium,29.11
+Geminate,8K-CHA,6RQ9-A,6RQ9-A X,Reactive Gas,Medium,28.58
+Geminate,8K-CHA,6RQ9-A,6RQ9-A X,Base Metals,Perfect,10.41
+Geminate,8K-CHA,6RQ9-A,6RQ9-A X,Reactive Metals,Medium,7.09
+Geminate,8K-CHA,K42-IE,K42-IE I,Dark Compound,Poor,16.10
+Geminate,8K-CHA,K42-IE,K42-IE I,Industrial Fibers,Medium,6.59
+Geminate,8K-CHA,K42-IE,K42-IE I,Supertensile Plastics,Poor,11.65
+Geminate,8K-CHA,K42-IE,K42-IE I,Silicate Glass,Poor,10.04
+Geminate,8K-CHA,K42-IE,K42-IE II,Dark Compound,Rich,32.26
+Geminate,8K-CHA,K42-IE,K42-IE II,Noble Gas,Rich,32.28
+Geminate,8K-CHA,K42-IE,K42-IE II,Reactive Metals,Medium,6.79
+Geminate,8K-CHA,K42-IE,K42-IE II,Condensates,Perfect,27.14
+Geminate,8K-CHA,K42-IE,K42-IE II,Nanites,Medium,6.64
+Geminate,8K-CHA,K42-IE,K42-IE III,Gleaming Alloy,Medium,28.34
+Geminate,8K-CHA,K42-IE,K42-IE III,Noble Metals,Poor,20.62
+Geminate,8K-CHA,K42-IE,K42-IE III,Construction Blocks,Rich,32.40
+Geminate,8K-CHA,K42-IE,K42-IE IV,Reactive Metals,Medium,7.95
+Geminate,8K-CHA,K42-IE,K42-IE IV,Toxic Metals,Rich,8.99
+Geminate,8K-CHA,K42-IE,K42-IE IV,Suspended Plasma,Medium,92.53
+Geminate,8K-CHA,K42-IE,K42-IE IV,Oxygen Isotopes,Medium,3.92
+Geminate,8K-CHA,K42-IE,K42-IE V,Lustering Alloy,Poor,17.42
+Geminate,8K-CHA,K42-IE,K42-IE V,Precious Alloy,Poor,17.78
+Geminate,8K-CHA,K42-IE,K42-IE V,Industrial Fibers,Poor,5.64
+Geminate,8K-CHA,K42-IE,K42-IE V,Supertensile Plastics,Poor,10.10
+Geminate,8K-CHA,K42-IE,K42-IE VI,Gleaming Alloy,Rich,31.56
+Geminate,8K-CHA,K42-IE,K42-IE VI,Lucent Compound,Poor,22.61
+Geminate,8K-CHA,K42-IE,K42-IE VI,Reactive Metals,Poor,5.17
+Geminate,8K-CHA,K42-IE,K42-IE VI,Construction Blocks,Medium,22.92
+Geminate,8K-CHA,K42-IE,K42-IE VII,Lustering Alloy,Poor,19.94
+Geminate,8K-CHA,K42-IE,K42-IE VII,Sheen Compound,Medium,23.18
+Geminate,8K-CHA,K42-IE,K42-IE VII,Reactive Gas,Poor,20.62
+Geminate,8K-CHA,K42-IE,K42-IE VII,Polyaramids,Medium,18.70
+Geminate,8K-CHA,K42-IE,K42-IE VII,Ionic Solutions,Medium,11.41
+Geminate,8K-CHA,K42-IE,K42-IE VIII,Gleaming Alloy,Rich,36.67
+Geminate,8K-CHA,K42-IE,K42-IE VIII,Glossy Compound,Medium,25.13
+Geminate,8K-CHA,K42-IE,K42-IE VIII,Polyaramids,Poor,13.55
+Geminate,8K-CHA,K42-IE,K42-IE IX,Reactive Gas,Medium,24.65
+Geminate,8K-CHA,K42-IE,K42-IE IX,Reactive Metals,Medium,7.43
+Geminate,8K-CHA,K42-IE,K42-IE IX,Polyaramids,Poor,13.12
+Geminate,8K-CHA,K42-IE,K42-IE IX,Coolant,Rich,21.20
+Geminate,8K-CHA,K42-IE,K42-IE IX,Ionic Solutions,Rich,13.89
+Geminate,8K-CHA,K42-IE,K42-IE X,Base Metals,Poor,4.18
+Geminate,8K-CHA,K42-IE,K42-IE X,Toxic Metals,Poor,5.45
+Geminate,8K-CHA,K42-IE,K42-IE X,Industrial Fibers,Medium,6.66
+Geminate,8K-CHA,K42-IE,K42-IE X,Supertensile Plastics,Medium,15.34
+Geminate,8K-CHA,K42-IE,K42-IE XI,Gleaming Alloy,Poor,21.60
+Geminate,8K-CHA,K42-IE,K42-IE XI,Motley Compound,Rich,35.57
+Geminate,8K-CHA,K42-IE,K42-IE XI,Smartfab Units,Poor,14.59
+Geminate,8K-CHA,VSJ-PP,VSJ-PP I,Gleaming Alloy,Poor,21.62
+Geminate,8K-CHA,VSJ-PP,VSJ-PP I,Glossy Compound,Rich,33.19
+Geminate,8K-CHA,VSJ-PP,VSJ-PP I,Construction Blocks,Perfect,38.85
+Geminate,8K-CHA,VSJ-PP,VSJ-PP II,Gleaming Alloy,Medium,28.50
+Geminate,8K-CHA,VSJ-PP,VSJ-PP II,Oxygen Isotopes,Rich,5.27
+Geminate,8K-CHA,VSJ-PP,VSJ-PP II,Plasmoids,Rich,1.97
+Geminate,8K-CHA,VSJ-PP,VSJ-PP III,Opulent Compound,Rich,29.90
+Geminate,8K-CHA,VSJ-PP,VSJ-PP III,Reactive Gas,Medium,24.29
+Geminate,8K-CHA,VSJ-PP,VSJ-PP III,Industrial Fibers,Rich,9.57
+Geminate,8K-CHA,VSJ-PP,VSJ-PP III,Smartfab Units,Perfect,24.50
+Geminate,8K-CHA,VSJ-PP,VSJ-PP III,Liquid Ozone,Rich,37.86
+Geminate,8K-CHA,VSJ-PP,VSJ-PP IV,Lustering Alloy,Perfect,37.12
+Geminate,8K-CHA,VSJ-PP,VSJ-PP IV,Fiber Composite,Rich,32.96
+Geminate,8K-CHA,VSJ-PP,VSJ-PP IV,Reactive Gas,Medium,23.25
+Geminate,8K-CHA,VSJ-PP,VSJ-PP IV,Noble Gas,Medium,23.41
+Geminate,8K-CHA,VSJ-PP,VSJ-PP IV,Ionic Solutions,Medium,9.42
+Geminate,8K-CHA,VSJ-PP,VSJ-PP V,Fiber Composite,Rich,30.34
+Geminate,8K-CHA,VSJ-PP,VSJ-PP V,Reactive Gas,Rich,31.56
+Geminate,8K-CHA,VSJ-PP,VSJ-PP V,Base Metals,Rich,8.05
+Geminate,8K-CHA,VSJ-PP,VSJ-PP V,Reactive Metals,Medium,5.87
+Geminate,8K-CHA,VSJ-PP,VSJ-PP V,Polyaramids,Poor,14.14
+Geminate,8K-CHA,VSJ-PP,VSJ-PP VI,Lustering Alloy,Rich,34.32
+Geminate,8K-CHA,VSJ-PP,VSJ-PP VI,Fiber Composite,Rich,30.29
+Geminate,8K-CHA,VSJ-PP,VSJ-PP VI,Reactive Gas,Rich,30.15
+Geminate,8K-CHA,VSJ-PP,VSJ-PP VI,Noble Gas,Medium,25.97
+Geminate,8K-CHA,VSJ-PP,VSJ-PP VI,Base Metals,Medium,7.31
+Geminate,8K-CHA,VSJ-PP,VSJ-PP VII,Reactive Gas,Perfect,36.59
+Geminate,8K-CHA,VSJ-PP,VSJ-PP VII,Noble Gas,Medium,28.15
+Geminate,8K-CHA,VSJ-PP,VSJ-PP VII,Base Metals,Poor,5.24
+Geminate,8K-CHA,VSJ-PP,VSJ-PP VII,Reactive Metals,Rich,8.06
+Geminate,8K-CHA,VSJ-PP,VSJ-PP VII,Polyaramids,Medium,15.32
+Geminate,8K-CHA,VSJ-PP,VSJ-PP VIII,Lustering Alloy,Medium,23.37
+Geminate,8K-CHA,VSJ-PP,VSJ-PP VIII,Base Metals,Poor,4.59
+Geminate,8K-CHA,VSJ-PP,VSJ-PP VIII,Supertensile Plastics,Medium,18.12
+Geminate,8K-CHA,VSJ-PP,VSJ-PP VIII,Construction Blocks,Poor,16.33
+Geminate,8K-CHA,3USX-F,3USX-F I,Lustering Alloy,Medium,26.77
+Geminate,8K-CHA,3USX-F,3USX-F I,Base Metals,Medium,6.14
+Geminate,8K-CHA,3USX-F,3USX-F I,Toxic Metals,Medium,6.97
+Geminate,8K-CHA,3USX-F,3USX-F I,Supertensile Plastics,Poor,10.75
+Geminate,8K-CHA,3USX-F,3USX-F II,Precious Alloy,Medium,22.24
+Geminate,8K-CHA,3USX-F,3USX-F II,Base Metals,Poor,3.89
+Geminate,8K-CHA,3USX-F,3USX-F II,Supertensile Plastics,Poor,13.82
+Geminate,8K-CHA,3USX-F,3USX-F II,Construction Blocks,Medium,26.27
+Geminate,8K-CHA,3USX-F,3USX-F III,Lustering Alloy,Medium,21.85
+Geminate,8K-CHA,3USX-F,3USX-F III,Base Metals,Medium,6.24
+Geminate,8K-CHA,3USX-F,3USX-F III,Supertensile Plastics,Poor,13.52
+Geminate,8K-CHA,3USX-F,3USX-F III,Construction Blocks,Medium,27.21
+Geminate,8K-CHA,3USX-F,3USX-F IV,Fiber Composite,Rich,33.10
+Geminate,8K-CHA,3USX-F,3USX-F IV,Reactive Gas,Medium,28.06
+Geminate,8K-CHA,3USX-F,3USX-F IV,Noble Metals,Medium,26.52
+Geminate,8K-CHA,3USX-F,3USX-F IV,Smartfab Units,Medium,18.65
+Geminate,8K-CHA,3USX-F,3USX-F IV,Liquid Ozone,Perfect,46.12
+Geminate,8K-CHA,3USX-F,3USX-F V,Condensed Alloy,Perfect,36.78
+Geminate,8K-CHA,3USX-F,3USX-F V,Fiber Composite,Medium,25.55
+Geminate,8K-CHA,3USX-F,3USX-F V,Opulent Compound,Perfect,38.27
+Geminate,8K-CHA,3USX-F,3USX-F V,Condensates,Perfect,26.37
+Geminate,8K-CHA,3USX-F,3USX-F V,Liquid Ozone,Medium,33.03
+Geminate,8K-CHA,3USX-F,3USX-F VI,Reactive Metals,Medium,7.47
+Geminate,8K-CHA,3USX-F,3USX-F VI,Nanites,Poor,5.62
+Geminate,8K-CHA,3USX-F,3USX-F VI,Suspended Plasma,Medium,83.46
+Geminate,8K-CHA,3USX-F,3USX-F VI,Oxygen Isotopes,Poor,2.96
+Geminate,8K-CHA,3USX-F,3USX-F VII,Precious Alloy,Medium,22.61
+Geminate,8K-CHA,3USX-F,3USX-F VII,Base Metals,Medium,5.88
+Geminate,8K-CHA,3USX-F,3USX-F VII,Supertensile Plastics,Poor,10.73
+Geminate,8K-CHA,3USX-F,3USX-F VII,Construction Blocks,Poor,15.92
+Geminate,8K-CHA,9-KWXC,9-KWXC I,Precious Alloy,Medium,24.54
+Geminate,8K-CHA,9-KWXC,9-KWXC I,Industrial Fibers,Poor,4.73
+Geminate,8K-CHA,9-KWXC,9-KWXC I,Supertensile Plastics,Medium,16.94
+Geminate,8K-CHA,9-KWXC,9-KWXC I,Silicate Glass,Medium,13.93
+Geminate,8K-CHA,9-KWXC,9-KWXC II,Toxic Metals,Medium,7.40
+Geminate,8K-CHA,9-KWXC,9-KWXC II,Supertensile Plastics,Poor,12.14
+Geminate,8K-CHA,9-KWXC,9-KWXC II,Construction Blocks,Medium,28.08
+Geminate,8K-CHA,9-KWXC,9-KWXC II,Plasmoids,Poor,1.18
+Geminate,8K-CHA,9-KWXC,9-KWXC III,Gleaming Alloy,Medium,29.00
+Geminate,8K-CHA,9-KWXC,9-KWXC III,Motley Compound,Rich,34.84
+Geminate,8K-CHA,9-KWXC,9-KWXC III,Glossy Compound,Medium,22.84
+Geminate,8K-CHA,9-KWXC,9-KWXC IV,Dark Compound,Medium,25.71
+Geminate,8K-CHA,9-KWXC,9-KWXC IV,Supertensile Plastics,Poor,10.24
+Geminate,8K-CHA,9-KWXC,9-KWXC IV,Construction Blocks,Medium,23.62
+Geminate,8K-CHA,9-KWXC,9-KWXC IV,Plasmoids,Poor,1.29
+Geminate,8K-CHA,9-KWXC,9-KWXC V,Lustering Alloy,Poor,18.88
+Geminate,8K-CHA,9-KWXC,9-KWXC V,Dark Compound,Poor,16.38
+Geminate,8K-CHA,9-KWXC,9-KWXC V,Supertensile Plastics,Poor,13.72
+Geminate,8K-CHA,9-KWXC,9-KWXC V,Oxygen Isotopes,Poor,3.19
+Geminate,8K-CHA,9-KWXC,9-KWXC VI,Precious Alloy,Medium,24.08
+Geminate,8K-CHA,9-KWXC,9-KWXC VI,Base Metals,Medium,5.85
+Geminate,8K-CHA,9-KWXC,9-KWXC VI,Supertensile Plastics,Medium,15.95
+Geminate,8K-CHA,9-KWXC,9-KWXC VI,Plasmoids,Medium,1.65
+Geminate,8K-CHA,9-KWXC,9-KWXC VII,Lustering Alloy,Rich,33.05
+Geminate,8K-CHA,9-KWXC,9-KWXC VII,Sheen Compound,Medium,24.66
+Geminate,8K-CHA,9-KWXC,9-KWXC VII,Glossy Compound,Perfect,37.37
+Geminate,8K-CHA,9-KWXC,9-KWXC VII,Reactive Gas,Rich,29.76
+Geminate,8K-CHA,9-KWXC,9-KWXC VII,Ionic Solutions,Medium,11.08
+Geminate,8K-CHA,9-KWXC,9-KWXC VIII,Lustering Alloy,Poor,20.35
+Geminate,8K-CHA,9-KWXC,9-KWXC VIII,Reactive Gas,Medium,21.76
+Geminate,8K-CHA,9-KWXC,9-KWXC VIII,Base Metals,Medium,6.36
+Geminate,8K-CHA,9-KWXC,9-KWXC VIII,Reactive Metals,Rich,7.95
+Geminate,8K-CHA,9-KWXC,9-KWXC VIII,Coolant,Medium,14.86
+Geminate,8K-CHA,9-KWXC,9-KWXC IX,Opulent Compound,Perfect,37.58
+Geminate,8K-CHA,9-KWXC,9-KWXC IX,Toxic Metals,Rich,9.09
+Geminate,8K-CHA,9-KWXC,9-KWXC IX,Polyaramids,Rich,22.29
+Geminate,8K-CHA,9-KWXC,9-KWXC IX,Coolant,Perfect,26.80
+Geminate,8K-CHA,9-KWXC,9-KWXC IX,Liquid Ozone,Rich,39.04
+Geminate,ZYL-FT,NQ-9IH,NQ-9IH I,Lustering Alloy,Poor,14.63
+Geminate,ZYL-FT,NQ-9IH,NQ-9IH I,Toxic Metals,Poor,4.16
+Geminate,ZYL-FT,NQ-9IH,NQ-9IH I,Supertensile Plastics,Medium,13.83
+Geminate,ZYL-FT,NQ-9IH,NQ-9IH I,Silicate Glass,Medium,13.43
+Geminate,ZYL-FT,NQ-9IH,NQ-9IH II,Crystal Compound,Rich,33.51
+Geminate,ZYL-FT,NQ-9IH,NQ-9IH II,Reactive Metals,Rich,7.50
+Geminate,ZYL-FT,NQ-9IH,NQ-9IH II,Toxic Metals,Poor,5.28
+Geminate,ZYL-FT,NQ-9IH,NQ-9IH II,Oxygen Isotopes,Medium,3.64
+Geminate,ZYL-FT,NQ-9IH,NQ-9IH III,Opulent Compound,Perfect,36.15
+Geminate,ZYL-FT,NQ-9IH,NQ-9IH III,Base Metals,Rich,8.09
+Geminate,ZYL-FT,NQ-9IH,NQ-9IH III,Industrial Fibers,Medium,6.04
+Geminate,ZYL-FT,NQ-9IH,NQ-9IH III,Condensates,Rich,21.87
+Geminate,ZYL-FT,NQ-9IH,NQ-9IH III,Liquid Ozone,Medium,31.19
+Geminate,ZYL-FT,NQ-9IH,NQ-9IH IV,Gleaming Alloy,Medium,24.51
+Geminate,ZYL-FT,NQ-9IH,NQ-9IH IV,Glossy Compound,Poor,19.82
+Geminate,ZYL-FT,NQ-9IH,NQ-9IH IV,Noble Metals,Perfect,35.71
+Geminate,ZYL-FT,NQ-9IH,NQ-9IH V,Glossy Compound,Rich,30.49
+Geminate,ZYL-FT,NQ-9IH,NQ-9IH V,Reactive Gas,Medium,24.44
+Geminate,ZYL-FT,NQ-9IH,NQ-9IH V,Noble Gas,Medium,22.64
+Geminate,ZYL-FT,NQ-9IH,NQ-9IH V,Polyaramids,Poor,12.26
+Geminate,ZYL-FT,NQ-9IH,NQ-9IH V,Ionic Solutions,Perfect,14.46
+Geminate,ZYL-FT,NQ-9IH,NQ-9IH VI,Industrial Fibers,Poor,4.70
+Geminate,ZYL-FT,NQ-9IH,NQ-9IH VI,Condensates,Poor,13.67
+Geminate,ZYL-FT,NQ-9IH,NQ-9IH VI,Suspended Plasma,Rich,116.66
+Geminate,ZYL-FT,NQ-9IH,NQ-9IH VI,Liquid Ozone,Medium,28.27
+Geminate,ZYL-FT,KR-V6G,KR-V6G I,Lustering Alloy,Medium,26.36
+Geminate,ZYL-FT,KR-V6G,KR-V6G I,Toxic Metals,Poor,3.75
+Geminate,ZYL-FT,KR-V6G,KR-V6G I,Supertensile Plastics,Medium,17.73
+Geminate,ZYL-FT,KR-V6G,KR-V6G I,Plasmoids,Poor,0.82
+Geminate,ZYL-FT,KR-V6G,KR-V6G II,Reactive Gas,Rich,29.96
+Geminate,ZYL-FT,KR-V6G,KR-V6G II,Industrial Fibers,Medium,6.68
+Geminate,ZYL-FT,KR-V6G,KR-V6G II,Smartfab Units,Rich,19.02
+Geminate,ZYL-FT,KR-V6G,KR-V6G II,Heavy Water,Rich,335.72
+Geminate,ZYL-FT,KR-V6G,KR-V6G II,Liquid Ozone,Perfect,45.76
+Geminate,ZYL-FT,KR-V6G,KR-V6G III,Reactive Gas,Perfect,41.84
+Geminate,ZYL-FT,KR-V6G,KR-V6G III,Base Metals,Perfect,9.24
+Geminate,ZYL-FT,KR-V6G,KR-V6G III,Smartfab Units,Medium,14.55
+Geminate,ZYL-FT,KR-V6G,KR-V6G III,Heavy Water,Rich,321.64
+Geminate,ZYL-FT,KR-V6G,KR-V6G III,Liquid Ozone,Rich,35.50
+Geminate,ZYL-FT,KR-V6G,KR-V6G IV,Opulent Compound,Rich,33.42
+Geminate,ZYL-FT,KR-V6G,KR-V6G IV,Crystal Compound,Perfect,37.77
+Geminate,ZYL-FT,KR-V6G,KR-V6G IV,Noble Metals,Perfect,37.91
+Geminate,ZYL-FT,KR-V6G,KR-V6G IV,Coolant,Medium,15.65
+Geminate,ZYL-FT,KR-V6G,KR-V6G IV,Liquid Ozone,Medium,31.60
+Geminate,ZYL-FT,KR-V6G,KR-V6G V,Opulent Compound,Perfect,37.82
+Geminate,ZYL-FT,KR-V6G,KR-V6G V,Polyaramids,Medium,14.92
+Geminate,ZYL-FT,KR-V6G,KR-V6G V,Silicate Glass,Medium,13.55
+Geminate,ZYL-FT,KR-V6G,KR-V6G V,Heavy Water,Medium,246.62
+Geminate,ZYL-FT,KR-V6G,KR-V6G V,Liquid Ozone,Perfect,44.00
+Geminate,ZYL-FT,AP9-LV,AP9-LV I,Base Metals,Medium,6.80
+Geminate,ZYL-FT,AP9-LV,AP9-LV I,Supertensile Plastics,Poor,10.90
+Geminate,ZYL-FT,AP9-LV,AP9-LV I,Construction Blocks,Medium,25.76
+Geminate,ZYL-FT,AP9-LV,AP9-LV I,Silicate Glass,Poor,7.55
+Geminate,ZYL-FT,AP9-LV,AP9-LV II,Gleaming Alloy,Rich,28.56
+Geminate,ZYL-FT,AP9-LV,AP9-LV II,Noble Metals,Medium,27.61
+Geminate,ZYL-FT,AP9-LV,AP9-LV II,Polyaramids,Rich,21.19
+Geminate,ZYL-FT,AP9-LV,AP9-LV III,Crystal Compound,Rich,28.29
+Geminate,ZYL-FT,AP9-LV,AP9-LV III,Noble Metals,Perfect,35.42
+Geminate,ZYL-FT,AP9-LV,AP9-LV III,Polyaramids,Medium,15.27
+Geminate,ZYL-FT,AP9-LV,AP9-LV III,Liquid Ozone,Rich,40.10
+Geminate,ZYL-FT,AP9-LV,AP9-LV III,Ionic Solutions,Poor,8.22
+Geminate,ZYL-FT,AP9-LV,AP9-LV IV,Dark Compound,Poor,14.41
+Geminate,ZYL-FT,AP9-LV,AP9-LV IV,Toxic Metals,Medium,5.69
+Geminate,ZYL-FT,AP9-LV,AP9-LV IV,Supertensile Plastics,Medium,16.22
+Geminate,ZYL-FT,AP9-LV,AP9-LV IV,Plasmoids,Poor,1.08
+Geminate,ZYL-FT,AP9-LV,AP9-LV V,Gleaming Alloy,Rich,29.24
+Geminate,ZYL-FT,AP9-LV,AP9-LV V,Glossy Compound,Rich,33.79
+Geminate,ZYL-FT,AP9-LV,AP9-LV V,Heavy Metals,Poor,17.86
+Geminate,ZYL-FT,AP9-LV,AP9-LV VI,Lustering Alloy,Poor,19.45
+Geminate,ZYL-FT,AP9-LV,AP9-LV VI,Fiber Composite,Poor,19.56
+Geminate,ZYL-FT,AP9-LV,AP9-LV VI,Reactive Gas,Poor,18.41
+Geminate,ZYL-FT,AP9-LV,AP9-LV VI,Noble Gas,Rich,33.66
+Geminate,ZYL-FT,AP9-LV,AP9-LV VI,Coolant,Medium,13.96
+Geminate,ZYL-FT,AP9-LV,AP9-LV VII,Dark Compound,Poor,19.32
+Geminate,ZYL-FT,AP9-LV,AP9-LV VII,Supertensile Plastics,Poor,12.47
+Geminate,ZYL-FT,AP9-LV,AP9-LV VII,Construction Blocks,Medium,26.58
+Geminate,ZYL-FT,AP9-LV,AP9-LV VII,Plasmoids,Medium,1.54
+Geminate,ZYL-FT,AP9-LV,AP9-LV VIII,Lustering Alloy,Rich,30.87
+Geminate,ZYL-FT,AP9-LV,AP9-LV VIII,Sheen Compound,Medium,25.15
+Geminate,ZYL-FT,AP9-LV,AP9-LV VIII,Reactive Gas,Poor,19.89
+Geminate,ZYL-FT,AP9-LV,AP9-LV VIII,Reactive Metals,Medium,6.37
+Geminate,ZYL-FT,AP9-LV,AP9-LV VIII,Coolant,Rich,19.99
+Geminate,ZYL-FT,AP9-LV,AP9-LV IX,Lustering Alloy,Poor,19.03
+Geminate,ZYL-FT,AP9-LV,AP9-LV IX,Dark Compound,Medium,21.05
+Geminate,ZYL-FT,AP9-LV,AP9-LV IX,Supertensile Plastics,Poor,11.76
+Geminate,ZYL-FT,AP9-LV,AP9-LV IX,Oxygen Isotopes,Poor,2.71
+Geminate,ZYL-FT,AP9-LV,AP9-LV X,Lustering Alloy,Rich,33.29
+Geminate,ZYL-FT,AP9-LV,AP9-LV X,Fiber Composite,Medium,26.38
+Geminate,ZYL-FT,AP9-LV,AP9-LV X,Glossy Compound,Medium,22.97
+Geminate,ZYL-FT,AP9-LV,AP9-LV X,Reactive Gas,Perfect,36.08
+Geminate,ZYL-FT,AP9-LV,AP9-LV X,Base Metals,Poor,4.95
+Geminate,ZYL-FT,AP9-LV,AP9-LV XI,Opulent Compound,Medium,27.65
+Geminate,ZYL-FT,AP9-LV,AP9-LV XI,Toxic Metals,Medium,5.84
+Geminate,ZYL-FT,AP9-LV,AP9-LV XI,Silicate Glass,Perfect,17.71
+Geminate,ZYL-FT,AP9-LV,AP9-LV XI,Liquid Ozone,Medium,28.11
+Geminate,ZYL-FT,AP9-LV,AP9-LV XI,Ionic Solutions,Medium,10.66
+Geminate,ZYL-FT,AP9-LV,AP9-LV XII,Base Metals,Medium,5.56
+Geminate,ZYL-FT,AP9-LV,AP9-LV XII,Industrial Fibers,Poor,4.55
+Geminate,ZYL-FT,AP9-LV,AP9-LV XII,Supertensile Plastics,Poor,10.49
+Geminate,ZYL-FT,AP9-LV,AP9-LV XII,Oxygen Isotopes,Poor,2.63
+Geminate,ZYL-FT,0-GZX9,0-GZX9 I,Gleaming Alloy,Rich,31.19
+Geminate,ZYL-FT,0-GZX9,0-GZX9 I,Construction Blocks,Medium,21.87
+Geminate,ZYL-FT,0-GZX9,0-GZX9 I,Plasmoids,Poor,1.24
+Geminate,ZYL-FT,0-GZX9,0-GZX9 II,Reactive Gas,Medium,22.26
+Geminate,ZYL-FT,0-GZX9,0-GZX9 II,Noble Metals,Medium,22.54
+Geminate,ZYL-FT,0-GZX9,0-GZX9 II,Condensates,Medium,17.13
+Geminate,ZYL-FT,0-GZX9,0-GZX9 II,Smartfab Units,Medium,14.84
+Geminate,ZYL-FT,0-GZX9,0-GZX9 II,Liquid Ozone,Perfect,53.62
+Geminate,ZYL-FT,0-GZX9,0-GZX9 III,Fiber Composite,Perfect,42.99
+Geminate,ZYL-FT,0-GZX9,0-GZX9 III,Reactive Gas,Medium,25.76
+Geminate,ZYL-FT,0-GZX9,0-GZX9 III,Industrial Fibers,Medium,7.25
+Geminate,ZYL-FT,0-GZX9,0-GZX9 III,Smartfab Units,Medium,15.95
+Geminate,ZYL-FT,0-GZX9,0-GZX9 III,Liquid Ozone,Perfect,49.59
+Geminate,ZYL-FT,0-GZX9,0-GZX9 IV,Sheen Compound,Poor,19.16
+Geminate,ZYL-FT,0-GZX9,0-GZX9 IV,Reactive Gas,Poor,21.09
+Geminate,ZYL-FT,0-GZX9,0-GZX9 IV,Noble Gas,Medium,28.04
+Geminate,ZYL-FT,0-GZX9,0-GZX9 IV,Polyaramids,Medium,15.23
+Geminate,ZYL-FT,0-GZX9,0-GZX9 IV,Coolant,Perfect,25.45
+Geminate,ZYL-FT,0-GZX9,0-GZX9 V,Lustering Alloy,Poor,19.96
+Geminate,ZYL-FT,0-GZX9,0-GZX9 V,Fiber Composite,Medium,21.94
+Geminate,ZYL-FT,0-GZX9,0-GZX9 V,Reactive Gas,Rich,33.07
+Geminate,ZYL-FT,0-GZX9,0-GZX9 V,Noble Gas,Poor,20.84
+Geminate,ZYL-FT,0-GZX9,0-GZX9 V,Ionic Solutions,Poor,8.26
+Geminate,ZYL-FT,0-GZX9,0-GZX9 VI,Fiber Composite,Medium,23.57
+Geminate,ZYL-FT,0-GZX9,0-GZX9 VI,Glossy Compound,Rich,34.89
+Geminate,ZYL-FT,0-GZX9,0-GZX9 VI,Reactive Gas,Medium,25.44
+Geminate,ZYL-FT,0-GZX9,0-GZX9 VI,Base Metals,Medium,6.28
+Geminate,ZYL-FT,0-GZX9,0-GZX9 VI,Reactive Metals,Medium,6.13
+Geminate,ZYL-FT,0-GZX9,0-GZX9 VII,Opulent Compound,Perfect,40.71
+Geminate,ZYL-FT,0-GZX9,0-GZX9 VII,Noble Metals,Medium,23.60
+Geminate,ZYL-FT,0-GZX9,0-GZX9 VII,Toxic Metals,Medium,6.72
+Geminate,ZYL-FT,0-GZX9,0-GZX9 VII,Heavy Water,Perfect,377.43
+Geminate,ZYL-FT,0-GZX9,0-GZX9 VII,Liquid Ozone,Perfect,50.37
+Geminate,ZYL-FT,0-GZX9,0-GZX9 VIII,Sheen Compound,Medium,23.48
+Geminate,ZYL-FT,0-GZX9,0-GZX9 VIII,Fiber Composite,Medium,22.45
+Geminate,ZYL-FT,0-GZX9,0-GZX9 VIII,Reactive Gas,Rich,29.12
+Geminate,ZYL-FT,0-GZX9,0-GZX9 VIII,Noble Gas,Medium,26.27
+Geminate,ZYL-FT,0-GZX9,0-GZX9 VIII,Polyaramids,Rich,22.02
+Geminate,ZYL-FT,0-GZX9,0-GZX9 IX,Dark Compound,Poor,16.77
+Geminate,ZYL-FT,0-GZX9,0-GZX9 IX,Supertensile Plastics,Poor,9.58
+Geminate,ZYL-FT,0-GZX9,0-GZX9 IX,Silicate Glass,Poor,9.00
+Geminate,ZYL-FT,0-GZX9,0-GZX9 IX,Oxygen Isotopes,Medium,3.39
+Geminate,ZYL-FT,0-GZX9,0-GZX9 X,Lustering Alloy,Poor,14.72
+Geminate,ZYL-FT,0-GZX9,0-GZX9 X,Dark Compound,Poor,17.07
+Geminate,ZYL-FT,0-GZX9,0-GZX9 X,Industrial Fibers,Medium,5.91
+Geminate,ZYL-FT,0-GZX9,0-GZX9 X,Supertensile Plastics,Medium,17.46
+Geminate,ZYL-FT,2H-TSE,2H-TSE I,Precious Alloy,Medium,24.00
+Geminate,ZYL-FT,2H-TSE,2H-TSE I,Industrial Fibers,Poor,4.96
+Geminate,ZYL-FT,2H-TSE,2H-TSE I,Supertensile Plastics,Medium,17.86
+Geminate,ZYL-FT,2H-TSE,2H-TSE I,Plasmoids,Poor,1.18
+Geminate,ZYL-FT,2H-TSE,2H-TSE II,Condensed Alloy,Medium,21.91
+Geminate,ZYL-FT,2H-TSE,2H-TSE II,Opulent Compound,Rich,34.28
+Geminate,ZYL-FT,2H-TSE,2H-TSE II,Smartfab Units,Perfect,24.48
+Geminate,ZYL-FT,2H-TSE,2H-TSE II,Heavy Water,Perfect,393.14
+Geminate,ZYL-FT,2H-TSE,2H-TSE II,Liquid Ozone,Perfect,47.82
+Geminate,ZYL-FT,2H-TSE,2H-TSE III,Sheen Compound,Medium,26.75
+Geminate,ZYL-FT,2H-TSE,2H-TSE III,Glossy Compound,Medium,21.25
+Geminate,ZYL-FT,2H-TSE,2H-TSE III,Reactive Gas,Rich,31.59
+Geminate,ZYL-FT,2H-TSE,2H-TSE III,Noble Gas,Rich,32.67
+Geminate,ZYL-FT,2H-TSE,2H-TSE III,Polyaramids,Perfect,24.02
+Geminate,ZYL-FT,2H-TSE,2H-TSE IV,Fiber Composite,Rich,33.57
+Geminate,ZYL-FT,2H-TSE,2H-TSE IV,Reactive Gas,Perfect,35.60
+Geminate,ZYL-FT,2H-TSE,2H-TSE IV,Noble Gas,Medium,23.17
+Geminate,ZYL-FT,2H-TSE,2H-TSE IV,Base Metals,Rich,7.64
+Geminate,ZYL-FT,2H-TSE,2H-TSE IV,Ionic Solutions,Rich,11.66
+Geminate,ZYL-FT,2H-TSE,2H-TSE V,Precious Alloy,Rich,30.38
+Geminate,ZYL-FT,2H-TSE,2H-TSE V,Heavy Metals,Rich,32.36
+Geminate,ZYL-FT,2H-TSE,2H-TSE V,Condensates,Rich,19.58
+Geminate,ZYL-FT,2H-TSE,2H-TSE V,Suspended Plasma,Poor,74.53
+Geminate,ZYL-FT,2H-TSE,2H-TSE VI,Lustering Alloy,Poor,15.82
+Geminate,ZYL-FT,2H-TSE,2H-TSE VI,Industrial Fibers,Medium,5.72
+Geminate,ZYL-FT,2H-TSE,2H-TSE VI,Supertensile Plastics,Medium,15.50
+Geminate,ZYL-FT,2H-TSE,2H-TSE VI,Oxygen Isotopes,Medium,3.58
+Geminate,ZYL-FT,4NGK-F,4NGK-F I,Heavy Metals,Medium,21.76
+Geminate,ZYL-FT,4NGK-F,4NGK-F I,Condensates,Perfect,25.70
+Geminate,ZYL-FT,4NGK-F,4NGK-F I,Suspended Plasma,Medium,97.26
+Geminate,ZYL-FT,4NGK-F,4NGK-F I,Ionic Solutions,Perfect,14.90
+Geminate,ZYL-FT,4NGK-F,4NGK-F I,Plasmoids,Perfect,2.21
+Geminate,ZYL-FT,4NGK-F,4NGK-F II,Gleaming Alloy,Rich,28.56
+Geminate,ZYL-FT,4NGK-F,4NGK-F II,Polyaramids,Medium,17.57
+Geminate,ZYL-FT,4NGK-F,4NGK-F II,Smartfab Units,Medium,14.14
+Geminate,ZYL-FT,4NGK-F,4NGK-F III,Lustering Alloy,Poor,20.02
+Geminate,ZYL-FT,4NGK-F,4NGK-F III,Precious Alloy,Medium,21.91
+Geminate,ZYL-FT,4NGK-F,4NGK-F III,Supertensile Plastics,Poor,11.75
+Geminate,ZYL-FT,4NGK-F,4NGK-F III,Oxygen Isotopes,Medium,3.38
+Geminate,ZYL-FT,4NGK-F,4NGK-F IV,Precious Alloy,Poor,20.20
+Geminate,ZYL-FT,4NGK-F,4NGK-F IV,Base Metals,Medium,6.76
+Geminate,ZYL-FT,4NGK-F,4NGK-F IV,Supertensile Plastics,Poor,11.63
+Geminate,ZYL-FT,4NGK-F,4NGK-F IV,Oxygen Isotopes,Poor,3.06
+Geminate,ZYL-FT,4NGK-F,4NGK-F V,Fiber Composite,Rich,33.53
+Geminate,ZYL-FT,4NGK-F,4NGK-F V,Reactive Gas,Perfect,36.41
+Geminate,ZYL-FT,4NGK-F,4NGK-F V,Noble Gas,Poor,20.37
+Geminate,ZYL-FT,4NGK-F,4NGK-F V,Base Metals,Medium,6.32
+Geminate,ZYL-FT,4NGK-F,4NGK-F V,Ionic Solutions,Medium,8.84
+Geminate,ZYL-FT,4NGK-F,4NGK-F VI,Precious Alloy,Medium,22.66
+Geminate,ZYL-FT,4NGK-F,4NGK-F VI,Toxic Metals,Medium,6.19
+Geminate,ZYL-FT,4NGK-F,4NGK-F VI,Supertensile Plastics,Medium,14.55
+Geminate,ZYL-FT,4NGK-F,4NGK-F VI,Plasmoids,Poor,1.03
+Geminate,ZYL-FT,4NGK-F,4NGK-F VII,Lustering Alloy,Rich,32.05
+Geminate,ZYL-FT,4NGK-F,4NGK-F VII,Glossy Compound,Rich,28.62
+Geminate,ZYL-FT,4NGK-F,4NGK-F VII,Reactive Gas,Rich,28.86
+Geminate,ZYL-FT,4NGK-F,4NGK-F VII,Coolant,Medium,16.16
+Geminate,ZYL-FT,4NGK-F,4NGK-F VII,Ionic Solutions,Medium,9.07
+Geminate,ZYL-FT,4NGK-F,4NGK-F VIII,Lustering Alloy,Rich,29.55
+Geminate,ZYL-FT,4NGK-F,4NGK-F VIII,Glossy Compound,Rich,32.49
+Geminate,ZYL-FT,4NGK-F,4NGK-F VIII,Reactive Gas,Rich,34.28
+Geminate,ZYL-FT,4NGK-F,4NGK-F VIII,Noble Gas,Poor,18.39
+Geminate,ZYL-FT,4NGK-F,4NGK-F VIII,Coolant,Perfect,23.44
+Geminate,ZYL-FT,4NGK-F,4NGK-F IX,Glossy Compound,Poor,19.51
+Geminate,ZYL-FT,4NGK-F,4NGK-F IX,Reactive Gas,Medium,24.79
+Geminate,ZYL-FT,4NGK-F,4NGK-F IX,Noble Gas,Medium,22.44
+Geminate,ZYL-FT,4NGK-F,4NGK-F IX,Coolant,Medium,17.86
+Geminate,ZYL-FT,4NGK-F,4NGK-F IX,Ionic Solutions,Medium,9.62
+Geminate,ZYL-FT,4NGK-F,4NGK-F X,Precious Alloy,Medium,25.70
+Geminate,ZYL-FT,4NGK-F,4NGK-F X,Motley Compound,Rich,30.65
+Geminate,ZYL-FT,4NGK-F,4NGK-F X,Heavy Metals,Poor,19.10
+Geminate,ZYL-FT,4NGK-F,4NGK-F X,Condensates,Medium,13.89
+Geminate,ZYL-FT,4NGK-F,4NGK-F XI,Base Metals,Poor,4.67
+Geminate,ZYL-FT,4NGK-F,4NGK-F XI,Heavy Metals,Poor,18.96
+Geminate,ZYL-FT,4NGK-F,4NGK-F XI,Supertensile Plastics,Poor,12.29
+Geminate,ZYL-FT,4NGK-F,4NGK-F XI,Condensates,Rich,20.12
+Geminate,ZYL-FT,4NGK-F,4NGK-F XII,Toxic Metals,Poor,4.45
+Geminate,ZYL-FT,4NGK-F,4NGK-F XII,Industrial Fibers,Poor,3.80
+Geminate,ZYL-FT,4NGK-F,4NGK-F XII,Supertensile Plastics,Medium,14.31
+Geminate,ZYL-FT,4NGK-F,4NGK-F XII,Oxygen Isotopes,Medium,3.48
+Geminate,NK-AOZ,O-VWPB,O-VWPB I,Base Metals,Medium,7.15
+Geminate,NK-AOZ,O-VWPB,O-VWPB I,Supertensile Plastics,Medium,19.31
+Geminate,NK-AOZ,O-VWPB,O-VWPB I,Silicate Glass,Poor,11.14
+Geminate,NK-AOZ,O-VWPB,O-VWPB I,Plasmoids,Medium,1.68
+Geminate,NK-AOZ,O-VWPB,O-VWPB II,Gleaming Alloy,Rich,37.13
+Geminate,NK-AOZ,O-VWPB,O-VWPB II,Heavy Metals,Poor,21.89
+Geminate,NK-AOZ,O-VWPB,O-VWPB II,Oxygen Isotopes,Medium,4.43
+Geminate,NK-AOZ,O-VWPB,O-VWPB III,Dark Compound,Poor,21.48
+Geminate,NK-AOZ,O-VWPB,O-VWPB III,Toxic Metals,Poor,5.01
+Geminate,NK-AOZ,O-VWPB,O-VWPB III,Supertensile Plastics,Medium,17.94
+Geminate,NK-AOZ,O-VWPB,O-VWPB III,Oxygen Isotopes,Poor,2.93
+Geminate,NK-AOZ,O-VWPB,O-VWPB IV,Gleaming Alloy,Medium,25.13
+Geminate,NK-AOZ,O-VWPB,O-VWPB IV,Heavy Metals,Rich,37.80
+Geminate,NK-AOZ,O-VWPB,O-VWPB IV,Polyaramids,Medium,18.05
+Geminate,NK-AOZ,O-VWPB,O-VWPB V,Sheen Compound,Poor,20.23
+Geminate,NK-AOZ,O-VWPB,O-VWPB V,Reactive Gas,Medium,26.95
+Geminate,NK-AOZ,O-VWPB,O-VWPB V,Base Metals,Medium,7.39
+Geminate,NK-AOZ,O-VWPB,O-VWPB V,Reactive Metals,Poor,5.79
+Geminate,NK-AOZ,O-VWPB,O-VWPB V,Coolant,Medium,18.90
+Geminate,NK-AOZ,O-VWPB,O-VWPB VI,Glossy Compound,Poor,22.13
+Geminate,NK-AOZ,O-VWPB,O-VWPB VI,Reactive Gas,Poor,22.54
+Geminate,NK-AOZ,O-VWPB,O-VWPB VI,Noble Gas,Rich,33.26
+Geminate,NK-AOZ,O-VWPB,O-VWPB VI,Base Metals,Medium,7.87
+Geminate,NK-AOZ,O-VWPB,O-VWPB VI,Reactive Metals,Rich,8.98
+Geminate,NK-AOZ,O-VWPB,O-VWPB VII,Sheen Compound,Medium,28.63
+Geminate,NK-AOZ,O-VWPB,O-VWPB VII,Reactive Gas,Rich,33.50
+Geminate,NK-AOZ,O-VWPB,O-VWPB VII,Base Metals,Medium,7.67
+Geminate,NK-AOZ,O-VWPB,O-VWPB VII,Polyaramids,Rich,22.08
+Geminate,NK-AOZ,O-VWPB,O-VWPB VII,Coolant,Poor,13.30
+Geminate,NK-AOZ,O-VWPB,O-VWPB VIII,Base Metals,Medium,6.48
+Geminate,NK-AOZ,O-VWPB,O-VWPB VIII,Industrial Fibers,Medium,6.75
+Geminate,NK-AOZ,O-VWPB,O-VWPB VIII,Supertensile Plastics,Medium,19.36
+Geminate,NK-AOZ,O-VWPB,O-VWPB VIII,Oxygen Isotopes,Poor,2.91
+Geminate,NK-AOZ,O-VWPB,O-VWPB IX,Lustering Alloy,Poor,18.41
+Geminate,NK-AOZ,O-VWPB,O-VWPB IX,Precious Alloy,Medium,28.58
+Geminate,NK-AOZ,O-VWPB,O-VWPB IX,Supertensile Plastics,Medium,17.02
+Geminate,NK-AOZ,O-VWPB,O-VWPB IX,Oxygen Isotopes,Poor,3.06
+Geminate,NK-AOZ,LX-ZOJ,LX-ZOJ I,Sheen Compound,Medium,29.62
+Geminate,NK-AOZ,LX-ZOJ,LX-ZOJ I,Dark Compound,Perfect,39.89
+Geminate,NK-AOZ,LX-ZOJ,LX-ZOJ I,Heavy Metals,Rich,35.14
+Geminate,NK-AOZ,LX-ZOJ,LX-ZOJ I,Condensates,Medium,16.62
+Geminate,NK-AOZ,LX-ZOJ,LX-ZOJ I,Plasmoids,Poor,1.30
+Geminate,NK-AOZ,LX-ZOJ,LX-ZOJ II,Gleaming Alloy,Medium,30.24
+Geminate,NK-AOZ,LX-ZOJ,LX-ZOJ II,Noble Gas,Medium,26.69
+Geminate,NK-AOZ,LX-ZOJ,LX-ZOJ II,Construction Blocks,Medium,24.00
+Geminate,NK-AOZ,LX-ZOJ,LX-ZOJ III,Gleaming Alloy,Medium,24.55
+Geminate,NK-AOZ,LX-ZOJ,LX-ZOJ III,Glossy Compound,Medium,22.73
+Geminate,NK-AOZ,LX-ZOJ,LX-ZOJ III,Noble Metals,Rich,31.10
+Geminate,NK-AOZ,LX-ZOJ,LX-ZOJ IV,Industrial Fibers,Medium,7.36
+Geminate,NK-AOZ,LX-ZOJ,LX-ZOJ IV,Supertensile Plastics,Poor,14.45
+Geminate,NK-AOZ,LX-ZOJ,LX-ZOJ IV,Oxygen Isotopes,Poor,2.43
+Geminate,NK-AOZ,LX-ZOJ,LX-ZOJ IV,Plasmoids,Poor,1.13
+Geminate,NK-AOZ,LX-ZOJ,LX-ZOJ V,Gleaming Alloy,Medium,30.19
+Geminate,NK-AOZ,LX-ZOJ,LX-ZOJ V,Noble Metals,Perfect,39.24
+Geminate,NK-AOZ,LX-ZOJ,LX-ZOJ V,Plasmoids,Rich,1.93
+Geminate,NK-AOZ,LX-ZOJ,LX-ZOJ VI,Gleaming Alloy,Rich,35.16
+Geminate,NK-AOZ,LX-ZOJ,LX-ZOJ VI,Reactive Gas,Rich,33.02
+Geminate,NK-AOZ,LX-ZOJ,LX-ZOJ VI,Reactive Metals,Rich,9.29
+Geminate,NK-AOZ,LX-ZOJ,LX-ZOJ VI,Construction Blocks,Medium,27.84
+Geminate,NK-AOZ,LX-ZOJ,LX-ZOJ VII,Precious Alloy,Medium,28.90
+Geminate,NK-AOZ,LX-ZOJ,LX-ZOJ VII,Dark Compound,Poor,17.62
+Geminate,NK-AOZ,LX-ZOJ,LX-ZOJ VII,Industrial Fibers,Medium,7.63
+Geminate,NK-AOZ,LX-ZOJ,LX-ZOJ VII,Supertensile Plastics,Poor,10.27
+Geminate,NK-AOZ,LX-ZOJ,LX-ZOJ VIII,Reactive Gas,Medium,27.48
+Geminate,NK-AOZ,LX-ZOJ,LX-ZOJ VIII,Reactive Metals,Medium,7.93
+Geminate,NK-AOZ,LX-ZOJ,LX-ZOJ VIII,Supertensile Plastics,Rich,21.73
+Geminate,NK-AOZ,LX-ZOJ,LX-ZOJ VIII,Nanites,Poor,5.20
+Geminate,NK-AOZ,LX-ZOJ,LX-ZOJ IX,Condensed Alloy,Perfect,44.69
+Geminate,NK-AOZ,LX-ZOJ,LX-ZOJ IX,Fiber Composite,Perfect,42.55
+Geminate,NK-AOZ,LX-ZOJ,LX-ZOJ IX,Opulent Compound,Rich,35.23
+Geminate,NK-AOZ,LX-ZOJ,LX-ZOJ IX,Base Metals,Perfect,11.20
+Geminate,NK-AOZ,LX-ZOJ,LX-ZOJ IX,Liquid Ozone,Medium,36.90
+Geminate,NK-AOZ,LX-ZOJ,LX-ZOJ X,Opulent Compound,Medium,24.79
+Geminate,NK-AOZ,LX-ZOJ,LX-ZOJ X,Reactive Gas,Rich,35.04
+Geminate,NK-AOZ,LX-ZOJ,LX-ZOJ X,Noble Metals,Perfect,45.05
+Geminate,NK-AOZ,LX-ZOJ,LX-ZOJ X,Industrial Fibers,Perfect,10.66
+Geminate,NK-AOZ,LX-ZOJ,LX-ZOJ X,Liquid Ozone,Perfect,50.82
+Geminate,NK-AOZ,LX-ZOJ,LX-ZOJ XI,Gleaming Alloy,Medium,22.87
+Geminate,NK-AOZ,LX-ZOJ,LX-ZOJ XI,Lucent Compound,Rich,37.85
+Geminate,NK-AOZ,LX-ZOJ,LX-ZOJ XI,Reactive Metals,Medium,7.16
+Geminate,NK-AOZ,LX-ZOJ,LX-ZOJ XI,Supertensile Plastics,Rich,24.00
+Geminate,NK-AOZ,LX-ZOJ,LX-ZOJ XII,Gleaming Alloy,Poor,20.98
+Geminate,NK-AOZ,LX-ZOJ,LX-ZOJ XII,Heavy Metals,Rich,37.82
+Geminate,NK-AOZ,LX-ZOJ,LX-ZOJ XII,Polyaramids,Rich,21.71
+Geminate,NK-AOZ,LX-ZOJ,LX-ZOJ XIII,Sheen Compound,Medium,29.74
+Geminate,NK-AOZ,LX-ZOJ,LX-ZOJ XIII,Glossy Compound,Poor,21.26
+Geminate,NK-AOZ,LX-ZOJ,LX-ZOJ XIII,Reactive Gas,Rich,30.84
+Geminate,NK-AOZ,LX-ZOJ,LX-ZOJ XIII,Base Metals,Rich,9.62
+Geminate,NK-AOZ,LX-ZOJ,LX-ZOJ XIII,Ionic Solutions,Medium,9.52
+Geminate,NK-AOZ,6L78-1,6L78-1 I,Gleaming Alloy,Medium,22.06
+Geminate,NK-AOZ,6L78-1,6L78-1 I,Noble Gas,Rich,34.06
+Geminate,NK-AOZ,6L78-1,6L78-1 I,Heavy Metals,Rich,32.45
+Geminate,NK-AOZ,6L78-1,6L78-1 II,Lustering Alloy,Poor,20.01
+Geminate,NK-AOZ,6L78-1,6L78-1 II,Precious Alloy,Medium,27.02
+Geminate,NK-AOZ,6L78-1,6L78-1 II,Supertensile Plastics,Poor,13.00
+Geminate,NK-AOZ,6L78-1,6L78-1 II,Oxygen Isotopes,Medium,3.84
+Geminate,NK-AOZ,6L78-1,6L78-1 III,Dark Compound,Poor,17.71
+Geminate,NK-AOZ,6L78-1,6L78-1 III,Base Metals,Medium,6.52
+Geminate,NK-AOZ,6L78-1,6L78-1 III,Supertensile Plastics,Poor,9.92
+Geminate,NK-AOZ,6L78-1,6L78-1 III,Oxygen Isotopes,Poor,3.03
+Geminate,NK-AOZ,6L78-1,6L78-1 IV,Gleaming Alloy,Poor,18.97
+Geminate,NK-AOZ,6L78-1,6L78-1 IV,Motley Compound,Medium,26.59
+Geminate,NK-AOZ,6L78-1,6L78-1 IV,Construction Blocks,Medium,24.56
+Geminate,NK-AOZ,6L78-1,6L78-1 V,Fiber Composite,Rich,35.99
+Geminate,NK-AOZ,6L78-1,6L78-1 V,Reactive Gas,Rich,31.69
+Geminate,NK-AOZ,6L78-1,6L78-1 V,Industrial Fibers,Perfect,10.45
+Geminate,NK-AOZ,6L78-1,6L78-1 V,Heavy Water,Perfect,429.41
+Geminate,NK-AOZ,6L78-1,6L78-1 V,Liquid Ozone,Medium,34.73
+Geminate,NK-AOZ,6L78-1,6L78-1 VI,Lustering Alloy,Medium,23.14
+Geminate,NK-AOZ,6L78-1,6L78-1 VI,Sheen Compound,Rich,34.29
+Geminate,NK-AOZ,6L78-1,6L78-1 VI,Fiber Composite,Rich,34.84
+Geminate,NK-AOZ,6L78-1,6L78-1 VI,Reactive Gas,Poor,19.94
+Geminate,NK-AOZ,6L78-1,6L78-1 VI,Noble Gas,Perfect,37.86
+Geminate,NK-AOZ,6L78-1,6L78-1 VII,Lustering Alloy,Medium,27.95
+Geminate,NK-AOZ,6L78-1,6L78-1 VII,Glossy Compound,Poor,19.04
+Geminate,NK-AOZ,6L78-1,6L78-1 VII,Reactive Gas,Rich,34.52
+Geminate,NK-AOZ,6L78-1,6L78-1 VII,Base Metals,Poor,5.65
+Geminate,NK-AOZ,6L78-1,6L78-1 VII,Coolant,Perfect,25.15
+Geminate,NK-AOZ,6L78-1,6L78-1 VIII,Glossy Compound,Medium,23.71
+Geminate,NK-AOZ,6L78-1,6L78-1 VIII,Reactive Gas,Rich,35.93
+Geminate,NK-AOZ,6L78-1,6L78-1 VIII,Base Metals,Perfect,9.88
+Geminate,NK-AOZ,6L78-1,6L78-1 VIII,Polyaramids,Rich,22.23
+Geminate,NK-AOZ,6L78-1,6L78-1 VIII,Coolant,Rich,20.58
+Geminate,NK-AOZ,6L78-1,6L78-1 IX,Lustering Alloy,Rich,34.18
+Geminate,NK-AOZ,6L78-1,6L78-1 IX,Fiber Composite,Perfect,36.68
+Geminate,NK-AOZ,6L78-1,6L78-1 IX,Reactive Gas,Poor,20.42
+Geminate,NK-AOZ,6L78-1,6L78-1 IX,Reactive Metals,Medium,6.79
+Geminate,NK-AOZ,6L78-1,6L78-1 IX,Ionic Solutions,Medium,9.52
+Geminate,NK-AOZ,6L78-1,6L78-1 X,Lustering Alloy,Rich,34.78
+Geminate,NK-AOZ,6L78-1,6L78-1 X,Reactive Gas,Rich,35.19
+Geminate,NK-AOZ,6L78-1,6L78-1 X,Noble Gas,Rich,31.28
+Geminate,NK-AOZ,6L78-1,6L78-1 X,Polyaramids,Medium,16.33
+Geminate,NK-AOZ,6L78-1,6L78-1 X,Coolant,Rich,19.43
+Geminate,NK-AOZ,04-LQM,04-LQM I,Lustering Alloy,Medium,28.03
+Geminate,NK-AOZ,04-LQM,04-LQM I,Precious Alloy,Medium,27.07
+Geminate,NK-AOZ,04-LQM,04-LQM I,Dark Compound,Poor,23.11
+Geminate,NK-AOZ,04-LQM,04-LQM I,Supertensile Plastics,Poor,16.28
+Geminate,NK-AOZ,04-LQM,04-LQM I,Plasmoids,Poor,1.44
+Geminate,NK-AOZ,04-LQM,04-LQM II,Condensed Alloy,Rich,36.19
+Geminate,NK-AOZ,04-LQM,04-LQM II,Toxic Metals,Poor,6.20
+Geminate,NK-AOZ,04-LQM,04-LQM II,Polyaramids,Rich,26.47
+Geminate,NK-AOZ,04-LQM,04-LQM II,Silicate Glass,Rich,20.62
+Geminate,NK-AOZ,04-LQM,04-LQM II,Heavy Water,Rich,342.42
+Geminate,NK-AOZ,04-LQM,04-LQM II,Ionic Solutions,Medium,11.02
+Geminate,NK-AOZ,04-LQM,04-LQM III,Condensed Alloy,Perfect,44.41
+Geminate,NK-AOZ,04-LQM,04-LQM III,Noble Metals,Rich,40.74
+Geminate,NK-AOZ,04-LQM,04-LQM III,Toxic Metals,Medium,7.80
+Geminate,NK-AOZ,04-LQM,04-LQM III,Polyaramids,Poor,15.50
+Geminate,NK-AOZ,04-LQM,04-LQM III,Coolant,Medium,18.79
+Geminate,NK-AOZ,04-LQM,04-LQM III,Liquid Ozone,Poor,29.61
+Geminate,NK-AOZ,04-LQM,04-LQM IV,Lustering Alloy,Medium,30.29
+Geminate,NK-AOZ,04-LQM,04-LQM IV,Dark Compound,Medium,31.75
+Geminate,NK-AOZ,04-LQM,04-LQM IV,Supertensile Plastics,Poor,15.05
+Geminate,NK-AOZ,04-LQM,04-LQM IV,Silicate Glass,Medium,13.08
+Geminate,NK-AOZ,04-LQM,04-LQM IV,Plasmoids,Medium,1.86
+Geminate,NK-AOZ,4VY-Y1,4VY-Y1 I,Gleaming Alloy,Rich,35.07
+Geminate,NK-AOZ,4VY-Y1,4VY-Y1 I,Oxygen Isotopes,Perfect,5.66
+Geminate,NK-AOZ,4VY-Y1,4VY-Y1 I,Plasmoids,Medium,1.51
+Geminate,NK-AOZ,4VY-Y1,4VY-Y1 II,Precious Alloy,Poor,18.97
+Geminate,NK-AOZ,4VY-Y1,4VY-Y1 II,Dark Compound,Poor,17.25
+Geminate,NK-AOZ,4VY-Y1,4VY-Y1 II,Industrial Fibers,Medium,5.78
+Geminate,NK-AOZ,4VY-Y1,4VY-Y1 II,Supertensile Plastics,Medium,17.14
+Geminate,NK-AOZ,4VY-Y1,4VY-Y1 III,Precious Alloy,Poor,18.28
+Geminate,NK-AOZ,4VY-Y1,4VY-Y1 III,Base Metals,Medium,6.98
+Geminate,NK-AOZ,4VY-Y1,4VY-Y1 III,Supertensile Plastics,Poor,12.48
+Geminate,NK-AOZ,4VY-Y1,4VY-Y1 III,Oxygen Isotopes,Poor,2.21
+Geminate,NK-AOZ,4VY-Y1,4VY-Y1 IV,Dark Compound,Medium,27.76
+Geminate,NK-AOZ,4VY-Y1,4VY-Y1 IV,Toxic Metals,Medium,6.43
+Geminate,NK-AOZ,4VY-Y1,4VY-Y1 IV,Supertensile Plastics,Poor,9.77
+Geminate,NK-AOZ,4VY-Y1,4VY-Y1 IV,Plasmoids,Poor,0.95
+Geminate,NK-AOZ,4VY-Y1,4VY-Y1 V,Glossy Compound,Medium,23.71
+Geminate,NK-AOZ,4VY-Y1,4VY-Y1 V,Reactive Gas,Rich,31.95
+Geminate,NK-AOZ,4VY-Y1,4VY-Y1 V,Reactive Metals,Medium,5.97
+Geminate,NK-AOZ,4VY-Y1,4VY-Y1 V,Polyaramids,Perfect,24.43
+Geminate,NK-AOZ,4VY-Y1,4VY-Y1 V,Ionic Solutions,Rich,11.66
+Geminate,NK-AOZ,4VY-Y1,4VY-Y1 VI,Lucent Compound,Rich,29.55
+Geminate,NK-AOZ,4VY-Y1,4VY-Y1 VI,Crystal Compound,Rich,33.14
+Geminate,NK-AOZ,4VY-Y1,4VY-Y1 VI,Reactive Metals,Rich,7.85
+Geminate,NK-AOZ,4VY-Y1,4VY-Y1 VI,Suspended Plasma,Rich,115.51
+Geminate,NK-AOZ,LU-HQS,LU-HQS I,Gleaming Alloy,Medium,24.46
+Geminate,NK-AOZ,LU-HQS,LU-HQS I,Crystal Compound,Rich,37.08
+Geminate,NK-AOZ,LU-HQS,LU-HQS I,Reactive Metals,Rich,8.82
+Geminate,NK-AOZ,LU-HQS,LU-HQS I,Suspended Plasma,Medium,105.24
+Geminate,NK-AOZ,LU-HQS,LU-HQS II,Reactive Gas,Perfect,44.40
+Geminate,NK-AOZ,LU-HQS,LU-HQS II,Base Metals,Poor,5.79
+Geminate,NK-AOZ,LU-HQS,LU-HQS II,Noble Metals,Medium,28.63
+Geminate,NK-AOZ,LU-HQS,LU-HQS II,Condensates,Medium,19.22
+Geminate,NK-AOZ,LU-HQS,LU-HQS II,Liquid Ozone,Perfect,52.02
+Geminate,NK-AOZ,LU-HQS,LU-HQS III,Condensed Alloy,Medium,25.97
+Geminate,NK-AOZ,LU-HQS,LU-HQS III,Reactive Gas,Perfect,41.38
+Geminate,NK-AOZ,LU-HQS,LU-HQS III,Condensates,Perfect,27.70
+Geminate,NK-AOZ,LU-HQS,LU-HQS III,Heavy Water,Perfect,396.72
+Geminate,NK-AOZ,LU-HQS,LU-HQS III,Liquid Ozone,Medium,28.95
+Geminate,NK-AOZ,LU-HQS,LU-HQS IV,Glossy Compound,Medium,30.22
+Geminate,NK-AOZ,LU-HQS,LU-HQS IV,Reactive Gas,Poor,22.58
+Geminate,NK-AOZ,LU-HQS,LU-HQS IV,Noble Gas,Perfect,38.90
+Geminate,NK-AOZ,LU-HQS,LU-HQS IV,Reactive Metals,Rich,9.93
+Geminate,NK-AOZ,LU-HQS,LU-HQS IV,Ionic Solutions,Rich,14.84
+Geminate,NK-AOZ,LU-HQS,LU-HQS V,Dark Compound,Medium,28.78
+Geminate,NK-AOZ,LU-HQS,LU-HQS V,Base Metals,Poor,4.31
+Geminate,NK-AOZ,LU-HQS,LU-HQS V,Supertensile Plastics,Medium,17.14
+Geminate,NK-AOZ,LU-HQS,LU-HQS V,Plasmoids,Poor,1.23
+Geminate,NK-AOZ,LU-HQS,LU-HQS VI,Fiber Composite,Rich,36.36
+Geminate,NK-AOZ,LU-HQS,LU-HQS VI,Glossy Compound,Medium,29.33
+Geminate,NK-AOZ,LU-HQS,LU-HQS VI,Reactive Gas,Poor,20.74
+Geminate,NK-AOZ,LU-HQS,LU-HQS VI,Reactive Metals,Rich,9.51
+Geminate,NK-AOZ,LU-HQS,LU-HQS VI,Ionic Solutions,Medium,9.51
+Geminate,NK-AOZ,LU-HQS,LU-HQS VII,Lustering Alloy,Medium,28.66
+Geminate,NK-AOZ,LU-HQS,LU-HQS VII,Coolant,Medium,19.22
+Geminate,NK-AOZ,LU-HQS,LU-HQS VII,Condensates,Poor,14.22
+Geminate,NK-AOZ,LU-HQS,LU-HQS VII,Liquid Ozone,Medium,29.07
+Geminate,NK-AOZ,LU-HQS,LU-HQS VIII,Precious Alloy,Poor,20.47
+Geminate,NK-AOZ,LU-HQS,LU-HQS VIII,Heavy Metals,Rich,34.27
+Geminate,NK-AOZ,LU-HQS,LU-HQS VIII,Condensates,Poor,14.43
+Geminate,NK-AOZ,LU-HQS,LU-HQS VIII,Suspended Plasma,Rich,113.27
+Geminate,NK-AOZ,LU-HQS,LU-HQS IX,Precious Alloy,Poor,18.96
+Geminate,NK-AOZ,LU-HQS,LU-HQS IX,Industrial Fibers,Poor,4.72
+Geminate,NK-AOZ,LU-HQS,LU-HQS IX,Condensates,Poor,13.92
+Geminate,NK-AOZ,LU-HQS,LU-HQS IX,Suspended Plasma,Poor,72.84
+Geminate,NK-AOZ,U-L4KS,U-L4KS I,Gleaming Alloy,Poor,20.71
+Geminate,NK-AOZ,U-L4KS,U-L4KS I,Smartfab Units,Rich,24.80
+Geminate,NK-AOZ,U-L4KS,U-L4KS I,Oxygen Isotopes,Poor,3.02
+Geminate,NK-AOZ,U-L4KS,U-L4KS II,Lustering Alloy,Medium,24.00
+Geminate,NK-AOZ,U-L4KS,U-L4KS II,Supertensile Plastics,Poor,11.12
+Geminate,NK-AOZ,U-L4KS,U-L4KS II,Silicate Glass,Medium,13.87
+Geminate,NK-AOZ,U-L4KS,U-L4KS II,Plasmoids,Medium,1.76
+Geminate,NK-AOZ,U-L4KS,U-L4KS III,Gleaming Alloy,Rich,37.68
+Geminate,NK-AOZ,U-L4KS,U-L4KS III,Glossy Compound,Medium,23.81
+Geminate,NK-AOZ,U-L4KS,U-L4KS III,Noble Metals,Rich,33.48
+Geminate,NK-AOZ,U-L4KS,U-L4KS IV,Lustering Alloy,Poor,19.56
+Geminate,NK-AOZ,U-L4KS,U-L4KS IV,Base Metals,Poor,5.39
+Geminate,NK-AOZ,U-L4KS,U-L4KS IV,Industrial Fibers,Medium,6.09
+Geminate,NK-AOZ,U-L4KS,U-L4KS IV,Supertensile Plastics,Medium,16.70
+Geminate,NK-AOZ,U-L4KS,U-L4KS V,Gleaming Alloy,Medium,25.20
+Geminate,NK-AOZ,U-L4KS,U-L4KS V,Motley Compound,Perfect,39.41
+Geminate,NK-AOZ,U-L4KS,U-L4KS V,Plasmoids,Rich,1.91
+Geminate,NK-AOZ,U-L4KS,U-L4KS VI,Crystal Compound,Rich,35.33
+Geminate,NK-AOZ,U-L4KS,U-L4KS VI,Reactive Metals,Medium,6.45
+Geminate,NK-AOZ,U-L4KS,U-L4KS VI,Nanites,Medium,7.17
+Geminate,NK-AOZ,U-L4KS,U-L4KS VI,Oxygen Isotopes,Medium,4.21
+Geminate,NK-AOZ,U-L4KS,U-L4KS VII,Lustering Alloy,Medium,26.11
+Geminate,NK-AOZ,U-L4KS,U-L4KS VII,Fiber Composite,Medium,23.33
+Geminate,NK-AOZ,U-L4KS,U-L4KS VII,Reactive Gas,Perfect,39.38
+Geminate,NK-AOZ,U-L4KS,U-L4KS VII,Polyaramids,Rich,22.06
+Geminate,NK-AOZ,U-L4KS,U-L4KS VII,Coolant,Poor,13.92
+Geminate,NK-AOZ,U-L4KS,U-L4KS VIII,Sheen Compound,Rich,31.30
+Geminate,NK-AOZ,U-L4KS,U-L4KS VIII,Reactive Gas,Perfect,38.38
+Geminate,NK-AOZ,U-L4KS,U-L4KS VIII,Reactive Metals,Poor,5.60
+Geminate,NK-AOZ,U-L4KS,U-L4KS VIII,Polyaramids,Rich,20.72
+Geminate,NK-AOZ,U-L4KS,U-L4KS VIII,Coolant,Poor,14.03
+Geminate,NK-AOZ,U-L4KS,U-L4KS IX,Sheen Compound,Poor,20.30
+Geminate,NK-AOZ,U-L4KS,U-L4KS IX,Reactive Gas,Rich,37.08
+Geminate,NK-AOZ,U-L4KS,U-L4KS IX,Base Metals,Poor,5.32
+Geminate,NK-AOZ,U-L4KS,U-L4KS IX,Polyaramids,Rich,24.22
+Geminate,NK-AOZ,U-L4KS,U-L4KS IX,Ionic Solutions,Medium,10.48
+Geminate,NK-AOZ,U-L4KS,U-L4KS X,Lustering Alloy,Poor,20.09
+Geminate,NK-AOZ,U-L4KS,U-L4KS X,Glossy Compound,Medium,24.19
+Geminate,NK-AOZ,U-L4KS,U-L4KS X,Reactive Gas,Medium,27.24
+Geminate,NK-AOZ,U-L4KS,U-L4KS X,Noble Gas,Rich,35.11
+Geminate,NK-AOZ,U-L4KS,U-L4KS X,Ionic Solutions,Rich,13.32
+Geminate,NK-AOZ,U-L4KS,U-L4KS XI,Fiber Composite,Medium,27.48
+Geminate,NK-AOZ,U-L4KS,U-L4KS XI,Reactive Gas,Rich,30.65
+Geminate,NK-AOZ,U-L4KS,U-L4KS XI,Reactive Metals,Poor,5.81
+Geminate,NK-AOZ,U-L4KS,U-L4KS XI,Coolant,Medium,15.52
+Geminate,NK-AOZ,U-L4KS,U-L4KS XI,Ionic Solutions,Perfect,15.56
+Geminate,NK-AOZ,K25-XD,K25-XD I,Precious Alloy,Poor,15.65
+Geminate,NK-AOZ,K25-XD,K25-XD I,Dark Compound,Poor,19.55
+Geminate,NK-AOZ,K25-XD,K25-XD I,Base Metals,Poor,4.82
+Geminate,NK-AOZ,K25-XD,K25-XD I,Supertensile Plastics,Medium,19.28
+Geminate,NK-AOZ,K25-XD,K25-XD I,Silicate Glass,Poor,8.84
+Geminate,NK-AOZ,K25-XD,K25-XD II,Gleaming Alloy,Medium,26.10
+Geminate,NK-AOZ,K25-XD,K25-XD II,Crystal Compound,Rich,36.15
+Geminate,NK-AOZ,K25-XD,K25-XD II,Reactive Metals,Perfect,10.73
+Geminate,NK-AOZ,K25-XD,K25-XD II,Construction Blocks,Medium,25.93
+Geminate,NK-AOZ,K25-XD,K25-XD II,Suspended Plasma,Medium,112.41
+Geminate,NK-AOZ,K25-XD,K25-XD III,Condensed Alloy,Medium,24.73
+Geminate,NK-AOZ,K25-XD,K25-XD III,Opulent Compound,Perfect,41.83
+Geminate,NK-AOZ,K25-XD,K25-XD III,Noble Metals,Perfect,44.60
+Geminate,NK-AOZ,K25-XD,K25-XD III,Industrial Fibers,Rich,8.51
+Geminate,NK-AOZ,K25-XD,K25-XD III,Heavy Water,Perfect,454.25
+Geminate,NK-AOZ,K25-XD,K25-XD III,Liquid Ozone,Rich,39.59
+Geminate,NK-AOZ,K25-XD,K25-XD IV,Condensed Alloy,Rich,32.75
+Geminate,NK-AOZ,K25-XD,K25-XD IV,Fiber Composite,Medium,26.25
+Geminate,NK-AOZ,K25-XD,K25-XD IV,Base Metals,Perfect,10.79
+Geminate,NK-AOZ,K25-XD,K25-XD IV,Condensates,Medium,19.58
+Geminate,NK-AOZ,K25-XD,K25-XD IV,Smartfab Units,Medium,18.33
+Geminate,NK-AOZ,K25-XD,K25-XD IV,Heavy Water,Perfect,439.75
+Geminate,NK-AOZ,K25-XD,K25-XD V,Glossy Compound,Perfect,41.42
+Geminate,NK-AOZ,K25-XD,K25-XD V,Noble Gas,Medium,28.68
+Geminate,NK-AOZ,K25-XD,K25-XD V,Noble Metals,Rich,34.58
+Geminate,NK-AOZ,K25-XD,K25-XD V,Oxygen Isotopes,Poor,3.53
+Geminate,NK-AOZ,K25-XD,K25-XD VI,Condensed Alloy,Rich,39.60
+Geminate,NK-AOZ,K25-XD,K25-XD VI,Reactive Gas,Rich,33.30
+Geminate,NK-AOZ,K25-XD,K25-XD VI,Noble Metals,Perfect,41.80
+Geminate,NK-AOZ,K25-XD,K25-XD VI,Industrial Fibers,Medium,7.24
+Geminate,NK-AOZ,K25-XD,K25-XD VI,Condensates,Medium,16.52
+Geminate,NK-AOZ,K25-XD,K25-XD VI,Heavy Water,Rich,369.00
+Geminate,NK-AOZ,K25-XD,K25-XD VII,Noble Metals,Perfect,43.88
+Geminate,NK-AOZ,K25-XD,K25-XD VII,Toxic Metals,Rich,10.18
+Geminate,NK-AOZ,K25-XD,K25-XD VII,Polyaramids,Medium,16.07
+Geminate,NK-AOZ,K25-XD,K25-XD VII,Coolant,Medium,18.95
+Geminate,NK-AOZ,K25-XD,K25-XD VII,Heavy Water,Rich,328.75
+Geminate,NK-AOZ,K25-XD,K25-XD VII,Liquid Ozone,Rich,43.03
+Geminate,NK-AOZ,6YC-TU,6YC-TU I,Gleaming Alloy,Rich,31.10
+Geminate,NK-AOZ,6YC-TU,6YC-TU I,Noble Gas,Poor,20.06
+Geminate,NK-AOZ,6YC-TU,6YC-TU I,Heavy Metals,Perfect,38.41
+Geminate,NK-AOZ,6YC-TU,6YC-TU II,Toxic Metals,Poor,5.47
+Geminate,NK-AOZ,6YC-TU,6YC-TU II,Industrial Fibers,Poor,4.57
+Geminate,NK-AOZ,6YC-TU,6YC-TU II,Supertensile Plastics,Poor,12.88
+Geminate,NK-AOZ,6YC-TU,6YC-TU II,Plasmoids,Medium,1.68
+Geminate,NK-AOZ,6YC-TU,6YC-TU III,Gleaming Alloy,Rich,34.11
+Geminate,NK-AOZ,6YC-TU,6YC-TU III,Noble Gas,Medium,24.22
+Geminate,NK-AOZ,6YC-TU,6YC-TU III,Noble Metals,Poor,19.18
+Geminate,NK-AOZ,6YC-TU,6YC-TU IV,Lustering Alloy,Rich,33.86
+Geminate,NK-AOZ,6YC-TU,6YC-TU IV,Sheen Compound,Rich,31.35
+Geminate,NK-AOZ,6YC-TU,6YC-TU IV,Fiber Composite,Medium,24.17
+Geminate,NK-AOZ,6YC-TU,6YC-TU IV,Reactive Gas,Poor,21.21
+Geminate,NK-AOZ,6YC-TU,6YC-TU IV,Noble Gas,Medium,28.38
+Geminate,NK-AOZ,6YC-TU,6YC-TU V,Base Metals,Poor,4.90
+Geminate,NK-AOZ,6YC-TU,6YC-TU V,Toxic Metals,Poor,4.89
+Geminate,NK-AOZ,6YC-TU,6YC-TU V,Supertensile Plastics,Medium,16.74
+Geminate,NK-AOZ,6YC-TU,6YC-TU V,Construction Blocks,Poor,18.74
+Geminate,NK-AOZ,6YC-TU,6YC-TU VI,Glossy Compound,Poor,20.45
+Geminate,NK-AOZ,6YC-TU,6YC-TU VI,Reactive Gas,Rich,35.40
+Geminate,NK-AOZ,6YC-TU,6YC-TU VI,Base Metals,Medium,6.77
+Geminate,NK-AOZ,6YC-TU,6YC-TU VI,Polyaramids,Perfect,25.01
+Geminate,NK-AOZ,6YC-TU,6YC-TU VI,Coolant,Rich,21.87
+Geminate,NK-AOZ,6YC-TU,6YC-TU VII,Lustering Alloy,Poor,20.91
+Geminate,NK-AOZ,6YC-TU,6YC-TU VII,Reactive Gas,Rich,30.31
+Geminate,NK-AOZ,6YC-TU,6YC-TU VII,Noble Gas,Rich,30.29
+Geminate,NK-AOZ,6YC-TU,6YC-TU VII,Polyaramids,Medium,15.49
+Geminate,NK-AOZ,6YC-TU,6YC-TU VII,Coolant,Poor,12.57
+Geminate,NK-AOZ,6YC-TU,6YC-TU VIII,Base Metals,Medium,7.03
+Geminate,NK-AOZ,6YC-TU,6YC-TU VIII,Heavy Metals,Poor,16.95
+Geminate,NK-AOZ,6YC-TU,6YC-TU VIII,Industrial Fibers,Rich,7.80
+Geminate,NK-AOZ,6YC-TU,6YC-TU VIII,Condensates,Medium,17.31
+Geminate,NK-AOZ,Y8R-XZ,Y8R-XZ I,Crystal Compound,Medium,29.15
+Geminate,NK-AOZ,Y8R-XZ,Y8R-XZ I,Reactive Gas,Medium,30.20
+Geminate,NK-AOZ,Y8R-XZ,Y8R-XZ I,Supertensile Plastics,Medium,20.70
+Geminate,NK-AOZ,Y8R-XZ,Y8R-XZ I,Construction Blocks,Rich,39.23
+Geminate,NK-AOZ,Y8R-XZ,Y8R-XZ I,Nanites,Poor,5.61
+Geminate,NK-AOZ,Y8R-XZ,Y8R-XZ II,Lustering Alloy,Medium,26.07
+Geminate,NK-AOZ,Y8R-XZ,Y8R-XZ II,Fiber Composite,Rich,32.05
+Geminate,NK-AOZ,Y8R-XZ,Y8R-XZ II,Glossy Compound,Medium,31.07
+Geminate,NK-AOZ,Y8R-XZ,Y8R-XZ II,Reactive Gas,Rich,33.55
+Geminate,NK-AOZ,Y8R-XZ,Y8R-XZ II,Noble Gas,Medium,24.23
+Geminate,NK-AOZ,Y8R-XZ,Y8R-XZ II,Coolant,Medium,20.10
+Geminate,NK-AOZ,Y8R-XZ,Y8R-XZ III,Sheen Compound,Medium,25.95
+Geminate,NK-AOZ,Y8R-XZ,Y8R-XZ III,Fiber Composite,Medium,28.90
+Geminate,NK-AOZ,Y8R-XZ,Y8R-XZ III,Glossy Compound,Medium,29.30
+Geminate,NK-AOZ,Y8R-XZ,Y8R-XZ III,Noble Gas,Poor,22.02
+Geminate,NK-AOZ,Y8R-XZ,Y8R-XZ III,Reactive Metals,Medium,7.30
+Geminate,NK-AOZ,Y8R-XZ,Y8R-XZ III,Ionic Solutions,Rich,15.67
+Geminate,NK-AOZ,Y8R-XZ,Y8R-XZ IV,Fiber Composite,Rich,33.08
+Geminate,NK-AOZ,Y8R-XZ,Y8R-XZ IV,Glossy Compound,Poor,22.02
+Geminate,NK-AOZ,Y8R-XZ,Y8R-XZ IV,Reactive Gas,Medium,25.90
+Geminate,NK-AOZ,Y8R-XZ,Y8R-XZ IV,Noble Gas,Rich,38.60
+Geminate,NK-AOZ,Y8R-XZ,Y8R-XZ IV,Base Metals,Poor,5.49
+Geminate,NK-AOZ,Y8R-XZ,Y8R-XZ IV,Polyaramids,Rich,24.88
+Geminate,NK-AOZ,Y8R-XZ,Y8R-XZ V,Precious Alloy,Poor,23.13
+Geminate,NK-AOZ,Y8R-XZ,Y8R-XZ V,Dark Compound,Poor,19.80
+Geminate,NK-AOZ,Y8R-XZ,Y8R-XZ V,Base Metals,Poor,5.29
+Geminate,NK-AOZ,Y8R-XZ,Y8R-XZ V,Construction Blocks,Poor,17.38
+Geminate,NK-AOZ,Y8R-XZ,Y8R-XZ V,Plasmoids,Poor,1.19
+Geminate,NK-AOZ,Y8R-XZ,Y8R-XZ VI,Dark Compound,Poor,19.27
+Geminate,NK-AOZ,Y8R-XZ,Y8R-XZ VI,Base Metals,Poor,6.11
+Geminate,NK-AOZ,Y8R-XZ,Y8R-XZ VI,Construction Blocks,Poor,23.43
+Geminate,NK-AOZ,Y8R-XZ,Y8R-XZ VI,Silicate Glass,Poor,10.32
+Geminate,NK-AOZ,Y8R-XZ,Y8R-XZ VI,Plasmoids,Medium,1.44
+Geminate,V1G-63,P-E9GN,P-E9GN I,Gleaming Alloy,Rich,33.00
+Geminate,V1G-63,P-E9GN,P-E9GN I,Motley Compound,Rich,34.02
+Geminate,V1G-63,P-E9GN,P-E9GN I,Glossy Compound,Rich,31.53
+Geminate,V1G-63,P-E9GN,P-E9GN II,Toxic Metals,Poor,4.21
+Geminate,V1G-63,P-E9GN,P-E9GN II,Supertensile Plastics,Poor,14.11
+Geminate,V1G-63,P-E9GN,P-E9GN II,Silicate Glass,Poor,7.64
+Geminate,V1G-63,P-E9GN,P-E9GN II,Plasmoids,Medium,1.66
+Geminate,V1G-63,P-E9GN,P-E9GN III,Supertensile Plastics,Poor,9.92
+Geminate,V1G-63,P-E9GN,P-E9GN III,Construction Blocks,Poor,15.41
+Geminate,V1G-63,P-E9GN,P-E9GN III,Oxygen Isotopes,Medium,3.63
+Geminate,V1G-63,P-E9GN,P-E9GN III,Plasmoids,Poor,1.03
+Geminate,V1G-63,P-E9GN,P-E9GN IV,Reactive Gas,Rich,36.09
+Geminate,V1G-63,P-E9GN,P-E9GN IV,Industrial Fibers,Medium,6.76
+Geminate,V1G-63,P-E9GN,P-E9GN IV,Condensates,Medium,15.73
+Geminate,V1G-63,P-E9GN,P-E9GN IV,Smartfab Units,Medium,18.58
+Geminate,V1G-63,P-E9GN,P-E9GN IV,Liquid Ozone,Poor,27.05
+Geminate,V1G-63,P-E9GN,P-E9GN V,Lucent Compound,Medium,28.04
+Geminate,V1G-63,P-E9GN,P-E9GN V,Reactive Metals,Medium,7.12
+Geminate,V1G-63,P-E9GN,P-E9GN V,Construction Blocks,Poor,18.65
+Geminate,V1G-63,P-E9GN,P-E9GN V,Oxygen Isotopes,Rich,5.14
+Geminate,V1G-63,P-E9GN,P-E9GN VI,Precious Alloy,Poor,20.98
+Geminate,V1G-63,P-E9GN,P-E9GN VI,Toxic Metals,Medium,6.02
+Geminate,V1G-63,P-E9GN,P-E9GN VI,Supertensile Plastics,Medium,15.76
+Geminate,V1G-63,P-E9GN,P-E9GN VI,Plasmoids,Medium,1.43
+Geminate,V1G-63,P-E9GN,P-E9GN VII,Reactive Metals,Rich,8.42
+Geminate,V1G-63,P-E9GN,P-E9GN VII,Supertensile Plastics,Rich,22.51
+Geminate,V1G-63,P-E9GN,P-E9GN VII,Nanites,Rich,9.10
+Geminate,V1G-63,P-E9GN,P-E9GN VII,Oxygen Isotopes,Rich,5.07
+Geminate,V1G-63,P-E9GN,P-E9GN VIII,Gleaming Alloy,Poor,21.39
+Geminate,V1G-63,P-E9GN,P-E9GN VIII,Motley Compound,Rich,33.49
+Geminate,V1G-63,P-E9GN,P-E9GN VIII,Construction Blocks,Perfect,38.16
+Geminate,V1G-63,HJO-84,HJO-84 I,Lustering Alloy,Poor,20.35
+Geminate,V1G-63,HJO-84,HJO-84 I,Base Metals,Poor,4.69
+Geminate,V1G-63,HJO-84,HJO-84 I,Supertensile Plastics,Poor,11.07
+Geminate,V1G-63,HJO-84,HJO-84 I,Silicate Glass,Medium,12.43
+Geminate,V1G-63,HJO-84,HJO-84 II,Industrial Fibers,Poor,4.41
+Geminate,V1G-63,HJO-84,HJO-84 II,Supertensile Plastics,Poor,12.01
+Geminate,V1G-63,HJO-84,HJO-84 II,Construction Blocks,Poor,20.29
+Geminate,V1G-63,HJO-84,HJO-84 II,Oxygen Isotopes,Poor,2.50
+Geminate,V1G-63,HJO-84,HJO-84 III,Lustering Alloy,Medium,28.11
+Geminate,V1G-63,HJO-84,HJO-84 III,Supertensile Plastics,Medium,15.01
+Geminate,V1G-63,HJO-84,HJO-84 III,Silicate Glass,Poor,9.99
+Geminate,V1G-63,HJO-84,HJO-84 III,Oxygen Isotopes,Poor,2.23
+Geminate,V1G-63,HJO-84,HJO-84 IV,Reactive Gas,Medium,21.71
+Geminate,V1G-63,HJO-84,HJO-84 IV,Reactive Metals,Rich,8.86
+Geminate,V1G-63,HJO-84,HJO-84 IV,Toxic Metals,Medium,6.91
+Geminate,V1G-63,HJO-84,HJO-84 IV,Oxygen Isotopes,Rich,4.56
+Geminate,V1G-63,HJO-84,HJO-84 V,Reactive Metals,Medium,6.22
+Geminate,V1G-63,HJO-84,HJO-84 V,Toxic Metals,Medium,6.68
+Geminate,V1G-63,HJO-84,HJO-84 V,Supertensile Plastics,Medium,16.79
+Geminate,V1G-63,HJO-84,HJO-84 V,Oxygen Isotopes,Poor,3.05
+Geminate,V1G-63,HJO-84,HJO-84 VI,Condensed Alloy,Rich,30.91
+Geminate,V1G-63,HJO-84,HJO-84 VI,Crystal Compound,Medium,27.23
+Geminate,V1G-63,HJO-84,HJO-84 VI,Toxic Metals,Medium,6.40
+Geminate,V1G-63,HJO-84,HJO-84 VI,Silicate Glass,Medium,11.91
+Geminate,V1G-63,HJO-84,HJO-84 VI,Liquid Ozone,Poor,26.13
+Geminate,V1G-63,HJO-84,HJO-84 VII,Glossy Compound,Poor,19.27
+Geminate,V1G-63,HJO-84,HJO-84 VII,Reactive Gas,Medium,24.01
+Geminate,V1G-63,HJO-84,HJO-84 VII,Noble Gas,Medium,25.30
+Geminate,V1G-63,HJO-84,HJO-84 VII,Base Metals,Rich,8.62
+Geminate,V1G-63,HJO-84,HJO-84 VII,Ionic Solutions,Medium,8.83
+Geminate,V1G-63,HJO-84,HJO-84 VIII,Sheen Compound,Medium,27.76
+Geminate,V1G-63,HJO-84,HJO-84 VIII,Reactive Gas,Rich,32.64
+Geminate,V1G-63,HJO-84,HJO-84 VIII,Noble Gas,Medium,24.40
+Geminate,V1G-63,HJO-84,HJO-84 VIII,Polyaramids,Rich,22.66
+Geminate,V1G-63,HJO-84,HJO-84 VIII,Ionic Solutions,Rich,12.94
+Geminate,V1G-63,HJO-84,HJO-84 IX,Lustering Alloy,Medium,26.38
+Geminate,V1G-63,HJO-84,HJO-84 IX,Reactive Gas,Medium,24.50
+Geminate,V1G-63,HJO-84,HJO-84 IX,Noble Gas,Poor,19.92
+Geminate,V1G-63,HJO-84,HJO-84 IX,Reactive Metals,Rich,8.58
+Geminate,V1G-63,HJO-84,HJO-84 IX,Coolant,Rich,19.58
+Geminate,V1G-63,HJO-84,HJO-84 X,Lustering Alloy,Rich,31.79
+Geminate,V1G-63,HJO-84,HJO-84 X,Motley Compound,Medium,25.44
+Geminate,V1G-63,HJO-84,HJO-84 X,Condensates,Rich,22.51
+Geminate,V1G-63,HJO-84,HJO-84 X,Liquid Ozone,Rich,37.15
+Geminate,V1G-63,4D9-66,4D9-66 I,Precious Alloy,Medium,28.44
+Geminate,V1G-63,4D9-66,4D9-66 I,Supertensile Plastics,Poor,13.87
+Geminate,V1G-63,4D9-66,4D9-66 I,Silicate Glass,Poor,10.63
+Geminate,V1G-63,4D9-66,4D9-66 I,Oxygen Isotopes,Medium,4.42
+Geminate,V1G-63,4D9-66,4D9-66 II,Condensed Alloy,Medium,24.86
+Geminate,V1G-63,4D9-66,4D9-66 II,Opulent Compound,Medium,25.37
+Geminate,V1G-63,4D9-66,4D9-66 II,Base Metals,Perfect,10.69
+Geminate,V1G-63,4D9-66,4D9-66 II,Industrial Fibers,Perfect,11.39
+Geminate,V1G-63,4D9-66,4D9-66 II,Liquid Ozone,Perfect,55.80
+Geminate,V1G-63,4D9-66,4D9-66 III,Lustering Alloy,Poor,16.03
+Geminate,V1G-63,4D9-66,4D9-66 III,Supertensile Plastics,Poor,12.21
+Geminate,V1G-63,4D9-66,4D9-66 III,Oxygen Isotopes,Poor,3.18
+Geminate,V1G-63,4D9-66,4D9-66 III,Plasmoids,Medium,1.64
+Geminate,V1G-63,4D9-66,4D9-66 IV,Condensed Alloy,Medium,29.81
+Geminate,V1G-63,4D9-66,4D9-66 IV,Fiber Composite,Medium,28.80
+Geminate,V1G-63,4D9-66,4D9-66 IV,Reactive Gas,Rich,35.45
+Geminate,V1G-63,4D9-66,4D9-66 IV,Base Metals,Medium,7.84
+Geminate,V1G-63,4D9-66,4D9-66 IV,Liquid Ozone,Perfect,56.28
+Geminate,V1G-63,4D9-66,4D9-66 V,Lustering Alloy,Rich,33.70
+Geminate,V1G-63,4D9-66,4D9-66 V,Sheen Compound,Poor,19.82
+Geminate,V1G-63,4D9-66,4D9-66 V,Fiber Composite,Medium,26.02
+Geminate,V1G-63,4D9-66,4D9-66 V,Reactive Gas,Perfect,38.81
+Geminate,V1G-63,4D9-66,4D9-66 V,Reactive Metals,Medium,7.79
+Geminate,V1G-63,4D9-66,4D9-66 VI,Fiber Composite,Rich,34.75
+Geminate,V1G-63,4D9-66,4D9-66 VI,Reactive Gas,Poor,21.36
+Geminate,V1G-63,4D9-66,4D9-66 VI,Noble Gas,Rich,30.84
+Geminate,V1G-63,4D9-66,4D9-66 VI,Reactive Metals,Rich,9.62
+Geminate,V1G-63,4D9-66,4D9-66 VI,Ionic Solutions,Rich,13.75
+Geminate,V1G-63,4D9-66,4D9-66 VII,Opulent Compound,Rich,34.68
+Geminate,V1G-63,4D9-66,4D9-66 VII,Crystal Compound,Medium,30.07
+Geminate,V1G-63,4D9-66,4D9-66 VII,Noble Metals,Rich,37.03
+Geminate,V1G-63,4D9-66,4D9-66 VII,Heavy Water,Medium,233.28
+Geminate,V1G-63,4D9-66,4D9-66 VII,Liquid Ozone,Medium,32.64
+Geminate,V1G-63,L-TOFR,L-TOFR I,Lustering Alloy,Poor,23.06
+Geminate,V1G-63,L-TOFR,L-TOFR I,Dark Compound,Medium,29.40
+Geminate,V1G-63,L-TOFR,L-TOFR I,Toxic Metals,Medium,7.74
+Geminate,V1G-63,L-TOFR,L-TOFR I,Industrial Fibers,Poor,6.08
+Geminate,V1G-63,L-TOFR,L-TOFR I,Oxygen Isotopes,Poor,3.79
+Geminate,V1G-63,L-TOFR,L-TOFR II,Glossy Compound,Medium,33.70
+Geminate,V1G-63,L-TOFR,L-TOFR II,Heavy Metals,Medium,32.05
+Geminate,V1G-63,L-TOFR,L-TOFR II,Construction Blocks,Medium,30.13
+Geminate,V1G-63,L-TOFR,L-TOFR II,Plasmoids,Medium,1.53
+Geminate,V1G-63,L-TOFR,L-TOFR III,Precious Alloy,Poor,24.76
+Geminate,V1G-63,L-TOFR,L-TOFR III,Dark Compound,Poor,16.98
+Geminate,V1G-63,L-TOFR,L-TOFR III,Toxic Metals,Medium,8.26
+Geminate,V1G-63,L-TOFR,L-TOFR III,Construction Blocks,Poor,22.84
+Geminate,V1G-63,L-TOFR,L-TOFR III,Plasmoids,Poor,1.13
+Geminate,V1G-63,L-TOFR,L-TOFR IV,Precious Alloy,Medium,26.30
+Geminate,V1G-63,L-TOFR,L-TOFR IV,Dark Compound,Medium,29.54
+Geminate,V1G-63,L-TOFR,L-TOFR IV,Base Metals,Poor,6.65
+Geminate,V1G-63,L-TOFR,L-TOFR IV,Industrial Fibers,Medium,8.16
+Geminate,V1G-63,L-TOFR,L-TOFR IV,Silicate Glass,Medium,13.42
+Geminate,V1G-63,L-TOFR,L-TOFR V,Lustering Alloy,Medium,33.72
+Geminate,V1G-63,L-TOFR,L-TOFR V,Fiber Composite,Perfect,44.63
+Geminate,V1G-63,L-TOFR,L-TOFR V,Glossy Compound,Rich,37.56
+Geminate,V1G-63,L-TOFR,L-TOFR V,Base Metals,Perfect,11.48
+Geminate,V1G-63,L-TOFR,L-TOFR V,Coolant,Rich,25.34
+Geminate,V1G-63,L-TOFR,L-TOFR V,Ionic Solutions,Medium,12.21
+Geminate,V1G-63,L-TOFR,L-TOFR VI,Sheen Compound,Rich,37.53
+Geminate,V1G-63,L-TOFR,L-TOFR VI,Noble Gas,Poor,23.60
+Geminate,V1G-63,L-TOFR,L-TOFR VI,Base Metals,Rich,9.07
+Geminate,V1G-63,L-TOFR,L-TOFR VI,Reactive Metals,Rich,10.67
+Geminate,V1G-63,L-TOFR,L-TOFR VI,Polyaramids,Medium,21.78
+Geminate,V1G-63,L-TOFR,L-TOFR VI,Ionic Solutions,Medium,12.70
+Geminate,V1G-63,L-TOFR,L-TOFR VII,Glossy Compound,Rich,37.48
+Geminate,V1G-63,L-TOFR,L-TOFR VII,Reactive Gas,Medium,33.18
+Geminate,V1G-63,L-TOFR,L-TOFR VII,Base Metals,Perfect,11.52
+Geminate,V1G-63,L-TOFR,L-TOFR VII,Reactive Metals,Rich,9.24
+Geminate,V1G-63,L-TOFR,L-TOFR VII,Polyaramids,Rich,23.27
+Geminate,V1G-63,L-TOFR,L-TOFR VII,Coolant,Medium,21.44
+Geminate,V1G-63,L-TOFR,L-TOFR VIII,Lustering Alloy,Poor,19.76
+Geminate,V1G-63,L-TOFR,L-TOFR VIII,Precious Alloy,Poor,23.49
+Geminate,V1G-63,L-TOFR,L-TOFR VIII,Coolant,Medium,20.57
+Geminate,V1G-63,L-TOFR,L-TOFR VIII,Condensates,Poor,14.53
+Geminate,V1G-63,L-TOFR,L-TOFR VIII,Suspended Plasma,Poor,83.59
+Geminate,V1G-63,Q-TBHW,Q-TBHW I,Dark Compound,Poor,24.22
+Geminate,V1G-63,Q-TBHW,Q-TBHW I,Base Metals,Medium,7.17
+Geminate,V1G-63,Q-TBHW,Q-TBHW I,Industrial Fibers,Poor,6.51
+Geminate,V1G-63,Q-TBHW,Q-TBHW I,Construction Blocks,Medium,32.18
+Geminate,V1G-63,Q-TBHW,Q-TBHW I,Silicate Glass,Medium,13.34
+Geminate,V1G-63,Q-TBHW,Q-TBHW II,Crystal Compound,Rich,40.37
+Geminate,V1G-63,Q-TBHW,Q-TBHW II,Reactive Gas,Poor,23.00
+Geminate,V1G-63,Q-TBHW,Q-TBHW II,Supertensile Plastics,Rich,24.75
+Geminate,V1G-63,Q-TBHW,Q-TBHW II,Suspended Plasma,Medium,100.89
+Geminate,V1G-63,Q-TBHW,Q-TBHW II,Oxygen Isotopes,Medium,5.05
+Geminate,V1G-63,Q-TBHW,Q-TBHW III,Sheen Compound,Medium,28.46
+Geminate,V1G-63,Q-TBHW,Q-TBHW III,Fiber Composite,Rich,42.04
+Geminate,V1G-63,Q-TBHW,Q-TBHW III,Noble Gas,Perfect,44.69
+Geminate,V1G-63,Q-TBHW,Q-TBHW III,Base Metals,Perfect,11.48
+Geminate,V1G-63,Q-TBHW,Q-TBHW III,Reactive Metals,Poor,5.96
+Geminate,V1G-63,Q-TBHW,Q-TBHW III,Ionic Solutions,Medium,12.15
+Geminate,V1G-63,Q-TBHW,Q-TBHW IV,Lustering Alloy,Rich,41.04
+Geminate,V1G-63,Q-TBHW,Q-TBHW IV,Fiber Composite,Rich,42.44
+Geminate,V1G-63,Q-TBHW,Q-TBHW IV,Glossy Compound,Rich,41.66
+Geminate,V1G-63,Q-TBHW,Q-TBHW IV,Noble Gas,Rich,39.69
+Geminate,V1G-63,Q-TBHW,Q-TBHW IV,Reactive Metals,Poor,5.89
+Geminate,V1G-63,Q-TBHW,Q-TBHW IV,Coolant,Poor,16.61
+Geminate,V1G-63,Q-TBHW,Q-TBHW V,Sheen Compound,Medium,33.24
+Geminate,V1G-63,Q-TBHW,Q-TBHW V,Fiber Composite,Poor,22.27
+Geminate,V1G-63,Q-TBHW,Q-TBHW V,Base Metals,Medium,8.31
+Geminate,V1G-63,Q-TBHW,Q-TBHW V,Reactive Metals,Rich,9.26
+Geminate,V1G-63,Q-TBHW,Q-TBHW V,Coolant,Poor,16.79
+Geminate,V1G-63,Q-TBHW,Q-TBHW V,Ionic Solutions,Medium,12.60
+Geminate,V1G-63,Q-TBHW,Q-TBHW VI,Sheen Compound,Rich,40.26
+Geminate,V1G-63,Q-TBHW,Q-TBHW VI,Fiber Composite,Rich,35.91
+Geminate,V1G-63,Q-TBHW,Q-TBHW VI,Noble Gas,Medium,32.40
+Geminate,V1G-63,Q-TBHW,Q-TBHW VI,Base Metals,Medium,8.45
+Geminate,V1G-63,Q-TBHW,Q-TBHW VI,Reactive Metals,Rich,9.05
+Geminate,V1G-63,Q-TBHW,Q-TBHW VI,Coolant,Poor,14.89
+Geminate,V1G-63,Q-TBHW,Q-TBHW VII,Lustering Alloy,Perfect,44.01
+Geminate,V1G-63,Q-TBHW,Q-TBHW VII,Fiber Composite,Rich,36.10
+Geminate,V1G-63,Q-TBHW,Q-TBHW VII,Glossy Compound,Medium,27.46
+Geminate,V1G-63,Q-TBHW,Q-TBHW VII,Noble Gas,Medium,28.75
+Geminate,V1G-63,Q-TBHW,Q-TBHW VII,Reactive Metals,Rich,10.24
+Geminate,V1G-63,Q-TBHW,Q-TBHW VII,Ionic Solutions,Medium,11.12
+Geminate,V1G-63,Q-TBHW,Q-TBHW VIII,Lustering Alloy,Poor,23.00
+Geminate,V1G-63,Q-TBHW,Q-TBHW VIII,Precious Alloy,Poor,25.08
+Geminate,V1G-63,Q-TBHW,Q-TBHW VIII,Industrial Fibers,Medium,6.93
+Geminate,V1G-63,Q-TBHW,Q-TBHW VIII,Coolant,Rich,24.46
+Geminate,V1G-63,Q-TBHW,Q-TBHW VIII,Suspended Plasma,Medium,116.15
+Geminate,V1G-63,9P4O-F,9P4O-F I,Lustering Alloy,Poor,21.75
+Geminate,V1G-63,9P4O-F,9P4O-F I,Dark Compound,Medium,32.85
+Geminate,V1G-63,9P4O-F,9P4O-F I,Supertensile Plastics,Medium,22.42
+Geminate,V1G-63,9P4O-F,9P4O-F I,Silicate Glass,Medium,16.26
+Geminate,V1G-63,9P4O-F,9P4O-F I,Oxygen Isotopes,Medium,4.81
+Geminate,V1G-63,9P4O-F,9P4O-F II,Lustering Alloy,Poor,25.83
+Geminate,V1G-63,9P4O-F,9P4O-F II,Dark Compound,Medium,32.97
+Geminate,V1G-63,9P4O-F,9P4O-F II,Base Metals,Medium,8.79
+Geminate,V1G-63,9P4O-F,9P4O-F II,Silicate Glass,Poor,13.30
+Geminate,V1G-63,9P4O-F,9P4O-F II,Plasmoids,Medium,1.94
+Geminate,V1G-63,9P4O-F,9P4O-F III,Motley Compound,Rich,39.30
+Geminate,V1G-63,9P4O-F,9P4O-F III,Glossy Compound,Poor,26.22
+Geminate,V1G-63,9P4O-F,9P4O-F III,Noble Gas,Poor,25.56
+Geminate,V1G-63,9P4O-F,9P4O-F III,Noble Metals,Medium,37.14
+Geminate,V1G-63,9P4O-F,9P4O-F IV,Precious Alloy,Medium,31.02
+Geminate,V1G-63,9P4O-F,9P4O-F IV,Dark Compound,Poor,25.02
+Geminate,V1G-63,9P4O-F,9P4O-F IV,Toxic Metals,Poor,7.03
+Geminate,V1G-63,9P4O-F,9P4O-F IV,Oxygen Isotopes,Poor,3.18
+Geminate,V1G-63,9P4O-F,9P4O-F IV,Plasmoids,Medium,1.84
+Geminate,V1G-63,9P4O-F,9P4O-F V,Condensed Alloy,Perfect,47.94
+Geminate,V1G-63,9P4O-F,9P4O-F V,Reactive Gas,Perfect,51.66
+Geminate,V1G-63,9P4O-F,9P4O-F V,Base Metals,Rich,12.13
+Geminate,V1G-63,9P4O-F,9P4O-F V,Noble Metals,Rich,46.68
+Geminate,V1G-63,9P4O-F,9P4O-F V,Industrial Fibers,Perfect,14.85
+Geminate,V1G-63,9P4O-F,9P4O-F V,Liquid Ozone,Medium,38.92
+Geminate,V1G-63,9P4O-F,9P4O-F VI,Lustering Alloy,Rich,44.82
+Geminate,V1G-63,9P4O-F,9P4O-F VI,Reactive Gas,Medium,31.53
+Geminate,V1G-63,9P4O-F,9P4O-F VI,Noble Gas,Rich,41.94
+Geminate,V1G-63,9P4O-F,9P4O-F VI,Reactive Metals,Poor,6.75
+Geminate,V1G-63,9P4O-F,9P4O-F VI,Polyaramids,Rich,27.92
+Geminate,V1G-63,9P4O-F,9P4O-F VI,Coolant,Rich,28.78
+Geminate,V1G-63,9P4O-F,9P4O-F VII,Lustering Alloy,Medium,33.78
+Geminate,V1G-63,9P4O-F,9P4O-F VII,Glossy Compound,Medium,34.71
+Geminate,V1G-63,9P4O-F,9P4O-F VII,Base Metals,Poor,6.80
+Geminate,V1G-63,9P4O-F,9P4O-F VII,Reactive Metals,Medium,8.64
+Geminate,V1G-63,9P4O-F,9P4O-F VII,Coolant,Rich,27.02
+Geminate,V1G-63,9P4O-F,9P4O-F VII,Ionic Solutions,Medium,13.85
+Geminate,V1G-63,9P4O-F,9P4O-F VIII,Lustering Alloy,Poor,25.71
+Geminate,V1G-63,9P4O-F,9P4O-F VIII,Dark Compound,Poor,23.07
+Geminate,V1G-63,9P4O-F,9P4O-F VIII,Base Metals,Medium,8.61
+Geminate,V1G-63,9P4O-F,9P4O-F VIII,Industrial Fibers,Poor,5.94
+Geminate,V1G-63,9P4O-F,9P4O-F VIII,Oxygen Isotopes,Poor,2.83
+Geminate,V1G-63,9P4O-F,9P4O-F IX,Lustering Alloy,Medium,36.57
+Geminate,V1G-63,9P4O-F,9P4O-F IX,Reactive Gas,Medium,35.79
+Geminate,V1G-63,9P4O-F,9P4O-F IX,Base Metals,Medium,8.08
+Geminate,V1G-63,9P4O-F,9P4O-F IX,Reactive Metals,Poor,7.15
+Geminate,V1G-63,9P4O-F,9P4O-F IX,Polyaramids,Medium,24.12
+Geminate,V1G-63,9P4O-F,9P4O-F IX,Coolant,Perfect,32.50
+Geminate,V1G-63,9P4O-F,9P4O-F X,Lustering Alloy,Poor,20.73
+Geminate,V1G-63,9P4O-F,9P4O-F X,Dark Compound,Poor,19.59
+Geminate,V1G-63,9P4O-F,9P4O-F X,Base Metals,Medium,7.60
+Geminate,V1G-63,9P4O-F,9P4O-F X,Industrial Fibers,Poor,6.24
+Geminate,V1G-63,9P4O-F,9P4O-F X,Silicate Glass,Poor,13.13
+Geminate,V1G-63,9P4O-F,9P4O-F XI,Precious Alloy,Medium,34.59
+Geminate,V1G-63,9P4O-F,9P4O-F XI,Heavy Metals,Poor,24.27
+Geminate,V1G-63,9P4O-F,9P4O-F XI,Industrial Fibers,Rich,10.29
+Geminate,V1G-63,9P4O-F,9P4O-F XI,Coolant,Medium,22.68
+Geminate,V1G-63,9P4O-F,9P4O-F XI,Condensates,Rich,27.08
+Geminate,F-ZNNG,UBX-CC,UBX-CC I,Base Metals,Medium,6.32
+Geminate,F-ZNNG,UBX-CC,UBX-CC I,Industrial Fibers,Poor,3.56
+Geminate,F-ZNNG,UBX-CC,UBX-CC I,Supertensile Plastics,Poor,9.87
+Geminate,F-ZNNG,UBX-CC,UBX-CC I,Oxygen Isotopes,Poor,2.32
+Geminate,F-ZNNG,UBX-CC,UBX-CC II,Gleaming Alloy,Perfect,32.92
+Geminate,F-ZNNG,UBX-CC,UBX-CC II,Motley Compound,Medium,22.44
+Geminate,F-ZNNG,UBX-CC,UBX-CC II,Glossy Compound,Perfect,32.76
+Geminate,F-ZNNG,UBX-CC,UBX-CC III,Precious Alloy,Poor,13.26
+Geminate,F-ZNNG,UBX-CC,UBX-CC III,Toxic Metals,Medium,5.58
+Geminate,F-ZNNG,UBX-CC,UBX-CC III,Supertensile Plastics,Poor,9.93
+Geminate,F-ZNNG,UBX-CC,UBX-CC III,Construction Blocks,Poor,13.26
+Geminate,F-ZNNG,UBX-CC,UBX-CC IV,Condensed Alloy,Medium,24.74
+Geminate,F-ZNNG,UBX-CC,UBX-CC IV,Opulent Compound,Rich,26.38
+Geminate,F-ZNNG,UBX-CC,UBX-CC IV,Smartfab Units,Medium,16.23
+Geminate,F-ZNNG,UBX-CC,UBX-CC IV,Heavy Water,Perfect,369.80
+Geminate,F-ZNNG,UBX-CC,UBX-CC IV,Liquid Ozone,Medium,31.23
+Geminate,F-ZNNG,UBX-CC,UBX-CC V,Precious Alloy,Medium,20.78
+Geminate,F-ZNNG,UBX-CC,UBX-CC V,Dark Compound,Medium,21.50
+Geminate,F-ZNNG,UBX-CC,UBX-CC V,Supertensile Plastics,Poor,12.53
+Geminate,F-ZNNG,UBX-CC,UBX-CC V,Oxygen Isotopes,Medium,2.98
+Geminate,F-ZNNG,UBX-CC,UBX-CC VI,Dark Compound,Poor,17.24
+Geminate,F-ZNNG,UBX-CC,UBX-CC VI,Base Metals,Medium,6.32
+Geminate,F-ZNNG,UBX-CC,UBX-CC VI,Industrial Fibers,Poor,3.46
+Geminate,F-ZNNG,UBX-CC,UBX-CC VI,Supertensile Plastics,Poor,12.29
+Geminate,F-ZNNG,UBX-CC,UBX-CC VII,Reactive Metals,Medium,6.38
+Geminate,F-ZNNG,UBX-CC,UBX-CC VII,Toxic Metals,Rich,7.98
+Geminate,F-ZNNG,UBX-CC,UBX-CC VII,Construction Blocks,Medium,22.54
+Geminate,F-ZNNG,UBX-CC,UBX-CC VII,Oxygen Isotopes,Medium,3.60
+Geminate,F-ZNNG,UBX-CC,UBX-CC VIII,Lustering Alloy,Medium,21.34
+Geminate,F-ZNNG,UBX-CC,UBX-CC VIII,Reactive Gas,Rich,28.16
+Geminate,F-ZNNG,UBX-CC,UBX-CC VIII,Noble Gas,Poor,17.46
+Geminate,F-ZNNG,UBX-CC,UBX-CC VIII,Reactive Metals,Perfect,8.58
+Geminate,F-ZNNG,UBX-CC,UBX-CC VIII,Ionic Solutions,Medium,8.88
+Geminate,F-ZNNG,UBX-CC,UBX-CC IX,Lustering Alloy,Perfect,32.20
+Geminate,F-ZNNG,UBX-CC,UBX-CC IX,Glossy Compound,Medium,21.44
+Geminate,F-ZNNG,UBX-CC,UBX-CC IX,Reactive Gas,Poor,18.64
+Geminate,F-ZNNG,UBX-CC,UBX-CC IX,Base Metals,Rich,7.59
+Geminate,F-ZNNG,UBX-CC,UBX-CC IX,Ionic Solutions,Medium,9.46
+Geminate,F-ZNNG,UBX-CC,UBX-CC X,Sheen Compound,Poor,16.84
+Geminate,F-ZNNG,UBX-CC,UBX-CC X,Glossy Compound,Medium,21.14
+Geminate,F-ZNNG,UBX-CC,UBX-CC X,Reactive Gas,Rich,29.42
+Geminate,F-ZNNG,UBX-CC,UBX-CC X,Polyaramids,Poor,12.13
+Geminate,F-ZNNG,UBX-CC,UBX-CC X,Coolant,Poor,11.56
+Geminate,F-ZNNG,TJM-JJ,TJM-JJ I,Base Metals,Medium,5.48
+Geminate,F-ZNNG,TJM-JJ,TJM-JJ I,Supertensile Plastics,Poor,8.65
+Geminate,F-ZNNG,TJM-JJ,TJM-JJ I,Construction Blocks,Poor,15.78
+Geminate,F-ZNNG,TJM-JJ,TJM-JJ I,Oxygen Isotopes,Poor,2.28
+Geminate,F-ZNNG,TJM-JJ,TJM-JJ II,Lucent Compound,Rich,31.10
+Geminate,F-ZNNG,TJM-JJ,TJM-JJ II,Crystal Compound,Medium,22.94
+Geminate,F-ZNNG,TJM-JJ,TJM-JJ II,Reactive Metals,Poor,4.54
+Geminate,F-ZNNG,TJM-JJ,TJM-JJ II,Suspended Plasma,Rich,108.50
+Geminate,F-ZNNG,TJM-JJ,TJM-JJ III,Sheen Compound,Rich,28.08
+Geminate,F-ZNNG,TJM-JJ,TJM-JJ III,Lucent Compound,Perfect,35.12
+Geminate,F-ZNNG,TJM-JJ,TJM-JJ III,Dark Compound,Perfect,33.30
+Geminate,F-ZNNG,TJM-JJ,TJM-JJ III,Condensates,Rich,20.00
+Geminate,F-ZNNG,TJM-JJ,TJM-JJ III,Suspended Plasma,Perfect,114.55
+Geminate,F-ZNNG,TJM-JJ,TJM-JJ IV,Fiber Composite,Medium,22.28
+Geminate,F-ZNNG,TJM-JJ,TJM-JJ IV,Noble Metals,Perfect,34.90
+Geminate,F-ZNNG,TJM-JJ,TJM-JJ IV,Industrial Fibers,Medium,6.56
+Geminate,F-ZNNG,TJM-JJ,TJM-JJ IV,Condensates,Rich,18.76
+Geminate,F-ZNNG,TJM-JJ,TJM-JJ IV,Liquid Ozone,Rich,35.67
+Geminate,F-ZNNG,TJM-JJ,TJM-JJ V,Fiber Composite,Rich,27.76
+Geminate,F-ZNNG,TJM-JJ,TJM-JJ V,Reactive Gas,Perfect,32.88
+Geminate,F-ZNNG,TJM-JJ,TJM-JJ V,Noble Gas,Rich,25.78
+Geminate,F-ZNNG,TJM-JJ,TJM-JJ V,Coolant,Rich,18.35
+Geminate,F-ZNNG,TJM-JJ,TJM-JJ V,Ionic Solutions,Perfect,12.84
+Geminate,F-ZNNG,TJM-JJ,TJM-JJ VI,Opulent Compound,Medium,24.52
+Geminate,F-ZNNG,TJM-JJ,TJM-JJ VI,Base Metals,Perfect,8.63
+Geminate,F-ZNNG,TJM-JJ,TJM-JJ VI,Noble Metals,Perfect,35.18
+Geminate,F-ZNNG,TJM-JJ,TJM-JJ VI,Heavy Water,Perfect,365.80
+Geminate,F-ZNNG,TJM-JJ,TJM-JJ VI,Liquid Ozone,Rich,34.58
+Geminate,F-ZNNG,TJM-JJ,TJM-JJ VII,Lustering Alloy,Medium,19.28
+Geminate,F-ZNNG,TJM-JJ,TJM-JJ VII,Sheen Compound,Poor,16.76
+Geminate,F-ZNNG,TJM-JJ,TJM-JJ VII,Reactive Gas,Rich,30.28
+Geminate,F-ZNNG,TJM-JJ,TJM-JJ VII,Noble Gas,Rich,27.88
+Geminate,F-ZNNG,TJM-JJ,TJM-JJ VII,Polyaramids,Medium,14.97
+Geminate,F-ZNNG,TJM-JJ,TJM-JJ VIII,Sheen Compound,Medium,19.44
+Geminate,F-ZNNG,TJM-JJ,TJM-JJ VIII,Fiber Composite,Perfect,32.88
+Geminate,F-ZNNG,TJM-JJ,TJM-JJ VIII,Reactive Gas,Rich,26.60
+Geminate,F-ZNNG,TJM-JJ,TJM-JJ VIII,Base Metals,Perfect,8.52
+Geminate,F-ZNNG,TJM-JJ,TJM-JJ VIII,Coolant,Rich,16.95
+Geminate,F-ZNNG,EOA-ZC,EOA-ZC I,Sheen Compound,Poor,18.84
+Geminate,F-ZNNG,EOA-ZC,EOA-ZC I,Lucent Compound,Rich,30.86
+Geminate,F-ZNNG,EOA-ZC,EOA-ZC I,Condensates,Rich,20.44
+Geminate,F-ZNNG,EOA-ZC,EOA-ZC I,Nanites,Medium,6.39
+Geminate,F-ZNNG,EOA-ZC,EOA-ZC I,Plasmoids,Medium,1.15
+Geminate,F-ZNNG,EOA-ZC,EOA-ZC II,Precious Alloy,Poor,13.10
+Geminate,F-ZNNG,EOA-ZC,EOA-ZC II,Toxic Metals,Medium,5.49
+Geminate,F-ZNNG,EOA-ZC,EOA-ZC II,Supertensile Plastics,Medium,16.08
+Geminate,F-ZNNG,EOA-ZC,EOA-ZC II,Plasmoids,Poor,1.03
+Geminate,F-ZNNG,EOA-ZC,EOA-ZC III,Gleaming Alloy,Rich,30.08
+Geminate,F-ZNNG,EOA-ZC,EOA-ZC III,Noble Gas,Medium,22.90
+Geminate,F-ZNNG,EOA-ZC,EOA-ZC III,Polyaramids,Medium,15.80
+Geminate,F-ZNNG,EOA-ZC,EOA-ZC IV,Gleaming Alloy,Poor,16.90
+Geminate,F-ZNNG,EOA-ZC,EOA-ZC IV,Reactive Metals,Medium,5.21
+Geminate,F-ZNNG,EOA-ZC,EOA-ZC IV,Construction Blocks,Rich,28.36
+Geminate,F-ZNNG,EOA-ZC,EOA-ZC IV,Suspended Plasma,Rich,102.82
+Geminate,F-ZNNG,EOA-ZC,EOA-ZC V,Condensed Alloy,Rich,27.06
+Geminate,F-ZNNG,EOA-ZC,EOA-ZC V,Fiber Composite,Medium,22.94
+Geminate,F-ZNNG,EOA-ZC,EOA-ZC V,Industrial Fibers,Perfect,8.63
+Geminate,F-ZNNG,EOA-ZC,EOA-ZC V,Smartfab Units,Perfect,22.19
+Geminate,F-ZNNG,EOA-ZC,EOA-ZC V,Liquid Ozone,Perfect,44.75
+Geminate,F-ZNNG,EOA-ZC,EOA-ZC VI,Toxic Metals,Poor,4.72
+Geminate,F-ZNNG,EOA-ZC,EOA-ZC VI,Supertensile Plastics,Poor,11.65
+Geminate,F-ZNNG,EOA-ZC,EOA-ZC VI,Silicate Glass,Medium,10.56
+Geminate,F-ZNNG,EOA-ZC,EOA-ZC VI,Oxygen Isotopes,Poor,2.27
+Geminate,F-ZNNG,EOA-ZC,EOA-ZC VII,Opulent Compound,Medium,21.42
+Geminate,F-ZNNG,EOA-ZC,EOA-ZC VII,Toxic Metals,Perfect,8.61
+Geminate,F-ZNNG,EOA-ZC,EOA-ZC VII,Polyaramids,Medium,12.59
+Geminate,F-ZNNG,EOA-ZC,EOA-ZC VII,Heavy Water,Perfect,341.20
+Geminate,F-ZNNG,EOA-ZC,EOA-ZC VII,Liquid Ozone,Poor,22.50
+Geminate,F-ZNNG,EOA-ZC,EOA-ZC VIII,Fiber Composite,Medium,20.00
+Geminate,F-ZNNG,EOA-ZC,EOA-ZC VIII,Glossy Compound,Poor,18.46
+Geminate,F-ZNNG,EOA-ZC,EOA-ZC VIII,Reactive Gas,Rich,29.22
+Geminate,F-ZNNG,EOA-ZC,EOA-ZC VIII,Noble Gas,Rich,30.56
+Geminate,F-ZNNG,EOA-ZC,EOA-ZC VIII,Ionic Solutions,Rich,10.36
+Geminate,F-ZNNG,EOA-ZC,EOA-ZC IX,Lustering Alloy,Poor,17.86
+Geminate,F-ZNNG,EOA-ZC,EOA-ZC IX,Glossy Compound,Perfect,32.66
+Geminate,F-ZNNG,EOA-ZC,EOA-ZC IX,Reactive Gas,Rich,31.28
+Geminate,F-ZNNG,EOA-ZC,EOA-ZC IX,Polyaramids,Medium,12.61
+Geminate,F-ZNNG,EOA-ZC,EOA-ZC IX,Coolant,Rich,19.27
+Geminate,F-ZNNG,EOA-ZC,EOA-ZC X,Fiber Composite,Rich,26.44
+Geminate,F-ZNNG,EOA-ZC,EOA-ZC X,Reactive Gas,Medium,18.86
+Geminate,F-ZNNG,EOA-ZC,EOA-ZC X,Reactive Metals,Rich,7.25
+Geminate,F-ZNNG,EOA-ZC,EOA-ZC X,Polyaramids,Medium,14.49
+Geminate,F-ZNNG,EOA-ZC,EOA-ZC X,Ionic Solutions,Rich,11.46
+Geminate,F-ZNNG,EOA-ZC,EOA-ZC XI,Precious Alloy,Medium,21.28
+Geminate,F-ZNNG,EOA-ZC,EOA-ZC XI,Base Metals,Medium,4.99
+Geminate,F-ZNNG,EOA-ZC,EOA-ZC XI,Toxic Metals,Medium,5.33
+Geminate,F-ZNNG,EOA-ZC,EOA-ZC XI,Supertensile Plastics,Medium,14.24
+Geminate,F-ZNNG,G-73MR,G-73MR I,Toxic Metals,Medium,5.05
+Geminate,F-ZNNG,G-73MR,G-73MR I,Supertensile Plastics,Poor,11.04
+Geminate,F-ZNNG,G-73MR,G-73MR I,Silicate Glass,Poor,8.47
+Geminate,F-ZNNG,G-73MR,G-73MR I,Oxygen Isotopes,Poor,2.75
+Geminate,F-ZNNG,G-73MR,G-73MR II,Base Metals,Poor,3.29
+Geminate,F-ZNNG,G-73MR,G-73MR II,Toxic Metals,Poor,3.29
+Geminate,F-ZNNG,G-73MR,G-73MR II,Supertensile Plastics,Poor,9.95
+Geminate,F-ZNNG,G-73MR,G-73MR II,Oxygen Isotopes,Medium,3.49
+Geminate,F-ZNNG,G-73MR,G-73MR III,Condensed Alloy,Medium,19.60
+Geminate,F-ZNNG,G-73MR,G-73MR III,Opulent Compound,Rich,30.16
+Geminate,F-ZNNG,G-73MR,G-73MR III,Base Metals,Medium,6.05
+Geminate,F-ZNNG,G-73MR,G-73MR III,Heavy Water,Rich,282.60
+Geminate,F-ZNNG,G-73MR,G-73MR III,Liquid Ozone,Perfect,47.15
+Geminate,F-ZNNG,G-73MR,G-73MR IV,Condensed Alloy,Medium,20.88
+Geminate,F-ZNNG,G-73MR,G-73MR IV,Opulent Compound,Perfect,33.88
+Geminate,F-ZNNG,G-73MR,G-73MR IV,Base Metals,Medium,5.87
+Geminate,F-ZNNG,G-73MR,G-73MR IV,Heavy Water,Medium,221.80
+Geminate,F-ZNNG,G-73MR,G-73MR IV,Liquid Ozone,Perfect,44.15
+Geminate,F-ZNNG,G-73MR,G-73MR V,Sheen Compound,Rich,29.08
+Geminate,F-ZNNG,G-73MR,G-73MR V,Glossy Compound,Medium,18.86
+Geminate,F-ZNNG,G-73MR,G-73MR V,Reactive Gas,Medium,20.60
+Geminate,F-ZNNG,G-73MR,G-73MR V,Noble Gas,Poor,18.00
+Geminate,F-ZNNG,G-73MR,G-73MR V,Ionic Solutions,Poor,7.49
+Geminate,F-ZNNG,G-73MR,G-73MR VI,Glossy Compound,Poor,17.78
+Geminate,F-ZNNG,G-73MR,G-73MR VI,Reactive Gas,Poor,17.24
+Geminate,F-ZNNG,G-73MR,G-73MR VI,Noble Gas,Poor,18.14
+Geminate,F-ZNNG,G-73MR,G-73MR VI,Base Metals,Medium,6.66
+Geminate,F-ZNNG,G-73MR,G-73MR VI,Ionic Solutions,Poor,6.60
+Geminate,F-ZNNG,G-73MR,G-73MR VII,Fiber Composite,Rich,30.76
+Geminate,F-ZNNG,G-73MR,G-73MR VII,Reactive Gas,Medium,24.28
+Geminate,F-ZNNG,G-73MR,G-73MR VII,Noble Gas,Medium,22.96
+Geminate,F-ZNNG,G-73MR,G-73MR VII,Reactive Metals,Medium,5.21
+Geminate,F-ZNNG,G-73MR,G-73MR VII,Coolant,Medium,15.96
+Geminate,F-ZNNG,E-91FV,E-91FV I,Gleaming Alloy,Rich,31.10
+Geminate,F-ZNNG,E-91FV,E-91FV I,Motley Compound,Poor,18.02
+Geminate,F-ZNNG,E-91FV,E-91FV I,Plasmoids,Poor,1.01
+Geminate,F-ZNNG,E-91FV,E-91FV II,Lustering Alloy,Poor,12.48
+Geminate,F-ZNNG,E-91FV,E-91FV II,Industrial Fibers,Medium,5.85
+Geminate,F-ZNNG,E-91FV,E-91FV II,Supertensile Plastics,Poor,9.40
+Geminate,F-ZNNG,E-91FV,E-91FV II,Plasmoids,Poor,1.08
+Geminate,F-ZNNG,E-91FV,E-91FV III,Precious Alloy,Poor,13.22
+Geminate,F-ZNNG,E-91FV,E-91FV III,Supertensile Plastics,Medium,14.97
+Geminate,F-ZNNG,E-91FV,E-91FV III,Silicate Glass,Medium,11.29
+Geminate,F-ZNNG,E-91FV,E-91FV III,Oxygen Isotopes,Poor,2.74
+Geminate,F-ZNNG,E-91FV,E-91FV IV,Lustering Alloy,Poor,12.42
+Geminate,F-ZNNG,E-91FV,E-91FV IV,Precious Alloy,Poor,14.20
+Geminate,F-ZNNG,E-91FV,E-91FV IV,Supertensile Plastics,Poor,9.60
+Geminate,F-ZNNG,E-91FV,E-91FV IV,Construction Blocks,Medium,21.74
+Geminate,F-ZNNG,E-91FV,E-91FV V,Toxic Metals,Perfect,8.45
+Geminate,F-ZNNG,E-91FV,E-91FV V,Polyaramids,Perfect,21.47
+Geminate,F-ZNNG,E-91FV,E-91FV V,Coolant,Poor,12.11
+Geminate,F-ZNNG,E-91FV,E-91FV V,Silicate Glass,Perfect,15.89
+Geminate,F-ZNNG,E-91FV,E-91FV V,Liquid Ozone,Rich,32.02
+Geminate,F-ZNNG,E-91FV,E-91FV VI,Fiber Composite,Rich,26.82
+Geminate,F-ZNNG,E-91FV,E-91FV VI,Glossy Compound,Perfect,31.82
+Geminate,F-ZNNG,E-91FV,E-91FV VI,Reactive Gas,Rich,27.88
+Geminate,F-ZNNG,E-91FV,E-91FV VI,Noble Gas,Rich,29.22
+Geminate,F-ZNNG,E-91FV,E-91FV VI,Coolant,Poor,10.99
+Geminate,F-ZNNG,E-91FV,E-91FV VII,Condensed Alloy,Perfect,37.24
+Geminate,F-ZNNG,E-91FV,E-91FV VII,Base Metals,Perfect,10.04
+Geminate,F-ZNNG,E-91FV,E-91FV VII,Noble Metals,Rich,27.72
+Geminate,F-ZNNG,E-91FV,E-91FV VII,Condensates,Rich,20.59
+Geminate,F-ZNNG,E-91FV,E-91FV VII,Liquid Ozone,Rich,32.08
+Geminate,F-ZNNG,E-91FV,E-91FV VIII,Sheen Compound,Rich,29.56
+Geminate,F-ZNNG,E-91FV,E-91FV VIII,Fiber Composite,Poor,17.64
+Geminate,F-ZNNG,E-91FV,E-91FV VIII,Reactive Gas,Medium,25.06
+Geminate,F-ZNNG,E-91FV,E-91FV VIII,Reactive Metals,Medium,6.47
+Geminate,F-ZNNG,E-91FV,E-91FV VIII,Coolant,Medium,14.15
+Geminate,F-ZNNG,E-91FV,E-91FV IX,Dark Compound,Medium,23.72
+Geminate,F-ZNNG,E-91FV,E-91FV IX,Condensates,Rich,17.57
+Geminate,F-ZNNG,E-91FV,E-91FV IX,Nanites,Medium,5.00
+Geminate,F-ZNNG,E-91FV,E-91FV IX,Suspended Plasma,Perfect,127.22
+Geminate,F-ZNNG,E-91FV,E-91FV IX,Ionic Solutions,Rich,10.17
+Geminate,F-ZNNG,E-91FV,E-91FV X,Sheen Compound,Rich,30.18
+Geminate,F-ZNNG,E-91FV,E-91FV X,Fiber Composite,Rich,27.52
+Geminate,F-ZNNG,E-91FV,E-91FV X,Reactive Gas,Poor,16.52
+Geminate,F-ZNNG,E-91FV,E-91FV X,Base Metals,Rich,7.99
+Geminate,F-ZNNG,E-91FV,E-91FV X,Ionic Solutions,Poor,6.64
+Geminate,F-ZNNG,E-91FV,E-91FV XI,Crystal Compound,Rich,27.74
+Geminate,F-ZNNG,E-91FV,E-91FV XI,Coolant,Rich,17.79
+Geminate,F-ZNNG,E-91FV,E-91FV XI,Silicate Glass,Medium,12.06
+Geminate,F-ZNNG,E-91FV,E-91FV XI,Heavy Water,Medium,220.60
+Geminate,F-ZNNG,E-91FV,E-91FV XI,Liquid Ozone,Perfect,43.60
+Geminate,F-ZNNG,E-91FV,E-91FV XII,Base Metals,Medium,6.25
+Geminate,F-ZNNG,E-91FV,E-91FV XII,Heavy Metals,Rich,27.02
+Geminate,F-ZNNG,E-91FV,E-91FV XII,Industrial Fibers,Poor,4.93
+Geminate,F-ZNNG,E-91FV,E-91FV XII,Condensates,Rich,19.20
+Geminate,F-ZNNG,E-91FV,E-91FV XIII,Base Metals,Medium,5.34
+Geminate,F-ZNNG,E-91FV,E-91FV XIII,Supertensile Plastics,Medium,12.69
+Geminate,F-ZNNG,E-91FV,E-91FV XIII,Construction Blocks,Medium,23.68
+Geminate,F-ZNNG,E-91FV,E-91FV XIII,Plasmoids,Medium,1.41
+Geminate,F-ZNNG,AD-5B8,AD-5B8 I,Dark Compound,Poor,17.48
+Geminate,F-ZNNG,AD-5B8,AD-5B8 I,Base Metals,Medium,5.15
+Geminate,F-ZNNG,AD-5B8,AD-5B8 I,Toxic Metals,Medium,5.51
+Geminate,F-ZNNG,AD-5B8,AD-5B8 I,Supertensile Plastics,Poor,9.13
+Geminate,F-ZNNG,AD-5B8,AD-5B8 II,Precious Alloy,Poor,13.54
+Geminate,F-ZNNG,AD-5B8,AD-5B8 II,Dark Compound,Medium,24.18
+Geminate,F-ZNNG,AD-5B8,AD-5B8 II,Toxic Metals,Poor,3.29
+Geminate,F-ZNNG,AD-5B8,AD-5B8 II,Supertensile Plastics,Medium,12.61
+Geminate,F-ZNNG,AD-5B8,AD-5B8 III,Condensed Alloy,Perfect,37.38
+Geminate,F-ZNNG,AD-5B8,AD-5B8 III,Fiber Composite,Medium,23.04
+Geminate,F-ZNNG,AD-5B8,AD-5B8 III,Reactive Gas,Rich,31.10
+Geminate,F-ZNNG,AD-5B8,AD-5B8 III,Condensates,Perfect,22.31
+Geminate,F-ZNNG,AD-5B8,AD-5B8 III,Liquid Ozone,Medium,30.63
+Geminate,F-ZNNG,AD-5B8,AD-5B8 IV,Base Metals,Poor,4.25
+Geminate,F-ZNNG,AD-5B8,AD-5B8 IV,Supertensile Plastics,Medium,13.69
+Geminate,F-ZNNG,AD-5B8,AD-5B8 IV,Silicate Glass,Medium,10.10
+Geminate,F-ZNNG,AD-5B8,AD-5B8 IV,Plasmoids,Poor,0.80
+Geminate,F-ZNNG,AD-5B8,AD-5B8 V,Toxic Metals,Poor,3.33
+Geminate,F-ZNNG,AD-5B8,AD-5B8 V,Supertensile Plastics,Medium,14.97
+Geminate,F-ZNNG,AD-5B8,AD-5B8 V,Construction Blocks,Poor,12.62
+Geminate,F-ZNNG,AD-5B8,AD-5B8 V,Oxygen Isotopes,Medium,3.20
+Geminate,F-ZNNG,AD-5B8,AD-5B8 VI,Lustering Alloy,Rich,27.72
+Geminate,F-ZNNG,AD-5B8,AD-5B8 VI,Fiber Composite,Rich,25.82
+Geminate,F-ZNNG,AD-5B8,AD-5B8 VI,Glossy Compound,Poor,17.84
+Geminate,F-ZNNG,AD-5B8,AD-5B8 VI,Reactive Gas,Perfect,32.52
+Geminate,F-ZNNG,AD-5B8,AD-5B8 VI,Base Metals,Rich,6.78
+Geminate,F-ZNNG,AD-5B8,AD-5B8 VII,Sheen Compound,Medium,22.30
+Geminate,F-ZNNG,AD-5B8,AD-5B8 VII,Reactive Gas,Perfect,32.20
+Geminate,F-ZNNG,AD-5B8,AD-5B8 VII,Noble Gas,Perfect,32.20
+Geminate,F-ZNNG,AD-5B8,AD-5B8 VII,Base Metals,Rich,7.51
+Geminate,F-ZNNG,AD-5B8,AD-5B8 VII,Reactive Metals,Rich,8.16
+Geminate,F-ZNNG,AD-5B8,AD-5B8 VIII,Fiber Composite,Medium,23.30
+Geminate,F-ZNNG,AD-5B8,AD-5B8 VIII,Reactive Gas,Rich,30.52
+Geminate,F-ZNNG,AD-5B8,AD-5B8 VIII,Noble Gas,Perfect,32.70
+Geminate,F-ZNNG,AD-5B8,AD-5B8 VIII,Coolant,Medium,15.47
+Geminate,F-ZNNG,AD-5B8,AD-5B8 VIII,Ionic Solutions,Medium,8.97
+Geminate,F-ZNNG,AD-5B8,AD-5B8 IX,Sheen Compound,Medium,24.18
+Geminate,F-ZNNG,AD-5B8,AD-5B8 IX,Fiber Composite,Rich,30.16
+Geminate,F-ZNNG,AD-5B8,AD-5B8 IX,Reactive Gas,Perfect,32.54
+Geminate,F-ZNNG,AD-5B8,AD-5B8 IX,Noble Gas,Medium,25.10
+Geminate,F-ZNNG,AD-5B8,AD-5B8 IX,Reactive Metals,Poor,4.42
+Geminate,F-ZNNG,QP0K-B,QP0K-B I,Toxic Metals,Medium,5.31
+Geminate,F-ZNNG,QP0K-B,QP0K-B I,Supertensile Plastics,Medium,15.01
+Geminate,F-ZNNG,QP0K-B,QP0K-B I,Silicate Glass,Medium,10.19
+Geminate,F-ZNNG,QP0K-B,QP0K-B I,Oxygen Isotopes,Medium,3.62
+Geminate,F-ZNNG,QP0K-B,QP0K-B II,Dark Compound,Rich,31.76
+Geminate,F-ZNNG,QP0K-B,QP0K-B II,Noble Gas,Poor,18.42
+Geminate,F-ZNNG,QP0K-B,QP0K-B II,Heavy Metals,Rich,27.04
+Geminate,F-ZNNG,QP0K-B,QP0K-B II,Condensates,Medium,15.48
+Geminate,F-ZNNG,QP0K-B,QP0K-B II,Suspended Plasma,Medium,86.33
+Geminate,F-ZNNG,QP0K-B,QP0K-B III,Dark Compound,Medium,19.42
+Geminate,F-ZNNG,QP0K-B,QP0K-B III,Industrial Fibers,Medium,5.49
+Geminate,F-ZNNG,QP0K-B,QP0K-B III,Supertensile Plastics,Poor,11.08
+Geminate,F-ZNNG,QP0K-B,QP0K-B III,Oxygen Isotopes,Poor,2.11
+Geminate,F-ZNNG,QP0K-B,QP0K-B IV,Gleaming Alloy,Medium,22.16
+Geminate,F-ZNNG,QP0K-B,QP0K-B IV,Noble Gas,Perfect,31.84
+Geminate,F-ZNNG,QP0K-B,QP0K-B IV,Smartfab Units,Rich,18.84
+Geminate,F-ZNNG,QP0K-B,QP0K-B V,Condensed Alloy,Rich,27.60
+Geminate,F-ZNNG,QP0K-B,QP0K-B V,Noble Metals,Perfect,33.32
+Geminate,F-ZNNG,QP0K-B,QP0K-B V,Industrial Fibers,Medium,6.03
+Geminate,F-ZNNG,QP0K-B,QP0K-B V,Condensates,Rich,20.57
+Geminate,F-ZNNG,QP0K-B,QP0K-B V,Liquid Ozone,Rich,36.10
+Geminate,F-ZNNG,QP0K-B,QP0K-B VI,Precious Alloy,Medium,20.78
+Geminate,F-ZNNG,QP0K-B,QP0K-B VI,Supertensile Plastics,Medium,13.84
+Geminate,F-ZNNG,QP0K-B,QP0K-B VI,Construction Blocks,Poor,13.72
+Geminate,F-ZNNG,QP0K-B,QP0K-B VI,Oxygen Isotopes,Medium,3.42
+Geminate,F-ZNNG,QP0K-B,QP0K-B VII,Fiber Composite,Medium,22.70
+Geminate,F-ZNNG,QP0K-B,QP0K-B VII,Reactive Gas,Rich,26.30
+Geminate,F-ZNNG,QP0K-B,QP0K-B VII,Noble Gas,Rich,26.76
+Geminate,F-ZNNG,QP0K-B,QP0K-B VII,Reactive Metals,Medium,5.43
+Geminate,F-ZNNG,QP0K-B,QP0K-B VII,Polyaramids,Rich,17.16
+Geminate,F-ZNNG,54-MF6,54-MF6 I,Lustering Alloy,Medium,22.46
+Geminate,F-ZNNG,54-MF6,54-MF6 I,Precious Alloy,Medium,23.48
+Geminate,F-ZNNG,54-MF6,54-MF6 I,Supertensile Plastics,Medium,16.15
+Geminate,F-ZNNG,54-MF6,54-MF6 I,Oxygen Isotopes,Poor,2.56
+Geminate,F-ZNNG,54-MF6,54-MF6 II,Base Metals,Poor,4.52
+Geminate,F-ZNNG,54-MF6,54-MF6 II,Supertensile Plastics,Poor,8.29
+Geminate,F-ZNNG,54-MF6,54-MF6 II,Construction Blocks,Poor,13.60
+Geminate,F-ZNNG,54-MF6,54-MF6 II,Oxygen Isotopes,Poor,2.42
+Geminate,F-ZNNG,54-MF6,54-MF6 III,Lucent Compound,Medium,23.24
+Geminate,F-ZNNG,54-MF6,54-MF6 III,Reactive Metals,Medium,6.49
+Geminate,F-ZNNG,54-MF6,54-MF6 III,Construction Blocks,Medium,21.44
+Geminate,F-ZNNG,54-MF6,54-MF6 III,Oxygen Isotopes,Medium,2.96
+Geminate,F-ZNNG,54-MF6,54-MF6 IV,Lucent Compound,Rich,28.26
+Geminate,F-ZNNG,54-MF6,54-MF6 IV,Heavy Metals,Rich,29.32
+Geminate,F-ZNNG,54-MF6,54-MF6 IV,Condensates,Rich,18.53
+Geminate,F-ZNNG,54-MF6,54-MF6 IV,Nanites,Rich,8.03
+Geminate,F-ZNNG,54-MF6,54-MF6 IV,Plasmoids,Perfect,2.06
+Geminate,F-ZNNG,54-MF6,54-MF6 V,Condensed Alloy,Medium,20.78
+Geminate,F-ZNNG,54-MF6,54-MF6 V,Reactive Gas,Medium,21.66
+Geminate,F-ZNNG,54-MF6,54-MF6 V,Base Metals,Rich,7.43
+Geminate,F-ZNNG,54-MF6,54-MF6 V,Heavy Water,Medium,243.40
+Geminate,F-ZNNG,54-MF6,54-MF6 V,Liquid Ozone,Medium,25.27
+Geminate,F-ZNNG,54-MF6,54-MF6 VI,Lustering Alloy,Rich,27.38
+Geminate,F-ZNNG,54-MF6,54-MF6 VI,Glossy Compound,Poor,18.82
+Geminate,F-ZNNG,54-MF6,54-MF6 VI,Reactive Gas,Medium,20.28
+Geminate,F-ZNNG,54-MF6,54-MF6 VI,Base Metals,Medium,5.71
+Geminate,F-ZNNG,54-MF6,54-MF6 VI,Coolant,Poor,12.27
+Geminate,F-ZNNG,54-MF6,54-MF6 VII,Fiber Composite,Poor,17.06
+Geminate,F-ZNNG,54-MF6,54-MF6 VII,Glossy Compound,Rich,28.64
+Geminate,F-ZNNG,54-MF6,54-MF6 VII,Reactive Gas,Rich,30.74
+Geminate,F-ZNNG,54-MF6,54-MF6 VII,Polyaramids,Rich,20.72
+Geminate,F-ZNNG,54-MF6,54-MF6 VII,Ionic Solutions,Medium,8.51
+Geminate,F-ZNNG,54-MF6,54-MF6 VIII,Precious Alloy,Medium,19.26
+Geminate,F-ZNNG,54-MF6,54-MF6 VIII,Supertensile Plastics,Rich,19.48
+Geminate,F-ZNNG,54-MF6,54-MF6 VIII,Condensates,Poor,11.77
+Geminate,F-ZNNG,54-MF6,54-MF6 VIII,Suspended Plasma,Poor,65.23
+Geminate,F-ZNNG,54-MF6,54-MF6 IX,Dark Compound,Medium,23.36
+Geminate,F-ZNNG,54-MF6,54-MF6 IX,Supertensile Plastics,Medium,14.41
+Geminate,F-ZNNG,54-MF6,54-MF6 IX,Construction Blocks,Poor,13.06
+Geminate,F-ZNNG,54-MF6,54-MF6 IX,Silicate Glass,Poor,7.47
+Geminate,KR-XF4,D-I9HJ,D-I9HJ I,Dark Compound,Poor,18.17
+Geminate,KR-XF4,D-I9HJ,D-I9HJ I,Industrial Fibers,Medium,6.40
+Geminate,KR-XF4,D-I9HJ,D-I9HJ I,Supertensile Plastics,Poor,12.22
+Geminate,KR-XF4,D-I9HJ,D-I9HJ I,Construction Blocks,Poor,14.77
+Geminate,KR-XF4,D-I9HJ,D-I9HJ II,Gleaming Alloy,Medium,26.01
+Geminate,KR-XF4,D-I9HJ,D-I9HJ II,Reactive Metals,Rich,8.68
+Geminate,KR-XF4,D-I9HJ,D-I9HJ II,Supertensile Plastics,Rich,22.34
+Geminate,KR-XF4,D-I9HJ,D-I9HJ II,Oxygen Isotopes,Medium,4.19
+Geminate,KR-XF4,D-I9HJ,D-I9HJ III,Glossy Compound,Medium,26.68
+Geminate,KR-XF4,D-I9HJ,D-I9HJ III,Reactive Gas,Medium,27.74
+Geminate,KR-XF4,D-I9HJ,D-I9HJ III,Reactive Metals,Rich,7.68
+Geminate,KR-XF4,D-I9HJ,D-I9HJ III,Polyaramids,Medium,18.14
+Geminate,KR-XF4,D-I9HJ,D-I9HJ III,Ionic Solutions,Poor,8.33
+Geminate,KR-XF4,D-I9HJ,D-I9HJ IV,Sheen Compound,Perfect,36.78
+Geminate,KR-XF4,D-I9HJ,D-I9HJ IV,Reactive Gas,Medium,26.96
+Geminate,KR-XF4,D-I9HJ,D-I9HJ IV,Noble Gas,Medium,25.51
+Geminate,KR-XF4,D-I9HJ,D-I9HJ IV,Base Metals,Perfect,9.81
+Geminate,KR-XF4,D-I9HJ,D-I9HJ IV,Polyaramids,Medium,15.78
+Geminate,KR-XF4,D-I9HJ,D-I9HJ V,Precious Alloy,Medium,23.76
+Geminate,KR-XF4,D-I9HJ,D-I9HJ V,Industrial Fibers,Poor,5.24
+Geminate,KR-XF4,D-I9HJ,D-I9HJ V,Coolant,Medium,19.26
+Geminate,KR-XF4,D-I9HJ,D-I9HJ V,Condensates,Rich,20.15
+Geminate,KR-XF4,P-6I0B,P-6I0B I,Base Metals,Medium,6.03
+Geminate,KR-XF4,P-6I0B,P-6I0B I,Toxic Metals,Medium,6.99
+Geminate,KR-XF4,P-6I0B,P-6I0B I,Supertensile Plastics,Poor,12.01
+Geminate,KR-XF4,P-6I0B,P-6I0B I,Oxygen Isotopes,Poor,2.97
+Geminate,KR-XF4,P-6I0B,P-6I0B II,Precious Alloy,Poor,14.42
+Geminate,KR-XF4,P-6I0B,P-6I0B II,Supertensile Plastics,Medium,18.75
+Geminate,KR-XF4,P-6I0B,P-6I0B II,Oxygen Isotopes,Medium,3.83
+Geminate,KR-XF4,P-6I0B,P-6I0B II,Plasmoids,Medium,1.59
+Geminate,KR-XF4,P-6I0B,P-6I0B III,Base Metals,Poor,4.11
+Geminate,KR-XF4,P-6I0B,P-6I0B III,Supertensile Plastics,Poor,9.83
+Geminate,KR-XF4,P-6I0B,P-6I0B III,Silicate Glass,Poor,9.23
+Geminate,KR-XF4,P-6I0B,P-6I0B III,Plasmoids,Poor,0.95
+Geminate,KR-XF4,P-6I0B,P-6I0B IV,Condensed Alloy,Medium,27.14
+Geminate,KR-XF4,P-6I0B,P-6I0B IV,Base Metals,Perfect,11.42
+Geminate,KR-XF4,P-6I0B,P-6I0B IV,Noble Metals,Medium,25.67
+Geminate,KR-XF4,P-6I0B,P-6I0B IV,Heavy Water,Perfect,388.47
+Geminate,KR-XF4,P-6I0B,P-6I0B IV,Liquid Ozone,Rich,37.17
+Geminate,KR-XF4,P-6I0B,P-6I0B V,Lucent Compound,Medium,26.86
+Geminate,KR-XF4,P-6I0B,P-6I0B V,Reactive Gas,Rich,30.68
+Geminate,KR-XF4,P-6I0B,P-6I0B V,Reactive Metals,Medium,6.06
+Geminate,KR-XF4,P-6I0B,P-6I0B V,Nanites,Poor,5.20
+Geminate,KR-XF4,P-6I0B,P-6I0B VI,Lustering Alloy,Medium,24.45
+Geminate,KR-XF4,P-6I0B,P-6I0B VI,Reactive Gas,Rich,34.59
+Geminate,KR-XF4,P-6I0B,P-6I0B VI,Noble Gas,Poor,20.49
+Geminate,KR-XF4,P-6I0B,P-6I0B VI,Reactive Metals,Rich,7.99
+Geminate,KR-XF4,P-6I0B,P-6I0B VI,Coolant,Rich,24.29
+Geminate,KR-XF4,P-6I0B,P-6I0B VII,Lustering Alloy,Poor,19.25
+Geminate,KR-XF4,P-6I0B,P-6I0B VII,Glossy Compound,Medium,27.88
+Geminate,KR-XF4,P-6I0B,P-6I0B VII,Reactive Gas,Medium,26.06
+Geminate,KR-XF4,P-6I0B,P-6I0B VII,Base Metals,Rich,8.26
+Geminate,KR-XF4,P-6I0B,P-6I0B VII,Coolant,Medium,15.62
+Geminate,KR-XF4,P-6I0B,P-6I0B VIII,Sheen Compound,Medium,22.82
+Geminate,KR-XF4,P-6I0B,P-6I0B VIII,Glossy Compound,Rich,32.75
+Geminate,KR-XF4,P-6I0B,P-6I0B VIII,Reactive Gas,Rich,32.71
+Geminate,KR-XF4,P-6I0B,P-6I0B VIII,Noble Gas,Perfect,37.24
+Geminate,KR-XF4,P-6I0B,P-6I0B VIII,Polyaramids,Perfect,25.36
+Geminate,KR-XF4,P-6I0B,P-6I0B IX,Lustering Alloy,Rich,33.67
+Geminate,KR-XF4,P-6I0B,P-6I0B IX,Motley Compound,Medium,28.80
+Geminate,KR-XF4,P-6I0B,P-6I0B IX,Supertensile Plastics,Rich,21.96
+Geminate,KR-XF4,P-6I0B,P-6I0B IX,Condensates,Medium,18.09
+Geminate,KR-XF4,CFYY-J,CFYY-J I,Industrial Fibers,Poor,4.52
+Geminate,KR-XF4,CFYY-J,CFYY-J I,Supertensile Plastics,Poor,12.41
+Geminate,KR-XF4,CFYY-J,CFYY-J I,Construction Blocks,Poor,20.68
+Geminate,KR-XF4,CFYY-J,CFYY-J I,Silicate Glass,Medium,13.14
+Geminate,KR-XF4,CFYY-J,CFYY-J II,Opulent Compound,Poor,19.62
+Geminate,KR-XF4,CFYY-J,CFYY-J II,Crystal Compound,Perfect,37.82
+Geminate,KR-XF4,CFYY-J,CFYY-J II,Toxic Metals,Medium,6.11
+Geminate,KR-XF4,CFYY-J,CFYY-J II,Coolant,Medium,16.12
+Geminate,KR-XF4,CFYY-J,CFYY-J II,Liquid Ozone,Perfect,44.91
+Geminate,KR-XF4,CFYY-J,CFYY-J III,Condensed Alloy,Rich,31.28
+Geminate,KR-XF4,CFYY-J,CFYY-J III,Fiber Composite,Medium,22.13
+Geminate,KR-XF4,CFYY-J,CFYY-J III,Opulent Compound,Medium,24.35
+Geminate,KR-XF4,CFYY-J,CFYY-J III,Condensates,Medium,14.04
+Geminate,KR-XF4,CFYY-J,CFYY-J III,Liquid Ozone,Poor,25.49
+Geminate,KR-XF4,CFYY-J,CFYY-J IV,Condensed Alloy,Perfect,40.68
+Geminate,KR-XF4,CFYY-J,CFYY-J IV,Reactive Gas,Poor,20.48
+Geminate,KR-XF4,CFYY-J,CFYY-J IV,Industrial Fibers,Rich,7.41
+Geminate,KR-XF4,CFYY-J,CFYY-J IV,Smartfab Units,Perfect,25.62
+Geminate,KR-XF4,CFYY-J,CFYY-J IV,Liquid Ozone,Perfect,44.22
+Geminate,KR-XF4,CFYY-J,CFYY-J V,Lustering Alloy,Poor,19.12
+Geminate,KR-XF4,CFYY-J,CFYY-J V,Reactive Gas,Medium,25.65
+Geminate,KR-XF4,CFYY-J,CFYY-J V,Reactive Metals,Rich,8.92
+Geminate,KR-XF4,CFYY-J,CFYY-J V,Polyaramids,Poor,13.43
+Geminate,KR-XF4,CFYY-J,CFYY-J V,Coolant,Medium,17.28
+Geminate,KR-XF4,CFYY-J,CFYY-J VI,Reactive Gas,Rich,30.05
+Geminate,KR-XF4,CFYY-J,CFYY-J VI,Noble Metals,Medium,21.71
+Geminate,KR-XF4,CFYY-J,CFYY-J VI,Condensates,Perfect,25.20
+Geminate,KR-XF4,CFYY-J,CFYY-J VI,Heavy Water,Perfect,374.22
+Geminate,KR-XF4,CFYY-J,CFYY-J VI,Liquid Ozone,Rich,37.04
+Geminate,KR-XF4,CFYY-J,CFYY-J VII,Fiber Composite,Medium,26.38
+Geminate,KR-XF4,CFYY-J,CFYY-J VII,Opulent Compound,Medium,24.22
+Geminate,KR-XF4,CFYY-J,CFYY-J VII,Smartfab Units,Medium,17.47
+Geminate,KR-XF4,CFYY-J,CFYY-J VII,Heavy Water,Rich,336.60
+Geminate,KR-XF4,CFYY-J,CFYY-J VII,Liquid Ozone,Rich,38.69
+Geminate,KR-XF4,CFYY-J,CFYY-J VIII,Fiber Composite,Rich,28.89
+Geminate,KR-XF4,CFYY-J,CFYY-J VIII,Noble Metals,Medium,21.47
+Geminate,KR-XF4,CFYY-J,CFYY-J VIII,Condensates,Rich,19.14
+Geminate,KR-XF4,CFYY-J,CFYY-J VIII,Smartfab Units,Perfect,25.33
+Geminate,KR-XF4,CFYY-J,CFYY-J VIII,Liquid Ozone,Perfect,46.56
+Geminate,KR-XF4,8-KZXQ,8-KZXQ I,Gleaming Alloy,Medium,19.95
+Geminate,KR-XF4,8-KZXQ,8-KZXQ I,Oxygen Isotopes,Rich,4.65
+Geminate,KR-XF4,8-KZXQ,8-KZXQ I,Plasmoids,Medium,1.54
+Geminate,KR-XF4,8-KZXQ,8-KZXQ II,Glossy Compound,Poor,18.86
+Geminate,KR-XF4,8-KZXQ,8-KZXQ II,Reactive Gas,Rich,28.22
+Geminate,KR-XF4,8-KZXQ,8-KZXQ II,Noble Gas,Medium,22.11
+Geminate,KR-XF4,8-KZXQ,8-KZXQ II,Reactive Metals,Perfect,8.78
+Geminate,KR-XF4,8-KZXQ,8-KZXQ II,Ionic Solutions,Medium,9.44
+Geminate,KR-XF4,8-KZXQ,8-KZXQ III,Lustering Alloy,Perfect,34.00
+Geminate,KR-XF4,8-KZXQ,8-KZXQ III,Glossy Compound,Medium,20.10
+Geminate,KR-XF4,8-KZXQ,8-KZXQ III,Reactive Gas,Rich,29.32
+Geminate,KR-XF4,8-KZXQ,8-KZXQ III,Base Metals,Medium,5.40
+Geminate,KR-XF4,8-KZXQ,8-KZXQ III,Ionic Solutions,Medium,9.78
+Geminate,KR-XF4,8-KZXQ,8-KZXQ IV,Lustering Alloy,Rich,31.90
+Geminate,KR-XF4,8-KZXQ,8-KZXQ IV,Reactive Gas,Rich,31.71
+Geminate,KR-XF4,8-KZXQ,8-KZXQ IV,Noble Gas,Poor,19.49
+Geminate,KR-XF4,8-KZXQ,8-KZXQ IV,Base Metals,Medium,6.93
+Geminate,KR-XF4,8-KZXQ,8-KZXQ IV,Ionic Solutions,Perfect,13.57
+Geminate,KR-XF4,8-KZXQ,8-KZXQ V,Dark Compound,Medium,23.56
+Geminate,KR-XF4,8-KZXQ,8-KZXQ V,Base Metals,Medium,5.31
+Geminate,KR-XF4,8-KZXQ,8-KZXQ V,Toxic Metals,Medium,6.34
+Geminate,KR-XF4,8-KZXQ,8-KZXQ V,Supertensile Plastics,Medium,14.53
+Geminate,KR-XF4,HKYW-T,HKYW-T I,Toxic Metals,Medium,6.01
+Geminate,KR-XF4,HKYW-T,HKYW-T I,Industrial Fibers,Medium,5.33
+Geminate,KR-XF4,HKYW-T,HKYW-T I,Supertensile Plastics,Medium,16.12
+Geminate,KR-XF4,HKYW-T,HKYW-T I,Construction Blocks,Poor,17.92
+Geminate,KR-XF4,HKYW-T,HKYW-T II,Precious Alloy,Poor,12.46
+Geminate,KR-XF4,HKYW-T,HKYW-T II,Supertensile Plastics,Poor,10.25
+Geminate,KR-XF4,HKYW-T,HKYW-T II,Construction Blocks,Poor,12.48
+Geminate,KR-XF4,HKYW-T,HKYW-T II,Silicate Glass,Medium,9.81
+Geminate,KR-XF4,HKYW-T,HKYW-T III,Base Metals,Medium,5.18
+Geminate,KR-XF4,HKYW-T,HKYW-T III,Industrial Fibers,Medium,5.77
+Geminate,KR-XF4,HKYW-T,HKYW-T III,Supertensile Plastics,Medium,13.60
+Geminate,KR-XF4,HKYW-T,HKYW-T III,Silicate Glass,Medium,10.37
+Geminate,KR-XF4,HKYW-T,HKYW-T IV,Reactive Gas,Medium,19.88
+Geminate,KR-XF4,HKYW-T,HKYW-T IV,Reactive Metals,Rich,7.96
+Geminate,KR-XF4,HKYW-T,HKYW-T IV,Construction Blocks,Medium,19.60
+Geminate,KR-XF4,HKYW-T,HKYW-T IV,Oxygen Isotopes,Medium,3.12
+Geminate,KR-XF4,HKYW-T,HKYW-T V,Fiber Composite,Medium,23.08
+Geminate,KR-XF4,HKYW-T,HKYW-T V,Reactive Gas,Rich,29.74
+Geminate,KR-XF4,HKYW-T,HKYW-T V,Base Metals,Medium,6.56
+Geminate,KR-XF4,HKYW-T,HKYW-T V,Coolant,Rich,18.40
+Geminate,KR-XF4,HKYW-T,HKYW-T V,Ionic Solutions,Perfect,13.06
+Geminate,KR-XF4,HKYW-T,HKYW-T VI,Sheen Compound,Medium,23.08
+Geminate,KR-XF4,HKYW-T,HKYW-T VI,Glossy Compound,Rich,29.06
+Geminate,KR-XF4,HKYW-T,HKYW-T VI,Reactive Gas,Perfect,32.42
+Geminate,KR-XF4,HKYW-T,HKYW-T VI,Noble Gas,Medium,20.40
+Geminate,KR-XF4,HKYW-T,HKYW-T VI,Polyaramids,Medium,16.85
+Geminate,KR-XF4,HKYW-T,HKYW-T VII,Sheen Compound,Rich,29.96
+Geminate,KR-XF4,HKYW-T,HKYW-T VII,Reactive Gas,Rich,25.58
+Geminate,KR-XF4,HKYW-T,HKYW-T VII,Noble Gas,Medium,20.82
+Geminate,KR-XF4,HKYW-T,HKYW-T VII,Base Metals,Medium,5.04
+Geminate,KR-XF4,HKYW-T,HKYW-T VII,Ionic Solutions,Medium,8.19
+Geminate,KR-XF4,HKYW-T,HKYW-T VIII,Condensed Alloy,Medium,19.98
+Geminate,KR-XF4,HKYW-T,HKYW-T VIII,Opulent Compound,Rich,29.12
+Geminate,KR-XF4,HKYW-T,HKYW-T VIII,Crystal Compound,Medium,22.24
+Geminate,KR-XF4,HKYW-T,HKYW-T VIII,Liquid Ozone,Rich,36.15
+Geminate,KR-XF4,HKYW-T,HKYW-T VIII,Ionic Solutions,Medium,9.99
+Geminate,KR-XF4,HKYW-T,HKYW-T IX,Noble Metals,Rich,30.72
+Geminate,KR-XF4,HKYW-T,HKYW-T IX,Polyaramids,Rich,18.25
+Geminate,KR-XF4,HKYW-T,HKYW-T IX,Coolant,Perfect,22.64
+Geminate,KR-XF4,HKYW-T,HKYW-T IX,Liquid Ozone,Poor,22.57
+Geminate,KR-XF4,HKYW-T,HKYW-T IX,Ionic Solutions,Perfect,13.82
+Geminate,KR-XF4,3SFU-S,3SFU-S I,Gleaming Alloy,Medium,24.52
+Geminate,KR-XF4,3SFU-S,3SFU-S I,Heavy Metals,Rich,28.74
+Geminate,KR-XF4,3SFU-S,3SFU-S I,Polyaramids,Poor,11.35
+Geminate,KR-XF4,3SFU-S,3SFU-S II,Gleaming Alloy,Rich,29.84
+Geminate,KR-XF4,3SFU-S,3SFU-S II,Noble Gas,Rich,29.16
+Geminate,KR-XF4,3SFU-S,3SFU-S II,Polyaramids,Poor,11.79
+Geminate,KR-XF4,3SFU-S,3SFU-S III,Precious Alloy,Medium,21.94
+Geminate,KR-XF4,3SFU-S,3SFU-S III,Dark Compound,Poor,12.74
+Geminate,KR-XF4,3SFU-S,3SFU-S III,Supertensile Plastics,Medium,15.08
+Geminate,KR-XF4,3SFU-S,3SFU-S III,Silicate Glass,Poor,9.28
+Geminate,KR-XF4,3SFU-S,3SFU-S IV,Crystal Compound,Poor,17.14
+Geminate,KR-XF4,3SFU-S,3SFU-S IV,Reactive Gas,Rich,26.70
+Geminate,KR-XF4,3SFU-S,3SFU-S IV,Reactive Metals,Rich,8.36
+Geminate,KR-XF4,3SFU-S,3SFU-S IV,Nanites,Medium,6.08
+Geminate,KR-XF4,3SFU-S,3SFU-S V,Toxic Metals,Poor,3.76
+Geminate,KR-XF4,3SFU-S,3SFU-S V,Supertensile Plastics,Medium,15.24
+Geminate,KR-XF4,3SFU-S,3SFU-S V,Construction Blocks,Poor,15.58
+Geminate,KR-XF4,3SFU-S,3SFU-S V,Silicate Glass,Poor,7.38
+Geminate,KR-XF4,3SFU-S,3SFU-S VI,Glossy Compound,Perfect,32.46
+Geminate,KR-XF4,3SFU-S,3SFU-S VI,Reactive Gas,Medium,22.12
+Geminate,KR-XF4,3SFU-S,3SFU-S VI,Base Metals,Medium,5.97
+Geminate,KR-XF4,3SFU-S,3SFU-S VI,Polyaramids,Poor,12.33
+Geminate,KR-XF4,3SFU-S,3SFU-S VI,Coolant,Rich,19.53
+Geminate,KR-XF4,3SFU-S,3SFU-S VII,Fiber Composite,Rich,27.44
+Geminate,KR-XF4,3SFU-S,3SFU-S VII,Glossy Compound,Poor,18.82
+Geminate,KR-XF4,3SFU-S,3SFU-S VII,Reactive Gas,Medium,20.02
+Geminate,KR-XF4,3SFU-S,3SFU-S VII,Base Metals,Rich,6.76
+Geminate,KR-XF4,3SFU-S,3SFU-S VII,Ionic Solutions,Medium,7.65
+Geminate,KR-XF4,3SFU-S,3SFU-S VIII,Condensed Alloy,Medium,21.02
+Geminate,KR-XF4,3SFU-S,3SFU-S VIII,Noble Metals,Medium,24.02
+Geminate,KR-XF4,3SFU-S,3SFU-S VIII,Polyaramids,Perfect,23.08
+Geminate,KR-XF4,3SFU-S,3SFU-S VIII,Heavy Water,Medium,238.60
+Geminate,KR-XF4,3SFU-S,3SFU-S VIII,Liquid Ozone,Rich,39.10
+Geminate,KR-XF4,VJ-NQP,VJ-NQP I,Precious Alloy,Medium,20.10
+Geminate,KR-XF4,VJ-NQP,VJ-NQP I,Dark Compound,Poor,18.20
+Geminate,KR-XF4,VJ-NQP,VJ-NQP I,Supertensile Plastics,Poor,8.52
+Geminate,KR-XF4,VJ-NQP,VJ-NQP I,Construction Blocks,Medium,19.50
+Geminate,KR-XF4,VJ-NQP,VJ-NQP II,Lustering Alloy,Medium,19.76
+Geminate,KR-XF4,VJ-NQP,VJ-NQP II,Industrial Fibers,Poor,3.54
+Geminate,KR-XF4,VJ-NQP,VJ-NQP II,Supertensile Plastics,Poor,11.45
+Geminate,KR-XF4,VJ-NQP,VJ-NQP II,Construction Blocks,Medium,20.04
+Geminate,KR-XF4,VJ-NQP,VJ-NQP III,Gleaming Alloy,Poor,17.00
+Geminate,KR-XF4,VJ-NQP,VJ-NQP III,Heavy Metals,Rich,26.16
+Geminate,KR-XF4,VJ-NQP,VJ-NQP III,Oxygen Isotopes,Medium,3.59
+Geminate,KR-XF4,VJ-NQP,VJ-NQP IV,Lustering Alloy,Poor,15.56
+Geminate,KR-XF4,VJ-NQP,VJ-NQP IV,Precious Alloy,Poor,18.18
+Geminate,KR-XF4,VJ-NQP,VJ-NQP IV,Supertensile Plastics,Poor,11.93
+Geminate,KR-XF4,VJ-NQP,VJ-NQP IV,Plasmoids,Medium,1.29
+Geminate,KR-XF4,VJ-NQP,VJ-NQP V,Condensed Alloy,Rich,29.46
+Geminate,KR-XF4,VJ-NQP,VJ-NQP V,Condensates,Medium,15.43
+Geminate,KR-XF4,VJ-NQP,VJ-NQP V,Smartfab Units,Medium,13.60
+Geminate,KR-XF4,VJ-NQP,VJ-NQP V,Heavy Water,Perfect,330.40
+Geminate,KR-XF4,VJ-NQP,VJ-NQP V,Liquid Ozone,Rich,38.52
+Geminate,KR-XF4,VJ-NQP,VJ-NQP VI,Condensed Alloy,Perfect,33.08
+Geminate,KR-XF4,VJ-NQP,VJ-NQP VI,Industrial Fibers,Medium,5.74
+Geminate,KR-XF4,VJ-NQP,VJ-NQP VI,Condensates,Perfect,25.47
+Geminate,KR-XF4,VJ-NQP,VJ-NQP VI,Smartfab Units,Perfect,22.75
+Geminate,KR-XF4,VJ-NQP,VJ-NQP VI,Liquid Ozone,Medium,27.48
+Geminate,KR-XF4,VJ-NQP,VJ-NQP VII,Lustering Alloy,Medium,24.40
+Geminate,KR-XF4,VJ-NQP,VJ-NQP VII,Sheen Compound,Poor,16.64
+Geminate,KR-XF4,VJ-NQP,VJ-NQP VII,Reactive Gas,Medium,22.62
+Geminate,KR-XF4,VJ-NQP,VJ-NQP VII,Reactive Metals,Rich,7.63
+Geminate,KR-XF4,VJ-NQP,VJ-NQP VII,Coolant,Rich,18.97
+Geminate,KR-XF4,VJ-NQP,VJ-NQP VIII,Motley Compound,Rich,29.22
+Geminate,KR-XF4,VJ-NQP,VJ-NQP VIII,Base Metals,Medium,5.47
+Geminate,KR-XF4,VJ-NQP,VJ-NQP VIII,Condensates,Rich,18.89
+Geminate,KR-XF4,VJ-NQP,VJ-NQP VIII,Suspended Plasma,Poor,53.28
+Geminate,KR-XF4,U6D-9A,U6D-9A I,Gleaming Alloy,Poor,17.26
+Geminate,KR-XF4,U6D-9A,U6D-9A I,Noble Gas,Perfect,32.30
+Geminate,KR-XF4,U6D-9A,U6D-9A I,Noble Metals,Medium,20.26
+Geminate,KR-XF4,U6D-9A,U6D-9A II,Precious Alloy,Poor,18.32
+Geminate,KR-XF4,U6D-9A,U6D-9A II,Industrial Fibers,Poor,4.01
+Geminate,KR-XF4,U6D-9A,U6D-9A II,Supertensile Plastics,Poor,8.92
+Geminate,KR-XF4,U6D-9A,U6D-9A II,Oxygen Isotopes,Poor,1.87
+Geminate,KR-XF4,U6D-9A,U6D-9A III,Precious Alloy,Poor,14.96
+Geminate,KR-XF4,U6D-9A,U6D-9A III,Base Metals,Poor,3.57
+Geminate,KR-XF4,U6D-9A,U6D-9A III,Supertensile Plastics,Poor,9.48
+Geminate,KR-XF4,U6D-9A,U6D-9A III,Silicate Glass,Medium,11.29
+Geminate,KR-XF4,U6D-9A,U6D-9A IV,Dark Compound,Medium,21.78
+Geminate,KR-XF4,U6D-9A,U6D-9A IV,Toxic Metals,Poor,4.95
+Geminate,KR-XF4,U6D-9A,U6D-9A IV,Supertensile Plastics,Poor,10.33
+Geminate,KR-XF4,U6D-9A,U6D-9A IV,Oxygen Isotopes,Medium,3.51
+Geminate,KR-XF4,U6D-9A,U6D-9A V,Condensed Alloy,Medium,19.14
+Geminate,KR-XF4,U6D-9A,U6D-9A V,Noble Metals,Poor,17.78
+Geminate,KR-XF4,U6D-9A,U6D-9A V,Heavy Water,Perfect,333.00
+Geminate,KR-XF4,U6D-9A,U6D-9A V,Liquid Ozone,Medium,27.35
+Geminate,KR-XF4,U6D-9A,U6D-9A V,Ionic Solutions,Perfect,13.34
+Geminate,KR-XF4,U6D-9A,U6D-9A VI,Lustering Alloy,Rich,30.40
+Geminate,KR-XF4,U6D-9A,U6D-9A VI,Reactive Gas,Medium,22.70
+Geminate,KR-XF4,U6D-9A,U6D-9A VI,Noble Gas,Rich,26.22
+Geminate,KR-XF4,U6D-9A,U6D-9A VI,Base Metals,Medium,5.62
+Geminate,KR-XF4,U6D-9A,U6D-9A VI,Polyaramids,Rich,17.33
+Geminate,KR-XF4,U6D-9A,U6D-9A VII,Lustering Alloy,Perfect,32.12
+Geminate,KR-XF4,U6D-9A,U6D-9A VII,Reactive Gas,Rich,31.64
+Geminate,KR-XF4,U6D-9A,U6D-9A VII,Noble Gas,Perfect,33.10
+Geminate,KR-XF4,U6D-9A,U6D-9A VII,Base Metals,Rich,6.68
+Geminate,KR-XF4,U6D-9A,U6D-9A VII,Reactive Metals,Rich,6.92
+Geminate,KR-XF4,U6D-9A,U6D-9A VIII,Fiber Composite,Medium,18.86
+Geminate,KR-XF4,U6D-9A,U6D-9A VIII,Reactive Gas,Rich,30.54
+Geminate,KR-XF4,U6D-9A,U6D-9A VIII,Noble Metals,Medium,19.30
+Geminate,KR-XF4,U6D-9A,U6D-9A VIII,Condensates,Rich,21.03
+Geminate,KR-XF4,U6D-9A,U6D-9A VIII,Liquid Ozone,Medium,26.38
+Geminate,KR-XF4,U6D-9A,U6D-9A IX,Motley Compound,Rich,27.68
+Geminate,KR-XF4,U6D-9A,U6D-9A IX,Base Metals,Rich,7.73
+Geminate,KR-XF4,U6D-9A,U6D-9A IX,Supertensile Plastics,Poor,11.01
+Geminate,KR-XF4,U6D-9A,U6D-9A IX,Condensates,Medium,15.16
+Geminate,KR-XF4,Atioth,Atioth I,Dark Compound,Rich,29.48
+Geminate,KR-XF4,Atioth,Atioth I,Noble Gas,Perfect,35.14
+Geminate,KR-XF4,Atioth,Atioth I,Reactive Metals,Perfect,8.98
+Geminate,KR-XF4,Atioth,Atioth I,Condensates,Rich,17.21
+Geminate,KR-XF4,Atioth,Atioth I,Plasmoids,Rich,1.76
+Geminate,KR-XF4,Atioth,Atioth II,Dark Compound,Medium,19.00
+Geminate,KR-XF4,Atioth,Atioth II,Toxic Metals,Medium,5.41
+Geminate,KR-XF4,Atioth,Atioth II,Supertensile Plastics,Poor,12.49
+Geminate,KR-XF4,Atioth,Atioth II,Construction Blocks,Poor,12.46
+Geminate,KR-XF4,Atioth,Atioth III,Sheen Compound,Poor,18.42
+Geminate,KR-XF4,Atioth,Atioth III,Fiber Composite,Rich,27.98
+Geminate,KR-XF4,Atioth,Atioth III,Glossy Compound,Perfect,33.10
+Geminate,KR-XF4,Atioth,Atioth III,Reactive Gas,Rich,31.38
+Geminate,KR-XF4,Atioth,Atioth III,Base Metals,Medium,5.18
+Geminate,KR-XF4,Atioth,Atioth IV,Fiber Composite,Poor,16.54
+Geminate,KR-XF4,Atioth,Atioth IV,Glossy Compound,Medium,24.66
+Geminate,KR-XF4,Atioth,Atioth IV,Reactive Gas,Medium,20.12
+Geminate,KR-XF4,Atioth,Atioth IV,Base Metals,Rich,7.26
+Geminate,KR-XF4,Atioth,Atioth IV,Ionic Solutions,Poor,6.91
+Geminate,KR-XF4,Atioth,Atioth V,Lustering Alloy,Poor,14.80
+Geminate,KR-XF4,Atioth,Atioth V,Dark Compound,Poor,16.58
+Geminate,KR-XF4,Atioth,Atioth V,Supertensile Plastics,Medium,14.40
+Geminate,KR-XF4,Atioth,Atioth V,Plasmoids,Poor,1.08
+Geminate,KR-XF4,Atioth,Atioth VI,Crystal Compound,Perfect,32.28
+Geminate,KR-XF4,Atioth,Atioth VI,Reactive Metals,Medium,5.45
+Geminate,KR-XF4,Atioth,Atioth VI,Nanites,Rich,7.04
+Geminate,KR-XF4,Atioth,Atioth VI,Oxygen Isotopes,Perfect,4.91
+Geminate,KR-XF4,PYY3-5,PYY3-5 I,Lucent Compound,Medium,23.78
+Geminate,KR-XF4,PYY3-5,PYY3-5 I,Crystal Compound,Rich,32.05
+Geminate,KR-XF4,PYY3-5,PYY3-5 I,Reactive Gas,Perfect,36.01
+Geminate,KR-XF4,PYY3-5,PYY3-5 I,Reactive Metals,Medium,5.65
+Geminate,KR-XF4,PYY3-5,PYY3-5 II,Dark Compound,Medium,26.27
+Geminate,KR-XF4,PYY3-5,PYY3-5 II,Base Metals,Medium,6.21
+Geminate,KR-XF4,PYY3-5,PYY3-5 II,Supertensile Plastics,Poor,11.87
+Geminate,KR-XF4,PYY3-5,PYY3-5 II,Oxygen Isotopes,Medium,3.84
+Geminate,KR-XF4,PYY3-5,PYY3-5 III,Lustering Alloy,Poor,19.03
+Geminate,KR-XF4,PYY3-5,PYY3-5 III,Industrial Fibers,Poor,5.42
+Geminate,KR-XF4,PYY3-5,PYY3-5 III,Supertensile Plastics,Poor,13.16
+Geminate,KR-XF4,PYY3-5,PYY3-5 III,Silicate Glass,Poor,6.93
+Geminate,KR-XF4,PYY3-5,PYY3-5 IV,Condensed Alloy,Medium,27.35
+Geminate,KR-XF4,PYY3-5,PYY3-5 IV,Opulent Compound,Rich,33.70
+Geminate,KR-XF4,PYY3-5,PYY3-5 IV,Crystal Compound,Rich,29.72
+Geminate,KR-XF4,PYY3-5,PYY3-5 IV,Coolant,Rich,21.38
+Geminate,KR-XF4,PYY3-5,PYY3-5 IV,Liquid Ozone,Medium,27.39
+Geminate,KR-XF4,PYY3-5,PYY3-5 V,Reactive Gas,Rich,34.94
+Geminate,KR-XF4,PYY3-5,PYY3-5 V,Noble Metals,Rich,32.49
+Geminate,KR-XF4,PYY3-5,PYY3-5 V,Industrial Fibers,Medium,6.55
+Geminate,KR-XF4,PYY3-5,PYY3-5 V,Heavy Water,Rich,283.80
+Geminate,KR-XF4,PYY3-5,PYY3-5 V,Liquid Ozone,Perfect,48.43
+Geminate,KR-XF4,PYY3-5,PYY3-5 VI,Lustering Alloy,Rich,28.42
+Geminate,KR-XF4,PYY3-5,PYY3-5 VI,Glossy Compound,Rich,30.01
+Geminate,KR-XF4,PYY3-5,PYY3-5 VI,Reactive Gas,Perfect,35.99
+Geminate,KR-XF4,PYY3-5,PYY3-5 VI,Reactive Metals,Medium,5.68
+Geminate,KR-XF4,PYY3-5,PYY3-5 VI,Polyaramids,Medium,14.45
+Geminate,KR-XF4,PYY3-5,PYY3-5 VII,Sheen Compound,Medium,22.37
+Geminate,KR-XF4,PYY3-5,PYY3-5 VII,Glossy Compound,Rich,29.28
+Geminate,KR-XF4,PYY3-5,PYY3-5 VII,Reactive Gas,Medium,24.44
+Geminate,KR-XF4,PYY3-5,PYY3-5 VII,Reactive Metals,Medium,6.24
+Geminate,KR-XF4,PYY3-5,PYY3-5 VII,Polyaramids,Rich,22.06
+Geminate,KR-XF4,RFGW-V,RFGW-V I,Dark Compound,Poor,16.88
+Geminate,KR-XF4,RFGW-V,RFGW-V I,Supertensile Plastics,Medium,14.13
+Geminate,KR-XF4,RFGW-V,RFGW-V I,Construction Blocks,Medium,24.16
+Geminate,KR-XF4,RFGW-V,RFGW-V I,Silicate Glass,Poor,6.36
+Geminate,KR-XF4,RFGW-V,RFGW-V II,Toxic Metals,Rich,8.07
+Geminate,KR-XF4,RFGW-V,RFGW-V II,Polyaramids,Medium,15.63
+Geminate,KR-XF4,RFGW-V,RFGW-V II,Silicate Glass,Rich,12.96
+Geminate,KR-XF4,RFGW-V,RFGW-V II,Liquid Ozone,Medium,27.40
+Geminate,KR-XF4,RFGW-V,RFGW-V II,Ionic Solutions,Medium,9.06
+Geminate,KR-XF4,RFGW-V,RFGW-V III,Condensed Alloy,Perfect,34.26
+Geminate,KR-XF4,RFGW-V,RFGW-V III,Polyaramids,Rich,20.51
+Geminate,KR-XF4,RFGW-V,RFGW-V III,Silicate Glass,Rich,14.65
+Geminate,KR-XF4,RFGW-V,RFGW-V III,Liquid Ozone,Medium,30.63
+Geminate,KR-XF4,RFGW-V,RFGW-V III,Ionic Solutions,Medium,9.08
+Geminate,KR-XF4,RFGW-V,RFGW-V IV,Opulent Compound,Rich,27.42
+Geminate,KR-XF4,RFGW-V,RFGW-V IV,Base Metals,Rich,6.75
+Geminate,KR-XF4,RFGW-V,RFGW-V IV,Condensates,Medium,15.61
+Geminate,KR-XF4,RFGW-V,RFGW-V IV,Smartfab Units,Perfect,24.95
+Geminate,KR-XF4,RFGW-V,RFGW-V IV,Liquid Ozone,Perfect,40.60
+Geminate,KR-XF4,RFGW-V,RFGW-V V,Fiber Composite,Rich,27.18
+Geminate,KR-XF4,RFGW-V,RFGW-V V,Reactive Gas,Medium,24.88
+Geminate,KR-XF4,RFGW-V,RFGW-V V,Noble Gas,Medium,22.40
+Geminate,KR-XF4,RFGW-V,RFGW-V V,Base Metals,Medium,6.24
+Geminate,KR-XF4,RFGW-V,RFGW-V V,Reactive Metals,Rich,8.35
+Geminate,KR-XF4,RFGW-V,RFGW-V VI,Gleaming Alloy,Medium,22.84
+Geminate,KR-XF4,RFGW-V,RFGW-V VI,Lucent Compound,Medium,21.00
+Geminate,KR-XF4,RFGW-V,RFGW-V VI,Reactive Metals,Rich,7.25
+Geminate,KR-XF4,RFGW-V,RFGW-V VI,Supertensile Plastics,Medium,12.69
+Geminate,KR-XF4,RFGW-V,RFGW-V VII,Reactive Gas,Perfect,34.00
+Geminate,KR-XF4,RFGW-V,RFGW-V VII,Base Metals,Rich,6.99
+Geminate,KR-XF4,RFGW-V,RFGW-V VII,Smartfab Units,Rich,17.51
+Geminate,KR-XF4,RFGW-V,RFGW-V VII,Heavy Water,Poor,187.00
+Geminate,KR-XF4,RFGW-V,RFGW-V VII,Liquid Ozone,Rich,32.05
+Geminate,KR-XF4,N-HK93,N-HK93 I,Base Metals,Poor,4.61
+Geminate,KR-XF4,N-HK93,N-HK93 I,Supertensile Plastics,Poor,13.05
+Geminate,KR-XF4,N-HK93,N-HK93 I,Construction Blocks,Poor,17.67
+Geminate,KR-XF4,N-HK93,N-HK93 I,Silicate Glass,Medium,11.42
+Geminate,KR-XF4,N-HK93,N-HK93 II,Gleaming Alloy,Medium,21.78
+Geminate,KR-XF4,N-HK93,N-HK93 II,Noble Metals,Medium,23.69
+Geminate,KR-XF4,N-HK93,N-HK93 II,Construction Blocks,Rich,28.51
+Geminate,KR-XF4,N-HK93,N-HK93 III,Toxic Metals,Poor,3.83
+Geminate,KR-XF4,N-HK93,N-HK93 III,Supertensile Plastics,Poor,11.04
+Geminate,KR-XF4,N-HK93,N-HK93 III,Silicate Glass,Poor,7.78
+Geminate,KR-XF4,N-HK93,N-HK93 III,Oxygen Isotopes,Medium,3.28
+Geminate,KR-XF4,N-HK93,N-HK93 IV,Gleaming Alloy,Medium,21.32
+Geminate,KR-XF4,N-HK93,N-HK93 IV,Glossy Compound,Medium,22.00
+Geminate,KR-XF4,N-HK93,N-HK93 IV,Noble Gas,Rich,32.38
+Geminate,KR-XF4,N-HK93,N-HK93 V,Sheen Compound,Rich,29.41
+Geminate,KR-XF4,N-HK93,N-HK93 V,Fiber Composite,Poor,20.28
+Geminate,KR-XF4,N-HK93,N-HK93 V,Glossy Compound,Rich,30.40
+Geminate,KR-XF4,N-HK93,N-HK93 V,Reactive Gas,Medium,26.62
+Geminate,KR-XF4,N-HK93,N-HK93 V,Noble Gas,Medium,27.19
+Geminate,KR-XF4,N-HK93,N-HK93 VI,Lustering Alloy,Medium,26.60
+Geminate,KR-XF4,N-HK93,N-HK93 VI,Fiber Composite,Rich,30.43
+Geminate,KR-XF4,N-HK93,N-HK93 VI,Glossy Compound,Rich,34.50
+Geminate,KR-XF4,N-HK93,N-HK93 VI,Reactive Gas,Rich,33.20
+Geminate,KR-XF4,N-HK93,N-HK93 VI,Base Metals,Rich,7.42
+Geminate,KR-XF4,N-HK93,N-HK93 VII,Sheen Compound,Medium,21.38
+Geminate,KR-XF4,N-HK93,N-HK93 VII,Reactive Gas,Perfect,35.60
+Geminate,KR-XF4,N-HK93,N-HK93 VII,Noble Gas,Medium,24.29
+Geminate,KR-XF4,N-HK93,N-HK93 VII,Polyaramids,Perfect,24.02
+Geminate,KR-XF4,N-HK93,N-HK93 VII,Ionic Solutions,Medium,9.72
+Geminate,KR-XF4,N-HK93,N-HK93 VIII,Motley Compound,Rich,30.98
+Geminate,KR-XF4,N-HK93,N-HK93 VIII,Coolant,Medium,17.97
+Geminate,KR-XF4,N-HK93,N-HK93 VIII,Condensates,Poor,11.34
+Geminate,KR-XF4,N-HK93,N-HK93 VIII,Liquid Ozone,Medium,33.11
+Geminate,RJ-1R7,LR-2XT,LR-2XT I,Precious Alloy,Poor,19.15
+Geminate,RJ-1R7,LR-2XT,LR-2XT I,Toxic Metals,Medium,6.28
+Geminate,RJ-1R7,LR-2XT,LR-2XT I,Supertensile Plastics,Poor,9.49
+Geminate,RJ-1R7,LR-2XT,LR-2XT I,Plasmoids,Medium,1.36
+Geminate,RJ-1R7,LR-2XT,LR-2XT II,Dark Compound,Medium,20.75
+Geminate,RJ-1R7,LR-2XT,LR-2XT II,Toxic Metals,Medium,6.68
+Geminate,RJ-1R7,LR-2XT,LR-2XT II,Supertensile Plastics,Medium,15.61
+Geminate,RJ-1R7,LR-2XT,LR-2XT II,Silicate Glass,Poor,6.89
+Geminate,RJ-1R7,LR-2XT,LR-2XT III,Lustering Alloy,Medium,21.52
+Geminate,RJ-1R7,LR-2XT,LR-2XT III,Supertensile Plastics,Poor,11.79
+Geminate,RJ-1R7,LR-2XT,LR-2XT III,Construction Blocks,Medium,21.27
+Geminate,RJ-1R7,LR-2XT,LR-2XT III,Silicate Glass,Medium,12.67
+Geminate,RJ-1R7,LR-2XT,LR-2XT IV,Lustering Alloy,Poor,14.18
+Geminate,RJ-1R7,LR-2XT,LR-2XT IV,Base Metals,Poor,4.60
+Geminate,RJ-1R7,LR-2XT,LR-2XT IV,Supertensile Plastics,Medium,17.18
+Geminate,RJ-1R7,LR-2XT,LR-2XT IV,Construction Blocks,Poor,14.22
+Geminate,RJ-1R7,LR-2XT,LR-2XT V,Lustering Alloy,Medium,25.91
+Geminate,RJ-1R7,LR-2XT,LR-2XT V,Reactive Gas,Rich,30.62
+Geminate,RJ-1R7,LR-2XT,LR-2XT V,Base Metals,Medium,5.34
+Geminate,RJ-1R7,LR-2XT,LR-2XT V,Polyaramids,Medium,15.22
+Geminate,RJ-1R7,LR-2XT,LR-2XT V,Ionic Solutions,Rich,11.37
+Geminate,RJ-1R7,LR-2XT,LR-2XT VI,Lustering Alloy,Rich,28.12
+Geminate,RJ-1R7,LR-2XT,LR-2XT VI,Sheen Compound,Medium,20.14
+Geminate,RJ-1R7,LR-2XT,LR-2XT VI,Reactive Gas,Medium,23.86
+Geminate,RJ-1R7,LR-2XT,LR-2XT VI,Polyaramids,Rich,20.54
+Geminate,RJ-1R7,LR-2XT,LR-2XT VI,Coolant,Medium,17.37
+Geminate,RJ-1R7,LR-2XT,LR-2XT VII,Reactive Gas,Medium,25.62
+Geminate,RJ-1R7,LR-2XT,LR-2XT VII,Noble Gas,Rich,32.00
+Geminate,RJ-1R7,LR-2XT,LR-2XT VII,Polyaramids,Medium,15.05
+Geminate,RJ-1R7,LR-2XT,LR-2XT VII,Coolant,Rich,20.94
+Geminate,RJ-1R7,LR-2XT,LR-2XT VII,Ionic Solutions,Medium,9.23
+Geminate,RJ-1R7,LR-2XT,LR-2XT VIII,Glossy Compound,Medium,22.74
+Geminate,RJ-1R7,LR-2XT,LR-2XT VIII,Reactive Gas,Poor,17.75
+Geminate,RJ-1R7,LR-2XT,LR-2XT VIII,Noble Gas,Rich,30.85
+Geminate,RJ-1R7,LR-2XT,LR-2XT VIII,Base Metals,Rich,8.10
+Geminate,RJ-1R7,LR-2XT,LR-2XT VIII,Reactive Metals,Poor,4.58
+Geminate,RJ-1R7,LR-2XT,LR-2XT IX,Dark Compound,Poor,14.11
+Geminate,RJ-1R7,LR-2XT,LR-2XT IX,Base Metals,Poor,4.54
+Geminate,RJ-1R7,LR-2XT,LR-2XT IX,Supertensile Plastics,Poor,10.40
+Geminate,RJ-1R7,LR-2XT,LR-2XT IX,Plasmoids,Medium,1.20
+Geminate,RJ-1R7,TZL-WT,TZL-WT I,Sheen Compound,Poor,19.32
+Geminate,RJ-1R7,TZL-WT,TZL-WT I,Dark Compound,Rich,30.51
+Geminate,RJ-1R7,TZL-WT,TZL-WT I,Noble Gas,Perfect,34.97
+Geminate,RJ-1R7,TZL-WT,TZL-WT I,Condensates,Perfect,22.96
+Geminate,RJ-1R7,TZL-WT,TZL-WT I,Ionic Solutions,Medium,9.19
+Geminate,RJ-1R7,TZL-WT,TZL-WT II,Gleaming Alloy,Poor,17.20
+Geminate,RJ-1R7,TZL-WT,TZL-WT II,Heavy Metals,Medium,24.80
+Geminate,RJ-1R7,TZL-WT,TZL-WT II,Construction Blocks,Medium,25.91
+Geminate,RJ-1R7,TZL-WT,TZL-WT III,Lustering Alloy,Medium,23.54
+Geminate,RJ-1R7,TZL-WT,TZL-WT III,Precious Alloy,Medium,20.29
+Geminate,RJ-1R7,TZL-WT,TZL-WT III,Industrial Fibers,Medium,5.90
+Geminate,RJ-1R7,TZL-WT,TZL-WT III,Supertensile Plastics,Poor,12.82
+Geminate,RJ-1R7,TZL-WT,TZL-WT IV,Lucent Compound,Medium,26.00
+Geminate,RJ-1R7,TZL-WT,TZL-WT IV,Dark Compound,Rich,28.08
+Geminate,RJ-1R7,TZL-WT,TZL-WT IV,Reactive Metals,Poor,5.05
+Geminate,RJ-1R7,TZL-WT,TZL-WT IV,Condensates,Poor,12.99
+Geminate,RJ-1R7,TZL-WT,TZL-WT IV,Plasmoids,Rich,1.88
+Geminate,RJ-1R7,TZL-WT,TZL-WT V,Gleaming Alloy,Poor,17.14
+Geminate,RJ-1R7,TZL-WT,TZL-WT V,Motley Compound,Medium,25.77
+Geminate,RJ-1R7,TZL-WT,TZL-WT V,Smartfab Units,Medium,15.54
+Geminate,RJ-1R7,TZL-WT,TZL-WT VI,Fiber Composite,Medium,26.00
+Geminate,RJ-1R7,TZL-WT,TZL-WT VI,Glossy Compound,Medium,22.45
+Geminate,RJ-1R7,TZL-WT,TZL-WT VI,Reactive Gas,Medium,24.80
+Geminate,RJ-1R7,TZL-WT,TZL-WT VI,Noble Gas,Rich,28.83
+Geminate,RJ-1R7,TZL-WT,TZL-WT VI,Polyaramids,Medium,13.43
+Geminate,RJ-1R7,TZL-WT,TZL-WT VII,Lustering Alloy,Rich,29.80
+Geminate,RJ-1R7,TZL-WT,TZL-WT VII,Glossy Compound,Medium,21.55
+Geminate,RJ-1R7,TZL-WT,TZL-WT VII,Reactive Gas,Rich,32.97
+Geminate,RJ-1R7,TZL-WT,TZL-WT VII,Coolant,Poor,12.38
+Geminate,RJ-1R7,TZL-WT,TZL-WT VII,Ionic Solutions,Rich,12.71
+Geminate,RJ-1R7,TZL-WT,TZL-WT VIII,Lustering Alloy,Rich,32.32
+Geminate,RJ-1R7,TZL-WT,TZL-WT VIII,Fiber Composite,Medium,20.22
+Geminate,RJ-1R7,TZL-WT,TZL-WT VIII,Glossy Compound,Rich,33.05
+Geminate,RJ-1R7,TZL-WT,TZL-WT VIII,Reactive Gas,Rich,32.55
+Geminate,RJ-1R7,TZL-WT,TZL-WT VIII,Reactive Metals,Rich,8.74
+Geminate,RJ-1R7,TZL-WT,TZL-WT IX,Sheen Compound,Rich,29.02
+Geminate,RJ-1R7,TZL-WT,TZL-WT IX,Reactive Gas,Poor,18.42
+Geminate,RJ-1R7,TZL-WT,TZL-WT IX,Noble Gas,Rich,32.68
+Geminate,RJ-1R7,TZL-WT,TZL-WT IX,Reactive Metals,Medium,5.95
+Geminate,RJ-1R7,TZL-WT,TZL-WT IX,Polyaramids,Rich,17.99
+Geminate,RJ-1R7,4K0N-J,4K0N-J I,Gleaming Alloy,Poor,18.59
+Geminate,RJ-1R7,4K0N-J,4K0N-J I,Noble Gas,Rich,28.92
+Geminate,RJ-1R7,4K0N-J,4K0N-J I,Construction Blocks,Medium,25.35
+Geminate,RJ-1R7,4K0N-J,4K0N-J II,Gleaming Alloy,Perfect,33.87
+Geminate,RJ-1R7,4K0N-J,4K0N-J II,Noble Metals,Medium,21.08
+Geminate,RJ-1R7,4K0N-J,4K0N-J II,Plasmoids,Rich,1.83
+Geminate,RJ-1R7,4K0N-J,4K0N-J III,Precious Alloy,Poor,18.98
+Geminate,RJ-1R7,4K0N-J,4K0N-J III,Base Metals,Poor,4.14
+Geminate,RJ-1R7,4K0N-J,4K0N-J III,Supertensile Plastics,Medium,13.79
+Geminate,RJ-1R7,4K0N-J,4K0N-J III,Construction Blocks,Medium,24.00
+Geminate,RJ-1R7,4K0N-J,4K0N-J IV,Gleaming Alloy,Medium,24.40
+Geminate,RJ-1R7,4K0N-J,4K0N-J IV,Lucent Compound,Medium,25.07
+Geminate,RJ-1R7,4K0N-J,4K0N-J IV,Crystal Compound,Medium,20.35
+Geminate,RJ-1R7,4K0N-J,4K0N-J IV,Reactive Metals,Rich,8.01
+Geminate,RJ-1R7,4K0N-J,4K0N-J V,Dark Compound,Poor,16.80
+Geminate,RJ-1R7,4K0N-J,4K0N-J V,Base Metals,Poor,3.81
+Geminate,RJ-1R7,4K0N-J,4K0N-J V,Supertensile Plastics,Poor,9.30
+Geminate,RJ-1R7,4K0N-J,4K0N-J V,Plasmoids,Medium,1.47
+Geminate,RJ-1R7,4K0N-J,4K0N-J VI,Reactive Gas,Perfect,35.89
+Geminate,RJ-1R7,4K0N-J,4K0N-J VI,Base Metals,Rich,7.78
+Geminate,RJ-1R7,4K0N-J,4K0N-J VI,Smartfab Units,Rich,18.02
+Geminate,RJ-1R7,4K0N-J,4K0N-J VI,Heavy Water,Perfect,372.33
+Geminate,RJ-1R7,4K0N-J,4K0N-J VI,Liquid Ozone,Poor,24.31
+Geminate,RJ-1R7,4K0N-J,4K0N-J VII,Fiber Composite,Medium,21.15
+Geminate,RJ-1R7,4K0N-J,4K0N-J VII,Glossy Compound,Medium,25.14
+Geminate,RJ-1R7,4K0N-J,4K0N-J VII,Reactive Gas,Rich,27.13
+Geminate,RJ-1R7,4K0N-J,4K0N-J VII,Noble Gas,Medium,22.36
+Geminate,RJ-1R7,4K0N-J,4K0N-J VII,Base Metals,Rich,7.71
+Geminate,RJ-1R7,4K0N-J,4K0N-J VIII,Sheen Compound,Poor,19.51
+Geminate,RJ-1R7,4K0N-J,4K0N-J VIII,Reactive Gas,Medium,24.30
+Geminate,RJ-1R7,4K0N-J,4K0N-J VIII,Noble Gas,Poor,17.91
+Geminate,RJ-1R7,4K0N-J,4K0N-J VIII,Base Metals,Medium,5.69
+Geminate,RJ-1R7,4K0N-J,4K0N-J VIII,Ionic Solutions,Rich,12.35
+Geminate,RJ-1R7,4K0N-J,4K0N-J IX,Lustering Alloy,Rich,28.85
+Geminate,RJ-1R7,4K0N-J,4K0N-J IX,Fiber Composite,Rich,31.79
+Geminate,RJ-1R7,4K0N-J,4K0N-J IX,Reactive Gas,Rich,32.99
+Geminate,RJ-1R7,4K0N-J,4K0N-J IX,Noble Gas,Poor,18.56
+Geminate,RJ-1R7,4K0N-J,4K0N-J IX,Base Metals,Rich,7.08
+Geminate,RJ-1R7,4K0N-J,4K0N-J X,Lustering Alloy,Rich,30.87
+Geminate,RJ-1R7,4K0N-J,4K0N-J X,Precious Alloy,Medium,26.02
+Geminate,RJ-1R7,4K0N-J,4K0N-J X,Coolant,Poor,12.39
+Geminate,RJ-1R7,4K0N-J,4K0N-J X,Condensates,Medium,14.49
+Geminate,RJ-1R7,B-F1MI,B-F1MI I,Precious Alloy,Poor,17.26
+Geminate,RJ-1R7,B-F1MI,B-F1MI I,Industrial Fibers,Medium,5.12
+Geminate,RJ-1R7,B-F1MI,B-F1MI I,Supertensile Plastics,Poor,9.69
+Geminate,RJ-1R7,B-F1MI,B-F1MI I,Silicate Glass,Poor,7.09
+Geminate,RJ-1R7,B-F1MI,B-F1MI II,Precious Alloy,Medium,21.50
+Geminate,RJ-1R7,B-F1MI,B-F1MI II,Dark Compound,Poor,13.10
+Geminate,RJ-1R7,B-F1MI,B-F1MI II,Base Metals,Poor,3.37
+Geminate,RJ-1R7,B-F1MI,B-F1MI II,Supertensile Plastics,Medium,15.04
+Geminate,RJ-1R7,B-F1MI,B-F1MI III,Glossy Compound,Rich,25.90
+Geminate,RJ-1R7,B-F1MI,B-F1MI III,Reactive Gas,Medium,21.44
+Geminate,RJ-1R7,B-F1MI,B-F1MI III,Reactive Metals,Rich,6.73
+Geminate,RJ-1R7,B-F1MI,B-F1MI III,Polyaramids,Medium,14.60
+Geminate,RJ-1R7,B-F1MI,B-F1MI III,Ionic Solutions,Rich,12.44
+Geminate,RJ-1R7,B-F1MI,B-F1MI IV,Sheen Compound,Rich,26.26
+Geminate,RJ-1R7,B-F1MI,B-F1MI IV,Fiber Composite,Rich,29.96
+Geminate,RJ-1R7,B-F1MI,B-F1MI IV,Glossy Compound,Poor,17.60
+Geminate,RJ-1R7,B-F1MI,B-F1MI IV,Reactive Gas,Medium,19.68
+Geminate,RJ-1R7,B-F1MI,B-F1MI IV,Noble Gas,Medium,21.22
+Geminate,RJ-1R7,B-F1MI,B-F1MI V,Supertensile Plastics,Poor,11.07
+Geminate,RJ-1R7,B-F1MI,B-F1MI V,Construction Blocks,Poor,15.52
+Geminate,RJ-1R7,B-F1MI,B-F1MI V,Oxygen Isotopes,Poor,2.70
+Geminate,RJ-1R7,B-F1MI,B-F1MI V,Plasmoids,Medium,1.47
+Geminate,RJ-1R7,B-F1MI,B-F1MI VI,Precious Alloy,Rich,29.58
+Geminate,RJ-1R7,B-F1MI,B-F1MI VI,Industrial Fibers,Medium,6.55
+Geminate,RJ-1R7,B-F1MI,B-F1MI VI,Condensates,Medium,13.16
+Geminate,RJ-1R7,B-F1MI,B-F1MI VI,Suspended Plasma,Poor,55.30
+Geminate,RJ-1R7,W-3BSU,W-3BSU I,Lustering Alloy,Poor,12.92
+Geminate,RJ-1R7,W-3BSU,W-3BSU I,Supertensile Plastics,Medium,14.97
+Geminate,RJ-1R7,W-3BSU,W-3BSU I,Construction Blocks,Medium,21.90
+Geminate,RJ-1R7,W-3BSU,W-3BSU I,Silicate Glass,Medium,11.15
+Geminate,RJ-1R7,W-3BSU,W-3BSU II,Gleaming Alloy,Perfect,33.22
+Geminate,RJ-1R7,W-3BSU,W-3BSU II,Smartfab Units,Perfect,21.69
+Geminate,RJ-1R7,W-3BSU,W-3BSU II,Plasmoids,Medium,1.45
+Geminate,RJ-1R7,W-3BSU,W-3BSU III,Condensed Alloy,Perfect,37.52
+Geminate,RJ-1R7,W-3BSU,W-3BSU III,Noble Metals,Perfect,32.30
+Geminate,RJ-1R7,W-3BSU,W-3BSU III,Condensates,Rich,17.85
+Geminate,RJ-1R7,W-3BSU,W-3BSU III,Heavy Water,Medium,222.20
+Geminate,RJ-1R7,W-3BSU,W-3BSU III,Liquid Ozone,Medium,29.85
+Geminate,RJ-1R7,W-3BSU,W-3BSU IV,Lustering Alloy,Poor,13.48
+Geminate,RJ-1R7,W-3BSU,W-3BSU IV,Base Metals,Poor,4.43
+Geminate,RJ-1R7,W-3BSU,W-3BSU IV,Supertensile Plastics,Medium,14.71
+Geminate,RJ-1R7,W-3BSU,W-3BSU IV,Plasmoids,Poor,0.86
+Geminate,RJ-1R7,W-3BSU,W-3BSU V,Condensed Alloy,Medium,21.10
+Geminate,RJ-1R7,W-3BSU,W-3BSU V,Fiber Composite,Rich,28.30
+Geminate,RJ-1R7,W-3BSU,W-3BSU V,Noble Metals,Perfect,38.20
+Geminate,RJ-1R7,W-3BSU,W-3BSU V,Heavy Water,Perfect,360.20
+Geminate,RJ-1R7,W-3BSU,W-3BSU V,Liquid Ozone,Medium,25.13
+Geminate,RJ-1R7,W-3BSU,W-3BSU VI,Base Metals,Poor,3.92
+Geminate,RJ-1R7,W-3BSU,W-3BSU VI,Toxic Metals,Medium,6.32
+Geminate,RJ-1R7,W-3BSU,W-3BSU VI,Supertensile Plastics,Poor,12.07
+Geminate,RJ-1R7,W-3BSU,W-3BSU VI,Oxygen Isotopes,Medium,3.27
+Geminate,RJ-1R7,W-3BSU,W-3BSU VII,Fiber Composite,Rich,26.32
+Geminate,RJ-1R7,W-3BSU,W-3BSU VII,Reactive Gas,Rich,28.20
+Geminate,RJ-1R7,W-3BSU,W-3BSU VII,Base Metals,Rich,7.57
+Geminate,RJ-1R7,W-3BSU,W-3BSU VII,Reactive Metals,Rich,7.75
+Geminate,RJ-1R7,W-3BSU,W-3BSU VII,Ionic Solutions,Perfect,13.12
+Geminate,RJ-1R7,W-3BSU,W-3BSU VIII,Sheen Compound,Medium,20.22
+Geminate,RJ-1R7,W-3BSU,W-3BSU VIII,Glossy Compound,Medium,21.66
+Geminate,RJ-1R7,W-3BSU,W-3BSU VIII,Reactive Gas,Rich,26.06
+Geminate,RJ-1R7,W-3BSU,W-3BSU VIII,Polyaramids,Poor,11.73
+Geminate,RJ-1R7,W-3BSU,W-3BSU VIII,Coolant,Medium,14.77
+Geminate,RJ-1R7,W-3BSU,W-3BSU IX,Lustering Alloy,Medium,19.94
+Geminate,RJ-1R7,W-3BSU,W-3BSU IX,Dark Compound,Medium,19.42
+Geminate,RJ-1R7,W-3BSU,W-3BSU IX,Supertensile Plastics,Poor,11.41
+Geminate,RJ-1R7,W-3BSU,W-3BSU IX,Silicate Glass,Medium,10.59
+Geminate,RJ-1R7,BE-UUN,BE-UUN I,Gleaming Alloy,Medium,24.86
+Geminate,RJ-1R7,BE-UUN,BE-UUN I,Glossy Compound,Rich,32.76
+Geminate,RJ-1R7,BE-UUN,BE-UUN I,Noble Gas,Perfect,33.75
+Geminate,RJ-1R7,BE-UUN,BE-UUN II,Lucent Compound,Medium,20.56
+Geminate,RJ-1R7,BE-UUN,BE-UUN II,Reactive Metals,Rich,8.09
+Geminate,RJ-1R7,BE-UUN,BE-UUN II,Toxic Metals,Medium,6.32
+Geminate,RJ-1R7,BE-UUN,BE-UUN II,Nanites,Rich,7.71
+Geminate,RJ-1R7,BE-UUN,BE-UUN III,Lucent Compound,Rich,31.06
+Geminate,RJ-1R7,BE-UUN,BE-UUN III,Reactive Gas,Rich,30.18
+Geminate,RJ-1R7,BE-UUN,BE-UUN III,Reactive Metals,Rich,7.25
+Geminate,RJ-1R7,BE-UUN,BE-UUN III,Suspended Plasma,Medium,80.21
+Geminate,RJ-1R7,BE-UUN,BE-UUN IV,Sheen Compound,Poor,19.45
+Geminate,RJ-1R7,BE-UUN,BE-UUN IV,Glossy Compound,Poor,18.94
+Geminate,RJ-1R7,BE-UUN,BE-UUN IV,Reactive Gas,Rich,26.75
+Geminate,RJ-1R7,BE-UUN,BE-UUN IV,Polyaramids,Rich,18.45
+Geminate,RJ-1R7,BE-UUN,BE-UUN IV,Ionic Solutions,Medium,10.40
+Geminate,RJ-1R7,BE-UUN,BE-UUN V,Glossy Compound,Medium,25.93
+Geminate,RJ-1R7,BE-UUN,BE-UUN V,Reactive Gas,Rich,28.25
+Geminate,RJ-1R7,BE-UUN,BE-UUN V,Base Metals,Medium,5.69
+Geminate,RJ-1R7,BE-UUN,BE-UUN V,Coolant,Rich,21.69
+Geminate,RJ-1R7,BE-UUN,BE-UUN V,Ionic Solutions,Poor,7.27
+Geminate,RJ-1R7,BE-UUN,BE-UUN VI,Sheen Compound,Rich,28.94
+Geminate,RJ-1R7,BE-UUN,BE-UUN VI,Glossy Compound,Rich,28.48
+Geminate,RJ-1R7,BE-UUN,BE-UUN VI,Reactive Gas,Rich,31.06
+Geminate,RJ-1R7,BE-UUN,BE-UUN VI,Noble Gas,Perfect,33.98
+Geminate,RJ-1R7,BE-UUN,BE-UUN VI,Reactive Metals,Rich,8.77
+Geminate,RJ-1R7,BE-UUN,BE-UUN VII,Lustering Alloy,Poor,19.03
+Geminate,RJ-1R7,BE-UUN,BE-UUN VII,Precious Alloy,Medium,22.49
+Geminate,RJ-1R7,BE-UUN,BE-UUN VII,Heavy Metals,Rich,29.06
+Geminate,RJ-1R7,BE-UUN,BE-UUN VII,Condensates,Medium,16.62
+Geminate,74IL-O,O2O-2X,O2O-2X I,Gleaming Alloy,Rich,32.45
+Geminate,74IL-O,O2O-2X,O2O-2X I,Heavy Metals,Rich,32.88
+Geminate,74IL-O,O2O-2X,O2O-2X I,Noble Metals,Medium,29.02
+Geminate,74IL-O,O2O-2X,O2O-2X II,Sheen Compound,Rich,36.62
+Geminate,74IL-O,O2O-2X,O2O-2X II,Reactive Gas,Rich,36.48
+Geminate,74IL-O,O2O-2X,O2O-2X II,Noble Gas,Rich,32.21
+Geminate,74IL-O,O2O-2X,O2O-2X II,Reactive Metals,Medium,7.40
+Geminate,74IL-O,O2O-2X,O2O-2X II,Polyaramids,Rich,23.52
+Geminate,74IL-O,O2O-2X,O2O-2X III,Lustering Alloy,Rich,32.88
+Geminate,74IL-O,O2O-2X,O2O-2X III,Fiber Composite,Medium,24.50
+Geminate,74IL-O,O2O-2X,O2O-2X III,Reactive Gas,Rich,37.37
+Geminate,74IL-O,O2O-2X,O2O-2X III,Reactive Metals,Rich,9.25
+Geminate,74IL-O,O2O-2X,O2O-2X III,Polyaramids,Rich,23.04
+Geminate,74IL-O,O2O-2X,O2O-2X IV,Reactive Gas,Rich,37.58
+Geminate,74IL-O,O2O-2X,O2O-2X IV,Noble Gas,Medium,24.12
+Geminate,74IL-O,O2O-2X,O2O-2X IV,Reactive Metals,Medium,7.31
+Geminate,74IL-O,O2O-2X,O2O-2X IV,Polyaramids,Medium,18.16
+Geminate,74IL-O,O2O-2X,O2O-2X IV,Coolant,Rich,21.46
+Geminate,74IL-O,O2O-2X,O2O-2X V,Glossy Compound,Rich,34.99
+Geminate,74IL-O,O2O-2X,O2O-2X V,Reactive Gas,Medium,23.06
+Geminate,74IL-O,O2O-2X,O2O-2X V,Polyaramids,Rich,21.26
+Geminate,74IL-O,O2O-2X,O2O-2X V,Coolant,Medium,17.68
+Geminate,74IL-O,O2O-2X,O2O-2X V,Ionic Solutions,Rich,13.17
+Geminate,74IL-O,O2O-2X,O2O-2X VI,Lustering Alloy,Poor,20.45
+Geminate,74IL-O,O2O-2X,O2O-2X VI,Fiber Composite,Rich,34.08
+Geminate,74IL-O,O2O-2X,O2O-2X VI,Reactive Gas,Poor,21.02
+Geminate,74IL-O,O2O-2X,O2O-2X VI,Coolant,Medium,18.62
+Geminate,74IL-O,O2O-2X,O2O-2X VI,Ionic Solutions,Poor,8.85
+Geminate,74IL-O,O2O-2X,O2O-2X VII,Fiber Composite,Rich,31.61
+Geminate,74IL-O,O2O-2X,O2O-2X VII,Glossy Compound,Poor,21.58
+Geminate,74IL-O,O2O-2X,O2O-2X VII,Reactive Gas,Poor,22.37
+Geminate,74IL-O,O2O-2X,O2O-2X VII,Base Metals,Medium,6.23
+Geminate,74IL-O,O2O-2X,O2O-2X VII,Ionic Solutions,Medium,11.09
+Geminate,74IL-O,O2O-2X,O2O-2X VIII,Base Metals,Rich,8.43
+Geminate,74IL-O,O2O-2X,O2O-2X VIII,Heavy Metals,Medium,24.74
+Geminate,74IL-O,O2O-2X,O2O-2X VIII,Coolant,Rich,23.74
+Geminate,74IL-O,O2O-2X,O2O-2X VIII,Condensates,Poor,13.82
+Geminate,74IL-O,JE1-36,JE1-36 I,Lustering Alloy,Medium,30.20
+Geminate,74IL-O,JE1-36,JE1-36 I,Dark Compound,Poor,20.55
+Geminate,74IL-O,JE1-36,JE1-36 I,Base Metals,Poor,5.35
+Geminate,74IL-O,JE1-36,JE1-36 I,Supertensile Plastics,Medium,20.40
+Geminate,74IL-O,JE1-36,JE1-36 I,Silicate Glass,Medium,13.05
+Geminate,74IL-O,JE1-36,JE1-36 II,Dark Compound,Poor,21.27
+Geminate,74IL-O,JE1-36,JE1-36 II,Industrial Fibers,Medium,7.36
+Geminate,74IL-O,JE1-36,JE1-36 II,Supertensile Plastics,Poor,14.55
+Geminate,74IL-O,JE1-36,JE1-36 II,Silicate Glass,Medium,12.30
+Geminate,74IL-O,JE1-36,JE1-36 II,Plasmoids,Medium,1.64
+Geminate,74IL-O,JE1-36,JE1-36 III,Condensed Alloy,Perfect,44.13
+Geminate,74IL-O,JE1-36,JE1-36 III,Opulent Compound,Poor,23.48
+Geminate,74IL-O,JE1-36,JE1-36 III,Crystal Compound,Medium,30.32
+Geminate,74IL-O,JE1-36,JE1-36 III,Polyaramids,Poor,15.67
+Geminate,74IL-O,JE1-36,JE1-36 III,Coolant,Perfect,27.17
+Geminate,74IL-O,JE1-36,JE1-36 III,Ionic Solutions,Rich,14.10
+Geminate,74IL-O,JE1-36,JE1-36 IV,Crystal Compound,Medium,31.63
+Geminate,74IL-O,JE1-36,JE1-36 IV,Reactive Metals,Rich,9.59
+Geminate,74IL-O,JE1-36,JE1-36 IV,Toxic Metals,Medium,7.26
+Geminate,74IL-O,JE1-36,JE1-36 IV,Construction Blocks,Medium,24.88
+Geminate,74IL-O,JE1-36,JE1-36 IV,Oxygen Isotopes,Medium,4.38
+Geminate,74IL-O,JE1-36,JE1-36 V,Gleaming Alloy,Medium,26.90
+Geminate,74IL-O,JE1-36,JE1-36 V,Lucent Compound,Poor,23.18
+Geminate,74IL-O,JE1-36,JE1-36 V,Crystal Compound,Rich,36.30
+Geminate,74IL-O,JE1-36,JE1-36 V,Nanites,Rich,10.43
+Geminate,74IL-O,JE1-36,JE1-36 V,Oxygen Isotopes,Rich,5.78
+Geminate,74IL-O,JE1-36,JE1-36 VI,Lustering Alloy,Medium,26.85
+Geminate,74IL-O,JE1-36,JE1-36 VI,Glossy Compound,Medium,25.60
+Geminate,74IL-O,JE1-36,JE1-36 VI,Reactive Gas,Perfect,39.83
+Geminate,74IL-O,JE1-36,JE1-36 VI,Noble Gas,Rich,33.98
+Geminate,74IL-O,JE1-36,JE1-36 VI,Coolant,Medium,18.07
+Geminate,74IL-O,JE1-36,JE1-36 VI,Ionic Solutions,Medium,10.35
+Geminate,74IL-O,JE1-36,JE1-36 VII,Sheen Compound,Medium,25.35
+Geminate,74IL-O,JE1-36,JE1-36 VII,Fiber Composite,Poor,22.25
+Geminate,74IL-O,JE1-36,JE1-36 VII,Reactive Gas,Medium,31.52
+Geminate,74IL-O,JE1-36,JE1-36 VII,Reactive Metals,Rich,9.38
+Geminate,74IL-O,JE1-36,JE1-36 VII,Polyaramids,Perfect,27.07
+Geminate,74IL-O,JE1-36,JE1-36 VII,Ionic Solutions,Rich,15.81
+Geminate,74IL-O,JE1-36,JE1-36 VIII,Lustering Alloy,Poor,21.93
+Geminate,74IL-O,JE1-36,JE1-36 VIII,Sheen Compound,Medium,27.45
+Geminate,74IL-O,JE1-36,JE1-36 VIII,Reactive Gas,Poor,20.65
+Geminate,74IL-O,JE1-36,JE1-36 VIII,Reactive Metals,Perfect,10.58
+Geminate,74IL-O,JE1-36,JE1-36 VIII,Polyaramids,Rich,26.28
+Geminate,74IL-O,JE1-36,JE1-36 VIII,Ionic Solutions,Rich,12.88
+Geminate,74IL-O,JE1-36,JE1-36 IX,Lustering Alloy,Medium,23.57
+Geminate,74IL-O,JE1-36,JE1-36 IX,Precious Alloy,Medium,29.02
+Geminate,74IL-O,JE1-36,JE1-36 IX,Industrial Fibers,Poor,6.10
+Geminate,74IL-O,JE1-36,JE1-36 IX,Supertensile Plastics,Poor,12.38
+Geminate,74IL-O,JE1-36,JE1-36 IX,Condensates,Poor,14.02
+Geminate,74IL-O,JE1-36,JE1-36 X,Dark Compound,Medium,26.40
+Geminate,74IL-O,JE1-36,JE1-36 X,Toxic Metals,Poor,4.49
+Geminate,74IL-O,JE1-36,JE1-36 X,Construction Blocks,Poor,15.70
+Geminate,74IL-O,JE1-36,JE1-36 X,Oxygen Isotopes,Poor,2.84
+Geminate,74IL-O,JE1-36,JE1-36 X,Plasmoids,Poor,1.05
+Geminate,74IL-O,5F-YRA,5F-YRA I,Industrial Fibers,Poor,3.97
+Geminate,74IL-O,5F-YRA,5F-YRA I,Supertensile Plastics,Medium,17.42
+Geminate,74IL-O,5F-YRA,5F-YRA I,Construction Blocks,Poor,15.91
+Geminate,74IL-O,5F-YRA,5F-YRA I,Oxygen Isotopes,Medium,3.76
+Geminate,74IL-O,5F-YRA,5F-YRA II,Gleaming Alloy,Medium,30.00
+Geminate,74IL-O,5F-YRA,5F-YRA II,Noble Gas,Medium,23.40
+Geminate,74IL-O,5F-YRA,5F-YRA II,Heavy Metals,Perfect,39.77
+Geminate,74IL-O,5F-YRA,5F-YRA III,Precious Alloy,Medium,29.11
+Geminate,74IL-O,5F-YRA,5F-YRA III,Dark Compound,Medium,25.56
+Geminate,74IL-O,5F-YRA,5F-YRA III,Toxic Metals,Poor,4.32
+Geminate,74IL-O,5F-YRA,5F-YRA III,Supertensile Plastics,Poor,10.62
+Geminate,74IL-O,5F-YRA,5F-YRA IV,Base Metals,Poor,4.79
+Geminate,74IL-O,5F-YRA,5F-YRA IV,Industrial Fibers,Poor,4.47
+Geminate,74IL-O,5F-YRA,5F-YRA IV,Supertensile Plastics,Poor,14.86
+Geminate,74IL-O,5F-YRA,5F-YRA IV,Construction Blocks,Poor,19.66
+Geminate,74IL-O,5F-YRA,5F-YRA V,Opulent Compound,Rich,36.72
+Geminate,74IL-O,5F-YRA,5F-YRA V,Base Metals,Rich,9.66
+Geminate,74IL-O,5F-YRA,5F-YRA V,Smartfab Units,Rich,23.66
+Geminate,74IL-O,5F-YRA,5F-YRA V,Heavy Water,Perfect,417.84
+Geminate,74IL-O,5F-YRA,5F-YRA V,Liquid Ozone,Perfect,54.27
+Geminate,74IL-O,5F-YRA,5F-YRA VI,Condensed Alloy,Perfect,44.47
+Geminate,74IL-O,5F-YRA,5F-YRA VI,Fiber Composite,Rich,37.22
+Geminate,74IL-O,5F-YRA,5F-YRA VI,Condensates,Medium,18.58
+Geminate,74IL-O,5F-YRA,5F-YRA VI,Heavy Water,Medium,260.88
+Geminate,74IL-O,5F-YRA,5F-YRA VI,Liquid Ozone,Perfect,54.09
+Geminate,74IL-O,5F-YRA,5F-YRA VII,Reactive Gas,Perfect,38.28
+Geminate,74IL-O,5F-YRA,5F-YRA VII,Base Metals,Medium,7.17
+Geminate,74IL-O,5F-YRA,5F-YRA VII,Noble Metals,Perfect,45.43
+Geminate,74IL-O,5F-YRA,5F-YRA VII,Condensates,Rich,22.34
+Geminate,74IL-O,5F-YRA,5F-YRA VII,Liquid Ozone,Perfect,50.79
+Geminate,74IL-O,5F-YRA,5F-YRA VIII,Gleaming Alloy,Rich,31.97
+Geminate,74IL-O,5F-YRA,5F-YRA VIII,Reactive Gas,Rich,31.18
+Geminate,74IL-O,5F-YRA,5F-YRA VIII,Reactive Metals,Medium,7.16
+Geminate,74IL-O,5F-YRA,5F-YRA VIII,Nanites,Rich,9.39
+Geminate,74IL-O,5F-YRA,5F-YRA IX,Sheen Compound,Medium,23.86
+Geminate,74IL-O,5F-YRA,5F-YRA IX,Glossy Compound,Poor,20.14
+Geminate,74IL-O,5F-YRA,5F-YRA IX,Reactive Gas,Rich,31.63
+Geminate,74IL-O,5F-YRA,5F-YRA IX,Base Metals,Medium,6.76
+Geminate,74IL-O,5F-YRA,5F-YRA IX,Coolant,Perfect,26.42
+Geminate,74IL-O,TDE4-H,TDE4-H I,Precious Alloy,Medium,24.13
+Geminate,74IL-O,TDE4-H,TDE4-H I,Dark Compound,Poor,19.98
+Geminate,74IL-O,TDE4-H,TDE4-H I,Base Metals,Poor,4.47
+Geminate,74IL-O,TDE4-H,TDE4-H I,Supertensile Plastics,Medium,20.13
+Geminate,74IL-O,TDE4-H,TDE4-H I,Plasmoids,Medium,1.54
+Geminate,74IL-O,TDE4-H,TDE4-H II,Gleaming Alloy,Rich,36.20
+Geminate,74IL-O,TDE4-H,TDE4-H II,Glossy Compound,Poor,20.68
+Geminate,74IL-O,TDE4-H,TDE4-H II,Noble Gas,Perfect,41.40
+Geminate,74IL-O,TDE4-H,TDE4-H II,Oxygen Isotopes,Medium,4.24
+Geminate,74IL-O,TDE4-H,TDE4-H III,Lustering Alloy,Medium,26.88
+Geminate,74IL-O,TDE4-H,TDE4-H III,Reactive Gas,Medium,24.13
+Geminate,74IL-O,TDE4-H,TDE4-H III,Noble Gas,Poor,21.00
+Geminate,74IL-O,TDE4-H,TDE4-H III,Polyaramids,Medium,18.15
+Geminate,74IL-O,TDE4-H,TDE4-H III,Coolant,Medium,19.80
+Geminate,74IL-O,TDE4-H,TDE4-H III,Ionic Solutions,Medium,12.03
+Geminate,74IL-O,TDE4-H,TDE4-H IV,Sheen Compound,Medium,28.68
+Geminate,74IL-O,TDE4-H,TDE4-H IV,Fiber Composite,Medium,31.13
+Geminate,74IL-O,TDE4-H,TDE4-H IV,Base Metals,Rich,8.89
+Geminate,74IL-O,TDE4-H,TDE4-H IV,Reactive Metals,Medium,7.83
+Geminate,74IL-O,TDE4-H,TDE4-H IV,Polyaramids,Medium,18.12
+Geminate,74IL-O,TDE4-H,TDE4-H IV,Ionic Solutions,Rich,15.05
+Geminate,74IL-O,TDE4-H,TDE4-H V,Lustering Alloy,Rich,36.42
+Geminate,74IL-O,TDE4-H,TDE4-H V,Sheen Compound,Rich,36.25
+Geminate,74IL-O,TDE4-H,TDE4-H V,Glossy Compound,Perfect,40.00
+Geminate,74IL-O,TDE4-H,TDE4-H V,Reactive Gas,Medium,28.30
+Geminate,74IL-O,TDE4-H,TDE4-H V,Base Metals,Poor,5.55
+Geminate,74IL-O,TDE4-H,TDE4-H V,Polyaramids,Medium,19.30
+Geminate,74IL-O,TDE4-H,TDE4-H VI,Fiber Composite,Medium,25.88
+Geminate,74IL-O,TDE4-H,TDE4-H VI,Glossy Compound,Medium,25.88
+Geminate,74IL-O,TDE4-H,TDE4-H VI,Reactive Metals,Poor,6.20
+Geminate,74IL-O,TDE4-H,TDE4-H VI,Polyaramids,Medium,16.87
+Geminate,74IL-O,TDE4-H,TDE4-H VI,Coolant,Medium,16.25
+Geminate,74IL-O,TDE4-H,TDE4-H VI,Ionic Solutions,Poor,8.30
+Geminate,74IL-O,TDE4-H,TDE4-H VII,Lustering Alloy,Poor,21.07
+Geminate,74IL-O,TDE4-H,TDE4-H VII,Fiber Composite,Poor,21.38
+Geminate,74IL-O,TDE4-H,TDE4-H VII,Glossy Compound,Medium,25.07
+Geminate,74IL-O,TDE4-H,TDE4-H VII,Base Metals,Perfect,10.69
+Geminate,74IL-O,TDE4-H,TDE4-H VII,Coolant,Rich,25.20
+Geminate,74IL-O,TDE4-H,TDE4-H VII,Ionic Solutions,Rich,15.05
+Geminate,74IL-O,UER-TH,UER-TH I,Precious Alloy,Poor,18.98
+Geminate,74IL-O,UER-TH,UER-TH I,Dark Compound,Medium,27.59
+Geminate,74IL-O,UER-TH,UER-TH I,Base Metals,Medium,8.30
+Geminate,74IL-O,UER-TH,UER-TH I,Supertensile Plastics,Medium,21.62
+Geminate,74IL-O,UER-TH,UER-TH I,Silicate Glass,Poor,10.92
+Geminate,74IL-O,UER-TH,UER-TH II,Motley Compound,Rich,36.48
+Geminate,74IL-O,UER-TH,UER-TH II,Glossy Compound,Perfect,45.39
+Geminate,74IL-O,UER-TH,UER-TH II,Noble Gas,Perfect,43.17
+Geminate,74IL-O,UER-TH,UER-TH II,Smartfab Units,Rich,25.06
+Geminate,74IL-O,UER-TH,UER-TH III,Glossy Compound,Medium,26.22
+Geminate,74IL-O,UER-TH,UER-TH III,Heavy Metals,Rich,36.50
+Geminate,74IL-O,UER-TH,UER-TH III,Noble Metals,Perfect,43.60
+Geminate,74IL-O,UER-TH,UER-TH III,Smartfab Units,Poor,14.54
+Geminate,74IL-O,UER-TH,UER-TH IV,Lucent Compound,Rich,41.47
+Geminate,74IL-O,UER-TH,UER-TH IV,Crystal Compound,Medium,28.43
+Geminate,74IL-O,UER-TH,UER-TH IV,Reactive Metals,Poor,5.87
+Geminate,74IL-O,UER-TH,UER-TH IV,Construction Blocks,Rich,36.15
+Geminate,74IL-O,UER-TH,UER-TH IV,Oxygen Isotopes,Medium,4.85
+Geminate,74IL-O,UER-TH,UER-TH V,Condensed Alloy,Perfect,44.93
+Geminate,74IL-O,UER-TH,UER-TH V,Base Metals,Rich,9.81
+Geminate,74IL-O,UER-TH,UER-TH V,Noble Metals,Perfect,43.23
+Geminate,74IL-O,UER-TH,UER-TH V,Condensates,Medium,21.98
+Geminate,74IL-O,UER-TH,UER-TH V,Smartfab Units,Medium,17.32
+Geminate,74IL-O,UER-TH,UER-TH V,Liquid Ozone,Rich,46.61
+Geminate,74IL-O,UER-TH,UER-TH VI,Sheen Compound,Rich,36.72
+Geminate,74IL-O,UER-TH,UER-TH VI,Fiber Composite,Poor,25.27
+Geminate,74IL-O,UER-TH,UER-TH VI,Noble Gas,Rich,36.05
+Geminate,74IL-O,UER-TH,UER-TH VI,Base Metals,Medium,8.53
+Geminate,74IL-O,UER-TH,UER-TH VI,Reactive Metals,Perfect,11.71
+Geminate,74IL-O,UER-TH,UER-TH VI,Coolant,Rich,25.72
+Geminate,74IL-O,UER-TH,UER-TH VII,Lustering Alloy,Poor,24.73
+Geminate,74IL-O,UER-TH,UER-TH VII,Dark Compound,Medium,30.75
+Geminate,74IL-O,UER-TH,UER-TH VII,Base Metals,Medium,7.26
+Geminate,74IL-O,UER-TH,UER-TH VII,Toxic Metals,Poor,4.41
+Geminate,74IL-O,UER-TH,UER-TH VII,Industrial Fibers,Medium,8.06
+Geminate,74IL-O,UER-TH,UER-TH VIII,Lustering Alloy,Medium,29.57
+Geminate,74IL-O,UER-TH,UER-TH VIII,Fiber Composite,Medium,32.37
+Geminate,74IL-O,UER-TH,UER-TH VIII,Base Metals,Rich,9.22
+Geminate,74IL-O,UER-TH,UER-TH VIII,Reactive Metals,Perfect,11.37
+Geminate,74IL-O,UER-TH,UER-TH VIII,Polyaramids,Medium,17.06
+Geminate,74IL-O,UER-TH,UER-TH VIII,Coolant,Rich,22.91
+Geminate,74IL-O,UER-TH,UER-TH IX,Lustering Alloy,Rich,42.15
+Geminate,74IL-O,UER-TH,UER-TH IX,Sheen Compound,Poor,23.49
+Geminate,74IL-O,UER-TH,UER-TH IX,Glossy Compound,Medium,25.92
+Geminate,74IL-O,UER-TH,UER-TH IX,Reactive Metals,Medium,6.71
+Geminate,74IL-O,UER-TH,UER-TH IX,Polyaramids,Medium,20.43
+Geminate,74IL-O,UER-TH,UER-TH IX,Ionic Solutions,Rich,16.24
+Geminate,74IL-O,UG-UWZ,UG-UWZ I,Precious Alloy,Medium,27.41
+Geminate,74IL-O,UG-UWZ,UG-UWZ I,Dark Compound,Poor,24.01
+Geminate,74IL-O,UG-UWZ,UG-UWZ I,Industrial Fibers,Medium,7.99
+Geminate,74IL-O,UG-UWZ,UG-UWZ I,Supertensile Plastics,Poor,15.74
+Geminate,74IL-O,UG-UWZ,UG-UWZ I,Construction Blocks,Medium,29.84
+Geminate,74IL-O,UG-UWZ,UG-UWZ II,Dark Compound,Medium,34.16
+Geminate,74IL-O,UG-UWZ,UG-UWZ II,Industrial Fibers,Medium,8.00
+Geminate,74IL-O,UG-UWZ,UG-UWZ II,Silicate Glass,Medium,17.05
+Geminate,74IL-O,UG-UWZ,UG-UWZ II,Oxygen Isotopes,Poor,2.84
+Geminate,74IL-O,UG-UWZ,UG-UWZ II,Plasmoids,Poor,1.40
+Geminate,74IL-O,UG-UWZ,UG-UWZ III,Precious Alloy,Poor,26.42
+Geminate,74IL-O,UG-UWZ,UG-UWZ III,Dark Compound,Poor,19.86
+Geminate,74IL-O,UG-UWZ,UG-UWZ III,Construction Blocks,Medium,30.80
+Geminate,74IL-O,UG-UWZ,UG-UWZ III,Silicate Glass,Poor,10.88
+Geminate,74IL-O,UG-UWZ,UG-UWZ III,Plasmoids,Poor,1.18
+Geminate,74IL-O,UG-UWZ,UG-UWZ IV,Lucent Compound,Rich,45.33
+Geminate,74IL-O,UG-UWZ,UG-UWZ IV,Crystal Compound,Rich,42.20
+Geminate,74IL-O,UG-UWZ,UG-UWZ IV,Toxic Metals,Perfect,12.37
+Geminate,74IL-O,UG-UWZ,UG-UWZ IV,Supertensile Plastics,Rich,27.84
+Geminate,74IL-O,UG-UWZ,UG-UWZ IV,Nanites,Medium,7.87
+Geminate,74IL-O,UG-UWZ,UG-UWZ V,Crystal Compound,Medium,34.42
+Geminate,74IL-O,UG-UWZ,UG-UWZ V,Toxic Metals,Rich,9.85
+Geminate,74IL-O,UG-UWZ,UG-UWZ V,Supertensile Plastics,Medium,19.64
+Geminate,74IL-O,UG-UWZ,UG-UWZ V,Nanites,Perfect,12.35
+Geminate,74IL-O,UG-UWZ,UG-UWZ V,Suspended Plasma,Rich,142.51
+Geminate,74IL-O,UG-UWZ,UG-UWZ VI,Dark Compound,Medium,28.59
+Geminate,74IL-O,UG-UWZ,UG-UWZ VI,Toxic Metals,Medium,8.07
+Geminate,74IL-O,UG-UWZ,UG-UWZ VI,Construction Blocks,Medium,28.83
+Geminate,74IL-O,UG-UWZ,UG-UWZ VI,Silicate Glass,Poor,10.90
+Geminate,74IL-O,UG-UWZ,UG-UWZ VI,Plasmoids,Poor,1.58
+Geminate,74IL-O,UG-UWZ,UG-UWZ VII,Lustering Alloy,Medium,28.19
+Geminate,74IL-O,UG-UWZ,UG-UWZ VII,Fiber Composite,Poor,27.29
+Geminate,74IL-O,UG-UWZ,UG-UWZ VII,Glossy Compound,Medium,29.38
+Geminate,74IL-O,UG-UWZ,UG-UWZ VII,Reactive Gas,Medium,28.36
+Geminate,74IL-O,UG-UWZ,UG-UWZ VII,Reactive Metals,Rich,11.11
+Geminate,74IL-O,UG-UWZ,UG-UWZ VII,Coolant,Poor,17.25

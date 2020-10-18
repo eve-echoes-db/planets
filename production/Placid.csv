@@ -1,0 +1,1892 @@
+Region,Constellation,System,Name,Item,Rate,Output
+Placid,Viriette,Agoze,Agoze I,Noble Gas,Rich,27.32
+Placid,Viriette,Agoze,Agoze I,Plasmoids,Medium,1.13
+Placid,Viriette,Agoze,Agoze II,Precious Alloy,Medium,19.26
+Placid,Viriette,Agoze,Agoze II,Industrial Fibers,Poor,3.03
+Placid,Viriette,Agoze,Agoze II,Silicate Glass,Poor,8.02
+Placid,Viriette,Agoze,Agoze III,Glossy Compound,Rich,24.59
+Placid,Viriette,Agoze,Agoze III,Noble Gas,Medium,21.11
+Placid,Viriette,Agoze,Agoze IV,Gleaming Alloy,Rich,26.77
+Placid,Viriette,Agoze,Agoze IV,Crystal Compound,Medium,21.13
+Placid,Viriette,Agoze,Agoze IV,Construction Blocks,Poor,16.51
+Placid,Viriette,Agoze,Agoze V,Opulent Compound,Medium,21.94
+Placid,Viriette,Agoze,Agoze V,Polyaramids,Medium,13.38
+Placid,Viriette,Agoze,Agoze V,Coolant,Rich,15.29
+Placid,Viriette,Agoze,Agoze V,Heavy Water,Poor,163.62
+Placid,Viriette,Agoze,Agoze VI,Dark Compound,Poor,15.53
+Placid,Viriette,Agoze,Agoze VI,Base Metals,Poor,3.13
+Placid,Viriette,Agoze,Agoze VI,Industrial Fibers,Medium,4.78
+Placid,Viriette,Agoze,Agoze VII,Dark Compound,Poor,15.39
+Placid,Viriette,Agoze,Agoze VII,Industrial Fibers,Poor,4.00
+Placid,Viriette,Agoze,Agoze VII,Supertensile Plastics,Poor,11.22
+Placid,Viriette,Agoze,Agoze VIII,Precious Alloy,Medium,17.69
+Placid,Viriette,Agoze,Agoze VIII,Industrial Fibers,Medium,5.31
+Placid,Viriette,Agoze,Agoze VIII,Supertensile Plastics,Medium,13.74
+Placid,Viriette,Agoze,Agoze IX,Lustering Alloy,Rich,26.12
+Placid,Viriette,Agoze,Agoze IX,Fiber Composite,Rich,23.29
+Placid,Viriette,Agoze,Agoze IX,Noble Gas,Poor,15.44
+Placid,Viriette,Agoze,Agoze IX,Coolant,Poor,10.45
+Placid,Viriette,Agoze,Agoze X,Sheen Compound,Rich,28.31
+Placid,Viriette,Agoze,Agoze X,Noble Gas,Medium,19.58
+Placid,Viriette,Agoze,Agoze X,Base Metals,Medium,5.28
+Placid,Viriette,Agoze,Agoze X,Coolant,Medium,15.05
+Placid,Viriette,Agoze,Agoze XI,Industrial Fibers,Poor,4.23
+Placid,Viriette,Agoze,Agoze XI,Oxygen Isotopes,Poor,1.67
+Placid,Viriette,Agoze,Agoze XI,Plasmoids,Medium,1.03
+Placid,Viriette,Agoze,Agoze XII,Precious Alloy,Medium,18.36
+Placid,Viriette,Agoze,Agoze XII,Supertensile Plastics,Medium,14.69
+Placid,Viriette,Agoze,Agoze XII,Coolant,Medium,13.87
+Placid,Viriette,Intaki,Intaki I,Lustering Alloy,Poor,17.77
+Placid,Viriette,Intaki,Intaki I,Toxic Metals,Medium,5.37
+Placid,Viriette,Intaki,Intaki I,Industrial Fibers,Poor,4.49
+Placid,Viriette,Intaki,Intaki II,Glossy Compound,Rich,29.34
+Placid,Viriette,Intaki,Intaki II,Noble Gas,Rich,25.80
+Placid,Viriette,Intaki,Intaki III,Lustering Alloy,Poor,17.40
+Placid,Viriette,Intaki,Intaki III,Toxic Metals,Poor,3.68
+Placid,Viriette,Intaki,Intaki III,Industrial Fibers,Poor,4.20
+Placid,Viriette,Intaki,Intaki IV,Opulent Compound,Perfect,32.02
+Placid,Viriette,Intaki,Intaki IV,Toxic Metals,Medium,5.59
+Placid,Viriette,Intaki,Intaki IV,Coolant,Perfect,21.93
+Placid,Viriette,Intaki,Intaki IV,Heavy Water,Rich,285.38
+Placid,Viriette,Intaki,Intaki V,Fiber Composite,Perfect,34.83
+Placid,Viriette,Intaki,Intaki V,Base Metals,Perfect,8.44
+Placid,Viriette,Intaki,Intaki V,Industrial Fibers,Perfect,9.35
+Placid,Viriette,Intaki,Intaki V,Smartfab Units,Medium,15.55
+Placid,Viriette,Intaki,Intaki VI,Fiber Composite,Rich,25.65
+Placid,Viriette,Intaki,Intaki VI,Noble Gas,Medium,23.29
+Placid,Viriette,Intaki,Intaki VI,Base Metals,Rich,6.52
+Placid,Viriette,Intaki,Intaki VI,Polyaramids,Rich,19.09
+Placid,Viriette,Intaki,Intaki VII,Crystal Compound,Medium,20.73
+Placid,Viriette,Intaki,Intaki VII,Toxic Metals,Medium,5.51
+Placid,Viriette,Intaki,Intaki VII,Polyaramids,Perfect,22.38
+Placid,Viriette,Intaki,Intaki VII,Coolant,Medium,12.51
+Placid,Viriette,Brarel,Brarel I,Lustering Alloy,Poor,16.30
+Placid,Viriette,Brarel,Brarel I,Precious Alloy,Poor,14.10
+Placid,Viriette,Brarel,Brarel I,Base Metals,Medium,5.18
+Placid,Viriette,Brarel,Brarel I,Supertensile Plastics,Poor,9.39
+Placid,Viriette,Brarel,Brarel II,Condensed Alloy,Rich,26.56
+Placid,Viriette,Brarel,Brarel II,Fiber Composite,Medium,21.34
+Placid,Viriette,Brarel,Brarel II,Reactive Gas,Medium,23.52
+Placid,Viriette,Brarel,Brarel II,Noble Metals,Rich,28.46
+Placid,Viriette,Brarel,Brarel II,Liquid Ozone,Rich,38.88
+Placid,Viriette,Brarel,Brarel III,Dark Compound,Medium,23.46
+Placid,Viriette,Brarel,Brarel III,Industrial Fibers,Poor,4.57
+Placid,Viriette,Brarel,Brarel III,Supertensile Plastics,Poor,9.23
+Placid,Viriette,Brarel,Brarel III,Plasmoids,Poor,1.00
+Placid,Viriette,Brarel,Brarel IV,Sheen Compound,Medium,22.54
+Placid,Viriette,Brarel,Brarel IV,Reactive Gas,Medium,23.02
+Placid,Viriette,Brarel,Brarel IV,Noble Gas,Rich,27.12
+Placid,Viriette,Brarel,Brarel IV,Reactive Metals,Medium,5.17
+Placid,Viriette,Brarel,Brarel IV,Ionic Solutions,Rich,11.40
+Placid,Viriette,Brarel,Brarel V,Glossy Compound,Medium,21.28
+Placid,Viriette,Brarel,Brarel V,Reactive Gas,Medium,24.06
+Placid,Viriette,Brarel,Brarel V,Noble Gas,Rich,26.96
+Placid,Viriette,Brarel,Brarel V,Base Metals,Perfect,8.58
+Placid,Viriette,Brarel,Brarel V,Coolant,Medium,16.00
+Placid,Viriette,Vey,Vey I,Base Metals,Poor,3.40
+Placid,Viriette,Vey,Vey I,Industrial Fibers,Medium,4.85
+Placid,Viriette,Vey,Vey I,Supertensile Plastics,Medium,12.55
+Placid,Viriette,Vey,Vey II,Fiber Composite,Rich,29.87
+Placid,Viriette,Vey,Vey II,Reactive Gas,Medium,20.65
+Placid,Viriette,Vey,Vey II,Condensates,Medium,12.27
+Placid,Viriette,Vey,Vey II,Smartfab Units,Medium,12.46
+Placid,Viriette,Vey,Vey III,Toxic Metals,Poor,3.43
+Placid,Viriette,Vey,Vey III,Industrial Fibers,Poor,3.65
+Placid,Viriette,Vey,Vey III,Construction Blocks,Poor,14.42
+Placid,Viriette,Vey,Vey IV,Lustering Alloy,Rich,24.93
+Placid,Viriette,Vey,Vey IV,Glossy Compound,Medium,23.86
+Placid,Viriette,Vey,Vey IV,Noble Gas,Poor,17.39
+Placid,Viriette,Vey,Vey IV,Coolant,Rich,16.62
+Placid,Viriette,Vey,Vey V,Lustering Alloy,Poor,16.51
+Placid,Viriette,Vey,Vey V,Sheen Compound,Medium,23.12
+Placid,Viriette,Vey,Vey V,Noble Gas,Perfect,30.48
+Placid,Viriette,Vey,Vey V,Reactive Metals,Rich,7.39
+Placid,Viriette,Vey,Vey VI,Fiber Composite,Poor,16.89
+Placid,Viriette,Vey,Vey VI,Glossy Compound,Perfect,30.57
+Placid,Viriette,Vey,Vey VI,Noble Gas,Poor,16.89
+Placid,Viriette,Vey,Vey VI,Reactive Metals,Poor,4.14
+Placid,Viriette,Vey,Vey VII,Glossy Compound,Poor,16.70
+Placid,Viriette,Vey,Vey VII,Noble Gas,Medium,20.98
+Placid,Viriette,Vey,Vey VII,Reactive Metals,Rich,7.14
+Placid,Viriette,Vey,Vey VII,Ionic Solutions,Rich,11.60
+Placid,Viriette,Vey,Vey VIII,Lustering Alloy,Medium,21.51
+Placid,Viriette,Vey,Vey VIII,Glossy Compound,Medium,21.70
+Placid,Viriette,Vey,Vey VIII,Noble Gas,Medium,23.98
+Placid,Viriette,Vey,Vey VIII,Base Metals,Poor,4.61
+Placid,Viriette,Vey,Vey IX,Precious Alloy,Medium,19.84
+Placid,Viriette,Vey,Vey IX,Industrial Fibers,Poor,3.50
+Placid,Viriette,Vey,Vey IX,Supertensile Plastics,Medium,12.72
+Placid,Viriette,Annancale,Annancale I,Gleaming Alloy,Medium,22.18
+Placid,Viriette,Annancale,Annancale I,Polyaramids,Medium,14.79
+Placid,Viriette,Annancale,Annancale I,Plasmoids,Rich,1.89
+Placid,Viriette,Annancale,Annancale II,Gleaming Alloy,Perfect,31.84
+Placid,Viriette,Annancale,Annancale II,Reactive Gas,Rich,26.90
+Placid,Viriette,Annancale,Annancale II,Reactive Metals,Rich,7.62
+Placid,Viriette,Annancale,Annancale II,Construction Blocks,Medium,21.04
+Placid,Viriette,Annancale,Annancale III,Glossy Compound,Medium,23.68
+Placid,Viriette,Annancale,Annancale III,Reactive Gas,Poor,18.64
+Placid,Viriette,Annancale,Annancale III,Noble Gas,Medium,18.94
+Placid,Viriette,Annancale,Annancale III,Reactive Metals,Rich,7.38
+Placid,Viriette,Annancale,Annancale III,Coolant,Rich,20.12
+Placid,Viriette,Annancale,Annancale IV,Glossy Compound,Medium,24.60
+Placid,Viriette,Annancale,Annancale IV,Reactive Gas,Poor,18.76
+Placid,Viriette,Annancale,Annancale IV,Reactive Metals,Perfect,8.44
+Placid,Viriette,Annancale,Annancale IV,Coolant,Medium,16.44
+Placid,Viriette,Annancale,Annancale IV,Ionic Solutions,Medium,10.07
+Placid,Viriette,Annancale,Annancale V,Sheen Compound,Poor,17.32
+Placid,Viriette,Annancale,Annancale V,Glossy Compound,Medium,23.22
+Placid,Viriette,Annancale,Annancale V,Reactive Gas,Medium,23.06
+Placid,Viriette,Annancale,Annancale V,Coolant,Rich,18.79
+Placid,Viriette,Annancale,Annancale V,Ionic Solutions,Medium,8.74
+Placid,Viriette,Annancale,Annancale VI,Lustering Alloy,Rich,31.50
+Placid,Viriette,Annancale,Annancale VI,Reactive Gas,Poor,16.46
+Placid,Viriette,Annancale,Annancale VI,Noble Gas,Poor,17.34
+Placid,Viriette,Annancale,Annancale VI,Base Metals,Perfect,8.41
+Placid,Viriette,Annancale,Annancale VI,Coolant,Poor,11.79
+Placid,Viriette,Annancale,Annancale VII,Opulent Compound,Medium,19.42
+Placid,Viriette,Annancale,Annancale VII,Noble Metals,Rich,29.96
+Placid,Viriette,Annancale,Annancale VII,Polyaramids,Perfect,21.65
+Placid,Viriette,Annancale,Annancale VII,Heavy Water,Medium,204.80
+Placid,Viriette,Annancale,Annancale VII,Liquid Ozone,Medium,25.65
+Placid,Viriette,Ostingele,Ostingele I,Industrial Fibers,Poor,4.50
+Placid,Viriette,Ostingele,Ostingele I,Supertensile Plastics,Poor,10.80
+Placid,Viriette,Ostingele,Ostingele I,Silicate Glass,Poor,8.15
+Placid,Viriette,Ostingele,Ostingele II,Industrial Fibers,Medium,5.00
+Placid,Viriette,Ostingele,Ostingele II,Oxygen Isotopes,Poor,2.29
+Placid,Viriette,Ostingele,Ostingele II,Plasmoids,Medium,1.23
+Placid,Viriette,Ostingele,Ostingele III,Reactive Metals,Rich,6.49
+Placid,Viriette,Ostingele,Ostingele III,Construction Blocks,Rich,28.20
+Placid,Viriette,Ostingele,Ostingele III,Suspended Plasma,Medium,83.58
+Placid,Viriette,Ostingele,Ostingele IV,Base Metals,Poor,4.66
+Placid,Viriette,Ostingele,Ostingele IV,Industrial Fibers,Poor,4.65
+Placid,Viriette,Ostingele,Ostingele IV,Supertensile Plastics,Poor,9.94
+Placid,Viriette,Ostingele,Ostingele V,Condensed Alloy,Medium,19.19
+Placid,Viriette,Ostingele,Ostingele V,Noble Metals,Medium,21.58
+Placid,Viriette,Ostingele,Ostingele V,Toxic Metals,Perfect,8.42
+Placid,Viriette,Ostingele,Ostingele V,Coolant,Perfect,22.15
+Placid,Viriette,Ostingele,Ostingele VI,Reactive Gas,Rich,29.20
+Placid,Viriette,Ostingele,Ostingele VI,Noble Gas,Medium,21.38
+Placid,Viriette,Ostingele,Ostingele VI,Base Metals,Poor,4.10
+Placid,Viriette,Ostingele,Ostingele VI,Polyaramids,Rich,17.70
+Placid,Viriette,Ostingele,Ostingele VII,Fiber Composite,Rich,24.36
+Placid,Viriette,Ostingele,Ostingele VII,Opulent Compound,Rich,26.45
+Placid,Viriette,Ostingele,Ostingele VII,Base Metals,Perfect,8.81
+Placid,Viriette,Ostingele,Ostingele VII,Noble Metals,Medium,20.41
+Placid,Viriette,Ostingele,Ostingele VIII,Fiber Composite,Poor,17.86
+Placid,Viriette,Ostingele,Ostingele VIII,Reactive Gas,Rich,25.80
+Placid,Viriette,Ostingele,Ostingele VIII,Noble Gas,Medium,18.41
+Placid,Viriette,Ostingele,Ostingele VIII,Polyaramids,Rich,17.83
+Placid,Viriette,Harroule,Harroule I,Lustering Alloy,Medium,19.94
+Placid,Viriette,Harroule,Harroule I,Supertensile Plastics,Poor,11.72
+Placid,Viriette,Harroule,Harroule I,Silicate Glass,Poor,7.74
+Placid,Viriette,Harroule,Harroule I,Oxygen Isotopes,Poor,2.71
+Placid,Viriette,Harroule,Harroule II,Dark Compound,Medium,20.44
+Placid,Viriette,Harroule,Harroule II,Reactive Metals,Medium,4.98
+Placid,Viriette,Harroule,Harroule II,Condensates,Rich,18.00
+Placid,Viriette,Harroule,Harroule II,Suspended Plasma,Poor,67.54
+Placid,Viriette,Harroule,Harroule II,Ionic Solutions,Medium,8.30
+Placid,Viriette,Harroule,Harroule III,Gleaming Alloy,Poor,18.02
+Placid,Viriette,Harroule,Harroule III,Heavy Metals,Medium,24.54
+Placid,Viriette,Harroule,Harroule III,Polyaramids,Rich,17.28
+Placid,Viriette,Harroule,Harroule IV,Fiber Composite,Medium,23.54
+Placid,Viriette,Harroule,Harroule IV,Base Metals,Perfect,9.12
+Placid,Viriette,Harroule,Harroule IV,Noble Metals,Poor,18.52
+Placid,Viriette,Harroule,Harroule IV,Smartfab Units,Rich,18.71
+Placid,Viriette,Harroule,Harroule IV,Liquid Ozone,Perfect,46.33
+Placid,Viriette,Harroule,Harroule V,Precious Alloy,Poor,12.64
+Placid,Viriette,Harroule,Harroule V,Supertensile Plastics,Poor,10.65
+Placid,Viriette,Harroule,Harroule V,Silicate Glass,Medium,10.71
+Placid,Viriette,Harroule,Harroule V,Plasmoids,Medium,1.22
+Placid,Viriette,Harroule,Harroule VI,Lustering Alloy,Medium,20.46
+Placid,Viriette,Harroule,Harroule VI,Sheen Compound,Medium,24.00
+Placid,Viriette,Harroule,Harroule VI,Reactive Gas,Perfect,32.82
+Placid,Viriette,Harroule,Harroule VI,Base Metals,Poor,4.81
+Placid,Viriette,Harroule,Harroule VI,Ionic Solutions,Poor,7.20
+Placid,Viriette,Harroule,Harroule VII,Lustering Alloy,Medium,20.50
+Placid,Viriette,Harroule,Harroule VII,Reactive Gas,Perfect,33.14
+Placid,Viriette,Harroule,Harroule VII,Noble Gas,Rich,30.42
+Placid,Viriette,Harroule,Harroule VII,Polyaramids,Perfect,21.95
+Placid,Viriette,Harroule,Harroule VII,Ionic Solutions,Rich,10.46
+Placid,Viriette,Harroule,Harroule VIII,Lustering Alloy,Rich,25.58
+Placid,Viriette,Harroule,Harroule VIII,Sheen Compound,Poor,16.86
+Placid,Viriette,Harroule,Harroule VIII,Glossy Compound,Medium,25.14
+Placid,Viriette,Harroule,Harroule VIII,Reactive Gas,Poor,17.34
+Placid,Viriette,Harroule,Harroule VIII,Coolant,Medium,13.48
+Placid,Viriette,Harroule,Harroule IX,Lustering Alloy,Medium,22.06
+Placid,Viriette,Harroule,Harroule IX,Fiber Composite,Medium,19.68
+Placid,Viriette,Harroule,Harroule IX,Reactive Gas,Rich,27.10
+Placid,Viriette,Harroule,Harroule IX,Reactive Metals,Medium,5.42
+Placid,Viriette,Harroule,Harroule IX,Polyaramids,Poor,11.76
+Placid,Viriette,Harroule,Harroule X,Fiber Composite,Perfect,32.92
+Placid,Viriette,Harroule,Harroule X,Glossy Compound,Rich,26.82
+Placid,Viriette,Harroule,Harroule X,Reactive Gas,Rich,30.30
+Placid,Viriette,Harroule,Harroule X,Base Metals,Medium,6.37
+Placid,Viriette,Harroule,Harroule X,Reactive Metals,Rich,7.11
+Placid,Fislipesnes,Stacmon,Stacmon I,Reactive Gas,Rich,17.96
+Placid,Fislipesnes,Stacmon,Stacmon I,Suspended Plasma,Poor,42.34
+Placid,Fislipesnes,Stacmon,Stacmon II,Lustering Alloy,Medium,14.08
+Placid,Fislipesnes,Stacmon,Stacmon II,Base Metals,Medium,3.48
+Placid,Fislipesnes,Stacmon,Stacmon III,Lustering Alloy,Medium,14.55
+Placid,Fislipesnes,Stacmon,Stacmon III,Base Metals,Medium,3.68
+Placid,Fislipesnes,Stacmon,Stacmon IV,Gleaming Alloy,Medium,15.54
+Placid,Fislipesnes,Stacmon,Stacmon IV,Motley Compound,Medium,15.81
+Placid,Fislipesnes,Stacmon,Stacmon V,Lustering Alloy,Rich,18.55
+Placid,Fislipesnes,Stacmon,Stacmon V,Sheen Compound,Rich,21.49
+Placid,Fislipesnes,Stacmon,Stacmon V,Base Metals,Medium,4.57
+Placid,Fislipesnes,Stacmon,Stacmon VI,Lustering Alloy,Rich,19.22
+Placid,Fislipesnes,Stacmon,Stacmon VI,Sheen Compound,Medium,17.67
+Placid,Fislipesnes,Stacmon,Stacmon VI,Base Metals,Medium,4.05
+Placid,Fislipesnes,Stacmon,Stacmon VII,Lustering Alloy,Medium,16.72
+Placid,Fislipesnes,Stacmon,Stacmon VII,Base Metals,Medium,3.85
+Placid,Fislipesnes,Stacmon,Stacmon VII,Polyaramids,Medium,10.89
+Placid,Fislipesnes,Stacmon,Stacmon VIII,Lustering Alloy,Medium,17.30
+Placid,Fislipesnes,Stacmon,Stacmon VIII,Base Metals,Poor,3.45
+Placid,Fislipesnes,Stacmon,Stacmon VIII,Coolant,Medium,10.20
+Placid,Fislipesnes,Stacmon,Stacmon IX,Lustering Alloy,Rich,22.09
+Placid,Fislipesnes,Stacmon,Stacmon IX,Base Metals,Rich,5.49
+Placid,Fislipesnes,Stacmon,Stacmon IX,Ionic Solutions,Poor,4.93
+Placid,Fislipesnes,Stacmon,Stacmon X,Lustering Alloy,Medium,15.18
+Placid,Fislipesnes,Stacmon,Stacmon X,Base Metals,Medium,4.06
+Placid,Fislipesnes,Covryn,Covryn I,Noble Gas,Medium,16.54
+Placid,Fislipesnes,Covryn,Covryn I,Construction Blocks,Perfect,28.63
+Placid,Fislipesnes,Covryn,Covryn II,Precious Alloy,Poor,13.80
+Placid,Fislipesnes,Covryn,Covryn II,Dark Compound,Medium,17.19
+Placid,Fislipesnes,Covryn,Covryn II,Industrial Fibers,Medium,4.45
+Placid,Fislipesnes,Covryn,Covryn III,Toxic Metals,Medium,4.23
+Placid,Fislipesnes,Covryn,Covryn III,Supertensile Plastics,Medium,13.78
+Placid,Fislipesnes,Covryn,Covryn III,Construction Blocks,Rich,21.54
+Placid,Fislipesnes,Covryn,Covryn IV,Lustering Alloy,Poor,14.54
+Placid,Fislipesnes,Covryn,Covryn IV,Fiber Composite,Medium,18.33
+Placid,Fislipesnes,Covryn,Covryn IV,Reactive Gas,Rich,24.12
+Placid,Fislipesnes,Covryn,Covryn IV,Noble Gas,Rich,24.58
+Placid,Fislipesnes,Covryn,Covryn V,Lustering Alloy,Poor,13.01
+Placid,Fislipesnes,Covryn,Covryn V,Toxic Metals,Medium,4.98
+Placid,Fislipesnes,Covryn,Covryn V,Industrial Fibers,Poor,4.12
+Placid,Fislipesnes,Covryn,Covryn VI,Glossy Compound,Perfect,27.74
+Placid,Fislipesnes,Covryn,Covryn VI,Reactive Gas,Perfect,27.76
+Placid,Fislipesnes,Covryn,Covryn VI,Noble Gas,Perfect,27.61
+Placid,Fislipesnes,Covryn,Covryn VI,Ionic Solutions,Medium,7.32
+Placid,Fislipesnes,Covryn,Covryn VII,Lustering Alloy,Rich,21.74
+Placid,Fislipesnes,Covryn,Covryn VII,Coolant,Medium,11.64
+Placid,Fislipesnes,Covryn,Covryn VII,Condensates,Rich,14.97
+Placid,Fislipesnes,Iges,Iges I,Base Metals,Poor,3.96
+Placid,Fislipesnes,Iges,Iges I,Industrial Fibers,Poor,3.71
+Placid,Fislipesnes,Iges,Iges I,Oxygen Isotopes,Medium,2.96
+Placid,Fislipesnes,Iges,Iges II,Toxic Metals,Medium,5.20
+Placid,Fislipesnes,Iges,Iges II,Industrial Fibers,Poor,4.07
+Placid,Fislipesnes,Iges,Iges II,Supertensile Plastics,Poor,10.47
+Placid,Fislipesnes,Iges,Iges III,Precious Alloy,Medium,19.74
+Placid,Fislipesnes,Iges,Iges III,Industrial Fibers,Poor,3.03
+Placid,Fislipesnes,Iges,Iges III,Plasmoids,Poor,0.74
+Placid,Fislipesnes,Iges,Iges IV,Base Metals,Poor,4.20
+Placid,Fislipesnes,Iges,Iges IV,Industrial Fibers,Poor,3.02
+Placid,Fislipesnes,Iges,Iges IV,Supertensile Plastics,Medium,13.16
+Placid,Fislipesnes,Iges,Iges V,Reactive Metals,Rich,6.66
+Placid,Fislipesnes,Iges,Iges V,Construction Blocks,Poor,15.86
+Placid,Fislipesnes,Iges,Iges V,Nanites,Rich,6.14
+Placid,Fislipesnes,Iges,Iges VI,Reactive Gas,Medium,18.82
+Placid,Fislipesnes,Iges,Iges VI,Noble Gas,Perfect,27.23
+Placid,Fislipesnes,Iges,Iges VI,Polyaramids,Poor,9.86
+Placid,Fislipesnes,Iges,Iges VI,Ionic Solutions,Medium,7.72
+Placid,Fislipesnes,Iges,Iges VII,Condensed Alloy,Rich,22.68
+Placid,Fislipesnes,Iges,Iges VII,Fiber Composite,Perfect,27.13
+Placid,Fislipesnes,Iges,Iges VII,Opulent Compound,Rich,23.44
+Placid,Fislipesnes,Iges,Iges VII,Condensates,Medium,14.22
+Placid,Fislipesnes,Iges,Iges VIII,Lustering Alloy,Medium,20.38
+Placid,Fislipesnes,Iges,Iges VIII,Noble Gas,Medium,17.09
+Placid,Fislipesnes,Iges,Iges VIII,Reactive Metals,Rich,5.93
+Placid,Fislipesnes,Iges,Iges VIII,Coolant,Poor,9.75
+Placid,Fislipesnes,Dastryns,Dastryns I,Industrial Fibers,Poor,3.04
+Placid,Fislipesnes,Dastryns,Dastryns I,Silicate Glass,Poor,5.95
+Placid,Fislipesnes,Dastryns,Dastryns I,Oxygen Isotopes,Poor,2.18
+Placid,Fislipesnes,Dastryns,Dastryns II,Noble Gas,Rich,22.88
+Placid,Fislipesnes,Dastryns,Dastryns II,Polyaramids,Medium,11.42
+Placid,Fislipesnes,Dastryns,Dastryns III,Gleaming Alloy,Medium,21.60
+Placid,Fislipesnes,Dastryns,Dastryns III,Toxic Metals,Medium,4.87
+Placid,Fislipesnes,Dastryns,Dastryns III,Construction Blocks,Perfect,29.03
+Placid,Fislipesnes,Dastryns,Dastryns IV,Crystal Compound,Rich,24.08
+Placid,Fislipesnes,Dastryns,Dastryns IV,Reactive Gas,Rich,26.42
+Placid,Fislipesnes,Dastryns,Dastryns IV,Construction Blocks,Medium,22.72
+Placid,Fislipesnes,Dastryns,Dastryns V,Lustering Alloy,Medium,17.17
+Placid,Fislipesnes,Dastryns,Dastryns V,Dark Compound,Poor,13.03
+Placid,Fislipesnes,Dastryns,Dastryns V,Industrial Fibers,Medium,5.72
+Placid,Fislipesnes,Dastryns,Dastryns VI,Reactive Metals,Rich,6.81
+Placid,Fislipesnes,Dastryns,Dastryns VI,Supertensile Plastics,Rich,18.79
+Placid,Fislipesnes,Dastryns,Dastryns VI,Construction Blocks,Medium,18.09
+Placid,Fislipesnes,Dastryns,Dastryns VII,Sheen Compound,Medium,21.67
+Placid,Fislipesnes,Dastryns,Dastryns VII,Reactive Gas,Medium,19.51
+Placid,Fislipesnes,Dastryns,Dastryns VII,Noble Gas,Perfect,29.27
+Placid,Fislipesnes,Dastryns,Dastryns VII,Reactive Metals,Poor,4.22
+Placid,Fislipesnes,Dastryns,Dastryns VIII,Sheen Compound,Rich,25.40
+Placid,Fislipesnes,Dastryns,Dastryns VIII,Reactive Gas,Medium,20.38
+Placid,Fislipesnes,Dastryns,Dastryns VIII,Noble Gas,Rich,27.02
+Placid,Fislipesnes,Dastryns,Dastryns VIII,Coolant,Poor,9.90
+Placid,Fislipesnes,Dastryns,Dastryns IX,Dark Compound,Medium,20.70
+Placid,Fislipesnes,Dastryns,Dastryns IX,Industrial Fibers,Poor,4.30
+Placid,Fislipesnes,Dastryns,Dastryns IX,Construction Blocks,Poor,15.86
+Placid,Fislipesnes,Dastryns,Dastryns X,Sheen Compound,Rich,25.92
+Placid,Fislipesnes,Dastryns,Dastryns X,Noble Gas,Medium,21.35
+Placid,Fislipesnes,Dastryns,Dastryns X,Base Metals,Medium,5.47
+Placid,Fislipesnes,Dastryns,Dastryns X,Coolant,Medium,13.99
+Placid,Fislipesnes,Slays,Slays I,Dark Compound,Poor,13.12
+Placid,Fislipesnes,Slays,Slays I,Base Metals,Poor,3.39
+Placid,Fislipesnes,Slays,Slays I,Industrial Fibers,Medium,4.02
+Placid,Fislipesnes,Slays,Slays II,Noble Gas,Medium,18.86
+Placid,Fislipesnes,Slays,Slays II,Oxygen Isotopes,Rich,3.44
+Placid,Fislipesnes,Slays,Slays III,Precious Alloy,Medium,15.22
+Placid,Fislipesnes,Slays,Slays III,Industrial Fibers,Medium,4.73
+Placid,Fislipesnes,Slays,Slays III,Supertensile Plastics,Medium,10.37
+Placid,Fislipesnes,Slays,Slays IV,Reactive Gas,Rich,24.22
+Placid,Fislipesnes,Slays,Slays IV,Construction Blocks,Rich,22.82
+Placid,Fislipesnes,Slays,Slays IV,Suspended Plasma,Medium,55.01
+Placid,Fislipesnes,Slays,Slays V,Dark Compound,Medium,15.31
+Placid,Fislipesnes,Slays,Slays V,Industrial Fibers,Medium,4.83
+Placid,Fislipesnes,Slays,Slays V,Silicate Glass,Medium,8.93
+Placid,Fislipesnes,Slays,Slays VI,Lustering Alloy,Rich,20.75
+Placid,Fislipesnes,Slays,Slays VI,Fiber Composite,Medium,18.67
+Placid,Fislipesnes,Slays,Slays VI,Noble Gas,Rich,24.43
+Placid,Fislipesnes,Slays,Slays VI,Polyaramids,Rich,16.91
+Placid,Fislipesnes,Slays,Slays VII,Lustering Alloy,Rich,22.48
+Placid,Fislipesnes,Slays,Slays VII,Supertensile Plastics,Poor,7.98
+Placid,Fislipesnes,Slays,Slays VII,Coolant,Medium,11.95
+Placid,Fislipesnes,Slays,Slays VIII,Lustering Alloy,Rich,22.77
+Placid,Fislipesnes,Slays,Slays VIII,Coolant,Poor,9.88
+Placid,Fislipesnes,Slays,Slays VIII,Liquid Ozone,Poor,14.56
+Placid,Fislipesnes,Uphallant,Uphallant I,Noble Gas,Perfect,28.60
+Placid,Fislipesnes,Uphallant,Uphallant I,Noble Metals,Poor,16.52
+Placid,Fislipesnes,Uphallant,Uphallant II,Reactive Gas,Rich,27.13
+Placid,Fislipesnes,Uphallant,Uphallant II,Toxic Metals,Poor,4.19
+Placid,Fislipesnes,Uphallant,Uphallant II,Construction Blocks,Poor,15.61
+Placid,Fislipesnes,Uphallant,Uphallant III,Sheen Compound,Rich,23.06
+Placid,Fislipesnes,Uphallant,Uphallant III,Fiber Composite,Rich,25.85
+Placid,Fislipesnes,Uphallant,Uphallant III,Noble Gas,Perfect,29.65
+Placid,Fislipesnes,Uphallant,Uphallant III,Reactive Metals,Perfect,7.56
+Placid,Fislipesnes,Uphallant,Uphallant IV,Reactive Metals,Medium,4.66
+Placid,Fislipesnes,Uphallant,Uphallant IV,Toxic Metals,Medium,4.56
+Placid,Fislipesnes,Uphallant,Uphallant IV,Construction Blocks,Rich,25.16
+Placid,Fislipesnes,Uphallant,Uphallant V,Fiber Composite,Poor,15.62
+Placid,Fislipesnes,Uphallant,Uphallant V,Noble Gas,Medium,21.74
+Placid,Fislipesnes,Uphallant,Uphallant V,Coolant,Poor,10.81
+Placid,Fislipesnes,Uphallant,Uphallant V,Ionic Solutions,Medium,8.70
+Placid,Fislipesnes,Uphallant,Uphallant VI,Noble Gas,Rich,27.99
+Placid,Fislipesnes,Uphallant,Uphallant VI,Smartfab Units,Medium,12.85
+Placid,Fislipesnes,Uphallant,Uphallant VII,Precious Alloy,Medium,18.05
+Placid,Fislipesnes,Uphallant,Uphallant VII,Dark Compound,Medium,21.17
+Placid,Fislipesnes,Uphallant,Uphallant VII,Industrial Fibers,Poor,3.77
+Placid,Fislipesnes,Uphallant,Uphallant VIII,Base Metals,Poor,3.12
+Placid,Fislipesnes,Uphallant,Uphallant VIII,Industrial Fibers,Poor,3.49
+Placid,Fislipesnes,Uphallant,Uphallant VIII,Plasmoids,Medium,1.05
+Placid,Alselbosier,Alperaute,Alperaute I,Dark Compound,Poor,15.62
+Placid,Alselbosier,Alperaute,Alperaute I,Industrial Fibers,Medium,5.51
+Placid,Alselbosier,Alperaute,Alperaute I,Oxygen Isotopes,Poor,2.08
+Placid,Alselbosier,Alperaute,Alperaute II,Dark Compound,Poor,14.11
+Placid,Alselbosier,Alperaute,Alperaute II,Toxic Metals,Poor,2.97
+Placid,Alselbosier,Alperaute,Alperaute II,Industrial Fibers,Poor,3.26
+Placid,Alselbosier,Alperaute,Alperaute III,Base Metals,Poor,3.33
+Placid,Alselbosier,Alperaute,Alperaute III,Industrial Fibers,Poor,3.64
+Placid,Alselbosier,Alperaute,Alperaute III,Silicate Glass,Poor,5.96
+Placid,Alselbosier,Alperaute,Alperaute IV,Noble Gas,Medium,17.87
+Placid,Alselbosier,Alperaute,Alperaute IV,Base Metals,Perfect,7.74
+Placid,Alselbosier,Alperaute,Alperaute IV,Polyaramids,Medium,12.74
+Placid,Alselbosier,Alperaute,Alperaute IV,Coolant,Medium,12.08
+Placid,Alselbosier,Alperaute,Alperaute V,Fiber Composite,Medium,17.78
+Placid,Alselbosier,Alperaute,Alperaute V,Noble Gas,Medium,20.83
+Placid,Alselbosier,Alperaute,Alperaute V,Reactive Metals,Perfect,7.56
+Placid,Alselbosier,Alperaute,Alperaute V,Polyaramids,Medium,13.37
+Placid,Alselbosier,Alperaute,Alperaute VI,Precious Alloy,Poor,15.28
+Placid,Alselbosier,Alperaute,Alperaute VI,Industrial Fibers,Poor,4.13
+Placid,Alselbosier,Alperaute,Alperaute VI,Silicate Glass,Medium,9.49
+Placid,Alselbosier,Alperaute,Alperaute VII,Reactive Gas,Rich,24.39
+Placid,Alselbosier,Alperaute,Alperaute VII,Noble Gas,Medium,20.29
+Placid,Alselbosier,Alperaute,Alperaute VII,Base Metals,Rich,6.84
+Placid,Alselbosier,Alperaute,Alperaute VII,Polyaramids,Medium,12.53
+Placid,Alselbosier,Aunsou,Aunsou I,Base Metals,Medium,5.34
+Placid,Alselbosier,Aunsou,Aunsou I,Industrial Fibers,Medium,5.69
+Placid,Alselbosier,Aunsou,Aunsou I,Oxygen Isotopes,Poor,2.14
+Placid,Alselbosier,Aunsou,Aunsou II,Noble Gas,Medium,18.60
+Placid,Alselbosier,Aunsou,Aunsou II,Noble Metals,Rich,27.47
+Placid,Alselbosier,Aunsou,Aunsou III,Lustering Alloy,Rich,30.11
+Placid,Alselbosier,Aunsou,Aunsou III,Reactive Gas,Rich,24.23
+Placid,Alselbosier,Aunsou,Aunsou III,Noble Gas,Rich,28.39
+Placid,Alselbosier,Aunsou,Aunsou III,Coolant,Rich,19.35
+Placid,Alselbosier,Aunsou,Aunsou IV,Industrial Fibers,Medium,6.11
+Placid,Alselbosier,Aunsou,Aunsou IV,Supertensile Plastics,Poor,9.54
+Placid,Alselbosier,Aunsou,Aunsou IV,Plasmoids,Medium,1.30
+Placid,Alselbosier,Cumemare,Cumemare I,Noble Gas,Medium,23.64
+Placid,Alselbosier,Cumemare,Cumemare I,Plasmoids,Medium,1.24
+Placid,Alselbosier,Cumemare,Cumemare II,Toxic Metals,Medium,4.75
+Placid,Alselbosier,Cumemare,Cumemare II,Industrial Fibers,Poor,4.07
+Placid,Alselbosier,Cumemare,Cumemare II,Oxygen Isotopes,Poor,2.68
+Placid,Alselbosier,Cumemare,Cumemare III,Glossy Compound,Rich,27.78
+Placid,Alselbosier,Cumemare,Cumemare III,Noble Gas,Medium,20.14
+Placid,Alselbosier,Cumemare,Cumemare III,Base Metals,Rich,7.33
+Placid,Alselbosier,Cumemare,Cumemare III,Reactive Metals,Medium,5.80
+Placid,Alselbosier,Cumemare,Cumemare IV,Lustering Alloy,Rich,25.08
+Placid,Alselbosier,Cumemare,Cumemare IV,Sheen Compound,Rich,27.17
+Placid,Alselbosier,Cumemare,Cumemare IV,Reactive Gas,Medium,18.07
+Placid,Alselbosier,Cumemare,Cumemare IV,Noble Gas,Perfect,31.16
+Placid,Alselbosier,Reynire,Reynire I,Lucent Compound,Medium,20.96
+Placid,Alselbosier,Reynire,Reynire I,Dark Compound,Poor,17.39
+Placid,Alselbosier,Reynire,Reynire I,Reactive Metals,Rich,6.42
+Placid,Alselbosier,Reynire,Reynire I,Nanites,Medium,5.30
+Placid,Alselbosier,Reynire,Reynire II,Glossy Compound,Medium,21.13
+Placid,Alselbosier,Reynire,Reynire II,Noble Gas,Rich,27.49
+Placid,Alselbosier,Reynire,Reynire III,Toxic Metals,Medium,5.12
+Placid,Alselbosier,Reynire,Reynire III,Industrial Fibers,Medium,5.55
+Placid,Alselbosier,Reynire,Reynire III,Oxygen Isotopes,Poor,2.22
+Placid,Alselbosier,Reynire,Reynire IV,Industrial Fibers,Poor,3.52
+Placid,Alselbosier,Reynire,Reynire IV,Supertensile Plastics,Medium,12.81
+Placid,Alselbosier,Reynire,Reynire IV,Silicate Glass,Poor,7.48
+Placid,Alselbosier,Reynire,Reynire V,Base Metals,Poor,3.65
+Placid,Alselbosier,Reynire,Reynire V,Industrial Fibers,Medium,5.26
+Placid,Alselbosier,Reynire,Reynire V,Silicate Glass,Medium,9.14
+Placid,Alselbosier,Reynire,Reynire VI,Condensed Alloy,Rich,27.80
+Placid,Alselbosier,Reynire,Reynire VI,Fiber Composite,Perfect,32.95
+Placid,Alselbosier,Reynire,Reynire VI,Reactive Gas,Perfect,30.51
+Placid,Alselbosier,Reynire,Reynire VI,Noble Metals,Rich,28.44
+Placid,Alselbosier,Reynire,Reynire VII,Base Metals,Poor,3.19
+Placid,Alselbosier,Reynire,Reynire VII,Toxic Metals,Poor,4.22
+Placid,Alselbosier,Reynire,Reynire VII,Industrial Fibers,Poor,3.76
+Placid,Alselbosier,Reynire,Reynire VIII,Fiber Composite,Perfect,34.83
+Placid,Alselbosier,Reynire,Reynire VIII,Reactive Gas,Rich,30.13
+Placid,Alselbosier,Reynire,Reynire VIII,Noble Metals,Perfect,33.84
+Placid,Alselbosier,Reynire,Reynire VIII,Condensates,Perfect,21.01
+Placid,Alselbosier,Reynire,Reynire IX,Construction Blocks,Rich,25.35
+Placid,Alselbosier,Reynire,Reynire IX,Nanites,Poor,4.33
+Placid,Alselbosier,Reynire,Reynire IX,Oxygen Isotopes,Rich,3.84
+Placid,Alselbosier,Reynire,Reynire X,Fiber Composite,Rich,27.63
+Placid,Alselbosier,Reynire,Reynire X,Reactive Gas,Perfect,35.24
+Placid,Alselbosier,Reynire,Reynire X,Base Metals,Perfect,8.20
+Placid,Alselbosier,Reynire,Reynire X,Liquid Ozone,Medium,25.93
+Placid,Alselbosier,Pain,Pain I,Gleaming Alloy,Poor,16.80
+Placid,Alselbosier,Pain,Pain I,Noble Gas,Poor,17.56
+Placid,Alselbosier,Pain,Pain I,Heavy Metals,Rich,30.74
+Placid,Alselbosier,Pain,Pain II,Condensed Alloy,Medium,21.90
+Placid,Alselbosier,Pain,Pain II,Base Metals,Perfect,8.44
+Placid,Alselbosier,Pain,Pain II,Industrial Fibers,Medium,6.53
+Placid,Alselbosier,Pain,Pain II,Condensates,Perfect,24.05
+Placid,Alselbosier,Pain,Pain II,Liquid Ozone,Rich,32.65
+Placid,Alselbosier,Pain,Pain III,Base Metals,Medium,6.40
+Placid,Alselbosier,Pain,Pain III,Industrial Fibers,Poor,4.94
+Placid,Alselbosier,Pain,Pain III,Condensates,Rich,17.72
+Placid,Alselbosier,Pain,Pain III,Heavy Water,Medium,194.80
+Placid,Alselbosier,Pain,Pain III,Liquid Ozone,Perfect,43.80
+Placid,Alselbosier,Pain,Pain IV,Glossy Compound,Rich,27.28
+Placid,Alselbosier,Pain,Pain IV,Reactive Gas,Medium,22.08
+Placid,Alselbosier,Pain,Pain IV,Noble Gas,Medium,22.38
+Placid,Alselbosier,Pain,Pain IV,Base Metals,Medium,6.43
+Placid,Alselbosier,Pain,Pain IV,Coolant,Rich,19.89
+Placid,Alselbosier,Pain,Pain V,Lucent Compound,Medium,20.56
+Placid,Alselbosier,Pain,Pain V,Reactive Metals,Poor,4.68
+Placid,Alselbosier,Pain,Pain V,Toxic Metals,Rich,7.69
+Placid,Alselbosier,Pain,Pain V,Supertensile Plastics,Rich,18.55
+Placid,Alselbosier,Pain,Pain VI,Dark Compound,Poor,16.72
+Placid,Alselbosier,Pain,Pain VI,Industrial Fibers,Poor,3.31
+Placid,Alselbosier,Pain,Pain VI,Supertensile Plastics,Medium,15.88
+Placid,Alselbosier,Pain,Pain VI,Silicate Glass,Poor,6.45
+Placid,Alselbosier,Gare,Gare I,Lustering Alloy,Poor,12.08
+Placid,Alselbosier,Gare,Gare I,Toxic Metals,Medium,5.39
+Placid,Alselbosier,Gare,Gare I,Industrial Fibers,Poor,3.23
+Placid,Alselbosier,Gare,Gare II,Industrial Fibers,Medium,5.71
+Placid,Alselbosier,Gare,Gare II,Silicate Glass,Poor,7.90
+Placid,Alselbosier,Gare,Gare II,Oxygen Isotopes,Medium,3.40
+Placid,Alselbosier,Gare,Gare III,Reactive Gas,Rich,26.01
+Placid,Alselbosier,Gare,Gare III,Toxic Metals,Rich,6.56
+Placid,Alselbosier,Gare,Gare III,Construction Blocks,Medium,21.01
+Placid,Alselbosier,Gare,Gare IV,Toxic Metals,Medium,6.13
+Placid,Alselbosier,Gare,Gare IV,Industrial Fibers,Medium,5.76
+Placid,Alselbosier,Gare,Gare IV,Plasmoids,Medium,1.31
+Placid,Alselbosier,Gare,Gare V,Gleaming Alloy,Rich,26.96
+Placid,Alselbosier,Gare,Gare V,Construction Blocks,Medium,22.06
+Placid,Alselbosier,Gare,Gare V,Oxygen Isotopes,Rich,4.04
+Placid,Alselbosier,Gare,Gare VI,Industrial Fibers,Medium,5.24
+Placid,Alselbosier,Gare,Gare VI,Construction Blocks,Medium,23.20
+Placid,Alselbosier,Gare,Gare VI,Plasmoids,Medium,1.19
+Placid,Alselbosier,Gare,Gare VII,Sheen Compound,Rich,26.01
+Placid,Alselbosier,Gare,Gare VII,Noble Gas,Rich,26.96
+Placid,Alselbosier,Gare,Gare VII,Polyaramids,Rich,17.20
+Placid,Alselbosier,Gare,Gare VII,Ionic Solutions,Medium,8.15
+Placid,Alselbosier,Gare,Gare VIII,Glossy Compound,Medium,19.70
+Placid,Alselbosier,Gare,Gare VIII,Noble Gas,Rich,27.34
+Placid,Alselbosier,Gare,Gare VIII,Polyaramids,Rich,16.97
+Placid,Alselbosier,Gare,Gare VIII,Ionic Solutions,Medium,8.25
+Placid,Alselbosier,Gare,Gare IX,Construction Blocks,Rich,28.61
+Placid,Alselbosier,Gare,Gare IX,Nanites,Rich,6.41
+Placid,Alselbosier,Gare,Gare IX,Suspended Plasma,Medium,78.11
+Placid,Josmaert,Pelille,Pelille I,Precious Alloy,Poor,12.40
+Placid,Josmaert,Pelille,Pelille I,Industrial Fibers,Medium,5.45
+Placid,Josmaert,Pelille,Pelille I,Plasmoids,Poor,0.90
+Placid,Josmaert,Pelille,Pelille II,Crystal Compound,Perfect,29.02
+Placid,Josmaert,Pelille,Pelille II,Construction Blocks,Rich,25.81
+Placid,Josmaert,Pelille,Pelille II,Suspended Plasma,Poor,57.09
+Placid,Josmaert,Pelille,Pelille III,Noble Gas,Rich,22.97
+Placid,Josmaert,Pelille,Pelille III,Base Metals,Poor,4.38
+Placid,Josmaert,Pelille,Pelille III,Polyaramids,Medium,14.38
+Placid,Josmaert,Pelille,Pelille III,Ionic Solutions,Rich,11.41
+Placid,Josmaert,Pelille,Pelille IV,Glossy Compound,Rich,25.43
+Placid,Josmaert,Pelille,Pelille IV,Noble Gas,Rich,23.85
+Placid,Josmaert,Pelille,Pelille IV,Reactive Metals,Perfect,7.58
+Placid,Josmaert,Pelille,Pelille IV,Ionic Solutions,Medium,7.00
+Placid,Josmaert,Pelille,Pelille V,Fiber Composite,Rich,26.87
+Placid,Josmaert,Pelille,Pelille V,Reactive Gas,Medium,21.73
+Placid,Josmaert,Pelille,Pelille V,Noble Gas,Rich,28.10
+Placid,Josmaert,Pelille,Pelille V,Base Metals,Medium,4.94
+Placid,Josmaert,Pelille,Pelille VI,Noble Gas,Rich,23.89
+Placid,Josmaert,Pelille,Pelille VI,Base Metals,Poor,4.15
+Placid,Josmaert,Pelille,Pelille VI,Reactive Metals,Medium,4.73
+Placid,Josmaert,Pelille,Pelille VI,Ionic Solutions,Rich,10.33
+Placid,Josmaert,Pelille,Pelille VII,Base Metals,Medium,4.76
+Placid,Josmaert,Pelille,Pelille VII,Heavy Metals,Rich,23.67
+Placid,Josmaert,Pelille,Pelille VII,Coolant,Poor,9.84
+Placid,Josmaert,Dour,Dour I,Toxic Metals,Medium,4.84
+Placid,Josmaert,Dour,Dour I,Industrial Fibers,Poor,3.56
+Placid,Josmaert,Dour,Dour I,Oxygen Isotopes,Poor,1.90
+Placid,Josmaert,Dour,Dour II,Base Metals,Poor,3.47
+Placid,Josmaert,Dour,Dour II,Industrial Fibers,Medium,4.84
+Placid,Josmaert,Dour,Dour II,Plasmoids,Poor,0.87
+Placid,Josmaert,Dour,Dour III,Base Metals,Poor,2.88
+Placid,Josmaert,Dour,Dour III,Industrial Fibers,Poor,3.46
+Placid,Josmaert,Dour,Dour III,Plasmoids,Poor,0.89
+Placid,Josmaert,Dour,Dour IV,Reactive Gas,Poor,15.37
+Placid,Josmaert,Dour,Dour IV,Supertensile Plastics,Rich,15.18
+Placid,Josmaert,Dour,Dour IV,Construction Blocks,Medium,16.71
+Placid,Josmaert,Dour,Dour V,Glossy Compound,Rich,25.99
+Placid,Josmaert,Dour,Dour V,Noble Gas,Poor,14.50
+Placid,Josmaert,Dour,Dour V,Base Metals,Rich,5.94
+Placid,Josmaert,Dour,Dour V,Ionic Solutions,Medium,8.09
+Placid,Josmaert,Dour,Dour VI,Fiber Composite,Rich,24.77
+Placid,Josmaert,Dour,Dour VI,Noble Gas,Medium,20.77
+Placid,Josmaert,Dour,Dour VI,Base Metals,Medium,5.36
+Placid,Josmaert,Dour,Dour VI,Polyaramids,Rich,16.38
+Placid,Josmaert,Dour,Dour VII,Reactive Gas,Poor,15.62
+Placid,Josmaert,Dour,Dour VII,Noble Gas,Medium,17.99
+Placid,Josmaert,Dour,Dour VII,Base Metals,Poor,3.81
+Placid,Josmaert,Dour,Dour VII,Ionic Solutions,Poor,5.90
+Placid,Josmaert,Dour,Dour VIII,Lustering Alloy,Medium,19.53
+Placid,Josmaert,Dour,Dour VIII,Coolant,Medium,12.01
+Placid,Josmaert,Dour,Dour VIII,Liquid Ozone,Poor,18.15
+Placid,Josmaert,Grispire,Grispire I,Gleaming Alloy,Medium,18.83
+Placid,Josmaert,Grispire,Grispire I,Crystal Compound,Poor,17.23
+Placid,Josmaert,Grispire,Grispire I,Construction Blocks,Rich,27.28
+Placid,Josmaert,Grispire,Grispire II,Condensed Alloy,Medium,20.23
+Placid,Josmaert,Grispire,Grispire II,Fiber Composite,Medium,18.09
+Placid,Josmaert,Grispire,Grispire II,Opulent Compound,Medium,18.43
+Placid,Josmaert,Grispire,Grispire II,Heavy Water,Medium,196.46
+Placid,Josmaert,Grispire,Grispire III,Lustering Alloy,Medium,21.89
+Placid,Josmaert,Grispire,Grispire III,Noble Gas,Medium,19.42
+Placid,Josmaert,Grispire,Grispire III,Base Metals,Medium,6.11
+Placid,Josmaert,Grispire,Grispire III,Ionic Solutions,Medium,7.86
+Placid,Josmaert,Grispire,Grispire IV,Glossy Compound,Medium,22.38
+Placid,Josmaert,Grispire,Grispire IV,Noble Gas,Poor,16.04
+Placid,Josmaert,Grispire,Grispire IV,Reactive Metals,Perfect,8.11
+Placid,Josmaert,Grispire,Grispire IV,Polyaramids,Medium,13.93
+Placid,Josmaert,Grispire,Grispire V,Lustering Alloy,Rich,26.45
+Placid,Josmaert,Grispire,Grispire V,Reactive Gas,Medium,23.56
+Placid,Josmaert,Grispire,Grispire V,Noble Gas,Rich,29.60
+Placid,Josmaert,Grispire,Grispire V,Ionic Solutions,Poor,7.09
+Placid,Josmaert,Grispire,Grispire VI,Dark Compound,Poor,12.48
+Placid,Josmaert,Grispire,Grispire VI,Industrial Fibers,Poor,3.82
+Placid,Josmaert,Grispire,Grispire VI,Construction Blocks,Medium,19.36
+Placid,Josmaert,Brellystier,Brellystier I,Lustering Alloy,Medium,16.41
+Placid,Josmaert,Brellystier,Brellystier I,Base Metals,Medium,3.99
+Placid,Josmaert,Brellystier,Brellystier II,Lustering Alloy,Rich,20.13
+Placid,Josmaert,Brellystier,Brellystier II,Glossy Compound,Medium,15.97
+Placid,Josmaert,Brellystier,Brellystier II,Base Metals,Poor,3.24
+Placid,Josmaert,Brellystier,Brellystier III,Lustering Alloy,Medium,17.18
+Placid,Josmaert,Brellystier,Brellystier III,Base Metals,Rich,6.24
+Placid,Josmaert,Brellystier,Brellystier III,Reactive Metals,Perfect,6.55
+Placid,Josmaert,Brellystier,Brellystier IV,Lustering Alloy,Rich,21.51
+Placid,Josmaert,Brellystier,Brellystier IV,Sheen Compound,Rich,22.89
+Placid,Josmaert,Brellystier,Brellystier IV,Base Metals,Medium,4.63
+Placid,Josmaert,Brellystier,Brellystier V,Lustering Alloy,Rich,21.39
+Placid,Josmaert,Brellystier,Brellystier V,Reactive Gas,Rich,19.27
+Placid,Josmaert,Brellystier,Brellystier V,Base Metals,Medium,4.67
+Placid,Josmaert,Brellystier,Brellystier VI,Lustering Alloy,Poor,11.14
+Placid,Josmaert,Brellystier,Brellystier VI,Base Metals,Medium,4.09
+Placid,Josmaert,Brellystier,Brellystier VII,Lustering Alloy,Medium,15.78
+Placid,Josmaert,Brellystier,Brellystier VII,Base Metals,Poor,3.47
+Placid,Josmaert,Vivanier,Vivanier I,Lustering Alloy,Poor,13.79
+Placid,Josmaert,Vivanier,Vivanier I,Base Metals,Medium,4.54
+Placid,Josmaert,Vivanier,Vivanier II,Crystal Compound,Rich,20.54
+Placid,Josmaert,Vivanier,Vivanier II,Suspended Plasma,Poor,45.41
+Placid,Josmaert,Vivanier,Vivanier III,Noble Metals,Medium,14.27
+Placid,Josmaert,Vivanier,Vivanier III,Industrial Fibers,Medium,4.28
+Placid,Josmaert,Vivanier,Vivanier III,Heavy Water,Perfect,281.70
+Placid,Josmaert,Vivanier,Vivanier IV,Lucent Compound,Medium,17.04
+Placid,Josmaert,Vivanier,Vivanier IV,Suspended Plasma,Medium,56.38
+Placid,Josmaert,Vivanier,Vivanier V,Lustering Alloy,Poor,12.79
+Placid,Josmaert,Vivanier,Vivanier V,Glossy Compound,Poor,13.70
+Placid,Josmaert,Vivanier,Vivanier V,Base Metals,Rich,5.72
+Placid,Josmaert,Vivanier,Vivanier VI,Lustering Alloy,Medium,18.82
+Placid,Josmaert,Vivanier,Vivanier VI,Base Metals,Rich,5.83
+Placid,Josmaert,Vivanier,Vivanier VI,Reactive Metals,Medium,4.30
+Placid,Josmaert,Vivanier,Vivanier VII,Lustering Alloy,Rich,20.79
+Placid,Josmaert,Vivanier,Vivanier VII,Fiber Composite,Rich,23.39
+Placid,Josmaert,Vivanier,Vivanier VII,Base Metals,Medium,4.28
+Placid,Josmaert,Vivanier,Vivanier VIII,Lustering Alloy,Medium,17.04
+Placid,Josmaert,Vivanier,Vivanier VIII,Base Metals,Poor,3.23
+Placid,Josmaert,Algasienan,Algasienan I,Lustering Alloy,Medium,14.78
+Placid,Josmaert,Algasienan,Algasienan I,Base Metals,Poor,3.11
+Placid,Josmaert,Algasienan,Algasienan II,Toxic Metals,Perfect,5.61
+Placid,Josmaert,Algasienan,Algasienan II,Suspended Plasma,Medium,54.19
+Placid,Josmaert,Algasienan,Algasienan III,Lustering Alloy,Medium,13.42
+Placid,Josmaert,Algasienan,Algasienan III,Base Metals,Medium,3.23
+Placid,Josmaert,Algasienan,Algasienan IV,Opulent Compound,Poor,12.06
+Placid,Josmaert,Algasienan,Algasienan IV,Condensates,Medium,10.71
+Placid,Josmaert,Algasienan,Algasienan IV,Heavy Water,Medium,144.30
+Placid,Josmaert,Algasienan,Algasienan V,Lustering Alloy,Perfect,20.98
+Placid,Josmaert,Algasienan,Algasienan V,Glossy Compound,Rich,20.18
+Placid,Josmaert,Algasienan,Algasienan V,Base Metals,Medium,3.50
+Placid,Josmaert,Algasienan,Algasienan VI,Lustering Alloy,Rich,20.61
+Placid,Josmaert,Algasienan,Algasienan VI,Base Metals,Perfect,5.59
+Placid,Josmaert,Algasienan,Algasienan VI,Reactive Metals,Medium,4.11
+Placid,Josmaert,Algasienan,Algasienan VII,Lustering Alloy,Poor,8.23
+Placid,Josmaert,Algasienan,Algasienan VII,Base Metals,Poor,2.16
+Placid,Josmaert,Algasienan,Algasienan VIII,Lustering Alloy,Poor,11.58
+Placid,Josmaert,Algasienan,Algasienan VIII,Base Metals,Medium,3.84
+Placid,Unour,Osmallanais,Osmallanais I,Toxic Metals,Medium,4.25
+Placid,Unour,Osmallanais,Osmallanais I,Suspended Plasma,Rich,73.38
+Placid,Unour,Osmallanais,Osmallanais II,Lustering Alloy,Medium,14.11
+Placid,Unour,Osmallanais,Osmallanais II,Base Metals,Poor,2.26
+Placid,Unour,Osmallanais,Osmallanais III,Crystal Compound,Medium,15.11
+Placid,Unour,Osmallanais,Osmallanais III,Heavy Water,Perfect,208.91
+Placid,Unour,Osmallanais,Osmallanais III,Liquid Ozone,Rich,23.40
+Placid,Unour,Osmallanais,Osmallanais IV,Lustering Alloy,Poor,10.66
+Placid,Unour,Osmallanais,Osmallanais IV,Noble Gas,Medium,15.34
+Placid,Unour,Osmallanais,Osmallanais IV,Base Metals,Medium,3.54
+Placid,Unour,Osmallanais,Osmallanais V,Smartfab Units,Perfect,16.12
+Placid,Unour,Osmallanais,Osmallanais V,Heavy Water,Perfect,235.43
+Placid,Unour,Osmallanais,Osmallanais V,Liquid Ozone,Perfect,29.59
+Placid,Unour,Osmallanais,Osmallanais VI,Lustering Alloy,Medium,12.91
+Placid,Unour,Osmallanais,Osmallanais VI,Reactive Gas,Perfect,20.88
+Placid,Unour,Osmallanais,Osmallanais VI,Base Metals,Rich,4.95
+Placid,Unour,Osmallanais,Osmallanais VII,Lustering Alloy,Poor,11.75
+Placid,Unour,Osmallanais,Osmallanais VII,Glossy Compound,Rich,18.88
+Placid,Unour,Osmallanais,Osmallanais VII,Base Metals,Rich,4.39
+Placid,Unour,Osmallanais,Osmallanais VIII,Lustering Alloy,Medium,13.95
+Placid,Unour,Osmallanais,Osmallanais VIII,Base Metals,Rich,4.55
+Placid,Unour,Ivorider,Ivorider I,Lustering Alloy,Medium,14.17
+Placid,Unour,Ivorider,Ivorider I,Base Metals,Poor,2.73
+Placid,Unour,Ivorider,Ivorider II,Supertensile Plastics,Medium,9.79
+Placid,Unour,Ivorider,Ivorider II,Suspended Plasma,Rich,61.87
+Placid,Unour,Ivorider,Ivorider III,Lustering Alloy,Poor,9.26
+Placid,Unour,Ivorider,Ivorider III,Base Metals,Medium,3.39
+Placid,Unour,Ivorider,Ivorider IV,Nanites,Medium,4.22
+Placid,Unour,Ivorider,Ivorider IV,Suspended Plasma,Perfect,74.46
+Placid,Unour,Ivorider,Ivorider V,Noble Metals,Poor,12.13
+Placid,Unour,Ivorider,Ivorider V,Silicate Glass,Poor,6.08
+Placid,Unour,Ivorider,Ivorider V,Heavy Water,Perfect,212.81
+Placid,Unour,Ivorider,Ivorider VI,Noble Metals,Rich,19.40
+Placid,Unour,Ivorider,Ivorider VI,Condensates,Perfect,14.67
+Placid,Unour,Ivorider,Ivorider VI,Heavy Water,Perfect,230.49
+Placid,Unour,Ivorider,Ivorider VII,Lustering Alloy,Medium,13.91
+Placid,Unour,Ivorider,Ivorider VII,Noble Gas,Medium,13.60
+Placid,Unour,Ivorider,Ivorider VII,Base Metals,Medium,3.58
+Placid,Unour,Ivorider,Ivorider VIII,Lustering Alloy,Medium,16.05
+Placid,Unour,Ivorider,Ivorider VIII,Base Metals,Perfect,5.58
+Placid,Unour,Ivorider,Ivorider VIII,Reactive Metals,Medium,3.48
+Placid,Unour,Ivorider,Ivorider IX,Lustering Alloy,Rich,18.72
+Placid,Unour,Ivorider,Ivorider IX,Base Metals,Rich,4.78
+Placid,Unour,Ivorider,Ivorider IX,Reactive Metals,Medium,3.76
+Placid,Unour,Ivorider,Ivorider X,Lustering Alloy,Medium,15.65
+Placid,Unour,Ivorider,Ivorider X,Base Metals,Medium,3.56
+Placid,Unour,Mollin,Mollin I,Lustering Alloy,Medium,16.14
+Placid,Unour,Mollin,Mollin I,Base Metals,Medium,4.38
+Placid,Unour,Mollin,Mollin II,Motley Compound,Rich,19.05
+Placid,Unour,Mollin,Mollin II,Polyaramids,Poor,8.33
+Placid,Unour,Mollin,Mollin III,Fiber Composite,Perfect,22.44
+Placid,Unour,Mollin,Mollin III,Noble Metals,Rich,19.77
+Placid,Unour,Mollin,Mollin III,Heavy Water,Perfect,241.36
+Placid,Unour,Mollin,Mollin IV,Lustering Alloy,Medium,16.45
+Placid,Unour,Mollin,Mollin IV,Base Metals,Poor,2.45
+Placid,Unour,Mollin,Mollin V,Fiber Composite,Rich,17.78
+Placid,Unour,Mollin,Mollin V,Condensates,Perfect,15.58
+Placid,Unour,Mollin,Mollin V,Heavy Water,Rich,211.40
+Placid,Unour,Mollin,Mollin VI,Lustering Alloy,Medium,16.93
+Placid,Unour,Mollin,Mollin VI,Glossy Compound,Poor,12.31
+Placid,Unour,Mollin,Mollin VI,Base Metals,Rich,5.52
+Placid,Unour,Mollin,Mollin VII,Lustering Alloy,Medium,15.43
+Placid,Unour,Mollin,Mollin VII,Base Metals,Medium,3.90
+Placid,Unour,Mollin,Mollin VII,Polyaramids,Medium,11.70
+Placid,Unour,Iffrue,Iffrue I,Lucent Compound,Medium,15.38
+Placid,Unour,Iffrue,Iffrue I,Heavy Metals,Medium,12.82
+Placid,Unour,Iffrue,Iffrue I,Suspended Plasma,Medium,57.80
+Placid,Unour,Iffrue,Iffrue II,Noble Gas,Medium,16.22
+Placid,Unour,Iffrue,Iffrue II,Suspended Plasma,Perfect,78.81
+Placid,Unour,Iffrue,Iffrue II,Plasmoids,Medium,0.95
+Placid,Unour,Iffrue,Iffrue III,Motley Compound,Medium,12.52
+Placid,Unour,Iffrue,Iffrue III,Construction Blocks,Rich,17.09
+Placid,Unour,Iffrue,Iffrue IV,Lustering Alloy,Poor,8.29
+Placid,Unour,Iffrue,Iffrue IV,Base Metals,Poor,2.37
+Placid,Unour,Iffrue,Iffrue V,Lustering Alloy,Rich,17.20
+Placid,Unour,Iffrue,Iffrue V,Noble Gas,Medium,15.56
+Placid,Unour,Iffrue,Iffrue V,Base Metals,Perfect,5.68
+Placid,Unour,Iffrue,Iffrue VI,Lustering Alloy,Medium,13.27
+Placid,Unour,Iffrue,Iffrue VI,Reactive Gas,Poor,12.04
+Placid,Unour,Iffrue,Iffrue VI,Base Metals,Medium,4.03
+Placid,Unour,Iffrue,Iffrue VII,Base Metals,Perfect,6.29
+Placid,Unour,Iffrue,Iffrue VII,Heavy Water,Medium,163.93
+Placid,Unour,Iffrue,Iffrue VII,Liquid Ozone,Rich,20.91
+Placid,Unour,Iffrue,Iffrue VIII,Lustering Alloy,Perfect,20.93
+Placid,Unour,Iffrue,Iffrue VIII,Fiber Composite,Rich,20.27
+Placid,Unour,Iffrue,Iffrue VIII,Base Metals,Medium,3.72
+Placid,Unour,Iffrue,Iffrue IX,Lustering Alloy,Poor,11.73
+Placid,Unour,Iffrue,Iffrue IX,Base Metals,Poor,2.90
+Placid,Unour,Iffrue,Iffrue X,Lustering Alloy,Poor,9.76
+Placid,Unour,Iffrue,Iffrue X,Base Metals,Rich,4.86
+Placid,Unour,Vilinnon,Vilinnon I,Base Metals,Rich,5.07
+Placid,Unour,Vilinnon,Vilinnon I,Condensates,Rich,12.42
+Placid,Unour,Vilinnon,Vilinnon I,Heavy Water,Medium,136.36
+Placid,Unour,Vilinnon,Vilinnon II,Lustering Alloy,Medium,15.43
+Placid,Unour,Vilinnon,Vilinnon II,Base Metals,Poor,2.35
+Placid,Unour,Vilinnon,Vilinnon III,Noble Metals,Perfect,25.06
+Placid,Unour,Vilinnon,Vilinnon III,Heavy Water,Rich,202.44
+Placid,Unour,Vilinnon,Vilinnon III,Liquid Ozone,Perfect,32.51
+Placid,Unour,Vilinnon,Vilinnon IV,Reactive Metals,Rich,4.70
+Placid,Unour,Vilinnon,Vilinnon IV,Suspended Plasma,Medium,53.32
+Placid,Unour,Vilinnon,Vilinnon V,Lustering Alloy,Medium,13.37
+Placid,Unour,Vilinnon,Vilinnon V,Base Metals,Medium,3.69
+Placid,Unour,Vilinnon,Vilinnon V,Polyaramids,Medium,9.86
+Placid,Unour,Vilinnon,Vilinnon VI,Condensed Alloy,Rich,20.10
+Placid,Unour,Vilinnon,Vilinnon VI,Base Metals,Perfect,6.03
+Placid,Unour,Vilinnon,Vilinnon VI,Heavy Water,Perfect,233.52
+Placid,Unour,Ommaerrer,Ommaerrer I,Motley Compound,Medium,16.21
+Placid,Unour,Ommaerrer,Ommaerrer I,Smartfab Units,Rich,11.89
+Placid,Unour,Ommaerrer,Ommaerrer II,Lustering Alloy,Medium,14.35
+Placid,Unour,Ommaerrer,Ommaerrer II,Base Metals,Poor,3.42
+Placid,Unour,Ommaerrer,Ommaerrer III,Lucent Compound,Rich,18.37
+Placid,Unour,Ommaerrer,Ommaerrer III,Reactive Metals,Rich,5.36
+Placid,Unour,Ommaerrer,Ommaerrer III,Suspended Plasma,Medium,51.26
+Placid,Unour,Ommaerrer,Ommaerrer IV,Reactive Gas,Rich,19.28
+Placid,Unour,Ommaerrer,Ommaerrer IV,Heavy Water,Medium,147.84
+Placid,Unour,Ommaerrer,Ommaerrer IV,Liquid Ozone,Perfect,28.33
+Placid,Unour,Ommaerrer,Ommaerrer V,Nanites,Rich,4.73
+Placid,Unour,Ommaerrer,Ommaerrer V,Suspended Plasma,Poor,40.77
+Placid,Unour,Ommaerrer,Ommaerrer VI,Lustering Alloy,Medium,17.46
+Placid,Unour,Ommaerrer,Ommaerrer VI,Noble Gas,Medium,15.74
+Placid,Unour,Ommaerrer,Ommaerrer VI,Base Metals,Medium,4.08
+Placid,Unour,Ommaerrer,Ommaerrer VII,Lustering Alloy,Poor,10.92
+Placid,Unour,Ommaerrer,Ommaerrer VII,Base Metals,Poor,2.30
+Placid,Unour,Ommaerrer,Ommaerrer VIII,Lustering Alloy,Rich,18.87
+Placid,Unour,Ommaerrer,Ommaerrer VIII,Fiber Composite,Rich,21.14
+Placid,Unour,Ommaerrer,Ommaerrer VIII,Base Metals,Rich,5.26
+Placid,Unour,Ommaerrer,Ommaerrer IX,Lustering Alloy,Rich,18.56
+Placid,Unour,Ommaerrer,Ommaerrer IX,Noble Gas,Rich,19.22
+Placid,Unour,Ommaerrer,Ommaerrer IX,Base Metals,Rich,5.30
+Placid,Unour,Ommaerrer,Ommaerrer X,Lustering Alloy,Medium,14.78
+Placid,Unour,Ommaerrer,Ommaerrer X,Base Metals,Medium,4.56
+Placid,Unour,Ommaerrer,Ommaerrer X,Reactive Metals,Medium,4.29
+Placid,Unour,Ommaerrer,Ommaerrer XI,Lustering Alloy,Medium,15.08
+Placid,Unour,Ommaerrer,Ommaerrer XI,Base Metals,Rich,5.16
+Placid,Ganoure,Aulbres,Aulbres I,Noble Gas,Medium,23.96
+Placid,Ganoure,Aulbres,Aulbres I,Oxygen Isotopes,Medium,2.98
+Placid,Ganoure,Aulbres,Aulbres II,Fiber Composite,Medium,18.09
+Placid,Ganoure,Aulbres,Aulbres II,Reactive Gas,Medium,18.07
+Placid,Ganoure,Aulbres,Aulbres II,Smartfab Units,Rich,17.96
+Placid,Ganoure,Aulbres,Aulbres II,Liquid Ozone,Perfect,39.90
+Placid,Ganoure,Aulbres,Aulbres III,Fiber Composite,Perfect,30.86
+Placid,Ganoure,Aulbres,Aulbres III,Noble Gas,Rich,26.24
+Placid,Ganoure,Aulbres,Aulbres III,Reactive Metals,Poor,4.21
+Placid,Ganoure,Aulbres,Aulbres III,Coolant,Rich,18.53
+Placid,Ganoure,Aulbres,Aulbres IV,Fiber Composite,Rich,25.19
+Placid,Ganoure,Aulbres,Aulbres IV,Industrial Fibers,Perfect,8.84
+Placid,Ganoure,Aulbres,Aulbres IV,Condensates,Rich,19.72
+Placid,Ganoure,Aulbres,Aulbres IV,Heavy Water,Perfect,333.26
+Placid,Ganoure,Aulbres,Aulbres V,Lustering Alloy,Medium,21.28
+Placid,Ganoure,Aulbres,Aulbres V,Sheen Compound,Poor,16.85
+Placid,Ganoure,Aulbres,Aulbres V,Noble Gas,Medium,19.99
+Placid,Ganoure,Aulbres,Aulbres V,Reactive Metals,Rich,7.63
+Placid,Ganoure,Aulbres,Aulbres VI,Sheen Compound,Poor,15.85
+Placid,Ganoure,Aulbres,Aulbres VI,Glossy Compound,Poor,16.89
+Placid,Ganoure,Aulbres,Aulbres VI,Noble Gas,Medium,18.47
+Placid,Ganoure,Aulbres,Aulbres VI,Polyaramids,Rich,19.95
+Placid,Ganoure,Aulbres,Aulbres VII,Lustering Alloy,Medium,18.18
+Placid,Ganoure,Aulbres,Aulbres VII,Noble Gas,Medium,23.14
+Placid,Ganoure,Aulbres,Aulbres VII,Polyaramids,Perfect,20.39
+Placid,Ganoure,Aulbres,Aulbres VII,Ionic Solutions,Medium,9.38
+Placid,Ganoure,Aulbres,Aulbres VIII,Lustering Alloy,Perfect,30.25
+Placid,Ganoure,Aulbres,Aulbres VIII,Noble Gas,Rich,26.24
+Placid,Ganoure,Aulbres,Aulbres VIII,Reactive Metals,Medium,5.71
+Placid,Ganoure,Aulbres,Aulbres VIII,Polyaramids,Poor,10.69
+Placid,Ganoure,Aulbres,Aulbres IX,Fiber Composite,Rich,29.68
+Placid,Ganoure,Aulbres,Aulbres IX,Glossy Compound,Medium,22.74
+Placid,Ganoure,Aulbres,Aulbres IX,Reactive Gas,Medium,23.75
+Placid,Ganoure,Aulbres,Aulbres IX,Noble Gas,Rich,24.98
+Placid,Ganoure,Aulbres,Aulbres X,Dark Compound,Medium,21.01
+Placid,Ganoure,Aulbres,Aulbres X,Industrial Fibers,Poor,3.52
+Placid,Ganoure,Aulbres,Aulbres X,Oxygen Isotopes,Medium,3.04
+Placid,Ganoure,Aulbres,Aulbres XI,Lustering Alloy,Poor,13.93
+Placid,Ganoure,Aulbres,Aulbres XI,Base Metals,Poor,3.43
+Placid,Ganoure,Aulbres,Aulbres XI,Industrial Fibers,Poor,3.97
+Placid,Ganoure,Aulbres,Aulbres XII,Lustering Alloy,Poor,13.38
+Placid,Ganoure,Aulbres,Aulbres XII,Industrial Fibers,Medium,5.54
+Placid,Ganoure,Aulbres,Aulbres XII,Oxygen Isotopes,Poor,1.99
+Placid,Ganoure,Barleguet,Barleguet I,Precious Alloy,Medium,20.20
+Placid,Ganoure,Barleguet,Barleguet I,Industrial Fibers,Medium,6.05
+Placid,Ganoure,Barleguet,Barleguet I,Supertensile Plastics,Poor,12.47
+Placid,Ganoure,Barleguet,Barleguet I,Oxygen Isotopes,Medium,3.67
+Placid,Ganoure,Barleguet,Barleguet II,Base Metals,Medium,6.14
+Placid,Ganoure,Barleguet,Barleguet II,Industrial Fibers,Medium,5.48
+Placid,Ganoure,Barleguet,Barleguet II,Supertensile Plastics,Medium,14.45
+Placid,Ganoure,Barleguet,Barleguet II,Plasmoids,Medium,1.37
+Placid,Ganoure,Barleguet,Barleguet III,Condensed Alloy,Medium,21.22
+Placid,Ganoure,Barleguet,Barleguet III,Fiber Composite,Rich,28.46
+Placid,Ganoure,Barleguet,Barleguet III,Reactive Gas,Medium,22.84
+Placid,Ganoure,Barleguet,Barleguet III,Noble Metals,Rich,26.58
+Placid,Ganoure,Barleguet,Barleguet III,Liquid Ozone,Perfect,46.25
+Placid,Ganoure,Barleguet,Barleguet IV,Glossy Compound,Medium,21.44
+Placid,Ganoure,Barleguet,Barleguet IV,Reactive Gas,Medium,23.72
+Placid,Ganoure,Barleguet,Barleguet IV,Noble Gas,Rich,31.46
+Placid,Ganoure,Barleguet,Barleguet IV,Polyaramids,Rich,18.71
+Placid,Ganoure,Barleguet,Barleguet IV,Coolant,Medium,14.43
+Placid,Ganoure,Barleguet,Barleguet V,Reactive Gas,Rich,27.84
+Placid,Ganoure,Barleguet,Barleguet V,Reactive Metals,Rich,7.12
+Placid,Ganoure,Barleguet,Barleguet V,Nanites,Rich,6.73
+Placid,Ganoure,Barleguet,Barleguet V,Oxygen Isotopes,Rich,4.63
+Placid,Ganoure,Barleguet,Barleguet VI,Crystal Compound,Rich,30.44
+Placid,Ganoure,Barleguet,Barleguet VI,Noble Metals,Poor,17.80
+Placid,Ganoure,Barleguet,Barleguet VI,Silicate Glass,Rich,14.82
+Placid,Ganoure,Barleguet,Barleguet VI,Liquid Ozone,Rich,37.98
+Placid,Ganoure,Barleguet,Barleguet VI,Ionic Solutions,Perfect,13.56
+Placid,Ganoure,Barleguet,Barleguet VII,Sheen Compound,Medium,20.78
+Placid,Ganoure,Barleguet,Barleguet VII,Reactive Gas,Poor,18.82
+Placid,Ganoure,Barleguet,Barleguet VII,Polyaramids,Medium,15.97
+Placid,Ganoure,Barleguet,Barleguet VII,Coolant,Medium,13.05
+Placid,Ganoure,Barleguet,Barleguet VII,Ionic Solutions,Medium,10.10
+Placid,Ganoure,Barleguet,Barleguet VIII,Lustering Alloy,Rich,27.84
+Placid,Ganoure,Barleguet,Barleguet VIII,Glossy Compound,Poor,17.04
+Placid,Ganoure,Barleguet,Barleguet VIII,Reactive Gas,Medium,19.98
+Placid,Ganoure,Barleguet,Barleguet VIII,Reactive Metals,Rich,7.92
+Placid,Ganoure,Barleguet,Barleguet VIII,Ionic Solutions,Rich,10.86
+Placid,Ganoure,Barleguet,Barleguet IX,Precious Alloy,Poor,16.68
+Placid,Ganoure,Barleguet,Barleguet IX,Industrial Fibers,Medium,6.33
+Placid,Ganoure,Barleguet,Barleguet IX,Supertensile Plastics,Poor,8.51
+Placid,Ganoure,Barleguet,Barleguet IX,Construction Blocks,Medium,19.94
+Placid,Ganoure,Vestouve,Vestouve I,Lustering Alloy,Poor,18.58
+Placid,Ganoure,Vestouve,Vestouve I,Supertensile Plastics,Medium,13.79
+Placid,Ganoure,Vestouve,Vestouve I,Construction Blocks,Poor,17.32
+Placid,Ganoure,Vestouve,Vestouve I,Oxygen Isotopes,Medium,3.57
+Placid,Ganoure,Vestouve,Vestouve II,Gleaming Alloy,Poor,16.58
+Placid,Ganoure,Vestouve,Vestouve II,Noble Metals,Poor,18.56
+Placid,Ganoure,Vestouve,Vestouve II,Polyaramids,Rich,19.81
+Placid,Ganoure,Vestouve,Vestouve III,Lustering Alloy,Medium,21.80
+Placid,Ganoure,Vestouve,Vestouve III,Precious Alloy,Poor,16.80
+Placid,Ganoure,Vestouve,Vestouve III,Toxic Metals,Medium,5.54
+Placid,Ganoure,Vestouve,Vestouve III,Supertensile Plastics,Medium,14.92
+Placid,Ganoure,Vestouve,Vestouve IV,Gleaming Alloy,Medium,19.80
+Placid,Ganoure,Vestouve,Vestouve IV,Noble Gas,Poor,16.18
+Placid,Ganoure,Vestouve,Vestouve IV,Plasmoids,Perfect,2.02
+Placid,Ganoure,Vestouve,Vestouve V,Reactive Metals,Rich,7.03
+Placid,Ganoure,Vestouve,Vestouve V,Toxic Metals,Medium,5.34
+Placid,Ganoure,Vestouve,Vestouve V,Supertensile Plastics,Poor,11.60
+Placid,Ganoure,Vestouve,Vestouve V,Construction Blocks,Medium,25.12
+Placid,Ganoure,Vestouve,Vestouve VI,Fiber Composite,Perfect,34.02
+Placid,Ganoure,Vestouve,Vestouve VI,Opulent Compound,Perfect,32.84
+Placid,Ganoure,Vestouve,Vestouve VI,Reactive Gas,Rich,29.20
+Placid,Ganoure,Vestouve,Vestouve VI,Industrial Fibers,Medium,6.13
+Placid,Ganoure,Vestouve,Vestouve VI,Liquid Ozone,Medium,23.82
+Placid,Ganoure,Vestouve,Vestouve VII,Crystal Compound,Medium,22.44
+Placid,Ganoure,Vestouve,Vestouve VII,Reactive Gas,Medium,25.30
+Placid,Ganoure,Vestouve,Vestouve VII,Reactive Metals,Poor,4.84
+Placid,Ganoure,Vestouve,Vestouve VII,Suspended Plasma,Poor,58.39
+Placid,Ganoure,Vestouve,Vestouve VIII,Lustering Alloy,Medium,21.02
+Placid,Ganoure,Vestouve,Vestouve VIII,Glossy Compound,Medium,23.60
+Placid,Ganoure,Vestouve,Vestouve VIII,Reactive Gas,Rich,30.08
+Placid,Ganoure,Vestouve,Vestouve VIII,Base Metals,Rich,8.12
+Placid,Ganoure,Vestouve,Vestouve VIII,Coolant,Poor,11.88
+Placid,Ganoure,Vestouve,Vestouve IX,Sheen Compound,Rich,31.22
+Placid,Ganoure,Vestouve,Vestouve IX,Glossy Compound,Poor,17.38
+Placid,Ganoure,Vestouve,Vestouve IX,Reactive Gas,Medium,24.34
+Placid,Ganoure,Vestouve,Vestouve IX,Reactive Metals,Rich,7.23
+Placid,Ganoure,Vestouve,Vestouve IX,Coolant,Perfect,22.01
+Placid,Ganoure,Vestouve,Vestouve X,Motley Compound,Medium,24.36
+Placid,Ganoure,Vestouve,Vestouve X,Industrial Fibers,Medium,6.09
+Placid,Ganoure,Vestouve,Vestouve X,Condensates,Rich,17.53
+Placid,Ganoure,Vestouve,Vestouve X,Liquid Ozone,Medium,27.00
+Placid,Ganoure,Ausmaert,Ausmaert I,Lustering Alloy,Medium,23.66
+Placid,Ganoure,Ausmaert,Ausmaert I,Precious Alloy,Medium,20.26
+Placid,Ganoure,Ausmaert,Ausmaert I,Supertensile Plastics,Poor,10.29
+Placid,Ganoure,Ausmaert,Ausmaert I,Oxygen Isotopes,Medium,2.88
+Placid,Ganoure,Ausmaert,Ausmaert II,Reactive Metals,Medium,5.53
+Placid,Ganoure,Ausmaert,Ausmaert II,Toxic Metals,Rich,6.66
+Placid,Ganoure,Ausmaert,Ausmaert II,Nanites,Medium,5.56
+Placid,Ganoure,Ausmaert,Ausmaert II,Oxygen Isotopes,Perfect,4.80
+Placid,Ganoure,Ausmaert,Ausmaert III,Lustering Alloy,Poor,17.84
+Placid,Ganoure,Ausmaert,Ausmaert III,Supertensile Plastics,Poor,9.60
+Placid,Ganoure,Ausmaert,Ausmaert III,Construction Blocks,Poor,15.50
+Placid,Ganoure,Ausmaert,Ausmaert III,Plasmoids,Poor,1.05
+Placid,Ganoure,Ausmaert,Ausmaert IV,Condensed Alloy,Perfect,32.82
+Placid,Ganoure,Ausmaert,Ausmaert IV,Opulent Compound,Rich,29.14
+Placid,Ganoure,Ausmaert,Ausmaert IV,Toxic Metals,Rich,7.29
+Placid,Ganoure,Ausmaert,Ausmaert IV,Polyaramids,Poor,11.84
+Placid,Ganoure,Ausmaert,Ausmaert IV,Liquid Ozone,Medium,24.90
+Placid,Ganoure,Ausmaert,Ausmaert V,Lustering Alloy,Medium,24.04
+Placid,Ganoure,Ausmaert,Ausmaert V,Reactive Gas,Poor,16.82
+Placid,Ganoure,Ausmaert,Ausmaert V,Noble Gas,Poor,16.92
+Placid,Ganoure,Ausmaert,Ausmaert V,Base Metals,Rich,6.69
+Placid,Ganoure,Ausmaert,Ausmaert V,Reactive Metals,Medium,5.76
+Placid,Ganoure,Ausmaert,Ausmaert VI,Condensed Alloy,Poor,18.72
+Placid,Ganoure,Ausmaert,Ausmaert VI,Fiber Composite,Rich,27.94
+Placid,Ganoure,Ausmaert,Ausmaert VI,Noble Metals,Medium,24.16
+Placid,Ganoure,Ausmaert,Ausmaert VI,Smartfab Units,Poor,12.55
+Placid,Ganoure,Ausmaert,Ausmaert VI,Liquid Ozone,Rich,31.65
+Placid,Ganoure,Ausmaert,Ausmaert VII,Lustering Alloy,Medium,21.76
+Placid,Ganoure,Ausmaert,Ausmaert VII,Sheen Compound,Medium,22.80
+Placid,Ganoure,Ausmaert,Ausmaert VII,Fiber Composite,Medium,20.66
+Placid,Ganoure,Ausmaert,Ausmaert VII,Reactive Gas,Poor,16.50
+Placid,Ganoure,Ausmaert,Ausmaert VII,Noble Gas,Rich,27.42
+Placid,Ganoure,Ausmaert,Ausmaert VIII,Heavy Metals,Medium,20.82
+Placid,Ganoure,Ausmaert,Ausmaert VIII,Coolant,Medium,16.23
+Placid,Ganoure,Ausmaert,Ausmaert VIII,Condensates,Medium,16.13
+Placid,Ganoure,Ausmaert,Ausmaert VIII,Suspended Plasma,Medium,87.91
+Placid,Ganoure,Espigoure,Espigoure I,Lustering Alloy,Medium,20.50
+Placid,Ganoure,Espigoure,Espigoure I,Base Metals,Poor,3.48
+Placid,Ganoure,Espigoure,Espigoure I,Supertensile Plastics,Poor,11.87
+Placid,Ganoure,Espigoure,Espigoure I,Silicate Glass,Poor,6.29
+Placid,Ganoure,Espigoure,Espigoure II,Lustering Alloy,Medium,19.78
+Placid,Ganoure,Espigoure,Espigoure II,Dark Compound,Medium,21.62
+Placid,Ganoure,Espigoure,Espigoure II,Industrial Fibers,Poor,4.14
+Placid,Ganoure,Espigoure,Espigoure II,Supertensile Plastics,Poor,12.31
+Placid,Ganoure,Espigoure,Espigoure III,Crystal Compound,Medium,19.88
+Placid,Ganoure,Espigoure,Espigoure III,Reactive Metals,Rich,7.31
+Placid,Ganoure,Espigoure,Espigoure III,Supertensile Plastics,Rich,18.13
+Placid,Ganoure,Espigoure,Espigoure III,Oxygen Isotopes,Perfect,4.77
+Placid,Ganoure,Espigoure,Espigoure IV,Condensed Alloy,Medium,23.38
+Placid,Ganoure,Espigoure,Espigoure IV,Opulent Compound,Rich,27.74
+Placid,Ganoure,Espigoure,Espigoure IV,Polyaramids,Perfect,22.20
+Placid,Ganoure,Espigoure,Espigoure IV,Silicate Glass,Perfect,16.99
+Placid,Ganoure,Espigoure,Espigoure IV,Liquid Ozone,Medium,31.55
+Placid,Ganoure,Espigoure,Espigoure V,Condensed Alloy,Perfect,37.56
+Placid,Ganoure,Espigoure,Espigoure V,Reactive Gas,Poor,18.56
+Placid,Ganoure,Espigoure,Espigoure V,Base Metals,Medium,5.11
+Placid,Ganoure,Espigoure,Espigoure V,Noble Metals,Perfect,35.46
+Placid,Ganoure,Espigoure,Espigoure V,Liquid Ozone,Poor,23.25
+Placid,Ganoure,Espigoure,Espigoure VI,Lustering Alloy,Rich,27.20
+Placid,Ganoure,Espigoure,Espigoure VI,Fiber Composite,Medium,24.74
+Placid,Ganoure,Espigoure,Espigoure VI,Reactive Gas,Rich,25.62
+Placid,Ganoure,Espigoure,Espigoure VI,Base Metals,Rich,7.81
+Placid,Ganoure,Espigoure,Espigoure VI,Reactive Metals,Rich,7.24
+Placid,Ganoure,Espigoure,Espigoure VII,Lustering Alloy,Perfect,32.84
+Placid,Ganoure,Espigoure,Espigoure VII,Fiber Composite,Rich,30.78
+Placid,Ganoure,Espigoure,Espigoure VII,Reactive Gas,Medium,21.84
+Placid,Ganoure,Espigoure,Espigoure VII,Polyaramids,Medium,13.81
+Placid,Ganoure,Espigoure,Espigoure VII,Ionic Solutions,Perfect,13.10
+Placid,Ganoure,Espigoure,Espigoure VIII,Sheen Compound,Rich,27.60
+Placid,Ganoure,Espigoure,Espigoure VIII,Fiber Composite,Perfect,32.22
+Placid,Ganoure,Espigoure,Espigoure VIII,Glossy Compound,Rich,30.90
+Placid,Ganoure,Espigoure,Espigoure VIII,Reactive Gas,Rich,26.02
+Placid,Ganoure,Espigoure,Espigoure VIII,Coolant,Medium,15.63
+Placid,Ganoure,Kenninck,Kenninck I,Lustering Alloy,Poor,16.91
+Placid,Ganoure,Kenninck,Kenninck I,Industrial Fibers,Medium,5.24
+Placid,Ganoure,Kenninck,Kenninck I,Oxygen Isotopes,Medium,2.70
+Placid,Ganoure,Kenninck,Kenninck II,Noble Gas,Perfect,30.97
+Placid,Ganoure,Kenninck,Kenninck II,Plasmoids,Medium,1.31
+Placid,Ganoure,Kenninck,Kenninck III,Noble Gas,Rich,29.15
+Placid,Ganoure,Kenninck,Kenninck III,Heavy Metals,Rich,29.28
+Placid,Ganoure,Kenninck,Kenninck IV,Fiber Composite,Rich,28.10
+Placid,Ganoure,Kenninck,Kenninck IV,Reactive Gas,Perfect,33.61
+Placid,Ganoure,Kenninck,Kenninck IV,Base Metals,Perfect,8.47
+Placid,Ganoure,Kenninck,Kenninck IV,Condensates,Rich,18.71
+Placid,Ganoure,Kenninck,Kenninck V,Precious Alloy,Poor,17.12
+Placid,Ganoure,Kenninck,Kenninck V,Base Metals,Poor,4.22
+Placid,Ganoure,Kenninck,Kenninck V,Industrial Fibers,Medium,4.97
+Placid,Ganoure,Kenninck,Kenninck VI,Fiber Composite,Medium,21.18
+Placid,Ganoure,Kenninck,Kenninck VI,Noble Gas,Rich,27.72
+Placid,Ganoure,Kenninck,Kenninck VI,Reactive Metals,Perfect,8.19
+Placid,Ganoure,Kenninck,Kenninck VI,Ionic Solutions,Medium,7.35
+Placid,Ganoure,Kenninck,Kenninck VII,Lucent Compound,Perfect,30.23
+Placid,Ganoure,Kenninck,Kenninck VII,Reactive Gas,Rich,25.63
+Placid,Ganoure,Kenninck,Kenninck VII,Construction Blocks,Rich,24.51
+Placid,Ganoure,Kenninck,Kenninck VIII,Lustering Alloy,Rich,25.65
+Placid,Ganoure,Kenninck,Kenninck VIII,Reactive Gas,Medium,20.79
+Placid,Ganoure,Kenninck,Kenninck VIII,Noble Gas,Medium,23.75
+Placid,Ganoure,Kenninck,Kenninck VIII,Base Metals,Rich,6.58
+Placid,Ganoure,Kenninck,Kenninck IX,Fiber Composite,Medium,23.77
+Placid,Ganoure,Kenninck,Kenninck IX,Noble Gas,Medium,20.82
+Placid,Ganoure,Kenninck,Kenninck IX,Base Metals,Rich,6.75
+Placid,Ganoure,Kenninck,Kenninck IX,Polyaramids,Medium,14.44
+Placid,Pegeler,Archavoinet,Archavoinet I,Reactive Gas,Rich,18.05
+Placid,Pegeler,Archavoinet,Archavoinet I,Suspended Plasma,Perfect,81.35
+Placid,Pegeler,Archavoinet,Archavoinet II,Lustering Alloy,Medium,15.72
+Placid,Pegeler,Archavoinet,Archavoinet II,Fiber Composite,Medium,16.17
+Placid,Pegeler,Archavoinet,Archavoinet II,Base Metals,Perfect,6.03
+Placid,Pegeler,Archavoinet,Archavoinet III,Lustering Alloy,Medium,13.54
+Placid,Pegeler,Archavoinet,Archavoinet III,Base Metals,Rich,4.97
+Placid,Pegeler,Archavoinet,Archavoinet IV,Lustering Alloy,Rich,19.92
+Placid,Pegeler,Archavoinet,Archavoinet IV,Base Metals,Poor,2.87
+Placid,Pegeler,Archavoinet,Archavoinet V,Lustering Alloy,Medium,15.57
+Placid,Pegeler,Archavoinet,Archavoinet V,Base Metals,Medium,4.47
+Placid,Pegeler,Eugales,Eugales I,Sheen Compound,Rich,22.66
+Placid,Pegeler,Eugales,Eugales I,Nanites,Rich,6.40
+Placid,Pegeler,Eugales,Eugales I,Suspended Plasma,Medium,67.51
+Placid,Pegeler,Eugales,Eugales I,Plasmoids,Rich,1.40
+Placid,Pegeler,Eugales,Eugales II,Noble Gas,Medium,15.18
+Placid,Pegeler,Eugales,Eugales II,Plasmoids,Rich,1.50
+Placid,Pegeler,Eugales,Eugales III,Gleaming Alloy,Medium,15.87
+Placid,Pegeler,Eugales,Eugales III,Construction Blocks,Medium,20.18
+Placid,Pegeler,Eugales,Eugales III,Nanites,Rich,6.51
+Placid,Pegeler,Eugales,Eugales IV,Construction Blocks,Poor,13.04
+Placid,Pegeler,Eugales,Eugales IV,Suspended Plasma,Rich,75.92
+Placid,Pegeler,Eugales,Eugales IV,Oxygen Isotopes,Medium,2.62
+Placid,Pegeler,Eugales,Eugales V,Sheen Compound,Rich,24.29
+Placid,Pegeler,Eugales,Eugales V,Noble Gas,Poor,13.97
+Placid,Pegeler,Eugales,Eugales V,Polyaramids,Poor,8.86
+Placid,Pegeler,Eugales,Eugales V,Ionic Solutions,Rich,9.63
+Placid,Pegeler,Eugales,Eugales VI,Toxic Metals,Poor,3.62
+Placid,Pegeler,Eugales,Eugales VI,Construction Blocks,Poor,13.62
+Placid,Pegeler,Eugales,Eugales VI,Nanites,Medium,5.29
+Placid,Pegeler,Eugales,Eugales VII,Noble Gas,Poor,14.61
+Placid,Pegeler,Eugales,Eugales VII,Reactive Metals,Rich,5.71
+Placid,Pegeler,Eugales,Eugales VII,Coolant,Medium,12.05
+Placid,Pegeler,Eugales,Eugales VII,Ionic Solutions,Rich,9.94
+Placid,Pegeler,Frarie,Frarie I,Glossy Compound,Perfect,28.32
+Placid,Pegeler,Frarie,Frarie I,Noble Gas,Medium,17.92
+Placid,Pegeler,Frarie,Frarie II,Noble Gas,Medium,20.08
+Placid,Pegeler,Frarie,Frarie II,Polyaramids,Perfect,18.67
+Placid,Pegeler,Frarie,Frarie III,Dark Compound,Poor,13.33
+Placid,Pegeler,Frarie,Frarie III,Industrial Fibers,Poor,3.44
+Placid,Pegeler,Frarie,Frarie III,Oxygen Isotopes,Medium,3.08
+Placid,Pegeler,Frarie,Frarie IV,Dark Compound,Medium,17.70
+Placid,Pegeler,Frarie,Frarie IV,Industrial Fibers,Medium,4.42
+Placid,Pegeler,Frarie,Frarie IV,Construction Blocks,Poor,14.93
+Placid,Pegeler,Frarie,Frarie V,Base Metals,Medium,5.39
+Placid,Pegeler,Frarie,Frarie V,Industrial Fibers,Poor,3.02
+Placid,Pegeler,Frarie,Frarie V,Silicate Glass,Poor,6.72
+Placid,Pegeler,Frarie,Frarie VI,Condensed Alloy,Rich,25.06
+Placid,Pegeler,Frarie,Frarie VI,Fiber Composite,Medium,17.32
+Placid,Pegeler,Frarie,Frarie VI,Reactive Gas,Rich,22.47
+Placid,Pegeler,Frarie,Frarie VI,Smartfab Units,Rich,16.20
+Placid,Pegeler,Frarie,Frarie VII,Fiber Composite,Perfect,28.63
+Placid,Pegeler,Frarie,Frarie VII,Base Metals,Poor,4.12
+Placid,Pegeler,Frarie,Frarie VII,Industrial Fibers,Rich,6.84
+Placid,Pegeler,Frarie,Frarie VII,Liquid Ozone,Rich,28.45
+Placid,Pegeler,Frarie,Frarie VIII,Base Metals,Medium,4.92
+Placid,Pegeler,Frarie,Frarie VIII,Toxic Metals,Poor,4.21
+Placid,Pegeler,Frarie,Frarie VIII,Industrial Fibers,Medium,4.66
+Placid,Pegeler,Frarie,Frarie IX,Lustering Alloy,Medium,18.11
+Placid,Pegeler,Frarie,Frarie IX,Noble Gas,Perfect,27.51
+Placid,Pegeler,Frarie,Frarie IX,Base Metals,Perfect,7.12
+Placid,Pegeler,Frarie,Frarie IX,Polyaramids,Poor,9.58
+Placid,Pegeler,Frarie,Frarie X,Industrial Fibers,Medium,4.40
+Placid,Pegeler,Frarie,Frarie X,Construction Blocks,Poor,12.77
+Placid,Pegeler,Frarie,Frarie X,Plasmoids,Poor,0.64
+Placid,Pegeler,Aubenall,Aubenall I,Toxic Metals,Poor,3.31
+Placid,Pegeler,Aubenall,Aubenall I,Industrial Fibers,Poor,3.00
+Placid,Pegeler,Aubenall,Aubenall I,Supertensile Plastics,Medium,13.06
+Placid,Pegeler,Aubenall,Aubenall II,Sheen Compound,Medium,19.23
+Placid,Pegeler,Aubenall,Aubenall II,Dark Compound,Rich,23.58
+Placid,Pegeler,Aubenall,Aubenall II,Nanites,Rich,6.21
+Placid,Pegeler,Aubenall,Aubenall II,Ionic Solutions,Poor,5.97
+Placid,Pegeler,Aubenall,Aubenall III,Noble Gas,Medium,18.03
+Placid,Pegeler,Aubenall,Aubenall III,Smartfab Units,Poor,8.87
+Placid,Pegeler,Aubenall,Aubenall IV,Fiber Composite,Poor,15.02
+Placid,Pegeler,Aubenall,Aubenall IV,Opulent Compound,Medium,18.10
+Placid,Pegeler,Aubenall,Aubenall IV,Base Metals,Medium,4.48
+Placid,Pegeler,Aubenall,Aubenall IV,Heavy Water,Medium,196.32
+Placid,Pegeler,Aubenall,Aubenall V,Lustering Alloy,Rich,20.58
+Placid,Pegeler,Aubenall,Aubenall V,Reactive Gas,Poor,13.60
+Placid,Pegeler,Aubenall,Aubenall V,Noble Gas,Perfect,25.74
+Placid,Pegeler,Aubenall,Aubenall V,Ionic Solutions,Poor,5.85
+Placid,Pegeler,Aubenall,Aubenall VI,Glossy Compound,Medium,15.63
+Placid,Pegeler,Aubenall,Aubenall VI,Noble Gas,Rich,23.50
+Placid,Pegeler,Aubenall,Aubenall VI,Polyaramids,Medium,10.28
+Placid,Pegeler,Aubenall,Aubenall VI,Ionic Solutions,Poor,5.32
+Placid,Pegeler,Aubenall,Aubenall VII,Reactive Metals,Perfect,6.75
+Placid,Pegeler,Aubenall,Aubenall VII,Construction Blocks,Rich,23.33
+Placid,Pegeler,Aubenall,Aubenall VII,Suspended Plasma,Poor,49.19
+Placid,Pegeler,Aubenall,Aubenall VIII,Industrial Fibers,Poor,3.90
+Placid,Pegeler,Aubenall,Aubenall VIII,Supertensile Plastics,Poor,7.81
+Placid,Pegeler,Aubenall,Aubenall VIII,Coolant,Medium,10.13
+Placid,Pegeler,Aubenall,Aubenall IX,Base Metals,Rich,5.44
+Placid,Pegeler,Aubenall,Aubenall IX,Heavy Metals,Medium,16.19
+Placid,Pegeler,Aubenall,Aubenall IX,Coolant,Poor,9.39
+Placid,Pegeler,Moclinamaud,Moclinamaud I,Lustering Alloy,Medium,19.50
+Placid,Pegeler,Moclinamaud,Moclinamaud I,Industrial Fibers,Medium,4.32
+Placid,Pegeler,Moclinamaud,Moclinamaud I,Oxygen Isotopes,Poor,1.87
+Placid,Pegeler,Moclinamaud,Moclinamaud II,Base Metals,Medium,4.28
+Placid,Pegeler,Moclinamaud,Moclinamaud II,Industrial Fibers,Poor,3.74
+Placid,Pegeler,Moclinamaud,Moclinamaud II,Construction Blocks,Poor,12.29
+Placid,Pegeler,Moclinamaud,Moclinamaud III,Precious Alloy,Medium,17.82
+Placid,Pegeler,Moclinamaud,Moclinamaud III,Industrial Fibers,Poor,3.05
+Placid,Pegeler,Moclinamaud,Moclinamaud III,Plasmoids,Poor,0.81
+Placid,Pegeler,Moclinamaud,Moclinamaud IV,Toxic Metals,Rich,6.26
+Placid,Pegeler,Moclinamaud,Moclinamaud IV,Construction Blocks,Medium,18.95
+Placid,Pegeler,Moclinamaud,Moclinamaud IV,Suspended Plasma,Rich,87.94
+Placid,Pegeler,Moclinamaud,Moclinamaud V,Dark Compound,Medium,19.82
+Placid,Pegeler,Moclinamaud,Moclinamaud V,Industrial Fibers,Medium,5.37
+Placid,Pegeler,Moclinamaud,Moclinamaud V,Construction Blocks,Poor,12.34
+Placid,Pegeler,Moclinamaud,Moclinamaud VI,Dark Compound,Poor,10.69
+Placid,Pegeler,Moclinamaud,Moclinamaud VI,Industrial Fibers,Poor,3.47
+Placid,Pegeler,Moclinamaud,Moclinamaud VI,Supertensile Plastics,Poor,10.49
+Placid,Pegeler,Moclinamaud,Moclinamaud VII,Lustering Alloy,Medium,17.58
+Placid,Pegeler,Moclinamaud,Moclinamaud VII,Glossy Compound,Perfect,27.20
+Placid,Pegeler,Moclinamaud,Moclinamaud VII,Noble Gas,Rich,21.66
+Placid,Pegeler,Moclinamaud,Moclinamaud VII,Base Metals,Medium,4.46
+Placid,Pegeler,Moclinamaud,Moclinamaud VIII,Lustering Alloy,Medium,20.40
+Placid,Pegeler,Moclinamaud,Moclinamaud VIII,Glossy Compound,Medium,18.60
+Placid,Pegeler,Moclinamaud,Moclinamaud VIII,Noble Gas,Rich,25.75
+Placid,Pegeler,Moclinamaud,Moclinamaud VIII,Polyaramids,Perfect,18.77
+Placid,Pegeler,Moclinamaud,Moclinamaud IX,Lustering Alloy,Rich,24.14
+Placid,Pegeler,Moclinamaud,Moclinamaud IX,Sheen Compound,Poor,14.42
+Placid,Pegeler,Moclinamaud,Moclinamaud IX,Reactive Gas,Medium,18.45
+Placid,Pegeler,Moclinamaud,Moclinamaud IX,Noble Gas,Rich,23.24
+Placid,Pegeler,Moclinamaud,Moclinamaud X,Industrial Fibers,Poor,4.17
+Placid,Pegeler,Moclinamaud,Moclinamaud X,Construction Blocks,Poor,12.90
+Placid,Pegeler,Moclinamaud,Moclinamaud X,Oxygen Isotopes,Poor,2.19
+Placid,Pegeler,Renarelle,Renarelle I,Industrial Fibers,Medium,4.95
+Placid,Pegeler,Renarelle,Renarelle I,Supertensile Plastics,Medium,11.91
+Placid,Pegeler,Renarelle,Renarelle I,Construction Blocks,Medium,18.60
+Placid,Pegeler,Renarelle,Renarelle II,Lustering Alloy,Poor,14.54
+Placid,Pegeler,Renarelle,Renarelle II,Industrial Fibers,Poor,3.17
+Placid,Pegeler,Renarelle,Renarelle II,Plasmoids,Poor,0.94
+Placid,Pegeler,Renarelle,Renarelle III,Reactive Gas,Poor,15.04
+Placid,Pegeler,Renarelle,Renarelle III,Noble Gas,Medium,20.67
+Placid,Pegeler,Renarelle,Renarelle III,Base Metals,Medium,4.41
+Placid,Pegeler,Renarelle,Renarelle III,Ionic Solutions,Rich,10.16
+Placid,Pegeler,Renarelle,Renarelle IV,Lustering Alloy,Rich,23.19
+Placid,Pegeler,Renarelle,Renarelle IV,Sheen Compound,Perfect,27.93
+Placid,Pegeler,Renarelle,Renarelle IV,Noble Gas,Rich,26.77
+Placid,Pegeler,Renarelle,Renarelle IV,Coolant,Poor,9.94
+Placid,Pegeler,Renarelle,Renarelle V,Fiber Composite,Rich,22.61
+Placid,Pegeler,Renarelle,Renarelle V,Base Metals,Perfect,7.18
+Placid,Pegeler,Renarelle,Renarelle V,Noble Metals,Perfect,30.02
+Placid,Pegeler,Renarelle,Renarelle V,Smartfab Units,Perfect,20.23
+Placid,Beyt,Orvolle,Orvolle I,Motley Compound,Perfect,21.20
+Placid,Beyt,Orvolle,Orvolle I,Noble Metals,Medium,13.18
+Placid,Beyt,Orvolle,Orvolle II,Condensed Alloy,Medium,13.83
+Placid,Beyt,Orvolle,Orvolle II,Noble Metals,Rich,18.12
+Placid,Beyt,Orvolle,Orvolle II,Heavy Water,Perfect,210.99
+Placid,Beyt,Orvolle,Orvolle III,Reactive Metals,Medium,4.31
+Placid,Beyt,Orvolle,Orvolle III,Suspended Plasma,Poor,43.66
+Placid,Beyt,Orvolle,Orvolle IV,Fiber Composite,Medium,16.22
+Placid,Beyt,Orvolle,Orvolle IV,Opulent Compound,Perfect,22.71
+Placid,Beyt,Orvolle,Orvolle IV,Heavy Water,Medium,157.82
+Placid,Beyt,Orvolle,Orvolle V,Opulent Compound,Rich,20.10
+Placid,Beyt,Orvolle,Orvolle V,Heavy Water,Rich,173.42
+Placid,Beyt,Orvolle,Orvolle V,Liquid Ozone,Rich,20.83
+Placid,Beyt,Orvolle,Orvolle VI,Opulent Compound,Perfect,22.92
+Placid,Beyt,Orvolle,Orvolle VI,Reactive Gas,Rich,18.93
+Placid,Beyt,Orvolle,Orvolle VI,Heavy Water,Medium,128.44
+Placid,Beyt,Orvolle,Orvolle VII,Reactive Gas,Perfect,22.40
+Placid,Beyt,Orvolle,Orvolle VII,Smartfab Units,Perfect,16.54
+Placid,Beyt,Orvolle,Orvolle VII,Heavy Water,Perfect,213.85
+Placid,Beyt,Osmeden,Osmeden I,Motley Compound,Rich,16.47
+Placid,Beyt,Osmeden,Osmeden I,Oxygen Isotopes,Rich,2.79
+Placid,Beyt,Osmeden,Osmeden II,Lustering Alloy,Medium,12.96
+Placid,Beyt,Osmeden,Osmeden II,Base Metals,Medium,4.17
+Placid,Beyt,Osmeden,Osmeden III,Lustering Alloy,Poor,8.70
+Placid,Beyt,Osmeden,Osmeden III,Base Metals,Poor,2.80
+Placid,Beyt,Osmeden,Osmeden IV,Lustering Alloy,Poor,10.05
+Placid,Beyt,Osmeden,Osmeden IV,Base Metals,Poor,2.87
+Placid,Beyt,Osmeden,Osmeden V,Industrial Fibers,Rich,5.07
+Placid,Beyt,Osmeden,Osmeden V,Condensates,Perfect,13.77
+Placid,Beyt,Osmeden,Osmeden V,Heavy Water,Rich,205.92
+Placid,Beyt,Osmeden,Osmeden VI,Condensed Alloy,Perfect,22.58
+Placid,Beyt,Osmeden,Osmeden VI,Opulent Compound,Medium,14.26
+Placid,Beyt,Osmeden,Osmeden VI,Heavy Water,Poor,122.33
+Placid,Beyt,Osmeden,Osmeden VII,Lustering Alloy,Medium,15.83
+Placid,Beyt,Osmeden,Osmeden VII,Base Metals,Medium,4.30
+Placid,Beyt,Osmeden,Osmeden VII,Polyaramids,Poor,7.80
+Placid,Beyt,Osmeden,Osmeden VIII,Base Metals,Medium,3.73
+Placid,Beyt,Osmeden,Osmeden VIII,Noble Metals,Rich,17.65
+Placid,Beyt,Osmeden,Osmeden VIII,Heavy Water,Medium,156.39
+Placid,Beyt,Osmeden,Osmeden IX,Lustering Alloy,Medium,13.70
+Placid,Beyt,Osmeden,Osmeden IX,Fiber Composite,Medium,13.16
+Placid,Beyt,Osmeden,Osmeden IX,Base Metals,Rich,5.39
+Placid,Beyt,Osmeden,Osmeden X,Lustering Alloy,Medium,13.64
+Placid,Beyt,Osmeden,Osmeden X,Base Metals,Rich,5.12
+Placid,Beyt,Osmeden,Osmeden X,Reactive Metals,Poor,3.05
+Placid,Beyt,Osmeden,Osmeden XI,Lustering Alloy,Medium,14.18
+Placid,Beyt,Osmeden,Osmeden XI,Sheen Compound,Rich,20.02
+Placid,Beyt,Osmeden,Osmeden XI,Base Metals,Medium,3.99
+Placid,Beyt,Osmeden,Osmeden XII,Lustering Alloy,Medium,12.54
+Placid,Beyt,Osmeden,Osmeden XII,Base Metals,Medium,3.40
+Placid,Beyt,Adacyne,Adacyne I,Heavy Metals,Perfect,26.13
+Placid,Beyt,Adacyne,Adacyne I,Nanites,Rich,5.95
+Placid,Beyt,Adacyne,Adacyne I,Suspended Plasma,Medium,67.66
+Placid,Beyt,Adacyne,Adacyne II,Lustering Alloy,Poor,13.62
+Placid,Beyt,Adacyne,Adacyne II,Reactive Gas,Rich,20.77
+Placid,Beyt,Adacyne,Adacyne II,Base Metals,Rich,5.33
+Placid,Beyt,Adacyne,Adacyne III,Lustering Alloy,Poor,13.30
+Placid,Beyt,Adacyne,Adacyne III,Base Metals,Rich,5.57
+Placid,Beyt,Adacyne,Adacyne III,Ionic Solutions,Medium,6.89
+Placid,Beyt,Adacyne,Adacyne IV,Lustering Alloy,Rich,19.64
+Placid,Beyt,Adacyne,Adacyne IV,Reactive Gas,Rich,21.00
+Placid,Beyt,Adacyne,Adacyne IV,Base Metals,Rich,6.17
+Placid,Beyt,Adacyne,Adacyne V,Lustering Alloy,Rich,21.52
+Placid,Beyt,Adacyne,Adacyne V,Base Metals,Rich,5.49
+Placid,Beyt,Adacyne,Adacyne VI,Opulent Compound,Rich,20.70
+Placid,Beyt,Adacyne,Adacyne VI,Polyaramids,Rich,14.41
+Placid,Beyt,Adacyne,Adacyne VI,Heavy Water,Rich,217.35
+Placid,Beyt,Adacyne,Adacyne VII,Lustering Alloy,Poor,11.64
+Placid,Beyt,Adacyne,Adacyne VII,Base Metals,Medium,4.18
+Placid,Beyt,Oulley,Oulley I,Motley Compound,Poor,14.48
+Placid,Beyt,Oulley,Oulley I,Noble Gas,Perfect,27.30
+Placid,Beyt,Oulley,Oulley II,Noble Gas,Rich,25.25
+Placid,Beyt,Oulley,Oulley II,Polyaramids,Perfect,18.03
+Placid,Beyt,Oulley,Oulley III,Crystal Compound,Perfect,29.31
+Placid,Beyt,Oulley,Oulley III,Toxic Metals,Medium,4.73
+Placid,Beyt,Oulley,Oulley III,Coolant,Perfect,18.89
+Placid,Beyt,Oulley,Oulley III,Silicate Glass,Rich,13.13
+Placid,Beyt,Oulley,Oulley IV,Fiber Composite,Rich,26.54
+Placid,Beyt,Oulley,Oulley IV,Industrial Fibers,Medium,5.41
+Placid,Beyt,Oulley,Oulley IV,Heavy Water,Rich,221.17
+Placid,Beyt,Oulley,Oulley IV,Liquid Ozone,Rich,27.58
+Placid,Beyt,Oulley,Oulley V,Fiber Composite,Medium,17.99
+Placid,Beyt,Oulley,Oulley V,Noble Metals,Medium,19.31
+Placid,Beyt,Oulley,Oulley V,Smartfab Units,Rich,16.13
+Placid,Beyt,Oulley,Oulley V,Liquid Ozone,Medium,22.76
+Placid,Beyt,Oulley,Oulley VI,Crystal Compound,Poor,14.03
+Placid,Beyt,Oulley,Oulley VI,Construction Blocks,Rich,23.58
+Placid,Beyt,Oulley,Oulley VI,Suspended Plasma,Rich,81.70
+Placid,Beyt,Chardalane,Chardalane I,Noble Gas,Rich,21.61
+Placid,Beyt,Chardalane,Chardalane I,Heavy Metals,Medium,17.61
+Placid,Beyt,Chardalane,Chardalane II,Precious Alloy,Medium,18.79
+Placid,Beyt,Chardalane,Chardalane II,Industrial Fibers,Medium,4.56
+Placid,Beyt,Chardalane,Chardalane II,Plasmoids,Medium,1.01
+Placid,Beyt,Chardalane,Chardalane III,Lustering Alloy,Poor,13.77
+Placid,Beyt,Chardalane,Chardalane III,Base Metals,Poor,3.92
+Placid,Beyt,Chardalane,Chardalane III,Industrial Fibers,Poor,3.58
+Placid,Beyt,Chardalane,Chardalane IV,Base Metals,Medium,4.40
+Placid,Beyt,Chardalane,Chardalane IV,Toxic Metals,Medium,4.23
+Placid,Beyt,Chardalane,Chardalane IV,Industrial Fibers,Medium,4.55
+Placid,Beyt,Chardalane,Chardalane V,Sheen Compound,Medium,19.18
+Placid,Beyt,Chardalane,Chardalane V,Noble Gas,Medium,17.09
+Placid,Beyt,Chardalane,Chardalane V,Base Metals,Rich,7.10
+Placid,Beyt,Chardalane,Chardalane V,Reactive Metals,Medium,4.75
+Placid,Beyt,Maut,Maut I,Noble Gas,Rich,28.46
+Placid,Beyt,Maut,Maut I,Oxygen Isotopes,Rich,4.18
+Placid,Beyt,Maut,Maut II,Condensed Alloy,Rich,23.47
+Placid,Beyt,Maut,Maut II,Fiber Composite,Perfect,31.72
+Placid,Beyt,Maut,Maut II,Opulent Compound,Perfect,34.09
+Placid,Beyt,Maut,Maut II,Heavy Water,Perfect,322.92
+Placid,Beyt,Maut,Maut III,Lustering Alloy,Medium,17.12
+Placid,Beyt,Maut,Maut III,Industrial Fibers,Medium,5.25
+Placid,Beyt,Maut,Maut III,Supertensile Plastics,Poor,11.08
+Placid,Beyt,Maut,Maut IV,Reactive Gas,Perfect,28.76
+Placid,Beyt,Maut,Maut IV,Noble Gas,Medium,19.17
+Placid,Beyt,Maut,Maut IV,Reactive Metals,Rich,6.58
+Placid,Beyt,Maut,Maut IV,Ionic Solutions,Rich,10.18
+Placid,Beyt,Maut,Maut V,Condensed Alloy,Perfect,30.02
+Placid,Beyt,Maut,Maut V,Fiber Composite,Rich,23.40
+Placid,Beyt,Maut,Maut V,Reactive Gas,Medium,18.52
+Placid,Beyt,Maut,Maut V,Noble Metals,Perfect,32.92
+Placid,Beyt,Maut,Maut VI,Sheen Compound,Medium,22.36
+Placid,Beyt,Maut,Maut VI,Noble Gas,Poor,15.28
+Placid,Beyt,Maut,Maut VI,Reactive Metals,Medium,5.45
+Placid,Beyt,Maut,Maut VI,Ionic Solutions,Rich,10.06
+Placid,Beyt,Maut,Maut VII,Precious Alloy,Poor,13.46
+Placid,Beyt,Maut,Maut VII,Motley Compound,Medium,21.73
+Placid,Beyt,Maut,Maut VII,Coolant,Medium,14.29
+Placid,Beyt,Maut,Maut VIII,Precious Alloy,Poor,15.66
+Placid,Beyt,Maut,Maut VIII,Base Metals,Medium,4.64
+Placid,Beyt,Maut,Maut VIII,Industrial Fibers,Medium,4.57
+Placid,Amevync,Vlillirier,Vlillirier I,Lucent Compound,Poor,16.45
+Placid,Amevync,Vlillirier,Vlillirier I,Noble Gas,Poor,16.76
+Placid,Amevync,Vlillirier,Vlillirier I,Reactive Metals,Rich,7.33
+Placid,Amevync,Vlillirier,Vlillirier I,Nanites,Medium,5.11
+Placid,Amevync,Vlillirier,Vlillirier II,Precious Alloy,Medium,19.87
+Placid,Amevync,Vlillirier,Vlillirier II,Dark Compound,Medium,18.31
+Placid,Amevync,Vlillirier,Vlillirier II,Industrial Fibers,Poor,3.78
+Placid,Amevync,Vlillirier,Vlillirier III,Lustering Alloy,Medium,17.19
+Placid,Amevync,Vlillirier,Vlillirier III,Industrial Fibers,Medium,4.82
+Placid,Amevync,Vlillirier,Vlillirier III,Plasmoids,Poor,0.87
+Placid,Amevync,Vlillirier,Vlillirier IV,Reactive Gas,Rich,26.37
+Placid,Amevync,Vlillirier,Vlillirier IV,Noble Gas,Medium,17.82
+Placid,Amevync,Vlillirier,Vlillirier IV,Base Metals,Rich,7.10
+Placid,Amevync,Vlillirier,Vlillirier IV,Ionic Solutions,Rich,10.88
+Placid,Amevync,Vlillirier,Vlillirier V,Fiber Composite,Poor,16.74
+Placid,Amevync,Vlillirier,Vlillirier V,Glossy Compound,Rich,28.04
+Placid,Amevync,Vlillirier,Vlillirier V,Noble Gas,Perfect,29.16
+Placid,Amevync,Vlillirier,Vlillirier V,Polyaramids,Perfect,19.31
+Placid,Amevync,Vlillirier,Vlillirier VI,Fiber Composite,Perfect,30.60
+Placid,Amevync,Vlillirier,Vlillirier VI,Reactive Gas,Perfect,30.51
+Placid,Amevync,Vlillirier,Vlillirier VI,Industrial Fibers,Perfect,8.24
+Placid,Amevync,Vlillirier,Vlillirier VI,Condensates,Perfect,21.18
+Placid,Amevync,Vlillirier,Vlillirier VII,Precious Alloy,Rich,25.79
+Placid,Amevync,Vlillirier,Vlillirier VII,Base Metals,Poor,3.55
+Placid,Amevync,Vlillirier,Vlillirier VII,Coolant,Medium,14.35
+Placid,Amevync,Aldranette,Aldranette I,Lustering Alloy,Poor,12.49
+Placid,Amevync,Aldranette,Aldranette I,Dark Compound,Medium,20.54
+Placid,Amevync,Aldranette,Aldranette I,Industrial Fibers,Poor,3.48
+Placid,Amevync,Aldranette,Aldranette II,Toxic Metals,Medium,4.85
+Placid,Amevync,Aldranette,Aldranette II,Industrial Fibers,Poor,3.63
+Placid,Amevync,Aldranette,Aldranette II,Supertensile Plastics,Medium,11.14
+Placid,Amevync,Aldranette,Aldranette III,Gleaming Alloy,Poor,14.48
+Placid,Amevync,Aldranette,Aldranette III,Noble Gas,Rich,25.67
+Placid,Amevync,Aldranette,Aldranette IV,Fiber Composite,Medium,16.20
+Placid,Amevync,Aldranette,Aldranette IV,Opulent Compound,Perfect,29.05
+Placid,Amevync,Aldranette,Aldranette IV,Smartfab Units,Perfect,19.92
+Placid,Amevync,Aldranette,Aldranette IV,Liquid Ozone,Perfect,34.34
+Placid,Amevync,Aldranette,Aldranette V,Toxic Metals,Medium,5.16
+Placid,Amevync,Aldranette,Aldranette V,Industrial Fibers,Poor,2.84
+Placid,Amevync,Aldranette,Aldranette V,Oxygen Isotopes,Poor,2.12
+Placid,Amevync,Aldranette,Aldranette VI,Lustering Alloy,Poor,10.85
+Placid,Amevync,Aldranette,Aldranette VI,Industrial Fibers,Poor,3.87
+Placid,Amevync,Aldranette,Aldranette VI,Silicate Glass,Medium,9.25
+Placid,Amevync,Aldranette,Aldranette VII,Crystal Compound,Medium,19.82
+Placid,Amevync,Aldranette,Aldranette VII,Construction Blocks,Poor,14.13
+Placid,Amevync,Aldranette,Aldranette VII,Oxygen Isotopes,Rich,3.94
+Placid,Amevync,Aldranette,Aldranette VIII,Precious Alloy,Poor,15.78
+Placid,Amevync,Aldranette,Aldranette VIII,Industrial Fibers,Medium,4.46
+Placid,Amevync,Aldranette,Aldranette VIII,Construction Blocks,Medium,19.16
+Placid,Amevync,Aldranette,Aldranette IX,Fiber Composite,Perfect,27.95
+Placid,Amevync,Aldranette,Aldranette IX,Industrial Fibers,Rich,5.86
+Placid,Amevync,Aldranette,Aldranette IX,Condensates,Perfect,19.74
+Placid,Amevync,Aldranette,Aldranette IX,Liquid Ozone,Medium,23.18
+Placid,Amevync,Aldranette,Aldranette X,Industrial Fibers,Poor,3.87
+Placid,Amevync,Aldranette,Aldranette X,Silicate Glass,Poor,7.91
+Placid,Amevync,Aldranette,Aldranette X,Oxygen Isotopes,Medium,2.67
+Placid,Amevync,Oicx,Oicx I,Industrial Fibers,Medium,4.33
+Placid,Amevync,Oicx,Oicx I,Oxygen Isotopes,Medium,2.65
+Placid,Amevync,Oicx,Oicx I,Plasmoids,Poor,0.78
+Placid,Amevync,Oicx,Oicx II,Dark Compound,Medium,16.49
+Placid,Amevync,Oicx,Oicx II,Toxic Metals,Medium,5.37
+Placid,Amevync,Oicx,Oicx II,Industrial Fibers,Medium,4.65
+Placid,Amevync,Oicx,Oicx III,Condensed Alloy,Medium,17.90
+Placid,Amevync,Oicx,Oicx III,Fiber Composite,Medium,16.54
+Placid,Amevync,Oicx,Oicx III,Industrial Fibers,Medium,4.98
+Placid,Amevync,Oicx,Oicx III,Heavy Water,Medium,161.84
+Placid,Amevync,Oicx,Oicx IV,Opulent Compound,Medium,20.67
+Placid,Amevync,Oicx,Oicx IV,Crystal Compound,Poor,15.78
+Placid,Amevync,Oicx,Oicx IV,Coolant,Perfect,18.84
+Placid,Amevync,Oicx,Oicx IV,Liquid Ozone,Perfect,37.42
+Placid,Amevync,Oicx,Oicx V,Fiber Composite,Poor,15.84
+Placid,Amevync,Oicx,Oicx V,Industrial Fibers,Rich,6.88
+Placid,Amevync,Oicx,Oicx V,Condensates,Medium,13.45
+Placid,Amevync,Oicx,Oicx V,Liquid Ozone,Medium,24.29
+Placid,Amevync,Oicx,Oicx VI,Reactive Gas,Perfect,27.71
+Placid,Amevync,Oicx,Oicx VI,Noble Gas,Perfect,27.25
+Placid,Amevync,Oicx,Oicx VI,Reactive Metals,Rich,6.88
+Placid,Amevync,Oicx,Oicx VI,Ionic Solutions,Perfect,11.00
+Placid,Amevync,Oicx,Oicx VII,Fiber Composite,Medium,17.85
+Placid,Amevync,Oicx,Oicx VII,Reactive Gas,Medium,19.65
+Placid,Amevync,Oicx,Oicx VII,Noble Gas,Medium,20.64
+Placid,Amevync,Oicx,Oicx VII,Reactive Metals,Medium,5.64
+Placid,Amevync,Evaulon,Evaulon I,Industrial Fibers,Medium,4.80
+Placid,Amevync,Evaulon,Evaulon I,Silicate Glass,Poor,6.33
+Placid,Amevync,Evaulon,Evaulon I,Oxygen Isotopes,Medium,3.01
+Placid,Amevync,Evaulon,Evaulon II,Lustering Alloy,Poor,11.54
+Placid,Amevync,Evaulon,Evaulon II,Industrial Fibers,Poor,3.66
+Placid,Amevync,Evaulon,Evaulon II,Oxygen Isotopes,Medium,2.41
+Placid,Amevync,Evaulon,Evaulon III,Gleaming Alloy,Medium,18.12
+Placid,Amevync,Evaulon,Evaulon III,Construction Blocks,Poor,16.01
+Placid,Amevync,Evaulon,Evaulon III,Nanites,Medium,5.62
+Placid,Amevync,Evaulon,Evaulon IV,Industrial Fibers,Poor,4.09
+Placid,Amevync,Evaulon,Evaulon IV,Supertensile Plastics,Medium,12.73
+Placid,Amevync,Evaulon,Evaulon IV,Silicate Glass,Poor,5.83
+Placid,Amevync,Evaulon,Evaulon V,Fiber Composite,Perfect,29.04
+Placid,Amevync,Evaulon,Evaulon V,Opulent Compound,Medium,20.04
+Placid,Amevync,Evaulon,Evaulon V,Noble Metals,Rich,24.14
+Placid,Amevync,Evaulon,Evaulon V,Heavy Water,Medium,180.37
+Placid,Amevync,Evaulon,Evaulon VI,Condensed Alloy,Rich,26.09
+Placid,Amevync,Evaulon,Evaulon VI,Fiber Composite,Rich,21.56
+Placid,Amevync,Evaulon,Evaulon VI,Industrial Fibers,Perfect,8.20
+Placid,Amevync,Evaulon,Evaulon VI,Condensates,Rich,16.24
+Placid,Amevync,Evaulon,Evaulon VII,Fiber Composite,Rich,26.57
+Placid,Amevync,Evaulon,Evaulon VII,Industrial Fibers,Perfect,7.27
+Placid,Amevync,Evaulon,Evaulon VII,Heavy Water,Medium,177.99
+Placid,Amevync,Evaulon,Evaulon VII,Liquid Ozone,Perfect,35.02
+Placid,Amevync,Anchauttes,Anchauttes I,Lucent Compound,Medium,19.65
+Placid,Amevync,Anchauttes,Anchauttes I,Crystal Compound,Poor,14.03
+Placid,Amevync,Anchauttes,Anchauttes I,Construction Blocks,Rich,22.37
+Placid,Amevync,Anchauttes,Anchauttes II,Industrial Fibers,Poor,2.78
+Placid,Amevync,Anchauttes,Anchauttes II,Construction Blocks,Poor,11.44
+Placid,Amevync,Anchauttes,Anchauttes II,Plasmoids,Medium,1.00
+Placid,Amevync,Anchauttes,Anchauttes III,Reactive Gas,Medium,16.52
+Placid,Amevync,Anchauttes,Anchauttes III,Noble Gas,Poor,14.93
+Placid,Amevync,Anchauttes,Anchauttes III,Reactive Metals,Medium,4.46
+Placid,Amevync,Anchauttes,Anchauttes III,Ionic Solutions,Medium,8.13
+Placid,Amevync,Anchauttes,Anchauttes IV,Lustering Alloy,Rich,24.26
+Placid,Amevync,Anchauttes,Anchauttes IV,Fiber Composite,Medium,17.37
+Placid,Amevync,Anchauttes,Anchauttes IV,Noble Gas,Medium,19.91
+Placid,Amevync,Anchauttes,Anchauttes IV,Base Metals,Medium,4.27
+Placid,Amevync,Anchauttes,Anchauttes V,Sheen Compound,Poor,14.28
+Placid,Amevync,Anchauttes,Anchauttes V,Glossy Compound,Poor,15.50
+Placid,Amevync,Anchauttes,Anchauttes V,Noble Gas,Perfect,28.20
+Placid,Amevync,Anchauttes,Anchauttes V,Reactive Metals,Rich,6.15
+Placid,Amevync,Anchauttes,Anchauttes VI,Precious Alloy,Poor,13.16
+Placid,Amevync,Anchauttes,Anchauttes VI,Industrial Fibers,Medium,4.74
+Placid,Amevync,Anchauttes,Anchauttes VI,Oxygen Isotopes,Medium,2.94
+Placid,Amevync,Alsavoinon,Alsavoinon I,Precious Alloy,Medium,17.19
+Placid,Amevync,Alsavoinon,Alsavoinon I,Industrial Fibers,Medium,5.81
+Placid,Amevync,Alsavoinon,Alsavoinon I,Plasmoids,Poor,0.69
+Placid,Amevync,Alsavoinon,Alsavoinon II,Opulent Compound,Medium,21.29
+Placid,Amevync,Alsavoinon,Alsavoinon II,Crystal Compound,Perfect,31.82
+Placid,Amevync,Alsavoinon,Alsavoinon II,Polyaramids,Perfect,20.65
+Placid,Amevync,Alsavoinon,Alsavoinon II,Coolant,Rich,17.87
+Placid,Amevync,Alsavoinon,Alsavoinon III,Precious Alloy,Poor,14.29
+Placid,Amevync,Alsavoinon,Alsavoinon III,Industrial Fibers,Poor,4.42
+Placid,Amevync,Alsavoinon,Alsavoinon III,Plasmoids,Poor,0.87
+Placid,Amevync,Alsavoinon,Alsavoinon IV,Crystal Compound,Medium,22.61
+Placid,Amevync,Alsavoinon,Alsavoinon IV,Toxic Metals,Rich,6.82
+Placid,Amevync,Alsavoinon,Alsavoinon IV,Construction Blocks,Medium,17.03
+Placid,Amevync,Alsavoinon,Alsavoinon V,Gleaming Alloy,Rich,24.50
+Placid,Amevync,Alsavoinon,Alsavoinon V,Crystal Compound,Medium,21.51
+Placid,Amevync,Alsavoinon,Alsavoinon V,Construction Blocks,Rich,28.03
+Placid,Amevync,Alsavoinon,Alsavoinon VI,Lustering Alloy,Poor,15.73
+Placid,Amevync,Alsavoinon,Alsavoinon VI,Sheen Compound,Medium,19.48
+Placid,Amevync,Alsavoinon,Alsavoinon VI,Noble Gas,Rich,26.37
+Placid,Amevync,Alsavoinon,Alsavoinon VI,Polyaramids,Rich,17.34
+Placid,Amevync,Esesier,Esesier I,Industrial Fibers,Medium,5.77
+Placid,Amevync,Esesier,Esesier I,Supertensile Plastics,Poor,9.60
+Placid,Amevync,Esesier,Esesier I,Plasmoids,Poor,0.71
+Placid,Amevync,Esesier,Esesier II,Noble Gas,Rich,26.87
+Placid,Amevync,Esesier,Esesier II,Reactive Metals,Rich,6.17
+Placid,Amevync,Esesier,Esesier II,Nanites,Medium,4.51
+Placid,Amevync,Esesier,Esesier II,Suspended Plasma,Rich,99.79
+Placid,Amevync,Esesier,Esesier III,Precious Alloy,Medium,20.34
+Placid,Amevync,Esesier,Esesier III,Base Metals,Poor,3.11
+Placid,Amevync,Esesier,Esesier III,Industrial Fibers,Medium,5.76
+Placid,Amevync,Esesier,Esesier IV,Crystal Compound,Medium,19.58
+Placid,Amevync,Esesier,Esesier IV,Construction Blocks,Rich,26.05
+Placid,Amevync,Esesier,Esesier IV,Suspended Plasma,Poor,59.23
+Placid,Amevync,Esesier,Esesier V,Industrial Fibers,Poor,3.97
+Placid,Amevync,Esesier,Esesier V,Supertensile Plastics,Poor,7.79
+Placid,Amevync,Esesier,Esesier V,Oxygen Isotopes,Poor,2.45
+Placid,Amevync,Esesier,Esesier VI,Dark Compound,Medium,21.19
+Placid,Amevync,Esesier,Esesier VI,Industrial Fibers,Poor,3.85
+Placid,Amevync,Esesier,Esesier VI,Plasmoids,Medium,1.29
+Placid,Amevync,Esesier,Esesier VII,Sheen Compound,Medium,19.21
+Placid,Amevync,Esesier,Esesier VII,Reactive Gas,Poor,16.18
+Placid,Amevync,Esesier,Esesier VII,Noble Gas,Medium,18.58
+Placid,Amevync,Esesier,Esesier VII,Ionic Solutions,Medium,8.40
+Placid,Amevync,Esesier,Esesier VIII,Fiber Composite,Perfect,31.03
+Placid,Amevync,Esesier,Esesier VIII,Opulent Compound,Rich,24.46
+Placid,Amevync,Esesier,Esesier VIII,Condensates,Medium,11.71
+Placid,Amevync,Esesier,Esesier VIII,Liquid Ozone,Perfect,38.30
+Placid,Amevync,Esesier,Esesier IX,Fiber Composite,Perfect,29.86
+Placid,Amevync,Esesier,Esesier IX,Noble Gas,Medium,17.73
+Placid,Amevync,Esesier,Esesier IX,Reactive Metals,Medium,4.69
+Placid,Amevync,Esesier,Esesier IX,Coolant,Rich,16.10
+Placid,Amevync,Esesier,Esesier X,Sheen Compound,Poor,15.41
+Placid,Amevync,Esesier,Esesier X,Noble Gas,Medium,21.13
+Placid,Amevync,Esesier,Esesier X,Coolant,Medium,14.78
+Placid,Amevync,Esesier,Esesier X,Ionic Solutions,Medium,7.64
+Placid,Mallugier,Avaux,Avaux I,Precious Alloy,Poor,13.68
+Placid,Mallugier,Avaux,Avaux I,Industrial Fibers,Medium,4.56
+Placid,Mallugier,Avaux,Avaux I,Construction Blocks,Medium,18.85
+Placid,Mallugier,Avaux,Avaux II,Noble Gas,Rich,23.92
+Placid,Mallugier,Avaux,Avaux II,Noble Metals,Poor,14.22
+Placid,Mallugier,Avaux,Avaux III,Opulent Compound,Rich,23.97
+Placid,Mallugier,Avaux,Avaux III,Polyaramids,Rich,16.78
+Placid,Mallugier,Avaux,Avaux III,Coolant,Medium,11.02
+Placid,Mallugier,Avaux,Avaux III,Silicate Glass,Perfect,13.71
+Placid,Mallugier,Avaux,Avaux IV,Lustering Alloy,Medium,19.42
+Placid,Mallugier,Avaux,Avaux IV,Sheen Compound,Medium,20.18
+Placid,Mallugier,Avaux,Avaux IV,Noble Gas,Medium,18.75
+Placid,Mallugier,Avaux,Avaux IV,Ionic Solutions,Rich,9.54
+Placid,Mallugier,Avaux,Avaux V,Reactive Gas,Medium,17.04
+Placid,Mallugier,Avaux,Avaux V,Noble Gas,Rich,21.31
+Placid,Mallugier,Avaux,Avaux V,Reactive Metals,Medium,5.16
+Placid,Mallugier,Avaux,Avaux V,Coolant,Perfect,17.64
+Placid,Mallugier,Avaux,Avaux VI,Glossy Compound,Medium,17.74
+Placid,Mallugier,Avaux,Avaux VI,Reactive Gas,Rich,22.08
+Placid,Mallugier,Avaux,Avaux VI,Noble Gas,Rich,24.06
+Placid,Mallugier,Avaux,Avaux VI,Coolant,Medium,12.45
+Placid,Mallugier,Avaux,Avaux VII,Industrial Fibers,Poor,3.92
+Placid,Mallugier,Avaux,Avaux VII,Construction Blocks,Poor,14.45
+Placid,Mallugier,Avaux,Avaux VII,Silicate Glass,Medium,7.93
+Placid,Mallugier,Avaux,Avaux VIII,Lustering Alloy,Rich,22.82
+Placid,Mallugier,Avaux,Avaux VIII,Glossy Compound,Medium,18.00
+Placid,Mallugier,Avaux,Avaux VIII,Noble Gas,Medium,16.40
+Placid,Mallugier,Avaux,Avaux VIII,Ionic Solutions,Medium,8.05
+Placid,Mallugier,Avaux,Avaux IX,Precious Alloy,Rich,20.75
+Placid,Mallugier,Avaux,Avaux IX,Supertensile Plastics,Rich,14.56
+Placid,Mallugier,Avaux,Avaux IX,Coolant,Rich,14.08
+Placid,Mallugier,Avaux,Avaux X,Toxic Metals,Medium,4.47
+Placid,Mallugier,Avaux,Avaux X,Industrial Fibers,Medium,4.06
+Placid,Mallugier,Avaux,Avaux X,Oxygen Isotopes,Poor,1.67
+Placid,Mallugier,Gallusiene,Gallusiene I,Motley Compound,Rich,24.02
+Placid,Mallugier,Gallusiene,Gallusiene I,Noble Gas,Medium,21.10
+Placid,Mallugier,Gallusiene,Gallusiene II,Dark Compound,Poor,14.45
+Placid,Mallugier,Gallusiene,Gallusiene II,Toxic Metals,Medium,5.35
+Placid,Mallugier,Gallusiene,Gallusiene II,Industrial Fibers,Medium,5.19
+Placid,Mallugier,Gallusiene,Gallusiene III,Lucent Compound,Rich,25.26
+Placid,Mallugier,Gallusiene,Gallusiene III,Construction Blocks,Medium,18.36
+Placid,Mallugier,Gallusiene,Gallusiene III,Oxygen Isotopes,Perfect,4.14
+Placid,Mallugier,Gallusiene,Gallusiene IV,Lustering Alloy,Medium,17.95
+Placid,Mallugier,Gallusiene,Gallusiene IV,Noble Gas,Perfect,27.20
+Placid,Mallugier,Gallusiene,Gallusiene IV,Reactive Metals,Medium,5.40
+Placid,Mallugier,Gallusiene,Gallusiene IV,Ionic Solutions,Poor,6.35
+Placid,Mallugier,Gallusiene,Gallusiene V,Lustering Alloy,Perfect,27.59
+Placid,Mallugier,Gallusiene,Gallusiene V,Noble Gas,Medium,19.31
+Placid,Mallugier,Gallusiene,Gallusiene V,Polyaramids,Poor,10.12
+Placid,Mallugier,Gallusiene,Gallusiene V,Coolant,Medium,12.66
+Placid,Mallugier,Gallusiene,Gallusiene VI,Noble Gas,Rich,22.80
+Placid,Mallugier,Gallusiene,Gallusiene VI,Oxygen Isotopes,Rich,3.75
+Placid,Mallugier,Gallusiene,Gallusiene VII,Sheen Compound,Perfect,27.23
+Placid,Mallugier,Gallusiene,Gallusiene VII,Glossy Compound,Rich,26.89
+Placid,Mallugier,Gallusiene,Gallusiene VII,Noble Gas,Rich,24.36
+Placid,Mallugier,Gallusiene,Gallusiene VII,Coolant,Medium,12.94
+Placid,Mallugier,Gallusiene,Gallusiene VIII,Reactive Gas,Medium,20.71
+Placid,Mallugier,Gallusiene,Gallusiene VIII,Noble Gas,Rich,24.09
+Placid,Mallugier,Gallusiene,Gallusiene VIII,Reactive Metals,Rich,6.55
+Placid,Mallugier,Gallusiene,Gallusiene VIII,Ionic Solutions,Rich,10.42
+Placid,Mallugier,Ruerrotta,Ruerrotta I,Glossy Compound,Rich,26.59
+Placid,Mallugier,Ruerrotta,Ruerrotta I,Noble Gas,Poor,15.66
+Placid,Mallugier,Ruerrotta,Ruerrotta II,Industrial Fibers,Medium,5.02
+Placid,Mallugier,Ruerrotta,Ruerrotta II,Supertensile Plastics,Medium,11.64
+Placid,Mallugier,Ruerrotta,Ruerrotta II,Silicate Glass,Poor,7.09
+Placid,Mallugier,Ruerrotta,Ruerrotta III,Condensed Alloy,Medium,17.14
+Placid,Mallugier,Ruerrotta,Ruerrotta III,Fiber Composite,Medium,20.77
+Placid,Mallugier,Ruerrotta,Ruerrotta III,Reactive Gas,Medium,19.57
+Placid,Mallugier,Ruerrotta,Ruerrotta III,Industrial Fibers,Medium,5.30
+Placid,Mallugier,Ruerrotta,Ruerrotta IV,Sheen Compound,Poor,14.91
+Placid,Mallugier,Ruerrotta,Ruerrotta IV,Glossy Compound,Medium,16.25
+Placid,Mallugier,Ruerrotta,Ruerrotta IV,Reactive Gas,Rich,26.47
+Placid,Mallugier,Ruerrotta,Ruerrotta IV,Noble Gas,Rich,25.19
+Placid,Mallugier,Hedoubel,Hedoubel I,Precious Alloy,Poor,14.09
+Placid,Mallugier,Hedoubel,Hedoubel I,Industrial Fibers,Medium,4.57
+Placid,Mallugier,Hedoubel,Hedoubel I,Silicate Glass,Medium,10.24
+Placid,Mallugier,Hedoubel,Hedoubel II,Dark Compound,Medium,18.89
+Placid,Mallugier,Hedoubel,Hedoubel II,Industrial Fibers,Poor,4.11
+Placid,Mallugier,Hedoubel,Hedoubel II,Supertensile Plastics,Poor,7.99
+Placid,Mallugier,Hedoubel,Hedoubel III,Condensed Alloy,Rich,25.93
+Placid,Mallugier,Hedoubel,Hedoubel III,Crystal Compound,Perfect,27.73
+Placid,Mallugier,Hedoubel,Hedoubel III,Coolant,Rich,17.92
+Placid,Mallugier,Hedoubel,Hedoubel III,Silicate Glass,Medium,8.31
+Placid,Mallugier,Hedoubel,Hedoubel IV,Fiber Composite,Rich,23.38
+Placid,Mallugier,Hedoubel,Hedoubel IV,Glossy Compound,Rich,26.16
+Placid,Mallugier,Hedoubel,Hedoubel IV,Noble Gas,Poor,15.35
+Placid,Mallugier,Hedoubel,Hedoubel IV,Base Metals,Poor,4.10
+Placid,Mallugier,Hedoubel,Hedoubel V,Reactive Gas,Rich,26.23
+Placid,Mallugier,Hedoubel,Hedoubel V,Supertensile Plastics,Rich,15.55
+Placid,Mallugier,Hedoubel,Hedoubel V,Construction Blocks,Rich,26.13
+Placid,Mallugier,Hedoubel,Hedoubel VI,Condensed Alloy,Medium,18.92
+Placid,Mallugier,Hedoubel,Hedoubel VI,Opulent Compound,Medium,18.90
+Placid,Mallugier,Hedoubel,Hedoubel VI,Toxic Metals,Rich,6.49
+Placid,Mallugier,Hedoubel,Hedoubel VI,Coolant,Medium,14.09
+Placid,Mallugier,Amoen,Amoen I,Dark Compound,Medium,21.89
+Placid,Mallugier,Amoen,Amoen I,Industrial Fibers,Poor,3.75
+Placid,Mallugier,Amoen,Amoen I,Supertensile Plastics,Poor,10.96
+Placid,Mallugier,Amoen,Amoen II,Fiber Composite,Medium,21.67
+Placid,Mallugier,Amoen,Amoen II,Noble Metals,Perfect,30.60
+Placid,Mallugier,Amoen,Amoen II,Industrial Fibers,Rich,7.01
+Placid,Mallugier,Amoen,Amoen II,Heavy Water,Medium,205.02
+Placid,Mallugier,Amoen,Amoen III,Sheen Compound,Medium,21.82
+Placid,Mallugier,Amoen,Amoen III,Fiber Composite,Poor,14.87
+Placid,Mallugier,Amoen,Amoen III,Noble Gas,Poor,15.46
+Placid,Mallugier,Amoen,Amoen III,Coolant,Medium,15.18
+Placid,Mallugier,Amoen,Amoen IV,Lustering Alloy,Perfect,28.64
+Placid,Mallugier,Amoen,Amoen IV,Glossy Compound,Medium,21.60
+Placid,Mallugier,Amoen,Amoen IV,Noble Gas,Medium,17.23
+Placid,Mallugier,Amoen,Amoen IV,Ionic Solutions,Medium,8.61
+Placid,Mallugier,Amoen,Amoen V,Fiber Composite,Rich,25.65
+Placid,Mallugier,Amoen,Amoen V,Noble Gas,Rich,24.89
+Placid,Mallugier,Amoen,Amoen V,Reactive Metals,Rich,6.82
+Placid,Mallugier,Amoen,Amoen V,Coolant,Poor,9.84
+Placid,Mallugier,Amoen,Amoen VI,Industrial Fibers,Rich,6.65
+Placid,Mallugier,Amoen,Amoen VI,Coolant,Rich,16.00
+Placid,Mallugier,Amoen,Amoen VI,Suspended Plasma,Medium,65.25
+Placid,Mallugier,Amasiree,Amasiree I,Toxic Metals,Poor,3.54
+Placid,Mallugier,Amasiree,Amasiree I,Industrial Fibers,Poor,3.61
+Placid,Mallugier,Amasiree,Amasiree I,Oxygen Isotopes,Medium,2.85
+Placid,Mallugier,Amasiree,Amasiree II,Toxic Metals,Rich,6.42
+Placid,Mallugier,Amasiree,Amasiree II,Construction Blocks,Medium,19.04
+Placid,Mallugier,Amasiree,Amasiree II,Suspended Plasma,Perfect,98.84
+Placid,Mallugier,Amasiree,Amasiree III,Industrial Fibers,Poor,3.03
+Placid,Mallugier,Amasiree,Amasiree III,Silicate Glass,Poor,5.36
+Placid,Mallugier,Amasiree,Amasiree III,Oxygen Isotopes,Poor,1.66
+Placid,Mallugier,Amasiree,Amasiree IV,Condensed Alloy,Rich,26.43
+Placid,Mallugier,Amasiree,Amasiree IV,Crystal Compound,Rich,21.98
+Placid,Mallugier,Amasiree,Amasiree IV,Coolant,Perfect,19.11
+Placid,Mallugier,Amasiree,Amasiree IV,Liquid Ozone,Perfect,35.66
+Placid,Mallugier,Amasiree,Amasiree V,Precious Alloy,Poor,15.16
+Placid,Mallugier,Amasiree,Amasiree V,Dark Compound,Medium,18.60
+Placid,Mallugier,Amasiree,Amasiree V,Industrial Fibers,Medium,4.26
+Placid,Mallugier,Amasiree,Amasiree VI,Sheen Compound,Medium,20.79
+Placid,Mallugier,Amasiree,Amasiree VI,Noble Gas,Medium,17.88
+Placid,Mallugier,Amasiree,Amasiree VI,Polyaramids,Medium,12.68
+Placid,Mallugier,Amasiree,Amasiree VI,Coolant,Medium,13.07
+Placid,Mallugier,Amasiree,Amasiree VII,Sheen Compound,Poor,15.71
+Placid,Mallugier,Amasiree,Amasiree VII,Reactive Gas,Medium,19.99
+Placid,Mallugier,Amasiree,Amasiree VII,Noble Gas,Rich,24.72
+Placid,Mallugier,Amasiree,Amasiree VII,Base Metals,Medium,4.67
+Placid,Mallugier,Amasiree,Amasiree VIII,Base Metals,Poor,4.21
+Placid,Mallugier,Amasiree,Amasiree VIII,Industrial Fibers,Rich,6.05
+Placid,Mallugier,Amasiree,Amasiree VIII,Coolant,Medium,12.51
+Placid,Mallugier,Aubonnie,Aubonnie I,Industrial Fibers,Poor,2.75
+Placid,Mallugier,Aubonnie,Aubonnie I,Silicate Glass,Poor,5.53
+Placid,Mallugier,Aubonnie,Aubonnie I,Plasmoids,Poor,0.83
+Placid,Mallugier,Aubonnie,Aubonnie II,Condensed Alloy,Perfect,25.73
+Placid,Mallugier,Aubonnie,Aubonnie II,Fiber Composite,Medium,16.67
+Placid,Mallugier,Aubonnie,Aubonnie II,Base Metals,Perfect,6.80
+Placid,Mallugier,Aubonnie,Aubonnie II,Industrial Fibers,Rich,6.12
+Placid,Mallugier,Aubonnie,Aubonnie III,Condensed Alloy,Perfect,29.52
+Placid,Mallugier,Aubonnie,Aubonnie III,Fiber Composite,Rich,21.74
+Placid,Mallugier,Aubonnie,Aubonnie III,Noble Metals,Rich,24.37
+Placid,Mallugier,Aubonnie,Aubonnie III,Liquid Ozone,Medium,22.06
+Placid,Mallugier,Aubonnie,Aubonnie IV,Condensed Alloy,Rich,20.78
+Placid,Mallugier,Aubonnie,Aubonnie IV,Fiber Composite,Rich,20.85
+Placid,Mallugier,Aubonnie,Aubonnie IV,Noble Metals,Rich,22.24
+Placid,Mallugier,Aubonnie,Aubonnie IV,Industrial Fibers,Rich,6.62
+Placid,Mallugier,Aubonnie,Aubonnie V,Crystal Compound,Medium,16.16
+Placid,Mallugier,Aubonnie,Aubonnie V,Polyaramids,Rich,15.04
+Placid,Mallugier,Aubonnie,Aubonnie V,Coolant,Perfect,17.59
+Placid,Mallugier,Aubonnie,Aubonnie V,Silicate Glass,Perfect,13.42
+Placid,Mallugier,Aubonnie,Aubonnie VI,Fiber Composite,Perfect,26.61
+Placid,Mallugier,Aubonnie,Aubonnie VI,Noble Metals,Rich,21.60
+Placid,Mallugier,Aubonnie,Aubonnie VI,Smartfab Units,Medium,11.59
+Placid,Mallugier,Aubonnie,Aubonnie VI,Liquid Ozone,Rich,25.76
+Placid,Mallugier,Aubonnie,Aubonnie VII,Fiber Composite,Perfect,25.55
+Placid,Mallugier,Aubonnie,Aubonnie VII,Opulent Compound,Perfect,27.23
+Placid,Mallugier,Aubonnie,Aubonnie VII,Industrial Fibers,Perfect,6.96
+Placid,Mallugier,Aubonnie,Aubonnie VII,Condensates,Rich,13.66
+Placid,Mallugier,Aubonnie,Aubonnie VIII,Condensed Alloy,Rich,21.52
+Placid,Mallugier,Aubonnie,Aubonnie VIII,Fiber Composite,Poor,14.90
+Placid,Mallugier,Aubonnie,Aubonnie VIII,Condensates,Medium,11.80
+Placid,Mallugier,Aubonnie,Aubonnie VIII,Smartfab Units,Perfect,17.38
+Placid,Serthoulde,Alparena,Alparena I,Noble Gas,Poor,17.04
+Placid,Serthoulde,Alparena,Alparena I,Smartfab Units,Perfect,20.94
+Placid,Serthoulde,Alparena,Alparena II,Base Metals,Poor,4.50
+Placid,Serthoulde,Alparena,Alparena II,Industrial Fibers,Poor,4.32
+Placid,Serthoulde,Alparena,Alparena II,Silicate Glass,Poor,7.53
+Placid,Serthoulde,Alparena,Alparena III,Fiber Composite,Medium,18.13
+Placid,Serthoulde,Alparena,Alparena III,Opulent Compound,Perfect,33.84
+Placid,Serthoulde,Alparena,Alparena III,Noble Metals,Medium,19.06
+Placid,Serthoulde,Alparena,Alparena III,Smartfab Units,Rich,19.65
+Placid,Serthoulde,Alparena,Alparena IV,Noble Gas,Rich,27.09
+Placid,Serthoulde,Alparena,Alparena IV,Reactive Metals,Rich,6.81
+Placid,Serthoulde,Alparena,Alparena IV,Polyaramids,Medium,14.73
+Placid,Serthoulde,Alparena,Alparena IV,Ionic Solutions,Medium,7.90
+Placid,Serthoulde,Alparena,Alparena V,Sheen Compound,Rich,26.60
+Placid,Serthoulde,Alparena,Alparena V,Noble Gas,Rich,25.48
+Placid,Serthoulde,Alparena,Alparena V,Reactive Metals,Medium,5.76
+Placid,Serthoulde,Alparena,Alparena V,Coolant,Medium,12.64
+Placid,Serthoulde,Alparena,Alparena VI,Supertensile Plastics,Medium,12.98
+Placid,Serthoulde,Alparena,Alparena VI,Coolant,Rich,17.97
+Placid,Serthoulde,Alparena,Alparena VI,Suspended Plasma,Poor,50.48
+Placid,Serthoulde,Reschard,Reschard I,Base Metals,Medium,6.06
+Placid,Serthoulde,Reschard,Reschard I,Industrial Fibers,Poor,3.35
+Placid,Serthoulde,Reschard,Reschard I,Silicate Glass,Poor,8.06
+Placid,Serthoulde,Reschard,Reschard II,Condensed Alloy,Perfect,32.64
+Placid,Serthoulde,Reschard,Reschard II,Fiber Composite,Perfect,31.96
+Placid,Serthoulde,Reschard,Reschard II,Industrial Fibers,Rich,7.71
+Placid,Serthoulde,Reschard,Reschard II,Heavy Water,Rich,283.10
+Placid,Serthoulde,Reschard,Reschard III,Precious Alloy,Medium,22.82
+Placid,Serthoulde,Reschard,Reschard III,Industrial Fibers,Medium,5.04
+Placid,Serthoulde,Reschard,Reschard III,Construction Blocks,Poor,14.82
+Placid,Serthoulde,Reschard,Reschard IV,Fiber Composite,Medium,18.34
+Placid,Serthoulde,Reschard,Reschard IV,Noble Gas,Rich,25.16
+Placid,Serthoulde,Reschard,Reschard IV,Reactive Metals,Medium,5.99
+Placid,Serthoulde,Reschard,Reschard IV,Coolant,Rich,18.33
+Placid,Serthoulde,Reschard,Reschard V,Lustering Alloy,Poor,12.35
+Placid,Serthoulde,Reschard,Reschard V,Industrial Fibers,Poor,3.48
+Placid,Serthoulde,Reschard,Reschard V,Silicate Glass,Poor,7.62
+Placid,Serthoulde,Reschard,Reschard VI,Lustering Alloy,Poor,15.07
+Placid,Serthoulde,Reschard,Reschard VI,Base Metals,Medium,5.56
+Placid,Serthoulde,Reschard,Reschard VI,Coolant,Poor,11.84
+Placid,Serthoulde,Reschard,Reschard VII,Base Metals,Poor,3.72
+Placid,Serthoulde,Reschard,Reschard VII,Heavy Metals,Medium,22.34
+Placid,Serthoulde,Reschard,Reschard VII,Coolant,Poor,10.29
+Placid,Serthoulde,Arderonne,Arderonne I,Crystal Compound,Perfect,30.46
+Placid,Serthoulde,Arderonne,Arderonne I,Toxic Metals,Rich,6.79
+Placid,Serthoulde,Arderonne,Arderonne I,Construction Blocks,Medium,21.64
+Placid,Serthoulde,Arderonne,Arderonne II,Dark Compound,Poor,17.40
+Placid,Serthoulde,Arderonne,Arderonne II,Industrial Fibers,Medium,5.40
+Placid,Serthoulde,Arderonne,Arderonne II,Plasmoids,Medium,1.34
+Placid,Serthoulde,Arderonne,Arderonne III,Industrial Fibers,Poor,4.09
+Placid,Serthoulde,Arderonne,Arderonne III,Silicate Glass,Poor,7.95
+Placid,Serthoulde,Arderonne,Arderonne III,Oxygen Isotopes,Medium,2.86
+Placid,Serthoulde,Arderonne,Arderonne IV,Toxic Metals,Rich,7.61
+Placid,Serthoulde,Arderonne,Arderonne IV,Construction Blocks,Poor,15.37
+Placid,Serthoulde,Arderonne,Arderonne IV,Suspended Plasma,Medium,76.88
+Placid,Serthoulde,Arderonne,Arderonne V,Toxic Metals,Rich,7.01
+Placid,Serthoulde,Arderonne,Arderonne V,Construction Blocks,Medium,23.54
+Placid,Serthoulde,Arderonne,Arderonne V,Oxygen Isotopes,Medium,2.79
+Placid,Serthoulde,Arderonne,Arderonne VI,Lustering Alloy,Medium,18.43
+Placid,Serthoulde,Arderonne,Arderonne VI,Reactive Gas,Medium,22.95
+Placid,Serthoulde,Arderonne,Arderonne VI,Noble Gas,Medium,22.17
+Placid,Serthoulde,Arderonne,Arderonne VI,Coolant,Perfect,20.63
+Placid,Serthoulde,Arderonne,Arderonne VII,Noble Gas,Medium,20.14
+Placid,Serthoulde,Arderonne,Arderonne VII,Base Metals,Perfect,8.04
+Placid,Serthoulde,Arderonne,Arderonne VII,Reactive Metals,Poor,4.49
+Placid,Serthoulde,Arderonne,Arderonne VII,Polyaramids,Poor,10.99
+Placid,Serthoulde,Arderonne,Arderonne VIII,Condensed Alloy,Medium,21.58
+Placid,Serthoulde,Arderonne,Arderonne VIII,Noble Metals,Rich,29.34
+Placid,Serthoulde,Arderonne,Arderonne VIII,Polyaramids,Perfect,20.76
+Placid,Serthoulde,Arderonne,Arderonne VIII,Coolant,Rich,18.56
+Placid,Serthoulde,Mercomesier,Mercomesier I,Noble Gas,Rich,24.45
+Placid,Serthoulde,Mercomesier,Mercomesier I,Plasmoids,Medium,1.24
+Placid,Serthoulde,Mercomesier,Mercomesier II,Lustering Alloy,Medium,18.37
+Placid,Serthoulde,Mercomesier,Mercomesier II,Industrial Fibers,Poor,4.42
+Placid,Serthoulde,Mercomesier,Mercomesier II,Construction Blocks,Medium,20.37
+Placid,Serthoulde,Mercomesier,Mercomesier III,Motley Compound,Rich,26.28
+Placid,Serthoulde,Mercomesier,Mercomesier III,Noble Gas,Perfect,31.27
+Placid,Serthoulde,Mercomesier,Mercomesier IV,Gleaming Alloy,Rich,29.22
+Placid,Serthoulde,Mercomesier,Mercomesier IV,Toxic Metals,Medium,6.17
+Placid,Serthoulde,Mercomesier,Mercomesier IV,Construction Blocks,Rich,28.80
+Placid,Serthoulde,Mercomesier,Mercomesier V,Condensed Alloy,Perfect,34.07
+Placid,Serthoulde,Mercomesier,Mercomesier V,Fiber Composite,Rich,24.19
+Placid,Serthoulde,Mercomesier,Mercomesier V,Base Metals,Perfect,9.38
+Placid,Serthoulde,Mercomesier,Mercomesier V,Condensates,Medium,14.78
+Placid,Serthoulde,Mercomesier,Mercomesier VI,Sheen Compound,Rich,26.33
+Placid,Serthoulde,Mercomesier,Mercomesier VI,Fiber Composite,Rich,30.08
+Placid,Serthoulde,Mercomesier,Mercomesier VI,Noble Gas,Rich,27.76
+Placid,Serthoulde,Mercomesier,Mercomesier VI,Base Metals,Medium,6.13
+Placid,Serthoulde,Mercomesier,Mercomesier VII,Lustering Alloy,Rich,25.67
+Placid,Serthoulde,Mercomesier,Mercomesier VII,Sheen Compound,Medium,23.43
+Placid,Serthoulde,Mercomesier,Mercomesier VII,Glossy Compound,Medium,19.76
+Placid,Serthoulde,Mercomesier,Mercomesier VII,Noble Gas,Poor,16.30
+Placid,Serthoulde,Mercomesier,Mercomesier VIII,Sheen Compound,Medium,22.65
+Placid,Serthoulde,Mercomesier,Mercomesier VIII,Noble Gas,Medium,22.25
+Placid,Serthoulde,Mercomesier,Mercomesier VIII,Coolant,Medium,13.01
+Placid,Serthoulde,Mercomesier,Mercomesier VIII,Ionic Solutions,Poor,6.89
+Placid,Serthoulde,Mercomesier,Mercomesier IX,Dark Compound,Medium,20.33
+Placid,Serthoulde,Mercomesier,Mercomesier IX,Industrial Fibers,Medium,5.67
+Placid,Serthoulde,Mercomesier,Mercomesier IX,Supertensile Plastics,Poor,8.40
+Placid,Serthoulde,Alamel,Alamel I,Precious Alloy,Medium,20.86
+Placid,Serthoulde,Alamel,Alamel I,Industrial Fibers,Poor,3.56
+Placid,Serthoulde,Alamel,Alamel I,Oxygen Isotopes,Poor,2.26
+Placid,Serthoulde,Alamel,Alamel II,Noble Gas,Rich,26.07
+Placid,Serthoulde,Alamel,Alamel II,Smartfab Units,Rich,16.29
+Placid,Serthoulde,Alamel,Alamel III,Toxic Metals,Poor,4.40
+Placid,Serthoulde,Alamel,Alamel III,Industrial Fibers,Poor,4.00
+Placid,Serthoulde,Alamel,Alamel III,Supertensile Plastics,Poor,8.73
+Placid,Serthoulde,Alamel,Alamel IV,Precious Alloy,Medium,18.77
+Placid,Serthoulde,Alamel,Alamel IV,Industrial Fibers,Poor,4.14
+Placid,Serthoulde,Alamel,Alamel IV,Silicate Glass,Medium,10.32
+Placid,Serthoulde,Alamel,Alamel V,Lustering Alloy,Medium,22.70
+Placid,Serthoulde,Alamel,Alamel V,Sheen Compound,Poor,16.93
+Placid,Serthoulde,Alamel,Alamel V,Fiber Composite,Rich,24.28
+Placid,Serthoulde,Alamel,Alamel V,Noble Gas,Medium,19.97
+Placid,Serthoulde,Alamel,Alamel VI,Sheen Compound,Poor,17.37
+Placid,Serthoulde,Alamel,Alamel VI,Noble Gas,Rich,29.56
+Placid,Serthoulde,Alamel,Alamel VI,Base Metals,Poor,4.61
+Placid,Serthoulde,Alamel,Alamel VI,Polyaramids,Medium,15.78
+Placid,Serthoulde,Alamel,Alamel VII,Glossy Compound,Medium,23.16
+Placid,Serthoulde,Alamel,Alamel VII,Noble Gas,Rich,29.09
+Placid,Serthoulde,Alamel,Alamel VII,Reactive Metals,Medium,6.08
+Placid,Serthoulde,Alamel,Alamel VII,Polyaramids,Medium,12.48
+Placid,Serthoulde,Alamel,Alamel VIII,Construction Blocks,Rich,25.18
+Placid,Serthoulde,Alamel,Alamel VIII,Suspended Plasma,Rich,100.75
+Placid,Serthoulde,Alamel,Alamel VIII,Oxygen Isotopes,Rich,4.11
+Placid,Serthoulde,Alamel,Alamel IX,Industrial Fibers,Poor,3.56
+Placid,Serthoulde,Alamel,Alamel IX,Supertensile Plastics,Poor,8.09
+Placid,Serthoulde,Alamel,Alamel IX,Plasmoids,Poor,0.73
+Placid,Serthoulde,Alamel,Alamel X,Dark Compound,Medium,18.07
+Placid,Serthoulde,Alamel,Alamel X,Base Metals,Medium,5.37
+Placid,Serthoulde,Alamel,Alamel X,Industrial Fibers,Poor,3.87
+Placid,Serthoulde,Mantenault,Mantenault I,Precious Alloy,Poor,14.42
+Placid,Serthoulde,Mantenault,Mantenault I,Dark Compound,Medium,23.26
+Placid,Serthoulde,Mantenault,Mantenault I,Industrial Fibers,Medium,4.72
+Placid,Serthoulde,Mantenault,Mantenault II,Glossy Compound,Perfect,31.05
+Placid,Serthoulde,Mantenault,Mantenault II,Noble Gas,Medium,20.06
+Placid,Serthoulde,Mantenault,Mantenault III,Noble Gas,Medium,20.44
+Placid,Serthoulde,Mantenault,Mantenault III,Plasmoids,Rich,1.52
+Placid,Serthoulde,Mantenault,Mantenault IV,Noble Gas,Rich,30.06
+Placid,Serthoulde,Mantenault,Mantenault IV,Plasmoids,Poor,1.05
+Placid,Serthoulde,Mantenault,Mantenault V,Lustering Alloy,Poor,15.73
+Placid,Serthoulde,Mantenault,Mantenault V,Industrial Fibers,Poor,4.44
+Placid,Serthoulde,Mantenault,Mantenault V,Construction Blocks,Poor,13.39
+Placid,Serthoulde,Mantenault,Mantenault VI,Fiber Composite,Perfect,33.25
+Placid,Serthoulde,Mantenault,Mantenault VI,Base Metals,Medium,5.87
+Placid,Serthoulde,Mantenault,Mantenault VI,Industrial Fibers,Perfect,8.93
+Placid,Serthoulde,Mantenault,Mantenault VI,Smartfab Units,Perfect,22.79
+Placid,Serthoulde,Mantenault,Mantenault VII,Fiber Composite,Medium,20.03
+Placid,Serthoulde,Mantenault,Mantenault VII,Opulent Compound,Rich,26.01
+Placid,Serthoulde,Mantenault,Mantenault VII,Noble Metals,Perfect,36.20
+Placid,Serthoulde,Mantenault,Mantenault VII,Condensates,Perfect,23.71
+Placid,Serthoulde,Mantenault,Mantenault VIII,Lustering Alloy,Medium,19.36
+Placid,Serthoulde,Mantenault,Mantenault VIII,Noble Gas,Medium,23.60
+Placid,Serthoulde,Mantenault,Mantenault VIII,Reactive Metals,Rich,6.59
+Placid,Serthoulde,Mantenault,Mantenault VIII,Ionic Solutions,Perfect,12.22
+Placid,Serthoulde,Mantenault,Mantenault IX,Glossy Compound,Perfect,30.29
+Placid,Serthoulde,Mantenault,Mantenault IX,Reactive Gas,Rich,29.60
+Placid,Serthoulde,Mantenault,Mantenault IX,Noble Gas,Medium,19.55
+Placid,Serthoulde,Mantenault,Mantenault IX,Coolant,Perfect,20.77
+Placid,Serthoulde,Mantenault,Mantenault X,Glossy Compound,Medium,23.35
+Placid,Serthoulde,Mantenault,Mantenault X,Noble Gas,Rich,27.47
+Placid,Serthoulde,Mantenault,Mantenault X,Reactive Metals,Rich,6.47
+Placid,Serthoulde,Mantenault,Mantenault X,Coolant,Rich,17.04
+Placid,Serthoulde,Mantenault,Mantenault XI,Base Metals,Medium,4.97
+Placid,Serthoulde,Mantenault,Mantenault XI,Supertensile Plastics,Rich,17.51
+Placid,Serthoulde,Mantenault,Mantenault XI,Coolant,Rich,16.86
+Placid,Serthoulde,Athounon,Athounon I,Lustering Alloy,Poor,18.08
+Placid,Serthoulde,Athounon,Athounon I,Base Metals,Medium,6.43
+Placid,Serthoulde,Athounon,Athounon I,Supertensile Plastics,Medium,14.65
+Placid,Serthoulde,Athounon,Athounon I,Plasmoids,Poor,1.08
+Placid,Serthoulde,Athounon,Athounon II,Lustering Alloy,Poor,17.20
+Placid,Serthoulde,Athounon,Athounon II,Supertensile Plastics,Poor,10.72
+Placid,Serthoulde,Athounon,Athounon II,Silicate Glass,Medium,11.93
+Placid,Serthoulde,Athounon,Athounon II,Plasmoids,Medium,1.23
+Placid,Serthoulde,Athounon,Athounon III,Lustering Alloy,Poor,16.22
+Placid,Serthoulde,Athounon,Athounon III,Base Metals,Poor,3.91
+Placid,Serthoulde,Athounon,Athounon III,Supertensile Plastics,Poor,8.83
+Placid,Serthoulde,Athounon,Athounon III,Silicate Glass,Medium,10.86
+Placid,Serthoulde,Athounon,Athounon IV,Gleaming Alloy,Medium,23.08
+Placid,Serthoulde,Athounon,Athounon IV,Crystal Compound,Rich,28.18
+Placid,Serthoulde,Athounon,Athounon IV,Reactive Gas,Medium,24.12
+Placid,Serthoulde,Athounon,Athounon IV,Reactive Metals,Medium,5.88
+Placid,Serthoulde,Athounon,Athounon V,Gleaming Alloy,Rich,27.68
+Placid,Serthoulde,Athounon,Athounon V,Reactive Gas,Medium,24.82
+Placid,Serthoulde,Athounon,Athounon V,Reactive Metals,Medium,5.46
+Placid,Serthoulde,Athounon,Athounon V,Oxygen Isotopes,Medium,3.31
+Placid,Serthoulde,Athounon,Athounon VI,Condensed Alloy,Poor,18.32
+Placid,Serthoulde,Athounon,Athounon VI,Reactive Gas,Medium,19.14
+Placid,Serthoulde,Athounon,Athounon VI,Condensates,Perfect,22.83
+Placid,Serthoulde,Athounon,Athounon VI,Heavy Water,Perfect,360.00
+Placid,Serthoulde,Athounon,Athounon VI,Liquid Ozone,Rich,36.15
+Placid,Serthoulde,Athounon,Athounon VII,Fiber Composite,Rich,30.90
+Placid,Serthoulde,Athounon,Athounon VII,Reactive Gas,Medium,21.94
+Placid,Serthoulde,Athounon,Athounon VII,Noble Gas,Rich,27.72
+Placid,Serthoulde,Athounon,Athounon VII,Polyaramids,Rich,17.49
+Placid,Serthoulde,Athounon,Athounon VII,Ionic Solutions,Poor,6.58
+Placid,Serthoulde,Athounon,Athounon VIII,Condensed Alloy,Rich,30.38
+Placid,Serthoulde,Athounon,Athounon VIII,Fiber Composite,Rich,31.28
+Placid,Serthoulde,Athounon,Athounon VIII,Opulent Compound,Perfect,33.76
+Placid,Serthoulde,Athounon,Athounon VIII,Condensates,Perfect,24.20
+Placid,Serthoulde,Athounon,Athounon VIII,Liquid Ozone,Medium,27.10
+Placid,Serthoulde,Athounon,Athounon IX,Sheen Compound,Rich,27.98
+Placid,Serthoulde,Athounon,Athounon IX,Fiber Composite,Medium,24.76
+Placid,Serthoulde,Athounon,Athounon IX,Reactive Gas,Medium,20.42
+Placid,Serthoulde,Athounon,Athounon IX,Base Metals,Medium,5.90
+Placid,Serthoulde,Athounon,Athounon IX,Ionic Solutions,Rich,12.22
+Placid,Serthoulde,Athounon,Athounon X,Fiber Composite,Poor,18.24
+Placid,Serthoulde,Athounon,Athounon X,Reactive Gas,Poor,16.90
+Placid,Serthoulde,Athounon,Athounon X,Base Metals,Rich,6.94
+Placid,Serthoulde,Athounon,Athounon X,Polyaramids,Rich,19.33
+Placid,Serthoulde,Athounon,Athounon X,Ionic Solutions,Poor,7.40
+Placid,Serthoulde,Athounon,Athounon XI,Precious Alloy,Medium,22.20
+Placid,Serthoulde,Athounon,Athounon XI,Base Metals,Rich,7.08
+Placid,Serthoulde,Athounon,Athounon XI,Condensates,Poor,12.21
+Placid,Serthoulde,Athounon,Athounon XI,Suspended Plasma,Poor,64.01
+Placid,Serthoulde,Odamia,Odamia I,Industrial Fibers,Poor,3.91
+Placid,Serthoulde,Odamia,Odamia I,Silicate Glass,Medium,9.01
+Placid,Serthoulde,Odamia,Odamia I,Oxygen Isotopes,Poor,2.48
+Placid,Serthoulde,Odamia,Odamia II,Opulent Compound,Medium,22.23
+Placid,Serthoulde,Odamia,Odamia II,Crystal Compound,Medium,20.36
+Placid,Serthoulde,Odamia,Odamia II,Coolant,Medium,13.78
+Placid,Serthoulde,Odamia,Odamia II,Silicate Glass,Medium,10.61
+Placid,Serthoulde,Odamia,Odamia III,Industrial Fibers,Medium,5.62
+Placid,Serthoulde,Odamia,Odamia III,Construction Blocks,Poor,11.86
+Placid,Serthoulde,Odamia,Odamia III,Oxygen Isotopes,Medium,3.28
+Placid,Serthoulde,Odamia,Odamia IV,Crystal Compound,Poor,16.11
+Placid,Serthoulde,Odamia,Odamia IV,Construction Blocks,Medium,19.24
+Placid,Serthoulde,Odamia,Odamia IV,Oxygen Isotopes,Rich,3.94
+Placid,Serthoulde,Odamia,Odamia V,Lustering Alloy,Poor,13.12
+Placid,Serthoulde,Odamia,Odamia V,Dark Compound,Medium,18.18
+Placid,Serthoulde,Odamia,Odamia V,Industrial Fibers,Medium,4.86
+Placid,Serthoulde,Odamia,Odamia VI,Condensed Alloy,Rich,24.79
+Placid,Serthoulde,Odamia,Odamia VI,Fiber Composite,Rich,24.97
+Placid,Serthoulde,Odamia,Odamia VI,Base Metals,Perfect,8.37
+Placid,Serthoulde,Odamia,Odamia VI,Condensates,Medium,12.79
+Placid,Serthoulde,Odamia,Odamia VII,Gleaming Alloy,Rich,27.56
+Placid,Serthoulde,Odamia,Odamia VII,Reactive Metals,Poor,4.45
+Placid,Serthoulde,Odamia,Odamia VII,Construction Blocks,Rich,28.44
+Placid,Serthoulde,Odamia,Odamia VIII,Crystal Compound,Rich,23.00
+Placid,Serthoulde,Odamia,Odamia VIII,Construction Blocks,Rich,26.87
+Placid,Serthoulde,Odamia,Odamia VIII,Oxygen Isotopes,Medium,2.89
+Placid,Serthoulde,Odamia,Odamia IX,Fiber Composite,Perfect,30.10
+Placid,Serthoulde,Odamia,Odamia IX,Base Metals,Rich,6.62
+Placid,Serthoulde,Odamia,Odamia IX,Condensates,Perfect,20.62
+Placid,Serthoulde,Odamia,Odamia IX,Smartfab Units,Rich,16.66
+Placid,Serthoulde,Odamia,Odamia X,Fiber Composite,Medium,18.47
+Placid,Serthoulde,Odamia,Odamia X,Reactive Gas,Medium,22.34
+Placid,Serthoulde,Odamia,Odamia X,Condensates,Medium,12.13
+Placid,Serthoulde,Odamia,Odamia X,Smartfab Units,Rich,16.92
+Placid,Serthoulde,Odamia,Odamia XI,Fiber Composite,Perfect,30.83
+Placid,Serthoulde,Odamia,Odamia XI,Noble Metals,Medium,19.62
+Placid,Serthoulde,Odamia,Odamia XI,Condensates,Rich,17.83
+Placid,Serthoulde,Odamia,Odamia XI,Heavy Water,Perfect,289.08

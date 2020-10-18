@@ -1,0 +1,1815 @@
+Region,Constellation,System,Name,Item,Rate,Output
+Curse,Tranquility,H-ADOC,H-ADOC I,Sheen Compound,Perfect,34.97
+Curse,Tranquility,H-ADOC,H-ADOC I,Lucent Compound,Perfect,35.28
+Curse,Tranquility,H-ADOC,H-ADOC I,Dark Compound,Medium,23.12
+Curse,Tranquility,H-ADOC,H-ADOC I,Condensates,Medium,17.04
+Curse,Tranquility,H-ADOC,H-ADOC I,Nanites,Perfect,9.20
+Curse,Tranquility,H-ADOC,H-ADOC II,Lucent Compound,Perfect,34.10
+Curse,Tranquility,H-ADOC,H-ADOC II,Crystal Compound,Rich,31.08
+Curse,Tranquility,H-ADOC,H-ADOC II,Reactive Gas,Rich,27.30
+Curse,Tranquility,H-ADOC,H-ADOC II,Reactive Metals,Medium,6.64
+Curse,Tranquility,H-ADOC,H-ADOC III,Gleaming Alloy,Poor,18.33
+Curse,Tranquility,H-ADOC,H-ADOC III,Crystal Compound,Rich,29.30
+Curse,Tranquility,H-ADOC,H-ADOC III,Reactive Metals,Rich,7.08
+Curse,Tranquility,H-ADOC,H-ADOC III,Toxic Metals,Poor,5.20
+Curse,Tranquility,H-ADOC,H-ADOC IV,Lustering Alloy,Medium,23.75
+Curse,Tranquility,H-ADOC,H-ADOC IV,Sheen Compound,Rich,27.13
+Curse,Tranquility,H-ADOC,H-ADOC IV,Reactive Gas,Medium,25.12
+Curse,Tranquility,H-ADOC,H-ADOC IV,Noble Gas,Medium,25.07
+Curse,Tranquility,H-ADOC,H-ADOC IV,Coolant,Perfect,22.32
+Curse,Tranquility,H-ADOC,H-ADOC V,Lustering Alloy,Medium,25.07
+Curse,Tranquility,H-ADOC,H-ADOC V,Reactive Gas,Medium,20.66
+Curse,Tranquility,H-ADOC,H-ADOC V,Noble Gas,Medium,25.93
+Curse,Tranquility,H-ADOC,H-ADOC V,Reactive Metals,Perfect,8.96
+Curse,Tranquility,H-ADOC,H-ADOC V,Ionic Solutions,Perfect,13.41
+Curse,Tranquility,H-ADOC,H-ADOC VI,Glossy Compound,Rich,30.22
+Curse,Tranquility,H-ADOC,H-ADOC VI,Reactive Gas,Rich,29.65
+Curse,Tranquility,H-ADOC,H-ADOC VI,Noble Gas,Rich,32.84
+Curse,Tranquility,H-ADOC,H-ADOC VI,Polyaramids,Poor,11.68
+Curse,Tranquility,H-ADOC,H-ADOC VI,Ionic Solutions,Medium,8.48
+Curse,Tranquility,H-ADOC,H-ADOC VII,Coolant,Poor,11.76
+Curse,Tranquility,H-ADOC,H-ADOC VII,Condensates,Rich,18.47
+Curse,Tranquility,H-ADOC,H-ADOC VII,Suspended Plasma,Medium,92.99
+Curse,Tranquility,H-ADOC,H-ADOC VII,Liquid Ozone,Medium,30.61
+Curse,Tranquility,H-ADOC,H-ADOC VIII,Precious Alloy,Medium,22.36
+Curse,Tranquility,H-ADOC,H-ADOC VIII,Motley Compound,Medium,25.41
+Curse,Tranquility,H-ADOC,H-ADOC VIII,Coolant,Poor,11.17
+Curse,Tranquility,H-ADOC,H-ADOC VIII,Condensates,Rich,20.48
+Curse,Tranquility,H-ADOC,H-ADOC IX,Precious Alloy,Medium,21.50
+Curse,Tranquility,H-ADOC,H-ADOC IX,Toxic Metals,Poor,4.59
+Curse,Tranquility,H-ADOC,H-ADOC IX,Supertensile Plastics,Medium,15.54
+Curse,Tranquility,H-ADOC,H-ADOC IX,Construction Blocks,Poor,13.48
+Curse,Tranquility,G-G78S,G-G78S I,Lustering Alloy,Poor,19.09
+Curse,Tranquility,G-G78S,G-G78S I,Toxic Metals,Poor,3.53
+Curse,Tranquility,G-G78S,G-G78S I,Supertensile Plastics,Medium,14.07
+Curse,Tranquility,G-G78S,G-G78S I,Plasmoids,Medium,1.20
+Curse,Tranquility,G-G78S,G-G78S II,Gleaming Alloy,Poor,16.91
+Curse,Tranquility,G-G78S,G-G78S II,Smartfab Units,Perfect,22.29
+Curse,Tranquility,G-G78S,G-G78S II,Oxygen Isotopes,Poor,2.75
+Curse,Tranquility,G-G78S,G-G78S III,Precious Alloy,Medium,20.85
+Curse,Tranquility,G-G78S,G-G78S III,Toxic Metals,Medium,6.38
+Curse,Tranquility,G-G78S,G-G78S III,Industrial Fibers,Medium,6.70
+Curse,Tranquility,G-G78S,G-G78S III,Supertensile Plastics,Poor,11.48
+Curse,Tranquility,G-G78S,G-G78S IV,Gleaming Alloy,Rich,32.59
+Curse,Tranquility,G-G78S,G-G78S IV,Glossy Compound,Medium,19.99
+Curse,Tranquility,G-G78S,G-G78S IV,Polyaramids,Rich,20.73
+Curse,Tranquility,G-G78S,G-G78S V,Lucent Compound,Medium,26.06
+Curse,Tranquility,G-G78S,G-G78S V,Crystal Compound,Rich,31.42
+Curse,Tranquility,G-G78S,G-G78S V,Reactive Metals,Perfect,8.86
+Curse,Tranquility,G-G78S,G-G78S V,Supertensile Plastics,Medium,17.35
+Curse,Tranquility,G-G78S,G-G78S VI,Toxic Metals,Medium,6.29
+Curse,Tranquility,G-G78S,G-G78S VI,Silicate Glass,Rich,16.07
+Curse,Tranquility,G-G78S,G-G78S VI,Heavy Water,Perfect,368.55
+Curse,Tranquility,G-G78S,G-G78S VI,Liquid Ozone,Perfect,44.13
+Curse,Tranquility,G-G78S,G-G78S VI,Ionic Solutions,Medium,8.20
+Curse,Tranquility,G-G78S,G-G78S VII,Precious Alloy,Poor,17.89
+Curse,Tranquility,G-G78S,G-G78S VII,Industrial Fibers,Medium,6.13
+Curse,Tranquility,G-G78S,G-G78S VII,Supertensile Plastics,Poor,10.99
+Curse,Tranquility,G-G78S,G-G78S VII,Oxygen Isotopes,Medium,3.22
+Curse,Tranquility,G-G78S,G-G78S VIII,Sheen Compound,Rich,31.52
+Curse,Tranquility,G-G78S,G-G78S VIII,Fiber Composite,Medium,24.15
+Curse,Tranquility,G-G78S,G-G78S VIII,Reactive Gas,Poor,19.09
+Curse,Tranquility,G-G78S,G-G78S VIII,Coolant,Medium,14.91
+Curse,Tranquility,G-G78S,G-G78S VIII,Ionic Solutions,Medium,8.37
+Curse,Tranquility,G-G78S,G-G78S IX,Noble Metals,Perfect,38.41
+Curse,Tranquility,G-G78S,G-G78S IX,Industrial Fibers,Medium,6.08
+Curse,Tranquility,G-G78S,G-G78S IX,Smartfab Units,Rich,18.23
+Curse,Tranquility,G-G78S,G-G78S IX,Heavy Water,Rich,277.83
+Curse,Tranquility,G-G78S,G-G78S IX,Liquid Ozone,Medium,27.85
+Curse,Tranquility,G-G78S,G-G78S X,Fiber Composite,Rich,26.77
+Curse,Tranquility,G-G78S,G-G78S X,Reactive Gas,Poor,18.19
+Curse,Tranquility,G-G78S,G-G78S X,Noble Gas,Rich,31.16
+Curse,Tranquility,G-G78S,G-G78S X,Reactive Metals,Poor,4.73
+Curse,Tranquility,G-G78S,G-G78S X,Coolant,Perfect,23.14
+Curse,Tranquility,G-G78S,G-G78S XI,Glossy Compound,Poor,19.03
+Curse,Tranquility,G-G78S,G-G78S XI,Reactive Gas,Poor,17.35
+Curse,Tranquility,G-G78S,G-G78S XI,Noble Gas,Rich,30.11
+Curse,Tranquility,G-G78S,G-G78S XI,Polyaramids,Rich,19.24
+Curse,Tranquility,G-G78S,G-G78S XI,Ionic Solutions,Poor,7.50
+Curse,Tranquility,UW9B-F,UW9B-F I,Noble Gas,Rich,30.39
+Curse,Tranquility,UW9B-F,UW9B-F I,Reactive Metals,Medium,6.20
+Curse,Tranquility,UW9B-F,UW9B-F I,Condensates,Medium,15.32
+Curse,Tranquility,UW9B-F,UW9B-F I,Suspended Plasma,Rich,112.95
+Curse,Tranquility,UW9B-F,UW9B-F I,Ionic Solutions,Rich,11.94
+Curse,Tranquility,UW9B-F,UW9B-F II,Lustering Alloy,Poor,16.19
+Curse,Tranquility,UW9B-F,UW9B-F II,Industrial Fibers,Medium,5.95
+Curse,Tranquility,UW9B-F,UW9B-F II,Supertensile Plastics,Poor,13.08
+Curse,Tranquility,UW9B-F,UW9B-F II,Oxygen Isotopes,Medium,3.17
+Curse,Tranquility,UW9B-F,UW9B-F III,Noble Gas,Medium,25.77
+Curse,Tranquility,UW9B-F,UW9B-F III,Reactive Metals,Rich,7.13
+Curse,Tranquility,UW9B-F,UW9B-F III,Condensates,Rich,18.59
+Curse,Tranquility,UW9B-F,UW9B-F III,Nanites,Medium,5.68
+Curse,Tranquility,UW9B-F,UW9B-F III,Ionic Solutions,Rich,10.75
+Curse,Tranquility,UW9B-F,UW9B-F IV,Gleaming Alloy,Medium,25.09
+Curse,Tranquility,UW9B-F,UW9B-F IV,Polyaramids,Poor,12.19
+Curse,Tranquility,UW9B-F,UW9B-F IV,Construction Blocks,Rich,28.18
+Curse,Tranquility,UW9B-F,UW9B-F V,Fiber Composite,Perfect,38.93
+Curse,Tranquility,UW9B-F,UW9B-F V,Reactive Gas,Perfect,34.27
+Curse,Tranquility,UW9B-F,UW9B-F V,Base Metals,Perfect,10.38
+Curse,Tranquility,UW9B-F,UW9B-F V,Noble Metals,Medium,26.48
+Curse,Tranquility,UW9B-F,UW9B-F V,Liquid Ozone,Perfect,46.12
+Curse,Tranquility,UW9B-F,UW9B-F VI,Toxic Metals,Medium,6.18
+Curse,Tranquility,UW9B-F,UW9B-F VI,Industrial Fibers,Poor,5.11
+Curse,Tranquility,UW9B-F,UW9B-F VI,Supertensile Plastics,Poor,11.68
+Curse,Tranquility,UW9B-F,UW9B-F VI,Plasmoids,Medium,1.41
+Curse,Tranquility,UW9B-F,UW9B-F VII,Lustering Alloy,Medium,20.71
+Curse,Tranquility,UW9B-F,UW9B-F VII,Base Metals,Poor,4.61
+Curse,Tranquility,UW9B-F,UW9B-F VII,Supertensile Plastics,Poor,8.96
+Curse,Tranquility,UW9B-F,UW9B-F VII,Plasmoids,Medium,1.44
+Curse,Tranquility,UW9B-F,UW9B-F VIII,Dark Compound,Medium,24.09
+Curse,Tranquility,UW9B-F,UW9B-F VIII,Toxic Metals,Poor,4.54
+Curse,Tranquility,UW9B-F,UW9B-F VIII,Supertensile Plastics,Medium,15.43
+Curse,Tranquility,UW9B-F,UW9B-F VIII,Silicate Glass,Poor,9.20
+Curse,Tranquility,UW9B-F,UW9B-F IX,Sheen Compound,Poor,19.74
+Curse,Tranquility,UW9B-F,UW9B-F IX,Reactive Gas,Rich,28.35
+Curse,Tranquility,UW9B-F,UW9B-F IX,Noble Gas,Rich,28.20
+Curse,Tranquility,UW9B-F,UW9B-F IX,Polyaramids,Medium,14.69
+Curse,Tranquility,UW9B-F,UW9B-F IX,Coolant,Rich,20.16
+Curse,Tranquility,UW9B-F,UW9B-F X,Sheen Compound,Medium,23.56
+Curse,Tranquility,UW9B-F,UW9B-F X,Glossy Compound,Rich,32.72
+Curse,Tranquility,UW9B-F,UW9B-F X,Reactive Gas,Medium,20.35
+Curse,Tranquility,UW9B-F,UW9B-F X,Reactive Metals,Rich,7.00
+Curse,Tranquility,UW9B-F,UW9B-F X,Ionic Solutions,Rich,11.21
+Curse,Tranquility,UW9B-F,UW9B-F XI,Glossy Compound,Poor,19.47
+Curse,Tranquility,UW9B-F,UW9B-F XI,Reactive Gas,Poor,18.10
+Curse,Tranquility,UW9B-F,UW9B-F XI,Noble Gas,Poor,19.32
+Curse,Tranquility,UW9B-F,UW9B-F XI,Polyaramids,Medium,16.38
+Curse,Tranquility,UW9B-F,UW9B-F XI,Ionic Solutions,Poor,7.10
+Curse,Tranquility,UW9B-F,UW9B-F XII,Lustering Alloy,Rich,30.20
+Curse,Tranquility,UW9B-F,UW9B-F XII,Heavy Metals,Rich,30.91
+Curse,Tranquility,UW9B-F,UW9B-F XII,Industrial Fibers,Rich,7.24
+Curse,Tranquility,UW9B-F,UW9B-F XII,Condensates,Medium,13.99
+Curse,Tranquility,ZZ-ZWC,ZZ-ZWC I,Gleaming Alloy,Rich,32.45
+Curse,Tranquility,ZZ-ZWC,ZZ-ZWC I,Heavy Metals,Rich,27.53
+Curse,Tranquility,ZZ-ZWC,ZZ-ZWC I,Noble Metals,Poor,19.17
+Curse,Tranquility,ZZ-ZWC,ZZ-ZWC II,Precious Alloy,Medium,21.88
+Curse,Tranquility,ZZ-ZWC,ZZ-ZWC II,Industrial Fibers,Poor,3.87
+Curse,Tranquility,ZZ-ZWC,ZZ-ZWC II,Supertensile Plastics,Poor,13.10
+Curse,Tranquility,ZZ-ZWC,ZZ-ZWC II,Silicate Glass,Medium,11.67
+Curse,Tranquility,ZZ-ZWC,ZZ-ZWC III,Condensed Alloy,Rich,28.62
+Curse,Tranquility,ZZ-ZWC,ZZ-ZWC III,Reactive Gas,Perfect,39.96
+Curse,Tranquility,ZZ-ZWC,ZZ-ZWC III,Noble Metals,Rich,29.80
+Curse,Tranquility,ZZ-ZWC,ZZ-ZWC III,Heavy Water,Medium,231.84
+Curse,Tranquility,ZZ-ZWC,ZZ-ZWC III,Liquid Ozone,Perfect,48.69
+Curse,Tranquility,ZZ-ZWC,ZZ-ZWC IV,Condensed Alloy,Rich,28.58
+Curse,Tranquility,ZZ-ZWC,ZZ-ZWC IV,Noble Metals,Medium,21.67
+Curse,Tranquility,ZZ-ZWC,ZZ-ZWC IV,Industrial Fibers,Perfect,9.89
+Curse,Tranquility,ZZ-ZWC,ZZ-ZWC IV,Smartfab Units,Medium,17.51
+Curse,Tranquility,ZZ-ZWC,ZZ-ZWC IV,Liquid Ozone,Perfect,47.01
+Curse,Tranquility,ZZ-ZWC,ZZ-ZWC V,Lustering Alloy,Medium,24.61
+Curse,Tranquility,ZZ-ZWC,ZZ-ZWC V,Reactive Gas,Medium,23.10
+Curse,Tranquility,ZZ-ZWC,ZZ-ZWC V,Noble Gas,Rich,30.87
+Curse,Tranquility,ZZ-ZWC,ZZ-ZWC V,Polyaramids,Poor,12.82
+Curse,Tranquility,ZZ-ZWC,ZZ-ZWC V,Ionic Solutions,Rich,12.08
+Curse,Tranquility,ZZ-ZWC,ZZ-ZWC VI,Reactive Metals,Medium,5.43
+Curse,Tranquility,ZZ-ZWC,ZZ-ZWC VI,Toxic Metals,Poor,4.95
+Curse,Tranquility,ZZ-ZWC,ZZ-ZWC VI,Construction Blocks,Medium,25.09
+Curse,Tranquility,ZZ-ZWC,ZZ-ZWC VI,Suspended Plasma,Poor,68.57
+Curse,Tranquility,ZZ-ZWC,ZZ-ZWC VII,Lustering Alloy,Medium,25.66
+Curse,Tranquility,ZZ-ZWC,ZZ-ZWC VII,Dark Compound,Medium,20.20
+Curse,Tranquility,ZZ-ZWC,ZZ-ZWC VII,Toxic Metals,Medium,5.36
+Curse,Tranquility,ZZ-ZWC,ZZ-ZWC VII,Supertensile Plastics,Poor,10.88
+Curse,Tranquility,ZZ-ZWC,ZZ-ZWC VIII,Sheen Compound,Rich,31.00
+Curse,Tranquility,ZZ-ZWC,ZZ-ZWC VIII,Glossy Compound,Rich,32.53
+Curse,Tranquility,ZZ-ZWC,ZZ-ZWC VIII,Reactive Gas,Rich,27.61
+Curse,Tranquility,ZZ-ZWC,ZZ-ZWC VIII,Reactive Metals,Medium,5.83
+Curse,Tranquility,ZZ-ZWC,ZZ-ZWC VIII,Ionic Solutions,Medium,9.47
+Curse,Tranquility,ZZ-ZWC,ZZ-ZWC IX,Fiber Composite,Rich,33.22
+Curse,Tranquility,ZZ-ZWC,ZZ-ZWC IX,Glossy Compound,Medium,24.91
+Curse,Tranquility,ZZ-ZWC,ZZ-ZWC IX,Reactive Gas,Rich,32.51
+Curse,Tranquility,ZZ-ZWC,ZZ-ZWC IX,Noble Gas,Rich,33.16
+Curse,Tranquility,ZZ-ZWC,ZZ-ZWC IX,Coolant,Medium,14.64
+Curse,Tranquility,ZZ-ZWC,ZZ-ZWC X,Precious Alloy,Medium,21.92
+Curse,Tranquility,ZZ-ZWC,ZZ-ZWC X,Base Metals,Rich,8.21
+Curse,Tranquility,ZZ-ZWC,ZZ-ZWC X,Condensates,Poor,10.22
+Curse,Tranquility,ZZ-ZWC,ZZ-ZWC X,Liquid Ozone,Medium,27.35
+Curse,Tranquility,OSY-UD,OSY-UD I,Gleaming Alloy,Rich,32.55
+Curse,Tranquility,OSY-UD,OSY-UD I,Glossy Compound,Rich,32.38
+Curse,Tranquility,OSY-UD,OSY-UD I,Noble Metals,Perfect,35.05
+Curse,Tranquility,OSY-UD,OSY-UD II,Toxic Metals,Poor,4.87
+Curse,Tranquility,OSY-UD,OSY-UD II,Supertensile Plastics,Poor,10.37
+Curse,Tranquility,OSY-UD,OSY-UD II,Construction Blocks,Medium,21.13
+Curse,Tranquility,OSY-UD,OSY-UD II,Plasmoids,Poor,1.00
+Curse,Tranquility,OSY-UD,OSY-UD III,Supertensile Plastics,Poor,9.83
+Curse,Tranquility,OSY-UD,OSY-UD III,Construction Blocks,Poor,19.47
+Curse,Tranquility,OSY-UD,OSY-UD III,Silicate Glass,Poor,9.59
+Curse,Tranquility,OSY-UD,OSY-UD III,Oxygen Isotopes,Poor,2.15
+Curse,Tranquility,OSY-UD,OSY-UD IV,Gleaming Alloy,Medium,23.84
+Curse,Tranquility,OSY-UD,OSY-UD IV,Noble Gas,Rich,30.55
+Curse,Tranquility,OSY-UD,OSY-UD IV,Oxygen Isotopes,Poor,2.97
+Curse,Tranquility,OSY-UD,OSY-UD V,Lustering Alloy,Medium,22.34
+Curse,Tranquility,OSY-UD,OSY-UD V,Industrial Fibers,Medium,5.63
+Curse,Tranquility,OSY-UD,OSY-UD V,Supertensile Plastics,Poor,10.28
+Curse,Tranquility,OSY-UD,OSY-UD V,Oxygen Isotopes,Medium,3.41
+Curse,Tranquility,OSY-UD,OSY-UD VI,Lustering Alloy,Medium,23.06
+Curse,Tranquility,OSY-UD,OSY-UD VI,Industrial Fibers,Poor,3.88
+Curse,Tranquility,OSY-UD,OSY-UD VI,Supertensile Plastics,Medium,14.64
+Curse,Tranquility,OSY-UD,OSY-UD VI,Silicate Glass,Poor,8.74
+Curse,Tranquility,OSY-UD,OSY-UD VII,Glossy Compound,Rich,31.31
+Curse,Tranquility,OSY-UD,OSY-UD VII,Reactive Gas,Rich,30.47
+Curse,Tranquility,OSY-UD,OSY-UD VII,Noble Gas,Rich,32.63
+Curse,Tranquility,OSY-UD,OSY-UD VII,Base Metals,Medium,5.89
+Curse,Tranquility,OSY-UD,OSY-UD VII,Reactive Metals,Rich,8.51
+Curse,Tranquility,OSY-UD,OSY-UD VIII,Sheen Compound,Rich,30.37
+Curse,Tranquility,OSY-UD,OSY-UD VIII,Glossy Compound,Rich,29.04
+Curse,Tranquility,OSY-UD,OSY-UD VIII,Reactive Gas,Rich,28.90
+Curse,Tranquility,OSY-UD,OSY-UD VIII,Noble Gas,Rich,29.69
+Curse,Tranquility,OSY-UD,OSY-UD VIII,Base Metals,Rich,8.63
+Curse,Tranquility,OSY-UD,OSY-UD IX,Fiber Composite,Poor,17.22
+Curse,Tranquility,OSY-UD,OSY-UD IX,Glossy Compound,Medium,22.95
+Curse,Tranquility,OSY-UD,OSY-UD IX,Reactive Gas,Medium,22.24
+Curse,Tranquility,OSY-UD,OSY-UD IX,Polyaramids,Medium,14.32
+Curse,Tranquility,OSY-UD,OSY-UD IX,Ionic Solutions,Poor,7.74
+Curse,Tranquility,OSY-UD,OSY-UD X,Fiber Composite,Poor,19.28
+Curse,Tranquility,OSY-UD,OSY-UD X,Reactive Gas,Medium,22.43
+Curse,Tranquility,OSY-UD,OSY-UD X,Reactive Metals,Medium,6.75
+Curse,Tranquility,OSY-UD,OSY-UD X,Polyaramids,Rich,19.14
+Curse,Tranquility,OSY-UD,OSY-UD X,Ionic Solutions,Medium,10.05
+Curse,Tranquility,OSY-UD,OSY-UD XI,Reactive Gas,Medium,25.68
+Curse,Tranquility,OSY-UD,OSY-UD XI,Reactive Metals,Poor,5.13
+Curse,Tranquility,OSY-UD,OSY-UD XI,Toxic Metals,Medium,6.08
+Curse,Tranquility,OSY-UD,OSY-UD XI,Suspended Plasma,Medium,86.86
+Curse,Tranquility,K-MGJ7,K-MGJ7 I,Sheen Compound,Medium,22.52
+Curse,Tranquility,K-MGJ7,K-MGJ7 I,Dark Compound,Rich,30.60
+Curse,Tranquility,K-MGJ7,K-MGJ7 I,Condensates,Medium,16.72
+Curse,Tranquility,K-MGJ7,K-MGJ7 I,Nanites,Poor,4.76
+Curse,Tranquility,K-MGJ7,K-MGJ7 I,Ionic Solutions,Medium,7.62
+Curse,Tranquility,K-MGJ7,K-MGJ7 II,Gleaming Alloy,Rich,29.88
+Curse,Tranquility,K-MGJ7,K-MGJ7 II,Noble Gas,Rich,26.70
+Curse,Tranquility,K-MGJ7,K-MGJ7 II,Construction Blocks,Medium,21.00
+Curse,Tranquility,K-MGJ7,K-MGJ7 III,Crystal Compound,Rich,27.30
+Curse,Tranquility,K-MGJ7,K-MGJ7 III,Reactive Metals,Rich,8.34
+Curse,Tranquility,K-MGJ7,K-MGJ7 III,Toxic Metals,Medium,5.39
+Curse,Tranquility,K-MGJ7,K-MGJ7 III,Oxygen Isotopes,Medium,3.58
+Curse,Tranquility,K-MGJ7,K-MGJ7 IV,Fiber Composite,Medium,20.88
+Curse,Tranquility,K-MGJ7,K-MGJ7 IV,Reactive Gas,Perfect,31.92
+Curse,Tranquility,K-MGJ7,K-MGJ7 IV,Noble Gas,Rich,27.58
+Curse,Tranquility,K-MGJ7,K-MGJ7 IV,Polyaramids,Poor,11.68
+Curse,Tranquility,K-MGJ7,K-MGJ7 IV,Coolant,Rich,21.08
+Curse,Tranquility,K-MGJ7,K-MGJ7 V,Lustering Alloy,Rich,26.68
+Curse,Tranquility,K-MGJ7,K-MGJ7 V,Sheen Compound,Medium,22.30
+Curse,Tranquility,K-MGJ7,K-MGJ7 V,Reactive Gas,Rich,25.82
+Curse,Tranquility,K-MGJ7,K-MGJ7 V,Coolant,Rich,18.11
+Curse,Tranquility,K-MGJ7,K-MGJ7 V,Ionic Solutions,Medium,9.01
+Curse,Tranquility,K-MGJ7,K-MGJ7 VI,Sheen Compound,Medium,23.86
+Curse,Tranquility,K-MGJ7,K-MGJ7 VI,Fiber Composite,Rich,27.54
+Curse,Tranquility,K-MGJ7,K-MGJ7 VI,Glossy Compound,Medium,24.42
+Curse,Tranquility,K-MGJ7,K-MGJ7 VI,Reactive Gas,Medium,23.80
+Curse,Tranquility,K-MGJ7,K-MGJ7 VI,Reactive Metals,Poor,4.44
+Curse,Tranquility,K-MGJ7,K-MGJ7 VII,Motley Compound,Medium,22.28
+Curse,Tranquility,K-MGJ7,K-MGJ7 VII,Base Metals,Rich,7.11
+Curse,Tranquility,K-MGJ7,K-MGJ7 VII,Industrial Fibers,Medium,6.17
+Curse,Tranquility,K-MGJ7,K-MGJ7 VII,Condensates,Poor,10.40
+Curse,Paradise,JWJ-P1,JWJ-P1 I,Base Metals,Poor,3.72
+Curse,Paradise,JWJ-P1,JWJ-P1 I,Toxic Metals,Medium,6.22
+Curse,Paradise,JWJ-P1,JWJ-P1 I,Supertensile Plastics,Poor,10.85
+Curse,Paradise,JWJ-P1,JWJ-P1 I,Construction Blocks,Poor,15.49
+Curse,Paradise,JWJ-P1,JWJ-P1 II,Gleaming Alloy,Medium,27.08
+Curse,Paradise,JWJ-P1,JWJ-P1 II,Reactive Metals,Medium,5.79
+Curse,Paradise,JWJ-P1,JWJ-P1 II,Supertensile Plastics,Medium,17.35
+Curse,Paradise,JWJ-P1,JWJ-P1 II,Nanites,Poor,5.27
+Curse,Paradise,JWJ-P1,JWJ-P1 III,Fiber Composite,Medium,21.41
+Curse,Paradise,JWJ-P1,JWJ-P1 III,Condensates,Perfect,24.38
+Curse,Paradise,JWJ-P1,JWJ-P1 III,Smartfab Units,Perfect,26.65
+Curse,Paradise,JWJ-P1,JWJ-P1 III,Heavy Water,Rich,332.42
+Curse,Paradise,JWJ-P1,JWJ-P1 III,Liquid Ozone,Rich,36.99
+Curse,Paradise,JWJ-P1,JWJ-P1 IV,Lustering Alloy,Medium,24.38
+Curse,Paradise,JWJ-P1,JWJ-P1 IV,Fiber Composite,Rich,32.60
+Curse,Paradise,JWJ-P1,JWJ-P1 IV,Reactive Gas,Rich,28.93
+Curse,Paradise,JWJ-P1,JWJ-P1 IV,Noble Gas,Medium,25.87
+Curse,Paradise,JWJ-P1,JWJ-P1 IV,Polyaramids,Medium,16.27
+Curse,Paradise,JWJ-P1,JWJ-P1 V,Lustering Alloy,Rich,28.75
+Curse,Paradise,JWJ-P1,JWJ-P1 V,Glossy Compound,Poor,19.60
+Curse,Paradise,JWJ-P1,JWJ-P1 V,Reactive Gas,Medium,24.29
+Curse,Paradise,JWJ-P1,JWJ-P1 V,Polyaramids,Rich,21.08
+Curse,Paradise,JWJ-P1,JWJ-P1 V,Coolant,Medium,18.45
+Curse,Paradise,JWJ-P1,JWJ-P1 VI,Condensed Alloy,Perfect,36.48
+Curse,Paradise,JWJ-P1,JWJ-P1 VI,Toxic Metals,Medium,6.77
+Curse,Paradise,JWJ-P1,JWJ-P1 VI,Coolant,Perfect,23.73
+Curse,Paradise,JWJ-P1,JWJ-P1 VI,Liquid Ozone,Rich,43.01
+Curse,Paradise,JWJ-P1,JWJ-P1 VI,Ionic Solutions,Medium,9.74
+Curse,Paradise,JWJ-P1,JWJ-P1 VII,Lustering Alloy,Rich,30.01
+Curse,Paradise,JWJ-P1,JWJ-P1 VII,Sheen Compound,Rich,31.09
+Curse,Paradise,JWJ-P1,JWJ-P1 VII,Fiber Composite,Medium,26.60
+Curse,Paradise,JWJ-P1,JWJ-P1 VII,Reactive Gas,Perfect,35.79
+Curse,Paradise,JWJ-P1,JWJ-P1 VII,Reactive Metals,Perfect,9.60
+Curse,Paradise,V-IUEL,V-IUEL I,Lustering Alloy,Poor,19.07
+Curse,Paradise,V-IUEL,V-IUEL I,Precious Alloy,Medium,24.57
+Curse,Paradise,V-IUEL,V-IUEL I,Toxic Metals,Medium,5.65
+Curse,Paradise,V-IUEL,V-IUEL I,Supertensile Plastics,Medium,15.06
+Curse,Paradise,V-IUEL,V-IUEL II,Base Metals,Poor,4.25
+Curse,Paradise,V-IUEL,V-IUEL II,Supertensile Plastics,Poor,11.12
+Curse,Paradise,V-IUEL,V-IUEL II,Construction Blocks,Poor,16.07
+Curse,Paradise,V-IUEL,V-IUEL II,Oxygen Isotopes,Medium,3.18
+Curse,Paradise,V-IUEL,V-IUEL III,Supertensile Plastics,Medium,13.62
+Curse,Paradise,V-IUEL,V-IUEL III,Construction Blocks,Poor,17.26
+Curse,Paradise,V-IUEL,V-IUEL III,Silicate Glass,Poor,9.03
+Curse,Paradise,V-IUEL,V-IUEL III,Oxygen Isotopes,Medium,3.35
+Curse,Paradise,V-IUEL,V-IUEL IV,Sheen Compound,Medium,20.71
+Curse,Paradise,V-IUEL,V-IUEL IV,Fiber Composite,Medium,23.54
+Curse,Paradise,V-IUEL,V-IUEL IV,Glossy Compound,Rich,31.69
+Curse,Paradise,V-IUEL,V-IUEL IV,Reactive Gas,Rich,28.48
+Curse,Paradise,V-IUEL,V-IUEL IV,Noble Gas,Rich,27.72
+Curse,Paradise,V-IUEL,V-IUEL V,Lustering Alloy,Medium,20.12
+Curse,Paradise,V-IUEL,V-IUEL V,Fiber Composite,Medium,20.20
+Curse,Paradise,V-IUEL,V-IUEL V,Glossy Compound,Medium,24.84
+Curse,Paradise,V-IUEL,V-IUEL V,Reactive Gas,Perfect,33.73
+Curse,Paradise,V-IUEL,V-IUEL V,Noble Gas,Rich,30.95
+Curse,Paradise,V-IUEL,V-IUEL VI,Lustering Alloy,Rich,29.27
+Curse,Paradise,V-IUEL,V-IUEL VI,Fiber Composite,Medium,20.35
+Curse,Paradise,V-IUEL,V-IUEL VI,Reactive Gas,Rich,31.25
+Curse,Paradise,V-IUEL,V-IUEL VI,Polyaramids,Rich,21.88
+Curse,Paradise,V-IUEL,V-IUEL VI,Ionic Solutions,Rich,11.70
+Curse,Paradise,V-IUEL,V-IUEL VII,Lustering Alloy,Rich,30.66
+Curse,Paradise,V-IUEL,V-IUEL VII,Motley Compound,Rich,26.84
+Curse,Paradise,V-IUEL,V-IUEL VII,Condensates,Rich,20.44
+Curse,Paradise,V-IUEL,V-IUEL VII,Liquid Ozone,Medium,26.38
+Curse,Paradise,0SHT-A,0SHT-A I,Gleaming Alloy,Medium,21.13
+Curse,Paradise,0SHT-A,0SHT-A I,Glossy Compound,Medium,22.26
+Curse,Paradise,0SHT-A,0SHT-A I,Oxygen Isotopes,Rich,4.59
+Curse,Paradise,0SHT-A,0SHT-A II,Toxic Metals,Medium,5.66
+Curse,Paradise,0SHT-A,0SHT-A II,Industrial Fibers,Medium,5.81
+Curse,Paradise,0SHT-A,0SHT-A II,Supertensile Plastics,Poor,12.15
+Curse,Paradise,0SHT-A,0SHT-A II,Plasmoids,Poor,1.10
+Curse,Paradise,0SHT-A,0SHT-A III,Toxic Metals,Medium,5.95
+Curse,Paradise,0SHT-A,0SHT-A III,Industrial Fibers,Medium,6.57
+Curse,Paradise,0SHT-A,0SHT-A III,Supertensile Plastics,Poor,9.24
+Curse,Paradise,0SHT-A,0SHT-A III,Oxygen Isotopes,Poor,2.08
+Curse,Paradise,0SHT-A,0SHT-A IV,Gleaming Alloy,Rich,31.29
+Curse,Paradise,0SHT-A,0SHT-A IV,Reactive Metals,Rich,7.01
+Curse,Paradise,0SHT-A,0SHT-A IV,Toxic Metals,Rich,8.37
+Curse,Paradise,0SHT-A,0SHT-A IV,Construction Blocks,Rich,31.58
+Curse,Paradise,0SHT-A,0SHT-A V,Lustering Alloy,Medium,21.44
+Curse,Paradise,0SHT-A,0SHT-A V,Glossy Compound,Rich,30.68
+Curse,Paradise,0SHT-A,0SHT-A V,Reactive Gas,Rich,32.74
+Curse,Paradise,0SHT-A,0SHT-A V,Noble Gas,Rich,29.40
+Curse,Paradise,0SHT-A,0SHT-A V,Polyaramids,Poor,13.19
+Curse,Paradise,0SHT-A,0SHT-A VI,Sheen Compound,Rich,27.76
+Curse,Paradise,0SHT-A,0SHT-A VI,Glossy Compound,Medium,24.57
+Curse,Paradise,0SHT-A,0SHT-A VI,Reactive Gas,Poor,17.91
+Curse,Paradise,0SHT-A,0SHT-A VI,Base Metals,Medium,5.49
+Curse,Paradise,0SHT-A,0SHT-A VI,Reactive Metals,Rich,7.94
+Curse,Paradise,0SHT-A,0SHT-A VII,Lustering Alloy,Medium,26.36
+Curse,Paradise,0SHT-A,0SHT-A VII,Reactive Gas,Poor,18.10
+Curse,Paradise,0SHT-A,0SHT-A VII,Noble Gas,Perfect,33.58
+Curse,Paradise,0SHT-A,0SHT-A VII,Base Metals,Rich,8.21
+Curse,Paradise,0SHT-A,0SHT-A VII,Polyaramids,Rich,20.17
+Curse,Paradise,0SHT-A,0SHT-A VIII,Glossy Compound,Medium,23.67
+Curse,Paradise,0SHT-A,0SHT-A VIII,Reactive Gas,Poor,18.46
+Curse,Paradise,0SHT-A,0SHT-A VIII,Noble Gas,Perfect,33.58
+Curse,Paradise,0SHT-A,0SHT-A VIII,Polyaramids,Rich,19.31
+Curse,Paradise,0SHT-A,0SHT-A VIII,Ionic Solutions,Rich,12.59
+Curse,Paradise,0SHT-A,0SHT-A IX,Lustering Alloy,Poor,17.72
+Curse,Paradise,0SHT-A,0SHT-A IX,Base Metals,Poor,4.70
+Curse,Paradise,0SHT-A,0SHT-A IX,Industrial Fibers,Medium,5.74
+Curse,Paradise,0SHT-A,0SHT-A IX,Condensates,Medium,17.67
+Curse,Paradise,D87E-A,D87E-A I,Dark Compound,Poor,16.32
+Curse,Paradise,D87E-A,D87E-A I,Toxic Metals,Poor,4.94
+Curse,Paradise,D87E-A,D87E-A I,Supertensile Plastics,Poor,10.85
+Curse,Paradise,D87E-A,D87E-A I,Silicate Glass,Poor,8.19
+Curse,Paradise,D87E-A,D87E-A II,Precious Alloy,Poor,13.54
+Curse,Paradise,D87E-A,D87E-A II,Toxic Metals,Medium,6.24
+Curse,Paradise,D87E-A,D87E-A II,Supertensile Plastics,Poor,11.59
+Curse,Paradise,D87E-A,D87E-A II,Plasmoids,Medium,1.40
+Curse,Paradise,D87E-A,D87E-A III,Dark Compound,Poor,14.48
+Curse,Paradise,D87E-A,D87E-A III,Supertensile Plastics,Medium,13.77
+Curse,Paradise,D87E-A,D87E-A III,Silicate Glass,Poor,7.74
+Curse,Paradise,D87E-A,D87E-A III,Plasmoids,Poor,1.09
+Curse,Paradise,D87E-A,D87E-A IV,Lustering Alloy,Medium,22.86
+Curse,Paradise,D87E-A,D87E-A IV,Supertensile Plastics,Poor,9.19
+Curse,Paradise,D87E-A,D87E-A IV,Silicate Glass,Poor,6.23
+Curse,Paradise,D87E-A,D87E-A IV,Plasmoids,Poor,0.96
+Curse,Paradise,D87E-A,D87E-A V,Reactive Metals,Perfect,8.57
+Curse,Paradise,D87E-A,D87E-A V,Construction Blocks,Poor,17.14
+Curse,Paradise,D87E-A,D87E-A V,Nanites,Rich,6.68
+Curse,Paradise,D87E-A,D87E-A V,Suspended Plasma,Medium,80.28
+Curse,Paradise,D87E-A,D87E-A VI,Opulent Compound,Perfect,32.50
+Curse,Paradise,D87E-A,D87E-A VI,Polyaramids,Rich,18.27
+Curse,Paradise,D87E-A,D87E-A VI,Coolant,Perfect,23.31
+Curse,Paradise,D87E-A,D87E-A VI,Silicate Glass,Medium,11.22
+Curse,Paradise,D87E-A,D87E-A VI,Liquid Ozone,Perfect,42.48
+Curse,Paradise,D87E-A,D87E-A VII,Fiber Composite,Perfect,33.12
+Curse,Paradise,D87E-A,D87E-A VII,Glossy Compound,Rich,31.76
+Curse,Paradise,D87E-A,D87E-A VII,Reactive Gas,Rich,31.60
+Curse,Paradise,D87E-A,D87E-A VII,Polyaramids,Rich,18.33
+Curse,Paradise,D87E-A,D87E-A VII,Coolant,Rich,17.09
+Curse,Paradise,D87E-A,D87E-A VIII,Fiber Composite,Medium,22.32
+Curse,Paradise,D87E-A,D87E-A VIII,Reactive Gas,Medium,21.34
+Curse,Paradise,D87E-A,D87E-A VIII,Reactive Metals,Medium,6.09
+Curse,Paradise,D87E-A,D87E-A VIII,Polyaramids,Medium,14.35
+Curse,Paradise,D87E-A,D87E-A VIII,Ionic Solutions,Rich,11.38
+Curse,Paradise,K-B2D3,K-B2D3 I,Precious Alloy,Poor,13.16
+Curse,Paradise,K-B2D3,K-B2D3 I,Supertensile Plastics,Medium,15.88
+Curse,Paradise,K-B2D3,K-B2D3 I,Silicate Glass,Medium,10.70
+Curse,Paradise,K-B2D3,K-B2D3 I,Plasmoids,Poor,0.92
+Curse,Paradise,K-B2D3,K-B2D3 II,Gleaming Alloy,Medium,19.54
+Curse,Paradise,K-B2D3,K-B2D3 II,Construction Blocks,Perfect,33.36
+Curse,Paradise,K-B2D3,K-B2D3 II,Oxygen Isotopes,Rich,4.57
+Curse,Paradise,K-B2D3,K-B2D3 III,Condensed Alloy,Medium,19.48
+Curse,Paradise,K-B2D3,K-B2D3 III,Reactive Gas,Perfect,38.14
+Curse,Paradise,K-B2D3,K-B2D3 III,Base Metals,Medium,6.15
+Curse,Paradise,K-B2D3,K-B2D3 III,Heavy Water,Rich,257.80
+Curse,Paradise,K-B2D3,K-B2D3 III,Liquid Ozone,Medium,26.75
+Curse,Paradise,K-B2D3,K-B2D3 IV,Lustering Alloy,Medium,19.76
+Curse,Paradise,K-B2D3,K-B2D3 IV,Sheen Compound,Rich,27.72
+Curse,Paradise,K-B2D3,K-B2D3 IV,Reactive Gas,Perfect,31.86
+Curse,Paradise,K-B2D3,K-B2D3 IV,Coolant,Perfect,22.03
+Curse,Paradise,K-B2D3,K-B2D3 IV,Ionic Solutions,Medium,9.96
+Curse,Paradise,K-B2D3,K-B2D3 V,Glossy Compound,Medium,21.64
+Curse,Paradise,K-B2D3,K-B2D3 V,Reactive Gas,Medium,24.90
+Curse,Paradise,K-B2D3,K-B2D3 V,Noble Gas,Medium,22.38
+Curse,Paradise,K-B2D3,K-B2D3 V,Reactive Metals,Medium,5.02
+Curse,Paradise,K-B2D3,K-B2D3 V,Coolant,Perfect,21.40
+Curse,Paradise,K-B2D3,K-B2D3 VI,Fiber Composite,Rich,26.96
+Curse,Paradise,K-B2D3,K-B2D3 VI,Glossy Compound,Rich,27.68
+Curse,Paradise,K-B2D3,K-B2D3 VI,Reactive Gas,Medium,24.88
+Curse,Paradise,K-B2D3,K-B2D3 VI,Coolant,Medium,14.36
+Curse,Paradise,K-B2D3,K-B2D3 VI,Ionic Solutions,Rich,12.68
+Curse,Paradise,K-B2D3,K-B2D3 VII,Sheen Compound,Rich,26.30
+Curse,Paradise,K-B2D3,K-B2D3 VII,Reactive Gas,Medium,21.96
+Curse,Paradise,K-B2D3,K-B2D3 VII,Noble Gas,Medium,24.46
+Curse,Paradise,K-B2D3,K-B2D3 VII,Base Metals,Rich,7.22
+Curse,Paradise,K-B2D3,K-B2D3 VII,Polyaramids,Medium,15.01
+Curse,Paradise,K-B2D3,K-B2D3 VIII,Heavy Metals,Poor,16.88
+Curse,Paradise,K-B2D3,K-B2D3 VIII,Condensates,Poor,10.03
+Curse,Paradise,K-B2D3,K-B2D3 VIII,Suspended Plasma,Medium,88.13
+Curse,Paradise,K-B2D3,K-B2D3 VIII,Liquid Ozone,Poor,22.93
+Curse,Paradise,PO4F-3,PO4F-3 I,Precious Alloy,Poor,18.64
+Curse,Paradise,PO4F-3,PO4F-3 I,Industrial Fibers,Medium,5.67
+Curse,Paradise,PO4F-3,PO4F-3 I,Supertensile Plastics,Poor,10.92
+Curse,Paradise,PO4F-3,PO4F-3 I,Oxygen Isotopes,Medium,3.68
+Curse,Paradise,PO4F-3,PO4F-3 II,Dark Compound,Poor,16.84
+Curse,Paradise,PO4F-3,PO4F-3 II,Supertensile Plastics,Poor,11.23
+Curse,Paradise,PO4F-3,PO4F-3 II,Construction Blocks,Medium,19.02
+Curse,Paradise,PO4F-3,PO4F-3 II,Oxygen Isotopes,Poor,2.74
+Curse,Paradise,PO4F-3,PO4F-3 III,Dark Compound,Medium,19.52
+Curse,Paradise,PO4F-3,PO4F-3 III,Industrial Fibers,Poor,3.82
+Curse,Paradise,PO4F-3,PO4F-3 III,Supertensile Plastics,Medium,14.04
+Curse,Paradise,PO4F-3,PO4F-3 III,Silicate Glass,Medium,11.07
+Curse,Paradise,PO4F-3,PO4F-3 IV,Dark Compound,Poor,18.58
+Curse,Paradise,PO4F-3,PO4F-3 IV,Supertensile Plastics,Poor,8.89
+Curse,Paradise,PO4F-3,PO4F-3 IV,Construction Blocks,Medium,24.28
+Curse,Paradise,PO4F-3,PO4F-3 IV,Plasmoids,Medium,1.33
+Curse,Paradise,PO4F-3,PO4F-3 V,Lustering Alloy,Medium,20.84
+Curse,Paradise,PO4F-3,PO4F-3 V,Sheen Compound,Medium,21.70
+Curse,Paradise,PO4F-3,PO4F-3 V,Fiber Composite,Medium,24.60
+Curse,Paradise,PO4F-3,PO4F-3 V,Reactive Gas,Poor,16.64
+Curse,Paradise,PO4F-3,PO4F-3 V,Noble Gas,Medium,22.08
+Curse,Paradise,PO4F-3,PO4F-3 VI,Lustering Alloy,Rich,27.04
+Curse,Paradise,PO4F-3,PO4F-3 VI,Sheen Compound,Rich,31.16
+Curse,Paradise,PO4F-3,PO4F-3 VI,Reactive Gas,Rich,30.28
+Curse,Paradise,PO4F-3,PO4F-3 VI,Base Metals,Medium,6.29
+Curse,Paradise,PO4F-3,PO4F-3 VI,Coolant,Rich,19.48
+Curse,Paradise,PO4F-3,PO4F-3 VII,Lucent Compound,Rich,27.08
+Curse,Paradise,PO4F-3,PO4F-3 VII,Reactive Gas,Medium,19.98
+Curse,Paradise,PO4F-3,PO4F-3 VII,Reactive Metals,Rich,7.18
+Curse,Paradise,PO4F-3,PO4F-3 VII,Supertensile Plastics,Medium,15.07
+Curse,Paradise,J7A-UR,J7A-UR I,Gleaming Alloy,Perfect,37.90
+Curse,Paradise,J7A-UR,J7A-UR I,Noble Gas,Perfect,36.75
+Curse,Paradise,J7A-UR,J7A-UR I,Polyaramids,Rich,23.58
+Curse,Paradise,J7A-UR,J7A-UR II,Lustering Alloy,Medium,26.89
+Curse,Paradise,J7A-UR,J7A-UR II,Dark Compound,Poor,19.34
+Curse,Paradise,J7A-UR,J7A-UR II,Supertensile Plastics,Medium,16.02
+Curse,Paradise,J7A-UR,J7A-UR II,Silicate Glass,Poor,9.65
+Curse,Paradise,J7A-UR,J7A-UR III,Gleaming Alloy,Rich,32.45
+Curse,Paradise,J7A-UR,J7A-UR III,Motley Compound,Medium,21.73
+Curse,Paradise,J7A-UR,J7A-UR III,Glossy Compound,Rich,29.14
+Curse,Paradise,J7A-UR,J7A-UR IV,Toxic Metals,Poor,4.27
+Curse,Paradise,J7A-UR,J7A-UR IV,Supertensile Plastics,Medium,15.79
+Curse,Paradise,J7A-UR,J7A-UR IV,Oxygen Isotopes,Medium,4.23
+Curse,Paradise,J7A-UR,J7A-UR IV,Plasmoids,Poor,0.96
+Curse,Paradise,J7A-UR,J7A-UR V,Lustering Alloy,Medium,25.07
+Curse,Paradise,J7A-UR,J7A-UR V,Toxic Metals,Poor,5.59
+Curse,Paradise,J7A-UR,J7A-UR V,Supertensile Plastics,Medium,17.71
+Curse,Paradise,J7A-UR,J7A-UR V,Silicate Glass,Poor,8.92
+Curse,Paradise,J7A-UR,J7A-UR VI,Industrial Fibers,Poor,3.87
+Curse,Paradise,J7A-UR,J7A-UR VI,Supertensile Plastics,Medium,16.85
+Curse,Paradise,J7A-UR,J7A-UR VI,Construction Blocks,Poor,17.13
+Curse,Paradise,J7A-UR,J7A-UR VI,Oxygen Isotopes,Poor,2.59
+Curse,Paradise,J7A-UR,J7A-UR VII,Sheen Compound,Poor,20.68
+Curse,Paradise,J7A-UR,J7A-UR VII,Fiber Composite,Rich,33.81
+Curse,Paradise,J7A-UR,J7A-UR VII,Glossy Compound,Medium,26.27
+Curse,Paradise,J7A-UR,J7A-UR VII,Reactive Gas,Medium,26.59
+Curse,Paradise,J7A-UR,J7A-UR VII,Reactive Metals,Rich,8.74
+Curse,Paradise,J7A-UR,J7A-UR VIII,Sheen Compound,Medium,24.66
+Curse,Paradise,J7A-UR,J7A-UR VIII,Reactive Gas,Rich,35.17
+Curse,Paradise,J7A-UR,J7A-UR VIII,Base Metals,Rich,8.70
+Curse,Paradise,J7A-UR,J7A-UR VIII,Polyaramids,Medium,18.84
+Curse,Paradise,J7A-UR,J7A-UR VIII,Coolant,Rich,22.39
+Curse,Paradise,J7A-UR,J7A-UR IX,Precious Alloy,Medium,28.77
+Curse,Paradise,J7A-UR,J7A-UR IX,Industrial Fibers,Rich,8.55
+Curse,Paradise,J7A-UR,J7A-UR IX,Coolant,Medium,16.12
+Curse,Paradise,J7A-UR,J7A-UR IX,Condensates,Rich,19.80
+Curse,Paradise,J7A-UR,J7A-UR X,Precious Alloy,Poor,19.76
+Curse,Paradise,J7A-UR,J7A-UR X,Heavy Metals,Poor,21.37
+Curse,Paradise,J7A-UR,J7A-UR X,Condensates,Poor,13.80
+Curse,Paradise,J7A-UR,J7A-UR X,Suspended Plasma,Rich,111.61
+Curse,Paradise,5E-VR8,5E-VR8 I,Sheen Compound,Medium,24.86
+Curse,Paradise,5E-VR8,5E-VR8 I,Glossy Compound,Medium,22.22
+Curse,Paradise,5E-VR8,5E-VR8 I,Reactive Gas,Poor,16.54
+Curse,Paradise,5E-VR8,5E-VR8 I,Base Metals,Rich,6.75
+Curse,Paradise,5E-VR8,5E-VR8 I,Coolant,Rich,20.04
+Curse,Paradise,5E-VR8,5E-VR8 II,Precious Alloy,Poor,17.48
+Curse,Paradise,5E-VR8,5E-VR8 II,Supertensile Plastics,Medium,16.25
+Curse,Paradise,5E-VR8,5E-VR8 II,Condensates,Poor,10.33
+Curse,Paradise,5E-VR8,5E-VR8 II,Suspended Plasma,Rich,105.26
+Curse,Paradise,V7D-JD,V7D-JD I,Lustering Alloy,Medium,23.36
+Curse,Paradise,V7D-JD,V7D-JD I,Dark Compound,Poor,17.44
+Curse,Paradise,V7D-JD,V7D-JD I,Industrial Fibers,Poor,3.87
+Curse,Paradise,V7D-JD,V7D-JD I,Supertensile Plastics,Medium,15.95
+Curse,Paradise,V7D-JD,V7D-JD II,Dark Compound,Poor,15.62
+Curse,Paradise,V7D-JD,V7D-JD II,Toxic Metals,Medium,5.69
+Curse,Paradise,V7D-JD,V7D-JD II,Supertensile Plastics,Poor,9.95
+Curse,Paradise,V7D-JD,V7D-JD II,Oxygen Isotopes,Poor,2.47
+Curse,Paradise,V7D-JD,V7D-JD III,Gleaming Alloy,Poor,16.76
+Curse,Paradise,V7D-JD,V7D-JD III,Noble Gas,Medium,22.54
+Curse,Paradise,V7D-JD,V7D-JD III,Polyaramids,Medium,16.57
+Curse,Paradise,V7D-JD,V7D-JD IV,Gleaming Alloy,Rich,29.84
+Curse,Paradise,V7D-JD,V7D-JD IV,Noble Gas,Rich,31.62
+Curse,Paradise,V7D-JD,V7D-JD IV,Noble Metals,Rich,25.60
+Curse,Paradise,V7D-JD,V7D-JD V,Sheen Compound,Perfect,35.00
+Curse,Paradise,V7D-JD,V7D-JD V,Heavy Metals,Medium,20.32
+Curse,Paradise,V7D-JD,V7D-JD V,Condensates,Perfect,21.87
+Curse,Paradise,V7D-JD,V7D-JD V,Suspended Plasma,Perfect,115.78
+Curse,Paradise,V7D-JD,V7D-JD V,Plasmoids,Medium,1.51
+Curse,Paradise,V7D-JD,V7D-JD VI,Gleaming Alloy,Medium,24.98
+Curse,Paradise,V7D-JD,V7D-JD VI,Glossy Compound,Rich,28.00
+Curse,Paradise,V7D-JD,V7D-JD VI,Oxygen Isotopes,Rich,4.56
+Curse,Paradise,V7D-JD,V7D-JD VII,Gleaming Alloy,Poor,18.46
+Curse,Paradise,V7D-JD,V7D-JD VII,Motley Compound,Poor,18.48
+Curse,Paradise,V7D-JD,V7D-JD VII,Construction Blocks,Perfect,33.90
+Curse,Paradise,V7D-JD,V7D-JD VIII,Condensed Alloy,Rich,27.82
+Curse,Paradise,V7D-JD,V7D-JD VIII,Reactive Gas,Poor,18.56
+Curse,Paradise,V7D-JD,V7D-JD VIII,Condensates,Medium,16.69
+Curse,Paradise,V7D-JD,V7D-JD VIII,Heavy Water,Rich,316.00
+Curse,Paradise,V7D-JD,V7D-JD VIII,Liquid Ozone,Rich,32.05
+Curse,Paradise,V7D-JD,V7D-JD IX,Sheen Compound,Poor,18.16
+Curse,Paradise,V7D-JD,V7D-JD IX,Reactive Gas,Medium,24.56
+Curse,Paradise,V7D-JD,V7D-JD IX,Reactive Metals,Medium,5.16
+Curse,Paradise,V7D-JD,V7D-JD IX,Polyaramids,Rich,18.37
+Curse,Paradise,V7D-JD,V7D-JD IX,Coolant,Medium,16.39
+Curse,Paradise,V7D-JD,V7D-JD X,Dark Compound,Medium,19.10
+Curse,Paradise,V7D-JD,V7D-JD X,Base Metals,Medium,6.12
+Curse,Paradise,V7D-JD,V7D-JD X,Supertensile Plastics,Poor,11.32
+Curse,Paradise,V7D-JD,V7D-JD X,Construction Blocks,Medium,19.86
+Curse,Elysium,HLW-HP,HLW-HP I,Gleaming Alloy,Rich,27.72
+Curse,Elysium,HLW-HP,HLW-HP I,Motley Compound,Rich,25.44
+Curse,Elysium,HLW-HP,HLW-HP I,Glossy Compound,Medium,22.78
+Curse,Elysium,HLW-HP,HLW-HP II,Precious Alloy,Medium,21.06
+Curse,Elysium,HLW-HP,HLW-HP II,Supertensile Plastics,Medium,16.27
+Curse,Elysium,HLW-HP,HLW-HP II,Silicate Glass,Medium,9.45
+Curse,Elysium,HLW-HP,HLW-HP II,Oxygen Isotopes,Medium,3.67
+Curse,Elysium,HLW-HP,HLW-HP III,Sheen Compound,Medium,22.46
+Curse,Elysium,HLW-HP,HLW-HP III,Fiber Composite,Rich,27.28
+Curse,Elysium,HLW-HP,HLW-HP III,Reactive Gas,Rich,25.84
+Curse,Elysium,HLW-HP,HLW-HP III,Base Metals,Medium,5.55
+Curse,Elysium,HLW-HP,HLW-HP III,Polyaramids,Medium,16.39
+Curse,Elysium,HLW-HP,HLW-HP IV,Toxic Metals,Poor,4.23
+Curse,Elysium,HLW-HP,HLW-HP IV,Supertensile Plastics,Medium,15.39
+Curse,Elysium,HLW-HP,HLW-HP IV,Silicate Glass,Poor,9.32
+Curse,Elysium,HLW-HP,HLW-HP IV,Oxygen Isotopes,Medium,3.41
+Curse,Elysium,HLW-HP,HLW-HP V,Lustering Alloy,Medium,19.16
+Curse,Elysium,HLW-HP,HLW-HP V,Dark Compound,Medium,24.56
+Curse,Elysium,HLW-HP,HLW-HP V,Base Metals,Poor,4.14
+Curse,Elysium,HLW-HP,HLW-HP V,Supertensile Plastics,Poor,12.47
+Curse,Elysium,HLW-HP,HLW-HP VI,Lustering Alloy,Medium,22.74
+Curse,Elysium,HLW-HP,HLW-HP VI,Reactive Gas,Perfect,32.48
+Curse,Elysium,HLW-HP,HLW-HP VI,Reactive Metals,Perfect,8.64
+Curse,Elysium,HLW-HP,HLW-HP VI,Polyaramids,Medium,12.80
+Curse,Elysium,HLW-HP,HLW-HP VI,Coolant,Poor,12.56
+Curse,Elysium,HLW-HP,HLW-HP VII,Lustering Alloy,Poor,17.18
+Curse,Elysium,HLW-HP,HLW-HP VII,Glossy Compound,Rich,29.40
+Curse,Elysium,HLW-HP,HLW-HP VII,Reactive Gas,Medium,23.52
+Curse,Elysium,HLW-HP,HLW-HP VII,Reactive Metals,Poor,4.96
+Curse,Elysium,HLW-HP,HLW-HP VII,Coolant,Poor,11.40
+Curse,Elysium,8G-MQV,8G-MQV I,Lustering Alloy,Medium,20.20
+Curse,Elysium,8G-MQV,8G-MQV I,Toxic Metals,Medium,6.24
+Curse,Elysium,8G-MQV,8G-MQV I,Supertensile Plastics,Poor,8.47
+Curse,Elysium,8G-MQV,8G-MQV I,Construction Blocks,Medium,19.88
+Curse,Elysium,8G-MQV,8G-MQV II,Lustering Alloy,Poor,16.74
+Curse,Elysium,8G-MQV,8G-MQV II,Supertensile Plastics,Poor,9.33
+Curse,Elysium,8G-MQV,8G-MQV II,Construction Blocks,Medium,18.94
+Curse,Elysium,8G-MQV,8G-MQV II,Oxygen Isotopes,Medium,3.34
+Curse,Elysium,8G-MQV,8G-MQV III,Gleaming Alloy,Perfect,32.06
+Curse,Elysium,8G-MQV,8G-MQV III,Heavy Metals,Rich,26.32
+Curse,Elysium,8G-MQV,8G-MQV III,Polyaramids,Rich,16.89
+Curse,Elysium,8G-MQV,8G-MQV IV,Lustering Alloy,Rich,30.32
+Curse,Elysium,8G-MQV,8G-MQV IV,Sheen Compound,Rich,31.68
+Curse,Elysium,8G-MQV,8G-MQV IV,Fiber Composite,Rich,31.34
+Curse,Elysium,8G-MQV,8G-MQV IV,Reactive Gas,Rich,27.96
+Curse,Elysium,8G-MQV,8G-MQV IV,Coolant,Medium,16.73
+Curse,Elysium,8G-MQV,8G-MQV V,Fiber Composite,Perfect,32.94
+Curse,Elysium,8G-MQV,8G-MQV V,Reactive Gas,Rich,31.54
+Curse,Elysium,8G-MQV,8G-MQV V,Noble Gas,Medium,23.32
+Curse,Elysium,8G-MQV,8G-MQV V,Coolant,Rich,18.79
+Curse,Elysium,8G-MQV,8G-MQV V,Ionic Solutions,Rich,11.00
+Curse,Elysium,8G-MQV,8G-MQV VI,Lustering Alloy,Medium,25.20
+Curse,Elysium,8G-MQV,8G-MQV VI,Base Metals,Rich,7.50
+Curse,Elysium,8G-MQV,8G-MQV VI,Industrial Fibers,Medium,6.14
+Curse,Elysium,8G-MQV,8G-MQV VI,Condensates,Medium,16.61
+Curse,Elysium,RA-NXN,RA-NXN I,Precious Alloy,Poor,15.54
+Curse,Elysium,RA-NXN,RA-NXN I,Toxic Metals,Poor,3.46
+Curse,Elysium,RA-NXN,RA-NXN I,Supertensile Plastics,Poor,10.07
+Curse,Elysium,RA-NXN,RA-NXN I,Plasmoids,Medium,1.17
+Curse,Elysium,RA-NXN,RA-NXN II,Dark Compound,Medium,21.42
+Curse,Elysium,RA-NXN,RA-NXN II,Base Metals,Poor,3.32
+Curse,Elysium,RA-NXN,RA-NXN II,Supertensile Plastics,Medium,15.37
+Curse,Elysium,RA-NXN,RA-NXN II,Silicate Glass,Medium,10.57
+Curse,Elysium,RA-NXN,RA-NXN III,Gleaming Alloy,Perfect,32.72
+Curse,Elysium,RA-NXN,RA-NXN III,Noble Gas,Poor,18.04
+Curse,Elysium,RA-NXN,RA-NXN III,Oxygen Isotopes,Rich,3.93
+Curse,Elysium,RA-NXN,RA-NXN IV,Lustering Alloy,Poor,12.52
+Curse,Elysium,RA-NXN,RA-NXN IV,Supertensile Plastics,Poor,10.31
+Curse,Elysium,RA-NXN,RA-NXN IV,Silicate Glass,Medium,12.22
+Curse,Elysium,RA-NXN,RA-NXN IV,Oxygen Isotopes,Medium,3.03
+Curse,Elysium,RA-NXN,RA-NXN V,Base Metals,Poor,3.83
+Curse,Elysium,RA-NXN,RA-NXN V,Supertensile Plastics,Poor,11.35
+Curse,Elysium,RA-NXN,RA-NXN V,Silicate Glass,Poor,7.92
+Curse,Elysium,RA-NXN,RA-NXN V,Oxygen Isotopes,Poor,2.21
+Curse,Elysium,RA-NXN,RA-NXN VI,Lustering Alloy,Rich,30.56
+Curse,Elysium,RA-NXN,RA-NXN VI,Sheen Compound,Poor,16.50
+Curse,Elysium,RA-NXN,RA-NXN VI,Glossy Compound,Medium,21.30
+Curse,Elysium,RA-NXN,RA-NXN VI,Reactive Gas,Medium,19.20
+Curse,Elysium,RA-NXN,RA-NXN VI,Noble Gas,Medium,21.62
+Curse,Elysium,RA-NXN,RA-NXN VII,Sheen Compound,Perfect,32.48
+Curse,Elysium,RA-NXN,RA-NXN VII,Reactive Gas,Poor,17.20
+Curse,Elysium,RA-NXN,RA-NXN VII,Base Metals,Medium,5.46
+Curse,Elysium,RA-NXN,RA-NXN VII,Reactive Metals,Rich,6.68
+Curse,Elysium,RA-NXN,RA-NXN VII,Coolant,Poor,12.19
+Curse,Elysium,RA-NXN,RA-NXN VIII,Fiber Composite,Rich,29.24
+Curse,Elysium,RA-NXN,RA-NXN VIII,Reactive Gas,Rich,28.92
+Curse,Elysium,RA-NXN,RA-NXN VIII,Noble Gas,Medium,20.80
+Curse,Elysium,RA-NXN,RA-NXN VIII,Base Metals,Medium,5.98
+Curse,Elysium,RA-NXN,RA-NXN VIII,Ionic Solutions,Medium,7.56
+Curse,Elysium,RA-NXN,RA-NXN IX,Sheen Compound,Rich,25.66
+Curse,Elysium,RA-NXN,RA-NXN IX,Fiber Composite,Poor,16.98
+Curse,Elysium,RA-NXN,RA-NXN IX,Glossy Compound,Poor,18.46
+Curse,Elysium,RA-NXN,RA-NXN IX,Reactive Gas,Medium,22.20
+Curse,Elysium,RA-NXN,RA-NXN IX,Noble Gas,Medium,24.84
+Curse,Elysium,RA-NXN,RA-NXN X,Lustering Alloy,Poor,13.08
+Curse,Elysium,RA-NXN,RA-NXN X,Toxic Metals,Medium,5.42
+Curse,Elysium,RA-NXN,RA-NXN X,Supertensile Plastics,Poor,8.99
+Curse,Elysium,RA-NXN,RA-NXN X,Oxygen Isotopes,Poor,2.68
+Curse,Elysium,VOL-MI,VOL-MI I,Precious Alloy,Poor,12.62
+Curse,Elysium,VOL-MI,VOL-MI I,Base Metals,Medium,5.19
+Curse,Elysium,VOL-MI,VOL-MI I,Supertensile Plastics,Medium,16.40
+Curse,Elysium,VOL-MI,VOL-MI I,Silicate Glass,Poor,9.32
+Curse,Elysium,VOL-MI,VOL-MI II,Base Metals,Medium,5.22
+Curse,Elysium,VOL-MI,VOL-MI II,Industrial Fibers,Medium,5.28
+Curse,Elysium,VOL-MI,VOL-MI II,Supertensile Plastics,Poor,8.44
+Curse,Elysium,VOL-MI,VOL-MI II,Construction Blocks,Poor,16.96
+Curse,Elysium,VOL-MI,VOL-MI III,Toxic Metals,Poor,4.23
+Curse,Elysium,VOL-MI,VOL-MI III,Supertensile Plastics,Poor,9.07
+Curse,Elysium,VOL-MI,VOL-MI III,Construction Blocks,Poor,18.74
+Curse,Elysium,VOL-MI,VOL-MI III,Silicate Glass,Medium,10.45
+Curse,Elysium,VOL-MI,VOL-MI IV,Gleaming Alloy,Rich,28.26
+Curse,Elysium,VOL-MI,VOL-MI IV,Noble Gas,Rich,27.28
+Curse,Elysium,VOL-MI,VOL-MI IV,Smartfab Units,Medium,16.09
+Curse,Elysium,VOL-MI,VOL-MI V,Fiber Composite,Medium,21.84
+Curse,Elysium,VOL-MI,VOL-MI V,Opulent Compound,Perfect,32.84
+Curse,Elysium,VOL-MI,VOL-MI V,Reactive Gas,Medium,19.18
+Curse,Elysium,VOL-MI,VOL-MI V,Noble Metals,Rich,29.02
+Curse,Elysium,VOL-MI,VOL-MI V,Liquid Ozone,Perfect,43.25
+Curse,Elysium,VOL-MI,VOL-MI VI,Lustering Alloy,Rich,31.48
+Curse,Elysium,VOL-MI,VOL-MI VI,Reactive Gas,Poor,17.16
+Curse,Elysium,VOL-MI,VOL-MI VI,Noble Gas,Medium,18.94
+Curse,Elysium,VOL-MI,VOL-MI VI,Base Metals,Poor,4.83
+Curse,Elysium,VOL-MI,VOL-MI VI,Polyaramids,Rich,20.33
+Curse,Elysium,VOL-MI,VOL-MI VII,Reactive Metals,Poor,4.47
+Curse,Elysium,VOL-MI,VOL-MI VII,Toxic Metals,Medium,5.29
+Curse,Elysium,VOL-MI,VOL-MI VII,Nanites,Medium,6.58
+Curse,Elysium,VOL-MI,VOL-MI VII,Suspended Plasma,Medium,84.24
+Curse,Elysium,VOL-MI,VOL-MI VIII,Sheen Compound,Medium,20.32
+Curse,Elysium,VOL-MI,VOL-MI VIII,Fiber Composite,Medium,23.82
+Curse,Elysium,VOL-MI,VOL-MI VIII,Reactive Gas,Rich,30.58
+Curse,Elysium,VOL-MI,VOL-MI VIII,Noble Gas,Rich,30.94
+Curse,Elysium,VOL-MI,VOL-MI VIII,Reactive Metals,Rich,8.05
+Curse,Elysium,VOL-MI,VOL-MI IX,Lustering Alloy,Poor,18.28
+Curse,Elysium,VOL-MI,VOL-MI IX,Glossy Compound,Rich,27.34
+Curse,Elysium,VOL-MI,VOL-MI IX,Reactive Gas,Rich,25.86
+Curse,Elysium,VOL-MI,VOL-MI IX,Base Metals,Perfect,8.55
+Curse,Elysium,VOL-MI,VOL-MI IX,Polyaramids,Medium,13.12
+Curse,Elysium,VOL-MI,VOL-MI X,Condensed Alloy,Poor,18.66
+Curse,Elysium,VOL-MI,VOL-MI X,Opulent Compound,Rich,29.34
+Curse,Elysium,VOL-MI,VOL-MI X,Toxic Metals,Rich,7.97
+Curse,Elysium,VOL-MI,VOL-MI X,Heavy Water,Perfect,352.80
+Curse,Elysium,VOL-MI,VOL-MI X,Liquid Ozone,Rich,33.15
+Curse,Elysium,VOL-MI,VOL-MI XI,Lustering Alloy,Poor,12.80
+Curse,Elysium,VOL-MI,VOL-MI XI,Dark Compound,Medium,20.88
+Curse,Elysium,VOL-MI,VOL-MI XI,Supertensile Plastics,Medium,14.32
+Curse,Elysium,VOL-MI,VOL-MI XI,Plasmoids,Poor,1.02
+Curse,Elysium,VOL-MI,VOL-MI XII,Condensed Alloy,Rich,25.44
+Curse,Elysium,VOL-MI,VOL-MI XII,Toxic Metals,Rich,8.33
+Curse,Elysium,VOL-MI,VOL-MI XII,Coolant,Rich,17.57
+Curse,Elysium,VOL-MI,VOL-MI XII,Liquid Ozone,Medium,24.07
+Curse,Elysium,VOL-MI,VOL-MI XII,Ionic Solutions,Medium,9.98
+Curse,Elysium,KLMT-W,KLMT-W I,Precious Alloy,Poor,13.38
+Curse,Elysium,KLMT-W,KLMT-W I,Base Metals,Poor,4.23
+Curse,Elysium,KLMT-W,KLMT-W I,Supertensile Plastics,Poor,10.28
+Curse,Elysium,KLMT-W,KLMT-W I,Construction Blocks,Medium,21.44
+Curse,Elysium,KLMT-W,KLMT-W II,Lustering Alloy,Medium,19.16
+Curse,Elysium,KLMT-W,KLMT-W II,Fiber Composite,Rich,27.66
+Curse,Elysium,KLMT-W,KLMT-W II,Glossy Compound,Rich,26.38
+Curse,Elysium,KLMT-W,KLMT-W II,Reactive Gas,Medium,23.10
+Curse,Elysium,KLMT-W,KLMT-W II,Base Metals,Poor,4.55
+Curse,Elysium,KLMT-W,KLMT-W III,Glossy Compound,Medium,22.64
+Curse,Elysium,KLMT-W,KLMT-W III,Reactive Gas,Poor,16.96
+Curse,Elysium,KLMT-W,KLMT-W III,Base Metals,Medium,5.69
+Curse,Elysium,KLMT-W,KLMT-W III,Reactive Metals,Medium,4.99
+Curse,Elysium,KLMT-W,KLMT-W III,Polyaramids,Rich,19.24
+Curse,Elysium,KLMT-W,KLMT-W IV,Condensed Alloy,Perfect,35.30
+Curse,Elysium,KLMT-W,KLMT-W IV,Reactive Gas,Perfect,35.50
+Curse,Elysium,KLMT-W,KLMT-W IV,Noble Metals,Rich,28.08
+Curse,Elysium,KLMT-W,KLMT-W IV,Industrial Fibers,Perfect,9.67
+Curse,Elysium,KLMT-W,KLMT-W IV,Liquid Ozone,Medium,27.05
+Curse,Elysium,KLMT-W,KLMT-W V,Fiber Composite,Rich,25.40
+Curse,Elysium,KLMT-W,KLMT-W V,Glossy Compound,Perfect,32.84
+Curse,Elysium,KLMT-W,KLMT-W V,Reactive Gas,Poor,18.12
+Curse,Elysium,KLMT-W,KLMT-W V,Coolant,Perfect,21.43
+Curse,Elysium,KLMT-W,KLMT-W V,Ionic Solutions,Medium,8.20
+Curse,Elysium,KLMT-W,KLMT-W VI,Condensed Alloy,Perfect,37.22
+Curse,Elysium,KLMT-W,KLMT-W VI,Opulent Compound,Rich,28.04
+Curse,Elysium,KLMT-W,KLMT-W VI,Reactive Gas,Medium,19.46
+Curse,Elysium,KLMT-W,KLMT-W VI,Heavy Water,Rich,279.20
+Curse,Elysium,KLMT-W,KLMT-W VI,Liquid Ozone,Medium,25.70
+Curse,Elysium,KLMT-W,KLMT-W VII,Sheen Compound,Rich,31.26
+Curse,Elysium,KLMT-W,KLMT-W VII,Reactive Gas,Rich,30.92
+Curse,Elysium,KLMT-W,KLMT-W VII,Noble Gas,Perfect,32.94
+Curse,Elysium,KLMT-W,KLMT-W VII,Base Metals,Rich,7.82
+Curse,Elysium,KLMT-W,KLMT-W VII,Polyaramids,Rich,18.05
+Curse,Elysium,KLMT-W,KLMT-W VIII,Precious Alloy,Medium,21.66
+Curse,Elysium,KLMT-W,KLMT-W VIII,Supertensile Plastics,Medium,15.48
+Curse,Elysium,KLMT-W,KLMT-W VIII,Oxygen Isotopes,Medium,3.14
+Curse,Elysium,KLMT-W,KLMT-W VIII,Plasmoids,Poor,1.06
+Curse,Elysium,XX9-WV,XX9-WV I,Dark Compound,Medium,20.68
+Curse,Elysium,XX9-WV,XX9-WV I,Industrial Fibers,Medium,4.97
+Curse,Elysium,XX9-WV,XX9-WV I,Supertensile Plastics,Medium,14.72
+Curse,Elysium,XX9-WV,XX9-WV I,Oxygen Isotopes,Medium,3.09
+Curse,Elysium,XX9-WV,XX9-WV II,Condensed Alloy,Medium,23.88
+Curse,Elysium,XX9-WV,XX9-WV II,Polyaramids,Medium,16.65
+Curse,Elysium,XX9-WV,XX9-WV II,Coolant,Rich,20.61
+Curse,Elysium,XX9-WV,XX9-WV II,Silicate Glass,Medium,12.13
+Curse,Elysium,XX9-WV,XX9-WV II,Liquid Ozone,Rich,32.80
+Curse,Elysium,XX9-WV,XX9-WV III,Condensed Alloy,Rich,29.48
+Curse,Elysium,XX9-WV,XX9-WV III,Fiber Composite,Perfect,33.18
+Curse,Elysium,XX9-WV,XX9-WV III,Condensates,Perfect,24.08
+Curse,Elysium,XX9-WV,XX9-WV III,Heavy Water,Medium,219.80
+Curse,Elysium,XX9-WV,XX9-WV III,Liquid Ozone,Perfect,47.60
+Curse,Elysium,XX9-WV,XX9-WV IV,Lustering Alloy,Poor,17.68
+Curse,Elysium,XX9-WV,XX9-WV IV,Precious Alloy,Medium,23.00
+Curse,Elysium,XX9-WV,XX9-WV IV,Supertensile Plastics,Medium,15.63
+Curse,Elysium,XX9-WV,XX9-WV IV,Oxygen Isotopes,Poor,1.93
+Curse,Elysium,XX9-WV,XX9-WV V,Fiber Composite,Perfect,35.52
+Curse,Elysium,XX9-WV,XX9-WV V,Noble Metals,Medium,23.02
+Curse,Elysium,XX9-WV,XX9-WV V,Condensates,Medium,13.03
+Curse,Elysium,XX9-WV,XX9-WV V,Heavy Water,Medium,197.60
+Curse,Elysium,XX9-WV,XX9-WV V,Liquid Ozone,Rich,34.65
+Curse,Elysium,XX9-WV,XX9-WV VI,Condensed Alloy,Perfect,32.12
+Curse,Elysium,XX9-WV,XX9-WV VI,Opulent Compound,Perfect,33.04
+Curse,Elysium,XX9-WV,XX9-WV VI,Base Metals,Medium,4.99
+Curse,Elysium,XX9-WV,XX9-WV VI,Smartfab Units,Perfect,24.29
+Curse,Elysium,XX9-WV,XX9-WV VI,Liquid Ozone,Medium,25.40
+Curse,Elysium,XX9-WV,XX9-WV VII,Lustering Alloy,Medium,22.08
+Curse,Elysium,XX9-WV,XX9-WV VII,Sheen Compound,Medium,24.44
+Curse,Elysium,XX9-WV,XX9-WV VII,Reactive Gas,Medium,23.92
+Curse,Elysium,XX9-WV,XX9-WV VII,Noble Gas,Medium,19.42
+Curse,Elysium,XX9-WV,XX9-WV VII,Coolant,Medium,13.35
+Curse,Sound,AAM-1A,AAM-1A I,Sheen Compound,Medium,20.06
+Curse,Sound,AAM-1A,AAM-1A I,Heavy Metals,Rich,27.96
+Curse,Sound,AAM-1A,AAM-1A I,Condensates,Medium,13.11
+Curse,Sound,AAM-1A,AAM-1A I,Ionic Solutions,Perfect,13.98
+Curse,Sound,AAM-1A,AAM-1A I,Plasmoids,Perfect,2.01
+Curse,Sound,AAM-1A,AAM-1A II,Lustering Alloy,Medium,24.62
+Curse,Sound,AAM-1A,AAM-1A II,Glossy Compound,Medium,21.72
+Curse,Sound,AAM-1A,AAM-1A II,Reactive Gas,Medium,20.76
+Curse,Sound,AAM-1A,AAM-1A II,Base Metals,Rich,8.23
+Curse,Sound,AAM-1A,AAM-1A II,Ionic Solutions,Medium,9.75
+Curse,Sound,AAM-1A,AAM-1A III,Fiber Composite,Perfect,32.02
+Curse,Sound,AAM-1A,AAM-1A III,Reactive Gas,Perfect,32.42
+Curse,Sound,AAM-1A,AAM-1A III,Base Metals,Poor,4.64
+Curse,Sound,AAM-1A,AAM-1A III,Reactive Metals,Rich,7.26
+Curse,Sound,AAM-1A,AAM-1A III,Coolant,Rich,20.95
+Curse,Sound,AAM-1A,AAM-1A IV,Sheen Compound,Perfect,32.12
+Curse,Sound,AAM-1A,AAM-1A IV,Fiber Composite,Medium,23.90
+Curse,Sound,AAM-1A,AAM-1A IV,Reactive Gas,Poor,17.78
+Curse,Sound,AAM-1A,AAM-1A IV,Noble Gas,Rich,28.18
+Curse,Sound,AAM-1A,AAM-1A IV,Ionic Solutions,Rich,12.56
+Curse,Sound,AAM-1A,AAM-1A V,Gleaming Alloy,Perfect,33.08
+Curse,Sound,AAM-1A,AAM-1A V,Heavy Metals,Medium,24.82
+Curse,Sound,AAM-1A,AAM-1A V,Polyaramids,Medium,14.87
+Curse,Sound,AAM-1A,AAM-1A VI,Lustering Alloy,Poor,17.24
+Curse,Sound,AAM-1A,AAM-1A VI,Precious Alloy,Medium,24.72
+Curse,Sound,AAM-1A,AAM-1A VI,Industrial Fibers,Poor,4.71
+Curse,Sound,AAM-1A,AAM-1A VI,Condensates,Poor,10.39
+Curse,Sound,AAM-1A,AAM-1A VII,Lustering Alloy,Rich,28.28
+Curse,Sound,AAM-1A,AAM-1A VII,Sheen Compound,Medium,22.08
+Curse,Sound,AAM-1A,AAM-1A VII,Fiber Composite,Rich,27.74
+Curse,Sound,AAM-1A,AAM-1A VII,Reactive Gas,Medium,22.04
+Curse,Sound,AAM-1A,AAM-1A VII,Noble Gas,Medium,23.42
+Curse,Sound,AAM-1A,AAM-1A VIII,Industrial Fibers,Poor,3.86
+Curse,Sound,AAM-1A,AAM-1A VIII,Supertensile Plastics,Medium,16.24
+Curse,Sound,AAM-1A,AAM-1A VIII,Coolant,Medium,16.61
+Curse,Sound,AAM-1A,AAM-1A VIII,Condensates,Poor,12.04
+Curse,Sound,EW-JR5,EW-JR5 I,Fiber Composite,Rich,29.46
+Curse,Sound,EW-JR5,EW-JR5 I,Glossy Compound,Medium,22.48
+Curse,Sound,EW-JR5,EW-JR5 I,Reactive Gas,Rich,26.22
+Curse,Sound,EW-JR5,EW-JR5 I,Reactive Metals,Rich,7.05
+Curse,Sound,EW-JR5,EW-JR5 I,Polyaramids,Poor,11.20
+Curse,Sound,EW-JR5,EW-JR5 II,Lustering Alloy,Medium,20.58
+Curse,Sound,EW-JR5,EW-JR5 II,Sheen Compound,Medium,19.38
+Curse,Sound,EW-JR5,EW-JR5 II,Reactive Gas,Rich,30.34
+Curse,Sound,EW-JR5,EW-JR5 II,Polyaramids,Rich,17.59
+Curse,Sound,EW-JR5,EW-JR5 II,Ionic Solutions,Rich,12.68
+Curse,Sound,EW-JR5,EW-JR5 III,Lustering Alloy,Rich,29.66
+Curse,Sound,EW-JR5,EW-JR5 III,Heavy Metals,Medium,23.16
+Curse,Sound,EW-JR5,EW-JR5 III,Condensates,Poor,11.95
+Curse,Sound,EW-JR5,EW-JR5 III,Liquid Ozone,Poor,20.85
+Curse,Sound,YKE4-3,YKE4-3 I,Lustering Alloy,Medium,22.80
+Curse,Sound,YKE4-3,YKE4-3 I,Precious Alloy,Poor,13.28
+Curse,Sound,YKE4-3,YKE4-3 I,Supertensile Plastics,Poor,8.51
+Curse,Sound,YKE4-3,YKE4-3 I,Plasmoids,Poor,0.87
+Curse,Sound,YKE4-3,YKE4-3 II,Gleaming Alloy,Rich,28.50
+Curse,Sound,YKE4-3,YKE4-3 II,Motley Compound,Medium,22.52
+Curse,Sound,YKE4-3,YKE4-3 II,Heavy Metals,Medium,25.06
+Curse,Sound,YKE4-3,YKE4-3 III,Sheen Compound,Poor,16.68
+Curse,Sound,YKE4-3,YKE4-3 III,Reactive Gas,Medium,24.62
+Curse,Sound,YKE4-3,YKE4-3 III,Base Metals,Rich,7.98
+Curse,Sound,YKE4-3,YKE4-3 III,Polyaramids,Rich,17.03
+Curse,Sound,YKE4-3,YKE4-3 III,Ionic Solutions,Rich,12.56
+Curse,Sound,YKE4-3,YKE4-3 IV,Lustering Alloy,Medium,21.96
+Curse,Sound,YKE4-3,YKE4-3 IV,Industrial Fibers,Poor,4.51
+Curse,Sound,YKE4-3,YKE4-3 IV,Supertensile Plastics,Medium,13.21
+Curse,Sound,YKE4-3,YKE4-3 IV,Oxygen Isotopes,Poor,2.27
+Curse,Sound,YKE4-3,YKE4-3 V,Lustering Alloy,Rich,27.02
+Curse,Sound,YKE4-3,YKE4-3 V,Fiber Composite,Medium,22.04
+Curse,Sound,YKE4-3,YKE4-3 V,Reactive Gas,Medium,18.94
+Curse,Sound,YKE4-3,YKE4-3 V,Noble Gas,Medium,24.72
+Curse,Sound,YKE4-3,YKE4-3 V,Polyaramids,Medium,16.11
+Curse,Sound,YKE4-3,YKE4-3 VI,Lustering Alloy,Medium,24.48
+Curse,Sound,YKE4-3,YKE4-3 VI,Fiber Composite,Rich,28.20
+Curse,Sound,YKE4-3,YKE4-3 VI,Reactive Gas,Rich,30.38
+Curse,Sound,YKE4-3,YKE4-3 VI,Noble Gas,Rich,26.66
+Curse,Sound,YKE4-3,YKE4-3 VI,Base Metals,Medium,4.96
+Curse,Sound,YKE4-3,YKE4-3 VII,Lustering Alloy,Medium,20.38
+Curse,Sound,YKE4-3,YKE4-3 VII,Fiber Composite,Rich,26.74
+Curse,Sound,YKE4-3,YKE4-3 VII,Glossy Compound,Poor,18.28
+Curse,Sound,YKE4-3,YKE4-3 VII,Reactive Gas,Rich,27.56
+Curse,Sound,YKE4-3,YKE4-3 VII,Noble Gas,Medium,22.00
+Curse,Sound,YKE4-3,YKE4-3 VIII,Lustering Alloy,Rich,28.74
+Curse,Sound,YKE4-3,YKE4-3 VIII,Industrial Fibers,Rich,7.74
+Curse,Sound,YKE4-3,YKE4-3 VIII,Condensates,Medium,12.93
+Curse,Sound,YKE4-3,YKE4-3 VIII,Liquid Ozone,Poor,21.27
+Curse,Sound,CL-85V,CL-85V I,Lustering Alloy,Medium,21.04
+Curse,Sound,CL-85V,CL-85V I,Dark Compound,Poor,13.06
+Curse,Sound,CL-85V,CL-85V I,Supertensile Plastics,Poor,9.01
+Curse,Sound,CL-85V,CL-85V I,Silicate Glass,Poor,8.12
+Curse,Sound,CL-85V,CL-85V II,Gleaming Alloy,Rich,29.60
+Curse,Sound,CL-85V,CL-85V II,Motley Compound,Poor,17.52
+Curse,Sound,CL-85V,CL-85V II,Heavy Metals,Rich,30.58
+Curse,Sound,CL-85V,CL-85V III,Gleaming Alloy,Rich,30.52
+Curse,Sound,CL-85V,CL-85V III,Lucent Compound,Rich,30.34
+Curse,Sound,CL-85V,CL-85V III,Reactive Metals,Medium,5.15
+Curse,Sound,CL-85V,CL-85V III,Supertensile Plastics,Perfect,21.77
+Curse,Sound,CL-85V,CL-85V IV,Condensed Alloy,Rich,31.54
+Curse,Sound,CL-85V,CL-85V IV,Fiber Composite,Medium,21.90
+Curse,Sound,CL-85V,CL-85V IV,Reactive Gas,Medium,24.96
+Curse,Sound,CL-85V,CL-85V IV,Base Metals,Perfect,9.09
+Curse,Sound,CL-85V,CL-85V IV,Liquid Ozone,Perfect,45.77
+Curse,Sound,CL-85V,CL-85V V,Opulent Compound,Medium,21.30
+Curse,Sound,CL-85V,CL-85V V,Crystal Compound,Medium,25.30
+Curse,Sound,CL-85V,CL-85V V,Noble Metals,Poor,17.72
+Curse,Sound,CL-85V,CL-85V V,Heavy Water,Rich,309.80
+Curse,Sound,CL-85V,CL-85V V,Liquid Ozone,Medium,25.95
+Curse,Sound,CL-85V,CL-85V VI,Sheen Compound,Medium,20.80
+Curse,Sound,CL-85V,CL-85V VI,Glossy Compound,Medium,21.42
+Curse,Sound,CL-85V,CL-85V VI,Reactive Gas,Rich,25.86
+Curse,Sound,CL-85V,CL-85V VI,Base Metals,Medium,5.44
+Curse,Sound,CL-85V,CL-85V VI,Reactive Metals,Rich,6.66
+Curse,Sound,CL-85V,CL-85V VII,Glossy Compound,Medium,22.08
+Curse,Sound,CL-85V,CL-85V VII,Reactive Gas,Rich,25.54
+Curse,Sound,CL-85V,CL-85V VII,Reactive Metals,Rich,7.07
+Curse,Sound,CL-85V,CL-85V VII,Coolant,Medium,14.69
+Curse,Sound,CL-85V,CL-85V VII,Ionic Solutions,Poor,7.04
+Curse,Sound,CL-85V,CL-85V VIII,Reactive Gas,Rich,30.28
+Curse,Sound,CL-85V,CL-85V VIII,Reactive Metals,Rich,6.91
+Curse,Sound,CL-85V,CL-85V VIII,Polyaramids,Rich,17.19
+Curse,Sound,CL-85V,CL-85V VIII,Coolant,Rich,20.31
+Curse,Sound,CL-85V,CL-85V VIII,Ionic Solutions,Rich,11.76
+Curse,Sound,CL-85V,CL-85V IX,Precious Alloy,Medium,18.90
+Curse,Sound,CL-85V,CL-85V IX,Motley Compound,Medium,22.72
+Curse,Sound,CL-85V,CL-85V IX,Condensates,Medium,14.24
+Curse,Sound,CL-85V,CL-85V IX,Liquid Ozone,Medium,31.00
+Curse,Sound,K-QWHE,K-QWHE I,Lustering Alloy,Medium,22.40
+Curse,Sound,K-QWHE,K-QWHE I,Dark Compound,Medium,23.40
+Curse,Sound,K-QWHE,K-QWHE I,Toxic Metals,Poor,4.25
+Curse,Sound,K-QWHE,K-QWHE I,Supertensile Plastics,Medium,15.39
+Curse,Sound,K-QWHE,K-QWHE II,Gleaming Alloy,Poor,18.12
+Curse,Sound,K-QWHE,K-QWHE II,Glossy Compound,Rich,27.18
+Curse,Sound,K-QWHE,K-QWHE II,Plasmoids,Rich,1.88
+Curse,Sound,K-QWHE,K-QWHE III,Base Metals,Medium,5.04
+Curse,Sound,K-QWHE,K-QWHE III,Supertensile Plastics,Medium,13.49
+Curse,Sound,K-QWHE,K-QWHE III,Construction Blocks,Medium,19.10
+Curse,Sound,K-QWHE,K-QWHE III,Oxygen Isotopes,Poor,2.21
+Curse,Sound,K-QWHE,K-QWHE IV,Crystal Compound,Rich,27.34
+Curse,Sound,K-QWHE,K-QWHE IV,Reactive Metals,Rich,8.07
+Curse,Sound,K-QWHE,K-QWHE IV,Toxic Metals,Rich,7.26
+Curse,Sound,K-QWHE,K-QWHE IV,Nanites,Rich,8.36
+Curse,Sound,K-QWHE,K-QWHE V,Glossy Compound,Perfect,33.18
+Curse,Sound,K-QWHE,K-QWHE V,Reactive Gas,Poor,18.52
+Curse,Sound,K-QWHE,K-QWHE V,Reactive Metals,Medium,6.42
+Curse,Sound,K-QWHE,K-QWHE V,Coolant,Medium,13.73
+Curse,Sound,K-QWHE,K-QWHE V,Ionic Solutions,Rich,11.11
+Curse,Sound,K-QWHE,K-QWHE VI,Fiber Composite,Perfect,33.10
+Curse,Sound,K-QWHE,K-QWHE VI,Reactive Gas,Medium,22.96
+Curse,Sound,K-QWHE,K-QWHE VI,Noble Gas,Rich,27.04
+Curse,Sound,K-QWHE,K-QWHE VI,Base Metals,Medium,6.53
+Curse,Sound,K-QWHE,K-QWHE VI,Reactive Metals,Rich,8.11
+Curse,Sound,K-QWHE,K-QWHE VII,Reactive Gas,Medium,19.24
+Curse,Sound,K-QWHE,K-QWHE VII,Base Metals,Medium,5.59
+Curse,Sound,K-QWHE,K-QWHE VII,Reactive Metals,Medium,6.37
+Curse,Sound,K-QWHE,K-QWHE VII,Polyaramids,Poor,11.64
+Curse,Sound,K-QWHE,K-QWHE VII,Coolant,Rich,20.48
+Curse,Sound,K-QWHE,K-QWHE VIII,Dark Compound,Poor,12.66
+Curse,Sound,K-QWHE,K-QWHE VIII,Toxic Metals,Poor,3.59
+Curse,Sound,K-QWHE,K-QWHE VIII,Supertensile Plastics,Poor,11.13
+Curse,Sound,K-QWHE,K-QWHE VIII,Plasmoids,Poor,0.76
+Curse,Sound,K-QWHE,K-QWHE IX,Lustering Alloy,Poor,15.40
+Curse,Sound,K-QWHE,K-QWHE IX,Coolant,Medium,15.32
+Curse,Sound,K-QWHE,K-QWHE IX,Condensates,Medium,13.83
+Curse,Sound,K-QWHE,K-QWHE IX,Suspended Plasma,Medium,87.77
+Curse,Sound,MDD-79,MDD-79 I,Precious Alloy,Poor,14.92
+Curse,Sound,MDD-79,MDD-79 I,Dark Compound,Medium,20.20
+Curse,Sound,MDD-79,MDD-79 I,Toxic Metals,Medium,5.79
+Curse,Sound,MDD-79,MDD-79 I,Supertensile Plastics,Poor,8.72
+Curse,Sound,MDD-79,MDD-79 II,Precious Alloy,Poor,13.20
+Curse,Sound,MDD-79,MDD-79 II,Supertensile Plastics,Medium,14.12
+Curse,Sound,MDD-79,MDD-79 II,Silicate Glass,Poor,8.13
+Curse,Sound,MDD-79,MDD-79 II,Plasmoids,Medium,1.47
+Curse,Sound,MDD-79,MDD-79 III,Dark Compound,Poor,18.12
+Curse,Sound,MDD-79,MDD-79 III,Supertensile Plastics,Poor,8.80
+Curse,Sound,MDD-79,MDD-79 III,Construction Blocks,Poor,15.96
+Curse,Sound,MDD-79,MDD-79 III,Silicate Glass,Poor,7.15
+Curse,Sound,MDD-79,MDD-79 IV,Dark Compound,Poor,18.56
+Curse,Sound,MDD-79,MDD-79 IV,Toxic Metals,Poor,3.54
+Curse,Sound,MDD-79,MDD-79 IV,Industrial Fibers,Poor,4.84
+Curse,Sound,MDD-79,MDD-79 IV,Supertensile Plastics,Medium,13.05
+Curse,Sound,MDD-79,MDD-79 V,Gleaming Alloy,Rich,28.50
+Curse,Sound,MDD-79,MDD-79 V,Noble Gas,Medium,21.50
+Curse,Sound,MDD-79,MDD-79 V,Plasmoids,Rich,1.79
+Curse,Sound,MDD-79,MDD-79 VI,Condensed Alloy,Perfect,37.88
+Curse,Sound,MDD-79,MDD-79 VI,Noble Metals,Rich,26.00
+Curse,Sound,MDD-79,MDD-79 VI,Smartfab Units,Rich,18.29
+Curse,Sound,MDD-79,MDD-79 VI,Heavy Water,Perfect,375.40
+Curse,Sound,MDD-79,MDD-79 VI,Liquid Ozone,Poor,23.20
+Curse,Sound,MDD-79,MDD-79 VII,Opulent Compound,Rich,31.50
+Curse,Sound,MDD-79,MDD-79 VII,Toxic Metals,Rich,8.21
+Curse,Sound,MDD-79,MDD-79 VII,Silicate Glass,Perfect,15.96
+Curse,Sound,MDD-79,MDD-79 VII,Liquid Ozone,Poor,22.75
+Curse,Sound,MDD-79,MDD-79 VII,Ionic Solutions,Medium,9.42
+Curse,Sound,MDD-79,MDD-79 VIII,Sheen Compound,Medium,25.12
+Curse,Sound,MDD-79,MDD-79 VIII,Reactive Gas,Poor,18.14
+Curse,Sound,MDD-79,MDD-79 VIII,Base Metals,Poor,4.76
+Curse,Sound,MDD-79,MDD-79 VIII,Reactive Metals,Medium,6.57
+Curse,Sound,MDD-79,MDD-79 VIII,Polyaramids,Poor,10.99
+Curse,Sound,MDD-79,MDD-79 IX,Precious Alloy,Poor,17.86
+Curse,Sound,MDD-79,MDD-79 IX,Toxic Metals,Medium,6.04
+Curse,Sound,MDD-79,MDD-79 IX,Industrial Fibers,Medium,5.68
+Curse,Sound,MDD-79,MDD-79 IX,Supertensile Plastics,Medium,15.16
+Curse,Sound,MDD-79,MDD-79 X,Sheen Compound,Medium,20.62
+Curse,Sound,MDD-79,MDD-79 X,Reactive Gas,Rich,31.34
+Curse,Sound,MDD-79,MDD-79 X,Base Metals,Perfect,8.64
+Curse,Sound,MDD-79,MDD-79 X,Polyaramids,Rich,20.24
+Curse,Sound,MDD-79,MDD-79 X,Ionic Solutions,Poor,6.79
+Curse,Sound,RMOC-W,RMOC-W I,Toxic Metals,Poor,3.66
+Curse,Sound,RMOC-W,RMOC-W I,Supertensile Plastics,Medium,13.01
+Curse,Sound,RMOC-W,RMOC-W I,Oxygen Isotopes,Poor,2.31
+Curse,Sound,RMOC-W,RMOC-W I,Plasmoids,Medium,1.23
+Curse,Sound,RMOC-W,RMOC-W II,Toxic Metals,Poor,4.66
+Curse,Sound,RMOC-W,RMOC-W II,Supertensile Plastics,Medium,15.23
+Curse,Sound,RMOC-W,RMOC-W II,Construction Blocks,Poor,15.44
+Curse,Sound,RMOC-W,RMOC-W II,Plasmoids,Medium,1.38
+Curse,Sound,RMOC-W,RMOC-W III,Lustering Alloy,Medium,24.40
+Curse,Sound,RMOC-W,RMOC-W III,Supertensile Plastics,Medium,13.51
+Curse,Sound,RMOC-W,RMOC-W III,Silicate Glass,Poor,6.45
+Curse,Sound,RMOC-W,RMOC-W III,Plasmoids,Poor,0.83
+Curse,Sound,RMOC-W,RMOC-W IV,Condensed Alloy,Perfect,31.82
+Curse,Sound,RMOC-W,RMOC-W IV,Fiber Composite,Rich,29.68
+Curse,Sound,RMOC-W,RMOC-W IV,Condensates,Rich,18.68
+Curse,Sound,RMOC-W,RMOC-W IV,Smartfab Units,Rich,17.07
+Curse,Sound,RMOC-W,RMOC-W IV,Liquid Ozone,Perfect,43.98
+Curse,Sound,RMOC-W,RMOC-W V,Lucent Compound,Rich,29.02
+Curse,Sound,RMOC-W,RMOC-W V,Crystal Compound,Rich,30.82
+Curse,Sound,RMOC-W,RMOC-W V,Reactive Metals,Rich,7.14
+Curse,Sound,RMOC-W,RMOC-W V,Oxygen Isotopes,Medium,3.38
+Curse,Sound,RMOC-W,RMOC-W VI,Lucent Compound,Perfect,32.36
+Curse,Sound,RMOC-W,RMOC-W VI,Crystal Compound,Rich,25.60
+Curse,Sound,RMOC-W,RMOC-W VI,Reactive Metals,Perfect,8.50
+Curse,Sound,RMOC-W,RMOC-W VI,Nanites,Poor,4.93
+Curse,Sound,RMOC-W,RMOC-W VII,Lucent Compound,Poor,17.66
+Curse,Sound,RMOC-W,RMOC-W VII,Reactive Metals,Rich,8.02
+Curse,Sound,RMOC-W,RMOC-W VII,Supertensile Plastics,Medium,12.69
+Curse,Sound,RMOC-W,RMOC-W VII,Suspended Plasma,Rich,106.85
+Curse,Sound,RMOC-W,RMOC-W VIII,Lustering Alloy,Medium,21.10
+Curse,Sound,RMOC-W,RMOC-W VIII,Sheen Compound,Medium,21.48
+Curse,Sound,RMOC-W,RMOC-W VIII,Glossy Compound,Rich,28.42
+Curse,Sound,RMOC-W,RMOC-W VIII,Reactive Gas,Rich,29.38
+Curse,Sound,RMOC-W,RMOC-W VIII,Coolant,Rich,17.88
+Curse,Sound,RMOC-W,RMOC-W IX,Lustering Alloy,Medium,22.74
+Curse,Sound,RMOC-W,RMOC-W IX,Fiber Composite,Medium,24.12
+Curse,Sound,RMOC-W,RMOC-W IX,Reactive Gas,Medium,22.30
+Curse,Sound,RMOC-W,RMOC-W IX,Reactive Metals,Rich,7.98
+Curse,Sound,RMOC-W,RMOC-W IX,Coolant,Medium,14.21
+Curse,Sound,RMOC-W,RMOC-W X,Fiber Composite,Rich,30.22
+Curse,Sound,RMOC-W,RMOC-W X,Reactive Gas,Poor,18.70
+Curse,Sound,RMOC-W,RMOC-W X,Industrial Fibers,Perfect,9.04
+Curse,Sound,RMOC-W,RMOC-W X,Heavy Water,Rich,310.60
+Curse,Sound,RMOC-W,RMOC-W X,Liquid Ozone,Poor,22.90
+Curse,Rapture,ES-UWY,ES-UWY I,Noble Gas,Perfect,34.50
+Curse,Rapture,ES-UWY,ES-UWY I,Reactive Metals,Rich,8.34
+Curse,Rapture,ES-UWY,ES-UWY I,Condensates,Rich,21.77
+Curse,Rapture,ES-UWY,ES-UWY I,Nanites,Medium,5.76
+Curse,Rapture,ES-UWY,ES-UWY I,Ionic Solutions,Medium,9.41
+Curse,Rapture,ES-UWY,ES-UWY II,Lustering Alloy,Poor,18.27
+Curse,Rapture,ES-UWY,ES-UWY II,Toxic Metals,Poor,5.17
+Curse,Rapture,ES-UWY,ES-UWY II,Supertensile Plastics,Medium,13.99
+Curse,Rapture,ES-UWY,ES-UWY II,Oxygen Isotopes,Medium,3.31
+Curse,Rapture,ES-UWY,ES-UWY III,Gleaming Alloy,Medium,21.99
+Curse,Rapture,ES-UWY,ES-UWY III,Oxygen Isotopes,Medium,3.09
+Curse,Rapture,ES-UWY,ES-UWY III,Plasmoids,Rich,1.75
+Curse,Rapture,ES-UWY,ES-UWY IV,Reactive Metals,Medium,6.36
+Curse,Rapture,ES-UWY,ES-UWY IV,Nanites,Medium,6.75
+Curse,Rapture,ES-UWY,ES-UWY IV,Suspended Plasma,Poor,67.81
+Curse,Rapture,ES-UWY,ES-UWY IV,Oxygen Isotopes,Medium,3.50
+Curse,Rapture,ES-UWY,ES-UWY V,Lustering Alloy,Poor,14.20
+Curse,Rapture,ES-UWY,ES-UWY V,Supertensile Plastics,Medium,16.56
+Curse,Rapture,ES-UWY,ES-UWY V,Construction Blocks,Medium,23.79
+Curse,Rapture,ES-UWY,ES-UWY V,Plasmoids,Medium,1.49
+Curse,Rapture,ES-UWY,ES-UWY VI,Lustering Alloy,Medium,23.06
+Curse,Rapture,ES-UWY,ES-UWY VI,Supertensile Plastics,Poor,8.96
+Curse,Rapture,ES-UWY,ES-UWY VI,Construction Blocks,Poor,15.96
+Curse,Rapture,ES-UWY,ES-UWY VI,Silicate Glass,Poor,7.22
+Curse,Rapture,ES-UWY,ES-UWY VII,Opulent Compound,Perfect,36.79
+Curse,Rapture,ES-UWY,ES-UWY VII,Reactive Gas,Medium,21.34
+Curse,Rapture,ES-UWY,ES-UWY VII,Noble Metals,Medium,20.01
+Curse,Rapture,ES-UWY,ES-UWY VII,Industrial Fibers,Perfect,10.41
+Curse,Rapture,ES-UWY,ES-UWY VII,Liquid Ozone,Perfect,44.05
+Curse,Rapture,ES-UWY,ES-UWY VIII,Glossy Compound,Rich,32.84
+Curse,Rapture,ES-UWY,ES-UWY VIII,Reactive Gas,Rich,26.82
+Curse,Rapture,ES-UWY,ES-UWY VIII,Base Metals,Rich,7.77
+Curse,Rapture,ES-UWY,ES-UWY VIII,Reactive Metals,Rich,7.38
+Curse,Rapture,ES-UWY,ES-UWY VIII,Ionic Solutions,Rich,13.19
+Curse,Rapture,ES-UWY,ES-UWY IX,Lustering Alloy,Rich,32.61
+Curse,Rapture,ES-UWY,ES-UWY IX,Sheen Compound,Medium,23.88
+Curse,Rapture,ES-UWY,ES-UWY IX,Reactive Gas,Rich,27.32
+Curse,Rapture,ES-UWY,ES-UWY IX,Polyaramids,Medium,14.11
+Curse,Rapture,ES-UWY,ES-UWY IX,Coolant,Rich,21.07
+Curse,Rapture,ES-UWY,ES-UWY X,Fiber Composite,Medium,22.97
+Curse,Rapture,ES-UWY,ES-UWY X,Glossy Compound,Perfect,33.49
+Curse,Rapture,ES-UWY,ES-UWY X,Reactive Gas,Medium,26.38
+Curse,Rapture,ES-UWY,ES-UWY X,Base Metals,Rich,8.24
+Curse,Rapture,ES-UWY,ES-UWY X,Ionic Solutions,Rich,12.50
+Curse,Rapture,ES-UWY,ES-UWY XI,Fiber Composite,Rich,30.60
+Curse,Rapture,ES-UWY,ES-UWY XI,Reactive Gas,Rich,26.96
+Curse,Rapture,ES-UWY,ES-UWY XI,Noble Gas,Rich,29.67
+Curse,Rapture,ES-UWY,ES-UWY XI,Coolant,Rich,19.53
+Curse,Rapture,ES-UWY,ES-UWY XI,Ionic Solutions,Medium,10.48
+Curse,Rapture,ES-UWY,ES-UWY XII,Base Metals,Medium,5.73
+Curse,Rapture,ES-UWY,ES-UWY XII,Toxic Metals,Poor,3.97
+Curse,Rapture,ES-UWY,ES-UWY XII,Supertensile Plastics,Poor,12.95
+Curse,Rapture,ES-UWY,ES-UWY XII,Oxygen Isotopes,Medium,3.81
+Curse,Rapture,S1DP-Y,S1DP-Y I,Base Metals,Poor,3.47
+Curse,Rapture,S1DP-Y,S1DP-Y I,Supertensile Plastics,Poor,9.11
+Curse,Rapture,S1DP-Y,S1DP-Y I,Silicate Glass,Medium,10.21
+Curse,Rapture,S1DP-Y,S1DP-Y I,Plasmoids,Poor,0.81
+Curse,Rapture,S1DP-Y,S1DP-Y II,Gleaming Alloy,Perfect,33.82
+Curse,Rapture,S1DP-Y,S1DP-Y II,Noble Metals,Rich,30.40
+Curse,Rapture,S1DP-Y,S1DP-Y II,Oxygen Isotopes,Poor,2.42
+Curse,Rapture,S1DP-Y,S1DP-Y III,Industrial Fibers,Medium,5.33
+Curse,Rapture,S1DP-Y,S1DP-Y III,Supertensile Plastics,Poor,8.85
+Curse,Rapture,S1DP-Y,S1DP-Y III,Construction Blocks,Poor,15.88
+Curse,Rapture,S1DP-Y,S1DP-Y III,Silicate Glass,Medium,12.06
+Curse,Rapture,S1DP-Y,S1DP-Y IV,Gleaming Alloy,Rich,26.84
+Curse,Rapture,S1DP-Y,S1DP-Y IV,Noble Metals,Medium,25.12
+Curse,Rapture,S1DP-Y,S1DP-Y IV,Polyaramids,Rich,20.41
+Curse,Rapture,S1DP-Y,S1DP-Y V,Fiber Composite,Rich,31.10
+Curse,Rapture,S1DP-Y,S1DP-Y V,Reactive Gas,Rich,30.04
+Curse,Rapture,S1DP-Y,S1DP-Y V,Noble Metals,Rich,30.68
+Curse,Rapture,S1DP-Y,S1DP-Y V,Condensates,Perfect,23.37
+Curse,Rapture,S1DP-Y,S1DP-Y V,Liquid Ozone,Perfect,45.98
+Curse,Rapture,S1DP-Y,S1DP-Y VI,Precious Alloy,Poor,13.98
+Curse,Rapture,S1DP-Y,S1DP-Y VI,Supertensile Plastics,Poor,10.64
+Curse,Rapture,S1DP-Y,S1DP-Y VI,Construction Blocks,Poor,17.54
+Curse,Rapture,S1DP-Y,S1DP-Y VI,Plasmoids,Poor,1.06
+Curse,Rapture,S1DP-Y,S1DP-Y VII,Gleaming Alloy,Rich,29.14
+Curse,Rapture,S1DP-Y,S1DP-Y VII,Lucent Compound,Rich,30.72
+Curse,Rapture,S1DP-Y,S1DP-Y VII,Reactive Metals,Poor,4.36
+Curse,Rapture,S1DP-Y,S1DP-Y VII,Construction Blocks,Poor,17.72
+Curse,Rapture,S1DP-Y,S1DP-Y VIII,Lustering Alloy,Medium,24.78
+Curse,Rapture,S1DP-Y,S1DP-Y VIII,Sheen Compound,Rich,27.50
+Curse,Rapture,S1DP-Y,S1DP-Y VIII,Glossy Compound,Rich,29.56
+Curse,Rapture,S1DP-Y,S1DP-Y VIII,Reactive Gas,Medium,19.78
+Curse,Rapture,S1DP-Y,S1DP-Y VIII,Coolant,Rich,19.65
+Curse,Rapture,S1DP-Y,S1DP-Y IX,Lustering Alloy,Poor,17.44
+Curse,Rapture,S1DP-Y,S1DP-Y IX,Reactive Gas,Rich,31.44
+Curse,Rapture,S1DP-Y,S1DP-Y IX,Noble Gas,Rich,27.80
+Curse,Rapture,S1DP-Y,S1DP-Y IX,Base Metals,Rich,7.26
+Curse,Rapture,S1DP-Y,S1DP-Y IX,Polyaramids,Medium,14.79
+Curse,Rapture,S1DP-Y,S1DP-Y X,Gleaming Alloy,Medium,19.92
+Curse,Rapture,S1DP-Y,S1DP-Y X,Reactive Gas,Rich,25.66
+Curse,Rapture,S1DP-Y,S1DP-Y X,Reactive Metals,Medium,6.57
+Curse,Rapture,S1DP-Y,S1DP-Y X,Toxic Metals,Rich,8.24
+Curse,Rapture,Y-DW5K,Y-DW5K I,Crystal Compound,Rich,32.72
+Curse,Rapture,Y-DW5K,Y-DW5K I,Reactive Metals,Poor,4.58
+Curse,Rapture,Y-DW5K,Y-DW5K I,Toxic Metals,Poor,5.08
+Curse,Rapture,Y-DW5K,Y-DW5K I,Suspended Plasma,Medium,85.35
+Curse,Rapture,Y-DW5K,Y-DW5K II,Gleaming Alloy,Medium,23.63
+Curse,Rapture,Y-DW5K,Y-DW5K II,Glossy Compound,Perfect,33.43
+Curse,Rapture,Y-DW5K,Y-DW5K II,Oxygen Isotopes,Medium,3.26
+Curse,Rapture,Y-DW5K,Y-DW5K III,Noble Gas,Medium,25.83
+Curse,Rapture,Y-DW5K,Y-DW5K III,Reactive Metals,Rich,7.00
+Curse,Rapture,Y-DW5K,Y-DW5K III,Condensates,Medium,14.97
+Curse,Rapture,Y-DW5K,Y-DW5K III,Nanites,Rich,8.76
+Curse,Rapture,Y-DW5K,Y-DW5K III,Plasmoids,Rich,1.77
+Curse,Rapture,Y-DW5K,Y-DW5K IV,Sheen Compound,Medium,24.82
+Curse,Rapture,Y-DW5K,Y-DW5K IV,Reactive Gas,Medium,23.35
+Curse,Rapture,Y-DW5K,Y-DW5K IV,Noble Gas,Poor,18.04
+Curse,Rapture,Y-DW5K,Y-DW5K IV,Base Metals,Medium,5.41
+Curse,Rapture,Y-DW5K,Y-DW5K IV,Reactive Metals,Rich,8.59
+Curse,Rapture,Y-DW5K,Y-DW5K V,Sheen Compound,Rich,32.07
+Curse,Rapture,Y-DW5K,Y-DW5K V,Glossy Compound,Rich,27.57
+Curse,Rapture,Y-DW5K,Y-DW5K V,Reactive Gas,Perfect,34.50
+Curse,Rapture,Y-DW5K,Y-DW5K V,Polyaramids,Medium,15.72
+Curse,Rapture,Y-DW5K,Y-DW5K V,Ionic Solutions,Rich,11.72
+Curse,Rapture,Y-DW5K,Y-DW5K VI,Sheen Compound,Medium,25.54
+Curse,Rapture,Y-DW5K,Y-DW5K VI,Glossy Compound,Rich,30.26
+Curse,Rapture,Y-DW5K,Y-DW5K VI,Reactive Gas,Rich,31.46
+Curse,Rapture,Y-DW5K,Y-DW5K VI,Noble Gas,Rich,31.98
+Curse,Rapture,Y-DW5K,Y-DW5K VI,Polyaramids,Rich,18.02
+Curse,Rapture,M-N7WD,M-N7WD I,Gleaming Alloy,Rich,30.14
+Curse,Rapture,M-N7WD,M-N7WD I,Heavy Metals,Rich,27.70
+Curse,Rapture,M-N7WD,M-N7WD I,Oxygen Isotopes,Rich,3.95
+Curse,Rapture,M-N7WD,M-N7WD II,Industrial Fibers,Poor,3.94
+Curse,Rapture,M-N7WD,M-N7WD II,Supertensile Plastics,Medium,12.92
+Curse,Rapture,M-N7WD,M-N7WD II,Oxygen Isotopes,Medium,3.02
+Curse,Rapture,M-N7WD,M-N7WD II,Plasmoids,Poor,0.81
+Curse,Rapture,M-N7WD,M-N7WD III,Fiber Composite,Perfect,35.38
+Curse,Rapture,M-N7WD,M-N7WD III,Industrial Fibers,Perfect,8.98
+Curse,Rapture,M-N7WD,M-N7WD III,Condensates,Rich,18.96
+Curse,Rapture,M-N7WD,M-N7WD III,Heavy Water,Medium,192.60
+Curse,Rapture,M-N7WD,M-N7WD III,Liquid Ozone,Perfect,44.83
+Curse,Rapture,M-N7WD,M-N7WD IV,Fiber Composite,Medium,23.54
+Curse,Rapture,M-N7WD,M-N7WD IV,Base Metals,Perfect,9.74
+Curse,Rapture,M-N7WD,M-N7WD IV,Condensates,Medium,16.09
+Curse,Rapture,M-N7WD,M-N7WD IV,Smartfab Units,Rich,19.71
+Curse,Rapture,M-N7WD,M-N7WD IV,Liquid Ozone,Medium,24.75
+Curse,Rapture,M-N7WD,M-N7WD V,Lucent Compound,Rich,25.92
+Curse,Rapture,M-N7WD,M-N7WD V,Crystal Compound,Medium,20.48
+Curse,Rapture,M-N7WD,M-N7WD V,Reactive Gas,Rich,30.22
+Curse,Rapture,M-N7WD,M-N7WD V,Reactive Metals,Rich,7.20
+Curse,Rapture,M-N7WD,M-N7WD VI,Sheen Compound,Poor,17.50
+Curse,Rapture,M-N7WD,M-N7WD VI,Reactive Gas,Poor,18.62
+Curse,Rapture,M-N7WD,M-N7WD VI,Reactive Metals,Rich,7.15
+Curse,Rapture,M-N7WD,M-N7WD VI,Coolant,Rich,18.04
+Curse,Rapture,M-N7WD,M-N7WD VI,Ionic Solutions,Rich,12.55
+Curse,Rapture,M-N7WD,M-N7WD VII,Glossy Compound,Medium,23.46
+Curse,Rapture,M-N7WD,M-N7WD VII,Reactive Gas,Poor,18.16
+Curse,Rapture,M-N7WD,M-N7WD VII,Noble Gas,Medium,24.20
+Curse,Rapture,M-N7WD,M-N7WD VII,Polyaramids,Medium,14.12
+Curse,Rapture,M-N7WD,M-N7WD VII,Coolant,Medium,14.41
+Curse,Rapture,M-N7WD,M-N7WD VIII,Fiber Composite,Medium,22.86
+Curse,Rapture,M-N7WD,M-N7WD VIII,Glossy Compound,Medium,19.94
+Curse,Rapture,M-N7WD,M-N7WD VIII,Reactive Gas,Rich,30.34
+Curse,Rapture,M-N7WD,M-N7WD VIII,Noble Gas,Poor,18.04
+Curse,Rapture,M-N7WD,M-N7WD VIII,Ionic Solutions,Rich,10.42
+Curse,Rapture,M-N7WD,M-N7WD IX,Supertensile Plastics,Rich,18.20
+Curse,Rapture,M-N7WD,M-N7WD IX,Coolant,Poor,9.80
+Curse,Rapture,M-N7WD,M-N7WD IX,Condensates,Medium,16.33
+Curse,Rapture,M-N7WD,M-N7WD IX,Liquid Ozone,Rich,35.73
+Curse,Rapture,QFEW-K,QFEW-K I,Precious Alloy,Poor,18.75
+Curse,Rapture,QFEW-K,QFEW-K I,Dark Compound,Medium,22.39
+Curse,Rapture,QFEW-K,QFEW-K I,Supertensile Plastics,Medium,16.03
+Curse,Rapture,QFEW-K,QFEW-K I,Construction Blocks,Poor,17.87
+Curse,Rapture,QFEW-K,QFEW-K II,Toxic Metals,Poor,4.44
+Curse,Rapture,QFEW-K,QFEW-K II,Industrial Fibers,Poor,3.86
+Curse,Rapture,QFEW-K,QFEW-K II,Supertensile Plastics,Medium,14.36
+Curse,Rapture,QFEW-K,QFEW-K II,Construction Blocks,Poor,19.05
+Curse,Rapture,QFEW-K,QFEW-K III,Sheen Compound,Poor,19.72
+Curse,Rapture,QFEW-K,QFEW-K III,Reactive Metals,Medium,5.74
+Curse,Rapture,QFEW-K,QFEW-K III,Condensates,Perfect,23.84
+Curse,Rapture,QFEW-K,QFEW-K III,Suspended Plasma,Perfect,131.54
+Curse,Rapture,QFEW-K,QFEW-K III,Ionic Solutions,Rich,11.17
+Curse,Rapture,QFEW-K,QFEW-K IV,Gleaming Alloy,Poor,17.85
+Curse,Rapture,QFEW-K,QFEW-K IV,Noble Metals,Rich,31.63
+Curse,Rapture,QFEW-K,QFEW-K IV,Oxygen Isotopes,Poor,2.87
+Curse,Rapture,QFEW-K,QFEW-K V,Condensed Alloy,Rich,31.82
+Curse,Rapture,QFEW-K,QFEW-K V,Opulent Compound,Medium,21.25
+Curse,Rapture,QFEW-K,QFEW-K V,Polyaramids,Perfect,24.54
+Curse,Rapture,QFEW-K,QFEW-K V,Coolant,Rich,19.40
+Curse,Rapture,QFEW-K,QFEW-K V,Liquid Ozone,Medium,30.74
+Curse,Rapture,QFEW-K,QFEW-K VI,Gleaming Alloy,Medium,21.55
+Curse,Rapture,QFEW-K,QFEW-K VI,Reactive Gas,Medium,21.59
+Curse,Rapture,QFEW-K,QFEW-K VI,Reactive Metals,Rich,8.56
+Curse,Rapture,QFEW-K,QFEW-K VI,Oxygen Isotopes,Medium,3.55
+Curse,Rapture,CVY-UC,CVY-UC I,Industrial Fibers,Poor,3.84
+Curse,Rapture,CVY-UC,CVY-UC I,Supertensile Plastics,Poor,11.54
+Curse,Rapture,CVY-UC,CVY-UC I,Construction Blocks,Poor,17.80
+Curse,Rapture,CVY-UC,CVY-UC I,Plasmoids,Poor,0.85
+Curse,Rapture,CVY-UC,CVY-UC II,Toxic Metals,Poor,3.75
+Curse,Rapture,CVY-UC,CVY-UC II,Industrial Fibers,Poor,4.40
+Curse,Rapture,CVY-UC,CVY-UC II,Supertensile Plastics,Medium,16.09
+Curse,Rapture,CVY-UC,CVY-UC II,Silicate Glass,Medium,12.31
+Curse,Rapture,CVY-UC,CVY-UC III,Gleaming Alloy,Medium,25.08
+Curse,Rapture,CVY-UC,CVY-UC III,Crystal Compound,Rich,31.06
+Curse,Rapture,CVY-UC,CVY-UC III,Reactive Metals,Poor,5.14
+Curse,Rapture,CVY-UC,CVY-UC III,Supertensile Plastics,Medium,16.95
+Curse,Rapture,CVY-UC,CVY-UC IV,Gleaming Alloy,Poor,20.11
+Curse,Rapture,CVY-UC,CVY-UC IV,Glossy Compound,Medium,24.51
+Curse,Rapture,CVY-UC,CVY-UC IV,Smartfab Units,Rich,22.53
+Curse,Rapture,CVY-UC,CVY-UC V,Precious Alloy,Poor,16.85
+Curse,Rapture,CVY-UC,CVY-UC V,Base Metals,Medium,6.74
+Curse,Rapture,CVY-UC,CVY-UC V,Supertensile Plastics,Medium,14.15
+Curse,Rapture,CVY-UC,CVY-UC V,Construction Blocks,Poor,20.17
+Curse,Rapture,CVY-UC,CVY-UC VI,Fiber Composite,Medium,25.37
+Curse,Rapture,CVY-UC,CVY-UC VI,Reactive Gas,Medium,20.90
+Curse,Rapture,CVY-UC,CVY-UC VI,Noble Gas,Rich,31.66
+Curse,Rapture,CVY-UC,CVY-UC VI,Reactive Metals,Medium,5.70
+Curse,Rapture,CVY-UC,CVY-UC VI,Coolant,Medium,16.43
+Curse,Rapture,CVY-UC,CVY-UC VII,Gleaming Alloy,Medium,27.70
+Curse,Rapture,CVY-UC,CVY-UC VII,Polyaramids,Medium,15.74
+Curse,Rapture,CVY-UC,CVY-UC VII,Oxygen Isotopes,Rich,4.59
+Curse,Rapture,CVY-UC,CVY-UC VIII,Sheen Compound,Medium,26.25
+Curse,Rapture,CVY-UC,CVY-UC VIII,Fiber Composite,Rich,31.46
+Curse,Rapture,CVY-UC,CVY-UC VIII,Reactive Gas,Medium,20.88
+Curse,Rapture,CVY-UC,CVY-UC VIII,Base Metals,Rich,8.81
+Curse,Rapture,CVY-UC,CVY-UC VIII,Ionic Solutions,Rich,13.09
+Curse,Rapture,CVY-UC,CVY-UC IX,Fiber Composite,Medium,22.59
+Curse,Rapture,CVY-UC,CVY-UC IX,Reactive Gas,Rich,30.84
+Curse,Rapture,CVY-UC,CVY-UC IX,Base Metals,Rich,8.93
+Curse,Rapture,CVY-UC,CVY-UC IX,Reactive Metals,Perfect,9.27
+Curse,Rapture,CVY-UC,CVY-UC IX,Polyaramids,Rich,20.62
+Curse,Rapture,CVY-UC,CVY-UC X,Motley Compound,Poor,17.47
+Curse,Rapture,CVY-UC,CVY-UC X,Supertensile Plastics,Poor,11.91
+Curse,Rapture,CVY-UC,CVY-UC X,Condensates,Rich,21.66
+Curse,Rapture,CVY-UC,CVY-UC X,Liquid Ozone,Rich,36.58
+Curse,Rapture,CVY-UC,CVY-UC XI,Industrial Fibers,Poor,4.39
+Curse,Rapture,CVY-UC,CVY-UC XI,Supertensile Plastics,Poor,13.48
+Curse,Rapture,CVY-UC,CVY-UC XI,Construction Blocks,Poor,16.87
+Curse,Rapture,CVY-UC,CVY-UC XI,Silicate Glass,Medium,10.46
+Curse,Rapture,EQX-AE,EQX-AE I,Lustering Alloy,Poor,18.71
+Curse,Rapture,EQX-AE,EQX-AE I,Industrial Fibers,Poor,4.53
+Curse,Rapture,EQX-AE,EQX-AE I,Supertensile Plastics,Poor,11.03
+Curse,Rapture,EQX-AE,EQX-AE I,Oxygen Isotopes,Poor,2.79
+Curse,Rapture,EQX-AE,EQX-AE II,Condensed Alloy,Perfect,39.19
+Curse,Rapture,EQX-AE,EQX-AE II,Reactive Gas,Perfect,39.40
+Curse,Rapture,EQX-AE,EQX-AE II,Noble Metals,Rich,27.99
+Curse,Rapture,EQX-AE,EQX-AE II,Smartfab Units,Rich,20.27
+Curse,Rapture,EQX-AE,EQX-AE II,Liquid Ozone,Perfect,48.04
+Curse,Rapture,EQX-AE,EQX-AE III,Opulent Compound,Rich,28.77
+Curse,Rapture,EQX-AE,EQX-AE III,Condensates,Perfect,23.69
+Curse,Rapture,EQX-AE,EQX-AE III,Smartfab Units,Perfect,23.59
+Curse,Rapture,EQX-AE,EQX-AE III,Heavy Water,Rich,284.97
+Curse,Rapture,EQX-AE,EQX-AE III,Liquid Ozone,Medium,25.12
+Curse,Rapture,EQX-AE,EQX-AE IV,Lustering Alloy,Poor,17.87
+Curse,Rapture,EQX-AE,EQX-AE IV,Fiber Composite,Rich,29.97
+Curse,Rapture,EQX-AE,EQX-AE IV,Reactive Gas,Poor,19.43
+Curse,Rapture,EQX-AE,EQX-AE IV,Base Metals,Medium,5.39
+Curse,Rapture,EQX-AE,EQX-AE IV,Ionic Solutions,Poor,7.48
+Curse,Rapture,EQX-AE,EQX-AE V,Fiber Composite,Medium,22.51
+Curse,Rapture,EQX-AE,EQX-AE V,Glossy Compound,Medium,24.59
+Curse,Rapture,EQX-AE,EQX-AE V,Reactive Gas,Medium,25.93
+Curse,Rapture,EQX-AE,EQX-AE V,Base Metals,Poor,4.93
+Curse,Rapture,EQX-AE,EQX-AE V,Ionic Solutions,Medium,8.86
+Curse,Rapture,EQX-AE,EQX-AE VI,Lustering Alloy,Poor,18.33
+Curse,Rapture,EQX-AE,EQX-AE VI,Sheen Compound,Medium,20.81
+Curse,Rapture,EQX-AE,EQX-AE VI,Reactive Gas,Medium,22.87
+Curse,Rapture,EQX-AE,EQX-AE VI,Base Metals,Medium,6.10
+Curse,Rapture,EQX-AE,EQX-AE VI,Ionic Solutions,Poor,7.73
+Curse,Hale,G-R4W1,G-R4W1 I,Gleaming Alloy,Rich,25.54
+Curse,Hale,G-R4W1,G-R4W1 I,Construction Blocks,Medium,24.94
+Curse,Hale,G-R4W1,G-R4W1 I,Oxygen Isotopes,Medium,3.04
+Curse,Hale,G-R4W1,G-R4W1 II,Gleaming Alloy,Medium,23.60
+Curse,Hale,G-R4W1,G-R4W1 II,Smartfab Units,Poor,11.39
+Curse,Hale,G-R4W1,G-R4W1 II,Plasmoids,Medium,1.48
+Curse,Hale,G-R4W1,G-R4W1 III,Lustering Alloy,Rich,30.08
+Curse,Hale,G-R4W1,G-R4W1 III,Sheen Compound,Medium,19.42
+Curse,Hale,G-R4W1,G-R4W1 III,Reactive Gas,Medium,20.78
+Curse,Hale,G-R4W1,G-R4W1 III,Reactive Metals,Medium,6.28
+Curse,Hale,G-R4W1,G-R4W1 III,Polyaramids,Rich,20.49
+Curse,Hale,G-R4W1,G-R4W1 IV,Sheen Compound,Rich,30.60
+Curse,Hale,G-R4W1,G-R4W1 IV,Glossy Compound,Rich,31.26
+Curse,Hale,G-R4W1,G-R4W1 IV,Reactive Gas,Medium,22.74
+Curse,Hale,G-R4W1,G-R4W1 IV,Reactive Metals,Medium,4.97
+Curse,Hale,G-R4W1,G-R4W1 IV,Coolant,Rich,19.73
+Curse,Hale,G-R4W1,G-R4W1 V,Sheen Compound,Rich,30.58
+Curse,Hale,G-R4W1,G-R4W1 V,Fiber Composite,Poor,18.30
+Curse,Hale,G-R4W1,G-R4W1 V,Glossy Compound,Poor,16.98
+Curse,Hale,G-R4W1,G-R4W1 V,Reactive Gas,Rich,27.30
+Curse,Hale,G-R4W1,G-R4W1 V,Coolant,Rich,19.36
+Curse,Hale,G-R4W1,G-R4W1 VI,Base Metals,Medium,5.52
+Curse,Hale,G-R4W1,G-R4W1 VI,Toxic Metals,Poor,3.37
+Curse,Hale,G-R4W1,G-R4W1 VI,Supertensile Plastics,Poor,8.96
+Curse,Hale,G-R4W1,G-R4W1 VI,Oxygen Isotopes,Medium,3.35
+Curse,Hale,G-R4W1,G-R4W1 VII,Dark Compound,Poor,13.78
+Curse,Hale,G-R4W1,G-R4W1 VII,Industrial Fibers,Poor,4.92
+Curse,Hale,G-R4W1,G-R4W1 VII,Supertensile Plastics,Medium,14.52
+Curse,Hale,G-R4W1,G-R4W1 VII,Oxygen Isotopes,Medium,3.37
+Curse,Hale,BPK-XK,BPK-XK I,Base Metals,Poor,4.03
+Curse,Hale,BPK-XK,BPK-XK I,Supertensile Plastics,Poor,8.69
+Curse,Hale,BPK-XK,BPK-XK I,Silicate Glass,Poor,7.12
+Curse,Hale,BPK-XK,BPK-XK I,Oxygen Isotopes,Poor,1.92
+Curse,Hale,BPK-XK,BPK-XK II,Condensed Alloy,Medium,24.76
+Curse,Hale,BPK-XK,BPK-XK II,Fiber Composite,Rich,30.02
+Curse,Hale,BPK-XK,BPK-XK II,Opulent Compound,Rich,26.98
+Curse,Hale,BPK-XK,BPK-XK II,Heavy Water,Medium,190.40
+Curse,Hale,BPK-XK,BPK-XK II,Liquid Ozone,Rich,35.70
+Curse,Hale,BPK-XK,BPK-XK III,Dark Compound,Poor,16.96
+Curse,Hale,BPK-XK,BPK-XK III,Supertensile Plastics,Poor,9.71
+Curse,Hale,BPK-XK,BPK-XK III,Silicate Glass,Medium,10.56
+Curse,Hale,BPK-XK,BPK-XK III,Plasmoids,Poor,0.88
+Curse,Hale,BPK-XK,BPK-XK IV,Crystal Compound,Perfect,32.68
+Curse,Hale,BPK-XK,BPK-XK IV,Reactive Gas,Rich,28.00
+Curse,Hale,BPK-XK,BPK-XK IV,Reactive Metals,Medium,6.57
+Curse,Hale,BPK-XK,BPK-XK IV,Toxic Metals,Rich,8.26
+Curse,Hale,BPK-XK,BPK-XK V,Glossy Compound,Rich,30.60
+Curse,Hale,BPK-XK,BPK-XK V,Reactive Gas,Rich,26.56
+Curse,Hale,BPK-XK,BPK-XK V,Noble Gas,Medium,22.40
+Curse,Hale,BPK-XK,BPK-XK V,Reactive Metals,Perfect,8.61
+Curse,Hale,BPK-XK,BPK-XK V,Coolant,Medium,14.44
+Curse,Hale,BPK-XK,BPK-XK VI,Sheen Compound,Medium,23.36
+Curse,Hale,BPK-XK,BPK-XK VI,Fiber Composite,Poor,18.80
+Curse,Hale,BPK-XK,BPK-XK VI,Reactive Gas,Medium,24.46
+Curse,Hale,BPK-XK,BPK-XK VI,Polyaramids,Medium,15.73
+Curse,Hale,BPK-XK,BPK-XK VI,Coolant,Poor,12.45
+Curse,Hale,LJ-YSW,LJ-YSW I,Precious Alloy,Medium,19.06
+Curse,Hale,LJ-YSW,LJ-YSW I,Industrial Fibers,Poor,4.18
+Curse,Hale,LJ-YSW,LJ-YSW I,Supertensile Plastics,Medium,13.64
+Curse,Hale,LJ-YSW,LJ-YSW I,Oxygen Isotopes,Poor,2.15
+Curse,Hale,LJ-YSW,LJ-YSW II,Dark Compound,Poor,16.10
+Curse,Hale,LJ-YSW,LJ-YSW II,Supertensile Plastics,Medium,14.05
+Curse,Hale,LJ-YSW,LJ-YSW II,Silicate Glass,Poor,7.54
+Curse,Hale,LJ-YSW,LJ-YSW II,Plasmoids,Poor,0.97
+Curse,Hale,LJ-YSW,LJ-YSW III,Lustering Alloy,Rich,26.16
+Curse,Hale,LJ-YSW,LJ-YSW III,Fiber Composite,Medium,19.10
+Curse,Hale,LJ-YSW,LJ-YSW III,Glossy Compound,Rich,30.46
+Curse,Hale,LJ-YSW,LJ-YSW III,Reactive Gas,Poor,17.64
+Curse,Hale,LJ-YSW,LJ-YSW III,Noble Gas,Medium,21.06
+Curse,Hale,LJ-YSW,LJ-YSW IV,Sheen Compound,Rich,30.54
+Curse,Hale,LJ-YSW,LJ-YSW IV,Glossy Compound,Rich,27.76
+Curse,Hale,LJ-YSW,LJ-YSW IV,Reactive Gas,Rich,28.70
+Curse,Hale,LJ-YSW,LJ-YSW IV,Noble Gas,Rich,29.92
+Curse,Hale,LJ-YSW,LJ-YSW IV,Ionic Solutions,Medium,7.90
+Curse,Hale,LJ-YSW,LJ-YSW V,Lustering Alloy,Rich,27.70
+Curse,Hale,LJ-YSW,LJ-YSW V,Fiber Composite,Poor,17.62
+Curse,Hale,LJ-YSW,LJ-YSW V,Reactive Gas,Rich,26.42
+Curse,Hale,LJ-YSW,LJ-YSW V,Noble Gas,Medium,21.46
+Curse,Hale,LJ-YSW,LJ-YSW V,Reactive Metals,Rich,7.34
+Curse,Hale,LJ-YSW,LJ-YSW VI,Sheen Compound,Medium,23.50
+Curse,Hale,LJ-YSW,LJ-YSW VI,Reactive Gas,Rich,25.82
+Curse,Hale,LJ-YSW,LJ-YSW VI,Reactive Metals,Medium,5.56
+Curse,Hale,LJ-YSW,LJ-YSW VI,Coolant,Medium,13.21
+Curse,Hale,LJ-YSW,LJ-YSW VI,Ionic Solutions,Rich,11.05
+Curse,Hale,LJ-YSW,LJ-YSW VII,Lustering Alloy,Poor,15.12
+Curse,Hale,LJ-YSW,LJ-YSW VII,Precious Alloy,Poor,18.84
+Curse,Hale,LJ-YSW,LJ-YSW VII,Condensates,Poor,10.47
+Curse,Hale,LJ-YSW,LJ-YSW VII,Suspended Plasma,Poor,65.95
+Curse,Hale,Y-K50G,Y-K50G I,Base Metals,Medium,5.54
+Curse,Hale,Y-K50G,Y-K50G I,Industrial Fibers,Poor,3.54
+Curse,Hale,Y-K50G,Y-K50G I,Supertensile Plastics,Medium,16.09
+Curse,Hale,Y-K50G,Y-K50G I,Plasmoids,Medium,1.39
+Curse,Hale,Y-K50G,Y-K50G II,Gleaming Alloy,Perfect,32.62
+Curse,Hale,Y-K50G,Y-K50G II,Polyaramids,Medium,12.71
+Curse,Hale,Y-K50G,Y-K50G II,Construction Blocks,Medium,19.12
+Curse,Hale,Y-K50G,Y-K50G III,Lustering Alloy,Medium,24.42
+Curse,Hale,Y-K50G,Y-K50G III,Precious Alloy,Medium,22.02
+Curse,Hale,Y-K50G,Y-K50G III,Supertensile Plastics,Medium,15.32
+Curse,Hale,Y-K50G,Y-K50G III,Silicate Glass,Medium,10.10
+Curse,Hale,Y-K50G,Y-K50G IV,Sheen Compound,Rich,29.02
+Curse,Hale,Y-K50G,Y-K50G IV,Lucent Compound,Rich,26.58
+Curse,Hale,Y-K50G,Y-K50G IV,Condensates,Medium,15.00
+Curse,Hale,Y-K50G,Y-K50G IV,Nanites,Medium,5.72
+Curse,Hale,Y-K50G,Y-K50G IV,Suspended Plasma,Medium,81.72
+Curse,Hale,Y-K50G,Y-K50G V,Lustering Alloy,Rich,30.98
+Curse,Hale,Y-K50G,Y-K50G V,Reactive Gas,Perfect,32.90
+Curse,Hale,Y-K50G,Y-K50G V,Noble Gas,Poor,16.86
+Curse,Hale,Y-K50G,Y-K50G V,Reactive Metals,Poor,4.62
+Curse,Hale,Y-K50G,Y-K50G V,Ionic Solutions,Rich,11.45
+Curse,Hale,Y-K50G,Y-K50G VI,Sheen Compound,Poor,17.78
+Curse,Hale,Y-K50G,Y-K50G VI,Reactive Gas,Medium,22.44
+Curse,Hale,Y-K50G,Y-K50G VI,Noble Gas,Poor,17.92
+Curse,Hale,Y-K50G,Y-K50G VI,Coolant,Medium,13.81
+Curse,Hale,Y-K50G,Y-K50G VI,Ionic Solutions,Medium,7.95
+Curse,Hale,Y-K50G,Y-K50G VII,Glossy Compound,Rich,28.72
+Curse,Hale,Y-K50G,Y-K50G VII,Reactive Gas,Poor,18.84
+Curse,Hale,Y-K50G,Y-K50G VII,Noble Gas,Rich,28.50
+Curse,Hale,Y-K50G,Y-K50G VII,Polyaramids,Perfect,21.75
+Curse,Hale,Y-K50G,Y-K50G VII,Coolant,Rich,17.16
+Curse,Hale,Y-K50G,Y-K50G VIII,Reactive Gas,Poor,17.84
+Curse,Hale,Y-K50G,Y-K50G VIII,Noble Gas,Rich,30.26
+Curse,Hale,Y-K50G,Y-K50G VIII,Base Metals,Rich,6.95
+Curse,Hale,Y-K50G,Y-K50G VIII,Reactive Metals,Poor,4.76
+Curse,Hale,Y-K50G,Y-K50G VIII,Ionic Solutions,Rich,10.94
+Curse,Hale,Y-K50G,Y-K50G IX,Lustering Alloy,Poor,17.28
+Curse,Hale,Y-K50G,Y-K50G IX,Motley Compound,Medium,24.30
+Curse,Hale,Y-K50G,Y-K50G IX,Supertensile Plastics,Rich,19.53
+Curse,Hale,Y-K50G,Y-K50G IX,Condensates,Poor,10.75
+Curse,Hale,K88X-J,K88X-J I,Dark Compound,Medium,20.96
+Curse,Hale,K88X-J,K88X-J I,Industrial Fibers,Poor,3.77
+Curse,Hale,K88X-J,K88X-J I,Supertensile Plastics,Medium,16.27
+Curse,Hale,K88X-J,K88X-J I,Silicate Glass,Medium,12.79
+Curse,Hale,K88X-J,K88X-J II,Base Metals,Poor,4.70
+Curse,Hale,K88X-J,K88X-J II,Supertensile Plastics,Poor,9.23
+Curse,Hale,K88X-J,K88X-J II,Silicate Glass,Poor,7.57
+Curse,Hale,K88X-J,K88X-J II,Oxygen Isotopes,Poor,2.53
+Curse,Hale,K88X-J,K88X-J III,Gleaming Alloy,Medium,26.42
+Curse,Hale,K88X-J,K88X-J III,Glossy Compound,Rich,32.23
+Curse,Hale,K88X-J,K88X-J III,Heavy Metals,Rich,31.84
+Curse,Hale,K88X-J,K88X-J IV,Fiber Composite,Rich,31.39
+Curse,Hale,K88X-J,K88X-J IV,Opulent Compound,Rich,26.80
+Curse,Hale,K88X-J,K88X-J IV,Reactive Gas,Rich,28.60
+Curse,Hale,K88X-J,K88X-J IV,Base Metals,Rich,8.75
+Curse,Hale,K88X-J,K88X-J IV,Liquid Ozone,Rich,39.24
+Curse,Hale,K88X-J,K88X-J V,Condensed Alloy,Medium,24.68
+Curse,Hale,K88X-J,K88X-J V,Industrial Fibers,Perfect,10.15
+Curse,Hale,K88X-J,K88X-J V,Condensates,Medium,14.21
+Curse,Hale,K88X-J,K88X-J V,Smartfab Units,Rich,20.33
+Curse,Hale,K88X-J,K88X-J V,Liquid Ozone,Medium,28.56
+Curse,Hale,K88X-J,K88X-J VI,Condensed Alloy,Perfect,37.99
+Curse,Hale,K88X-J,K88X-J VI,Opulent Compound,Medium,23.10
+Curse,Hale,K88X-J,K88X-J VI,Base Metals,Perfect,9.11
+Curse,Hale,K88X-J,K88X-J VI,Condensates,Medium,13.58
+Curse,Hale,K88X-J,K88X-J VI,Liquid Ozone,Poor,24.33
+Curse,Hale,K88X-J,K88X-J VII,Fiber Composite,Rich,27.13
+Curse,Hale,K88X-J,K88X-J VII,Glossy Compound,Rich,32.72
+Curse,Hale,K88X-J,K88X-J VII,Reactive Gas,Poor,19.38
+Curse,Hale,K88X-J,K88X-J VII,Reactive Metals,Rich,7.02
+Curse,Hale,K88X-J,K88X-J VII,Ionic Solutions,Medium,9.42
+Curse,Hale,K88X-J,K88X-J VIII,Base Metals,Perfect,9.72
+Curse,Hale,K88X-J,K88X-J VIII,Industrial Fibers,Rich,8.25
+Curse,Hale,K88X-J,K88X-J VIII,Condensates,Medium,14.92
+Curse,Hale,K88X-J,K88X-J VIII,Smartfab Units,Rich,19.14
+Curse,Hale,K88X-J,K88X-J VIII,Liquid Ozone,Perfect,48.27
+Curse,Hale,K88X-J,K88X-J IX,Precious Alloy,Poor,17.93
+Curse,Hale,K88X-J,K88X-J IX,Dark Compound,Poor,16.78
+Curse,Hale,K88X-J,K88X-J IX,Industrial Fibers,Medium,5.76
+Curse,Hale,K88X-J,K88X-J IX,Supertensile Plastics,Medium,17.22
+Curse,Hale,K88X-J,K88X-J X,Lustering Alloy,Rich,26.84
+Curse,Hale,K88X-J,K88X-J X,Sheen Compound,Rich,30.24
+Curse,Hale,K88X-J,K88X-J X,Reactive Gas,Medium,21.27
+Curse,Hale,K88X-J,K88X-J X,Noble Gas,Medium,26.25
+Curse,Hale,K88X-J,K88X-J X,Polyaramids,Medium,16.11
+Curse,Hale,G-0Q86,G-0Q86 I,Lustering Alloy,Medium,19.72
+Curse,Hale,G-0Q86,G-0Q86 I,Supertensile Plastics,Medium,16.32
+Curse,Hale,G-0Q86,G-0Q86 I,Silicate Glass,Poor,7.35
+Curse,Hale,G-0Q86,G-0Q86 I,Oxygen Isotopes,Poor,2.28
+Curse,Hale,G-0Q86,G-0Q86 II,Gleaming Alloy,Perfect,32.28
+Curse,Hale,G-0Q86,G-0Q86 II,Noble Gas,Medium,21.90
+Curse,Hale,G-0Q86,G-0Q86 II,Smartfab Units,Perfect,22.55
+Curse,Hale,G-0Q86,G-0Q86 III,Precious Alloy,Poor,18.74
+Curse,Hale,G-0Q86,G-0Q86 III,Supertensile Plastics,Poor,9.31
+Curse,Hale,G-0Q86,G-0Q86 III,Silicate Glass,Poor,8.11
+Curse,Hale,G-0Q86,G-0Q86 III,Oxygen Isotopes,Medium,3.21
+Curse,Hale,G-0Q86,G-0Q86 IV,Condensed Alloy,Medium,24.98
+Curse,Hale,G-0Q86,G-0Q86 IV,Opulent Compound,Poor,17.62
+Curse,Hale,G-0Q86,G-0Q86 IV,Coolant,Medium,16.01
+Curse,Hale,G-0Q86,G-0Q86 IV,Heavy Water,Medium,238.40
+Curse,Hale,G-0Q86,G-0Q86 IV,Liquid Ozone,Perfect,43.67
+Curse,Hale,G-0Q86,G-0Q86 V,Lustering Alloy,Medium,24.64
+Curse,Hale,G-0Q86,G-0Q86 V,Sheen Compound,Perfect,32.08
+Curse,Hale,G-0Q86,G-0Q86 V,Fiber Composite,Medium,19.64
+Curse,Hale,G-0Q86,G-0Q86 V,Reactive Gas,Poor,17.26
+Curse,Hale,G-0Q86,G-0Q86 V,Base Metals,Poor,4.89
+Curse,Hale,G-0Q86,G-0Q86 VI,Lustering Alloy,Medium,21.00
+Curse,Hale,G-0Q86,G-0Q86 VI,Precious Alloy,Poor,15.50
+Curse,Hale,G-0Q86,G-0Q86 VI,Supertensile Plastics,Medium,14.36
+Curse,Hale,G-0Q86,G-0Q86 VI,Oxygen Isotopes,Poor,2.06
+Curse,Hale,G-0Q86,G-0Q86 VII,Fiber Composite,Perfect,32.62
+Curse,Hale,G-0Q86,G-0Q86 VII,Reactive Gas,Medium,21.28
+Curse,Hale,G-0Q86,G-0Q86 VII,Base Metals,Rich,7.57
+Curse,Hale,G-0Q86,G-0Q86 VII,Polyaramids,Rich,19.63
+Curse,Hale,G-0Q86,G-0Q86 VII,Coolant,Medium,13.81
+Curse,Hale,CL-1JE,CL-1JE I,Lustering Alloy,Medium,23.32
+Curse,Hale,CL-1JE,CL-1JE I,Supertensile Plastics,Poor,10.00
+Curse,Hale,CL-1JE,CL-1JE I,Construction Blocks,Medium,20.46
+Curse,Hale,CL-1JE,CL-1JE I,Silicate Glass,Poor,9.33
+Curse,Hale,CL-1JE,CL-1JE II,Gleaming Alloy,Medium,22.86
+Curse,Hale,CL-1JE,CL-1JE II,Glossy Compound,Poor,18.22
+Curse,Hale,CL-1JE,CL-1JE II,Oxygen Isotopes,Rich,3.87
+Curse,Hale,CL-1JE,CL-1JE III,Gleaming Alloy,Rich,31.64
+Curse,Hale,CL-1JE,CL-1JE III,Reactive Gas,Medium,25.02
+Curse,Hale,CL-1JE,CL-1JE III,Reactive Metals,Medium,6.65
+Curse,Hale,CL-1JE,CL-1JE III,Supertensile Plastics,Medium,13.37
+Curse,Hale,CL-1JE,CL-1JE IV,Lustering Alloy,Rich,27.64
+Curse,Hale,CL-1JE,CL-1JE IV,Fiber Composite,Rich,25.54
+Curse,Hale,CL-1JE,CL-1JE IV,Reactive Gas,Medium,21.54
+Curse,Hale,CL-1JE,CL-1JE IV,Noble Gas,Rich,26.94
+Curse,Hale,CL-1JE,CL-1JE IV,Polyaramids,Rich,17.31
+Curse,Hale,CL-1JE,CL-1JE V,Sheen Compound,Medium,21.24
+Curse,Hale,CL-1JE,CL-1JE V,Reactive Gas,Medium,20.54
+Curse,Hale,CL-1JE,CL-1JE V,Noble Gas,Rich,30.46
+Curse,Hale,CL-1JE,CL-1JE V,Base Metals,Medium,5.50
+Curse,Hale,CL-1JE,CL-1JE V,Ionic Solutions,Rich,11.38
+Curse,Hale,CL-1JE,CL-1JE VI,Base Metals,Medium,5.54
+Curse,Hale,CL-1JE,CL-1JE VI,Supertensile Plastics,Poor,10.76
+Curse,Hale,CL-1JE,CL-1JE VI,Silicate Glass,Poor,8.26
+Curse,Hale,CL-1JE,CL-1JE VI,Oxygen Isotopes,Poor,2.71
+Curse,Hale,CL-1JE,CL-1JE VII,Sheen Compound,Rich,26.92
+Curse,Hale,CL-1JE,CL-1JE VII,Fiber Composite,Perfect,32.06
+Curse,Hale,CL-1JE,CL-1JE VII,Reactive Gas,Perfect,32.58
+Curse,Hale,CL-1JE,CL-1JE VII,Base Metals,Perfect,8.59
+Curse,Hale,CL-1JE,CL-1JE VII,Ionic Solutions,Rich,11.83
+Curse,Hale,CL-1JE,CL-1JE VIII,Precious Alloy,Poor,14.34
+Curse,Hale,CL-1JE,CL-1JE VIII,Dark Compound,Poor,16.72
+Curse,Hale,CL-1JE,CL-1JE VIII,Base Metals,Medium,5.94
+Curse,Hale,CL-1JE,CL-1JE VIII,Supertensile Plastics,Medium,13.48
+Curse,Hale,J4UD-J,J4UD-J I,Dark Compound,Poor,19.30
+Curse,Hale,J4UD-J,J4UD-J I,Industrial Fibers,Medium,6.79
+Curse,Hale,J4UD-J,J4UD-J I,Supertensile Plastics,Medium,14.83
+Curse,Hale,J4UD-J,J4UD-J I,Oxygen Isotopes,Poor,2.60
+Curse,Hale,J4UD-J,J4UD-J II,Base Metals,Poor,4.17
+Curse,Hale,J4UD-J,J4UD-J II,Supertensile Plastics,Poor,11.21
+Curse,Hale,J4UD-J,J4UD-J II,Silicate Glass,Poor,8.02
+Curse,Hale,J4UD-J,J4UD-J II,Plasmoids,Medium,1.29
+Curse,Hale,J4UD-J,J4UD-J III,Gleaming Alloy,Rich,31.54
+Curse,Hale,J4UD-J,J4UD-J III,Glossy Compound,Perfect,35.03
+Curse,Hale,J4UD-J,J4UD-J III,Heavy Metals,Rich,27.03
+Curse,Hale,J4UD-J,J4UD-J IV,Gleaming Alloy,Rich,27.78
+Curse,Hale,J4UD-J,J4UD-J IV,Polyaramids,Medium,14.35
+Curse,Hale,J4UD-J,J4UD-J IV,Plasmoids,Perfect,2.09
+Curse,Hale,J4UD-J,J4UD-J V,Lustering Alloy,Medium,22.09
+Curse,Hale,J4UD-J,J4UD-J V,Precious Alloy,Poor,18.44
+Curse,Hale,J4UD-J,J4UD-J V,Supertensile Plastics,Poor,8.82
+Curse,Hale,J4UD-J,J4UD-J V,Oxygen Isotopes,Medium,3.31
+Curse,Hale,J4UD-J,J4UD-J VI,Sheen Compound,Medium,25.07
+Curse,Hale,J4UD-J,J4UD-J VI,Glossy Compound,Medium,21.04
+Curse,Hale,J4UD-J,J4UD-J VI,Reactive Gas,Medium,22.97
+Curse,Hale,J4UD-J,J4UD-J VI,Noble Gas,Poor,17.39
+Curse,Hale,J4UD-J,J4UD-J VI,Ionic Solutions,Medium,8.15
+Curse,Hale,J4UD-J,J4UD-J VII,Glossy Compound,Medium,21.78
+Curse,Hale,J4UD-J,J4UD-J VII,Reactive Gas,Perfect,34.80
+Curse,Hale,J4UD-J,J4UD-J VII,Base Metals,Rich,8.58
+Curse,Hale,J4UD-J,J4UD-J VII,Reactive Metals,Medium,6.53
+Curse,Hale,J4UD-J,J4UD-J VII,Polyaramids,Medium,17.51
+Curse,Hale,J4UD-J,J4UD-J VIII,Fiber Composite,Rich,26.61
+Curse,Hale,J4UD-J,J4UD-J VIII,Glossy Compound,Medium,22.74
+Curse,Hale,J4UD-J,J4UD-J VIII,Reactive Gas,Medium,23.41
+Curse,Hale,J4UD-J,J4UD-J VIII,Base Metals,Medium,5.81
+Curse,Hale,J4UD-J,J4UD-J VIII,Reactive Metals,Medium,5.39
+Curse,Hale,J4UD-J,J4UD-J IX,Fiber Composite,Rich,29.78
+Curse,Hale,J4UD-J,J4UD-J IX,Glossy Compound,Rich,26.61
+Curse,Hale,J4UD-J,J4UD-J IX,Reactive Gas,Medium,24.76
+Curse,Hale,J4UD-J,J4UD-J IX,Base Metals,Rich,8.59
+Curse,Hale,J4UD-J,J4UD-J IX,Polyaramids,Rich,20.03
+Curse,Hale,J4UD-J,J4UD-J X,Supertensile Plastics,Poor,11.19
+Curse,Hale,J4UD-J,J4UD-J X,Construction Blocks,Medium,20.85
+Curse,Hale,J4UD-J,J4UD-J X,Silicate Glass,Poor,8.82
+Curse,Hale,J4UD-J,J4UD-J X,Oxygen Isotopes,Medium,3.18
+Curse,Heaven,Hemin,Hemin I,Dark Compound,Medium,19.72
+Curse,Heaven,Hemin,Hemin I,Base Metals,Medium,5.03
+Curse,Heaven,Hemin,Hemin I,Supertensile Plastics,Poor,9.01
+Curse,Heaven,Hemin,Hemin I,Oxygen Isotopes,Medium,3.68
+Curse,Heaven,Hemin,Hemin II,Noble Gas,Rich,29.60
+Curse,Heaven,Hemin,Hemin II,Reactive Metals,Perfect,8.38
+Curse,Heaven,Hemin,Hemin II,Condensates,Perfect,23.01
+Curse,Heaven,Hemin,Hemin II,Suspended Plasma,Perfect,116.78
+Curse,Heaven,Hemin,Hemin II,Plasmoids,Medium,1.29
+Curse,Heaven,Hemin,Hemin III,Gleaming Alloy,Rich,30.94
+Curse,Heaven,Hemin,Hemin III,Reactive Metals,Rich,7.55
+Curse,Heaven,Hemin,Hemin III,Supertensile Plastics,Medium,16.51
+Curse,Heaven,Hemin,Hemin III,Construction Blocks,Medium,23.20
+Curse,Heaven,Hemin,Hemin IV,Precious Alloy,Poor,13.88
+Curse,Heaven,Hemin,Hemin IV,Toxic Metals,Poor,3.69
+Curse,Heaven,Hemin,Hemin IV,Supertensile Plastics,Poor,9.45
+Curse,Heaven,Hemin,Hemin IV,Plasmoids,Poor,0.84
+Curse,Heaven,Hemin,Hemin V,Condensed Alloy,Rich,27.72
+Curse,Heaven,Hemin,Hemin V,Reactive Gas,Medium,23.72
+Curse,Heaven,Hemin,Hemin V,Industrial Fibers,Medium,6.47
+Curse,Heaven,Hemin,Hemin V,Smartfab Units,Medium,16.13
+Curse,Heaven,Hemin,Hemin V,Liquid Ozone,Medium,24.57
+Curse,Heaven,Hemin,Hemin VI,Gleaming Alloy,Medium,20.14
+Curse,Heaven,Hemin,Hemin VI,Glossy Compound,Medium,19.42
+Curse,Heaven,Hemin,Hemin VI,Noble Gas,Poor,18.58
+Curse,Heaven,Hemin,Hemin VII,Lustering Alloy,Rich,30.90
+Curse,Heaven,Hemin,Hemin VII,Sheen Compound,Poor,17.28
+Curse,Heaven,Hemin,Hemin VII,Reactive Gas,Medium,19.78
+Curse,Heaven,Hemin,Hemin VII,Base Metals,Rich,7.51
+Curse,Heaven,Hemin,Hemin VII,Ionic Solutions,Rich,11.78
+Curse,Heaven,Hemin,Hemin VIII,Lustering Alloy,Rich,25.54
+Curse,Heaven,Hemin,Hemin VIII,Fiber Composite,Medium,21.36
+Curse,Heaven,Hemin,Hemin VIII,Reactive Gas,Medium,21.06
+Curse,Heaven,Hemin,Hemin VIII,Noble Gas,Medium,20.92
+Curse,Heaven,Hemin,Hemin VIII,Coolant,Rich,20.87
+Curse,Heaven,Hemin,Hemin IX,Lucent Compound,Rich,25.40
+Curse,Heaven,Hemin,Hemin IX,Reactive Gas,Medium,23.98
+Curse,Heaven,Hemin,Hemin IX,Reactive Metals,Rich,7.83
+Curse,Heaven,Hemin,Hemin IX,Oxygen Isotopes,Rich,4.59
+Curse,Heaven,Utopia,Utopia I,Gleaming Alloy,Rich,29.20
+Curse,Heaven,Utopia,Utopia I,Motley Compound,Rich,29.64
+Curse,Heaven,Utopia,Utopia I,Construction Blocks,Medium,23.68
+Curse,Heaven,Utopia,Utopia II,Lustering Alloy,Poor,15.58
+Curse,Heaven,Utopia,Utopia II,Base Metals,Poor,3.56
+Curse,Heaven,Utopia,Utopia II,Supertensile Plastics,Medium,15.28
+Curse,Heaven,Utopia,Utopia II,Oxygen Isotopes,Poor,1.86
+Curse,Heaven,Utopia,Utopia III,Noble Metals,Medium,23.60
+Curse,Heaven,Utopia,Utopia III,Industrial Fibers,Rich,7.21
+Curse,Heaven,Utopia,Utopia III,Condensates,Perfect,21.72
+Curse,Heaven,Utopia,Utopia III,Smartfab Units,Medium,16.57
+Curse,Heaven,Utopia,Utopia III,Liquid Ozone,Medium,24.50
+Curse,Heaven,Utopia,Utopia IV,Condensed Alloy,Medium,22.76
+Curse,Heaven,Utopia,Utopia IV,Opulent Compound,Perfect,36.44
+Curse,Heaven,Utopia,Utopia IV,Condensates,Medium,13.41
+Curse,Heaven,Utopia,Utopia IV,Smartfab Units,Perfect,21.51
+Curse,Heaven,Utopia,Utopia IV,Liquid Ozone,Perfect,41.92
+Curse,Heaven,Utopia,Utopia V,Lustering Alloy,Medium,19.58
+Curse,Heaven,Utopia,Utopia V,Fiber Composite,Rich,27.64
+Curse,Heaven,Utopia,Utopia V,Reactive Gas,Perfect,32.98
+Curse,Heaven,Utopia,Utopia V,Noble Gas,Medium,24.50
+Curse,Heaven,Utopia,Utopia V,Base Metals,Rich,8.14
+Curse,Heaven,Utopia,Utopia VI,Fiber Composite,Rich,30.24
+Curse,Heaven,Utopia,Utopia VI,Reactive Gas,Rich,28.86
+Curse,Heaven,Utopia,Utopia VI,Base Metals,Rich,8.11
+Curse,Heaven,Utopia,Utopia VI,Reactive Metals,Rich,7.32
+Curse,Heaven,Utopia,Utopia VI,Coolant,Rich,20.83
+Curse,Heaven,Utopia,Utopia VII,Toxic Metals,Medium,6.18
+Curse,Heaven,Utopia,Utopia VII,Supertensile Plastics,Poor,9.44
+Curse,Heaven,Utopia,Utopia VII,Silicate Glass,Poor,7.77
+Curse,Heaven,Utopia,Utopia VII,Plasmoids,Medium,1.15
+Curse,Heaven,Utopia,Utopia VIII,Reactive Metals,Medium,5.19
+Curse,Heaven,Utopia,Utopia VIII,Toxic Metals,Rich,6.70
+Curse,Heaven,Utopia,Utopia VIII,Supertensile Plastics,Rich,19.13
+Curse,Heaven,Utopia,Utopia VIII,Oxygen Isotopes,Medium,3.73
+Curse,Heaven,Jorund,Jorund I,Base Metals,Poor,3.84
+Curse,Heaven,Jorund,Jorund I,Supertensile Plastics,Poor,9.47
+Curse,Heaven,Jorund,Jorund I,Silicate Glass,Medium,9.56
+Curse,Heaven,Jorund,Jorund I,Oxygen Isotopes,Poor,2.02
+Curse,Heaven,Jorund,Jorund II,Precious Alloy,Medium,23.98
+Curse,Heaven,Jorund,Jorund II,Dark Compound,Poor,17.34
+Curse,Heaven,Jorund,Jorund II,Base Metals,Medium,5.16
+Curse,Heaven,Jorund,Jorund II,Supertensile Plastics,Medium,13.23
+Curse,Heaven,Jorund,Jorund III,Lustering Alloy,Medium,20.04
+Curse,Heaven,Jorund,Jorund III,Dark Compound,Poor,17.28
+Curse,Heaven,Jorund,Jorund III,Supertensile Plastics,Poor,10.64
+Curse,Heaven,Jorund,Jorund III,Silicate Glass,Poor,8.05
+Curse,Heaven,Jorund,Jorund IV,Precious Alloy,Medium,24.06
+Curse,Heaven,Jorund,Jorund IV,Base Metals,Poor,3.97
+Curse,Heaven,Jorund,Jorund IV,Supertensile Plastics,Poor,11.32
+Curse,Heaven,Jorund,Jorund IV,Oxygen Isotopes,Poor,2.83
+Curse,Heaven,Jorund,Jorund V,Lustering Alloy,Medium,22.26
+Curse,Heaven,Jorund,Jorund V,Precious Alloy,Medium,20.50
+Curse,Heaven,Jorund,Jorund V,Supertensile Plastics,Poor,9.43
+Curse,Heaven,Jorund,Jorund V,Silicate Glass,Poor,7.25
+Curse,Heaven,Jorund,Jorund VI,Fiber Composite,Poor,17.74
+Curse,Heaven,Jorund,Jorund VI,Reactive Gas,Rich,29.54
+Curse,Heaven,Jorund,Jorund VI,Base Metals,Rich,6.97
+Curse,Heaven,Jorund,Jorund VI,Coolant,Medium,12.97
+Curse,Heaven,Jorund,Jorund VI,Ionic Solutions,Medium,8.46
+Curse,Heaven,Jorund,Jorund VII,Fiber Composite,Medium,21.16
+Curse,Heaven,Jorund,Jorund VII,Reactive Gas,Poor,16.66
+Curse,Heaven,Jorund,Jorund VII,Noble Gas,Perfect,32.42
+Curse,Heaven,Jorund,Jorund VII,Reactive Metals,Rich,7.47
+Curse,Heaven,Jorund,Jorund VII,Polyaramids,Medium,13.20
+Curse,Heaven,Jorund,Jorund VIII,Glossy Compound,Medium,23.56
+Curse,Heaven,Jorund,Jorund VIII,Reactive Gas,Medium,23.50
+Curse,Heaven,Jorund,Jorund VIII,Reactive Metals,Medium,5.43
+Curse,Heaven,Jorund,Jorund VIII,Coolant,Medium,12.81
+Curse,Heaven,Jorund,Jorund VIII,Ionic Solutions,Medium,7.76
+Curse,Heaven,Doril,Doril I,Industrial Fibers,Poor,4.71
+Curse,Heaven,Doril,Doril I,Supertensile Plastics,Poor,10.97
+Curse,Heaven,Doril,Doril I,Oxygen Isotopes,Medium,3.21
+Curse,Heaven,Doril,Doril I,Plasmoids,Medium,1.42
+Curse,Heaven,Doril,Doril II,Condensed Alloy,Rich,28.66
+Curse,Heaven,Doril,Doril II,Opulent Compound,Perfect,32.84
+Curse,Heaven,Doril,Doril II,Base Metals,Perfect,8.98
+Curse,Heaven,Doril,Doril II,Smartfab Units,Rich,17.32
+Curse,Heaven,Doril,Doril II,Liquid Ozone,Rich,38.67
+Curse,Heaven,Doril,Doril III,Lucent Compound,Medium,23.82
+Curse,Heaven,Doril,Doril III,Reactive Metals,Perfect,8.39
+Curse,Heaven,Doril,Doril III,Supertensile Plastics,Medium,12.92
+Curse,Heaven,Doril,Doril III,Nanites,Rich,7.75
+Curse,Heaven,Doril,Doril IV,Sheen Compound,Perfect,32.04
+Curse,Heaven,Doril,Doril IV,Reactive Gas,Rich,27.34
+Curse,Heaven,Doril,Doril IV,Base Metals,Medium,6.49
+Curse,Heaven,Doril,Doril IV,Polyaramids,Perfect,21.96
+Curse,Heaven,Doril,Doril IV,Coolant,Poor,12.16
+Curse,Heaven,Doril,Doril V,Lustering Alloy,Poor,12.72
+Curse,Heaven,Doril,Doril V,Precious Alloy,Poor,16.48
+Curse,Heaven,Doril,Doril V,Supertensile Plastics,Medium,15.51
+Curse,Heaven,Doril,Doril V,Construction Blocks,Poor,16.64
+Curse,Heaven,Litom,Litom I,Lustering Alloy,Poor,15.88
+Curse,Heaven,Litom,Litom I,Precious Alloy,Medium,24.16
+Curse,Heaven,Litom,Litom I,Dark Compound,Poor,14.48
+Curse,Heaven,Litom,Litom I,Supertensile Plastics,Medium,13.84
+Curse,Heaven,Litom,Litom II,Precious Alloy,Poor,16.60
+Curse,Heaven,Litom,Litom II,Base Metals,Poor,4.45
+Curse,Heaven,Litom,Litom II,Supertensile Plastics,Medium,13.27
+Curse,Heaven,Litom,Litom II,Plasmoids,Medium,1.33
+Curse,Heaven,Litom,Litom III,Crystal Compound,Medium,19.04
+Curse,Heaven,Litom,Litom III,Polyaramids,Rich,17.51
+Curse,Heaven,Litom,Litom III,Silicate Glass,Rich,13.99
+Curse,Heaven,Litom,Litom III,Liquid Ozone,Rich,34.25
+Curse,Heaven,Litom,Litom III,Ionic Solutions,Rich,12.70
+Curse,Heaven,Litom,Litom IV,Base Metals,Poor,4.54
+Curse,Heaven,Litom,Litom IV,Supertensile Plastics,Poor,8.35
+Curse,Heaven,Litom,Litom IV,Construction Blocks,Poor,16.88
+Curse,Heaven,Litom,Litom IV,Plasmoids,Medium,1.44
+Curse,Heaven,Litom,Litom V,Condensed Alloy,Rich,31.08
+Curse,Heaven,Litom,Litom V,Base Metals,Rich,6.68
+Curse,Heaven,Litom,Litom V,Noble Metals,Perfect,35.90
+Curse,Heaven,Litom,Litom V,Industrial Fibers,Medium,6.56
+Curse,Heaven,Litom,Litom V,Liquid Ozone,Perfect,46.77
+Curse,Heaven,Litom,Litom VI,Reactive Metals,Poor,4.38
+Curse,Heaven,Litom,Litom VI,Supertensile Plastics,Poor,12.08
+Curse,Heaven,Litom,Litom VI,Construction Blocks,Poor,17.32
+Curse,Heaven,Litom,Litom VI,Nanites,Poor,4.42
+Curse,Heaven,Litom,Litom VII,Condensed Alloy,Medium,24.32
+Curse,Heaven,Litom,Litom VII,Fiber Composite,Medium,19.16
+Curse,Heaven,Litom,Litom VII,Condensates,Perfect,23.27
+Curse,Heaven,Litom,Litom VII,Smartfab Units,Rich,19.93
+Curse,Heaven,Litom,Litom VII,Liquid Ozone,Perfect,44.30
+Curse,Heaven,Litom,Litom VIII,Lustering Alloy,Medium,21.36
+Curse,Heaven,Litom,Litom VIII,Fiber Composite,Rich,27.80
+Curse,Heaven,Litom,Litom VIII,Reactive Gas,Rich,28.64
+Curse,Heaven,Litom,Litom VIII,Base Metals,Medium,5.28
+Curse,Heaven,Litom,Litom VIII,Ionic Solutions,Rich,11.30
+Curse,Heaven,Litom,Litom IX,Lustering Alloy,Medium,20.60
+Curse,Heaven,Litom,Litom IX,Supertensile Plastics,Poor,10.12
+Curse,Heaven,Litom,Litom IX,Silicate Glass,Medium,11.94
+Curse,Heaven,Litom,Litom IX,Oxygen Isotopes,Medium,3.25
+Curse,Heaven,Litom,Litom X,Precious Alloy,Poor,15.84
+Curse,Heaven,Litom,Litom X,Dark Compound,Poor,14.54
+Curse,Heaven,Litom,Litom X,Supertensile Plastics,Medium,13.23
+Curse,Heaven,Litom,Litom X,Silicate Glass,Poor,6.60
+Curse,Heaven,Litom,Litom XI,Lustering Alloy,Medium,24.06
+Curse,Heaven,Litom,Litom XI,Sheen Compound,Poor,18.72
+Curse,Heaven,Litom,Litom XI,Reactive Gas,Rich,30.26
+Curse,Heaven,Litom,Litom XI,Reactive Metals,Medium,6.12
+Curse,Heaven,Litom,Litom XI,Coolant,Medium,14.52
+Curse,Heaven,Farit,Farit I,Lustering Alloy,Poor,18.20
+Curse,Heaven,Farit,Farit I,Toxic Metals,Poor,4.28
+Curse,Heaven,Farit,Farit I,Supertensile Plastics,Medium,12.95
+Curse,Heaven,Farit,Farit I,Silicate Glass,Poor,9.41
+Curse,Heaven,Farit,Farit II,Precious Alloy,Poor,14.58
+Curse,Heaven,Farit,Farit II,Industrial Fibers,Poor,4.22
+Curse,Heaven,Farit,Farit II,Supertensile Plastics,Poor,10.19
+Curse,Heaven,Farit,Farit II,Oxygen Isotopes,Medium,3.42
+Curse,Heaven,Farit,Farit III,Precious Alloy,Medium,21.60
+Curse,Heaven,Farit,Farit III,Dark Compound,Medium,23.90
+Curse,Heaven,Farit,Farit III,Base Metals,Poor,4.31
+Curse,Heaven,Farit,Farit III,Supertensile Plastics,Poor,12.35
+Curse,Heaven,Farit,Farit IV,Condensed Alloy,Medium,19.70
+Curse,Heaven,Farit,Farit IV,Opulent Compound,Perfect,34.70
+Curse,Heaven,Farit,Farit IV,Base Metals,Perfect,8.70
+Curse,Heaven,Farit,Farit IV,Noble Metals,Perfect,37.40
+Curse,Heaven,Farit,Farit IV,Liquid Ozone,Rich,32.98
+Curse,Heaven,Farit,Farit V,Fiber Composite,Rich,28.56
+Curse,Heaven,Farit,Farit V,Glossy Compound,Rich,30.46
+Curse,Heaven,Farit,Farit V,Reactive Gas,Medium,25.28
+Curse,Heaven,Farit,Farit V,Noble Gas,Perfect,32.92
+Curse,Heaven,Farit,Farit V,Ionic Solutions,Poor,6.61
+Curse,Heaven,Farit,Farit VI,Fiber Composite,Medium,24.00
+Curse,Heaven,Farit,Farit VI,Glossy Compound,Medium,22.28
+Curse,Heaven,Farit,Farit VI,Reactive Gas,Medium,21.74
+Curse,Heaven,Farit,Farit VI,Noble Gas,Medium,20.52
+Curse,Heaven,Farit,Farit VI,Polyaramids,Poor,12.31
+Curse,Heaven,Farit,Farit VII,Lustering Alloy,Medium,19.98
+Curse,Heaven,Farit,Farit VII,Precious Alloy,Poor,15.30
+Curse,Heaven,Farit,Farit VII,Dark Compound,Medium,21.84
+Curse,Heaven,Farit,Farit VII,Supertensile Plastics,Poor,10.77
+Curse,Heaven,Farit,Farit VIII,Dark Compound,Medium,23.00
+Curse,Heaven,Farit,Farit VIII,Toxic Metals,Poor,4.64
+Curse,Heaven,Farit,Farit VIII,Supertensile Plastics,Medium,12.80
+Curse,Heaven,Farit,Farit VIII,Plasmoids,Medium,1.26
+Curse,Heaven,Jamunda,Jamunda I,Dark Compound,Poor,17.62
+Curse,Heaven,Jamunda,Jamunda I,Base Metals,Poor,4.63
+Curse,Heaven,Jamunda,Jamunda I,Supertensile Plastics,Poor,9.32
+Curse,Heaven,Jamunda,Jamunda I,Construction Blocks,Medium,21.04
+Curse,Heaven,Jamunda,Jamunda II,Gleaming Alloy,Poor,17.50
+Curse,Heaven,Jamunda,Jamunda II,Motley Compound,Perfect,32.00
+Curse,Heaven,Jamunda,Jamunda II,Oxygen Isotopes,Rich,4.01
+Curse,Heaven,Jamunda,Jamunda III,Lustering Alloy,Medium,20.08
+Curse,Heaven,Jamunda,Jamunda III,Base Metals,Poor,4.52
+Curse,Heaven,Jamunda,Jamunda III,Supertensile Plastics,Medium,14.24
+Curse,Heaven,Jamunda,Jamunda III,Plasmoids,Medium,1.32
+Curse,Heaven,Jamunda,Jamunda IV,Lustering Alloy,Medium,19.78
+Curse,Heaven,Jamunda,Jamunda IV,Precious Alloy,Poor,16.24
+Curse,Heaven,Jamunda,Jamunda IV,Supertensile Plastics,Medium,15.39
+Curse,Heaven,Jamunda,Jamunda IV,Oxygen Isotopes,Medium,3.22
+Curse,Heaven,Jamunda,Jamunda V,Condensed Alloy,Rich,28.34
+Curse,Heaven,Jamunda,Jamunda V,Noble Metals,Medium,21.78
+Curse,Heaven,Jamunda,Jamunda V,Toxic Metals,Medium,5.81
+Curse,Heaven,Jamunda,Jamunda V,Coolant,Medium,16.20
+Curse,Heaven,Jamunda,Jamunda V,Liquid Ozone,Medium,26.52
+Curse,Heaven,Jamunda,Jamunda VI,Sheen Compound,Poor,18.78
+Curse,Heaven,Jamunda,Jamunda VI,Glossy Compound,Rich,31.46
+Curse,Heaven,Jamunda,Jamunda VI,Reactive Gas,Medium,24.84
+Curse,Heaven,Jamunda,Jamunda VI,Noble Gas,Rich,30.68
+Curse,Heaven,Jamunda,Jamunda VI,Coolant,Rich,21.01
+Curse,Heaven,Jamunda,Jamunda VII,Base Metals,Perfect,9.34
+Curse,Heaven,Jamunda,Jamunda VII,Noble Metals,Rich,28.42
+Curse,Heaven,Jamunda,Jamunda VII,Smartfab Units,Perfect,22.61
+Curse,Heaven,Jamunda,Jamunda VII,Heavy Water,Perfect,357.20
+Curse,Heaven,Jamunda,Jamunda VII,Liquid Ozone,Medium,26.80
+Curse,Heaven,Jamunda,Jamunda VIII,Fiber Composite,Rich,27.90
+Curse,Heaven,Jamunda,Jamunda VIII,Industrial Fibers,Rich,7.80
+Curse,Heaven,Jamunda,Jamunda VIII,Condensates,Perfect,22.16
+Curse,Heaven,Jamunda,Jamunda VIII,Smartfab Units,Rich,21.05
+Curse,Heaven,Jamunda,Jamunda VIII,Liquid Ozone,Medium,30.88

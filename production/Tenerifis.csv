@@ -1,0 +1,3180 @@
+Region,Constellation,System,Name,Item,Rate,Output
+Tenerifis,QP6B-I,WB-AYY,WB-AYY I,Gleaming Alloy,Poor,18.60
+Tenerifis,QP6B-I,WB-AYY,WB-AYY I,Noble Gas,Rich,29.80
+Tenerifis,QP6B-I,WB-AYY,WB-AYY I,Oxygen Isotopes,Rich,4.34
+Tenerifis,QP6B-I,WB-AYY,WB-AYY II,Condensed Alloy,Medium,22.12
+Tenerifis,QP6B-I,WB-AYY,WB-AYY II,Fiber Composite,Medium,21.96
+Tenerifis,QP6B-I,WB-AYY,WB-AYY II,Opulent Compound,Rich,26.78
+Tenerifis,QP6B-I,WB-AYY,WB-AYY II,Condensates,Perfect,24.88
+Tenerifis,QP6B-I,WB-AYY,WB-AYY II,Liquid Ozone,Rich,34.38
+Tenerifis,QP6B-I,WB-AYY,WB-AYY III,Glossy Compound,Rich,30.82
+Tenerifis,QP6B-I,WB-AYY,WB-AYY III,Reactive Gas,Poor,17.08
+Tenerifis,QP6B-I,WB-AYY,WB-AYY III,Noble Gas,Medium,22.76
+Tenerifis,QP6B-I,WB-AYY,WB-AYY III,Base Metals,Medium,5.80
+Tenerifis,QP6B-I,WB-AYY,WB-AYY III,Reactive Metals,Perfect,8.47
+Tenerifis,QP6B-I,WB-AYY,WB-AYY IV,Fiber Composite,Rich,25.80
+Tenerifis,QP6B-I,WB-AYY,WB-AYY IV,Reactive Gas,Medium,23.48
+Tenerifis,QP6B-I,WB-AYY,WB-AYY IV,Polyaramids,Medium,14.12
+Tenerifis,QP6B-I,WB-AYY,WB-AYY IV,Coolant,Medium,16.25
+Tenerifis,QP6B-I,WB-AYY,WB-AYY IV,Ionic Solutions,Rich,11.26
+Tenerifis,QP6B-I,WB-AYY,WB-AYY V,Sheen Compound,Rich,27.72
+Tenerifis,QP6B-I,WB-AYY,WB-AYY V,Fiber Composite,Rich,30.98
+Tenerifis,QP6B-I,WB-AYY,WB-AYY V,Glossy Compound,Medium,19.86
+Tenerifis,QP6B-I,WB-AYY,WB-AYY V,Reactive Gas,Rich,25.82
+Tenerifis,QP6B-I,WB-AYY,WB-AYY V,Ionic Solutions,Rich,12.46
+Tenerifis,QP6B-I,WB-AYY,WB-AYY VI,Sheen Compound,Medium,21.98
+Tenerifis,QP6B-I,WB-AYY,WB-AYY VI,Fiber Composite,Poor,16.44
+Tenerifis,QP6B-I,WB-AYY,WB-AYY VI,Reactive Gas,Rich,27.44
+Tenerifis,QP6B-I,WB-AYY,WB-AYY VI,Reactive Metals,Medium,5.04
+Tenerifis,QP6B-I,WB-AYY,WB-AYY VI,Coolant,Medium,14.28
+Tenerifis,QP6B-I,WB-AYY,WB-AYY VII,Sheen Compound,Rich,29.90
+Tenerifis,QP6B-I,WB-AYY,WB-AYY VII,Glossy Compound,Rich,25.92
+Tenerifis,QP6B-I,WB-AYY,WB-AYY VII,Reactive Gas,Rich,31.44
+Tenerifis,QP6B-I,WB-AYY,WB-AYY VII,Noble Gas,Rich,27.42
+Tenerifis,QP6B-I,WB-AYY,WB-AYY VII,Coolant,Rich,17.36
+Tenerifis,QP6B-I,BW-WJ2,BW-WJ2 I,Precious Alloy,Medium,25.33
+Tenerifis,QP6B-I,BW-WJ2,BW-WJ2 I,Toxic Metals,Medium,5.37
+Tenerifis,QP6B-I,BW-WJ2,BW-WJ2 I,Industrial Fibers,Poor,4.97
+Tenerifis,QP6B-I,BW-WJ2,BW-WJ2 I,Supertensile Plastics,Medium,14.35
+Tenerifis,QP6B-I,BW-WJ2,BW-WJ2 II,Reactive Gas,Rich,30.22
+Tenerifis,QP6B-I,BW-WJ2,BW-WJ2 II,Reactive Metals,Rich,8.18
+Tenerifis,QP6B-I,BW-WJ2,BW-WJ2 II,Toxic Metals,Rich,7.53
+Tenerifis,QP6B-I,BW-WJ2,BW-WJ2 II,Oxygen Isotopes,Medium,3.80
+Tenerifis,QP6B-I,BW-WJ2,BW-WJ2 III,Condensed Alloy,Perfect,37.40
+Tenerifis,QP6B-I,BW-WJ2,BW-WJ2 III,Fiber Composite,Rich,29.06
+Tenerifis,QP6B-I,BW-WJ2,BW-WJ2 III,Reactive Gas,Rich,27.53
+Tenerifis,QP6B-I,BW-WJ2,BW-WJ2 III,Heavy Water,Perfect,390.60
+Tenerifis,QP6B-I,BW-WJ2,BW-WJ2 III,Liquid Ozone,Perfect,50.06
+Tenerifis,QP6B-I,BW-WJ2,BW-WJ2 IV,Base Metals,Medium,5.21
+Tenerifis,QP6B-I,BW-WJ2,BW-WJ2 IV,Toxic Metals,Medium,5.49
+Tenerifis,QP6B-I,BW-WJ2,BW-WJ2 IV,Supertensile Plastics,Poor,10.51
+Tenerifis,QP6B-I,BW-WJ2,BW-WJ2 IV,Construction Blocks,Poor,17.26
+Tenerifis,QP6B-I,BW-WJ2,BW-WJ2 V,Glossy Compound,Rich,32.34
+Tenerifis,QP6B-I,BW-WJ2,BW-WJ2 V,Reactive Gas,Perfect,34.50
+Tenerifis,QP6B-I,BW-WJ2,BW-WJ2 V,Noble Gas,Medium,24.80
+Tenerifis,QP6B-I,BW-WJ2,BW-WJ2 V,Reactive Metals,Medium,5.85
+Tenerifis,QP6B-I,BW-WJ2,BW-WJ2 V,Coolant,Rich,17.79
+Tenerifis,QP6B-I,BW-WJ2,BW-WJ2 VI,Lustering Alloy,Rich,28.75
+Tenerifis,QP6B-I,BW-WJ2,BW-WJ2 VI,Sheen Compound,Medium,21.04
+Tenerifis,QP6B-I,BW-WJ2,BW-WJ2 VI,Glossy Compound,Medium,21.25
+Tenerifis,QP6B-I,BW-WJ2,BW-WJ2 VI,Reactive Gas,Poor,17.79
+Tenerifis,QP6B-I,BW-WJ2,BW-WJ2 VI,Base Metals,Rich,8.49
+Tenerifis,QP6B-I,BW-WJ2,BW-WJ2 VII,Fiber Composite,Rich,29.74
+Tenerifis,QP6B-I,BW-WJ2,BW-WJ2 VII,Reactive Gas,Medium,20.12
+Tenerifis,QP6B-I,BW-WJ2,BW-WJ2 VII,Base Metals,Rich,7.19
+Tenerifis,QP6B-I,BW-WJ2,BW-WJ2 VII,Reactive Metals,Rich,7.24
+Tenerifis,QP6B-I,BW-WJ2,BW-WJ2 VII,Ionic Solutions,Medium,10.43
+Tenerifis,QP6B-I,S4-9DN,S4-9DN I,Dark Compound,Medium,19.76
+Tenerifis,QP6B-I,S4-9DN,S4-9DN I,Base Metals,Poor,4.84
+Tenerifis,QP6B-I,S4-9DN,S4-9DN I,Industrial Fibers,Poor,4.38
+Tenerifis,QP6B-I,S4-9DN,S4-9DN I,Supertensile Plastics,Poor,9.43
+Tenerifis,QP6B-I,S4-9DN,S4-9DN II,Precious Alloy,Poor,13.38
+Tenerifis,QP6B-I,S4-9DN,S4-9DN II,Base Metals,Medium,6.07
+Tenerifis,QP6B-I,S4-9DN,S4-9DN II,Supertensile Plastics,Poor,12.31
+Tenerifis,QP6B-I,S4-9DN,S4-9DN II,Oxygen Isotopes,Poor,2.59
+Tenerifis,QP6B-I,S4-9DN,S4-9DN III,Sheen Compound,Medium,24.36
+Tenerifis,QP6B-I,S4-9DN,S4-9DN III,Reactive Gas,Rich,26.92
+Tenerifis,QP6B-I,S4-9DN,S4-9DN III,Reactive Metals,Rich,8.13
+Tenerifis,QP6B-I,S4-9DN,S4-9DN III,Polyaramids,Rich,20.87
+Tenerifis,QP6B-I,S4-9DN,S4-9DN III,Ionic Solutions,Medium,9.62
+Tenerifis,QP6B-I,S4-9DN,S4-9DN IV,Lustering Alloy,Perfect,32.42
+Tenerifis,QP6B-I,S4-9DN,S4-9DN IV,Glossy Compound,Rich,26.72
+Tenerifis,QP6B-I,S4-9DN,S4-9DN IV,Reactive Gas,Medium,24.84
+Tenerifis,QP6B-I,S4-9DN,S4-9DN IV,Noble Gas,Poor,17.80
+Tenerifis,QP6B-I,S4-9DN,S4-9DN IV,Ionic Solutions,Medium,7.72
+Tenerifis,QP6B-I,S4-9DN,S4-9DN V,Fiber Composite,Medium,23.76
+Tenerifis,QP6B-I,S4-9DN,S4-9DN V,Reactive Gas,Rich,26.08
+Tenerifis,QP6B-I,S4-9DN,S4-9DN V,Base Metals,Rich,7.37
+Tenerifis,QP6B-I,S4-9DN,S4-9DN V,Coolant,Poor,12.20
+Tenerifis,QP6B-I,S4-9DN,S4-9DN V,Ionic Solutions,Rich,11.42
+Tenerifis,QP6B-I,S4-9DN,S4-9DN VI,Glossy Compound,Poor,18.26
+Tenerifis,QP6B-I,S4-9DN,S4-9DN VI,Reactive Gas,Rich,25.56
+Tenerifis,QP6B-I,S4-9DN,S4-9DN VI,Noble Gas,Rich,27.00
+Tenerifis,QP6B-I,S4-9DN,S4-9DN VI,Base Metals,Rich,6.81
+Tenerifis,QP6B-I,S4-9DN,S4-9DN VI,Ionic Solutions,Rich,10.89
+Tenerifis,QP6B-I,S4-9DN,S4-9DN VII,Lustering Alloy,Perfect,33.18
+Tenerifis,QP6B-I,S4-9DN,S4-9DN VII,Fiber Composite,Rich,29.54
+Tenerifis,QP6B-I,S4-9DN,S4-9DN VII,Glossy Compound,Perfect,31.90
+Tenerifis,QP6B-I,S4-9DN,S4-9DN VII,Reactive Gas,Rich,26.36
+Tenerifis,QP6B-I,S4-9DN,S4-9DN VII,Noble Gas,Rich,29.96
+Tenerifis,QP6B-I,S4-9DN,S4-9DN VIII,Sheen Compound,Perfect,31.82
+Tenerifis,QP6B-I,S4-9DN,S4-9DN VIII,Glossy Compound,Medium,23.46
+Tenerifis,QP6B-I,S4-9DN,S4-9DN VIII,Reactive Gas,Rich,31.76
+Tenerifis,QP6B-I,S4-9DN,S4-9DN VIII,Noble Gas,Poor,17.48
+Tenerifis,QP6B-I,S4-9DN,S4-9DN VIII,Ionic Solutions,Medium,9.79
+Tenerifis,QP6B-I,S4-9DN,S4-9DN IX,Motley Compound,Medium,23.86
+Tenerifis,QP6B-I,S4-9DN,S4-9DN IX,Supertensile Plastics,Rich,19.85
+Tenerifis,QP6B-I,S4-9DN,S4-9DN IX,Coolant,Poor,9.83
+Tenerifis,QP6B-I,S4-9DN,S4-9DN IX,Condensates,Poor,11.56
+Tenerifis,QP6B-I,DT-PXH,DT-PXH I,Gleaming Alloy,Medium,24.25
+Tenerifis,QP6B-I,DT-PXH,DT-PXH I,Noble Metals,Medium,20.75
+Tenerifis,QP6B-I,DT-PXH,DT-PXH I,Smartfab Units,Medium,13.59
+Tenerifis,QP6B-I,DT-PXH,DT-PXH II,Lustering Alloy,Poor,17.20
+Tenerifis,QP6B-I,DT-PXH,DT-PXH II,Supertensile Plastics,Poor,11.20
+Tenerifis,QP6B-I,DT-PXH,DT-PXH II,Construction Blocks,Poor,14.76
+Tenerifis,QP6B-I,DT-PXH,DT-PXH II,Plasmoids,Poor,0.92
+Tenerifis,QP6B-I,DT-PXH,DT-PXH III,Lustering Alloy,Poor,14.53
+Tenerifis,QP6B-I,DT-PXH,DT-PXH III,Supertensile Plastics,Poor,12.21
+Tenerifis,QP6B-I,DT-PXH,DT-PXH III,Oxygen Isotopes,Poor,2.94
+Tenerifis,QP6B-I,DT-PXH,DT-PXH III,Plasmoids,Medium,1.31
+Tenerifis,QP6B-I,DT-PXH,DT-PXH IV,Opulent Compound,Medium,26.57
+Tenerifis,QP6B-I,DT-PXH,DT-PXH IV,Polyaramids,Medium,14.88
+Tenerifis,QP6B-I,DT-PXH,DT-PXH IV,Coolant,Medium,14.84
+Tenerifis,QP6B-I,DT-PXH,DT-PXH IV,Heavy Water,Rich,285.39
+Tenerifis,QP6B-I,DT-PXH,DT-PXH IV,Liquid Ozone,Medium,31.37
+Tenerifis,QP6B-I,DT-PXH,DT-PXH V,Reactive Metals,Medium,6.57
+Tenerifis,QP6B-I,DT-PXH,DT-PXH V,Supertensile Plastics,Rich,20.13
+Tenerifis,QP6B-I,DT-PXH,DT-PXH V,Nanites,Medium,5.84
+Tenerifis,QP6B-I,DT-PXH,DT-PXH V,Oxygen Isotopes,Medium,3.81
+Tenerifis,QP6B-I,DT-PXH,DT-PXH VI,Opulent Compound,Medium,26.31
+Tenerifis,QP6B-I,DT-PXH,DT-PXH VI,Base Metals,Rich,7.94
+Tenerifis,QP6B-I,DT-PXH,DT-PXH VI,Smartfab Units,Perfect,26.21
+Tenerifis,QP6B-I,DT-PXH,DT-PXH VI,Heavy Water,Perfect,343.77
+Tenerifis,QP6B-I,DT-PXH,DT-PXH VI,Liquid Ozone,Rich,34.86
+Tenerifis,QP6B-I,DT-PXH,DT-PXH VII,Lustering Alloy,Medium,20.22
+Tenerifis,QP6B-I,DT-PXH,DT-PXH VII,Reactive Gas,Perfect,34.21
+Tenerifis,QP6B-I,DT-PXH,DT-PXH VII,Noble Gas,Medium,19.84
+Tenerifis,QP6B-I,DT-PXH,DT-PXH VII,Reactive Metals,Rich,8.28
+Tenerifis,QP6B-I,DT-PXH,DT-PXH VII,Ionic Solutions,Medium,9.54
+Tenerifis,QP6B-I,DT-PXH,DT-PXH VIII,Fiber Composite,Rich,27.36
+Tenerifis,QP6B-I,DT-PXH,DT-PXH VIII,Opulent Compound,Perfect,33.89
+Tenerifis,QP6B-I,DT-PXH,DT-PXH VIII,Reactive Gas,Perfect,39.94
+Tenerifis,QP6B-I,DT-PXH,DT-PXH VIII,Condensates,Medium,14.39
+Tenerifis,QP6B-I,DT-PXH,DT-PXH VIII,Liquid Ozone,Rich,40.14
+Tenerifis,QP6B-I,DT-PXH,DT-PXH IX,Lustering Alloy,Rich,30.66
+Tenerifis,QP6B-I,DT-PXH,DT-PXH IX,Sheen Compound,Rich,27.36
+Tenerifis,QP6B-I,DT-PXH,DT-PXH IX,Reactive Gas,Rich,27.68
+Tenerifis,QP6B-I,DT-PXH,DT-PXH IX,Noble Gas,Medium,25.24
+Tenerifis,QP6B-I,DT-PXH,DT-PXH IX,Coolant,Poor,12.84
+Tenerifis,QP6B-I,UALX-3,UALX-3 I,Toxic Metals,Poor,4.61
+Tenerifis,QP6B-I,UALX-3,UALX-3 I,Supertensile Plastics,Medium,15.93
+Tenerifis,QP6B-I,UALX-3,UALX-3 I,Construction Blocks,Medium,24.21
+Tenerifis,QP6B-I,UALX-3,UALX-3 I,Silicate Glass,Poor,8.29
+Tenerifis,QP6B-I,UALX-3,UALX-3 II,Condensed Alloy,Rich,28.20
+Tenerifis,QP6B-I,UALX-3,UALX-3 II,Opulent Compound,Perfect,33.47
+Tenerifis,QP6B-I,UALX-3,UALX-3 II,Industrial Fibers,Rich,8.49
+Tenerifis,QP6B-I,UALX-3,UALX-3 II,Heavy Water,Perfect,399.84
+Tenerifis,QP6B-I,UALX-3,UALX-3 II,Liquid Ozone,Perfect,46.38
+Tenerifis,QP6B-I,UALX-3,UALX-3 III,Base Metals,Perfect,9.10
+Tenerifis,QP6B-I,UALX-3,UALX-3 III,Noble Metals,Rich,29.76
+Tenerifis,QP6B-I,UALX-3,UALX-3 III,Smartfab Units,Perfect,26.74
+Tenerifis,QP6B-I,UALX-3,UALX-3 III,Heavy Water,Rich,273.84
+Tenerifis,QP6B-I,UALX-3,UALX-3 III,Liquid Ozone,Rich,33.81
+Tenerifis,QP6B-I,UALX-3,UALX-3 IV,Precious Alloy,Poor,14.55
+Tenerifis,QP6B-I,UALX-3,UALX-3 IV,Base Metals,Poor,3.65
+Tenerifis,QP6B-I,UALX-3,UALX-3 IV,Toxic Metals,Medium,5.36
+Tenerifis,QP6B-I,UALX-3,UALX-3 IV,Supertensile Plastics,Poor,11.28
+Tenerifis,QP6B-I,UALX-3,UALX-3 V,Gleaming Alloy,Medium,20.10
+Tenerifis,QP6B-I,UALX-3,UALX-3 V,Reactive Metals,Poor,4.63
+Tenerifis,QP6B-I,UALX-3,UALX-3 V,Toxic Metals,Poor,4.61
+Tenerifis,QP6B-I,UALX-3,UALX-3 V,Suspended Plasma,Poor,69.10
+Tenerifis,QP6B-I,UALX-3,UALX-3 VI,Industrial Fibers,Medium,5.97
+Tenerifis,QP6B-I,UALX-3,UALX-3 VI,Supertensile Plastics,Poor,11.83
+Tenerifis,QP6B-I,UALX-3,UALX-3 VI,Silicate Glass,Poor,9.53
+Tenerifis,QP6B-I,UALX-3,UALX-3 VI,Plasmoids,Poor,1.15
+Tenerifis,QP6B-I,UALX-3,UALX-3 VII,Condensed Alloy,Rich,28.20
+Tenerifis,QP6B-I,UALX-3,UALX-3 VII,Reactive Gas,Medium,20.10
+Tenerifis,QP6B-I,UALX-3,UALX-3 VII,Smartfab Units,Perfect,26.42
+Tenerifis,QP6B-I,UALX-3,UALX-3 VII,Heavy Water,Perfect,337.05
+Tenerifis,QP6B-I,UALX-3,UALX-3 VII,Liquid Ozone,Perfect,48.09
+Tenerifis,QP6B-I,UALX-3,UALX-3 VIII,Fiber Composite,Medium,23.86
+Tenerifis,QP6B-I,UALX-3,UALX-3 VIII,Reactive Gas,Poor,19.17
+Tenerifis,QP6B-I,UALX-3,UALX-3 VIII,Reactive Metals,Medium,5.91
+Tenerifis,QP6B-I,UALX-3,UALX-3 VIII,Polyaramids,Rich,18.94
+Tenerifis,QP6B-I,UALX-3,UALX-3 VIII,Coolant,Medium,15.58
+Tenerifis,QP6B-I,3L3N-X,3L3N-X I,Gleaming Alloy,Perfect,33.73
+Tenerifis,QP6B-I,3L3N-X,3L3N-X I,Noble Gas,Rich,27.57
+Tenerifis,QP6B-I,3L3N-X,3L3N-X I,Noble Metals,Perfect,33.56
+Tenerifis,QP6B-I,3L3N-X,3L3N-X II,Dark Compound,Poor,18.52
+Tenerifis,QP6B-I,3L3N-X,3L3N-X II,Industrial Fibers,Medium,6.73
+Tenerifis,QP6B-I,3L3N-X,3L3N-X II,Supertensile Plastics,Medium,16.80
+Tenerifis,QP6B-I,3L3N-X,3L3N-X II,Construction Blocks,Poor,16.27
+Tenerifis,QP6B-I,3L3N-X,3L3N-X III,Condensed Alloy,Medium,24.78
+Tenerifis,QP6B-I,3L3N-X,3L3N-X III,Base Metals,Rich,8.30
+Tenerifis,QP6B-I,3L3N-X,3L3N-X III,Noble Metals,Rich,30.39
+Tenerifis,QP6B-I,3L3N-X,3L3N-X III,Smartfab Units,Perfect,25.77
+Tenerifis,QP6B-I,3L3N-X,3L3N-X III,Liquid Ozone,Medium,33.00
+Tenerifis,QP6B-I,3L3N-X,3L3N-X IV,Base Metals,Rich,8.22
+Tenerifis,QP6B-I,3L3N-X,3L3N-X IV,Noble Metals,Rich,26.67
+Tenerifis,QP6B-I,3L3N-X,3L3N-X IV,Industrial Fibers,Perfect,9.20
+Tenerifis,QP6B-I,3L3N-X,3L3N-X IV,Smartfab Units,Medium,16.86
+Tenerifis,QP6B-I,3L3N-X,3L3N-X IV,Liquid Ozone,Rich,33.91
+Tenerifis,QP6B-I,3L3N-X,3L3N-X V,Lustering Alloy,Perfect,34.25
+Tenerifis,QP6B-I,3L3N-X,3L3N-X V,Glossy Compound,Medium,24.42
+Tenerifis,QP6B-I,3L3N-X,3L3N-X V,Reactive Gas,Rich,27.45
+Tenerifis,QP6B-I,3L3N-X,3L3N-X V,Reactive Metals,Medium,5.59
+Tenerifis,QP6B-I,3L3N-X,3L3N-X V,Polyaramids,Poor,13.16
+Tenerifis,QP6B-I,3L3N-X,3L3N-X VI,Fiber Composite,Medium,21.19
+Tenerifis,QP6B-I,3L3N-X,3L3N-X VI,Reactive Gas,Poor,18.21
+Tenerifis,QP6B-I,3L3N-X,3L3N-X VI,Noble Gas,Rich,27.70
+Tenerifis,QP6B-I,3L3N-X,3L3N-X VI,Reactive Metals,Perfect,8.88
+Tenerifis,QP6B-I,3L3N-X,3L3N-X VI,Coolant,Perfect,22.55
+Tenerifis,QP6B-I,3L3N-X,3L3N-X VII,Sheen Compound,Perfect,34.50
+Tenerifis,QP6B-I,3L3N-X,3L3N-X VII,Glossy Compound,Medium,20.31
+Tenerifis,QP6B-I,3L3N-X,3L3N-X VII,Reactive Gas,Medium,24.34
+Tenerifis,QP6B-I,3L3N-X,3L3N-X VII,Noble Gas,Rich,29.30
+Tenerifis,QP6B-I,3L3N-X,3L3N-X VII,Coolant,Poor,13.13
+Tenerifis,QP6B-I,3L3N-X,3L3N-X VIII,Lustering Alloy,Poor,17.81
+Tenerifis,QP6B-I,3L3N-X,3L3N-X VIII,Fiber Composite,Perfect,34.78
+Tenerifis,QP6B-I,3L3N-X,3L3N-X VIII,Reactive Gas,Rich,27.32
+Tenerifis,QP6B-I,3L3N-X,3L3N-X VIII,Noble Gas,Rich,29.32
+Tenerifis,QP6B-I,3L3N-X,3L3N-X VIII,Base Metals,Poor,4.89
+Tenerifis,QP6B-I,3L3N-X,3L3N-X IX,Base Metals,Rich,8.04
+Tenerifis,QP6B-I,3L3N-X,3L3N-X IX,Industrial Fibers,Medium,5.60
+Tenerifis,QP6B-I,3L3N-X,3L3N-X IX,Condensates,Medium,15.83
+Tenerifis,QP6B-I,3L3N-X,3L3N-X IX,Liquid Ozone,Rich,37.67
+Tenerifis,QP6B-I,3L3N-X,3L3N-X X,Lustering Alloy,Poor,18.10
+Tenerifis,QP6B-I,3L3N-X,3L3N-X X,Precious Alloy,Medium,23.52
+Tenerifis,QP6B-I,3L3N-X,3L3N-X X,Motley Compound,Medium,23.02
+Tenerifis,QP6B-I,3L3N-X,3L3N-X X,Condensates,Medium,15.86
+Tenerifis,QP6B-I,Y-ORBJ,Y-ORBJ I,Precious Alloy,Medium,25.74
+Tenerifis,QP6B-I,Y-ORBJ,Y-ORBJ I,Dark Compound,Medium,24.24
+Tenerifis,QP6B-I,Y-ORBJ,Y-ORBJ I,Supertensile Plastics,Poor,11.40
+Tenerifis,QP6B-I,Y-ORBJ,Y-ORBJ I,Oxygen Isotopes,Poor,2.25
+Tenerifis,QP6B-I,Y-ORBJ,Y-ORBJ II,Gleaming Alloy,Perfect,36.17
+Tenerifis,QP6B-I,Y-ORBJ,Y-ORBJ II,Glossy Compound,Poor,20.68
+Tenerifis,QP6B-I,Y-ORBJ,Y-ORBJ II,Heavy Metals,Rich,29.11
+Tenerifis,QP6B-I,Y-ORBJ,Y-ORBJ III,Dark Compound,Medium,21.52
+Tenerifis,QP6B-I,Y-ORBJ,Y-ORBJ III,Base Metals,Medium,7.09
+Tenerifis,QP6B-I,Y-ORBJ,Y-ORBJ III,Supertensile Plastics,Poor,13.52
+Tenerifis,QP6B-I,Y-ORBJ,Y-ORBJ III,Plasmoids,Medium,1.62
+Tenerifis,QP6B-I,Y-ORBJ,Y-ORBJ IV,Gleaming Alloy,Rich,34.89
+Tenerifis,QP6B-I,Y-ORBJ,Y-ORBJ IV,Smartfab Units,Poor,12.36
+Tenerifis,QP6B-I,Y-ORBJ,Y-ORBJ IV,Plasmoids,Rich,1.90
+Tenerifis,QP6B-I,Y-ORBJ,Y-ORBJ V,Base Metals,Perfect,11.03
+Tenerifis,QP6B-I,Y-ORBJ,Y-ORBJ V,Noble Metals,Perfect,35.55
+Tenerifis,QP6B-I,Y-ORBJ,Y-ORBJ V,Smartfab Units,Medium,17.35
+Tenerifis,QP6B-I,Y-ORBJ,Y-ORBJ V,Heavy Water,Perfect,372.68
+Tenerifis,QP6B-I,Y-ORBJ,Y-ORBJ V,Liquid Ozone,Medium,31.74
+Tenerifis,QP6B-I,Y-ORBJ,Y-ORBJ VI,Base Metals,Medium,6.85
+Tenerifis,QP6B-I,Y-ORBJ,Y-ORBJ VI,Supertensile Plastics,Medium,13.83
+Tenerifis,QP6B-I,Y-ORBJ,Y-ORBJ VI,Construction Blocks,Poor,16.15
+Tenerifis,QP6B-I,Y-ORBJ,Y-ORBJ VI,Plasmoids,Poor,1.03
+Tenerifis,QP6B-I,Y-ORBJ,Y-ORBJ VII,Sheen Compound,Medium,25.15
+Tenerifis,QP6B-I,Y-ORBJ,Y-ORBJ VII,Fiber Composite,Rich,28.64
+Tenerifis,QP6B-I,Y-ORBJ,Y-ORBJ VII,Glossy Compound,Rich,28.64
+Tenerifis,QP6B-I,Y-ORBJ,Y-ORBJ VII,Reactive Gas,Medium,21.10
+Tenerifis,QP6B-I,Y-ORBJ,Y-ORBJ VII,Polyaramids,Rich,19.51
+Tenerifis,QP6B-I,Y-ORBJ,Y-ORBJ VIII,Fiber Composite,Medium,22.62
+Tenerifis,QP6B-I,Y-ORBJ,Y-ORBJ VIII,Reactive Gas,Rich,29.17
+Tenerifis,QP6B-I,Y-ORBJ,Y-ORBJ VIII,Base Metals,Medium,7.14
+Tenerifis,QP6B-I,Y-ORBJ,Y-ORBJ VIII,Reactive Metals,Medium,7.31
+Tenerifis,QP6B-I,Y-ORBJ,Y-ORBJ VIII,Polyaramids,Rich,20.47
+Tenerifis,QP6B-I,Y-ORBJ,Y-ORBJ IX,Sheen Compound,Medium,27.10
+Tenerifis,QP6B-I,Y-ORBJ,Y-ORBJ IX,Reactive Gas,Perfect,35.09
+Tenerifis,QP6B-I,Y-ORBJ,Y-ORBJ IX,Base Metals,Medium,6.61
+Tenerifis,QP6B-I,Y-ORBJ,Y-ORBJ IX,Coolant,Medium,16.65
+Tenerifis,QP6B-I,Y-ORBJ,Y-ORBJ IX,Ionic Solutions,Rich,12.36
+Tenerifis,QP6B-I,Y-ORBJ,Y-ORBJ X,Motley Compound,Rich,32.36
+Tenerifis,QP6B-I,Y-ORBJ,Y-ORBJ X,Supertensile Plastics,Medium,15.41
+Tenerifis,QP6B-I,Y-ORBJ,Y-ORBJ X,Condensates,Medium,13.83
+Tenerifis,QP6B-I,Y-ORBJ,Y-ORBJ X,Liquid Ozone,Rich,39.74
+Tenerifis,QP6B-I,6-IAFR,6-IAFR I,Base Metals,Poor,4.04
+Tenerifis,QP6B-I,6-IAFR,6-IAFR I,Toxic Metals,Medium,5.81
+Tenerifis,QP6B-I,6-IAFR,6-IAFR I,Supertensile Plastics,Poor,10.12
+Tenerifis,QP6B-I,6-IAFR,6-IAFR I,Silicate Glass,Poor,7.92
+Tenerifis,QP6B-I,6-IAFR,6-IAFR II,Lustering Alloy,Medium,24.75
+Tenerifis,QP6B-I,6-IAFR,6-IAFR II,Industrial Fibers,Poor,4.65
+Tenerifis,QP6B-I,6-IAFR,6-IAFR II,Supertensile Plastics,Poor,11.10
+Tenerifis,QP6B-I,6-IAFR,6-IAFR II,Silicate Glass,Poor,9.15
+Tenerifis,QP6B-I,6-IAFR,6-IAFR III,Crystal Compound,Rich,31.79
+Tenerifis,QP6B-I,6-IAFR,6-IAFR III,Reactive Gas,Rich,32.25
+Tenerifis,QP6B-I,6-IAFR,6-IAFR III,Reactive Metals,Medium,7.12
+Tenerifis,QP6B-I,6-IAFR,6-IAFR III,Toxic Metals,Rich,8.53
+Tenerifis,QP6B-I,6-IAFR,6-IAFR IV,Base Metals,Medium,6.37
+Tenerifis,QP6B-I,6-IAFR,6-IAFR IV,Supertensile Plastics,Poor,13.39
+Tenerifis,QP6B-I,6-IAFR,6-IAFR IV,Construction Blocks,Medium,21.60
+Tenerifis,QP6B-I,6-IAFR,6-IAFR IV,Plasmoids,Medium,1.39
+Tenerifis,QP6B-I,6-IAFR,6-IAFR V,Sheen Compound,Rich,31.04
+Tenerifis,QP6B-I,6-IAFR,6-IAFR V,Glossy Compound,Rich,32.93
+Tenerifis,QP6B-I,6-IAFR,6-IAFR V,Reactive Gas,Rich,32.52
+Tenerifis,QP6B-I,6-IAFR,6-IAFR V,Base Metals,Rich,7.56
+Tenerifis,QP6B-I,6-IAFR,6-IAFR V,Polyaramids,Rich,21.91
+Tenerifis,QP6B-I,6-IAFR,6-IAFR VI,Toxic Metals,Medium,6.96
+Tenerifis,QP6B-I,6-IAFR,6-IAFR VI,Supertensile Plastics,Poor,9.55
+Tenerifis,QP6B-I,6-IAFR,6-IAFR VI,Construction Blocks,Poor,15.51
+Tenerifis,QP6B-I,6-IAFR,6-IAFR VI,Oxygen Isotopes,Medium,3.88
+Tenerifis,QP6B-I,6-IAFR,6-IAFR VII,Sheen Compound,Rich,29.41
+Tenerifis,QP6B-I,6-IAFR,6-IAFR VII,Fiber Composite,Rich,31.15
+Tenerifis,QP6B-I,6-IAFR,6-IAFR VII,Glossy Compound,Rich,28.86
+Tenerifis,QP6B-I,6-IAFR,6-IAFR VII,Reactive Gas,Medium,27.08
+Tenerifis,QP6B-I,6-IAFR,6-IAFR VII,Base Metals,Poor,5.27
+Tenerifis,QP6B-I,6-IAFR,6-IAFR VIII,Lustering Alloy,Perfect,35.90
+Tenerifis,QP6B-I,6-IAFR,6-IAFR VIII,Glossy Compound,Medium,21.54
+Tenerifis,QP6B-I,6-IAFR,6-IAFR VIII,Reactive Gas,Medium,26.73
+Tenerifis,QP6B-I,6-IAFR,6-IAFR VIII,Reactive Metals,Medium,5.66
+Tenerifis,QP6B-I,6-IAFR,6-IAFR VIII,Ionic Solutions,Medium,9.29
+Tenerifis,QP6B-I,6-IAFR,6-IAFR IX,Base Metals,Medium,6.55
+Tenerifis,QP6B-I,6-IAFR,6-IAFR IX,Toxic Metals,Medium,5.70
+Tenerifis,QP6B-I,6-IAFR,6-IAFR IX,Supertensile Plastics,Poor,9.90
+Tenerifis,QP6B-I,6-IAFR,6-IAFR IX,Plasmoids,Poor,1.21
+Tenerifis,QP6B-I,6-IAFR,6-IAFR X,Toxic Metals,Medium,5.55
+Tenerifis,QP6B-I,6-IAFR,6-IAFR X,Supertensile Plastics,Poor,9.72
+Tenerifis,QP6B-I,6-IAFR,6-IAFR X,Construction Blocks,Poor,18.15
+Tenerifis,QP6B-I,6-IAFR,6-IAFR X,Silicate Glass,Poor,8.21
+Tenerifis,AU-S0B,4-P4FE,4-P4FE I,Precious Alloy,Poor,15.04
+Tenerifis,AU-S0B,4-P4FE,4-P4FE I,Base Metals,Poor,5.20
+Tenerifis,AU-S0B,4-P4FE,4-P4FE I,Supertensile Plastics,Medium,16.07
+Tenerifis,AU-S0B,4-P4FE,4-P4FE I,Construction Blocks,Poor,18.70
+Tenerifis,AU-S0B,4-P4FE,4-P4FE II,Lustering Alloy,Poor,21.25
+Tenerifis,AU-S0B,4-P4FE,4-P4FE II,Supertensile Plastics,Poor,10.14
+Tenerifis,AU-S0B,4-P4FE,4-P4FE II,Oxygen Isotopes,Poor,2.78
+Tenerifis,AU-S0B,4-P4FE,4-P4FE II,Plasmoids,Medium,1.41
+Tenerifis,AU-S0B,4-P4FE,4-P4FE III,Lustering Alloy,Poor,16.65
+Tenerifis,AU-S0B,4-P4FE,4-P4FE III,Supertensile Plastics,Medium,18.42
+Tenerifis,AU-S0B,4-P4FE,4-P4FE III,Construction Blocks,Medium,27.05
+Tenerifis,AU-S0B,4-P4FE,4-P4FE III,Plasmoids,Poor,0.98
+Tenerifis,AU-S0B,4-P4FE,4-P4FE IV,Lustering Alloy,Rich,30.43
+Tenerifis,AU-S0B,4-P4FE,4-P4FE IV,Glossy Compound,Poor,19.85
+Tenerifis,AU-S0B,4-P4FE,4-P4FE IV,Reactive Gas,Medium,29.05
+Tenerifis,AU-S0B,4-P4FE,4-P4FE IV,Noble Gas,Rich,33.97
+Tenerifis,AU-S0B,4-P4FE,4-P4FE IV,Coolant,Medium,18.15
+Tenerifis,AU-S0B,4-P4FE,4-P4FE V,Opulent Compound,Medium,24.15
+Tenerifis,AU-S0B,4-P4FE,4-P4FE V,Reactive Gas,Perfect,40.16
+Tenerifis,AU-S0B,4-P4FE,4-P4FE V,Base Metals,Rich,7.85
+Tenerifis,AU-S0B,4-P4FE,4-P4FE V,Industrial Fibers,Medium,7.33
+Tenerifis,AU-S0B,4-P4FE,4-P4FE V,Liquid Ozone,Rich,40.88
+Tenerifis,AU-S0B,4-P4FE,4-P4FE VI,Sheen Compound,Rich,32.75
+Tenerifis,AU-S0B,4-P4FE,4-P4FE VI,Fiber Composite,Medium,26.08
+Tenerifis,AU-S0B,4-P4FE,4-P4FE VI,Glossy Compound,Perfect,36.94
+Tenerifis,AU-S0B,4-P4FE,4-P4FE VI,Reactive Gas,Medium,25.44
+Tenerifis,AU-S0B,4-P4FE,4-P4FE VI,Reactive Metals,Rich,8.96
+Tenerifis,AU-S0B,RH0-EG,RH0-EG I,Lustering Alloy,Medium,26.06
+Tenerifis,AU-S0B,RH0-EG,RH0-EG I,Precious Alloy,Poor,14.95
+Tenerifis,AU-S0B,RH0-EG,RH0-EG I,Supertensile Plastics,Medium,16.25
+Tenerifis,AU-S0B,RH0-EG,RH0-EG I,Oxygen Isotopes,Poor,3.05
+Tenerifis,AU-S0B,RH0-EG,RH0-EG II,Dark Compound,Medium,25.00
+Tenerifis,AU-S0B,RH0-EG,RH0-EG II,Noble Gas,Rich,34.20
+Tenerifis,AU-S0B,RH0-EG,RH0-EG II,Condensates,Rich,20.09
+Tenerifis,AU-S0B,RH0-EG,RH0-EG II,Suspended Plasma,Medium,88.43
+Tenerifis,AU-S0B,RH0-EG,RH0-EG II,Ionic Solutions,Medium,10.27
+Tenerifis,AU-S0B,RH0-EG,RH0-EG III,Gleaming Alloy,Rich,31.21
+Tenerifis,AU-S0B,RH0-EG,RH0-EG III,Noble Gas,Rich,30.20
+Tenerifis,AU-S0B,RH0-EG,RH0-EG III,Noble Metals,Poor,21.30
+Tenerifis,AU-S0B,RH0-EG,RH0-EG IV,Base Metals,Medium,5.75
+Tenerifis,AU-S0B,RH0-EG,RH0-EG IV,Industrial Fibers,Poor,4.59
+Tenerifis,AU-S0B,RH0-EG,RH0-EG IV,Supertensile Plastics,Poor,14.40
+Tenerifis,AU-S0B,RH0-EG,RH0-EG IV,Silicate Glass,Medium,11.43
+Tenerifis,AU-S0B,RH0-EG,RH0-EG V,Lustering Alloy,Medium,27.21
+Tenerifis,AU-S0B,RH0-EG,RH0-EG V,Reactive Gas,Rich,30.66
+Tenerifis,AU-S0B,RH0-EG,RH0-EG V,Base Metals,Poor,5.42
+Tenerifis,AU-S0B,RH0-EG,RH0-EG V,Polyaramids,Medium,18.94
+Tenerifis,AU-S0B,RH0-EG,RH0-EG V,Ionic Solutions,Medium,10.19
+Tenerifis,AU-S0B,RH0-EG,RH0-EG VI,Crystal Compound,Perfect,37.49
+Tenerifis,AU-S0B,RH0-EG,RH0-EG VI,Reactive Metals,Rich,8.58
+Tenerifis,AU-S0B,RH0-EG,RH0-EG VI,Supertensile Plastics,Medium,15.90
+Tenerifis,AU-S0B,RH0-EG,RH0-EG VI,Nanites,Medium,6.75
+Tenerifis,AU-S0B,RH0-EG,RH0-EG VII,Precious Alloy,Medium,26.91
+Tenerifis,AU-S0B,RH0-EG,RH0-EG VII,Dark Compound,Poor,14.74
+Tenerifis,AU-S0B,RH0-EG,RH0-EG VII,Supertensile Plastics,Poor,13.16
+Tenerifis,AU-S0B,RH0-EG,RH0-EG VII,Plasmoids,Medium,1.32
+Tenerifis,AU-S0B,RH0-EG,RH0-EG VIII,Sheen Compound,Rich,35.24
+Tenerifis,AU-S0B,RH0-EG,RH0-EG VIII,Reactive Gas,Rich,30.08
+Tenerifis,AU-S0B,RH0-EG,RH0-EG VIII,Base Metals,Rich,7.83
+Tenerifis,AU-S0B,RH0-EG,RH0-EG VIII,Polyaramids,Medium,14.93
+Tenerifis,AU-S0B,RH0-EG,RH0-EG VIII,Ionic Solutions,Rich,13.68
+Tenerifis,AU-S0B,RH0-EG,RH0-EG IX,Lustering Alloy,Perfect,37.47
+Tenerifis,AU-S0B,RH0-EG,RH0-EG IX,Glossy Compound,Medium,28.66
+Tenerifis,AU-S0B,RH0-EG,RH0-EG IX,Reactive Gas,Poor,20.59
+Tenerifis,AU-S0B,RH0-EG,RH0-EG IX,Noble Gas,Poor,21.60
+Tenerifis,AU-S0B,RH0-EG,RH0-EG IX,Base Metals,Rich,8.16
+Tenerifis,AU-S0B,RH0-EG,RH0-EG X,Lustering Alloy,Medium,22.70
+Tenerifis,AU-S0B,RH0-EG,RH0-EG X,Glossy Compound,Medium,26.91
+Tenerifis,AU-S0B,RH0-EG,RH0-EG X,Reactive Gas,Perfect,37.60
+Tenerifis,AU-S0B,RH0-EG,RH0-EG X,Base Metals,Medium,6.54
+Tenerifis,AU-S0B,RH0-EG,RH0-EG X,Polyaramids,Medium,14.86
+Tenerifis,AU-S0B,RH0-EG,RH0-EG XI,Base Metals,Poor,5.00
+Tenerifis,AU-S0B,RH0-EG,RH0-EG XI,Industrial Fibers,Medium,5.83
+Tenerifis,AU-S0B,RH0-EG,RH0-EG XI,Supertensile Plastics,Medium,16.24
+Tenerifis,AU-S0B,RH0-EG,RH0-EG XI,Oxygen Isotopes,Medium,3.58
+Tenerifis,AU-S0B,D-9UEV,D-9UEV I,Gleaming Alloy,Poor,19.83
+Tenerifis,AU-S0B,D-9UEV,D-9UEV I,Lucent Compound,Rich,34.09
+Tenerifis,AU-S0B,D-9UEV,D-9UEV I,Crystal Compound,Medium,26.47
+Tenerifis,AU-S0B,D-9UEV,D-9UEV I,Reactive Metals,Poor,4.95
+Tenerifis,AU-S0B,D-9UEV,D-9UEV II,Toxic Metals,Poor,3.89
+Tenerifis,AU-S0B,D-9UEV,D-9UEV II,Supertensile Plastics,Poor,12.60
+Tenerifis,AU-S0B,D-9UEV,D-9UEV II,Oxygen Isotopes,Poor,3.12
+Tenerifis,AU-S0B,D-9UEV,D-9UEV II,Plasmoids,Poor,0.91
+Tenerifis,AU-S0B,D-9UEV,D-9UEV III,Gleaming Alloy,Medium,28.70
+Tenerifis,AU-S0B,D-9UEV,D-9UEV III,Glossy Compound,Perfect,37.65
+Tenerifis,AU-S0B,D-9UEV,D-9UEV III,Polyaramids,Rich,20.85
+Tenerifis,AU-S0B,D-9UEV,D-9UEV IV,Condensed Alloy,Rich,35.79
+Tenerifis,AU-S0B,D-9UEV,D-9UEV IV,Noble Metals,Perfect,39.01
+Tenerifis,AU-S0B,D-9UEV,D-9UEV IV,Industrial Fibers,Medium,6.45
+Tenerifis,AU-S0B,D-9UEV,D-9UEV IV,Condensates,Perfect,29.04
+Tenerifis,AU-S0B,D-9UEV,D-9UEV IV,Liquid Ozone,Medium,34.47
+Tenerifis,AU-S0B,D-9UEV,D-9UEV V,Crystal Compound,Rich,33.10
+Tenerifis,AU-S0B,D-9UEV,D-9UEV V,Reactive Gas,Rich,34.89
+Tenerifis,AU-S0B,D-9UEV,D-9UEV V,Reactive Metals,Rich,8.45
+Tenerifis,AU-S0B,D-9UEV,D-9UEV V,Nanites,Medium,6.22
+Tenerifis,AU-S0B,D-9UEV,D-9UEV VI,Lustering Alloy,Medium,24.95
+Tenerifis,AU-S0B,D-9UEV,D-9UEV VI,Precious Alloy,Poor,18.05
+Tenerifis,AU-S0B,D-9UEV,D-9UEV VI,Toxic Metals,Medium,5.98
+Tenerifis,AU-S0B,D-9UEV,D-9UEV VI,Supertensile Plastics,Poor,11.24
+Tenerifis,AU-S0B,D-9UEV,D-9UEV VII,Fiber Composite,Rich,36.13
+Tenerifis,AU-S0B,D-9UEV,D-9UEV VII,Reactive Gas,Medium,21.80
+Tenerifis,AU-S0B,D-9UEV,D-9UEV VII,Reactive Metals,Medium,6.35
+Tenerifis,AU-S0B,D-9UEV,D-9UEV VII,Coolant,Rich,21.91
+Tenerifis,AU-S0B,D-9UEV,D-9UEV VII,Ionic Solutions,Rich,12.95
+Tenerifis,AU-S0B,D-9UEV,D-9UEV VIII,Reactive Gas,Poor,20.24
+Tenerifis,AU-S0B,D-9UEV,D-9UEV VIII,Base Metals,Perfect,9.72
+Tenerifis,AU-S0B,D-9UEV,D-9UEV VIII,Reactive Metals,Medium,6.10
+Tenerifis,AU-S0B,D-9UEV,D-9UEV VIII,Coolant,Rich,19.64
+Tenerifis,AU-S0B,D-9UEV,D-9UEV VIII,Ionic Solutions,Poor,8.27
+Tenerifis,AU-S0B,D-9UEV,D-9UEV IX,Industrial Fibers,Medium,6.32
+Tenerifis,AU-S0B,D-9UEV,D-9UEV IX,Supertensile Plastics,Rich,22.45
+Tenerifis,AU-S0B,D-9UEV,D-9UEV IX,Condensates,Medium,19.20
+Tenerifis,AU-S0B,D-9UEV,D-9UEV IX,Suspended Plasma,Poor,63.09
+Tenerifis,AU-S0B,D-9UEV,D-9UEV X,Heavy Metals,Rich,32.54
+Tenerifis,AU-S0B,D-9UEV,D-9UEV X,Supertensile Plastics,Poor,13.05
+Tenerifis,AU-S0B,D-9UEV,D-9UEV X,Condensates,Medium,16.08
+Tenerifis,AU-S0B,D-9UEV,D-9UEV X,Suspended Plasma,Medium,81.31
+Tenerifis,AU-S0B,H-HWQR,H-HWQR I,Dark Compound,Poor,19.69
+Tenerifis,AU-S0B,H-HWQR,H-HWQR I,Toxic Metals,Medium,6.40
+Tenerifis,AU-S0B,H-HWQR,H-HWQR I,Supertensile Plastics,Medium,18.52
+Tenerifis,AU-S0B,H-HWQR,H-HWQR I,Construction Blocks,Medium,22.54
+Tenerifis,AU-S0B,H-HWQR,H-HWQR II,Crystal Compound,Medium,26.75
+Tenerifis,AU-S0B,H-HWQR,H-HWQR II,Reactive Metals,Rich,9.10
+Tenerifis,AU-S0B,H-HWQR,H-HWQR II,Construction Blocks,Rich,31.83
+Tenerifis,AU-S0B,H-HWQR,H-HWQR II,Suspended Plasma,Poor,73.61
+Tenerifis,AU-S0B,H-HWQR,H-HWQR III,Base Metals,Medium,7.05
+Tenerifis,AU-S0B,H-HWQR,H-HWQR III,Supertensile Plastics,Medium,15.84
+Tenerifis,AU-S0B,H-HWQR,H-HWQR III,Construction Blocks,Medium,21.96
+Tenerifis,AU-S0B,H-HWQR,H-HWQR III,Plasmoids,Medium,1.37
+Tenerifis,AU-S0B,H-HWQR,H-HWQR IV,Fiber Composite,Rich,33.03
+Tenerifis,AU-S0B,H-HWQR,H-HWQR IV,Opulent Compound,Medium,28.82
+Tenerifis,AU-S0B,H-HWQR,H-HWQR IV,Reactive Gas,Rich,31.85
+Tenerifis,AU-S0B,H-HWQR,H-HWQR IV,Heavy Water,Perfect,393.76
+Tenerifis,AU-S0B,H-HWQR,H-HWQR IV,Liquid Ozone,Perfect,47.06
+Tenerifis,AU-S0B,H-HWQR,H-HWQR V,Gleaming Alloy,Rich,33.88
+Tenerifis,AU-S0B,H-HWQR,H-HWQR V,Noble Metals,Medium,23.55
+Tenerifis,AU-S0B,H-HWQR,H-HWQR V,Oxygen Isotopes,Rich,4.96
+Tenerifis,AU-S0B,H-HWQR,H-HWQR VI,Lustering Alloy,Poor,19.69
+Tenerifis,AU-S0B,H-HWQR,H-HWQR VI,Sheen Compound,Medium,22.54
+Tenerifis,AU-S0B,H-HWQR,H-HWQR VI,Reactive Gas,Rich,35.28
+Tenerifis,AU-S0B,H-HWQR,H-HWQR VI,Reactive Metals,Poor,5.13
+Tenerifis,AU-S0B,H-HWQR,H-HWQR VI,Polyaramids,Poor,14.05
+Tenerifis,AU-S0B,H-HWQR,H-HWQR VII,Lustering Alloy,Rich,31.97
+Tenerifis,AU-S0B,H-HWQR,H-HWQR VII,Glossy Compound,Rich,33.86
+Tenerifis,AU-S0B,H-HWQR,H-HWQR VII,Reactive Gas,Poor,20.24
+Tenerifis,AU-S0B,H-HWQR,H-HWQR VII,Reactive Metals,Rich,8.92
+Tenerifis,AU-S0B,H-HWQR,H-HWQR VII,Ionic Solutions,Poor,8.06
+Tenerifis,AU-S0B,H-HWQR,H-HWQR VIII,Sheen Compound,Poor,21.60
+Tenerifis,AU-S0B,H-HWQR,H-HWQR VIII,Fiber Composite,Rich,31.76
+Tenerifis,AU-S0B,H-HWQR,H-HWQR VIII,Reactive Gas,Medium,23.78
+Tenerifis,AU-S0B,H-HWQR,H-HWQR VIII,Base Metals,Rich,8.55
+Tenerifis,AU-S0B,H-HWQR,H-HWQR VIII,Ionic Solutions,Rich,14.11
+Tenerifis,AU-S0B,H-HWQR,H-HWQR IX,Sheen Compound,Medium,22.20
+Tenerifis,AU-S0B,H-HWQR,H-HWQR IX,Glossy Compound,Medium,22.52
+Tenerifis,AU-S0B,H-HWQR,H-HWQR IX,Reactive Gas,Medium,24.22
+Tenerifis,AU-S0B,H-HWQR,H-HWQR IX,Reactive Metals,Medium,5.77
+Tenerifis,AU-S0B,H-HWQR,H-HWQR IX,Ionic Solutions,Rich,12.78
+Tenerifis,AU-S0B,H-HWQR,H-HWQR X,Gleaming Alloy,Medium,27.53
+Tenerifis,AU-S0B,H-HWQR,H-HWQR X,Motley Compound,Poor,19.11
+Tenerifis,AU-S0B,H-HWQR,H-HWQR X,Noble Gas,Rich,31.83
+Tenerifis,AU-S0B,QRBN-M,QRBN-M I,Dark Compound,Medium,30.23
+Tenerifis,AU-S0B,QRBN-M,QRBN-M I,Industrial Fibers,Poor,5.90
+Tenerifis,AU-S0B,QRBN-M,QRBN-M I,Supertensile Plastics,Poor,13.28
+Tenerifis,AU-S0B,QRBN-M,QRBN-M I,Silicate Glass,Poor,9.30
+Tenerifis,AU-S0B,QRBN-M,QRBN-M I,Plasmoids,Poor,1.00
+Tenerifis,AU-S0B,QRBN-M,QRBN-M II,Lustering Alloy,Poor,18.23
+Tenerifis,AU-S0B,QRBN-M,QRBN-M II,Dark Compound,Medium,25.48
+Tenerifis,AU-S0B,QRBN-M,QRBN-M II,Construction Blocks,Poor,23.05
+Tenerifis,AU-S0B,QRBN-M,QRBN-M II,Oxygen Isotopes,Medium,4.16
+Tenerifis,AU-S0B,QRBN-M,QRBN-M II,Plasmoids,Poor,1.24
+Tenerifis,AU-S0B,QRBN-M,QRBN-M III,Lustering Alloy,Medium,27.90
+Tenerifis,AU-S0B,QRBN-M,QRBN-M III,Dark Compound,Poor,23.43
+Tenerifis,AU-S0B,QRBN-M,QRBN-M III,Base Metals,Poor,4.19
+Tenerifis,AU-S0B,QRBN-M,QRBN-M III,Toxic Metals,Poor,6.05
+Tenerifis,AU-S0B,QRBN-M,QRBN-M III,Supertensile Plastics,Medium,15.87
+Tenerifis,AU-S0B,QRBN-M,QRBN-M IV,Gleaming Alloy,Medium,24.82
+Tenerifis,AU-S0B,QRBN-M,QRBN-M IV,Lucent Compound,Rich,37.92
+Tenerifis,AU-S0B,QRBN-M,QRBN-M IV,Crystal Compound,Rich,36.85
+Tenerifis,AU-S0B,QRBN-M,QRBN-M IV,Reactive Gas,Poor,23.23
+Tenerifis,AU-S0B,QRBN-M,QRBN-M IV,Reactive Metals,Poor,5.64
+Tenerifis,AU-S0B,QRBN-M,QRBN-M V,Condensed Alloy,Perfect,42.65
+Tenerifis,AU-S0B,QRBN-M,QRBN-M V,Fiber Composite,Perfect,46.30
+Tenerifis,AU-S0B,QRBN-M,QRBN-M V,Opulent Compound,Rich,34.27
+Tenerifis,AU-S0B,QRBN-M,QRBN-M V,Noble Metals,Medium,31.38
+Tenerifis,AU-S0B,QRBN-M,QRBN-M V,Heavy Water,Medium,249.00
+Tenerifis,AU-S0B,QRBN-M,QRBN-M V,Liquid Ozone,Perfect,54.34
+Tenerifis,AU-S0B,QRBN-M,QRBN-M VI,Lustering Alloy,Medium,25.32
+Tenerifis,AU-S0B,QRBN-M,QRBN-M VI,Sheen Compound,Medium,29.80
+Tenerifis,AU-S0B,QRBN-M,QRBN-M VI,Glossy Compound,Perfect,39.90
+Tenerifis,AU-S0B,QRBN-M,QRBN-M VI,Polyaramids,Rich,26.20
+Tenerifis,AU-S0B,QRBN-M,QRBN-M VI,Coolant,Medium,18.22
+Tenerifis,AU-S0B,QRBN-M,QRBN-M VI,Ionic Solutions,Perfect,15.96
+Tenerifis,AU-S0B,QRBN-M,QRBN-M VII,Lustering Alloy,Rich,36.25
+Tenerifis,AU-S0B,QRBN-M,QRBN-M VII,Sheen Compound,Medium,27.07
+Tenerifis,AU-S0B,QRBN-M,QRBN-M VII,Reactive Gas,Medium,24.90
+Tenerifis,AU-S0B,QRBN-M,QRBN-M VII,Base Metals,Rich,10.39
+Tenerifis,AU-S0B,QRBN-M,QRBN-M VII,Reactive Metals,Rich,8.74
+Tenerifis,AU-S0B,QRBN-M,QRBN-M VII,Polyaramids,Medium,17.87
+Tenerifis,AU-S0B,QRBN-M,QRBN-M VIII,Condensed Alloy,Rich,33.25
+Tenerifis,AU-S0B,QRBN-M,QRBN-M VIII,Opulent Compound,Medium,26.32
+Tenerifis,AU-S0B,QRBN-M,QRBN-M VIII,Crystal Compound,Rich,38.45
+Tenerifis,AU-S0B,QRBN-M,QRBN-M VIII,Toxic Metals,Medium,6.65
+Tenerifis,AU-S0B,QRBN-M,QRBN-M VIII,Polyaramids,Medium,19.97
+Tenerifis,AU-S0B,QRBN-M,QRBN-M VIII,Coolant,Medium,21.08
+Tenerifis,AU-S0B,QRBN-M,QRBN-M IX,Dark Compound,Medium,27.73
+Tenerifis,AU-S0B,QRBN-M,QRBN-M IX,Base Metals,Poor,5.11
+Tenerifis,AU-S0B,QRBN-M,QRBN-M IX,Toxic Metals,Medium,6.63
+Tenerifis,AU-S0B,QRBN-M,QRBN-M IX,Construction Blocks,Medium,26.60
+Tenerifis,AU-S0B,QRBN-M,QRBN-M IX,Silicate Glass,Poor,8.26
+Tenerifis,AU-S0B,78R-PI,78R-PI I,Dark Compound,Medium,23.78
+Tenerifis,AU-S0B,78R-PI,78R-PI I,Supertensile Plastics,Poor,13.01
+Tenerifis,AU-S0B,78R-PI,78R-PI I,Construction Blocks,Poor,15.55
+Tenerifis,AU-S0B,78R-PI,78R-PI I,Plasmoids,Poor,1.21
+Tenerifis,AU-S0B,78R-PI,78R-PI II,Toxic Metals,Poor,4.16
+Tenerifis,AU-S0B,78R-PI,78R-PI II,Industrial Fibers,Poor,4.92
+Tenerifis,AU-S0B,78R-PI,78R-PI II,Supertensile Plastics,Poor,12.98
+Tenerifis,AU-S0B,78R-PI,78R-PI II,Silicate Glass,Medium,14.70
+Tenerifis,AU-S0B,78R-PI,78R-PI III,Gleaming Alloy,Medium,26.54
+Tenerifis,AU-S0B,78R-PI,78R-PI III,Motley Compound,Perfect,39.48
+Tenerifis,AU-S0B,78R-PI,78R-PI III,Heavy Metals,Medium,28.61
+Tenerifis,AU-S0B,78R-PI,78R-PI IV,Condensed Alloy,Medium,28.92
+Tenerifis,AU-S0B,78R-PI,78R-PI IV,Fiber Composite,Perfect,40.80
+Tenerifis,AU-S0B,78R-PI,78R-PI IV,Noble Metals,Medium,23.93
+Tenerifis,AU-S0B,78R-PI,78R-PI IV,Heavy Water,Medium,261.36
+Tenerifis,AU-S0B,78R-PI,78R-PI IV,Liquid Ozone,Perfect,49.44
+Tenerifis,AU-S0B,78R-PI,78R-PI V,Sheen Compound,Medium,27.77
+Tenerifis,AU-S0B,78R-PI,78R-PI V,Reactive Gas,Medium,25.34
+Tenerifis,AU-S0B,78R-PI,78R-PI V,Reactive Metals,Perfect,10.28
+Tenerifis,AU-S0B,78R-PI,78R-PI V,Polyaramids,Medium,16.82
+Tenerifis,AU-S0B,78R-PI,78R-PI V,Ionic Solutions,Medium,11.49
+Tenerifis,AU-S0B,78R-PI,78R-PI VI,Toxic Metals,Medium,6.65
+Tenerifis,AU-S0B,78R-PI,78R-PI VI,Coolant,Perfect,27.57
+Tenerifis,AU-S0B,78R-PI,78R-PI VI,Silicate Glass,Medium,14.32
+Tenerifis,AU-S0B,78R-PI,78R-PI VI,Liquid Ozone,Medium,31.62
+Tenerifis,AU-S0B,78R-PI,78R-PI VI,Ionic Solutions,Perfect,15.27
+Tenerifis,AU-S0B,78R-PI,78R-PI VII,Sheen Compound,Rich,35.90
+Tenerifis,AU-S0B,78R-PI,78R-PI VII,Glossy Compound,Medium,30.19
+Tenerifis,AU-S0B,78R-PI,78R-PI VII,Reactive Gas,Medium,27.07
+Tenerifis,AU-S0B,78R-PI,78R-PI VII,Noble Gas,Rich,37.66
+Tenerifis,AU-S0B,78R-PI,78R-PI VII,Reactive Metals,Rich,9.37
+Tenerifis,AU-S0B,78R-PI,78R-PI VIII,Lustering Alloy,Medium,25.10
+Tenerifis,AU-S0B,78R-PI,78R-PI VIII,Sheen Compound,Rich,33.05
+Tenerifis,AU-S0B,78R-PI,78R-PI VIII,Fiber Composite,Rich,35.69
+Tenerifis,AU-S0B,78R-PI,78R-PI VIII,Reactive Gas,Medium,24.84
+Tenerifis,AU-S0B,78R-PI,78R-PI VIII,Base Metals,Rich,8.25
+Tenerifis,AU-S0B,78R-PI,78R-PI IX,Lustering Alloy,Rich,32.90
+Tenerifis,AU-S0B,78R-PI,78R-PI IX,Glossy Compound,Perfect,38.28
+Tenerifis,AU-S0B,78R-PI,78R-PI IX,Reactive Gas,Medium,28.27
+Tenerifis,AU-S0B,78R-PI,78R-PI IX,Base Metals,Medium,6.15
+Tenerifis,AU-S0B,78R-PI,78R-PI IX,Ionic Solutions,Medium,11.92
+Tenerifis,AU-S0B,78R-PI,78R-PI X,Lustering Alloy,Medium,25.30
+Tenerifis,AU-S0B,78R-PI,78R-PI X,Precious Alloy,Poor,21.26
+Tenerifis,AU-S0B,78R-PI,78R-PI X,Motley Compound,Poor,20.74
+Tenerifis,AU-S0B,78R-PI,78R-PI X,Condensates,Poor,12.05
+Tenerifis,CL-QB2,ZD1-Z2,ZD1-Z2 I,Precious Alloy,Medium,23.25
+Tenerifis,CL-QB2,ZD1-Z2,ZD1-Z2 I,Supertensile Plastics,Medium,16.90
+Tenerifis,CL-QB2,ZD1-Z2,ZD1-Z2 I,Construction Blocks,Poor,17.62
+Tenerifis,CL-QB2,ZD1-Z2,ZD1-Z2 I,Silicate Glass,Poor,10.46
+Tenerifis,CL-QB2,ZD1-Z2,ZD1-Z2 II,Dark Compound,Poor,14.93
+Tenerifis,CL-QB2,ZD1-Z2,ZD1-Z2 II,Supertensile Plastics,Poor,13.85
+Tenerifis,CL-QB2,ZD1-Z2,ZD1-Z2 II,Silicate Glass,Poor,7.60
+Tenerifis,CL-QB2,ZD1-Z2,ZD1-Z2 II,Plasmoids,Medium,1.30
+Tenerifis,CL-QB2,ZD1-Z2,ZD1-Z2 III,Gleaming Alloy,Rich,33.00
+Tenerifis,CL-QB2,ZD1-Z2,ZD1-Z2 III,Reactive Metals,Perfect,9.74
+Tenerifis,CL-QB2,ZD1-Z2,ZD1-Z2 III,Nanites,Perfect,9.91
+Tenerifis,CL-QB2,ZD1-Z2,ZD1-Z2 III,Suspended Plasma,Rich,125.19
+Tenerifis,CL-QB2,ZD1-Z2,ZD1-Z2 IV,Condensed Alloy,Perfect,39.81
+Tenerifis,CL-QB2,ZD1-Z2,ZD1-Z2 IV,Reactive Gas,Perfect,38.27
+Tenerifis,CL-QB2,ZD1-Z2,ZD1-Z2 IV,Base Metals,Perfect,11.04
+Tenerifis,CL-QB2,ZD1-Z2,ZD1-Z2 IV,Smartfab Units,Medium,18.26
+Tenerifis,CL-QB2,ZD1-Z2,ZD1-Z2 IV,Liquid Ozone,Medium,34.44
+Tenerifis,CL-QB2,ZD1-Z2,ZD1-Z2 V,Lustering Alloy,Medium,28.75
+Tenerifis,CL-QB2,ZD1-Z2,ZD1-Z2 V,Reactive Gas,Poor,19.64
+Tenerifis,CL-QB2,ZD1-Z2,ZD1-Z2 V,Noble Gas,Medium,24.04
+Tenerifis,CL-QB2,ZD1-Z2,ZD1-Z2 V,Base Metals,Medium,7.61
+Tenerifis,CL-QB2,ZD1-Z2,ZD1-Z2 V,Coolant,Rich,22.71
+Tenerifis,CL-QB2,ZD1-Z2,ZD1-Z2 VI,Crystal Compound,Rich,31.21
+Tenerifis,CL-QB2,ZD1-Z2,ZD1-Z2 VI,Reactive Metals,Rich,9.48
+Tenerifis,CL-QB2,ZD1-Z2,ZD1-Z2 VI,Suspended Plasma,Medium,85.28
+Tenerifis,CL-QB2,ZD1-Z2,ZD1-Z2 VI,Oxygen Isotopes,Rich,4.65
+Tenerifis,CL-QB2,ZD1-Z2,ZD1-Z2 VII,Dark Compound,Medium,28.22
+Tenerifis,CL-QB2,ZD1-Z2,ZD1-Z2 VII,Base Metals,Poor,5.27
+Tenerifis,CL-QB2,ZD1-Z2,ZD1-Z2 VII,Supertensile Plastics,Medium,17.51
+Tenerifis,CL-QB2,ZD1-Z2,ZD1-Z2 VII,Silicate Glass,Poor,8.49
+Tenerifis,CL-QB2,ZD1-Z2,ZD1-Z2 VIII,Reactive Gas,Medium,25.48
+Tenerifis,CL-QB2,ZD1-Z2,ZD1-Z2 VIII,Base Metals,Medium,6.42
+Tenerifis,CL-QB2,ZD1-Z2,ZD1-Z2 VIII,Polyaramids,Rich,22.89
+Tenerifis,CL-QB2,ZD1-Z2,ZD1-Z2 VIII,Coolant,Perfect,24.58
+Tenerifis,CL-QB2,ZD1-Z2,ZD1-Z2 VIII,Ionic Solutions,Medium,10.24
+Tenerifis,CL-QB2,ZD1-Z2,ZD1-Z2 IX,Sheen Compound,Poor,19.85
+Tenerifis,CL-QB2,ZD1-Z2,ZD1-Z2 IX,Reactive Gas,Rich,31.14
+Tenerifis,CL-QB2,ZD1-Z2,ZD1-Z2 IX,Noble Gas,Rich,34.75
+Tenerifis,CL-QB2,ZD1-Z2,ZD1-Z2 IX,Reactive Metals,Rich,8.41
+Tenerifis,CL-QB2,ZD1-Z2,ZD1-Z2 IX,Coolant,Medium,15.00
+Tenerifis,CL-QB2,ZD1-Z2,ZD1-Z2 X,Precious Alloy,Rich,32.54
+Tenerifis,CL-QB2,ZD1-Z2,ZD1-Z2 X,Base Metals,Poor,5.44
+Tenerifis,CL-QB2,ZD1-Z2,ZD1-Z2 X,Condensates,Medium,16.54
+Tenerifis,CL-QB2,ZD1-Z2,ZD1-Z2 X,Suspended Plasma,Rich,120.31
+Tenerifis,CL-QB2,ZD1-Z2,ZD1-Z2 XI,Lustering Alloy,Medium,22.26
+Tenerifis,CL-QB2,ZD1-Z2,ZD1-Z2 XI,Toxic Metals,Medium,6.70
+Tenerifis,CL-QB2,ZD1-Z2,ZD1-Z2 XI,Supertensile Plastics,Poor,14.08
+Tenerifis,CL-QB2,ZD1-Z2,ZD1-Z2 XI,Construction Blocks,Medium,21.85
+Tenerifis,CL-QB2,C-FD0D,C-FD0D I,Precious Alloy,Poor,18.72
+Tenerifis,CL-QB2,C-FD0D,C-FD0D I,Industrial Fibers,Poor,3.81
+Tenerifis,CL-QB2,C-FD0D,C-FD0D I,Supertensile Plastics,Poor,13.46
+Tenerifis,CL-QB2,C-FD0D,C-FD0D I,Construction Blocks,Poor,20.63
+Tenerifis,CL-QB2,C-FD0D,C-FD0D II,Gleaming Alloy,Rich,29.95
+Tenerifis,CL-QB2,C-FD0D,C-FD0D II,Noble Gas,Perfect,36.85
+Tenerifis,CL-QB2,C-FD0D,C-FD0D II,Heavy Metals,Medium,22.79
+Tenerifis,CL-QB2,C-FD0D,C-FD0D III,Sheen Compound,Rich,29.21
+Tenerifis,CL-QB2,C-FD0D,C-FD0D III,Fiber Composite,Poor,21.67
+Tenerifis,CL-QB2,C-FD0D,C-FD0D III,Reactive Gas,Rich,32.91
+Tenerifis,CL-QB2,C-FD0D,C-FD0D III,Base Metals,Rich,9.31
+Tenerifis,CL-QB2,C-FD0D,C-FD0D III,Reactive Metals,Rich,8.77
+Tenerifis,CL-QB2,C-FD0D,C-FD0D IV,Noble Metals,Rich,31.30
+Tenerifis,CL-QB2,C-FD0D,C-FD0D IV,Condensates,Rich,19.55
+Tenerifis,CL-QB2,C-FD0D,C-FD0D IV,Smartfab Units,Medium,17.96
+Tenerifis,CL-QB2,C-FD0D,C-FD0D IV,Heavy Water,Medium,259.67
+Tenerifis,CL-QB2,C-FD0D,C-FD0D IV,Liquid Ozone,Rich,38.01
+Tenerifis,CL-QB2,C-FD0D,C-FD0D V,Lustering Alloy,Rich,31.51
+Tenerifis,CL-QB2,C-FD0D,C-FD0D V,Sheen Compound,Rich,29.69
+Tenerifis,CL-QB2,C-FD0D,C-FD0D V,Reactive Gas,Medium,21.80
+Tenerifis,CL-QB2,C-FD0D,C-FD0D V,Noble Gas,Rich,32.82
+Tenerifis,CL-QB2,C-FD0D,C-FD0D V,Base Metals,Perfect,9.63
+Tenerifis,CL-QB2,C-FD0D,C-FD0D VI,Fiber Composite,Medium,26.57
+Tenerifis,CL-QB2,C-FD0D,C-FD0D VI,Glossy Compound,Medium,27.48
+Tenerifis,CL-QB2,C-FD0D,C-FD0D VI,Reactive Gas,Perfect,37.63
+Tenerifis,CL-QB2,C-FD0D,C-FD0D VI,Base Metals,Rich,9.01
+Tenerifis,CL-QB2,C-FD0D,C-FD0D VI,Coolant,Medium,15.18
+Tenerifis,CL-QB2,C-FD0D,C-FD0D VII,Lustering Alloy,Medium,23.51
+Tenerifis,CL-QB2,C-FD0D,C-FD0D VII,Sheen Compound,Rich,36.04
+Tenerifis,CL-QB2,C-FD0D,C-FD0D VII,Reactive Gas,Rich,32.13
+Tenerifis,CL-QB2,C-FD0D,C-FD0D VII,Noble Gas,Medium,26.17
+Tenerifis,CL-QB2,C-FD0D,C-FD0D VII,Coolant,Rich,20.93
+Tenerifis,CL-QB2,S-9RCJ,S-9RCJ I,Dark Compound,Medium,27.71
+Tenerifis,CL-QB2,S-9RCJ,S-9RCJ I,Industrial Fibers,Poor,4.42
+Tenerifis,CL-QB2,S-9RCJ,S-9RCJ I,Supertensile Plastics,Medium,15.67
+Tenerifis,CL-QB2,S-9RCJ,S-9RCJ I,Construction Blocks,Poor,16.21
+Tenerifis,CL-QB2,S-9RCJ,S-9RCJ II,Gleaming Alloy,Poor,18.56
+Tenerifis,CL-QB2,S-9RCJ,S-9RCJ II,Noble Metals,Rich,34.36
+Tenerifis,CL-QB2,S-9RCJ,S-9RCJ II,Polyaramids,Perfect,25.02
+Tenerifis,CL-QB2,S-9RCJ,S-9RCJ III,Opulent Compound,Rich,36.02
+Tenerifis,CL-QB2,S-9RCJ,S-9RCJ III,Crystal Compound,Rich,31.53
+Tenerifis,CL-QB2,S-9RCJ,S-9RCJ III,Silicate Glass,Medium,12.21
+Tenerifis,CL-QB2,S-9RCJ,S-9RCJ III,Liquid Ozone,Rich,39.27
+Tenerifis,CL-QB2,S-9RCJ,S-9RCJ III,Ionic Solutions,Medium,10.31
+Tenerifis,CL-QB2,S-9RCJ,S-9RCJ IV,Gleaming Alloy,Rich,34.66
+Tenerifis,CL-QB2,S-9RCJ,S-9RCJ IV,Reactive Gas,Medium,25.92
+Tenerifis,CL-QB2,S-9RCJ,S-9RCJ IV,Reactive Metals,Medium,7.44
+Tenerifis,CL-QB2,S-9RCJ,S-9RCJ IV,Construction Blocks,Medium,26.86
+Tenerifis,CL-QB2,S-9RCJ,S-9RCJ V,Fiber Composite,Perfect,38.13
+Tenerifis,CL-QB2,S-9RCJ,S-9RCJ V,Glossy Compound,Rich,34.50
+Tenerifis,CL-QB2,S-9RCJ,S-9RCJ V,Reactive Gas,Poor,19.04
+Tenerifis,CL-QB2,S-9RCJ,S-9RCJ V,Polyaramids,Rich,24.21
+Tenerifis,CL-QB2,S-9RCJ,S-9RCJ V,Ionic Solutions,Medium,9.17
+Tenerifis,CL-QB2,S-9RCJ,S-9RCJ VI,Sheen Compound,Rich,31.14
+Tenerifis,CL-QB2,S-9RCJ,S-9RCJ VI,Fiber Composite,Rich,29.14
+Tenerifis,CL-QB2,S-9RCJ,S-9RCJ VI,Reactive Gas,Medium,23.07
+Tenerifis,CL-QB2,S-9RCJ,S-9RCJ VI,Coolant,Rich,22.45
+Tenerifis,CL-QB2,S-9RCJ,S-9RCJ VI,Ionic Solutions,Rich,14.00
+Tenerifis,CL-QB2,S-9RCJ,S-9RCJ VII,Sheen Compound,Rich,29.90
+Tenerifis,CL-QB2,S-9RCJ,S-9RCJ VII,Glossy Compound,Medium,22.03
+Tenerifis,CL-QB2,S-9RCJ,S-9RCJ VII,Reactive Gas,Medium,27.19
+Tenerifis,CL-QB2,S-9RCJ,S-9RCJ VII,Reactive Metals,Rich,9.23
+Tenerifis,CL-QB2,S-9RCJ,S-9RCJ VII,Coolant,Poor,13.88
+Tenerifis,CL-QB2,S-9RCJ,S-9RCJ VIII,Sheen Compound,Medium,24.54
+Tenerifis,CL-QB2,S-9RCJ,S-9RCJ VIII,Fiber Composite,Rich,33.92
+Tenerifis,CL-QB2,S-9RCJ,S-9RCJ VIII,Reactive Gas,Poor,19.60
+Tenerifis,CL-QB2,S-9RCJ,S-9RCJ VIII,Base Metals,Poor,5.21
+Tenerifis,CL-QB2,S-9RCJ,S-9RCJ VIII,Polyaramids,Medium,16.30
+Tenerifis,CL-QB2,S-9RCJ,S-9RCJ IX,Lustering Alloy,Medium,26.22
+Tenerifis,CL-QB2,S-9RCJ,S-9RCJ IX,Supertensile Plastics,Medium,15.78
+Tenerifis,CL-QB2,S-9RCJ,S-9RCJ IX,Construction Blocks,Medium,26.08
+Tenerifis,CL-QB2,S-9RCJ,S-9RCJ IX,Oxygen Isotopes,Poor,3.05
+Tenerifis,CL-QB2,ZMV9-A,ZMV9-A I,Gleaming Alloy,Medium,21.60
+Tenerifis,CL-QB2,ZMV9-A,ZMV9-A I,Noble Gas,Rich,32.98
+Tenerifis,CL-QB2,ZMV9-A,ZMV9-A I,Smartfab Units,Perfect,23.39
+Tenerifis,CL-QB2,ZMV9-A,ZMV9-A II,Reactive Gas,Rich,28.91
+Tenerifis,CL-QB2,ZMV9-A,ZMV9-A II,Reactive Metals,Poor,4.88
+Tenerifis,CL-QB2,ZMV9-A,ZMV9-A II,Construction Blocks,Rich,28.75
+Tenerifis,CL-QB2,ZMV9-A,ZMV9-A II,Suspended Plasma,Rich,104.46
+Tenerifis,CL-QB2,ZMV9-A,ZMV9-A III,Opulent Compound,Rich,31.59
+Tenerifis,CL-QB2,ZMV9-A,ZMV9-A III,Polyaramids,Rich,22.70
+Tenerifis,CL-QB2,ZMV9-A,ZMV9-A III,Silicate Glass,Perfect,19.03
+Tenerifis,CL-QB2,ZMV9-A,ZMV9-A III,Heavy Water,Rich,303.16
+Tenerifis,CL-QB2,ZMV9-A,ZMV9-A III,Liquid Ozone,Medium,31.05
+Tenerifis,CL-QB2,ZMV9-A,ZMV9-A IV,Glossy Compound,Poor,19.47
+Tenerifis,CL-QB2,ZMV9-A,ZMV9-A IV,Reactive Gas,Medium,25.63
+Tenerifis,CL-QB2,ZMV9-A,ZMV9-A IV,Noble Gas,Rich,32.21
+Tenerifis,CL-QB2,ZMV9-A,ZMV9-A IV,Polyaramids,Medium,15.40
+Tenerifis,CL-QB2,ZMV9-A,ZMV9-A IV,Coolant,Poor,13.26
+Tenerifis,CL-QB2,ZMV9-A,ZMV9-A V,Lustering Alloy,Medium,22.90
+Tenerifis,CL-QB2,ZMV9-A,ZMV9-A V,Fiber Composite,Medium,26.22
+Tenerifis,CL-QB2,ZMV9-A,ZMV9-A V,Glossy Compound,Poor,18.96
+Tenerifis,CL-QB2,ZMV9-A,ZMV9-A V,Reactive Gas,Rich,29.57
+Tenerifis,CL-QB2,ZMV9-A,ZMV9-A V,Ionic Solutions,Medium,9.20
+Tenerifis,CL-QB2,ZMV9-A,ZMV9-A VI,Reactive Gas,Rich,34.87
+Tenerifis,CL-QB2,ZMV9-A,ZMV9-A VI,Base Metals,Medium,6.46
+Tenerifis,CL-QB2,ZMV9-A,ZMV9-A VI,Industrial Fibers,Rich,8.88
+Tenerifis,CL-QB2,ZMV9-A,ZMV9-A VI,Condensates,Poor,13.49
+Tenerifis,CL-QB2,ZMV9-A,ZMV9-A VI,Liquid Ozone,Perfect,44.33
+Tenerifis,CL-QB2,ZMV9-A,ZMV9-A VII,Glossy Compound,Poor,19.98
+Tenerifis,CL-QB2,ZMV9-A,ZMV9-A VII,Reactive Gas,Medium,25.17
+Tenerifis,CL-QB2,ZMV9-A,ZMV9-A VII,Noble Gas,Rich,34.74
+Tenerifis,CL-QB2,ZMV9-A,ZMV9-A VII,Base Metals,Medium,6.74
+Tenerifis,CL-QB2,ZMV9-A,ZMV9-A VII,Coolant,Medium,14.83
+Tenerifis,CL-QB2,ZMV9-A,ZMV9-A VIII,Heavy Metals,Poor,16.06
+Tenerifis,CL-QB2,ZMV9-A,ZMV9-A VIII,Industrial Fibers,Medium,5.90
+Tenerifis,CL-QB2,ZMV9-A,ZMV9-A VIII,Condensates,Poor,11.89
+Tenerifis,CL-QB2,ZMV9-A,ZMV9-A VIII,Suspended Plasma,Poor,61.62
+Tenerifis,CL-QB2,FE-6YQ,FE-6YQ I,Toxic Metals,Medium,6.05
+Tenerifis,CL-QB2,FE-6YQ,FE-6YQ I,Supertensile Plastics,Medium,16.14
+Tenerifis,CL-QB2,FE-6YQ,FE-6YQ I,Construction Blocks,Medium,23.73
+Tenerifis,CL-QB2,FE-6YQ,FE-6YQ I,Oxygen Isotopes,Poor,2.29
+Tenerifis,CL-QB2,FE-6YQ,FE-6YQ II,Gleaming Alloy,Rich,29.00
+Tenerifis,CL-QB2,FE-6YQ,FE-6YQ II,Motley Compound,Perfect,35.03
+Tenerifis,CL-QB2,FE-6YQ,FE-6YQ II,Glossy Compound,Medium,25.05
+Tenerifis,CL-QB2,FE-6YQ,FE-6YQ III,Lucent Compound,Perfect,33.58
+Tenerifis,CL-QB2,FE-6YQ,FE-6YQ III,Reactive Gas,Medium,21.19
+Tenerifis,CL-QB2,FE-6YQ,FE-6YQ III,Reactive Metals,Rich,8.14
+Tenerifis,CL-QB2,FE-6YQ,FE-6YQ III,Suspended Plasma,Rich,113.17
+Tenerifis,CL-QB2,FE-6YQ,FE-6YQ IV,Lustering Alloy,Medium,19.93
+Tenerifis,CL-QB2,FE-6YQ,FE-6YQ IV,Reactive Gas,Rich,30.70
+Tenerifis,CL-QB2,FE-6YQ,FE-6YQ IV,Noble Gas,Rich,28.71
+Tenerifis,CL-QB2,FE-6YQ,FE-6YQ IV,Base Metals,Medium,6.22
+Tenerifis,CL-QB2,FE-6YQ,FE-6YQ IV,Coolant,Rich,19.32
+Tenerifis,CL-QB2,FE-6YQ,FE-6YQ V,Fiber Composite,Medium,23.20
+Tenerifis,CL-QB2,FE-6YQ,FE-6YQ V,Glossy Compound,Rich,28.64
+Tenerifis,CL-QB2,FE-6YQ,FE-6YQ V,Reactive Gas,Medium,24.84
+Tenerifis,CL-QB2,FE-6YQ,FE-6YQ V,Noble Gas,Medium,25.79
+Tenerifis,CL-QB2,FE-6YQ,FE-6YQ V,Polyaramids,Rich,21.76
+Tenerifis,CL-QB2,FE-6YQ,FE-6YQ VI,Glossy Compound,Medium,20.89
+Tenerifis,CL-QB2,FE-6YQ,FE-6YQ VI,Reactive Gas,Perfect,34.44
+Tenerifis,CL-QB2,FE-6YQ,FE-6YQ VI,Reactive Metals,Rich,8.69
+Tenerifis,CL-QB2,FE-6YQ,FE-6YQ VI,Polyaramids,Rich,19.19
+Tenerifis,CL-QB2,FE-6YQ,FE-6YQ VI,Coolant,Rich,18.06
+Tenerifis,CL-QB2,FE-6YQ,FE-6YQ VII,Opulent Compound,Poor,18.94
+Tenerifis,CL-QB2,FE-6YQ,FE-6YQ VII,Noble Metals,Medium,22.70
+Tenerifis,CL-QB2,FE-6YQ,FE-6YQ VII,Toxic Metals,Perfect,9.21
+Tenerifis,CL-QB2,FE-6YQ,FE-6YQ VII,Coolant,Medium,17.07
+Tenerifis,CL-QB2,FE-6YQ,FE-6YQ VII,Liquid Ozone,Poor,24.20
+Tenerifis,CL-QB2,FE-6YQ,FE-6YQ VIII,Motley Compound,Rich,30.81
+Tenerifis,CL-QB2,FE-6YQ,FE-6YQ VIII,Base Metals,Medium,6.48
+Tenerifis,CL-QB2,FE-6YQ,FE-6YQ VIII,Condensates,Poor,11.10
+Tenerifis,CL-QB2,FE-6YQ,FE-6YQ VIII,Liquid Ozone,Rich,35.28
+Tenerifis,CL-QB2,W-16DY,W-16DY I,Supertensile Plastics,Medium,17.54
+Tenerifis,CL-QB2,W-16DY,W-16DY I,Construction Blocks,Poor,17.56
+Tenerifis,CL-QB2,W-16DY,W-16DY I,Silicate Glass,Medium,12.42
+Tenerifis,CL-QB2,W-16DY,W-16DY I,Plasmoids,Medium,1.57
+Tenerifis,CL-QB2,W-16DY,W-16DY II,Gleaming Alloy,Rich,30.21
+Tenerifis,CL-QB2,W-16DY,W-16DY II,Crystal Compound,Poor,18.63
+Tenerifis,CL-QB2,W-16DY,W-16DY II,Reactive Metals,Medium,5.97
+Tenerifis,CL-QB2,W-16DY,W-16DY II,Supertensile Plastics,Perfect,23.48
+Tenerifis,CL-QB2,W-16DY,W-16DY III,Sheen Compound,Rich,29.19
+Tenerifis,CL-QB2,W-16DY,W-16DY III,Fiber Composite,Medium,27.74
+Tenerifis,CL-QB2,W-16DY,W-16DY III,Reactive Gas,Medium,22.44
+Tenerifis,CL-QB2,W-16DY,W-16DY III,Base Metals,Poor,5.09
+Tenerifis,CL-QB2,W-16DY,W-16DY III,Polyaramids,Rich,21.00
+Tenerifis,CL-QB2,W-16DY,W-16DY IV,Lustering Alloy,Medium,26.29
+Tenerifis,CL-QB2,W-16DY,W-16DY IV,Sheen Compound,Medium,26.99
+Tenerifis,CL-QB2,W-16DY,W-16DY IV,Glossy Compound,Poor,18.46
+Tenerifis,CL-QB2,W-16DY,W-16DY IV,Reactive Gas,Poor,18.55
+Tenerifis,CL-QB2,W-16DY,W-16DY IV,Polyaramids,Poor,12.92
+Tenerifis,CL-QB2,W-16DY,W-16DY V,Reactive Gas,Medium,23.23
+Tenerifis,CL-QB2,W-16DY,W-16DY V,Noble Gas,Perfect,35.00
+Tenerifis,CL-QB2,W-16DY,W-16DY V,Base Metals,Rich,8.80
+Tenerifis,CL-QB2,W-16DY,W-16DY V,Polyaramids,Rich,23.28
+Tenerifis,CL-QB2,W-16DY,W-16DY V,Ionic Solutions,Rich,12.67
+Tenerifis,CL-QB2,W-16DY,W-16DY VI,Sheen Compound,Rich,28.40
+Tenerifis,CL-QB2,W-16DY,W-16DY VI,Glossy Compound,Medium,22.44
+Tenerifis,CL-QB2,W-16DY,W-16DY VI,Reactive Gas,Medium,26.95
+Tenerifis,CL-QB2,W-16DY,W-16DY VI,Noble Gas,Rich,30.69
+Tenerifis,CL-QB2,W-16DY,W-16DY VI,Ionic Solutions,Medium,10.18
+Tenerifis,CL-QB2,W-16DY,W-16DY VII,Gleaming Alloy,Rich,34.10
+Tenerifis,CL-QB2,W-16DY,W-16DY VII,Noble Gas,Perfect,36.65
+Tenerifis,CL-QB2,W-16DY,W-16DY VII,Oxygen Isotopes,Rich,5.15
+Tenerifis,CL-QB2,W-16DY,W-16DY VIII,Base Metals,Poor,4.94
+Tenerifis,CL-QB2,W-16DY,W-16DY VIII,Supertensile Plastics,Poor,13.55
+Tenerifis,CL-QB2,W-16DY,W-16DY VIII,Silicate Glass,Poor,7.16
+Tenerifis,CL-QB2,W-16DY,W-16DY VIII,Oxygen Isotopes,Poor,2.31
+Tenerifis,CL-QB2,W-16DY,W-16DY IX,Lustering Alloy,Poor,17.62
+Tenerifis,CL-QB2,W-16DY,W-16DY IX,Toxic Metals,Poor,4.11
+Tenerifis,CL-QB2,W-16DY,W-16DY IX,Industrial Fibers,Poor,3.83
+Tenerifis,CL-QB2,W-16DY,W-16DY IX,Supertensile Plastics,Medium,14.52
+Tenerifis,CL-QB2,M-4KDB,M-4KDB I,Gleaming Alloy,Perfect,36.04
+Tenerifis,CL-QB2,M-4KDB,M-4KDB I,Motley Compound,Rich,28.12
+Tenerifis,CL-QB2,M-4KDB,M-4KDB I,Glossy Compound,Rich,32.27
+Tenerifis,CL-QB2,M-4KDB,M-4KDB II,Reactive Metals,Medium,5.97
+Tenerifis,CL-QB2,M-4KDB,M-4KDB II,Toxic Metals,Rich,8.31
+Tenerifis,CL-QB2,M-4KDB,M-4KDB II,Construction Blocks,Poor,19.21
+Tenerifis,CL-QB2,M-4KDB,M-4KDB II,Suspended Plasma,Medium,75.24
+Tenerifis,CL-QB2,M-4KDB,M-4KDB III,Lustering Alloy,Medium,24.55
+Tenerifis,CL-QB2,M-4KDB,M-4KDB III,Supertensile Plastics,Poor,9.27
+Tenerifis,CL-QB2,M-4KDB,M-4KDB III,Construction Blocks,Poor,20.15
+Tenerifis,CL-QB2,M-4KDB,M-4KDB III,Oxygen Isotopes,Poor,2.94
+Tenerifis,CL-QB2,M-4KDB,M-4KDB IV,Sheen Compound,Medium,26.51
+Tenerifis,CL-QB2,M-4KDB,M-4KDB IV,Fiber Composite,Medium,23.85
+Tenerifis,CL-QB2,M-4KDB,M-4KDB IV,Reactive Gas,Rich,32.30
+Tenerifis,CL-QB2,M-4KDB,M-4KDB IV,Polyaramids,Medium,15.34
+Tenerifis,CL-QB2,M-4KDB,M-4KDB IV,Ionic Solutions,Medium,9.63
+Tenerifis,CL-QB2,M-4KDB,M-4KDB V,Lustering Alloy,Medium,22.11
+Tenerifis,CL-QB2,M-4KDB,M-4KDB V,Sheen Compound,Medium,26.20
+Tenerifis,CL-QB2,M-4KDB,M-4KDB V,Reactive Gas,Rich,30.54
+Tenerifis,CL-QB2,M-4KDB,M-4KDB V,Base Metals,Medium,6.14
+Tenerifis,CL-QB2,M-4KDB,M-4KDB V,Polyaramids,Perfect,24.08
+Tenerifis,CL-QB2,M-4KDB,M-4KDB VI,Lustering Alloy,Medium,21.60
+Tenerifis,CL-QB2,M-4KDB,M-4KDB VI,Reactive Gas,Poor,18.72
+Tenerifis,CL-QB2,M-4KDB,M-4KDB VI,Noble Gas,Rich,28.93
+Tenerifis,CL-QB2,M-4KDB,M-4KDB VI,Polyaramids,Rich,20.28
+Tenerifis,CL-QB2,M-4KDB,M-4KDB VI,Ionic Solutions,Medium,9.07
+Tenerifis,CL-QB2,M-4KDB,M-4KDB VII,Lustering Alloy,Poor,20.57
+Tenerifis,CL-QB2,M-4KDB,M-4KDB VII,Reactive Gas,Rich,29.04
+Tenerifis,CL-QB2,M-4KDB,M-4KDB VII,Base Metals,Medium,5.82
+Tenerifis,CL-QB2,M-4KDB,M-4KDB VII,Reactive Metals,Medium,7.20
+Tenerifis,CL-QB2,M-4KDB,M-4KDB VII,Ionic Solutions,Poor,8.18
+Tenerifis,E-IFSA,C3-0YD,C3-0YD I,Lustering Alloy,Poor,16.65
+Tenerifis,E-IFSA,C3-0YD,C3-0YD I,Precious Alloy,Medium,28.30
+Tenerifis,E-IFSA,C3-0YD,C3-0YD I,Dark Compound,Poor,21.30
+Tenerifis,E-IFSA,C3-0YD,C3-0YD I,Construction Blocks,Poor,17.27
+Tenerifis,E-IFSA,C3-0YD,C3-0YD I,Plasmoids,Poor,1.13
+Tenerifis,E-IFSA,C3-0YD,C3-0YD II,Dark Compound,Medium,23.60
+Tenerifis,E-IFSA,C3-0YD,C3-0YD II,Base Metals,Medium,7.49
+Tenerifis,E-IFSA,C3-0YD,C3-0YD II,Industrial Fibers,Medium,7.63
+Tenerifis,E-IFSA,C3-0YD,C3-0YD II,Supertensile Plastics,Poor,14.73
+Tenerifis,E-IFSA,C3-0YD,C3-0YD II,Construction Blocks,Medium,27.07
+Tenerifis,E-IFSA,C3-0YD,C3-0YD III,Condensed Alloy,Perfect,44.25
+Tenerifis,E-IFSA,C3-0YD,C3-0YD III,Toxic Metals,Rich,9.20
+Tenerifis,E-IFSA,C3-0YD,C3-0YD III,Polyaramids,Perfect,27.55
+Tenerifis,E-IFSA,C3-0YD,C3-0YD III,Heavy Water,Perfect,412.00
+Tenerifis,E-IFSA,C3-0YD,C3-0YD III,Liquid Ozone,Rich,40.78
+Tenerifis,E-IFSA,C3-0YD,C3-0YD III,Ionic Solutions,Medium,9.48
+Tenerifis,E-IFSA,C3-0YD,C3-0YD IV,Dark Compound,Medium,24.35
+Tenerifis,E-IFSA,C3-0YD,C3-0YD IV,Toxic Metals,Poor,4.33
+Tenerifis,E-IFSA,C3-0YD,C3-0YD IV,Industrial Fibers,Medium,7.70
+Tenerifis,E-IFSA,C3-0YD,C3-0YD IV,Construction Blocks,Medium,29.32
+Tenerifis,E-IFSA,C3-0YD,C3-0YD IV,Plasmoids,Poor,1.14
+Tenerifis,E-IFSA,C3-0YD,C3-0YD V,Condensed Alloy,Rich,39.02
+Tenerifis,E-IFSA,C3-0YD,C3-0YD V,Reactive Gas,Perfect,40.75
+Tenerifis,E-IFSA,C3-0YD,C3-0YD V,Base Metals,Medium,6.48
+Tenerifis,E-IFSA,C3-0YD,C3-0YD V,Condensates,Rich,26.20
+Tenerifis,E-IFSA,C3-0YD,C3-0YD V,Heavy Water,Rich,371.50
+Tenerifis,E-IFSA,C3-0YD,C3-0YD V,Liquid Ozone,Medium,30.97
+Tenerifis,E-IFSA,C3-0YD,C3-0YD VI,Sheen Compound,Rich,37.83
+Tenerifis,E-IFSA,C3-0YD,C3-0YD VI,Glossy Compound,Medium,24.52
+Tenerifis,E-IFSA,C3-0YD,C3-0YD VI,Noble Gas,Poor,23.27
+Tenerifis,E-IFSA,C3-0YD,C3-0YD VI,Base Metals,Rich,8.68
+Tenerifis,E-IFSA,C3-0YD,C3-0YD VI,Reactive Metals,Rich,9.51
+Tenerifis,E-IFSA,C3-0YD,C3-0YD VI,Polyaramids,Rich,26.45
+Tenerifis,E-IFSA,C3-0YD,C3-0YD VII,Lustering Alloy,Rich,32.95
+Tenerifis,E-IFSA,C3-0YD,C3-0YD VII,Sheen Compound,Medium,27.27
+Tenerifis,E-IFSA,C3-0YD,C3-0YD VII,Glossy Compound,Medium,30.05
+Tenerifis,E-IFSA,C3-0YD,C3-0YD VII,Reactive Gas,Rich,36.00
+Tenerifis,E-IFSA,C3-0YD,C3-0YD VII,Polyaramids,Rich,21.58
+Tenerifis,E-IFSA,C3-0YD,C3-0YD VII,Ionic Solutions,Medium,11.29
+Tenerifis,E-IFSA,C3-0YD,C3-0YD VIII,Lustering Alloy,Poor,22.38
+Tenerifis,E-IFSA,C3-0YD,C3-0YD VIII,Sheen Compound,Medium,30.73
+Tenerifis,E-IFSA,C3-0YD,C3-0YD VIII,Glossy Compound,Medium,30.23
+Tenerifis,E-IFSA,C3-0YD,C3-0YD VIII,Reactive Gas,Rich,35.77
+Tenerifis,E-IFSA,C3-0YD,C3-0YD VIII,Base Metals,Perfect,10.78
+Tenerifis,E-IFSA,C3-0YD,C3-0YD VIII,Ionic Solutions,Poor,8.81
+Tenerifis,E-IFSA,PDF-3Z,PDF-3Z I,Precious Alloy,Medium,30.63
+Tenerifis,E-IFSA,PDF-3Z,PDF-3Z I,Dark Compound,Medium,23.93
+Tenerifis,E-IFSA,PDF-3Z,PDF-3Z I,Supertensile Plastics,Medium,16.88
+Tenerifis,E-IFSA,PDF-3Z,PDF-3Z I,Construction Blocks,Medium,24.25
+Tenerifis,E-IFSA,PDF-3Z,PDF-3Z I,Silicate Glass,Poor,10.24
+Tenerifis,E-IFSA,PDF-3Z,PDF-3Z II,Lucent Compound,Rich,36.70
+Tenerifis,E-IFSA,PDF-3Z,PDF-3Z II,Crystal Compound,Poor,20.32
+Tenerifis,E-IFSA,PDF-3Z,PDF-3Z II,Supertensile Plastics,Medium,19.80
+Tenerifis,E-IFSA,PDF-3Z,PDF-3Z II,Suspended Plasma,Medium,103.23
+Tenerifis,E-IFSA,PDF-3Z,PDF-3Z II,Oxygen Isotopes,Rich,5.05
+Tenerifis,E-IFSA,PDF-3Z,PDF-3Z III,Sheen Compound,Perfect,40.85
+Tenerifis,E-IFSA,PDF-3Z,PDF-3Z III,Fiber Composite,Medium,25.45
+Tenerifis,E-IFSA,PDF-3Z,PDF-3Z III,Glossy Compound,Medium,28.55
+Tenerifis,E-IFSA,PDF-3Z,PDF-3Z III,Noble Gas,Poor,21.52
+Tenerifis,E-IFSA,PDF-3Z,PDF-3Z III,Base Metals,Medium,7.72
+Tenerifis,E-IFSA,PDF-3Z,PDF-3Z III,Coolant,Medium,16.33
+Tenerifis,E-IFSA,PDF-3Z,PDF-3Z IV,Fiber Composite,Medium,27.45
+Tenerifis,E-IFSA,PDF-3Z,PDF-3Z IV,Glossy Compound,Rich,35.67
+Tenerifis,E-IFSA,PDF-3Z,PDF-3Z IV,Base Metals,Medium,7.83
+Tenerifis,E-IFSA,PDF-3Z,PDF-3Z IV,Polyaramids,Rich,21.38
+Tenerifis,E-IFSA,PDF-3Z,PDF-3Z IV,Coolant,Poor,14.75
+Tenerifis,E-IFSA,PDF-3Z,PDF-3Z IV,Ionic Solutions,Medium,9.71
+Tenerifis,E-IFSA,PDF-3Z,PDF-3Z V,Sheen Compound,Medium,28.07
+Tenerifis,E-IFSA,PDF-3Z,PDF-3Z V,Fiber Composite,Medium,26.25
+Tenerifis,E-IFSA,PDF-3Z,PDF-3Z V,Noble Gas,Medium,27.15
+Tenerifis,E-IFSA,PDF-3Z,PDF-3Z V,Base Metals,Rich,10.22
+Tenerifis,E-IFSA,PDF-3Z,PDF-3Z V,Polyaramids,Medium,17.37
+Tenerifis,E-IFSA,PDF-3Z,PDF-3Z V,Coolant,Perfect,27.47
+Tenerifis,E-IFSA,PDF-3Z,PDF-3Z VI,Precious Alloy,Medium,25.32
+Tenerifis,E-IFSA,PDF-3Z,PDF-3Z VI,Base Metals,Rich,9.62
+Tenerifis,E-IFSA,PDF-3Z,PDF-3Z VI,Industrial Fibers,Poor,5.09
+Tenerifis,E-IFSA,PDF-3Z,PDF-3Z VI,Condensates,Rich,23.65
+Tenerifis,E-IFSA,PDF-3Z,PDF-3Z VI,Liquid Ozone,Rich,42.06
+Tenerifis,E-IFSA,9-MJVQ,9-MJVQ I,Supertensile Plastics,Medium,18.69
+Tenerifis,E-IFSA,9-MJVQ,9-MJVQ I,Construction Blocks,Poor,22.54
+Tenerifis,E-IFSA,9-MJVQ,9-MJVQ I,Oxygen Isotopes,Medium,3.90
+Tenerifis,E-IFSA,9-MJVQ,9-MJVQ I,Plasmoids,Medium,1.37
+Tenerifis,E-IFSA,9-MJVQ,9-MJVQ II,Dark Compound,Medium,24.34
+Tenerifis,E-IFSA,9-MJVQ,9-MJVQ II,Base Metals,Poor,4.76
+Tenerifis,E-IFSA,9-MJVQ,9-MJVQ II,Supertensile Plastics,Poor,11.14
+Tenerifis,E-IFSA,9-MJVQ,9-MJVQ II,Oxygen Isotopes,Medium,3.68
+Tenerifis,E-IFSA,9-MJVQ,9-MJVQ III,Glossy Compound,Medium,25.25
+Tenerifis,E-IFSA,9-MJVQ,9-MJVQ III,Reactive Gas,Medium,26.04
+Tenerifis,E-IFSA,9-MJVQ,9-MJVQ III,Noble Gas,Rich,31.49
+Tenerifis,E-IFSA,9-MJVQ,9-MJVQ III,Reactive Metals,Medium,6.57
+Tenerifis,E-IFSA,9-MJVQ,9-MJVQ III,Polyaramids,Rich,24.06
+Tenerifis,E-IFSA,9-MJVQ,9-MJVQ IV,Sheen Compound,Medium,26.45
+Tenerifis,E-IFSA,9-MJVQ,9-MJVQ IV,Fiber Composite,Rich,35.71
+Tenerifis,E-IFSA,9-MJVQ,9-MJVQ IV,Glossy Compound,Medium,23.86
+Tenerifis,E-IFSA,9-MJVQ,9-MJVQ IV,Reactive Gas,Rich,36.53
+Tenerifis,E-IFSA,9-MJVQ,9-MJVQ IV,Reactive Metals,Rich,9.01
+Tenerifis,E-IFSA,9-MJVQ,9-MJVQ V,Lustering Alloy,Rich,33.60
+Tenerifis,E-IFSA,9-MJVQ,9-MJVQ V,Reactive Gas,Perfect,39.55
+Tenerifis,E-IFSA,9-MJVQ,9-MJVQ V,Noble Gas,Rich,30.62
+Tenerifis,E-IFSA,9-MJVQ,9-MJVQ V,Base Metals,Poor,5.29
+Tenerifis,E-IFSA,9-MJVQ,9-MJVQ V,Reactive Metals,Medium,7.04
+Tenerifis,E-IFSA,9-MJVQ,9-MJVQ VI,Crystal Compound,Medium,26.52
+Tenerifis,E-IFSA,9-MJVQ,9-MJVQ VI,Noble Metals,Medium,29.98
+Tenerifis,E-IFSA,9-MJVQ,9-MJVQ VI,Polyaramids,Perfect,25.90
+Tenerifis,E-IFSA,9-MJVQ,9-MJVQ VI,Coolant,Medium,19.06
+Tenerifis,E-IFSA,9-MJVQ,9-MJVQ VI,Liquid Ozone,Perfect,49.53
+Tenerifis,E-IFSA,9-MJVQ,9-MJVQ VII,Precious Alloy,Rich,34.03
+Tenerifis,E-IFSA,9-MJVQ,9-MJVQ VII,Heavy Metals,Poor,18.91
+Tenerifis,E-IFSA,9-MJVQ,9-MJVQ VII,Supertensile Plastics,Medium,15.65
+Tenerifis,E-IFSA,9-MJVQ,9-MJVQ VII,Condensates,Poor,14.96
+Tenerifis,E-IFSA,L2GN-K,L2GN-K I,Fiber Composite,Medium,27.05
+Tenerifis,E-IFSA,L2GN-K,L2GN-K I,Glossy Compound,Rich,36.12
+Tenerifis,E-IFSA,L2GN-K,L2GN-K I,Reactive Gas,Medium,24.29
+Tenerifis,E-IFSA,L2GN-K,L2GN-K I,Base Metals,Poor,5.49
+Tenerifis,E-IFSA,L2GN-K,L2GN-K I,Polyaramids,Perfect,25.66
+Tenerifis,E-IFSA,L2GN-K,L2GN-K II,Lustering Alloy,Poor,20.42
+Tenerifis,E-IFSA,L2GN-K,L2GN-K II,Reactive Gas,Rich,36.14
+Tenerifis,E-IFSA,L2GN-K,L2GN-K II,Reactive Metals,Medium,6.12
+Tenerifis,E-IFSA,L2GN-K,L2GN-K II,Coolant,Medium,19.73
+Tenerifis,E-IFSA,L2GN-K,L2GN-K II,Ionic Solutions,Poor,8.02
+Tenerifis,E-IFSA,L2GN-K,L2GN-K III,Precious Alloy,Medium,25.10
+Tenerifis,E-IFSA,L2GN-K,L2GN-K III,Supertensile Plastics,Medium,19.44
+Tenerifis,E-IFSA,L2GN-K,L2GN-K III,Condensates,Medium,18.96
+Tenerifis,E-IFSA,L2GN-K,L2GN-K III,Liquid Ozone,Rich,39.03
+Tenerifis,E-IFSA,4-IT9G,4-IT9G I,Gleaming Alloy,Medium,26.04
+Tenerifis,E-IFSA,4-IT9G,4-IT9G I,Reactive Metals,Medium,7.34
+Tenerifis,E-IFSA,4-IT9G,4-IT9G I,Nanites,Medium,7.87
+Tenerifis,E-IFSA,4-IT9G,4-IT9G I,Oxygen Isotopes,Medium,3.42
+Tenerifis,E-IFSA,4-IT9G,4-IT9G II,Dark Compound,Poor,15.94
+Tenerifis,E-IFSA,4-IT9G,4-IT9G II,Toxic Metals,Poor,3.98
+Tenerifis,E-IFSA,4-IT9G,4-IT9G II,Supertensile Plastics,Poor,14.74
+Tenerifis,E-IFSA,4-IT9G,4-IT9G II,Plasmoids,Poor,1.25
+Tenerifis,E-IFSA,4-IT9G,4-IT9G III,Precious Alloy,Poor,15.89
+Tenerifis,E-IFSA,4-IT9G,4-IT9G III,Industrial Fibers,Medium,7.57
+Tenerifis,E-IFSA,4-IT9G,4-IT9G III,Supertensile Plastics,Medium,15.62
+Tenerifis,E-IFSA,4-IT9G,4-IT9G III,Construction Blocks,Poor,22.03
+Tenerifis,E-IFSA,4-IT9G,4-IT9G IV,Toxic Metals,Poor,5.17
+Tenerifis,E-IFSA,4-IT9G,4-IT9G IV,Supertensile Plastics,Medium,18.24
+Tenerifis,E-IFSA,4-IT9G,4-IT9G IV,Silicate Glass,Poor,11.29
+Tenerifis,E-IFSA,4-IT9G,4-IT9G IV,Oxygen Isotopes,Medium,3.76
+Tenerifis,E-IFSA,4-IT9G,4-IT9G V,Lustering Alloy,Medium,28.63
+Tenerifis,E-IFSA,4-IT9G,4-IT9G V,Reactive Gas,Medium,25.85
+Tenerifis,E-IFSA,4-IT9G,4-IT9G V,Base Metals,Medium,7.76
+Tenerifis,E-IFSA,4-IT9G,4-IT9G V,Reactive Metals,Poor,5.85
+Tenerifis,E-IFSA,4-IT9G,4-IT9G V,Polyaramids,Medium,16.29
+Tenerifis,E-IFSA,4-IT9G,4-IT9G VI,Reactive Gas,Medium,29.98
+Tenerifis,E-IFSA,4-IT9G,4-IT9G VI,Base Metals,Rich,9.22
+Tenerifis,E-IFSA,4-IT9G,4-IT9G VI,Smartfab Units,Perfect,30.26
+Tenerifis,E-IFSA,4-IT9G,4-IT9G VI,Heavy Water,Perfect,445.20
+Tenerifis,E-IFSA,4-IT9G,4-IT9G VI,Liquid Ozone,Medium,32.13
+Tenerifis,E-IFSA,4-IT9G,4-IT9G VII,Sheen Compound,Poor,19.87
+Tenerifis,E-IFSA,4-IT9G,4-IT9G VII,Fiber Composite,Medium,23.28
+Tenerifis,E-IFSA,4-IT9G,4-IT9G VII,Glossy Compound,Rich,30.53
+Tenerifis,E-IFSA,4-IT9G,4-IT9G VII,Reactive Gas,Poor,21.67
+Tenerifis,E-IFSA,4-IT9G,4-IT9G VII,Coolant,Medium,18.61
+Tenerifis,E-IFSA,4-IT9G,4-IT9G VIII,Reactive Gas,Rich,31.73
+Tenerifis,E-IFSA,4-IT9G,4-IT9G VIII,Reactive Metals,Rich,9.97
+Tenerifis,E-IFSA,4-IT9G,4-IT9G VIII,Polyaramids,Rich,23.12
+Tenerifis,E-IFSA,4-IT9G,4-IT9G VIII,Coolant,Medium,15.92
+Tenerifis,E-IFSA,4-IT9G,4-IT9G VIII,Ionic Solutions,Medium,10.69
+Tenerifis,E-IFSA,4-IT9G,4-IT9G IX,Precious Alloy,Poor,20.26
+Tenerifis,E-IFSA,4-IT9G,4-IT9G IX,Heavy Metals,Medium,30.34
+Tenerifis,E-IFSA,4-IT9G,4-IT9G IX,Condensates,Rich,20.46
+Tenerifis,E-IFSA,4-IT9G,4-IT9G IX,Suspended Plasma,Poor,64.97
+Tenerifis,E-IFSA,4-IT9G,4-IT9G X,Lustering Alloy,Poor,22.58
+Tenerifis,E-IFSA,4-IT9G,4-IT9G X,Precious Alloy,Medium,26.52
+Tenerifis,E-IFSA,4-IT9G,4-IT9G X,Heavy Metals,Poor,19.20
+Tenerifis,E-IFSA,4-IT9G,4-IT9G X,Condensates,Poor,14.21
+Tenerifis,E-IFSA,PEK-8Z,PEK-8Z I,Precious Alloy,Poor,22.19
+Tenerifis,E-IFSA,PEK-8Z,PEK-8Z I,Dark Compound,Medium,27.19
+Tenerifis,E-IFSA,PEK-8Z,PEK-8Z I,Base Metals,Medium,6.98
+Tenerifis,E-IFSA,PEK-8Z,PEK-8Z I,Toxic Metals,Poor,5.50
+Tenerifis,E-IFSA,PEK-8Z,PEK-8Z I,Industrial Fibers,Medium,8.66
+Tenerifis,E-IFSA,PEK-8Z,PEK-8Z II,Sheen Compound,Medium,32.51
+Tenerifis,E-IFSA,PEK-8Z,PEK-8Z II,Lucent Compound,Medium,28.03
+Tenerifis,E-IFSA,PEK-8Z,PEK-8Z II,Heavy Metals,Rich,38.15
+Tenerifis,E-IFSA,PEK-8Z,PEK-8Z II,Reactive Metals,Medium,8.06
+Tenerifis,E-IFSA,PEK-8Z,PEK-8Z II,Condensates,Medium,20.54
+Tenerifis,E-IFSA,PEK-8Z,PEK-8Z II,Ionic Solutions,Perfect,17.33
+Tenerifis,E-IFSA,PEK-8Z,PEK-8Z III,Gleaming Alloy,Rich,36.48
+Tenerifis,E-IFSA,PEK-8Z,PEK-8Z III,Motley Compound,Rich,36.37
+Tenerifis,E-IFSA,PEK-8Z,PEK-8Z III,Glossy Compound,Poor,21.87
+Tenerifis,E-IFSA,PEK-8Z,PEK-8Z III,Plasmoids,Medium,1.66
+Tenerifis,E-IFSA,PEK-8Z,PEK-8Z IV,Motley Compound,Medium,28.84
+Tenerifis,E-IFSA,PEK-8Z,PEK-8Z IV,Glossy Compound,Rich,35.10
+Tenerifis,E-IFSA,PEK-8Z,PEK-8Z IV,Noble Metals,Poor,23.00
+Tenerifis,E-IFSA,PEK-8Z,PEK-8Z IV,Polyaramids,Medium,17.50
+Tenerifis,E-IFSA,PEK-8Z,PEK-8Z V,Lustering Alloy,Poor,22.36
+Tenerifis,E-IFSA,PEK-8Z,PEK-8Z V,Glossy Compound,Rich,39.34
+Tenerifis,E-IFSA,PEK-8Z,PEK-8Z V,Base Metals,Medium,7.40
+Tenerifis,E-IFSA,PEK-8Z,PEK-8Z V,Reactive Metals,Perfect,11.74
+Tenerifis,E-IFSA,PEK-8Z,PEK-8Z V,Polyaramids,Perfect,28.76
+Tenerifis,E-IFSA,PEK-8Z,PEK-8Z V,Coolant,Rich,25.69
+Tenerifis,E-IFSA,PEK-8Z,PEK-8Z VI,Sheen Compound,Rich,37.58
+Tenerifis,E-IFSA,PEK-8Z,PEK-8Z VI,Fiber Composite,Medium,26.22
+Tenerifis,E-IFSA,PEK-8Z,PEK-8Z VI,Glossy Compound,Rich,40.80
+Tenerifis,E-IFSA,PEK-8Z,PEK-8Z VI,Noble Gas,Rich,38.83
+Tenerifis,E-IFSA,PEK-8Z,PEK-8Z VI,Base Metals,Rich,11.28
+Tenerifis,E-IFSA,PEK-8Z,PEK-8Z VI,Polyaramids,Rich,22.81
+Tenerifis,E-IFSA,2PG-KN,2PG-KN I,Lustering Alloy,Medium,29.62
+Tenerifis,E-IFSA,2PG-KN,2PG-KN I,Dark Compound,Medium,29.62
+Tenerifis,E-IFSA,2PG-KN,2PG-KN I,Base Metals,Poor,5.87
+Tenerifis,E-IFSA,2PG-KN,2PG-KN I,Supertensile Plastics,Poor,16.58
+Tenerifis,E-IFSA,2PG-KN,2PG-KN I,Oxygen Isotopes,Medium,4.68
+Tenerifis,E-IFSA,2PG-KN,2PG-KN II,Motley Compound,Perfect,44.47
+Tenerifis,E-IFSA,2PG-KN,2PG-KN II,Glossy Compound,Poor,23.03
+Tenerifis,E-IFSA,2PG-KN,2PG-KN II,Noble Gas,Medium,31.35
+Tenerifis,E-IFSA,2PG-KN,2PG-KN II,Oxygen Isotopes,Perfect,6.66
+Tenerifis,E-IFSA,2PG-KN,2PG-KN III,Lustering Alloy,Poor,18.25
+Tenerifis,E-IFSA,2PG-KN,2PG-KN III,Dark Compound,Medium,26.27
+Tenerifis,E-IFSA,2PG-KN,2PG-KN III,Base Metals,Poor,6.07
+Tenerifis,E-IFSA,2PG-KN,2PG-KN III,Toxic Metals,Medium,7.47
+Tenerifis,E-IFSA,2PG-KN,2PG-KN III,Construction Blocks,Medium,32.75
+Tenerifis,E-IFSA,2PG-KN,2PG-KN IV,Glossy Compound,Medium,32.27
+Tenerifis,E-IFSA,2PG-KN,2PG-KN IV,Noble Metals,Medium,33.59
+Tenerifis,E-IFSA,2PG-KN,2PG-KN IV,Oxygen Isotopes,Perfect,6.85
+Tenerifis,E-IFSA,2PG-KN,2PG-KN IV,Plasmoids,Medium,1.59
+Tenerifis,E-IFSA,2PG-KN,2PG-KN V,Condensed Alloy,Perfect,44.95
+Tenerifis,E-IFSA,2PG-KN,2PG-KN V,Fiber Composite,Medium,27.62
+Tenerifis,E-IFSA,2PG-KN,2PG-KN V,Reactive Gas,Rich,36.48
+Tenerifis,E-IFSA,2PG-KN,2PG-KN V,Base Metals,Perfect,11.43
+Tenerifis,E-IFSA,2PG-KN,2PG-KN V,Noble Metals,Perfect,43.01
+Tenerifis,E-IFSA,2PG-KN,2PG-KN V,Condensates,Perfect,32.81
+Tenerifis,E-IFSA,2PG-KN,2PG-KN VI,Sheen Compound,Rich,39.88
+Tenerifis,E-IFSA,2PG-KN,2PG-KN VI,Glossy Compound,Rich,39.72
+Tenerifis,E-IFSA,2PG-KN,2PG-KN VI,Reactive Gas,Rich,39.47
+Tenerifis,E-IFSA,2PG-KN,2PG-KN VI,Noble Gas,Rich,34.34
+Tenerifis,E-IFSA,2PG-KN,2PG-KN VI,Reactive Metals,Medium,8.56
+Tenerifis,E-IFSA,2PG-KN,2PG-KN VI,Polyaramids,Medium,22.48
+Tenerifis,E-IFSA,2PG-KN,2PG-KN VII,Lustering Alloy,Medium,25.49
+Tenerifis,E-IFSA,2PG-KN,2PG-KN VII,Precious Alloy,Medium,31.13
+Tenerifis,E-IFSA,2PG-KN,2PG-KN VII,Dark Compound,Poor,24.52
+Tenerifis,E-IFSA,2PG-KN,2PG-KN VII,Construction Blocks,Medium,27.38
+Tenerifis,E-IFSA,2PG-KN,2PG-KN VII,Oxygen Isotopes,Poor,3.74
+Tenerifis,E-IFSA,2PG-KN,2PG-KN VIII,Lustering Alloy,Perfect,44.20
+Tenerifis,E-IFSA,2PG-KN,2PG-KN VIII,Fiber Composite,Medium,31.59
+Tenerifis,E-IFSA,2PG-KN,2PG-KN VIII,Glossy Compound,Medium,27.59
+Tenerifis,E-IFSA,2PG-KN,2PG-KN VIII,Base Metals,Poor,5.90
+Tenerifis,E-IFSA,2PG-KN,2PG-KN VIII,Reactive Metals,Medium,8.13
+Tenerifis,E-IFSA,2PG-KN,2PG-KN VIII,Polyaramids,Rich,25.63
+Tenerifis,E-IFSA,2PG-KN,2PG-KN IX,Lustering Alloy,Poor,24.33
+Tenerifis,E-IFSA,2PG-KN,2PG-KN IX,Fiber Composite,Medium,30.81
+Tenerifis,E-IFSA,2PG-KN,2PG-KN IX,Reactive Gas,Poor,23.68
+Tenerifis,E-IFSA,2PG-KN,2PG-KN IX,Base Metals,Medium,6.70
+Tenerifis,E-IFSA,2PG-KN,2PG-KN IX,Coolant,Rich,28.48
+Tenerifis,E-IFSA,2PG-KN,2PG-KN IX,Ionic Solutions,Rich,14.77
+Tenerifis,E-IFSA,2PG-KN,2PG-KN X,Sheen Compound,Rich,36.37
+Tenerifis,E-IFSA,2PG-KN,2PG-KN X,Fiber Composite,Medium,25.95
+Tenerifis,E-IFSA,2PG-KN,2PG-KN X,Glossy Compound,Perfect,44.47
+Tenerifis,E-IFSA,2PG-KN,2PG-KN X,Reactive Gas,Medium,30.67
+Tenerifis,E-IFSA,2PG-KN,2PG-KN X,Polyaramids,Medium,22.68
+Tenerifis,E-IFSA,2PG-KN,2PG-KN X,Coolant,Rich,22.93
+Tenerifis,ZQ7-QS,ABE-M2,ABE-M2 I,Gleaming Alloy,Perfect,38.69
+Tenerifis,ZQ7-QS,ABE-M2,ABE-M2 I,Motley Compound,Rich,32.15
+Tenerifis,ZQ7-QS,ABE-M2,ABE-M2 I,Construction Blocks,Rich,33.42
+Tenerifis,ZQ7-QS,ABE-M2,ABE-M2 II,Gleaming Alloy,Medium,23.28
+Tenerifis,ZQ7-QS,ABE-M2,ABE-M2 II,Motley Compound,Medium,26.17
+Tenerifis,ZQ7-QS,ABE-M2,ABE-M2 II,Smartfab Units,Poor,13.69
+Tenerifis,ZQ7-QS,ABE-M2,ABE-M2 III,Noble Metals,Rich,34.89
+Tenerifis,ZQ7-QS,ABE-M2,ABE-M2 III,Industrial Fibers,Rich,8.76
+Tenerifis,ZQ7-QS,ABE-M2,ABE-M2 III,Smartfab Units,Rich,21.08
+Tenerifis,ZQ7-QS,ABE-M2,ABE-M2 III,Heavy Water,Rich,301.30
+Tenerifis,ZQ7-QS,ABE-M2,ABE-M2 III,Liquid Ozone,Perfect,51.58
+Tenerifis,ZQ7-QS,ABE-M2,ABE-M2 IV,Condensed Alloy,Medium,24.36
+Tenerifis,ZQ7-QS,ABE-M2,ABE-M2 IV,Toxic Metals,Rich,7.82
+Tenerifis,ZQ7-QS,ABE-M2,ABE-M2 IV,Coolant,Rich,23.55
+Tenerifis,ZQ7-QS,ABE-M2,ABE-M2 IV,Heavy Water,Medium,232.30
+Tenerifis,ZQ7-QS,ABE-M2,ABE-M2 IV,Liquid Ozone,Perfect,48.21
+Tenerifis,ZQ7-QS,ABE-M2,ABE-M2 V,Precious Alloy,Medium,23.07
+Tenerifis,ZQ7-QS,ABE-M2,ABE-M2 V,Supertensile Plastics,Poor,12.11
+Tenerifis,ZQ7-QS,ABE-M2,ABE-M2 V,Silicate Glass,Medium,11.24
+Tenerifis,ZQ7-QS,ABE-M2,ABE-M2 V,Plasmoids,Poor,1.15
+Tenerifis,ZQ7-QS,ABE-M2,ABE-M2 VI,Gleaming Alloy,Medium,23.34
+Tenerifis,ZQ7-QS,ABE-M2,ABE-M2 VI,Reactive Metals,Medium,6.93
+Tenerifis,ZQ7-QS,ABE-M2,ABE-M2 VI,Nanites,Rich,8.37
+Tenerifis,ZQ7-QS,ABE-M2,ABE-M2 VI,Suspended Plasma,Medium,102.67
+Tenerifis,ZQ7-QS,ABE-M2,ABE-M2 VII,Crystal Compound,Medium,26.29
+Tenerifis,ZQ7-QS,ABE-M2,ABE-M2 VII,Reactive Metals,Medium,5.85
+Tenerifis,ZQ7-QS,ABE-M2,ABE-M2 VII,Toxic Metals,Medium,6.02
+Tenerifis,ZQ7-QS,ABE-M2,ABE-M2 VII,Nanites,Rich,8.15
+Tenerifis,ZQ7-QS,ABE-M2,ABE-M2 VIII,Lustering Alloy,Medium,24.95
+Tenerifis,ZQ7-QS,ABE-M2,ABE-M2 VIII,Sheen Compound,Poor,18.86
+Tenerifis,ZQ7-QS,ABE-M2,ABE-M2 VIII,Glossy Compound,Medium,26.93
+Tenerifis,ZQ7-QS,ABE-M2,ABE-M2 VIII,Reactive Gas,Medium,21.73
+Tenerifis,ZQ7-QS,ABE-M2,ABE-M2 VIII,Ionic Solutions,Rich,12.70
+Tenerifis,ZQ7-QS,ABE-M2,ABE-M2 IX,Sheen Compound,Poor,21.02
+Tenerifis,ZQ7-QS,ABE-M2,ABE-M2 IX,Fiber Composite,Perfect,37.12
+Tenerifis,ZQ7-QS,ABE-M2,ABE-M2 IX,Reactive Gas,Rich,32.02
+Tenerifis,ZQ7-QS,ABE-M2,ABE-M2 IX,Polyaramids,Medium,16.24
+Tenerifis,ZQ7-QS,ABE-M2,ABE-M2 IX,Coolant,Medium,16.94
+Tenerifis,ZQ7-QS,IL-YTR,IL-YTR I,Glossy Compound,Rich,39.08
+Tenerifis,ZQ7-QS,IL-YTR,IL-YTR I,Noble Gas,Medium,28.43
+Tenerifis,ZQ7-QS,IL-YTR,IL-YTR I,Heavy Metals,Medium,23.63
+Tenerifis,ZQ7-QS,IL-YTR,IL-YTR I,Construction Blocks,Rich,34.10
+Tenerifis,ZQ7-QS,IL-YTR,IL-YTR II,Lustering Alloy,Medium,28.90
+Tenerifis,ZQ7-QS,IL-YTR,IL-YTR II,Dark Compound,Medium,27.27
+Tenerifis,ZQ7-QS,IL-YTR,IL-YTR II,Base Metals,Medium,7.93
+Tenerifis,ZQ7-QS,IL-YTR,IL-YTR II,Silicate Glass,Medium,13.55
+Tenerifis,ZQ7-QS,IL-YTR,IL-YTR II,Plasmoids,Medium,1.71
+Tenerifis,ZQ7-QS,IL-YTR,IL-YTR III,Glossy Compound,Rich,39.55
+Tenerifis,ZQ7-QS,IL-YTR,IL-YTR III,Polyaramids,Rich,25.13
+Tenerifis,ZQ7-QS,IL-YTR,IL-YTR III,Construction Blocks,Rich,35.88
+Tenerifis,ZQ7-QS,IL-YTR,IL-YTR III,Plasmoids,Medium,1.77
+Tenerifis,ZQ7-QS,IL-YTR,IL-YTR IV,Condensed Alloy,Perfect,40.90
+Tenerifis,ZQ7-QS,IL-YTR,IL-YTR IV,Crystal Compound,Perfect,42.23
+Tenerifis,ZQ7-QS,IL-YTR,IL-YTR IV,Noble Metals,Poor,22.30
+Tenerifis,ZQ7-QS,IL-YTR,IL-YTR IV,Polyaramids,Medium,19.17
+Tenerifis,ZQ7-QS,IL-YTR,IL-YTR IV,Silicate Glass,Rich,17.76
+Tenerifis,ZQ7-QS,IL-YTR,IL-YTR IV,Heavy Water,Perfect,399.75
+Tenerifis,ZQ7-QS,IL-YTR,IL-YTR V,Condensed Alloy,Rich,32.55
+Tenerifis,ZQ7-QS,IL-YTR,IL-YTR V,Fiber Composite,Perfect,42.50
+Tenerifis,ZQ7-QS,IL-YTR,IL-YTR V,Reactive Gas,Perfect,46.48
+Tenerifis,ZQ7-QS,IL-YTR,IL-YTR V,Noble Metals,Medium,24.52
+Tenerifis,ZQ7-QS,IL-YTR,IL-YTR V,Industrial Fibers,Rich,8.42
+Tenerifis,ZQ7-QS,IL-YTR,IL-YTR V,Liquid Ozone,Perfect,50.94
+Tenerifis,ZQ7-QS,IL-YTR,IL-YTR VI,Condensed Alloy,Rich,38.38
+Tenerifis,ZQ7-QS,IL-YTR,IL-YTR VI,Crystal Compound,Medium,28.65
+Tenerifis,ZQ7-QS,IL-YTR,IL-YTR VI,Noble Metals,Medium,26.05
+Tenerifis,ZQ7-QS,IL-YTR,IL-YTR VI,Polyaramids,Perfect,27.32
+Tenerifis,ZQ7-QS,IL-YTR,IL-YTR VI,Heavy Water,Medium,314.50
+Tenerifis,ZQ7-QS,IL-YTR,IL-YTR VI,Ionic Solutions,Perfect,17.51
+Tenerifis,ZQ7-QS,IL-YTR,IL-YTR VII,Lustering Alloy,Poor,20.60
+Tenerifis,ZQ7-QS,IL-YTR,IL-YTR VII,Glossy Compound,Poor,22.27
+Tenerifis,ZQ7-QS,IL-YTR,IL-YTR VII,Reactive Gas,Rich,35.73
+Tenerifis,ZQ7-QS,IL-YTR,IL-YTR VII,Noble Gas,Poor,21.52
+Tenerifis,ZQ7-QS,IL-YTR,IL-YTR VII,Base Metals,Poor,5.62
+Tenerifis,ZQ7-QS,IL-YTR,IL-YTR VII,Polyaramids,Perfect,27.37
+Tenerifis,ZQ7-QS,IL-YTR,IL-YTR VIII,Crystal Compound,Rich,35.92
+Tenerifis,ZQ7-QS,IL-YTR,IL-YTR VIII,Reactive Gas,Medium,28.10
+Tenerifis,ZQ7-QS,IL-YTR,IL-YTR VIII,Supertensile Plastics,Medium,16.93
+Tenerifis,ZQ7-QS,IL-YTR,IL-YTR VIII,Nanites,Rich,9.59
+Tenerifis,ZQ7-QS,IL-YTR,IL-YTR VIII,Suspended Plasma,Perfect,143.37
+Tenerifis,ZQ7-QS,IL-YTR,IL-YTR IX,Opulent Compound,Perfect,42.25
+Tenerifis,ZQ7-QS,IL-YTR,IL-YTR IX,Crystal Compound,Medium,26.23
+Tenerifis,ZQ7-QS,IL-YTR,IL-YTR IX,Toxic Metals,Medium,7.84
+Tenerifis,ZQ7-QS,IL-YTR,IL-YTR IX,Polyaramids,Rich,23.98
+Tenerifis,ZQ7-QS,IL-YTR,IL-YTR IX,Silicate Glass,Rich,16.80
+Tenerifis,ZQ7-QS,IL-YTR,IL-YTR IX,Heavy Water,Perfect,440.75
+Tenerifis,ZQ7-QS,KW-OAM,KW-OAM I,Precious Alloy,Medium,29.09
+Tenerifis,ZQ7-QS,KW-OAM,KW-OAM I,Dark Compound,Poor,22.96
+Tenerifis,ZQ7-QS,KW-OAM,KW-OAM I,Toxic Metals,Poor,4.71
+Tenerifis,ZQ7-QS,KW-OAM,KW-OAM I,Industrial Fibers,Medium,6.53
+Tenerifis,ZQ7-QS,KW-OAM,KW-OAM I,Construction Blocks,Medium,25.27
+Tenerifis,ZQ7-QS,KW-OAM,KW-OAM II,Glossy Compound,Poor,22.05
+Tenerifis,ZQ7-QS,KW-OAM,KW-OAM II,Noble Gas,Medium,28.05
+Tenerifis,ZQ7-QS,KW-OAM,KW-OAM II,Heavy Metals,Rich,35.83
+Tenerifis,ZQ7-QS,KW-OAM,KW-OAM II,Smartfab Units,Rich,25.65
+Tenerifis,ZQ7-QS,KW-OAM,KW-OAM III,Motley Compound,Medium,26.29
+Tenerifis,ZQ7-QS,KW-OAM,KW-OAM III,Glossy Compound,Medium,29.56
+Tenerifis,ZQ7-QS,KW-OAM,KW-OAM III,Noble Gas,Perfect,41.94
+Tenerifis,ZQ7-QS,KW-OAM,KW-OAM III,Polyaramids,Rich,23.26
+Tenerifis,ZQ7-QS,KW-OAM,KW-OAM IV,Lustering Alloy,Poor,17.34
+Tenerifis,ZQ7-QS,KW-OAM,KW-OAM IV,Dark Compound,Medium,30.45
+Tenerifis,ZQ7-QS,KW-OAM,KW-OAM IV,Base Metals,Medium,7.70
+Tenerifis,ZQ7-QS,KW-OAM,KW-OAM IV,Silicate Glass,Poor,8.83
+Tenerifis,ZQ7-QS,KW-OAM,KW-OAM IV,Plasmoids,Medium,1.82
+Tenerifis,ZQ7-QS,KW-OAM,KW-OAM V,Dark Compound,Poor,16.80
+Tenerifis,ZQ7-QS,KW-OAM,KW-OAM V,Base Metals,Poor,6.18
+Tenerifis,ZQ7-QS,KW-OAM,KW-OAM V,Industrial Fibers,Poor,4.45
+Tenerifis,ZQ7-QS,KW-OAM,KW-OAM V,Oxygen Isotopes,Poor,2.42
+Tenerifis,ZQ7-QS,KW-OAM,KW-OAM V,Plasmoids,Poor,1.27
+Tenerifis,ZQ7-QS,KW-OAM,KW-OAM VI,Lustering Alloy,Rich,39.91
+Tenerifis,ZQ7-QS,KW-OAM,KW-OAM VI,Glossy Compound,Medium,26.62
+Tenerifis,ZQ7-QS,KW-OAM,KW-OAM VI,Reactive Gas,Medium,30.29
+Tenerifis,ZQ7-QS,KW-OAM,KW-OAM VI,Base Metals,Rich,10.09
+Tenerifis,ZQ7-QS,KW-OAM,KW-OAM VI,Polyaramids,Poor,14.63
+Tenerifis,ZQ7-QS,KW-OAM,KW-OAM VI,Coolant,Rich,24.58
+Tenerifis,ZQ7-QS,KW-OAM,KW-OAM VII,Crystal Compound,Rich,38.56
+Tenerifis,ZQ7-QS,KW-OAM,KW-OAM VII,Reactive Gas,Poor,21.81
+Tenerifis,ZQ7-QS,KW-OAM,KW-OAM VII,Reactive Metals,Rich,10.11
+Tenerifis,ZQ7-QS,KW-OAM,KW-OAM VII,Toxic Metals,Poor,5.59
+Tenerifis,ZQ7-QS,KW-OAM,KW-OAM VII,Suspended Plasma,Rich,123.27
+Tenerifis,ZQ7-QS,KW-OAM,KW-OAM VIII,Precious Alloy,Poor,22.80
+Tenerifis,ZQ7-QS,KW-OAM,KW-OAM VIII,Dark Compound,Medium,24.54
+Tenerifis,ZQ7-QS,KW-OAM,KW-OAM VIII,Construction Blocks,Medium,26.55
+Tenerifis,ZQ7-QS,KW-OAM,KW-OAM VIII,Silicate Glass,Medium,15.05
+Tenerifis,ZQ7-QS,KW-OAM,KW-OAM VIII,Oxygen Isotopes,Poor,2.81
+Tenerifis,ZQ7-QS,KW-OAM,KW-OAM IX,Lustering Alloy,Rich,39.83
+Tenerifis,ZQ7-QS,KW-OAM,KW-OAM IX,Sheen Compound,Medium,30.13
+Tenerifis,ZQ7-QS,KW-OAM,KW-OAM IX,Fiber Composite,Medium,28.00
+Tenerifis,ZQ7-QS,KW-OAM,KW-OAM IX,Glossy Compound,Medium,28.96
+Tenerifis,ZQ7-QS,KW-OAM,KW-OAM IX,Base Metals,Rich,10.61
+Tenerifis,ZQ7-QS,KW-OAM,KW-OAM IX,Polyaramids,Perfect,28.34
+Tenerifis,ZQ7-QS,KW-OAM,KW-OAM X,Sheen Compound,Rich,38.06
+Tenerifis,ZQ7-QS,KW-OAM,KW-OAM X,Fiber Composite,Perfect,41.94
+Tenerifis,ZQ7-QS,KW-OAM,KW-OAM X,Reactive Gas,Medium,30.47
+Tenerifis,ZQ7-QS,KW-OAM,KW-OAM X,Noble Gas,Rich,40.30
+Tenerifis,ZQ7-QS,KW-OAM,KW-OAM X,Coolant,Rich,23.47
+Tenerifis,ZQ7-QS,KW-OAM,KW-OAM X,Ionic Solutions,Rich,13.87
+Tenerifis,ZQ7-QS,KW-OAM,KW-OAM XI,Lustering Alloy,Medium,32.42
+Tenerifis,ZQ7-QS,KW-OAM,KW-OAM XI,Sheen Compound,Medium,26.55
+Tenerifis,ZQ7-QS,KW-OAM,KW-OAM XI,Glossy Compound,Medium,31.02
+Tenerifis,ZQ7-QS,KW-OAM,KW-OAM XI,Base Metals,Perfect,11.17
+Tenerifis,ZQ7-QS,KW-OAM,KW-OAM XI,Reactive Metals,Rich,10.78
+Tenerifis,ZQ7-QS,KW-OAM,KW-OAM XI,Polyaramids,Medium,17.54
+Tenerifis,ZQ7-QS,KW-OAM,KW-OAM XII,Condensed Alloy,Medium,27.14
+Tenerifis,ZQ7-QS,KW-OAM,KW-OAM XII,Crystal Compound,Medium,28.08
+Tenerifis,ZQ7-QS,KW-OAM,KW-OAM XII,Toxic Metals,Medium,7.57
+Tenerifis,ZQ7-QS,KW-OAM,KW-OAM XII,Polyaramids,Medium,21.27
+Tenerifis,ZQ7-QS,KW-OAM,KW-OAM XII,Heavy Water,Perfect,452.66
+Tenerifis,ZQ7-QS,KW-OAM,KW-OAM XII,Liquid Ozone,Medium,38.41
+Tenerifis,ZQ7-QS,U2U5-A,U2U5-A I,Gleaming Alloy,Rich,37.06
+Tenerifis,ZQ7-QS,U2U5-A,U2U5-A I,Glossy Compound,Perfect,38.88
+Tenerifis,ZQ7-QS,U2U5-A,U2U5-A I,Noble Metals,Rich,34.75
+Tenerifis,ZQ7-QS,U2U5-A,U2U5-A II,Lustering Alloy,Medium,25.61
+Tenerifis,ZQ7-QS,U2U5-A,U2U5-A II,Base Metals,Poor,4.02
+Tenerifis,ZQ7-QS,U2U5-A,U2U5-A II,Supertensile Plastics,Poor,11.31
+Tenerifis,ZQ7-QS,U2U5-A,U2U5-A II,Oxygen Isotopes,Medium,4.28
+Tenerifis,ZQ7-QS,U2U5-A,U2U5-A III,Lucent Compound,Medium,25.80
+Tenerifis,ZQ7-QS,U2U5-A,U2U5-A III,Reactive Gas,Rich,35.28
+Tenerifis,ZQ7-QS,U2U5-A,U2U5-A III,Reactive Metals,Rich,9.28
+Tenerifis,ZQ7-QS,U2U5-A,U2U5-A III,Nanites,Medium,7.45
+Tenerifis,ZQ7-QS,U2U5-A,U2U5-A IV,Lustering Alloy,Medium,22.70
+Tenerifis,ZQ7-QS,U2U5-A,U2U5-A IV,Sheen Compound,Poor,21.96
+Tenerifis,ZQ7-QS,U2U5-A,U2U5-A IV,Reactive Gas,Poor,20.30
+Tenerifis,ZQ7-QS,U2U5-A,U2U5-A IV,Noble Gas,Perfect,38.64
+Tenerifis,ZQ7-QS,U2U5-A,U2U5-A IV,Base Metals,Perfect,10.42
+Tenerifis,ZQ7-QS,U2U5-A,U2U5-A V,Sheen Compound,Medium,28.08
+Tenerifis,ZQ7-QS,U2U5-A,U2U5-A V,Fiber Composite,Poor,22.03
+Tenerifis,ZQ7-QS,U2U5-A,U2U5-A V,Reactive Gas,Poor,21.31
+Tenerifis,ZQ7-QS,U2U5-A,U2U5-A V,Base Metals,Rich,8.00
+Tenerifis,ZQ7-QS,U2U5-A,U2U5-A V,Reactive Metals,Poor,5.34
+Tenerifis,ZQ7-QS,U2U5-A,U2U5-A VI,Gleaming Alloy,Rich,32.23
+Tenerifis,ZQ7-QS,U2U5-A,U2U5-A VI,Lucent Compound,Medium,23.93
+Tenerifis,ZQ7-QS,U2U5-A,U2U5-A VI,Crystal Compound,Poor,20.38
+Tenerifis,ZQ7-QS,U2U5-A,U2U5-A VI,Reactive Metals,Rich,8.96
+Tenerifis,ZQ7-QS,U2U5-A,U2U5-A VII,Lustering Alloy,Poor,20.86
+Tenerifis,ZQ7-QS,U2U5-A,U2U5-A VII,Glossy Compound,Poor,22.49
+Tenerifis,ZQ7-QS,U2U5-A,U2U5-A VII,Reactive Gas,Medium,27.05
+Tenerifis,ZQ7-QS,U2U5-A,U2U5-A VII,Reactive Metals,Rich,9.45
+Tenerifis,ZQ7-QS,U2U5-A,U2U5-A VII,Ionic Solutions,Medium,11.85
+Tenerifis,ZQ7-QS,U2U5-A,U2U5-A VIII,Precious Alloy,Poor,20.35
+Tenerifis,ZQ7-QS,U2U5-A,U2U5-A VIII,Motley Compound,Medium,30.31
+Tenerifis,ZQ7-QS,U2U5-A,U2U5-A VIII,Heavy Metals,Medium,27.74
+Tenerifis,ZQ7-QS,U2U5-A,U2U5-A VIII,Condensates,Poor,13.30
+Tenerifis,ZQ7-QS,EQWO-Y,EQWO-Y I,Toxic Metals,Medium,5.80
+Tenerifis,ZQ7-QS,EQWO-Y,EQWO-Y I,Supertensile Plastics,Medium,15.35
+Tenerifis,ZQ7-QS,EQWO-Y,EQWO-Y I,Oxygen Isotopes,Medium,3.42
+Tenerifis,ZQ7-QS,EQWO-Y,EQWO-Y I,Plasmoids,Poor,0.90
+Tenerifis,ZQ7-QS,EQWO-Y,EQWO-Y II,Gleaming Alloy,Rich,36.45
+Tenerifis,ZQ7-QS,EQWO-Y,EQWO-Y II,Noble Gas,Rich,34.45
+Tenerifis,ZQ7-QS,EQWO-Y,EQWO-Y II,Construction Blocks,Rich,31.69
+Tenerifis,ZQ7-QS,EQWO-Y,EQWO-Y III,Precious Alloy,Medium,21.96
+Tenerifis,ZQ7-QS,EQWO-Y,EQWO-Y III,Supertensile Plastics,Poor,10.84
+Tenerifis,ZQ7-QS,EQWO-Y,EQWO-Y III,Silicate Glass,Poor,9.30
+Tenerifis,ZQ7-QS,EQWO-Y,EQWO-Y III,Oxygen Isotopes,Poor,3.09
+Tenerifis,ZQ7-QS,EQWO-Y,EQWO-Y IV,Dark Compound,Poor,16.65
+Tenerifis,ZQ7-QS,EQWO-Y,EQWO-Y IV,Toxic Metals,Medium,7.09
+Tenerifis,ZQ7-QS,EQWO-Y,EQWO-Y IV,Supertensile Plastics,Poor,13.34
+Tenerifis,ZQ7-QS,EQWO-Y,EQWO-Y IV,Construction Blocks,Medium,23.87
+Tenerifis,ZQ7-QS,EQWO-Y,EQWO-Y V,Gleaming Alloy,Rich,34.38
+Tenerifis,ZQ7-QS,EQWO-Y,EQWO-Y V,Reactive Metals,Rich,8.99
+Tenerifis,ZQ7-QS,EQWO-Y,EQWO-Y V,Supertensile Plastics,Rich,23.48
+Tenerifis,ZQ7-QS,EQWO-Y,EQWO-Y V,Nanites,Rich,7.99
+Tenerifis,ZQ7-QS,EQWO-Y,EQWO-Y VI,Crystal Compound,Medium,23.71
+Tenerifis,ZQ7-QS,EQWO-Y,EQWO-Y VI,Reactive Metals,Medium,7.54
+Tenerifis,ZQ7-QS,EQWO-Y,EQWO-Y VI,Supertensile Plastics,Medium,18.26
+Tenerifis,ZQ7-QS,EQWO-Y,EQWO-Y VI,Oxygen Isotopes,Rich,5.15
+Tenerifis,ZQ7-QS,EQWO-Y,EQWO-Y VII,Sheen Compound,Medium,27.62
+Tenerifis,ZQ7-QS,EQWO-Y,EQWO-Y VII,Fiber Composite,Medium,25.64
+Tenerifis,ZQ7-QS,EQWO-Y,EQWO-Y VII,Glossy Compound,Medium,27.83
+Tenerifis,ZQ7-QS,EQWO-Y,EQWO-Y VII,Reactive Gas,Medium,23.07
+Tenerifis,ZQ7-QS,EQWO-Y,EQWO-Y VII,Polyaramids,Medium,18.20
+Tenerifis,ZQ7-QS,EQWO-Y,EQWO-Y VIII,Glossy Compound,Poor,20.88
+Tenerifis,ZQ7-QS,EQWO-Y,EQWO-Y VIII,Reactive Gas,Medium,22.82
+Tenerifis,ZQ7-QS,EQWO-Y,EQWO-Y VIII,Reactive Metals,Perfect,9.71
+Tenerifis,ZQ7-QS,EQWO-Y,EQWO-Y VIII,Coolant,Rich,21.24
+Tenerifis,ZQ7-QS,EQWO-Y,EQWO-Y VIII,Ionic Solutions,Medium,10.17
+Tenerifis,ZQ7-QS,EQWO-Y,EQWO-Y IX,Lustering Alloy,Poor,21.23
+Tenerifis,ZQ7-QS,EQWO-Y,EQWO-Y IX,Fiber Composite,Perfect,37.21
+Tenerifis,ZQ7-QS,EQWO-Y,EQWO-Y IX,Reactive Gas,Poor,20.17
+Tenerifis,ZQ7-QS,EQWO-Y,EQWO-Y IX,Reactive Metals,Poor,4.99
+Tenerifis,ZQ7-QS,EQWO-Y,EQWO-Y IX,Polyaramids,Medium,14.78
+Tenerifis,ZQ7-QS,EQWO-Y,EQWO-Y X,Supertensile Plastics,Medium,18.19
+Tenerifis,ZQ7-QS,EQWO-Y,EQWO-Y X,Coolant,Rich,19.81
+Tenerifis,ZQ7-QS,EQWO-Y,EQWO-Y X,Condensates,Rich,19.70
+Tenerifis,ZQ7-QS,EQWO-Y,EQWO-Y X,Liquid Ozone,Medium,31.74
+Tenerifis,ZQ7-QS,JK-Q77,JK-Q77 I,Glossy Compound,Perfect,43.19
+Tenerifis,ZQ7-QS,JK-Q77,JK-Q77 I,Noble Metals,Medium,30.34
+Tenerifis,ZQ7-QS,JK-Q77,JK-Q77 I,Oxygen Isotopes,Rich,5.27
+Tenerifis,ZQ7-QS,JK-Q77,JK-Q77 I,Plasmoids,Perfect,2.54
+Tenerifis,ZQ7-QS,JK-Q77,JK-Q77 II,Condensed Alloy,Rich,38.27
+Tenerifis,ZQ7-QS,JK-Q77,JK-Q77 II,Fiber Composite,Medium,26.62
+Tenerifis,ZQ7-QS,JK-Q77,JK-Q77 II,Reactive Gas,Perfect,46.75
+Tenerifis,ZQ7-QS,JK-Q77,JK-Q77 II,Noble Metals,Medium,31.25
+Tenerifis,ZQ7-QS,JK-Q77,JK-Q77 II,Smartfab Units,Medium,20.42
+Tenerifis,ZQ7-QS,JK-Q77,JK-Q77 II,Liquid Ozone,Rich,49.34
+Tenerifis,ZQ7-QS,JK-Q77,JK-Q77 III,Crystal Compound,Poor,24.00
+Tenerifis,ZQ7-QS,JK-Q77,JK-Q77 III,Reactive Metals,Rich,9.39
+Tenerifis,ZQ7-QS,JK-Q77,JK-Q77 III,Toxic Metals,Medium,7.40
+Tenerifis,ZQ7-QS,JK-Q77,JK-Q77 III,Supertensile Plastics,Medium,21.68
+Tenerifis,ZQ7-QS,JK-Q77,JK-Q77 III,Suspended Plasma,Medium,105.77
+Tenerifis,ZQ7-QS,JK-Q77,JK-Q77 IV,Fiber Composite,Perfect,42.56
+Tenerifis,ZQ7-QS,JK-Q77,JK-Q77 IV,Glossy Compound,Rich,33.70
+Tenerifis,ZQ7-QS,JK-Q77,JK-Q77 IV,Reactive Gas,Medium,30.55
+Tenerifis,ZQ7-QS,JK-Q77,JK-Q77 IV,Reactive Metals,Poor,5.68
+Tenerifis,ZQ7-QS,JK-Q77,JK-Q77 IV,Polyaramids,Rich,24.18
+Tenerifis,ZQ7-QS,JK-Q77,JK-Q77 IV,Coolant,Medium,19.78
+Tenerifis,ZQ7-QS,JK-Q77,JK-Q77 V,Lustering Alloy,Medium,31.75
+Tenerifis,ZQ7-QS,JK-Q77,JK-Q77 V,Sheen Compound,Rich,41.21
+Tenerifis,ZQ7-QS,JK-Q77,JK-Q77 V,Glossy Compound,Rich,33.80
+Tenerifis,ZQ7-QS,JK-Q77,JK-Q77 V,Reactive Gas,Rich,40.07
+Tenerifis,ZQ7-QS,JK-Q77,JK-Q77 V,Coolant,Medium,19.83
+Tenerifis,ZQ7-QS,JK-Q77,JK-Q77 V,Ionic Solutions,Rich,16.00
+Tenerifis,ZQ7-QS,JK-Q77,JK-Q77 VI,Lustering Alloy,Rich,37.23
+Tenerifis,ZQ7-QS,JK-Q77,JK-Q77 VI,Sheen Compound,Medium,29.09
+Tenerifis,ZQ7-QS,JK-Q77,JK-Q77 VI,Fiber Composite,Rich,34.29
+Tenerifis,ZQ7-QS,JK-Q77,JK-Q77 VI,Glossy Compound,Rich,33.31
+Tenerifis,ZQ7-QS,JK-Q77,JK-Q77 VI,Reactive Gas,Medium,27.87
+Tenerifis,ZQ7-QS,JK-Q77,JK-Q77 VI,Polyaramids,Perfect,28.05
+Tenerifis,ZQ7-QS,JK-Q77,JK-Q77 VII,Precious Alloy,Rich,34.14
+Tenerifis,ZQ7-QS,JK-Q77,JK-Q77 VII,Motley Compound,Poor,21.03
+Tenerifis,ZQ7-QS,JK-Q77,JK-Q77 VII,Supertensile Plastics,Poor,13.92
+Tenerifis,ZQ7-QS,JK-Q77,JK-Q77 VII,Suspended Plasma,Rich,118.97
+Tenerifis,ZQ7-QS,JK-Q77,JK-Q77 VII,Liquid Ozone,Medium,35.72
+Tenerifis,ZQ7-QS,QI9-42,QI9-42 I,Industrial Fibers,Medium,7.13
+Tenerifis,ZQ7-QS,QI9-42,QI9-42 I,Supertensile Plastics,Poor,11.53
+Tenerifis,ZQ7-QS,QI9-42,QI9-42 I,Construction Blocks,Poor,18.31
+Tenerifis,ZQ7-QS,QI9-42,QI9-42 I,Silicate Glass,Poor,10.72
+Tenerifis,ZQ7-QS,QI9-42,QI9-42 II,Reactive Gas,Perfect,37.60
+Tenerifis,ZQ7-QS,QI9-42,QI9-42 II,Base Metals,Rich,8.42
+Tenerifis,ZQ7-QS,QI9-42,QI9-42 II,Reactive Metals,Rich,9.21
+Tenerifis,ZQ7-QS,QI9-42,QI9-42 II,Polyaramids,Rich,20.52
+Tenerifis,ZQ7-QS,QI9-42,QI9-42 II,Coolant,Perfect,24.41
+Tenerifis,ZQ7-QS,QI9-42,QI9-42 III,Glossy Compound,Poor,19.41
+Tenerifis,ZQ7-QS,QI9-42,QI9-42 III,Reactive Gas,Medium,24.13
+Tenerifis,ZQ7-QS,QI9-42,QI9-42 III,Noble Gas,Perfect,37.05
+Tenerifis,ZQ7-QS,QI9-42,QI9-42 III,Coolant,Medium,16.73
+Tenerifis,ZQ7-QS,QI9-42,QI9-42 III,Ionic Solutions,Poor,7.87
+Tenerifis,ZQ7-QS,QI9-42,QI9-42 IV,Sheen Compound,Rich,30.04
+Tenerifis,ZQ7-QS,QI9-42,QI9-42 IV,Fiber Composite,Poor,20.24
+Tenerifis,ZQ7-QS,QI9-42,QI9-42 IV,Glossy Compound,Medium,23.92
+Tenerifis,ZQ7-QS,QI9-42,QI9-42 IV,Reactive Gas,Poor,20.93
+Tenerifis,ZQ7-QS,QI9-42,QI9-42 IV,Ionic Solutions,Rich,12.74
+Tenerifis,ZQ7-QS,YF-P4X,YF-P4X I,Lustering Alloy,Poor,19.07
+Tenerifis,ZQ7-QS,YF-P4X,YF-P4X I,Supertensile Plastics,Poor,12.66
+Tenerifis,ZQ7-QS,YF-P4X,YF-P4X I,Construction Blocks,Poor,13.95
+Tenerifis,ZQ7-QS,YF-P4X,YF-P4X I,Silicate Glass,Poor,8.01
+Tenerifis,ZQ7-QS,YF-P4X,YF-P4X II,Gleaming Alloy,Medium,24.77
+Tenerifis,ZQ7-QS,YF-P4X,YF-P4X II,Noble Gas,Medium,25.19
+Tenerifis,ZQ7-QS,YF-P4X,YF-P4X II,Polyaramids,Rich,18.67
+Tenerifis,ZQ7-QS,YF-P4X,YF-P4X III,Condensed Alloy,Rich,31.88
+Tenerifis,ZQ7-QS,YF-P4X,YF-P4X III,Reactive Gas,Perfect,40.06
+Tenerifis,ZQ7-QS,YF-P4X,YF-P4X III,Base Metals,Medium,5.55
+Tenerifis,ZQ7-QS,YF-P4X,YF-P4X III,Smartfab Units,Medium,15.15
+Tenerifis,ZQ7-QS,YF-P4X,YF-P4X III,Liquid Ozone,Perfect,51.67
+Tenerifis,ZQ7-QS,YF-P4X,YF-P4X IV,Reactive Metals,Rich,8.06
+Tenerifis,ZQ7-QS,YF-P4X,YF-P4X IV,Construction Blocks,Rich,31.66
+Tenerifis,ZQ7-QS,YF-P4X,YF-P4X IV,Suspended Plasma,Perfect,128.22
+Tenerifis,ZQ7-QS,YF-P4X,YF-P4X IV,Oxygen Isotopes,Perfect,5.37
+Tenerifis,ZQ7-QS,YF-P4X,YF-P4X V,Sheen Compound,Medium,24.99
+Tenerifis,ZQ7-QS,YF-P4X,YF-P4X V,Reactive Gas,Rich,30.45
+Tenerifis,ZQ7-QS,YF-P4X,YF-P4X V,Base Metals,Rich,8.15
+Tenerifis,ZQ7-QS,YF-P4X,YF-P4X V,Polyaramids,Rich,22.85
+Tenerifis,ZQ7-QS,YF-P4X,YF-P4X V,Ionic Solutions,Medium,10.37
+Tenerifis,ZQ7-QS,YF-P4X,YF-P4X VI,Base Metals,Rich,7.83
+Tenerifis,ZQ7-QS,YF-P4X,YF-P4X VI,Noble Metals,Rich,33.33
+Tenerifis,ZQ7-QS,YF-P4X,YF-P4X VI,Industrial Fibers,Poor,5.34
+Tenerifis,ZQ7-QS,YF-P4X,YF-P4X VI,Condensates,Perfect,27.57
+Tenerifis,ZQ7-QS,YF-P4X,YF-P4X VI,Liquid Ozone,Medium,27.36
+Tenerifis,G3IP-E,JI1-SY,JI1-SY I,Industrial Fibers,Poor,5.19
+Tenerifis,G3IP-E,JI1-SY,JI1-SY I,Supertensile Plastics,Medium,14.95
+Tenerifis,G3IP-E,JI1-SY,JI1-SY I,Construction Blocks,Poor,17.40
+Tenerifis,G3IP-E,JI1-SY,JI1-SY I,Silicate Glass,Medium,12.42
+Tenerifis,G3IP-E,JI1-SY,JI1-SY II,Lustering Alloy,Poor,14.01
+Tenerifis,G3IP-E,JI1-SY,JI1-SY II,Base Metals,Poor,4.38
+Tenerifis,G3IP-E,JI1-SY,JI1-SY II,Supertensile Plastics,Medium,14.53
+Tenerifis,G3IP-E,JI1-SY,JI1-SY II,Silicate Glass,Medium,11.43
+Tenerifis,G3IP-E,JI1-SY,JI1-SY III,Crystal Compound,Medium,27.54
+Tenerifis,G3IP-E,JI1-SY,JI1-SY III,Reactive Metals,Medium,6.97
+Tenerifis,G3IP-E,JI1-SY,JI1-SY III,Supertensile Plastics,Rich,18.60
+Tenerifis,G3IP-E,JI1-SY,JI1-SY III,Nanites,Poor,5.20
+Tenerifis,G3IP-E,JI1-SY,JI1-SY IV,Lustering Alloy,Poor,19.54
+Tenerifis,G3IP-E,JI1-SY,JI1-SY IV,Toxic Metals,Medium,5.51
+Tenerifis,G3IP-E,JI1-SY,JI1-SY IV,Supertensile Plastics,Medium,17.82
+Tenerifis,G3IP-E,JI1-SY,JI1-SY IV,Construction Blocks,Poor,15.22
+Tenerifis,G3IP-E,JI1-SY,JI1-SY V,Lustering Alloy,Rich,32.52
+Tenerifis,G3IP-E,JI1-SY,JI1-SY V,Sheen Compound,Medium,20.83
+Tenerifis,G3IP-E,JI1-SY,JI1-SY V,Reactive Gas,Perfect,35.51
+Tenerifis,G3IP-E,JI1-SY,JI1-SY V,Polyaramids,Medium,13.87
+Tenerifis,G3IP-E,JI1-SY,JI1-SY V,Coolant,Rich,20.71
+Tenerifis,G3IP-E,JI1-SY,JI1-SY VI,Fiber Composite,Medium,21.82
+Tenerifis,G3IP-E,JI1-SY,JI1-SY VI,Glossy Compound,Medium,26.88
+Tenerifis,G3IP-E,JI1-SY,JI1-SY VI,Reactive Gas,Medium,22.75
+Tenerifis,G3IP-E,JI1-SY,JI1-SY VI,Base Metals,Medium,6.16
+Tenerifis,G3IP-E,JI1-SY,JI1-SY VI,Ionic Solutions,Medium,9.15
+Tenerifis,G3IP-E,JI1-SY,JI1-SY VII,Sheen Compound,Medium,22.88
+Tenerifis,G3IP-E,JI1-SY,JI1-SY VII,Reactive Gas,Rich,28.56
+Tenerifis,G3IP-E,JI1-SY,JI1-SY VII,Noble Gas,Medium,23.85
+Tenerifis,G3IP-E,JI1-SY,JI1-SY VII,Reactive Metals,Medium,6.46
+Tenerifis,G3IP-E,JI1-SY,JI1-SY VII,Coolant,Medium,16.76
+Tenerifis,G3IP-E,JI1-SY,JI1-SY VIII,Dark Compound,Medium,20.92
+Tenerifis,G3IP-E,JI1-SY,JI1-SY VIII,Base Metals,Poor,4.28
+Tenerifis,G3IP-E,JI1-SY,JI1-SY VIII,Toxic Metals,Medium,6.00
+Tenerifis,G3IP-E,JI1-SY,JI1-SY VIII,Supertensile Plastics,Medium,16.84
+Tenerifis,G3IP-E,JI1-SY,JI1-SY IX,Toxic Metals,Poor,3.70
+Tenerifis,G3IP-E,JI1-SY,JI1-SY IX,Supertensile Plastics,Medium,14.95
+Tenerifis,G3IP-E,JI1-SY,JI1-SY IX,Construction Blocks,Poor,16.13
+Tenerifis,G3IP-E,JI1-SY,JI1-SY IX,Plasmoids,Poor,0.96
+Tenerifis,G3IP-E,JI1-SY,JI1-SY X,Reactive Gas,Poor,20.61
+Tenerifis,G3IP-E,JI1-SY,JI1-SY X,Base Metals,Rich,7.33
+Tenerifis,G3IP-E,JI1-SY,JI1-SY X,Polyaramids,Poor,12.48
+Tenerifis,G3IP-E,JI1-SY,JI1-SY X,Coolant,Poor,13.54
+Tenerifis,G3IP-E,JI1-SY,JI1-SY X,Ionic Solutions,Rich,11.42
+Tenerifis,G3IP-E,X-1QGA,X-1QGA I,Dark Compound,Medium,19.80
+Tenerifis,G3IP-E,X-1QGA,X-1QGA I,Condensates,Rich,19.81
+Tenerifis,G3IP-E,X-1QGA,X-1QGA I,Nanites,Medium,6.84
+Tenerifis,G3IP-E,X-1QGA,X-1QGA I,Suspended Plasma,Medium,76.05
+Tenerifis,G3IP-E,X-1QGA,X-1QGA I,Ionic Solutions,Medium,10.07
+Tenerifis,G3IP-E,X-1QGA,X-1QGA II,Precious Alloy,Medium,20.81
+Tenerifis,G3IP-E,X-1QGA,X-1QGA II,Base Metals,Medium,6.78
+Tenerifis,G3IP-E,X-1QGA,X-1QGA II,Toxic Metals,Poor,4.02
+Tenerifis,G3IP-E,X-1QGA,X-1QGA II,Supertensile Plastics,Poor,12.63
+Tenerifis,G3IP-E,X-1QGA,X-1QGA III,Gleaming Alloy,Rich,26.69
+Tenerifis,G3IP-E,X-1QGA,X-1QGA III,Heavy Metals,Perfect,34.25
+Tenerifis,G3IP-E,X-1QGA,X-1QGA III,Construction Blocks,Medium,25.07
+Tenerifis,G3IP-E,X-1QGA,X-1QGA IV,Base Metals,Poor,4.07
+Tenerifis,G3IP-E,X-1QGA,X-1QGA IV,Supertensile Plastics,Medium,13.85
+Tenerifis,G3IP-E,X-1QGA,X-1QGA IV,Silicate Glass,Poor,6.95
+Tenerifis,G3IP-E,X-1QGA,X-1QGA IV,Oxygen Isotopes,Medium,3.47
+Tenerifis,G3IP-E,X-1QGA,X-1QGA V,Precious Alloy,Poor,14.41
+Tenerifis,G3IP-E,X-1QGA,X-1QGA V,Supertensile Plastics,Poor,11.87
+Tenerifis,G3IP-E,X-1QGA,X-1QGA V,Construction Blocks,Poor,13.84
+Tenerifis,G3IP-E,X-1QGA,X-1QGA V,Plasmoids,Medium,1.31
+Tenerifis,G3IP-E,X-1QGA,X-1QGA VI,Reactive Gas,Medium,21.29
+Tenerifis,G3IP-E,X-1QGA,X-1QGA VI,Base Metals,Medium,6.02
+Tenerifis,G3IP-E,X-1QGA,X-1QGA VI,Reactive Metals,Medium,5.92
+Tenerifis,G3IP-E,X-1QGA,X-1QGA VI,Polyaramids,Medium,16.95
+Tenerifis,G3IP-E,X-1QGA,X-1QGA VI,Coolant,Medium,17.63
+Tenerifis,G3IP-E,X-1QGA,X-1QGA VII,Sheen Compound,Rich,29.97
+Tenerifis,G3IP-E,X-1QGA,X-1QGA VII,Fiber Composite,Rich,31.10
+Tenerifis,G3IP-E,X-1QGA,X-1QGA VII,Reactive Gas,Medium,21.29
+Tenerifis,G3IP-E,X-1QGA,X-1QGA VII,Base Metals,Poor,4.54
+Tenerifis,G3IP-E,X-1QGA,X-1QGA VII,Polyaramids,Medium,15.18
+Tenerifis,G3IP-E,X-1QGA,X-1QGA VIII,Crystal Compound,Perfect,37.17
+Tenerifis,G3IP-E,X-1QGA,X-1QGA VIII,Polyaramids,Perfect,22.55
+Tenerifis,G3IP-E,X-1QGA,X-1QGA VIII,Silicate Glass,Medium,11.06
+Tenerifis,G3IP-E,X-1QGA,X-1QGA VIII,Heavy Water,Perfect,370.44
+Tenerifis,G3IP-E,X-1QGA,X-1QGA VIII,Liquid Ozone,Medium,29.45
+Tenerifis,G3IP-E,CCE-0J,CCE-0J I,Supertensile Plastics,Poor,9.59
+Tenerifis,G3IP-E,CCE-0J,CCE-0J I,Construction Blocks,Poor,16.53
+Tenerifis,G3IP-E,CCE-0J,CCE-0J I,Oxygen Isotopes,Medium,3.59
+Tenerifis,G3IP-E,CCE-0J,CCE-0J I,Plasmoids,Poor,0.79
+Tenerifis,G3IP-E,CCE-0J,CCE-0J II,Lucent Compound,Medium,19.82
+Tenerifis,G3IP-E,CCE-0J,CCE-0J II,Reactive Gas,Rich,28.48
+Tenerifis,G3IP-E,CCE-0J,CCE-0J II,Reactive Metals,Medium,6.46
+Tenerifis,G3IP-E,CCE-0J,CCE-0J II,Supertensile Plastics,Rich,21.53
+Tenerifis,G3IP-E,CCE-0J,CCE-0J III,Sheen Compound,Rich,28.35
+Tenerifis,G3IP-E,CCE-0J,CCE-0J III,Fiber Composite,Poor,17.98
+Tenerifis,G3IP-E,CCE-0J,CCE-0J III,Reactive Gas,Rich,31.18
+Tenerifis,G3IP-E,CCE-0J,CCE-0J III,Noble Gas,Poor,18.73
+Tenerifis,G3IP-E,CCE-0J,CCE-0J III,Polyaramids,Rich,21.11
+Tenerifis,G3IP-E,CCE-0J,CCE-0J IV,Fiber Composite,Medium,21.63
+Tenerifis,G3IP-E,CCE-0J,CCE-0J IV,Reactive Gas,Perfect,34.25
+Tenerifis,G3IP-E,CCE-0J,CCE-0J IV,Base Metals,Perfect,8.84
+Tenerifis,G3IP-E,CCE-0J,CCE-0J IV,Polyaramids,Rich,19.94
+Tenerifis,G3IP-E,CCE-0J,CCE-0J IV,Ionic Solutions,Medium,9.59
+Tenerifis,G3IP-E,CCE-0J,CCE-0J V,Sheen Compound,Rich,29.61
+Tenerifis,G3IP-E,CCE-0J,CCE-0J V,Reactive Gas,Medium,22.13
+Tenerifis,G3IP-E,CCE-0J,CCE-0J V,Base Metals,Medium,6.47
+Tenerifis,G3IP-E,CCE-0J,CCE-0J V,Polyaramids,Rich,18.70
+Tenerifis,G3IP-E,CCE-0J,CCE-0J V,Coolant,Rich,21.73
+Tenerifis,G3IP-E,CCE-0J,CCE-0J VI,Lustering Alloy,Medium,24.00
+Tenerifis,G3IP-E,CCE-0J,CCE-0J VI,Precious Alloy,Poor,19.43
+Tenerifis,G3IP-E,CCE-0J,CCE-0J VI,Heavy Metals,Rich,31.10
+Tenerifis,G3IP-E,CCE-0J,CCE-0J VI,Condensates,Medium,16.06
+Tenerifis,G3IP-E,T2-V8F,T2-V8F I,Gleaming Alloy,Rich,33.33
+Tenerifis,G3IP-E,T2-V8F,T2-V8F I,Motley Compound,Medium,27.30
+Tenerifis,G3IP-E,T2-V8F,T2-V8F I,Plasmoids,Medium,1.32
+Tenerifis,G3IP-E,T2-V8F,T2-V8F II,Toxic Metals,Medium,5.53
+Tenerifis,G3IP-E,T2-V8F,T2-V8F II,Industrial Fibers,Medium,6.09
+Tenerifis,G3IP-E,T2-V8F,T2-V8F II,Supertensile Plastics,Medium,15.21
+Tenerifis,G3IP-E,T2-V8F,T2-V8F II,Plasmoids,Medium,1.44
+Tenerifis,G3IP-E,T2-V8F,T2-V8F III,Gleaming Alloy,Rich,33.29
+Tenerifis,G3IP-E,T2-V8F,T2-V8F III,Motley Compound,Poor,19.98
+Tenerifis,G3IP-E,T2-V8F,T2-V8F III,Polyaramids,Poor,11.97
+Tenerifis,G3IP-E,T2-V8F,T2-V8F IV,Condensed Alloy,Medium,27.52
+Tenerifis,G3IP-E,T2-V8F,T2-V8F IV,Fiber Composite,Medium,24.35
+Tenerifis,G3IP-E,T2-V8F,T2-V8F IV,Reactive Gas,Medium,24.33
+Tenerifis,G3IP-E,T2-V8F,T2-V8F IV,Base Metals,Perfect,9.40
+Tenerifis,G3IP-E,T2-V8F,T2-V8F IV,Liquid Ozone,Medium,26.07
+Tenerifis,G3IP-E,T2-V8F,T2-V8F V,Lustering Alloy,Poor,18.72
+Tenerifis,G3IP-E,T2-V8F,T2-V8F V,Sheen Compound,Rich,30.10
+Tenerifis,G3IP-E,T2-V8F,T2-V8F V,Reactive Gas,Rich,34.94
+Tenerifis,G3IP-E,T2-V8F,T2-V8F V,Base Metals,Rich,8.56
+Tenerifis,G3IP-E,T2-V8F,T2-V8F V,Coolant,Medium,17.89
+Tenerifis,G3IP-E,T2-V8F,T2-V8F VI,Dark Compound,Medium,24.79
+Tenerifis,G3IP-E,T2-V8F,T2-V8F VI,Supertensile Plastics,Poor,10.62
+Tenerifis,G3IP-E,T2-V8F,T2-V8F VI,Construction Blocks,Medium,22.97
+Tenerifis,G3IP-E,T2-V8F,T2-V8F VI,Silicate Glass,Poor,8.28
+Tenerifis,G3IP-E,T2-V8F,T2-V8F VII,Motley Compound,Rich,30.87
+Tenerifis,G3IP-E,T2-V8F,T2-V8F VII,Base Metals,Medium,6.46
+Tenerifis,G3IP-E,T2-V8F,T2-V8F VII,Industrial Fibers,Poor,4.96
+Tenerifis,G3IP-E,T2-V8F,T2-V8F VII,Condensates,Poor,10.71
+Tenerifis,G3IP-E,0VK-43,0VK-43 I,Gleaming Alloy,Rich,31.29
+Tenerifis,G3IP-E,0VK-43,0VK-43 I,Polyaramids,Perfect,22.58
+Tenerifis,G3IP-E,0VK-43,0VK-43 I,Oxygen Isotopes,Medium,3.03
+Tenerifis,G3IP-E,0VK-43,0VK-43 II,Lustering Alloy,Poor,15.60
+Tenerifis,G3IP-E,0VK-43,0VK-43 II,Base Metals,Poor,4.31
+Tenerifis,G3IP-E,0VK-43,0VK-43 II,Supertensile Plastics,Poor,10.37
+Tenerifis,G3IP-E,0VK-43,0VK-43 II,Plasmoids,Medium,1.32
+Tenerifis,G3IP-E,0VK-43,0VK-43 III,Supertensile Plastics,Medium,16.23
+Tenerifis,G3IP-E,0VK-43,0VK-43 III,Construction Blocks,Poor,18.50
+Tenerifis,G3IP-E,0VK-43,0VK-43 III,Silicate Glass,Poor,9.04
+Tenerifis,G3IP-E,0VK-43,0VK-43 III,Oxygen Isotopes,Poor,2.78
+Tenerifis,G3IP-E,0VK-43,0VK-43 IV,Dark Compound,Poor,14.97
+Tenerifis,G3IP-E,0VK-43,0VK-43 IV,Supertensile Plastics,Medium,16.90
+Tenerifis,G3IP-E,0VK-43,0VK-43 IV,Silicate Glass,Medium,10.56
+Tenerifis,G3IP-E,0VK-43,0VK-43 IV,Plasmoids,Poor,0.97
+Tenerifis,G3IP-E,0VK-43,0VK-43 V,Fiber Composite,Rich,27.01
+Tenerifis,G3IP-E,0VK-43,0VK-43 V,Reactive Gas,Rich,29.59
+Tenerifis,G3IP-E,0VK-43,0VK-43 V,Base Metals,Medium,6.00
+Tenerifis,G3IP-E,0VK-43,0VK-43 V,Reactive Metals,Poor,4.94
+Tenerifis,G3IP-E,0VK-43,0VK-43 V,Ionic Solutions,Medium,8.41
+Tenerifis,G3IP-E,0VK-43,0VK-43 VI,Lustering Alloy,Poor,18.63
+Tenerifis,G3IP-E,0VK-43,0VK-43 VI,Glossy Compound,Medium,25.49
+Tenerifis,G3IP-E,0VK-43,0VK-43 VI,Reactive Gas,Medium,24.72
+Tenerifis,G3IP-E,0VK-43,0VK-43 VI,Noble Gas,Perfect,33.56
+Tenerifis,G3IP-E,0VK-43,0VK-43 VI,Base Metals,Rich,7.34
+Tenerifis,G3IP-E,0VK-43,0VK-43 VII,Condensed Alloy,Perfect,35.89
+Tenerifis,G3IP-E,0VK-43,0VK-43 VII,Opulent Compound,Poor,19.51
+Tenerifis,G3IP-E,0VK-43,0VK-43 VII,Reactive Gas,Rich,32.23
+Tenerifis,G3IP-E,0VK-43,0VK-43 VII,Smartfab Units,Rich,18.28
+Tenerifis,G3IP-E,0VK-43,0VK-43 VII,Liquid Ozone,Rich,40.71
+Tenerifis,G3IP-E,0VK-43,0VK-43 VIII,Dark Compound,Poor,13.59
+Tenerifis,G3IP-E,0VK-43,0VK-43 VIII,Base Metals,Medium,5.77
+Tenerifis,G3IP-E,0VK-43,0VK-43 VIII,Toxic Metals,Poor,3.72
+Tenerifis,G3IP-E,0VK-43,0VK-43 VIII,Supertensile Plastics,Medium,13.51
+Tenerifis,G3IP-E,0VK-43,0VK-43 IX,Sheen Compound,Medium,24.82
+Tenerifis,G3IP-E,0VK-43,0VK-43 IX,Fiber Composite,Rich,27.57
+Tenerifis,G3IP-E,0VK-43,0VK-43 IX,Glossy Compound,Rich,32.49
+Tenerifis,G3IP-E,0VK-43,0VK-43 IX,Reactive Gas,Medium,21.80
+Tenerifis,G3IP-E,0VK-43,0VK-43 IX,Base Metals,Medium,6.46
+Tenerifis,G3IP-E,TY2X-C,TY2X-C I,Lustering Alloy,Poor,15.90
+Tenerifis,G3IP-E,TY2X-C,TY2X-C I,Precious Alloy,Poor,16.84
+Tenerifis,G3IP-E,TY2X-C,TY2X-C I,Supertensile Plastics,Poor,11.90
+Tenerifis,G3IP-E,TY2X-C,TY2X-C I,Silicate Glass,Medium,11.85
+Tenerifis,G3IP-E,TY2X-C,TY2X-C II,Precious Alloy,Medium,24.40
+Tenerifis,G3IP-E,TY2X-C,TY2X-C II,Dark Compound,Medium,20.43
+Tenerifis,G3IP-E,TY2X-C,TY2X-C II,Supertensile Plastics,Poor,8.68
+Tenerifis,G3IP-E,TY2X-C,TY2X-C II,Plasmoids,Poor,0.82
+Tenerifis,G3IP-E,TY2X-C,TY2X-C III,Gleaming Alloy,Poor,19.66
+Tenerifis,G3IP-E,TY2X-C,TY2X-C III,Noble Gas,Rich,32.42
+Tenerifis,G3IP-E,TY2X-C,TY2X-C III,Polyaramids,Rich,19.99
+Tenerifis,G3IP-E,TY2X-C,TY2X-C IV,Supertensile Plastics,Medium,14.25
+Tenerifis,G3IP-E,TY2X-C,TY2X-C IV,Construction Blocks,Poor,17.70
+Tenerifis,G3IP-E,TY2X-C,TY2X-C IV,Oxygen Isotopes,Poor,2.31
+Tenerifis,G3IP-E,TY2X-C,TY2X-C IV,Plasmoids,Poor,0.91
+Tenerifis,G3IP-E,TY2X-C,TY2X-C V,Supertensile Plastics,Poor,9.27
+Tenerifis,G3IP-E,TY2X-C,TY2X-C V,Construction Blocks,Poor,17.47
+Tenerifis,G3IP-E,TY2X-C,TY2X-C V,Oxygen Isotopes,Poor,2.72
+Tenerifis,G3IP-E,TY2X-C,TY2X-C V,Plasmoids,Medium,1.47
+Tenerifis,G3IP-E,TY2X-C,TY2X-C VI,Crystal Compound,Poor,17.81
+Tenerifis,G3IP-E,TY2X-C,TY2X-C VI,Reactive Metals,Rich,7.78
+Tenerifis,G3IP-E,TY2X-C,TY2X-C VI,Construction Blocks,Medium,24.53
+Tenerifis,G3IP-E,TY2X-C,TY2X-C VI,Nanites,Rich,7.27
+Tenerifis,G3IP-E,TY2X-C,TY2X-C VII,Base Metals,Poor,3.96
+Tenerifis,G3IP-E,TY2X-C,TY2X-C VII,Industrial Fibers,Medium,6.68
+Tenerifis,G3IP-E,TY2X-C,TY2X-C VII,Supertensile Plastics,Medium,15.92
+Tenerifis,G3IP-E,TY2X-C,TY2X-C VII,Plasmoids,Medium,1.49
+Tenerifis,G3IP-E,TY2X-C,TY2X-C VIII,Reactive Gas,Perfect,39.80
+Tenerifis,G3IP-E,TY2X-C,TY2X-C VIII,Base Metals,Perfect,9.99
+Tenerifis,G3IP-E,TY2X-C,TY2X-C VIII,Noble Metals,Rich,29.34
+Tenerifis,G3IP-E,TY2X-C,TY2X-C VIII,Condensates,Rich,19.28
+Tenerifis,G3IP-E,TY2X-C,TY2X-C VIII,Liquid Ozone,Perfect,47.01
+Tenerifis,50-5UD,Q0G-L8,Q0G-L8 I,Lustering Alloy,Medium,24.07
+Tenerifis,50-5UD,Q0G-L8,Q0G-L8 I,Dark Compound,Poor,16.50
+Tenerifis,50-5UD,Q0G-L8,Q0G-L8 I,Base Metals,Medium,7.09
+Tenerifis,50-5UD,Q0G-L8,Q0G-L8 I,Supertensile Plastics,Medium,17.39
+Tenerifis,50-5UD,Q0G-L8,Q0G-L8 II,Gleaming Alloy,Rich,33.02
+Tenerifis,50-5UD,Q0G-L8,Q0G-L8 II,Polyaramids,Rich,22.12
+Tenerifis,50-5UD,Q0G-L8,Q0G-L8 II,Construction Blocks,Poor,17.97
+Tenerifis,50-5UD,Q0G-L8,Q0G-L8 III,Condensed Alloy,Rich,30.73
+Tenerifis,50-5UD,Q0G-L8,Q0G-L8 III,Noble Metals,Rich,32.80
+Tenerifis,50-5UD,Q0G-L8,Q0G-L8 III,Condensates,Medium,17.31
+Tenerifis,50-5UD,Q0G-L8,Q0G-L8 III,Heavy Water,Medium,243.98
+Tenerifis,50-5UD,Q0G-L8,Q0G-L8 III,Liquid Ozone,Rich,42.90
+Tenerifis,50-5UD,Q0G-L8,Q0G-L8 IV,Fiber Composite,Medium,24.22
+Tenerifis,50-5UD,Q0G-L8,Q0G-L8 IV,Reactive Gas,Rich,33.31
+Tenerifis,50-5UD,Q0G-L8,Q0G-L8 IV,Base Metals,Poor,4.79
+Tenerifis,50-5UD,Q0G-L8,Q0G-L8 IV,Polyaramids,Medium,17.61
+Tenerifis,50-5UD,Q0G-L8,Q0G-L8 IV,Ionic Solutions,Medium,9.21
+Tenerifis,50-5UD,Q0G-L8,Q0G-L8 V,Sheen Compound,Perfect,35.18
+Tenerifis,50-5UD,Q0G-L8,Q0G-L8 V,Fiber Composite,Medium,24.49
+Tenerifis,50-5UD,Q0G-L8,Q0G-L8 V,Reactive Gas,Rich,33.35
+Tenerifis,50-5UD,Q0G-L8,Q0G-L8 V,Noble Gas,Medium,23.98
+Tenerifis,50-5UD,Q0G-L8,Q0G-L8 V,Polyaramids,Medium,17.01
+Tenerifis,50-5UD,Q0G-L8,Q0G-L8 VI,Fiber Composite,Rich,34.69
+Tenerifis,50-5UD,Q0G-L8,Q0G-L8 VI,Reactive Gas,Rich,32.36
+Tenerifis,50-5UD,Q0G-L8,Q0G-L8 VI,Noble Gas,Rich,30.03
+Tenerifis,50-5UD,Q0G-L8,Q0G-L8 VI,Reactive Metals,Rich,8.97
+Tenerifis,50-5UD,Q0G-L8,Q0G-L8 VI,Polyaramids,Medium,15.99
+Tenerifis,50-5UD,Q0G-L8,Q0G-L8 VII,Noble Metals,Medium,20.99
+Tenerifis,50-5UD,Q0G-L8,Q0G-L8 VII,Polyaramids,Rich,21.52
+Tenerifis,50-5UD,Q0G-L8,Q0G-L8 VII,Heavy Water,Rich,339.68
+Tenerifis,50-5UD,Q0G-L8,Q0G-L8 VII,Liquid Ozone,Rich,36.19
+Tenerifis,50-5UD,Q0G-L8,Q0G-L8 VII,Ionic Solutions,Poor,7.89
+Tenerifis,50-5UD,Q5KZ-W,Q5KZ-W I,Gleaming Alloy,Poor,21.10
+Tenerifis,50-5UD,Q5KZ-W,Q5KZ-W I,Noble Gas,Rich,31.46
+Tenerifis,50-5UD,Q5KZ-W,Q5KZ-W I,Noble Metals,Rich,35.06
+Tenerifis,50-5UD,Q5KZ-W,Q5KZ-W II,Gleaming Alloy,Medium,25.97
+Tenerifis,50-5UD,Q5KZ-W,Q5KZ-W II,Glossy Compound,Medium,26.71
+Tenerifis,50-5UD,Q5KZ-W,Q5KZ-W II,Oxygen Isotopes,Medium,4.30
+Tenerifis,50-5UD,Q5KZ-W,Q5KZ-W III,Fiber Composite,Medium,23.50
+Tenerifis,50-5UD,Q5KZ-W,Q5KZ-W III,Opulent Compound,Medium,25.56
+Tenerifis,50-5UD,Q5KZ-W,Q5KZ-W III,Reactive Gas,Perfect,43.18
+Tenerifis,50-5UD,Q5KZ-W,Q5KZ-W III,Noble Metals,Perfect,39.26
+Tenerifis,50-5UD,Q5KZ-W,Q5KZ-W III,Liquid Ozone,Rich,38.01
+Tenerifis,50-5UD,Q5KZ-W,Q5KZ-W IV,Reactive Gas,Medium,24.14
+Tenerifis,50-5UD,Q5KZ-W,Q5KZ-W IV,Noble Gas,Rich,31.94
+Tenerifis,50-5UD,Q5KZ-W,Q5KZ-W IV,Reactive Metals,Rich,9.56
+Tenerifis,50-5UD,Q5KZ-W,Q5KZ-W IV,Coolant,Medium,17.28
+Tenerifis,50-5UD,Q5KZ-W,Q5KZ-W IV,Ionic Solutions,Medium,9.65
+Tenerifis,50-5UD,Q5KZ-W,Q5KZ-W V,Fiber Composite,Rich,35.98
+Tenerifis,50-5UD,Q5KZ-W,Q5KZ-W V,Glossy Compound,Poor,19.73
+Tenerifis,50-5UD,Q5KZ-W,Q5KZ-W V,Reactive Gas,Medium,27.77
+Tenerifis,50-5UD,Q5KZ-W,Q5KZ-W V,Reactive Metals,Medium,6.90
+Tenerifis,50-5UD,Q5KZ-W,Q5KZ-W V,Coolant,Rich,24.30
+Tenerifis,50-5UD,Q5KZ-W,Q5KZ-W VI,Lustering Alloy,Rich,33.34
+Tenerifis,50-5UD,Q5KZ-W,Q5KZ-W VI,Precious Alloy,Rich,34.01
+Tenerifis,50-5UD,Q5KZ-W,Q5KZ-W VI,Base Metals,Medium,7.40
+Tenerifis,50-5UD,Q5KZ-W,Q5KZ-W VI,Condensates,Rich,21.70
+Tenerifis,50-5UD,Q5KZ-W,Q5KZ-W VII,Opulent Compound,Perfect,41.98
+Tenerifis,50-5UD,Q5KZ-W,Q5KZ-W VII,Coolant,Perfect,27.52
+Tenerifis,50-5UD,Q5KZ-W,Q5KZ-W VII,Heavy Water,Rich,353.28
+Tenerifis,50-5UD,Q5KZ-W,Q5KZ-W VII,Liquid Ozone,Perfect,53.01
+Tenerifis,50-5UD,Q5KZ-W,Q5KZ-W VII,Ionic Solutions,Rich,14.56
+Tenerifis,50-5UD,WE-KK2,WE-KK2 I,Precious Alloy,Poor,20.17
+Tenerifis,50-5UD,WE-KK2,WE-KK2 I,Supertensile Plastics,Medium,14.52
+Tenerifis,50-5UD,WE-KK2,WE-KK2 I,Construction Blocks,Poor,20.03
+Tenerifis,50-5UD,WE-KK2,WE-KK2 I,Silicate Glass,Poor,8.11
+Tenerifis,50-5UD,WE-KK2,WE-KK2 II,Base Metals,Medium,6.62
+Tenerifis,50-5UD,WE-KK2,WE-KK2 II,Industrial Fibers,Medium,5.90
+Tenerifis,50-5UD,WE-KK2,WE-KK2 II,Supertensile Plastics,Medium,16.90
+Tenerifis,50-5UD,WE-KK2,WE-KK2 II,Plasmoids,Medium,1.39
+Tenerifis,50-5UD,WE-KK2,WE-KK2 III,Gleaming Alloy,Rich,35.67
+Tenerifis,50-5UD,WE-KK2,WE-KK2 III,Noble Metals,Rich,35.51
+Tenerifis,50-5UD,WE-KK2,WE-KK2 III,Polyaramids,Rich,24.30
+Tenerifis,50-5UD,WE-KK2,WE-KK2 IV,Gleaming Alloy,Perfect,36.87
+Tenerifis,50-5UD,WE-KK2,WE-KK2 IV,Motley Compound,Rich,33.42
+Tenerifis,50-5UD,WE-KK2,WE-KK2 IV,Plasmoids,Medium,1.40
+Tenerifis,50-5UD,WE-KK2,WE-KK2 V,Gleaming Alloy,Medium,23.92
+Tenerifis,50-5UD,WE-KK2,WE-KK2 V,Glossy Compound,Rich,34.02
+Tenerifis,50-5UD,WE-KK2,WE-KK2 V,Polyaramids,Medium,15.30
+Tenerifis,50-5UD,WE-KK2,WE-KK2 VI,Glossy Compound,Perfect,36.73
+Tenerifis,50-5UD,WE-KK2,WE-KK2 VI,Reactive Gas,Rich,30.01
+Tenerifis,50-5UD,WE-KK2,WE-KK2 VI,Reactive Metals,Perfect,9.91
+Tenerifis,50-5UD,WE-KK2,WE-KK2 VI,Polyaramids,Poor,13.34
+Tenerifis,50-5UD,WE-KK2,WE-KK2 VI,Ionic Solutions,Rich,13.29
+Tenerifis,50-5UD,WE-KK2,WE-KK2 VII,Sheen Compound,Rich,33.37
+Tenerifis,50-5UD,WE-KK2,WE-KK2 VII,Glossy Compound,Medium,26.22
+Tenerifis,50-5UD,WE-KK2,WE-KK2 VII,Reactive Gas,Medium,28.41
+Tenerifis,50-5UD,WE-KK2,WE-KK2 VII,Coolant,Rich,22.77
+Tenerifis,50-5UD,WE-KK2,WE-KK2 VII,Ionic Solutions,Rich,14.52
+Tenerifis,50-5UD,WE-KK2,WE-KK2 VIII,Precious Alloy,Medium,22.45
+Tenerifis,50-5UD,WE-KK2,WE-KK2 VIII,Heavy Metals,Medium,27.53
+Tenerifis,50-5UD,WE-KK2,WE-KK2 VIII,Condensates,Rich,19.67
+Tenerifis,50-5UD,WE-KK2,WE-KK2 VIII,Suspended Plasma,Poor,67.15
+Tenerifis,50-5UD,WE-KK2,WE-KK2 IX,Lustering Alloy,Medium,25.00
+Tenerifis,50-5UD,WE-KK2,WE-KK2 IX,Motley Compound,Rich,33.74
+Tenerifis,50-5UD,WE-KK2,WE-KK2 IX,Condensates,Poor,12.68
+Tenerifis,50-5UD,WE-KK2,WE-KK2 IX,Liquid Ozone,Rich,39.13
+Tenerifis,50-5UD,WE-KK2,WE-KK2 X,Gleaming Alloy,Rich,33.67
+Tenerifis,50-5UD,WE-KK2,WE-KK2 X,Construction Blocks,Perfect,38.02
+Tenerifis,50-5UD,WE-KK2,WE-KK2 X,Oxygen Isotopes,Medium,4.24
+Tenerifis,50-5UD,B8HU-Z,B8HU-Z I,Dark Compound,Medium,23.46
+Tenerifis,50-5UD,B8HU-Z,B8HU-Z I,Toxic Metals,Poor,4.96
+Tenerifis,50-5UD,B8HU-Z,B8HU-Z I,Supertensile Plastics,Poor,12.11
+Tenerifis,50-5UD,B8HU-Z,B8HU-Z I,Plasmoids,Medium,1.57
+Tenerifis,50-5UD,B8HU-Z,B8HU-Z II,Gleaming Alloy,Poor,20.19
+Tenerifis,50-5UD,B8HU-Z,B8HU-Z II,Heavy Metals,Perfect,37.74
+Tenerifis,50-5UD,B8HU-Z,B8HU-Z II,Smartfab Units,Rich,22.56
+Tenerifis,50-5UD,B8HU-Z,B8HU-Z III,Lustering Alloy,Rich,32.04
+Tenerifis,50-5UD,B8HU-Z,B8HU-Z III,Fiber Composite,Medium,28.29
+Tenerifis,50-5UD,B8HU-Z,B8HU-Z III,Reactive Gas,Medium,24.06
+Tenerifis,50-5UD,B8HU-Z,B8HU-Z III,Base Metals,Medium,7.66
+Tenerifis,50-5UD,B8HU-Z,B8HU-Z III,Polyaramids,Rich,21.68
+Tenerifis,50-5UD,B8HU-Z,B8HU-Z IV,Fiber Composite,Medium,27.21
+Tenerifis,50-5UD,B8HU-Z,B8HU-Z IV,Reactive Gas,Perfect,41.93
+Tenerifis,50-5UD,B8HU-Z,B8HU-Z IV,Base Metals,Medium,6.79
+Tenerifis,50-5UD,B8HU-Z,B8HU-Z IV,Noble Metals,Perfect,41.26
+Tenerifis,50-5UD,B8HU-Z,B8HU-Z IV,Liquid Ozone,Rich,38.15
+Tenerifis,50-5UD,B8HU-Z,B8HU-Z V,Lustering Alloy,Rich,31.69
+Tenerifis,50-5UD,B8HU-Z,B8HU-Z V,Reactive Gas,Perfect,37.90
+Tenerifis,50-5UD,B8HU-Z,B8HU-Z V,Base Metals,Medium,5.78
+Tenerifis,50-5UD,B8HU-Z,B8HU-Z V,Polyaramids,Perfect,24.76
+Tenerifis,50-5UD,B8HU-Z,B8HU-Z V,Coolant,Rich,22.06
+Tenerifis,50-5UD,B8HU-Z,B8HU-Z VI,Lustering Alloy,Rich,33.17
+Tenerifis,50-5UD,B8HU-Z,B8HU-Z VI,Glossy Compound,Medium,22.43
+Tenerifis,50-5UD,B8HU-Z,B8HU-Z VI,Reactive Gas,Poor,19.11
+Tenerifis,50-5UD,B8HU-Z,B8HU-Z VI,Polyaramids,Rich,19.46
+Tenerifis,50-5UD,B8HU-Z,B8HU-Z VI,Ionic Solutions,Rich,13.95
+Tenerifis,50-5UD,B8HU-Z,B8HU-Z VII,Sheen Compound,Rich,32.73
+Tenerifis,50-5UD,B8HU-Z,B8HU-Z VII,Glossy Compound,Rich,29.74
+Tenerifis,50-5UD,B8HU-Z,B8HU-Z VII,Reactive Gas,Poor,19.20
+Tenerifis,50-5UD,B8HU-Z,B8HU-Z VII,Reactive Metals,Poor,5.69
+Tenerifis,50-5UD,B8HU-Z,B8HU-Z VII,Ionic Solutions,Poor,7.88
+Tenerifis,50-5UD,B8HU-Z,B8HU-Z VIII,Fiber Composite,Medium,27.48
+Tenerifis,50-5UD,B8HU-Z,B8HU-Z VIII,Glossy Compound,Medium,25.81
+Tenerifis,50-5UD,B8HU-Z,B8HU-Z VIII,Reactive Gas,Medium,28.66
+Tenerifis,50-5UD,B8HU-Z,B8HU-Z VIII,Noble Gas,Poor,18.95
+Tenerifis,50-5UD,B8HU-Z,B8HU-Z VIII,Coolant,Rich,19.86
+Tenerifis,50-5UD,B8HU-Z,B8HU-Z IX,Opulent Compound,Medium,22.89
+Tenerifis,50-5UD,B8HU-Z,B8HU-Z IX,Coolant,Medium,16.90
+Tenerifis,50-5UD,B8HU-Z,B8HU-Z IX,Silicate Glass,Medium,11.86
+Tenerifis,50-5UD,B8HU-Z,B8HU-Z IX,Liquid Ozone,Rich,37.75
+Tenerifis,50-5UD,B8HU-Z,B8HU-Z IX,Ionic Solutions,Perfect,15.64
+Tenerifis,50-5UD,B8HU-Z,B8HU-Z X,Reactive Metals,Medium,6.54
+Tenerifis,50-5UD,B8HU-Z,B8HU-Z X,Toxic Metals,Medium,6.23
+Tenerifis,50-5UD,B8HU-Z,B8HU-Z X,Supertensile Plastics,Rich,20.45
+Tenerifis,50-5UD,B8HU-Z,B8HU-Z X,Oxygen Isotopes,Rich,4.81
+Tenerifis,50-5UD,16AM-3,16AM-3 I,Base Metals,Medium,6.02
+Tenerifis,50-5UD,16AM-3,16AM-3 I,Toxic Metals,Medium,5.23
+Tenerifis,50-5UD,16AM-3,16AM-3 I,Industrial Fibers,Poor,4.47
+Tenerifis,50-5UD,16AM-3,16AM-3 I,Supertensile Plastics,Medium,14.64
+Tenerifis,50-5UD,16AM-3,16AM-3 II,Base Metals,Poor,4.93
+Tenerifis,50-5UD,16AM-3,16AM-3 II,Supertensile Plastics,Poor,11.54
+Tenerifis,50-5UD,16AM-3,16AM-3 II,Silicate Glass,Poor,7.82
+Tenerifis,50-5UD,16AM-3,16AM-3 II,Plasmoids,Poor,1.05
+Tenerifis,50-5UD,16AM-3,16AM-3 III,Dark Compound,Medium,22.26
+Tenerifis,50-5UD,16AM-3,16AM-3 III,Industrial Fibers,Medium,6.43
+Tenerifis,50-5UD,16AM-3,16AM-3 III,Supertensile Plastics,Poor,12.66
+Tenerifis,50-5UD,16AM-3,16AM-3 III,Silicate Glass,Poor,7.27
+Tenerifis,50-5UD,16AM-3,16AM-3 IV,Lustering Alloy,Poor,17.18
+Tenerifis,50-5UD,16AM-3,16AM-3 IV,Supertensile Plastics,Medium,14.57
+Tenerifis,50-5UD,16AM-3,16AM-3 IV,Silicate Glass,Poor,9.32
+Tenerifis,50-5UD,16AM-3,16AM-3 IV,Plasmoids,Poor,0.96
+Tenerifis,50-5UD,16AM-3,16AM-3 V,Reactive Gas,Rich,27.20
+Tenerifis,50-5UD,16AM-3,16AM-3 V,Base Metals,Rich,8.04
+Tenerifis,50-5UD,16AM-3,16AM-3 V,Condensates,Medium,16.07
+Tenerifis,50-5UD,16AM-3,16AM-3 V,Smartfab Units,Rich,19.54
+Tenerifis,50-5UD,16AM-3,16AM-3 V,Liquid Ozone,Rich,33.81
+Tenerifis,50-5UD,16AM-3,16AM-3 VI,Sheen Compound,Medium,24.40
+Tenerifis,50-5UD,16AM-3,16AM-3 VI,Fiber Composite,Rich,30.05
+Tenerifis,50-5UD,16AM-3,16AM-3 VI,Reactive Gas,Rich,32.74
+Tenerifis,50-5UD,16AM-3,16AM-3 VI,Base Metals,Rich,7.03
+Tenerifis,50-5UD,16AM-3,16AM-3 VI,Ionic Solutions,Poor,7.56
+Tenerifis,50-5UD,16AM-3,16AM-3 VII,Glossy Compound,Poor,18.00
+Tenerifis,50-5UD,16AM-3,16AM-3 VII,Reactive Gas,Medium,23.48
+Tenerifis,50-5UD,16AM-3,16AM-3 VII,Base Metals,Medium,6.01
+Tenerifis,50-5UD,16AM-3,16AM-3 VII,Reactive Metals,Medium,6.13
+Tenerifis,50-5UD,16AM-3,16AM-3 VII,Coolant,Rich,20.59
+Tenerifis,50-5UD,16AM-3,16AM-3 VIII,Dark Compound,Poor,15.71
+Tenerifis,50-5UD,16AM-3,16AM-3 VIII,Toxic Metals,Poor,4.88
+Tenerifis,50-5UD,16AM-3,16AM-3 VIII,Supertensile Plastics,Medium,13.61
+Tenerifis,50-5UD,16AM-3,16AM-3 VIII,Oxygen Isotopes,Poor,2.68
+Tenerifis,50-5UD,16AM-3,16AM-3 IX,Lustering Alloy,Rich,27.45
+Tenerifis,50-5UD,16AM-3,16AM-3 IX,Sheen Compound,Poor,18.52
+Tenerifis,50-5UD,16AM-3,16AM-3 IX,Reactive Gas,Medium,24.84
+Tenerifis,50-5UD,16AM-3,16AM-3 IX,Base Metals,Poor,4.93
+Tenerifis,50-5UD,16AM-3,16AM-3 IX,Reactive Metals,Rich,8.41
+Tenerifis,50-5UD,A-REKV,A-REKV I,Precious Alloy,Medium,21.60
+Tenerifis,50-5UD,A-REKV,A-REKV I,Base Metals,Medium,5.54
+Tenerifis,50-5UD,A-REKV,A-REKV I,Supertensile Plastics,Poor,13.74
+Tenerifis,50-5UD,A-REKV,A-REKV I,Silicate Glass,Medium,12.66
+Tenerifis,50-5UD,A-REKV,A-REKV II,Gleaming Alloy,Poor,17.69
+Tenerifis,50-5UD,A-REKV,A-REKV II,Glossy Compound,Rich,29.46
+Tenerifis,50-5UD,A-REKV,A-REKV II,Oxygen Isotopes,Perfect,5.32
+Tenerifis,50-5UD,A-REKV,A-REKV III,Crystal Compound,Medium,26.18
+Tenerifis,50-5UD,A-REKV,A-REKV III,Noble Metals,Poor,20.20
+Tenerifis,50-5UD,A-REKV,A-REKV III,Polyaramids,Medium,17.20
+Tenerifis,50-5UD,A-REKV,A-REKV III,Coolant,Perfect,23.73
+Tenerifis,50-5UD,A-REKV,A-REKV III,Liquid Ozone,Perfect,46.86
+Tenerifis,50-5UD,A-REKV,A-REKV IV,Dark Compound,Poor,13.88
+Tenerifis,50-5UD,A-REKV,A-REKV IV,Base Metals,Medium,6.38
+Tenerifis,50-5UD,A-REKV,A-REKV IV,Supertensile Plastics,Poor,13.16
+Tenerifis,50-5UD,A-REKV,A-REKV IV,Oxygen Isotopes,Poor,3.02
+Tenerifis,50-5UD,BB-EKF,BB-EKF I,Lustering Alloy,Poor,17.43
+Tenerifis,50-5UD,BB-EKF,BB-EKF I,Precious Alloy,Medium,22.89
+Tenerifis,50-5UD,BB-EKF,BB-EKF I,Dark Compound,Poor,17.20
+Tenerifis,50-5UD,BB-EKF,BB-EKF I,Supertensile Plastics,Poor,11.82
+Tenerifis,50-5UD,BB-EKF,BB-EKF II,Precious Alloy,Medium,20.94
+Tenerifis,50-5UD,BB-EKF,BB-EKF II,Dark Compound,Poor,13.36
+Tenerifis,50-5UD,BB-EKF,BB-EKF II,Toxic Metals,Poor,4.34
+Tenerifis,50-5UD,BB-EKF,BB-EKF II,Supertensile Plastics,Medium,15.26
+Tenerifis,50-5UD,BB-EKF,BB-EKF III,Gleaming Alloy,Perfect,33.89
+Tenerifis,50-5UD,BB-EKF,BB-EKF III,Glossy Compound,Medium,22.05
+Tenerifis,50-5UD,BB-EKF,BB-EKF III,Heavy Metals,Medium,21.99
+Tenerifis,50-5UD,BB-EKF,BB-EKF IV,Dark Compound,Medium,25.77
+Tenerifis,50-5UD,BB-EKF,BB-EKF IV,Toxic Metals,Medium,5.47
+Tenerifis,50-5UD,BB-EKF,BB-EKF IV,Supertensile Plastics,Medium,14.67
+Tenerifis,50-5UD,BB-EKF,BB-EKF IV,Plasmoids,Poor,1.16
+Tenerifis,50-5UD,BB-EKF,BB-EKF V,Precious Alloy,Medium,19.80
+Tenerifis,50-5UD,BB-EKF,BB-EKF V,Dark Compound,Medium,24.95
+Tenerifis,50-5UD,BB-EKF,BB-EKF V,Supertensile Plastics,Poor,13.19
+Tenerifis,50-5UD,BB-EKF,BB-EKF V,Plasmoids,Medium,1.25
+Tenerifis,50-5UD,BB-EKF,BB-EKF VI,Lustering Alloy,Medium,23.02
+Tenerifis,50-5UD,BB-EKF,BB-EKF VI,Dark Compound,Medium,21.42
+Tenerifis,50-5UD,BB-EKF,BB-EKF VI,Supertensile Plastics,Medium,15.32
+Tenerifis,50-5UD,BB-EKF,BB-EKF VI,Construction Blocks,Poor,18.88
+Tenerifis,50-5UD,BB-EKF,BB-EKF VII,Fiber Composite,Medium,21.71
+Tenerifis,50-5UD,BB-EKF,BB-EKF VII,Reactive Gas,Rich,30.11
+Tenerifis,50-5UD,BB-EKF,BB-EKF VII,Base Metals,Medium,5.76
+Tenerifis,50-5UD,BB-EKF,BB-EKF VII,Polyaramids,Medium,17.15
+Tenerifis,50-5UD,BB-EKF,BB-EKF VII,Ionic Solutions,Medium,9.00
+Tenerifis,50-5UD,BB-EKF,BB-EKF VIII,Lustering Alloy,Medium,25.28
+Tenerifis,50-5UD,BB-EKF,BB-EKF VIII,Glossy Compound,Rich,28.48
+Tenerifis,50-5UD,BB-EKF,BB-EKF VIII,Reactive Gas,Medium,20.98
+Tenerifis,50-5UD,BB-EKF,BB-EKF VIII,Base Metals,Rich,7.86
+Tenerifis,50-5UD,BB-EKF,BB-EKF VIII,Ionic Solutions,Medium,8.63
+Tenerifis,50-5UD,BB-EKF,BB-EKF IX,Glossy Compound,Rich,32.61
+Tenerifis,50-5UD,BB-EKF,BB-EKF IX,Reactive Gas,Poor,17.51
+Tenerifis,50-5UD,BB-EKF,BB-EKF IX,Noble Gas,Rich,30.45
+Tenerifis,50-5UD,BB-EKF,BB-EKF IX,Reactive Metals,Medium,6.77
+Tenerifis,50-5UD,BB-EKF,BB-EKF IX,Coolant,Poor,13.19
+Tenerifis,50-5UD,BB-EKF,BB-EKF X,Lustering Alloy,Poor,16.93
+Tenerifis,50-5UD,BB-EKF,BB-EKF X,Precious Alloy,Medium,20.14
+Tenerifis,50-5UD,BB-EKF,BB-EKF X,Motley Compound,Rich,30.81
+Tenerifis,50-5UD,BB-EKF,BB-EKF X,Condensates,Medium,13.30
+Tenerifis,50-5UD,BB-EKF,BB-EKF XI,Lustering Alloy,Poor,15.75
+Tenerifis,50-5UD,BB-EKF,BB-EKF XI,Supertensile Plastics,Medium,13.44
+Tenerifis,50-5UD,BB-EKF,BB-EKF XI,Construction Blocks,Poor,16.46
+Tenerifis,50-5UD,BB-EKF,BB-EKF XI,Oxygen Isotopes,Medium,3.32
+Tenerifis,F5-O9O,DZ6-I5,DZ6-I5 I,Dark Compound,Medium,22.87
+Tenerifis,F5-O9O,DZ6-I5,DZ6-I5 I,Toxic Metals,Medium,5.40
+Tenerifis,F5-O9O,DZ6-I5,DZ6-I5 I,Supertensile Plastics,Medium,16.70
+Tenerifis,F5-O9O,DZ6-I5,DZ6-I5 I,Silicate Glass,Poor,7.67
+Tenerifis,F5-O9O,DZ6-I5,DZ6-I5 II,Precious Alloy,Poor,16.63
+Tenerifis,F5-O9O,DZ6-I5,DZ6-I5 II,Industrial Fibers,Poor,4.09
+Tenerifis,F5-O9O,DZ6-I5,DZ6-I5 II,Supertensile Plastics,Medium,13.24
+Tenerifis,F5-O9O,DZ6-I5,DZ6-I5 II,Plasmoids,Poor,1.17
+Tenerifis,F5-O9O,DZ6-I5,DZ6-I5 III,Supertensile Plastics,Poor,10.93
+Tenerifis,F5-O9O,DZ6-I5,DZ6-I5 III,Construction Blocks,Medium,20.50
+Tenerifis,F5-O9O,DZ6-I5,DZ6-I5 III,Silicate Glass,Medium,11.87
+Tenerifis,F5-O9O,DZ6-I5,DZ6-I5 III,Plasmoids,Medium,1.28
+Tenerifis,F5-O9O,DZ6-I5,DZ6-I5 IV,Sheen Compound,Poor,19.76
+Tenerifis,F5-O9O,DZ6-I5,DZ6-I5 IV,Reactive Gas,Rich,28.92
+Tenerifis,F5-O9O,DZ6-I5,DZ6-I5 IV,Noble Gas,Rich,28.06
+Tenerifis,F5-O9O,DZ6-I5,DZ6-I5 IV,Polyaramids,Poor,12.67
+Tenerifis,F5-O9O,DZ6-I5,DZ6-I5 IV,Coolant,Medium,17.28
+Tenerifis,F5-O9O,DZ6-I5,DZ6-I5 V,Lustering Alloy,Medium,20.18
+Tenerifis,F5-O9O,DZ6-I5,DZ6-I5 V,Fiber Composite,Medium,24.99
+Tenerifis,F5-O9O,DZ6-I5,DZ6-I5 V,Reactive Gas,Poor,19.17
+Tenerifis,F5-O9O,DZ6-I5,DZ6-I5 V,Noble Gas,Rich,29.21
+Tenerifis,F5-O9O,DZ6-I5,DZ6-I5 V,Base Metals,Poor,5.18
+Tenerifis,F5-O9O,DZ6-I5,DZ6-I5 VI,Glossy Compound,Rich,29.11
+Tenerifis,F5-O9O,DZ6-I5,DZ6-I5 VI,Reactive Gas,Rich,33.14
+Tenerifis,F5-O9O,DZ6-I5,DZ6-I5 VI,Base Metals,Rich,8.27
+Tenerifis,F5-O9O,DZ6-I5,DZ6-I5 VI,Reactive Metals,Medium,6.94
+Tenerifis,F5-O9O,DZ6-I5,DZ6-I5 VI,Ionic Solutions,Rich,11.59
+Tenerifis,F5-O9O,DZ6-I5,DZ6-I5 VII,Heavy Metals,Rich,29.42
+Tenerifis,F5-O9O,DZ6-I5,DZ6-I5 VII,Condensates,Medium,14.92
+Tenerifis,F5-O9O,DZ6-I5,DZ6-I5 VII,Suspended Plasma,Rich,108.64
+Tenerifis,F5-O9O,DZ6-I5,DZ6-I5 VII,Liquid Ozone,Medium,29.45
+Tenerifis,F5-O9O,R-XDKM,R-XDKM I,Gleaming Alloy,Medium,27.76
+Tenerifis,F5-O9O,R-XDKM,R-XDKM I,Glossy Compound,Rich,31.66
+Tenerifis,F5-O9O,R-XDKM,R-XDKM I,Noble Metals,Rich,29.68
+Tenerifis,F5-O9O,R-XDKM,R-XDKM II,Toxic Metals,Poor,4.24
+Tenerifis,F5-O9O,R-XDKM,R-XDKM II,Supertensile Plastics,Medium,15.69
+Tenerifis,F5-O9O,R-XDKM,R-XDKM II,Construction Blocks,Poor,16.74
+Tenerifis,F5-O9O,R-XDKM,R-XDKM II,Silicate Glass,Poor,7.33
+Tenerifis,F5-O9O,R-XDKM,R-XDKM III,Sheen Compound,Rich,30.01
+Tenerifis,F5-O9O,R-XDKM,R-XDKM III,Lucent Compound,Medium,21.47
+Tenerifis,F5-O9O,R-XDKM,R-XDKM III,Condensates,Medium,14.86
+Tenerifis,F5-O9O,R-XDKM,R-XDKM III,Nanites,Perfect,9.24
+Tenerifis,F5-O9O,R-XDKM,R-XDKM III,Plasmoids,Medium,1.40
+Tenerifis,F5-O9O,R-XDKM,R-XDKM IV,Opulent Compound,Perfect,36.83
+Tenerifis,F5-O9O,R-XDKM,R-XDKM IV,Noble Metals,Medium,27.35
+Tenerifis,F5-O9O,R-XDKM,R-XDKM IV,Industrial Fibers,Poor,5.35
+Tenerifis,F5-O9O,R-XDKM,R-XDKM IV,Smartfab Units,Medium,15.22
+Tenerifis,F5-O9O,R-XDKM,R-XDKM IV,Liquid Ozone,Perfect,48.15
+Tenerifis,F5-O9O,G1-0UI,G1-0UI I,Gleaming Alloy,Poor,20.06
+Tenerifis,F5-O9O,G1-0UI,G1-0UI I,Noble Metals,Medium,26.47
+Tenerifis,F5-O9O,G1-0UI,G1-0UI I,Construction Blocks,Medium,26.24
+Tenerifis,F5-O9O,G1-0UI,G1-0UI II,Dark Compound,Medium,24.63
+Tenerifis,F5-O9O,G1-0UI,G1-0UI II,Base Metals,Medium,7.12
+Tenerifis,F5-O9O,G1-0UI,G1-0UI II,Supertensile Plastics,Poor,10.15
+Tenerifis,F5-O9O,G1-0UI,G1-0UI II,Oxygen Isotopes,Poor,2.51
+Tenerifis,F5-O9O,G1-0UI,G1-0UI III,Glossy Compound,Medium,24.70
+Tenerifis,F5-O9O,G1-0UI,G1-0UI III,Reactive Gas,Rich,29.99
+Tenerifis,F5-O9O,G1-0UI,G1-0UI III,Noble Gas,Rich,31.00
+Tenerifis,F5-O9O,G1-0UI,G1-0UI III,Reactive Metals,Medium,6.30
+Tenerifis,F5-O9O,G1-0UI,G1-0UI III,Polyaramids,Rich,21.85
+Tenerifis,F5-O9O,G1-0UI,G1-0UI IV,Sheen Compound,Rich,29.55
+Tenerifis,F5-O9O,G1-0UI,G1-0UI IV,Reactive Gas,Poor,19.48
+Tenerifis,F5-O9O,G1-0UI,G1-0UI IV,Base Metals,Perfect,9.87
+Tenerifis,F5-O9O,G1-0UI,G1-0UI IV,Polyaramids,Poor,14.21
+Tenerifis,F5-O9O,G1-0UI,G1-0UI IV,Coolant,Rich,21.77
+Tenerifis,F5-O9O,G1-0UI,G1-0UI V,Lustering Alloy,Perfect,37.28
+Tenerifis,F5-O9O,G1-0UI,G1-0UI V,Sheen Compound,Poor,19.76
+Tenerifis,F5-O9O,G1-0UI,G1-0UI V,Reactive Gas,Poor,19.99
+Tenerifis,F5-O9O,G1-0UI,G1-0UI V,Noble Gas,Rich,30.36
+Tenerifis,F5-O9O,G1-0UI,G1-0UI V,Ionic Solutions,Rich,12.16
+Tenerifis,F5-O9O,G1-0UI,G1-0UI VI,Gleaming Alloy,Medium,28.91
+Tenerifis,F5-O9O,G1-0UI,G1-0UI VI,Reactive Gas,Medium,24.33
+Tenerifis,F5-O9O,G1-0UI,G1-0UI VI,Reactive Metals,Medium,7.13
+Tenerifis,F5-O9O,G1-0UI,G1-0UI VI,Oxygen Isotopes,Medium,4.32
+Tenerifis,F5-O9O,G1-0UI,G1-0UI VII,Heavy Metals,Medium,25.92
+Tenerifis,F5-O9O,G1-0UI,G1-0UI VII,Condensates,Poor,13.11
+Tenerifis,F5-O9O,G1-0UI,G1-0UI VII,Suspended Plasma,Poor,63.92
+Tenerifis,F5-O9O,G1-0UI,G1-0UI VII,Liquid Ozone,Poor,26.19
+Tenerifis,F5-O9O,G1-0UI,G1-0UI VIII,Condensed Alloy,Rich,33.90
+Tenerifis,F5-O9O,G1-0UI,G1-0UI VIII,Toxic Metals,Perfect,9.85
+Tenerifis,F5-O9O,G1-0UI,G1-0UI VIII,Coolant,Rich,23.69
+Tenerifis,F5-O9O,G1-0UI,G1-0UI VIII,Liquid Ozone,Poor,25.50
+Tenerifis,F5-O9O,G1-0UI,G1-0UI VIII,Ionic Solutions,Rich,13.40
+Tenerifis,F5-O9O,QCDG-H,QCDG-H I,Lustering Alloy,Poor,17.54
+Tenerifis,F5-O9O,QCDG-H,QCDG-H I,Supertensile Plastics,Poor,10.50
+Tenerifis,F5-O9O,QCDG-H,QCDG-H I,Construction Blocks,Medium,25.68
+Tenerifis,F5-O9O,QCDG-H,QCDG-H I,Oxygen Isotopes,Poor,2.81
+Tenerifis,F5-O9O,QCDG-H,QCDG-H II,Precious Alloy,Poor,18.12
+Tenerifis,F5-O9O,QCDG-H,QCDG-H II,Base Metals,Poor,4.43
+Tenerifis,F5-O9O,QCDG-H,QCDG-H II,Supertensile Plastics,Poor,12.60
+Tenerifis,F5-O9O,QCDG-H,QCDG-H II,Oxygen Isotopes,Poor,2.61
+Tenerifis,F5-O9O,QCDG-H,QCDG-H III,Opulent Compound,Medium,25.33
+Tenerifis,F5-O9O,QCDG-H,QCDG-H III,Polyaramids,Perfect,23.20
+Tenerifis,F5-O9O,QCDG-H,QCDG-H III,Coolant,Rich,20.92
+Tenerifis,F5-O9O,QCDG-H,QCDG-H III,Heavy Water,Medium,201.60
+Tenerifis,F5-O9O,QCDG-H,QCDG-H III,Liquid Ozone,Medium,32.16
+Tenerifis,F5-O9O,QCDG-H,QCDG-H IV,Lustering Alloy,Poor,17.39
+Tenerifis,F5-O9O,QCDG-H,QCDG-H IV,Toxic Metals,Poor,4.32
+Tenerifis,F5-O9O,QCDG-H,QCDG-H IV,Supertensile Plastics,Medium,13.55
+Tenerifis,F5-O9O,QCDG-H,QCDG-H IV,Oxygen Isotopes,Medium,3.12
+Tenerifis,F5-O9O,QCDG-H,QCDG-H V,Lustering Alloy,Medium,23.10
+Tenerifis,F5-O9O,QCDG-H,QCDG-H V,Base Metals,Medium,6.61
+Tenerifis,F5-O9O,QCDG-H,QCDG-H V,Industrial Fibers,Poor,4.62
+Tenerifis,F5-O9O,QCDG-H,QCDG-H V,Supertensile Plastics,Medium,15.22
+Tenerifis,F5-O9O,QCDG-H,QCDG-H VI,Base Metals,Medium,6.72
+Tenerifis,F5-O9O,QCDG-H,QCDG-H VI,Supertensile Plastics,Poor,12.60
+Tenerifis,F5-O9O,QCDG-H,QCDG-H VI,Silicate Glass,Medium,11.28
+Tenerifis,F5-O9O,QCDG-H,QCDG-H VI,Plasmoids,Poor,0.79
+Tenerifis,F5-O9O,QCDG-H,QCDG-H VII,Lustering Alloy,Medium,22.87
+Tenerifis,F5-O9O,QCDG-H,QCDG-H VII,Supertensile Plastics,Poor,11.98
+Tenerifis,F5-O9O,QCDG-H,QCDG-H VII,Oxygen Isotopes,Poor,2.67
+Tenerifis,F5-O9O,QCDG-H,QCDG-H VII,Plasmoids,Medium,1.42
+Tenerifis,F5-O9O,QCDG-H,QCDG-H VIII,Sheen Compound,Poor,19.11
+Tenerifis,F5-O9O,QCDG-H,QCDG-H VIII,Fiber Composite,Medium,20.56
+Tenerifis,F5-O9O,QCDG-H,QCDG-H VIII,Reactive Gas,Rich,31.58
+Tenerifis,F5-O9O,QCDG-H,QCDG-H VIII,Polyaramids,Perfect,22.68
+Tenerifis,F5-O9O,QCDG-H,QCDG-H VIII,Ionic Solutions,Rich,11.29
+Tenerifis,F5-O9O,QCDG-H,QCDG-H IX,Crystal Compound,Medium,23.02
+Tenerifis,F5-O9O,QCDG-H,QCDG-H IX,Toxic Metals,Rich,7.63
+Tenerifis,F5-O9O,QCDG-H,QCDG-H IX,Silicate Glass,Poor,9.83
+Tenerifis,F5-O9O,QCDG-H,QCDG-H IX,Liquid Ozone,Rich,40.29
+Tenerifis,F5-O9O,QCDG-H,QCDG-H IX,Ionic Solutions,Rich,11.49
+Tenerifis,F5-O9O,XUDX-A,XUDX-A I,Gleaming Alloy,Medium,20.90
+Tenerifis,F5-O9O,XUDX-A,XUDX-A I,Heavy Metals,Rich,33.81
+Tenerifis,F5-O9O,XUDX-A,XUDX-A I,Construction Blocks,Rich,29.72
+Tenerifis,F5-O9O,XUDX-A,XUDX-A II,Reactive Metals,Rich,9.07
+Tenerifis,F5-O9O,XUDX-A,XUDX-A II,Toxic Metals,Medium,6.31
+Tenerifis,F5-O9O,XUDX-A,XUDX-A II,Supertensile Plastics,Medium,17.07
+Tenerifis,F5-O9O,XUDX-A,XUDX-A II,Nanites,Medium,6.55
+Tenerifis,F5-O9O,XUDX-A,XUDX-A III,Sheen Compound,Poor,18.17
+Tenerifis,F5-O9O,XUDX-A,XUDX-A III,Fiber Composite,Medium,23.89
+Tenerifis,F5-O9O,XUDX-A,XUDX-A III,Reactive Gas,Rich,34.21
+Tenerifis,F5-O9O,XUDX-A,XUDX-A III,Polyaramids,Medium,18.49
+Tenerifis,F5-O9O,XUDX-A,XUDX-A III,Ionic Solutions,Rich,13.54
+Tenerifis,F5-O9O,XUDX-A,XUDX-A IV,Precious Alloy,Medium,25.43
+Tenerifis,F5-O9O,XUDX-A,XUDX-A IV,Supertensile Plastics,Poor,11.54
+Tenerifis,F5-O9O,XUDX-A,XUDX-A IV,Silicate Glass,Poor,8.27
+Tenerifis,F5-O9O,XUDX-A,XUDX-A IV,Plasmoids,Medium,1.58
+Tenerifis,F5-O9O,XUDX-A,XUDX-A V,Lustering Alloy,Medium,27.19
+Tenerifis,F5-O9O,XUDX-A,XUDX-A V,Reactive Gas,Rich,31.37
+Tenerifis,F5-O9O,XUDX-A,XUDX-A V,Noble Gas,Medium,21.85
+Tenerifis,F5-O9O,XUDX-A,XUDX-A V,Coolant,Medium,13.85
+Tenerifis,F5-O9O,XUDX-A,XUDX-A V,Ionic Solutions,Rich,12.13
+Tenerifis,F5-O9O,XUDX-A,XUDX-A VI,Lustering Alloy,Poor,20.57
+Tenerifis,F5-O9O,XUDX-A,XUDX-A VI,Supertensile Plastics,Medium,16.81
+Tenerifis,F5-O9O,XUDX-A,XUDX-A VI,Construction Blocks,Poor,20.22
+Tenerifis,F5-O9O,XUDX-A,XUDX-A VI,Oxygen Isotopes,Poor,3.00
+Tenerifis,F5-O9O,XUDX-A,XUDX-A VII,Lustering Alloy,Poor,19.05
+Tenerifis,F5-O9O,XUDX-A,XUDX-A VII,Supertensile Plastics,Medium,14.23
+Tenerifis,F5-O9O,XUDX-A,XUDX-A VII,Construction Blocks,Poor,16.65
+Tenerifis,F5-O9O,XUDX-A,XUDX-A VII,Oxygen Isotopes,Poor,2.83
+Tenerifis,F5-O9O,XUDX-A,XUDX-A VIII,Reactive Metals,Poor,5.20
+Tenerifis,F5-O9O,XUDX-A,XUDX-A VIII,Toxic Metals,Rich,8.75
+Tenerifis,F5-O9O,XUDX-A,XUDX-A VIII,Supertensile Plastics,Rich,20.46
+Tenerifis,F5-O9O,XUDX-A,XUDX-A VIII,Construction Blocks,Poor,18.85
+Tenerifis,F5-O9O,XUDX-A,XUDX-A IX,Crystal Compound,Medium,23.50
+Tenerifis,F5-O9O,XUDX-A,XUDX-A IX,Reactive Metals,Rich,8.88
+Tenerifis,F5-O9O,XUDX-A,XUDX-A IX,Toxic Metals,Rich,7.52
+Tenerifis,F5-O9O,XUDX-A,XUDX-A IX,Oxygen Isotopes,Medium,3.13
+Tenerifis,F5-O9O,XUDX-A,XUDX-A X,Condensed Alloy,Perfect,38.90
+Tenerifis,F5-O9O,XUDX-A,XUDX-A X,Opulent Compound,Poor,20.42
+Tenerifis,F5-O9O,XUDX-A,XUDX-A X,Toxic Metals,Medium,6.26
+Tenerifis,F5-O9O,XUDX-A,XUDX-A X,Silicate Glass,Rich,13.94
+Tenerifis,F5-O9O,XUDX-A,XUDX-A X,Liquid Ozone,Medium,27.17
+Tenerifis,F5-O9O,QLU-P0,QLU-P0 I,Lustering Alloy,Poor,14.89
+Tenerifis,F5-O9O,QLU-P0,QLU-P0 I,Base Metals,Poor,5.37
+Tenerifis,F5-O9O,QLU-P0,QLU-P0 I,Toxic Metals,Poor,3.97
+Tenerifis,F5-O9O,QLU-P0,QLU-P0 I,Supertensile Plastics,Medium,15.37
+Tenerifis,F5-O9O,QLU-P0,QLU-P0 II,Precious Alloy,Poor,18.17
+Tenerifis,F5-O9O,QLU-P0,QLU-P0 II,Dark Compound,Poor,18.08
+Tenerifis,F5-O9O,QLU-P0,QLU-P0 II,Toxic Metals,Poor,4.11
+Tenerifis,F5-O9O,QLU-P0,QLU-P0 II,Supertensile Plastics,Medium,18.01
+Tenerifis,F5-O9O,QLU-P0,QLU-P0 III,Crystal Compound,Rich,34.25
+Tenerifis,F5-O9O,QLU-P0,QLU-P0 III,Noble Metals,Perfect,36.30
+Tenerifis,F5-O9O,QLU-P0,QLU-P0 III,Toxic Metals,Medium,6.92
+Tenerifis,F5-O9O,QLU-P0,QLU-P0 III,Heavy Water,Poor,194.04
+Tenerifis,F5-O9O,QLU-P0,QLU-P0 III,Liquid Ozone,Perfect,47.44
+Tenerifis,F5-O9O,QLU-P0,QLU-P0 IV,Lustering Alloy,Rich,33.90
+Tenerifis,F5-O9O,QLU-P0,QLU-P0 IV,Fiber Composite,Medium,25.32
+Tenerifis,F5-O9O,QLU-P0,QLU-P0 IV,Reactive Gas,Medium,26.03
+Tenerifis,F5-O9O,QLU-P0,QLU-P0 IV,Base Metals,Medium,6.03
+Tenerifis,F5-O9O,QLU-P0,QLU-P0 IV,Polyaramids,Rich,23.10
+Tenerifis,F5-O9O,QLU-P0,QLU-P0 V,Lustering Alloy,Medium,22.33
+Tenerifis,F5-O9O,QLU-P0,QLU-P0 V,Fiber Composite,Medium,23.52
+Tenerifis,F5-O9O,QLU-P0,QLU-P0 V,Reactive Gas,Rich,32.12
+Tenerifis,F5-O9O,QLU-P0,QLU-P0 V,Reactive Metals,Medium,6.76
+Tenerifis,F5-O9O,QLU-P0,QLU-P0 V,Coolant,Rich,23.29
+Tenerifis,F5-O9O,QLU-P0,QLU-P0 VI,Sheen Compound,Medium,26.11
+Tenerifis,F5-O9O,QLU-P0,QLU-P0 VI,Reactive Gas,Rich,31.55
+Tenerifis,F5-O9O,QLU-P0,QLU-P0 VI,Noble Gas,Medium,23.96
+Tenerifis,F5-O9O,QLU-P0,QLU-P0 VI,Base Metals,Rich,7.63
+Tenerifis,F5-O9O,QLU-P0,QLU-P0 VI,Coolant,Perfect,23.75
+Tenerifis,F5-O9O,QLU-P0,QLU-P0 VII,Toxic Metals,Medium,6.79
+Tenerifis,F5-O9O,QLU-P0,QLU-P0 VII,Supertensile Plastics,Poor,13.49
+Tenerifis,F5-O9O,QLU-P0,QLU-P0 VII,Oxygen Isotopes,Medium,3.24
+Tenerifis,F5-O9O,QLU-P0,QLU-P0 VII,Plasmoids,Poor,1.24
+Tenerifis,F5-O9O,QLU-P0,QLU-P0 VIII,Reactive Metals,Medium,6.61
+Tenerifis,F5-O9O,QLU-P0,QLU-P0 VIII,Toxic Metals,Poor,5.16
+Tenerifis,F5-O9O,QLU-P0,QLU-P0 VIII,Nanites,Poor,5.08
+Tenerifis,F5-O9O,QLU-P0,QLU-P0 VIII,Suspended Plasma,Rich,102.48
+Tenerifis,F5-O9O,OQTY-Z,OQTY-Z I,Industrial Fibers,Poor,4.93
+Tenerifis,F5-O9O,OQTY-Z,OQTY-Z I,Supertensile Plastics,Poor,11.90
+Tenerifis,F5-O9O,OQTY-Z,OQTY-Z I,Oxygen Isotopes,Medium,4.07
+Tenerifis,F5-O9O,OQTY-Z,OQTY-Z I,Plasmoids,Medium,1.67
+Tenerifis,F5-O9O,OQTY-Z,OQTY-Z II,Gleaming Alloy,Medium,25.69
+Tenerifis,F5-O9O,OQTY-Z,OQTY-Z II,Construction Blocks,Medium,21.78
+Tenerifis,F5-O9O,OQTY-Z,OQTY-Z II,Smartfab Units,Rich,20.96
+Tenerifis,F5-O9O,OQTY-Z,OQTY-Z III,Noble Metals,Perfect,37.54
+Tenerifis,F5-O9O,OQTY-Z,OQTY-Z III,Polyaramids,Medium,16.58
+Tenerifis,F5-O9O,OQTY-Z,OQTY-Z III,Silicate Glass,Rich,17.35
+Tenerifis,F5-O9O,OQTY-Z,OQTY-Z III,Heavy Water,Perfect,388.01
+Tenerifis,F5-O9O,OQTY-Z,OQTY-Z III,Liquid Ozone,Rich,37.32
+Tenerifis,F5-O9O,OQTY-Z,OQTY-Z IV,Lustering Alloy,Perfect,37.60
+Tenerifis,F5-O9O,OQTY-Z,OQTY-Z IV,Sheen Compound,Perfect,37.12
+Tenerifis,F5-O9O,OQTY-Z,OQTY-Z IV,Glossy Compound,Rich,35.83
+Tenerifis,F5-O9O,OQTY-Z,OQTY-Z IV,Reactive Gas,Perfect,36.68
+Tenerifis,F5-O9O,OQTY-Z,OQTY-Z IV,Noble Gas,Rich,31.00
+Tenerifis,F5-O9O,OQTY-Z,OQTY-Z V,Fiber Composite,Perfect,37.12
+Tenerifis,F5-O9O,OQTY-Z,OQTY-Z V,Opulent Compound,Perfect,37.79
+Tenerifis,F5-O9O,OQTY-Z,OQTY-Z V,Industrial Fibers,Perfect,11.45
+Tenerifis,F5-O9O,OQTY-Z,OQTY-Z V,Smartfab Units,Rich,23.60
+Tenerifis,F5-O9O,OQTY-Z,OQTY-Z V,Liquid Ozone,Poor,26.42
+Tenerifis,F5-O9O,OQTY-Z,OQTY-Z VI,Lustering Alloy,Perfect,36.82
+Tenerifis,F5-O9O,OQTY-Z,OQTY-Z VI,Reactive Gas,Rich,33.95
+Tenerifis,F5-O9O,OQTY-Z,OQTY-Z VI,Noble Gas,Medium,23.67
+Tenerifis,F5-O9O,OQTY-Z,OQTY-Z VI,Coolant,Medium,19.07
+Tenerifis,F5-O9O,OQTY-Z,OQTY-Z VI,Ionic Solutions,Medium,9.11
+Tenerifis,F5-O9O,OQTY-Z,OQTY-Z VII,Sheen Compound,Medium,24.17
+Tenerifis,F5-O9O,OQTY-Z,OQTY-Z VII,Fiber Composite,Medium,27.58
+Tenerifis,F5-O9O,OQTY-Z,OQTY-Z VII,Reactive Gas,Perfect,36.68
+Tenerifis,F5-O9O,OQTY-Z,OQTY-Z VII,Noble Gas,Medium,28.82
+Tenerifis,F5-O9O,OQTY-Z,OQTY-Z VII,Polyaramids,Medium,16.42
+Tenerifis,F5-O9O,OQTY-Z,OQTY-Z VIII,Lustering Alloy,Medium,27.92
+Tenerifis,F5-O9O,OQTY-Z,OQTY-Z VIII,Glossy Compound,Poor,21.18
+Tenerifis,F5-O9O,OQTY-Z,OQTY-Z VIII,Reactive Gas,Rich,32.15
+Tenerifis,F5-O9O,OQTY-Z,OQTY-Z VIII,Base Metals,Medium,7.21
+Tenerifis,F5-O9O,OQTY-Z,OQTY-Z VIII,Ionic Solutions,Perfect,14.75
+Tenerifis,F5-O9O,OQTY-Z,OQTY-Z IX,Motley Compound,Poor,18.12
+Tenerifis,F5-O9O,OQTY-Z,OQTY-Z IX,Base Metals,Medium,6.02
+Tenerifis,F5-O9O,OQTY-Z,OQTY-Z IX,Supertensile Plastics,Poor,14.29
+Tenerifis,F5-O9O,OQTY-Z,OQTY-Z IX,Condensates,Poor,13.68
+Tenerifis,EIX-HK,Y-EQ0C,Y-EQ0C I,Gleaming Alloy,Perfect,32.14
+Tenerifis,EIX-HK,Y-EQ0C,Y-EQ0C I,Heavy Metals,Medium,21.84
+Tenerifis,EIX-HK,Y-EQ0C,Y-EQ0C I,Smartfab Units,Rich,17.88
+Tenerifis,EIX-HK,Y-EQ0C,Y-EQ0C II,Dark Compound,Poor,13.36
+Tenerifis,EIX-HK,Y-EQ0C,Y-EQ0C II,Base Metals,Poor,3.46
+Tenerifis,EIX-HK,Y-EQ0C,Y-EQ0C II,Supertensile Plastics,Medium,15.75
+Tenerifis,EIX-HK,Y-EQ0C,Y-EQ0C II,Plasmoids,Medium,1.44
+Tenerifis,EIX-HK,Y-EQ0C,Y-EQ0C III,Gleaming Alloy,Rich,30.72
+Tenerifis,EIX-HK,Y-EQ0C,Y-EQ0C III,Glossy Compound,Medium,18.88
+Tenerifis,EIX-HK,Y-EQ0C,Y-EQ0C III,Construction Blocks,Rich,29.94
+Tenerifis,EIX-HK,Y-EQ0C,Y-EQ0C IV,Reactive Gas,Rich,27.08
+Tenerifis,EIX-HK,Y-EQ0C,Y-EQ0C IV,Reactive Metals,Rich,7.02
+Tenerifis,EIX-HK,Y-EQ0C,Y-EQ0C IV,Toxic Metals,Rich,7.38
+Tenerifis,EIX-HK,Y-EQ0C,Y-EQ0C IV,Oxygen Isotopes,Rich,4.76
+Tenerifis,EIX-HK,Y-EQ0C,Y-EQ0C V,Precious Alloy,Poor,12.72
+Tenerifis,EIX-HK,Y-EQ0C,Y-EQ0C V,Supertensile Plastics,Medium,14.80
+Tenerifis,EIX-HK,Y-EQ0C,Y-EQ0C V,Silicate Glass,Medium,11.13
+Tenerifis,EIX-HK,Y-EQ0C,Y-EQ0C V,Oxygen Isotopes,Medium,3.32
+Tenerifis,EIX-HK,Y-EQ0C,Y-EQ0C VI,Fiber Composite,Medium,18.92
+Tenerifis,EIX-HK,Y-EQ0C,Y-EQ0C VI,Reactive Gas,Perfect,32.34
+Tenerifis,EIX-HK,Y-EQ0C,Y-EQ0C VI,Reactive Metals,Rich,8.10
+Tenerifis,EIX-HK,Y-EQ0C,Y-EQ0C VI,Polyaramids,Medium,13.93
+Tenerifis,EIX-HK,Y-EQ0C,Y-EQ0C VI,Coolant,Perfect,21.53
+Tenerifis,EIX-HK,Y-EQ0C,Y-EQ0C VII,Lustering Alloy,Rich,30.40
+Tenerifis,EIX-HK,Y-EQ0C,Y-EQ0C VII,Sheen Compound,Rich,29.46
+Tenerifis,EIX-HK,Y-EQ0C,Y-EQ0C VII,Reactive Gas,Poor,18.52
+Tenerifis,EIX-HK,Y-EQ0C,Y-EQ0C VII,Base Metals,Medium,5.16
+Tenerifis,EIX-HK,Y-EQ0C,Y-EQ0C VII,Polyaramids,Medium,15.81
+Tenerifis,EIX-HK,Y-EQ0C,Y-EQ0C VIII,Lucent Compound,Medium,19.00
+Tenerifis,EIX-HK,Y-EQ0C,Y-EQ0C VIII,Crystal Compound,Rich,31.36
+Tenerifis,EIX-HK,Y-EQ0C,Y-EQ0C VIII,Reactive Metals,Medium,5.16
+Tenerifis,EIX-HK,Y-EQ0C,Y-EQ0C VIII,Oxygen Isotopes,Rich,4.42
+Tenerifis,EIX-HK,7M4C-F,7M4C-F I,Lustering Alloy,Poor,16.46
+Tenerifis,EIX-HK,7M4C-F,7M4C-F I,Industrial Fibers,Poor,3.85
+Tenerifis,EIX-HK,7M4C-F,7M4C-F I,Supertensile Plastics,Medium,16.19
+Tenerifis,EIX-HK,7M4C-F,7M4C-F I,Construction Blocks,Medium,20.04
+Tenerifis,EIX-HK,7M4C-F,7M4C-F II,Reactive Metals,Rich,8.31
+Tenerifis,EIX-HK,7M4C-F,7M4C-F II,Toxic Metals,Poor,4.30
+Tenerifis,EIX-HK,7M4C-F,7M4C-F II,Construction Blocks,Rich,25.42
+Tenerifis,EIX-HK,7M4C-F,7M4C-F II,Nanites,Poor,4.58
+Tenerifis,EIX-HK,7M4C-F,7M4C-F III,Condensed Alloy,Rich,25.60
+Tenerifis,EIX-HK,7M4C-F,7M4C-F III,Noble Metals,Medium,20.60
+Tenerifis,EIX-HK,7M4C-F,7M4C-F III,Industrial Fibers,Perfect,9.74
+Tenerifis,EIX-HK,7M4C-F,7M4C-F III,Smartfab Units,Rich,17.77
+Tenerifis,EIX-HK,7M4C-F,7M4C-F III,Liquid Ozone,Rich,37.48
+Tenerifis,EIX-HK,7M4C-F,7M4C-F IV,Lucent Compound,Rich,30.52
+Tenerifis,EIX-HK,7M4C-F,7M4C-F IV,Crystal Compound,Rich,27.24
+Tenerifis,EIX-HK,7M4C-F,7M4C-F IV,Reactive Metals,Medium,6.29
+Tenerifis,EIX-HK,7M4C-F,7M4C-F IV,Supertensile Plastics,Medium,16.28
+Tenerifis,EIX-HK,7M4C-F,7M4C-F V,Gleaming Alloy,Rich,26.70
+Tenerifis,EIX-HK,7M4C-F,7M4C-F V,Motley Compound,Rich,30.10
+Tenerifis,EIX-HK,7M4C-F,7M4C-F V,Construction Blocks,Medium,24.40
+Tenerifis,EIX-HK,7M4C-F,7M4C-F VI,Fiber Composite,Perfect,37.34
+Tenerifis,EIX-HK,7M4C-F,7M4C-F VI,Opulent Compound,Poor,18.66
+Tenerifis,EIX-HK,7M4C-F,7M4C-F VI,Base Metals,Rich,6.81
+Tenerifis,EIX-HK,7M4C-F,7M4C-F VI,Smartfab Units,Medium,15.83
+Tenerifis,EIX-HK,7M4C-F,7M4C-F VI,Liquid Ozone,Medium,27.70
+Tenerifis,EIX-HK,7M4C-F,7M4C-F VII,Sheen Compound,Poor,16.80
+Tenerifis,EIX-HK,7M4C-F,7M4C-F VII,Fiber Composite,Perfect,31.94
+Tenerifis,EIX-HK,7M4C-F,7M4C-F VII,Glossy Compound,Rich,26.38
+Tenerifis,EIX-HK,7M4C-F,7M4C-F VII,Reactive Gas,Medium,19.66
+Tenerifis,EIX-HK,7M4C-F,7M4C-F VII,Base Metals,Rich,7.12
+Tenerifis,EIX-HK,7M4C-F,7M4C-F VIII,Lustering Alloy,Medium,24.36
+Tenerifis,EIX-HK,7M4C-F,7M4C-F VIII,Reactive Gas,Poor,16.78
+Tenerifis,EIX-HK,7M4C-F,7M4C-F VIII,Reactive Metals,Rich,8.12
+Tenerifis,EIX-HK,7M4C-F,7M4C-F VIII,Polyaramids,Rich,18.56
+Tenerifis,EIX-HK,7M4C-F,7M4C-F VIII,Ionic Solutions,Rich,10.98
+Tenerifis,EIX-HK,7M4C-F,7M4C-F IX,Lustering Alloy,Poor,18.42
+Tenerifis,EIX-HK,7M4C-F,7M4C-F IX,Sheen Compound,Poor,18.08
+Tenerifis,EIX-HK,7M4C-F,7M4C-F IX,Glossy Compound,Rich,28.76
+Tenerifis,EIX-HK,7M4C-F,7M4C-F IX,Reactive Gas,Medium,22.24
+Tenerifis,EIX-HK,7M4C-F,7M4C-F IX,Base Metals,Perfect,8.64
+Tenerifis,EIX-HK,7M4C-F,7M4C-F X,Precious Alloy,Poor,16.18
+Tenerifis,EIX-HK,7M4C-F,7M4C-F X,Dark Compound,Poor,16.72
+Tenerifis,EIX-HK,7M4C-F,7M4C-F X,Base Metals,Medium,6.08
+Tenerifis,EIX-HK,7M4C-F,7M4C-F X,Supertensile Plastics,Medium,13.56
+Tenerifis,EIX-HK,MS1-KJ,MS1-KJ I,Lustering Alloy,Medium,25.20
+Tenerifis,EIX-HK,MS1-KJ,MS1-KJ I,Dark Compound,Medium,22.68
+Tenerifis,EIX-HK,MS1-KJ,MS1-KJ I,Industrial Fibers,Poor,4.24
+Tenerifis,EIX-HK,MS1-KJ,MS1-KJ I,Supertensile Plastics,Poor,12.75
+Tenerifis,EIX-HK,MS1-KJ,MS1-KJ II,Lustering Alloy,Medium,24.11
+Tenerifis,EIX-HK,MS1-KJ,MS1-KJ II,Supertensile Plastics,Poor,11.56
+Tenerifis,EIX-HK,MS1-KJ,MS1-KJ II,Silicate Glass,Poor,7.55
+Tenerifis,EIX-HK,MS1-KJ,MS1-KJ II,Oxygen Isotopes,Medium,3.16
+Tenerifis,EIX-HK,MS1-KJ,MS1-KJ III,Lucent Compound,Perfect,33.73
+Tenerifis,EIX-HK,MS1-KJ,MS1-KJ III,Dark Compound,Perfect,33.45
+Tenerifis,EIX-HK,MS1-KJ,MS1-KJ III,Heavy Metals,Rich,33.33
+Tenerifis,EIX-HK,MS1-KJ,MS1-KJ III,Condensates,Rich,21.43
+Tenerifis,EIX-HK,MS1-KJ,MS1-KJ III,Plasmoids,Perfect,2.01
+Tenerifis,EIX-HK,MS1-KJ,MS1-KJ IV,Lustering Alloy,Medium,21.40
+Tenerifis,EIX-HK,MS1-KJ,MS1-KJ IV,Dark Compound,Poor,18.54
+Tenerifis,EIX-HK,MS1-KJ,MS1-KJ IV,Industrial Fibers,Medium,5.48
+Tenerifis,EIX-HK,MS1-KJ,MS1-KJ IV,Supertensile Plastics,Poor,12.99
+Tenerifis,EIX-HK,MS1-KJ,MS1-KJ V,Opulent Compound,Rich,27.38
+Tenerifis,EIX-HK,MS1-KJ,MS1-KJ V,Noble Metals,Poor,19.59
+Tenerifis,EIX-HK,MS1-KJ,MS1-KJ V,Toxic Metals,Rich,8.66
+Tenerifis,EIX-HK,MS1-KJ,MS1-KJ V,Silicate Glass,Medium,11.04
+Tenerifis,EIX-HK,MS1-KJ,MS1-KJ V,Liquid Ozone,Perfect,45.67
+Tenerifis,EIX-HK,MS1-KJ,MS1-KJ VI,Fiber Composite,Medium,22.97
+Tenerifis,EIX-HK,MS1-KJ,MS1-KJ VI,Opulent Compound,Perfect,36.73
+Tenerifis,EIX-HK,MS1-KJ,MS1-KJ VI,Base Metals,Medium,6.52
+Tenerifis,EIX-HK,MS1-KJ,MS1-KJ VI,Smartfab Units,Poor,13.19
+Tenerifis,EIX-HK,MS1-KJ,MS1-KJ VI,Liquid Ozone,Medium,32.16
+Tenerifis,EIX-HK,MS1-KJ,MS1-KJ VII,Sheen Compound,Medium,22.09
+Tenerifis,EIX-HK,MS1-KJ,MS1-KJ VII,Fiber Composite,Poor,17.45
+Tenerifis,EIX-HK,MS1-KJ,MS1-KJ VII,Glossy Compound,Medium,22.83
+Tenerifis,EIX-HK,MS1-KJ,MS1-KJ VII,Reactive Gas,Poor,17.30
+Tenerifis,EIX-HK,MS1-KJ,MS1-KJ VII,Polyaramids,Poor,13.09
+Tenerifis,EIX-HK,MS1-KJ,MS1-KJ VIII,Lustering Alloy,Rich,28.85
+Tenerifis,EIX-HK,MS1-KJ,MS1-KJ VIII,Sheen Compound,Medium,19.91
+Tenerifis,EIX-HK,MS1-KJ,MS1-KJ VIII,Reactive Gas,Rich,30.09
+Tenerifis,EIX-HK,MS1-KJ,MS1-KJ VIII,Coolant,Medium,15.72
+Tenerifis,EIX-HK,MS1-KJ,MS1-KJ VIII,Ionic Solutions,Medium,9.58
+Tenerifis,EIX-HK,MS1-KJ,MS1-KJ IX,Lustering Alloy,Rich,27.41
+Tenerifis,EIX-HK,MS1-KJ,MS1-KJ IX,Sheen Compound,Medium,24.17
+Tenerifis,EIX-HK,MS1-KJ,MS1-KJ IX,Reactive Gas,Rich,31.92
+Tenerifis,EIX-HK,MS1-KJ,MS1-KJ IX,Coolant,Poor,12.81
+Tenerifis,EIX-HK,MS1-KJ,MS1-KJ IX,Ionic Solutions,Rich,12.21
+Tenerifis,EIX-HK,MS1-KJ,MS1-KJ X,Lustering Alloy,Rich,29.71
+Tenerifis,EIX-HK,MS1-KJ,MS1-KJ X,Sheen Compound,Medium,22.70
+Tenerifis,EIX-HK,MS1-KJ,MS1-KJ X,Reactive Gas,Rich,33.35
+Tenerifis,EIX-HK,MS1-KJ,MS1-KJ X,Noble Gas,Medium,25.81
+Tenerifis,EIX-HK,MS1-KJ,MS1-KJ X,Polyaramids,Rich,21.20
+Tenerifis,EIX-HK,8-BEW8,8-BEW8 I,Precious Alloy,Poor,18.94
+Tenerifis,EIX-HK,8-BEW8,8-BEW8 I,Toxic Metals,Medium,5.92
+Tenerifis,EIX-HK,8-BEW8,8-BEW8 I,Supertensile Plastics,Medium,15.52
+Tenerifis,EIX-HK,8-BEW8,8-BEW8 I,Construction Blocks,Medium,21.49
+Tenerifis,EIX-HK,8-BEW8,8-BEW8 II,Dark Compound,Poor,16.24
+Tenerifis,EIX-HK,8-BEW8,8-BEW8 II,Base Metals,Poor,4.65
+Tenerifis,EIX-HK,8-BEW8,8-BEW8 II,Supertensile Plastics,Medium,15.69
+Tenerifis,EIX-HK,8-BEW8,8-BEW8 II,Plasmoids,Medium,1.37
+Tenerifis,EIX-HK,8-BEW8,8-BEW8 III,Lustering Alloy,Poor,15.11
+Tenerifis,EIX-HK,8-BEW8,8-BEW8 III,Precious Alloy,Medium,22.90
+Tenerifis,EIX-HK,8-BEW8,8-BEW8 III,Toxic Metals,Medium,6.92
+Tenerifis,EIX-HK,8-BEW8,8-BEW8 III,Supertensile Plastics,Medium,14.07
+Tenerifis,EIX-HK,8-BEW8,8-BEW8 IV,Opulent Compound,Medium,24.57
+Tenerifis,EIX-HK,8-BEW8,8-BEW8 IV,Reactive Gas,Medium,24.68
+Tenerifis,EIX-HK,8-BEW8,8-BEW8 IV,Noble Metals,Medium,27.72
+Tenerifis,EIX-HK,8-BEW8,8-BEW8 IV,Industrial Fibers,Rich,7.57
+Tenerifis,EIX-HK,8-BEW8,8-BEW8 IV,Liquid Ozone,Rich,35.48
+Tenerifis,EIX-HK,8-BEW8,8-BEW8 V,Sheen Compound,Medium,27.46
+Tenerifis,EIX-HK,8-BEW8,8-BEW8 V,Fiber Composite,Rich,31.02
+Tenerifis,EIX-HK,8-BEW8,8-BEW8 V,Reactive Gas,Rich,29.17
+Tenerifis,EIX-HK,8-BEW8,8-BEW8 V,Noble Gas,Medium,22.46
+Tenerifis,EIX-HK,8-BEW8,8-BEW8 V,Polyaramids,Rich,22.43
+Tenerifis,EIX-HK,8-BEW8,8-BEW8 VI,Gleaming Alloy,Perfect,35.18
+Tenerifis,EIX-HK,8-BEW8,8-BEW8 VI,Polyaramids,Perfect,24.63
+Tenerifis,EIX-HK,8-BEW8,8-BEW8 VI,Smartfab Units,Poor,12.66
+Tenerifis,EIX-HK,8-BEW8,8-BEW8 VII,Fiber Composite,Medium,23.96
+Tenerifis,EIX-HK,8-BEW8,8-BEW8 VII,Reactive Gas,Medium,25.92
+Tenerifis,EIX-HK,8-BEW8,8-BEW8 VII,Reactive Metals,Perfect,9.56
+Tenerifis,EIX-HK,8-BEW8,8-BEW8 VII,Coolant,Medium,16.90
+Tenerifis,EIX-HK,8-BEW8,8-BEW8 VII,Ionic Solutions,Medium,8.62
+Tenerifis,EIX-HK,8-BEW8,8-BEW8 VIII,Lustering Alloy,Perfect,36.17
+Tenerifis,EIX-HK,8-BEW8,8-BEW8 VIII,Fiber Composite,Rich,28.36
+Tenerifis,EIX-HK,8-BEW8,8-BEW8 VIII,Reactive Gas,Medium,25.72
+Tenerifis,EIX-HK,8-BEW8,8-BEW8 VIII,Noble Gas,Rich,32.96
+Tenerifis,EIX-HK,8-BEW8,8-BEW8 VIII,Polyaramids,Poor,12.98
+Tenerifis,EIX-HK,NZW-ZO,NZW-ZO I,Gleaming Alloy,Poor,19.18
+Tenerifis,EIX-HK,NZW-ZO,NZW-ZO I,Construction Blocks,Medium,22.77
+Tenerifis,EIX-HK,NZW-ZO,NZW-ZO I,Oxygen Isotopes,Rich,5.00
+Tenerifis,EIX-HK,NZW-ZO,NZW-ZO II,Lucent Compound,Medium,25.16
+Tenerifis,EIX-HK,NZW-ZO,NZW-ZO II,Reactive Gas,Rich,35.21
+Tenerifis,EIX-HK,NZW-ZO,NZW-ZO II,Reactive Metals,Medium,6.82
+Tenerifis,EIX-HK,NZW-ZO,NZW-ZO II,Nanites,Poor,5.21
+Tenerifis,EIX-HK,NZW-ZO,NZW-ZO III,Base Metals,Poor,3.86
+Tenerifis,EIX-HK,NZW-ZO,NZW-ZO III,Industrial Fibers,Medium,6.05
+Tenerifis,EIX-HK,NZW-ZO,NZW-ZO III,Supertensile Plastics,Poor,13.28
+Tenerifis,EIX-HK,NZW-ZO,NZW-ZO III,Construction Blocks,Medium,24.29
+Tenerifis,EIX-HK,NZW-ZO,NZW-ZO IV,Gleaming Alloy,Rich,29.88
+Tenerifis,EIX-HK,NZW-ZO,NZW-ZO IV,Crystal Compound,Rich,29.99
+Tenerifis,EIX-HK,NZW-ZO,NZW-ZO IV,Reactive Metals,Rich,7.84
+Tenerifis,EIX-HK,NZW-ZO,NZW-ZO IV,Supertensile Plastics,Poor,14.03
+Tenerifis,EIX-HK,NZW-ZO,NZW-ZO V,Fiber Composite,Rich,31.99
+Tenerifis,EIX-HK,NZW-ZO,NZW-ZO V,Reactive Gas,Rich,33.07
+Tenerifis,EIX-HK,NZW-ZO,NZW-ZO V,Noble Gas,Rich,32.06
+Tenerifis,EIX-HK,NZW-ZO,NZW-ZO V,Reactive Metals,Perfect,9.85
+Tenerifis,EIX-HK,NZW-ZO,NZW-ZO V,Ionic Solutions,Medium,10.23
+Tenerifis,EIX-HK,NZW-ZO,NZW-ZO VI,Sheen Compound,Poor,21.37
+Tenerifis,EIX-HK,NZW-ZO,NZW-ZO VI,Glossy Compound,Medium,23.14
+Tenerifis,EIX-HK,NZW-ZO,NZW-ZO VI,Reactive Gas,Medium,25.16
+Tenerifis,EIX-HK,NZW-ZO,NZW-ZO VI,Base Metals,Rich,7.89
+Tenerifis,EIX-HK,NZW-ZO,NZW-ZO VI,Ionic Solutions,Medium,10.06
+Tenerifis,EIX-HK,NZW-ZO,NZW-ZO VII,Fiber Composite,Rich,30.34
+Tenerifis,EIX-HK,NZW-ZO,NZW-ZO VII,Glossy Compound,Rich,35.42
+Tenerifis,EIX-HK,NZW-ZO,NZW-ZO VII,Reactive Gas,Rich,31.81
+Tenerifis,EIX-HK,NZW-ZO,NZW-ZO VII,Noble Gas,Poor,20.45
+Tenerifis,EIX-HK,NZW-ZO,NZW-ZO VII,Reactive Metals,Medium,6.40
+Tenerifis,EIX-HK,NZW-ZO,NZW-ZO VIII,Lustering Alloy,Medium,27.99
+Tenerifis,EIX-HK,NZW-ZO,NZW-ZO VIII,Reactive Gas,Rich,30.15
+Tenerifis,EIX-HK,NZW-ZO,NZW-ZO VIII,Base Metals,Medium,6.66
+Tenerifis,EIX-HK,NZW-ZO,NZW-ZO VIII,Reactive Metals,Medium,6.23
+Tenerifis,EIX-HK,NZW-ZO,NZW-ZO VIII,Polyaramids,Medium,15.07
+Tenerifis,EIX-HK,NZW-ZO,NZW-ZO IX,Motley Compound,Poor,17.43
+Tenerifis,EIX-HK,NZW-ZO,NZW-ZO IX,Heavy Metals,Medium,22.49
+Tenerifis,EIX-HK,NZW-ZO,NZW-ZO IX,Industrial Fibers,Rich,8.47
+Tenerifis,EIX-HK,NZW-ZO,NZW-ZO IX,Condensates,Poor,12.86
+Tenerifis,EIX-HK,NZW-ZO,NZW-ZO X,Gleaming Alloy,Perfect,38.69
+Tenerifis,EIX-HK,NZW-ZO,NZW-ZO X,Oxygen Isotopes,Rich,5.38
+Tenerifis,EIX-HK,NZW-ZO,NZW-ZO X,Plasmoids,Poor,1.16
+Tenerifis,EIX-HK,WSK-1A,WSK-1A I,Gleaming Alloy,Medium,29.83
+Tenerifis,EIX-HK,WSK-1A,WSK-1A I,Glossy Compound,Medium,26.69
+Tenerifis,EIX-HK,WSK-1A,WSK-1A I,Polyaramids,Medium,19.74
+Tenerifis,EIX-HK,WSK-1A,WSK-1A II,Precious Alloy,Medium,29.06
+Tenerifis,EIX-HK,WSK-1A,WSK-1A II,Toxic Metals,Poor,4.93
+Tenerifis,EIX-HK,WSK-1A,WSK-1A II,Industrial Fibers,Medium,6.01
+Tenerifis,EIX-HK,WSK-1A,WSK-1A II,Supertensile Plastics,Poor,11.39
+Tenerifis,EIX-HK,WSK-1A,WSK-1A III,Reactive Gas,Medium,28.18
+Tenerifis,EIX-HK,WSK-1A,WSK-1A III,Noble Gas,Perfect,38.69
+Tenerifis,EIX-HK,WSK-1A,WSK-1A III,Base Metals,Perfect,10.26
+Tenerifis,EIX-HK,WSK-1A,WSK-1A III,Reactive Metals,Rich,8.22
+Tenerifis,EIX-HK,WSK-1A,WSK-1A III,Coolant,Rich,24.93
+Tenerifis,EIX-HK,WSK-1A,WSK-1A IV,Reactive Gas,Medium,30.36
+Tenerifis,EIX-HK,WSK-1A,WSK-1A IV,Noble Gas,Rich,30.50
+Tenerifis,EIX-HK,WSK-1A,WSK-1A IV,Base Metals,Rich,8.06
+Tenerifis,EIX-HK,WSK-1A,WSK-1A IV,Polyaramids,Poor,14.02
+Tenerifis,EIX-HK,WSK-1A,WSK-1A IV,Coolant,Medium,16.26
+Tenerifis,EIX-HK,WSK-1A,WSK-1A V,Opulent Compound,Perfect,45.14
+Tenerifis,EIX-HK,WSK-1A,WSK-1A V,Reactive Gas,Medium,30.07
+Tenerifis,EIX-HK,WSK-1A,WSK-1A V,Base Metals,Perfect,10.84
+Tenerifis,EIX-HK,WSK-1A,WSK-1A V,Noble Metals,Medium,27.62
+Tenerifis,EIX-HK,WSK-1A,WSK-1A V,Liquid Ozone,Perfect,49.44
+Tenerifis,EIX-HK,WSK-1A,WSK-1A VI,Lustering Alloy,Medium,25.56
+Tenerifis,EIX-HK,WSK-1A,WSK-1A VI,Glossy Compound,Poor,21.60
+Tenerifis,EIX-HK,WSK-1A,WSK-1A VI,Reactive Gas,Rich,34.10
+Tenerifis,EIX-HK,WSK-1A,WSK-1A VI,Base Metals,Rich,9.99
+Tenerifis,EIX-HK,WSK-1A,WSK-1A VI,Coolant,Medium,15.41
+Tenerifis,EIX-HK,WSK-1A,WSK-1A VII,Fiber Composite,Poor,21.36
+Tenerifis,EIX-HK,WSK-1A,WSK-1A VII,Reactive Gas,Rich,37.25
+Tenerifis,EIX-HK,WSK-1A,WSK-1A VII,Polyaramids,Poor,13.71
+Tenerifis,EIX-HK,WSK-1A,WSK-1A VII,Coolant,Medium,18.22
+Tenerifis,EIX-HK,WSK-1A,WSK-1A VII,Ionic Solutions,Medium,11.82
+Tenerifis,EIX-HK,WSK-1A,WSK-1A VIII,Precious Alloy,Poor,16.30
+Tenerifis,EIX-HK,WSK-1A,WSK-1A VIII,Dark Compound,Medium,23.62
+Tenerifis,EIX-HK,WSK-1A,WSK-1A VIII,Toxic Metals,Poor,5.49
+Tenerifis,EIX-HK,WSK-1A,WSK-1A VIII,Supertensile Plastics,Poor,14.61
+Tenerifis,EIX-HK,5-NZNW,5-NZNW I,Lustering Alloy,Poor,16.52
+Tenerifis,EIX-HK,5-NZNW,5-NZNW I,Precious Alloy,Medium,26.31
+Tenerifis,EIX-HK,5-NZNW,5-NZNW I,Supertensile Plastics,Poor,13.45
+Tenerifis,EIX-HK,5-NZNW,5-NZNW I,Plasmoids,Medium,1.27
+Tenerifis,EIX-HK,5-NZNW,5-NZNW II,Gleaming Alloy,Medium,22.26
+Tenerifis,EIX-HK,5-NZNW,5-NZNW II,Motley Compound,Rich,30.21
+Tenerifis,EIX-HK,5-NZNW,5-NZNW II,Polyaramids,Rich,18.79
+Tenerifis,EIX-HK,5-NZNW,5-NZNW III,Base Metals,Medium,6.72
+Tenerifis,EIX-HK,5-NZNW,5-NZNW III,Toxic Metals,Poor,4.28
+Tenerifis,EIX-HK,5-NZNW,5-NZNW III,Supertensile Plastics,Poor,10.90
+Tenerifis,EIX-HK,5-NZNW,5-NZNW III,Plasmoids,Poor,0.89
+Tenerifis,EIX-HK,5-NZNW,5-NZNW IV,Lustering Alloy,Poor,15.05
+Tenerifis,EIX-HK,5-NZNW,5-NZNW IV,Precious Alloy,Poor,19.45
+Tenerifis,EIX-HK,5-NZNW,5-NZNW IV,Supertensile Plastics,Medium,15.66
+Tenerifis,EIX-HK,5-NZNW,5-NZNW IV,Plasmoids,Poor,1.22
+Tenerifis,EIX-HK,5-NZNW,5-NZNW V,Industrial Fibers,Rich,8.95
+Tenerifis,EIX-HK,5-NZNW,5-NZNW V,Condensates,Perfect,26.84
+Tenerifis,EIX-HK,5-NZNW,5-NZNW V,Smartfab Units,Poor,13.45
+Tenerifis,EIX-HK,5-NZNW,5-NZNW V,Heavy Water,Rich,311.74
+Tenerifis,EIX-HK,5-NZNW,5-NZNW V,Liquid Ozone,Poor,25.66
+Tenerifis,EIX-HK,5-NZNW,5-NZNW VI,Precious Alloy,Poor,15.62
+Tenerifis,EIX-HK,5-NZNW,5-NZNW VI,Dark Compound,Poor,18.08
+Tenerifis,EIX-HK,5-NZNW,5-NZNW VI,Supertensile Plastics,Medium,17.04
+Tenerifis,EIX-HK,5-NZNW,5-NZNW VI,Construction Blocks,Medium,20.88
+Tenerifis,EIX-HK,5-NZNW,5-NZNW VII,Reactive Gas,Rich,30.73
+Tenerifis,EIX-HK,5-NZNW,5-NZNW VII,Noble Gas,Medium,23.94
+Tenerifis,EIX-HK,5-NZNW,5-NZNW VII,Base Metals,Medium,5.49
+Tenerifis,EIX-HK,5-NZNW,5-NZNW VII,Polyaramids,Medium,18.04
+Tenerifis,EIX-HK,5-NZNW,5-NZNW VII,Coolant,Medium,15.94
+Tenerifis,EIX-HK,5-NZNW,5-NZNW VIII,Lustering Alloy,Rich,27.90
+Tenerifis,EIX-HK,5-NZNW,5-NZNW VIII,Reactive Gas,Medium,24.60
+Tenerifis,EIX-HK,5-NZNW,5-NZNW VIII,Noble Gas,Rich,32.56
+Tenerifis,EIX-HK,5-NZNW,5-NZNW VIII,Base Metals,Rich,7.35
+Tenerifis,EIX-HK,5-NZNW,5-NZNW VIII,Reactive Metals,Rich,8.12
+Tenerifis,EIX-HK,5-NZNW,5-NZNW IX,Lustering Alloy,Medium,26.99
+Tenerifis,EIX-HK,5-NZNW,5-NZNW IX,Reactive Gas,Medium,27.35
+Tenerifis,EIX-HK,5-NZNW,5-NZNW IX,Base Metals,Poor,4.99
+Tenerifis,EIX-HK,5-NZNW,5-NZNW IX,Reactive Metals,Rich,7.39
+Tenerifis,EIX-HK,5-NZNW,5-NZNW IX,Coolant,Medium,18.13
+Tenerifis,EIX-HK,5-NZNW,5-NZNW X,Sheen Compound,Rich,28.91
+Tenerifis,EIX-HK,5-NZNW,5-NZNW X,Reactive Gas,Rich,30.38
+Tenerifis,EIX-HK,5-NZNW,5-NZNW X,Noble Gas,Poor,18.17
+Tenerifis,EIX-HK,5-NZNW,5-NZNW X,Polyaramids,Rich,21.12
+Tenerifis,EIX-HK,5-NZNW,5-NZNW X,Coolant,Medium,15.09
+Tenerifis,EIX-HK,5-NZNW,5-NZNW XI,Lustering Alloy,Medium,24.13
+Tenerifis,EIX-HK,5-NZNW,5-NZNW XI,Supertensile Plastics,Medium,14.74
+Tenerifis,EIX-HK,5-NZNW,5-NZNW XI,Coolant,Rich,19.30
+Tenerifis,EIX-HK,5-NZNW,5-NZNW XI,Condensates,Rich,19.98
+Tenerifis,EIX-HK,5-NZNW,5-NZNW XII,Condensed Alloy,Perfect,36.59
+Tenerifis,EIX-HK,5-NZNW,5-NZNW XII,Noble Metals,Perfect,35.66
+Tenerifis,EIX-HK,5-NZNW,5-NZNW XII,Heavy Water,Medium,228.80
+Tenerifis,EIX-HK,5-NZNW,5-NZNW XII,Liquid Ozone,Medium,27.31
+Tenerifis,EIX-HK,5-NZNW,5-NZNW XII,Ionic Solutions,Medium,10.01
+Tenerifis,BZZ-1U,NR8S-Y,NR8S-Y I,Lustering Alloy,Poor,19.17
+Tenerifis,BZZ-1U,NR8S-Y,NR8S-Y I,Fiber Composite,Rich,26.63
+Tenerifis,BZZ-1U,NR8S-Y,NR8S-Y I,Reactive Gas,Rich,30.37
+Tenerifis,BZZ-1U,NR8S-Y,NR8S-Y I,Noble Gas,Rich,33.22
+Tenerifis,BZZ-1U,NR8S-Y,NR8S-Y I,Coolant,Rich,20.51
+Tenerifis,BZZ-1U,NR8S-Y,NR8S-Y II,Lustering Alloy,Rich,29.42
+Tenerifis,BZZ-1U,NR8S-Y,NR8S-Y II,Sheen Compound,Medium,25.73
+Tenerifis,BZZ-1U,NR8S-Y,NR8S-Y II,Fiber Composite,Rich,30.81
+Tenerifis,BZZ-1U,NR8S-Y,NR8S-Y II,Reactive Gas,Rich,31.71
+Tenerifis,BZZ-1U,NR8S-Y,NR8S-Y II,Polyaramids,Rich,22.04
+Tenerifis,BZZ-1U,NR8S-Y,NR8S-Y III,Lustering Alloy,Medium,26.00
+Tenerifis,BZZ-1U,NR8S-Y,NR8S-Y III,Fiber Composite,Medium,25.73
+Tenerifis,BZZ-1U,NR8S-Y,NR8S-Y III,Reactive Gas,Poor,18.63
+Tenerifis,BZZ-1U,NR8S-Y,NR8S-Y III,Coolant,Poor,12.21
+Tenerifis,BZZ-1U,NR8S-Y,NR8S-Y III,Ionic Solutions,Medium,8.40
+Tenerifis,BZZ-1U,NR8S-Y,NR8S-Y IV,Sheen Compound,Medium,26.10
+Tenerifis,BZZ-1U,NR8S-Y,NR8S-Y IV,Reactive Gas,Medium,26.54
+Tenerifis,BZZ-1U,NR8S-Y,NR8S-Y IV,Noble Gas,Rich,31.00
+Tenerifis,BZZ-1U,NR8S-Y,NR8S-Y IV,Coolant,Rich,19.07
+Tenerifis,BZZ-1U,NR8S-Y,NR8S-Y IV,Ionic Solutions,Perfect,13.63
+Tenerifis,BZZ-1U,NR8S-Y,NR8S-Y V,Sheen Compound,Poor,17.83
+Tenerifis,BZZ-1U,NR8S-Y,NR8S-Y V,Reactive Gas,Poor,17.85
+Tenerifis,BZZ-1U,NR8S-Y,NR8S-Y V,Noble Gas,Rich,27.66
+Tenerifis,BZZ-1U,NR8S-Y,NR8S-Y V,Reactive Metals,Medium,6.01
+Tenerifis,BZZ-1U,NR8S-Y,NR8S-Y V,Ionic Solutions,Rich,10.84
+Tenerifis,BZZ-1U,NR8S-Y,NR8S-Y VI,Precious Alloy,Poor,18.54
+Tenerifis,BZZ-1U,NR8S-Y,NR8S-Y VI,Supertensile Plastics,Poor,11.82
+Tenerifis,BZZ-1U,NR8S-Y,NR8S-Y VI,Silicate Glass,Poor,8.88
+Tenerifis,BZZ-1U,NR8S-Y,NR8S-Y VI,Plasmoids,Medium,1.25
+Tenerifis,BZZ-1U,NR8S-Y,NR8S-Y VII,Motley Compound,Rich,30.91
+Tenerifis,BZZ-1U,NR8S-Y,NR8S-Y VII,Base Metals,Poor,4.22
+Tenerifis,BZZ-1U,NR8S-Y,NR8S-Y VII,Industrial Fibers,Poor,4.80
+Tenerifis,BZZ-1U,NR8S-Y,NR8S-Y VII,Condensates,Medium,14.07
+Tenerifis,BZZ-1U,NR8S-Y,NR8S-Y VIII,Lucent Compound,Rich,33.18
+Tenerifis,BZZ-1U,NR8S-Y,NR8S-Y VIII,Dark Compound,Medium,19.87
+Tenerifis,BZZ-1U,NR8S-Y,NR8S-Y VIII,Heavy Metals,Rich,30.89
+Tenerifis,BZZ-1U,NR8S-Y,NR8S-Y VIII,Reactive Metals,Perfect,9.58
+Tenerifis,BZZ-1U,NR8S-Y,NR8S-Y VIII,Condensates,Medium,14.85
+Tenerifis,BZZ-1U,F-ZBO0,F-ZBO0 I,Toxic Metals,Poor,4.96
+Tenerifis,BZZ-1U,F-ZBO0,F-ZBO0 I,Supertensile Plastics,Poor,9.69
+Tenerifis,BZZ-1U,F-ZBO0,F-ZBO0 I,Construction Blocks,Medium,20.24
+Tenerifis,BZZ-1U,F-ZBO0,F-ZBO0 I,Plasmoids,Medium,1.46
+Tenerifis,BZZ-1U,F-ZBO0,F-ZBO0 II,Sheen Compound,Rich,28.22
+Tenerifis,BZZ-1U,F-ZBO0,F-ZBO0 II,Reactive Metals,Medium,6.74
+Tenerifis,BZZ-1U,F-ZBO0,F-ZBO0 II,Condensates,Medium,14.01
+Tenerifis,BZZ-1U,F-ZBO0,F-ZBO0 II,Nanites,Perfect,9.33
+Tenerifis,BZZ-1U,F-ZBO0,F-ZBO0 II,Plasmoids,Perfect,2.03
+Tenerifis,BZZ-1U,F-ZBO0,F-ZBO0 III,Gleaming Alloy,Medium,22.60
+Tenerifis,BZZ-1U,F-ZBO0,F-ZBO0 III,Reactive Metals,Medium,6.83
+Tenerifis,BZZ-1U,F-ZBO0,F-ZBO0 III,Toxic Metals,Rich,7.50
+Tenerifis,BZZ-1U,F-ZBO0,F-ZBO0 III,Oxygen Isotopes,Rich,4.52
+Tenerifis,BZZ-1U,F-ZBO0,F-ZBO0 IV,Precious Alloy,Medium,21.42
+Tenerifis,BZZ-1U,F-ZBO0,F-ZBO0 IV,Industrial Fibers,Poor,3.91
+Tenerifis,BZZ-1U,F-ZBO0,F-ZBO0 IV,Supertensile Plastics,Poor,8.83
+Tenerifis,BZZ-1U,F-ZBO0,F-ZBO0 IV,Silicate Glass,Poor,7.08
+Tenerifis,BZZ-1U,F-ZBO0,F-ZBO0 V,Gleaming Alloy,Medium,25.54
+Tenerifis,BZZ-1U,F-ZBO0,F-ZBO0 V,Heavy Metals,Medium,24.02
+Tenerifis,BZZ-1U,F-ZBO0,F-ZBO0 V,Noble Metals,Poor,19.53
+Tenerifis,BZZ-1U,F-ZBO0,F-ZBO0 VI,Precious Alloy,Poor,14.01
+Tenerifis,BZZ-1U,F-ZBO0,F-ZBO0 VI,Supertensile Plastics,Poor,10.89
+Tenerifis,BZZ-1U,F-ZBO0,F-ZBO0 VI,Silicate Glass,Medium,11.52
+Tenerifis,BZZ-1U,F-ZBO0,F-ZBO0 VI,Plasmoids,Medium,1.50
+Tenerifis,BZZ-1U,F-ZBO0,F-ZBO0 VII,Lustering Alloy,Poor,18.19
+Tenerifis,BZZ-1U,F-ZBO0,F-ZBO0 VII,Fiber Composite,Medium,22.64
+Tenerifis,BZZ-1U,F-ZBO0,F-ZBO0 VII,Reactive Gas,Medium,24.57
+Tenerifis,BZZ-1U,F-ZBO0,F-ZBO0 VII,Noble Gas,Rich,27.95
+Tenerifis,BZZ-1U,F-ZBO0,F-ZBO0 VII,Coolant,Rich,20.58
+Tenerifis,BZZ-1U,F-ZBO0,F-ZBO0 VIII,Reactive Gas,Perfect,34.42
+Tenerifis,BZZ-1U,F-ZBO0,F-ZBO0 VIII,Base Metals,Rich,8.46
+Tenerifis,BZZ-1U,F-ZBO0,F-ZBO0 VIII,Reactive Metals,Poor,4.90
+Tenerifis,BZZ-1U,F-ZBO0,F-ZBO0 VIII,Coolant,Rich,18.84
+Tenerifis,BZZ-1U,F-ZBO0,F-ZBO0 VIII,Ionic Solutions,Rich,12.14
+Tenerifis,BZZ-1U,F-ZBO0,F-ZBO0 IX,Reactive Gas,Medium,24.17
+Tenerifis,BZZ-1U,F-ZBO0,F-ZBO0 IX,Noble Gas,Rich,33.20
+Tenerifis,BZZ-1U,F-ZBO0,F-ZBO0 IX,Reactive Metals,Medium,6.76
+Tenerifis,BZZ-1U,F-ZBO0,F-ZBO0 IX,Coolant,Rich,19.53
+Tenerifis,BZZ-1U,F-ZBO0,F-ZBO0 IX,Ionic Solutions,Medium,9.94
+Tenerifis,BZZ-1U,F-ZBO0,F-ZBO0 X,Precious Alloy,Medium,19.99
+Tenerifis,BZZ-1U,F-ZBO0,F-ZBO0 X,Base Metals,Medium,6.48
+Tenerifis,BZZ-1U,F-ZBO0,F-ZBO0 X,Condensates,Rich,17.92
+Tenerifis,BZZ-1U,F-ZBO0,F-ZBO0 X,Liquid Ozone,Medium,26.51
+Tenerifis,BZZ-1U,3Q1T-O,3Q1T-O I,Gleaming Alloy,Perfect,35.68
+Tenerifis,BZZ-1U,3Q1T-O,3Q1T-O I,Motley Compound,Rich,29.55
+Tenerifis,BZZ-1U,3Q1T-O,3Q1T-O I,Plasmoids,Poor,1.16
+Tenerifis,BZZ-1U,3Q1T-O,3Q1T-O II,Dark Compound,Poor,16.79
+Tenerifis,BZZ-1U,3Q1T-O,3Q1T-O II,Base Metals,Poor,4.46
+Tenerifis,BZZ-1U,3Q1T-O,3Q1T-O II,Supertensile Plastics,Poor,10.81
+Tenerifis,BZZ-1U,3Q1T-O,3Q1T-O II,Plasmoids,Poor,0.88
+Tenerifis,BZZ-1U,3Q1T-O,3Q1T-O III,Reactive Metals,Perfect,9.47
+Tenerifis,BZZ-1U,3Q1T-O,3Q1T-O III,Supertensile Plastics,Medium,17.60
+Tenerifis,BZZ-1U,3Q1T-O,3Q1T-O III,Nanites,Poor,4.84
+Tenerifis,BZZ-1U,3Q1T-O,3Q1T-O III,Oxygen Isotopes,Medium,3.65
+Tenerifis,BZZ-1U,3Q1T-O,3Q1T-O IV,Lustering Alloy,Poor,17.09
+Tenerifis,BZZ-1U,3Q1T-O,3Q1T-O IV,Supertensile Plastics,Poor,11.51
+Tenerifis,BZZ-1U,3Q1T-O,3Q1T-O IV,Silicate Glass,Poor,10.19
+Tenerifis,BZZ-1U,3Q1T-O,3Q1T-O IV,Oxygen Isotopes,Poor,2.38
+Tenerifis,BZZ-1U,3Q1T-O,3Q1T-O V,Dark Compound,Medium,26.49
+Tenerifis,BZZ-1U,3Q1T-O,3Q1T-O V,Supertensile Plastics,Medium,15.21
+Tenerifis,BZZ-1U,3Q1T-O,3Q1T-O V,Construction Blocks,Medium,26.22
+Tenerifis,BZZ-1U,3Q1T-O,3Q1T-O V,Plasmoids,Poor,1.07
+Tenerifis,BZZ-1U,3Q1T-O,3Q1T-O VI,Opulent Compound,Rich,29.46
+Tenerifis,BZZ-1U,3Q1T-O,3Q1T-O VI,Crystal Compound,Medium,24.88
+Tenerifis,BZZ-1U,3Q1T-O,3Q1T-O VI,Polyaramids,Medium,17.38
+Tenerifis,BZZ-1U,3Q1T-O,3Q1T-O VI,Heavy Water,Rich,297.66
+Tenerifis,BZZ-1U,3Q1T-O,3Q1T-O VI,Liquid Ozone,Medium,29.75
+Tenerifis,BZZ-1U,3Q1T-O,3Q1T-O VII,Gleaming Alloy,Medium,27.83
+Tenerifis,BZZ-1U,3Q1T-O,3Q1T-O VII,Heavy Metals,Medium,22.11
+Tenerifis,BZZ-1U,3Q1T-O,3Q1T-O VII,Smartfab Units,Rich,22.13
+Tenerifis,BZZ-1U,3Q1T-O,3Q1T-O VIII,Lustering Alloy,Medium,21.19
+Tenerifis,BZZ-1U,3Q1T-O,3Q1T-O VIII,Sheen Compound,Rich,34.17
+Tenerifis,BZZ-1U,3Q1T-O,3Q1T-O VIII,Reactive Gas,Medium,21.76
+Tenerifis,BZZ-1U,3Q1T-O,3Q1T-O VIII,Base Metals,Rich,8.38
+Tenerifis,BZZ-1U,3Q1T-O,3Q1T-O VIII,Reactive Metals,Poor,5.16
+Tenerifis,BZZ-1U,3Q1T-O,3Q1T-O IX,Fiber Composite,Medium,22.84
+Tenerifis,BZZ-1U,3Q1T-O,3Q1T-O IX,Reactive Gas,Medium,21.49
+Tenerifis,BZZ-1U,3Q1T-O,3Q1T-O IX,Base Metals,Poor,4.94
+Tenerifis,BZZ-1U,3Q1T-O,3Q1T-O IX,Reactive Metals,Poor,5.24
+Tenerifis,BZZ-1U,3Q1T-O,3Q1T-O IX,Ionic Solutions,Medium,9.25
+Tenerifis,BZZ-1U,3Q1T-O,3Q1T-O X,Condensed Alloy,Perfect,42.02
+Tenerifis,BZZ-1U,3Q1T-O,3Q1T-O X,Reactive Gas,Perfect,40.88
+Tenerifis,BZZ-1U,3Q1T-O,3Q1T-O X,Base Metals,Rich,7.94
+Tenerifis,BZZ-1U,3Q1T-O,3Q1T-O X,Heavy Water,Medium,273.02
+Tenerifis,BZZ-1U,3Q1T-O,3Q1T-O X,Liquid Ozone,Perfect,45.51
+Tenerifis,BZZ-1U,8-4KME,8-4KME I,Gleaming Alloy,Medium,23.39
+Tenerifis,BZZ-1U,8-4KME,8-4KME I,Noble Gas,Rich,31.31
+Tenerifis,BZZ-1U,8-4KME,8-4KME I,Polyaramids,Medium,14.75
+Tenerifis,BZZ-1U,8-4KME,8-4KME II,Supertensile Plastics,Medium,15.99
+Tenerifis,BZZ-1U,8-4KME,8-4KME II,Construction Blocks,Poor,17.45
+Tenerifis,BZZ-1U,8-4KME,8-4KME II,Oxygen Isotopes,Medium,3.79
+Tenerifis,BZZ-1U,8-4KME,8-4KME II,Plasmoids,Medium,1.50
+Tenerifis,BZZ-1U,8-4KME,8-4KME III,Condensed Alloy,Perfect,37.95
+Tenerifis,BZZ-1U,8-4KME,8-4KME III,Noble Metals,Rich,29.41
+Tenerifis,BZZ-1U,8-4KME,8-4KME III,Condensates,Perfect,24.57
+Tenerifis,BZZ-1U,8-4KME,8-4KME III,Heavy Water,Poor,201.52
+Tenerifis,BZZ-1U,8-4KME,8-4KME III,Liquid Ozone,Medium,27.36
+Tenerifis,BZZ-1U,8-4KME,8-4KME IV,Dark Compound,Medium,23.65
+Tenerifis,BZZ-1U,8-4KME,8-4KME IV,Toxic Metals,Poor,4.90
+Tenerifis,BZZ-1U,8-4KME,8-4KME IV,Supertensile Plastics,Poor,9.58
+Tenerifis,BZZ-1U,8-4KME,8-4KME IV,Plasmoids,Poor,0.92
+Tenerifis,BZZ-1U,8-4KME,8-4KME V,Crystal Compound,Rich,28.31
+Tenerifis,BZZ-1U,8-4KME,8-4KME V,Noble Metals,Medium,22.09
+Tenerifis,BZZ-1U,8-4KME,8-4KME V,Silicate Glass,Perfect,19.15
+Tenerifis,BZZ-1U,8-4KME,8-4KME V,Heavy Water,Rich,315.26
+Tenerifis,BZZ-1U,8-4KME,8-4KME V,Liquid Ozone,Perfect,45.24
+Tenerifis,BZZ-1U,8-4KME,8-4KME VI,Dark Compound,Medium,22.57
+Tenerifis,BZZ-1U,8-4KME,8-4KME VI,Base Metals,Medium,7.09
+Tenerifis,BZZ-1U,8-4KME,8-4KME VI,Toxic Metals,Poor,5.37
+Tenerifis,BZZ-1U,8-4KME,8-4KME VI,Supertensile Plastics,Medium,14.58
+Tenerifis,BZZ-1U,8-4KME,8-4KME VII,Sheen Compound,Poor,20.44
+Tenerifis,BZZ-1U,8-4KME,8-4KME VII,Reactive Gas,Rich,30.23
+Tenerifis,BZZ-1U,8-4KME,8-4KME VII,Noble Gas,Perfect,35.53
+Tenerifis,BZZ-1U,8-4KME,8-4KME VII,Base Metals,Medium,6.33
+Tenerifis,BZZ-1U,8-4KME,8-4KME VII,Ionic Solutions,Rich,11.20
+Tenerifis,BZZ-1U,8-4KME,8-4KME VIII,Sheen Compound,Medium,25.50
+Tenerifis,BZZ-1U,8-4KME,8-4KME VIII,Reactive Gas,Perfect,35.18
+Tenerifis,BZZ-1U,8-4KME,8-4KME VIII,Base Metals,Medium,6.77
+Tenerifis,BZZ-1U,8-4KME,8-4KME VIII,Reactive Metals,Poor,5.05
+Tenerifis,BZZ-1U,8-4KME,8-4KME VIII,Coolant,Poor,12.28
+Tenerifis,BZZ-1U,8-4KME,8-4KME IX,Sheen Compound,Poor,19.21
+Tenerifis,BZZ-1U,8-4KME,8-4KME IX,Glossy Compound,Medium,21.63
+Tenerifis,BZZ-1U,8-4KME,8-4KME IX,Reactive Gas,Poor,19.67
+Tenerifis,BZZ-1U,8-4KME,8-4KME IX,Base Metals,Poor,4.83
+Tenerifis,BZZ-1U,8-4KME,8-4KME IX,Polyaramids,Rich,22.73
+Tenerifis,BZZ-1U,T6GY-Y,T6GY-Y I,Precious Alloy,Poor,18.07
+Tenerifis,BZZ-1U,T6GY-Y,T6GY-Y I,Base Metals,Medium,6.36
+Tenerifis,BZZ-1U,T6GY-Y,T6GY-Y I,Toxic Metals,Medium,6.68
+Tenerifis,BZZ-1U,T6GY-Y,T6GY-Y I,Supertensile Plastics,Poor,11.94
+Tenerifis,BZZ-1U,T6GY-Y,T6GY-Y II,Dark Compound,Medium,28.08
+Tenerifis,BZZ-1U,T6GY-Y,T6GY-Y II,Supertensile Plastics,Poor,13.86
+Tenerifis,BZZ-1U,T6GY-Y,T6GY-Y II,Oxygen Isotopes,Poor,2.81
+Tenerifis,BZZ-1U,T6GY-Y,T6GY-Y II,Plasmoids,Medium,1.44
+Tenerifis,BZZ-1U,T6GY-Y,T6GY-Y III,Dark Compound,Poor,20.52
+Tenerifis,BZZ-1U,T6GY-Y,T6GY-Y III,Base Metals,Poor,4.25
+Tenerifis,BZZ-1U,T6GY-Y,T6GY-Y III,Supertensile Plastics,Poor,13.34
+Tenerifis,BZZ-1U,T6GY-Y,T6GY-Y III,Plasmoids,Poor,1.29
+Tenerifis,BZZ-1U,T6GY-Y,T6GY-Y IV,Opulent Compound,Medium,25.94
+Tenerifis,BZZ-1U,T6GY-Y,T6GY-Y IV,Base Metals,Perfect,10.88
+Tenerifis,BZZ-1U,T6GY-Y,T6GY-Y IV,Noble Metals,Rich,33.84
+Tenerifis,BZZ-1U,T6GY-Y,T6GY-Y IV,Condensates,Medium,18.13
+Tenerifis,BZZ-1U,T6GY-Y,T6GY-Y IV,Liquid Ozone,Perfect,49.20
+Tenerifis,BZZ-1U,T6GY-Y,T6GY-Y V,Reactive Metals,Medium,7.09
+Tenerifis,BZZ-1U,T6GY-Y,T6GY-Y V,Toxic Metals,Medium,6.01
+Tenerifis,BZZ-1U,T6GY-Y,T6GY-Y V,Construction Blocks,Rich,32.50
+Tenerifis,BZZ-1U,T6GY-Y,T6GY-Y V,Nanites,Poor,5.49
+Tenerifis,BZZ-1U,T6GY-Y,T6GY-Y VI,Lucent Compound,Medium,29.42
+Tenerifis,BZZ-1U,T6GY-Y,T6GY-Y VI,Reactive Metals,Rich,9.43
+Tenerifis,BZZ-1U,T6GY-Y,T6GY-Y VI,Supertensile Plastics,Medium,18.21
+Tenerifis,BZZ-1U,T6GY-Y,T6GY-Y VI,Construction Blocks,Medium,28.27
+Tenerifis,BZZ-1U,T6GY-Y,T6GY-Y VII,Lustering Alloy,Medium,26.06
+Tenerifis,BZZ-1U,T6GY-Y,T6GY-Y VII,Sheen Compound,Rich,31.63
+Tenerifis,BZZ-1U,T6GY-Y,T6GY-Y VII,Fiber Composite,Medium,26.06
+Tenerifis,BZZ-1U,T6GY-Y,T6GY-Y VII,Reactive Gas,Perfect,38.83
+Tenerifis,BZZ-1U,T6GY-Y,T6GY-Y VII,Coolant,Medium,18.18
+Tenerifis,BZZ-1U,T6GY-Y,T6GY-Y VIII,Fiber Composite,Medium,28.22
+Tenerifis,BZZ-1U,T6GY-Y,T6GY-Y VIII,Opulent Compound,Perfect,39.24
+Tenerifis,BZZ-1U,T6GY-Y,T6GY-Y VIII,Base Metals,Perfect,10.31
+Tenerifis,BZZ-1U,T6GY-Y,T6GY-Y VIII,Industrial Fibers,Perfect,10.13
+Tenerifis,BZZ-1U,T6GY-Y,T6GY-Y VIII,Liquid Ozone,Medium,33.69
+Tenerifis,BZZ-1U,T6GY-Y,T6GY-Y IX,Fiber Composite,Medium,27.31
+Tenerifis,BZZ-1U,T6GY-Y,T6GY-Y IX,Reactive Gas,Medium,29.64
+Tenerifis,BZZ-1U,T6GY-Y,T6GY-Y IX,Noble Gas,Medium,25.51
+Tenerifis,BZZ-1U,T6GY-Y,T6GY-Y IX,Coolant,Perfect,25.82
+Tenerifis,BZZ-1U,T6GY-Y,T6GY-Y IX,Ionic Solutions,Rich,12.96
+Tenerifis,BZZ-1U,T6GY-Y,T6GY-Y X,Motley Compound,Medium,22.99
+Tenerifis,BZZ-1U,T6GY-Y,T6GY-Y X,Industrial Fibers,Poor,5.80
+Tenerifis,BZZ-1U,T6GY-Y,T6GY-Y X,Condensates,Medium,17.47
+Tenerifis,BZZ-1U,T6GY-Y,T6GY-Y X,Liquid Ozone,Poor,23.01
+Tenerifis,BZZ-1U,R1-IMO,R1-IMO I,Lustering Alloy,Medium,25.99
+Tenerifis,BZZ-1U,R1-IMO,R1-IMO I,Base Metals,Medium,7.68
+Tenerifis,BZZ-1U,R1-IMO,R1-IMO I,Supertensile Plastics,Medium,16.10
+Tenerifis,BZZ-1U,R1-IMO,R1-IMO I,Plasmoids,Medium,1.77
+Tenerifis,BZZ-1U,R1-IMO,R1-IMO II,Gleaming Alloy,Medium,30.10
+Tenerifis,BZZ-1U,R1-IMO,R1-IMO II,Glossy Compound,Rich,31.34
+Tenerifis,BZZ-1U,R1-IMO,R1-IMO II,Smartfab Units,Poor,13.58
+Tenerifis,BZZ-1U,R1-IMO,R1-IMO III,Lustering Alloy,Medium,24.74
+Tenerifis,BZZ-1U,R1-IMO,R1-IMO III,Supertensile Plastics,Poor,10.08
+Tenerifis,BZZ-1U,R1-IMO,R1-IMO III,Construction Blocks,Medium,25.66
+Tenerifis,BZZ-1U,R1-IMO,R1-IMO III,Oxygen Isotopes,Poor,3.14
+Tenerifis,BZZ-1U,R1-IMO,R1-IMO IV,Fiber Composite,Rich,32.02
+Tenerifis,BZZ-1U,R1-IMO,R1-IMO IV,Base Metals,Poor,5.80
+Tenerifis,BZZ-1U,R1-IMO,R1-IMO IV,Industrial Fibers,Rich,9.49
+Tenerifis,BZZ-1U,R1-IMO,R1-IMO IV,Heavy Water,Rich,351.60
+Tenerifis,BZZ-1U,R1-IMO,R1-IMO IV,Liquid Ozone,Rich,47.01
+Tenerifis,BZZ-1U,R1-IMO,R1-IMO V,Dark Compound,Medium,27.05
+Tenerifis,BZZ-1U,R1-IMO,R1-IMO V,Base Metals,Poor,4.10
+Tenerifis,BZZ-1U,R1-IMO,R1-IMO V,Industrial Fibers,Medium,6.88
+Tenerifis,BZZ-1U,R1-IMO,R1-IMO V,Supertensile Plastics,Medium,18.24
+Tenerifis,BZZ-1U,R1-IMO,R1-IMO VI,Dark Compound,Medium,23.83
+Tenerifis,BZZ-1U,R1-IMO,R1-IMO VI,Supertensile Plastics,Medium,16.37
+Tenerifis,BZZ-1U,R1-IMO,R1-IMO VI,Silicate Glass,Poor,9.40
+Tenerifis,BZZ-1U,R1-IMO,R1-IMO VI,Plasmoids,Poor,1.09
+Tenerifis,BZZ-1U,R1-IMO,R1-IMO VII,Lustering Alloy,Medium,23.26
+Tenerifis,BZZ-1U,R1-IMO,R1-IMO VII,Toxic Metals,Poor,4.41
+Tenerifis,BZZ-1U,R1-IMO,R1-IMO VII,Supertensile Plastics,Poor,12.40
+Tenerifis,BZZ-1U,R1-IMO,R1-IMO VII,Oxygen Isotopes,Medium,4.40
+Tenerifis,BZZ-1U,R1-IMO,R1-IMO VIII,Lustering Alloy,Rich,34.85
+Tenerifis,BZZ-1U,R1-IMO,R1-IMO VIII,Sheen Compound,Rich,31.30
+Tenerifis,BZZ-1U,R1-IMO,R1-IMO VIII,Reactive Gas,Poor,22.06
+Tenerifis,BZZ-1U,R1-IMO,R1-IMO VIII,Coolant,Perfect,25.74
+Tenerifis,BZZ-1U,R1-IMO,R1-IMO VIII,Ionic Solutions,Medium,10.15
+Tenerifis,6I-3VX,7KIK-H,7KIK-H I,Base Metals,Medium,6.08
+Tenerifis,6I-3VX,7KIK-H,7KIK-H I,Toxic Metals,Medium,6.25
+Tenerifis,6I-3VX,7KIK-H,7KIK-H I,Supertensile Plastics,Poor,12.56
+Tenerifis,6I-3VX,7KIK-H,7KIK-H I,Construction Blocks,Poor,16.10
+Tenerifis,6I-3VX,7KIK-H,7KIK-H II,Dark Compound,Medium,24.79
+Tenerifis,6I-3VX,7KIK-H,7KIK-H II,Industrial Fibers,Medium,6.16
+Tenerifis,6I-3VX,7KIK-H,7KIK-H II,Supertensile Plastics,Medium,17.86
+Tenerifis,6I-3VX,7KIK-H,7KIK-H II,Silicate Glass,Poor,9.36
+Tenerifis,6I-3VX,7KIK-H,7KIK-H III,Lustering Alloy,Poor,18.93
+Tenerifis,6I-3VX,7KIK-H,7KIK-H III,Precious Alloy,Poor,18.84
+Tenerifis,6I-3VX,7KIK-H,7KIK-H III,Base Metals,Medium,6.03
+Tenerifis,6I-3VX,7KIK-H,7KIK-H III,Supertensile Plastics,Medium,14.78
+Tenerifis,6I-3VX,7KIK-H,7KIK-H IV,Precious Alloy,Medium,25.00
+Tenerifis,6I-3VX,7KIK-H,7KIK-H IV,Industrial Fibers,Medium,6.36
+Tenerifis,6I-3VX,7KIK-H,7KIK-H IV,Supertensile Plastics,Medium,18.72
+Tenerifis,6I-3VX,7KIK-H,7KIK-H IV,Oxygen Isotopes,Medium,4.06
+Tenerifis,6I-3VX,7KIK-H,7KIK-H V,Precious Alloy,Medium,25.39
+Tenerifis,6I-3VX,7KIK-H,7KIK-H V,Supertensile Plastics,Poor,13.11
+Tenerifis,6I-3VX,7KIK-H,7KIK-H V,Construction Blocks,Medium,25.76
+Tenerifis,6I-3VX,7KIK-H,7KIK-H V,Oxygen Isotopes,Medium,3.90
+Tenerifis,6I-3VX,7KIK-H,7KIK-H VI,Precious Alloy,Medium,24.36
+Tenerifis,6I-3VX,7KIK-H,7KIK-H VI,Toxic Metals,Medium,7.18
+Tenerifis,6I-3VX,7KIK-H,7KIK-H VI,Supertensile Plastics,Poor,9.71
+Tenerifis,6I-3VX,7KIK-H,7KIK-H VI,Oxygen Isotopes,Medium,3.42
+Tenerifis,6I-3VX,B-6STA,B-6STA I,Precious Alloy,Medium,29.10
+Tenerifis,6I-3VX,B-6STA,B-6STA I,Dark Compound,Poor,21.18
+Tenerifis,6I-3VX,B-6STA,B-6STA I,Industrial Fibers,Poor,4.66
+Tenerifis,6I-3VX,B-6STA,B-6STA I,Supertensile Plastics,Medium,16.33
+Tenerifis,6I-3VX,B-6STA,B-6STA I,Oxygen Isotopes,Poor,2.41
+Tenerifis,6I-3VX,B-6STA,B-6STA II,Precious Alloy,Medium,28.68
+Tenerifis,6I-3VX,B-6STA,B-6STA II,Dark Compound,Poor,18.05
+Tenerifis,6I-3VX,B-6STA,B-6STA II,Base Metals,Poor,4.26
+Tenerifis,6I-3VX,B-6STA,B-6STA II,Industrial Fibers,Medium,6.85
+Tenerifis,6I-3VX,B-6STA,B-6STA II,Construction Blocks,Medium,23.88
+Tenerifis,6I-3VX,B-6STA,B-6STA III,Lucent Compound,Poor,22.15
+Tenerifis,6I-3VX,B-6STA,B-6STA III,Crystal Compound,Poor,23.48
+Tenerifis,6I-3VX,B-6STA,B-6STA III,Supertensile Plastics,Medium,19.87
+Tenerifis,6I-3VX,B-6STA,B-6STA III,Construction Blocks,Poor,20.85
+Tenerifis,6I-3VX,B-6STA,B-6STA III,Suspended Plasma,Medium,112.50
+Tenerifis,6I-3VX,B-6STA,B-6STA IV,Condensed Alloy,Rich,37.63
+Tenerifis,6I-3VX,B-6STA,B-6STA IV,Fiber Composite,Perfect,47.55
+Tenerifis,6I-3VX,B-6STA,B-6STA IV,Opulent Compound,Medium,27.43
+Tenerifis,6I-3VX,B-6STA,B-6STA IV,Base Metals,Medium,7.63
+Tenerifis,6I-3VX,B-6STA,B-6STA IV,Industrial Fibers,Rich,9.52
+Tenerifis,6I-3VX,B-6STA,B-6STA IV,Condensates,Rich,23.62
+Tenerifis,6I-3VX,B-6STA,B-6STA V,Dark Compound,Poor,17.85
+Tenerifis,6I-3VX,B-6STA,B-6STA V,Base Metals,Poor,4.78
+Tenerifis,6I-3VX,B-6STA,B-6STA V,Industrial Fibers,Poor,5.28
+Tenerifis,6I-3VX,B-6STA,B-6STA V,Supertensile Plastics,Medium,18.67
+Tenerifis,6I-3VX,B-6STA,B-6STA V,Silicate Glass,Poor,9.49
+Tenerifis,6I-3VX,B-6STA,B-6STA VI,Gleaming Alloy,Rich,33.92
+Tenerifis,6I-3VX,B-6STA,B-6STA VI,Crystal Compound,Medium,28.88
+Tenerifis,6I-3VX,B-6STA,B-6STA VI,Reactive Metals,Medium,7.26
+Tenerifis,6I-3VX,B-6STA,B-6STA VI,Construction Blocks,Poor,22.77
+Tenerifis,6I-3VX,B-6STA,B-6STA VI,Nanites,Poor,5.63
+Tenerifis,6I-3VX,B-6STA,B-6STA VII,Lustering Alloy,Rich,38.05
+Tenerifis,6I-3VX,B-6STA,B-6STA VII,Sheen Compound,Poor,21.30
+Tenerifis,6I-3VX,B-6STA,B-6STA VII,Glossy Compound,Rich,37.98
+Tenerifis,6I-3VX,B-6STA,B-6STA VII,Reactive Metals,Rich,9.18
+Tenerifis,6I-3VX,B-6STA,B-6STA VII,Coolant,Perfect,27.58
+Tenerifis,6I-3VX,B-6STA,B-6STA VII,Ionic Solutions,Poor,8.34
+Tenerifis,6I-3VX,B-6STA,B-6STA VIII,Fiber Composite,Poor,23.15
+Tenerifis,6I-3VX,B-6STA,B-6STA VIII,Glossy Compound,Medium,25.70
+Tenerifis,6I-3VX,B-6STA,B-6STA VIII,Reactive Gas,Rich,32.70
+Tenerifis,6I-3VX,B-6STA,B-6STA VIII,Base Metals,Medium,7.20
+Tenerifis,6I-3VX,B-6STA,B-6STA VIII,Polyaramids,Poor,15.10
+Tenerifis,6I-3VX,B-6STA,B-6STA VIII,Coolant,Medium,21.02
+Tenerifis,6I-3VX,B-6STA,B-6STA IX,Precious Alloy,Rich,36.58
+Tenerifis,6I-3VX,B-6STA,B-6STA IX,Motley Compound,Medium,31.55
+Tenerifis,6I-3VX,B-6STA,B-6STA IX,Coolant,Rich,23.78
+Tenerifis,6I-3VX,B-6STA,B-6STA IX,Condensates,Rich,24.50
+Tenerifis,6I-3VX,B-6STA,B-6STA IX,Liquid Ozone,Medium,33.72
+Tenerifis,6I-3VX,B-6STA,B-6STA X,Precious Alloy,Poor,19.85
+Tenerifis,6I-3VX,B-6STA,B-6STA X,Heavy Metals,Poor,21.52
+Tenerifis,6I-3VX,B-6STA,B-6STA X,Industrial Fibers,Rich,8.51
+Tenerifis,6I-3VX,B-6STA,B-6STA X,Supertensile Plastics,Rich,22.70
+Tenerifis,6I-3VX,B-6STA,B-6STA X,Suspended Plasma,Medium,87.93
+Tenerifis,6I-3VX,0P-U0Q,0P-U0Q I,Gleaming Alloy,Rich,31.20
+Tenerifis,6I-3VX,0P-U0Q,0P-U0Q I,Motley Compound,Medium,29.18
+Tenerifis,6I-3VX,0P-U0Q,0P-U0Q I,Noble Gas,Poor,19.27
+Tenerifis,6I-3VX,0P-U0Q,0P-U0Q II,Lustering Alloy,Poor,17.45
+Tenerifis,6I-3VX,0P-U0Q,0P-U0Q II,Base Metals,Medium,7.38
+Tenerifis,6I-3VX,0P-U0Q,0P-U0Q II,Toxic Metals,Medium,6.89
+Tenerifis,6I-3VX,0P-U0Q,0P-U0Q II,Supertensile Plastics,Medium,18.64
+Tenerifis,6I-3VX,0P-U0Q,0P-U0Q III,Lustering Alloy,Medium,27.60
+Tenerifis,6I-3VX,0P-U0Q,0P-U0Q III,Industrial Fibers,Poor,4.33
+Tenerifis,6I-3VX,0P-U0Q,0P-U0Q III,Supertensile Plastics,Medium,16.85
+Tenerifis,6I-3VX,0P-U0Q,0P-U0Q III,Plasmoids,Medium,1.47
+Tenerifis,6I-3VX,0P-U0Q,0P-U0Q IV,Gleaming Alloy,Poor,19.99
+Tenerifis,6I-3VX,0P-U0Q,0P-U0Q IV,Reactive Metals,Medium,6.83
+Tenerifis,6I-3VX,0P-U0Q,0P-U0Q IV,Toxic Metals,Medium,6.48
+Tenerifis,6I-3VX,0P-U0Q,0P-U0Q IV,Oxygen Isotopes,Medium,3.87
+Tenerifis,6I-3VX,0P-U0Q,0P-U0Q V,Glossy Compound,Poor,22.37
+Tenerifis,6I-3VX,0P-U0Q,0P-U0Q V,Reactive Gas,Rich,34.78
+Tenerifis,6I-3VX,0P-U0Q,0P-U0Q V,Reactive Metals,Rich,9.87
+Tenerifis,6I-3VX,0P-U0Q,0P-U0Q V,Polyaramids,Medium,17.17
+Tenerifis,6I-3VX,0P-U0Q,0P-U0Q V,Coolant,Perfect,25.44
+Tenerifis,6I-3VX,0P-U0Q,0P-U0Q VI,Fiber Composite,Medium,28.32
+Tenerifis,6I-3VX,0P-U0Q,0P-U0Q VI,Glossy Compound,Poor,20.33
+Tenerifis,6I-3VX,0P-U0Q,0P-U0Q VI,Reactive Gas,Medium,24.84
+Tenerifis,6I-3VX,0P-U0Q,0P-U0Q VI,Reactive Metals,Rich,8.96
+Tenerifis,6I-3VX,0P-U0Q,0P-U0Q VI,Coolant,Rich,22.19
+Tenerifis,6I-3VX,0P-U0Q,0P-U0Q VII,Lustering Alloy,Poor,22.13
+Tenerifis,6I-3VX,0P-U0Q,0P-U0Q VII,Motley Compound,Medium,28.87
+Tenerifis,6I-3VX,0P-U0Q,0P-U0Q VII,Condensates,Medium,17.47
+Tenerifis,6I-3VX,0P-U0Q,0P-U0Q VII,Suspended Plasma,Medium,85.45
+Tenerifis,6I-3VX,XGH-SH,XGH-SH I,Precious Alloy,Medium,33.10
+Tenerifis,6I-3VX,XGH-SH,XGH-SH I,Dark Compound,Medium,26.35
+Tenerifis,6I-3VX,XGH-SH,XGH-SH I,Base Metals,Poor,5.63
+Tenerifis,6I-3VX,XGH-SH,XGH-SH I,Supertensile Plastics,Medium,20.63
+Tenerifis,6I-3VX,XGH-SH,XGH-SH I,Oxygen Isotopes,Medium,4.39
+Tenerifis,6I-3VX,XGH-SH,XGH-SH II,Glossy Compound,Rich,34.18
+Tenerifis,6I-3VX,XGH-SH,XGH-SH II,Noble Gas,Medium,27.92
+Tenerifis,6I-3VX,XGH-SH,XGH-SH II,Noble Metals,Medium,25.89
+Tenerifis,6I-3VX,XGH-SH,XGH-SH II,Construction Blocks,Perfect,44.31
+Tenerifis,6I-3VX,XGH-SH,XGH-SH III,Crystal Compound,Medium,30.21
+Tenerifis,6I-3VX,XGH-SH,XGH-SH III,Reactive Gas,Poor,24.60
+Tenerifis,6I-3VX,XGH-SH,XGH-SH III,Construction Blocks,Poor,23.63
+Tenerifis,6I-3VX,XGH-SH,XGH-SH III,Nanites,Poor,6.69
+Tenerifis,6I-3VX,XGH-SH,XGH-SH III,Suspended Plasma,Medium,102.64
+Tenerifis,6I-3VX,XGH-SH,XGH-SH IV,Lustering Alloy,Poor,19.04
+Tenerifis,6I-3VX,XGH-SH,XGH-SH IV,Dark Compound,Poor,25.41
+Tenerifis,6I-3VX,XGH-SH,XGH-SH IV,Toxic Metals,Medium,8.27
+Tenerifis,6I-3VX,XGH-SH,XGH-SH IV,Supertensile Plastics,Poor,12.91
+Tenerifis,6I-3VX,XGH-SH,XGH-SH IV,Construction Blocks,Medium,31.02
+Tenerifis,6I-3VX,XGH-SH,XGH-SH V,Lustering Alloy,Rich,40.34
+Tenerifis,6I-3VX,XGH-SH,XGH-SH V,Sheen Compound,Medium,30.21
+Tenerifis,6I-3VX,XGH-SH,XGH-SH V,Reactive Metals,Medium,8.38
+Tenerifis,6I-3VX,XGH-SH,XGH-SH V,Polyaramids,Medium,21.78
+Tenerifis,6I-3VX,XGH-SH,XGH-SH V,Coolant,Medium,22.55
+Tenerifis,6I-3VX,XGH-SH,XGH-SH V,Ionic Solutions,Poor,8.96
+Tenerifis,6I-3VX,XGH-SH,XGH-SH VI,Lustering Alloy,Medium,28.11
+Tenerifis,6I-3VX,XGH-SH,XGH-SH VI,Sheen Compound,Poor,22.76
+Tenerifis,6I-3VX,XGH-SH,XGH-SH VI,Glossy Compound,Medium,31.81
+Tenerifis,6I-3VX,XGH-SH,XGH-SH VI,Noble Gas,Poor,22.84
+Tenerifis,6I-3VX,XGH-SH,XGH-SH VI,Base Metals,Poor,6.55
+Tenerifis,6I-3VX,XGH-SH,XGH-SH VI,Coolant,Rich,26.12
+Tenerifis,6I-3VX,XGH-SH,XGH-SH VII,Sheen Compound,Rich,34.80
+Tenerifis,6I-3VX,XGH-SH,XGH-SH VII,Fiber Composite,Perfect,44.41
+Tenerifis,6I-3VX,XGH-SH,XGH-SH VII,Reactive Gas,Rich,34.34
+Tenerifis,6I-3VX,XGH-SH,XGH-SH VII,Noble Gas,Rich,38.61
+Tenerifis,6I-3VX,XGH-SH,XGH-SH VII,Polyaramids,Medium,22.64
+Tenerifis,6I-3VX,XGH-SH,XGH-SH VII,Coolant,Medium,17.69
+Tenerifis,6I-3VX,XGH-SH,XGH-SH VIII,Lustering Alloy,Medium,29.08
+Tenerifis,6I-3VX,XGH-SH,XGH-SH VIII,Fiber Composite,Rich,40.20
+Tenerifis,6I-3VX,XGH-SH,XGH-SH VIII,Noble Gas,Medium,33.70
+Tenerifis,6I-3VX,XGH-SH,XGH-SH VIII,Base Metals,Rich,9.29
+Tenerifis,6I-3VX,XGH-SH,XGH-SH VIII,Polyaramids,Rich,24.95
+Tenerifis,6I-3VX,XGH-SH,XGH-SH VIII,Ionic Solutions,Medium,10.88
+Tenerifis,6I-3VX,XGH-SH,XGH-SH IX,Precious Alloy,Medium,29.67
+Tenerifis,6I-3VX,XGH-SH,XGH-SH IX,Industrial Fibers,Poor,5.68
+Tenerifis,6I-3VX,XGH-SH,XGH-SH IX,Supertensile Plastics,Medium,18.77
+Tenerifis,6I-3VX,XGH-SH,XGH-SH IX,Condensates,Medium,20.72
+Tenerifis,6I-3VX,XGH-SH,XGH-SH IX,Liquid Ozone,Rich,48.73
+Tenerifis,6I-3VX,G-D0N3,G-D0N3 I,Glossy Compound,Rich,38.34
+Tenerifis,6I-3VX,G-D0N3,G-D0N3 I,Noble Gas,Medium,28.24
+Tenerifis,6I-3VX,G-D0N3,G-D0N3 I,Heavy Metals,Rich,40.64
+Tenerifis,6I-3VX,G-D0N3,G-D0N3 I,Smartfab Units,Medium,18.83
+Tenerifis,6I-3VX,G-D0N3,G-D0N3 II,Dark Compound,Medium,29.84
+Tenerifis,6I-3VX,G-D0N3,G-D0N3 II,Supertensile Plastics,Poor,15.23
+Tenerifis,6I-3VX,G-D0N3,G-D0N3 II,Construction Blocks,Poor,22.33
+Tenerifis,6I-3VX,G-D0N3,G-D0N3 II,Silicate Glass,Medium,15.54
+Tenerifis,6I-3VX,G-D0N3,G-D0N3 II,Plasmoids,Poor,1.21
+Tenerifis,6I-3VX,G-D0N3,G-D0N3 III,Condensed Alloy,Poor,25.14
+Tenerifis,6I-3VX,G-D0N3,G-D0N3 III,Fiber Composite,Medium,25.76
+Tenerifis,6I-3VX,G-D0N3,G-D0N3 III,Opulent Compound,Perfect,44.79
+Tenerifis,6I-3VX,G-D0N3,G-D0N3 III,Noble Metals,Perfect,46.14
+Tenerifis,6I-3VX,G-D0N3,G-D0N3 III,Industrial Fibers,Perfect,13.07
+Tenerifis,6I-3VX,G-D0N3,G-D0N3 III,Liquid Ozone,Rich,47.62
+Tenerifis,6I-3VX,G-D0N3,G-D0N3 IV,Lustering Alloy,Rich,36.37
+Tenerifis,6I-3VX,G-D0N3,G-D0N3 IV,Sheen Compound,Medium,28.05
+Tenerifis,6I-3VX,G-D0N3,G-D0N3 IV,Reactive Gas,Medium,31.08
+Tenerifis,6I-3VX,G-D0N3,G-D0N3 IV,Noble Gas,Medium,28.35
+Tenerifis,6I-3VX,G-D0N3,G-D0N3 IV,Base Metals,Medium,8.57
+Tenerifis,6I-3VX,G-D0N3,G-D0N3 IV,Coolant,Perfect,29.75
+Tenerifis,6I-3VX,G-D0N3,G-D0N3 V,Glossy Compound,Perfect,43.60
+Tenerifis,6I-3VX,G-D0N3,G-D0N3 V,Reactive Gas,Rich,40.61
+Tenerifis,6I-3VX,G-D0N3,G-D0N3 V,Base Metals,Medium,7.38
+Tenerifis,6I-3VX,G-D0N3,G-D0N3 V,Reactive Metals,Medium,7.22
+Tenerifis,6I-3VX,G-D0N3,G-D0N3 V,Polyaramids,Rich,25.56
+Tenerifis,6I-3VX,G-D0N3,G-D0N3 V,Coolant,Poor,16.65
+Tenerifis,6I-3VX,G-D0N3,G-D0N3 VI,Condensed Alloy,Perfect,43.39
+Tenerifis,6I-3VX,G-D0N3,G-D0N3 VI,Fiber Composite,Perfect,46.28
+Tenerifis,6I-3VX,G-D0N3,G-D0N3 VI,Opulent Compound,Perfect,44.39
+Tenerifis,6I-3VX,G-D0N3,G-D0N3 VI,Noble Metals,Perfect,43.71
+Tenerifis,6I-3VX,G-D0N3,G-D0N3 VI,Heavy Water,Medium,337.23
+Tenerifis,6I-3VX,G-D0N3,G-D0N3 VI,Liquid Ozone,Perfect,60.21
+Tenerifis,6I-3VX,G-D0N3,G-D0N3 VII,Sheen Compound,Medium,28.92
+Tenerifis,6I-3VX,G-D0N3,G-D0N3 VII,Glossy Compound,Poor,23.95
+Tenerifis,6I-3VX,G-D0N3,G-D0N3 VII,Noble Gas,Medium,32.10
+Tenerifis,6I-3VX,G-D0N3,G-D0N3 VII,Base Metals,Rich,10.25
+Tenerifis,6I-3VX,G-D0N3,G-D0N3 VII,Reactive Metals,Rich,9.02
+Tenerifis,6I-3VX,G-D0N3,G-D0N3 VII,Coolant,Rich,25.51
+Tenerifis,6I-3VX,G-D0N3,G-D0N3 VIII,Lustering Alloy,Rich,40.88
+Tenerifis,6I-3VX,G-D0N3,G-D0N3 VIII,Glossy Compound,Medium,28.92
+Tenerifis,6I-3VX,G-D0N3,G-D0N3 VIII,Noble Gas,Rich,41.61
+Tenerifis,6I-3VX,G-D0N3,G-D0N3 VIII,Polyaramids,Rich,27.92
+Tenerifis,6I-3VX,G-D0N3,G-D0N3 VIII,Coolant,Medium,17.44
+Tenerifis,6I-3VX,G-D0N3,G-D0N3 VIII,Ionic Solutions,Rich,14.75
+Tenerifis,6I-3VX,G-D0N3,G-D0N3 IX,Precious Alloy,Poor,22.14
+Tenerifis,6I-3VX,G-D0N3,G-D0N3 IX,Base Metals,Rich,9.00
+Tenerifis,6I-3VX,G-D0N3,G-D0N3 IX,Heavy Metals,Rich,36.72
+Tenerifis,6I-3VX,G-D0N3,G-D0N3 IX,Supertensile Plastics,Medium,21.44
+Tenerifis,6I-3VX,G-D0N3,G-D0N3 IX,Liquid Ozone,Poor,26.49
+Tenerifis,6I-3VX,T-AKQZ,T-AKQZ I,Glossy Compound,Perfect,44.36
+Tenerifis,6I-3VX,T-AKQZ,T-AKQZ I,Polyaramids,Rich,26.93
+Tenerifis,6I-3VX,T-AKQZ,T-AKQZ I,Oxygen Isotopes,Medium,4.08
+Tenerifis,6I-3VX,T-AKQZ,T-AKQZ I,Plasmoids,Perfect,2.58
+Tenerifis,6I-3VX,T-AKQZ,T-AKQZ II,Glossy Compound,Perfect,45.58
+Tenerifis,6I-3VX,T-AKQZ,T-AKQZ II,Noble Gas,Medium,27.11
+Tenerifis,6I-3VX,T-AKQZ,T-AKQZ II,Polyaramids,Rich,28.55
+Tenerifis,6I-3VX,T-AKQZ,T-AKQZ II,Smartfab Units,Rich,25.45
+Tenerifis,6I-3VX,T-AKQZ,T-AKQZ III,Precious Alloy,Medium,25.68
+Tenerifis,6I-3VX,T-AKQZ,T-AKQZ III,Dark Compound,Poor,18.20
+Tenerifis,6I-3VX,T-AKQZ,T-AKQZ III,Base Metals,Poor,5.27
+Tenerifis,6I-3VX,T-AKQZ,T-AKQZ III,Supertensile Plastics,Poor,16.45
+Tenerifis,6I-3VX,T-AKQZ,T-AKQZ III,Construction Blocks,Medium,30.83
+Tenerifis,6I-3VX,T-AKQZ,T-AKQZ IV,Glossy Compound,Medium,30.64
+Tenerifis,6I-3VX,T-AKQZ,T-AKQZ IV,Construction Blocks,Rich,36.21
+Tenerifis,6I-3VX,T-AKQZ,T-AKQZ IV,Smartfab Units,Rich,28.57
+Tenerifis,6I-3VX,T-AKQZ,T-AKQZ IV,Plasmoids,Poor,1.31
+Tenerifis,6I-3VX,T-AKQZ,T-AKQZ V,Lustering Alloy,Poor,25.27
+Tenerifis,6I-3VX,T-AKQZ,T-AKQZ V,Precious Alloy,Medium,26.89
+Tenerifis,6I-3VX,T-AKQZ,T-AKQZ V,Dark Compound,Medium,30.75
+Tenerifis,6I-3VX,T-AKQZ,T-AKQZ V,Industrial Fibers,Poor,5.70
+Tenerifis,6I-3VX,T-AKQZ,T-AKQZ V,Supertensile Plastics,Poor,11.52
+Tenerifis,6I-3VX,T-AKQZ,T-AKQZ VI,Condensed Alloy,Perfect,44.33
+Tenerifis,6I-3VX,T-AKQZ,T-AKQZ VI,Opulent Compound,Rich,41.39
+Tenerifis,6I-3VX,T-AKQZ,T-AKQZ VI,Noble Metals,Rich,34.37
+Tenerifis,6I-3VX,T-AKQZ,T-AKQZ VI,Condensates,Medium,18.02
+Tenerifis,6I-3VX,T-AKQZ,T-AKQZ VI,Smartfab Units,Medium,17.53
+Tenerifis,6I-3VX,T-AKQZ,T-AKQZ VI,Heavy Water,Rich,379.89
+Tenerifis,6I-3VX,T-AKQZ,T-AKQZ VII,Dark Compound,Medium,30.62
+Tenerifis,6I-3VX,T-AKQZ,T-AKQZ VII,Base Metals,Poor,5.21
+Tenerifis,6I-3VX,T-AKQZ,T-AKQZ VII,Toxic Metals,Poor,6.64
+Tenerifis,6I-3VX,T-AKQZ,T-AKQZ VII,Industrial Fibers,Poor,6.03
+Tenerifis,6I-3VX,T-AKQZ,T-AKQZ VII,Plasmoids,Medium,1.56
+Tenerifis,6I-3VX,T-AKQZ,T-AKQZ VIII,Lustering Alloy,Poor,22.55
+Tenerifis,6I-3VX,T-AKQZ,T-AKQZ VIII,Dark Compound,Poor,19.28
+Tenerifis,6I-3VX,T-AKQZ,T-AKQZ VIII,Industrial Fibers,Poor,6.67
+Tenerifis,6I-3VX,T-AKQZ,T-AKQZ VIII,Silicate Glass,Poor,11.60
+Tenerifis,6I-3VX,T-AKQZ,T-AKQZ VIII,Oxygen Isotopes,Medium,4.43
+Tenerifis,6I-3VX,T-AKQZ,T-AKQZ IX,Lustering Alloy,Medium,31.45
+Tenerifis,6I-3VX,T-AKQZ,T-AKQZ IX,Dark Compound,Medium,27.65
+Tenerifis,6I-3VX,T-AKQZ,T-AKQZ IX,Industrial Fibers,Medium,8.14
+Tenerifis,6I-3VX,T-AKQZ,T-AKQZ IX,Silicate Glass,Poor,8.94
+Tenerifis,6I-3VX,T-AKQZ,T-AKQZ IX,Plasmoids,Medium,1.83
+Tenerifis,6I-3VX,T-AKQZ,T-AKQZ X,Sheen Compound,Medium,27.68
+Tenerifis,6I-3VX,T-AKQZ,T-AKQZ X,Fiber Composite,Rich,37.67
+Tenerifis,6I-3VX,T-AKQZ,T-AKQZ X,Glossy Compound,Poor,25.06
+Tenerifis,6I-3VX,T-AKQZ,T-AKQZ X,Reactive Gas,Poor,24.43
+Tenerifis,6I-3VX,T-AKQZ,T-AKQZ X,Noble Gas,Rich,42.15
+Tenerifis,6I-3VX,T-AKQZ,T-AKQZ X,Polyaramids,Poor,16.63
+Tenerifis,6I-3VX,T-AKQZ,T-AKQZ XI,Sheen Compound,Poor,23.22
+Tenerifis,6I-3VX,T-AKQZ,T-AKQZ XI,Glossy Compound,Rich,41.04
+Tenerifis,6I-3VX,T-AKQZ,T-AKQZ XI,Reactive Gas,Rich,35.07
+Tenerifis,6I-3VX,T-AKQZ,T-AKQZ XI,Base Metals,Perfect,11.35
+Tenerifis,6I-3VX,T-AKQZ,T-AKQZ XI,Polyaramids,Rich,23.83
+Tenerifis,6I-3VX,T-AKQZ,T-AKQZ XI,Ionic Solutions,Medium,12.19
+Tenerifis,6I-3VX,T-AKQZ,T-AKQZ XII,Lustering Alloy,Medium,26.05
+Tenerifis,6I-3VX,T-AKQZ,T-AKQZ XII,Fiber Composite,Medium,25.54
+Tenerifis,6I-3VX,T-AKQZ,T-AKQZ XII,Glossy Compound,Rich,40.55
+Tenerifis,6I-3VX,T-AKQZ,T-AKQZ XII,Noble Gas,Perfect,43.50
+Tenerifis,6I-3VX,T-AKQZ,T-AKQZ XII,Reactive Metals,Medium,6.73
+Tenerifis,6I-3VX,T-AKQZ,T-AKQZ XII,Polyaramids,Medium,22.25
+Tenerifis,6I-3VX,T-AKQZ,T-AKQZ XIII,Crystal Compound,Perfect,47.60
+Tenerifis,6I-3VX,T-AKQZ,T-AKQZ XIII,Polyaramids,Perfect,31.81
+Tenerifis,6I-3VX,T-AKQZ,T-AKQZ XIII,Coolant,Rich,24.30
+Tenerifis,6I-3VX,T-AKQZ,T-AKQZ XIII,Silicate Glass,Medium,13.00
+Tenerifis,6I-3VX,T-AKQZ,T-AKQZ XIII,Liquid Ozone,Rich,48.67
+Tenerifis,6I-3VX,T-AKQZ,T-AKQZ XIII,Ionic Solutions,Medium,11.16
+Tenerifis,W-3E44,46DP-O,46DP-O I,Lustering Alloy,Medium,27.98
+Tenerifis,W-3E44,46DP-O,46DP-O I,Dark Compound,Poor,17.19
+Tenerifis,W-3E44,46DP-O,46DP-O I,Toxic Metals,Poor,5.38
+Tenerifis,W-3E44,46DP-O,46DP-O I,Industrial Fibers,Poor,4.64
+Tenerifis,W-3E44,46DP-O,46DP-O I,Plasmoids,Medium,1.72
+Tenerifis,W-3E44,46DP-O,46DP-O II,Noble Gas,Medium,32.50
+Tenerifis,W-3E44,46DP-O,46DP-O II,Heavy Metals,Medium,29.22
+Tenerifis,W-3E44,46DP-O,46DP-O II,Reactive Metals,Perfect,11.21
+Tenerifis,W-3E44,46DP-O,46DP-O II,Nanites,Medium,7.91
+Tenerifis,W-3E44,46DP-O,46DP-O II,Ionic Solutions,Rich,13.42
+Tenerifis,W-3E44,46DP-O,46DP-O II,Plasmoids,Perfect,2.55
+Tenerifis,W-3E44,46DP-O,46DP-O III,Gleaming Alloy,Medium,31.49
+Tenerifis,W-3E44,46DP-O,46DP-O III,Glossy Compound,Rich,35.13
+Tenerifis,W-3E44,46DP-O,46DP-O III,Noble Gas,Rich,36.71
+Tenerifis,W-3E44,46DP-O,46DP-O III,Noble Metals,Rich,40.04
+Tenerifis,W-3E44,46DP-O,46DP-O IV,Condensed Alloy,Rich,38.69
+Tenerifis,W-3E44,46DP-O,46DP-O IV,Reactive Gas,Perfect,46.62
+Tenerifis,W-3E44,46DP-O,46DP-O IV,Noble Metals,Rich,35.83
+Tenerifis,W-3E44,46DP-O,46DP-O IV,Industrial Fibers,Rich,8.76
+Tenerifis,W-3E44,46DP-O,46DP-O IV,Condensates,Rich,27.37
+Tenerifis,W-3E44,46DP-O,46DP-O IV,Smartfab Units,Rich,26.14
+Tenerifis,W-3E44,46DP-O,46DP-O V,Condensed Alloy,Medium,30.68
+Tenerifis,W-3E44,46DP-O,46DP-O V,Base Metals,Medium,6.96
+Tenerifis,W-3E44,46DP-O,46DP-O V,Noble Metals,Rich,38.71
+Tenerifis,W-3E44,46DP-O,46DP-O V,Condensates,Rich,22.41
+Tenerifis,W-3E44,46DP-O,46DP-O V,Smartfab Units,Medium,18.77
+Tenerifis,W-3E44,46DP-O,46DP-O V,Heavy Water,Rich,331.24
+Tenerifis,W-3E44,46DP-O,46DP-O VI,Condensed Alloy,Perfect,42.28
+Tenerifis,W-3E44,46DP-O,46DP-O VI,Fiber Composite,Medium,24.83
+Tenerifis,W-3E44,46DP-O,46DP-O VI,Opulent Compound,Perfect,48.59
+Tenerifis,W-3E44,46DP-O,46DP-O VI,Base Metals,Rich,9.06
+Tenerifis,W-3E44,46DP-O,46DP-O VI,Industrial Fibers,Medium,7.85
+Tenerifis,W-3E44,46DP-O,46DP-O VI,Liquid Ozone,Medium,38.55
+Tenerifis,W-3E44,46DP-O,46DP-O VII,Lustering Alloy,Medium,31.12
+Tenerifis,W-3E44,46DP-O,46DP-O VII,Fiber Composite,Medium,31.88
+Tenerifis,W-3E44,46DP-O,46DP-O VII,Glossy Compound,Rich,40.33
+Tenerifis,W-3E44,46DP-O,46DP-O VII,Reactive Gas,Poor,24.08
+Tenerifis,W-3E44,46DP-O,46DP-O VII,Polyaramids,Medium,16.78
+Tenerifis,W-3E44,46DP-O,46DP-O VII,Coolant,Poor,15.72
+Tenerifis,W-3E44,46DP-O,46DP-O VIII,Lustering Alloy,Rich,38.74
+Tenerifis,W-3E44,46DP-O,46DP-O VIII,Fiber Composite,Perfect,42.93
+Tenerifis,W-3E44,46DP-O,46DP-O VIII,Reactive Gas,Poor,23.43
+Tenerifis,W-3E44,46DP-O,46DP-O VIII,Noble Gas,Medium,30.39
+Tenerifis,W-3E44,46DP-O,46DP-O VIII,Base Metals,Rich,9.58
+Tenerifis,W-3E44,46DP-O,46DP-O VIII,Polyaramids,Rich,25.48
+Tenerifis,W-3E44,46DP-O,46DP-O IX,Precious Alloy,Medium,32.66
+Tenerifis,W-3E44,46DP-O,46DP-O IX,Base Metals,Medium,7.80
+Tenerifis,W-3E44,46DP-O,46DP-O IX,Heavy Metals,Rich,33.96
+Tenerifis,W-3E44,46DP-O,46DP-O IX,Coolant,Medium,21.16
+Tenerifis,W-3E44,46DP-O,46DP-O IX,Liquid Ozone,Poor,24.70
+Tenerifis,W-3E44,46DP-O,46DP-O X,Toxic Metals,Perfect,11.11
+Tenerifis,W-3E44,46DP-O,46DP-O X,Polyaramids,Perfect,28.55
+Tenerifis,W-3E44,46DP-O,46DP-O X,Coolant,Medium,16.36
+Tenerifis,W-3E44,46DP-O,46DP-O X,Heavy Water,Rich,337.22
+Tenerifis,W-3E44,46DP-O,46DP-O X,Liquid Ozone,Medium,37.28
+Tenerifis,W-3E44,46DP-O,46DP-O X,Ionic Solutions,Poor,9.78
+Tenerifis,W-3E44,9-980U,9-980U I,Dark Compound,Poor,17.17
+Tenerifis,W-3E44,9-980U,9-980U I,Industrial Fibers,Poor,6.65
+Tenerifis,W-3E44,9-980U,9-980U I,Construction Blocks,Medium,29.21
+Tenerifis,W-3E44,9-980U,9-980U I,Silicate Glass,Medium,15.27
+Tenerifis,W-3E44,9-980U,9-980U I,Oxygen Isotopes,Poor,3.32
+Tenerifis,W-3E44,9-980U,9-980U II,Lustering Alloy,Poor,18.33
+Tenerifis,W-3E44,9-980U,9-980U II,Dark Compound,Medium,27.27
+Tenerifis,W-3E44,9-980U,9-980U II,Industrial Fibers,Poor,5.42
+Tenerifis,W-3E44,9-980U,9-980U II,Supertensile Plastics,Medium,18.13
+Tenerifis,W-3E44,9-980U,9-980U II,Oxygen Isotopes,Poor,2.66
+Tenerifis,W-3E44,9-980U,9-980U III,Condensed Alloy,Rich,42.80
+Tenerifis,W-3E44,9-980U,9-980U III,Fiber Composite,Medium,26.08
+Tenerifis,W-3E44,9-980U,9-980U III,Noble Metals,Perfect,44.87
+Tenerifis,W-3E44,9-980U,9-980U III,Condensates,Medium,21.51
+Tenerifis,W-3E44,9-980U,9-980U III,Heavy Water,Rich,380.16
+Tenerifis,W-3E44,9-980U,9-980U III,Liquid Ozone,Rich,43.44
+Tenerifis,W-3E44,9-980U,9-980U IV,Condensed Alloy,Perfect,49.19
+Tenerifis,W-3E44,9-980U,9-980U IV,Opulent Compound,Medium,28.03
+Tenerifis,W-3E44,9-980U,9-980U IV,Noble Metals,Perfect,43.52
+Tenerifis,W-3E44,9-980U,9-980U IV,Industrial Fibers,Medium,8.55
+Tenerifis,W-3E44,9-980U,9-980U IV,Heavy Water,Medium,268.65
+Tenerifis,W-3E44,9-980U,9-980U IV,Liquid Ozone,Perfect,58.52
+Tenerifis,W-3E44,9-980U,9-980U V,Lucent Compound,Poor,24.98
+Tenerifis,W-3E44,9-980U,9-980U V,Crystal Compound,Rich,41.82
+Tenerifis,W-3E44,9-980U,9-980U V,Reactive Gas,Perfect,44.06
+Tenerifis,W-3E44,9-980U,9-980U V,Suspended Plasma,Poor,83.11
+Tenerifis,W-3E44,9-980U,9-980U V,Oxygen Isotopes,Medium,4.95
+Tenerifis,W-3E44,9-980U,9-980U VI,Condensed Alloy,Medium,34.07
+Tenerifis,W-3E44,9-980U,9-980U VI,Noble Metals,Rich,35.24
+Tenerifis,W-3E44,9-980U,9-980U VI,Industrial Fibers,Perfect,12.86
+Tenerifis,W-3E44,9-980U,9-980U VI,Condensates,Rich,25.60
+Tenerifis,W-3E44,9-980U,9-980U VI,Smartfab Units,Medium,20.07
+Tenerifis,W-3E44,9-980U,9-980U VI,Liquid Ozone,Medium,39.28
+Tenerifis,W-3E44,9-980U,9-980U VII,Opulent Compound,Rich,42.77
+Tenerifis,W-3E44,9-980U,9-980U VII,Crystal Compound,Rich,35.51
+Tenerifis,W-3E44,9-980U,9-980U VII,Toxic Metals,Rich,9.05
+Tenerifis,W-3E44,9-980U,9-980U VII,Polyaramids,Medium,19.94
+Tenerifis,W-3E44,9-980U,9-980U VII,Silicate Glass,Medium,14.62
+Tenerifis,W-3E44,9-980U,9-980U VII,Heavy Water,Medium,275.13
+Tenerifis,W-3E44,9-980U,9-980U VIII,Lustering Alloy,Poor,22.98
+Tenerifis,W-3E44,9-980U,9-980U VIII,Sheen Compound,Rich,42.23
+Tenerifis,W-3E44,9-980U,9-980U VIII,Glossy Compound,Poor,22.76
+Tenerifis,W-3E44,9-980U,9-980U VIII,Reactive Metals,Rich,10.15
+Tenerifis,W-3E44,9-980U,9-980U VIII,Polyaramids,Medium,17.84
+Tenerifis,W-3E44,9-980U,9-980U VIII,Ionic Solutions,Rich,16.06
+Tenerifis,W-3E44,9-980U,9-980U IX,Sheen Compound,Rich,35.48
+Tenerifis,W-3E44,9-980U,9-980U IX,Fiber Composite,Poor,23.22
+Tenerifis,W-3E44,9-980U,9-980U IX,Glossy Compound,Rich,37.56
+Tenerifis,W-3E44,9-980U,9-980U IX,Noble Gas,Medium,30.38
+Tenerifis,W-3E44,9-980U,9-980U IX,Reactive Metals,Perfect,11.41
+Tenerifis,W-3E44,9-980U,9-980U IX,Coolant,Medium,21.35
+Tenerifis,W-3E44,9-980U,9-980U X,Condensed Alloy,Medium,33.48
+Tenerifis,W-3E44,9-980U,9-980U X,Reactive Gas,Rich,37.31
+Tenerifis,W-3E44,9-980U,9-980U X,Base Metals,Medium,7.63
+Tenerifis,W-3E44,9-980U,9-980U X,Industrial Fibers,Medium,8.64
+Tenerifis,W-3E44,9-980U,9-980U X,Smartfab Units,Medium,20.72
+Tenerifis,W-3E44,9-980U,9-980U X,Liquid Ozone,Perfect,63.35
+Tenerifis,W-3E44,9-980U,9-980U XI,Fiber Composite,Medium,26.84
+Tenerifis,W-3E44,9-980U,9-980U XI,Noble Gas,Medium,33.67
+Tenerifis,W-3E44,9-980U,9-980U XI,Base Metals,Rich,9.22
+Tenerifis,W-3E44,9-980U,9-980U XI,Polyaramids,Medium,17.71
+Tenerifis,W-3E44,9-980U,9-980U XI,Coolant,Medium,20.23
+Tenerifis,W-3E44,9-980U,9-980U XI,Ionic Solutions,Perfect,17.54
+Tenerifis,W-3E44,EMIG-F,EMIG-F I,Precious Alloy,Poor,18.56
+Tenerifis,W-3E44,EMIG-F,EMIG-F I,Dark Compound,Poor,19.42
+Tenerifis,W-3E44,EMIG-F,EMIG-F I,Industrial Fibers,Poor,5.09
+Tenerifis,W-3E44,EMIG-F,EMIG-F I,Silicate Glass,Poor,9.66
+Tenerifis,W-3E44,EMIG-F,EMIG-F I,Plasmoids,Poor,1.05
+Tenerifis,W-3E44,EMIG-F,EMIG-F II,Precious Alloy,Poor,18.69
+Tenerifis,W-3E44,EMIG-F,EMIG-F II,Dark Compound,Poor,18.30
+Tenerifis,W-3E44,EMIG-F,EMIG-F II,Supertensile Plastics,Poor,16.17
+Tenerifis,W-3E44,EMIG-F,EMIG-F II,Construction Blocks,Poor,19.68
+Tenerifis,W-3E44,EMIG-F,EMIG-F II,Plasmoids,Poor,1.19
+Tenerifis,W-3E44,EMIG-F,EMIG-F III,Precious Alloy,Poor,20.28
+Tenerifis,W-3E44,EMIG-F,EMIG-F III,Dark Compound,Medium,26.73
+Tenerifis,W-3E44,EMIG-F,EMIG-F III,Construction Blocks,Medium,30.00
+Tenerifis,W-3E44,EMIG-F,EMIG-F III,Silicate Glass,Poor,8.37
+Tenerifis,W-3E44,EMIG-F,EMIG-F III,Plasmoids,Poor,1.31
+Tenerifis,W-3E44,EMIG-F,EMIG-F IV,Dark Compound,Perfect,44.85
+Tenerifis,W-3E44,EMIG-F,EMIG-F IV,Reactive Metals,Medium,7.90
+Tenerifis,W-3E44,EMIG-F,EMIG-F IV,Nanites,Medium,8.63
+Tenerifis,W-3E44,EMIG-F,EMIG-F IV,Suspended Plasma,Rich,122.34
+Tenerifis,W-3E44,EMIG-F,EMIG-F IV,Ionic Solutions,Perfect,18.28
+Tenerifis,W-3E44,EMIG-F,EMIG-F IV,Plasmoids,Medium,1.82
+Tenerifis,W-3E44,EMIG-F,EMIG-F V,Sheen Compound,Perfect,41.34
+Tenerifis,W-3E44,EMIG-F,EMIG-F V,Glossy Compound,Rich,35.00
+Tenerifis,W-3E44,EMIG-F,EMIG-F V,Reactive Gas,Rich,34.87
+Tenerifis,W-3E44,EMIG-F,EMIG-F V,Base Metals,Rich,8.67
+Tenerifis,W-3E44,EMIG-F,EMIG-F V,Reactive Metals,Poor,5.72
+Tenerifis,W-3E44,EMIG-F,EMIG-F V,Ionic Solutions,Medium,13.10
+Tenerifis,W-3E44,EMIG-F,EMIG-F VI,Lustering Alloy,Rich,39.75
+Tenerifis,W-3E44,EMIG-F,EMIG-F VI,Sheen Compound,Perfect,42.69
+Tenerifis,W-3E44,EMIG-F,EMIG-F VI,Base Metals,Poor,5.86
+Tenerifis,W-3E44,EMIG-F,EMIG-F VI,Reactive Metals,Medium,7.09
+Tenerifis,W-3E44,EMIG-F,EMIG-F VI,Coolant,Medium,20.07
+Tenerifis,W-3E44,EMIG-F,EMIG-F VI,Ionic Solutions,Rich,13.90
+Tenerifis,W-3E44,EMIG-F,EMIG-F VII,Sheen Compound,Rich,38.25
+Tenerifis,W-3E44,EMIG-F,EMIG-F VII,Fiber Composite,Rich,39.26
+Tenerifis,W-3E44,EMIG-F,EMIG-F VII,Glossy Compound,Poor,21.81
+Tenerifis,W-3E44,EMIG-F,EMIG-F VII,Reactive Gas,Medium,32.66
+Tenerifis,W-3E44,EMIG-F,EMIG-F VII,Noble Gas,Rich,35.75
+Tenerifis,W-3E44,EMIG-F,EMIG-F VII,Polyaramids,Rich,26.24
+Tenerifis,W-3E44,EMIG-F,EMIG-F VIII,Lustering Alloy,Medium,28.63
+Tenerifis,W-3E44,EMIG-F,EMIG-F VIII,Sheen Compound,Poor,23.66
+Tenerifis,W-3E44,EMIG-F,EMIG-F VIII,Fiber Composite,Rich,36.43
+Tenerifis,W-3E44,EMIG-F,EMIG-F VIII,Glossy Compound,Rich,39.70
+Tenerifis,W-3E44,EMIG-F,EMIG-F VIII,Base Metals,Rich,8.83
+Tenerifis,W-3E44,EMIG-F,EMIG-F VIII,Ionic Solutions,Medium,10.67
+Tenerifis,W-3E44,M-RPN3,M-RPN3 I,Dark Compound,Poor,18.51
+Tenerifis,W-3E44,M-RPN3,M-RPN3 I,Toxic Metals,Medium,7.64
+Tenerifis,W-3E44,M-RPN3,M-RPN3 I,Supertensile Plastics,Medium,19.34
+Tenerifis,W-3E44,M-RPN3,M-RPN3 I,Silicate Glass,Poor,12.38
+Tenerifis,W-3E44,M-RPN3,M-RPN3 I,Plasmoids,Medium,1.72
+Tenerifis,W-3E44,M-RPN3,M-RPN3 II,Lustering Alloy,Medium,32.54
+Tenerifis,W-3E44,M-RPN3,M-RPN3 II,Dark Compound,Medium,26.57
+Tenerifis,W-3E44,M-RPN3,M-RPN3 II,Base Metals,Medium,8.95
+Tenerifis,W-3E44,M-RPN3,M-RPN3 II,Toxic Metals,Poor,5.70
+Tenerifis,W-3E44,M-RPN3,M-RPN3 II,Construction Blocks,Medium,33.29
+Tenerifis,W-3E44,M-RPN3,M-RPN3 III,Dark Compound,Medium,28.87
+Tenerifis,W-3E44,M-RPN3,M-RPN3 III,Industrial Fibers,Poor,6.31
+Tenerifis,W-3E44,M-RPN3,M-RPN3 III,Supertensile Plastics,Poor,16.78
+Tenerifis,W-3E44,M-RPN3,M-RPN3 III,Silicate Glass,Poor,10.33
+Tenerifis,W-3E44,M-RPN3,M-RPN3 III,Oxygen Isotopes,Medium,4.98
+Tenerifis,W-3E44,M-RPN3,M-RPN3 IV,Sheen Compound,Rich,36.68
+Tenerifis,W-3E44,M-RPN3,M-RPN3 IV,Fiber Composite,Medium,27.61
+Tenerifis,W-3E44,M-RPN3,M-RPN3 IV,Reactive Gas,Poor,26.07
+Tenerifis,W-3E44,M-RPN3,M-RPN3 IV,Noble Gas,Rich,38.75
+Tenerifis,W-3E44,M-RPN3,M-RPN3 IV,Base Metals,Perfect,12.20
+Tenerifis,W-3E44,M-RPN3,M-RPN3 IV,Reactive Metals,Poor,6.19
+Tenerifis,W-3E44,M-RPN3,M-RPN3 V,Sheen Compound,Rich,41.61
+Tenerifis,W-3E44,M-RPN3,M-RPN3 V,Fiber Composite,Medium,27.80
+Tenerifis,W-3E44,M-RPN3,M-RPN3 V,Reactive Gas,Medium,32.26
+Tenerifis,W-3E44,M-RPN3,M-RPN3 V,Base Metals,Perfect,12.13
+Tenerifis,W-3E44,M-RPN3,M-RPN3 V,Polyaramids,Rich,25.82
+Tenerifis,W-3E44,M-RPN3,M-RPN3 V,Ionic Solutions,Medium,11.05
+Tenerifis,W-3E44,M-RPN3,M-RPN3 VI,Precious Alloy,Rich,39.87
+Tenerifis,W-3E44,M-RPN3,M-RPN3 VI,Motley Compound,Rich,37.77
+Tenerifis,W-3E44,M-RPN3,M-RPN3 VI,Base Metals,Poor,5.53
+Tenerifis,W-3E44,M-RPN3,M-RPN3 VI,Supertensile Plastics,Poor,17.02
+Tenerifis,W-3E44,M-RPN3,M-RPN3 VI,Suspended Plasma,Medium,123.68
+Tenerifis,W-3E44,M-RPN3,M-RPN3 VII,Precious Alloy,Rich,40.21
+Tenerifis,W-3E44,M-RPN3,M-RPN3 VII,Motley Compound,Medium,30.04
+Tenerifis,W-3E44,M-RPN3,M-RPN3 VII,Heavy Metals,Medium,29.93
+Tenerifis,W-3E44,M-RPN3,M-RPN3 VII,Coolant,Rich,26.67
+Tenerifis,W-3E44,M-RPN3,M-RPN3 VII,Liquid Ozone,Rich,47.95
+Tenerifis,W-3E44,ZO-P5K,ZO-P5K I,Lucent Compound,Medium,27.74
+Tenerifis,W-3E44,ZO-P5K,ZO-P5K I,Reactive Metals,Perfect,10.93
+Tenerifis,W-3E44,ZO-P5K,ZO-P5K I,Nanites,Rich,9.39
+Tenerifis,W-3E44,ZO-P5K,ZO-P5K I,Suspended Plasma,Medium,99.87
+Tenerifis,W-3E44,ZO-P5K,ZO-P5K I,Ionic Solutions,Perfect,16.58
+Tenerifis,W-3E44,ZO-P5K,ZO-P5K I,Plasmoids,Rich,2.33
+Tenerifis,W-3E44,ZO-P5K,ZO-P5K II,Glossy Compound,Rich,35.46
+Tenerifis,W-3E44,ZO-P5K,ZO-P5K II,Heavy Metals,Perfect,42.85
+Tenerifis,W-3E44,ZO-P5K,ZO-P5K II,Noble Metals,Rich,33.10
+Tenerifis,W-3E44,ZO-P5K,ZO-P5K II,Construction Blocks,Perfect,42.43
+Tenerifis,W-3E44,ZO-P5K,ZO-P5K III,Dark Compound,Poor,17.13
+Tenerifis,W-3E44,ZO-P5K,ZO-P5K III,Base Metals,Poor,4.55
+Tenerifis,W-3E44,ZO-P5K,ZO-P5K III,Industrial Fibers,Medium,7.00
+Tenerifis,W-3E44,ZO-P5K,ZO-P5K III,Construction Blocks,Medium,31.33
+Tenerifis,W-3E44,ZO-P5K,ZO-P5K III,Silicate Glass,Poor,10.21
+Tenerifis,W-3E44,ZO-P5K,ZO-P5K IV,Gleaming Alloy,Rich,34.74
+Tenerifis,W-3E44,ZO-P5K,ZO-P5K IV,Glossy Compound,Medium,28.57
+Tenerifis,W-3E44,ZO-P5K,ZO-P5K IV,Noble Gas,Rich,33.75
+Tenerifis,W-3E44,ZO-P5K,ZO-P5K IV,Smartfab Units,Rich,22.74
+Tenerifis,W-3E44,ZO-P5K,ZO-P5K V,Condensed Alloy,Perfect,46.41
+Tenerifis,W-3E44,ZO-P5K,ZO-P5K V,Base Metals,Medium,8.05
+Tenerifis,W-3E44,ZO-P5K,ZO-P5K V,Noble Metals,Perfect,42.15
+Tenerifis,W-3E44,ZO-P5K,ZO-P5K V,Industrial Fibers,Perfect,12.81
+Tenerifis,W-3E44,ZO-P5K,ZO-P5K V,Condensates,Perfect,31.69
+Tenerifis,W-3E44,ZO-P5K,ZO-P5K V,Smartfab Units,Rich,25.62
+Tenerifis,W-3E44,ZO-P5K,ZO-P5K VI,Opulent Compound,Medium,30.34
+Tenerifis,W-3E44,ZO-P5K,ZO-P5K VI,Crystal Compound,Medium,30.99
+Tenerifis,W-3E44,ZO-P5K,ZO-P5K VI,Toxic Metals,Rich,9.13
+Tenerifis,W-3E44,ZO-P5K,ZO-P5K VI,Polyaramids,Perfect,30.32
+Tenerifis,W-3E44,ZO-P5K,ZO-P5K VI,Coolant,Medium,19.27
+Tenerifis,W-3E44,ZO-P5K,ZO-P5K VI,Ionic Solutions,Medium,11.04
+Tenerifis,W-3E44,ZO-P5K,ZO-P5K VII,Lustering Alloy,Rich,36.32
+Tenerifis,W-3E44,ZO-P5K,ZO-P5K VII,Fiber Composite,Rich,33.38
+Tenerifis,W-3E44,ZO-P5K,ZO-P5K VII,Glossy Compound,Rich,39.55
+Tenerifis,W-3E44,ZO-P5K,ZO-P5K VII,Noble Gas,Poor,22.65
+Tenerifis,W-3E44,ZO-P5K,ZO-P5K VII,Reactive Metals,Rich,10.30
+Tenerifis,W-3E44,ZO-P5K,ZO-P5K VII,Ionic Solutions,Medium,11.20
+Tenerifis,W-3E44,ZO-P5K,ZO-P5K VIII,Lustering Alloy,Perfect,43.16
+Tenerifis,W-3E44,ZO-P5K,ZO-P5K VIII,Fiber Composite,Medium,32.55
+Tenerifis,W-3E44,ZO-P5K,ZO-P5K VIII,Reactive Gas,Medium,24.62
+Tenerifis,W-3E44,ZO-P5K,ZO-P5K VIII,Noble Gas,Rich,33.54
+Tenerifis,W-3E44,ZO-P5K,ZO-P5K VIII,Base Metals,Medium,8.62
+Tenerifis,W-3E44,ZO-P5K,ZO-P5K VIII,Coolant,Medium,18.96
+Tenerifis,W-3E44,ZO-P5K,ZO-P5K IX,Sheen Compound,Rich,36.74
+Tenerifis,W-3E44,ZO-P5K,ZO-P5K IX,Glossy Compound,Rich,39.16
+Tenerifis,W-3E44,ZO-P5K,ZO-P5K IX,Base Metals,Rich,9.40
+Tenerifis,W-3E44,ZO-P5K,ZO-P5K IX,Reactive Metals,Medium,7.54
+Tenerifis,W-3E44,ZO-P5K,ZO-P5K IX,Polyaramids,Medium,18.60
+Tenerifis,W-3E44,ZO-P5K,ZO-P5K IX,Coolant,Perfect,28.08
+Tenerifis,W-3E44,ZO-P5K,ZO-P5K X,Lustering Alloy,Medium,27.53
+Tenerifis,W-3E44,ZO-P5K,ZO-P5K X,Sheen Compound,Poor,22.00
+Tenerifis,W-3E44,ZO-P5K,ZO-P5K X,Fiber Composite,Medium,29.09
+Tenerifis,W-3E44,ZO-P5K,ZO-P5K X,Reactive Gas,Medium,29.20
+Tenerifis,W-3E44,ZO-P5K,ZO-P5K X,Reactive Metals,Medium,8.24
+Tenerifis,W-3E44,ZO-P5K,ZO-P5K X,Polyaramids,Rich,23.94
+Tenerifis,W-3E44,ZO-P5K,ZO-P5K XI,Precious Alloy,Poor,20.05
+Tenerifis,W-3E44,ZO-P5K,ZO-P5K XI,Heavy Metals,Rich,34.94
+Tenerifis,W-3E44,ZO-P5K,ZO-P5K XI,Coolant,Poor,14.21
+Tenerifis,W-3E44,ZO-P5K,ZO-P5K XI,Condensates,Poor,12.64
+Tenerifis,W-3E44,ZO-P5K,ZO-P5K XI,Suspended Plasma,Poor,70.39
+Tenerifis,W-3E44,ZO-P5K,ZO-P5K XII,Dark Compound,Medium,29.30
+Tenerifis,W-3E44,ZO-P5K,ZO-P5K XII,Base Metals,Medium,7.37
+Tenerifis,W-3E44,ZO-P5K,ZO-P5K XII,Toxic Metals,Poor,4.52
+Tenerifis,W-3E44,ZO-P5K,ZO-P5K XII,Construction Blocks,Medium,27.43
+Tenerifis,W-3E44,ZO-P5K,ZO-P5K XII,Oxygen Isotopes,Poor,2.66
+Tenerifis,W-3E44,JV1V-O,JV1V-O I,Glossy Compound,Poor,25.77
+Tenerifis,W-3E44,JV1V-O,JV1V-O I,Polyaramids,Rich,31.68
+Tenerifis,W-3E44,JV1V-O,JV1V-O I,Construction Blocks,Rich,46.80
+Tenerifis,W-3E44,JV1V-O,JV1V-O I,Plasmoids,Rich,2.86
+Tenerifis,W-3E44,JV1V-O,JV1V-O II,Dark Compound,Poor,27.39
+Tenerifis,W-3E44,JV1V-O,JV1V-O II,Industrial Fibers,Medium,8.17
+Tenerifis,W-3E44,JV1V-O,JV1V-O II,Supertensile Plastics,Medium,21.26
+Tenerifis,W-3E44,JV1V-O,JV1V-O II,Construction Blocks,Poor,23.64
+Tenerifis,W-3E44,JV1V-O,JV1V-O II,Plasmoids,Medium,2.16
+Tenerifis,W-3E44,JV1V-O,JV1V-O III,Condensed Alloy,Rich,44.82
+Tenerifis,W-3E44,JV1V-O,JV1V-O III,Fiber Composite,Rich,45.21
+Tenerifis,W-3E44,JV1V-O,JV1V-O III,Opulent Compound,Perfect,54.90
+Tenerifis,W-3E44,JV1V-O,JV1V-O III,Industrial Fibers,Medium,8.83
+Tenerifis,W-3E44,JV1V-O,JV1V-O III,Smartfab Units,Rich,27.94
+Tenerifis,W-3E44,JV1V-O,JV1V-O III,Heavy Water,Perfect,524.70
+Tenerifis,W-3E44,JV1V-O,JV1V-O IV,Lustering Alloy,Poor,22.08
+Tenerifis,W-3E44,JV1V-O,JV1V-O IV,Dark Compound,Medium,31.77
+Tenerifis,W-3E44,JV1V-O,JV1V-O IV,Toxic Metals,Poor,6.43
+Tenerifis,W-3E44,JV1V-O,JV1V-O IV,Construction Blocks,Medium,28.62
+Tenerifis,W-3E44,JV1V-O,JV1V-O IV,Silicate Glass,Poor,13.06
+Tenerifis,W-3E44,JV1V-O,JV1V-O V,Dark Compound,Medium,29.31
+Tenerifis,W-3E44,JV1V-O,JV1V-O V,Toxic Metals,Poor,6.24
+Tenerifis,W-3E44,JV1V-O,JV1V-O V,Supertensile Plastics,Poor,16.40
+Tenerifis,W-3E44,JV1V-O,JV1V-O V,Oxygen Isotopes,Poor,3.20
+Tenerifis,W-3E44,JV1V-O,JV1V-O V,Plasmoids,Medium,2.20
+Tenerifis,W-3E44,JV1V-O,JV1V-O VI,Condensed Alloy,Rich,44.13
+Tenerifis,W-3E44,JV1V-O,JV1V-O VI,Fiber Composite,Rich,45.24
+Tenerifis,W-3E44,JV1V-O,JV1V-O VI,Reactive Gas,Rich,47.61
+Tenerifis,W-3E44,JV1V-O,JV1V-O VI,Base Metals,Medium,7.50
+Tenerifis,W-3E44,JV1V-O,JV1V-O VI,Noble Metals,Perfect,50.67
+Tenerifis,W-3E44,JV1V-O,JV1V-O VI,Smartfab Units,Poor,18.68
